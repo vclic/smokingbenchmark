@@ -1,0 +1,82 @@
+Primary Care Clinic Note
+
+Patient: MILLER, David    MRN: 69095554
+DOB: 08/02/1958    Age: 64 y.o.    Sex: Male
+Date of Service: 05/11/2023    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+David Miller is a 64 y.o. male who presents for pre-operative evaluation prior to laparoscopic cholecystectomy.
+Scheduled for laparoscopic cholecystectomy on 5/29/2023. Smoking history clarified today (previously documented as never smoker): He has been tobacco-free since 2005; prior to that he started smoking at 16 and smoked one and a half packs daily until he quit at 46. Functional capacity limited by pain, estimated 4 METs. No personal/family hx of anesthesia problems.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia	2022
+• Depression	2009
+• Essential hypertension
+• Chronic obstructive pulmonary disease
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (1999)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA PRN
+• rosuvastatin 10 mg daily
+• sertraline 100 mg daily
+• trazodone 50 mg nightly PRN
+• budesonide-formoterol 160/4.5 2 puffs BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with daughter.
+  Retired, former construction worker.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+  Exercise: walks daily.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 126/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 93 | Temp 98.8 °F (Oral) | Resp 16 | Ht 6' 2" | Wt 228 lb | SpO2 90% | BMI 29.21 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Chronic obstructive pulmonary disease
+   Stable; continue inhalers.
+3. Hypercholesterolemia
+   LDL at goal on last check; continue.
+4. Depression
+   PHQ-9 stable; continue current regimen.
+
+f/u 6 mo
+
+Electronically signed by Hannah Weiss, NP on 05/11/2023

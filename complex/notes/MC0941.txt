@@ -1,0 +1,52 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: John Davis (M), DOB 6/26/1973, Age 51
+Date of Service: 11/29/2024
+Provider: Catherine Lindqvist, DO
+
+RE: New patient visit to establish care
+
+Dear Dr. Referring Physician,
+
+Thank you for referring John Davis, a 51-year-old male, for establishment of primary care. He presents today for a comprehensive new patient evaluation.
+
+HPI: Mr. Davis reports doing 'pretty well overall' but wants to 'get a handle on things' after moving to the area. He has a history of gout, GERD, BPH, and atrial fibrillation. He states, "My joints flare up maybe once every couple months, usually my big toe." He denies current chest pain or palpitations but says, "I still notice my heart flutter every now and then, especially after coffee." He is on medications for AFib and GERD which he takes regularly per report.
+
+***COPIED FORWARD FROM VISIT DATED 7/29/2021***
+Pt seen for routine follow up. Gout stable, last flare 3 months ago, on allopurinol. GERD symptoms controlled with PPI. BPH stable, no urinary retention. AFib rate-controlled, no anticoagulation issues reported. As of the 7/29/2021 visit note, social history reviewed - patient was documented as a former smoker at that time. Alcohol use social, denies illicit drug use. Exercise: walks 2x/week. Diet: reports trying to reduce sodium. Follow up in 6 months or PRN.
+***END COPIED SECTION***
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Former smoker
+Smoking history: 31 pack-year history
+Current use: No
+Quit date: Not on file
+Alcohol use: Occasional, socially
+Illicit drug use: Denies
+Vaping/e-cigarette use: Not on file
+Smokeless tobacco: Not on file
+Occupation: Not on file
+Living situation: Lives with spouse
+
+ROS: Positive for occasional palpitations and joint pain as above. Negative for weight loss, fevers, chest pain, hemoptysis, dyspnea at rest, dysuria, hematuria.
+
+Physical Exam:
+Vitals: BP 132/84, HR 78 irregular, RR 16, Temp 98.4F, BMI 27.8
+General: Well-appearing, NAD
+Cardiovascular: Irregularly irregular rhythm, no murmurs
+Lungs: Clear to auscultation bilaterally, no wheezes/rales
+Abdomen: Soft, non-tender, no organomegaly
+Extremities: No edema; first MTP joints without active inflammation today
+GU: Deferred, prior BPH workup on file
+
+Assessment/Plan:
+1. Atrial fibrillation - rate-controlled today, continue current anticoagulation/rate control regimen, will obtain EKG and basic metabolic panel, cardiology follow-up as previously arranged.
+2. Gout - stable, continue allopurinol, uric acid level to be checked.
+3. GERD - continue PPI, reinforce dietary modifications.
+4. BPH - stable, continue current management, PSA if not recently done.
+5. Tobacco history - former smoker with a 31 pack-year history; discussed general health maintenance and lung cancer screening was discussed as a topic for conversation with him; no imaging ordered today.
+6. Health maintenance - due for age-appropriate labs, will order lipid panel, A1c, colonoscopy referral if not up to date.
+
+Will see back in 3 months or sooner if issues arise. Thank you for this interesting referral.
+
+Sincerely,
+Catherine Lindqvist, DO

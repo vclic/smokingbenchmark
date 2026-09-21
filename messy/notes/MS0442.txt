@@ -1,0 +1,41 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Cardiology - Nadia Haddad, MD
+Date of Service: 06/20/2023
+Patient: Luis Rodriguez, M, DOB 05/18/1962 (age 61)
+
+Dear Dr. colleague,
+
+I had the pleasure of seeing Mr. Rodriguez today for follow-up of his heart failure. He is a 61-year-old man with a history of osteoarthritis, atrial fibrillation, peripheral artery disease, depression, and COPD who returns for reassessment of volume status and medication titration.
+
+HPI: Mr. Rodriguez reports mild dyspnea on exertion, stable from last visit, no orthopnea or PND. He continues to take his diuretic as prescribed. He has a long history of heavy smoking and admits he still smokes today; when counseled on cessation he states he is not ready to quit at this time. We discussed the impact of continued smoking on his COPD and cardiovascular disease, and I again strongly encouraged cessation, offering pharmacologic aids, which he declined for now.
+
+Social History: Lives with spouse, retired machinist. Alcohol use denied. Tobacco: see HPI and note below regarding templated field error.
+
+[Templated field, auto-populated from EHR]: Smoking status: Never Smoker.
+>>> Note: This templated field is incorrect and should be disregarded - as documented above, the patient is an active, longtime heavy smoker, not a never-smoker. Please disregard the auto-filled entry.
+
+Copied from note dated 08/20/2020 (unchanged since that visit): "Smoking status as of that visit: current smoker." This entry is retained for historical continuity only and reflects his status at that prior encounter, not necessarily today's exact details beyond what is otherwise documented above.
+
+Problem List (ICD-10):
+- I50.9 Heart failure, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral artery disease
+- F32.9 Major depressive disorder, unspecified (outdated - patient reports improved mood, may be resolved)
+- J44.9 COPD, unspecified
+
+Assessment/Plan:
+1. Heart failure - stable, continue current diuretic regimen, recheck BMP in 2 weeks.
+2. Atrial fibrillation - rate controlled, continue anticoagulation.
+3. PAD - continue antiplatelet therapy, monitor claudication symptoms.
+4. COPD/Tobacco use - active heavy smoker, not ready to quit; cessation counseling provided today, discussed nicotine replacement and referral to quit-line; will revisit at next visit.
+5. Depression - stable, continue current management.
+
+Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Nadia Haddad, MD
+
+---ADDENDUM (same day, later)---
+After dictating the above note, I spoke further with Mr. Rodriguez by phone regarding his labs from this morning; potassium was within normal limits, no changes to plan needed. Reiterated smoking cessation resources are available whenever he feels ready. No other changes.
+-NH, MD

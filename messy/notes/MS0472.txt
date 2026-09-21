@@ -1,0 +1,100 @@
+CONSULTATION NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine - Pre-Operative Evaluation
+
+Patient: David Baker
+DOB: 06/26/1962
+Date of Service: 06/26/2023
+Age: 61 y.o. male
+Author: Nadia Haddad, MD
+
+Dear Dr. Simmons,
+
+Thank you for referring Mr. Baker, a 61-year-old man, for pre-operative medical evaluation prior to his planned right total knee replacement. I had the pleasure of seeing him today, June 26, 2023, in clinic.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Baker reports progressive right knee pain over the past several years, now limiting his ability to walk more than a block. He states, "It feels like bone on bone, doc, I can't even get up from a chair without wincing." He has tried NSAIDs and physical therapy without significant relief and is now scheduled for surgical intervention. He denies chest pain, orthopnea, PND, or lower extremity edema. He reports good exercise tolerance aside from the knee pain itself, stating "I could probably jog if my knee would let me."
+
+PAST MEDICAL HISTORY:
+1. Chronic kidney disease, stage 3
+2. Hypothyroidism
+3. Osteoarthritis, right knee (surgical indication)
+
+SOCIAL HISTORY:
+Alcohol: Patient reports he quit drinking alcohol in 2021. He denies current alcohol use.
+
+TOBACCO USE [EHR TEMPLATE - SOCIAL HISTORY MODULE]:
+Smoking status: Former smoker
+Pack-years/history: 1 pack per day x 15 years
+Current use: No
+Years since quit: 29 years
+Counseling provided: N/A (patient not currently using tobacco)
+---
+Patient states, "I haven't touched a cigarette in almost thirty years, so that's not something I worry about anymore." He denies any other tobacco or nicotine product use, including vaping or smokeless tobacco.
+
+Home Medications:
+- Levothyroxine 75 mcg daily
+- Lisinopril 10 mg daily
+- Acetaminophen PRN for knee pain
+- Vitamin D3 1000 IU daily
+
+Allergies: NKDA
+
+FAMILY HISTORY: Father with CAD, mother with hypothyroidism.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, unintentional weight loss.
+Cardiovascular: No chest pain, palpitations.
+Respiratory: No cough, dyspnea at rest.
+GI: No nausea, vomiting, abdominal pain.
+GU: No dysuria, hematuria.
+Musculoskeletal: Positive for right knee pain, as above.
+Neuro: No focal weakness, numbness.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 97% on room air, Wt 198 lbs, BMI 29.4
+General: Well-appearing male in no acute distress.
+HEENT: Normocephalic, atraumatic, EOMI.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs/rubs/gallops.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: Right knee with crepitus and decreased range of motion, mild effusion noted; no calf tenderness, no edema.
+Skin: Warm, dry, intact, no rashes.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact.
+
+LABORATORY / DIAGNOSTIC RESULTS:
+CBC (06/20/2023):
+ WBC 6.8, Hgb 14.1, Hct 41.9%, Plt 232
+
+BMP (06/20/2023):
+ Na 139, K 4.4, Cl 101, CO2 25, BUN 22, Creatinine 1.6 (baseline per prior records), eGFR 48 mL/min/1.73m2, Glucose 94
+
+TSH (06/15/2023): 3.1 mIU/L (within normal range, on current levothyroxine dose)
+
+EKG (06/26/2023): Normal sinus rhythm, rate 74, no acute ST-T wave changes, no significant Q waves.
+
+Urinalysis (06/20/2023): No proteinuria, no hematuria, specific gravity 1.015.
+
+ASSESSMENT:
+61-year-old male with chronic kidney disease stage 3 and hypothyroidism presenting for pre-operative clearance prior to right total knee replacement. Cardiopulmonary exam and EKG are reassuring. Renal function is stable at his known baseline. Thyroid function is well-controlled on current dose of levothyroxine.
+
+PLAN:
+1. Cleared for surgery from a cardiopulmonary standpoint given reassuring exam and EKG; low perioperative cardiac risk given no active cardiac symptoms.
+2. Continue levothyroxine at current dose; recheck TSH postoperatively if clinically indicated.
+3. Renal: Continue to monitor creatinine/eGFR perioperatively given CKD stage 3; recommend avoiding nephrotoxic agents (e.g., NSAIDs) postoperatively where possible; hold lisinopril morning of surgery per anesthesia protocol.
+4. Tobacco: Patient is a former smoker who quit smoking 29 years ago; no current tobacco use, no further cessation counseling needed at this time. General lung health discussion had with patient.
+5. Alcohol: Patient quit drinking alcohol in 2021; no further intervention needed at this time.
+6. Continue acetaminophen and PT as tolerated for knee pain until surgery.
+7. Will communicate clearance status to orthopedic surgery team.
+
+Thank you for allowing me to participate in the care of this patient. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Nadia Haddad, MD
+Internal Medicine
+
+---
+ADDENDUM (06/26/2023, later same day):
+Patient called back after this visit to clarify that he had a follow-up scheduled with orthopedics next week and wanted confirmation that pre-op clearance paperwork would be faxed over in time. Staff confirmed clearance letter was faxed to orthopedic surgery office this afternoon, 06/26/2023, at 3:45 PM. No new clinical information obtained during this call. Patient's tobacco and alcohol history as documented above remain unchanged and accurate as of today's visit.
+- Nadia Haddad, MD

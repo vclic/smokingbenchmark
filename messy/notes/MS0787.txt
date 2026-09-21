@@ -1,0 +1,32 @@
+RESIDENT NOTE - PRIMARY CARE
+Date of Service: 03/19/2026
+Patient: Hung Wright, M, DOB 03/19/1976 (age 50)
+Author: Rachel Goldberg, MD (resident), attending attestation pending
+
+CHIEF COMPLAINT: New patient visit to establish care.
+
+HPI: Mr. Wright is a 50-year-old man presenting to establish primary care. He reports his asthma is stable, using albuterol PRN, and his depression is managed on sertraline with periodic counseling. Patient states, "I feel pretty good these days, just want to get set up with a regular doctor." He denies chest pain, denies SOB at rest.
+
+---COPIED FORWARD FROM PRIOR VISIT 11/02/2019 (outside records, imported)---
+Pt seen for asthma exacerbation, given prednisone taper and increased ICS/LABA. Denies fevers. Lungs w/ mild expiratory wheeze. Reports adherence to meds inconsistent. Discussed inhaler technique. Return in 2 weeks or sooner if worsening. F/u CXR unremarkable. Pt advised on trigger avoidance (dust, pollen). Continue montelukast.
+---END COPIED TEXT---
+
+SOCIAL HISTORY: Denies alcohol use. Denies illicit drug use. Tobacco: patient tried a few cigarettes as a teenager but never smoked regularly since. He does smoke a cigar a few times a year on holidays. Employed full-time as an accountant. Lives with spouse.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. HEENT: denies vision changes, denies sore throat. Cardiovascular: denies chest pain, denies palpitations. Respiratory: denies current cough, denies hemoptysis. GI: denies nausea, denies abdominal pain. GU: denies dysuria. MSK: denies joint pain. Neuro: denies headache, denies numbness. Psych: endorses history of depression, denies current SI. Skin: denies rash.
+
+PHYSICAL EXAM: Vitals: BP 124/78, HR 76, RR 16, Temp 98.2F, SpO2 98% RA. General: well-appearing, NAD. HEENT: normocephalic, atraumatic. Neck: supple, no LAD. Lungs: clear to auscultation bilaterally, no wheeze today. CV: RRR, no murmurs. Abdomen: soft, non-tender. Extremities: no edema. Skin: no rash. Psych: mood euthymic, affect appropriate.
+
+PROBLEM LIST:
+- J45.909 Asthma, unspecified
+- F32.9 Major depressive disorder, single episode, unspecified (chronic, ongoing)
+- Z87.891 Personal history of nicotine dependence (outdated entry, carried over)
+
+MEDICATIONS: Albuterol HFA PRN, fluticasone/salmeterol inhaler daily, montelukast 10mg daily, sertraline 100mg daily, multivitamin daily.
+
+ASSESSMENT/PLAN:
+1. Asthma - stable, continue current regimen, f/u in 3 months.
+2. Depression - stable on sertraline, continue, reassess PHQ-9 next visit.
+3. Health maintenance - lung cancer screening discussed given social history; tobacco use reviewed, minimal cigarette exposure noted historically, occasional cigar use noted; counseled on health risks of cigar use.
+
+Attending attestation: Reviewed and discussed with resident, agree with plan. - Dr. Goldberg's supervising attending.

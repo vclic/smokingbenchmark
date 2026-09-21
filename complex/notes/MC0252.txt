@@ -1,0 +1,48 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Rajesh Anderson, M, DOB 6/8/1960 (age 63)
+Date of Service: 11/03/2023
+Visit type: Telehealth, medication refills
+Author: Quentin Hale, PA-C
+
+Dear Dr. Whitfield,
+
+Thank u for the continued opportunity to co-manage Mr. Anderson, a 63-year-old male, seen today via telehealth for routine medication refills and follow up of his multiple chronic conditions.
+
+PROBLEM LIST:
+1. I10 - Essential hypertension
+2. N18.32 - Chronic kidney disease, stage 3
+3. I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+4. G47.33 - Obstructive sleep apnea
+5. E03.9 - Hypothyroidism, unspecified
+6. (outdated) M54.5 - Low back pain, resolved per pt, carried forward from prior list, should probably be removed
+7. (outdated) J06.9 - URI, acute, from 2021, no longer active
+
+[COPY FORWARD FROM VISIT DATED 04/12/2022 - retained in chart, not all current]
+Pt is a pleasant gentleman who presents for f/u of HTN, CKD, HFrEF, OSA and hypothyroidism, he states he is compliant with his meds he denies chest pain SOB has improved somewhat on current regimine, he reports he uses his CPAP most nights although [inaudible] some nights he forgets, wife states he snores less now, he denies any new complaints today we will continue current meds and follow up in 6 months labs were stable at that time see below, pt was counseled on low sodium diet and fluid restriction given his heart failure diagnosis and he verbalized understanding, denies alcohol use denies illicit drug use.
+[END COPY FORWARD]
+
+HPI (current visit, 11/03/2023):
+Mr. Anderson call in today for his usual refills, he say he's been feeling about the same, some mild ankle swelling toward end of day but no orthopnea or PND, he is taking his losartan and carvedilol and furosemide as prescribed, he did miss a coupla doses last week when he was traveling but otherwise adherent, no chest pain no palpitations, sleep apnea sx controlled on CPAP per pt and spouse [inaudible - background noise on call], denies fevers chills cough.
+
+Social History: Regarding tobacco, patient reports he tried a few cigarettes as a teenager but never smoked regularly, and he does not currently use any tobacco or nicotine products. He denies vaping. Alcohol - social, rare. No illicit drug use reported.
+
+LABS/RESULTS:
+- 10/28/2023: BMP - Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Creatinine 1.7 (baseline), eGFR 42
+- 10/28/2023: TSH 3.1 (WNL on current levothyroxine dose)
+- 09/15/2023: BNP 410 (improved from prior 610)
+- 09/15/2023: Lipid panel - TC 165, LDL 88, HDL 42, TG 175
+
+ASSESSMENT/PLAN:
+1. HTN - stable on current regimen, continue losartan, recheck BP log.
+2. CKD stage 3 - stable, creatinine at baseline, avoid nephrotoxic agents, continue to monitor eGFR q3-6mo.
+3. HFrEF - clinically stable, mild peripheral edema noted per pt report, continue carvedilol, furosemide, will increase furosemide slightly and recheck in 2 weeks via telehealth, reinforce low sodium diet.
+4. OSA - continue CPAP, encourage nightly use, will order repeat sleep study if symptoms worsen.
+5. Hypothyroidism - TSH within normal limits, continue current levothyroxine dose.
+6. Health maintenance - discussed age-appropriate screenings including colon cancer screening and general risk factor discussion; lung-related screening topics were discussed in general terms as part of preventive care conversation.
+
+Refills sent electronically to pharmacy of record for all above medications. Pt verbalized understanding of plan, all questions answered, will follow up via telehealth or in office in 2 weeks for furosemide dose recheck and sooner if worsening symptoms.
+
+Thank you again for allowing us to participate in this patient's care, please do not hesitate to contact our office with any questions or concerns.
+
+Sincerely,
+Quentin Hale, PA-C

@@ -1,0 +1,74 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care - Consultative Encounter
+Date of Service: 05/11/2024
+Author: Nadia Haddad, MD
+
+RE: Ronald Johnson, M, DOB 04/13/1960 (age 64)
+
+Dear Colleague,
+
+Thank you for allowing me to participate in the care of Mr. Johnson, a 64-year-old male who presented today, 05/11/2024, to urgent care with a chief complaint of cough.
+
+HPI: Pt reports cough x ~10 days, non-productive early on, now w/ occasional white sputum. No hemoptysis. Denies fever at home but felt subjectively warm 2 days ago. Some mild chest tightness w/ coughing fits, no true dyspnea at rest. Denies recent travel, sick contacts unclear. Has hx of OSA on CPAP (states compliance variable), HTN, obesity, BPH, CKD stage 3 - stable per pt. No hemoptysis, no unintentional weight loss reported.
+
+ROS: Constitutional - denies fever, chills, night sweats. HEENT - denies sore throat, denies nasal congestion currently. CV - denies chest pain, denies palpitations, denies orthopnea. Resp - + cough as above, denies wheeze. GI - denies nausea, denies vomiting, denies abd pain. GU - nocturia x2-3/night (chronic, BPH-related). MSK - denies myalgias. Neuro - denies headache, denies focal weakness. Skin - denies rash. All other systems reviewed and negative except as noted above.
+
+PMH/Problem List (per EHR, some entries not recently updated):
+- N40.1 Benign prostatic hyperplasia with LUTS
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension
+- G47.33 Obstructive sleep apnea
+- N18.3 Chronic kidney disease, stage 3
+- J45.909 Asthma, unspecified (listed 2019, pt denies current asthma dx, unclear if still active)
+- M54.5 Low back pain (chronic, old entry)
+
+SOCIAL HISTORY / TOBACCO USE (EHR-templated block):
+Smoking status: Current every day smoker
+Packs/day: 0.50
+Years: 48.00
+Type: Cigarettes
+Comment: Pt states he continues to smoke, acknowledges he is aware of health risks but is not ready to quit at this time. Discussed cessation counseling, offered nicotine replacement therapy and referral to quitline; pt declined for now, open to revisiting at future visit. Discussed general risks of ongoing smoking including lung disease. Screening options for lung disease were discussed in general terms as part of counseling.
+Alcohol: occasional, denies drug use.
+
+MEDICATIONS (per med rec, long list, some possibly outdated):
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Tamsulosin 0.4mg qhs
+4. Finasteride 5mg daily
+5. Metformin 500mg BID (unclear indication, chart notes hx pre-diabetes)
+6. Atorvastatin 40mg qhs
+7. Aspirin 81mg daily
+8. Albuterol HFA PRN (per problem list asthma entry, pt unsure last used)
+9. Vitamin D3 2000 IU daily
+10. Omeprazole 20mg daily prn
+
+PHYSICAL EXAM:
+Vitals: T 37.1C, HR 88, BP 148/86, RR 18, SpO2 95% RA, Wt 108kg
+General: obese male, NAD, conversing in full sentences.
+HEENT: PERRL, oropharynx clear, no erythema.
+Neck: no LAD, no JVD.
+CV: RRR, no m/r/g.
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi, symmetric chest expansion.
+Abd: obese, soft, NT/ND, +BS.
+Ext: no edema.
+Skin: no rash.
+Neuro: grossly intact.
+
+LABS/RESULTS (reviewed today):
+- CBC (05/11/2024): WBC 8.9, Hgb 14.2, Plt 245
+- BMP (05/11/2024): Na 138, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.5 (baseline per CKD3), Glucose 104
+- CXR (05/11/2024): no acute infiltrate, no effusion; mild hyperinflation, chronic-appearing.
+- Prior A1c (02/2024): 5.9%
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral - supportive care, guaifenesin PRN, follow up if worsening fever or dyspnea.
+2. Tobacco use, current - counseled today re: cessation, pt not ready to quit, will readdress at future visits, resources offered.
+3. HTN - stable, continue current regimen.
+4. OSA - encourage CPAP compliance.
+5. CKD stage 3 - stable, recheck BMP at next visit.
+6. BPH - stable on tamsulosin/finasteride.
+
+Will fax note to PCP for continuity of care.
+
+Sincerely,
+Nadia Haddad, MD

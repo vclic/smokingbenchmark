@@ -1,0 +1,66 @@
+TELEHEALTH VISIT NOTE
+Patient: Walter Nguyen (M), DOB 1/19/1945, Age: 78
+Date of Service: 01/19/2023
+Provider: Priya Raman, MD - Family Medicine
+
+Visit type: Telehealth, medication refill visit.
+
+HPI:
+78 yo male with PAD, OA, CAD, HFrEF, depression, BPH calling in for routine refills. Reports doing 'about the same'. No new chest pain, no worsening claudication sx. Denies orthopnea/PND. Mood stable on current regimen, sleep ok. No new falls. Wants refills of his usual meds, ran out of a couple last week and has been skipping doses - discussed importance of adherence esp for CAD/HFrEF meds.
+No acute complaints. Denies fevers, cough, dyspnea at rest.
+
+----- COPIED FORWARD FROM NOTE DATED 11/19/2019 -----
+SOCIAL HISTORY (as documented 11/19/2019): Patient is a current smoker. Discussed cessation resources at that visit, pt not ready to quit at that time. [text carried forward from prior note, may not reflect current status]
+----- END COPIED SECTION -----
+
+SOCIAL HISTORY (current, updated 01/19/2023):
+Tobacco: Former smoker. Patient started smoking a quarter pack (about 5 cigarettes) per day at age 18 and continued at that rate until he quit smoking in 2021. He quit smoking 1 year ago. No current tobacco use. No vaping. Denies illicit drug use. Rare EtOH.
+
+ROS (templated, reviewed and negative except as noted above):
+Constitutional: no fever, no chills, no weight loss.
+Eyes: no visual changes.
+ENT: no sore throat, no hearing loss.
+Cardiovascular: no chest pain today, no palpitations (see HPI).
+Respiratory: no cough, no wheeze, no hemoptysis.
+GI: no nausea, vomiting, diarrhea, constipation.
+GU: BPH sx stable, no dysuria, no hematuria.
+Musculoskeletal: chronic OA-related joint pain, stable, no new swelling.
+Neuro: no focal weakness, no numbness, no tingling.
+Psych: mood stable, no SI/HI.
+Skin: no rashes, no ulcers.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, telehealth - visual/verbal assessment only):
+General: alert, comfortable, no acute distress, appears his age.
+Cardiovascular: unable to auscultate via telehealth; pt reports no leg swelling today.
+Respiratory: no visible respiratory distress, speaking in full sentences, no accessory muscle use.
+Extremities: pt reports no new ulcers on feet, no discoloration noted on self-exam per pt report.
+Skin: no rashes visualized on camera.
+Affect: appropriate, mood congruent.
+
+Current Medications (reviewed, refills requested):
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg daily
+3. Clopidogrel 75 mg daily
+4. Carvedilol 12.5 mg BID
+5. Furosemide 20 mg daily
+6. Sacubitril-valsartan 24/26 mg BID
+7. Spironolactone 12.5 mg daily
+8. Tamsulosin 0.4 mg daily
+9. Sertraline 50 mg daily
+10. Acetaminophen 500 mg PRN joint pain
+
+Labs: Last BMP/BNP reviewed, stable, no acute changes noted. No new labs ordered today.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable, no new claudication symptoms. Continue current antiplatelet regimen. Tobacco cessation history reviewed - patient is a former smoker as above, which is favorable for PAD risk reduction. Continue to encourage avoidance of any tobacco relapse.
+2. Coronary artery disease - stable, continue statin, aspirin, clopidogrel. Discussed general risk reduction including maintaining tobacco-free status achieved in 2021.
+3. Heart failure with reduced EF - clinically stable, no signs of decompensation on today's limited telehealth exam. Continue GDMT as above, refill furosemide.
+4. Osteoarthritis - stable, continue acetaminophen PRN, discussed activity modification.
+5. Depression - stable on sertraline, mood congruent today, continue current dose.
+6. BPH - stable on tamsulosin, no urinary retention sx.
+7. Health maintenance - reviewed smoking history; given age 78 and former smoking history, briefly discussed lung cancer screening as a topic to revisit; no imaging ordered today, further discussion deferred to in-person visit.
+
+Refills sent to pharmacy as above. Patient instructed to call if new chest pain, worsening edema, or increased SOB. Follow up in 3 months or sooner PRN. Telehealth visit concluded, patient verbalized understanding of plan.
+
+--- end of note ---

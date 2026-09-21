@@ -1,0 +1,84 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 01/31/2024
+Patient: John Perez
+DOB: 01/31/1951 (Age: 73)
+Provider: Priya Raman, MD (Cardiology)
+
+VISIT TYPE: Telehealth - Video visit, Cardiology follow-up for chest pain evaluation
+
+CHIEF COMPLAINT: Chest pain evaluation
+
+HPI:
+Mr. Perez is a 73-year-old male with history of atrial fibrillation, CKD stage 3, and GERD who presents via telehealth today, on his actual birthday (01/31), for evaluation of intermittent chest discomfort over the past 2 weeks. He describes the pain as "a tightness in the middle of my chest, kind of like pressure" that occurs with exertion, such as climbing stairs, and resolves with rest within a few minutes. He denies radiation to the arm or jaw currently but states "a few days ago it did go up into my neck a little." No associated diaphoresis reported. He denies palpitations at rest, though he is aware of his known AFib diagnosis and reports taking his anticoagulant regularly. He denies orthopnea, PND, or lower extremity edema. He reports occasional reflux symptoms, stating "my heartburn has been about the same, I take my omeprazole."
+He denies any tobacco use; patient reports he is a lifelong non-smoker and has never used tobacco products of any kind, including cigarettes, cigars, vaping, or chewing tobacco. He denies alcohol use beyond an occasional glass of wine with dinner. No illicit drug use.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per EHR, some entries may be outdated):
+1. I48.91 - Atrial fibrillation, unspecified
+2. N18.3 - Chronic kidney disease, stage 3
+3. K21.9 - GERD
+4. E78.5 - Hyperlipidemia (dz, dietary controlled per old note 2019)
+5. M54.5 - Low back pain (chronic, stable, last addressed 2021)
+6. Z95.828 - Presence of other cardiac implant/graft (unclear if still applicable, will verify)
+
+MEDICATIONS (current, per pharmacy reconciliation):
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate ER 50 mg PO daily
+3. Omeprazole 20 mg PO daily
+4. Atorvastatin 40 mg PO qHS
+5. Lisinopril 10 mg PO daily
+6. Sodium bicarbonate 650 mg PO BID (for CKD-related acidosis)
+7. Acetaminophen 500 mg PRN pain
+8. Multivitamin daily
+9. Calcium carbonate PRN
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, fatigue.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Positive for exertional chest tightness as above. Denies syncope, presyncope, lower extremity swelling.
+Respiratory: Denies cough, shortness of breath at rest, wheezing, hemoptysis.
+Gastrointestinal: Positive for intermittent reflux, otherwise denies nausea, vomiting, diarrhea, constipation, melena, hematochezia.
+Genitourinary: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Reports chronic low back pain, stable.
+Skin: Denies rash, lesions.
+Neurological: Denies headache, dizziness, numbness, tingling.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM (via telehealth, limited):
+General: Alert, well-appearing male, no acute distress, seated comfortably.
+Vital Signs (self-reported via home BP cuff): BP 138/82, HR 78 (irregularly irregular per patient palpation), Weight 182 lbs.
+Cardiovascular: Unable to auscultate via video; patient reports no visible jugular venous distension, no peripheral edema noted on visual inspection of lower extremities.
+Respiratory: No visible respiratory distress, no use of accessory muscles.
+Skin: No cyanosis or diaphoresis noted on camera.
+Extremities: No visible edema.
+
+LABS/RESULTS (reviewed today):
+- BMP (01/15/2024): Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Creatinine 1.6 (baseline for pt), eGFR 42
+- CBC (01/15/2024): WBC 6.8, Hgb 13.9, Hct 41.2, Plt 210
+- Troponin (01/29/2024, drawn at outside lab per patient report): 0.02 ng/mL (within normal limits per reference range)
+- Lipid panel (11/2023): Total chol 168, LDL 92, HDL 45, TG 155
+- INR/coags: N/A, patient on DOAC
+- EKG (01/15/2024, prior visit): Atrial fibrillation, controlled ventricular rate, no acute ST changes
+
+ASSESSMENT:
+1. Chest pain, exertional, in setting of known atrial fibrillation - concern for possible angina, will pursue further cardiac workup.
+2. Atrial fibrillation - rate appears controlled per patient report, continue anticoagulation.
+3. CKD stage 3 - stable per recent labs.
+4. GERD - stable, contributing possibly to some symptoms.
+
+PLAN:
+- Recommend in-person visit for 12-lead EKG and possible stress testing given exertional symptoms.
+- Continue current medications as above.
+- Discussed general cardiovascular risk factors; given his lifelong non-smoking status, tobacco cessation counseling not applicable.
+- Encouraged low-sodium, cardiac-friendly diet.
+- Follow up labs to recheck renal function in 3 months.
+- Return to clinic or ED immediately if chest pain worsens, becomes prolonged, or is accompanied by shortness of breath, diaphoresis, or radiation to arm/jaw.
+- Follow-up telehealth or in-person visit in 4 weeks, sooner if needed.
+
+Electronically signed: Priya Raman, MD, Cardiology
+Date/Time of Note: 01/31/2024

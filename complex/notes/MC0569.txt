@@ -1,0 +1,47 @@
+Pulmonology NP Progress Note
+Author: Farah Siddiqui, MD
+Date of Service: 06/25/2026
+Patient: Betty Hall, F, DOB 03/22/1954, Age: 72
+
+CHIEF COMPLAINT: Follow-up after recent ED visit/COPD exacerbation.
+
+HPI: Ms. Hall is a 72-year-old female with history of atrial fibrillation, CKD stage 3, and COPD who presents today for f/u after being seen in the ED last week for acute dyspnea and wheezing, treated with nebs and a course of prednisone, she reports she is now breathing somewhat better but still gets winded walking to the mailbox and up a flight of stairs, denies fever or chills, some intermittent chest tightness that she describes as "a band" [inaudible] around her ribs, no hemoptysis, no lower extremity edema noted by patient although she says her shoes fit tighter some days than others which she attributes to the whether. She has been using her rescue inhaler more frequently, up to 4 times daily this past week, down from daily use of 6 or more times during the exacerbation. She was compliant with the steroid taper as prescribed.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Screening:
+ Current tobacco use: Yes
+ Type: Cigarettes
+ Amount: 1/2 pack per day (approx 10 cigarettes/day)
+ Since: 1975
+ Quit attempts discussed: yes, advised to quit at every visit
+ Smoking cessation counseling offered: yes
+Alcohol: Patient quit drinking alcohol in 2017, denies current use.
+Illicit drug use: denies.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2025 - left in error by transcription]
+HPI (11/14/2025): Pt here for routine COPD follow up, reports doing well overall, uses albuterol PRN maybe 1-2x/week, denies increased sob, cough productive of clear sputum in am only, no fevers, sats 95% on room air in clinic today, continues on Spiriva daily, tolerating well, no side effects noted, discussed importance of pulm rehab referral again today pt states she is interested but transportation is an issue, will look into resources, follow up in 6 months or sooner if worsening symptoms, pt counseled extensively regarding tobacco cessation resources including quitline number given.
+[END COPY-FORWARD]
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Eyes: no visual changes. ENT: no sore throat, no epistaxis. Cardiovascular: denies chest pain at rest, palpitations noted intermittently, known afib, no syncope. Respiratory: dyspnea on exertion as above, chronic cough, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, hematuria. Musculoskeletal: mild generalized arthralgias. Skin: no rashes. Neuro: denies focal weakness, numbness. Psych: denies depression, anxiety screens negative today.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 88 irregularly irregular, RR 18, SpO2 93% on room air, Temp 97.8F, Wt 165 lbs. General: alert, no acute distress, sitting comfortably. HEENT: normocephalic, atraumatic, no JVD. Cardiovascular: irregularly irregular rhythm, no murmurs appreciated, no peripheral edema. Respiratory: mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles, no accessory muscle use at rest. Abdomen: soft, nontender, nondistended, normoactive bowel sounds. Extremities: no cyanosis, no clubbing, trace edema bilateral ankles. Skin: warm, dry, intact.
+
+MEDICATIONS: Apixaban 5mg PO BID, Albuterol HFA inhaler 2 puffs q4h PRN, Tiotropium (Spiriva) 18mcg inhaled daily, Fluticasone/salmeterol combo inhaler BID, Metoprolol succinate 50mg daily, Atorvastatin 20mg daily, Losartan 50mg daily, Vitamin D3 1000 IU daily, prednisone taper (completing this week per prior instructions).
+
+PROBLEM LIST:
+- Chronic obstructive pulmonary disease, unspecified (J44.9)
+- Atrial fibrillation, chronic (I48.2)
+- Chronic kidney disease, stage 3 (N18.3)
+- Essential hypertension (I10) - outdated entry, pt now normotensive on current regimen
+- Nicotine dependence, cigarettes (F17.210)
+- GERD (K21.9) - outdated, resolved per pt report years ago
+
+ASSESSMENT AND PLAN:
+1. COPD exacerbation, recently resolved - continue current inhaler regimen, complete prednisone taper, follow up in pulm clinic in 4 weeks or sooner if symptoms worsen. Patient continues to smoke cigarettes currently; tobacco cessation was again strongly encouraged, discussed nicotine replacement options and quitline referral, screening for lung malignancy was discussed with patient in general terms.
+2. Atrial fibrillation - rate controlled today, continue apixaban and metoprolol, no changes.
+3. CKD stage 3 - stable, monitor renal function labs at next visit, avoid nephrotoxic agents.
+4. Health maintenance - alcohol use history reviewed, patient reports she quit drinking alcohol in 2017 and remains abstinent, no concerns at this time.
+
+Return to clinic in 4 weeks, sooner for worsening dyspnea, chest pain, or palpitations. Discussed plan in detail with patient, all questions answered, patient verbalized understanding and agreement.
+
+Electronically signed: Farah Siddiqui, MD, Pulmonology, 06/25/2026

@@ -1,0 +1,72 @@
+TELEHEALTH VISIT NOTE
+Patient: Mei Gonzales | DOB: 5/10/1947 | Age: 77 | Sex: F
+Date of Service: 05/10/2024
+Provider: Michael Dunn, DO (Family Medicine)
+Visit type: Annual wellness visit, telehealth
+
+HPI:
+Ms Gonzales is a 77 yo female seen via video for annual wellness visit. She reports feeling generally well, no acute complaints today. She denies chest pain, denies palpitations though has known history of atrial fib, denies worsening SOB. She notes occasional heartburn managed w/ omeprazole, mostly controlled. Sleep reportedly ok, uses CPAP nightly per pt report though compliance data not avail this visit (device at home, will review at next in-person). Denies leg claudication today though has h/o PAD. No new falls no dizziness. Reviewed med list w/ pt over phone, she confirms taking as prescribed.
+
+Past Medical History: GERD, obstructive sleep apnea, hypertension, peripheral artery disease, atrial fibrillation, coronary artery disease.
+
+Social History:
+Lives w/ daughter, retired seamstress. Denies etoh use. Smoking status: Unknown if ever smoked. Diet reviewed briefly, pt states she eats mostly home-cooked meals low salt.
+
+Family History: non contributory, reviewed, no new updates.
+
+Review of Systems:
+Constitutional: denies fever, denies weight loss, denies fatigue
+Eyes: denies visual changes
+ENT: denies sore throat, denies hearing loss
+Cardiovascular: denies chest pain, denies palpitations, denies edema (though hx afib)
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: reports occasional heartburn, denies nausea, denies vomiting, denies abd pain
+GU: denies dysuria, denies frequency
+Musculoskeletal: denies joint pain, denies swelling
+Skin: denies rash, denies lesions
+Neuro: denies headache, denies numbness, denies weakness
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+Physical Exam (limited, telehealth):
+General: pt appears well, no acute distress, seated comfortably at home
+Vitals per pt home cuff: BP 132/78, HR 68 irreg irreg (known afib), reports temp not taken, weight stable per pt report
+Cardiovascular: unable to auscultate via telehealth, pt denies chest pain or palpitations
+Respiratory: pt denies distress, breathing comfortably on camera, no visible increased work of breathing
+Skin: no obvious rashes or lesions visible on camera
+Neuro: alert, oriented x3, speech clear, no focal deficits noted on limited exam
+
+Labs/Results (reviewed from recent visit):
+CBC 04/28/2024: WBC 6.1, Hgb 12.8, Hct 38.9, Plt 245
+BMP 04/28/2024: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 102
+Lipid panel 04/28/2024: Total chol 172, LDL 98, HDL 52, Trig 110
+TSH 04/28/2024: 2.1 (WNL)
+INR (on warfarin? no - pt on apixaban, no INR needed) - not applicable
+Echo (last done 11/2023): EF 55%, mild LVH, no significant valvular disease
+
+Current Medications:
+1. Omeprazole 20mg daily
+2. Lisinopril 10mg daily
+3. Apixaban 5mg BID
+4. Metoprolol succinate 25mg daily
+5. Atorvastatin 40mg qhs
+6. Clopidogrel 75mg daily
+7. Cilostazol 100mg BID
+8. Vitamin D3 1000 IU daily
+9. Calcium carbonate 500mg BID prn
+10. Multivitamin daily
+
+Assessment/Plan:
+1. Atrial fibrillation - stable, rate controlled, continue metoprolol and apixaban, no changes
+2. Coronary artery disease - stable, continue statin and antiplatelet therapy, no chest pain reported
+3. Peripheral artery disease - stable, continue cilostazol, no claudication reported today
+4. Hypertension - well controlled on current regimen, BP at goal
+5. GERD - stable on omeprazole, continue current dose
+6. Obstructive sleep apnea - continue CPAP, will review compliance data at next in person visit
+7. Health maintenance - annual wellness visit completed today. Discussed lung cancer screening with patient today. Deferred screening discussion until smoking history can be obtained. Smoking status listed as unknown if ever smoked in chart, will clarify at next visit. Pt due for colonoscopy screening per prior records, will schedule. Immunizations reviewed, pt up to date per records.
+8. Follow up in 3 months or sooner if symptoms arise, in person visit recommended to obtain CPAP compliance data and complete physical exam including auscultation.
+
+Visit time: approx 20 min telehealth encounter, discussed above plan with patient who verbalized understanding and agreement.
+
+Electronically signed: Michael Dunn, DO
+Date of Service: 05/10/2024

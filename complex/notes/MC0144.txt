@@ -1,0 +1,74 @@
+PULMONOLOGY PROGRESS NOTE
+Author: Brian Okonkwo, MD
+Date of Service: 01/01/2026
+
+Patient: Joyce Nguyen (F), DOB 01/01/1946, Age 80
+
+CC: COPD follow-up.
+
+HPI: Ms. Nguyen is an 80-year-old woman with COPD, OSA, CKD stage 3, obesity, gout, osteoporosis, and BPH-adjacent issues (per urology, N/A here) who returns for routine follow-up. Reports occasional dyspnea on exertion, denies fevers, denies chest pain. Uses home O2 PRN per prior plan, compliant c CPAP most nights. No recent hospitalizations. No hemoptysis.
+
+TOBACCO HISTORY (EHR templated block):
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated - see below]
+Actual history per patient interview: Pt smoked approx half a pack (about 10 cigarettes) per day for 26 years, then quit completely for 7 years, then restarted smoking at a quarter pack (about 5 cigarettes) per day for 29 years and continues to smoke to this day. Counseled extensively regarding cessation; patient continues to smoke despite counseling today. Lung cancer screening options discussed with patient in general terms.
+
+ROS: Constitutional - no fever, no chills, no wt loss. HEENT - no sinus congestion. CV - no chest pain, no palpitations, occasional ankle edema. Resp - chronic cough, occasional wheeze, no hemoptysis. GI - no nausea, no vomiting, occasional constipation. GU - nocturia x2, known BPH-related sx per urology f/u. MSK - joint pain c/w gout, stable. Neuro - no focal deficits. Skin - no rashes. Psych - mood stable. Endo - no polyuria/polydipsia beyond baseline. Heme - no easy bruising. All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, Temp 98.2F, SpO2 93% RA, Wt 198 lb, BMI 34.
+General: Well-developed, obese female, NAD, alert and oriented x3.
+HEENT: NC/AT, PERRL, oropharynx clear, no thrush.
+Neck: Supple, no JVD, no thyromegaly.
+CV: RRR, no murmurs, no gallops, 1+ pitting edema bilateral ankles.
+Resp: Decreased breath sounds bilat bases, mild expiratory wheeze, no rales, no rhonchi, prolonged expiratory phase noted.
+Abd: Soft, obese, NT/ND, +BS.
+Extremities: No cyanosis, trace edema noted above.
+Skin: Warm, dry, intact.
+Neuro: CN II-XII grossly intact, gait steady with cane.
+Psych: Mood/affect appropriate.
+
+LABS/RESULTS:
+- CBC (12/15/2025): WBC 7.2, Hgb 12.1, Hct 37.0, Plt 245
+- BMP (12/15/2025): Na 138, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.4 (eGFR 42), Glucose 104
+- Uric acid (12/15/2025): 7.8 mg/dL
+- ABG not obtained this visit
+- PFTs (11/02/2025): FEV1 58% predicted, FVC 74% predicted, FEV1/FVC 0.61 - consistent c moderate obstruction
+- CXR (11/02/2025): hyperinflated lungs, no acute infiltrate
+- Vitamin D (10/2025): 28 ng/mL
+
+ASSESSMENT:
+1. COPD, moderate, GOLD grp per PFTs - stable, continues to smoke despite counseling.
+2. OSA - on CPAP, adherence adequate.
+3. CKD stage 3 - stable, eGFR 42, monitor.
+4. Obesity - counseled diet/exercise.
+5. Gout - uric acid elevated, asymptomatic currently.
+6. Osteoporosis - on treatment, f/u DEXA due.
+7. BPH - stable per urology.
+
+PLAN:
+- Continue tiotropium inhaler daily.
+- Continue albuterol PRN.
+- Continue CPAP nightly, encourage adherence.
+- Smoking cessation counseling provided again today; discussed nicotine replacement options and referral to cessation program; pt declined referral at this time, states not ready to quit.
+- Lung cancer screening discussed in general terms with patient; no imaging ordered today.
+- Continue allopurinol, monitor uric acid.
+- Continue calcium/vit D and bisphosphonate for osteoporosis; DEXA scan to be scheduled.
+- Continue tamsulosin for BPH sx.
+- Renal function labs to be repeated in 3 months.
+- Follow up in pulmonology clinic in 3 months, sooner if worsening dyspnea, fevers, or hemoptysis.
+
+MEDICATIONS (reconciled today):
+1. Tiotropium 18 mcg inhaled daily
+2. Albuterol HFA PRN
+3. Allopurinol 100 mg daily
+4. Tamsulosin 0.4 mg daily
+5. Alendronate 70 mg weekly
+6. Calcium carbonate 600 mg + Vit D3 daily
+7. Lisinopril 10 mg daily
+8. Atorvastatin 20 mg daily
+9. Metformin 500 mg BID
+10. Multivitamin daily
+
+Note: templated smoking field above (Never Smoker) is a documentation error carried forward from an old encounter and does not reflect patient's actual tobacco history as detailed above; corrected in narrative per patient interview today, 01/01/2026.
+
+Electronically signed: Brian Okonkwo, MD, Pulmonology, 01/01/2026.

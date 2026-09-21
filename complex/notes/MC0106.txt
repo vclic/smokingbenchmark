@@ -1,0 +1,47 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Thomas Moore | DOB: 3/5/1973 (age 53) | DOS: 03/05/2026
+Author: Teresa Alvarez, NP
+
+CC: chest pain eval
+
+HPI: 53 y/o M with hx HFrEF, PAD, asthma, OSA presents for f/u of intermittent chest discomfort x2 wks. Pt states 'it's like a pressure, comes on when I'm walking up the stairs, goes away when I sit down.' Denies radiation to arm/jaw today, though reports similar sx in past. No assoc diaphoresis. Took ASA at home w/ some relief per pt. Smoking hx notable - pt reports he smoked about three-quarters of a pack (roughly 15 cigarettes) per day for 3 yrs, then escalated to 2 packs/day for 7 yrs before quitting entirely; he says he quit smoking right after his bypass surgery and has not smoked since. Denies vaping/other tobacco products. No fevers, no cough currently (though has baseline asthma-related wheeze intermittently).
+
+PMH: HFrEF (EF ~35% on last echo), PAD s/p bilateral lower extremity stenting, asthma, OSA on CPAP, CABG x3 (2003), HTN, dyslipidemia.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker - see HPI for detail
+Packs/day (current): 0
+Years smoked: See HPI
+Alcohol: Not on file
+Drug use: denies
+Occupation: retired
+Living situation: ___ (blank)
+Exercise: limited 2/2 dyspnea on exertion
+Diet: Not on file
+
+ROS: Positive for exertional CP, DOE. Negative for orthopnea, PND, LE edema currently (though hx of edema per chart). Negative for palpitations, syncope. Positive for occasional wheeze.
+
+Exam:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 95% RA, wt 198 lb
+Gen: NAD, conversant
+CV: RRR, S1S2, soft S3 appreciated, no murmur
+Lungs: mild expiratory wheeze bilat bases, no crackles
+Ext: trace edema b/l, well-healed vascular access sites, distal pulses palpable
+Cardiac: PMI not displaced
+
+Labs (reviewed today): BNP 410 (baseline elevated 2/2 HFrEF), Cr 1.1, K 4.2, TropI <0.01 x1 (pending repeat)
+
+EKG: NSR, old LBBB unchanged from prior, no acute ST changes
+
+Assessment/Plan:
+1. Chest pain, exertional - likely anginal equivalent given PAD/CAD hx (s/p CABG x3 2003). Will obtain repeat troponin, consider stress imaging outpt given baseline LBBB limits interpretation of standard stress EKG. Continue ASA, statin.
+2. HFrEF - euvolemic today, continue GDMT (metoprolol succinate, sacubitril/valsartan, spironolactone, dapagliflozin). Recheck BNP in 3 mo.
+3. PAD - stable, continue cilostazol, f/u vascular surgery per their sched.
+4. Asthma - mild sx today, continue albuterol PRN, reviewed inhaler technique.
+5. OSA - on CPAP, encourage compliance, will check download at next visit.
+6. Tobacco - patient is a former smoker (quit after CABG); reinforced importance of continued abstinence. Lung cancer screening discussed in general terms; no imaging ordered today for that purpose.
+7. Return to clinic in 4-6 wks or sooner if sx worsen; pt educated on red flag symptoms requiring ED eval.
+
+Time spent counseling/coordinating care: ~15 min of 30 min visit.
+
+Electronically signed: Teresa Alvarez, NP, 03/05/2026

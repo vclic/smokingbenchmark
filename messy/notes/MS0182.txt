@@ -1,0 +1,69 @@
+TELEHEALTH ENCOUNTER - CARDIOLOGY
+DOS: 09/13/2023
+Provider: Michael Dunn, DO
+Patient: Gwendolyn Henderson, F, DOB 07/08/1943, Age 80
+
+CHIEF COMPLAINT: Chest pain, eval via video visit.
+
+HPI: 80 yo F w/ known PMHx GERD, T2DM, hypothyroidism, AFib presents via telehealth for f/u of intermittent chest discomfort x several days. Describes pressure-like sensation, non-exertional, some relief w/ antacid. No radiation to arm/jaw. No SOB at rest, mild dyspnea on exertion baseline unchanged. Denies palpitations beyond known AFib, denies syncope. Former smoker - pt reports she smoked approx half a pack (~10 cigs/day) for 49 years, quit smoking in 2013 and has not smoked since. No other substance use reported. Pt states stress at home has been higher lately, wonders if contributing to sx. No recent travel, no leg swelling, no fevers.
+
+=== COPIED FORWARD FROM PRIOR VISIT NOTE (DOS 02/11/2022) - retained for reference, may not reflect current status ===
+Pt seen in office for routine AFib f/u. Rate controlled on metoprolol, INR/anticoag monitored via anticoagulation clinic (on apixaban). GERD sx well controlled on omeprazole. A1c last 7.1%, continues metformin. TSH within range on levothyroxine. Denies chest pain at that time. Social hx reviewed, lives w/ daughter, ambulates w/ cane, denies falls. Immunizations UTD per pt report. Plan: continue current meds, f/u in 6 mo, routine labs ordered.
+=== END COPIED FORWARD TEXT ===
+
+PAST MEDICAL HISTORY: GERD, T2DM, hypothyroidism, AFib (on anticoagulation), HTN (per chart), osteoarthritis.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking status: Not currently smoking
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with daughter
+Exercise: Not on file
+Diet: Low sodium (per pt report)
+
+MEDICATIONS:
+1. Metoprolol succinate 50mg daily
+2. Apixaban 5mg BID
+3. Omeprazole 20mg daily
+4. Metformin 1000mg BID
+5. Levothyroxine 75mcg daily
+6. Atorvastatin 20mg daily
+7. Vitamin D3 1000 IU daily
+8. Calcium carbonate PRN
+
+REVIEW OF SYSTEMS (templated, largely boilerplate):
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: + chest pressure as above, denies syncope, denies orthopnea, denies PND.
+Respiratory: Denies cough, denies hemoptysis, mild DOE baseline.
+GI: + occasional reflux, denies nausea/vomiting, denies melena.
+GU: Denies dysuria, denies hematuria.
+MSK: Chronic knee pain, unchanged.
+Neuro: Denies focal weakness, denies numbness.
+Psych: Denies depression, admits increased stress.
+Skin: Denies rash.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited via telehealth, visual only):
+General: Alert, NAD, well-groomed, appears stated age.
+HEENT: Grossly normal, no acute distress noted on camera.
+CV: Unable to auscultate via telehealth; pt reports no visible edema.
+Resp: No visible respiratory distress, no accessory muscle use noted.
+Ext: No obvious edema visualized.
+Skin: No rashes visualized on exposed areas.
+Affect: Appropriate, cooperative throughout visit.
+
+ASSESSMENT/PLAN:
+80F w/ chest pain, hx AFib on anticoagulation, GERD, T2DM, hypothyroidism.
+1. Chest pain - likely GERD-related given pattern and relief w/ antacid, however given cardiac hx will obtain EKG and troponin in office, consider stress test if sx persist. Advised ER precautions if worsening, radiation, diaphoresis, SOB.
+2. AFib - continue apixaban, continue metoprolol, rate appears controlled per pt report, will check EKG.
+3. GERD - continue omeprazole, reinforce dietary modification, avoid trigger foods.
+4. T2DM - continue metformin, recheck A1c at next visit.
+5. Hypothyroidism - continue levothyroxine, TSH due for recheck.
+6. Tobacco history - former smoker, quit 2013, counseled on continued avoidance, reinforced benefit of cessation given cardiac hx. Lung cancer screening was discussed with pt as part of general risk conversation; no imaging ordered today via telehealth.
+7. F/u in person within 1-2 wks for labs/EKG, sooner if sx worsen.
+
+Time spent: approx 20 min telehealth visit, counseling >50% of time addressing chest pain workup and risk factor modification.
+
+Electronically signed by Michael Dunn, DO

@@ -1,0 +1,37 @@
+TELEHEALTH VISIT NOTE
+Patient: Gloria Smith | DOB: 8/8/1945 | Age: 78 | Sex: F
+DOS: 08/08/2023 | Provider: Anita Patel, MD | Family Medicine
+
+Visit type: telehealth, medication refills
+
+HPI:
+78yo female calling in for refills, doing fairly well, no new complaints today. reports some occasional ankle swelling, denies chest pain sob or claudication changes. states she has been compliant w meds. wants refills of her CKD PAD afib CAD meds called into pharmacy. no acute issues per patient c/o mild fatigue only.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Illicit drug use: Not on file
+Occupation: retired
+Living situation: lives w daughter
+Family hx of tobacco-related illness: pt reports father was a heavy smoker who died of lung cancer
+Exercise: Not on file
+
+ROS: reviewed 10-point system, otherwise negative except as above
+
+Meds reviewed: apixaban, atorvastatin, metoprolol succinate, cilostazol, lisinopril (renally dosed)
+
+Assessment/Plan:
+1. CKD stage 3 - stable, refill lisinopril, will check BMP at next labs draw
+2. PAD - continue cilostazol, refill sent, reinforced walking program
+3. Afib - continue apixaban for anticoag, refill sent, HR controlled on metoprolol
+4. CAD - continue atorvastatin, refill sent, no anginal sx today
+5. Health maintenance - counseled on general risk factors given fam hx of lung ca in father (heavy smoker, deceased 2° lung cancer); patient herself has never smoked cigarettes so lung cancer screening not indicated based on smoking status, discussed briefly but no further action needed re screening at this time.
+
+Plan: refills sent as above, f/u telehealth or in office in 3 months or sooner if symptoms worsen. pt verbalized understanding, agreeable to plan.
+
+Time spent: 15 min telehealth visit, med refill mgmt and counseling discussed.
+
+Electronically signed: Anita Patel, MD 08/08/2023

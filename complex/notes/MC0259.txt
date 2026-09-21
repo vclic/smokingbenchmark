@@ -1,0 +1,58 @@
+URGENT CARE - Nurse Intake & Physician Progress Note
+Pt: Edward Brooks | DOB 2/23/1956 | Age 67 M
+DOS: 03/13/2023
+Provider: Farah Siddiqui, MD
+
+NURSE INTAKE:
+CC: cough x several days
+VS: T 98.4 HR 82 BP 138/86 RR 18 SpO2 95% RA
+PMHx: osteoporosis, CAD, BPH, asthma, obesity, HFrEF
+Allergies: NKDA
+
+HPI (physician):
+Pt is a 67 yo M presenting to UC c/o cough, states "I've had this cough for like a week and it's really wearing me out." Denies fever, hemoptysis. Some mild SOB but pt reports at baseline given HFrEF. No chest pain. Using albuterol inh w/ mild relief. No sick contacts.
+
+Social Hx - Tobacco:
+Pt reports extensive smoking hx. Per pt report: smoked 2 packs per day for 10 years, then cut down to about three-quarters of a pack (~15 cigs) per day for 13 years, then further reduced to half a pack (~10 cigs) per day for 10 years before quitting entirely. Pt states he quit smoking 20 years ago. Denies current tobacco use of any kind - cigs, vape, chew.
+
+***copied fwd from note dated 10/13/2019***
+"Tobacco: former smoker, as of note dated 10/13/2019."
+***end copied text***
+
+EtOH: pt quit drinking alcohol in 2007, denies current use.
+Illicit drugs: denies.
+
+ROS: + cough, mild fatigue. Neg for fever, chills, chest pain, palpitations, edema, dysuria, GI sx.
+
+Exam:
+Gen: NAD, comfortable appearing male
+HEENT: OP clear, no erythema
+Neck: no LAD, no JVD
+CV: RRR, no m/r/g, 2+ pulses
+Resp: mild exp wheeze bilat, no crackles, no accessory muscle use
+Abd: soft NT ND
+Ext: no edema, no cyanosis
+Skin: WWP
+
+Assessment:
+1. Acute bronchitis/cough, likely viral vs asthma exacerbation component given hx of asthma and exam findings
+2. Asthma - stable, mild exacerbation likely contributing to current sx
+3. HFrEF - stable, no signs decompensation today
+4. CAD - stable
+5. BPH - stable
+6. Osteoporosis - stable
+7. Obesity - noted
+8. Tobacco use hx - remote, quit 20 yrs ago per pt
+
+Plan:
+- Encourage rest, fluids, OTC cough suppressant PRN
+- Continue albuterol inh PRN, consider short course of prednisone if sx worsen
+- Recommend f/u w PCP for routine chronic disease mgmt
+- Given extensive prior smoking hx, discussed lung cancer screening guidelines in general terms w pt; will defer further discussion to PCP
+- Return precautions given - if worsening SOB, chest pain, fever, come back to UC or ED
+- Pt educated re: importance of continued abstinence from tobacco and etoh
+- No abx given today, viral etiology suspected
+
+F/u: PCP within 1-2 wks or sooner if worsening
+
+Electronically signed: Farah Siddiqui, MD

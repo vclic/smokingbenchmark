@@ -1,0 +1,73 @@
+Follow-Up: Pulmonology (Post-Hospitalization for COPD Exacerbation)
+Patient: Gwendolyn Adams, F, DOB 2/8/1953 (age 72)
+Date of Service: 03/19/2025
+Author: Farah Siddiqui, MD
+
+HPI:
+Ms. Adams is a 72-year-old woman seen in follow-up after a recent ED visit and short hospital admission for COPD exacerbation. She reports her breathing has 'gotten a little better since the steroids and the inhaler,' though she still notices 'some wheeze when I climb the stairs at home.' She denies fevers currently. She states, 'I was so scared in the emergency room, I thought I was going to have to be intubated,' but reports resolution of that acute distress. She has been using her rescue inhaler roughly 2-3 times daily, down from every few hours during the acute exacerbation. No hemoptysis, no significant weight loss. She continues to have chronic joint pain related to her gout, which she says has been quiet recently.
+
+Past Medical History (Problem List with ICD-10, some entries outdated):
+- M10.9 Gout, unspecified
+- E66.9 Obesity, unspecified (last documented BMI 33, may be outdated)
+- M81.0 Age-related osteoporosis without current pathological fracture
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.1 COPD with acute exacerbation (current, resolving)
+- I10 Essential hypertension (old entry, patient reports this resolved years ago per her report, unclear if accurate)
+
+Social History (EHR-templated block):
+Tobacco use: Former smoker
+Smoking details: Patient smoked approximately three-quarters of a pack per day (about 15 cigarettes/day) for 22 years, then increased to 2 packs per day for an additional 22 years before quitting. She quit smoking 3 years after moving to this state, which occurred in 2011.
+Pack-years: Not on file
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Denies
+Alcohol use: Occasional, socially
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Limited due to dyspnea on exertion
+Secondhand smoke exposure: Not on file
+
+Review of Systems:
+Respiratory: Positive for occasional wheeze, denies chest pain, denies hemoptysis.
+Constitutional: Denies fevers, chills, night sweats.
+Musculoskeletal: Chronic joint discomfort, stable, attributed to gout.
+All other systems reviewed and negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 138/82, HR 84, RR 18, SpO2 94% on room air, Temp 98.2F, Wt 182 lb, BMI 32.9
+General: Alert, well-appearing, no acute distress, mildly overweight female.
+HEENT: Normocephalic, atraumatic, no oropharyngeal lesions.
+Neck: No lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, no peripheral edema.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest.
+Abdomen: Soft, non-tender, obese habitus, no organomegaly.
+Extremities: No acute gouty changes noted today; mild tenderness first MTP joint bilaterally, chronic.
+Skin: Warm, dry, no rashes.
+Musculoskeletal: Kyphotic posture consistent with osteoporosis, no acute deformity.
+
+Labs/Imaging (reviewed from recent hospitalization):
+CBC unremarkable aside from mild leukocytosis at time of admission, now resolved.
+BMP within normal limits.
+Chest X-ray from ED visit: hyperinflated lungs consistent with COPD, no acute infiltrate.
+Spirometry pending outpatient scheduling.
+
+Assessment:
+1. COPD with recent acute exacerbation, now clinically improving on outpatient steroid taper and bronchodilator therapy.
+2. Asthma, longstanding, likely contributing component to overall airway reactivity.
+3. Gout, currently quiescent.
+4. Obesity, stable, contributing to overall symptom burden and exertional dyspnea.
+5. Osteoporosis, monitored, on current regimen.
+
+Plan:
+- Continue prednisone taper as previously prescribed; follow up if worsening symptoms, fever, or increased sputum production.
+- Continue albuterol MDI as needed and maintenance inhaler therapy per current regimen.
+- Encourage pulmonary rehabilitation referral given recent exacerbation and functional limitation.
+- Given her tobacco history, ongoing surveillance for pulmonary complications is reasonable; screening for lung cancer was discussed generally with the patient as part of preventive care conversation.
+- Recommend calcium/vitamin D continuation and weight-bearing exercise as tolerated for osteoporosis.
+- Continue urate-lowering therapy for gout, monitor for flares.
+- Weight management counseling reinforced; discussed low-impact exercise options given joint and pulmonary limitations.
+- Follow up in pulmonology clinic in 4-6 weeks or sooner if symptoms worsen.
+- Outpatient spirometry to be scheduled.
+- Patient instructed to seek immediate care for worsening shortness of breath, chest pain, or hemoptysis.
+
+Electronically signed by Farah Siddiqui, MD, 03/19/2025.

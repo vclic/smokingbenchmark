@@ -1,0 +1,46 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Michael Dunn, DO
+Date of Service: 01/22/2023
+Visit type: New patient visit to establish care - Primary Care
+
+Patient: Carlos Butler, M, DOB 01/22/1947 (age 76)
+
+HPI: Mr Butler is a 76 yo M presenting to establish primary care. He reports overall doing fair, no acute complaints today. He has hx of obesity, OSA, depression, atrial fibrillation, and osteoporosis, all followed elsewhere previously per pt report. He denies chest pain, palpitations currently, though hx of afib noted. Sleep apnea - uses CPAP most nights, states compliance variable. Mood stable on current regimen, denies SI/HI.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/03/2019 - retained in record]
+68 yo M here for f/u of HTN and hyperlipidemia, reports doing well, denies CP/SOB, exercises 3x/week, BP well controlled on lisinopril, cholesterol panel improved since last visit, continue current meds, RTC 6 months, pt educated on diet and exercise, discussed fall precautions given osteoporosis risk, reviewed medication list no changes made at that time.
+[END COPY-FORWARD]
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use status: Former smoker
+Smoking Hx: Pt smoked half a pack (about 10 cigarettes) per day for 20 years, then cut back to a quarter pack (about 5 cigarettes) per day for 32 years before quitting.
+Alcohol: occasional
+Drug use: denies
+
+ROS: otherwise negative except as above, denies fevers, chills, wt loss, cough, hemoptysis.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, Wt 228 lb, BMI 34
+Gen: obese male, NAD
+CV: irregularly irregular rhythm, no murmurs appreciate
+Resp: CTAB, no wheezes
+MSK: no deformities, gait steady
+Psych: mood euthymic, affect appropriate
+
+LABS/RESULTS:
+01/15/2023 CBC - WNL
+01/15/2023 BMP - Na 139, K 4.2, Cr 1.0, Glucose 102
+01/15/2023 TSH - 2.1 (nl)
+01/15/2023 DEXA scan - T-score -2.6 lumbar spine, consistent with osteoporosis
+01/15/2023 INR (on anticoagulation for afib) - 2.3, therapeutic
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - continue anticoagulation, cont rate control, f/u cardiology
+2. OSA - continue CPAP, reinforce compliance
+3. Obesity - counsel diet/exercise, referral to nutrition considered
+4. Depression - continue current management, reassess at next visit
+5. Osteoporosis - continue calcium/vit D, weight-bearing exercise encouraged, DEXA reviewed above
+6. Former smoker - tobacco use history reviewed with patient, general health maintenance counseling provided
+7. RTC 3 months or sooner if concerns
+
+Attending attestation: I have reviewed and discussed this case with Dr. Dunn and agree with the assessment and plan as documented above.

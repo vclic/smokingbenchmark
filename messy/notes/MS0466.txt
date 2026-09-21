@@ -1,0 +1,84 @@
+TELEHEALTH VISIT NOTE
+Family Medicine — Annual Wellness Visit
+Date of Service: 04/08/2023
+Provider: Owen Fitzgerald, MD
+
+PATIENT: Carter, Gwendolyn
+DOB: 04/08/1945 (Age: 78 y/o F)
+MRN: 003318842
+Visit Type: Telehealth (video), audio quality good, pt at home w/ daughter present for portion of call
+
+CHIEF COMPLAINT: Annual wellness visit / f/u chronic conditions (AFib, OA, CKD3, HTN)
+
+HPI:
+78 y/o F with hx of atrial fibrillation (on anticoagulation), osteoarthritis (knees > hands), CKD stage 3, and HTN presents via telehealth for annual wellness exam. Pt reports feeling generally well, no new complaints today. Denies CP, palpitations, SOB, edema. OA pain in knees stable on acetaminophen prn, denies acute flares. Reports occasional dizziness on standing, no falls. Reviewed meds via video - pt held bottles up to camera, appears compliant. Daughter confirms no missed doses noted at home.
+No cough, no hemoptysis, no unintentional weight loss reported today.
+Diet: reports low-salt intake per prior counseling. Exercise: short daily walks, limited by knee pain.
+
+PAST MEDICAL HISTORY: Atrial fibrillation (dx ~2015, on apixaban), Osteoarthritis, CKD stage 3 (baseline creatinine ~1.4), Hypertension
+
+PAST SURGICAL HISTORY: Cholecystectomy (year unknown per pt)
+
+SOCIAL HISTORY (EHR templated block):
+  Tobacco use status: Former/experimental - see note
+  Smoking status detail: Tried a few cigarettes as a teenager but never smoked regularly, per pt report today.
+  Packs per day: Not on file
+  Years smoked: Not on file
+  Quit date: Not applicable
+  Smokeless tobacco: Denies
+  E-cigarette/vape use: Denies
+  Secondhand smoke exposure: Not on file
+  Alcohol use: Rare, wine occasionally
+  Alcohol type: Wine
+  Drinks per week: <1
+  Illicit drug use: Denies
+  Occupation: Retired schoolteacher
+  Living situation: Lives alone, daughter nearby
+  Exercise: Limited, short walks
+
+[Comment: pt specifically clarified this hx today when asked directly about tobacco use for wellness visit template - stated she "puffed on a few cigarettes back in high school just to try it with friends" but "never took it up" and has not smoked since. No pack-year hx to calculate given lack of regular use.]
+
+FAMILY HISTORY: Mother - HTN, died age 89. Father - MI age 70. No known lung disease in family per pt.
+
+ALLERGIES: NKDA
+
+CURRENT MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Amlodipine 5 mg PO daily
+4. Acetaminophen 500 mg PO PRN for joint pain
+5. Atorvastatin 20 mg PO qHS
+
+REVIEW OF SYSTEMS: Constitutional - no fever, no wt loss. Cardiac - no CP, no palpitations today (pt has known AFib, on anticoag). Resp - no cough, no SOB, no wheeze. GI - no n/v/d. GU - no dysuria, no hematuria. MSK - chronic knee pain, stable. Neuro - occasional lightheadedness on standing, no syncope. Skin - no rashes/lesions reported.
+
+VITALS (per home BP cuff + pt report, telehealth visit):
+BP: 138/76 mmHg (home cuff, seated)
+HR: 72 bpm, irregularly irregular per pt report (known AFib)
+Wt: 152 lbs (per home scale, reported)
+Temp: not obtained (telehealth)
+
+LABS/RESULTS (reviewed during visit):
+BMP 03/15/2023:
+  Na 138, K 4.6, Cl 101, CO2 24, BUN 22, Creatinine 1.43 (baseline), eGFR 34 (CKD3b range)
+CBC 03/15/2023: WBC 6.1, Hgb 12.8, Hct 38.5, Plt 210 - unremarkable
+Lipid panel 01/10/2023: TC 172, LDL 88, HDL 54, TG 150
+INR - N/A (pt on apixaban, no routine INR monitoring required)
+TSH 01/10/2023: 2.1 (WNL)
+Urine albumin/creatinine ratio 03/15/2023: 28 mg/g (mildly increased)
+
+ASSESSMENT/PLAN:
+78 y/o F with AFib, OA, CKD3, HTN presenting for AWV via telehealth. Overall stable today.
+
+1. Atrial fibrillation - continue apixaban 5 mg BID, HR controlled, asymptomatic today. Will obtain EKG at next in-person visit.
+2. Osteoarthritis - continue acetaminophen prn, discussed PT referral for knee strengthening, pt declined for now.
+3. CKD stage 3 - stable, eGFR 34 on recent labs, continue to avoid nephrotoxic agents, monitor BMP q6mo, renal-appropriate dosing of meds reviewed.
+4. Hypertension - BP at goal today on current regimen, continue lisinopril and amlodipine.
+5. Health maintenance - reviewed immunization status, pt up to date on influenza and pneumococcal vaccines. Discussed age-appropriate cancer screening topics generally; lung cancer screening was discussed briefly given pt's history of trying cigarettes as a teenager, though given she never smoked regularly, further discussion deferred to in-person visit for further risk assessment. Colon cancer screening - hx of colonoscopy reviewed, due for repeat per prior schedule. Bone density - due for DEXA, will schedule.
+6. Fall risk - discussed orthostatic dizziness, advised to rise slowly from sitting/lying, will monitor.
+
+Pt verbalized understanding of plan. Daughter also present and reinforced med compliance support at home. Will follow up in 3 months or sooner if concerns arise. RTC for in-person visit for full physical exam given telehealth limitations.
+
+Time spent: 22 minutes, >50% spent in counseling/coordination of care.
+
+Electronically signed: Owen Fitzgerald, MD
+04/08/2023 14:32

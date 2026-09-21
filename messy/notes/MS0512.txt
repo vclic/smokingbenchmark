@@ -1,0 +1,74 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+DOS: 03/11/2024
+Patient: Dennis Lee
+DOB: 03/11/1948 (age 76)
+Author: Catherine Lindqvist, DO
+
+REASON FOR VISIT: Pre-op medical clearance, right total knee arthroplasty. Ortho: Dr. Patel.
+
+HPI: 76 y/o male, T2DM and COPD, here for pre-surgical eval prior to elective TKA. Reports progressive right knee pain, failed conservative mgmt (NSAIDs, PT, intra-articular injections x2). No chest pain, no recent fevers. Functional status: ambulates with cane, ADLs intact. Reviewed anesthesia risk factors.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- E11.9 Type 2 diabetes mellitus without complications
+- J44.9 COPD, unspecified
+- I10 Essential hypertension (outdated dx, not on current med list, may be resolved/reclassified)
+- M17.11 Unilateral primary osteoarthritis, right knee
+- Z98.89 Hx of other surgery (outdated entry, unclear origin)
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker. 49 pack-year history. Quit smoking in 2005.
+Alcohol use: Occasional, denies excess.
+Illicit drug use: Denies.
+Occupation: Retired machinist.
+Living situation: Lives w/ spouse.
+Exercise: Limited 2/2 knee pain.
+Diet: Not on file.
+Caffeine: Not on file.
+Spouse's smoking status: Spouse currently smokes; patient exposed to household secondhand smoke.
+
+Assessment re: tobacco - pt quit smoking >15 yrs ago per report, no current use. No e-cigarette or vaping use reported.
+
+ROS: Denies hemoptysis, denies unintentional weight loss. Occasional exertional dyspnea, chronic, stable, consistent w/ known COPD. Denies orthopnea, denies PND. Denies fevers/chills. GI - denies nausea, denies constipation. GU - nocturia x1, stable.
+
+MEDICATIONS:
+- Metformin 1000mg BID
+- Tiotropium inhaler daily
+- Albuterol PRN
+- Lisinopril 10mg daily (per outdated HTN dx, continue for now, revisit at next visit)
+- Atorvastatin 40mg qhs
+
+ALLERGIES: NKDA
+
+VITALS: BP 138/82, HR 76, RR 16, SpO2 94% RA, Temp 97.8F, BMI 29.4
+
+PHYSICAL EXAM:
+General: Well-appearing elderly male, NAD.
+CV: RRR, no murmurs/gallops/rubs.
+Pulm: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest.
+Abd: Soft, NT/ND, normoactive BS.
+Ext: Right knee w/ crepitus, decreased ROM, no effusion. No calf tenderness, no edema.
+Skin: Intact, no lesions.
+Neuro: A&Ox3, grossly nonfocal.
+
+LABS/RESULTS:
+- CBC (03/04/2024): WBC 6.8, Hgb 13.9, Plt 245
+- BMP (03/04/2024): Na 139, K 4.3, Cr 1.1, eGFR 68, Glucose 142
+- HbA1c (02/20/2024): 7.2%
+- PFTs (01/15/2024): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ moderate obstructive pattern
+- CXR (03/04/2024): No acute cardiopulmonary process, mild hyperinflation, no infiltrate, no nodule
+- EKG (03/11/2024): NSR, no acute ST-T changes, rate 74
+
+ASSESSMENT:
+76M with T2DM (A1c 7.2%, reasonably controlled), COPD (moderate obstructive, stable on tiotropium), presenting for pre-op eval prior to elective right TKA. Tobacco hx notable for prior heavy use, quit 2005, now longstanding former smoker with no current use. Cardiopulmonary risk assessed as low-moderate given stable COPD and no cardiac hx.
+
+PLAN:
+1. Cleared for surgery from medical standpoint pending anesthesia final review.
+2. Continue home COPD regimen, hold albuterol day of surgery per anesthesia protocol, bring inhalers to hospital.
+3. Diabetes - continue metformin, hold morning of surgery, monitor glucose perioperatively, sliding scale insulin per surgical protocol if needed.
+4. Counseled on importance of continued tobacco abstinence; reinforced no relapse given quit since 2005; discussed household secondhand smoke exposure from spouse and encouraged spouse cessation resources, offered pamphlet.
+5. Continue lisinopril, atorvastatin.
+6. F/u post-op per ortho, PCP f/u in 4 weeks or sooner if issues.
+7. Pt verbalized understanding, all questions answered.
+
+Electronically signed: Catherine Lindqvist, DO
+03/11/2024

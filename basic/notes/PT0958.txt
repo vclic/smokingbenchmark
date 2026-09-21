@@ -1,0 +1,88 @@
+General Medicine Clinic Clinic Note
+
+Patient: DAVIS, Donald    MRN: 69357383
+DOB: 02/03/1959    Age: 64 y.o.    Sex: Male
+Date of Service: 08/21/2023    Provider: Priya Raman, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Donald Davis is a 64 y.o. male who presents for diabetes follow-up.
+Most recent A1c 6.6% (previously 7.0% in May 2023). He smoked half a pack daily for 42 years and has not smoked since 2016. Checks fasting sugars most mornings, running 110s-160s. One episode of shakiness relieved with juice. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus
+• Generalized anxiety disorder
+• Hyperlipidemia
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2013)
+• Rotator cuff repair (2012)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sertraline 50 mg daily
+• losartan 50 mg daily
+• atorvastatin 40 mg daily
+• empagliflozin 10 mg daily
+• metformin 1000 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with wife in a single-family home.
+  Retired, former bus driver.
+  Alcohol: rare.
+  Sedentary.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 125/88 (BP Location: Left arm, Patient Position: Sitting) | Pulse 72 | Temp 97.6 °F (Oral) | Resp 12 | Ht 5' 8" | Wt 140 lb | SpO2 97% | BMI 21.28 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 6.6% - at goal; continue current regimen. Foot exam today - monofilament intact.
+2. Generalized anxiety disorder
+   PHQ-9 stable; continue current regimen.
+3. HTN
+   BP at goal; continue current regimen.
+4. History of tobacco use (Z87.891)
+   Congratulated on remaining smoke-free.
+
+Return in about 3 months (around 11/21/2023).
+
+Electronically signed by Priya Raman, MD on 08/21/2023

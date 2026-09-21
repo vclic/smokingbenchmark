@@ -1,0 +1,57 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Date of Service: 03/15/2024
+Author: Julia Brennan, MD
+
+Patient: Carlos Hughes, M, DOB 03/15/1945 (age 79)
+
+Reason for visit: Pre-operative evaluation for right total knee replacement.
+
+HPI: Pt is a 79-year-old male referred by orthopedics for medical clearance prior to elective TKA. Reports progressive right knee pain, worsening over past year, limiting ambulation to <1 block. No chest pain, no new SOB. Diabetes and HTN reportedly stable on current regimen. Hx of CAD s/p stent, PAD, BPH, depression - all followed by respective specialists.
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use: Former smoker
+Smoking status: Quit
+Pack-years: 51 pack-years
+Quit age: Quit smoking at age 56
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: 
+Exercise: 
+--- end SH block ---
+
+[Copy-forward from prior visit dated 11/02/2021]: Pt seen for routine f/u DM2/HTN. A1c 7.1, BP 138/82. Continues metformin, lisinopril, atorvastatin. Denies chest pain, denies claudication today. Feet exam - no ulcers, monofilament intact. BPH - stable on tamsulosin, no urinary retention. Depression - stable on sertraline, PHQ-9 4. Plan: continue current meds, f/u labs in 6 mo, refer to podiatry for annual foot exam. [end copy-forward]
+
+ROS: Denies fever, chills. Denies chest pain, palpitations. Denies cough, hemoptysis. + knee pain as above. Denies dysuria. Denies SI/HI.
+
+PMH: CAD s/p PCI, T2DM, HTN, BPH, PAD, depression.
+
+Meds: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg qhs, Tamsulosin 0.4mg qhs, Sertraline 50mg daily, Aspirin 81mg daily, Clopidogrel 75mg daily.
+
+Allergies: NKDA.
+
+Exam: VS: BP 132/78, HR 72, RR 16, SpO2 96% RA, Wt stable.
+Gen: NAD, well-appearing elderly male.
+CV: RRR, no murmurs, distal pulses diminished bilat LE c/w known PAD.
+Resp: CTAB.
+MSK: Right knee - decreased ROM, crepitus, no effusion, no erythema.
+Ext: no edema, no ulcers.
+Psych: euthymic, appropriate affect.
+
+Labs reviewed: BMP wnl, A1c 7.0, CBC unremarkable, INR n/a (no anticoag).
+EKG: NSR, no acute ST changes, old inferior Q waves.
+
+Assessment/Plan:
+79M with CAD, T2DM, HTN, PAD, BPH, depression here for pre-op eval prior to TKA.
+1. Cardiac risk: RCRI low-moderate, functional capacity limited by knee pain rather than cardiac sx. Cleared for surgery from cardiac standpoint, continue home cardiac meds, hold clopidogrel per ortho/cards coordination pre-op.
+2. T2DM: continue metformin, hold morning of surgery, monitor glucose perioperatively.
+3. HTN: continue home antihypertensives, hold ACE-I morning of surgery per anesthesia protocol.
+4. PAD: stable, continue ASA, surveillance as per vascular.
+5. BPH: continue tamsulosin.
+6. Depression: stable on sertraline, continue.
+7. Tobacco: Patient no longer smokes; quit tobacco use years ago. Counseled on maintaining tobacco-free status. Given h/o significant pack-year exposure, general risk discussion regarding pulmonary and cardiovascular health had; no imaging ordered today.
+8. Pre-op labs/EKG reviewed and reassuring, patient cleared for surgery from IM standpoint pending anesthesia eval.
+
+F/u after surgery or sooner PRN.
+
+Julia Brennan, MD

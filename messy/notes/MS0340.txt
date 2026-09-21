@@ -1,0 +1,84 @@
+TELEHEALTH FOLLOW-UP VISIT NOTE
+Patient: Loretta Hughes
+DOB: 08/21/1961 (Age: 62)
+Date of Service: 11/17/2023
+Provider: Gregory Tan, MD
+Encounter Type: Telehealth - Hospital Discharge Follow-up
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Ms. Hughes is a 62-year-old female who was admitted approximately one week ago with community-acquired pneumonia, discharged home on 11/14/2023 on a course of oral antibiotics. She reports today, via video call, that she is feeling 'much better than last week,' with improved energy and decreased cough, though she notes some mild residual fatigue and occasional dry cough, worse in the mornings, no hemoptysis, no fevers or chills since discharge. She denies chest pain, denies shortness of breath at rest, some mild dyspnea on exertion when climbing stairs which she says is improving daily. She is tolerating oral intake well, denies nausea or vomiting. She states she has been taking her antibiotics as prescribed and has not missed any doses, she also reports taking her home medications for GERD, hyperlipidemia, and obesity-related follow-up as scheduled with her nutritionist. Patient's daughter has been staying with her to help with meals and errands, this has reportedly been helpful. Patient denies any new symptoms of concern at this time, no calf swelling, no palpitations, no confusion.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Smoking status: Unknown if ever smoked
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with family
+Exercise: Not on file
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Gastroesophageal reflux disease (K21.9)
+2. Hyperlipidemia (E78.5)
+3. Obesity (E66.9)
+4. Pneumonia, resolving (J18.9) - recent hospitalization
+5. Seasonal allergic rhinitis (J30.2) - copied forward, outdated, patient reports resolved years ago
+6. Tension headache (G44.209) - copied forward, outdated, not addressed in years
+
+[BEGIN COPIED FORWARD TEXT FROM PRIOR VISIT DATED 03/02/2022]
+Patient presents for routine follow up of GERD and hyperlipidemia. Reports occasional heartburn symptoms, worse after large meals, controlled reasonably well on current regimen. Denies dysphagia, odynophagia, or weight loss. Lipid panel reviewed from last month, LDL improved from prior, will continue current statin dose. Discussed diet and exercise, patient states she is trying to walk more but has difficulty due to knee pain. Physical exam at that time notable for obesity, otherwise unremarkable, abdomen soft nontender, no organomegaly, heart regular rate and rhythm, lungs clear to auscultation bilaterally. Plan at that visit: continue omeprazole, continue atorvastatin, recheck lipids in 6 months, follow up in 3 months or sooner if symptoms worsen.
+[END COPIED FORWARD TEXT]
+
+REVIEW OF SYSTEMS (full template reviewed with patient today):
+Constitutional: Denies fever, chills, night sweats, denies unintentional weight loss, reports mild fatigue as above.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies sore throat, denies ear pain, reports occasional post nasal drip, [inaudible] related to allergies per patient.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies lower extremity edema.
+Respiratory: Reports mild residual cough as above, denies hemoptysis, denies wheeze, mild dyspnea on exertion improving.
+Gastrointestinal: Reports occasional reflux symptoms, denies nausea, vomiting, diarrhea, constipation, denies abdominal pain.
+Genitourinary: Denies dysuria, denies frequency, denies hematuria.
+Musculoskeletal: Reports chronic bilateral knee discomfort, no acute changes.
+Skin: Denies rash, denies new lesions.
+Neurological: Denies headache, denies dizziness, denies focal weakness, denies numbness or tingling.
+Psychiatric: Denies depression, denies anxiety, mood stable, she did state she was 'a little worried' during the hospitalization but feels reassured now.
+All other systems reviewed and are negative except as noted above, the rest of the review of systems was negative there were no other complaints the patient could think of today when asked directly and repeatedly by this provider during the video encounter.
+
+MEDICATIONS (reconciled today, discharge meds reviewed):
+1. Amoxicillin-clavulanate 875-125 mg PO BID (course to complete 11/21/2023)
+2. Omeprazole 20 mg PO daily
+3. Atorvastatin 40 mg PO nightly
+4. Metformin 500 mg PO BID (for prediabetes per prior note, unclear if still active issue, will clarify)
+5. Multivitamin PO daily
+6. Acetaminophen 500 mg PO PRN pain
+7. Albuterol inhaler PRN (started at discharge for cough, use as needed)
+8. Docusate sodium 100 mg PO BID PRN constipation
+9. Vitamin D3 1000 IU PO daily
+
+PHYSICAL EXAM (via telehealth, limited):
+General: Alert, well-appearing, no acute distress, seated comfortably in her home, appropriate affect.
+Vital signs (per home pulse oximeter and BP cuff reported by patient): BP 128/78, HR 76, SpO2 97% on room air per patient's home device, temperature not taken today.
+Respiratory: Visual assessment shows no accessory muscle use, no visible respiratory distress, breathing comfortably, unable to auscultate via telehealth.
+Cardiovascular: Unable to auscultate via telehealth, no visible edema noted on camera when patient showed lower legs.
+Skin: No visible rashes or lesions on areas examined via camera.
+Mental status: Alert and oriented, speech clear, appropriate responses throughout the interview, no acute distress noted.
+
+ASSESSMENT:
+1. Community-acquired pneumonia, resolving - doing well post-discharge, completing antibiotic course.
+2. GERD - stable on current regimen.
+3. Hyperlipidemia - stable, will recheck labs at next visit.
+4. Obesity - continues to work with nutritionist.
+
+PLAN:
+1. Continue antibiotic course as prescribed, complete full course by 11/21/2023.
+2. Continue albuterol inhaler PRN for residual cough, call if worsening.
+3. Continue home medications as above, will clarify metformin indication at next in-person visit.
+4. Chest X-ray follow-up in 6 weeks to confirm resolution, will schedule separately.
+5. Encourage continued hydration, rest, gradual return to activity.
+6. Follow up with PCP in person in 2-3 weeks, sooner if symptoms worsen (fever, worsening cough, chest pain, shortness of breath).
+7. Continue GERD and hyperlipidemia management per prior plan, recheck lipid panel at next visit.
+8. Return to telehealth or in-person visit as needed, patient instructed on when to seek urgent care or ER.
+
+Visit time today spent predominantly on discussion of recovery from pneumonia and medication reconciliation, greater than half of the encounter time spent in counseling and coordination of care given complexity of recent hospitalization.
+
+Electronically signed: Gregory Tan, MD, 11/17/2023.

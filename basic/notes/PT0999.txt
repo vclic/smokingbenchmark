@@ -1,0 +1,83 @@
+Adult Medicine Office Visit
+
+Patient: BROOKS, Lan    MRN: 14886642
+DOB: 02/20/1948    Age: 76 y.o.    Sex: Female
+Date of Service: 11/25/2024    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Lan Brooks is a 76 y.o. female who presents for hospital follow-up after admission for COPD exacerbation.
+Admitted 11/05/2024-11/11/2024 for COPD exacerbation. She is a former smoker; she smoked 2 packs per day for fifty-one years and has not smoked in 4 years. Completed antibiotics. Appetite returning.
+
+Past Medical History:
+Diagnosis	Date
+• Emphysema
+• Primary OA, bilateral knees	2012
+• Type 2 diabetes mellitus
+• Osteopenia
+• HTN	2004
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2006)
+• Right total knee arthroplasty (1996)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• metformin 500 mg BID
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• multivitamin daily
+• alendronate 70 mg weekly
+• diclofenac 1% gel QID PRN
+• calcium + vitamin D daily
+• albuterol HFA 2 puffs q4-6h PRN
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Packs/day: 2.00
+    Years: 51.00
+    Pack years: 102.00
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with son.
+  Retired construction worker.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+  Independent in ADLs.
+
+Family History
+Father - MI at 74.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 131/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 96 | Temp 97.7 °F (Oral) | Resp 18 | Ht 5' 3" | Wt 165 lb | SpO2 93% | BMI 29.16 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. COPD exacerbation
+   Clinically improved. Follow-up CXR in 6 weeks.
+
+f/u 3 mo
+
+Electronically signed by Teresa Alvarez, NP on 11/25/2024

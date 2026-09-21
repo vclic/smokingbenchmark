@@ -1,0 +1,46 @@
+PROGRESS NOTE – Hospital Discharge Follow-up
+Patient: Jose Henderson (M), DOB 9/15/1968, age 56
+DOS: 09/15/2024
+Author: Farah Siddiqui, MD, Primary Care
+
+CHIEF COMPLAINT: F/u after recent hosp for pneumonia.
+
+HPI: Pt is a 56 yo male s/p recent admit for CAP, discharged on abx, now here for f/u appt, reports improved cough and decrsd SOB since d/c, denies fevers/chills, some fatigue [inaudible] but overall doing better per pt and his wife who accompanies him today, appetite improving, sleeping better lyng flat now which is notable given hx of HFrEF, no chest pain no palpitations, BPH sx stable on tamsulosin no change in urinary stream or nocturia, GERD sx well ctrl'd on omeprazole no heartburn reported today.
+
+[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/22/2023 — retained in chart, may not reflect current status]:
+"Pt seen for routine HTN/GERD f/u, BP 138/86, well appearing, no acute distress, continues lisinopril 20mg daily, GERD sx controlled on omeprazole 20mg daily, BPH stable on tamsulosin 0.4mg qhs, pt denies chest pain SOB or edema at that time, EKG NSR no acute changes, labs reviewed BMP unremarkable, plan continue current meds f/u in 6 months, pt counseled on low salt diet and adherence to meds."
+[END COPIED TEXT]
+
+PMH/Problem List:
+1. N40.1 - Benign prostatic hyperplasia with LUTS
+2. I10 - Essential hypertension
+3. K21.9 - GERD
+4. I50.22 - Chronic systolic (congestive) heart failure, reduced EF
+5. J18.9 - Pneumonia, unspecified organism (recent admission, resolving) - outdated entry, may need updating
+6. E78.5 - Hyperlipidemia (chart carried forward, unclear current status)
+
+Smoking status: Unknown if ever smoked
+
+ROS: Otherwise negative except as above, denies hemoptysis, denies unintentional weight loss, denies new leg swelling.
+
+PHYSICAL EXAM:
+Vitals: BP 132/80, HR 78, RR 16, Temp 98.4F, SpO2 96% RA
+Gen: well-appearing, NAD
+Lungs: mild bibasilar crackles, improved from discharge exam, no wheeze
+CV: RRR, S3 present, no murmur appreciated, no JVD
+Abd: soft, NT/ND
+Ext: trace edema bilat, no c/c/e otherwise
+
+LABS/DATA: CXR from discharge reviewed showed improving infiltrate; BNP mildly elevated, stable from prior; BMP wnl.
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, resolving clinically and radiographically - continue current abx course to complete, f/u CXR in 6-8 wks to confirm resolution.
+2. HFrEF - stable, continue GDMT, monitor wt daily, follow up with cardiology as scheduled.
+3. HTN - well controlled today, continue current regimen.
+4. GERD - stable on omeprazole, continue.
+5. BPH - stable on tamsulosin, continue, will recheck PSA at next visit.
+6. Lung cancer screening was discussed but deferred until smoking history can be obtained; pt/family to provide additional info on this at next visit given documentation currently unclear on this point.
+
+F/u in 4 weeks or sooner if worsening sx, pt verbalized understanding of plan, questions answered, RTC prn.
+
+Electronically signed: Farah Siddiqui, MD

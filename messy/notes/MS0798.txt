@@ -1,0 +1,48 @@
+INTERNAL MEDICINE RESIDENT NOTE
+Patient: Wei Lee (M), DOB 1/15/1973, Age 52
+DOS: 08/14/2025
+Author: Michael Dunn, DO (resident) — attending attestation below
+
+CC: f/u HTN, CKD stage 3, DM
+
+HPI: Mr Lee returns to clinic for routine f/u of hypertension and chronic kidney disease stage 3. He reports doing reasonably well, no chest pain no SOB no edema. BP logs at home mostly in 130s/80s. Denies polyuria polydipsia. Says he has been more consistent w/ meds this month. No new complaints today, feels well overall, some fatigue after work but attributes to poor sleep.
+
+---COPIED FORWARD FROM PRIOR VISIT 03/02/2023---
+Pt seen for f/u HTN and CKD3. BP 138/86 HR 72. Labs reviewed, creatinine stable at 1.4, eGFR ~52. Pt counseled on low sodium diet and renal-friendly diet, avoid NSAIDs. Continue lisinopril 20mg daily, continue metformin. Pt denies chest pain SOB. Denies tobacco use currently — pt reports smoked half a pack (about 10 cigarettes) per day from age 21 until he quit at age 28; he does not smoke now. Quit smoking in 2001. Pt also reports he quit drinking alcohol in 2016 and has remained abstinent since. RTC 6 months or sooner if needed.
+---END COPIED TEXT---
+
+Social Hx (updated today): Smoking status reviewed again with patient at todays visit — he confirms he no longer smokes, quit smoking in 2001, prior history of smoking half a pack (about 10 cigarettes) per day starting at age 21 until quitting at age 28. No vaping no other tobacco products. Alcohol: quit drinking alcohol in 2016, denies current use. No illicit drug use reported.
+
+ROS: Constitutional: no fever no chills. Resp: no cough no wheeze. CV: no chest pain no palpitations. GI: no nausea no vomiting. GU: no dysuria. Endocrine: no polyuria polydipsia today. All other systems reviewed and negative except as noted in HPI.
+
+PMH: Hypertension, CKD stage 3, type 2 diabetes mellitus
+PSH: none significant
+Meds: Lisinopril 20mg daily, Metformin 1000mg BID, Atorvastatin 20mg daily
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 132/84, HR 76, RR 16, Temp 98.2F, Wt 198lb, BMI 29.4
+Gen: well-appearing male NAD
+HEENT: normocephalic atraumatic, no scleral icterus
+Neck: no JVD no thyromegaly
+CV: RRR no m/r/g
+Resp: CTAB no wheezes rales rhonchi
+Abd: soft NT ND +BS
+Ext: no edema, pulses 2+ bilat
+Skin: no rashes
+Neuro: grossly intact, A&Ox3
+
+Labs (reviewed from last week): Cr 1.5 (stable), eGFR 50, K 4.3, HbA1c 7.1, LDL 92, UA no proteinuria significant
+
+Assessment/Plan:
+1. Hypertension — stable on current regimen, BP at goal today, continue lisinopril 20mg daily, recheck in 3 months.
+2. CKD stage 3 — stable, continue to avoid nephrotoxic agents, monitor labs q6mo, low sodium diet reinforced.
+3. Type 2 DM — A1c 7.1 reasonably controlled, continue metformin, reinforce diet and exercise.
+4. Tobacco/health maintenance — patient with prior smoking hx as above, currently non-smoker, no counseling needed regarding cessation as pt already quit; discussed general lung health and risk factors, screening options discussed as appropriate for age/history without specific recommendation documented here.
+5. Alcohol — quit in 2016, continues abstinence, no concerns.
+
+RTC 3 months, sooner if issues arise. Pt verbalizes understanding and agrees with plan.
+
+----
+Attending Attestation: I have seen and examined the patient with Dr Dunn today, 08/14/2025. I concur with the history, exam, and plan as documented above. Discussed case in detail with resident. Agree with assessment and plan as written.
+— Attending, Internal Medicine

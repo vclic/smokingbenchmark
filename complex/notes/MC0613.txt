@@ -1,0 +1,52 @@
+NURSE INTAKE
+DOS: 05/11/2025
+Pt: Rivera, Sandra   DOB: 05/11/1962   Age: 63   Sex: F
+Visit: Cardiology f/u - CHF
+
+Vitals: BP 132/78, HR 78 reg, RR 16, SpO2 96% RA, Wt 210 lb, Ht 64in, BMI 36.1
+Chief complaint per pt: "here for my heart failure check."
+
+SOCIAL HISTORY (templated block, EHR):
+- Tobacco use: See detail below
+- Smoking status: Former smoker
+- Smoking Hx: 1 ppd x5 yrs, then ~1/4 ppd (approx 5 cigs/day) x7 yrs, then ~3/4 ppd (approx 15 cigs/day) x5 yrs, then quit
+- Smokeless tobacco: Not on file
+- Vaping/e-cig: Not on file
+- Alcohol use: occasional, 1-2 drinks/wk
+- Drug use: denies
+- Occupation: retired admin assistant
+- Living situation: lives w/ spouse
+
+Pt denies chest pain today, mild DOE w/ stairs, no PND/orthopnea. Compliant with meds per report. No leg swelling noted by pt.
+
+---
+PHYSICIAN PROGRESS NOTE
+Rachel Goldberg, MD - Cardiology
+DOS 05/11/2025
+
+HPI: 63 yo F w/ hx HFpEF, obesity, OSA, gout presents for routine f/u. Reports doing reasonably well, mild dyspnea on exertion unchanged since last visit, denies orthopnea/PND, no acute weight gain, compliant w diuretic. No CP/palpitations.
+
+Soc Hx: Tobacco - per intake, pt has extensive smoking hx (1 ppd x5 yrs, then ~1/4 ppd x7 yrs, then ~3/4 ppd x5 yrs), currently a former smoker, does not smoke at present. Counseling re: tobacco cessation maintenance reinforced. No further details re: quit timing documented.
+
+ROS: Otherwise neg except as above. + snoring per spouse, known OSA on CPAP, gout controlled on allopurinol.
+
+Exam:
+Gen: NAD, obese habitus
+CV: RRR, no m/r/g, no JVD appreciated
+Lungs: CTAB, no crackles
+Abd: soft, obese, NT
+Ext: trace edema b/l, no clubbing/cyanosis
+
+Labs reviewed: BNP stable at prior baseline, BMP wnl, K 4.2.
+
+Assessment/Plan:
+1. HFpEF - stable, cont current diuretic dose, f/u echo in 6 mo
+2. Obesity - counseled diet/exercise, referral to nutrition offered
+3. OSA - cont CPAP, encourage adherence
+4. Gout - stable on allopurinol, no flare
+5. Tobacco - former smoker, reinforced continued abstinence, general risk reduction discussed
+RTC 3 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 05/11/2025, 16:40) - R. Goldberg, MD:
+Addendum to clarify social hx documentation after chart review request from case mgmt: Confirmed pt's smoking history as noted above - three distinct periods of use (1 ppd x5 yrs; ~1/4 ppd x7 yrs; ~3/4 ppd x5 yrs). Patient reiterated she does not currently smoke. No additional detail on cessation date available in record. No change to plan.

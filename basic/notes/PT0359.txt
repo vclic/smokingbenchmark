@@ -1,0 +1,73 @@
+General Medicine Clinic Office Visit
+
+Patient: KIM, Thomas    MRN: 77619623
+DOB: 03/08/1972    Age: 53 y.o.    Sex: Male
+Date of Service: 12/15/2025    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Thomas Kim is a 53 y.o. male who presents for routine follow-up of chronic conditions.
+No new concerns. Ran out of one medication last week.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2014)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 10 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with wife.
+  Works as a bus driver.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+
+Family History
+Parents deceased, causes unknown. Father smoked 2 ppd, died of emphysema at 66.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 127/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 71 | Temp 98.8 °F (Oral) | Resp 14 | Ht 6' 2" | Wt 226 lb | SpO2 95% | BMI 29.02 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Hypercholesterolemia
+   Tolerating statin; recheck lipids in 1 yr.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Steven Park, MD on 12/15/2025

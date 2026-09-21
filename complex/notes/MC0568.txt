@@ -1,0 +1,44 @@
+PULMONOLOGY H&P – FOLLOW-UP VISIT
+Patient: Linda Long | DOB: 2/5/1964 | Age: 59 | Sex: F
+Date of Service: 04/30/2023
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: COPD follow-up, worsening dyspnea on exertion.
+
+HPI: Pt is a 59-year-old female with hx of asthma, HTN, COPD, and PAD presenting for routine follow up. She states, "I get winded just walking to the mailbox now," and reports increased use of albuterol inhaler over the past month, up to 3-4x/day some days the sx are worse then others and she notes some [inaudible] wheezing at night that wakes her. Denies fever, denies chest pain, denies hemoptysis. She reports med compliance overall but admits missing occasional doses of her Advair when she's busy. No recent hospitalizations.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Former smoker
+ Smoking history: Patient reports she smoked a quarter pack (about 5 cigarettes) per day for 11 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for 9 years, and quit smoking at age 38. She confirms she no longer smokes and has not resumed since.
+ Alcohol use: Not on file
+ Drug use: Denies
+ Occupation: Retired
+ Living situation: Lives with spouse
+ Exercise: Not on file
+
+PAST MEDICAL / PROBLEM LIST:
+ J45.909 Asthma, unspecified
+ I10 Essential hypertension
+ J44.9 COPD, unspecified
+ I73.9 Peripheral artery disease, unspecified
+ E78.5 Hyperlipidemia (outdated, resolved per pt, on no lipid meds currently)
+
+MEDICATIONS: Albuterol HFA prn, Fluticasone/salmeterol (Advair) 250/50 BID, Lisinopril 20mg daily, Clopidogrel 75mg daily.
+
+VITALS: BP 138/86, HR 78, RR 18, SpO2 93% RA, Wt 168 lb
+
+EXAM: Alert, mild use of accessory muscles. Lungs with scattered expiratory wheeze bilaterally, no crackles. Cardiac RRR, no murmur. Lower extremities with diminished pedal pulses bilaterally, no edema, no ulceration.
+
+LABS/RESULTS:
+ Spirometry (04/28/2023): FEV1 58% predicted, FEV1/FVC 0.62 - consistent with moderate obstruction.
+ CBC (04/28/2023): WBC 7.1, Hgb 13.4, Plt 245.
+ BMP (04/28/2023): Na 139, K 4.1, Cr 0.9, Glucose 101.
+ ABI (03/15/2023): 0.71 right, 0.68 left - consistent with known PAD.
+
+ASSESSMENT/PLAN:
+1. COPD - moderate obstruction on spirometry, increase in rescue inhaler use. Continue Advair, add short course of prednisone taper, reinforce inhaler technique, discussed pulmonary rehab referral. Lung cancer screening was discussed as part of general preventive care conversation.
+2. Asthma - stable, continue current regimen.
+3. HTN - well controlled on current dose lisinopril.
+4. PAD - stable, continue clopidogrel, follow with vascular surgery as scheduled.
+
+Follow up in 6-8 weeks or sooner if symptoms worsen.

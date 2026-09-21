@@ -1,0 +1,82 @@
+Adult Medicine Office Visit
+
+Patient: WILLIAMS, Maria    MRN: 80343752
+DOB: 05/04/1957    Age: 68 y.o.    Sex: Female
+Date of Service: 10/10/2025    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Maria Williams is a 68 y.o. female who presents for diabetes follow-up.
+Most recent A1c 8.8% (previously 8.7% in June 2025). Checks fasting sugars most mornings, running 110s-160s. No hypoglycemic episodes. She is a former smoker; she was a heavy smoker and quit smoking in December of 2006. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic obstructive pulmonary disease
+• HTN
+• Osteoarthritis
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• albuterol HFA 2 puffs q4-6h PRN
+• lisinopril 40 mg daily
+• chlorthalidone 12.5 mg daily
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• meloxicam 7.5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+
+Family History
+Mother - rheumatoid arthritis. Father - MI at 74.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 153/74 (BP Location: Right arm, Patient Position: Sitting) | Pulse 71 | Temp 97.9 °F (Oral) | Resp 20 | Ht 5' 6" | Wt 160 lb | SpO2 95% | BMI 25.82 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (9/4/2025): A1c 8.8%, Cr 0.86, K 4.2
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.8% - above goal; add empagliflozin 10 mg daily. Foot exam today - monofilament intact.
+2. Chronic obstructive pulmonary disease
+   Reviewed inhaler technique.
+3. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+4. HTN
+   Elevated today; home BP log requested.
+
+RTC 6 months.
+
+Electronically signed by Hannah Weiss, NP on 10/10/2025

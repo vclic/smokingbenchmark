@@ -1,0 +1,82 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Visit
+Date of Service: 12/04/2023
+Author: Kevin Osei, MD
+
+RE: Karen Martinez, DOB 09/19/1958, age 65
+
+Dear Colleague,
+
+Thank you for referring Ms. Martinez, a 65-year-old woman, for evaluation of cough seen today, 12/04/2023, in urgent care.
+
+HPI: Pt reports 5-day history of dry cough, worse at night. No fever. Mild SOB, baseline dyspnea on exertion attributed to known HFrEF. No hemoptysis. No chest pain. Denies sick contacts. Tried OTC cough drops without relief.
+
+PROBLEM LIST (ICD-10):
+- M81.0 Osteoporosis
+- I50.22 Chronic systolic (congestive) heart failure
+- M19.90 Osteoarthritis, unspecified site
+- E66.9 Obesity, unspecified
+- J45.909 Asthma, unspecified (outdated - resolved per pulm eval 2015)
+- K21.9 GERD (outdated, not treated in years)
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Smoking history: Pt reports she smoked 3 packs per day from 1980 until 1991.
+Smokeless tobacco: Not on file
+Alcohol use: Pt quit drinking alcohol in 2011.
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: [blank]
+
+[Copied forward from visit dated 03/14/2019]
+Pt seen for routine follow-up of HFrEF and osteoporosis. Stable on current regimen. Denies chest pain, orthopnea, PND. Weight stable. Continue current meds. DEXA scan reviewed, T-score unchanged. Recommend calcium/vitamin D continued. Follow up in 6 months. Pt counseled on fall precautions given osteoporosis diagnosis. No new complaints at that time. [End copied text]
+
+MEDICATIONS:
+1. Carvedilol 12.5 mg BID
+2. Lisinopril 10 mg daily
+3. Furosemide 20 mg daily
+4. Spironolactone 25 mg daily
+5. Alendronate 70 mg weekly
+6. Calcium carbonate 600 mg BID
+7. Vitamin D3 2000 IU daily
+8. Acetaminophen 500 mg PRN for joint pain
+9. Atorvastatin 20 mg daily
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, no chills, no unintentional weight loss.
+HEENT: No sore throat, no rhinorrhea, no ear pain.
+Cardiovascular: No chest pain, no palpitations, mild exertional dyspnea as noted above.
+Respiratory: Cough as above, no wheeze reported, no hemoptysis.
+GI: No nausea, vomiting, diarrhea, abdominal pain.
+GU: No dysuria, no hematuria.
+Musculoskeletal: Chronic joint pain, no acute change.
+Skin: No rash.
+Neuro: No headache, no dizziness.
+Psych: No depression, no anxiety reported.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78, BP 128/76, RR 16, SpO2 96% RA, Wt 198 lb.
+General: Well-appearing, no acute distress, obese habitus.
+HEENT: Normocephalic, atraumatic. Oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Cardiac: RRR, no murmurs, no gallops.
+Lungs: Mild scattered rhonchi, no wheeze, no crackles. Good air movement bilaterally.
+Abdomen: Soft, nontender, obese, nondistended.
+Extremities: No edema, no cyanosis.
+Skin: Warm, dry, intact.
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis - likely viral. Supportive care, hydration, cough suppressant as needed. Return if worsening fever or dyspnea.
+2. HFrEF - stable today, continue current cardiac regimen, follow with cardiology as scheduled.
+3. Osteoporosis - continue alendronate, calcium/vitamin D.
+4. Osteoarthritis - continue acetaminophen PRN, discussed weight-bearing exercise as tolerated.
+5. Obesity - counseled on diet and activity modification.
+6. Tobacco history - pt is a former smoker; she quit smoking. Reinforced importance of continued abstinence. Lung cancer screening was discussed as an option to review further with primary care.
+7. Alcohol - pt quit drinking alcohol in 2011, no current use.
+
+Will fax copy of note to PCP office. Thank you for allowing us to participate in this patient's care.
+
+Sincerely,
+Kevin Osei, MD
+Urgent Care

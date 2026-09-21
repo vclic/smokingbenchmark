@@ -1,0 +1,79 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Judith Gonzales | DOB: 05/24/1946 | Age: 78 | Sex: F
+Date of Service: 06/24/2024
+Author: Farah Siddiqui, MD
+Location: Urgent Care
+
+CHIEF COMPLAINT: Cough
+
+HPI: Ms. Gonzales is a 78-year-old female with history of asthma, obesity, GERD, and atrial fibrillation presenting today with cough x several days. She states, "I've had this dry hacking cough for about a week and it's keeping me up at night." She denies fever but reports some chest tightness. She notes her inhaler has helped "a little bit but not enough." No hemoptysis, no significant dyspnea at rest, though she notes mild exertional shortness of breath at baseline related to her asthma.
+
+On further questioning regarding tobacco use, patient reports she smokes 30 cigarettes per day and has done so for 36 years. She states, "I know I should quit but it's hard, I've tried before." She continues to smoke despite counseling on multiple prior visits regarding cessation. Note: The templated smoking status field below in the chart auto-populated as "Never Smoker" - this is INCORRECT and does not reflect the patient's actual tobacco history as documented above; the field has not been updated in the system.
+
+Smoking status: Never Smoker [outdated/incorrect field - see HPI for accurate history]
+
+Patient also reports she quit drinking alcohol in 2003 and has remained abstinent since. No illicit drug use reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. J45.909 - Asthma, unspecified
+2. E66.9 - Obesity, unspecified
+3. K21.9 - Gastro-esophageal reflux disease without esophagitis
+4. I48.91 - Atrial fibrillation, unspecified
+5. M54.5 - Low back pain (resolved, chronic, outdated entry - patient reports resolved x 2 years)
+6. N39.0 - UTI (2019, resolved)
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN wheeze/cough
+2. Fluticasone/salmeterol (Advair) 250/50 1 puff BID
+3. Omeprazole 20 mg PO daily
+4. Apixaban 5 mg PO BID
+5. Metoprolol succinate ER 50 mg PO daily
+6. Montelukast 10 mg PO qHS
+7. Calcium carbonate/vitamin D supplement daily
+8. Multivitamin daily
+9. Acetaminophen 500 mg PRN pain
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+HEENT: Denies sore throat, ear pain, nasal congestion, sinus pressure.
+Cardiovascular: Denies chest pain, palpitations (though known Afib, currently asymptomatic per patient), lower extremity edema.
+Respiratory: Positive for cough as above. Denies hemoptysis, wheezing beyond baseline, pleuritic chest pain.
+Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, abdominal pain. Reports occasional heartburn, stable on current regimen.
+Genitourinary: Denies dysuria, frequency, urgency, hematuria.
+Musculoskeletal: Denies joint pain, swelling, new back pain.
+Neurological: Denies headache, dizziness, syncope, focal weakness, numbness.
+Skin: Denies rash, lesions, pruritus.
+Psychiatric: Denies depression, anxiety, sleep disturbance beyond cough-related.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 98.6F, HR 78 (irregularly irregular), BP 134/82, RR 16, SpO2 96% on room air, Wt 198 lb, BMI 34.2
+General: Alert, well-nourished, in no acute distress, seated comfortably.
+HEENT: Normocephalic, atraumatic. Oropharynx clear without erythema or exudate. TMs clear bilaterally. No sinus tenderness.
+Neck: Supple, no lymphadenopathy, no JVD, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs, rubs, or gallops appreciated. No peripheral edema. Pulses 2+ bilaterally.
+Respiratory: Mild expiratory wheeze bilaterally, no rales, no rhonchi. Breathing comfortably, no accessory muscle use, no retractions.
+Abdomen: Soft, obese, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No cyanosis, clubbing, or edema.
+Skin: Warm, dry, intact.
+Neurological: Alert and oriented x3, no focal deficits noted.
+
+ASSESSMENT:
+78-year-old female with cough, likely acute bronchitis versus asthma exacerbation, in setting of longstanding tobacco use. History of asthma, obesity, GERD, and atrial fibrillation as noted.
+
+1. Cough / possible asthma exacerbation - will treat with short course of oral steroids and increase inhaler frequency; supportive care advised.
+2. Tobacco use disorder - patient smokes 30 cigarettes per day for 36 years total, continues to smoke despite counseling today regarding cessation resources including nicotine replacement and quitline referral. Discussed potential benefits of lung cancer screening conversation with primary care provider at future visit.
+3. Atrial fibrillation - stable, continue apixaban, follow with cardiology as scheduled.
+4. GERD - stable on omeprazole, continue current regimen.
+5. Obesity - discussed weight management resources, referral to nutrition offered.
+
+PLAN:
+- Prednisone taper x5 days
+- Continue albuterol PRN and Advair
+- Encourage smoking cessation, provided counseling and quitline information again today
+- Follow up with PCP within 1-2 weeks or sooner if worsening symptoms
+- Return to urgent care or ED if worsening shortness of breath, chest pain, or hemoptysis
+
+Electronically signed by Farah Siddiqui, MD, 06/24/2024

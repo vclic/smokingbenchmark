@@ -1,0 +1,50 @@
+URGENT CARE VISIT NOTE
+DOS: 06/19/2025
+Patient: Raymond Bennett | DOB: 01/20/1957 | Age: 68 | Sex: M
+Provider: Quentin Hale, PA-C
+
+--- NURSE INTAKE ---
+CC: cough x5 days, worse at night.
+VS: T 98.4, HR 82, RR 18, BP 132/78, SpO2 96% RA.
+Pt states cough dry, occasional wheeze, no fever, no travel.
+Hx OSA on CPAP, osteoporosis on calcium/vit D.
+Allergies: NKDA.
+Meds reconciled - see chart.
+
+--- HPI (Hale, PA-C) ---
+68 yo M presents with 5 day hx of cough, dry, worse supine, mild sore throat, denies SOB at rest, denies chest pain, denies hemoptysis. Uses CPAP nightly for OSA, reports compliance ~6hrs/night per device download. No fevers/chills. No sick contacts recalled. No recent travel. Denies GERD sx though has had reflux in past.
+
+ROS otherwise negative except as above. Appetite fine, no wt loss.
+
+--- SOCIAL HISTORY ---
+Tobacco: never smoker - patient reports he has never smoked cigarettes, not even experimentally.
+Alcohol: occasional beer on weekends.
+Lives with spouse, retired postal worker.
+Exercise: walks daily ~20 min.
+
+[COPIED FORWARD FROM VISIT 11/14/2022 - PCP note, left in chart by error]
+68 yo... (note: age listed then was 65, discrepancy due to copy-forward)... M here for routine f/u osteoporosis and OSA. DEXA reviewed, T-score improved slightly on treatment. CPAP settings reviewed, pt tolerating well, AHI on last download 3.2. Denies chest pain, denies palpitations. Bowel/bladder normal. No falls since last visit. Vaccines up to date per pt report. Plan: continue alendronate, continue CPAP, f/u in 6 months, labs ordered (CMP, Vit D, TSH). Pt counseled on fall precautions given osteoporosis dx. Return precautions given.
+[END COPIED SECTION]
+
+--- EXAM ---
+Gen: NAD, comfortable, mild intermittent dry cough during visit.
+HEENT: oropharynx mildly erythematous, no exudate. Nares patent.
+Neck: no LAD, no JVD.
+Lungs: mild expiratory wheeze bilat bases, no crackles, no stridor.
+CV: RRR, no m/r/g.
+Abd: soft, NT, ND.
+Ext: no edema.
+Skin: no rash.
+
+--- ASSESSMENT/PLAN ---
+1. Acute bronchitis, likely viral - supportive care, fluids, rest, OTC antitussive prn. Return if worsening dyspnea, fever, or hemoptysis.
+2. OSA - continue CPAP, compliance reportedly adequate; recheck at next sleep clinic visit.
+3. Osteoporosis - continue current regimen, no acute issues today.
+Discussed general lung health; noted patient is a lifelong never-smoker so tobacco-related counseling not indicated beyond routine health maintenance reminders.
+Return to clinic or ED for worsening symptoms.
+
+Electronically signed: Quentin Hale, PA-C, 06/19/2025 11:42am
+
+--- ADDENDUM (same day, later) ---
+06/19/2025 3:15pm - Addendum by Q. Hale, PA-C:
+Pt called clinic reporting mild improvement in cough after taking OTC guaifenesin as advised. No new symptoms, no fever, breathing comfortable. Advised to continue current plan, follow up if worsens. Confirmed again for chart accuracy: patient is 68 years old (DOB 01/20/1957) and has never been a cigarette smoker - clarifying prior copy-forward note age discrepancy from 2022 visit, unrelated to today's smoking status documentation. No further action needed at this time.

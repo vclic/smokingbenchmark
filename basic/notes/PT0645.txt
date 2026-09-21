@@ -1,0 +1,70 @@
+Internal Medicine Clinic Note
+
+Patient: RODRIGUEZ, Harold    MRN: 19615282
+DOB: 01/26/1956    Age: 68 y.o.    Sex: Male
+Date of Service: 07/29/2024    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Cough x 13 days
+
+Subjective:
+Harold Rodriguez is a 68 y.o. male who presents for cough and congestion.
+Cough for 13 days, dry. No fevers. Grandchild was sick last week. No hemoptysis.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity	2006
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty
+• Rotator cuff repair (2011)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• (none)
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Unable to obtain - pt with expressive aphasia; daughter unsure of history.
+
+Family History
+Mother - CHF, d. age 88.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 130/68 (BP Location: Right arm, Patient Position: Sitting) | Pulse 78 | Temp 97.9 °F (Oral) | Resp 20 | Ht 5' 9" | Wt 241 lb | SpO2 97% | BMI 35.58 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally, no wheezes
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (7/21/2024): Cr 1.04, K 4.1, Hgb 14.2
+
+Assessment & Plan
+1. Cough
+   Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+
+RTC 6 months.
+
+Electronically signed by Laura Castellano, FNP-C on 07/29/2024

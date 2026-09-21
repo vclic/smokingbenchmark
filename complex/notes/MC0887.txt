@@ -1,0 +1,55 @@
+NURSE INTAKE
+Date of Service: 01/24/2026
+Patient: Edward Davis, M, DOB 01/24/1955, Age: 71
+Author: Teresa Alvarez, NP
+
+Vitals: BP 138/84, HR 76, RR 16, Temp 97.8F, Wt 198 lb, Ht 5'9", BMI 29.2
+Chief complaint: f/u HTN, DM2
+
+HPI (per pt): Pt is a 71 yo M presenting for routine f/u of HTN and DM2. Pt states, "I've been checking my sugars most mornings, they run in the 130s." Denies chest pain, SOB, edema. Reports mild polyuria at night x several wks. Denies dysuria, denies hematuria. Pt reports mood stable on current antidepressant regimen, sleep fair. No new falls, no fractures.
+
+Soc Hx: Pt reports he quit drinking alcohol in 2015 and has not resumed since. Denies illicit drug use. Lives w/ spouse, retired.
+
+ROS: Constitutional: no fever, no chills, no wt loss. Eyes: no visual changes. ENT: no sore throat. CV: no CP, no palpitations. Resp: no cough, no dyspnea. GI: no N/V/D, no abd pain. GU: nocturia as above, no dysuria. MSK: no joint swelling, chronic mild low back pain unchanged. Skin: no rashes. Neuro: no focal weakness, no numbness. Psych: mood stable, no SI/HI. Endo: as per HPI. Heme/Lymph: no easy bruising. All other systems reviewed and negative.
+
+Meds: Lisinopril 20mg daily, Amlodipine 5mg daily, Metformin 1000mg BID, Glipizide 5mg daily, Tamsulosin 0.4mg qhs, Finasteride 5mg daily, Alendronate 70mg weekly, Sertraline 100mg daily, Vitamin D3 2000 IU daily, Calcium carbonate 600mg BID, Aspirin 81mg daily, Atorvastatin 40mg daily.
+
+Allergies: NKDA
+
+Labs (from 01/20/2026):
+A1c: 7.6% (prior 7.4% on 10/2025)
+Fasting glucose: 142 mg/dL
+BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, eGFR >60
+Lipid panel: TC 172, LDL 96, HDL 42, TG 168
+Urine microalbumin/Cr ratio: 28 mg/g (mildly elevated)
+PSA (from BPH monitoring, 11/2025): 1.8 ng/mL, stable
+Vitamin D: 32 ng/mL (WNL)
+
+PHYSICAL EXAM
+Gen: well-appearing, NAD, pleasant, conversant.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear, no thrush.
+Neck: supple, no LAD, no thyromegaly, no JVD.
+CV: RRR, no m/r/g, normal S1/S2, distal pulses 2+ bilaterally.
+Resp: CTAB, no wheeze/rales/rhonchi, normal effort.
+Abd: soft, NT/ND, +BS, no organomegaly.
+Ext: no edema, no cyanosis, no clubbing.
+Skin: warm, dry, no lesions.
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady.
+Psych: mood euthymic, affect appropriate.
+
+PHYSICIAN PROGRESS NOTE
+Seen and examined the patient today, 01/24/2026, in conjunction with NP Alvarez's intake above. I agree with the documented HPI and exam findings with the following additions/plan.
+
+ASSESSMENT/PLAN:
+1. Hypertension - reasonably controlled today at 138/84. Continue lisinopril and amlodipine at current doses. Recheck BP at next visit.
+2. Type 2 Diabetes Mellitus - A1c up slightly to 7.6% from 7.4%. Will increase metformin adherence counseling, continue glipizide. Recheck A1c in 3 months. Discussed diet and exercise.
+3. Tobacco use - Pt currently smokes cigarettes; reports smoking half a pack (about 10 cigarettes) per day since 1980. Advised cessation, discussed risks of continued smoking including cardiovascular and pulmonary disease. Offered nicotine replacement therapy and referral to tobacco cessation counseling; pt declined at this time but agreed to reconsider. Lung cancer screening discussed as an option to review further at a future visit.
+4. BPH - PSA stable, tamsulosin/finasteride continued, nocturia improved somewhat per pt report.
+5. Osteoporosis - continue alendronate and calcium/vit D, DEXA due for repeat in ~1 yr.
+6. Depression - stable on sertraline, mood euthymic on exam, continue current dose.
+7. Alcohol use history - quit drinking alcohol in 2015, no current use, no further intervention needed at this time.
+
+Return to clinic in 3 months or sooner if concerns. Pt verbalized understanding and agreement with plan.
+
+--- ADDENDUM (later same day, 01/24/2026, 4:45 PM) ---
+Addendum by T. Alvarez, NP: Pt called back after visit to clarify that his morning glucose readings this week have actually been slightly higher than reported earlier, averaging around 145-150. Advised to continue current regimen and monitor closely; will address further at 3-month f/u or sooner via portal message if readings remain elevated. No other changes to plan above.

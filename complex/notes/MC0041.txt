@@ -1,0 +1,56 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Mei Perry | DOB: 4/8/1958 (age 67) | Sex: F
+DOS: 09/18/2025
+Author: Kevin Osei, MD
+
+CC: F/u HTN, T2DM.
+
+HPI: 67 yo F w/ hx HTN, T2DM, GERD, CAD s/p CABG, obesity, osteoporosis, OA presents for routine f/u. Reports BS mostly in 120-150s fasting per home log. Denies chest pain, SOB, palpitations. GERD sx well controlled on PPI. No new joint complaints beyond baseline knee OA pain.
+
+PMH:
+- HTN
+- T2DM
+- GERD
+- CAD, s/p CABG x3 (2025)
+- Obesity
+- Osteoporosis
+- Osteoarthritis
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Cigarettes/day: Not on file
+Years smoked: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: None reported
+Occupation: Retired
+Living situation: Lives w/ spouse
+Smoking detail (free text): Pt started smoking approx 1/4 pack (about 5 cigs/day) at age 14 and continued at that rate for many yrs; she reports quitting smoking in 2025. She states she quit smoking right after her bypass surgery. Pt currently does not smoke.
+
+MEDS: Lisinopril 20mg daily, metformin 1000mg BID, atorvastatin 40mg qhs, omeprazole 20mg daily, aspirin 81mg daily, alendronate 70mg weekly.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 132/78, HR 72, RR 16, T 98.4F, Wt 182 lb, BMI 31.2.
+
+EXAM: Gen - NAD, A&Ox3. CV - RRR, no m/r/g, well-healed sternotomy scar noted. Lungs - CTAB. Abd - soft, NT/ND. Ext - no edema. MSK - mild crepitus bilateral knees, no effusion.
+
+LABS (recent):
+08/30/2025 - HbA1c 7.1% (prior 7.4% on 05/15/2025)
+08/30/2025 - Fasting glucose 128 mg/dL
+08/30/2025 - LDL 88 mg/dL, HDL 52 mg/dL, TG 140 mg/dL
+08/30/2025 - Cr 0.9 mg/dL, eGFR >60
+07/2025 - DEXA: T-score -2.6 lumbar spine (osteoporosis, stable from prior)
+
+ASSESSMENT/PLAN:
+1. HTN - well controlled, continue lisinopril.
+2. T2DM - improved A1c, continue metformin, reinforce diet/exercise.
+3. CAD s/p CABG x3 (2025) - stable, continue statin/ASA, cardiology f/u as scheduled.
+4. Tobacco use - former smoker, quit 2025 following bypass surgery; no longer smokes; counseled to continue abstinence. Lung cancer screening discussed with pt, will revisit at next visit.
+5. GERD - stable on PPI.
+6. Obesity - continue lifestyle counseling.
+7. Osteoporosis - continue alendronate, calcium/vit D.
+8. OA - continue APAP PRN, PT referral offered.
+
+RTC 3 months or sooner if concerns. Pt verbalizes understanding, all questions answered.
+
+/Kevin Osei, MD

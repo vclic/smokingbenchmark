@@ -1,0 +1,95 @@
+RESIDENT PRE-OPERATIVE EVALUATION NOTE
+Author: Elena Markovic, MD (Internal Medicine, PGY-3)
+Attending attestation: Dr. R. Osei, reviewed and agree with resident's assessment and plan as documented below.
+Date of Service: 08/17/2025
+
+Patient: Sharon Garcia
+DOB: 06/01/1959 (age 66 y/o F)
+Referring service: Orthopedic Surgery - pre-op clearance for total knee replacement, right.
+
+CC: Pre-op eval for TKA.
+
+HPI: Pt is a 66 y/o F w/ hx HFrEF, CAD, BPH, AFib, OA, osteoporosis p/w for pre-op medical clearance ahead of scheduled R TKA. Reports progressive R knee pain, worse w/ ambulation, limiting mobility. Denies CP, PND, orthopnea currently at baseline. Some mild dyspnea on exertion c/w known HFrEF, unchanged. No recent syncope, no palpitations reported today though hx AFib on anticoagulation.
+
+[COPY-FORWARD TEXT FROM PRIOR VISIT 03/02/2024 - CARDIOLOGY F/U - left in chart, not updated]
+"Pt seen in f/u for HFrEF and AFib. EF last documented 35% on TTE 01/2024. Rate well controlled on metoprolol succ. INR therapeutic on last check. No new murmurs. JVP not elevated. Lower extremities without edema. Continue current regimen, f/u 6 mo. Pt denies chest pain, denies syncope. Discussed importance of medication adherence and fluid restriction. RTC 6 months or sooner if symptoms worsen."
+[END COPY-FORWARD]
+
+PMH: HFrEF, CAD (s/p PCI per pt report, records pending), BPH, AFib (on anticoagulation), OA, osteoporosis.
+
+PSH: None significant per pt.
+
+MEDICATIONS (per med rec, reviewed w/ pt):
+1. Metoprolol succinate 50mg daily
+2. Apixaban 5mg BID
+3. Lisinopril 10mg daily
+4. Furosemide 20mg daily
+5. Spironolactone 25mg daily
+6. Atorvastatin 40mg qHS
+7. Aspirin 81mg daily
+8. Tamsulosin 0.4mg qHS
+9. Alendronate 70mg weekly
+10. Calcium/Vit D supplement daily
+11. Acetaminophen PRN knee pain
+
+Allergies: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Limited 2/2 knee pain
+Diet: Not on file
+
+ROS: (16-pt system reviewed, templated)
+Constitutional: Denies fever, chills, wt loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, hearing loss.
+Cardiovascular: Denies chest pain, denies palpitations today. Pos hx AFib.
+Respiratory: Denies cough, denies hemoptysis. Reports mild DOE at baseline.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Reports nocturia c/w known BPH.
+Musculoskeletal: Pos R knee pain as above. Denies other joint pain.
+Skin: Denies rash.
+Neuro: Denies HA, denies focal weakness.
+Psych: Denies depression, denies anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising beyond expected on anticoagulation.
+Allergic/Immunologic: Denies.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68 reg, RR 16, T 98.2F, SpO2 96% RA, Wt 172 lb, Ht 5'4"
+General: NAD, well-appearing, appropriate for stated age.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD, no LAD, no thyromegaly.
+CV: RRR, no murmurs/rubs/gallops appreciated today (though pt has hx AFib, currently in what sounds/appears reg rhythm on exam, will confirm w/ EKG).
+Lungs: CTAB, no wheezes/rales/rhonchi.
+Abd: Soft, NT/ND, +BS.
+Extremities: No edema. R knee w/ crepitus, mild effusion, decreased ROM 2/2 pain. No calf tenderness.
+Skin: Warm, dry, intact.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+
+LABS/STUDIES:
+CBC, BMP wnl per recent labs on file.
+EKG: pending today, will review prior to sign-off.
+TTE: reference prior study, EF 35% (see copy-forward note above, updated echo not yet obtained this visit).
+
+ASSESSMENT AND PLAN:
+66 y/o F w/ HFrEF, CAD, AFib, BPH, OA, osteoporosis here 08/17/2025 for pre-op medical clearance prior to R TKA.
+
+1. Tobacco use: Pt continues to smoke despite prior counseling on multiple occasions; today reports ongoing use of approximately three-quarters of a pack (about 15 cigarettes) per day, and per pt this pattern has been consistent for 45 years. Counseled again re: smoking cessation, perioperative risks incl. wound healing, pulmonary complications, and cardiac risk given known CAD/HFrEF. Offered nicotine replacement/cessation resources; pt declined at this time. Will re-address at f/u.
+2. HFrEF/CAD: Stable by history, continue current cardiac regimen as above. Recommend pre-op EKG today, consider cardiology re-clearance given cardiac hx prior to OR date. No acute changes on exam.
+3. AFib: Continue anticoagulation, hold per anesthesia/ortho bridging protocol closer to surgery date - will coordinate.
+4. BPH: Continue tamsulosin, no acute issues.
+5. Osteoporosis: Continue alendronate, calcium/vit D.
+6. OA/pre-op: Cleared from medicine standpoint pending EKG review and cardiology input given cardiac comorbidities; will communicate final clearance to ortho once above obtained.
+7. Health maintenance: Lung cancer risk discussed in context of long smoking history; screening options discussed with patient in general terms.
+
+Disposition: Return to clinic or contact office w/ any new symptoms prior to surgery. Will fax clearance addendum once EKG reviewed.
+
+Attending Attestation: I have personally seen and examined the patient along with the resident. I have reviewed and discussed the resident's assessment and plan and agree with the findings and plan as documented. - R. Osei, MD

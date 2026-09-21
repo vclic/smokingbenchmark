@@ -1,0 +1,59 @@
+Pulmonology Follow-up Progress Note
+Patient: Paula Okafor | DOB: 4/16/1955 | Age: 70 | Sex: F
+Date of Service: 4/16/2025
+Author: Julia Brennan, MD (NP progress note co-signed)
+
+CC: F/u s/p COPD exacerbation, recent ED visit.
+
+HPI: 70 yo F w/ hx CKD stage 3, CAD, HFrEF, depression, gout, p/w f/u after ED tx for COPD exac ~1 wk ago. Pt states "I still get winded walking to the mailbox, but it's a lot better than last week." Denies fever, chest pain. Reports improved cough, less sputum production. "I've been using the inhalers like you told me," she reports. No hemoptysis. No orthopnea change from baseline per pt. Appetite fair. Sleep disrupted 2/2 cough at night x past several days.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2024 ---
+70(then 69) yo F w/ COPD, CKD3, CAD s/p PCI 2018, HFrEF (EF 35% on TTE 2023), depression on sertraline, gout on allopurinol. Pt reports doing well overall, ambulates w/o assistive device, lives w/ spouse. Denies SI/HI. C/o occasional joint pain, gout flares managed w/ colchicine PRN. Labs reviewed 10/28/2024: BUN 28, Cr 1.6, K 4.3, BNP 620. Plan: cont current meds, f/u 6 mo, routine labs prior to next visit, DEXA ordered.
+--- END COPIED FORWARD SECTION ---
+
+ROS: Otherwise negative except as above. No new edema, no palpitations, no dysuria.
+
+Social History: Never smoker - pt denies any personal tobacco use, has never smoked cigarettes, cigars, or used other tobacco products. Lives with spouse; spouse is a current smoker, ~1 pack/day at home, so there is ongoing secondhand smoke exposure in the household. Pt was counseled on importance of minimizing exposure and consideration of smoke-free zones at home. No alcohol use. No illicit drug use. Retired schoolteacher.
+
+Meds: Furosemide 40mg daily, metoprolol succinate 50mg daily, lisinopril 10mg daily, atorvastatin 40mg daily, sertraline 100mg daily, allopurinol 300mg daily, colchicine 0.6mg PRN, albuterol/ipratropium inhaler PRN, tiotropium daily, prednisone taper (currently on day 5 of 10 day taper from ED d/c).
+
+Allergies: NKDA.
+
+Vitals: BP 132/78, HR 76, RR 18, T 98.2F, SpO2 93% RA, Wt 168 lb.
+
+Exam:
+Gen: NAD, comfortable, conversant.
+HEENT: unremarkable.
+CV: RRR, S1S2, no m/r/g appreciated, no significant JVD.
+Resp: mild expiratory wheeze bilat bases, no accessory muscle use at rest, no crackles.
+Abd: soft, NT/ND.
+Ext: trace bilateral pedal edema, unchanged from baseline.
+Neuro: A&Ox3, no focal deficits.
+
+Labs/Results (reviewed today):
+- CMP 4/15/2025: Na 138, K 4.1, Cl 102, CO2 24, BUN 26, Cr 1.5 (baseline), eGFR 38.
+- BNP 4/15/2025: 540 (down from 620 in 11/2024).
+- CBC 4/15/2025: WBC 8.9, Hgb 12.4, Plt 240.
+- ABG not repeated today, prior ABG in ED 4/09/2025 showed mild resp acidosis, resolved on d/c.
+- CXR 4/09/2025 (ED): hyperinflation, no acute infiltrate.
+- PFTs on file from 2/2024: FEV1/FVC consistent w/ moderate obstructive pattern.
+
+Assessment:
+1. COPD exacerbation, improving - s/p ED tx, currently on steroid taper and continued bronchodilators. No signs of current infection requiring abx at this time.
+2. CAD - stable, no anginal sx today.
+3. HFrEF - euvolemic-ish exam, BNP trending down from prior, cont diuretic.
+4. CKD stage 3 - stable, Cr near baseline, avoid nephrotoxic agents, renally dose meds as needed.
+5. Depression - stable on current sertraline dose, pt denies worsening mood, no SI.
+6. Gout - no active flare today, cont allopurinol/colchicine PRN.
+7. Tobacco/social - patient is a lifelong never-smoker; however household secondhand smoke exposure noted given spouse's ~1 pack/day habit at home. Discussed environmental exposure reduction strategies with patient given her COPD; lung cancer screening topic briefly discussed conceptually but not further addressed today.
+
+Plan:
+- Complete prednisone taper as directed, f/u if worsening dyspnea, fever, or increased sputum purulence.
+- Cont tiotropium daily, albuterol/ipratropium PRN.
+- Recheck CMP, BNP in 4 wks or sooner if symptomatic.
+- Cont home CV meds as above, no changes today.
+- Counseled re: secondhand smoke exposure at home; encouraged spouse cessation resources, offered pamphlet.
+- F/u pulm clinic in 4-6 wks, sooner if needed.
+- Pt verbalizes understanding of plan.
+
+Signed electronically by Julia Brennan, MD.

@@ -1,0 +1,102 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Pulmonology Clinic - Follow-up: Incidental Lung Nodule
+Date of Service: 09/07/2024
+Author: Daniel Reyes, MD (Resident); Attending attestation below
+
+Patient: Brenda Patel
+DOB: 08/22/1951 (Age 73)
+MRN: 00219847
+
+CHIEF COMPLAINT: Follow-up of incidental right upper lobe pulmonary nodule identified on CT chest performed for unrelated reasons.
+
+HPI: Ms. Patel is a 73-year-old woman who presents today, 9/7/2024, for follow-up regarding a 6mm nodule seen incidentally on a chest CT obtained in the ED for evaluation of chest pain in July. She denies hemoptysis, unintentional weight loss, night sweats, or fevers. She reports mild intermittent dyspnea on exertion which she attributes to her known asthma and OSA, both of which are relatively well controlled on current regimen. She has not had any new cough. She is anxious about the nodule and asks about next steps; general nodule surveillance was discussed with her, and questions about lung cancer screening in general terms were addressed without making any determination today.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2024 (Endocrinology, Dr. S. Whitfield) - retained for reference, may not reflect current status***
+Pt here for T2DM and hypothyroidism follow up. A1c 7.1, TSH 3.2 on current levothyroxine dose. Reports occasional nocturnal hypoglycemia, advised to adjust dinner insulin timing. Osteoporosis - continues alendronate weekly, last DEXA reviewed, T-score improved slightly at hip. Denies new fractures or falls. Discussed calcium/vitamin D intake goals. Will recheck labs in 6 months. Return visit scheduled per endocrine protocol.
+***END COPIED FORWARD TEXT***
+
+REVIEW OF SYSTEMS (templated, all systems reviewed unless noted):
+Constitutional: Denies fever, chills, unintentional weight loss, fatigue.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, edema.
+Respiratory: Endorses mild exertional dyspnea as above; denies cough, hemoptysis, wheezing beyond baseline asthma.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Denies new joint pain, denies falls.
+Skin: Denies rash, lesions.
+Neuro: Denies headache, dizziness, numbness, weakness.
+Psych: Denies depression, anxiety beyond situational worry about nodule.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Heme/Lymph: Denies easy bruising, bleeding, lymphadenopathy.
+Allergic/Immunologic: Denies new allergies.
+All other systems reviewed and negative except as documented in HPI.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Never smoker
+Smoking status detail: Lifelong non-smoker, denies any history of cigarette, cigar, or pipe use
+Pack-years: N/A
+Secondhand smoke exposure: Not on file
+Vaping/e-cigarette use: Not on file
+Alcohol use: Occasional, 1-2 glasses wine per week
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Reports walking 20 minutes most days
+Diet: Not on file
+
+PAST MEDICAL HISTORY:
+1. Hyperlipidemia
+2. Osteoporosis
+3. Type 2 diabetes mellitus
+4. Hypothyroidism
+5. Obstructive sleep apnea, on CPAP
+6. Asthma
+
+MEDICATIONS (per chart, reconciled today):
+1. Atorvastatin 40mg PO qHS
+2. Alendronate 70mg PO weekly
+3. Metformin 1000mg PO BID
+4. Levothyroxine 75mcg PO daily
+5. Albuterol HFA inhaler PRN
+6. Fluticasone/salmeterol 250/50 one puff BID
+7. Calcium carbonate 600mg with vitamin D3 daily
+8. Vitamin D3 2000 IU daily
+9. Aspirin 81mg daily
+10. Insulin glargine 18 units nightly
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 76, BP 128/76, RR 16, SpO2 96% on room air, Wt stable per flowsheet, BMI 27.
+General: Well-appearing, well-nourished woman in no acute distress, appropriately anxious.
+HEENT: Normocephalic, atraumatic, EOMI, PERRLA, oropharynx clear, no thyromegaly appreciated.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Distal pulses intact.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Symmetric chest expansion, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No cyanosis, clubbing, or edema.
+Skin: Warm, dry, intact, no suspicious lesions.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact, normal gait observed on entry to room.
+Psych: Mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+73-year-old woman, date of service 9/7/2024, presenting for follow-up of an incidentally noted right upper lobe pulmonary nodule.
+
+1. Pulmonary nodule, indeterminate - Given size and characteristics, recommend continued surveillance imaging per Fleischner Society guidelines. General principles of nodule follow-up were discussed with the patient. Will obtain follow-up chest CT in 6-12 months per protocol, to be finalized after multidisciplinary review. Patient counseled on symptoms to report (hemoptysis, weight loss, worsening dyspnea).
+2. Tobacco/smoking history: Patient is a lifelong non-smoker with no history of cigarette or other tobacco use; this was confirmed again today and is consistent with prior documentation.
+3. Asthma - well controlled, continue current inhalers, reviewed technique.
+4. OSA - continues CPAP, adherence reportedly good, will review download at next visit.
+5. Type 2 diabetes mellitus - stable, continue metformin and insulin glargine as above, defer further titration to endocrinology.
+6. Hyperlipidemia - continue atorvastatin, lipid panel due at next annual visit.
+7. Osteoporosis - continue alendronate, calcium/vitamin D, follow with endocrinology per their schedule.
+8. Hypothyroidism - continue levothyroxine, TSH monitoring per endocrinology.
+
+Return to clinic in 6 months or sooner with imaging results, or sooner if symptoms progress.
+
+Time spent in visit: 25 minutes, more than half spent in counseling and coordination of care.
+
+---
+ATTENDING ATTESTATION:
+I have personally seen and examined this patient along with Dr. Reyes and discussed the plan of care as outlined above. I concur with the assessment and plan, including continued nodule surveillance and confirmation of the patient's lifelong non-smoker status.
+- Attending Physician, Pulmonology

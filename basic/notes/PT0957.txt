@@ -1,0 +1,86 @@
+Geriatrics Office Visit
+
+Patient: HUGHES, Samuel    MRN: 55305498
+DOB: 05/27/1950    Age: 74 y.o.    Sex: Male
+Date of Service: 01/29/2025    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Samuel Hughes is a 74 y.o. male who presents for right shoulder pain.
+Right shoulder pain for 4 months, worse with activity. No numbness or weakness. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• Gastroesophageal reflux disease
+• Benign prostatic hyperplasia
+• Hypercholesterolemia
+• Essential hypertension
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral
+• Cholecystectomy (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• atorvastatin 40 mg daily
+• finasteride 5 mg daily
+• multivitamin daily
+• lisinopril 10 mg daily
+• amlodipine 5 mg daily
+• famotidine 20 mg BID
+• tamsulosin 0.4 mg nightly
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Packs/day: 1.50
+    Years: 56.00
+    Pack years: 84.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with daughter.
+  Uses a nicotine vape daily; no combustible cigarettes since quitting.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+  Independent in ADLs.
+
+Family History
+Sister - breast cancer at 59. Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: Neuro neg, Skin neg, GI neg, CV neg, MSK +
+
+Objective:
+Vitals:
+  BP 124/76 (BP Location: Right arm, Patient Position: Sitting) | Pulse 80 | Temp 97.4 °F (Oral) | Resp 16 | Ht 5' 11" | Wt 207 lb | SpO2 97% | BMI 28.82 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (January 22, 2025): LDL 76, Cr 0.71, K 4.5
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Essential hypertension
+   BP at goal; continue current regimen.
+
+f/u 1 mo
+
+Electronically signed by Laura Castellano, FNP-C on 01/29/2025

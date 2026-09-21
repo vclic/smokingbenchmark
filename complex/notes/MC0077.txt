@@ -1,0 +1,73 @@
+CARDIOLOGY NP PROGRESS NOTE
+Patient: Paula Butler | DOB: 3/20/1958 (age 66) | Sex: F
+Date of Service: 3/20/2024
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Butler is a 66-year-old woman with history of COPD and atrial fibrillation presenting for follow-up of intermittent chest pain, described as pressure-like, occurring with exertion, lasting a few minutes and resolving with rest. No radiation, no diaphoresis. She denies palpitations at rest but reports occasional skipped beats. Smoking history reviewed in detail: patient smoked about three-quarters of a pack (approximately 15 cigarettes) per day for 17 years, then quit completely for a 2-year period, after which she restarted smoking at a reduced rate of about half a pack (approximately 10 cigarettes) per day for 15 years before quitting for good. She reports she quit smoking 5 years after her husband died, which happened in 2006. She no longer smokes and denies any current tobacco use. She denies illicit drug use, drinks alcohol occasionally (1-2 glasses wine/week).
+
+[Copied from note dated 7/20/2022]: "Tobacco: former smoker." (No quantities documented in that prior note.)
+
+PROBLEM LIST:
+1. Atrial fibrillation, paroxysmal (I48.0) - on anticoagulation
+2. COPD, unspecified (J44.9) - stable, uses inhalers
+3. Hyperlipidemia (E78.5) - outdated, patient reports lipid panel now normal per PCP
+4. GERD (K21.9) - stable
+5. Osteoarthritis, knee (M17.9) - chronic, managed conservatively
+6. Tobacco use disorder (Z87.891) - history noted, currently non-smoker
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss.
+Cardiovascular: reports intermittent chest pressure as above, denies orthopnea, denies lower extremity edema currently, denies syncope.
+Respiratory: reports chronic mild dyspnea on exertion at baseline, denies hemoptysis, denies increased sputum production.
+GI: denies nausea, vomiting, denies melena.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: chronic knee pain, stable.
+Neuro: denies focal weakness, denies numbness.
+Psych: denies depression, denies anxiety.
+Skin: denies rash.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 95% on room air, Wt 168 lbs, Ht 5'4".
+General: well-appearing, no acute distress.
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: no JVD, no carotid bruits.
+Cardiovascular: irregularly irregular rhythm, no murmurs, rubs or gallops appreciated, no peripheral edema.
+Respiratory: mild expiratory wheeze bilaterally, no rales, no rhonchi, prolonged expiratory phase noted.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: no clubbing, cyanosis, or edema.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+ECG (3/20/2024): Atrial fibrillation, rate 78, no acute ST changes.
+Troponin (3/20/2024): <0.01 ng/mL (negative x1).
+BNP (3/20/2024): 145 pg/mL (mildly elevated).
+Basic metabolic panel (3/20/2024): Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 102.
+Lipid panel (1/15/2024): Total cholesterol 178, LDL 96, HDL 52, Triglycerides 130.
+CBC (3/20/2024): WBC 6.8, Hgb 13.2, Hct 39.5%, Plt 245.
+Pulmonary function test (11/2023, copied forward): FEV1/FVC 0.62, consistent with moderate obstructive pattern.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely musculoskeletal vs. demand ischemia related to COPD/AFib - troponin negative, will obtain stress test as outpatient, continue current cardiac meds.
+2. Atrial fibrillation, paroxysmal - rate controlled, continue anticoagulation, continue metoprolol succinate 50mg daily, continue apixaban 5mg BID.
+3. COPD - continue tiotropium inhaler daily, albuterol PRN, discussed smoking history and reinforced continued abstinence; discussed general lung health, including discussion of lung cancer screening guidelines with patient without commitment to further imaging at this visit.
+4. GERD - continue omeprazole 20mg daily.
+5. Hyperlipidemia - continue atorvastatin 20mg daily, repeat lipids in 6 months.
+6. Osteoarthritis - continue acetaminophen PRN, refer to PT if worsening.
+
+MEDICATIONS:
+- Apixaban 5mg PO BID
+- Metoprolol succinate 50mg PO daily
+- Tiotropium inhaler 1 puff daily
+- Albuterol inhaler PRN
+- Omeprazole 20mg PO daily
+- Atorvastatin 20mg PO daily
+- Acetaminophen 500mg PO PRN
+- Multivitamin daily
+
+FOLLOW UP: Return to clinic in 3 months or sooner if symptoms worsen. Patient given instructions to call if chest pain recurs or worsens, or if new shortness of breath.
+
+Electronically signed by Teresa Alvarez, NP, 3/20/2024.

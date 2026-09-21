@@ -1,0 +1,59 @@
+HARBOR VALLEY INTERNAL MEDICINE
+Patient: Harold Walker  DOB: 4/15/1949 (age 74)  Sex: M
+Date of Service: 04/15/2023
+Provider: Hannah Weiss, NP
+
+=== NURSE INTAKE ===
+Vitals: BP 138/82  HR 76 reg  RR 16  Temp 97.8F  SpO2 96% RA  Wt 198 lb  Ht 69in
+CC: pre-op eval for right total knee replacement, ortho referral (Dr. Nkosi)
+Pt ambulates w/ cane 2/2 knee pain, denies chest pain, denies SOB at rest, +DOE w/ stairs x months
+Allergies: NKDA
+Home meds reviewed pt brings list, reconciled below
+
+TOBACCO/SUBSTANCE USE (templated):
+ Smoking status: Former smoker
+ Pack-year history: 50 pack-years
+ Alcohol: occasional, denies illicit drug use
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Mr Walker is a 74-year-old male here today 04/15/2023 for pre-operative medical clearance ahead of planned right knee arthroplasty. He reports progressive right knee pain limiting ambulation, now using a cane. No recent falls. He denies fevers chills or recent illness. Cardiac review of systems notable for occassional mild dyspnea on exertion consistent w his known HFrEF, no orthopnea no PND currently, no chest pain palpitations or syncope. He is compliant w diuretic and denies increased leg swelling.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2022 - retained in chart, portions may be outdated]
+Pt is a 74 yo (age at prior note was 73) male w hx CHF EF 35% on echo 2021, HTN, BPH, HLD, osteoarthritis knees b/l, hypothyroidism on levothyroxine. Pt followed by cardiology Dr Osei q6mo. Denies chest pain SOB improved since last titration of GDMT. BPH sx stable on tamsulosin, nocturia x1. Osteoarthritis knees worsening, using OTC NSAIDs occasionally though caution advised given renal fx and HF. TSH last checked 6/2022 wnl. Continue current regimen, f/u prn. Pt counseled on low sodium diet and daily weights.
+[END COPY-FORWARD]
+
+PMH/Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure - active, EF reduced per last echo
+- I10 Essential hypertension - active
+- N40.1 BPH w lower urinary tract sx - active
+- E78.5 Hyperlipidemia - active
+- M17.0 Bilateral primary osteoarthritis of knee - active, surgical planning
+- E03.9 Hypothyroidism unspecified - active
+- Z87.891 Personal hx of nicotine dependence - former smoker, 50 pack-year hx
+- (outdated entry, resolved per chart review 2019) J45.909 Asthma unspecified - inactive, likely miscoded historically, no current sx or meds
+
+Medications: Furosemide 20mg daily, Lisinopril 10mg daily, Carvedilol 12.5mg BID, Tamsulosin 0.4mg qhs, Atorvastatin 40mg daily, Levothyroxine 75mcg daily, Acetaminophen prn
+
+Labs/Results:
+ 03/28/2023 BMP: Na 138, K 4.3, Cl 101, CO2 25, BUN 22, Cr 1.1, Glc 104
+ 03/28/2023 CBC: WBC 6.8, Hgb 13.9, Hct 41.2, Plt 210
+ 03/28/2023 BNP 220 pg/mL (mildly elevated, stable from prior)
+ 02/2023 TSH 3.1 (wnl)
+ EKG 04/15/2023: NSR rate 74, no acute ST-T changes, unchanged from prior
+
+Assessment/Plan:
+74M w HFrEF, HTN, BPH, HLD, hypothyroidism presenting for pre-op clearance for R TKA.
+1. HFrEF - clinically compensated, continue GDMT, cardiology aware, cleared for surgery from cardiac standpoint pending anesthesia review.
+2. HTN - well controlled, continue current regimen.
+3. BPH - stable, continue tamsulosin, hold morning dose day of surgery per anesthesia protocol.
+4. HLD - continue statin.
+5. Hypothyroidism - euthyroid, continue levothyroxine, take with water day of surgery as tolerated.
+6. Osteoarthritis - surgical plan w ortho, pt educated on post-op mobility expectations.
+7. Tobacco - former smoker, 50 pack-year history; general preventive health counseling provided today, advised continued abstinence from smoking, no further action needed regarding tobacco at this visit.
+8. Pre-op labs, EKG reviewed above, unremarkable for surgical clearance. CXR pending.
+Return to clinic if any new chest pain SOB or leg swelling prior to surgery date.
+
+Electronically signed: Hannah Weiss, NP  04/15/2023 10:42am
+
+=== ADDENDUM (same day, later) ===
+04/15/2023 3:15pm - Addendum by H. Weiss, NP: Spoke w pt by phone after CXR resulted, no acute cardiopulmonary process, mild chronic changes unchanged from prior imaging. Pt cleared for surgery from medicine standpoint. Ortho office notified. No further action needed at this time.

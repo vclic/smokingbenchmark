@@ -1,0 +1,58 @@
+NURSE INTAKE
+Date of Service: 05/10/2026
+Patient: Evelyn Martinez, F, DOB 05/10/1947 (age 79)
+Visit type: Pre-operative evaluation, Internal Medicine, pre-op for R total knee replacement
+
+Vitals: BP 138/82, HR 76, RR 18, SpO2 94% RA, Wt 212 lb, BMI 36.4
+Allergies: NKDA
+
+CC: "They said I need to get cleared before my knee surgery."
+
+---COPIED FORWARD FROM PRIOR VISIT 11/14/2023---
+HPI (from 11/14/2023 note, not updated): Pt is a 76 yo female with h/o asthma, COPD, OSA on CPAP, HTN, gout, obesity, here for routine f/u. Reports occasional wheeze w/ exertion, denies chest pain. Gout flare last month resolved with colchicine. Continues home meds. Discussed weight management, diet. RTC 3 months.
+(Vitals from that visit and med list omitted here - see archived note.)
+---END COPIED FORWARD---
+
+HPI (current, 05/10/2026): Ms. Martinez presents today for pre-op medical clearance ahead of scheduled R knee replacement. She states, "My knee's been bone on bone for years, I just want to get this over with." Denies chest pain, denies recent asthma/COPD exacerbation. Reports using CPAP nightly for OSA, "mostly every night, sometimes I forget." No recent fevers, no hematuria, no dysuria. Gout - last flare several months ago, currently asymptomatic. Reviewed home meds - albuterol PRN, tiotropium, lisinopril, allopurinol, CPAP.
+
+ROS: Resp - occasional exertional dyspnea, no cough today. CV - no chest pain/palpitations. MSK - chronic R knee pain, awaiting surgery. GU - no complaints. All other systems reviewed and negative except as noted.
+
+---SOCIAL HISTORY (templated EHR block)---
+Tobacco use status: Former smoker
+Smoking duration: 43 years
+Cigarettes per day: Not on file
+Pack-years: Not on file
+Years since quitting: quit 15 years ago
+Secondhand smoke exposure: Denies
+Alcohol use: Occasional, 1 glass wine/wk
+Recreational drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired schoolteacher
+---END SOCIAL HISTORY---
+
+Exam:
+Gen: obese female, NAD, conversant
+HEENT: unremarkable
+Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: RRR, no murmurs
+Abd: soft, obese, NT/ND
+Ext: R knee w/ crepitus, decreased ROM, no acute effusion; no edema
+Skin: no rashes
+
+Labs reviewed: CBC, BMP wnl. CXR pre-op: hyperinflated lungs c/w COPD, no acute infiltrate. EKG: NSR, no acute ST changes.
+
+ASSESSMENT/PLAN (A. Patel, MD):
+79 yo F with asthma, COPD, OSA, HTN, obesity, gout, presenting for pre-op eval prior to knee replacement.
+
+1. Pre-op clearance: From cardiopulmonary standpoint, pt is stable for surgery. COPD/asthma well controlled on current regimen; continue tiotropium and albuterol PRN, use inhaler pre-op day of surgery per anesthesia instructions.
+2. Smoking history: Former smoker, quit smoking approximately 15 years ago after a 43-year smoking history per social history documentation above; remains abstinent. No current tobacco use, reinforced importance of continued abstinence peri-operatively for wound healing and pulmonary recovery.
+3. OSA: continue CPAP nightly including post-op period, will need CPAP available in recovery per anesthesia protocol.
+4. HTN: well controlled, continue lisinopril.
+5. Gout: stable, continue allopurinol, avoid NSAIDs peri-op given renal/GI risk, will coordinate pain control with ortho.
+6. Obesity: discussed weight management again, pt aware of increased surgical risk; will defer intensive intervention until after recovery from knee surgery.
+7. Lung cancer screening was discussed with patient given age and smoking history; risks/benefits reviewed, decision deferred to routine primary care follow-up.
+8. Pt cleared for surgery from medicine standpoint with above recommendations communicated to orthopedic surgery and anesthesia.
+
+RTC after surgery or sooner if concerns. Discussed plan in detail with patient, she verbalized understanding and agreement.
+
+Electronically signed: Anita Patel, MD, 05/10/2026

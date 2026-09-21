@@ -1,0 +1,98 @@
+Pulmonology / NP Progress Note
+Date of Service: 04/23/2023
+Author: Gregory Tan, MD (co-signed; visit conducted by NP)
+Patient: Curtis Bennett | DOB: 03/02/1957 | Age: 66 | Sex: M
+
+CC: Follow-up after recent ED visit / hospitalization for COPD exacerbation.
+
+HPI:
+Mr. Bennett is a 66-year-old male with hx of COPD, CAD, afib, HTN, GERD, osteoporosis, and depression, seen today in f/u after ED tx for acute COPD exacerbation approx 1 wk ago (treated w/ steroid burst and azithromycin, no admission required). He reports gradual improvement in dyspnea and cough since d/c from ED, though still using rescue inhaler 2-3x/day. No fevers, no hemoptysis. Denies chest pain at rest. Sleeping better than last wk. Smoking hx notable - patient reports he smoked about half a pack (approx 10 cigarettes) per day for 7 yrs, then increased to 1.5 packs per day for 16 yrs before ultimately quitting; he states he quit smoking in 1996 and has remained smoke-free since. He denies current tobacco or nicotine product use. Pt continues to use home O2 PRN per prior recommendation, compliance variable. No new SOB at rest today.
+
+PMHx / Problem List (per EHR, some entries outdated - not all reconciled this visit):
+- J44.9 COPD, unspecified
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- I25.10 Coronary artery disease, native vessel, without angina
+- K21.9 GERD without esophagitis
+- F32.9 Major depressive disorder, unspecified (chronic, per old note - pt reports improved mood on current regimen)
+- I48.91 Atrial fibrillation, unspecified
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified (old dx, last documented 2019, may be outdated)
+- M19.90 Osteoarthritis, unspecified site (copy-fwd from 2018 visit, unclear if still active)
+
+Social History (EHR templated block):
+Tobacco use: Former smoker, quit 1996
+Packs per day (current): 0
+Years smoked: see HPI for detail
+Alcohol use: Occasional, denies heavy use
+Drug use: Denies
+Occupation: Retired (former machinist)
+Living situation: Lives with spouse
+Exercise: Limited 2/2 dyspnea
+Diet: Not on file
+Marital status: Married
+
+ROS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations (though known afib, currently rate-controlled per pt report). Denies orthopnea, PND.
+Respiratory: Positive for chronic cough, dyspnea on exertion, occasional wheeze. Denies hemoptysis.
+GI: Denies nausea, vomiting, diarrhea; occasional heartburn, stable on current GERD regimen.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Denies acute joint pain; chronic low back discomfort, unchanged.
+Skin: Denies rash, lesions.
+Neuro: Denies HA, dizziness, focal weakness.
+Psych: Reports mood stable, denies SI/HI. Sleep adequate.
+All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76 irregularly irregular, RR 18, Temp 97.8F, SpO2 94% on RA, Wt 182 lb, Ht 5'9"
+General: Alert, NAD, comfortable appearing, mild use of accessory muscles noted at rest.
+HEENT: NC/AT, PERRL, oropharynx clear, no thrush.
+Neck: No JVD, no LAD, trachea midline.
+CV: Irregularly irregular rhythm, no m/r/g appreciated, no peripheral edema.
+Resp: Decreased breath sounds bilat bases, scattered expiratory wheezes, no crackles, prolonged expiratory phase noted.
+Abd: Soft, NT/ND, normoactive bowel sounds.
+Extremities: No cyanosis, no clubbing, trace edema b/l ankles.
+Skin: Warm, dry, intact.
+Neuro: A&Ox3, CN II-XII grossly intact, gait not formally tested today.
+Psych: Mood euthymic, affect appropriate.
+
+Labs/Results (from recent ED visit and today):
+- CBC (04/16/2023): WBC 9.8, Hgb 13.9, Hct 41.2%, Plt 245
+- BMP (04/16/2023): Na 138, K 4.2, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 104
+- BNP (04/16/2023): 142 pg/mL
+- Trop x1 (04/16/2023): <0.01 ng/mL, negative
+- ABG not obtained this visit
+- CXR (04/16/2023): Hyperinflated lungs, no acute infiltrate, no effusion
+- PFTs (last on file 11/2022): FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstructive pattern
+- INR (04/20/2023): 2.4, therapeutic
+- TSH (01/2023): 2.1, WNL
+
+Current Medications:
+1. Tiotropium inhaler 18mcg, 1 cap inhaled daily
+2. Albuterol HFA MDI, 2 puffs q4-6h PRN
+3. Fluticasone/salmeterol 250/50, 1 inh BID
+4. Apixaban 5mg PO BID
+5. Metoprolol succinate 50mg PO daily
+6. Lisinopril 10mg PO daily
+7. Atorvastatin 40mg PO qHS
+8. Omeprazole 20mg PO daily
+9. Alendronate 70mg PO weekly
+10. Sertraline 100mg PO daily
+11. Vitamin D3 2000 IU PO daily
+12. Calcium carbonate 500mg PO BID
+13. Prednisone taper (completing this week per ED discharge instructions)
+14. Azithromycin (completed course)
+
+Assessment/Plan:
+1. COPD exacerbation, recent, improving - continue current inhalers, complete steroid taper as directed. Reinforce inhaler technique. Discussed pulmonary rehab referral. Lung cancer screening discussed with patient given smoking history; will revisit at future visit.
+2. Atrial fibrillation - rate-controlled, INR therapeutic on apixaban per recent lab, continue current regimen, follow with cardiology as scheduled.
+3. CAD - stable, continue statin and current cardiac regimen.
+4. HTN - well-controlled today, continue lisinopril.
+5. GERD - stable on omeprazole, no changes.
+6. Osteoporosis - continue alendronate, calcium, vitamin D; DEXA due for repeat, will order.
+7. Depression - mood reportedly stable on sertraline, continue, no acute concerns today.
+8. Tobacco history - former smoker, quit 1996; reinforced continued abstinence, no current use.
+Return to clinic in 4-6 wks or sooner if symptoms worsen. Pt advised to seek urgent care/ED for worsening SOB, chest pain, or hemoptysis.
+
+Electronically signed: Gregory Tan, MD

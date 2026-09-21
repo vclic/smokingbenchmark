@@ -1,0 +1,67 @@
+INTERNAL MEDICINE - PRIMARY CARE FOLLOW-UP
+Patient: Ronald Davis  DOB: 03/11/1969  Age: 55  Sex: M
+Date of Service: 03/11/2024
+Provider: Farah Siddiqui, MD
+
+=== NURSE INTAKE ===
+Vitals: BP 148/92, HR 84, RR 16, Temp 98.4F, Wt 241 lb, Ht 5'10", BMI 34.6
+Allergies: NKDA
+Chief complaint: f/u HTN and DM2, med refill
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Current every day smoker
+ Smoking detail: pt reports 1.5 packs per day for 37 years, denies interest in quitting at this time
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, 1-2 drinks/wk
+ Drug use: denies
+ Occupation: retired warehouse supervisor
+ Exercise: sedentary, denies regular exercise
+ Living situation: lives with spouse
+
+HPI: Pt is a 55-year-old male here today, 3/11/24, for routine f/u of hypertension and type 2 diabetes. He states he's been taking his lisinopril and metformin as directed, mostly, though he admits missing doses when he's, uh, busy with his grandkids visiting from out of town [inaudible] last weekend. No chest pain no SOB no palpitations he denies any visual changes or numbness/tingling in extremities, he does note some occasional nocturia and mild fatigue overall doing okay he says. He continues to smoke, is an active smoker currently, and reports he has smoked one and a half packs per day for the past thirty-seven years. He has not attempted to quit recently and declines nicotine replacement therapy at this visit. No new complaints of cough hemoptysis or weight loss.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss/gain
+Eyes: denies vision changes
+ENT: denies sore throat, congestion
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND
+Respiratory: denies cough, wheeze, hemoptysis, dyspnea on exertion
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain
+GU: reports mild nocturia x2, denies dysuria hematuria
+Musculoskeletal: denies joint pain, swelling
+Skin: denies rash, lesions
+Neuro: denies numbness, tingling, weakness, headache
+Psych: denies depression, anxiety
+Endocrine: denies polyuria polydipsia beyond baseline
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Lisinopril 20 mg PO daily
+2. Metformin 1000 mg PO BID
+3. Atorvastatin 40 mg PO qhs
+4. Amlodipine 5 mg PO daily
+5. Aspirin 81 mg PO daily
+6. Multivitamin PO daily
+
+PHYSICAL EXAM:
+General: obese male, no acute distress, alert and oriented x3
+HEENT: normocephalic atraumatic, PERRLA, EOMI, oropharynx clear
+Neck: supple, no JVD, no thyromegaly
+Cardiovascular: RRR, no murmurs rubs or gallops
+Respiratory: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Abdomen: obese, soft, nontender, nondistended, normoactive bowel sounds
+Extremities: no edema, pulses 2+ bilaterally
+Skin: warm, dry, intact
+Neuro: grossly nonfocal
+
+ASSESSMENT/PLAN:
+1. Hypertension, uncontrolled today at 148/92 - will increase amlodipine to 10 mg daily, recheck BP in 4 weeks, continue low sodium diet.
+2. Type 2 diabetes mellitus - continue metformin, order HbA1c today, reinforce diet and exercise.
+3. Obesity - discussed weight management options, referral to nutrition considered.
+4. Tobacco use disorder - patient counseled extensively regarding health risks given his active smoking history of 1.5 packs per day for 37 years; advised to quit, discussed pharmacologic cessation aids including varenicline and nicotine patches, patient not ready to quit at this time. Lung cancer screening was discussed conceptually as part of overall risk counseling.
+5. Follow up in 4 weeks or sooner if symptoms worsen.
+
+Electronically signed: Farah Siddiqui, MD
+
+=== ADDENDUM (same day, later) ===
+Addendum 3/11/2024 1630: Pt called clinic nursing line this afternoon to clarify home BP monitoring instructions; advised to check BP twice daily and log readings, bring log to next visit. No changes to plan above. No new smoking-related information obtained during this call. - F. Siddiqui, MD

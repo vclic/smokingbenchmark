@@ -1,0 +1,70 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Patient: Michael Gonzales, M, DOB 6/11/1972 (age 54)
+DOS: 06/11/2026
+Provider: Owen Fitzgerald, MD (NP progress note)
+
+CC: Annual wellness exam.
+
+HPI: Pt is a 54 y/o M with PMHx of hypothyroidism, HTN, AFib, GERD presenting for routine AWV. No acute complaints today. Reports doing well overall, adherent to meds. Denies CP, palpitations (last known in AFib well-rate controlled per pt report), SOB, dysphagia. GERD sx well controlled on current regimen, occasional reflux after spicy foods.
+
+PMHx:
+- Hypothyroidism
+- HTN
+- Atrial fibrillation (on anticoagulation)
+- GERD
+
+SOCIAL HX (current, reviewed and updated 06/11/2026):
+Pt has a long hx of heavy smoking in the past. He is now a former smoker - has not smoked since his 45th birthday. No current tobacco use. Denies alcohol excess, denies illicit drug use. Works full-time, married, lives w/ spouse.
+
+---- COPIED FORWARD FROM PRIOR NOTE DATED 06/11/2024 (unedited, kept for reference) ----
+SOCIAL HISTORY (as documented 6/11/2024): Pt reports he is a former smoker. Denies alcohol excess. Lives with spouse. Works full time as a contractor. No other substance use reported at that visit.
+ROS (6/11/2024): Denies CP, SOB, dysphagia, dysuria, joint pain.
+A/P (6/11/2024): HTN - continue lisinopril; hypothyroidism - continue levothyroxine, TSH stable; AFib - continue rate control and anticoagulation; GERD - continue omeprazole.
+---- END COPIED SECTION ----
+
+ROS (today, 06/11/2026): Constitutional - no fever, no wt loss. CV - no CP/palpitations. Resp - no SOB/cough. GI - occasional reflux, no dysphagia. Endo - no cold intolerance, no wt change. All other systems reviewed and negative unless noted above.
+
+MEDS:
+- Levothyroxine 75 mcg qd
+- Lisinopril 20 mg qd
+- Metoprolol succinate 50 mg qd
+- Apixaban 5 mg BID
+- Omeprazole 20 mg qd
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/78, HR 68 irregular, RR 14, Temp 98.2F, Wt 198 lb, BMI 28.9
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing.
+HEENT: PERRLA, oropharynx clear, no thyromegaly appreciated.
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, pulses 2+ throughout.
+Skin: no lesions.
+Neuro: grossly intact.
+
+LABS (reviewed):
+TSH 2.1 (WNL)
+BMP unremarkable, Cr 0.9
+Lipid panel: LDL 98, HDL 45, TG 130
+
+ASSESSMENT/PLAN:
+1. Hypothyroidism - stable, TSH WNL on current levothyroxine dose. Continue current dose, recheck TSH in 12 mo.
+2. HTN - well controlled today at 128/78. Continue lisinopril. Reinforced low-sodium diet, home BP monitoring.
+3. Atrial fibrillation - rate appears controlled on exam, continue metoprolol and apixaban for anticoagulation. Will obtain EKG today for baseline. Cardiology f/u as scheduled.
+4. GERD - well controlled on omeprazole. Counseled on lifestyle modifications (avoid late meals, spicy/fatty foods).
+5. Tobacco/Health maintenance - Pt has a long hx of heavy smoking but has not smoked since his 45th birthday; he is now a former smoker. Praised continued abstinence. Discussed general health maintenance including age-appropriate cancer screening discussions (colon, prostate as appropriate); lung cancer screening was discussed in general terms as part of preventive care conversation.
+6. Routine labs: CBC, CMP, lipid panel ordered for today; A1c also ordered given age and BMI.
+7. Immunizations reviewed - pt up to date, offered flu vaccine (deferred, off-season).
+8. Return to clinic in 12 months or sooner if concerns arise.
+
+Pt verbalized understanding of plan, agreeable to above. All questions answered. Follow-up scheduled with front desk.
+
+Owen Fitzgerald, MD
+Electronically signed 06/11/2026 10:42
+
+---- ADDENDUM (added later same day, 06/11/2026 15:20) ----
+Addendum: EKG reviewed - shows AFib with controlled ventricular response, rate 66-72, no acute ST changes. No changes to current management. Called pt to confirm f/u cardiology appt remains scheduled next month; pt confirmed. No further action needed at this time.
+Owen Fitzgerald, MD

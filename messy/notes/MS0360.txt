@@ -1,0 +1,80 @@
+HOSPITAL DISCHARGE FOLLOW-UP - HISTORY AND PHYSICAL
+Date of Service: 10/10/2024
+Provider: Daniel Reyes, MD (Primary Care)
+Patient: Mary Coleman | DOB: 10/10/1944 | Age: 80 | Sex: F
+
+CC: F/u s/p hospitalization for pneumonia, d/c 10/06/2024.
+
+HPI: 80 yo female, recently discharged after 4-day admission for CAP, now seen for post-hosp f/u. Reports improved energy, cough much better, no fever, no SOB at rest. Some fatigue persists, appetite improving. Ambulating w/ walker at baseline given PAD. No new CP, no palpitations. Denies dizziness. Family assisting w/ meds at home.
+
+PROBLEM LIST (per chart, some entries outdated):
+- I10 Essential hypertension
+- F32.9 Major depressive disorder, unspecified (dx 2016, on stable regimen)
+- I73.9 Peripheral artery disease
+- M81.0 Osteoporosis w/o current pathological fracture
+- J18.9 Pneumonia, unspecified organism (recent, resolving)
+- E78.5 Hyperlipidemia (2014 - pt reports diet-controlled, may be resolved, needs review)
+- M19.90 Osteoarthritis, unspecified site (old entry, unclear relevance)
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2023 (retained in record, not all current) ----
+Pt is a 78 yo female here for routine follow up of HTN and PAD. BP well controlled on current regimen. Denies claudication symptoms today, states she can walk approx 2 blocks before needing to rest, unchanged from prior visits. Feet warm, pulses palpable though diminished bilat. Skin intact, no ulcers. Osteoporosis - last DEXA reviewed, on calcium/vit D and bisphosphonate therapy, tolerating well, no GI upset reported. Depression - stable on current SSRI, denies SI/HI, sleep and appetite adequate. Will continue current meds, f/u in 6 months or sooner if needed. Pt independent in ADLs, lives with daughter who assists with transportation and meds. Immunizations up to date per pt report. -- end copied text --
+
+REVIEW OF SYSTEMS: Constitutional: mild fatigue, no fevers/chills. Resp: cough improving, no hemoptysis. CV: no CP, no edema noted today. GI: appetite improving, no N/V/D. MSK: chronic low back discomfort, unchanged. Neuro: no focal deficits. Psych: mood stable, denies SI.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Never smoker
+Smoking history detail: Lifelong non-smoker; denies any history of cigarette, cigar, or pipe use.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1 glass wine/wk per pt report
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with daughter
+Exercise: Limited d/t PAD, uses walker
+Secondhand smoke exposure: Not on file
+
+PAST MEDICAL HISTORY: HTN, depression, PAD, osteoporosis, recent pneumonia (as above).
+
+MEDICATIONS (reconciled at discharge):
+- Lisinopril 10mg daily
+- Sertraline 50mg daily
+- Cilostazol 100mg BID
+- Alendronate 70mg weekly
+- Calcium/Vitamin D supplement daily
+- Amoxicillin-clavulanate to complete 7-day course post-discharge
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/76, HR 74, RR 16, Temp 98.2F, SpO2 96% RA, Wt 132 lb
+
+PHYSICAL EXAM:
+General: Elderly female, NAD, alert, oriented x3.
+HEENT: NCAT, PERRL, oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Lungs: Mild bibasilar crackles, improved from discharge exam, no wheeze.
+CV: RRR, no murmurs, no peripheral edema.
+Abdomen: Soft, NT/ND, +BS.
+Extremities: Feet warm, pulses diminished but palpable bilat DP/PT, no ulcers, no cyanosis.
+MSK: Kyphotic posture, ambulates w/ walker, steady gait with device.
+Skin: No rashes, no lesions.
+Neuro: CN II-XII grossly intact, no focal deficits.
+Psych: Mood euthymic, affect appropriate.
+
+LABS/RESULTS (recent):
+- CBC (10/05/2024): WBC 11.2 (H), Hgb 12.1, Hct 36.8%, Plt 245
+- BMP (10/05/2024): Na 138, K 4.2, Cl 101, CO2 24, BUN 22, Cr 1.0, Glucose 104
+- CRP (10/05/2024): 18.4 mg/L (H, improved from 62 on admission)
+- Chest Xray (10/09/2024): Improving right lower lobe infiltrate compared to prior, no effusion
+- DEXA (last on file 08/2022): T-score -2.6 lumbar spine
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue abx course, f/u CXR in 4-6 wks to confirm resolution. Encourage fluids, rest, incentive spirometry.
+2. Hypertension - well controlled today, continue lisinopril.
+3. Depression - stable, continue sertraline, will screen mood again next visit.
+4. Peripheral artery disease - stable, no rest pain, continue cilostazol, reinforce foot care education.
+5. Osteoporosis - continue alendronate and calcium/vit D, repeat DEXA when due.
+6. Health maintenance - immunization status reviewed, pneumococcal and influenza vaccines up to date per record. Lung cancer screening discussed briefly given age, deferred further discussion given non-smoking status and recent acute illness; will revisit as appropriate.
+7. General deconditioning post-hospitalization - discussed PT referral, pt agreeable.
+
+Return to clinic in 2 weeks or sooner if worsening symptoms. Daughter present for visit, verbalizes understanding of plan.
+
+Electronically signed: Daniel Reyes, MD, 10/10/2024

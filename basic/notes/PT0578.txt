@@ -1,0 +1,48 @@
+General Medicine Clinic Clinic Note
+Date of Service: 2/27/2024
+Pt: Raymond Bennett   DOB: 3/19/1972   MRN: 27727623
+
+SUBJECTIVE:
+CC: BP check
+HPI: 51-year-old male w/ HTN, HLD, BPH, h/o CVA here for f/u of HTN. Home BP readings mostly in the 140s/70s. Reports good adherence to amlodipine 10 mg daily. Denies headaches, CP, dyspnea, or vision changes.
+
+PMH: HTN, h/o CVA, HLD, obesity, BPH
+PSH: TURP (2023)
+Meds: clopidogrel 75 mg daily; pravastatin 40 mg nightly; amlodipine 10 mg daily; tamsulosin 0.4 mg nightly; vitamin D3 2000 IU daily; finasteride 5 mg daily
+Allergies: Codeine (nausea)
+SH: Lives with wife and adult son. Works as a teacher. Current every day smoker - 1 ppd x 36 yrs. Smokes marijuana occasionally (1-2x/wk). EtOH: 2-3 drinks on weekends. Sedentary.
+FH: Mother - CHF, d. age 88. Father - prostate cancer.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies CP, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 130/76  HR: 66  RR: 16  Temp: 98.6 F  SpO2: 99% on RA  Wt: 227 lbs  BMI: 34.5
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Hypertension
+   - Controlled on amlodipine 10 mg daily; no changes.
+2. BPH with LUTS
+   - Nocturia x1-2; continue tamsulosin.
+3. Hypercholesterolemia: Continue statin. Lipid panel due.
+4. Class I obesity
+   - Discussed diet and exercise.
+
+f/u 6 mo
+
+-- CL (DO)

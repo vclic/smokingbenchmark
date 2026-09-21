@@ -1,0 +1,61 @@
+CARDIOLOGY H&P
+Patient: Thomas Thomas | DOB: 3/16/1969 | Age: 54 | Sex: M
+Date of Service: 3/16/2023
+Attending: Owen Fitzgerald, MD
+
+CC: chest pain, referred from PCP for eval.
+
+HPI: 54 yo M with PMH of T2DM, OSA, HLD, asthma, PAD presents today, 3/16/2023, for eval of intermittent chest pain over past several days. Pt is currently aphasic (per family, new onset ~1 wk ago, being worked up separately by neuro) and is a poor historian at this visit. Communication limited to nodding, single-word attempts, and gestures. Attempted to obtain HPI directly from pt but responses inconsistent/unreliable. Family member (daughter) present at bedside able to provide some background but not detailed enough for full hx. Daughter states pt has had "some chest tightness on and off, mostly when walking to the mailbox and back." Denies clear radiation per gestures; pt points to mid-chest, grimaces w/ exertion. No clear assoc diaphoresis reported by family. Pt has hx PAD, following with vascular surgery, uses cilostazol. OSA on CPAP per home records, though daughter unsure of recent compliance. Asthma - uses albuterol PRN, no recent ED visits per chart review. T2DM - on metformin, HLD on statin.
+
+Tobacco history: unable to obtain given pt's current aphasia and inability to reliably communicate; family not able to confirm details of tobacco use, past or present. Will attempt reassessment once pt's communication improves or additional collateral obtained.
+
+ROS: Limited by pt's aphasia; obtained partial ROS via family and observation.
+Constitutional: no fever noted by family, appetite fair.
+Cardiac: + exertional chest tightness per family report, no orthopnea noted, +/- ankle swelling.
+Resp: no acute distress currently, occasional cough per daughter, baseline per asthma.
+GI: no vomiting, appetite fair.
+Neuro: aphasia as above, no focal weakness noted by family though difficult to fully assess.
+
+PMH: T2DM, OSA, HLD, asthma, PAD.
+PSH: none reported by family.
+Meds (per last chart update): metformin, atorvastatin, albuterol MDI PRN, cilostazol, CPAP nightly (compliance unclear).
+Allergies: NKDA per chart.
+Family hx: father w/ MI at 60s, mother w/ HTN, per daughter.
+Social hx: lives with daughter, retired factory worker. Tobacco history unable to obtain as above. EtOH/drug use - unable to obtain, poor historian.
+
+Vitals: BP 138/84, HR 78, RR 16, T 98.2F, SpO2 95% RA, BMI 29.4
+
+Exam:
+Gen: NAD at rest, aphasic, appears anxious.
+HEENT: NC/AT, no JVD appreciated.
+CV: RRR, no m/r/g appreciated, distal pulses 1+ bilat feet (known PAD).
+Resp: CTAB, no wheeze at rest.
+Abd: soft, NT/ND.
+Ext: trace edema b/l, no calf tenderness.
+Neuro: expressive aphasia noted, comprehension appears partially intact, moves all extremities, no obvious focal deficit though limited exam given communication barrier.
+Skin: warm, dry.
+
+Labs/Results (reviewed today, 3/16/2023):
+- Troponin I (3/16/2023, 0800): 0.02 ng/mL (nl <0.04)
+- Troponin I (3/16/2023, 1100, repeat): 0.03 ng/mL
+- BNP (3/16/2023): 145 pg/mL
+- CBC (3/16/2023): WBC 7.2, Hgb 13.9, Plt 240
+- BMP (3/16/2023): Na 138, K 4.3, Cr 1.1, Glucose 168
+- HbA1c (2/2023): 7.8%
+- Lipid panel (1/2023): LDL 98, HDL 42, TG 160
+- EKG (3/16/2023): NSR, no acute ST changes, nonspecific T wave flattening inferior leads.
+- CXR (3/16/2023): no acute cardiopulm process, mild hyperinflation c/w asthma.
+
+Assessment: 54M with T2DM, OSA, HLD, asthma, PAD presenting w/ exertional chest tightness, now with acute aphasia limiting hx-taking. Troponins flat x2, EKG w/o acute changes. Given vascular risk factor burden (PAD, HLD, T2DM) will pursue further cardiac risk stratification.
+
+Plan:
+1. Chest pain - low suspicion for ACS given flat troponins/EKG but will obtain stress test given PAD/DM risk factors. Cont home meds.
+2. Aphasia - neuro consult already placed per chart, will defer further w/u to their team; CT head reportedly obtained by ED, pending final read.
+3. PAD - continue cilostazol, vascular f/u as scheduled.
+4. OSA - encourage CPAP use, reassess compliance once pt able to communicate better; consider sleep medicine f/u.
+5. Asthma - continue albuterol PRN, no acute exacerbation today.
+6. T2DM/HLD - continue current regimen, will coordinate w/ PCP.
+7. Lung cancer screening was discussed with the family but deferred until smoking history can be obtained from the patient once his aphasia improves or additional collateral history is available.
+8. F/u in cardiology clinic in 2-4 wks, sooner if symptoms worsen. Pt/family educated on return precautions - call if worsening chest pain, SOB, or new neuro sx.
+
+Electronically signed: Owen Fitzgerald, MD, 3/16/2023.

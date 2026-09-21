@@ -1,0 +1,70 @@
+TELEHEALTH F/U VISIT - Hospital D/C after pneumonia
+Date of Service: 05/27/2025
+Author: Brian Okonkwo, MD (Primary Care)
+
+Patient: Terrence Simmons | DOB: 05/27/1962 | Age: 63 y/o M
+
+HPI:
+Pt is a 63 y/o M s/p recent hosp admit for CAP, d/c'd home ~5 days ago on abx, seen today via telehealth for f/u. Pt states he is feeling 'a bit better' though still has some residual cough, denies fever/chills, denies SOB at rest, some exertional dyspnea persists but improving. Wife on the call as well confirms improved appetite and energy. Pt reports taking abx as directed, [inaudible] some confusion about whether he finished the full course or not, will clarify with pharmacy records. No chest pain, no hemoptysis. He does note some fatigue which he attributes to being 'cooped up' at home. Denies GI upset, no n/v/d. Pt mentions he has been checking his home BP cuff a few times and readings have been 130s/80s, seems reasonable.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Smoking duration: 44 years
+Packs per day: Not on file
+Quit attempts: Yes - quit in 2010, relapsed in 2011
+Smokeless tobacco: Never
+Alcohol use: Former drinker, quit 2017
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Not on file
+
+ROS: otherwise negative except as noted in HPI, 10 pt system reviewed, all other systems negative or unchanged from prior visit.
+
+PMH / Problem List (per chart, some entries may be outdated):
+- E78.5 Hyperlipidemia
+- I10 Essential hypertension
+- J45.909 Asthma, unspecified
+- M81.0 Osteoporosis
+- N18.3 CKD stage 3
+- J18.9 Pneumonia, unspecified organism (recent, resolving)
+- Z87.891 Personal history of nicotine dependence (note: pt is a current smoker, this code may need updating in problem list)
+
+Meds (reconciled today, per pt report and pharmacy fill hx):
+- Atorvastatin 40mg qhs
+- Lisinopril 20mg daily
+- Albuterol HFA PRN
+- Alendronate 70mg weekly
+- Amoxicillin-clavulanate (finishing course from hospital d/c, exact days remaining unclear per pt)
+- Calcium/Vit D supplement daily
+
+Allergies: NKDA
+
+Vitals (via home cuff/pt report, no in-person vitals today given telehealth format):
+BP 132/78, HR 78, reports temp taken this AM 98.4F, O2 sat per home pulse ox 95% RA
+
+Physical Exam: Limited given telehealth visit. Pt appears comfortable, no acute distress noted on video, speaking in full sentences without noticeable dyspnea. Skin color appears normal on camera, no visible cyanosis. Auscultation not possible remotely.
+
+Labs/Imaging: CXR from hospital stay reportedly showed improving infiltrate per d/c summary (not independently reviewed today, will pull into chart). BMP from discharge reviewed - Cr 1.4, eGFR ~52, consistent with known CKD stage 3, K 4.1, stable.
+
+ASSESSMENT AND PLAN:
+
+1. Pneumonia, resolving (J18.9) - Pt s/p recent hospitalization, clinically improving per telehealth assessment today, continues abx course as prescribed at discharge, will complete full course. Return precautions reviewed extensively w/ pt and spouse - if worsening SOB, fever, chest pain, to seek care immediately or return to ED. F/u CXR in 6 wks to confirm resolution, will schedule in person visit for that.
+
+2. Tobacco use disorder - Pt continues to smoke despite counseling today regarding cessation, extensive discussion held about risks of continued smoking especially in setting of recent pneumonia and underlying asthma/CKD. Pt has smoked for 44 years per social hx. Notably he did have a prior quit attempt in 2010 but relapsed in 2011 and has not successfully quit since. Discussed nicotine replacement options and referred to state quitline again, pt states he 'will think about it.' General preventive health topics related to his long smoking history were discussed at a high level, will revisit at next in-person visit.
+
+3. Hypertension (I10) - BP well controlled today per home readings and today's telehealth vitals, continue current lisinopril dose, no changes at this time.
+
+4. Hyperlipidemia (E78.5) - Continue atorvastatin, lipid panel due at next visit, pt reports good adherence to statin.
+
+5. Asthma (J45.909) - Stable, using albuterol PRN infrequently per pt report, no recent exacerbations aside from possible contribution to recent respiratory illness, continue current regimen.
+
+6. Osteoporosis (M81.0) - Continue alendronate and calcium/vit D, DEXA scan due for repeat, will schedule.
+
+7. CKD stage 3 (N18.3) - Stable per discharge labs, Cr 1.4, will recheck BMP at next visit, avoid nephrotoxic meds, renally dose any new prescriptions.
+
+8. Alcohol use - Pt reports he quit drinking alcohol in 2017 and has remained abstinent since, no concerns at this time, will continue to monitor.
+
+Disposition: F/u in person in 2 weeks for full physical exam and reassessment of respiratory status, sooner if any worsening symptoms. Pt and spouse both verbalize understanding of plan and return precautions. Telehealth visit concluded, total time spent on visit and counseling today was approx 25 minutes, more than half spent on counseling re: tobacco cessation and pneumonia recovery/return precautions.
+
+Electronically signed by Brian Okonkwo, MD, 05/27/2025.

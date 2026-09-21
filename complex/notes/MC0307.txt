@@ -1,0 +1,38 @@
+TELEHEALTH VISIT - Family Medicine
+Patient: Gloria Ross (F), DOB 3/29/1964, Age 61
+DOS: 09/08/2025
+Provider: Steven Park, MD
+
+CC: Annual wellness visit, telehealth.
+
+HPI: Pt presents via video for AWV. States "I've been feeling pretty good overall, just tired sometimes." Reports GERD sx well controlled on current regimen, occ heartburn after spicy food. BPH sx stable, denies worsening nocturia, states "I get up maybe once a night, that's about it." No new complaints today. Denies chest pain, SOB, dysuria, hematuria. Diet/exercise reviewed briefly - pt walks daily per report.
+
+Soc Hx: Attempted to review tobacco use during visit; pt declined to discuss this topic today. No further d/w re: smoking status obtained. Will readdress at next in-person visit. EtOH - not addressed this visit due to time constraints. Occupation: retired.
+
+ROS: Constitutional - neg wt loss, neg fever. GI - occ reflux, no dysphagia. GU - nocturia x1, no hematuria, no dysuria. All other systems reviewed and negative per pt report.
+
+Meds (per last visit, not independently verified this visit):
+- Omeprazole 20mg daily
+- Tamsulosin 0.4mg qhs
+
+Allergies: NKDA
+
+Vitals: Not obtained (telehealth visit) - pt reports home BP log within normal limits, no log reviewed today.
+
+Labs/Results (from 08/20/2025 draw):
+CMP: Na 139, K 4.2, Cl 101, CO2 25, BUN 16, Cr 0.9, Glc 94
+LFTs: AST 22, ALT 25, Alk Phos 68
+PSA (07/15/2025): 1.8 ng/mL (stable from prior 1.6 in 2024)
+Lipid panel (03/2025, outdated, due for repeat): TC 190, LDL 110, HDL 55, Trig 125
+
+A/P:
+1. GERD (K21.9) - stable, cont omeprazole, reinforced lifestyle measures (avoid late meals, spicy/acidic foods).
+2. BPH (N40.0) - stable on tamsulosin, PSA reassuring, will recheck PSA in 1yr.
+3. Essential HTN (I10) - dx from 2019 chart, appears outdated/possibly resolved per pt report of normal home readings; will reassess with vitals at next in-office visit.
+4. Health maintenance/AWV - counseled on general preventive care, age-appropriate screening d/w pt including colon ca screening (pt up to date per report), discussed general cancer screening options; tobacco use assessment attempted but pt declined to discuss.
+
+Plan: F/u in-office in 3 months for vitals, BP check, and to complete health screening assessment including social hx. Pt to call/message with any concerns in interim. Repeat lipid panel ordered. Continue current meds as above.
+
+Time spent: 15 min telehealth, most time counseling/coordinating care.
+
+Electronically signed: Steven Park, MD 09/08/2025

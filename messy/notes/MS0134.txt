@@ -1,0 +1,61 @@
+CARDIOLOGY H&P
+Patient: Rita Johnson
+DOB: 4/15/1948 (age 76)
+Date of Service: 06/01/2024
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: chest pain
+
+HPI: Ms Johnson is a 76 yo female w/ hx CAD, HTN, T2DM, asthma, BPH, PAD who presents today 06/01/2024 for eval of intermittent chest pain over past 2 wks. Pt describes pressure-like discomfort substernal, radiates to L arm, assoc w/ exertion, relieved w/ rest. No assoc SOB at rest, occ SOB w/ exertion (baseline per pt d/t asthma). Denies palpitations, syncope, diaphoresis. Pain lasts ~5-10 min episodes, occurs 2-3x/wk. No recent fevers/chills. Appetite stable, no wt loss.
+
+Pt reports adherence to metoprolol, atorvastatin, metformin, lisinopril mostly good but occasionally misses evening doses. Reports glucose logs at home ranging 110-180. Uses albuterol inhaler prn, approx 1-2x/wk. Denies recent asthma exac. PAD hx - has had prior claudication sx, currently stable, ambulates w/o assistive device, denies rest pain or nonhealing ulcers.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (Dr. Osei) — retained for continuity, may contain outdated info***
+Pt is a 75 yo female here for f/u CAD/HTN. Denies chest pain today, denies SOB, denies orthopnea/PND. Lower extrem edema trace bilat, stable from prior. BPH sx stable on tamsulosin, nocturia x1/night. Labs reviewed: A1c 7.2, LDL 88, Cr 1.1. EKG NSR no acute ST changes. Plan: continue current meds, f/u 6 months, recheck lipid panel, consider stress test if sx recur. RTC prn.
+***END COPIED SECTION***
+
+PAST MEDICAL HISTORY: as above; also hx of cataract surgery OU, osteoarthritis knees
+
+MEDICATIONS: metoprolol succinate 50mg daily, atorvastatin 40mg qhs, metformin 1000mg BID, lisinopril 20mg daily, tamsulosin 0.4mg qhs, albuterol HFA prn, aspirin 81mg daily
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: mother w/ CAD, father w/ DM2, no known fam hx of lung dz
+
+REVIEW OF SYSTEMS: Constitutional - no fever, no wt loss. CV - as per HPI, no syncope. Resp - occ SOB w/ exertion, no cough, no hemoptysis. GI - no n/v/d, no abd pain. GU - nocturia x1, no dysuria. MSK - chronic knee pain stable. Skin - no rashes. Neuro - no focal weakness, no numbness. Psych - no depression/anxiety sx reported. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb, Ht 5'4"
+Gen: NAD, alert, oriented x3, appears stated age
+HEENT: PERRLA, EOMI, no JVD
+CV: RRR, no m/r/g appreciated, distal pulses 2+ bilat radial, 1+ DP/PT bilat
+Resp: mild exp wheeze bilat bases, no rales/rhonchi, no accessory muscle use
+Abd: soft, NT/ND, +BS
+Extrem: no edema, no cyanosis, PAD stable no ulcers noted, skin intact
+Neuro: CN II-XII grossly intact, strength 5/5 UE/LE bilat
+
+PROBLEM LIST (ICD-10):
+1. I25.10 - Coronary artery disease w/o angina
+2. I10 - Essential hypertension
+3. E11.9 - Type 2 diabetes mellitus w/o complications
+4. J45.909 - Asthma, unspecified, uncomplicated
+5. N40.1 - BPH w/ LUTS
+6. I73.9 - Peripheral vascular disease, unspecified (outdated - see PAD I70.209 below)
+7. I70.209 - Atherosclerosis of native arteries of extremities, unspecified extremity, unspecified severity
+8. H25.9 - Unspecified age-related cataract (s/p surgery, resolved - outdated entry retained in chart)
+9. M17.9 - Osteoarthritis of knee, unspecified
+
+ASSESSMENT/PLAN:
+76 yo F w/ multiple cardiac risk factors presenting w/ exertional chest pain concerning for angina equivalent given CAD hx.
+
+1. Chest pain / CAD - EKG today reviewed, NSR, no acute ST-T changes c/w prior. Trop pending. Will obtain repeat lipid panel, consider stress echo given sx pattern. Continue metoprolol, atorvastatin, aspirin. Pt counseled re: return precautions, call if pain worsens or occurs at rest >15 min, go to ED.
+2. HTN - BP elevated today at 148/86, will increase lisinopril to 20mg (currently on 20mg, consider uptitration to 40mg if tolerated) - actually will hold change pending stress test results, recheck home readings.
+3. T2DM - reasonably controlled per home glucose logs, continue metformin, recheck A1c at next visit.
+4. Asthma - stable, occ use of albuterol, no exac recently, continue current regimen.
+5. BPH - stable on tamsulosin, no acute issues.
+6. PAD - stable, no rest pain/ulcers, continue current management, ABI if not done recently.
+7. Health maintenance - lung cancer screening discussed as part of general preventive care discussion; further eval deferred pending additional hx.
+
+F/u in cardiology clinic in 4-6 wks or sooner if sx worsen. Pt verbalized understanding of plan. Time spent w/ pt and counseling >20 min given complexity.
+
+Electronically signed: Kevin Osei, MD - 06/01/2024

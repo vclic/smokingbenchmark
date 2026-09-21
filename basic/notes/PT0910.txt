@@ -1,0 +1,74 @@
+General Medicine Clinic Office Visit
+
+Patient: LOPEZ, David    MRN: 54357709
+DOB: 02/26/1944    Age: 79 y.o.    Sex: Male
+Date of Service: 04/06/2023    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Medicare annual wellness visit
+
+Subjective:
+David Lopez is a 79 y.o. male who presents for a Medicare annual wellness visit.
+Feels well overall. He is an ex-smoker with 14 pack-years; he stopped smoking 37 years ago. Swims twice a week. Some trouble sleeping.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Prior ischemic stroke
+• Paroxysmal atrial fibrillation
+• Benign prostatic hyperplasia
+• Primary OA, bilateral knees
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• apixaban 5 mg BID
+• amlodipine 10 mg daily
+• finasteride 5 mg daily
+• aspirin 81 mg daily
+• tamsulosin 0.4 mg nightly
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives alone in an apartment.
+  EtOH: none since 2005 (hx AUD).
+
+Family History
+Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS: MSK neg, Skin neg, GI neg, CV neg, Gen neg, GU neg, Resp neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 134/76 (BP Location: Right arm, Patient Position: Sitting) | Pulse 65 | Temp 98.1 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 171 lb | SpO2 96% | BMI 26.81 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2016 - normal, repeat in 10 yrs; Shingrix series complete; Pneumococcal vaccine up to date.
+2. Benign prostatic hyperplasia
+   Nocturia x1-2; continue tamsulosin.
+3. Paroxysmal atrial fibrillation
+   CHA2DS2-VASc reviewed; continue DOAC.
+4. History of tobacco use (Z87.891)
+   Remains abstinent.
+5. Essential hypertension
+   Well controlled on home log. No changes.
+
+RTC 6 months.
+
+Electronically signed by Daniel Reyes, MD on 04/06/2023

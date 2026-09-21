@@ -1,0 +1,88 @@
+Internal Medicine Pre-Operative History & Physical
+Patient: Joyce Long | DOB: 5/17/1951 (age 73) | Sex: F
+Date of Service: 07/27/2024
+Attending/Author: Brian Okonkwo, MD
+
+REASON FOR VISIT: Pre-op eval for L total knee replacement, ortho referral (Dr. Patel).
+
+HPI: Pt is a 73 y/o F w/ hx gout, hypothyroidism, and obesity who presents for pre-surgical clearance prior to elective L TKA scheduled next month. She reports progressive L knee pain over past 2 yrs, worse w/ ambulation, failed conservative mgmt incl PT and NSAIDs. No chest pain, no SOB at rest, denies recent fevers/chills. She ambulates w/ cane at baseline. Pt quit smoking right after her heart attack and has not touched a cigarette since, and is very motivated to stay tobacco free going into surgery. Denies EtOH or illicit drug use. Reviewed anesthesia risks c/ pt, she verbalizes understanding.
+
+PAST MEDICAL HISTORY (problem list, ICD-10):
+- M10.9 Gout, unspecified — chronic, on allopurinol, last flare ~8 mo ago
+- E03.9 Hypothyroidism — stable on levothyroxine
+- E66.9 Obesity — BMI 34
+- NSTEMI with stent (1996) — s/p PCI, no recurrent events since
+- I10 Essential HTN (outdated entry, pt reports BP well-controlled off meds x 3 yrs, may need reconciliation)
+- M17.11 Unilateral primary OA, left knee
+
+PAST SURGICAL HISTORY: Cholecystectomy (2003), cardiac stent placement (1996) as above.
+
+SOCIAL HISTORY:
+Tobacco Use — [EHR templated block]
+Smoking status: Former smoker
+Pack-years: see history below
+Details: Pt reports smoked 1 pack/day for approx. 9 years in her 20s-30s, then stopped completely for a period of 6 years. She then restarted smoking at a reduced amount of about three-quarters of a pack per day (roughly 15 cigarettes/day) for approximately 11 years before quitting for good. She has not smoked since. No current tobacco, no vaping, no smokeless tobacco.
+Alcohol: denies.
+Drugs: denies.
+Occupation: retired schoolteacher.
+Lives with: husband, in single-story home (post-op consideration noted — pt will need to arrange downstairs recovery setup, house already single level so this is not an issue).
+Exercise: limited 2/2 knee pain, previously walked daily.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss/gain.
+Eyes: denies vision changes.
+ENT: denies hearing loss, denies sore throat.
+CV: denies chest pain, palpitations, orthopnea, PND. Hx NSTEMI/stent as noted above, asymptomatic since.
+Resp: denies cough, denies dyspnea on exertion beyond baseline knee-limited activity, denies wheeze.
+GI: denies nausea, vomiting, diarrhea, constipation, abd pain.
+GU: denies dysuria, hematuria, frequency.
+MSK: + L knee pain as above, denies other joint pain currently though hx gout flares in great toe/ankle previously.
+Skin: denies rash, denies new lesions.
+Neuro: denies HA, denies weakness, denies numbness/tingling.
+Psych: denies depression, denies anxiety.
+Endo: hx hypothyroid, denies heat/cold intolerance currently on replacement.
+Heme/Lymph: denies easy bruising/bleeding.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 72, BP 128/76, RR 16, SpO2 97% RA, Wt 198 lb, Ht 5'4", BMI 34.0
+General: well-developed, well-nourished female, NAD, appropriate affect.
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly appreciated on palpation (though hx hypothyroid).
+Neck: supple, no JVD, no lymphadenopathy.
+CV: RRR, no murmurs/rubs/gallops, no peripheral edema, pulses 2+ symmetric.
+Resp: CTAB, no wheezes/rales/rhonchi, good air entry bilat.
+Abd: soft, NT/ND, +BS, no masses, well-healed RUQ scar c/w prior cholecystectomy.
+MSK: L knee w/ mild effusion, crepitus w/ ROM, decreased flexion to ~95 deg, tenderness medial joint line, varus alignment noted. R knee unremarkable. Gait antalgic, uses cane.
+Skin: warm, dry, intact, no rashes/lesions.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 UE/LE bilat except limited by knee pain, sensation intact.
+Psych: mood/affect appropriate.
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg PO qday
+2. Allopurinol 300 mg PO qday
+3. Colchicine 0.6 mg PO PRN gout flare
+4. Atorvastatin 20 mg PO qhs
+5. Aspirin 81 mg PO qday
+6. Acetaminophen 650 mg PO PRN pain
+7. Vitamin D3 2000 IU PO qday
+8. Calcium carbonate 500 mg PO BID
+9. Multivitamin PO qday
+
+ALLERGIES: NKDA.
+
+LABS/STUDIES (reviewed, dictated somewhat unclear in places, [inaudible] portions clarified on chart review):
+CBC WNL, BMP WNL except mildly elevated uric acid 7.8, TSH 2.1 (therapeutic), Hgb A1c 5.6, lipid panel reviewed at last visit stable on statin. EKG today: NSR, rate 70s, no acute ST changes, old inferior Q waves c/w prior infarct, unchanged from prior tracing on file.
+
+ASSESSMENT/PLAN:
+73 y/o F, DOB 5/17/1951, seen today 07/27/2024 for pre-op clearance ahead of L TKA.
+
+1. Cardiac risk stratification: Hx NSTEMI/stent 1996, currently asymptomatic, EKG unchanged, RCRI low. As noted in HPI, pt quit smoking right after her heart attack and has remained abstinent, which is reassuring for surgical risk. Cleared from cardiac standpoint for surgery, will continue ASA per ortho/anesthesia coordination re: perioperative hold.
+2. Tobacco history: Former smoker per social hx above (see templated tobacco block for details of usage pattern over the years); pt currently smoke-free. Reinforced continued avoidance of tobacco, discussed general health benefits, no current cessation aids needed as pt already abstinent long-term.
+3. Gout: stable on allopurinol, continue, hold colchicine perioperatively if renal fxn changes, monitor.
+4. Hypothyroidism: stable, continue levothyroxine, recheck TSH post-op if clinically indicated.
+5. Obesity: BMI 34, counseled re: weight mgmt to aid post-op recovery and reduce joint stress, referral to nutrition offered.
+6. Pre-op labs/EKG reviewed as above, no contraindications identified to proceed with surgery.
+7. Pt instructed on pre-op fasting instructions, med reconciliation reviewed, will hold NSAIDs 1 wk prior per ortho protocol.
+8. F/u post-op or sooner if any new concerns; pt verbalizes understanding of above plan.
+
+Electronically signed: Brian Okonkwo, MD, Internal Medicine — 07/27/2024

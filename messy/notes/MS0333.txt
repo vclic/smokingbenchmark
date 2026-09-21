@@ -1,0 +1,82 @@
+GERIATRICS - Nurse Intake
+DOS: 10/01/2023
+Pt: Gwendolyn Alexander, F, DOB 07/18/1951 (age 72)
+Provider: Elena Markovic, MD
+
+CC: geriatric assessment, f/u chronic conditions (COPD, OA, PAD, asthma, gout)
+
+Vitals: T 97.8, HR 78, BP 138/82, RR 16, SpO2 94% RA, Wt 162 lb, Ht 5'4"
+
+Hx per pt & chart review. Pt alert, oriented x3, ambulates c cane 2/2 OA/PAD.
+
+SOCIAL HX:
+Tob: former smoker. Pt reports hx of smoking 2.5 ppd x 39 yrs, quit 2007. Denies current use, denies e-cigs.
+EtOH: quit drinking etoh in 2011, denies current use.
+Illicit drug use: denies.
+Lives alone, daughter assists c groceries/appts.
+
+--- Copied from note dated 08/01/2020 (unchanged at that time) ---
+SOCIAL HX (as documented 8/1/2020): Tobacco - former smoker. No quantities documented in that note.
+--- end copied section ---
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - c/o occasional dyspnea on exertion, chronic cough stable, no hemoptysis, no chest pain. CV - denies palpitations, orthopnea, PND, edema noted bilat LE mild. GI - denies n/v/d, appetite stable. GU - denies dysuria, frequency. MSK - chronic joint pain b/l knees & hands, gout flares intermittent, last flare 3 mo ago. Neuro - denies focal weakness, numbness, falls. Skin - denies rashes, ulcers. Psych - denies depression, anxiety; mood euthymic. Endo - denies polyuria/polydipsia. Heme - denies easy bruising/bleeding.
+
+MEDS (reconciled):
+1. Tiotropium inh 18mcg 1 cap inh daily
+2. Albuterol HFA MDI 90mcg 2 puffs q4-6h PRN wheeze/SOB
+3. Fluticasone/salmeterol DPI 250/50 1 puff BID
+4. Montelukast 10mg PO qHS
+5. Cilostazol 100mg PO BID
+6. Aspirin 81mg PO daily
+7. Atorvastatin 40mg PO qHS
+8. Allopurinol 300mg PO daily
+9. Colchicine 0.6mg PO PRN gout flare
+10. Acetaminophen 500mg PO PRN pain
+11. Meloxicam 7.5mg PO daily PRN OA pain
+12. Vitamin D3 1000 IU PO daily
+13. Calcium carbonate 500mg PO BID
+
+Allergies: NKDA
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Date: 10/01/2023
+Seen c nursing intake reviewed above; addendum/exam by Dr. Markovic.
+
+HPI: Ms. Alexander is a 72 y/o F (DOB 7/18/1951) presenting for comprehensive geriatric assessment, established pt c hx COPD, OA, PAD, asthma, gout. She reports overall stable resp status though notes mild increase in DOE over past few wks, poss related to recent cooler wx & increased activity c grandchildren visiting. No fevers, no purulent sputum, no acute distress currently. PAD stable, claudication distance unchanged per pt report ~2 blocks. Gout - last flare 3 mo ago, resolved c colchicine course, currently asymptomatic. OA - chronic b/l knee/hand pain, using cane for ambulation, PT referral previously given, pt reports partial benefit.
+
+Tobacco hx reviewed in detail today: pt confirms she smoked 2.5 packs per day for 39 years and quit smoking in 2007. She has remained abstinent since. Discussed importance of continued abstinence given COPD/asthma dx. Lung cancer screening discussed as part of preventive care conversation; further work-up to be individualized based on shared decision-making at future visit.
+
+EtOH hx: pt reports she quit drinking alcohol in 2011 and has not resumed use since.
+
+PMH: COPD, osteoarthritis, peripheral artery disease, asthma, gout, hyperlipidemia (per med list).
+
+PSH: cholecystectomy remote, b/l cataract surgery.
+
+FHx: noncontributory, limited hx available.
+
+PHYSICAL EXAM:
+Gen: well-appearing elderly F, NAD, seated comfortably.
+HEENT: NC/AT, EOMI, PERRLA, oropharynx clear, no thrush.
+Neck: supple, no LAD, no JVD.
+Resp: mild diffuse expiratory wheeze b/l, no rales, no rhonchi, air entry decreased mildly at bases, prolonged expiratory phase.
+CV: RRR, no m/r/g, distal pulses 1+ b/l DP/PT diminished 2/2 PAD, no acute limb ischemia.
+Abd: soft, NT/ND, +BS, no organomegaly.
+MSK: b/l knee crepitus, mild effusion R knee, no warmth/erythema currently (no active gout flare today), hand joints c Heberden's nodes noted, decreased grip strength b/l mild.
+Skin: no ulcers, no rash, skin turgor decreased (age-appropriate).
+Neuro: CN II-XII grossly intact, strength 5/5 all extremities, gait antalgic c cane use, no focal deficits.
+Psych: mood/affect appropriate, cooperative throughout visit.
+
+ASSESSMENT/PLAN:
+1. COPD - stable, mild sx increase noted, continue current inhaler regimen, reinforce inhaler technique, f/u PFTs to be scheduled, tobacco cessation counseling reinforced (pt already quit long-term, encouraged continued abstinence).
+2. Asthma - stable, continue combo inhaler.
+3. PAD - stable claudication, continue cilostazol/ASA, vascular surgery f/u per prior referral.
+4. OA - continue conservative mgmt, PT, consider ortho referral if worsening.
+5. Gout - asymptomatic currently, continue allopurinol, colchicine PRN.
+6. Health maintenance - discussed age-appropriate screening incl bone density, vision/hearing, immunizations up to date per chart. Lung cancer screening discussion documented above; no imaging ordered today.
+7. Social - lives alone, daughter involved, no acute safety concerns identified today.
+
+RTC 3 months or sooner if sx worsen. Pt verbalizes understanding, agrees c plan.
+
+Elena Markovic, MD

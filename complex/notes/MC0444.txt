@@ -1,0 +1,74 @@
+NURSE INTAKE
+Date of Service: 09/06/2025
+Patient: Gwendolyn Patel  DOB: 06/16/1959  Age: 66  Sex: F
+Provider: Hannah Weiss, NP  Dept: Geriatrics
+
+Vitals: BP 138/82  HR 76  RR 16  Temp 97.8F  SpO2 96% RA  Wt 152 lb  Ht 5'4"
+Allergies: NKDA
+Chief complaint per pt: "just here for my yearly check-up, i feel fine mostly"
+
+Social Hx (updated by RN):
+Tobacco: pt reports she smoked half a pack (about 10 cigarettes) a day for 16 years, then cut back to a quarter pack (about 5 cigarettes) a day for 32 years and continues smoking at that rate today. Denies vaping. Alcohol: occasional glass of wine. No illicit drug use reported.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (Geriatrics, Dr. R. Alvarez) ----
+Pt is a pleasant 64 yo female here for routine geriatric follow up. She ambulates independently, no falls since last visit. Cognition grossly intact, MMSE 28/30 last documented 2022. Lives alone, daughter checks in weekly. Continues on home meds without issue, denies new SOB, chest pain, or edema. BPH stable on tamsulosin, voiding pattern unchanged, no nocturia >2x. CAD stable, last stress test 2021 unremarkable, no anginal equivalents reported. Immunizations UTD per chart (flu, pneumococcal, shingles). Advance directive on file. Continue current meds, RTC 1 year or PRN.
+---- END COPIED FORWARD TEXT ----
+
+PHYSICIAN PROGRESS NOTE (H. Weiss, NP)
+
+HPI:
+Ms Patel is a 66 yo female w/ h/o coronary artery disease and BPH presenting today 09/06/2025 for geriatric assessment. She states "I feel pretty good, just get a little short of breath walkin up the stairs sometimes." No chest pain at rest, no palpitations, no syncope. She denies recent falls. Sleep is fair, appetite good. She lives independently and manages her own ADLs/IADLs without assistance, per pt and per daughter who accompanied her today.
+
+Regarding tobacco use, pt was counseled extensively today on the risks of continued smoking and the benefits of cessation, including cardiovascular and pulmonary risk given her CAD history. She continues to smoke despite counseling and states "I've tried to quit before but it's hard, maybe someday." She was offered cessation resources (quitline info, discussion of pharmacotherapy options such as varenicline and nicotine replacement) which she declined at this time but agreed to think about. Lung cancer screening was discussed in general terms as part of preventive care conversation appropriate for her smoking history, though no imaging study was arranged today.
+
+Review of systems otherwise negative for fever, weight loss, hemoptysis, hematuria, dysuria, or urinary retention. She does note occasional urinary hesitancy c/w known BPH, stable per pt.
+
+Past Medical/Surgical Hx:
+- Coronary artery disease, s/p PCI 2018
+- Benign prostatic hyperplasia (chart flag - dx carried over from a prior EHR migration error, retained per prior provider note, not corrected at this visit)
+- Hypertension
+- Osteoarthritis, bilateral knees
+
+Medications:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg qhs
+- Metoprolol succinate 25 mg daily
+- Tamsulosin 0.4 mg daily
+- Acetaminophen PRN
+
+Physical Exam:
+Gen: well-appearing, NAD, appropriate historian
+HEENT: PERRLA, oropharynx clear
+CV: RRR, no murmurs/rubs/gallops, no JVD
+Resp: clear to auscultation bilaterally, no wheeze/rales, mild prolonged expiratory phase noted
+Abd: soft, nontender, no masses
+Ext: no edema, pulses 2+ symmetric
+Neuro: alert, oriented x3, gait steady, no focal deficits
+Skin: no lesions of concern
+
+Labs/Results (reviewed today):
+08/15/2025 CBC: WBC 6.1, Hgb 13.2, Plt 244
+08/15/2025 CMP: Na 139, K 4.2, Cr 0.9, eGFR >60, Glucose 98
+08/15/2025 Lipid panel: TC 178, LDL 92, HDL 54, TG 130
+07/02/2025 HbA1c: 5.6%
+01/10/2025 EKG: NSR, no acute ST changes, unchanged from prior
+
+Assessment/Problem List (ICD-10):
+1. I25.10 - Atherosclerotic heart disease of native coronary artery without angina - stable
+2. N40.1 - Benign prostatic hyperplasia with lower urinary tract symptoms - noted above re: chart discrepancy
+3. I10 - Essential hypertension - well controlled
+4. M17.9 - Osteoarthritis, unspecified knee - stable, managed conservatively
+5. Z72.0 - Tobacco use, current - ongoing, counseled today
+
+Plan:
+1. CAD: continue current cardiac regimen, follow with cardiology as scheduled, encourage low-impact exercise as tolerated.
+2. BPH: continue tamsulosin, will clarify diagnosis at next visit given documentation discrepancy noted above.
+3. HTN: continue metoprolol, BP well controlled today, recheck at next visit.
+4. OA knees: continue acetaminophen PRN, consider PT referral if worsening.
+5. Tobacco use: counseled again on cessation, patient continues to smoke despite counseling; declined pharmacologic cessation aids today, offered quitline materials, will readdress at next visit. Preventive care discussion included general mention of lung cancer screening guidelines as applicable to smoking history; no imaging ordered today.
+6. Health maintenance: immunizations reviewed and UTD, advance directive on file reviewed with pt, no changes.
+7. RTC in 6 months or sooner if symptoms worsen.
+
+Time spent with patient today: 35 minutes, more than half spent on counseling and coordination of care.
+
+Electronically signed: Hannah Weiss, NP 09/06/2025

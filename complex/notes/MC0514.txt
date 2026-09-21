@@ -1,0 +1,75 @@
+PULMONOLOGY H&P
+Patient: Lan White (F), DOB 04/11/1956, Age: 69
+Date of Service: 04/11/2025
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Ms. White is a 69-year-old woman with COPD, hyperlipidemia, and hypothyroidism who presents for routine pulmonology follow-up. She reports intermittent dyspnea on exertion, worse when climbing stairs, and occasional productive cough in the mornings with clear/white sputum. No fevers, no hemoptysis, no chest pain. She denies recent hospitalizations or ED visits since last seen. She uses her albuterol inhaler PRN, roughly 2-3 times per week. No new wheezing episodes reported. She states her energy level is stable, though she notes some seasonal worsening with pollen exposure this spring. No peripheral edema noted by patient. She continues to work on breathing exercises taught during pulmonary rehab intake last year.
+
+PAST MEDICAL HISTORY:
+- COPD
+- Hyperlipidemia
+- Hypothyroidism
+
+MEDICATIONS:
+- Albuterol HFA inhaler PRN
+- Tiotropium inhaler daily
+- Atorvastatin 20 mg daily
+- Levothyroxine 75 mcg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE - TOBACCO/SUBSTANCE BLOCK):
+Tobacco Use Status: Current every day smoker
+Smoking History Comments: Long-standing history of heavy tobacco use per patient report; extensive pack-year history.
+Type: Cigarettes
+Smokeless Tobacco: Never used
+Alcohol Use: Occasional, 1-2 glasses wine/week
+Drug Use: Denies
+Secondhand Smoke Exposure: Not on file
+Living Situation: Lives with spouse
+Occupation: Retired
+Exercise: Not on file
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. Respiratory: chronic cough, dyspnea on exertion as above. Cardiovascular: no chest pain, no palpitations. GI: no nausea, no abdominal pain. Endocrine: no heat/cold intolerance, thyroid stable on current dose. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, Temp 98.2F, SpO2 94% on room air, Wt 152 lb, Ht 5'4"
+General: Alert, well-nourished, in no acute distress.
+HEENT: Normocephalic, atraumatic. Oropharynx clear.
+Neck: No jugular venous distension, no lymphadenopathy, thyroid non-enlarged.
+Lungs: Mild expiratory wheeze bilaterally, prolonged expiratory phase, no crackles, no rhonchi.
+CV: Regular rate and rhythm, no murmurs/gallops/rubs.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No clubbing, cyanosis, or edema.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+- CBC (03/28/2025): WBC 6.8, Hgb 13.1, Hct 39.4%, Plt 245 - within normal limits
+- CMP (03/28/2025): Na 139, K 4.2, Cl 101, CO2 25, BUN 16, Cr 0.8, Glucose 94 - unremarkable
+- Lipid panel (02/15/2025): Total chol 178, LDL 96, HDL 52, Trig 145
+- TSH (02/15/2025): 2.1 mIU/L (within normal range on current levothyroxine dose)
+- Spirometry (03/28/2025): FEV1 58% predicted, FEV1/FVC ratio 0.62, consistent with moderate airflow obstruction, similar to prior study 10/2024
+- Chest X-ray (03/28/2025): Hyperinflated lungs, no acute infiltrate, no effusion
+
+PROBLEM LIST (per chart, some entries outdated):
+- J44.9 - Chronic obstructive pulmonary disease, unspecified
+- E78.5 - Hyperlipidemia, unspecified
+- E03.9 - Hypothyroidism, unspecified
+- J45.909 - Asthma, unspecified (outdated, per prior note - patient denies asthma diagnosis, likely legacy entry)
+- M54.5 - Low back pain (outdated, resolved per patient, from 2021 visit)
+- Z87.891 - Personal history of nicotine dependence (NOTE: patient remains a current smoker per today's visit, this code may need updating to reflect active use rather than history)
+
+ASSESSMENT:
+69-year-old woman with moderate COPD, currently an active smoker with longstanding heavy tobacco use, hyperlipidemia, and hypothyroidism, presenting for routine follow-up. Spirometry shows stable moderate obstruction. Symptoms reasonably controlled on current regimen though continues to have exertional dyspnea and morning cough.
+
+PLAN:
+1. COPD: Continue tiotropium daily and albuterol PRN. Reinforce inhaler technique. Continue pulmonary rehab exercises. Repeat spirometry in 6 months or sooner if symptoms worsen.
+2. Tobacco use: Extensive discussion held regarding ongoing active smoking and its impact on COPD progression. Patient counseled strongly on smoking cessation; nicotine replacement therapy and pharmacologic cessation aids (varenicline, bupropion) discussed. Patient states she is contemplating quitting but not ready at this time. Encouraged to call quitline. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+3. Hyperlipidemia: Continue atorvastatin, lipid panel stable. Recheck in 6 months.
+4. Hypothyroidism: TSH within normal limits, continue current levothyroxine dose. Recheck TSH in 6 months.
+5. Return to clinic in 3 months or sooner if symptoms worsen. Advised to seek urgent care/ED if severe dyspnea, chest pain, or hemoptysis develops.
+
+Electronically signed: Kevin Osei, MD, Pulmonology, 04/11/2025.

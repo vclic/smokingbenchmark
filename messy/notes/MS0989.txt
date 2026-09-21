@@ -1,0 +1,55 @@
+HOSPITAL D/C FOLLOW-UP - PRIMARY CARE
+Patient: Edward Jenkins (M), DOB 1/3/1959, Age 66
+DOS: 01/03/2025
+Author: Priya Raman, MD (resident) w/ attending attestation
+
+CC: f/u after recent hosp admit for pneumonia
+
+HPI: Pt is a 66 y/o M w/ hx COPD, HFrEF, CAD, PAD, gout, OA presenting for f/u s/p d/c 3 days ago after admit for CAP (community-acquired pneumonia). Reports improved cough, less SOB, still some fatigue and [inaudible] chest tightness intermittently, denies fevers/chills now. Wife states he's been more short of breath with exertion then he was befor admission but improving day by day, sleeping better, appetite ok. He completed most of abx course as an outpt, has 2 days left of levofloxacin per d/c summary. No hemoptysis no CP at rest. He did miss one dose of lasix he thinks maybe two doses while in hospital transition confusion about meds happened per pt and daughter who helps w meds at home, this has since been clarified w pharmacy.
+
+ROS: Denies weight loss, denies hemoptysis, + occasional dyspnea on exertion, + mild bilateral LE edema unchanged from baseline per pt, denies chest pain, denies palpitations, gout flare none currently, joint pain chronic in knees stable.
+
+SOCIAL HISTORY: Active smoker, smokes about half a pack (~10 cigarettes) per day. Lives w wife, retired machinist. Denies current EtOH use, denies illicit drugs. Advised re: smoking cessation resources and offered counseling again today, pt states he is aware of risks and "thinking about it" cutting back. Smoking cessation d/c'd at length, pt declined pharm therapy today but open to revisiting at next visit.
+
+PMH/Problem List (ICD-10):
+- COPD (J44.9)
+- Heart failure with reduced ejection fraction (I50.22) - last known EF 30% on echo 2023, may be outdated
+- Coronary artery disease (I25.10) s/p PCI year unclear per old note, chart review pending
+- Peripheral artery disease (I73.9)
+- Gout (M10.9)
+- Osteoarthritis, bilateral knees (M17.0)
+- HTN (I10) - controlled
+- Pneumonia, resolving (J18.9) - active problem this visit
+
+MEDS (reconciled today): Lasix 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Atorvastatin 40mg qhs, Allopurinol 100mg daily, Tiotropium inhaler daily, Albuterol INH PRN, Aspirin 81mg daily, Clopidogrel 75mg daily, Levofloxacin 750mg daily (2 days remaining).
+
+EXAM:
+Vitals: BP 128/76, HR 78, RR 16, T 97.8F, SpO2 94% RA (improved from 88% on admission)
+Gen: NAD, comfortable, sitting in chair
+HEENT: no JVD appreciated today, mucous membranes moist
+CV: RRR, no m/r/g appreciated, +S3 chronic per prior notes
+Pulm: decreased breath sounds bases bilat, mild crackles left base improving from prior, no wheeze today
+Abd: soft NT ND +BS
+Ext: 1+ pitting edema bilat ankles, DP pulses faintly palpable bilat, no ulcers noted, feet warm
+Skin: no rashes
+Neuro: A&Ox3, no focal deficits
+
+LABS reviewed from d/c and today's draw: BNP trending down from 1450 to 890, Cr 1.1 stable, K 4.2, WBC 8.9 down from 14.2 on admission, Hgb 13.1.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - clinically improving, will complete abx course as prescribed, f/u CXR in 4-6 wks to document resolution, return precautions given re fever/worsening SOB.
+2. COPD - continue tiotropium and albuterol PRN, reviewed inhaler technique with pt today appeared adequate, discussed pulm rehab referral will place order.
+3. HFrEF - appears euvolemic today improved from admission, continue GDMT as above, will recheck BNP and BMP in 2 wks, daughter to assist w med organization going forward to prevent missed doses, discussed importance of daily weights.
+4. CAD/PAD - continue ASA/Plavix/statin, no acute concerns today, ABI was done last admission reportedly borderline will pull results.
+5. Gout - asymptomatic currently continue allopurinol.
+6. OA knees - stable, tylenol PRN, ortho f/u not needed at this time.
+7. Tobacco use - active smoker, counseled today re cessation, screening for lung cancer was discussed briefly with pt as topic for future visit, no imaging ordered today, provided cessation hotline info, will readdress at next visit.
+8. Health maintenance - due for pneumococcal booster status post this admission will review records, influenza vaccine given last fall per chart.
+
+F/u in 2 weeks or sooner if worsening symptoms. Pt verbalized understanding of plan. Discharge instructions reviewed again given confusion noted during hospitalization.
+
+_________________________
+Attending Attestation: I have seen and examined the patient with Dr. Raman, discussed the case, and agree with the above assessment and plan as documented. - Attending signature on file.
+
+ADDENDUM (later same day, 01/03/2025, 4:47pm, P. Raman MD):
+Spoke again w pt by phone after he called nursing line c/o mild dizziness on standing, advised to check standing BP at home log and hold next lasix dose if SBP <100, will follow up tomorrow by phone to reassess, no ED referral needed at this time per discussion, pt verbalized understanding, wife aware and will monitor.

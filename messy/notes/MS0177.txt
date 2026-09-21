@@ -1,0 +1,35 @@
+NP PROGRESS NOTE - Pulmonology f/u post COPD exacerbation (ED-to-clinic)
+Date of Service: 06/05/2026
+Author: Elena Markovic, MD
+Patient: Joyce Kim, F, DOB 4/6/1957, age 69
+
+HPI: Pt is a 69 y/o female s/p recent ED visit for COPD exacerbation, now f/u in clinic. Reports improved dyspnea since starting course of prednisone and abx, though still using rescue inhaler more than usual. Denies fever, chest pain at this time, some residual cough productive of white/[inaudible] sputum. She states she can walk to mailbox and back without stopping now, whereas last week she was SOB just getting up from chair and her, husband had to help her which was very upsetting for her she said.
+
+***COPIED FORWARD FROM VISIT 11/14/2024 (retained in record, may be outdated):***
+Pt continues on metformin, atorvastatin, omeprazole for GERD sx well controlled. CAD stable, no anginal equivalents. A1c last 7.2. Cardiology recommends routine f/u q6mo. Pt tolerating current regimen without issue. Will cont current meds, f/u PRN.
+***END COPIED SECTION***
+
+PROBLEM LIST:
+- J44.9 COPD, unspecified
+- I25.10 CAD w/o angina
+- E78.5 Hyperlipidemia
+- E11.9 Type 2 DM w/o complications
+- K21.9 GERD
+- (outdated) J45.909 Asthma, unspecified - carried over, likely miscoded, pt has no asthma dx per pulm records
+
+RESULTS:
+- CXR 06/05/2026: hyperinflation, no acute infiltrate
+- CBC 06/05/2026: WBC 8.9, Hgb 12.8
+- BMP 06/05/2026: Glc 142, Cr 0.9
+- Spirometry 04/2025: FEV1/FVC 58%, consistent w/ moderate obstruction
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, improving - cont albuterol prn, taper prednisone per prior instructions, f/u spirometry in 3 mo.
+2. Tobacco use: pt has smoked 1 pack per day since age 18. She continues to smoke currently and states she is not ready to quit at this time despite recent exacerbation. Discussed risks of continued smoking on COPD progression and cardiac disease, offered counseling and pharmacotherapy (varenicline, patches) which pt declined today. Lung cancer screening options were discussed with pt in general terms.
+3. CAD/HLD - stable, cont atorvastatin, low-dose aspirin, will check lipid panel at next visit.
+4. T2DM - cont metformin, last A1c stable, recheck in 3 mo.
+5. GERD - cont omeprazole, sx well controlled.
+
+RTC 3 months or sooner if worsening symptoms. Pt verbalized understanding of plan.
+
+Elena Markovic, MD

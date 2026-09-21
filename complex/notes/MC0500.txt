@@ -1,0 +1,83 @@
+CONSULTATION NOTE / LETTER TO REFERRING PHYSICIAN
+Date of Service: 03/03/2023
+Author: Gregory Tan, MD, Internal Medicine
+Patient: Harold Bryant | DOB: 03/01/1971 | Age: 52 | Sex: M
+
+Referring Provider: Dr. S. Whitfield, Orthopedic Surgery
+Reason for Consult: Pre-operative medical evaluation for right total knee replacement
+
+HPI:
+Mr. Bryant is a 52-year-old male with a history of coronary artery disease, hyperlipidemia, GERD, atrial fibrillation, and depression who presents today, 03/03/2023, for pre-operative risk stratification prior to elective right knee replacement surgery scheduled by Dr. Whitfield. He reports progressive right knee pain limiting ambulation, worse with weight bearing, improved somewhat with NSAIDs and activity modification. He denies chest pain, exertional dyspnea, orthopnea, or PND. He reports occasional palpitations, stable on current anticoagulation and rate control regimen. Denies recent GERD flares; controlled on omeprazole. Mood is reportedly stable on current antidepressant regimen per patient report.
+
+=== COPIED FORWARD FROM PRIOR VISIT NOTE (ORIGINAL DATE 11/14/2021) ===
+Pt is a 50 yo M here for f/u of CAD, HLD, GERD, afib, depression. Pt reports doing well overall. Continues on metoprolol succinate, atorvastatin, omeprazole, apixaban, and sertraline. Denies CP, SOB, palpitations at rest. Denies dizziness or syncope. Reports occasional heartburn managed with diet modification. Exercise tolerance reportedly good, walks 20 min daily without limitation. Affect euthymic, sleep and appetite stable. No new complaints at that time. Plan at that visit was to continue current medications, routine labs, follow up in 6 months, and continue statin therapy for secondary prevention.
+=== END COPIED FORWARD TEXT ===
+
+PAST MEDICAL HISTORY:
+- Coronary artery disease, s/p stent (per prior records)
+- Hyperlipidemia
+- GERD
+- Atrial fibrillation, on anticoagulation
+- Depression
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking status detail: Patient reports a history of smoking in three distinct stretches - 2 packs per day for 4 years, followed by 1.5 packs per day for 5 years, followed by 1 pack per day for 4 years, before quitting smoking in 2003.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Not on file
+Living situation: Blank
+Exercise: Reports daily walking
+Diet: Not on file
+
+MEDICATIONS:
+1. Metoprolol succinate 50 mg daily
+2. Atorvastatin 40 mg nightly
+3. Omeprazole 20 mg daily
+4. Apixaban 5 mg BID
+5. Sertraline 100 mg daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, or weight loss.
+Cardiac: Denies chest pain, palpitations at rest, orthopnea, PND.
+Respiratory: Denies cough, wheeze, hemoptysis.
+GI: Occasional heartburn, controlled.
+Psych: Denies SI/HI, mood stable.
+Musculoskeletal: Positive for right knee pain, as above.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68 irregularly irregular, RR 14, SpO2 97% RA, BMI 29.4
+General: NAD, well-appearing male
+Cardiovascular: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-tender, non-distended
+Extremities: Right knee with mild effusion, crepitus with range of motion, no erythema or warmth; no lower extremity edema
+Neuro: Grossly intact
+
+LABS/RESULTS:
+- CBC (02/20/2023): WBC 6.8, Hgb 14.2, Hct 42.1%, Plt 210
+- BMP (02/20/2023): Na 140, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.9, Glucose 98
+- Lipid panel (01/15/2023): Total cholesterol 168, LDL 92, HDL 45, Triglycerides 130
+- INR (02/28/2023): 1.1 (on apixaban, not routinely monitored but checked given upcoming surgery)
+- EKG (03/03/2023): Atrial fibrillation, rate 68, no acute ST-T changes
+- TSH (01/15/2023): 2.1 (WNL)
+
+ASSESSMENT/PLAN:
+52-year-old male with CAD, HLD, GERD, atrial fibrillation, and depression presenting for pre-op clearance for right TKA.
+
+1. Cardiac risk assessment: Low-to-moderate perioperative cardiac risk given stable CAD without active symptoms. RCRI reviewed. Continue metoprolol and atorvastatin. Will coordinate anticoagulation bridging plan with orthopedic surgery and anesthesia given apixaban use - plan for holding apixaban per standard perioperative protocol, to be finalized with surgical team.
+2. Atrial fibrillation: Rate controlled, INR/anticoagulation plan as above. Continue metoprolol.
+3. Hyperlipidemia: Continue atorvastatin, lipid panel reassuring.
+4. GERD: Continue omeprazole, no acute issues.
+5. Depression: Stable on sertraline, continue current dose, no acute concerns today.
+6. Tobacco history: Patient is a former smoker who quit smoking in 2003; counseled on maintaining tobacco cessation and general pulmonary health prior to surgery. Lung cancer screening was discussed in general terms as part of preventive health counseling, though not the primary focus of today's visit.
+7. Pre-operative clearance: Patient cleared for right total knee replacement from a cardiopulmonary standpoint, with recommendations above regarding anticoagulation management. Will fax clearance letter to Dr. Whitfield's office.
+8. Follow-up: Return to clinic post-operatively or sooner if new symptoms arise.
+
+Thank you for allowing me to participate in this patient's care. Please do not hesitate to contact me with any questions regarding perioperative management.
+
+Sincerely,
+Gregory Tan, MD
+Internal Medicine

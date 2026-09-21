@@ -1,0 +1,39 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Date of Service: 12/02/2025
+Patient: James Perez, M, DOB 07/27/1969, Age: 56
+Provider: Priya Raman, MD
+
+--- NURSE INTAKE ---
+Visit type: Telehealth, medication refills.
+Vitals: unable to obtain via telehealth, patient reports BP cuff at home reads 128/78, HR 76 irregular.
+Allergies: NKDA.
+Review of Systems: Denies fever, chills, chest pain, SOB at rest, denies palpitations today, denies leg swelling. Denies dysuria. Denies vision changes. Positive for occasional fatigue. All other systems reviewed and negative per patient report.
+
+Social History: Patient reports he uses a nicotine vape pen daily, has used e-cigarettes for several years for stress. He states he has never smoked traditional cigarettes. Denies alcohol use. Denies illicit drug use. Lives with spouse, retired postal worker.
+
+Problem List:
+- E66.9 Obesity, unspecified
+- G47.33 Obstructive sleep apnea (adult)
+- E03.9 Hypothyroidism, unspecified
+- I48.91 Atrial fibrillation, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- J45.909 Asthma, unspecified (outdated, resolved per pt, chart not updated)
+
+Medications: Levothyroxine 100 mcg daily, Apixaban 5 mg BID, Metoprolol succinate 50 mg daily, Vitamin D3 2000 IU daily, Alendronate 70 mg weekly, CPAP nightly.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Perez is a 56-year-old male presenting today via telehealth for routine medication refills. He reports doing well overall, CPAP compliance good per device download, no recent AFib symptoms, no syncope or presyncope. He continues to use his nicotine vape daily but reiterates he has never smoked cigarettes in his life. Weight stable. No new complaints today.
+
+Physical Exam (limited, telehealth): General - well-appearing, no acute distress, seated comfortably. HEENT: no visible distress, no scleral icterus noted on camera. Cardiac: unable to auscultate, patient reports no palpitations. Resp: no visible respiratory distress. Extremities: no visible edema. Skin: no rashes noted on camera.
+
+Assessment/Plan:
+1. Atrial fibrillation - stable, continue apixaban and metoprolol, refill sent.
+2. OSA - continue CPAP, good compliance.
+3. Hypothyroidism - continue levothyroxine, recheck TSH in 6 months.
+4. Osteoporosis - continue alendronate and vitamin D, DEXA due next year.
+5. Obesity - discussed diet and activity, weight stable.
+6. Tobacco/nicotine use - patient vapes nicotine daily; never a cigarette smoker. Counseled on risks of vaping, encouraged cessation resources offered.
+
+Return to clinic or telehealth in 6 months, sooner if symptoms arise.
+
+Priya Raman, MD

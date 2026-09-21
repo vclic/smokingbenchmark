@@ -1,0 +1,48 @@
+PULMONOLOGY FOLLOW-UP - COPD
+DOS: 04/13/2026
+Author: Quentin Hale, PA-C (resident note; attending attestation below)
+
+Pt: Wayne Lopez, M, DOB 04/13/1951 (age 75)
+
+HPI: 75 yo male w/ COPD returns for f/u. Reports increased dyspnea on exertion, denies fevers/chills. Cough stable, sputum unchanged. Continues to smoke despite counseling at prior visits, states he has tried patches without success. No chest pain, some ankle swelling noted, consistent w known HFrEF.
+
+PROBLEM LIST (dx codes):
+- J44.9 COPD, unspecified
+- I73.9 Peripheral artery disease (outdated entry, last updated 2023)
+- I50.22 Chronic systolic (congestive) heart failure
+- Z87.891 Personal hx of nicotine dependence (chart note: pt still active smoker, code likely needs update)
+
+SOCIAL HISTORY (EHR templated block):
+Alcohol use: Not on file
+Tobacco use:
+  Status: Current every day smoker
+  Hx: 3 distinct periods documented -
+    1) 1 pack per day x 17 years
+    2) 1/2 pack (approx 10 cigs/day) x 23 years
+    3) 1.5 packs/day x 17 years (current)
+  Quit attempts: yes, unsuccessful
+  Counseling given: yes, repeatedly
+Drug use: Not on file
+Occupation: retired
+Living situation: lives w spouse
+
+[Copied from note dated 05/13/2024]: "Smoking status: current smoker." (no further detail provided in that prior note)
+
+EXAM:
+Vitals stable, afebrile. BP 128/78, HR 82, SpO2 93% RA.
+Gen: NAD, mild dyspnea w exertion during ambulation to exam room
+CV: RRR, no murmur, trace bilateral LE edema
+Resp: decreased breath sounds bilat bases, mild expiratory wheeze, no crackles
+Ext: PAD stable, pulses palpable but diminished DP bilat
+
+LABS/IMAGING: BNP mildly elevated, stable from prior. CXR reviewed - hyperinflation, no acute infiltrate.
+
+ASSESSMENT/PLAN:
+1. COPD - sx worsening slightly, likely multifactorial incl ongoing tobacco use. Continued to counsel patient re: smoking cessation given ongoing active smoking despite prior counseling; discussed nicotine replacement options and referral to cessation program. Pt continues to smoke despite counseling today as well. Lung cancer screening discussed in general terms; will revisit.
+2. PAD - stable, continue current antiplatelet regimen, f/u vascular surgery per their sched.
+3. HFrEF - euvolemic-ish today, mild edema noted, continue GDMT, monitor wt daily, f/u cardiology.
+4. Tobacco dependence - see social hx block above for detailed smoking hx; reinforced cessation counseling, pt not ready to quit at this time.
+
+F/u pulm in 3 months or sooner if worsening sx.
+
+Attending attestation: Reviewed and discussed with resident/PA. Agree with assessment and plan as above. - Dr. R. Alvarez, Attending Pulmonology

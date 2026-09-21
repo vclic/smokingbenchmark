@@ -1,0 +1,55 @@
+NURSE INTAKE NOTE
+Date of Service: 05/23/2026
+Patient: Dale Lopez  DOB: 03/31/1949  Age: 77  Sex: M
+Visit type: New patient - establish care, Primary Care
+Vitals: BP 138/84  HR 78  RR 16  Temp 97.8F  SpO2 95% RA  Wt 214 lb  Ht 5'9"
+
+SOCIAL HISTORY (templated block):
+Marital Status: Married
+Occupation: Retired - former warehouse supervisor
+Alcohol Use: Occasional, 1-2 drinks/wk
+Tobacco Use: Current smoker
+  Pack-year history: 43 pack-years
+  Cigars/other tobacco: Not on file
+Drug Use: Denies
+Living Situation: Lives with spouse
+Exercise: Not on file
+
+Patient states he still smokes cigarettes and when asked about quitting says he is not ready to quit at this time. Advised to quit, discussed resources, pt declined referral to tobacco cessation program today.
+
+HPI (physician progress note, N. Haddad MD):
+Mr Lopez presents today to establish care as a new patient to this practice. He reports feeling generally well, denies chest pain, denies hemoptysis, some occassional dyspnea on exertion which he attributes to deconditioning. He has a hx of CKD stage 3 and OSA, followed previously by outside providers, records being requested. No acute complaints today other then wanting refills of his home meds.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (outside clinic) ---
+Pt seen for f/u CKD and OSA. Creatinine stable at 1.6, eGFR 44. Pt using CPAP nightly per report, compliance download not available at this encounter. BP controlled on lisinopril. Pt counseled on renal diet, low sodium, monitor K+ intake. Continue current meds no changes. RTC 6 months for recheck labs. Pt tobacco use noted at that time as well, advised cessation resources given but declined. Weight stable. No edema noted. Denies dysuria, hematuria, or flank pain. Denies orthopnea. Sleep study on file shows moderate-severe OSA, AHI 28.
+----- END COPIED TEXT -----
+
+PMH / Problem List (ICD-10):
+- N18.3 Chronic kidney disease, stage 3 (moderate) - active, followed
+- G47.33 Obstructive sleep apnea - active, on CPAP
+- I10 Essential hypertension - active
+- E78.5 Hyperlipidemia - active (dx outdated per pt, states resolved w/ diet, needs recheck)
+- Z87.891 Personal history of nicotine dependence - listed but pt is CURRENT smoker per today's update, list needs correction
+
+Medications:
+- Lisinopril 10mg daily
+- Atorvastatin 20mg qhs
+- CPAP nightly
+- Multivitamin daily
+
+Labs/Results (reviewed today, pulled from outside records):
+- 11/14/2023: Creatinine 1.6 mg/dL, eGFR 44 mL/min/1.73m2
+- 02/02/2025: Creatinine 1.7 mg/dL, eGFR 41 mL/min/1.73m2, K+ 4.5
+- 05/20/2026 (repeat prior to todays visit): Creatinine 1.8 mg/dL, eGFR 39 mL/min/1.73m2, K+ 4.8, BUN 32, Hgb A1c 5.8%
+- Lipid panel 02/02/2025: LDL 98, HDL 42, Trig 150
+
+Assessment/Plan:
+1. CKD stage 3 - eGFR trending down slightly to 39, will recheck in 3 months, continue renal diet counseling, avoid nephrotoxic agents, renew lisinopril.
+2. OSA - continue CPAP, order new compliance download at next visit, reinforce nightly use.
+3. Tobacco use - discussed ongoing cigarette use, patient again states he is not ready to quit; offered nicotine patches/counseling, pt declined at this time, will readdress at future visits. Screening for lung cancer was discussed in general terms with the patient.
+4. HTN - stable on current regimen, continue lisinopril, recheck BP next visit.
+5. Hyperlipidemia - recheck lipid panel given last one from 2025, continue atorvastatin.
+6. Update problem list to reflect current smoker status rather then history of nicotine dependence code.
+RTC in 3 months or sooner if concerns, pt verbalizes understanding of plan.
+
+Electronically signed: Nadia Haddad, MD - 05/23/2026

@@ -1,0 +1,45 @@
+GERIATRICS PROGRESS NOTE
+Patient: Nancy Mitchell | DOB: 3/11/1964 | Age: 60 | Sex: F
+Date of Service: 03/11/2024
+Author: Elena Markovic, MD (NP progress note co-signed)
+
+PROBLEM LIST:
+1. Essential hypertension (I10) - ongoing
+2. Heart failure with reduced ejection fraction (I50.22) - stable on GDMT
+3. Atrial fibrillation (I48.91) - on anticoagulation
+4. Gout (M10.9) - last flare 2021, outdated entry, no recent flares
+5. COPD (J44.9) - moderate
+6. Osteoarthritis (M19.90) - copied forward, unclear if still active
+
+HPI: Pt is a 60 y/o female here for geriatric assessment, accompanied by daughter who reports pt has been "doing okay overall" though she notes some increased fatigue over the past few weeks, possibly related too her heart failure or just [inaudible] due to weather changes, pt denies chest pain denies PND but does endorse some orthopnea requiring two pillows, she also reports occasional joint stiffness in the mornings which she attributes to her gout though no acute flares recently, medication compliance reviewed and appears adequate per pill count today.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+Smoking history: Patient has smoked on and off for most of her adult life.
+Vaping/e-cigarette use: Patient also vapes occasionally.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with daughter
+Exercise: Not on file
+
+[COPIED FROM PRIOR NOTE DATED 5/11/2020, SMOKING STATUS AS DOCUMENTED THEN - NOT UPDATED]: "Tobacco: current smoker."
+
+Assessment/Plan re: tobacco: Patient continues to smoke despite counseling. Discussed smoking cessation resources including nicotine replacement therapy and counseling referral, patient states she is "not ready" at this time. General health maintenance topics were discussed during visit.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiac: as above, denies syncope. Respiratory: chronic cough stable, denies hemoptysis, uses albuterol PRN. GI: denies nausea vomiting diarrhea constipation. GU: denies dysuria. MSK: joint stiffness as noted above. Neuro: denies focal weakness numbness. Psych: mood stable, denies SI/HI. All other systems reviewed and negative per template.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 78 irregularly irregular, RR 18, SpO2 94% RA, Wt 165 lb. General: NAD, well-groomed elderly female. HEENT: PERRL, oropharynx clear. Neck: no JVD appreciated today. CV: irregularly irregular rhythm, no murmurs appreciated, trace bilateral lower extremity edema. Lungs: mild expiratory wheeze bilaterally, no crackles. Abd: soft nontender nondistended. Ext: no clubbing cyanosis, trace edema as noted. Neuro: alert oriented x3, gait steady with cane.
+
+LABS/RESULTS:
+03/08/2024 BNP: 410 pg/mL (elevated)
+03/08/2024 BUN/Cr: 22/1.1
+03/08/2024 K+: 4.3
+03/08/2024 INR: 2.4 (therapeutic)
+01/15/2024 Uric acid: 6.8 mg/dL
+
+MEDICATIONS: Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Furosemide 40mg daily, Warfarin per INR, Allopurinol 100mg daily, Tiotropium inhaler daily, Albuterol inhaler PRN.
+
+ASSESSMENT/PLAN: 1. HFrEF - continue current regimen, recheck BNP in 3 months. 2. AFib - continue warfarin, INR therapeutic today. 3. HTN - well controlled. 4. Gout - stable, continue allopurinol. 5. COPD - continue inhalers, discussed smoking cessation as above. Follow up in 3 months or sooner if symptoms worsen.
+
+Elena Markovic, MD

@@ -1,0 +1,40 @@
+URGENT CARE VISIT NOTE
+Date of Service: 04/29/2026
+Patient: Kenneth Martin | DOB: 04/29/1956 | Age: 70 | M
+Attending Attestation: Farah Siddiqui, MD (I have personally seen and evaluated this patient and agree with the resident's documentation below, with edits as noted.)
+
+CHIEF COMPLAINT: Cough
+
+HPI:
+Mr. Martin is a 70 y/o male presenting today, 04/29/2026, with a 5-day history of dry cough. He states, "It's been keeping me up at night, doc, and it just won't quit." No fevers reported, though he notes some mild fatigue. He denies hemoptysis, chest pain, or significant dyspnea at rest. He did mention, "I get a little winded walking up the stairs at home, but that's kind of normal for me with my leg circulation issues." No sick contacts identified. He has not tried any OTC meds yet.
+
+ROS: Positive for cough, mild fatigue. Negative for fever, chills, chest pain, hemoptysis, wheeze at rest, dysuria, urinary retention symptoms today (though he has chronic BPH-related urgency).
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. N40.1 - BPH with lower urinary tract symptoms
+2. I73.9 - Peripheral artery disease
+3. G47.33 - Obstructive sleep apnea (on CPAP, compliance unclear per old note from 2023)
+4. F32.9 - Major depressive disorder, unspecified (outdated entry, patient reports symptoms now more consistent with recurrent episode, not reconciled)
+5. J45.909 - Asthma, unspecified (old note, unclear if still active problem, not addressed today)
+
+SOCIAL HISTORY:
+Tobacco: Patient reports he has never smoked cigarettes. No vaping history reported. Denies other tobacco use. Alcohol: occasional. No illicit drug use reported.
+
+MEDICATIONS: Tamsulosin, clopidogrel, sertraline, CPAP nightly (per prior chart).
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78, BP 132/78, RR 16, SpO2 96% RA.
+General: Alert, mild cough noted during visit, no acute distress.
+Lungs: Clear to auscultation bilaterally, no wheeze/rales/rhonchi appreciated.
+CV: Regular rate and rhythm, no murmurs.
+Extremities: Diminished pedal pulses bilaterally, consistent with known PAD, no edema.
+
+ASSESSMENT/PLAN:
+70-year-old male, never-smoker, presenting with acute cough, likely viral upper respiratory process given clear lung exam and lack of fever/hypoxia.
+1. Acute cough - supportive care, hydration, OTC antitussive as needed, return if worsening dyspnea, fevers, or hemoptysis.
+2. PAD - continue clopidogrel, discussed importance of walking program; given his low pretest probability for lung malignancy as a lifelong nonsmoker, lung cancer screening was not discussed as indicated at this visit.
+3. OSA - continue CPAP, encourage compliance tracking at next PCP visit.
+4. BPH - stable, continue tamsulosin.
+5. Depression - stable on sertraline, will defer to PCP for reassessment given outdated problem list entry.
+
+Attending addendum: Discussed case with resident; agree with plan as above. Reinforced with patient that his cough is most consistent with a self-limited viral process given his never-smoker status and clear exam.

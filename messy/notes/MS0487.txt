@@ -1,0 +1,59 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Wei White (M) DOB: 03/18/1954 (age 69)
+Date of Service: 03/18/2023
+Provider: Brian Okonkwo, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 74, RR 16, T 97.8F, SpO2 97% RA, Wt 182 lb, Ht 5'9"
+Chief complaint: pre-op clearance for right total knee replacement, orthopedic surgery scheduled next month per Dr. Nguyen's office.
+Allergies: NKDA
+Medications reviewed with patient at bedside - see full list below.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Never smoker
+ Smokeless tobacco: Not on file
+ Alcohol use: Quit in 1999
+ Drug use: Denies
+ Occupation: Retired (former accountant)
+ Living situation: Lives with spouse
+ Exercise: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. White is a 69-year-old male with history of coronary artery disease, depression, CKD stage 3, and osteoporosis who presents today, 03/18/2023, for pre-operative medical evaluation prior to right total knee arthroplasty. He reports progressive right knee pain, worse w/ ambulation, minimal relief from NSAIDs (which are used cautiously given his renal function). He denies chest pain, denies orthopnea, denies PND. He notes some fatigue but attributes this to poor sleep secondary to knee pain. Patient states he has never smoked cigarettes in his life, and further denies any history of pipe or cigar use. He reiterates that he quit drinking alcohol back in 1999 and has been abstinent since; he does not drink currently. No illicit drug use.
+
+Review of Systems: Constitutional - denies fever, chills, wt loss. Eyes - denies visual changes. ENT - denies sore throat, denies hearing loss, pt mumbled something about ear ringing, [inaudible], will follow up if persists. CV - denies chest pain, denies palpitations, positive for occasional lower extremity edema. Resp - denies cough, denies SOB at rest, mild dyspnea on exertion related to knee limitation per pt. GI - denies nausea, denies vomiting, denies abdominal pain, bowel movements regular. GU - denies dysuria, denies hematuria. MSK - positive for right knee pain as above, denies back pain. Skin - denies rash. Neuro - denies weakness, denies numbness, denies syncope. Psych - history of depression, currently stable on medication, denies SI/HI. Endocrine - denies polyuria, denies polydipsia. Heme/Lymph - denies easy bruising, denies bleeding. Allergic/Immunologic - denies seasonal allergies.
+
+Past Medical History: Coronary artery disease (s/p stent 2015), depression, chronic kidney disease stage 3 (baseline creatinine ~1.6), osteoporosis (on bisphosphonate therapy).
+
+Past Surgical History: Cardiac catheterization with stent placement 2015, appendectomy remote.
+
+Medications: Aspirin 81 mg daily, atorvastatin 40 mg qhs, metoprolol succinate 50 mg daily, sertraline 100 mg daily, alendronate 70 mg weekly, calcium/vitamin D supplement daily, occasional acetaminophen for knee pain as needed, multivitamin daily.
+
+Physical Exam:
+General: Well-developed, well-nourished male, no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs/rubs/gallops appreciated, no JVD, trace bilateral lower extremity edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no rales, no rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: Right knee with mild effusion, crepitus on ROM, tender along medial joint line, no erythema, no warmth. Left knee unremarkable. Pulses 2+ throughout.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neuro: Cranial nerves II-XII grossly intact, strength 5/5 in all extremities, sensation intact to light touch, gait antalgic favoring right leg.
+Psych: Mood euthymic, affect appropriate, cooperative.
+
+Labs (reviewed today): BMP - creatinine 1.6, eGFR 42, potassium 4.3, sodium 139, glucose 98. CBC - Hgb 13.9, Hct 41%, Platelets 245. Coags - INR 1.0, PT 12.4, PTT 28.
+EKG: NSR, rate 72, no acute ST-T changes, unchanged from prior.
+
+Assessment and Plan:
+1. Pre-operative clearance for right total knee replacement - patient is 69 y/o with CAD, depression, CKD stage 3, and osteoporosis presenting for pre-op eval on 03/18/2023. Cardiac risk assessed as low-to-moderate given stable CAD, no active anginal symptoms, and reasonable functional capacity limited primarily by orthopedic issue. Cleared for surgery from an internal medicine standpoint pending final anesthesia eval.
+2. Coronary artery disease - stable, continue home cardiac meds, no further cardiac workup indicated at this time given stable symptoms.
+3. Chronic kidney disease stage 3 - continue to avoid nephrotoxic agents, monitor renal function post-op, avoid NSAIDs perioperatively.
+4. Osteoporosis - continue alendronate, calcium/vitamin D; will hold bisphosphonate perioperatively per orthopedic protocol.
+5. Depression - stable on sertraline, continue current regimen, no acute issues today, denies SI/HI.
+6. Social history noted as never smoker; alcohol use history notable for cessation in 1999, no current relevant substance use concerns affecting surgical risk.
+7. Return to clinic post-operatively or sooner if concerns arise. Pt verbalizes understanding of plan, all questions answered today, follow up as scheduled.
+
+Brian Okonkwo, MD
+
+--- ADDENDUM (later same day, 03/18/2023) ---
+Addendum: Spoke again briefly with patient by phone this afternoon regarding lab results and clarified that his creatinine trend has been stable over the past year, no new concerns. Patient reconfirmed he has never smoked cigarettes and has no plans to start. He also reiterated that he has not consumed alcohol since quitting in 1999. No changes to overall plan as outlined above. Pt to proceed with pre-op clearance as documented.
+Brian Okonkwo, MD

@@ -1,0 +1,45 @@
+NURSE INTAKE
+Patient: Cheryl Harris, F, DOB 07/20/1964, Age 60
+Date of Service: 07/20/2024
+Provider: Kevin Osei, MD
+Internal Medicine - Pre-operative Evaluation (right knee replacement)
+
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.4F, SpO2 97% RA, Wt 178 lb, Ht 5'5"
+Chief complaint: pre-op eval for total knee arthroplasty, orthopedic clearance requested.
+
+Social History: Patient reports she tried a few cigarettes as a teenager but never smoked regularly. Denies current tobacco use, denies vaping. Occasional glass of wine with dinner, denies illicit drug use. Lives with husband, retired schoolteacher.
+
+=== COPIED FORWARD FROM VISIT 03/14/2022 ===
+Pt here for f/u of OSA and BPH, using CPAP nightly per report although compliance data pending, denies daytime somnolence today, voice was a little groggy [inaudible] this morning she said she didnt sleep well due to her neighbors dog barking all knight, she takes tamsulosin and reports improved stream, denies hematuria denies dysuria, exam otherwise unremarkable, will cont current regimen and f/u in 6 months, refill sent to Walgreens pharmacy on Main St, patient verbalized understanding of plan.
+=== END COPIED TEXT ===
+
+PHYSICIAN PROGRESS NOTE - Kevin Osei, MD
+Date of Service: 07/20/2024
+
+HPI: Ms. Harris is a 60-year-old woman with history of BPH and obstructive sleep apnea who presents today for pre-operative medical clearance prior to right total knee arthroplasty scheduled with orthopedics. She reports progressive right knee pain over the past several years, worse with ambulation and stairs, minimal relief with NSAIDs and physical therapy. She denies chest pain, denies shortness of breath at rest, denies orthopnea. She uses CPAP nightly for OSA and reports good adherence, though she says the machine 'beeps a lot for no reason' which she finds annoying. No recent hospitalizations.
+
+Review of Systems: Denies fever, chills, cough, hemoptysis. Denies dysuria, denies urinary retention (on tamsulosin for BPH with good response). Denies calf pain or swelling. Denies easy bruising or bleeding.
+
+Social History (confirmed with patient): Never a regular smoker; as noted above, she tried a few cigarettes as a teenager but never smoked regularly since. No current tobacco or nicotine product use. Rare alcohol use.
+
+Exam:
+General: well-appearing, NAD
+CV: RRR, no murmurs
+Resp: CTAB, no wheezes/rales
+Ext: right knee with mild effusion, crepitus with ROM, no calf tenderness, no edema
+Skin: no rashes
+
+Labs/Results (reviewed today):
+CBC (07/18/2024): WBC 6.8, Hgb 13.9, Plt 245
+BMP (07/18/2024): Na 139, K 4.2, Cr 0.9, Glc 98
+Coag panel (07/18/2024): PT 12.1, INR 1.0, PTT 29
+EKG (07/20/2024): sinus rhythm, rate 74, no acute ST changes
+Urinalysis (07/18/2024): unremarkable, no signs of infection
+
+Assessment/Plan:
+1. Pre-op clearance for right TKA - cardiopulmonary risk low, cleared from medicine standpoint pending final anesthesia eval. Continue CPAP through peri-op period, bring device to hospital.
+2. OSA - stable on CPAP, continue current settings, sleep medicine f/u as scheduled.
+3. BPH - stable on tamsulosin, continue, monitor for orthostasis post-op given anesthesia and pain meds.
+4. Health maintenance - up to date per chart review, no tobacco use to counsel on given no regular smoking history.
+
+Will communicate clearance to orthopedic surgery team. Patient verbalized understanding of pre-op instructions including holding certain medications per anesthesia guidance. Follow up after surgery or sooner if concerns.

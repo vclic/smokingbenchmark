@@ -1,0 +1,58 @@
+GERIATRIC ASSESSMENT - NURSE INTAKE
+Patient: Linda Roberts | DOB: 01/26/1963 | Age: 63 | Sex: F
+Date of Service: 06/26/2026
+Provider: Farah Siddiqui, MD (Geriatrics)
+
+VITALS: BP 138/82, HR 78, RR 18, SpO2 92% RA, Wt 208 lb, BMI 34.2, Temp 98.2F
+
+CHIEF COMPLAINT: "I get winded just going to the mailbox and back."
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Smoking hx: 84 pack-year history
+Alcohol use: Not on file
+Drug use: Denies
+Living situation: Lives alone, daughter nearby
+Occupation: Retired
+Exercise: Sedentary
+Diet: Not on file
+
+HPI (nurse intake): Pt is a 63 y/o F w/ PMHx of asthma, OA, COPD, T2DM, obesity, and CAD presenting for geriatric assessment. Pt states, "I've smoked most of my life, and I know I should quit, but honestly I'm not ready right now." She reports increasing SOB w/ exertion, occasional wheeze, and chronic knee pain limiting mobility. Denies chest pain, denies syncope. Reports med compliance is fair; sometimes forgets metformin dose.
+
+PROBLEM LIST (ICD-10):
+- J45.909 Asthma, unspecified
+- M19.90 Osteoarthritis, unspecified site (outdated entry, likely bilateral knee per prior imaging)
+- J44.9 COPD, unspecified
+- E11.9 Type 2 diabetes mellitus without complications
+- E66.9 Obesity, unspecified
+- I25.10 Atherosclerotic heart disease of native coronary artery w/o angina
+- Z87.891 Personal hx of nicotine dependence (copy-forward, inaccurate - pt still smoking)
+
+PHYSICIAN PROGRESS NOTE (Farah Siddiqui, MD):
+DOS: 06/26/2026. Pt seen today for geriatric assessment, referred by PCP for functional decline and multiple comorbidities. Reviewed nursing intake above.
+
+HPI: 63 y/o F w/ longstanding hx of asthma/COPD overlap, OA, T2DM, obesity, and CAD here for comprehensive geriatric eval. She endorses progressive dyspnea on exertion and joint pain affecting ADLs. Continues to smoke; she has an 84 pack-year smoking history and, per discussion today, is not ready to quit at this time despite counseling on risks. Advised to quit and offered resources (quitline, nicotine replacement); pt declined further intervention today, stating "maybe later."
+
+ROS: Positive for exertional dyspnea, chronic cough, knee pain. Negative for fever, chest pain, hemoptysis, edema.
+
+EXAM: Gen - obese female, NAD. Lungs - diffuse expiratory wheeze, prolonged expiratory phase. CV - RRR, no m/r/g. Ext - no edema, crepitus at bilateral knees w/ ROM limitation. Skin - no lesions.
+
+LABS/RESULTS:
+- CBC (06/20/2026): WBC 7.8, Hgb 12.9, Plt 245
+- CMP (06/20/2026): Glu 168, Cr 0.9, eGFR 78
+- HbA1c (06/20/2026): 7.9%
+- Lipid panel (05/15/2026): LDL 112, HDL 42, TG 165
+- PFT (03/2026): FEV1/FVC 0.62, consistent w/ moderate obstruction
+- CXR (03/2026): hyperinflated lungs, no acute infiltrate
+
+ASSESSMENT/PLAN:
+1. COPD/asthma overlap - continue combo inhaler, add short-acting rescue prn. Pulm f/u.
+2. Tobacco use, current - discussed cessation resources; pt not ready to quit; will readdress at next visit. Lung cancer screening discussed as an option to consider going forward.
+3. T2DM - A1c 7.9%, will adjust metformin dose, reinforce diet.
+4. CAD - continue statin, ASA, monitor lipids.
+5. OA - refer PT, continue NSAID prn with caution given CAD/renal function.
+6. Obesity - counsel on weight mgmt, refer nutrition.
+
+F/u in geriatrics clinic 3 months, sooner if worsening dyspnea.
+
+Electronically signed: Farah Siddiqui, MD

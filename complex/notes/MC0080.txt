@@ -1,0 +1,48 @@
+TELEHEALTH VISIT - Family Medicine
+Patient: Harold Roberts (M), DOB 6/29/1953
+Date of Service: 06/29/2024
+Author: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: Medication refills, telehealth f/u
+
+HPI: Mr Roberts is a 71 year old male presenting via video visit for routine refills of his asthma/COPD/PAD meds. He reports baseline dyspnea on exertion, unchanged, uses rescue inhaler ~2x/wk. No fevers, no chest pain, no calf claudication change. Denies recent hospitalizations. He has an extensive smoking hx, having smoked for 57 years; continues to smoke despite counseling on multiple prior visits regarding cessation. No new complaints today. He requests refill of albuterol, tiotropium and cilostazol.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+- Asthma, unspecified (J45.909)
+- COPD, unspecified (J44.9)
+- Peripheral artery disease (I73.9)
+- GERD (K21.9) - outdated, resolved per pt
+- Hyperlipidemia (E78.5)
+
+SOCIAL HISTORY: Lives alone, retired machinist. Quit drinking alcohol in 2005, denies current etoh use. Denies illicit drug use. Tobacco use as noted in HPI above - ongoing, counseled today again re: cessation resources/quitline, patient declines at this time.
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90mcg 2 puffs q4-6h prn
+2. Tiotropium 18mcg cap inh daily
+3. Cilostazol 100mg PO BID
+4. Atorvastatin 40mg PO qhs
+5. Fluticasone/salmeterol 250/50 1 puff BID
+6. Aspirin 81mg PO daily
+7. Lisinopril 10mg PO daily (copied forward, unclear if still active)
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no chills, no wt loss. Resp: chronic cough, no hemoptysis, dyspnea on exertion as above. CV: no chest pain, no palpitations, + intermittent leg cramping w ambulation. GI: no nausea, vomiting, diarrhea, denies abd pain. GU: no dysuria. MSK: no acute joint pain. Neuro: no focal weakness, no numbness. Psych: no SI/HI, mood stable. All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, telehealth): Pt appears comfortable, in no acute distress, seated at home. Vitals per pt home cuff: BP 138/82, HR 76, reports O2 sat 94% on room air via home pulse ox. General: alert, oriented x3. Resp: pt coughs intermittently during call, no visible respiratory distress, no use of accessory muscles noted on camera. CV: unable to auscultate via telehealth. Ext: pt reports no open wounds, no color change noted on camera exam of lower extremities.
+
+LABS/RESULTS:
+- CBC 05/15/2024: WBC 7.2, Hgb 13.9, Plt 245
+- CMP 05/15/2024: Na 138, K 4.3, Cr 1.0, Glucose 101
+- Lipid panel 05/15/2024: TC 178, LDL 96, HDL 42, TG 150
+- ABI (last done 11/2023): Right 0.68, Left 0.71
+- Spirometry (03/2024): FEV1/FVC reduced, consistent w obstructive pattern
+
+ASSESSMENT/PLAN:
+1. COPD (J44.9) - stable, continue current inhalers, refill tiotropium and albuterol as requested. Pt continues to smoke despite ongoing counseling; discussed cessation aids again today, pt not ready to quit. General discussion held regarding long-term smoking history and its health implications; no further imaging discussed today.
+2. Asthma (J45.909) - stable on current regimen.
+3. Peripheral artery disease (I73.9) - continue cilostazol, ASA, statin. ABI stable compared to prior. Recommend continued walking program as tolerated.
+4. Hyperlipidemia - lipids at goal, continue atorvastatin.
+5. Social - reinforced tobacco cessation counseling; pt aware of quitline resources. Alcohol history reviewed, pt remains abstinent since 2005.
+
+F/u in 3 months or sooner if symptoms worsen. Refills sent to pharmacy as requested.
+
+Electronically signed: Catherine Lindqvist, DO

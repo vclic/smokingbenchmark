@@ -1,0 +1,63 @@
+ENCOUNTER: New Patient Visit to Establish Care - Primary Care
+Patient: Gregory Baker (M), DOB: 07/17/1951 (age 73)
+Date of Service: 07/17/2024
+Author: Priya Raman, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.4F, SpO2 97% RA, Wt 224 lb, Ht 5'9", BMI 33.1
+Allergies: NKDA
+Chief complaint (pt's own words, as transcribed): "I just need a doctor now that my old one retired, I have a bunch of stuff going on with my joints and my legs."
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Current every day smoker
+Smoking pack-years: 9
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Retired (former field, not on file)
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Baker is a 73-year-old male, DOB 7/17/1951, presenting today, 07/17/2024, to establish care with primary care after his previous physician retired. He reports longstanding knee and hip pain attributed to osteoarthritis, occasional gout flares in the great right toe, and intermittent leg cramping with ambulation that he attributes to his known peripheral artery disease. He describes the leg pain as a "tightening, achy fealing" that occurs after walking about two blocks and resolves with rest, consistent with claudication. He denies rest pain or non-healing ulcers currently. He also notes he has been "more tired then usual" but attributes this to poor sleep from joint pain, he sleeps on his side most nights and sometimes wakes up around 3 or 4 am and cant fall back asleep and then he is groggy all day which he thinks make his joints feel worse in a kind of a cycle, [inaudible] he also mentions his wife has been telling him to see a doctor for month's about his breathing when he walks up the stairs.
+
+Review of systems otherwise negative for chest pain, palpitations, fevers, chills, unintended weight loss, hematuria, or melena. Positive for chronic joint pain and intermittent claudication as above.
+
+Past Medical History (Problem List - ICD-10):
+1. Osteoarthritis, unspecified site (M19.90)
+2. Obesity, unspecified (E66.9)
+3. Gout, unspecified (M10.9) - last flare per patient approx 6 months ago
+4. Hyperlipidemia (E78.5)
+5. Peripheral artery disease, unspecified extremity (I73.9)
+6. Essential hypertension (I10) - noted as historical dx, unclear if still active, will confirm
+7. GERD (K21.9) - carried over from outside records, patient denies current symptoms, may be outdated entry
+
+Medications (per patient report, bottles not brought in): atorvastatin 40mg qhs, allopurinol 300mg daily, occasional ibuprofen prn joint pain, patient unsure of exact dosing on some, will reconcile at next visit.
+
+Social History (narrative): Patient confirms he is an active smoker at this time. He states he has smoked cigarettes for a number of years, current amount and duration were reviewed with nursing intake and documented above. He has not attempted formal cessation programs previously. He lives with his spouse in a single-story home, denies alcohol or illicit drug use, denies use of e-cigarettes or vaping products.
+
+Physical Exam:
+General: Well-developed, obese male, no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: No JVD, no thyromegaly, no bruits appreciated on auscultation although exam somewhat limited by body habitus.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Distal pulses diminished bilaterally in the dorsalis pedis and posterior tibial, right slightly weaker then left.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi, mild increased work of breathing not noted at rest.
+Abdomen: Obese, soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: Trace edema bilateral lower extremities, skin intact, no ulcerations noted, cool to touch distally, first MTP joint on right with no active swelling today.
+Musculoskeletal: Decreased range of motion bilateral knees and hips, crepitus noted bilaterally, no effusions appreciated today.
+Skin: No rashes or lesions noted.
+Neuro: Alert and oriented x3, grossly intact, no focal deficits.
+
+Assessment/Plan:
+1. Osteoarthritis (M19.90) - Chronic, affecting knees and hips bilaterally. Continue acetaminophen and topical NSAIDs as needed, discussed weight management given impact on joint loading, referral to orthopedics if conservative measures fail. Will hold off on additional imaging today unless symptoms worsen.
+2. Peripheral artery disease (I73.9) - Symptoms consistent with intermittent claudication, bilateral. Will order ABI (ankle-brachial index) testing to further characterize severity. Counseled extensively on importance of smoking cessation given known vascular risk, active every day smoking is a major modifiable risk factor for progression of PAD, offered nicotine replacement therapy and referral to cessation counseling, patient states he is "thinking about it" but not ready to quit today. Continue to monitor pulses and skin integrity, patient educated on signs of critical limb ischemia to report immediately.
+3. Gout (M10.9) - Continue allopurinol, reinforce dietary modification (limit red meat, alcohol, sugary beverages), follow up uric acid level at next visit.
+4. Hyperlipidemia (E78.5) - Continue atorvastatin 40mg, will check fasting lipid panel and comprehensive metabolic panel today, reinforce diet and exercise as tolerated given joint limitations.
+5. Obesity (E66.9) - BMI 33.1, discussed weight loss goals, referred to nutrition counseling, discussed low impact exercise options given osteoarthritis limitations such as water aerobics or stationary cycling.
+6. Hypertension (I10) - Elevated reading today at 148/86, will recheck at follow up, patient to bring home BP log, unclear if currently on antihypertensive, will clarify.
+7. Tobacco use, current every day smoker - Discussed general health risks of continued smoking including cardiovascular and pulmonary disease progression, advised to quit, offered resources including quitline number and pharmacologic aids, patient declined to start today but agreeable to revisit at next visit.
+8. Health maintenance - Due for age-appropriate cancer screenings, will discuss colonoscopy and other preventive care at follow up visit, immunizations reviewed and updated as needed today including influenza and pneumococcal vaccines offered.
+
+Follow up in 4-6 weeks or sooner if symptoms worsen, labs and ABI to be reviewed at that time, patient given after visit summary and encouraged to call with questions.
+
+Electronically signed: Priya Raman, MD

@@ -1,0 +1,25 @@
+TELEHEALTH PRE-OP EVALUATION
+Patient: Wayne Brown (M), DOB 2/24/1975, age 50
+DOS: 02/24/2025
+Provider: Farah Siddiqui, MD (Internal Medicine)
+
+HPI: Mr. Brown is a 50-year-old male referred for pre-operative medical clearance prior to right total knee replacement. He states, "My knee has been killing me for years, I just want to get back to walking the dog." He denies chest pain, denies orthopnea, reports occasional dyspnea on exertion which he attributes to his COPD. Patient says "I get winded going up the stairs but its been like that for a while."
+
+Smoking history: Patient has a history of smoking 4 cigarettes per day for 30 years. He no longer smokes; he quit smoking 2 years ago. He was counseled in the past regarding cessation and has maintained abstinence.
+
+--- COPY-FORWARD FROM VISIT 08/14/2023 ---
+PMH: COPD, osteoporosis. On home O2 prn per prior note although this may be outdated, will clarify with patient at this visit. Pt reports occasional wheeze, using albuterol inhaler 2 puffs qid prn. Osteoporosis followed by endocrinology, last DEXA reportedly stable, patient states "I think it was okay last time" [inaudible] discussion regarding calcium/vitamin D supplementation continues, patient unsure of current dose he takes daily and whether he ran out last month or not sure the pharmacy refilled it automatically he thinks so but not positive, will need med rec at next visit, and also there was a mention of a fall risk assessment which the patient could not recall details of and it was noted the visit ran long due to multiple interruptions and a poor phone connection which made parts of the history difficult to obtain (inaudible in several places) and follow-up was recommended in three months time or sooner if symptoms worsen.
+--- END COPY-FORWARD ---
+
+ROS: Denies fevers, denies hemoptysis, denies unintentional weight loss. Positive for occasional dyspnea as above.
+
+PE (per patient report/video, limited telehealth exam): Appears comfortable, no acute distress noted on camera. Speech clear, no accessory muscle use observed. Unable to auscultate via telehealth.
+
+Assessment/Plan:
+1. COPD - stable per patient report, continue current inhaler regimen, discussed smoking cessation maintenance and congratulated patient on quitting, discussed importance of continued abstinence.
+2. Osteoporosis - continue current management, will coordinate with endocrinology.
+3. Pre-op clearance for TKA - low risk for pulmonary complications given cessation status, cleared from cardiopulmonary standpoint pending standard labs/EKG.
+4. Lung cancer screening was discussed with the patient as part of general health maintenance given smoking history.
+5. Follow up post-operatively as needed, return to clinic or telehealth in 4-6 weeks or sooner with concerns.
+
+Electronically signed: Farah Siddiqui, MD

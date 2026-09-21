@@ -1,0 +1,82 @@
+GERIATRIC ASSESSMENT - PROGRESS NOTE
+DOS: 07/04/2024
+Patient: James Okafor, M, DOB: 07/04/1966 (age 58 today - happy bday Mr. Okafor)
+Author: Isaac Moreno, PA-C, Geriatrics
+
+CC: Routine geriatric assessment, f/u COPD, HFrEF, HLD, OA.
+
+HPI: 58 yo M with hx COPD, HFrEF, hyperlipidemia, OA presents for annual geriatric assessment. Reports stable dyspnea on exertion, uses inhalers as prescribed. No chest pain, no PND/orthopnea. Occasional knee pain, worse w/ cold weather, managed w/ acetaminophen. Denies falls. Sleeps ok. Appetite fair. Lives w/ spouse, independent in ADLs/IADLs.
+
+PMH: COPD, HFrEF (EF ~35% per last echo), hyperlipidemia, osteoarthritis (bilateral knees)
+PSH: Appendectomy remote
+FH: Father - CAD, Mother - DM2
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Tobacco: Former smoker.
+  - Smoking hx: 1 ppd x 6 yrs --> 2 ppd x 8 yrs --> 3/4 ppd (~15 cigs/day) x 6 yrs, then quit.
+  - Quit year: 2004.
+  - Current status: Does not currently smoke; no tobacco use since quitting.
+Alcohol: Denies.
+Illicit drugs: Denies.
+Exercise: Light walking as tolerated.
+
+ROS (per template, all systems reviewed unless noted):
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: No visual changes.
+ENT: No hearing loss, no sore throat.
+CV: + occasional palpitations, denies chest pain, denies syncope.
+Resp: + chronic cough, + DOE, denies hemoptysis.
+GI: No N/V/D, no abd pain.
+GU: No dysuria, no hematuria.
+MSK: + bilateral knee pain, denies acute swelling.
+Skin: No rashes, no lesions.
+Neuro: No focal weakness, no numbness/tingling.
+Psych: No depression, no anxiety per PHQ-2 screen negative.
+Endo: No polyuria/polydipsia.
+Heme/Lymph: No easy bruising, no lymphadenopathy.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, T 98.2F, SpO2 94% RA, Wt 182 lbs, Ht 5'9"
+Gen: NAD, well-nourished, appears stated age.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+CV: RRR, no murmurs/rubs/gallops appreciated today, no peripheral edema.
+Resp: Mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles.
+Abd: Soft, NT/ND, +BS, no organomegaly.
+MSK: Bilateral knee crepitus, no effusion, ROM preserved.
+Skin: Warm, dry, intact.
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady.
+Psych: Mood euthymic, affect appropriate.
+
+LABS/RESULTS:
+06/28/2024 CBC: WBC 6.8, Hgb 14.1, Hct 42.0, Plt 210
+06/28/2024 BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glu 96
+06/28/2024 Lipid panel: Total chol 178, LDL 98, HDL 42, Trig 190
+06/28/2024 BNP: 210 pg/mL
+06/30/2024 PFTs: FEV1/FVC 0.62, FEV1 58% predicted, consistent w/ moderate obstructive pattern
+06/20/2024 Echo: EF 35%, mild-mod LV dilation, mild MR
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN
+2. Tiotropium 18 mcg inhaled daily
+3. Fluticasone/salmeterol 250/50 inhaled BID
+4. Carvedilol 12.5 mg PO BID
+5. Lisinopril 10 mg PO daily
+6. Spironolactone 25 mg PO daily
+7. Furosemide 20 mg PO daily
+8. Atorvastatin 40 mg PO qHS
+9. Aspirin 81 mg PO daily
+10. Acetaminophen 650 mg PO PRN knee pain
+11. Multivitamin PO daily
+
+ASSESSMENT/PLAN:
+1. COPD - moderate obstruction on PFTs, continue current inhaler regimen, reinforced inhaler technique. Discussed lung cancer screening guidelines in general terms today given smoking hx; no imaging ordered at this visit.
+2. HFrEF - EF 35%, clinically stable, continue GDMT as above, monitor BNP/renal fxn.
+3. Hyperlipidemia - LDL at goal on statin, continue atorvastatin.
+4. Osteoarthritis - stable, continue acetaminophen PRN, consider PT referral if worsens.
+5. Geriatric assessment - independent in ADLs/IADLs, no fall risk identified today, cognitive screen unremarkable.
+F/u 6 months or sooner PRN.
+
+---
+ADDENDUM (later same day, 07/04/2024, 16:40): Pt called clinic after visit to clarify smoking timeline for records - reconfirmed hx as documented above: 1 ppd x6 yrs, then 2 ppd x8 yrs, then ~15 cigs/day (3/4 ppd) x6 yrs, quit in 2004, no smoking since. No changes to plan. -Isaac Moreno, PA-C

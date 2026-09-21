@@ -1,0 +1,38 @@
+NURSE INTAKE
+Pt: Jose Sanchez, M, DOB 2/26/1951, age 73. DOS: 02/26/2024. Vascular Surgery clinic for PAD eval.
+Vitals: BP 148/86, HR 78 irreg (known AFib), RR 16, Temp 98.4F, SpO2 96% RA, Wt 198 lb.
+Hx reviewed w/ pt, appears reliable historian.
+
+TOBACCO USE (EHR templated block):
+- Current tobacco status: current every day smoker
+- Type: cigarettes
+- Amount: 1 pack per day
+- Start: 1969
+- Quit attempts: yes, per pt hx
+- Counseling given: yes, brief cessation counseling provided today
+
+PHYSICIAN PROGRESS NOTE - N. Haddad, MD
+
+HPI: Mr. Sanchez is a 73 yo M w/ PMHx significant for AFib (on anticoag), T2DM, BPH, OSA, HLD, and OA who presents for f/u eval of PAD, referred for claudication sx in b/l lower extremities. Pt states, "my legs cramp up somethin fierce when I walk to the mailbox and back now," and reports the pain resolves w/ rest, consistent w/ intermittent claudication. He denies rest pain, denies non-healing ulcers, denies gangrene changes. He notes some improvement in symptoms w/ current med regimen but still limited to about 1-2 blocks before sx onset.
+
+Regarding tobacco: pt previously quit smoking in 2017 but relapsed in 2020 and has been smoking since. He continues to smoke despite repeated counseling at prior visits and today; he was again advised to quit given vascular risk. Lung cancer screening was discussed w/ pt as part of general risk counseling.
+
+Copied from note dated 4/26/2021 (Dr. Haddad): "Tobacco: pt is a current smoker, continues to use tobacco, counseled extensively on cessation resources including nicotine replacement and referral to quitline; no quantities documented in that encounter."
+
+ROS: Constitutional - denies fever/chills/wt loss. CV - + palpitations intermittently (known AFib), denies CP. Resp - denies cough/hemoptysis/dyspnea at rest. GI - denies N/V/D, + occasional constipation. GU - nocturia x2-3, known BPH. MSK - chronic b/l knee pain, OA-related, stable. Neuro - denies focal weakness/numbness. Skin - denies ulcers/rashes. Sleep - uses CPAP nightly for OSA, [inaudible] compliance reported as good per pt and per device download data reviewed today which shows adequate usage the majority of nights.
+
+PE: Gen - NAD, well-nourished elderly male. CV - irreg irreg rhythm, no m/r/g appreciated, no JVD. Resp - CTAB, no wheezes/rales/rhonchi. Abd - soft, NT/ND, +BS. Ext - b/l LE w/ diminished dorsalis pedis and posterior tibial pulses, no edema, skin intact, no ulcers, cap refill <3 sec, hair loss noted on distal legs bilaterally. Neuro - grossly intact.
+
+Meds: Apixaban 5mg BID, Metformin 1000mg BID, Atorvastatin 40mg qhs, Tamsulosin 0.4mg qhs, Aspirin 81mg daily, Cilostazol 100mg BID, Lisinopril 10mg daily, Metoprolol succinate 50mg daily.
+
+Assessment/Plan: 73M w/ PAD, AFib, T2DM, BPH, OSA, HLD, OA.
+1. PAD - claudication sx, continue cilostazol, ABI ordered, consider vascular imaging pending results, lifestyle mod incl supervised exercise program discussed.
+2. Tobacco use - continues to smoke despite counseling; re-offered pharmacotherapy (varenicline vs NRT), pt declined today, will revisit next visit.
+3. AFib - continue apixaban, rate controlled on metoprolol, no acute issues.
+4. T2DM - continue metformin, A1c pending.
+5. HLD - continue statin.
+6. OSA - continue CPAP, good adherence per download.
+7. OA - conservative mgmt, OTC analgesics prn.
+RTC 3 months or sooner if worsening sx.
+
+ADDENDUM (later same day, N. Haddad MD): Spoke further w/ pt after initial visit regarding vascular risk reduction; reiterated importance of smoking cessation given PAD dx. Pt verbalizes understanding. No changes to plan above. ABI order confirmed submitted, pt to schedule w/ vascular lab this wk.

@@ -1,0 +1,54 @@
+VASCULAR SURGERY - NURSE INTAKE
+Date of Service: 11/02/2023
+Patient: John Hill  DOB: 07/01/1955  Age: 68  Sex: M
+
+CC: Follow up for peripheral artery disease (PAD) evaluation.
+
+Vitals: BP 138/82  HR 76  RR 16  Temp 98.4F  SpO2 97% RA  Wt 189 lb  Ht 5'10"
+
+Allergies: NKDA
+
+Medications (per MAR, reconciled today): Aspirin 81 mg daily, Atorvastatin 40 mg qhs, Cilostazol 100 mg BID, Lisinopril 10 mg daily, Calcium/Vit D 600mg/400IU BID, Alendronate 70 mg weekly, Metoprolol succinate 25 mg daily, Multivitamin daily.
+
+Social History: Patient is a former smoker, quit smoking in 2010. Reports a 3 pack-year smoking history overall. Denies current tobacco, denies e-cigerette or vape use. Occasional etoh, denies illicit drugs. Lives with spouse, retired machinist.
+
+ROS: Constitutional - denies fever chills weight loss. HEENT - denies vision changes denies hearing loss. CV - reports intermittent bilateral calf cramping w ambulation, denies chest pain denies palpitations. Resp - denies cough denies dyspnea at rest. GI - denies nausea vomiting diarrhea constipation. GU - denies dysuria denies hematuria. MSK - reports mild low back stiffness, known osteoporosis. Neuro - denies numbness denies weakness denies syncope. Skin - denies rashes denies nonhealing wounds although notes slow healing of small abrasion on right shin. Psych - denies depression denies anxiety. All other systems reviewed and negative per template.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Steven Park, MD - Vascular Surgery
+Date of Service: November 2, 2023
+
+HPI: Mr Hill is a 68 year old male with history of CKD stage 3 and osteoporosis who returns today for reevaluation of his peripheral artery disease he was initially referred [inaudible] for claudication symptoms and an abnormal ABI performed at his last visit he states the calf cramping occurs after about two blocks of walking and resolves with rest he denies any rest pain denies ulceration denies gangrene he has been compliant with cilostazol and reports mild improvement in walking distance he continues to work on a home exercise program he is a former smoker who quit smoking in 2010 and has a 3 pack-year smoking history he denies any interval chest pain shortness of breath or palpitations his renal function has been stable per his nephrologist and he takes calcium and vitamin D along with alendronate for osteoporosis management.
+
+Past Medical History:
+- Peripheral artery disease, bilateral lower extremity, I73.9
+- Chronic kidney disease stage 3, N18.30
+- Osteoporosis without current pathological fracture, M81.0
+- Hyperlipidemia, E78.5 (per old problem list, appears controlled on statin)
+- Essential hypertension, I10
+- Tobacco use disorder, in remission, Z87.891 (historical, patient no longer smokes)
+
+Physical Exam:
+General: Well-developed well-nourished male in no acute distress.
+CV: Regular rate and rhythm, no murmurs rubs or gallops appreciated, distal pulses 1+ bilaterally at dorsalis pedis, diminished posterior tibial pulses bilaterally.
+Resp: Clear to auscultation bilaterally, no wheezes rales or ronchi.
+Extremities: Bilateral lower extremities with mild hair loss, no edema, cap refill 3 seconds toes, skin intact aside from small healing abrasion right shin approx 1cm, no ulceration.
+Neuro: Alert and oriented x3, cranial nerves grossly intact, sensation grossly intact to light touch bilaterally.
+Skin: No rashes no lesions other than as noted above.
+MSK: Mild kyphosis noted, gait steady, no assistive device.
+
+Labs Reviewed: Creatinine 1.4 (baseline), eGFR 52, Lipid panel wnl on statin, HbA1c 5.6%.
+
+Assessment and Plan:
+1. Peripheral artery disease with claudication - patient reports mild symptomatic improvement on cilostazol continue current dose continue supervised exercise therapy discussed importance of daily walking program follow up ABI in 6 months
+2. Tobacco history - patient is a former smoker who quit in 2010 with an overall 3 pack-year smoking history reinforced benefit of continued abstinence discussed general risk reduction strategies and general cancer risk awareness with patient, advised to continue routine health maintenance discussions with his primary care physician
+3. Chronic kidney disease stage 3 - stable, continue current antihypertensive regimen, renally dose medications as appropriate, recheck BMP at next visit
+4. Osteoporosis - continue alendronate and calcium/vitamin D supplementation, discussed fall precautions given kyphosis noted on exam
+5. Hypertension - well controlled on current regimen, continue metoprolol and lisinopril
+
+Patient verbalized understanding of the plan all questions answered follow up in 6 months or sooner if symptoms worsen.
+
+Steven Park, MD
+Vascular Surgery

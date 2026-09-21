@@ -1,0 +1,42 @@
+Pulmonology Progress Note
+Patient: Wayne Moore, M, DOB 6/3/1973 (age 53)
+DOS: 06/03/2026
+Author: Rachel Goldberg, MD
+
+CC: f/u after ED visit for COPD exacerbation.
+
+HPI: Pt presented to ED 5 days ago w/ increased dyspnea, cough, wheeze; treated w/ nebs, steroids, abx; d/c'd home. Reports improving but still SOB w/ exertion, using rescue inhaler ~4x/day. Denies fever, chest pain. No new hypoxia at home per pt.
+
+Social Hx: Pt is a former smoker with a long history of heavy smoking. No current tobacco use reported. No vaping. Occasional EtOH, denies illicit drug use. Lives w/ spouse, retired machinist.
+
+[Copied forward from prior visit 11/14/2024 - PLEASE REVIEW]:
+ROS: Constitutional - no fever/chills/wt loss. Resp - chronic cough, occ wheeze. CV - no CP/palp. GI - no N/V/D. GU - no dysuria. MSK - chronic low back pain, stable. Neuro - no focal deficits. Skin - no rashes. Psych - no SI/HI.
+PE: Gen - NAD, well-appearing. HEENT - PERRLA, OP clear. Neck - no JVD, no LAD. Lungs - diffuse exp wheezes, prolonged expiratory phase, no crackles. CV - RRR, no m/r/g. Abd - soft, NT/ND, +BS. Ext - no c/c/e, pedal pulses 2+ bilat. Skin - warm, dry.
+A/P (11/14/2024): COPD stable on current regimen, continue Spiriva + Symbicort. OA - stable, continue APAP prn. Osteoporosis - continue alendronate, f/u DEXA in 1 yr. PAD - stable claudication sx, continue cilostazol, ABI stable.
+[END COPY-FORWARD BLOCK]
+
+Current ROS (today): Resp - worsening dyspnea on exertion x1 wk, improving since ED visit. Cough productive of white sputum. No hemoptysis. Otherwise ROS reviewed and negative except as noted in HPI.
+
+PE (today): Vitals: BP 138/84, HR 88, RR 18, T 98.2F, SpO2 93% RA.
+Gen: mild resp distress, using accessory muscles minimally.
+Lungs: diffuse wheezes bilat, prolonged expiratory phase, decreased air movement bases.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND.
+Ext: no edema, PAD - pulses diminished DP/PT bilat, no ulcers.
+MSK: no acute joint swelling.
+
+Meds: Tiotropium (Spiriva) 18mcg inh daily, Budesonide/formoterol (Symbicort) 160/4.5 2 puffs BID, Albuterol HFA prn, Alendronate 70mg PO qwk, Calcium/Vit D supplement daily, Cilostazol 100mg PO BID, Acetaminophen 650mg prn pain, Atorvastatin 40mg qhs, Aspirin 81mg daily.
+
+Labs/Imaging: CXR from ED reviewed - hyperinflation, no acute infiltrate. BNP wnl. CBC wnl.
+
+Assessment/Plan:
+1. COPD exacerbation, resolving - continue current inhaler regimen, taper prednisone per ED instructions, pulmonary rehab referral discussed.
+2. Osteoarthritis - stable, continue APAP prn.
+3. Osteoporosis - continue alendronate, DEXA due this year.
+4. PAD - stable, continue cilostazol, vascular surgery f/u as scheduled.
+Lung cancer screening was discussed with pt given his smoking history; will revisit at next visit.
+RTC 4 wks or sooner if worsening sx.
+
+---ADDENDUM (later same day, 06/03/2026)---
+Spoke with pt by phone re: pharmacy issue - Symbicort not covered, switching to alternative ICS/LABA combo. Pt agreeable. Will call in new rx today. No other changes to plan above.
+-Rachel Goldberg, MD

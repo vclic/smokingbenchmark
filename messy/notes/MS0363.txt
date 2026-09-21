@@ -1,0 +1,56 @@
+Pulmonology Follow-Up Progress Note
+Patient: Yolanda Carter (F), DOB 07/17/1944 (age 79)
+Date of Service: 07/17/2023
+Author: Owen Fitzgerald, MD (NP-authored, cosigned)
+
+CC: F/u incidental lung nodule noted on prior CT chest.
+
+HPI: Pt is a 79 y/o F referred for f/u of an incidentally found pulm nodule identified on CT obtained for unrelated abd workup. Pt denies hemoptysis, wt loss, night sweats, fevers. Reports mild dyspnea on exertion, stable from baseline, attributed to known OSA and CAD. No new chest pain. Compliant with CPAP per pt report, though download data not on file today. No cough or sputum production. Denies recent infections.
+
+--- Copy-forward from prior visit note dated 03/02/2022 (retained per dept policy) ---
+Pt is a 78 y/o F here for routine f/u of OSA, BPH, CKD3, CAD. Vitals stable. Pt denies CP, SOB at rest. Cont on CPAP nightly, tolerating well per report. BPH sx stable on tamsulosin. Renal fxn stable, last Cr 1.4. CAD - no anginal sx, cont on statin/ASA. Pt was counseled re: importance of routine screening labs and f/u imaging. Plan: recheck BMP in 6 mo, f/u prn.
+--- end copy-forward ---
+
+ROS: Constitutional - neg wt loss/fevers. Resp - mild DOE as above, no cough. CV - no CP/palp. GU - nocturia x1-2, stable. All other systems reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY (EHR-templated block):
+Tobacco use status: Former smoker
+Cigarettes per day: 10
+Years smoked: 40
+Quit year: 1999
+Current smoker: No
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, social
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Limited 2/2 DOE
+
+PMH: OSA on CPAP, BPH, CKD stage 3, CAD s/p stent 2015.
+PSH: Cholecystectomy, remote.
+Meds: Tamsulosin, atorvastatin, ASA 81mg, lisinopril, furosemide prn.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 138/76, HR 72, RR 16, SpO2 95% RA, Wt stable.
+Gen: NAD, well-appearing elderly F.
+HEENT: unremarkable.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheeze/rales/rhonchi.
+Abd: soft, NT/ND.
+Ext: no edema.
+Neuro: grossly intact.
+
+Imaging Review: CT chest reviewed - stable 6mm solid nodule RUL, unchanged in size/characteristics compared to prior study. No lymphadenopathy, no effusion.
+
+Assessment/Plan:
+1. Incidental pulm nodule - stable on imaging. Given pt's age and nodule characteristics, lung cancer screening guidelines and general surveillance strategy were discussed with pt, including risks/benefits of continued monitoring vs invasive w/u at this time. Pt understands and agrees with continued surveillance imaging per pulm protocol.
+2. Tobacco history - pt is a former smoker who no longer smokes; quit smoking in 1999. No current tobacco use; no counseling re: cessation needed at this visit given established quit status. Reinforced importance of avoiding relapse.
+3. OSA - cont CPAP, reassess adherence data next visit.
+4. CAD - stable, cont current regimen.
+5. CKD3 - recheck BMP/Cr at next visit.
+6. BPH - stable on tamsulosin, no new urinary sx.
+
+F/u: Return to pulm clinic in 6 months with repeat CT chest; sooner if new symptoms develop. Pt verbalized understanding of plan.
+
+Electronically signed: Owen Fitzgerald, MD

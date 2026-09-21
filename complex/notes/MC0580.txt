@@ -1,0 +1,64 @@
+TELEHEALTH VISIT - Vascular Surgery
+Patient: Curtis Bryant | DOB: 1/17/1971 | Age: 54 | M
+Date of Service: 05/04/2025
+Author: Gregory Tan, MD
+
+CHIEF COMPLAINT: PAD f/u, claudication sx eval via telehealth.
+
+HPI: 54M with h/o T2DM, CKD3, OSA, BPH presenting for PAD eval. Reports intermittent calf cramping w/ ambulation, improves w/ rest. No rest pain, no ulcers. ABI pending d/t telehealth limitations, will need in-person for that. Smoking hx reviewed in detail today - note templated field below says Never Smoker, that is incorrect, leaving as-is per EHR lock but documenting accurate hx here: pt smoked three-quarters of a pack (~15 cigarettes) per day for 16 years, then quit completely for 8 years, then restarted at a quarter pack (~5 cigarettes) per day for 14 years and continues to smoke to this day. Pt continues to smoke despite counseling given at prior visits and again today. Denies chest pain, denies SOB at rest.
+
+SOCIAL HISTORY (templated block):
+Smoking status: Never Smoker [outdated/incorrect - see HPI for accurate history]
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary, limited by claudication
+
+PMH / Problem List:
+E11.9 - Type 2 diabetes mellitus without complications
+N18.3 - Chronic kidney disease, stage 3
+G47.33 - Obstructive sleep apnea
+N40.0 - Benign prostatic hyperplasia w/o LUTS
+I73.9 - Peripheral vascular disease, unspecified (active problem this visit)
+I25.10 - old dx, unclear if still accurate, outdated entry - CAD w/o angina (carried forward, needs review)
+
+MEDICATIONS:
+Metformin 1000mg BID
+Empagliflozin 10mg daily
+Tamsulosin 0.4mg qHS
+Atorvastatin 40mg daily
+Aspirin 81mg daily
+Lisinopril 10mg daily
+CPAP nightly for OSA - compliance reported good
+
+REVIEW OF SYSTEMS (templated, 10-point):
+Constitutional: denies fever chills weight loss
+Eyes: denies vision changes
+ENT: denies sore throat
+Cardio: denies chest pain palpitations, + claudication as above
+Resp: denies cough SOB
+GI: denies nausea vomiting diarrhea
+GU: BPH sx stable, nocturia x1
+MSK: denies joint pain
+Skin: no rashes no ulcers no non-healing wounds
+Neuro: denies numbness tingling (though DM neuropathy screen due)
+Psych: denies depression anxiety
+
+PHYSICAL EXAM (limited, telehealth):
+Gen: NAD, appears stated age, sitting comfortably
+Cardiac: unable to auscultate via telehealth, pt denies symptoms
+Extremities: pt reports no visible ulcers or discoloration on self-exam per camera, no edema noted
+Skin: no lesions visualized
+(Full vascular exam incl pulses to be done in-person at next visit)
+
+ASSESSMENT/PLAN:
+1. PAD (I73.9) - claudication sx stable, will need in-office visit for ABI and pulse exam. Continue aspirin, statin. Counseled again re: smoking cessation given continued daily use; discussed resources incl cessation programs. Screening for lung ca was discussed generally, no imaging ordered today.
+2. T2DM - A1c due for recheck, continue metformin/empagliflozin
+3. CKD3 - stable, monitor renally-dosed meds, recheck BMP
+4. OSA - CPAP compliance good, continue
+5. BPH - stable on tamsulosin
+
+f/u in 4 wks in-person for ABI and vascular exam. Pt verbalizes understanding, agrees w plan.
+
+Gregory Tan, MD

@@ -1,0 +1,47 @@
+Internal Medicine Clinic Note
+Date of Service: 03/17/2026
+Patient: Gregory Thomas   DOB: 1/5/1976   MRN: 69884001
+
+SUBJECTIVE:
+CC: Hospital follow-up
+HPI: Mr. Thomas is a 50-year-old man with a history of OA, depression, and HLD who presents for hospital follow-up after admission for symptomatic anemia. Admitted 2026-03-09-12-Mar-2026 for symptomatic anemia. Completed antibiotics. Using walker at home.
+
+PMH:
+- Major depressive disorder, recurrent, in remission
+- Osteoarthritis
+- Hyperlipidemia (dx 2019)
+PSH: TURP (2012)
+Meds: meloxicam 7.5 mg daily; rosuvastatin 20 mg daily; ezetimibe 10 mg daily; sertraline 50 mg daily
+Allergies: NKDA
+Social History:
+- Lives with wife and adult daughter.
+- No history of tobacco use.
+- Alcohol: rare.
+- No illicit drug use.
+- Independent in ADLs.
+FH: Father - AAA repair.
+Review of systems negative except as above.
+
+OBJECTIVE:
+Vitals: BP: 130/65  HR: 84  RR: 16  Temp: 97.4 F  SpO2: 100% on RA  Wt: 167 lbs  BMI: 23.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (02/06/2026): LDL 91, Cr 1.05, K 3.8
+
+ASSESSMENT/PLAN:
+1. Symptomatic anemia
+   - Resolved. Med rec completed.
+2. Hyperlipidemia: Continue statin. Lipid panel due.
+3. Health maintenance: Lung cancer screening: not indicated (never smoker).
+
+RTC 6 months.
+
+-- TA (NP)

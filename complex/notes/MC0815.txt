@@ -1,0 +1,34 @@
+Telehealth Progress Note
+Patient: Elizabeth Alexander (DOB 2/7/1954, age 71)
+Date of Service: 02/07/2025
+Author: Kevin Osei, MD - Family Medicine
+
+HPI: Ms. Alexander is a 71-year-old female with HFrEF, asthma, obesity, CKD stage 3, and OA presenting via telehealth for medication refills. She reports doing 'about the same' with occasional dyspnea on exertion. No chest pain, no orthopnea change. She states, "I still get winded going up the stairs but it's not new." She has smoked 1 pack per day since 1973. Denies fevers, cough change, or leg swelling. Reviewed weight log - stable.
+
+Social History (templated EHR block):
+Alcohol use: Not on file
+Tobacco use: Current smoker
+Packs/day: ___ (see HPI)
+Vaping/e-cig: Not on file
+Drug use: Denies
+Living situation: Lives alone
+Exercise: Limited due to OA
+
+[Copied forward from note dated 7/7/2022]: Smoking status as of that visit - current smoker. No further detail recorded in that note.
+
+ROS: Otherwise negative except as above.
+
+Exam: Deferred - telehealth visit. Patient appears comfortable on camera, speaking in full sentences, no acute distress noted.
+
+Assessment/Plan:
+1. HFrEF - stable, continue current regimen, refill furosemide and metoprolol succinate.
+2. Asthma - continue albuterol PRN, no recent exacerbations.
+3. Obesity - discussed diet/exercise as tolerated given OA limitations.
+4. CKD stage 3 - stable, refill labs ordered for next visit, monitor potassium given diuretic use.
+5. Osteoarthritis - continue acetaminophen PRN, refer to PT if worsening.
+6. Tobacco use - patient continues to smoke despite counseling on cessation and risks given her cardiopulmonary comorbidities. Discussed lung cancer screening in general terms; no imaging ordered today. Encouraged to consider nicotine replacement therapy or cessation program; patient declined referral at this time but agreeable to revisit at next visit.
+
+Follow-up in 3 months or sooner if symptoms worsen. All refills sent to pharmacy of record.
+
+--- Addendum (same day, later) ---
+Patient called back after visit to clarify medication dosing for furosemide; instructions repeated and confirmed she understood. No new complaints reported. Tobacco cessation resources reiterated per phone; patient stated she would think about it. No changes to plan above.

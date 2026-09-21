@@ -1,0 +1,84 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Roger Hughes (M), DOB 08/18/1947
+Date of Service: 08/18/2024
+Author: Rachel Goldberg, MD, Internal Medicine/Primary Care
+
+Re: New patient visit to establish care
+
+Dear Dr. Patel,
+
+Thank you for referring Mr. Hughes, a 77-year-old male, for establishment of primary care. He presents today with history of heart failure with reduced ejection fraction, BPH, hyperlipidemia, and obesity.
+
+HPI: Mr. Hughes reports doing reasonably well overall. He denies acute chest pain, orthopnea has improved since his last cardiology follow-up, though he notes occasional lower extremity edema by end of day. He reports nocturia several times nightly, consistent with known BPH, and states this has been stable. He was previously followed at another practice and is transferring care due to insurance change. He denies fevers, chills, or recent weight loss. He does note fatigue with exertion, walking about 2 blocks before needing to rest.
+
+He mentions he used to smoke heavily but quit smoking in 2008 and has not smoked since. He denies any current tobacco use.
+
+PAST MEDICAL HISTORY: HFrEF (dx 2016), BPH, hyperlipidemia, obesity, hx of hyperlipidemia-related statin intolerance (per patient report).
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Packs/day: 2.00
+Years: 40.00
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Not on file
+
+FAMILY HISTORY: Father with MI at age 68, mother with diabetes.
+
+MEDICATIONS:
+1. Carvedilol 25 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Furosemide 40 mg PO daily
+5. Atorvastatin 40 mg PO nightly
+6. Tamsulosin 0.4 mg PO nightly
+7. Finasteride 5 mg PO daily
+8. Aspirin 81 mg PO daily
+9. Multivitamin daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss/gain. Eyes: denies visual changes. ENT: denies hearing loss, sore throat. Cardiovascular: as above, denies chest pain, palpitations; endorses mild ankle edema. Respiratory: denies cough, hemoptysis, wheeze. GI: denies nausea, vomiting, diarrhea, constipation, blood in stool. GU: nocturia as above, denies dysuria, hematuria. Musculoskeletal: denies joint pain, swelling. Skin: denies rash, lesions. Neuro: denies weakness, numbness, tingling. Psych: denies depression, anxiety. Endocrine: denies polyuria, polydipsia. Hematologic: denies easy bruising/bleeding. Allergic/Immunologic: denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, Temp 97.8F, SpO2 96% RA, Wt 245 lb, BMI 36.2
+General: well-appearing, obese male, no acute distress
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear
+Neck: no JVD noted at rest, no lymphadenopathy
+Cardiovascular: RRR, S1/S2 normal, no murmurs appreciated, trace bilateral pedal edema
+Respiratory: clear to auscultation bilaterally, no wheezes/rales
+Abdomen: obese, soft, non-tender, non-distended, normoactive bowel sounds
+Extremities: trace edema bilaterally, no cyanosis or clubbing
+Skin: warm, dry, no rashes
+Neurologic: alert and oriented x3, cranial nerves II-XII grossly intact
+
+LABS/RESULTS:
+BMP (08/15/2024): Na 139, K 4.3, Cl 102, CO2 25, BUN 22, Cr 1.1, Glucose 104
+Lipid panel (08/15/2024): Total cholesterol 178, LDL 96, HDL 42, Triglycerides 150
+BNP (08/15/2024): 210 pg/mL
+HbA1c (08/15/2024): 5.8%
+Urinalysis (08/15/2024): unremarkable
+Echo (outside, 03/2024, reviewed today): EF 35%, mild-moderate LV dilation
+
+PROBLEM LIST:
+1. Heart failure with reduced ejection fraction (I50.22)
+2. Benign prostatic hyperplasia (N40.1)
+3. Hyperlipidemia (E78.5)
+4. Obesity (E66.9)
+5. Former tobacco use (Z87.891)
+6. Hypertension, resolved per old chart 2015 (I10) - outdated entry, to review
+
+ASSESSMENT AND PLAN:
+1. HFrEF - clinically euvolemic to mildly volume overloaded. Continue current guideline-directed medical therapy. Will obtain repeat BNP and BMP in 3 months. Reinforce low-sodium diet.
+2. BPH - stable on tamsulosin/finasteride, continue current regimen, monitor symptoms.
+3. Hyperlipidemia - lipid panel at goal on atorvastatin, continue.
+4. Obesity - discussed diet and exercise modifications; will consider referral to nutrition.
+5. Former smoker as of 2008 - given his prior extensive tobacco history, discussed general health maintenance and age-appropriate screening topics; lung cancer screening was discussed as a general concept during preventive care counseling. Continue to encourage abstinence from tobacco.
+6. Health maintenance - up to date on colonoscopy per patient report; will order updated immunizations including influenza and pneumococcal vaccines.
+
+Will follow up in 3 months or sooner as needed. Thank you for allowing me to participate in Mr. Hughes' care.
+
+Sincerely,
+Rachel Goldberg, MD

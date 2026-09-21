@@ -1,0 +1,70 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Dr. Steven Park, MD
+Date of Service: 10/19/2025
+
+PATIENT: Torres, Priya
+DOB: 02/18/1960 (age 65)
+MRN: 004471982
+
+VISIT TYPE: Video visit, COPD follow-up
+
+CHIEF COMPLAINT: "I've been doing okay, just get a little winded going up the stairs still."
+
+HPI:
+Ms. Torres is a 65-year-old woman with COPD, HFrEF, OSA on CPAP, GERD, and hyperlipidemia who presents via telehealth for routine COPD follow-up. She reports overall stability since last visit, using her Spiriva daily and albuterol PRN, roughly 1-2 times per week. She states, "I haven't had any flares since the spring, thank goodness." No fevers, no increase in sputum production, no hemoptysis. She denies chest pain. She does note some mild dyspnea on exertion, consistent with baseline. She reports compliance with CPAP most nights, "I'd say I wear it probably 5 out of 7 nights." She denies orthopnea or PND currently, and her weight has been stable per her home scale.
+
+Regarding tobacco history, patient reports she smoked approximately half a pack (about 10 cigarettes) per day for 34 years. She states she quit smoking in 2012 and has not smoked since - she is a former smoker, not a current smoker. She was congratulated on the sustained quit. She denies any vaping or other nicotine product use. No secondhand smoke exposure at home currently.
+
+She reports adherence to her heart failure regimen including carvedilol, lisinopril, and spironolactone, and denies any recent weight gain, leg swelling, or increased fatigue. GERD is reasonably controlled on omeprazole, with occasional breakthrough symptoms if she eats late at night. She denies dysphagia or odynophagia. Hyperlipidemia is followed by PCP; she is on atorvastatin.
+
+She denies any recent hospitalizations or ER visits. She has not had any recent travel or sick contacts. No fevers, chills, or night sweats. She denies hemoptysis, unintentional weight loss, or new lymphadenopathy.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per chart, some entries outdated):
+1. J44.9 - Chronic obstructive pulmonary disease, unspecified
+2. I50.22 - Chronic systolic (congestive) heart failure, reduced EF
+3. G47.33 - Obstructive sleep apnea, on CPAP
+4. K21.9 - Gastroesophageal reflux disease without esophagitis
+5. E78.5 - Hyperlipidemia, unspecified
+6. M54.5 - Low back pain (chronic, resolved per pt, note not updated since 2019)
+7. J45.909 - Asthma, unspecified (this appears to be an old, likely erroneous entry - patient does not carry current asthma diagnosis per pulmonology assessment, to be reviewed/removed)
+8. Z87.891 - Personal history of nicotine dependence
+
+MEDICATIONS:
+- Tiotropium (Spiriva) 18 mcg inhaled daily
+- Albuterol HFA PRN
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 10 mg PO daily
+- Spironolactone 25 mg PO daily
+- Atorvastatin 40 mg PO nightly
+- Omeprazole 20 mg PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Tobacco: Former smoker as above, quit 2012. Alcohol: occasional glass of wine, denies excess. No illicit drug use. Lives with spouse, independent with ADLs.
+
+RESULTS/LABS (reviewed this visit):
+- CBC (09/28/2025): WBC 6.8, Hgb 12.9, Hct 38.5, Plt 244 - unremarkable
+- BMP (09/28/2025): Na 139, K 4.2, Cl 102, CO2 26, BUN 18, Cr 0.9, Glucose 101
+- BNP (09/28/2025): 210 pg/mL (mildly elevated, stable from prior 198 pg/mL on 06/15/2025)
+- Lipid panel (07/10/2025): Total chol 168, LDL 89, HDL 52, Trig 135
+- Spirometry (08/22/2025): FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstruction, similar to prior study from 02/2025
+- Echocardiogram (05/2025): EF 38%, mild-moderate LV enlargement, unchanged from prior
+- Chest X-ray (08/22/2025): Hyperinflated lungs, no acute infiltrate, no effusion
+
+ASSESSMENT:
+65-year-old woman, DOB 2/18/1960, with COPD (moderate obstruction on recent spirometry), HFrEF (EF 38%, stable), OSA on CPAP with moderate adherence, GERD, and hyperlipidemia, presenting for COPD follow-up via telehealth. Clinically stable today with no signs of exacerbation. Former smoker, quit smoking in 2012, no longer smokes.
+
+PLAN:
+1. COPD: Continue Spiriva daily and albuterol PRN. Continue pulmonary rehab exercises as tolerated. Discussed importance of continued tobacco abstinence and reinforced that continued avoidance of smoking is beneficial for lung and cardiac health. Discussed general lung cancer screening guidelines in the context of her smoking history; further discussion to occur with PCP regarding appropriate screening approach.
+2. HFrEF: Continue current regimen, stable BNP. Will coordinate with cardiology regarding routine follow-up.
+3. OSA: Encourage more consistent CPAP use nightly, discussed sleep hygiene.
+4. GERD: Continue omeprazole, counseled on avoiding late meals.
+5. Hyperlipidemia: Continue atorvastatin, follow with PCP for lipid monitoring.
+6. Problem list to be updated at next visit - asthma diagnosis (J45.909) appears outdated and should be reconciled with PCP records.
+7. Follow-up in pulmonology clinic in 3 months or sooner if symptoms worsen. Patient instructed to call if increased dyspnea, fevers, or change in sputum.
+
+Visit time: 20 minutes, telehealth via secure video platform. Patient verbalized understanding and agreement with plan.
+
+Steven Park, MD
+Pulmonology

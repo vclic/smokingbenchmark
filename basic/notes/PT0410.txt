@@ -1,0 +1,38 @@
+Primary Care Clinic Note
+Date of Service: 2/9/2026
+Patient: Kathleen Smith   DOB: 5/1/1956   MRN: 55966210
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Ms. Smith is a 69 year old female with a history of obesity, AFib, OA, and HLD who presents for pre-operative evaluation prior to left total hip arthroplasty. Scheduled for left total hip arthroplasty on 2026-03-23. Never smoker. Functional capacity limited by pain, estimated 4 METs. No prior anesthesia complications.
+
+PMH: Primary OA, bilateral knees (dx 2007), Hypertension, Paroxysmal atrial fibrillation, Class I obesity, Hypercholesterolemia
+PSH: Rotator cuff repair (2015)
+Meds: apixaban 5 mg BID; diclofenac 1% gel QID PRN; losartan 100 mg daily; metoprolol tartrate 25 mg BID; atorvastatin 40 mg daily; hydrochlorothiazide 25 mg daily
+Allergies: NKDA
+SH: Widowed; lives with daughter. Drinks a glass of wine with dinner. No illicit drug use. Exercise: walks daily.
+FH: No family hx of colon cancer.
+Review of systems negative except as above.
+
+OBJECTIVE:
+Vitals: BP: 142/79  HR: 59  RR: 12  Temp: 98.9 F  SpO2: 96% on RA  Wt: 203 lbs  BMI: 32.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation: RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Health maintenance
+   - Lung cancer screening: not indicated (nevr smoker).
+
+f/u 3 mo
+
+Seen and discussed with resident Dr. O'Brien. I personally saw and examined the patient and agree with the findings and plan as documented.
+Julia Brennan, MD

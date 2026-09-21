@@ -1,0 +1,52 @@
+PULMONOLOGY H&P – FOLLOW-UP VISIT
+Date of Service: 10/03/2024
+Author: Brian Okonkwo, MD
+
+Patient: Robert Ramirez | M | Age: 51 | DOB: 10/3/1973
+MRN: 88213-RR
+
+CC: COPD f/u, reports increasing dyspnea on exertion x 2 wks, otherwise stable.
+
+HPI: 51 yo M w/ hx COPD, HFrEF, CKD stage 3, BPH, obesity, GERD presents for routine pulm follow up. Pt states he's been using his inhalers "pretty much every day" though admits missing doses on weekends. No fevers, chills, or hemoptysis. Some increased sputum production, whitish in color, no change in color to suggest infxn. Sleeps w/ 2 pillows due to orthopnea (baseline per cardiology). Denies chest pain. Pt states "I feel more winded going up the stairs to my apartment" [inaudible] something about the elevator being broken again which has made things worse and he's had to take breaks halfway up hmm anyway continues on metoprolol and lisinopril per cards, no recent hospitalizations, last echo reviewed showed EF 35% stable from prior.
+
+Social Hx: Denies any tobacco use, never smoker. Denies illicit drug use. Occasional etoh, denies currently. Works part time as a security guard, lives w/ spouse.
+
+ROS: Positive for dyspnea on exertion, occasional cough. Negative for fever, chest pain, palpitations, edema (per pt though exam below notes trace). All other systems reviewed and negative.
+
+PMH/Problem List (ICD-10):
+- J44.9 COPD, unspecified
+- I50.22 Chronic systolic (congestive) heart failure
+- N18.3 CKD stage 3
+- N40.0 BPH without LUTS
+- E66.9 Obesity, unspecified
+- K21.9 GERD
+- I10 Essential HTN (resolved per pt, still listed - needs update)
+- E11.9 T2DM (pt reports no longer has this diagnosis, chart not updated, needs reconciliation)
+
+Meds: albuterol MDI PRN, tiotropium daily, metoprolol succinate 50mg daily, lisinopril 10mg daily, furosemide 20mg daily, tamsulosin 0.4mg qhs, omeprazole 20mg daily.
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 18, SpO2 93% RA, Wt 245 lb
+Gen: well-appearing, NAD, mild increased work of breathing
+HEENT: unremarkable
+CV: RRR, no m/r/g appreciated, trace bilateral LE edema
+Lungs: diminished breath sounds bilat bases, scattered expiratory wheeze, no crackles
+Abd: obese, soft, NT/ND
+Ext: no clubbing, trace edema as above
+
+Labs (reviewed from last visit): BUN 28, Cr 1.6, eGFR ~48, BNP 410 (down from 520)
+
+Assessment/Plan:
+1. COPD - stable, continue current inhaler regimen, reviewed inhaler technique, encouraged consistent daily use rather than PRN pattern. Pulm function screening for lung malignancy was discussed with patient in general terms given his COPD dx, no imaging ordered today.
+2. HFrEF - stable on current regimen, will defer titration to cardiology, continue furosemide.
+3. CKD stage 3 - stable, monitor labs q3-6 months, avoid nephrotoxic agents.
+4. BPH - stable on tamsulosin, no new urinary sx.
+5. Obesity - discussed weight loss, diet, referred to nutrition.
+6. GERD - continue omeprazole, stable.
+f/u in 3 months or sooner if worsening sx.
+
+---
+ADDENDUM (later same day, 10/03/2024, 16:42):
+Pt's spouse called clinic after visit to clarify medication list, confirmed pt taking all meds as prescribed, no changes needed. Also wanted to confirm again for the chart that pt has never smoked, this was reiterated by spouse as well, no tobacco use history whatsoever. No other changes to note. -B. Okonkwo, MD

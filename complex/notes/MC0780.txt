@@ -1,0 +1,41 @@
+Cardiology Progress Note
+Patient: Sandra Thomas (DOB 1/28/1962)
+Age: 64 y/o F
+Date of Service: 01/28/2026
+Author: Steven Park, MD
+
+CC: chest pain eval
+
+HPI: Pt is a 64 yo female w/ hx CKD stage 3, HFrEF, OSA presenting for f/u of intermittent chest discomfort. Pt states "it feels like a pressure right in the middle of my chest, comes and goes." Denies radiation to arm, some assoc SOB w exertion. No fevers, no palpitations per pt. Pt states "I get winded going up the stairs at home, worse than last month." No orthopnea change noted, pt sleeps w/ 2 pillows, uses CPAP nightly per report though admits variable compliance.
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - + CP as above, denies syncope. Resp - + dyspnea on exertion, denies cough, hemoptysis. GI - denies n/v/d, abd pain. GU - denies dysuria, hematuria. MSK - denies joint pain. Neuro - denies HA, dizziness, focal weakness. Skin - denies rash. Psych - denies SI/HI. All other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Tobacco: current smoker, 1 pack per day since 1978. Alcohol: occasional. Illicit drug use: denies. Occupation: retired.
+
+Pt continues to smoke despite repeated counseling regarding cardiopulmonary risk; discussed smoking cessation resources again today, pt states she is "not ready yet."
+
+Medications: Furosemide 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Spironolactone 25mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily, Sodium bicarb 650mg BID, Amlodipine 5mg daily prn, CPAP nightly.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78, RR 16, O2 sat 95% RA, Wt stable per chart.
+Gen: NAD, well-appearing female in no acute distress.
+HEENT: normocephalic, atraumatic, no JVD noted at 30deg.
+CV: RRR, no m/r/g appreciated, +S3 faintly heard at apex.
+Resp: mild bibasilar crackles, no wheeze, no accessory muscle use.
+Abd: soft, nontender, nondistended, +BS.
+Ext: trace bilateral LE edema, no calf tenderness.
+Neuro: alert and oriented x3, no focal deficits.
+Skin: warm dry intact.
+
+Labs/Data reviewed: BNP mildly elevated from baseline, Cr 1.6 stable (baseline CKD3), K 4.3, recent echo EF 35pct unchanged.
+
+Assessment/Plan:
+1. Chest pain, likely multifactorial - cont current regimen, obtain repeat EKG today, consider stress test if sx persist.
+2. HFrEF - euvolemic on exam, cont diuretic + GDMT, monitor renal fxn given CKD3.
+3. CKD stage 3 - stable Cr, avoid nephrotoxic agents, f/u nephrology as scheduled.
+4. OSA - encourage CPAP compliance, review sleep study data at next visit.
+5. Tobacco use - continues to smoke despite counseling; discussed cessation options and resources again today, pt encouraged to consider quitting.
+6. F/u in cardiology clinic in 3 months or sooner if sx worsen.
+
+Electronically signed: Steven Park, MD 01/28/2026

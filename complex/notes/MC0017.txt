@@ -1,0 +1,75 @@
+TELEHEALTH VISIT - GERIATRICS
+DOS: 07/22/2024
+Provider: Brian Okonkwo, MD
+Pt: Butler, Donna DOB 7/12/1955 Age 69 F
+
+CC: geriatric assessment f/u, video visit per pt request 2/2 mobility issues
+
+HPI: 69 yo F w/ h/o CAD, obesity, PAD, T2DM here for routine geri assessment via telehealth. Pt reports doing fairly well, c/o some fatigue and occasional leg cramping w ambulation c/w known PAD. Denies CP, denies SOB at rest. Adherent to meds per report. Lives w daughter, uses cane for ambo. No new falls since last visit.
+
+***COPIED FORWARD FROM VISIT 11/14/2022 (retained in chart, not fully updated)***
+Pt seen in office for annual wellness visit. Reports doing well overall. Ambulates independently without assistive device at that time. Diet reviewed, counseled on low-sodium low-fat diet given CAD hx. Denies chest pain denies palpitations. Feet checked, monofilament exam wnl bilat. A1c reviewed at 7.2, discussed goals. Continue current regimen. Recommended f/u in 6 months or sooner if concerns. Immunizations UTD at that time - flu given in office. Pt's daughter present for visit, asked questions about home safety, fall precautions reviewed extensively including handrails, night lighting, footwear. RTC 6 mo.
+***END COPIED TEXT***
+
+Smoking / tobacco: Pt states she tried a few cigarettes as a teenager but never smoked regularly - essentially lifelong nonsmoker for practical purposes. No current tobacco use. No vaping. No smokeless tobacco.
+
+Alcohol: occasional glass of wine, denies excess.
+Drug use: denies illicit drug use.
+
+ROS (templated, reviewed 10 systems):
+Constitutional: denies fever chills wt loss
+Eyes: denies vision changes
+ENT: denies hearing loss
+CV: + hx CAD, denies current CP/palpitations
+Resp: denies cough SOB wheeze
+GI: denies N/V/D, denies abd pain
+GU: denies dysuria hematuria
+MSK: + occasional leg cramping (PAD related), denies acute joint pain
+Skin: denies rash
+Neuro: denies focal weakness numbness tingling (though monitors for PAD-related sx)
+Psych: denies depression anxiety, mood stable
+All other systems reviewed and negative except as noted above
+
+PMH / Problem list (ICD-10):
+- I25.10 Coronary artery disease
+- E66.9 Obesity
+- I73.9 Peripheral artery disease
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Hypertension (outdated entry, pt reports normal BP readings at home recently, may not be current)
+- M54.5 Low back pain (old dx, resolved per pt, kept on list in error)
+
+Meds (per chart, reconciled telephonically):
+1. Aspirin 81 mg PO daily
+2. Atorvastatin 40 mg PO qhs
+3. Metoprolol succinate 25 mg PO daily
+4. Metformin 500 mg PO BID
+5. Cilostazol 100 mg PO BID (for PAD sx)
+6. Lisinopril 10 mg PO daily
+7. Multivitamin PO daily
+8. Vitamin D3 1000 IU PO daily
+
+Allergies: NKDA
+
+Physical Exam (limited, telehealth - visual/verbal only):
+Gen: pt appears comfortable, well-groomed, no acute distress, seated at home
+HEENT: no visible distress, no obvious facial asymmetry
+CV: unable to auscultate via telehealth; pt denies palpitations or CP on questioning
+Resp: no visible resp distress, breathing comfortably, no accessory muscle use noted
+Ext: pt showed both LE on camera, no obvious ulceration visible, mild dependent discoloration noted, unable to palpate pulses via telehealth
+Skin: no rashes visible
+Neuro: alert, oriented x3, speech fluent, no obvious dysarthria
+Gait: unable to assess formally via telehealth; pt reports use of cane
+
+Assessment/Plan:
+1. CAD - stable, continue current meds, no acute sx today
+2. Obesity - counseled on diet/exercise as tolerated given PAD limitations
+3. PAD - sx stable-ish, continue cilostazol, f/u vascular surgery per prior referral, discussed importance of foot care and inspection daily
+4. T2DM - reports home glucose logs mostly in goal range, will obtain repeat A1c prior to next visit
+5. Tobacco - reviewed, pt has never been a regular smoker (tried cigs as teen only), no counseling needed for cessation, reinforced healthy lifestyle
+6. Health maintenance - immunizations reviewed, UTD per pt report, will confirm at next in-person visit; lung cancer screening not discussed further given minimal smoking hx
+7. Home safety - daughter to continue assisting, fall precautions reviewed again briefly
+
+Plan: f/u in-person visit in 3 months or sooner if concerns, labs ordered incl CMP, A1c, lipid panel prior to next visit. Pt verbalized understanding, agreeable w plan. Telehealth visit ended, total time spent 22 minutes, more than half spent in counseling/coordination of care.
+
+Electronically signed: Brian Okonkwo, MD
+Date/time of note: 07/22/2024 14:47

@@ -1,0 +1,42 @@
+HISTORY AND PHYSICAL
+Patient: Dennis Anderson (M), DOB: 2/6/1963, Age: 60
+Date of Service: 05/14/2023
+Author: Anita Patel, MD
+Location: Primary Care - Hospital d/c follow up
+
+HPI:
+Mr Anderson is a 60 yo male seen today for f/u after recent hospitalization for pneumonia, discharged 3 days ago. Reports improving cough, less SOB, appetite returning. No fevers since discharge. He has hx of heart failure w/ reduced EF and osteoporosis, both stable per pt. Smoking hx notable - he smoked 1.5 packs per day for 29 years, quit smoking in September 2011 and has not smoked since. He denies chest pain, denies orthopnea worse than baseline, mild peripheral edema unchanged. Taking meds as prescribed, some difficulty affording inhalers d/t insurance lapse (resolving per pt).
+
+SOCIAL HISTORY (templated):
+Tobacco use: former smoker
+Alcohol: occasional, denies excess
+Drug use: Not on file
+Occupation: retired machinist
+Living situation: lives w/ spouse
+Exercise: limited 2/2 recent illness
+
+ROS: otherwise negative except as above.
+
+EXAM:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Temp 98.2F
+Gen: NAD, comfortable
+Lungs: mild bibasilar crackles, improved from discharge exam
+CV: RRR, no murmurs, trace bilateral LE edema
+MSK: no deformity, gait steady
+
+LABS/RESULTS:
+CBC (05/11/2023): WBC 8.9, Hgb 13.1
+BMP (05/11/2023): Na 138, K 4.1, Cr 1.0
+BNP (05/11/2023): 410 pg/mL
+CXR (05/14/2023): improving infiltrate LLL, no effusion
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue current abx course, f/u CXR in 4-6 wks.
+2. HFrEF - stable, continue GDMT, monitor weight daily, low sodium diet reinforced.
+3. Osteoporosis - continue calcium/vit D and bisphosphonate, DEXA due next year.
+4. Tobacco - patient no longer smokes; given prior significant smoking history, lung cancer screening was discussed with patient today, risks/benefits reviewed, pt to consider and follow up.
+
+Return to clinic in 2 wks or sooner if worsening symptoms.
+
+ADDENDUM (later same day, A. Patel MD):
+Spoke with pt by phone re: pharmacy issue, inhaler now approved, no further action needed. Pt verbalized understanding of plan above, reiterated he does not smoke currently.

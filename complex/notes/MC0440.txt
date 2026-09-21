@@ -1,0 +1,50 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Dale Nelson, M, DOB 1/1/1955 (age 68)
+Date of Service: 03/30/2023
+Provider: Kevin Osei, MD
+
+Visit type: telehealth, med refills. Pt calling in from home, video connection stable.
+
+HPI:
+68 yo M, hx depression, hypothyroidism, asthma, HTN, presenting for routine medication refills. Reports doing "about the same." Denies new SOB, chest pain, palpitations. Asthma sx well controlled, uses albuterol rarely - maybe 1x/wk. Mood stable on current regimen, sleep okay, appetite fine. No new complaints today. Requests refill of levothyroxine, lisinopril, sertraline, albuterol inhaler.
+
+Medications (current, per pharmacy records):
+- Levothyroxine 75 mcg daily
+- Lisinopril 20 mg daily
+- Sertraline 100 mg daily
+- Albuterol HFA inhaler PRN
+
+Social History:
+Lives alone, retired postal worker. Denies illicit drug use. Tobacco - tried a few cigarettes as a teenager but never smoked regularly, no ongoing cigarette use. Does report a cigar a few times a year on holidays, otherwise no tobacco. EtOH - quit drinking alcohol in 1999, denies current use. Exercise - walks dog daily approx 20 min.
+
+ROS:
+Constitutional: no fever, no weight loss.
+Resp: no cough, no wheeze currently.
+CV: no chest pain, no edema.
+Psych: mood stable, no SI/HI.
+All other systems reviewed and negative except as noted in HPI.
+
+Vitals (per home cuff, reported by pt):
+BP 128/78, HR 72, wt 190 lbs (self-reported)
+
+Labs/Results:
+- TSH (02/15/2023): 2.1 uIU/mL (WNL)
+- Lipid panel (01/10/2023): Total chol 188, LDL 110, HDL 45, TG 150
+- BMP (01/10/2023): Na 140, K 4.2, Cr 0.9, eGFR >60
+- A1c (01/10/2023): 5.6%
+
+Assessment/Plan:
+1. Depression - stable on sertraline 100mg daily. Continue current dose. Refill sent. F/u in 6 months or sooner if worsening.
+2. Hypothyroidism - TSH WNL on current levothyroxine dose. Continue 75 mcg daily. Refill sent. Recheck TSH in 6-12 months.
+3. Asthma - well controlled, using albuterol infrequently. Continue albuterol PRN. Refill sent. No maintenance inhaler needed at this time given infrequent use. Reviewed inhaler technique verbally given telehealth format.
+4. HTN - BP well controlled today at 128/78 on lisinopril 20mg. Continue current dose. Refill sent. Recheck BP at next visit.
+5. Tobacco/social hx - pt with history of trying a few cigarettes as teen but never a regular smoker; occasional cigar use (few times/year, holidays only) noted, counseled on general health risks of any tobacco/cigar use. No further cessation counseling needed given minimal exposure.
+6. EtOH - pt reports quit drinking alcohol in 1999, no current use, no further intervention needed.
+7. Health maintenance - due for annual labs, will order CBC/CMP/lipid panel at next visit. Pt due for colon cancer screening discussion at next in-person visit.
+
+Plan discussed with patient, pt verbalizes understanding and agreement. All questions answered. Follow-up in 6 months or sooner as needed via telehealth or in-person per pt preference.
+
+Time spent: 15 minutes, telehealth visit, mostly medication management and counseling.
+
+Electronically signed: Kevin Osei, MD
+03/30/2023

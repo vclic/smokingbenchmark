@@ -1,0 +1,79 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Paula Perry, F, DOB 1/30/1948 (age 75)
+Date of Service: 07/03/2023
+Provider: Gregory Tan, MD
+Visit type: New patient visit to establish care - Primary Care
+
+Dear Dr. colleague,
+
+Thank you for referring Ms. Perry, a 75 y/o female, for establishment of primary care. She is a pleasant patient with h/o gout, BPH, HTN, obesity, CKD stage 3, and OSA who recently relocated and needs a new PCP.
+
+HPI: Pt reports she has been generally stable. No new joint flares of gout recently, last flare ~6 mo ago per pt, managed w/ NSAIDs at that time. Denies dysuria, urinary retention sx well controlled per pt on current regimen. BP checked at home occasionally, runs in 130s/80s. No chest pain, no SOB at rest. Uses CPAP nightly per pt report, tolerates fairly well. No new falls, no vision changes. Appetite stable, no unintentional weight loss.
+
+***COPY FORWARD FROM PRIOR VISIT 11/14/2019 (outside records provided by pt):***
+"75 y/o F (age at that time 71) f/u gout, BPH, HTN, obesity. Pt c/o mild bilateral knee discomfort, no swelling. BP 142/88 in office today. Uric acid 7.9. Continue allopurinol. BPH sx stable on tamsulosin, IPSS not reassessed today. Wt 198 lb, BMI 34.2. Counseled on weight loss, diet, exercise. RTC 3-4 months or sooner PRN."
+***END COPY FORWARD***
+
+ROS: Constitutional: no fever, no chills, no night sweats. Eyes: no visual changes. ENT: no sore throat, no hearing loss. CV: no chest pain, no palpitations, no orthopnea, no PND. Resp: no cough, no wheeze, no hemoptysis. GI: no N/V, no abd pain, no change in bowel habits. GU: mild nocturia x1-2, no hematuria, no dysuria. MSK: occasional joint pain as above, no acute swelling. Skin: no rashes, no lesions. Neuro: no focal weakness, no numbness, no tingling. Psych: no depression, no anxiety sx reported. Endo: no polyuria, no polydipsia. Heme/Lymph: no easy bruising, no lymphadenopathy. All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker (see assessment/plan for details)
+Alcohol use: Occasional, 1-2 glasses wine/week per pt
+Drug use: Denies
+Occupation: Retired, former administrative assistant
+Marital status: Widowed
+Living situation: Lives alone, daughter nearby
+Exercise: Not on file
+Diet: Not on file
+Caffeine: Not on file
+
+PHYSICAL EXAM:
+Vitals: BP 134/82, HR 76, RR 16, Temp 98.2F, SpO2 96% RA, Wt 201 lb, Ht 5'4", BMI 34.5
+General: well-appearing, NAD, obese habitus
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no LAD
+CV: RRR, no murmurs/gallops/rubs, no JVD, trace pedal edema b/l
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, obese, +BS, no organomegaly appreciated
+MSK: no active joint effusion, mild crepitus b/l knees, ROM intact
+Skin: no rash, no lesions
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady
+Ext: no cyanosis/clubbing, trace edema as above
+
+MEDICATIONS (reconciled today):
+1. Allopurinol 300mg PO daily
+2. Colchicine 0.6mg PO PRN gout flare
+3. Tamsulosin 0.4mg PO qHS
+4. Finasteride 5mg PO daily
+5. Lisinopril 20mg PO daily
+6. Amlodipine 5mg PO daily
+7. HCTZ 12.5mg PO daily
+8. Atorvastatin 20mg PO daily
+9. Vitamin D3 2000 IU PO daily
+10. Calcium carbonate 500mg PO BID
+
+LABS reviewed (outside, from referring office):
+Cr 1.4, eGFR 42 (CKD stage 3), uric acid 7.2, A1c 5.8, lipid panel WNL on statin, TSH WNL
+
+ASSESSMENT AND PLAN:
+75 y/o F establishing new primary care, multiple stable chronic conditions.
+
+1. Tobacco/smoking history: Patient is a former smoker who quit smoking. Detailed hx obtained today: she smoked three-quarters of a pack (approx. 15 cigarettes) per day for 9 years, then cut down to half a pack (approx. 10 cigarettes) per day for 12 years, then further reduced to a quarter pack (approx. 5 cigarettes) per day for 9 years before quitting entirely. Quit history is notable for an initial quit attempt in 1997, relapse/restart in 1998, and she quit for good in 2005. She has remained smoke-free since. Lung cancer screening was discussed briefly given her smoking history; will revisit at future visit with more detailed discussion of risks/benefits. Continue to encourage smoke-free status, reinforced today.
+
+2. Gout: Stable on allopurinol, last uric acid 7.2, improved from prior reading of 7.9 in 2019. Continue current regimen, colchicine PRN for flares. Recheck uric acid in 6 months.
+
+3. BPH: Sx reportedly well-controlled on tamsulosin/finasteride combo. Continue current regimen. Will consider IPSS questionnaire at next visit.
+
+4. HTN: BP today 134/82, reasonably controlled on 3-drug regimen (lisinopril, amlodipine, HCTZ). Continue current meds, home BP log requested.
+
+5. Obesity: BMI 34.5. Counseled again on diet, exercise, weight loss goals. Discussed referral to nutrition if pt interested; she will consider.
+
+6. CKD stage 3: eGFR 42, stable per outside labs. Avoid nephrotoxic agents, continue monitoring renal function q6mo. Renally dose meds as appropriate.
+
+7. OSA: Using CPAP nightly per pt report, tolerates reasonably well. Will obtain compliance download data from DME company at next visit.
+
+Health maintenance: Due for routine labs, will order CBC, CMP, lipid panel, UA at today's visit. Influenza and pneumococcal vaccination status reviewed, up to date per pt report. Colonoscopy and mammography hx reviewed, appears up to date per pt report, will confirm w/ prior records.
+
+RTC in 3 months or sooner if any concerns. Extensive discussion had with pt regarding above plan, all questions answered today.
+
+Electronically signed,
+Gregory Tan, MD

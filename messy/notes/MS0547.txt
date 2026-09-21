@@ -1,0 +1,80 @@
+TELEHEALTH URGENT CARE VISIT NOTE
+Patient: Priya Carter | DOB: 03/08/1956 | Age: 70 | Sex: F
+Date of Service: 03/08/2026
+Provider: Julia Brennan, MD
+Visit Type: Telehealth, Urgent Care
+
+CHIEF COMPLAINT: Cough x several days
+
+HPI: Ms. Carter is a 70-year-old woman with history of osteoarthritis, hyperlipidemia, peripheral artery disease, and heart failure with reduced ejection fraction who presents via telehealth today, 03/08/2026, with complaint of persistent cough for about 5 days. She reports the cough is mostly dry, worse at night, no significant fever at home, denies hemoptysis. She notes mild increase in fatigue but denies chest pain. No recent travel. She has been using OTC cough drops without much relief. No known sick contacts. She denies significant dyspnea beyond her baseline HF-related limitations.
+
+---COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2024---
+HPI (from 11/14/2024 visit): Patient here for routine PAD follow up, reports stable claudication symptoms with ambulation approx 2 blocks before onset of calf pain, improved with rest. Denies rest pain or non-healing wounds on lower extremities. Vascular surgery following. Continue cilostazol as tolerated. ROS otherwise negative except as noted above. Physical exam at that time: distal pulses diminished bilaterally but palpable, no ulcerations, skin intact, no edema. Plan at that time: continue current antiplatelet regimen, f/u vascular surgery in 6 months, ABI ordered.
+---END COPIED FORWARD SECTION---
+
+TOBACCO USE HISTORY (EHR TEMPLATE - SOCIAL HISTORY):
+Tobacco Use Screening:
+  - Current tobacco use: No
+  - Smoking status: Former smoker
+  - Cigarette use: 2 packs per day x 31 years
+  - Quit year: 2006
+  - Other tobacco products: None reported
+  - Smokeless tobacco: Denies
+  - E-cigarette/vape use: Denies
+Counseling provided regarding avoidance of secondhand smoke exposure. Patient encouraged to maintain smoke-free status.
+
+REVIEW OF SYSTEMS (templated, all systems reviewed unless noted):
+Constitutional: denies fever, chills, unintentional weight loss
+HEENT: denies sore throat, denies nasal congestion, denies ear pain
+Cardiovascular: denies chest pain, denies palpitations, reports baseline stable orthopnea managed with 2-pillow sleep
+Respiratory: reports cough as above, denies hemoptysis, denies wheeze
+GI: denies nausea, vomiting, diarrhea, abdominal pain
+GU: denies dysuria, denies hematuria
+Musculoskeletal: chronic joint pain c/w known OA, no acute change
+Skin: denies rash, denies new lesions
+Neuro: denies headache, denies dizziness, denies focal weakness
+Psych: denies mood changes, denies anxiety
+All other systems reviewed and negative except as documented above.
+
+PHYSICAL EXAM (templated):
+Vitals: Temp 98.4F, HR 78, BP 128/76, RR 16, SpO2 96% on room air
+General: Alert, well-appearing, no acute distress, conversing normally via video
+HEENT: Oropharynx clear, no erythema, no exudate
+Neck: No JVD appreciated on video exam
+Cardiovascular: Unable to auscultate via telehealth; patient denies chest pain or acute symptoms
+Respiratory: Mild intermittent dry cough noted during call, no visible respiratory distress, no accessory muscle use observed
+Extremities: No visible edema reported by patient, no cyanosis noted
+Skin: No rashes visualized
+Mental Status: Alert and oriented x3
+
+LABS/RESULTS:
+01/15/2026 - BNP: 310 pg/mL (elevated, stable compared to prior)
+01/15/2026 - Basic Metabolic Panel: Na 138, K 4.2, Cl 101, CO2 26, BUN 18, Cr 0.9, Glucose 95
+02/02/2026 - Lipid Panel: Total Cholesterol 172, LDL 96, HDL 48, Triglycerides 140
+02/02/2026 - Hemoglobin A1c: 5.7%
+No new labs drawn during this telehealth encounter; results above from recent labs on file.
+
+CURRENT MEDICATIONS:
+1. Furosemide 40mg PO daily
+2. Metoprolol succinate 50mg PO daily
+3. Sacubitril-valsartan 49/51mg PO BID
+4. Spironolactone 25mg PO daily
+5. Atorvastatin 40mg PO nightly
+6. Cilostazol 100mg PO BID
+7. Aspirin 81mg PO daily
+8. Acetaminophen 500mg PO PRN joint pain
+9. Calcium/Vitamin D supplement daily
+10. Multivitamin daily
+
+ASSESSMENT/PLAN:
+1. Acute cough - likely viral upper respiratory process vs mild bronchitis, no signs of pneumonia or acute decompensated heart failure at this time. Advised supportive care, increased fluids, honey/lemon for symptomatic relief, follow up if worsening dyspnea, fever, or chest pain develops. Will consider in-person visit or chest imaging if not improved in 5-7 days.
+2. Heart failure with reduced EF - stable, continue current regimen, no signs of decompensation today, will continue routine cardiology follow-up.
+3. Peripheral artery disease - stable per last vascular visit, continue cilostazol and aspirin.
+4. Hyperlipidemia - continue atorvastatin, lipid panel from 02/02/2026 reviewed, at goal.
+5. Osteoarthritis - stable, continue acetaminophen PRN.
+6. Tobacco use - former smoker, quit 2006, reinforced continued abstinence and avoidance of secondhand smoke exposure. Advised patient to bring up any questions about preventive health screenings with her primary care provider at a future visit.
+
+Follow up as needed or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+---ADDENDUM (later same day, 03/08/2026, 4:45 PM)---
+Patient called back after visit to report cough slightly improved after taking OTC guaifenesin. No new symptoms, no fever, no chest pain. Reassured and advised to continue current plan. No changes to medications or plan at this time. -Julia Brennan, MD

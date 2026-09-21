@@ -1,0 +1,51 @@
+CARDIOLOGY H&P
+Date of Service: 08/11/2024
+Author: Gregory Tan, MD
+
+Patient: George Rivera (M), DOB 05/01/1968, Age: 56
+
+CC: HF follow up, worsening dyspnea x2wks
+
+HPI: Pt is a 56 yo M w/ hx HFrEF, PAD, hypothyroidism, OSA, CKD3 who presents for routine f/u. Pt states "I've been more short of breath climbing stairs, maybe worse the last couple weeks" denies chest pain, orthopnea improved slightly since last visit c/w home diuretic adjustment. Pt reports occasional bilateral LE swelling, worse at end of day. No fevers/chills. Denies palpitations though admits to occasional skipped beats per pt report [inaudible] not sure if related to caffeine intake he says he drinks 2-3 cups coffee daily and has cut back some. Wt stable per home scale readings pt brought in a log. Diet c/w low Na intake reported although pt admits some slips over the weekend "had some chinese food, prob too much soy sauce."
+
+PMH/Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- I73.9 Peripheral artery disease, unspecified
+- E03.9 Hypothyroidism, unspecified
+- G47.33 Obstructive sleep apnea
+- N18.3 CKD stage 3
+- I10 Essential hypertension (outdated - pt reports this was resolved per PCP note 2019, verify)
+- E78.5 Hyperlipidemia (chart carried forward, unclear current status)
+
+Social History: Smoking - pt has smoked cigarettes in three distinct stretches per hx obtained today: 3/4 pack per day (~15 cigs/day) x 11 years, followed by 1 pack per day x 14 years, followed by 2 packs per day x 11 years which is his current use. Pt currently smokes cigarettes, continues daily. Counseled extensively regarding smoking cessation, benefits reviewed, pt states "I know I should quit doc, it's just hard." Declines nicotine patch today, will consider. Alcohol - occasional beer on weekends, denies illicit drug use. Lives with wife, retired machinist.
+
+ROS: Constitutional - denies fever, chills, unintentional wt loss. Cardiac - as per HPI. Resp - denies cough, wheeze; uses CPAP nightly per report though admits compliance "spotty, maybe half the nights." GI - denies n/v/d. GU - denies dysuria. Neuro - denies syncope/presyncope. Skin - denies rash.
+
+Medications: Carvedilol 12.5mg BID, Lisinopril 10mg daily, Furosemide 40mg daily, Spironolactone 25mg daily, Levothyroxine 75mcg daily, Atorvastatin 40mg daily, Aspirin 81mg daily.
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 128/78, HR 78 irregular, RR 16, SpO2 95% RA, Wt 91kg (stable from last visit)
+Gen: NAD, well nourished, appears stated age
+HEENT: NC/AT, EOMI, no JVD appreciated at 30deg
+CV: irregularly irregular rhythm, no m/r/g appreciated, S1S2 normal
+Resp: CTAB, no crackles or wheeze
+Abd: soft, NT/ND, no HSM
+Ext: 1+ pitting edema bilat LE, PAD noted decreased pedal pulses bilat, feet warm, no ulcers today
+Neuro: A&Ox3, no focal deficits
+Skin: no rash/lesion noted
+
+Labs (reviewed today): BNP 410 (prior 380), Cr 1.4 (baseline), K 4.3, Na 138, TSH 2.1 (euthyroid on current dose)
+
+Assessment/Plan:
+1. HFrEF - sx slightly worse, will increase furosemide to 60mg daily, recheck BMP/BNP in 2wks, reinforce low Na diet
+2. PAD - stable, continue current regimen, f/u vascular surgery per prior referral
+3. CKD3 - stable, Cr at baseline, avoid nephrotoxic agents
+4. OSA - discuss CPAP compliance further, referral back to sleep med if needed
+5. Hypothyroidism - TSH euthyroid, continue current dose levothyroxine
+6. Tobacco use - ongoing current cigarette smoker as above, counseled re cessation, discussed general health risks of continued smoking incl CV and pulm disease, pt to consider nicotine replacement, f/u in office in 4 wks or sooner if sx worsen
+
+f/u 4 weeks, return sooner if wt gain >3lbs in 2 days or worsening SOB/edema. Pt verbalized understanding of plan.
+
+Gregory Tan, MD

@@ -1,0 +1,67 @@
+TELEHEALTH FOLLOW-UP VISIT - PULMONOLOGY
+DOS: 12/21/2024
+Patient: Dorothy Thompson | DOB: 4/23/1958 | Age: 66 | F
+Author: Quentin Hale, PA-C
+
+Visit type: Telehealth f/u post-ED COPD exacerbation.
+
+HPI:
+66 yo F, DOB 4/23/1958, seen today via telehealth for f/u after recent ED visit for COPD flare. Pt reports dyspnea improved since ED course, still some cough w/ scant sputum, no fevers. Denies chest pain. Using rescue inhaler more than usual last wk but tapering back to baseline. No hospitalization required, d/c'd home from ED w/ steroid burst + abx.
+
+PMH: T2DM, hyperlipidemia, GERD, osteoporosis, gout.
+
+Social hx: 67 pack-year smoking history. Pt quit smoking. Quit in 2020. No current tobacco use. No vaping. Occasional EtOH, denies illicit drugs.
+
+Meds (per chart, reconciled):
+- Metformin 1000mg BID
+- Atorvastatin 40mg qHS
+- Omeprazole 20mg daily
+- Alendronate 70mg weekly
+- Allopurinol 100mg daily
+- Albuterol HFA prn
+- Tiotropium daily
+- Prednisone taper (from ED, day 4 of 5)
+
+ROS: + cough, + dyspnea on exertion, denies hemoptysis, denies leg swelling, denies orthopnea. GI: occasional reflux, stable. MSK: no acute gout flare currently.
+
+Exam (limited, telehealth):
+Gen: NAD, conversant, no acute distress on video.
+Resp: pt-reported - mild wheeze noted by pt's home O2 sat monitor, sat 94% RA per pt report. No cyanosis noted on video.
+CV: denies palpitations.
+No other exam elements obtainable via telehealth today.
+
+Labs/Results (reviewed):
+- CBC 12/15/2024: WBC 9.8, Hgb 13.1, Hct 39.4, Plt 245
+- BMP 12/15/2024: Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 142
+- HbA1c 11/02/2024: 7.4%
+- CXR 12/15/2024 (ED): no acute infiltrate, hyperinflation consistent w/ COPD, no effusion
+- ABG not obtained this visit (telehealth)
+
+Assessment:
+1. COPD exacerbation, improving - s/p ED tx, steroid taper in progress
+2. T2DM - reasonably controlled, A1c 7.4%
+3. Hyperlipidemia - stable on statin
+4. GERD - stable
+5. Osteoporosis - stable, continue alendronate
+6. Gout - no active flare
+
+Plan:
+- Continue prednisone taper as directed, finish course
+- Continue tiotropium daily, albuterol prn
+- F/u in clinic in 2-4 wks for spirometry once exacerbation resolved
+- Pulm function testing to be scheduled once stable
+- Reinforced inhaler technique via video demo
+- Discussed smoking history and lung health; screening options discussed generally, no imaging ordered today
+- Continue home glucose monitoring, f/u endo as scheduled
+- Return precautions given: worsening SOB, fever, chest pain -> ED
+- RTC or telehealth f/u per above
+
+Counseling: Extensive review of COPD action plan, red flag symptoms, and importance of avoiding respiratory irritants. Pt verbalized understanding.
+
+Time spent: approx 20 min telehealth visit including chart review, counseling, and documentation.
+
+---
+ADDENDUM (later same day, 12/21/2024, 4:47pm):
+Pt called back after visit w/ additional question regarding inhaler refill - pharmacy states tiotropium not in stock, advised to try alternate pharmacy location or ask for generic substitution. Called in refill to CVS on Main St as backup. No new clinical issues reported. Pt confirmed she understands taper schedule for prednisone. Reiterated to call back or go to ED if worsening. No changes to plan above.
+
+-Quentin Hale, PA-C

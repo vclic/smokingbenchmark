@@ -1,0 +1,65 @@
+TELEHEALTH VISIT NOTE
+Patient: Donald Johnson | DOB: 01/17/1956 | Age: 68 | Sex: M
+Date of Service: 03/26/2024
+Provider: Catherine Lindqvist, DO
+Visit type: New patient - establish care, Primary Care (telehealth, audio/video)
+
+HPI:
+Mr. Johnson is a 68-year-old male presenting via telehealth to establish care with our practice after relocating from his prior PCP. He states, "I just want someone to keep an eye on all my stuff, I've got a lot going on." He reports history of CKD stage 3, PAD, osteoarthritis of the knees, HFrEF, gout, and hyperlipidemia, all previously managed by his former physician. He denies chest pain, denies worsening dyspnea at rest, though notes some leg cramping with walking which he attributes to his PAD - "my legs just seize up after a block or two." No recent hospitalizations. He is up to date on labs per his report, though records are still being requested from prior office.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 (outside records, patient-provided PDF)***
+CC: f/u chronic conditions
+HPI: Pt here for routine follow up of CKD stage 3, PAD, HFrEF. Reports doing well overall. Denies edema. Gout flare last in 08/2022, treated with colchicine with good response. Osteoarthritis stable, uses acetaminophen PRN. Lipid panel reviewed, LDL 98. Continue current meds.
+ROS: negative except as above.
+Exam: BP 132/78, HR 74, distal pulses diminished bilaterally in lower extremities, no acute distress.
+A/P: continue lisinopril, atorvastatin, furosemide, allopurinol as prescribed. RTC 6 months.
+*** END COPIED TEXT ***
+
+SOCIAL HISTORY:
+Lives with spouse. Retired machinist. Denies alcohol use. Diet: reports trying to reduce sodium intake per prior counseling. Tobacco: patient is a lifelong non-smoker - never smoked cigarettes. He does note he will occasionally smoke a cigar a few times a year, typically on holidays (New Year's, July 4th), but denies any regular cigarette use or history of same. No illicit drug use reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, no weight loss.
+Cardiac: no chest pain, mild exertional fatigue.
+Respiratory: no cough, no hemoptysis, no wheeze.
+GI: no nausea, no vomiting.
+GU: no dysuria.
+MSK: chronic knee pain, stable.
+All other systems reviewed and negative.
+
+VITALS (telehealth - reported by patient/home cuff):
+BP 128/76, HR 70, Wt 198 lb (per pt), no home O2 sat monitor available.
+
+EXAM (limited, telehealth):
+General: alert, well-appearing, no acute distress, video quality adequate.
+Skin: no obvious lesions on visible areas.
+Neuro: speech fluent, no focal deficits noted on limited exam.
+(Formal cardiopulmonary and vascular exam deferred - will complete at in-person follow up.)
+
+PROBLEM LIST:
+1. CKD stage 3 - N18.30
+2. Peripheral artery disease - I73.9
+3. Osteoarthritis, unspecified - M19.90
+4. Heart failure with reduced ejection fraction - I50.22 (outdated entry from prior chart carried forward, EF last documented 35% - to reverify with echo)
+5. Gout - M10.9
+6. Hyperlipidemia - E78.5
+7. Tobacco use disorder - Z72.0 (NOTE: this appears to be a carried-forward/erroneous entry from template; patient denies any cigarette smoking history - to be removed from active problem list)
+
+ASSESSMENT & PLAN:
+68-year-old male, new to practice, with multiple chronic conditions as above.
+
+1. CKD stage 3 - will obtain updated BMP, urine microalbumin. Continue ACEi. Renal diet counseling reinforced.
+2. PAD - continue antiplatelet therapy, discuss ABI testing at next in-person visit. Encourage walking program as tolerated.
+3. Osteoarthritis - continue acetaminophen PRN, discussed activity modification.
+4. HFrEF - will need updated echo, continue GDMT, reviewed diuretic regimen.
+5. Gout - continue allopurinol, discussed dietary triggers.
+6. Hyperlipidemia - continue statin, will check updated lipid panel.
+7. Tobacco/substance use - reassured patient given his non-smoker status, no cessation counseling needed; noted his occasional holiday cigar use, advised on general cardiovascular risk of even occasional tobacco exposure though infrequent. Given his age and history discussed lung cancer screening in general terms; no imaging ordered today, will revisit topic once further history/records obtained.
+8. Health maintenance: due for updated vaccines, will review at next visit. Labs ordered as above.
+
+RTC in-person in 4-6 weeks to complete exam and review labs. Patient verbalized understanding, agreeable with plan.
+
+---
+ADDENDUM (later same day, 03/26/2024, 4:47 PM):
+Patient called back after visit to clarify that he wanted it noted clearly in the chart that he has never smoked cigarettes in his life - lifelong non-smoker - and was concerned the tobacco use disorder diagnosis code on his old problem list might cause confusion with future insurance/screening questions. Reassured him this has been addressed above and problem list will be corrected. No new complaints reported. Will forward corrected problem list to billing/coding for update.
+- C. Lindqvist, DO

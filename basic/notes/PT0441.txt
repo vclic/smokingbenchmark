@@ -1,0 +1,75 @@
+General Medicine Clinic Progress Note
+
+Patient: GONZALES, Paul    MRN: 11619499
+DOB: 11/02/1973    Age: 50 y.o.    Sex: Male
+Date of Service: 05/20/2024    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Cough x 12 days
+
+Subjective:
+Paul Gonzales is a 50 y.o. male who presents for cough and congestion.
+Cough for 12 days, productive of yellow sputum. Low-grade fevers initially, now resolved. No sick contacts. No hemoptysis.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Acquired hypothyroidism
+
+Past Surgical History:
+Procedure	Laterality	Date
+• TURP (2017)
+• Cataract extraction, bilateral (2019)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 50 mcg daily
+• fish oil 1 g daily
+• losartan 50 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with wife.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+
+Family History
+Mother - HTN, DM2.
+
+Review of Systems
+ROS: GU neg, Neuro neg, Resp +, CV neg
+
+Objective:
+Vitals:
+  BP 131/69 (BP Location: Right arm, Patient Position: Sitting) | Pulse 87 | Temp 97.5 °F (Oral) | Resp 20 | Ht 5' 9" | Wt 143 lb | SpO2 97% | BMI 21.16 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Coarse breath sounds R base
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (May 3, 2024): Cr 0.92, K 3.7, TSH 3.62
+
+Assessment & Plan
+1. Acute cough
+   CXR ordered given duration. Supportive care.
+2. HTN
+   BP at goal; continue current regimen.
+3. Acquired hypothyroidism
+   TSH normal on last check; continue.
+
+RTC 3 months.
+
+Electronically signed by Michael Dunn, DO on 05/20/2024

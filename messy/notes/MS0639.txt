@@ -1,0 +1,65 @@
+PULMONOLOGY FOLLOW-UP - PROGRESS NOTE
+Date of Service: 01/01/2026
+Author: Nadia Haddad, MD (NP progress note co-signed)
+Patient: Leonard Sanchez, M, DOB 01/01/1953, Age 73
+
+CC: f/u after COPD exacerbation, recent ED visit.
+
+HPI: Mr. Sanchez is a 73 y/o male (DOB 1/1/1953) seen today for f/u post COPD exacerbation, discharged from ED w/ prednisone taper and abx. Pt states, "I was so short of breath I thought I was going to pass out." Also reports, "I'm still coughing up yellow stuff but it's better than last week." No fevers currently. Denies chest pain. Reports some improvement in dyspnea on exertion since starting the steroid taper. Continues nebulizer tx at home w/ some relief.
+
+PMH: Afib (on anticoagulation), T2DM, HLD. COPD (on home inhalers).
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current smoker
+Amount: 1/4 pack per day (~5 cigarettes/day)
+Duration: 52 years
+Smokeless tobacco: Not on file
+Alcohol use: 
+Drug use: Not on file
+Occupation: Retired
+Living situation: 
+
+Pt continues to smoke despite repeated counseling at every visit; today again advised to quit and risks specific to COPD/afib were reviewed. Pt reports he had previously quit smoking in 2019, remained abstinent for a period, but relapsed in 2022 and has smoked continuously since. States he now has a quit date set for 1/12/2026 and plans to use nicotine patches starting then.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 04/15/2024 ----
+HPI: Pt seen for routine COPD follow up. Reports doing fairly well overall, occasional cough in am. No recent exacerbations. Continues albuterol PRN and tiotropium daily. Denies hemoptysis, denies weight loss. Afib well controlled on current anticoag regimen per cardiology. A1c at goal per PCP. Lipid panel reviewed, LDL improved on statin. Pt was counseled re: smoking cessation, declined referral to quitline at that time. Exam notable for mild expiratory wheeze bilat. Plan: continue current inhaler regimen, f/u in 6 months, repeat spirometry at next visit.
+---- END COPIED FORWARD TEXT ----
+
+ROS: Resp - cough, sputum production improving. Cardiac - no palpitations today, no chest pain. Denies edema. GI - no nausea/vomiting. Denies dysuria. No new rashes.
+
+Meds: albuterol HFA prn, tiotropium daily, apixaban, metformin, atorvastatin, prednisone taper (day 4 of 5).
+
+Allergies: NKDA.
+
+Exam:
+Vitals: BP 138/82, HR 78 irregular, RR 18, SpO2 94% RA, Temp 98.2F, Wt stable.
+Gen: NAD, comfortable, conversant.
+HEENT: unremarkable.
+Neck: no JVD, no LAD.
+Lungs: diffuse expiratory wheeze, decreased breath sounds at bases, no crackles.
+CV: irregularly irregular rhythm, no murmur appreciated.
+Abd: soft, NT/ND.
+Ext: no edema, no clubbing.
+Skin: warm, dry.
+
+Labs/Studies reviewed: CBC WNL. BMP WNL. A1c pending. CXR from ED reviewed - no acute infiltrate, hyperinflation c/w COPD.
+
+Assessment:
+1. COPD exacerbation, improving on steroid taper/abx.
+2. Tobacco use disorder, current smoker, ~1/4 ppd x 52 yrs, continues despite counseling.
+3. Atrial fibrillation - stable, on anticoag.
+4. T2DM - stable.
+5. HLD - stable.
+
+Plan:
+- Continue prednisone taper as directed, finish course.
+- Continue current inhalers, add spacer device.
+- Reinforce smoking cessation counseling; pt to attempt quit 1/12/2026 per pt's stated plan, will provide nicotine patch prescription.
+- F/u in pulm clinic 4 wks or sooner if worsening symptoms.
+- Continue cardiology and endocrine mgmt per those specialists.
+
+Electronically signed: Nadia Haddad, MD.
+
+---- ADDENDUM (later same day, 01/01/2026) ----
+Addendum: Spoke with pt by phone after visit re: nicotine patch prescription sent to pharmacy. Pt confirmed understanding of directions, plans to begin patches on set quit date 1/12/2026. Reiterated that he remains a current smoker today, ~1/4 pack/day, and continues to smoke despite ongoing counseling. No new complaints reported at this time. Will follow up as scheduled.
+- Nadia Haddad, MD

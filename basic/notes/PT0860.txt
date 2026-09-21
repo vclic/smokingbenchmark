@@ -1,0 +1,93 @@
+Adult Medicine Progress Note
+
+Patient: COLEMAN, James    MRN: 45541671
+DOB: 07/19/1956    Age: 69 y.o.    Sex: Male
+Date of Service: 01/05/2026    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Heartburn
+
+Subjective:
+James Coleman is a 69 y.o. male who presents for heartburn.
+Epigastric burning x 1 month. Taking OTC antacids.
+
+Past Medical History:
+Diagnosis	Date
+• Peripheral artery disease	2009
+• BPH with LUTS
+• Primary OA, bilateral knees
+• GERD
+• Depression
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (1994)
+• Carpal tunnel release (2024)
+• Left inguinal hernia repair (2011)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• bupropion XL 150 mg daily
+• cilostazol 100 mg BID
+• famotidine 20 mg BID
+• diclofenac 1% gel QID PRN
+• tamsulosin 0.4 mg nightly
+• aspirin 81 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Heavy Tobacco Smoker
+    Packs/day: 1.50
+    Years: 51.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Retired accountant.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+
+Family History
+Father - MI at 74.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 137/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 94 | Temp 98.1 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 155 lb | SpO2 99% | BMI 24.27 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (12/16/25): Cr 0.87, K 3.8, Hgb 13.7
+
+Assessment & Plan
+1. GERD / dyspepsia
+   H. pylori stool antigen. PPI trial 8 weeks.
+2. Peripheral artery disease
+   Stable claudication distance.
+3. Tobacco use
+   Advised to quit; >5 min spent counseling. He is in the precontemplation stage. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID. LDCT for lung cancer screening ordered after SDM.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Farah Siddiqui, MD on 01/05/2026

@@ -1,0 +1,71 @@
+CARDIOLOGY H&P - Heart Failure Follow-up
+Date of Service: 01/09/2026
+Author: Priya Raman, MD
+
+PATIENT: Gloria Henderson (F)
+DOB: 01/09/1973 (Age: 53)
+
+CC: F/u CHF, HTN, CAD.
+
+HPI: 53 yo F w/ hx HTN, CAD, GERD, OA presents for routine HF follow-up. Denies acute chest pain, orthopnea worsening, or PND. Some mild LE edema noted by pt. Compliant w/ meds per report.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker. Pt reports smoked 1 pack per day for 7 years, then cut down to about 15 cigarettes per day for the next 4 years before quitting entirely. No current tobacco use.
+Alcohol: Pt quit drinking alcohol in 2019. Denies current use.
+Illicit drugs: Denies.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, wt loss.
+Cardiac: + mild LE edema, denies palpitations, syncope.
+Resp: Denies cough, hemoptysis, wheeze.
+GI: + occasional heartburn (GERD), denies N/V/D.
+MSK: Chronic knee pain (OA), stable.
+Neuro: Denies HA, dizziness.
+Skin: Denies rash.
+Psych: Denies depression/anxiety sx.
+All other systems reviewed and negative per standard template.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Wt 168 lb.
+Gen: NAD, well-appearing.
+HEENT: NC/AT, PERRLA, EOMI.
+Neck: No JVD appreciated.
+CV: RRR, S1/S2 nl, no m/r/g appreciated today.
+Lungs: CTAB, no crackles/wheezes.
+Abd: Soft, NT/ND, +BS.
+Ext: Trace bilateral LE edema, no clubbing/cyanosis.
+Skin: Warm, dry, intact.
+Neuro: A&Ox3, no focal deficits.
+Psych: Mood/affect appropriate.
+
+PROBLEM LIST:
+1. I50.9 - Heart failure, unspecified
+2. I10 - Essential hypertension
+3. I25.10 - Coronary artery disease w/o angina
+4. M19.90 - Osteoarthritis, unspecified site (chronic, stable)
+5. K21.9 - GERD
+6. E78.5 - Hyperlipidemia (outdated, resolved per pt report, on statin still)
+7. Z87.891 - Personal hx of nicotine dependence
+
+MEDICATIONS:
+- Lisinopril 20mg PO daily
+- Metoprolol succinate 50mg PO daily
+- Furosemide 20mg PO daily
+- Atorvastatin 40mg PO qHS
+- Aspirin 81mg PO daily
+- Omeprazole 20mg PO daily
+- Acetaminophen 500mg PO PRN knee pain
+- Spironolactone 25mg PO daily
+- Potassium chloride 20mEq PO daily
+
+ASSESSMENT/PLAN:
+53 yo F w/ HFrEF (per prior echo), HTN, CAD, GERD, OA - stable today.
+1. HF: continue GDMT as above, monitor wt daily, low Na diet reinforced.
+2. HTN: well controlled on current regimen.
+3. CAD: continue ASA/statin, risk factor modification discussed.
+4. GERD: continue PPI, avoid trigger foods.
+5. OA: PRN tylenol, PT referral if worsens.
+6. Tobacco: former smoker, counseled to remain abstinent; discussed lung cancer screening in general terms as appropriate for hx.
+7. F/u in 3 months or sooner if sx worsen.
+
+Electronically signed: Priya Raman, MD

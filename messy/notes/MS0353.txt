@@ -1,0 +1,53 @@
+RESIDENT NOTE - New Patient Visit to Establish Care
+Attending Attestation: Daniel Reyes, MD
+DOS: 04/22/2024
+
+Pt: Dorothy Scott, F, DOB 3/14/1963 (age 61)
+
+CC: Establish care, review of chronic conditions (OA, hypothyroidism)
+
+HPI:
+61 yo F here to establish PCP, moved recently, prior records limited. Hx osteoarthritis - c/o intermittent knee/hand pain, managed w/ APAP prn. Hx hypothyroidism, on levothyroxine, denies fatigue/cold intol currently. No new complaints today. Denies CP SOB. Appetite good, sleep fair.
+
+ROS: Otherwise negative in detail, 10pt system reviewed, unremarkable except as above.
+
+SOCIAL HISTORY / TOBACCO (EHR templated block):
+Tobacco use: former smoker
+Cigarettes: 2 packs per day
+Current status: not currently using
+Counseling: advised on health benefits of continued abstinence, congratulated pt on quitting
+
+[Copied from note dated 9/22/2021 - Social History section, unedited]:
+"Tobacco: former smoker. Pt reports quit some yrs back, doing well, no relapse noted at that visit."
+
+Pt confirms quit smoking approx 12 yrs ago, has remained abstinent since, denies vaping or other tobacco/nicotine products currently. No e-cigs. Denies alcohol excess, occasional glass wine. Denies illicit drugs.
+
+PMH: Osteoarthritis, Hypothyroidism
+PSH: none reported
+Meds: Levothyroxine 75mcg qd, Acetaminophen prn
+Allergies: NKDA
+FH: mother w/ thyroid dz, father CAD
+
+Physical Exam:
+Vitals: BP 128/76, HR 74, RR 14, T 98.2F, wt stable, BMI 27
+Gen: NAD, well appearing female, appropriate mood/affect
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear
+Neck: supple, no thyromegaly, no LAD
+CV: RRR no m/r/g
+Resp: CTAB, no wheeze/rales, breath sounds symmetric
+Abd: soft NT/ND, +BS
+Ext: mild Heberden nodes noted bilat hands, no acute synovitis, knees w/ crepitus on ROM, no effusion
+Skin: no rash
+Neuro: grossly intact, A&Ox3
+
+Assessment/Plan:
+1. Osteoarthritis - stable, cont APAP prn, consider PT referral if worsens, activity modification d/c'd
+2. Hypothyroidism - cont levothyroxine, check TSH today given establishing care, will adjust per result
+3. Health maintenance - up to date on immunizations per pt report, will verify records, d/w pt re: age appropriate cancer screenings including mammo and colon ca screen, will schedule
+4. Tobacco - pt is former smoker, quit smoking approx 12 yrs ago per hx, discussed importance of continued abstinence, screening for lung cancer discussed in general terms given hx, no imaging ordered today, will revisit at f/u
+5. Routine labs ordered: CMP, lipid panel, TSH, CBC
+6. Return to clinic in 3 mo or sooner if concerns
+
+Plan reviewed and discussed w/ pt, all questions answered, pt verbalizes understanding and agreement w/ above plan.
+
+Attestation: I have personally seen and examined the pt with the resident. I have reviewed the resident's documentation and agree with the findings and plan as above, with modifications discussed during our joint encounter. - Daniel Reyes, MD

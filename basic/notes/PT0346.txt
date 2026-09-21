@@ -1,0 +1,78 @@
+Geriatrics Clinic Note
+
+Patient: ANDERSON, Linda    MRN: 31243195
+DOB: 12/21/1948    Age: 75 y.o.    Sex: Female
+Date of Service: 07/30/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Medicare annual wellness visit
+
+Subjective:
+Linda Anderson is a 75 y.o. female who presents for a Medicare annual wellness visit.
+She gave up cigarettes in 2023 and has approximately 25 pack-years. Feels well overall. Walks the dog daily. Some trouble sleeping.
+
+Past Medical History:
+Diagnosis	Date
+• T2DM without complication
+• CKD stage 3
+• Acquired hypothyroidism
+• Class I obesity
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• glipizide 5 mg daily
+• levothyroxine 75 mcg daily
+• multivitamin daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with husband and adult daughter.
+  Retired, former teacher.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 128/75 (BP Location: Right arm, Patient Position: Sitting) | Pulse 73 | Temp 97.9 °F (Oral) | Resp 12 | Ht 5' 1" | Wt 186 lb | SpO2 98% | BMI 35.07 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2020 - normal; Mammogram 2024-02-29 - BI-RADS 1; DEXA due - ordered; Shingrix #1 today; PCV20 given; LCS: annual LDCT due - ordered.
+2. Acquired hypothyroidism
+   Recheck TSH.
+3. Class I obesity
+   Discussed diet and exercise.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Brian Okonkwo, MD on 07/30/2024

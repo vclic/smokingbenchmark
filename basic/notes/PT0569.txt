@@ -1,0 +1,44 @@
+Primary Care Clinic Note
+Date of Service: 2024-10-21
+Patient: Joyce Scott   DOB: 4/4/1967   MRN: 69992813
+
+SUBJECTIVE:
+CC: Chest pain
+HPI: Mrs. Scott is a 57-year-old woman with a history of CKD3, CHF, T2DM, and osteoporosis who presents for evaluation of chest pain. Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. No radiation. No syncope or palpitations. CV risk factors: HTN, HLD, DM2, former tobacco use, FHx premature CAD.
+
+PMH:
+- Hyperlipidemia (dx 2019)
+- Peripheral artery disease
+- Chronic systolic heart failure
+- Osteopenia
+- Type 2 diabetes
+- Essential hypertension
+- Chronic kidney disease stage 3a
+Meds: simvastatin 20 mg nightly; sacubitril-valsartan 49/51 mg BID; aspirin 81 mg daily; alendronate 70 mg weekly; furosemide 40 mg daily; lisinopril 20 mg daily; metformin 1000 mg BID; calcium + vitamin D daily; semaglutide 0.5 mg weekly; carvedilol 12.5 mg BID
+Allergies: Shellfish
+SH: Lives with husband and adult daughter. Works as a postal worker. She smoked for 34 years but no longer smokes. Alcohol: rare. No illicit drug use.
+FH: Mother - dementia, d. 84.
+ROS: MSK neg, Neuro neg, GU neg, GI neg, CV +, Gen neg
+
+O:
+Vitals: BP: 147/83  HR: 93  RR: 14  Temp: 98.2 F  SpO2: 99% on RA  Wt: 151 lbs  BMI: 27.6
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Fine bibasilar crackles
+  Abd: Benign
+  Ext: 1+ pitting edema bilateral LE to mid-shin
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (9/13/24): A1c 7.1%, LDL 108, Cr 1.43, K 4.4
+
+ASSESSMENT/PLAN:
+1. Chest pain: ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Chronic systolic heart failure: Weight stable. Continue diuretic.
+
+f/u 1 mo
+
+Seen and discussed with resident Dr. Coleman. I personally saw and examined the patient and agree with the findings and plan as documented.
+Catherine Lindqvist, DO

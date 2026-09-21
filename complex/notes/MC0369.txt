@@ -1,0 +1,61 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - COPD Follow-up
+Date of Service: 10/22/2023
+Author: Quentin Hale, PA-C
+
+Patient: Wayne Walker
+DOB: 06/30/1957 (age 66)
+MRN: on file
+
+Referring Physician: (per chart)
+
+HPI:
+Mr. Walker is a 66 y/o male seen today in f/u for COPD. Pt was accompanied by daughter who assists with hx as pt has known expressive aphasia s/p prior CVA and is a poor historian. Daughter states, "He's been more short of breath climbing stairs the last few weeks." Pt nods in agreement but unable to elaborate further on symptom timeline or triggers. Denies (via gesture) chest pain; daughter denies fevers or hemoptysis. No new edema reported. Compliance with inhalers reportedly variable per daughter.
+
+PROBLEM LIST (partially reconciled, some entries outdated):
+- J44.9 COPD, unspecified
+- E66.9 Obesity
+- I25.10 CAD, native vessel, without angina
+- G47.33 Obstructive sleep apnea
+- I48.91 Atrial fibrillation, unspecified
+- I63.9 Old CVA (hx) - copied forward, not addressed today
+- E78.5 Hyperlipidemia (dc'd per pt report 2021, dose not restarted per records - needs recheck)
+
+ROS: Constitutional - no fever/chills. Resp - dyspnea on exertion as above, chronic cough per old notes. CV - no chest pain, pt on anticoag for AFib. All other systems reviewed and negative to extent obtainable given communication barrier.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Unable to obtain - patient aphasic, poor historian
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Secondhand smoke exposure: Not on file
+Alcohol use: Not on file
+Illicit drug use: Denies (per daughter)
+Occupation: Retired
+Living situation: Lives with daughter
+Family smoking/COPD history: Mother had COPD and was a lifelong smoker per daughter report.
+Exercise: Limited due to dyspnea
+
+PMH: As above per problem list.
+PSH: Cholecystectomy (year unknown)
+Meds: Tiotropium inhaler, albuterol PRN, apixaban, metoprolol succinate, atorvastatin (status uncertain, see problem list)
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 138/84, HR 78 irreg irreg, RR 18, SpO2 93% RA, BMI 34.
+Gen: obese male, NAD, aphasic but interactive.
+Resp: mild expiratory wheeze bilat bases, no accessory muscle use at rest.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Ext: no edema.
+
+Assessment/Plan:
+66 y/o male with COPD, CAD, OSA, AFib presenting with worsening DOE, communication limited by aphasia; tobacco history unable to be obtained from patient directly given cognitive/language barrier, and family is not aware of any smoking history beyond the maternal history noted below.
+1. COPD - continue tiotropium, add short course prednisone taper given increased sx, PFTs to be scheduled.
+2. DOE - r/o CHF component, will obtain BNP and repeat CXR.
+3. AFib - continue apixaban, rate appears controlled, no acute changes.
+4. OSA - confirm CPAP compliance with daughter, consider repeat sleep study if non-adherent.
+5. Obesity - counsel re: activity as tolerated, nutrition referral discussed.
+6. Family hx of COPD noted (mother, lifelong smoker) for general risk awareness; no further action taken on this today given pt's own tobacco history could not be established.
+7. F/u in pulmonology clinic in 4-6 weeks or sooner if worsening.
+
+Electronically signed: Quentin Hale, PA-C

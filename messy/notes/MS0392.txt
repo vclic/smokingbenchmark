@@ -1,0 +1,30 @@
+Vascular Surgery Clinic - Nurse Intake & Physician Progress Note
+DOS: 01/11/2024
+Patient: William Lewis, M, DOB 01/11/1968 (age 56)
+Author: Owen Fitzgerald, MD
+
+NURSE INTAKE:
+Pt presents today 1/11/2024 for eval of PAD, c/o intermittent claudication in b/l calves worse w ambulation improves w rest. Denies rest pain or ulcers. Vitals stable BP 138/84 HR 76 RR 16 Wt 210 lb. Pt reports compliance with meds mostly some missed doses of furosemide 'when I forget.' [inaudible] discussion about diet salt intake and pt states he is trying to cut back.
+
+Social Hx: Former smoker, quit 6/1/2015. Prior to quitting he smoked about a quarter pack (approx 5 cigarettes) per day for 24 years. No current tobacco use, denies vaping or other nicotine products. Occasional etoh, denies illicit drugs.
+
+PROBLEM LIST (some outdated):
+- I73.9 Peripheral artery disease, unspecified
+- K21.9 GERD
+- I50.22 Heart failure w reduced EF, chronic
+- N40.0 BPH w/o LUTS
+- M10.9 Gout, unspecified
+- I10 Essential hypertension
+- J45.909 Asthma, unspecified uncomplicated
+- E78.5 Hyperlipidemia (outdated, resolved per last lipid panel 2022)
+- Z87.891 Personal history of nicotine dependence
+
+PHYSICIAN PROGRESS NOTE:
+Mr Lewis is a 56 y/o male here for f/u of PAD he continues to note calf discomfort with walking approx 2 blocks relieved with rest, ABI last checked was mildly reduced will trend. He denies chest pain SOB orthopnea worsening edema although his HFrEF hx is noted and we will continue current regimen of carvedilol lisinopril and furosemide, dose adjusted last visit. Asthma well controlled uses albuterol PRN rarely. Gout quiescent on allopurinol. BPH stable on tamsulosin urinary sx mild.
+
+Regarding tobacco history the patient is a former smoker as above he quit 6/1/2015 and prior to that smoked about a quarter pack a day (roughly 5 cigs/day) for 24 years total we discussed the importance of continued abstinence and he reports no relapse. General discussion held regarding lung health surveillance topics, deferred further details to primary care.
+
+Plan: continue current antihypertensive and HF regimen check BMP and lipid panel f/u vascular studies in 3 months physical therapy referral for supervised exercise program pt educated on smoking cessation maintenance strategies although he has remained abstinent since 2015.
+
+ADDENDUM (later same day):
+Spoke again w pt by phone he clarifies he has occasional dizziness on standing will check orthostatics at next visit no changes to smoking status reiterated remains former smoker since 2015 no new tobacco use. Will also obtain renal function panel given diuretic use. -O. Fitzgerald MD

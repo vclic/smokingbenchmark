@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 7/7/2025
+Patient: Donald Foster   DOB: 9/18/1944   MRN: 17601752
+
+S:
+CC: Cough and congestion
+HPI: Mr. Foster is an 80 y.o. male lifelong nonsmoker with no significant past medical history who presents for cough. Cough for 6 days, dry. Low-grade fevers initially, now resolved. Tried OTC dextromethorphan without relief. Mild DOE with the cough.
+
+PMH:
+- None
+PSH: Cataract extraction, bilateral (2022)
+Meds: none
+Allergies: NKDA
+SH: Lives alone in an apartment. Retired postal worker. No alcohol. No IVDU. Drives.
+FH: Father - colon cancer at 68.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 132/66  HR: 82  RR: 18  Temp: 98.4 F  SpO2: 96% on RA  Wt: 148 lbs  BMI: 21.2
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Scattered rhonchi that clear with cough
+  Abd: Benign
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+Labs (6/3/2025): Cr 0.86, K 4.8
+
+ASSESSMENT/PLAN:
+1. Acute cough: Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Gregory Tan, MD on 7/7/2025 at 19:09

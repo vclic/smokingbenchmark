@@ -1,0 +1,55 @@
+Cardiology Progress Note (NP)
+Patient: Nancy Perez | DOB: 4/21/1961 | Age: 62 | Sex: F
+Date of Service: 12/21/2023
+Author: Hannah Weiss, NP
+
+CC: chest pain eval
+
+PROBLEM LIST:
+1. I50.22 - Chronic systolic (congestive) HF, HFrEF
+2. J45.909 - Asthma, unspecified, uncomplicated
+3. I10 - Essential HTN (outdated - pt reports normotensive x1yr per home cuff)
+4. E78.5 - Hyperlipidemia
+5. Z87.891 - Personal hx of nicotine dependence (see below - active use, list outdated)
+
+HPI: 62 yo F w/ hx HFrEF and asthma p/w intermittent CP x 3 days, described as dull, substernal, non-exertional, lasting 5-10 min, no radiation. Denies diaphoresis, N/V. Some assoc SOB but pt has baseline dyspnea on exertion 2/2 HF. No orthopnea change, no PND. Denies palpitations, syncope. Home meds reviewed: carvedilol, lisinopril, spironolactone, furosemide prn, albuterol MDI prn, montelukast. Compliance fair per pt.
+
+ROS: + occas wheeze, denies fever/chills, denies leg swelling change, denies cough productive of sputum. Otherwise neg per template.
+
+PMH: HFrEF (EF 35% on echo 2022), asthma, HTN (per problem list, though improved), HLD.
+PSH: none significant.
+FH: father MI age 58, mother COPD.
+SHx: Lives alone, retired postal worker. Pt still smokes cigarettes daily and states she is not ready to quit at this time; declined referral to tobacco cessation counseling today. Occasional EtOH. No illicit drug use reported.
+
+Meds: as above, reconciled today.
+Allergies: NKDA.
+
+VITALS: BP 128/78, HR 76, RR 16, SpO2 96% RA, Temp 98.2F, Wt 172 lb
+
+EXAM:
+Gen: NAD, comfortable, conversant
+CV: RRR, no murmur appreciated today, no JVD, no peripheral edema
+Resp: mild expiratory wheeze bilat bases, no crackles, breathing comfortably
+Abd: soft, NT/ND
+Ext: no edema, warm, well-perfused
+Skin: no cyanosis
+
+DATA REVIEWED:
+EKG today: NSR, no acute ST changes, unchanged from prior.
+TropZ pending at time of visit.
+Recent BNP (11/2023): 310 (baseline elevated per HF hx).
+Last echo 2022: EF 35%, mild LVH, no significant valvular dz.
+
+ASSESSMENT/PLAN:
+62 yo F w/ HFrEF, asthma, CP eval today, low suspicion for ACS given atypical features and unremarkable EKG, will await trop result. Continue outpt HF management.
+
+1. Chest pain - atypical, low risk features. EKG unremarkable. Trop pending. Will call pt w/ results. If trop neg, consider outpt stress test if sx persist. Return/ER precautions given for worsening/typical anginal sx, SOB at rest, syncope.
+2. HFrEF - continue GDMT as above, stable exam, no overt decompensation today. F/u weight logs, daily wt monitoring reviewed.
+3. Asthma - mild wheeze today, continue albuterol prn, montelukast daily. No exacerbation currently.
+4. Tobacco use - pt has a 15 pack-year smoking history; continues to smoke and reports she is not ready to quit at this time. Discussed health risks of continued smoking incl cardiopulmonary effects given HFrEF and asthma; offered cessation resources again, pt declined today. Screening for lung cancer was discussed generally as a topic pt can revisit with PCP.
+5. HTN/HLD - stable, continue current regimen, recheck lipid panel at next visit.
+
+F/u: RTC 3 months or sooner if sx worsen. Await trop result, will contact pt by phone today.
+
+---ADDENDUM (later same day, 12/21/2023, entered by H. Weiss NP)---
+Troponin resulted at 1830: <0.01, negative x1. Called pt and left voicemail informing her of negative initial trop and reviewing return precautions. Advised to call back to confirm receipt of message; will attempt again in am if no response. No change to plan above. Pt's smoking status (still smoking, not ready to quit) discussed again briefly during call attempt note - no additional info obtained beyond above.

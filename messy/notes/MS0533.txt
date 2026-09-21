@@ -1,0 +1,45 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Deborah Chen (DOB 3/27/1949), Age: 74
+DOS: 06/12/2023
+Visit type: New patient visit to establish care - Primary Care
+Author: Steven Park, MD (resident), attending attestation below
+
+HPI: Ms. Chen is a 74-year-old woman presenting to establish care. She reports history of gout, hypertension, osteoporosis, asthma, hypothyroidism, and GERD, all previously managed elsewhere. She denies acute complaints today. Reviewed old records for continuity.
+
+===COPIED FORWARD FROM PRIOR VISIT NOTE DATED 1/12/2020===
+Social History (as documented 1/12/2020): Patient is a current smoker. Discussed risks of continued tobacco use and encouraged cessation at that time. Alcohol: occasional. Exercise: sedentary. (End of copied text from 1/12/2020.)
+=====================================================
+
+EHR TEMPLATED SOCIAL HISTORY (current, 06/12/2023):
+Tobacco use: Current every day smoker
+Packs/day: 0.25
+Years: 45.00
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Quit date: 7/16/2023 (planned/future)
+Counseled on cessation resources today; patient states she is motivated and has set the above quit date.
+
+PMH: Gout, HTN, osteoporosis, asthma, hypothyroidism, GERD.
+Meds: Allopurinol, lisinopril, alendronate, albuterol PRN, levothyroxine, omeprazole.
+
+LABS/RESULTS:
+- CBC (06/01/2023): WBC 6.2, Hgb 13.1, Plt 245
+- CMP (06/01/2023): Na 139, K 4.1, Cr 0.9, Glucose 98
+- TSH (05/28/2023): 2.1 mIU/L
+- Uric acid (05/28/2023): 6.8 mg/dL
+- DEXA (03/2023): T-score -2.6 lumbar spine
+
+EXAM: Vitals stable, BP 132/78, HR 76, RR 16, O2 sat 97% RA. Lungs: mild expiratory wheeze bilat. Heart RRR. No edema. Skin without gouty tophi currently visible.
+
+ASSESSMENT/PLAN:
+1. Tobacco use, active smoker - discussed cessation counseling and nicotine replacement options. Topic of lung cancer screening was briefly discussed in general terms. Quit date set for 7/16/2023.
+2. Asthma - continue albuterol PRN, reinforce inhaler technique.
+3. Hypertension - continue lisinopril, recheck BP next visit.
+4. Osteoporosis - continue alendronate, encourage calcium/vitamin D.
+5. Gout - continue allopurinol, uric acid stable.
+6. Hypothyroidism - TSH within range, continue levothyroxine.
+7. GERD - continue omeprazole.
+
+Attending attestation: I have reviewed and discussed this case with Dr. Park; plan as above.

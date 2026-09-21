@@ -1,0 +1,84 @@
+CARDIOLOGY CONSULTATION NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Deborah Barnes
+DOB: 3/8/1963 (age 62)
+Date of Service: 10/19/2025
+Author: Daniel Reyes, MD, Cardiology
+
+Dear Dr. Chen,
+
+Thank you for referring Ms. Barnes, a 62-year-old woman, for evaluation of chest pain.
+
+HPI: Ms. Barnes presents today for evaluation of intermittent chest discomfort over the past several weeks. She describes it as "a tight squeezing feeling in the middle of my chest that comes on when I climb stairs." She states, "It goes away after a few minutes if I sit down and rest." She denies radiation to the arm or jaw, denies diaphoresis, denies syncope. She reports associated mild shortness of breath with exertion, which she attributes partly to her COPD. No recent fevers, chills, or weight loss. She has a history of hyperlipidemia, depression, type 2 diabetes, osteoporosis, hypertension, and COPD.
+
+PAST MEDICAL HISTORY: Hyperlipidemia, depression, type 2 diabetes, osteoporosis, hypertension, COPD.
+
+SOCIAL HISTORY: Ms. Barnes has a significant smoking history. She smoked about three-quarters of a pack per day (approximately 15 cigarettes/day) for 19 years, then cut back to about half a pack per day (approximately 10 cigarettes/day) for the past 15 years, and she continues to smoke at that reduced rate currently. She is an active smoker at this time. Note: the templated field below labeled "Smoking status: Never Smoker" is an outdated auto-populated entry carried forward from an old template and is incorrect; the accurate smoking history is as documented above in this narrative. She drinks alcohol socially, occasional glass of wine. Denies illicit drug use.
+
+[TEMPLATE FIELD - AUTO-POPULATED, NOT UPDATED]
+Smoking status: Never Smoker
+[END TEMPLATE FIELD]
+
+FAMILY HISTORY: Mother with coronary artery disease, father with type 2 diabetes.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, night sweats.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, hearing loss.
+Cardiovascular: Positive for exertional chest discomfort as above. Denies palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Positive for mild dyspnea on exertion. Denies hemoptysis, wheezing at rest.
+GI: Denies nausea, vomiting, abdominal pain, changes in bowel habits.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Denies joint pain, though has history of osteoporosis.
+Skin: Denies rashes, lesions.
+Neurologic: Denies headache, dizziness, numbness, weakness.
+Psychiatric: Positive for history of depression, currently stable on medication. Denies suicidal ideation.
+Endocrine: Positive for type 2 diabetes, denies polyuria/polydipsia currently.
+Heme/Lymph: Denies easy bruising, swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies.
+
+MEDICATIONS:
+1. Atorvastatin 40 mg PO nightly
+2. Metformin 1000 mg PO BID
+3. Lisinopril 20 mg PO daily
+4. Amlodipine 5 mg PO daily
+5. Sertraline 100 mg PO daily
+6. Alendronate 70 mg PO weekly
+7. Albuterol HFA inhaler PRN
+8. Tiotropium inhaler daily
+9. Vitamin D3 2000 IU daily
+10. Calcium carbonate 600 mg BID
+11. Aspirin 81 mg daily
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 95% on room air, Temp 98.4F, Wt 168 lb, Ht 5'4"
+General: Well-appearing woman in no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: No JVD, no carotid bruits, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops. No peripheral edema. Pulses 2+ bilaterally.
+Respiratory: Mildly diminished breath sounds bilaterally with scattered expiratory wheezes, no crackles.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, clubbing, or edema.
+Skin: Warm, dry, intact.
+Neurologic: Alert and oriented x3, no focal deficits.
+Psychiatric: Mood euthymic, affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely angina given exertional pattern and cardiovascular risk factors including smoking, hypertension, diabetes, and hyperlipidemia - will obtain EKG, troponin, and schedule stress testing.
+2. Hyperlipidemia - continue atorvastatin, will check fasting lipid panel.
+3. Hypertension - continue current regimen, reasonably controlled today.
+4. Type 2 diabetes - continue metformin, will check HbA1c.
+5. COPD - continue current inhalers, discussed importance of smoking cessation given ongoing active smoking; provided counseling and cessation resources.
+6. Osteoporosis - continue alendronate and supplements.
+7. Depression - continue sertraline, stable.
+8. Given her age and extensive smoking history, lung cancer screening was discussed as a general topic during this visit.
+
+Will follow up after diagnostic workup is complete. Thank you for allowing me to participate in her care.
+
+Sincerely,
+Daniel Reyes, MD
+
+---
+ADDENDUM (later same day, 10/19/2025):
+Patient called back after leaving the office to clarify that her chest pain today felt slightly different than her usual episodes - more of a burning quality. Advised her to go to the ED if symptoms worsen or if she develops any radiation, shortness of breath, or diaphoresis. She verbalized understanding. Will still proceed with planned outpatient workup as above. No changes to smoking history documentation; reiterating that she remains an active smoker as detailed in the social history section above, smoking roughly half a pack per day currently after years of heavier use as described.
+-Daniel Reyes, MD

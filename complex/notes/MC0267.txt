@@ -1,0 +1,74 @@
+CARDIOLOGY CLINIC - HEART FAILURE FOLLOW-UP
+Date of Service: 02/20/2025
+Patient: Gary Taylor, M, DOB 02/20/1950 (age 75)
+Attending: Owen Fitzgerald, MD
+
+NURSE INTAKE (K. Reyes, RN):
+VS: BP 138/82, HR 78 reg, RR 16, SpO2 96% RA, Wt 198 lb (up 2 lb from last visit), Temp 97.8F.
+Pt here for routine HF follow-up. Denies chest pain today. Reports mild ankle swelling by end of day. Meds reconciled, see list below. Pt tobacco use status updated - active smoker, discussed cessation resources, pt declined referral at this time.
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+
+HPI:
+Mr. Taylor is a 75-year-old male (DOB 2/20/1950) with history of CAD, HFrEF, T2DM, CKD stage 3, hyperlipidemia, hypothyroidism, and osteoarthritis who presents today, 2/20/2025, for scheduled heart failure follow-up. He states, "I've been feeling about the same, maybe a little more short of breath walking up the stairs at home." He denies orthopnea beyond his usual 2-pillow habit, denies PND, denies chest pain, palpitations, or syncope. He reports mild bilateral ankle edema in the evenings, improved with elevation. Diet has been "mostly low salt, but I had some chinese food last weekend" per patient. He reports adherence to his diuretic and other cardiac meds.
+Smoking history reviewed in detail: patient reports he smoked a quarter pack (about 5 cigarettes) per day for 35 years, then increased his use to three-quarters of a pack (about 15 cigarettes) per day for the past 19 years, and he continues to smoke at that rate currently. He is an active smoker. He states, "I know I should quit, I've just never been able to stick with it." Cessation counseling provided again today; discussed nicotine replacement options and referral to quitline, patient again declined but agreed to think about it. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+--- COPIED FORWARD FROM VISIT 11/14/2024 (retained per prior note, not all current) ---
+HPI (11/14/2024): Pt c/o intermittent dyspnea on exertion, denies chest pain, reports compliance with lisinopril and metoprolol. Weight stable. Reports occasional dizziness on standing. Tobacco use noted, counseling given. Diabetes well controlled per pt report, checks fingersticks intermittently. CKD stable, nephrology following. Physical exam at that time notable for trace pedal edema, lungs clear, RRR no murmurs appreciated. Plan at that time: continue current regimen, recheck BMP and BNP, f/u 3 months.
+--- END COPIED FORWARD SECTION ---
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss.
+Cardiovascular: as per HPI, denies chest pain, denies palpitations, admits mild ankle edema.
+Respiratory: mild exertional dyspnea, denies cough, denies hemoptysis, denies wheeze.
+GI: denies nausea, vomiting, diarrhea, constipation.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: chronic knee pain, stable, managed with acetaminophen.
+Endocrine: denies polyuria, polydipsia.
+Neuro: denies focal weakness, denies numbness.
+Skin: denies rash, denies non-healing wounds.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+General: alert, well-nourished, no acute distress.
+HEENT: normocephalic, atraumatic, EOMI, PERRLA.
+Neck: no JVD appreciated at 45 degrees, no thyromegaly.
+Cardiovascular: RRR, S1/S2 normal, no murmurs, rubs, or gallops appreciated.
+Respiratory: lungs clear to auscultation bilaterally, no crackles, no wheezes.
+Abdomen: soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: 1+ pitting edema bilateral ankles, pulses palpable, no clubbing or cyanosis.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+02/18/2025 BMP: Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline), eGFR 42.
+02/18/2025 BNP: 410 pg/mL (up from 350 in 11/2024).
+02/18/2025 A1c: 7.2%.
+01/15/2025 Lipid panel: Total chol 168, LDL 88, HDL 42, TG 190.
+02/18/2025 TSH: 2.1 (WNL on current levothyroxine dose).
+
+MEDICATIONS:
+1. Furosemide 40 mg PO daily
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Atorvastatin 40 mg PO qhs
+5. Metformin 1000 mg PO BID
+6. Levothyroxine 75 mcg PO daily
+7. Aspirin 81 mg PO daily
+8. Empagliflozin 10 mg PO daily
+9. Acetaminophen 500 mg PO PRN knee pain
+10. Vitamin D3 1000 IU PO daily
+
+ASSESSMENT/PLAN:
+1. HFrEF - mild symptomatic worsening, BNP trending up. Increase furosemide to 40 mg BID, continue GDMT, recheck BMP in 1 week.
+2. CAD - stable, continue statin and aspirin.
+3. T2DM - reasonably controlled, continue current regimen.
+4. CKD stage 3 - stable, continue nephrology follow-up.
+5. Hyperlipidemia - at goal, continue atorvastatin.
+6. Hypothyroidism - euthyroid, continue current dose.
+7. Osteoarthritis - stable, continue acetaminophen PRN.
+8. Active tobacco use - counseled again on cessation, offered resources, patient declined referral today, will readdress at next visit.
+Follow-up in 4 weeks or sooner if symptoms worsen.
+
+Electronically signed: Owen Fitzgerald, MD

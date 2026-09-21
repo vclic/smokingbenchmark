@@ -1,0 +1,62 @@
+GERIATRICS PROGRESS NOTE
+Patient: Sandra Campbell | DOB: 1/21/1958 | Age: 65
+Date of Service: 01/21/2023
+Author: Catherine Lindqvist, DO (NP-authored note, co-signed)
+
+CC: Geriatric assessment, f/u multiple chronic conditions.
+
+HPI: 65 yo woman here for comprehensive geriatric eval. Reports fatigue, some dyspnea on exertion, stable overall. No new falls. Lives alone, uses cane for balance c/o OA knees. Denies chest pain today. PAD symptoms - claudication with ambulation ~2 blocks, unchanged. GERD sx controlled on current regimen. Asthma - occasional wheeze, uses albuterol prn, no recent exac.
+
+Social Hx: Former smoker. Hx notable for heavy tobacco use - smoked 3 packs/day for 27 years, then cut back to 1 pack/day for 19 years before quitting entirely. Quit smoking at age 64. No current tobacco use. No EtOH. Lives independently, daughter checks in weekly.
+
+ROS: (per template, reviewed and updated)
+Constitutional: fatigue as above, no fever, no chills, no wt loss.
+HEENT: no vision changes, no hearing changes, no sore throat.
+CV: no chest pain today, +hx CAD, +HFrEF, no orthopnea currently, mild peripheral edema.
+Resp: occasional wheeze, no cough, no hemoptysis.
+GI: reflux sx improved on PPI, no n/v, no melena.
+GU: no dysuria, no hematuria.
+MSK: chronic knee pain, OA, no acute swelling.
+Skin: no rashes, no lesions.
+Neuro: no focal weakness, no numbness, no tingling.
+Psych: mood stable, no SI/HI.
+All other systems reviewed and negative.
+
+PMH/Problem List:
+- K21.9 GERD
+- I73.9 Peripheral artery disease
+- J45.909 Asthma, unspecified
+- I25.10 Coronary artery disease
+- I50.22 Chronic systolic (congestive) heart failure
+- M19.90 Osteoarthritis, unspecified site
+- Z87.891 Personal history of nicotine dependence (former smoker)
+- E78.5 Hyperlipidemia (old, may be resolved - needs review)
+- N39.0 UTI (2019, resolved, outdated entry - remove?)
+
+Meds: Omeprazole 20mg daily, Aspirin 81mg daily, Clopidogrel 75mg daily, Atorvastatin 40mg qhs, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Lisinopril 10mg daily, Albuterol HFA prn, Fluticasone/Salmeterol 250/50 BID, Acetaminophen 500mg prn OA pain, Cilostazol 100mg BID for PAD, Vitamin D3 1000 IU daily.
+
+Physical Exam:
+Vitals: BP 128/76, HR 68, RR 16, T 97.8F, SpO2 95% RA, Wt stable.
+Gen: NAD, well-appearing, appropriate for age.
+HEENT: NC/AT, PERRL, oropharynx clear.
+CV: RRR, no murmur appreciated today, trace bilateral LE edema.
+Resp: mild expiratory wheeze bilat, no rales, no rhonchi.
+Abd: soft, NT/ND, +BS.
+Ext: PAD - diminished pedal pulses bilaterally, no ulcers, feet warm.
+MSK: knees with crepitus, mild effusion, ROM limited by pain.
+Skin: intact, no breakdown.
+Neuro: A&Ox3, gait steady with cane.
+
+Assessment/Plan:
+1. GERD - continue omeprazole, sx controlled.
+2. PAD - continue cilostazol, ASA, encourage walking program.
+3. Asthma - stable, continue current inhalers.
+4. CAD/HFrEF - stable, continue GDMT, monitor weights.
+5. OA - continue acetaminophen, consider PT referral.
+6. Tobacco history - former smoker, quit at age 64; counseled on continued avoidance, reinforced benefits of remaining smoke-free. Lung cancer screening discussed with patient.
+7. Health maintenance - vaccines up to date, will schedule labs.
+
+RTC 3 months or sooner PRN.
+
+---ADDENDUM (same day, later)---
+Added after discussion with patient's daughter by phone re: med reconciliation. Clarified pt is not taking any OTC NSAIDs at home, contrary to prior note. No changes to plan above. Will fax updated med list to pharmacy. Daughter aware of f/u plan and will assist with appointment scheduling. -C. Lindqvist, DO

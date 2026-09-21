@@ -1,0 +1,68 @@
+PROGRESS NOTE - HOSPITAL DISCHARGE FOLLOW-UP
+Date of Service: 05/24/2023
+Patient: Joseph Butler | DOB: 05/24/1949 | Age: 74 | Sex: M
+Author: Steven Park, MD
+
+HPI:
+Mr. Butler is a 74-year-old male seen today for follow-up after recent hospitalization for pneumonia. He was discharged 5 days ago and reports gradual improvement in cough and dyspnea. He denies fevers, chills, or chest pain currently. He is tolerating oral antibiotics without GI upset. No hemoptysis. He continues to use his CPAP nightly for known OSA. He reports mild fatigue but is otherwise improving. Family at bedside during hospitalization noted he was compliant with meds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Obstructive sleep apnea (G47.33) - on CPAP, generally adherent
+2. Benign prostatic hyperplasia (N40.0) - on tamsulosin
+3. Community-acquired pneumonia (J18.9) - recent hospitalization, resolving
+4. Hypertension (I10) - stable, noted from prior visit, may be outdated as BP has been normal x3 visits
+5. GERD (K21.9) - old problem, patient reports resolved, kept on list for now
+
+SOCIAL HISTORY:
+Tobacco: Patient reports he tried a few cigarettes as a teenager but never smoked regularly and has not used tobacco products since. No vaping, no other tobacco products.
+Alcohol: Patient quit drinking alcohol in 2015; denies current use.
+Illicit drugs: denies.
+Lives with spouse, retired postal worker, independent in ADLs.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, weight loss.
+Eyes: no visual changes.
+ENT: no sore throat, no congestion.
+Cardiovascular: no chest pain, no palpitations, no edema.
+Respiratory: mild residual cough, improving, no wheeze, no hemoptysis.
+GI: no nausea, vomiting, diarrhea, constipation. Denies reflux currently.
+GU: nocturia x2, known BPH, no dysuria, no hematuria.
+Musculoskeletal: no joint pain, no swelling.
+Skin: no rashes.
+Neuro: no headache, no dizziness, no focal weakness.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Amoxicillin-clavulanate 875mg PO BID (course to complete 05/27/2023)
+2. Tamsulosin 0.4mg PO qHS
+3. Lisinopril 10mg PO daily
+4. Omeprazole 20mg PO daily
+5. Multivitamin PO daily
+6. Acetaminophen 500mg PO PRN pain
+7. Melatonin 3mg PO qHS PRN sleep
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 74, RR 16, Temp 97.8F, O2 sat 96% RA, Wt 198 lbs.
+General: well-appearing elderly male, no acute distress.
+HEENT: normocephalic, atraumatic, oropharynx clear.
+Neck: no lymphadenopathy, no JVD.
+Cardiovascular: RRR, no murmurs, rubs, or gallops.
+Respiratory: mild bibasilar crackles, improved from prior exam, no wheezing, no accessory muscle use.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: no edema, pulses intact bilaterally.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, cranial nerves grossly intact, gait steady.
+
+ASSESSMENT AND PLAN:
+1. Pneumonia, resolving (J18.9) - continue antibiotics as prescribed, follow-up chest imaging in 4-6 weeks to confirm resolution. Encouraged fluids, rest, gradual return to activity.
+2. OSA (G47.33) - continue CPAP compliance, will consider sleep study repeat if symptoms worsen.
+3. BPH (N40.0) - continue tamsulosin, stable urinary symptoms.
+4. Health maintenance - discussed screening topics including lung imaging given age and history, but as patient has no significant smoking history (tried a few cigarettes as a teenager, never smoked regularly), lung cancer screening was not indicated and this was not pursued further. Discussed vaccinations - pneumococcal and influenza status reviewed, up to date.
+5. Hypertension (I10) - stable, continue lisinopril, recheck BP at next visit.
+6. GERD (K21.9) - asymptomatic, continue omeprazole for now, consider taper at future visit.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+--- ADDENDUM (later same day, 05/24/2023) ---
+Addendum by Dr. Park: Patient's daughter called clinic this afternoon with additional history clarification - confirms father (Joseph Butler, DOB 05/24/1949) has never been a regular smoker, consistent with what was documented in social history this AM (a few cigarettes tried as a teenager only). No change to plan. Chest x-ray from hospitalization reviewed again - improving infiltrate, no nodules noted, no further action needed at this time regarding imaging beyond planned follow-up film in 4-6 weeks.

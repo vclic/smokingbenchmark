@@ -1,0 +1,89 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 03/18/2024
+Author: Catherine Lindqvist, DO
+
+Patient: Marilyn Jones | DOB: 03/18/1955 | Age: 69 | Sex: F
+
+CC: COPD follow-up.
+
+HPI: Pt is a 69 y/o F w/ PMH of COPD, HFrEF, CKD stage 3, depression, HLD, OA presenting for routine f/u of COPD. Reports intermittent dyspnea on exertion, worse w/ ambulation >1 block, occasional wheeze, chronic productive cough unchanged from prior visits. Denies fever, chest pain, hemoptysis, or recent hospitalizations. Uses albuterol PRN w/ some relief. Sleeps w/ 2 pillows, no significant orthopnea change. No new edema per pt though mild baseline LE swelling noted at prior visits, stable on current diuretic regimen.
+
+ROS (templated, reviewed and updated):
+Constitutional: Denies fever, chills, unintentional weight loss/gain.
+Eyes: No visual changes.
+ENT: No sore throat, no nasal congestion.
+Cardiovascular: Denies chest pain, palpitations; + occasional mild dyspnea on exertion as above.
+Respiratory: + chronic cough, + occasional wheeze, denies hemoptysis.
+GI: Denies abdominal pain, nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: + chronic joint pain c/w known OA, stable.
+Skin: No rashes, no lesions.
+Neuro: Denies HA, dizziness, syncope, focal weakness.
+Psych: + depressed mood, stable on current regimen, denies SI/HI.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, lymphadenopathy.
+Allergic/Immunologic: No known drug allergies on file.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+  Type: Cigarettes
+  Packs per day: see narrative below
+  Years smoked: see narrative below
+  Pt reports smoked approx half a pack (about 10 cigarettes) per day for 33 years, then increased consumption to 3 packs per day for the subsequent 17 years, and continues to smoke at this current rate of 3 packs per day.
+  Quit date: N/A - still smoking
+Smokeless tobacco: Never used
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+Counseling: Pt continues to smoke despite counseling on multiple occasions regarding cessation and its impact on COPD progression, CV disease, and CKD. Pt states she has tried to cut back in the past without lasting success. Nicotine replacement and pharmacologic cessation aids (varenicline, bupropion) discussed again today; pt declines at this time but will consider. Lung cancer screening was discussed in general terms as part of preventive care discussion.
+
+MEDICATIONS (reviewed and reconciled):
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN wheeze/dyspnea
+2. Tiotropium 18 mcg inhalation capsule, 1 cap inhaled daily
+3. Fluticasone/salmeterol 250/50 DPI, 1 inhalation BID
+4. Furosemide 40 mg PO daily
+5. Metoprolol succinate ER 50 mg PO daily
+6. Sacubitril/valsartan 24/26 mg PO BID
+7. Spironolactone 12.5 mg PO daily
+8. Atorvastatin 40 mg PO qHS
+9. Sertraline 100 mg PO daily
+10. Acetaminophen 650 mg PO PRN joint pain
+11. Vitamin D3 1000 IU PO daily
+12. Calcium carbonate 500 mg PO BID
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 18, SpO2 93% RA, Temp 36.7C, Wt 172 lb, BMI 29.4
+General: Alert, NAD, mild use of accessory muscles noted w/ exertion.
+HEENT: NC/AT, PERRLA, oropharynx clear, no cyanosis of lips.
+Neck: No JVD appreciated at rest, no LAD, thyroid nl.
+Cardiovascular: RRR, no m/r/g, no significant peripheral edema today.
+Respiratory: Mildly diminished breath sounds bilaterally, scattered expiratory wheezes, prolonged expiratory phase, no crackles.
+Abdomen: Soft, NT/ND, no HSM, BS normal.
+Extremities: No clubbing, trace edema b/l ankles.
+Skin: Warm, dry, no rashes.
+Neuro: A&Ox3, no focal deficits, gait steady.
+Psych: Mood euthymic, affect appropriate, cooperative.
+
+LABS/DIAGNOSTICS REVIEWED:
+CXR (12/2023): Hyperinflated lungs c/w COPD, no acute infiltrate.
+BMP (02/2024): Cr 1.4 (baseline for CKD3), K 4.3, BUN 22, Na 138.
+BNP (02/2024): mildly elevated, stable from prior.
+Spirometry (01/2024): FEV1/FVC reduced, obstructive pattern, consistent w/ COPD.
+
+ASSESSMENT:
+69 y/o F w/ COPD, HFrEF, CKD3, depression, HLD, OA, presenting for COPD f/u. Symptoms overall stable on current inhaler regimen. Continues to smoke heavily despite ongoing counseling, remains major driver of disease progression and cardiopulmonary risk.
+
+PLAN:
+1. COPD: Continue current triple/dual inhaler regimen as above. Reinforce inhaler technique. F/u spirometry in 6-12 months or sooner if worsening symptoms.
+2. Tobacco use: Continue counseling at every visit; discussed pharmacologic cessation aids again, pt declines for now; will readdress at next visit. Lung cancer screening discussed as part of preventive health discussion, to revisit.
+3. HFrEF: Continue GDMT as above, monitor weight/edema, follow w/ cardiology.
+4. CKD3: Continue monitoring renal function w/ routine labs, avoid nephrotoxic agents.
+5. Depression: Continue sertraline, stable mood today, no SI/HI.
+6. HLD: Continue atorvastatin, lipid panel due at next visit.
+7. OA: Continue acetaminophen PRN, consider PT referral if worsening.
+8. F/u in pulmonology clinic in 3 months, sooner if symptoms worsen.
+
+Electronically signed: Catherine Lindqvist, DO

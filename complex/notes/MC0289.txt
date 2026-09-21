@@ -1,0 +1,39 @@
+URGENT CARE - RESIDENT NOTE (with attending attestation)
+Author: Quentin Hale, PA-C
+Date of Service: 11/13/2023
+
+CHIEF COMPLAINT: cough
+
+HPI: Pt is a 70 y.o. male (DOB 7/29/1953) who presents today with cough x 5 days, states its dry mostly but occasionally productive of clear sputum, denies fever denies hemoptysis. He has a 17 pack-year smoking history per chart review and interview, and reports some increase in his baseline COPD sxs over past week. He also notes mild reflux sx worse at night, no chest pain, no wt loss. Pt states he was seen at a walk in clinic [inaudible] last month for similar sx that resolved on its own without abx. Denies sick contacts he does say his wife has had a cold recently so this could be viral in origin the cough started around the same time as her illness began per his report.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: current smoker
+Alcohol use: occasional, 1-2 drinks/wk
+Illicit drug use: denies
+Occupation: retired
+Living situation: Not on file
+Exercise: Not on file
+
+Despite prior counseling on smoking cessation at multiple visits the patient continues to smoke; he was again counseled today on cessation strategies including nicotine replacement and referral to quitline, pt states he is 'not ready' to quit at this time.
+
+PMH/Problem List:
+- I10 Essential hypertension
+- K21.9 GERD
+- J44.9 COPD, unspecified
+- E78.5 Hyperlipidemia
+- J45.909 Asthma, unspecified (outdated - pt does not carry this dx per recent pulm eval, appears copy forwarded from old note)
+
+MEDS: lisinopril, omeprazole, atorvastatin, albuterol MDI prn, tiotropium
+
+EXAM: Vitals stable, afebrile, RR 18, O2 sat 95% RA. Lungs w/ scattered expiratory wheeze bilat, no crackles no rhonchi. Heart RRR no m/r/g. Abd soft nontender. No lower extremity edema.
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs COPD exacerbation - will start short course prednisone taper and continue current inhalers, encouraged fluids and rest, f/u with PCP if worsening or fever develops.
+2. COPD - continue tiotropium and albuterol prn, discussed ongoing tobacco use as major contributing factor, lung cancer screening discussed in general terms with pt today.
+3. HTN - stable on current regimen, continue lisinopril.
+4. GERD - continue omeprazole, counseled on dietary triggers.
+5. HLD - continue atorvastatin, recheck lipid panel at next annual visit.
+
+Return precautions given, pt verbalizes understanding.
+
+Attending attestation: I have reviewed and discussed this case with Mr. Hale, PA-C, and agree with the assessment and plan as documented above. - Dr. Reyes, attending

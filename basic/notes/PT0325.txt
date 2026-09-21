@@ -1,0 +1,49 @@
+PROGRESS NOTE
+Date of Service: May 2, 2023
+Patient: Wei Carter   DOB: 12/20/1969   MRN: 28641924
+
+S:
+CC: Annual exam
+HPI: Mr. Carter is a 53-year-old male with a history of GERD, depression, OA, and HTN who presents for routine preventive care. Feels well overall. Not exercising regularly. Caring for a grandchild several days a week.
+
+PMH: Gastroesophageal reflux disease, Generalized anxiety disorder, Type 2 diabetes, Primary OA, bilateral knees, HTN
+Meds: metformin 1000 mg BID; omeprazole 20 mg daily; escitalopram 10 mg daily; diclofenac 1% gel QID PRN; semaglutide 0.5 mg weekly; amlodipine 10 mg daily
+Allergies: NKDA
+Social History:
+- Lives with wife and adult daughter.
+- Works as an engineer.
+- Never smoker.
+- EtOH: 2-3 drinks on weekends.
+- No illicit drug use.
+FH: Brother - T2DM. Brother - smokes, had MI at 52.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 123/81  HR: 79  RR: 14  Temp: 98.3 F  SpO2: 97% on RA  Wt: 203 lbs  BMI: 28.4
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (March 23, 2023): A1c 7.3%, Cr 0.89, K 4.4, Hgb 12.1
+
+A/P:
+1. Health maintenance: Colonoscopy 2018 - normal, repeat in 10 yrs; Shingrix #1 today; Pneumococcal vaccine up to date.
+2. HTN
+   - Well controlled on home log. No changes.
+
+RTC 3 months.
+
+Electronically signed by Gregory Tan, MD on 5/3/2023 at 11:52

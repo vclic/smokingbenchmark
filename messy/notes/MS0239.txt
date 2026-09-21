@@ -1,0 +1,58 @@
+TELEHEALTH NEW PT VISIT - PRIMARY CARE
+Pt: Gregory Wright, M, DOB 1/20/1948, age 78
+DOS: 01/20/2026
+Provider: Brian Okonkwo, MD
+
+CC: establish care, telehealth d/t mobility issues (PAD)
+
+HPI: 78 yo M new to practice via telehealth, est care for PAD and GERD, both dx'd elsewhere per pt report. Pt states leg pain w/ ambulation, worse over past several months, distance walked before pain has decreased, no rest pain currently. GERD sx well-controlled on OTC PPI, occ heartburn after spicy food or [inaudible] late meals. Denies chest pain, denies SOB. Reviewed old records faxed from prior PCP office, sound quality on call intermittent so had pt repeat several answers, pt daughter also on call assisting w/ communication.
+
+PMH:
+- Peripheral artery disease I73.9
+- GERD K21.9
+- HTN I10 (outdated entry, pt reports no longer has HTN dx, will need to confirm at f/u)
+- Hyperlipidemia E78.5 (per old chart, unclear if active)
+
+COPIED FROM PRIOR NOTE dated 11/20/2024 (outside record, reviewed today):
+"Pt is a former smoker."
+[No further detail provided in that note.]
+
+SOC HX (current, obtained today): Lives w/ spouse, retired machinist. Denies etoh excess, denies illicit drug use.
+
+Smoking hx (updated today per pt interview): Pt reports he no longer smokes. Quit smoking in 2014.
+
+MEDS (reported, not verified):
+- Cilostazol 100mg BID
+- Omeprazole 20mg daily
+- Aspirin 81mg daily
+
+ALLERGIES: NKDA
+
+VITALS (telehealth, self-reported): BP 132/78 (pt's home cuff), HR 74, wt 182 lb
+
+EXAM (limited, telehealth):
+Gen: alert, conversant, no acute distress on video
+Skin: no visible ulcers on lower extremities per pt-directed camera view, skin appears intact, some hair loss noted on shins bilat per pt report
+CV: unable to auscultate via telehealth
+Resp: unable to auscultate via telehealth
+Ext: pt reports cool feet bilat, denies numbness currently
+
+LABS/RESULTS (from outside records, dates as documented):
+- Lipid panel 09/15/2024: TC 198, LDL 122, HDL 41, TG 175
+- BMP 09/15/2024: Cr 1.1, eGFR 68, K 4.2, Na 138
+- HbA1c 09/15/2024: 5.6%
+- ABI (ankle-brachial index) 06/2024: 0.72 R, 0.78 L, consistent w/ PAD, mild-mod
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease (I73.9) - established dx, ABI supportive. Pt has significant smoking hx contributing to disease - smoked 8 cigarettes per day for 48 years, quit in 2014, currently a former smoker/no longer smokes. Continue cilostazol, encourage walking program as tolerated, f/u vascular surgery records if avail. Will check lipid panel and renal function given age of last labs.
+2. GERD (K21.9) - stable on OTC PPI, continue current regimen, counseled on lifestyle measures (avoid late meals, spicy foods).
+3. HTN (I10) - outdated, per pt no longer active, will reassess BP trend and confirm with old records at next visit before removing from problem list.
+4. Hyperlipidemia (E78.5) - unclear current status, will repeat lipid panel.
+5. Health maintenance - lung ca screening discussed given smoking hx, further discussion planned at in-person f/u visit. Age-appropriate vaccines reviewed, pt due for pneumococcal, will schedule in-office nursing visit. Colon ca screening hx to be obtained.
+6. Telehealth visit limitations discussed w/ pt, in-person f/u recommended for full physical exam incl vascular exam and BP measurement in-office.
+
+RTC: 4 wks, in-person, or sooner if leg sx worsen (rest pain, new ulceration, discoloration - instructed to call/go to ER if acute change).
+
+Time spent: 22 min telehealth visit, >50% counseling/coordination of care.
+
+Electronically signed: Brian Okonkwo, MD, 01/20/2026

@@ -1,0 +1,111 @@
+Internal Medicine Consult Note / Letter to Referring Physician
+Patient: Terrence Sullivan | DOB: 01/17/1961 | Age: 64 | Sex: M
+Date of Service: 01/17/2025
+Author: Kevin Osei, MD
+
+RE: Follow-up visit for hypertension and type 2 diabetes
+
+Dear Colleague,
+
+I had the pleasure of seeing Mr. Sullivan today, a 64-year-old male, for routine follow-up of his hypertension and type 2 diabetes. He was accompanied by his wife today, who reports she herself continues to smoke, which we discussed briefly as it relates to household exposure and secondhand smoke risk for the patient.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Sullivan presents today for a scheduled follow up. He reports doing reasonably well overall, though he notes some intermittent leg cramping with ambulation, consistent with his known peripheral artery disease, ambulates about two blocks before symptoms onset, resolves with rest, no rest pain, no new ulcerations noted on his feet on his own inspection at home he states, he denies chest pain, denies palpitations, denies syncope or near syncope, he does endorse some fatigue which he attributes to his thyroid condition and possibly under treatment, he takes his levothyroxine most days but admits to occasionally forgetting doses, he denies polyuria polydipsia today although his home glucose log shows some elevated readings in the 180-220 range fasting, he is compliant with metformin, he denies any hypoglycemic episodes.
+
+He was previously a smoker and this was reviewed again today (see Social History / Tobacco section below for details).
+
+PAST MEDICAL HISTORY:
+- Hypothyroidism
+- Peripheral artery disease
+- Type 2 diabetes mellitus
+- Hypertension
+
+SOCIAL HISTORY:
+Married, lives with spouse. Wife is also a current smoker per patient report [D5]. Denies illicit drug use. Occasional alcohol, 1-2 beers on weekends. Retired machinist.
+
+TOBACCO USE (EHR TEMPLATE):
+  Tobacco Type: Cigarettes
+  Status: Former smoker
+  Amount: 6 cigarettes per day
+  Duration: 16 years
+  Quit Age: 35
+  Current Use: No, patient no longer smokes
+  Counseling Provided: N/A - not currently using
+
+The patient reiterated today that he no longer smokes and has not resumed use since quitting. He quit smoking at age 35 and has remained abstinent since that time. We discussed general health maintenance and lung health, and screening options were discussed in general terms as part of routine preventive care conversation, no specific imaging ordered today related to this discussion.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, reports fatigue as above.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies sore throat, denies hearing loss, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, positive for claudication as above.
+Respiratory: Denies cough, denies dyspnea, denies wheezing, denies hemoptysis.
+GI: Denies nausea, denies vomiting, denies diarrhea, denies constipation, denies abdominal pain.
+GU: Denies dysuria, denies hematuria, denies frequency.
+Musculoskeletal: Denies joint pain except as noted, denies swelling.
+Skin: Denies rashes, denies new lesions, feet inspected without ulceration per patient report.
+Neuro: Denies headache, denies numbness, denies weakness, denies tingling in feet [inaudible] occasionally reported in prior visit but not today.
+Psych: Denies depression, denies anxiety, sleep is fair.
+Endocrine: Denies heat or cold intolerance today, denies polyuria polydipsia.
+Heme/Lymph: Denies easy bruising, denies bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, Wt 198 lbs, Ht 5'10", BMI 28.4
+General: Well-developed, well-nourished male, no acute distress.
+HEENT: Normocephalic, atraumatic, EOMI, PERRLA, oropharynx clear.
+Neck: No thyromegaly appreciated, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops, distal pulses diminished bilaterally in lower extremities consistent with known PAD.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, feet warm, no ulcerations, monofilament testing intact bilaterally today.
+Skin: No rashes or lesions noted.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact, strength 5/5 throughout.
+
+LABS/RESULTS:
+01/10/2025 - HbA1c: 7.8% (elevated, goal <7.0%)
+01/10/2025 - Fasting glucose: 156 mg/dL
+01/10/2025 - TSH: 3.2 mIU/L (within normal limits)
+01/10/2025 - Free T4: 1.1 ng/dL (normal)
+01/10/2025 - Lipid panel: Total cholesterol 182, LDL 104, HDL 42, Triglycerides 168
+01/10/2025 - BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, eGFR >60
+01/10/2025 - Urine microalbumin/creatinine ratio: 28 mg/g (mildly elevated)
+
+PROBLEM LIST:
+1. E11.9 - Type 2 diabetes mellitus without complications (active, ongoing management)
+2. I10 - Essential hypertension (active)
+3. E03.9 - Hypothyroidism, unspecified (active)
+4. I73.9 - Peripheral artery disease, unspecified (active)
+5. Z87.891 - Personal history of nicotine dependence (former smoker) (active)
+6. I25.10 - Atherosclerotic heart disease (outdated, carried forward from prior note, unclear if still accurate, needs verification)
+7. M54.5 - Low back pain (outdated, resolved per patient, carried forward)
+
+MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Levothyroxine 75 mcg PO daily
+4. Atorvastatin 40 mg PO daily
+5. Aspirin 81 mg PO daily
+6. Cilostazol 100 mg PO BID for claudication symptoms
+7. Amlodipine 5 mg PO daily
+
+ASSESSMENT AND PLAN:
+Mr. Sullivan is a 64-year-old male, DOB 01/17/1961, seen today 01/17/2025 for follow-up of hypertension, type 2 diabetes, hypothyroidism, and peripheral artery disease.
+
+1. Type 2 diabetes mellitus - A1c remains above goal at 7.8%. Will increase metformin dose... actually current dose is already at max, will consider addition of second agent, discussed options including SGLT2 inhibitor given cardiovascular and renal benefits. Continue home glucose monitoring, follow up labs in 3 months.
+
+2. Hypertension - BP today 138/84, reasonably controlled, continue current regimen, reinforced low sodium diet.
+
+3. Hypothyroidism - TSH within normal range today, continue current levothyroxine dose, encouraged more consistent daily adherence.
+
+4. Peripheral artery disease - Continue cilostazol, continue aspirin, encouraged supervised walking program, reviewed foot care given diabetes and PAD combined risk, no ulcerations noted today.
+
+5. Tobacco history - Former smoker as detailed above in social history/tobacco template, patient has not resumed smoking, no current tobacco counseling needed given cessation status, however given wife's continued smoking we discussed importance of avoiding secondhand exposure at home, encouraged her to consider cessation resources as well though she was not present as a patient today. General preventive health discussion included conversation about lung health screening options in general terms, no imaging ordered today.
+
+6. Health maintenance - Due for annual eye exam for diabetic retinopathy screening, due for annual foot exam (completed today, unremarkable), influenza vaccine given today, will discuss pneumococcal vaccine status at next visit.
+
+Follow up in 3 months or sooner if symptoms worsen. Patient verbalized understanding of the plan and agreed with recommendations.
+
+Sincerely,
+Kevin Osei, MD
+Internal Medicine

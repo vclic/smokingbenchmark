@@ -1,0 +1,67 @@
+PROGRESS NOTE - NEW PATIENT VISIT TO ESTABLISH CARE
+Patient: Priya Clark (F) DOB: 03/02/1969 (Age 56)
+Date of Service: 03/02/2025
+Provider: Isaac Moreno, PA-C
+Location: Primary Care
+
+CHIEF COMPLAINT: Establish care, review of chronic conditions.
+
+HPI: Ms. Clark is a 56-year-old woman (DOB 3/2/1969) presenting today, 03/02/2025, to establish care with our practice after relocating. She reports her osteoporosis is managed with calcium/vitamin D and has not had a recent DEXA. She notes intermittent joint pain consistent with her known osteoarthritis, worse in knees with prolonged standing. Depression is stable on current medication regimen per patient report, no recent changes in mood or suicidal ideation. She denies chest pain, shortness of breath, or hematuria. She is aware of her CKD stage 3 diagnosis and has been trying to limit NSAID use given renal function.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (outside record, imported by patient request)***
+Pt seen for follow up of osteoarthritis and depression. Denies falls. Reports mild low back pain, no radiculopathy. Continues sertraline 100mg daily, tolerating well. Discussed weight-bearing exercise for bone health. Labs from that visit: Vitamin D 28 ng/mL (low), TSH 2.1 (WNL), Hgb A1c 5.6%. Plan at that time: continue current meds, repeat DEXA in 2 years, follow up in 6 months.
+***END COPIED FORWARD TEXT***
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Never smoker
+Smoking status: Never smoked cigarettes
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Administrative assistant
+Living situation: Not on file
+Exercise: Walks 3x/week
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. No fevers, no chest pain, no dyspnea, no hematuria, no vision changes.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72, RR 14, Temp 98.4F, Wt 152 lbs, Ht 5'4"
+General: Well-appearing, no acute distress.
+Cardiac: RRR, no murmurs.
+Lungs: Clear to auscultation bilaterally.
+MSK: Mild crepitus bilateral knees, no effusion, ROM preserved.
+Skin: No rashes.
+Psych: Mood euthymic, affect appropriate.
+
+LABS/RESULTS (reviewed today, some from outside records):
+- 02/20/2025: BMP - Creatinine 1.3 mg/dL, eGFR 52 mL/min/1.73m2, Potassium 4.3 mmol/L, Sodium 140 mmol/L
+- 02/20/2025: Lipid panel - Total cholesterol 210 mg/dL, LDL 128 mg/dL, HDL 48 mg/dL, Triglycerides 170 mg/dL
+- 01/15/2024: DEXA scan (outside facility) - T-score -2.6 lumbar spine, consistent with osteoporosis
+- 11/14/2023: Vitamin D 28 ng/mL (low), TSH 2.1 mIU/L (WNL)
+
+PROBLEM LIST (with ICD-10 codes):
+1. Osteoporosis without current pathological fracture - M81.0 (active)
+2. Major depressive disorder, recurrent, moderate - F33.1 (active)
+3. Osteoarthritis, bilateral knees - M17.0 (active)
+4. Chronic kidney disease, stage 3 - N18.3 (active)
+5. Hyperlipidemia - E78.5 (active)
+6. Seasonal allergic rhinitis - J30.2 (outdated, resolved per patient, last documented 2019)
+7. Tobacco use disorder - Z72.0 (outdated/erroneous entry, patient denies ever smoking; to be removed)
+
+ASSESSMENT AND PLAN:
+56-year-old woman, DOB 3/2/1969, establishing care today 03/02/2025.
+
+1. Osteoporosis - Continue calcium/vitamin D supplementation, encourage weight-bearing exercise. Will schedule repeat DEXA given time since last scan.
+2. Depression - Stable on sertraline, continue current dose, will monitor.
+3. Osteoarthritis - Recommend acetaminophen as needed given renal function, avoid chronic NSAID use. Consider PT referral if symptoms worsen.
+4. CKD stage 3 - Monitor renal function with repeat BMP in 3 months, avoid nephrotoxic agents, discussed renal-friendly diet.
+5. Hyperlipidemia - Discuss statin therapy given LDL 128, will review renal dosing considerations before initiating.
+6. Tobacco/lung health - Patient confirms she has never smoked cigarettes; erroneous Z72.0 code to be corrected in problem list. General health maintenance discussed, including age-appropriate cancer screening topics as applicable, though no specific screening study ordered today.
+7. Health maintenance - Mammogram and colonoscopy status to be reviewed at next visit.
+
+Follow up in 3 months or sooner as needed.
+
+Isaac Moreno, PA-C

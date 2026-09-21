@@ -1,0 +1,81 @@
+NURSE INTAKE NOTE
+Date of Service: 06/14/2023
+Patient: Edward Sullivan | DOB: 6/14/1959 | Age: 64 | Sex: M
+Provider: Daniel Reyes, MD - Pulmonology
+
+Vitals: BP 138/84, HR 78 irregular, RR 18, SpO2 94% RA, Temp 98.2F, Wt 189 lb
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Not on file
+Smoking status: Never Smoker
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+
+Chief complaint: Follow-up for COPD, shortness of breath on exertion.
+
+--- COPIED FORWARD FROM VISIT DATED 08/14/2019 ---
+Patient seen for routine pulmonary follow-up on 08/14/2019. Reports stable dyspnea on exertion, uses albuterol PRN with good relief. Denies chest pain, denies hemoptysis. Smoking status as of the 08/14/2019 visit: former smoker per patient report at that time. No further detail given in that note. Continue current inhaler regimen and reassess in 6 months. Follow up as needed.
+--- END COPIED SECTION ---
+
+Review of Systems (templated, physician-reviewed):
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: No vision changes, no hearing changes, no sore throat.
+Cardiovascular: Denies chest pain, positive for occasional palpitations (known Afib).
+Respiratory: Positive for chronic cough, dyspnea on exertion, denies hemoptysis, denies wheeze at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Positive for joint pain (known gout), denies new swelling.
+Neuro: Denies headache, denies focal weakness.
+Psychiatric: Positive for low mood, followed for depression, denies SI/HI.
+Skin: No rashes, no lesions.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: No easy bruising, no lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+General: Alert, oriented, no acute distress, thin build.
+HEENT: Normocephalic, atraumatic, EOMI, PERRLA.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs, no gallops, no rubs, trace pedal edema bilaterally.
+Respiratory: Decreased breath sounds bilaterally with mild expiratory wheeze, no rales, no rhonchi, mild increased work of breathing.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: Diminished distal pulses bilaterally (known PAD), no cyanosis, no clubbing.
+Musculoskeletal: No active gout flare noted, mild tenderness first MTP joint left foot.
+Skin: Warm, dry, intact.
+Psychiatric: Mood appears euthymic today, affect appropriate.
+Neuro: Grossly intact, no focal deficits.
+
+MEDICATIONS:
+1. Albuterol HFA inhaler PRN
+2. Tiotropium inhaler daily
+3. Fluticasone/salmeterol inhaler BID
+4. Aspirin 81 mg daily
+5. Clopidogrel 75 mg daily
+6. Atorvastatin 40 mg daily
+7. Metoprolol succinate 50 mg daily
+8. Apixaban 5 mg BID
+9. Allopurinol 300 mg daily
+10. Colchicine 0.6 mg PRN gout flare
+11. Sertraline 100 mg daily
+12. Alendronate 70 mg weekly
+13. Calcium/Vitamin D supplement daily
+14. Cilostazol 100 mg BID
+
+Labs (reviewed today): CBC WNL, BMP WNL, Uric acid 6.8, INR N/A (on apixaban), Lipid panel reviewed, stable.
+
+ASSESSMENT/PLAN (Daniel Reyes, MD):
+64-year-old male with COPD, PAD, CAD, gout, depression, atrial fibrillation, and osteoporosis presenting for pulmonary follow-up on 06/14/2023.
+
+1. COPD - Symptoms stable to mildly worse on exertion. Note: the templated smoking status field above reads "Never Smoker," which is incorrect and does not reflect this patient's actual history - correcting the record here: patient is a former smoker who quit smoking, with a total smoking history of 38 years. No further detail on quit date is available in the chart. Given his overall respiratory and cardiovascular risk profile, lung cancer screening was discussed with the patient as part of general risk counseling; no further screening decision was made at today's visit. Continue current inhaler regimen, reinforce smoking cessation maintenance (patient remains abstinent), pulmonary rehab referral to be considered.
+2. PAD/CAD - Continue antiplatelet and statin therapy, cilostazol for claudication symptoms. Diminished distal pulses noted on exam, stable from prior.
+3. Atrial fibrillation - Rate controlled, continue apixaban for anticoagulation, continue metoprolol.
+4. Gout - Mild tenderness on exam without active flare, continue allopurinol, uric acid improved.
+5. Depression - Mood stable on sertraline, continue current dose, follow with PCP/psych as needed.
+6. Osteoporosis - Continue alendronate and calcium/vitamin D, DEXA due for repeat per prior schedule.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (same day, later) ---
+Addendum by Daniel Reyes, MD, 06/14/2023 (added later same day): Spoke with patient again by phone after clinic regarding the discrepancy in the tobacco field noted above. Patient reconfirmed he is a former smoker who has quit, consistent with documentation added in today's assessment. Templated "Never Smoker" field to be corrected in chart by nursing staff. No change to plan.

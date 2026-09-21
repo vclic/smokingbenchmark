@@ -1,0 +1,60 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 05/01/2023
+Patient: Mary Thompson | DOB: 05/01/1949 | Age: 74 y/o F
+Provider: Teresa Alvarez, NP (Internal Medicine)
+Encounter type: Pre-op eval for L TKA (Ortho referral, Dr. Kim)
+
+CC: pre-op medical clearance for knee replacement
+
+HPI:
+Pt is a 74 y/o F w/ PMH of BPH, HLD, PAD, OA, osteoporosis presenting via telehealth for pre-op medical clearance prior to scheduled L total knee arthroplasty. Pt reports chronic L knee pain, worsening over past 1-2 yrs, now significantly limiting ambulation. States "I can barely make it to the mailbox anymore without my knee giving out." Denies chest pain, SOB at rest, orthopnea, PND. Reports occasional calf claudication c/w known PAD, stable per pt - "same as it's been for a while, nothing new." No recent falls. Appetite good, no wt loss. Sleep fair, limited by knee pain at night.
+
+ROS: Constitutional - neg fever/chills. CV - neg CP/palpitations. Resp - neg cough/DOE. GI - neg N/V/D. GU - c/o nocturia x2-3/night (known BPH). MSK - + L knee pain, chronic. Skin - neg rash/lesions. Neuro - neg focal deficits.
+
+PMH/Problem List (per chart, some entries outdated - reviewed w/ pt):
+1. N40.1 - BPH w/ LUTS
+2. E78.5 - Hyperlipidemia
+3. I73.9 - Peripheral artery disease
+4. M17.11 - Osteoarthritis, right knee (outdated - now bilateral per pt, worse L)
+5. M81.0 - Osteoporosis, age-related
+6. Z87.891 - personal hx of nicotine dependence
+
+Meds (per last med rec, pt to confirm):
+- Tamsulosin 0.4mg qhs
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Cilostazol 100mg BID
+- Calcium/Vit D supplement daily
+- Alendronate 70mg weekly
+
+Allergies: NKDA
+
+Soc Hx: Lives alone, independent w/ ADLs, uses cane occasionally for ambulation. Denies EtOH use. Denies illicit drug use. Former smoker - see assessment/plan below for details.
+
+Vitals (per pt report/home cuff, telehealth visit):
+BP 128/76, HR 72, wt stable per pt, no home pulse ox available today.
+
+Exam: Limited via telehealth. Pt appears well, NAD, conversant, appropriate affect. Gait observed via video - antalgic, favoring L leg, uses cane. No acute distress noted. Unable to auscultate heart/lungs or palpate pulses via telehealth - deferred to in-person pre-op if needed or will rely on recent office visit findings (see PAD f/u note 3/2023 - pulses diminished but palpable bilat DP/PT, stable).
+
+Assessment/Plan:
+74 y/o F, DOS 5/1/2023, pre-op eval for L TKA.
+
+1. Pre-op cardiac/medical risk assessment - RCRI low-moderate given PAD hx. No active cardiac sx. Will review recent labs (CBC, BMP, coags) prior to final clearance. Pt cleared from cardiopulmonary standpoint pending labs, no further cardiac w/u indicated at this time given stable exercise tolerance reported and no anginal sx.
+
+2. Tobacco use / smoking history - Pt has extensive smoking hx: smoked approx half a pack per day (about 10 cigarettes/day) starting at age 18, continuing until she quit smoking at age 73. Pt confirms quit date of November 2022 - "I finally put them down last November, haven't touched one since." Encouraged continued abstinence, congratulated pt on successful quit. Lung cancer screening was discussed generally as part of preventive health given smoking hx, no further action re: imaging documented today. Pt agreeable to routine health maintenance discussion at future visit.
+
+3. PAD - stable, claudication sx unchanged per pt report. Continue cilostazol, ASA, atorvastatin. Will defer to vascular surgery f/u as previously scheduled. No new intervention needed pre-op.
+
+4. BPH - stable on tamsulosin, nocturia manageable per pt. No acute urinary retention. Continue current regimen.
+
+5. Hyperlipidemia - continue atorvastatin, no new labs needed today, last lipid panel reviewed at prior visit was at goal.
+
+6. Osteoporosis - continue alendronate + Ca/Vit D. Will need to hold alendronate peri-operatively per standard protocol, discussed w/ pt, she verbalized understanding.
+
+7. Osteoarthritis, bilat knees (L>R) - surgical plan for L TKA per ortho, pt aware of pre-op instructions, NPO after midnight night before surgery, hold ASA per surgeon instructions closer to date.
+
+Pre-op clearance: Pt is medically cleared to proceed with L TKA pending final review of labs/EKG. No contraindications identified today. Will communicate results to ortho team directly.
+
+F/u: Pt to f/u w/ this office post-op for continued chronic disease mgmt, and to continue routine PAD/vascular surveillance. Telehealth visit concluded, pt verbalized understanding of plan, no further questions at this time.
+
+Electronically signed: Teresa Alvarez, NP

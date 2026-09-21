@@ -1,0 +1,58 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Curtis Kim | DOB: 08/08/1963 | Age: 62 | MRN: on file
+Date of Service: 08/08/2025
+Author: Teresa Alvarez, NP
+Referring: Dr. J. Patel, PCP
+
+Reason for Consult: Evaluation of chest pain in setting of known CAD and HFrEF.
+
+HPI: Mr Kim is a 62 year old male referred for evaluation of intermittent chest tightness over past several weeks, associated w/ exertional dyspnea. Denies orthopnea. Reports fatigue, some lower extremity edema. Wife notes he has become increasingly difficult to communicate with regarding symptom timeline; pt is a known poor historian at this visit and appears aphasic during portions of interview, limiting accurate history-taking including for tobacco use.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use status: Unable to obtain (pt aphasic / poor historian at this encounter)
+ Pack years: Not on file
+ Alcohol use: Not on file
+ Drug use: Denies (per prior note, copy-forwarded)
+ Occupation: Retired
+ Living situation: With spouse
+
+Note: Tobacco history could not be reliably obtained today due to pt's aphasia; will attempt to clarify at next visit or via collateral source. No further smoking-related information is documented in this note.
+
+PROBLEM LIST (ICD-10):
+1. N18.30 - Chronic kidney disease, stage 3 (unspecified)
+2. M81.0 - Osteoporosis without current pathological fracture
+3. I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+4. I25.10 - Atherosclerotic heart disease of native coronary artery w/o angina (outdated entry, pt now w/ anginal sx per today's visit)
+5. G47.33 - Obstructive sleep apnea
+6. N40.0 - Benign prostatic hyperplasia w/o LUTS
+
+ROS: Cardiac - positive for chest tightness, dyspnea on exertion, LE edema. Denies syncope, palpitations. Resp - denies cough hemoptysis. GU - nocturia x2, consistent w/ known BPH. Neuro - pt aphasic today, limited exam possible, no acute focal deficit noted on gross screening exam.
+
+VITALS: BP 138/84 | HR 78 | RR 16 | SpO2 95% RA | Wt 91kg
+
+EXAM: General - pt appears comfortable, aphasic, able to follow simple commands. CV - RRR, S1 S2 nl, no murmur appreciated, +trace bilateral LE edema. Lungs - CTAB. Abd - soft nontender. Ext - no clubbing cyanosis.
+
+LABS/RESULTS:
+ 08/01/2025 BNP 620 pg/mL (elevated)
+ 08/01/2025 Creatinine 1.6 mg/dL (baseline per CKD stage 3)
+ 08/01/2025 eGFR 42 mL/min/1.73m2
+ 07/15/2025 Echo - EF 35%, mild MR, LVH
+ 08/08/2025 EKG - NSR, nonspecific ST changes, no acute ST elevation
+
+ASSESSMENT: 62M with hx CAD, HFrEF, CKD3, OSA, osteoporosis, BPH presenting w/ new-onset chest tightness and DOE, elevated BNP. Tobacco history unable to be obtained today given pt's aphasia and poor historian status; will re-attempt at f/u or obtain collateral hx from spouse.
+
+PLAN:
+1. Chest pain - obtain troponin series, consider stress testing outpt given stable presentation, continue statin and beta-blocker
+2. HFrEF - continue GDMT, monitor weights daily, low Na diet reinforced
+3. CKD3 - renal panel q3mo, avoid nephrotoxic agents
+4. OSA - continue CPAP compliance, refer to sleep med if not already established
+5. Osteoporosis - continue calcium/vit D, DEXA due
+6. BPH - continue tamsulosin, follow up urology prn
+7. Social hx - re-attempt tobacco/etoh hx clarification at next visit given aphasia limiting today's interview; screening discussion deferred pending further history
+8. F/u in cardiology clinic 4 weeks or sooner if sx worsen
+
+Thank you for allowing me to participate in the care of this patient. Please contact our office with any questions.
+
+Teresa Alvarez, NP
+Cardiology Associates

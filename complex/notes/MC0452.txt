@@ -1,0 +1,52 @@
+TELEHEALTH URGENT CARE NOTE
+DOS: 05/27/2025
+Patient: Mary Kim, F, DOB 05/27/1952 (age 73 today - happy bday)
+Provider: Farah Siddiqui, MD
+
+PROBLEM LIST (per chart, some outdated):
+- I10 HTN
+- G47.33 OSA
+- E66.9 Obesity
+- K21.9 GERD
+- J45.909 Asthma, unspecified
+- Z87.891 Hx of tobacco use (see note - templated field below is WRONG, do not trust auto-pull)
+
+CC: cough x5 days, telehealth visit at pt's request 2/2 mobility issues.
+
+HPI: 73F c/o dry cough, worse at night, no fever, no hemoptysis, no SOB at rest. Denies chest pain. Reports some post-nasal drip sx, hx of GERD may be contributing. No sick contacts. Using albuterol PRN w/ mild relief. Smoking hx reviewed in detail today given cough eval - pt started smoking about a quarter pack (approx 5 cigs/day) at age 19, continued at that rate until quitting in 2017. She is a FORMER SMOKER. Hx notable for multiple quit attempts: first quit 2009, relapsed/restarted 2010, then quit for good in 2017. Also endorses occasional vaping, not daily, describes as "just sometimes at parties." No current cigarette use.
+
+Note: Auto-populated field in this chart under social hx reads "Smoking status: Never Smoker" - this is INCORRECT / outdated template error, pt is a former smoker per hx above, correcting for record.
+
+ROS: Resp - cough as above, no wheeze reported by pt. CV - no chest pain/palpitations. GI - occasional reflux sx, stable on current regimen. Denies wt loss, night sweats, hemoptysis.
+
+PMH: HTN, OSA (uses CPAP nightly, per pt compliance ~70%), obesity, GERD, asthma (mild intermittent).
+
+Meds: lisinopril 10mg qd, omeprazole 20mg qd, albuterol HFA PRN, occasional use of montelukast per pt report (not on active med list - reconcile at next visit).
+
+Allergies: NKDA.
+
+Soc Hx: lives w/ spouse, retired schoolteacher. Former smoker (see HPI above for detail). Occasional vaping. Denies EtOH excess, denies illicit drug use. Wt-bearing exercise limited by OSA-related fatigue per pt.
+
+Fam Hx: non-contributory to acute issue, father w/ CAD, mother w/ T2DM.
+
+Vitals (per home BP cuff report / telehealth limitations noted): BP 138/84, HR 78, temp 98.4F (self-reported), O2 sat 96% RA (per pt's home pulse ox), wt stable per pt report.
+
+Exam: Limited via telehealth. Pt appears comfortable, no acute distress noted on video. Speaking in full sentences, no visible increased work of breathing. No hemoptysis reported. Skin - no cyanosis noted. Pt able to demonstrate full inspiratory effort on cam.
+
+Assessment: 73yo F w/ acute cough, likely postnasal drip/GERD-related vs mild asthma exacerbation vs early URI. Low concern for pneumonia given no fever, no hypoxia reported. Cough duration <7 days, monitoring appropriate at this time.
+
+Given her smoking hx (former smoker, quit 2017, prior quit/restart pattern 2009-2010) and age, lung cancer screening was discussed briefly during visit re: general risk factors and cough eval; further work-up as clinically indicated, no imaging ordered today. Pt understands to f/u if sx worsen or persist beyond 1-2 wks.
+
+Plan:
+1. Cough - supportive care, encourage fluids, consider OTC guaifenesin. Continue albuterol PRN.
+2. GERD - continue omeprazole, avoid late meals, elevate HOB.
+3. Asthma - reinforce controller use if applicable, review inhaler technique at next in-person visit.
+4. OSA - encourage CPAP compliance, discuss re: fatigue affecting exercise tolerance.
+5. HTN - stable on current regimen, recheck BP at next visit.
+6. Smoking/vaping - reinforced counseling re: avoiding return to smoking, discussed occasional vaping use, encouraged full cessation of all nicotine products. Pt receptive.
+7. Correction made to chart re: smoking status field (previously listed erroneously as Never Smoker) - updated to reflect former smoker status accurately.
+8. F/u in 1-2 wks or sooner if worsening, RTC or ED precautions given (fever, hemoptysis, SOB at rest, chest pain).
+
+Telehealth consent obtained verbally, documented in chart. Visit conducted via secure video platform, no technical issues noted.
+
+Electronically signed: Farah Siddiqui, MD - 05/27/2025.

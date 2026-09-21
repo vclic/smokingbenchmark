@@ -1,0 +1,72 @@
+HOSPITAL D/C FOLLOW-UP - PRIMARY CARE
+Patient: Luis King | DOB: 3/10/1949 (age 75) | Sex: M
+Date of Service: 03/10/2024
+Author: Elena Markovic, MD (NP progress note)
+
+HPI:
+Mr. King is a 75 yo male seen for follow-up after recent hospitalization for pneumonia, discharged last wk. He states "I'm feeling a lot better than I was, still get a little short of breath walkin up the stairs." Denies fever, chills, chest pain. Cough improving, minimal sputum now, previously productive of yellow-green sputum. Appetite returning to normal. No new SOB at rest.
+
+PMH: OSA (on CPAP), hyperlipidemia, BPH, osteoporosis, gout, osteoarthritis.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Status: Former smoker
+Smoking history detail: Pt reports smoking approx half a pack (about 10 cigarettes) per day for 12 years, then stopped completely for a period of 7 years, then restarted smoking at half a pack (about 10 cigarettes) per day for 18 years, after which he quit smoking for good.
+Quit context: Pt states he quit smoking "when my granddaughter was born" - she is now 17 years old.
+Current tobacco use: None
+Alcohol: Pt quit drinking alcohol in 2021, denies current use.
+Drug use: denies.
+
+[Copied from note dated 08/10/2022]: Tobacco use status at that time: Former smoker. (no further quantitative detail documented in that entry)
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, wt loss.
+Respiratory: improving cough, denies hemoptysis, denies current dyspnea at rest.
+Cardiovascular: denies chest pain, palpitations, edema.
+GI: denies abd pain, nausea, vomiting, changes in bowel habits.
+GU: reports nocturia x2, known BPH, no dysuria.
+MSK: chronic knee pain c/w osteoarthritis, no acute flare gout currently.
+Neuro: denies HA, dizziness, focal weakness.
+Skin: no rashes.
+Psych: denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, Temp 97.8F, SpO2 96% RA, Wt 182 lbs.
+General: NAD, well-appearing elderly male.
+HEENT: normocephalic, atraumatic, no JVD.
+Lungs: mild bibasilar crackles, improved from prior, no wheeze.
+CV: RRR, no murmur/rub/gallop.
+Abd: soft, NT/ND, normal bowel sounds.
+Ext: no edema, gait steady with cane.
+Skin: intact, no lesions.
+Neuro: alert, oriented x3, CN II-XII grossly intact.
+
+LABS/RESULTS:
+CBC (03/09/2024): WBC 8.9, Hgb 13.6, Hct 41.2, Plt 244
+CMP (03/09/2024): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+CXR (03/08/2024, at discharge): resolving infiltrate RLL, improved from admission film 03/02/2024
+Lipid panel (12/15/2023): TC 178, LDL 98, HDL 46, TG 170
+
+MEDICATIONS:
+1. Atorvastatin 20mg PO qhs
+2. Tamsulosin 0.4mg PO qhs
+3. Alendronate 70mg PO qweek
+4. Allopurinol 100mg PO daily
+5. Amoxicillin-clavulanate 875/125mg PO BID (course completing 03/12/2024)
+6. Acetaminophen 500mg PO PRN pain
+7. Vitamin D3 2000 IU PO daily
+8. Calcium carbonate 500mg PO BID
+9. Albuterol inhaler PRN wheeze/SOB
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue abx course, f/u CXR in 4-6 wks to confirm resolution.
+2. OSA - continue CPAP compliance, reinforce use.
+3. Hyperlipidemia - continue statin, recheck lipid panel in 6 mo.
+4. BPH - stable on tamsulosin, continue.
+5. Osteoporosis - continue bisphosphonate/calcium/vit D, DEXA due next yr.
+6. Gout - no acute flare, continue allopurinol.
+7. Osteoarthritis - continue acetaminophen PRN, PT referral discussed.
+8. Tobacco history discussed as noted above; former smoker, no current use, reinforced continued abstinence. Lung cancer screening was discussed with patient.
+F/u in 4 weeks or sooner if symptoms worsen.
+
+Elena Markovic, MD

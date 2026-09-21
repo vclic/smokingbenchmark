@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Patient: Pamela Hall (F), DOB 3/3/1973, Age 51
+DOS: 03/03/2024
+Provider: Priya Raman, MD
+Visit type: Annual Wellness Visit, video encounter, FaceTime via patient portal
+
+HPI: Pt seen via telehealth for AWV. Pt states, "I feel pretty good, just here for my yearly check-up." Reports stable mood on current antidepressant, no new GI complaints. States, "My heartburn's been fine since I stopped eating so late at night." No new complaints today.
+
+--- COPIED FORWARD FROM VISIT 08/14/2021 (leaving in for hx reference, DO NOT use as current data) ---
+CC: f/u HTN, GERD, depression
+HPI: pt c/o occasional epigastric burning, worse after meals, taking OTC antacids w/ some relief. Denies CP, SOB, dysphagia. Mood reportedly stable, sleep fair, appetite good. No SI/HI. Pt continues on same regimen, no med changes requested at that time.
+ROS: (2021) Constitutional: no fever/chills/wt loss. HEENT: neg. CV: no CP/palpitations. Resp: no cough/dyspnea. GI: as above, epigastric burning. GU: neg. MSK: no joint pain. Neuro: no HA/dizziness. Psych: mood stable per pt.
+Exam (2021): BP 128/78, HR 74, BMI 27.4. Gen: NAD. Lungs CTAB. Heart RRR. Abd soft, NT/ND.
+--- END COPIED TEXT ---
+
+SMOKING STATUS FIELD (auto-populated template - OUTDATED, DISREGARD): Smoking status: Never Smoker
+[Note: the above auto-filled field is INCORRECT and does not reflect actual history - see corrected tobacco hx below.]
+
+TOBACCO HISTORY (templated block, updated today):
+Smoking Hx:
+- Ever smoker: Yes
+- Pack-yrs: 1 ppd x 16 yrs, then ~15 cigs/day x 14 yrs
+- Quit history: quit 2009, restarted 2010, quit for good 2019
+- Current status: Former smoker, not currently smoking
+- Counseling: tobacco cessation congratulated/reinforced
+
+Current Status: Pt is a former smoker; does not smoke now.
+
+ROS (templated, reviewed and negative except as noted): Constitutional: no fever, chills, wt loss/gain. Eyes: no visual changes. ENT: no sore throat, congestion. CV: no chest pain, palpitations, edema. Resp: no cough, wheeze, SOB. GI: mild reflux sx as above, no n/v/d, no melena. GU: no dysuria, frequency. MSK: no joint pain/swelling. Skin: no rashes. Neuro: no HA, no numbness/tingling. Psych: mood stable, no SI/HI, sleep adequate. Endo: no polyuria/polydipsia. Heme/Lymph: no easy bruising/bleeding. Allergy/Immune: NKDA.
+
+Physical Exam (limited, telehealth, self-reported vitals via home cuff): BP 122/76, HR 70, RR 14, Wt stable per pt. Gen: appears well, no acute distress, video quality adequate. HEENT: no visible distress. Neck: unable to assess JVD via video. Resp: no visible respiratory distress, no accessory muscle use noted. CV: unable to auscultate. Abd: not examined. Skin: no visible lesions on face. Psych: mood euthymic, affect appropriate, speech normal rate/rhythm.
+
+Medications: Omeprazole 20mg daily, Sertraline 100mg daily, Lisinopril 10mg daily, Atorvastatin 20mg qhs, Multivitamin daily, Calcium/Vit D supplement, Melatonin 3mg prn sleep, Docusate prn constipation.
+
+Assessment/Plan:
+1. GERD - stable on omeprazole, continue current dose, reinforce lifestyle modifications (avoid late meals, reduce caffeine).
+2. Depression - stable on sertraline, continue, reassess in 6 months or sooner if worsening.
+3. Tobacco use, former - corrected outdated EHR field to reflect accurate former smoker status; counseled on maintaining cessation; general health maintenance topics discussed with pt.
+4. Health maintenance - up to date on age-appropriate screenings, will review mammogram/colonoscopy due dates at next visit.
+RTC in 12 months or sooner PRN.
+
+---ADDENDUM (same day, later)---
+Addendum 03/03/2024 16:40 by Priya Raman, MD: Spoke with pt again by phone re: smoking status field error in chart; corrected in EHR problem list and templated tobacco block to reflect former smoker status accurately (previously auto-populated as "Never Smoker" in error). Pt confirms she quit for good in 2019 after prior quit attempt in 2009 and relapse in 2010. No further changes to plan.

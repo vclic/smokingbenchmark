@@ -1,0 +1,34 @@
+URGENT CARE - RESIDENT NOTE
+Pt: Mei Scott, F, DOB 1/8/1943, Age 80
+DOS: 02/04/2023
+Author: Anita Patel, MD (resident) w/ attending attestation
+
+HPI: 80 yo F w/ h/o HTN, asthma, CAD, CKD3, T2DM p/w cough x5 days, worse at night, denies fever, some SOB when climbing stairs, no chest pn per pt but does note occasional tightness "like an elephant sittin on me" [inaudible] pt reports using albuterol inhaler more freq this past wk w/ minimal relief, no hemoptysis, no recent travel, sick contacts at home per daughter who accompanies pt today and helps translate at times.
+
+ROS: otherwise neg except as above, appetite ok, no wt loss reported, sleep disrupted by cough.
+
+SOCIAL HISTORY: Lives w/ daughter, retired seamstress, occasional etoh, pt continues to smoke and is not ready to quit at this time - counseled on cessation resources, declined referral today, will revisit topic at next visit.
+
+TOBACCO USE (EHR TEMPLATE):
+  Smoking status: Current every day smoker
+  Pack-year history: 5 pack-years
+  Type: Cigarettes
+  Counseled on cessation: Yes
+
+PMH: HTN, asthma, CAD s/p stent 2019, CKD stage 3 (baseline Cr ~1.6), T2DM on metformin.
+Meds: lisinopril, albuterol/ipratropium nebs prn, metformin, ASA 81mg, atorvastatin.
+
+Vitals: BP 138/82, HR 88, RR 18, SpO2 94% RA, Temp 98.2F.
+Exam: Lungs w/ scattered exp wheeze bilat, no crackles, no accessory muscle use at rest. CV: RRR, no m/r/g. Abd soft NT. Ext no edema.
+
+A/P:
+1. Acute bronchitis vs asthma exacerbation - likely combo given underlying asthma hx and current tobacco use, which is a known trigger/risk factor. Start prednisone burst 40mg x5d, continue albuterol prn, f/u w/ PCP in 1 wk if not improved.
+2. Tobacco use - pt continues smoking, not ready to quit; lung cancer screening was discussed briefly given age and hx but deferred to PCP for further discussion; cessation counseling given again today, pt declined pharmacotherapy for now.
+3. HTN - stable, continue current regimen.
+4. CKD3 - stable, avoid NSAIDs, renal fn to be rechecked at PCP.
+5. T2DM - continue metformin, will check A1c at next visit.
+
+Disposition: home w/ daughter, RTC or ED if worsening SOB, chest pn, or fever.
+
+--- ADDENDUM (same day, later) ---
+Attending Dr. Patel co-signed after in-person re-eval; pt's SpO2 improved to 96% RA after neb tx in clinic prior to discharge, tolerated well, no acute distress noted on repeat exam, plan unchanged.

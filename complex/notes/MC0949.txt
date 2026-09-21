@@ -1,0 +1,43 @@
+GERIATRICS PROGRESS NOTE
+Date of Service: 10/16/2023
+Author: Kevin Osei, MD (NP progress note)
+
+Patient: Elizabeth Roberts DOB 9/27/1968, age 55 F
+
+CC: Geriatric assessment, follow up hyperlipidemia and COPD.
+
+HPI: Pt presents for annual geriatric assessment. She is a 55 y/o female with hx of hyperlipidemia and COPD who reports doing reasonably well, occasional dyspnea on exertion but no acute change. She denies chest pain, denies fevers. She uses albuterol prn. She reports she does not smoke currently and has not for a long time. No new falls, no cognitive complaints today. Reviewed meds, no changes requested by patient.
+
+--- COPIED FORWARD FROM VISIT DATED 6/16/2020 (retained in record, not updated) ---
+SOCIAL HISTORY (as documented 6/16/2020): Pt is a former smoker. Denies current alcohol use. Lives alone, ambulates independently. Denies illicit drug use. Diet reviewed, low salt diet recommended. Pt tolerated visit well, follow up in 6 months.
+ROS unchanged from prior visits, all systems negative except as noted above.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (current, 10/16/2023):
+Lives alone, independent w/ ADLs. Denies etoh. Denies illicit drugs.
+
+TOBACCO USE (EHR templated block):
+  Smoking status: Former smoker
+  Cigarettes: 3 packs/day
+  Years smoked: 1996 to 1999
+  Current status: Not currently smoking
+  Quit age: 31
+
+Physical Exam:
+Vitals stable, afebrile, BP 128/76, HR 74, RR 16, SpO2 95% RA.
+Gen: NAD, well appearing woman.
+Lungs: mild expiratory wheeze bilaterally, no acute distress.
+CV: RRR, no m/r/g.
+Abd: soft, nontender.
+Ext: no edema.
+Neuro: grossly intact.
+
+Labs reviewed: Lipid panel from last month shows LDL 142, HDL 48, TG 130. Fasting glucose wnl.
+
+Assessment/Plan:
+1. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 months, reinforced diet and exercise.
+2. COPD - stable, continue albuterol prn, discussed pulmonary rehab referral. Pt is a former smoker (quit smoking at age 31); no current tobacco use. Discussed lung cancer screening in general terms with patient during visit but no further action taken today.
+3. Health maintenance - up to date on immunizations, will schedule mammogram. Encouraged continued abstinence from tobacco, no further counseling needed given long term cessation.
+4. Return to clinic in 6 months or sooner if symptoms worsen.
+
+Pt verbalized understanding of plan, all questions answered. Note reviewed and signed by Kevin Osei, MD.

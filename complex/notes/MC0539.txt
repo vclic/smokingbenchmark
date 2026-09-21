@@ -1,0 +1,75 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 08/05/2023
+Patient: Terrence Moore | DOB: 08/05/1963 | Age: 60 | Sex: M
+Author: Daniel Reyes, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: Medication refills, telehealth visit.
+
+HPI: Mr. Moore is a 60-year-old male with history of asthma and heart failure with reduced ejection fraction who presents via telehealth for routine follow-up and medication refills. He reports doing 'pretty good, just running out of my inhaler and my heart pills.' He denies chest pain, orthopnea, or PND currently. He states 'I've been walking most days, maybe a mile, and I don't get as winded as I used to.' No recent hospitalizations. He denies fevers, cough, or wheeze today, though he says 'sometimes at night I get a little tight in the chest, [inaudible], but it goes away.' Denies leg swelling, denies palpitations, denies syncope.
+
+--- Copied forward from visit dated 02/14/2022 ---
+Pt seen today for follow up of CHF and asthma, doing fairly well on current regimen, no acute distress, lungs clear to auscultation bilaterally, no wheezes rales or rhonchi, heart regular rate and rhythm, no murmurs appreciated, extremities without edema, pt was advised to continue low sodium diet and daily weights, pt was counseled extensively regarding medication compliance and follow up labs were ordered including BNP and BMP, pt verbalized understanding and agreed with plan, pt will follow up in 3 months or sooner if symptoms worsen, pt denies smoking at that time visit and was noted to have quit tobacco use previously, pt's spouse present for visit and assisted with history.
+--- End copied forward text ---
+
+SOCIAL HISTORY / TOBACCO:
+Tobacco Use Screening (EHR templated block):
+ Smoking status: Former smoker
+ Pack-year history: 39 pack-years
+ Year quit: 2019
+ Type: Cigarettes
+ Counseling provided: Yes, continued encouragement to remain abstinent
+
+Alcohol: occasional, denies drug use.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss.
+HEENT: denies vision changes, denies hearing changes, denies sore throat.
+Cardiovascular: denies chest pain, denies palpitations, denies syncope, positive for occasional nocturnal chest tightness as above.
+Respiratory: denies hemoptysis, denies significant dyspnea at rest, positive for occasional nighttime tightness.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: denies joint pain, denies swelling.
+Neuro: denies headache, denies dizziness, denies focal weakness.
+Skin: denies rash, denies lesions.
+Psych: denies depression, denies anxiety, sleep adequate per pt.
+
+PHYSICAL EXAM (limited, telehealth, patient self-report and visual assessment):
+General: Well-appearing male, no acute distress, seated comfortably at home.
+Vitals (reported by patient home cuff): BP 128/78, HR 76, unable to obtain accurate O2 sat via telehealth, weight stable per patient home scale 198 lbs.
+Cardiovascular: unable to auscultate via telehealth, patient denies visible JVD on camera, no peripheral edema visualized.
+Respiratory: no visible respiratory distress, no accessory muscle use noted, speaking in full sentences.
+Extremities: no visible edema on camera.
+Skin: no rashes visualized.
+
+LABS/RESULTS (reviewed today):
+08/01/2023 - BNP: 210 pg/mL (mildly elevated)
+08/01/2023 - BMP: Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 94
+07/28/2023 - Lipid panel: Total chol 172, LDL 98, HDL 44, Trig 150
+06/15/2023 - Spirometry: FEV1/FVC 74%, consistent with mild obstructive pattern, stable from prior
+
+ASSESSMENT:
+1. Heart failure with reduced ejection fraction - stable, BNP mildly elevated but consistent with baseline, continue current regimen.
+2. Asthma - well controlled, mild obstructive pattern on recent spirometry, no exacerbation.
+3. Former tobacco use - remains abstinent since 2019, continued encouragement provided; lung cancer screening options were discussed with the patient during the visit.
+4. Medication refill request - addressed below.
+
+MEDICATIONS (current, reviewed and refilled today):
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 10 mg PO daily
+- Spironolactone 25 mg PO daily
+- Furosemide 20 mg PO daily
+- Albuterol HFA inhaler, 2 puffs q4-6h PRN wheeze
+- Fluticasone/salmeterol 250/50 one puff BID
+- Atorvastatin 40 mg PO nightly
+- Aspirin 81 mg PO daily
+- Multivitamin daily
+
+PLAN:
+1. Continue current heart failure regimen, refill carvedilol, lisinopril, spironolactone, furosemide as above sent to pharmacy of choice.
+2. Continue asthma inhalers as prescribed, refill albuterol and fluticasone/salmeterol.
+3. Repeat BNP and BMP in 3 months or sooner if symptoms worsen.
+4. Continue to encourage abstinence from tobacco, reinforced positively given quit status since 2019.
+5. Follow up telehealth or in-person visit in 3 months, sooner if symptoms of chest tightness worsen or if any signs of fluid retention develop, patient instructed to call clinic or go to ER if severe symptoms occur.
+6. Patient given clinic after-hours number for urgent concerns, verbalized understanding of plan and agreed to follow up as scheduled.
+
+Electronically signed: Daniel Reyes, MD, 08/05/2023.

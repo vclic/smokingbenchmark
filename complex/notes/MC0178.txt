@@ -1,0 +1,75 @@
+TELEHEALTH VISIT NOTE
+Patient: Paula Wood (F), DOB: 5/30/1949 (age 76)
+Date of Service: 05/30/2025
+Provider: Julia Brennan, MD - Family Medicine
+Visit Type: Annual Wellness Visit (video)
+
+CHIEF COMPLAINT: Annual wellness visit.
+
+HPI: Ms. Wood is a 76-year-old woman with history of osteoporosis, coronary artery disease, and type 2 diabetes who presents via telehealth for her annual wellness visit. She reports feeling generally well. No chest pain, no palpitations, no dyspnea on exertion beyond baseline. Denies falls. Bone density scan pending review. Blood sugars per home log range 110-160 fasting. No new complaints today. She lives independently and remains active with light gardening.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+  - Cigarettes: Patient reports smoking about half a pack (approx. 10 cigarettes) per day for 21 years, then decreased to about 5 cigarettes per day for the next 41 years, continuing to the present.
+  - Readiness to quit: Not ready to quit at this time.
+Alcohol use: Occasional, 1-2 glasses wine/week
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives alone, family nearby
+Exercise: Light gardening, walks 2x/week
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: Denies vision changes.
+ENT: Denies hearing loss, sore throat.
+Cardiovascular: Denies chest pain, orthopnea, PND, edema.
+Respiratory: Denies cough, hemoptysis, wheezing.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Reports mild low back stiffness, chronic, unchanged.
+Skin: Denies rashes, lesions.
+Neurologic: Denies headache, dizziness, numbness.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic: Denies easy bruising or bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (via telehealth, limited):
+General: Alert, well-appearing, no acute distress, seated comfortably.
+Vitals (per home monitor reported by patient): BP 132/78, HR 76, Temp 97.9F, Wt 148 lbs.
+HEENT: Normocephalic, atraumatic (visual inspection only).
+Cardiovascular: Unable to auscultate via telehealth; patient denies symptoms.
+Respiratory: No visible respiratory distress, no use of accessory muscles.
+Extremities: No visible edema.
+Skin: No visible lesions on camera.
+Neurologic: Alert, oriented x3, speech fluent, no focal deficits noted on observation.
+Mental status: Cooperative, appropriate affect.
+
+MEDICATIONS (reconciled):
+1. Metformin 1000 mg PO BID
+2. Atorvastatin 40 mg PO daily
+3. Aspirin 81 mg PO daily
+4. Metoprolol succinate 50 mg PO daily
+5. Alendronate 70 mg PO weekly
+6. Calcium carbonate 600 mg/Vitamin D3 800 IU PO daily
+7. Lisinopril 10 mg PO daily
+8. Vitamin B12 1000 mcg PO daily
+
+LABS/RESULTS:
+HbA1c (04/28/2025): 7.1%
+Lipid panel (04/28/2025): Total chol 168, LDL 92, HDL 48, TG 140
+BMP (04/28/2025): Na 139, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.9, eGFR 68, Glucose 132
+DEXA scan (03/15/2025): T-score -2.6 at lumbar spine, -2.3 at femoral neck, consistent with osteoporosis (no significant change from prior)
+EKG (04/28/2025): Normal sinus rhythm, no acute ST changes
+
+ASSESSMENT/PLAN:
+1. Osteoporosis - continue alendronate, calcium/vitamin D. Follow-up DEXA in 2 years.
+2. Coronary artery disease - stable, continue aspirin, statin, beta-blocker. EKG unremarkable today. Continue lisinopril for BP control.
+3. Type 2 diabetes mellitus - A1c 7.1%, at goal. Continue metformin. Reinforce diet and activity.
+4. Tobacco use - Patient continues to smoke and reports she is not ready to quit at this time. Advised to quit smoking and discussed potential lung cancer screening options in general terms; will revisit at future visit. Counseling provided regarding cardiovascular risk given her CAD.
+5. Health maintenance - Vaccinations up to date per chart. Mammogram and colonoscopy up to date. Continue routine labs.
+
+Patient verbalized understanding of plan. Will follow up in 6 months or sooner as needed. Telehealth visit completed without technical difficulty.
+
+Electronically signed: Julia Brennan, MD

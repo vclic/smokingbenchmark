@@ -1,0 +1,49 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Clinic
+Date of Service: 09/02/2025
+Author: Hannah Weiss, NP
+
+RE: Dennis Russell, M, DOB 02/05/1951, Age 74
+
+Dear Dr. Colleague,
+
+Thank you for referring Mr. Russell, a 74-year-old male, for evaluation of persistent cough seen today, 09/02/2025.
+
+HPI: Patient presents with a 2-week history of dry cough. He states, "It's been keeping me up at night, doc." He denies fever but reports mild chest tightness. He also notes, "I've tried the cough drops, they don't do much." No hemoptysis. No recent travel.
+
+---BEGIN COPY-FORWARD FROM VISIT 03/14/2024---
+PATIENT SEEN FOR FOLLOW-UP OF CAD AND AFIB. STABLE ON CURRENT REGIMEN. ECHO REVIEWED, EF 55%. CONTINUE ASA 81MG DAILY, METOPROLOL, APIXABAN. OSTEOPOROSIS FOLLOW-UP WITH DEXA SCHEDULED. OSA - CPAP COMPLIANCE GOOD PER PATIENT REPORT. GERD SYMPTOMS WELL CONTROLLED ON OMEPRAZOLE. NO ACUTE CHANGES. RTC 6 MONTHS.
+---END COPY-FORWARD---
+
+PROBLEM LIST:
+- I25.10 Coronary artery disease
+- I48.91 Atrial fibrillation
+- M81.0 Osteoporosis
+- M19.90 Osteoarthritis
+- G47.33 Obstructive sleep apnea
+- K21.9 GERD
+- J20.9 Acute bronchitis (outdated, resolved 2022)
+- E11.9 Type 2 diabetes mellitus (outdated - patient reports this was misdiagnosis, not on current med list)
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Current smoker
+Alcohol use: Not on file
+Occupation: Retired
+Living situation: [blank]
+Drug use: Denies
+Exercise: Not on file
+
+EXAM: Vitals stable. Lungs with mild expiratory wheeze bilaterally. Heart irregularly irregular rate, no murmur. No lower extremity edema. Oropharynx clear.
+
+ASSESSMENT/PLAN:
+1. Acute cough - likely post-viral vs. bronchitic component given wheeze. Will start inhaled bronchodilator PRN and reassess in 1 week if not improved.
+2. Tobacco use - patient reports smoking a quarter pack (about 5 cigarettes) per day since 1965. He previously quit in 2013 but relapsed in 2015. He continues to smoke currently and states he is not ready to quit at this time. Counseled on risks and encouraged to consider cessation resources when ready; declined referral today.
+3. CAD/AFib - continue current cardiac regimen, stable.
+4. Osteoporosis - continue current management.
+5. OSA - continue CPAP.
+6. GERD - continue omeprazole.
+
+Will follow up with PCP for continuity of care. Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Hannah Weiss, NP

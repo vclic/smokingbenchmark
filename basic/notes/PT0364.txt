@@ -1,0 +1,48 @@
+Family Medicine Clinic Note
+Date of Service: 7/15/2025
+Patient: Gary Kowalski   DOB: 9/15/1954   MRN: 63364020
+
+SUBJECTIVE:
+CC: Follow-up diabetes
+HPI: 70-year-old male w/ HLD, T2DM, GERD here for diabetes f/u. Most recent A1c 7.4% (previously 8.0% in January 2025). Fasting glucose 130-180 per log. No hypoglycemic episodes. Reports some tingling in feet at night. He admits today that the 'never smoker' entry in his chart is incorrect. He quit in 2017, relapsed in 2018, and quit for good in 2023 and has roughly a 55-pack-year hx.
+
+PMH: T2DM, HLD, GERD, History of tobacco use (Z87.891)
+PSH: Cataract extraction, bilateral (2007)
+Meds: atorvastatin 40 mg daily; insulin glargine 20 units nightly; metformin 1000 mg BID; famotidine 20 mg BID; fish oil 1 g daily
+Allergies: NKDA
+SH: Lives with wife and adult daughter. Retired, former accountant. Tobacco: Never smoker (per chart). Social drinker. No IVDU. Drives.
+FH: Sister - breast cancer at 59.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 110/86  HR: 75  RR: 20  Temp: 98.2 F  SpO2: 99% on RA  Wt: 209 lbs  BMI: 28.3
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus
+   - A1c 7.4% - above goal; start semaglutide 0.25 mg weekly. Diabetic eye exam referral.
+2. Hyperlipidemia
+   - Tolerating statin; recheck lipids in 1 yr.
+3. Gastroesophageal reflux disease
+   - Symptoms controlled.
+4. Health maintenance: LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+RTC 3 months.
+
+-- FS (MD)

@@ -1,0 +1,75 @@
+CARDIOLOGY CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Patient: Deborah Allen, DOB 2/14/1970 (age 56)
+Date of Service: 02/14/2026
+Author: Isaac Moreno, PA-C
+Referring: Dr. R. Chen, Internal Medicine
+
+CC: Chest pain eval.
+
+HPI: 56 y/o F referred for intermittent chest tightness x 3 wks. Denies radiation to arm currently, occasional SOB with exertion. Hx notable for prior MI in 2013. Now with recurrent sx concerning for recurrent ischemia vs GERD vs musculoskeletal. No syncope. No palpitations reported today. Pt reports sleeping poorly, uses CPAP for OSA most nights per report.
+
+[Copied forward from prior visit note dated 09/12/2019 - left in chart, not updated]
+"Pt here for routine f/u of HTN and depression. BP well controlled on current regimen. PHQ-9 improved from last visit. Sleep study reviewed, CPAP compliance improving. Bone density scan reviewed - stable, continue calcium/vit D. No new complaints. RTC 3 months. - Dr. Chen"
+[End copied text]
+
+PMH: Depression, Obstructive sleep apnea (on CPAP), Osteoporosis, Hypertension.
+
+PSH: None significant.
+
+Meds: Lisinopril 20mg daily, Sertraline 100mg daily, Alendronate 70mg weekly, Calcium/Vit D supplement, CPAP nightly.
+
+Allergies: NKDA.
+
+--- SOCIAL HISTORY (EHR TEMPLATE) ---
+Tobacco use: Former smoker
+Smoking details: Smoked about a quarter pack (approx 5 cigarettes) per day for 16 years, then increased to three-quarters of a pack (approx 15 cigarettes) per day for the next 8 years. She no longer smokes; she quit smoking 4 years after her heart attack, which happened in 2013.
+Smokeless tobacco: Not on file
+E-cigarette/vaping: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Not on file
+---
+
+ROS: Cardiac - chest tightness as above, no orthopnea, no PND, no edema. Resp - no cough, no wheeze. GI - occasional reflux sx. Psych - mood stable per pt. All other systems reviewed and negative.
+
+Vitals: BP 138/84, HR 78, RR 16, T 98.2F, SpO2 97% RA, Wt 168 lb, Ht 5'5".
+
+Exam:
+Gen - NAD, well-appearing woman.
+CV - RRR, no murmurs/rubs/gallops. No JVD. Pulses 2+ symmetric.
+Resp - CTAB, no wheeze/rales.
+Abd - soft, NT/ND.
+Ext - no edema, no clubbing/cyanosis.
+Neuro - grossly intact.
+Skin - warm, dry.
+
+Labs/Results:
+- 02/14/2026 Troponin I: 0.01 ng/mL (nl <0.04)
+- 02/14/2026 BNP: 42 pg/mL (nl <100)
+- 02/14/2026 BMP: Na 140, K 4.1, Cl 101, CO2 25, BUN 16, Cr 0.8, Glu 96
+- 02/14/2026 Lipid panel: TC 198, LDL 118, HDL 52, TG 140
+- 02/14/2026 EKG: NSR, no acute ST-T changes, old inferior Q waves consistent with prior MI.
+- 01/2026 Echo (outside): EF 55%, mild diastolic dysfunction, no significant valvular disease.
+
+Assessment: 56 y/o F with hx of MI (2013), HTN, OSA, osteoporosis, depression, now with atypical chest pain. Troponin negative x1, EKG without acute changes but old inferior changes noted. Low-intermediate risk presentation given prior cardiac hx.
+
+Given her cardiac history and former tobacco use, we discussed general risk reduction strategies including blood pressure control, lipid management, and continued CPAP adherence. Lung cancer screening was discussed in general terms as part of preventive health discussion given her smoking history, though further work-up for that is deferred to her PCP.
+
+Plan:
+1. Repeat troponin in 3-6 hrs to complete serial set given atypical presentation.
+2. Continue home meds, no changes to lisinopril at this time.
+3. Consider stress test as outpatient if sx persist or recur.
+4. Reinforce cardioprotective diet, low sodium.
+5. Continue CPAP nightly, encourage sleep hygiene.
+6. Continue alendronate for osteoporosis, no interaction concerns.
+7. Mood appears stable; continue sertraline, f/u with PCP for psych management.
+8. F/u in cardiology clinic in 4-6 wks or sooner if sx worsen.
+9. Pt educated on when to seek ED care (worsening chest pain, SOB, diaphoresis).
+
+Thank you for allowing us to participate in this patient's care. Please contact our office with any questions.
+
+Isaac Moreno, PA-C
+Cardiology Associates
+Electronically signed 02/14/2026

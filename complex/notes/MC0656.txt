@@ -1,0 +1,51 @@
+TELEHEALTH VISIT NOTE
+Patient: Elizabeth Harris | DOB: 7/3/1944 (age 80) | MRN: 88231-EH
+Date of Service: 07/03/2024
+Provider: Hannah Weiss, NP - Internal Medicine
+Visit type: Telehealth, pre-op eval (video)
+
+CC: Pre-operative medical clearance for L TKA (total knee arthroplasty), ortho scheduled with Dr. Alvarez.
+
+HPI: 80 y/o F with hx CKD stage 3, COPD, T2DM presents via telehealth for pre-op clearance ahead of upcoming L knee replacement. Pt reports chronic L knee pain, worsening over past 2 yrs, now limiting ambulation - uses cane for longer distances. No recent falls. Denies chest pain, SOB at rest, orthopnea. Reports baseline dyspnea on exertion c/w known COPD, uses albuterol PRN, maybe 2x/wk. Smoking hx notable: pt smoked 1.5 packs/day for 18 years, then cut down to about 12 cigarettes per day for the next 41 years before finally quitting - she is now a former smoker, quit in 2022. She denies any other tobacco or nicotine product use currently. No EtOH, no illicit drug use per pt report.
+DM2 - checks fingersticks qAM, reports readings generally 110-160. Diet fairly consistent, occasional lapses w/ sweets per pt. No hypoglycemia episodes reported.
+CKD3 - stable per pt, no edema, no dysuria, urine output normal per pt report.
+Review of systems otherwise negative except as above - no fevers, no unexplained weight loss, no hemoptysis, no new cough.
+
+PMH: CKD stage 3, COPD, T2DM, HTN (well controlled), osteoarthritis (bilateral knees, L>R)
+PSH: Appendectomy (remote), cataract surgery OU
+Meds: Metformin 500mg BID, Lisinopril 10mg daily, Albuterol HFA PRN, Atorvastatin 20mg daily, Vit D3 1000IU daily
+Allergies: NKDA
+FH: noncontributory to this eval
+Social: lives alone, independent in ADLs, uses cane, daughter lives nearby and assists w/ groceries. Former smoker as above, quit 2022. No current tobacco use.
+
+Vitals (telehealth, pt self-reported home cuff): BP 132/78, HR 76, Temp 98.2F (per pt), SpO2 95% RA (per pt pulse ox), Wt 168 lbs
+
+Exam (limited via video): Pt appears well, NAD, conversant, no visible respiratory distress, no accessory muscle use noted on cam. Gait not formally assessed via telehealth (pt seated).
+
+Labs/Results (reviewed from recent draw, Quest Diagnostics):
+- CBC (06/28/2024): WBC 6.8, Hgb 12.1, Hct 37.2, Plt 244
+- BMP (06/28/2024): Na 139, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.6 (baseline per prior records), eGFR 34, Glucose 142
+- HbA1c (06/15/2024): 7.1%
+- PT/INR (06/28/2024): PT 12.9, INR 1.0
+- UA (06/28/2024): trace protein, no blood, no leukocyte esterase
+- Spirometry on file (03/2024, pulm records): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ moderate COPD
+
+Assessment: 80 yo F, former smoker (quit 2022, extensive prior tobacco hx as documented above in HPI), w/ CKD3, COPD (moderate, stable), T2DM (reasonably controlled) presenting for pre-op clearance prior to L TKA.
+
+1. Pre-op cardiopulmonary risk - moderate COPD, stable, no active exacerbation. RCRI risk low-intermediate given DM, no CAD hx documented. Will obtain EKG in office prior to surgery date (telehealth limits exam today).
+2. CKD stage 3 - stable, Cr near baseline, will hold ACE-I morning of surgery per usual protocol, recheck BMP post-op.
+3. T2DM - continue metformin, hold day of surgery per anesthesia protocol, hold if contrast given periop.
+4. Smoking hx - counseled on continued abstinence, reinforced benefit given COPD and upcoming surgery; discussed general pulmonary risk reduction strategies. Lung cancer screening was discussed as a topic pt should raise w/ PCP for ongoing risk-based discussion.
+5. Pre-op clearance - pt cleared from IM standpoint for proceeding to surgical planning pending in-person EKG and anesthesia eval.
+
+Plan:
+- Obtain EKG in-person prior to surgery
+- Continue current meds as above, hold metformin/ACEI day of surgery per protocol
+- F/u post-op for CKD monitoring
+- Pt educated on post-op mobility goals, DVT ppx to be per ortho/anesthesia
+- Return to clinic or telehealth prn concerns
+
+Electronically signed: Hannah Weiss, NP 07/03/2024 14:22
+
+--- ADDENDUM (later same day, 07/03/2024 18:47) ---
+Addendum by Hannah Weiss, NP: Spoke with pt's daughter by phone this afternoon at pt's request for clarification of home glucose log - readings this past wk ranged 118-155, no hypoglycemia noted. No change to plan above. Daughter also confirmed pt has remained smoke-free since 2022 quit date, no relapse. Will forward note to ortho and anesthesia teams for pre-op packet. No further changes at this time.

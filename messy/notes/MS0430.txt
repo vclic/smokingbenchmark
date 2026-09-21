@@ -1,0 +1,98 @@
+Consult Note / Letter to Referring Physician
+Department of Internal Medicine
+Author: Elena Markovic, MD
+Date of Service: 07/28/2023
+
+Patient: Mary O'Brien
+DOB: 4/23/1948 (age 75 y.o.)
+Referring Provider: Dr. R. Sanjay, Orthopedic Surgery
+
+Reason for Consult: Pre-operative evaluation prior to right total knee replacement.
+
+HPI:
+Ms. O'Brien is a pleasant 75 year old woman with h/o gout, depression, BPH, OSA, hypothyroidism and asthma who presents for pre-op clearance in advance of her planned right TKA scheduled with Dr Sanjay next month. She reports progressive right knee pain over the last several years, worse w/ stairs and prolonged standing. She states "the pain is really wearing me down, I can hardly get to church anymore." She denies chest pain, palpitations, or exertional dyspnea beyond her baseline. She reports her asthma is well-controlled on her current inhaler regimen, using her albuterol rescue inhaler maybe once a month. She denies recent gout flares - last one was several months ago, resolved w/ colchicine. Sleep is fair; she uses her CPAP most nights, per husband she still snores some nights when the mask slips off. Mood has been stable on her current antidepressant, she denies SI/HI.
+
+Past Medical History:
+1. Gout
+2. Depression
+3. BPH
+4. Obstructive sleep apnea (on CPAP)
+5. Hypothyroidism
+6. Asthma
+
+Past Surgical History: Cholecystectomy (2005), cataract surgery OU (2019, 2020)
+
+Medications:
+- Allopurinol 300 mg daily
+- Sertraline 100 mg daily
+- Tamsulosin 0.4 mg qHS
+- Levothyroxine 88 mcg daily
+- Fluticasone/salmeterol 250/50 one puff BID
+- Albuterol HFA prn
+- Colchicine 0.6 mg prn flare
+- Vitamin D3 1000 IU daily
+- Calcium carbonate 500 mg BID
+- Melatonin 3 mg qHS prn
+
+Allergies: NKDA
+
+Social History:
+Lives with husband of 50 years in a single-story home. Retired schoolteacher. No alcohol use. No illicit drug use. She reports she quit smoking cigarettes and has not smoked since.
+
+Tobacco Use (EHR templated block):
+ Smoking status: Former smoker
+ Type: Cigarettes
+ Amount: 1 pack per day
+ Duration: 18 years
+ Quit: Yes
+
+Family History: Mother - hypertension. Father - CAD, deceased age 80. No family h/o lung cancer or other malignancy reported.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss
+HEENT: denies vision changes, hearing loss, sore throat
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND, LE edema
+Respiratory: denies cough, hemoptysis, wheeze beyond baseline asthma sx, denies acute SOB
+GI: denies nausea, vomiting, diarrhea, constipation, melena
+GU: reports mild nocturia x2, known BPH, no dysuria or hematuria
+Musculoskeletal: positive right knee pain as above, denies other joint pain currently
+Neuro: denies headache, dizziness, focal weakness, numbness
+Psychiatric: denies SI/HI, mood stable
+Skin: denies rash, new lesions
+All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb, Ht 5'4"
+General: well-appearing, NAD, appropriate for age
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear
+Neck: supple, no JVD, no thyromegaly
+Cardiovascular: RRR, no murmurs/rubs/gallops
+Respiratory: clear to auscultation bilaterally, no wheeze/rales/rhonchi appreciated today
+Abdomen: soft, non-tender, non-distended, normal bowel sounds
+Extremities: right knee w/ mild effusion, crepitus with ROM, no erythema or warmth, no calf tenderness, no edema
+Neuro: alert and oriented x3, grossly nonfocal
+Skin: warm, dry, intact
+
+Labs reviewed (from 07/25/2023): CBC WNL, BMP WNL, TSH 2.1 (nl), uric acid 6.2
+EKG: NSR, no acute ST-T changes, rate 70
+
+Assessment/Plan:
+75 y.o. female, former smoker (quit smoking), with h/o gout, depression, BPH, OSA, hypothyroidism, and asthma presenting for pre-operative evaluation prior to right TKA.
+
+1. Pre-op cardiac/pulmonary risk: Low-risk for perioperative cardiac complications based on RCRI and functional status. Pulmonary risk reasonable given well controlled asthma; continue home inhalers through peri-op period. Given her tobacco history of 1 pack per day for 18 years, general risks of pulmonary complications were reviewed w/ pt, and she was counseled on continued avoidance of smoking, deep breathing exercises post-op, and use of incentive spirometer post-operatively.
+2. Asthma: continue current inhaler regimen, have albuterol available peri-operatively
+3. OSA: continue CPAP use, bring CPAP machine to hospital for post-op use
+4. Gout: continue allopurinol, hold NSAIDs peri-operatively per surgical team preference, colchicine available prn flare
+5. Depression: continue sertraline, stable
+6. BPH: continue tamsulosin, monitor for post-op urinary retention
+7. Hypothyroidism: continue levothyroxine, stable per recent TSH
+8. Cleared for surgery from medicine standpoint pending final surgical team review.
+
+Will fax clearance letter to Dr Sanjay's office. Pt to follow up with PCP as scheduled, return to clinic sooner if new symptoms arise.
+
+Elena Markovic, MD
+
+---
+ADDENDUM (later same day, 07/28/2023, 4:45 PM):
+Patient called office after visit to clarify detail of her smoking history for the chart - she confirms she smoked cigarettes 1 pack per day for 18 years total and states she quit smoking at age 41. This has been added to the record for completeness. No other changes to plan above.
+Elena Markovic, MD

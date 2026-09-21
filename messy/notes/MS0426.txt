@@ -1,0 +1,46 @@
+GERIATRICS TELEHEALTH VISIT NOTE
+Patient: Theresa Lopez (F), DOB 8/28/1944, age 79
+Date of Service: 08/28/2023
+Provider: Anita Patel, MD
+
+Visit type: telehealth, geriatric assessment. Pt seen via video, audio intermittently choppy [inaudible] at start of call, connection re-established after ~2 min.
+
+HPI: 79 y/o F with hx CKD stage 3, COPD, HFrEF, afib presents for routine geriatric assessment via telehealth today 8/28/2023, she reports doing okay overall some days better than others daughter present in room assisting with technology, denies new chest pain denies acute SOB at rest but notes more dyspnea on exertion than prior visit, she has an 18 pack-year smoking history, she is a current active smoker continues to smoke despite prior counseling, denies fevers denies edema although daughter states ankles look 'a little puffy today,' med list reviewed appears to be adherent per pill count reported by daughter.
+
+ROS: Constitutional - no fever, no weight loss reported. Resp - chronic cough, unchanged. CV - occasional palpitations, no syncope. GI - appetite fair. GU - nocturia x2. Neuro - no focal deficits, mild forgetfulness per daughter, [inaudible] something about missed appointment last month not sure what she meant.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Former drinker, quit 2014
+Drinks/week: N/A
+Illicit drug use: Denies
+Living situation: Lives with daughter
+Occupation: Retired
+Exercise: Not on file
+
+PMH: CKD stage 3 (baseline Cr ~1.6), COPD (on home O2 PRN per old note, unclear if still using), HFrEF (EF 35% per last echo 2022), atrial fibrillation on anticoagulation.
+
+Meds (per chart, reconciled today): Furosemide 20mg daily, metoprolol succinate 25mg daily, apixaban 5mg BID, tiotropium inhaler daily, albuterol PRN, atorvastatin 20mg qhs, calcium/vit D supplement.
+
+Allergies: NKDA.
+
+Vitals (per home BP cuff/pulse ox relayed by daughter): BP 128/76, HR 78 irregular, O2 sat 94% on RA per home pulse ox, weight stable per patient report.
+
+Exam (limited, telehealth): General - pt appears comfortable, seated in chair, conversant, oriented x3. Resp - unable to auscultate via video, pt denies increased work of breathing on camera, no visible use of accessory muscles noted. CV - unable to auscultate, no visible JVD appreciated on camera angle, extremities - mild bilateral ankle edema visible on camera per daughter's positioning of camera. Skin - no rashes noted. Cognition - brief conversation appropriate, recall of recent events intact per screen, daughter reports some short term memory lapses at home not otherwise quantified today.
+
+Assessment/Plan:
+1. CKD stage 3 - stable, will recheck BMP at next in-person visit, continue current meds, avoid nephrotoxic agents.
+2. COPD - continue tiotropium and albuterol PRN, discussed smoking cessation again today given active smoking status, pt states she is 'not ready' to quit at this time, offered nicotine replacement counseling referral, pt declined for now, will readdress at future visit, pulmonary function tests to be scheduled when in person, general discussion held regarding lung cancer risk associated with smoking, no imaging ordered today, will revisit topic at future in-person encounter.
+3. HFrEF - appears euvolemic to mildly volume overloaded based on daughter's report of ankle swelling, will increase furosemide slightly, daughter to monitor weight daily and report back, follow up echo not indicated at this time per last cardiology note.
+4. Atrial fibrillation - continue apixaban, HR appears controlled today, will obtain EKG at next in office visit.
+5. Alcohol - patient quit drinking alcohol in 2014, no current concerns, no further counseling needed at this time.
+6. Cognition - mild concerns raised by daughter, will consider formal cognitive screening (MoCA) at next in-person visit given telehealth limitations today.
+7. General - reviewed fall risk, home safety, daughter present and involved in care, encouraged follow up labs and in-person visit within 4-6 weeks.
+
+Plan discussed with patient and daughter, questions answered, follow up scheduled, telehealth visit concluded, total time spent on this encounter today included chart review counseling and coordination of care exceeding [inaudible] minutes, will document separately if billing based on time.
+
+Electronically signed: Anita Patel, MD, Geriatrics, 08/28/2023.

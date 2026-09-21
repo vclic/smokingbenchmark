@@ -1,0 +1,64 @@
+Adult Medicine Clinic Note
+
+Patient: SULLIVAN, Terrence    MRN: 92848999
+DOB: 09/01/1967    Age: 58 y.o.    Sex: Male
+Date of Service: 09/01/2025    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Terrence Sullivan is a 58 y.o. male who presents for atrial fibrillation follow-up.
+Aware of irregular heartbeat at times. No bleeding on anticoagulation.
+
+Past Medical History:
+Diagnosis	Date
+• Atrial fibrillation	2017
+• Hypertension
+• Osteoarthritis
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• meloxicam 7.5 mg daily
+• diltiazem ER 120 mg daily
+• rivaroxaban 20 mg daily
+
+Allergies
+• NKDA
+
+
+Family History
+Noncontributory.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 151/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 63 | Temp 97.6 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 165 lb | SpO2 96% | BMI 25.11 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (07-Aug-2025): Cr 0.96, K 4.6
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 1. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. Hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+
+Return in about 3 months (around 12/1/2025).
+
+Electronically signed by Quentin Hale, PA-C on 09/01/2025

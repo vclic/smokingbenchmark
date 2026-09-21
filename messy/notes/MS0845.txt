@@ -1,0 +1,82 @@
+CLINIC NOTE - PULMONOLOGY FOLLOW-UP
+Date of Service: 02/12/2024
+Author: Hannah Weiss, NP
+
+=== NURSE INTAKE ===
+Patient: Gwendolyn Thompson, F, DOB 02/12/1946 (age 78)
+Visit type: ED-to-clinic follow-up s/p COPD exacerbation
+
+Vitals: BP 138/76, HR 88 irreg (known AFib), RR 20, SpO2 92% RA, Temp 97.8F, Wt 154 lb
+Allergies: NKDA
+
+--- SOCIAL HISTORY (templated) ---
+Tobacco use: Former smoker
+Smoking status: Quit
+Packs/day: Not on file
+Years smoked: Not on file
+Pack-year history: 26 pack-years
+Quit date: 2011
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired seamstress
+Living situation: Lives alone, daughter nearby
+Exercise: Limited 2/2 dyspnea
+
+=== PHYSICIAN PROGRESS NOTE ===
+CC: f/u after recent ED visit for COPD exacerbation, now several days out from discharge.
+
+HPI: 78 yo F with hx AFib, T2DM, osteoporosis, OA, OSA, PAD presents for pulm f/u after being seen in ED 1 wk ago for acute COPD exac (increased dyspnea, wheeze, productive cough). Was treated w/ nebs, steroid burst (prednisone taper), and abx (azithromycin) in ED, discharged home. Today reports improvement in dyspnea though still c/o mild exertional SOB and occasional cough w/ scant white sputum. Denies fever, chills, hemoptysis, chest pain. Uses home O2 PRN with exertion per prior recs. Sleeping w/ CPAP nightly for OSA, tolerates well. No new leg claudication symptoms attributable to PAD currently.
+
+Gwendolyn Thompson (DOB 2/12/1946) is a 78-year-old woman with a 26 pack-year smoking history; she quit smoking in 2011. She has not smoked since that time and denies any current tobacco use, including vaping or e-cigarettes. General discussion of lung cancer screening topics occurred as part of routine health maintenance counseling.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 9/12/2021 (retained in chart, not updated) ---
+"Pulmonary Clinic Note 9/12/2021 - Dr. R. Alvarez
+CC: Routine COPD follow-up.
+HPI: 75 yo F with COPD, AFib, T2DM here for routine f/u. Reports stable dyspnea on exertion, uses albuterol inhaler PRN. Denies acute distress. Smoking status: former smoker (no active tobacco use). Continues on tiotropium daily. Vitals stable. Lungs w/ mild expiratory wheeze bilat. Plan: continue current inhalers, f/u in 6 months, pulm function tests to be scheduled."
+[End of copied text]
+
+ROS: Constitutional: denies fever, chills, unintentional weight loss. Resp: + mild dyspnea on exertion, + occasional cough, denies hemoptysis. CV: + known AFib, denies palpitations today, denies chest pain. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, frequency. MSK: chronic OA-related joint pain, stable, denies new falls. Endocrine: T2DM, reports home glucose readings mostly 110-160. Neuro: denies HA, dizziness, focal weakness. Skin: no rashes. Psych: denies depression, anxiety. All other systems reviewed and negative.
+
+Physical Exam:
+General: Elderly woman, NAD, appears stated age, sitting comfortably.
+HEENT: NC/AT, PERRLA, oropharynx clear, no cyanosis.
+Neck: No JVD, no LAD, no thyromegaly.
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated. No peripheral edema.
+Resp: Mild expiratory wheeze bilaterally, prolonged expiratory phase, no crackles, no accessory muscle use at rest.
+Abd: Soft, NT/ND, +BS, no masses.
+Extremities: Diminished distal pulses bilat LE (known PAD), no ulcers, no acute skin changes. Skin warm, no cyanosis.
+MSK: Mild crepitus bilat knees, no acute joint swelling.
+Neuro: A&O x3, CN II-XII grossly intact, gait steady with cane.
+Psych: Mood euthymic, affect appropriate.
+
+Medications:
+1. Apixaban 5 mg PO BID (AFib)
+2. Metformin 500 mg PO BID (T2DM)
+3. Empagliflozin 10 mg daily
+4. Alendronate 70 mg PO weekly (osteoporosis)
+5. Calcium/Vitamin D supplement daily
+6. Tiotropium inhaler daily
+7. Albuterol MDI PRN
+8. Fluticasone/salmeterol combo inhaler BID
+9. Atorvastatin 20 mg daily
+10. Cilostazol 100 mg BID (PAD)
+11. Acetaminophen PRN for OA pain
+12. Prednisone taper (continuing from ED d/c, last few days)
+13. Azithromycin (completing 5-day course from ED)
+
+Labs/Imaging: CBC, BMP, and CXR from ED visit reviewed - CXR showed hyperinflation c/w COPD, no acute infiltrate. BMP unremarkable, glucose slightly elevated at 178.
+
+Assessment/Plan:
+1. COPD exacerbation, improving post-ED tx. Continue current inhaler regimen, finish steroid taper and abx course. F/u PFTs in 4-6 wks once stable.
+2. AFib - continue apixaban, HR reasonably controlled, no acute changes.
+3. T2DM - continue current regimen, recheck A1c at next visit.
+4. Osteoporosis - continue alendronate/calcium/vit D, DEXA due in 1 yr.
+5. OA - continue acetaminophen PRN, consider PT referral if worsening.
+6. OSA - continues CPAP, tolerating well, no changes.
+7. PAD - stable, continue cilostazol, monitor for claudication symptoms.
+8. Tobacco history reviewed with patient; she remains a nonsmoker since quitting.
+9. RTC in 4 weeks or sooner if symptoms worsen.
+
+Patient verbalizes understanding of plan, all questions answered. Encouraged to call clinic w/ any worsening dyspnea, fever, or chest pain.
+
+--Hannah Weiss, NP

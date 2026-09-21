@@ -1,0 +1,75 @@
+Internal Medicine Clinic Note
+
+Patient: YOUNG, Paul    MRN: 85405331
+DOB: 10/22/1956    Age: 69 y.o.    Sex: Male
+Date of Service: 01/20/2026    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Paul Young is a 69 y.o. male who presents for an annual physical.
+He has no history of tobacco use. Doing well; here for routine preventive care. Walks 30 minutes most days. Diet is 'mostly healthy'.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity
+• Osteoarthritis of knees
+• Hypercholesterolemia
+• Type 2 diabetes
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (1999)
+• Right total knee arthroplasty
+• Vasectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• semaglutide 0.5 mg weekly
+• diclofenac 1% gel QID PRN
+• pravastatin 40 mg nightly
+• metformin 1000 mg BID
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Social History Narrative
+  Widowed; lives with son.
+  Retired, former office manager.
+  Social drinker.
+  No illicit drug use.
+
+Family History
+Son - type 1 diabetes. Mother - CHF, d. age 88.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 120/62 (BP Location: Left arm, Patient Position: Sitting) | Pulse 87 | Temp 97.7 °F (Oral) | Resp 12 | Ht 5' 7" | Wt 195 lb | SpO2 100% | BMI 30.46 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (December 20, 2025): A1c 8.8%, LDL 88, Cr 1.09, K 4.2
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2025 - 2 tubular adenomas, repeat 5 yrs; Shingrix #1 today; Flu shot today; LCS: N/A - never smoker.
+2. Class I obesity
+   Discussed diet and exercise.
+
+RTC 6 months.
+
+Electronically signed by Farah Siddiqui, MD on 01/20/2026

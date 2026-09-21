@@ -1,0 +1,76 @@
+Hospital Discharge Follow-Up — History and Physical
+Patient: Sandra Wright | DOB: 02/09/1946 (Age: 77 y/o F) | DOS: 08/10/2023
+Author: Teresa Alvarez, NP, Primary Care
+
+CHIEF COMPLAINT: F/u s/p hospitalization for pneumonia, discharged 08/06/2023.
+
+HPI: Ms. Wright is a 77 y/o female with h/o asthma, depression, GERD, obesity, and BPH (in this case relevant to family hx only, patient herself has no BPH sx as female — note carried over from template, disregard) who presents for f/u after recent admission for community-acquired pneumonia. She reports improving cough, decreased dyspnea, no fevers x 3 days. She is a former smoker, having quit in 2003; smoking hx notable per chart review for a 39-year duration of tobacco use prior to cessation. Denies current tobacco, vaping, or illicit drug use. Uses albuterol PRN for wheeze, reports slightly increased use during recent illness but now back to baseline. No chest pain, no hemoptysis, mild fatigue persists. Appetite improving. Denies GI upset today though has chronic GERD sx managed w/ PPI.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco: Former smoker; quit 2003; duration of use 39 years; pack-years: Not on file
+Alcohol: Denies
+Illicit drugs: Denies
+Occupation: Retired (former seamstress)
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+PMH: Asthma, depression, GERD, obesity, BPH (per problem list, likely copy-forward error as pt is female; flagged for review).
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN wheeze
+2. Fluticasone/salmeterol 250/50 1 puff BID
+3. Omeprazole 20 mg daily
+4. Sertraline 100 mg daily
+5. Amoxicillin-clavulanate 875/125 mg BID x7 days (started at discharge, day 5 of 7)
+6. Multivitamin daily
+7. Vitamin D3 2000 IU daily
+8. Docusate sodium 100 mg BID PRN constipation
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: + fatigue, denies fever, chills, night sweats
+HEENT: Denies sore throat, denies nasal congestion
+Cardiovascular: Denies chest pain, denies palpitations, denies edema
+Respiratory: + mild residual cough, denies hemoptysis, denies current SOB at rest
+GI: Denies nausea, vomiting, diarrhea; reports occasional heartburn, baseline
+GU: Denies dysuria, denies hematuria, denies urinary frequency
+Musculoskeletal: Denies myalgias, denies arthralgias
+Neuro: Denies headache, denies dizziness, denies focal weakness
+Psych: Reports mood stable on current regimen, denies SI/HI
+Skin: Denies rash, denies new lesions
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 78, BP 132/78, RR 16, SpO2 96% RA, Wt 182 lb, BMI 33.4
+General: Well-appearing, NAD, comfortable
+HEENT: NCAT, PERRLA, oropharynx clear
+Neck: Supple, no JVD, no LAD
+Cardiovascular: RRR, no murmurs/gallops/rubs
+Respiratory: Mild bibasilar crackles, improved from discharge exam, no wheezing appreciated today, no accessory muscle use
+Abdomen: Soft, obese habitus, non-tender, non-distended, +BS
+Extremities: No edema, no cyanosis, no clubbing
+Skin: Warm, dry, intact
+Neuro: A&Ox3, no focal deficits
+Psych: Mood/affect appropriate, cooperative
+
+LABS/RESULTS:
+CBC (08/06/2023): WBC 11.8 (H), Hgb 12.1, Hct 37.0, Plt 245
+CBC (08/10/2023, repeat today): WBC 8.2 (WNL), Hgb 12.4, Hct 37.9, Plt 260
+BMP (08/10/2023): Na 138, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 104
+CXR (08/06/2023): RLL infiltrate consistent w/ pneumonia
+CXR (08/10/2023, today): Improving RLL infiltrate, no effusion
+
+ASSESSMENT/PLAN:
+1. Community-acquired pneumonia, resolving — continue amoxicillin-clavulanate to complete 7-day course, repeat CXR shows improvement, WBC normalized. Return precautions reviewed.
+2. Asthma — well controlled currently, continue fluticasone/salmeterol and PRN albuterol, reviewed inhaler technique.
+3. Tobacco use, former — patient quit smoking in 2003 after a 39-year smoking history; reinforced importance of continued abstinence. Lung cancer screening was discussed with the patient in general terms given her age and smoking history; no imaging ordered today as part of this discussion.
+4. Depression — stable on sertraline, continue current dose, screened today with PHQ-9 (score 4, minimal).
+5. GERD — stable on omeprazole, continue, reinforced dietary modifications.
+6. Obesity — discussed weight management, counseled on diet/exercise, referral to nutrition offered.
+7. BPH — per chart, though patient is female; flagged in problem list for correction, no action needed today.
+
+F/u in 2 weeks or sooner if worsening symptoms. Pt verbalized understanding of plan.
+
+Electronically signed: Teresa Alvarez, NP

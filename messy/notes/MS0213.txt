@@ -1,0 +1,41 @@
+CARDIOLOGY RESIDENT NOTE
+DOS: 11/02/2024
+Author: Priya Raman, MD (resident); attending attestation below
+
+Patient: Brenda Chen, F, DOB 6/18/1973 (age 51)
+
+CC: chest pain eval
+
+HPI: 51 yo F w/ hx GERD, CKD stage 3, PAD, asthma, CAD, obesity p/w intermittent substernal chest discomfort x 3 days, non-exertional at times, some assoc w/ reflux sx. Denies SOB at rest, no radiation to jaw. Reports similar episodes in past attributed to GERD flares. No fevers/chills. Meds reviewed, adherence ok per pt. Pt states she quit smoking back in 1994 and has not resumed since, though this was clarified later on further hx-taking (see addendum).
+
+ROS: otherwise negative except as above.
+
+PMH: GERD, CKD3, PAD, asthma, CAD, obesity
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco: Former smoker
+  - Type: cigarettes
+  - Pack-years: Not on file
+  - Comment: pt describes self as a 'social smoker' for many years
+  - Quit date: 1994
+Alcohol: Former use, quit 2003
+Drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+Exam: BP 138/86, HR 78, RR 16, SpO2 97% RA. Gen: NAD. CV: RRR no m/r/g. Lungs: mild exp wheeze b/l, no crackles. Abd: soft, mild epigastric tenderness. Ext: no edema, PAD-related decreased pedal pulses noted bilat, chronic.
+
+Labs: troponin neg x1, BMP notable for Cr 1.6 (baseline per CKD3), K 4.2. EKG NSR no acute ST changes.
+
+Assessment/Plan:
+1. Chest pain - likely GERD-related given hx, low risk per HEART score, will trend troponins, consider stress test outpatient if sx recur. Given CAD hx will continue home aspirin/statin.
+2. Tobacco - pt is a former smoker, quit 1994; counseled on continued abstinence and cardiovascular benefit. Screening for lung ca was discussed in general terms.
+3. GERD - continue PPI, dietary counseling given.
+4. CKD3 - stable, monitor Cr.
+5. PAD - continue antiplatelet, f/u vascular surgery per prior plan.
+6. Asthma - well controlled, continue inhalers.
+7. Obesity - counseled diet/exercise.
+
+Attending attestation: Seen and discussed with resident Dr Raman, agree w plan as above. - Attending Cardiology
+
+ADDENDUM (later same day, 11/02/2024, added by Dr Raman): Pt clarified on callback that she has not smoked since 1994 confirming former smoker status; she reiterated she was more of a 'social smoker' for many years prior to quitting, no additional details provided. No change to plan.

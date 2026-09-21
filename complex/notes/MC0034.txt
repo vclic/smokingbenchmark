@@ -1,0 +1,81 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 09/03/2023
+Author: Priya Raman, MD
+Patient: Joyce Lee, F, DOB 09/03/1945 (age 78)
+
+CHIEF COMPLAINT: Shared decision-making visit regarding lung cancer screening.
+
+HPI: Ms. Lee is a 78-year-old female (DOB 9/3/1945) who presents today, 09/03/2023, for discussion of lung cancer screening options given her smoking history. She has a 27 pack-year smoking history and, despite prior counseling on cessation, she continues to smoke despite counseling today reiterated the risks and benefits of screening. She reports mild exertional dyspnea which she attributes to her weight and sleep apnea, denies hemoptysis, denies chest pain, denies unexplained weight loss. She uses her CPAP machine most nights, compliance imperfect per device download (see below, copied forward). No new cough. No fevers or night sweats. She lives alone, ambulates with a cane for OA knee pain.
+
+----- COPIED FORWARD FROM VISIT 03/14/2022 -----
+PATIENT reports doing well overall, sleep study reviewed, AHI improved on CPAP at pressure of 10 cm H2O, mask leak minimal, she is using device average 5.2 hrs/night per download from 02/2022 clinic visit, will encourage increased compliance to goal >4hrs/night 70% of nights. Weight stable at that time, BMI 34. TSH checked 01/2022 was 3.1 on levothyroxine 75mcg daily, dose unchanged. Blood pressure at that visit 138/82, on lisinopril 20mg daily. Renal function stable, eGFR 52 at that time, CKD stage 3, avoid nephrotoxic agents. Osteoarthritis of bilateral knees, managed with acetaminophen and PT, discussed weight loss for joint offloading. Continue home O2 sat monitoring PRN. Follow up in pulm clinic in 12 months or sooner if symptoms worsen. [Signed, prior note author, do not delete per EHR migration]
+----- END COPIED FORWARD -----
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss, reports fatigue at baseline.
+HEENT: denies sore throat, denies nasal congestion, wears glasses.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, reports occasional ankle swelling.
+Respiratory: reports mild exertional dyspnea as above, denies wheeze, denies hemoptysis, denies pleuritic pain.
+GI: denies nausea, denies vomiting, denies abdominal pain, reports occasional constipation.
+GU: denies dysuria, denies hematuria, reports nocturia x1.
+Musculoskeletal: reports bilateral knee pain, chronic, denies acute injury.
+Skin: denies rash, denies lesions.
+Neuro: denies headache, denies dizziness, denies focal weakness.
+Psych: denies depression, denies anxiety, sleep affected by nocturia.
+All other systems reviewed and are negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 142/84, HR 78, RR 16, Temp 98.2F, SpO2 95% on room air, Wt 198 lb, BMI 33.9
+General: obese female, no acute distress, well-groomed, in no respiratory distress at rest.
+HEENT: normocephalic, atraumatic, oropharynx clear, no thyromegaly appreciated.
+Neck: no jugular venous distension, no lymphadenopathy.
+Cardiovascular: regular rate and rhythm, no murmurs, rubs or gallops, trace bilateral lower extremity edema.
+Respiratory: mildly diminished breath sounds bilaterally at bases, no wheezes, no rales, no rhonchi, chest wall symmetric.
+Abdomen: obese, soft, non-tender, non-distended, normal bowel sounds.
+Extremities: trace edema bilateral ankles, bilateral knee crepitus with range of motion, no acute joint swelling.
+Skin: warm, dry, intact, no rashes.
+Neuro: alert and oriented x3, grossly non-focal.
+
+PROBLEM LIST:
+1. Obstructive sleep apnea (G47.33) - on CPAP, compliance suboptimal
+2. Obesity (E66.9) - BMI 33.9
+3. Hypothyroidism (E03.9) - on levothyroxine
+4. Essential hypertension (I10) - on lisinopril
+5. Osteoarthritis, unspecified site (M19.90) - bilateral knees primarily
+6. Chronic kidney disease, stage 3 (N18.3) - last eGFR 52 (outdated, recheck pending)
+7. Tobacco use disorder (Z72.0) - active smoker, counseled
+8. History of GERD (K21.9) - resolved per patient report, listed for continuity, may be outdated
+
+LABS/RESULTS:
+- CBC (08/28/2023): WBC 6.8, Hgb 12.9, Hct 39.1, Plt 245
+- BMP (08/28/2023): Na 139, K 4.3, Cl 102, CO2 24, BUN 22, Creatinine 1.4, eGFR 45
+- TSH (07/15/2023): 2.8 (levothyroxine dose unchanged)
+- Lipid panel (07/15/2023): Total chol 188, LDL 102, HDL 52, Trig 170
+- Prior chest imaging: none on file in this system, patient reports outside films done '[inaudible]' years ago, records requested
+
+MEDICATIONS:
+1. Levothyroxine 75mcg PO daily
+2. Lisinopril 20mg PO daily
+3. Amlodipine 5mg PO daily
+4. Acetaminophen 650mg PO PRN knee pain
+5. Meloxicam 7.5mg PO daily PRN
+6. Vitamin D3 2000 units PO daily
+7. Calcium carbonate 500mg PO BID
+8. Melatonin 3mg PO qHS PRN
+9. Multivitamin PO daily
+
+ASSESSMENT AND PLAN:
+Ms. Lee is a 78-year-old woman here today, 09/03/2023, for shared decision-making regarding lung cancer screening in the setting of her 27 pack-year smoking history. She continues to smoke despite counseling, and we again discussed cessation resources including nicotine replacement therapy and referral to the quitline, she [inaudible] verbalized understanding but declined pharmacotherapy today. Risks and benefits of low-dose CT-based screening were discussed at length including false positives, incidental findings, and radiation exposure, decision aid reviewed with patient, she will think it over and discuss with family before deciding.
+
+1. Tobacco use disorder - continued counseling provided, discussed cessation aids, patient declined at this time, will readdress next visit.
+2. Lung cancer screening discussion - shared decision-making completed today, patient to follow up with decision.
+3. OSA - continue CPAP, encourage compliance, consider repeat sleep study if symptoms worsen.
+4. Obesity - discussed diet and exercise, referral to nutrition considered.
+5. Hypothyroidism - stable, continue current dose, recheck TSH in 6 months.
+6. Hypertension - reasonably controlled, continue current regimen, recheck BP at next visit.
+7. Osteoarthritis - continue current management, PT referral offered.
+8. CKD stage 3 - stable, avoid nephrotoxic agents including NSAIDs long-term, will recheck renal panel in 3 months.
+
+Follow up in pulmonology clinic in 6 months or sooner as needed. Patient verbalized understanding of plan and agreed with above.
+
+Electronically signed: Priya Raman, MD

@@ -1,0 +1,37 @@
+NURSE INTAKE
+DOS: 10/04/2025
+Pt: Cheryl Price, F, age 58 (DOB 8/9/1967)
+CC: chest pain x 2 days, intermittent, non-exertional at times
+VS: BP 148/92, HR 88, RR 16, T 98.4F, SpO2 98% RA, Wt 172 lb
+Allergies: NKDA
+PMH: HTN, depression
+Meds: lisinopril 20mg qd, sertraline 100mg qd, ASA 81mg qd, atorvastatin 40mg qhs
+
+PHYSICIAN PROGRESS NOTE - Michael Dunn, DO
+
+HPI: 58 yo F w/ hx HTN, depression presents for eval of chest pain. Pt states "it feels like a tight band across my chest, comes and goes." Denies radiation to arm currently but had one episode yesterday that felt like it went into her jaw. No SOB at rest, mild dyspnea w/ exertion per pt: "I get winded walking up the stairs now." Denies palpitations, syncope, N/V. Reports increased stress at home, mood "okay, not great."
+Smoking hx obtained in detail: pt smoked approx 1/2 pack (about 10 cigarettes) per day for 16 years, then quit completely for 2 years, then restarted at approx 1/4 pack (about 5 cigarettes) per day for 23 years and continues to smoke to this day. She states "I know I should quit but I'm just not there yet." Denies illicit drug use, occasional EtOH (1-2 glasses wine/wk).
+
+ROS: Constitutional - no fever/chills, no wt loss. HEENT - no vision changes, no HA. CV - + CP as above, no palpitations. Resp - no cough, mild DOE as noted. GI - no N/V/D, no abd pain. GU - no dysuria. MSK - no joint pain. Neuro - no focal weakness, no numbness. Psych - reports mood fluctuations, denies SI/HI. Skin - no rashes. Endo - no polyuria/polydipsia. Heme - no easy bruising. All other systems reviewed and negative per pt report.
+
+PE: Gen - NAD, alert, cooperative. HEENT - PERRL, EOMI, oropharynx clear. Neck - no JVD, no carotid bruits. CV - RRR, no m/r/g, no peripheral edema. Lungs - CTAB, no wheeze/rales/rhonchi. Abd - soft, NT/ND, +BS. Ext - no clubbing/cyanosis/edema. Neuro - CN II-XII grossly intact, no focal deficits. Skin - warm, dry, intact.
+
+Labs/Results (this visit, 10/04/2025):
+Troponin I: 0.02 ng/mL (nl <0.04) - negative x1
+BMP: Na 139, K 4.1, Cl 101, CO2 24, BUN 16, Cr 0.9, Glu 102
+Lipid panel (fasting, drawn 10/04/2025): Total chol 210, LDL 128, HDL 42, Trig 200
+EKG 10/04/2025: NSR, no acute ST changes, rate 84
+CXR 10/04/2025: no acute cardiopulmonary process
+
+Assessment: 58F w/ HTN, depression, presenting w/ atypical chest pain, initial troponin negative, EKG unremarkable. Given ongoing tobacco use (still smokes, not ready to quit at this time despite counseling offered today), will pursue further risk stratification.
+
+Plan:
+1. Serial troponins, repeat EKG in AM per protocol
+2. Cardiology consult already obtained (this visit)
+3. Continue home meds; consider stress test as outpatient if serial troponins negative
+4. Tobacco use: discussed cessation resources, nicotine patch, counseling; pt not ready to quit currently, will revisit at next visit
+5. Optimize BP control - consider adjusting lisinopril if BP remains elevated
+6. Continue sertraline for depression, follow up w/ PCP
+7. F/u in clinic 2 wks or sooner if sx worsen
+
+Electronically signed: Michael Dunn, DO

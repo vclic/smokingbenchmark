@@ -1,0 +1,56 @@
+Cardiology Progress Note – Nurse Practitioner
+Author: Steven Park, MD
+Date of Service: 06/03/2023
+Patient: Donna Martinez, DOB 3/8/1958 (age 65)
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Martinez is a 65-year-old female with hx of gout, OSA, asthma, T2DM, and PAD who presents today for evaluation of intermittent chest pain over the past 2 weeks. She describes it as "a tight squeezing feeling right in the middle of my chest, like someone's sitting on me." Pain occurs with exertion, particularly climbing stairs, and resolves with rest within 5-10 minutes. She denies radiation to arm/jaw but endorses associated mild dyspnea. She states, "I get short of breath faster than I used to, even with my inhaler." No syncope, no diaphoresis reported. She has been using her albuterol inhaler more frequently this week.
+
+*** COPIED FORWARD FROM VISIT 11/14/2022 ***
+Patient here for routine PAD follow-up. Reports stable claudication symptoms, denies rest pain or non-healing wounds. Ankle-brachial index last checked 0.72 on right, 0.78 on left. Continues on clopidogrel and cilostazol. Gout well controlled on allopurinol, last flare 8 months ago. OSA on CPAP therapy, reports good adherence, AHI on last titration study 4.2. Asthma stable, uses albuterol PRN, no ICS currently. A1c 7.8% on metformin and glipizide. Denies any new symptoms. Plan: continue current meds, follow up in 6 months, recheck ABI at next visit.
+*** END COPIED FORWARD TEXT ***
+
+Review of systems otherwise negative for fever, cough, edema, or PND.
+
+SOCIAL HISTORY:
+TOBACCO USE [EHR TEMPLATE]:
+- Cigarette smoking status: Former smoker
+- Smoking history detail: Patient reports smoking approximately half a pack (about 10 cigarettes) per day for 15 years, then increased to 1 pack per day for 17 years, prior to cessation.
+- Quit date/duration: Quit smoking 7 years ago
+- Current use: None
+- Secondhand smoke exposure: Denies
+Alcohol: Occasional glass of wine, denies excess use.
+Illicit drug use: Denies.
+Lives with: Spouse. Occupation: Retired administrative assistant.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 96% on RA, Temp 98.4F, BMI 29.4
+General: Alert, no acute distress
+CV: Regular rate and rhythm, no murmurs/rubs/gallops, no JVD
+Pulm: Mild expiratory wheeze bilaterally, no crackles
+Extremities: Diminished dorsalis pedis pulses bilaterally, no edema, no ulcers
+Skin: No cyanosis
+
+LABS/DATA REVIEWED:
+EKG today: NSR, no acute ST-T changes, nonspecific T wave flattening in inferior leads.
+Troponin pending.
+Lipid panel from last visit: LDL 118, HDL 42, TG 165.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely angina equivalent given exertional pattern and history of PAD (marker for atherosclerotic burden) and former smoking history (former smoker, quit 7 years ago per social history). Will obtain troponin, repeat EKG, and schedule stress echocardiogram. Continue aspirin, consider starting statin given LDL elevation.
+2. Peripheral artery disease - continue clopidogrel and cilostazol, recheck ABI as previously planned.
+3. Asthma - mild exacerbation possibly related to exertion/anxiety; continue albuterol PRN, consider adding low-dose ICS if symptoms persist.
+4. Type 2 diabetes - continue metformin/glipizide, recheck A1c in 3 months.
+5. OSA - continue CPAP, encourage adherence.
+6. Gout - stable on allopurinol, no changes.
+7. Given her longstanding smoking history noted in social history above and age, lung cancer screening was discussed with patient; she will consider and follow up with primary care regarding this.
+8. Counseled patient on cardiac risk factor modification including diet, exercise as tolerated, and importance of continued tobacco abstinence.
+
+Return to clinic after stress echo results, sooner if symptoms worsen. Patient verbalized understanding.
+
+Steven Park, MD
+
+--- ADDENDUM (later same day, 06/03/2023, 4:15 PM) ---
+Troponin resulted at 0.02 (within normal limits). Discussed results with patient by phone; she reports no worsening symptoms since visit this morning. Advised to proceed with scheduled stress echocardiogram as planned and to go to ED immediately if chest pain worsens or becomes prolonged. No changes to plan otherwise.
+Steven Park, MD

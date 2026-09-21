@@ -1,0 +1,58 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Dale Walker (M) DOB 4/9/1957
+Date of Service: 04/09/2024
+Author: Laura Castellano, FNP-C
+Attending: Dr. R. Simmons (attestation at end)
+
+CC: Lung cancer screening shared decision-making visit, Pulmonology.
+
+HPI: Mr Walker is a 67 year old male here today for discussion of lung cancer screening options given his extensive tobacco history and cardiovascular comorbidities. He reports no new cough, hemoptysis, or unexplained weight loss. He does note some exertional dyspnea which he attributes to his known HFrEF, stable per his cardiologist. He denies fevers or chest pain at rest. Sleeps with CPAP most nights per wife although admits inconsistent use recently.
+
+Smoking history obtained in detail during visit: patient reports smoking history in three distinct stretches — 1 pack per day for 15 years, followed by 2 packs per day for 20 years, and then 1.5 packs per day for the past 15 years, which is his current level. He currently smokes cigarettes daily and has not attempted to quit in the past year despite prior counseling. Advised to quit at every visit, discussed nicotine replacement options and referred to tobacco cessation counseling line again today.
+
+[COPIED FORWARD FROM PRIOR NOTE DATED 11/14/2022 - PULM CLINIC VISIT]
+Pt seen for followup of COPD/tobacco use, reports stable dyspnea on exertion, no hemoptysis, no fevers, uses albuterol prn with good relief, continues on home O2 prn exertion only per prior sleep study recs, CPAP compliance poor per download at last visit, will readdress at sleep med f/u, pt educated regarding importance of tobacco cessation and offered varenicline which he declined at that time due to GI side effects with prior trial, will continue to offer alternatives, PFTs from 2021 reviewed showing moderate obstruction, pt aware of results, follow up in 6 months or sooner if worsening sx, continue current inhalers, RTC prn.
+[END COPIED TEXT]
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Resp - denies hemoptysis, occasional morning cough productive of clear sputum. CV - denies chest pain, has known PAD with claudication on exertion, stable. GI/GU - noncontributory. Neuro - no focal deficits.
+
+PMH/Problem List:
+- I50.22 Chronic systolic (congestive) heart failure, reduced EF
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- I73.9 Peripheral artery disease, unspecified
+- J44.9 COPD, unspecified (dx 2019, outdated entry - not addressed today)
+- F17.210 Nicotine dependence, cigarettes, uncomplicated
+
+Meds: Furosemide 40mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Atorvastatin 40mg daily, Clopidogrel 75mg daily, Albuterol HFA prn.
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 94% RA, Wt 198 lb
+Gen: NAD, well nourished male in no acute distress
+CV: RRR, no murmurs, trace bilateral LE edema
+Resp: mild expiratory wheeze bilat bases, no crackles
+Ext: diminished pedal pulses bilaterally, no ulcers noted today
+Skin: warm, dry
+
+Labs/Results:
+- BNP (03/28/2024): 210 pg/mL (mildly elevated)
+- Cr (03/28/2024): 1.1 mg/dL
+- HbA1c (01/15/2024): 5.8%
+- Chest X-ray (03/15/2024): no acute infiltrate, mild hyperinflation, stable compared to prior
+- Spirometry (11/2021, copied forward): FEV1/FVC 62%, consistent w moderate obstruction
+
+Assessment/Plan:
+67 yo male w/ significant tobacco use, HFrEF, OSA, HTN, PAD presenting for lung cancer screening SDM visit.
+1. Tobacco use - continues to smoke cigarettes; discussed risks/benefits of screening at length, options for cessation reviewed including counseling and pharmacotherapy, pt to consider and follow up. Low-dose CT screening discussed as an option; decision deferred pending further discussion with patient regarding personal preferences.
+2. HFrEF - stable, continue current regimen, f/u cardiology per their schedule.
+3. OSA - poor CPAP compliance noted, refer back to sleep medicine for re-education and possible pressure adjustment.
+4. HTN - well controlled today, continue current meds.
+5. PAD - stable claudication sx, continue clopidogrel and statin, ABI if worsening.
+6. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Time spent in visit: 30 minutes, more than half spent in counseling/coordination of care.
+
+---
+ATTESTATION: I have personally examined the patient and reviewed/discussed the above note with resident/NP Castellano. I concur with the assessment and plan as documented above. - Dr R Simmons, Attending Pulmonology, 04/09/2024

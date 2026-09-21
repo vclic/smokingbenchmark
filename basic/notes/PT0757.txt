@@ -1,0 +1,92 @@
+Primary Care Office Visit
+
+Patient: MARTIN, George    MRN: 40209388
+DOB: 03/05/1969    Age: 54 y.o.    Sex: Male
+Date of Service: 10/02/2023    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up hypertension
+
+Subjective:
+George Martin is a 54 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/80s. Reports good adherence to losartan 50 mg daily. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes	2010
+• Hypercholesterolemia
+• Coronary artery disease
+• Essential hypertension
+• Heart failure with reduced ejection fraction	2020
+• Benign prostatic hyperplasia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 1000 mg BID
+• carvedilol 12.5 mg BID
+• losartan 50 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• furosemide 40 mg daily
+• aspirin 81 mg daily
+• sacubitril-valsartan 49/51 mg BID
+• rosuvastatin 10 mg daily
+• metoprolol succinate 25 mg daily
+• multivitamin daily
+• tamsulosin 0.4 mg nightly
+• insulin glargine 20 units nightly
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 2ppd; quit Jan 2015
+Social History Narrative
+  Married, lives with wife.
+  Works as an electrician.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Sister - hypothyroidism. Father - colon cancer at 68.
+
+Review of Systems
+ROS: Resp neg, MSK neg, CV neg, GU neg, Gen neg, Skin neg, Neuro neg, GI neg
+
+Objective:
+Vitals:
+  BP 156/77 (BP Location: Left arm, Patient Position: Sitting) | Pulse 65 | Temp 97.6 °F (Oral) | Resp 16 | Ht 5' 11" | Wt 155 lb | SpO2 98% | BMI 21.65 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase losartan dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Type 2 diabetes
+   UACR ordered.
+3. Hypercholesterolemia
+   LDL at goal on last check; continue.
+4. Coronary artery disease
+   Stable. Continue secondary prevention.
+5. Personal history of nicotine dependence
+   No relapse.
+
+f/u 6 mo
+
+Electronically signed by Kevin Osei, MD on 10/02/2023

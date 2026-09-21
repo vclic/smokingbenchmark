@@ -1,0 +1,104 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Primary Care - New Patient Visit to Establish Care
+Date of Service: 02/07/2023
+Author: Steven Park, MD (Resident), attestation by attending below
+
+PATIENT: Barbara Jenkins
+DOB: 02/07/1950 (Age 73, today is her birthday per patient)
+Sex: F
+
+CC: "I just need someone to take over my care, my last doctor retired."
+
+HPI:
+Ms. Jenkins is a 73-year-old woman (DOB 2/7/1950) presenting to establish care with PCP. She has a history of type 2 diabetes, hyperlipidemia, depression, hypothyroidism, COPD, and GERD, all previously managed by outside provider whose practice closed. Pt brings a folder of old records, somewhat disorganized. States "I've been pretty stable, just need refills and someone to keep an eye on things." Denies acute complaints today. No chest pain, no shortness of breath at rest, occasional exertional dyspnea which she attributes to "getting older" and her COPD. Reports occasional GERD symptoms after spicy food, controlled with OTC antacids. Mood reportedly stable on current antidepressant, denies SI/HI.
+
+Regarding tobacco use, extensive history obtained: patient reports she smoked 2 packs per day for 31 years, then stopped completely for 4 years, after which she restarted smoking at a rate of 1 pack per day for 20 years and continues to smoke to this day. She states, "I know I should quit, I've tried before, it's just hard." The patient continues to smoke despite counseling regarding cessation, health risks, and available resources including nicotine replacement therapy and referral to a quitline; she was encouraged again today.
+
+Regarding alcohol, pt reports she quit drinking alcohol in 2015 and has not resumed since. Denies current alcohol use, denies illicit drug use.
+
+PAST MEDICAL HISTORY:
+1. Type 2 diabetes mellitus
+2. Hyperlipidemia
+3. Major depressive disorder
+4. Hypothyroidism
+5. COPD
+6. GERD
+7. s/p appendectomy (per pt, age unknown)
+
+PROBLEM LIST (ICD-10):
+E11.9 - Type 2 diabetes mellitus without complications
+E78.5 - Hyperlipidemia, unspecified
+F32.9 - Major depressive disorder, unspecified (note: pt reports this may be outdated, thinks it's more "recurrent" now, prior chart not available for verification)
+E03.9 - Hypothyroidism, unspecified
+J44.9 - Chronic obstructive pulmonary disease, unspecified
+K21.9 - GERD without esophagitis
+Z87.891 - Personal history of nicotine dependence (patient states this is inaccurate as she is a current smoker, not history of)
+I10 - Essential hypertension (copied forward from old chart, patient denies history of HTN, BP well controlled today, may be error, will verify)
+
+MEDICATIONS (per patient report, reconciliation pending old records):
+1. Metformin 1000 mg PO BID
+2. Atorvastatin 40 mg PO QHS
+3. Levothyroxine 75 mcg PO daily
+4. Sertraline 100 mg PO daily
+5. Albuterol HFA inhaler PRN
+6. Tiotropium inhaler daily
+7. Omeprazole 20 mg PO daily
+8. Aspirin 81 mg PO daily
+9. Vitamin D3 1000 IU daily
+10. Multivitamin daily
+11. Calcium carbonate PRN
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Lives alone in single-story home, widowed x 8 years. Two adult children live nearby, supportive. Retired postal worker. Tobacco: as above, current smoker. Alcohol: quit in 2015, none since. Illicit drugs: denies. Caffeine: 1-2 cups coffee/day. Diet: reports "trying to eat better" but admits to frequent fast food. Exercise: minimal, limited by dyspnea on exertion. Lives with cat.
+
+FAMILY HISTORY: Mother - diabetes, deceased age 81. Father - MI, deceased age 70. Sister - breast cancer, living. No family history of lung cancer reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, fatigue reported as mild.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies hearing loss, denies sore throat, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, denies lower extremity edema.
+Respiratory: Endorses chronic cough, endorses occasional wheeze, denies hemoptysis, denies current acute dyspnea at rest.
+GI: Endorses occasional heartburn, denies nausea, denies vomiting, denies diarrhea, denies constipation, denies blood in stool.
+GU: Denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: Endorses mild chronic low back pain, denies joint swelling.
+Skin: Denies rash, denies new lesions.
+Neurologic: Denies headache, denies dizziness, denies numbness/tingling, denies weakness.
+Psychiatric: Denies SI/HI, mood stable per pt, denies anhedonia currently.
+Endocrine: Denies polyuria, denies polydipsia, denies heat/cold intolerance.
+Heme/Lymph: Denies easy bruising, denies swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78, RR 16, Temp 98.4F, SpO2 95% on RA, Weight 168 lbs, Height 5'4", BMI 28.8
+General: Well-appearing, well-nourished, in no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic. PERRLA. EOMI. Oropharynx clear, no erythema, no exudate. Mucous membranes moist.
+Neck: Supple, no lymphadenopathy, no thyromegaly, no JVD.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops. No peripheral edema. Pulses 2+ bilaterally.
+Respiratory: Mildly diminished breath sounds bilaterally, scattered expiratory wheezes, no crackles, no accessory muscle use, no increased work of breathing.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No cyanosis, no clubbing, no edema. Full range of motion.
+Skin: Warm, dry, intact, no rashes, no lesions.
+Neurologic: Cranial nerves II-XII grossly intact, motor strength 5/5 throughout, sensation intact, gait steady.
+Psychiatric: Mood euthymic, affect appropriate, thought process linear, no acute distress.
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - stable, continue metformin, order HbA1c today, diabetic labs, ophthalmology referral for retinal exam, podiatry referral.
+2. Hyperlipidemia - continue atorvastatin, order fasting lipid panel.
+3. Depression - stable on sertraline, continue current dose, will clarify diagnosis code with old records, PHQ-9 administered today, score reviewed with patient.
+4. Hypothyroidism - continue levothyroxine, order TSH today.
+5. COPD - continue inhalers, discussed smoking cessation extensively as above, patient continues to smoke despite counseling, provided quitline information and discussed nicotine replacement options, will consider pulmonary function testing.
+6. GERD - continue omeprazole, dietary counseling given.
+7. Hypertension - unclear if accurate diagnosis, will verify with prior records, BP well controlled today regardless, will remove from problem list if not substantiated.
+8. Health maintenance: mammogram, colonoscopy, bone density screening discussed and to be scheduled. Immunizations reviewed, influenza and pneumococcal vaccines offered.
+9. Alcohol history: patient quit drinking alcohol in 2015, reinforced positive behavior, no further intervention needed at this time.
+
+Return to clinic in 3 months or sooner as needed. Extensive discussion held with patient regarding all of the above, questions answered, patient verbalized understanding and agreement with plan.
+
+Time spent: 45 minutes, more than half spent in counseling and coordination of care.
+
+---
+ATTESTATION: I have personally seen and evaluated the patient with Dr. Park. I have reviewed and confirm the history, examination, and medical decision-making documented above. I agree with the assessment and plan as written.
+/s/ Attending Physician

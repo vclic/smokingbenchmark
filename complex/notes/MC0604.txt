@@ -1,0 +1,81 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Michael Miller (M), DOB: 1/21/1946 (age 79)
+Date of Service: 12/08/2025
+Visit type: Telehealth, Family Medicine - medication refill visit
+Author: Hannah Weiss, NP
+
+Dear Dr. Colleague,
+
+Thank you for the continued opportunity to co-manage Mr Miller. He was seen today via telehealth for routine follow up and medication refills.
+
+HPI:
+Mr Miller is a 79 year old male with history of hypothyroidism, OSA on CPAP, and COPD who calls in today requesting refills of his home meds. He reports doing reasonably well overall, denies fevers, denies increased sputum production, though he does note some mild increase in shortness of breath with exertion over past few weeks, no chest pain. He continues to use CPAP nightly per report, though compliance data not available today (device not synced). He is due for TSH check, will order labs. He states he ran out of levothyroxine about a week ago and albuterol inhaler is almost empty.
+
+He was recently seen by pulmonology (records pending) for COPD management; per pt he was told his lung function is "about the same" as last year. He continues on tiotropium and albuterol PRN.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Hypothyroidism (E03.9) - on levothyroxine
+2. Obstructive sleep apnea (G47.33) - on CPAP
+3. COPD (J44.9) - on tiotropium, albuterol PRN
+4. Hyperlipidemia (E78.5) - stable, dx 2014, not currently addressed this visit
+5. Osteoarthritis, knee (M17.9) - chronic, stable
+6. s/p appendectomy (Z87.891) - remote, listed for completeness
+
+(Problem list not fully reconciled today, some entries carried forward from prior notes and may be outdated.)
+
+MEDICATIONS:
+- Levothyroxine 75 mcg daily
+- Tiotropium inhaler daily
+- Albuterol MDI PRN
+- Atorvastatin 20mg daily (carried forward, pt unsure if still taking)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Lives alone, widowed, son checks in on him weekly. Denies alcohol use. 
+
+TOBACCO USE (EHR templated block):
+Smoking status: Current every day smoker
+Type: Cigarettes
+Pack-years/history: Patient smoked 2 packs per day for 26 years, then stopped completely for 6 years, then restarted smoking at 1.5 packs per day for 24 years and continues to smoke to present.
+Readiness to quit: Not ready to quit at this time
+Counseling: Advised to quit, benefits of cessation discussed, pt verbalizes understanding but declines referral to quitline today
+
+He was counseled again today regarding ongoing tobacco use and its likely contribution to his COPD symptoms. He states he understands the risks but is not ready to quit at this time and does not wish to discuss cessation aids today.
+
+ROS:
+Constitutional: no fever, no weight loss
+Respiratory: mild increase dyspnea on exertion as above, denies hemoptysis, denies increased cough
+Cardiac: denies chest pain, denies palpitations, denies orthopnea
+ENT: denies sore throat
+GI: denies nausea, denies abd pain
+GU: denies dysuria
+Neuro: denies focal weakness
+All other systems reviewed and negative except as noted above
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, oriented, no acute distress, appears stated age
+Vitals: reported by pt via home BP cuff - BP 138/82, HR 78, unable to obtain O2 sat or temp today
+Respiratory: unable to auscultate via telehealth, pt reports no visible increased work of breathing on camera
+Skin: no rashes noted on camera
+
+ASSESSMENT:
+79 year old male with COPD, OSA, hypothyroidism, presenting for refill visit with mild worsening dyspnea on exertion, ongoing tobacco use, not ready to quit at todays visit. Continues to smoke despite extensive counseling over prior visits.
+
+PLAN:
+1. Hypothyroidism - refill levothyroxine 75mcg daily, order TSH/free T4 to check in 6 wks
+2. OSA - continue CPAP, will request compliance download at next in person visit
+3. COPD - refill tiotropium and albuterol, discussed increase in exertional dyspnea, will consider pulm function testing update, reach out to pulmonology for recent results
+4. Tobacco use - counseled extensively today regarding health risks, pt remains current smoker and is not ready to quit; declines cessation medications/referral at this time; will readdress at next visit
+5. Hyperlipidemia - deferred to next visit, will need lipid panel
+6. F/u telehealth or in person in 4-6 weeks, sooner if worsening symptoms
+
+Thank you again for allowing me to participate in this patients care, please let me know if you have any questions.
+
+Sincerely,
+Hannah Weiss, NP
+
+---
+ADDENDUM (same day, later):
+Pt called back after visit to clarify he is out of his tiotropium as well, not just albuterol as documented above - refill sent to pharmacy of record. Also wanted to note pulmonology records were received this afternoon and reviewed - spirometry from last month shows moderate obstruction, no significant change from prior. Will forward copy to referring physician under separate cover. No other changes to plan above. Pt again reiterated he understands risks of continued smoking but is not ready to quit and prefers not to discuss further today.
+-HW, NP

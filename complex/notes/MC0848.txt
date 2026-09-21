@@ -1,0 +1,67 @@
+GERIATRIC ASSESSMENT - NURSE INTAKE / PHYSICIAN PROGRESS NOTE
+Patient: Paula Lopez
+DOB: 1/7/1969 (age 55)
+Date of Service: 1/7/2024
+Author: Laura Castellano, FNP-C
+
+--- NURSE INTAKE (L. Castellano, FNP-C) ---
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 202 lb, Ht 5'4", BMI 34.7
+Pt here for geriatric assessment, accompanied by daughter. Ambulates independently w/ cane, no falls reported. c/o mild joint pain and occassional SOB w exertion.
+
+PROBLEM LIST (per EHR, some entries not reviewed/updated this visit):
+1. Major depressive disorder - F33.1
+2. Hyperlipidemia - E78.5
+3. Osteoarthritis, unspecified - M19.90
+4. COPD - J44.9
+5. Essential hypertension - I10
+6. Obesity - E66.9
+7. GERD - K21.9 (resolved per pt, chart not updated)
+8. Tobacco use disorder - Z72.0
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Smoking hx: Pt reports smoking half a pack (~10 cigs/day) for 10 yrs, then increased to 2 packs/day for 23 yrs; continues to smoke at 2 ppd currently.
+Smokeless tobacco: Never
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Living situation: Lives w/ daughter
+Occupation: Retired
+Exercise: Sedentary, limited by OA and dyspnea
+
+--- COPIED FORWARD SECTION (from note dated 6/7/2021, unmodified) ---
+[Copied from 6/7/2021 encounter note]: Social history at that time: Tobacco use - current smoker. No further detail documented in that prior note.
+[End copied section]
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 55F w hx depression, HLD, OA, COPD, HTN, obesity presents for geriatric assessment. Reports stable mood on current antidepressant, some increase in knee pain, and chronic cough w occasional wheeze, consistent w known COPD. No hemoptysis, no unexplained weight loss. She continues to smoke cigarettes as above; counseled extensively today regarding smoking cessation given COPD and cardiovascular risk.
+
+During discussion pt states she plans to quit, and a quit date has been set for 2/12/2024. She was given info on nicotine replacement therapy and referred to cessation counseling line. Lung cancer screening was discussed in general terms as part of preventive care conversation; no imaging ordered today.
+
+ROS: Denies chest pain, denies hemoptysis, endorses chronic occasional dyspnea on exertion (baseline per COPD), denies fevers/chills, denies recent falls, endorses joint pain in bilateral knees, denies new rash, denies vision changes.
+
+Physical Exam:
+General: Well-developed, obese female, NAD
+HEENT: Normocephalic, atraumatic, PERRLA
+Neck: No JVD, no thyromegaly
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: RRR, no murmurs/gallops
+Abd: Soft, obese, non-tender, +BS
+Ext: No edema, mild crepitus bilateral knees, decreased ROM
+Skin: Intact, no lesions
+Neuro: A&Ox3, gait steady w cane
+Psych: Euthymic mood, affect appropriate
+
+Assessment/Plan:
+1. COPD - stable, continue current inhalers, reinforce smoking cessation, discussed quit plan and set quit date 2/12/2024
+2. Tobacco use disorder - counseled, pt currently smokes cigarettes, cessation resources provided
+3. Hypertension - well controlled, continue lisinopril
+4. Hyperlipidemia - continue statin, recheck lipid panel in 6 mo
+5. Osteoarthritis - continue NSAIDs prn, consider PT referral
+6. Depression - stable on current regimen, continue monitoring
+7. Obesity - discussed diet/exercise, counseled re: weight management given joint and pulmonary impact
+
+Follow up in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Electronically signed: Laura Castellano, FNP-C 1/7/2024

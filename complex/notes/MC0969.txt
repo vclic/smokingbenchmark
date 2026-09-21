@@ -1,0 +1,41 @@
+Pulmonology Follow-Up — Incidental Lung Nodule
+Patient: Patricia Smith | DOB: 2/13/1953 | Age: 70 | Date of Service: 07/02/2023
+Provider: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 88 irreg (known AFib), RR 18, SpO2 94% RA, Wt 172 lb
+Allergies: NKDA
+Chief complaint: f/u incidental lung nodule found on prior CT abd/pelvis.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Alcohol: occasional, wine
+Drug use: denies
+Living situation: lives with husband
+Occupation: retired
+Exercise: sedentary, limited by dyspnea
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Patricia Smith is a 70-year-old woman with hx of COPD, CAD, AFib, OSA, BPH, and depression who presents for f/u of an incidental pulmonary nodule noted on CT abdomen/pelvis performed for unrelated evaluation. She reports occasional dry cough, no hemoptysis, no unintentional weight loss. She has smoked on and off for most of her adult life. She reports she still smokes and is not ready to quit at this time; declines nicotine replacement or medication assistance today. Discussed general risks of continued tobacco use and benefits of cessation.
+
+ROS: Constitutional: no fever, no chills. Resp: chronic cough, no acute SOB change. CV: occasional palpitations, stable. GI: unremarkable. GU: nocturia x2, stable BPH sx. Psych: mood stable on current regimen. All other systems reviewed and negative.
+
+Physical Exam: Gen: NAD, comfortable. HEENT: unremarkable. Neck: no LAD, no JVD. Lungs: mild expiratory wheeze bilat, no rales, no rhonchi. CV: irregularly irregular rhythm, no murmur. Abd: soft, NT, ND. Ext: no edema. Skin: WNL.
+
+Problem List:
+I48.91 Atrial fibrillation, unspecified
+J44.9 COPD, unspecified
+G47.33 Obstructive sleep apnea
+N40.0 BPH without lower urinary tract symptoms
+I25.10 CAD, native vessel, without angina
+F32.9 Major depressive disorder, unspecified (outdated - now recurrent, in partial remission per pt report)
+
+Medications: Apixaban 5mg BID, Tiotropium inhaler daily, Albuterol PRN, Metoprolol succinate 50mg daily, Atorvastatin 40mg qhs, Tamsulosin 0.4mg qhs, Sertraline 100mg daily, CPAP nightly.
+
+Assessment/Plan: Incidental pulmonary nodule - continue surveillance per radiology recommendation, repeat imaging in interval per protocol. COPD - continue current inhaler regimen, reinforce smoking cessation counseling though patient not ready to quit. AFib - continue anticoagulation, rate controlled. OSA - continue CPAP, review compliance data next visit. Depression - stable, continue sertraline. Follow-up in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (same day, 4:45 PM) ---
+Addendum by Dr. Reyes: Spoke with patient by phone after visit to clarify nodule follow-up imaging schedule per radiology; patient verbalized understanding. No change to plan above.

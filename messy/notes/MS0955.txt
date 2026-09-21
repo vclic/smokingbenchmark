@@ -1,0 +1,64 @@
+NURSE INTAKE
+Patient: Wayne Brown | DOB: 2/3/1945 | Age: 78 | Sex: M
+Date of Service: 02/16/2023
+Encounter: Hospital d/c follow-up, s/p PNA tx
+Vitals: T 98.2, HR 78, BP 132/76, RR 16, SpO2 95% RA, Wt 176 lb
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE)
+Tobacco use status: Former smoker
+Cigarettes per day: 30/day
+Years smoked: 18 yrs
+Years since quit: quit 25 yrs ago
+Type of tobacco: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Living situation: Lives w/ spouse
+Occupation: Retired
+
+CC: f/u post hospitalization for pneumonia, feeling improved.
+
+HPI: 78 yo M w/ h/o osteoporosis, CKD3, BPH d/c'd 4 days ago after admission for CAP, completed IV abx inpt, now on PO levofloxacin to complete 7-day course. Reports decreased cough, mild fatigue, appetite improving. No fevers, no SOB at rest, ambulating around house w/o significant desat per home pulse ox. Denies chest pain, hemoptysis. Wife reports pt sleeping better past 2 nights.
+
+ROS: + mild fatigue, - fever, - chills, - N/V, - dysuria (BPH stable per pt), - back pain acutely (osteoporosis hx, chronic mild low back ache unchanged), - hematuria, - hemoptysis, - wt loss.
+
+PMH/Problem List (ICD-10):
+1. M81.0 - Age-related osteoporosis w/o current pathological fracture
+2. N18.3 - CKD stage 3
+3. N40.0 - BPH w/o LUTS
+4. J18.9 - Pneumonia, unspecified organism (resolving, active issue this visit)
+5. I10 - Essential HTN (outdated entry, pt reports d/c'd this med yrs ago, needs review)
+6. E78.5 - Hyperlipidemia
+
+Meds: Levofloxacin 500mg PO daily (day 4 of 7), Alendronate 70mg PO weekly, Tamsulosin 0.4mg PO qhs, Calcium/Vit D supplement daily. Denies missed doses.
+
+LABS/RESULTS:
+02/12/2023 (inpt, day of admission): WBC 14.2, CRP 88, Cr 1.6, eGFR 42
+02/14/2023 (inpt, pre-d/c): WBC 9.1, CRP 22, Cr 1.5, eGFR 44
+02/16/2023 (today, outpt): CBC pending, BMP pending, CXR not repeated (clinical improvement, deferred per discharge summary)
+DEXA (last on file 2021): T-score -2.6 L-spine
+
+PHYSICIAN PROGRESS NOTE (J. Brennan, MD)
+Seen and examined pt today, 02/16/2023, for post-hospitalization f/u, pneumonia.
+
+Exam: A&Ox3, NAD. Lungs: mild bibasilar crackles, improved from d/c exam, no wheeze, good air entry. CV: RRR, no m/r/g. Abd: soft, NT/ND. Ext: no edema. Skin: intact, no rash.
+
+Assessment:
+- CAP, resolving on PO abx, clinically improved since d/c, will complete course.
+- CKD stage 3, stable, Cr trending down as above, renal-dose abx appropriate, continue monitoring.
+- Osteoporosis, on alendronate, DEXA due for repeat given >2 yrs since last, will order.
+- BPH, stable on tamsulosin, denies worsening LUTS.
+- Tobacco history: pt is a former smoker per social hx template above (30/day x 18 yrs, quit 25 yrs ago); reinforced importance of continued abstinence, no current use.
+
+Plan:
+1. Continue levofloxacin to complete 7-day course, f/u call if worsening sx.
+2. Repeat CBC/BMP in 1 wk, or sooner if fever/SOB recurs.
+3. Order DEXA scan, repeat given interval since 2021.
+4. Continue alendronate, calcium/vit D, tamsulosin as prescribed.
+5. Discussed lung cancer screening guidelines in context of prior smoking hx; further discussion planned at next visit.
+6. Review/clean up problem list re: outdated HTN diagnosis at next visit, pt reports off antihypertensives x several yrs.
+7. Return to clinic in 2 wks or sooner PRN.
+8. Pt verbalized understanding, all questions answered.
+
+Electronically signed: Julia Brennan, MD, 02/16/2023.

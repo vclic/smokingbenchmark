@@ -1,0 +1,36 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Rosa Chen | DOB: 3/27/1967 | Age: 58 | Sex: F
+Date of Service: 03/28/2025
+Author: Elena Markovic, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: medication refills, follow up chronic conditions via video visit.
+
+HPI: Pt is a 58 y/o female seen today via telehealth for refill of routine meds, connection was intermittent at start of call and audio cut out briefly [inaudible], patient's daughter assisted with call setup. Patient reports she is 'doing okay, just tired all the time and my knees are acting up again' and states she has been using her CPAP machine most nights though sometimes she 'forgets to put it on' when she falls asleep on the couch watching TV so we're not sure how consistent adherence really is week to week honestly. She endorses mild low back pain and denies chest pain, denies shortness of breath at rest, denies fevers or chills. Tobacco history unable to obtain today - patient was notably aphasic/word-finding difficulty during portions of the call and was a poor historian for this and other elements of history, will attempt to clarify further with family or at in-person follow up. Diet and exercise not fully assessed this visit due to time constraints and connectivity issues.
+
+PROBLEM LIST:
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- M19.90 Osteoarthritis, unspecified site (chronic, longstanding)
+- E78.5 Hyperlipidemia
+- M81.0 Osteoporosis without current pathological fracture
+- N18.3 Chronic kidney disease, stage 3
+- (old/outdated) J45.909 Asthma unspecified - per chart review this appears resolved/miscoded years ago, no current inhaler use, will consider removing at next visit
+
+LABS/RESULTS:
+- BMP 02/14/2025: Creatinine 1.4 mg/dL, eGFR 46 mL/min/1.73m2, K+ 4.3 mmol/L, Na 139 mmol/L
+- Lipid panel 01/09/2025: LDL 118 mg/dL, HDL 52 mg/dL, TG 140 mg/dL
+- DEXA 11/2024: T-score -2.6 lumbar spine
+- HbA1c not indicated, no diabetes dx
+
+ASSESSMENT/PLAN:
+1. OSA - continue CPAP, encourage nightly use, discuss adherence download at next in-person visit.
+2. HTN - stable on current regimen, refill lisinopril.
+3. OA knees/back - continue acetaminophen PRN, refer PT if worsens.
+4. Hyperlipidemia - continue statin, recheck lipids in 6 months.
+5. Osteoporosis - continue calcium/vitamin D and bisphosphonate, repeat DEXA per schedule.
+6. CKD stage 3 - monitor renal function, avoid nephrotoxic agents, recheck BMP in 3 months.
+7. Tobacco/smoking history could not be obtained this visit due to communication difficulties; to be revisited at next encounter, ideally in person with family present.
+8. Refills sent electronically to pharmacy of record.
+
+Follow up in person in 4-6 weeks or sooner if symptoms worsen.
+Elena Markovic, MD

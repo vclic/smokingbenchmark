@@ -1,0 +1,46 @@
+TELEHEALTH VISIT NOTE
+Patient: Thomas Butler (M) DOB 1/16/1965, age 61
+DOS: 01/16/2026
+Provider: Gregory Tan, MD - Cardiology
+
+CHIEF COMPLAINT: chest pain eval, f/u telehealth
+
+HPI: Mr Butler is a 61 yo male seen today via video for eval of intermittent chest discomfort over past 2 wks. Describes episodes as pressure-like, substernal, lasting 5-10 min, occurring w/ exertion (climbing stairs) and occasionally at rest. No radiation to jaw/arm consistently, some assoc w/ SOB. Denies palpitations, syncope. Hx of OSA on CPAP, asthma, OA, gout - all per problem list. Pt reports he quit smokign years ago and has not resumed. No new meds started. Pt states he has not had chest pain like this before, worried given family hx of CAD (father, MI at 58).
+
+PMH: OSA (on CPAP), asthma, osteoarthritis, gout
+PSH: appendectomy remote
+FH: father MI age 58, mother DM2
+SOCIAL HISTORY: Tobacco - former smoker, smoked between 0.5 and 1 packs per day for 14 years, quit smoking at age 32. Denies current tobacco use, denies vaping. Occasional EtOH (1-2 drinks/wk). Denies illicit drug use. Married, retired postal worker, lives w/ spouse. Diet - low sodium attempted. Exercise - walks daily as tolerated.
+
+MEDICATIONS:
+1. Allopurinol 300mg daily
+2. Albuterol HFA inhaler PRN
+3. Fluticasone/salmeterol 250/50 one puff BID
+4. Meloxicam 15mg daily PRN OA pain
+5. Colchicine 0.6mg PRN gout flare
+6. Atorvastatin 20mg daily
+7. Lisinopril 10mg daily
+8. Aspirin 81mg daily
+9. Multivitamin daily
+10. Melatonin 3mg qhs
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional - denies fever chills wt loss/gain. Eyes - denies visual changes. ENT - denies sore throat, congestion. Cardiovascular - + chest discomfort as above, denies orthopnea, denies PND, denies LE edema. Respiratory - + occasional SOB w/ exertion, denies cough, denies hemoptysis, asthma stable on current regimen. GI - denies nausea vomiting diarrhea constipation abd pain. GU - denies dysuria hematuria. MSK - + chronic joint pain c/w OA, denies acute swelling today, no active gout flare. Skin - denies rash. Neuro - denies HA, denies weakness numbness. Psych - denies depression anxiety. Endocrine - denies polyuria polydipsia. Heme/Lymph - denies easy bruising bleeding. Allergic/Immunologic - denies. All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM (limited, telehealth - pt self-reports vitals from home BP cuff, no in person exam performed):
+Vitals reported by pt: BP 138/84, HR 78, wt stable. General - appears comfortable on video, no acute distress. Cardiovascular - unable to auscultate via telehealth, pt denies visible distress, no jugular venous distention noted on camera. Respiratory - no increased work of breathing observed, speaking full sentences. Extremities - no visible edema on camera. Skin - no rashes visible. Neuro - alert oriented x3, speech normal.
+
+ASSESSMENT/PLAN:
+61 yo male, DOB 1/16/1965, seen 01/16/2026 via telehealth for chest pain eval, hx significant for prior tobacco use (former smoker, no longer smokes) w/ hx of OSA, asthma, OA, gout.
+
+1. Chest pain - given exertional component and FH of CAD will order in-person ECG and troponin, refer to office for stress test. Continue ASA 81mg. Advised pt to go to ER if pain worsens, becomes prolonged, or assoc w/ diaphoresis/radiation.
+2. Tobacco history - noted former smoker, quit smoking at age 32, has remained smoke-free since. Counseled to continue abstinence, reinforced importance given cardiac risk factors. Lung cancer screening discussed briefly given smoking history; will revisit at next in-person visit.
+3. OSA - continue CPAP, doing well per pt report.
+4. Asthma - stable on current inhalers, no exacerbations recently.
+5. OA/gout - stable, continue current meds, f/u w/ PCP for routine mgmt.
+6. Will see pt back in person within 1-2 wks for full cardiac workup incl ECG, labs, possible echo.
+
+Signed electronically - Gregory Tan, MD
+
+ADDENDUM (later same day, 01/16/2026, 4:45pm): Spoke w/ pt again by phone this afternoon, he reports pain has resolved for now. Reinforced ER precautions. Order for ECG and troponin placed at local lab/imaging center, pt to go today if possible. No change to plan otherwise.

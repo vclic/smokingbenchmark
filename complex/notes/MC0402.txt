@@ -1,0 +1,33 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Visit
+Date of Service: 01/15/2026
+Author: Steven Park, MD
+
+Patient: Judith Price, F, DOB 1/15/1965 (age 61)
+
+REASON FOR VISIT: Cough, referred for eval.
+
+HPI: 61 yo female presents with cough x several days, no fever per pt, some post-nasal drip sensation, denies hemoptysis. Pt reports hx of tobacco use, smoked 1.5 packs per day, no duration given by pt today. She states she quit smoking when her granddaughter was born; that granddaughter is now 18 years old. Pt denies current tobacco use, confirmed nonsmoker status at this visit. Cough started acutely, worse at night, assoc w/ mild chest tightness, no [inaudible] wheeze noted by patient herself. She denies travel, sick contacts, denies weight loss. Pt also endorses fatigue which she attributes to poor sleep due to OSA, uses CPAP nightly per report although compliance data not available today.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 08/03/2024 ---
+Patient here for follow up of CHF w/ reduced EF, CKD stage 3, osteoporosis, osteoarthritis, depression, OSA. Denies chest pain, denies PND, denies orthopnea, mild bilateral LE edema stable. Weight stable. Labs reviewed: creatinine 1.4, eGFR 48, BNP 210. Continue current meds. DEXA reviewed, T-score -2.6 lumbar spine, continue alendronate. Mood stable on sertraline, PHQ-9 score 6. Follow up in 3 months or sooner if worsening symptoms. [end copied text]
+---
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats. HEENT: denies sore throat, denies sinus pressure. Cardiac: denies chest pain, denies palpitations, mild LE edema chronic. Resp: cough as above, denies dyspnea at rest. GI: denies nausea, vomiting, diarrhea. GU: denies dysuria. MSK: chronic joint pain c/w osteoarthritis, stable. Neuro: denies headache, denies dizziness. Psych: mood stable, denies SI/HI. Skin: no rash.
+
+PHYSICAL EXAM: Vitals stable, afebrile, RR 16, SpO2 96% RA. General: NAD, well-appearing. Lungs: mild expiratory wheeze bilat bases, no crackles. Cardiac: RRR, S3 present (known), no new murmur. Abd: soft, nontender. Ext: trace edema bilat, chronic. Neuro: grossly intact.
+
+PROBLEM LIST:
+- I50.22 Chronic systolic (congestive) heart failure
+- N18.3 Chronic kidney disease, stage 3
+- M81.0 Osteoporosis without current pathological fracture
+- M19.90 Osteoarthritis, unspecified site (outdated, likely knees per old chart)
+- F32.9 Major depressive disorder, unspecified (outdated code, may be recurrent)
+- G47.33 Obstructive sleep apnea
+- Z87.891 Personal history of nicotine dependence
+
+MEDICATIONS: Furosemide 20mg daily, Metoprolol succinate 50mg daily, Sacubitril-valsartan 24/26mg BID, Spironolactone 12.5mg daily, Alendronate 70mg weekly, Sertraline 100mg daily, Calcium/Vit D supplement, Meloxicam 7.5mg PRN, CPAP nightly.
+
+ASSESSMENT/PLAN: Acute bronchitis likely viral etiology. Continue supportive care, review chest xray results when available. Discussed tobacco history and smoking cessation maintenance given prior quit; encouraged continued abstinence. Screening discussion deferred, will address with PCP. Follow up with referring physician as scheduled.
+
+Steven Park, MD

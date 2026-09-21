@@ -1,0 +1,83 @@
+General Medicine Clinic Office Visit
+
+Patient: RIVERA, Walter    MRN: 38298463
+DOB: 09/10/1967    Age: 57 y.o.    Sex: Male
+Date of Service: 05/06/2025    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Walter Rivera is a 57 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 120s/90s. Taking lisinopril 20 mg dialy without missed doses. Denies headaches, chest pain, dyspnea, or vision changes. He is a former smoker with a 10-pack-year smoking history and quit on 12/21/2002.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus
+• Hypertension
+• Class I obesity
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2015)
+• Left inguinal hernia repair (2016)
+• Cholecystectomy (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• empagliflozin 10 mg daily
+• metformin 1000 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+    Quit date: 12/21/2002
+    Years since quitting: 22.4
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with wife.
+  Works as a teacher.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 152/76 (BP Location: Left arm, Patient Position: Sitting) | Pulse 67 | Temp 98.9 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 222 lb | SpO2 99% | BMI 35.89 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (4/16/2025): A1c 9.0%, Cr 1.06, K 3.9
+
+Assessment & Plan
+1. Hypertension
+   Above goal. Add amlodipine 5 mg daily. Low-sodium diet reviewed. Recheck 1 month.
+2. Hx tobacco use
+   No relapse.
+3. Class I obesity
+   Discussed diet and exercise.
+4. Type 2 diabetes mellitus
+   A1c at goal; continue regimen.
+
+f/u 3 mo
+
+Electronically signed by Teresa Alvarez, NP on 05/06/2025

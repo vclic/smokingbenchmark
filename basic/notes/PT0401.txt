@@ -1,0 +1,82 @@
+Cardiology Office Visit
+
+Patient: SCHMIDT, Theresa    MRN: 78226532
+DOB: 01/29/1946    Age: 79 y.o.    Sex: Female
+Date of Service: 05/19/2025    Provider: Elena Markovic, MD
+
+Chief Complaint
+Patient presents with
+• Chest pain
+
+Subjective:
+Theresa Schmidt is a 79 y.o. female who presents for evaluation of chest pain.
+Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Associated mild dyspnea. No orthopnea or PND. CV risk factors: HTN, HLD, never smoker.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia	1986
+• Osteoporosis
+• HTN
+• GERD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2022)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• calcium + vitamin D daily
+• losartan 100 mg daily
+• rosuvastatin 20 mg daily
+• pantoprazole 40 mg daily
+• ezetimibe 10 mg daily
+• hydrochlorothiazide 25 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband and adult daughter.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Father - prostate cancer. Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 154/94 (BP Location: Left arm, Patient Position: Sitting) | Pulse 81 | Temp 98.9 °F (Oral) | Resp 14 | Ht 5' 3" | Wt 130 lb | SpO2 97% | BMI 22.98 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Chest pain
+   ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Elena Markovic, MD on 05/19/2025

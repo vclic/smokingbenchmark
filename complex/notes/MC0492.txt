@@ -1,0 +1,47 @@
+CONSULT LETTER / ANNUAL WELLNESS VISIT
+Date of Service: 06/03/2025
+To: Referring Physician
+From: Gregory Tan, MD, Family Medicine
+
+Re: Dennis Long, M, DOB 02/21/1970 (age 55)
+
+Dear Colleague,
+
+Thank you for referring Mr. Long, a 55 y/o male, for his annual wellness visit. He was seen today, 6/3/2025, for routine follow-up of multiple chronic conditions including gout, depression, HLD, T2DM, and HFrEF, with associated obesity.
+
+HPI: Pt reports feeling generally stable, no acute complaints today. He c/o mild fatigue and occasional dyspnea on exertion, consistent with known HFrEF. Denies chest pain, orthopnea, PND. Mood is stable on current antidepressant regimen. No new joint flares reported. Regarding tobacco use, pt has a longstanding hx: he smoked about a quarter pack (~5 cigs/day) for 20 years, then quit completely for 3 years, but subsequently restarted at about half a pack (~10 cigs/day) per day, which he has continued for the past 17 years and still smokes today. He continues to smoke despite repeat counseling on cessation at every visit.
+
+[Copied forward from visit dated 11/14/2023]: Pt with hx of gout, last flare 2021, on allopurinol. Depression stable on sertraline, no SI/HI. HFrEF EF 35% per echo 2022, on GDMT. DM2 controlled diet + metformin at that time, A1c 7.1. Denies tobacco use at that visit per old note (discrepancy noted, see updated HPI above). Obesity BMI 34. HTN not currently diagnosed. Pt tolerating meds well. Continue current regimen, f/u 6 months.
+
+ROS: Constitutional: no fever/chills, +fatigue. HEENT: WNL. CV: no chest pain, +occasional DOE. Resp: no cough/wheeze. GI: no n/v/d. GU: no dysuria. MSK: no active joint swelling. Neuro: no focal deficits. Psych: mood stable, sleep adequate. Skin: no rash. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, Wt 246 lb, BMI 34.2, SpO2 96% RA. General: obese male, NAD. HEENT: NCAT, PERRLA. Neck: no JVD. CV: RRR, S1S2, no murmur, trace pedal edema. Lungs: CTAB, no wheeze/rales. Abd: soft, obese, NT/ND. Ext: no cyanosis/clubbing, trace edema b/l. Neuro: A&Ox3, grossly intact. Skin: no lesions.
+
+LABS (06/01/2025): A1c 7.4%, Glucose 142, Cr 1.1, eGFR 74, BNP 620 (elevated), LDL 118, HDL 38, TG 210, TSH 2.1, K 4.3, Na 139.
+Prior labs (11/14/2023): A1c 7.1, BNP 540, LDL 122.
+
+MEDICATIONS: Metformin 1000mg BID, Empagliflozin 10mg daily, Sertraline 100mg daily, Atorvastatin 40mg daily, Allopurinol 300mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Spironolactone 25mg daily, Furosemide 20mg daily PRN, Aspirin 81mg daily.
+
+PROBLEM LIST:
+- E11.9 Type 2 diabetes mellitus
+- M10.9 Gout
+- F32.9 Major depressive disorder
+- E78.5 Hyperlipidemia
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.9 Obesity
+- I10 Essential hypertension (outdated dx, not currently active)
+- Z87.891 Personal history of nicotine dependence (outdated - pt is current smoker, see HPI)
+
+ASSESSMENT/PLAN:
+1. Tobacco use - active, ongoing counseling provided today regarding cessation; discussed risks and benefits of screening options; pt declines pharmacologic cessation aids at this time, will reconsider.
+2. HFrEF - stable on GDMT, continue current meds, monitor BNP.
+3. T2DM - A1c 7.4, continue current regimen, reinforce diet/exercise.
+4. Depression - stable, continue sertraline.
+5. HLD - continue statin.
+6. Gout - no active flare, continue allopurinol.
+7. Obesity - counseled on weight management.
+
+F/u in 6 months or sooner PRN.
+
+Sincerely,
+Gregory Tan, MD

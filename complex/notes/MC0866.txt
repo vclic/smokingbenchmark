@@ -1,0 +1,34 @@
+Cardiology Progress Note
+Patient: Mary Foster (DOB 9/3/1966), F, age 57
+Date of Service: 09/03/2023
+Author: Rachel Goldberg, MD
+
+CC: Heart failure follow up
+
+HPI: Ms Foster returns for routine f/u of CHF, reports mild dyspnea on exertion, denies orthopnea tonight but sometimes wakes up [inaudible] short of breath she says its better since last visit weight stable per home scale. She continues on her diuretic regimen and states compliance is good, she also notes some leg cramping likely related to her known PAD, she rates it 3/10 and it resolves with rest.
+
+---- Copied forward from visit 2021-11-15 ----
+Pt here for routine follow up, HF stable on current regimen, BNP trending down, denies chest pain denies syncope, continues lisinopril and carvedilol tolerating well, BPH stable on tamsulosin nocturia improved, obesity counseling given re: diet and exercize, pt states she walks 20 min daily, PAD stable no rest pain claudication distance unchanged, follow up in 3-4 months labs to be drawn prior. Pt was smoking status at that time unclear from prior note [carried over in error, see below for current status]
+---- end copied block ----
+
+Smoking history: Patient smoked 2 packs per day for 14 years, then cut back to 1 pack per day for 26 years, she quit smoking right after her stroke and has not smoked since. She no longer smokes currently, denies any tobacco use now.
+
+PMH: heart failure (reduced EF), peripheral artery disease, benign prostatic hyperplasia, obesity, ischemic stroke (2022)
+
+Meds: lisinopril, carvedilol, furosemide, tamsulosin, atorvastatin, aspirin
+
+ROS: otherwise negative except as above, no fevers no chest pain no palpitations
+
+Exam: BP 128/76 HR 72 reg, lungs clear no rales, mild bilateral LE edema trace, pedal pulses diminished bilaterally consistent w known PAD, abdomen soft obese nontender
+
+Labs reviewed today BNP improved from prior, renal function stable, K+ wnl
+
+Assessment/Plan:
+1. Heart failure - stable, continue current meds, recheck BNP in 3 months
+2. PAD - stable, continue antiplatelet therapy, reinforce walking program
+3. BPH - stable on tamsulosin
+4. Obesity - counseled on diet/exercise again today
+5. Tobacco - patient is a former smoker, no current use, lung cancer screening was discussed with patient today given her history, she will think it over and we will readress at next visit
+6. Stroke history - continue secondary prevention, no new deficits reported today
+
+Follow up in 3 months or sooner if symptoms worsen, pt verbalized understanding of plan agrees with above.

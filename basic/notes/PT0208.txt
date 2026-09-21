@@ -1,0 +1,43 @@
+PROGRESS NOTE
+Date of Service: 4/28/2025
+Patient: Frank Washington   DOB: 2/27/1967   MRN: 60381280
+
+SUBJECTIVE:
+CC: COPD follow-up
+HPI: 58 y/o male w/ COPD, OSA, obesity, HTN here for follow-up of COPD. Dyspnea with moderate exertion, mMRC 2. No exacerbations in the past year. Rarely needs albuterol. Morning cough with clear sputum.
+
+PMH: OSA, obesity, COPD, HTN
+Meds: budesonide-formoterol 160/4.5 2 puffs BID; tiotropium 18 mcg inhaled daily; albuterol HFA PRN; lisinopril 20 mg daily
+Allergies: Sulfa drugs
+Social History:
+- Lives with wife in a single-family home.
+- Alcohol: rare.
+- No illicit drug use.
+FH: Sister - breast cancer at 59.
+ROS: GI neg, Neuro neg, MSK neg, Gen neg, Resp +, GU neg, CV neg, Skin neg
+
+O:
+Vitals: BP: 144/74  HR: 81  RR: 16  Temp: 98.9 F  SpO2: 93% on RA  Wt: 223 lbs  BMI: 33.9
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Benign
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (04/13/2025): Cr 0.88, K 4.7
+
+ASSESSMENT/PLAN:
+1. COPD
+   - Spirometry 1/28/2024: FEV1 65% predicted, FEV1/FVC 0.62. Continue current inhalers. Pulm rehab referral.
+2. Essential HTN: Elevated today; home BP log requested.
+3. Obesity
+   - Discussed diet and exercise.
+4. History of tobacco use (Z87.891): Smoking hx: 0.5-1 ppd x22y, quit 1996, relapsed 2002, quit again 2009. Not a candidate for LCS at this time. Encouraged continued abstinence.
+
+Return in about 12 months (around 4/28/2026).
+
+Electronically signed by Julia Brennan, MD on 4/30/2025 at 07:09

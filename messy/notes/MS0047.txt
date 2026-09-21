@@ -1,0 +1,52 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 09/09/2025
+Author: Elena Markovic, MD
+
+Patient: Barbara Adams, F, DOB 6/29/1958 (age 67)
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Ms. Adams returns for routine follow-up of her heart failure. She reports stable exertional dyspnea, denies orthopnea or PND. Weight has been stable per home scale readings. She continues to have occasional wheeze attributed to her known asthma/COPD overlap. No chest pain, no lower extremity edema noted today. She notes that she quit smoking in September 2022 and has not resumed cigarette use since. She does mention that she vapes occasionally, which she says helps with cravings.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- J44.9 COPD, unspecified (outdated entry, last reviewed 2021)
+- J45.909 Asthma, unspecified, uncomplicated
+- E66.9 Obesity, unspecified
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Smoking status: Not current every day smoker
+Packs/day: Not on file
+Years smoked: Not on file
+Alcohol use: Occasional
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary
+Vaping/e-cigarette use: Occasional
+
+[COPIED FORWARD FROM VISIT DATED 03/14/2023 - NOTE MAY NOT REFLECT CURRENT STATUS]
+Patient is a 65 y/o female with history of heart failure, COPD, asthma, and obesity presenting for routine follow-up. She reports doing well overall, no acute distress. Cardiac exam reveals regular rate and rhythm, no murmurs appreciated. Lungs with mild expiratory wheeze bilaterally, no crackles. Extremities without edema. Continue current medical regimen. Follow up in 6 months or sooner if symptoms worsen. Discussed importance of medication adherence and pulmonary rehab referral was offered at that time. Patient was smoking 20 cigarettes per day for 23 years prior to quitting, per prior documentation reviewed at that visit.
+[END COPIED TEXT]
+
+REVIEW OF SYSTEMS: Denies fever, chills. Positive for mild dyspnea on exertion. Denies chest pain, palpitations. Denies cough productive of sputum today.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 94% RA, Wt 198 lbs
+General: Well-appearing, no acute distress
+CV: RRR, no murmurs/rubs/gallops, JVP not elevated
+Pulm: Mild expiratory wheeze bilaterally, no crackles
+Ext: No edema
+
+ASSESSMENT/PLAN:
+1. Heart failure - stable, continue current diuretic and GDMT regimen. Will check BNP and BMP at next visit.
+2. COPD/Asthma overlap - stable, continue inhaler regimen. Given her prior 20 cigarettes/day x 23 years smoking history, now quit since September 2022, she is at increased risk for pulmonary complications. General pulmonary health and smoking-related risks were discussed with the patient.
+3. Obesity - counseled on diet and activity modification as tolerated given cardiac and pulmonary limitations.
+4. Tobacco/vaping use - reinforced complete cessation of all nicotine products including occasional vaping. Discussed resources for cessation support.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Elena Markovic, MD
+Cardiology

@@ -1,0 +1,47 @@
+Cardiology NP Progress Note
+Patient: Gloria Sullivan | DOB: 10/27/1944 (age 79) | DOS: 11/05/2023
+Author: Quentin Hale, PA-C
+
+CC: HF f/u, referred by Dr. Nolan for chronic mgmt.
+
+HPI: 79 y/o F w/ hx CHF (EF unclear per last echo, will pull records), OSA on CPAP, PAD, depression, AFib on anticoagulation presents for routine HF follow up. Pt reports doing fairly well, some intermittent LE swelling worse by end of day, denies orthopnea, denies PND, sleeps w 1 pillow. Wt stable per home scale, +/- 1-2 lb fluctuation. No CP, no palpitations noted although hx of AFib - pt states 'heart feels normal' [inaudible] portion of recording re: exertional tolerance, pt believes she can walk to mailbox and back w/o SOB, denies worsening. Meds reviewed, adherence reportedly good, pharmacy refill hx to be checked next visit.
+
+--- Copied forward from visit dated 04/12/2022 (retained in chart, not fully updated) ---
+Pt is a 78 y/o female (sic - age not updated) here for HF follow up. Denies chest pain. Cont on metoprolol succ, furosemide prn, apixaban. OSA - uses CPAP nightly, reports good compliance, machine data pending download. PAD - denies claudication currently, vascular surgery f/u prior year unremarkable. Depression - stable on sertraline, PHQ9 low. AFib - rate controlled, no recent palpitations reported. Plan: cont current regimen, recheck BMP/BNP, f/u 6 months. [end copied text]
+--- end copied block ---
+
+Social History: Pt has extensive tobacco hx - smoked cigs for 51 years total, quit smoking approx 8 yrs ago (per pt report today). No rate/pack info obtained this visit. Pt also states she vapes occasionally, uses e-cig 'now and then' per her words, unclear frequency. Denies current cig use. ETOH - pt quit drinking alcohol in 1998, denies any use since. No illicit drug use reported.
+
+ROS: Constitutional - denies fever, chills, wt loss. Cardiac - as above. Resp - denies cough, denies hemoptysis, occasional exertional dyspnea per pt (mild). GI - denies nausea/vomiting. GU - nocturia x1-2. Neuro - denies focal deficits. Psych - mood stable, denies SI/HI.
+
+PMH: CHF, OSA, PAD, depression, AFib, HTN (implied, on multiple antihypertensives), hyperlipidemia.
+PSH: none significant per chart.
+Meds: metoprolol succinate 50mg daily, furosemide 20mg prn edema, apixaban 5mg BID, sertraline 50mg daily, atorvastatin 40mg qhs, CPAP nightly.
+Allergies: NKDA.
+
+Vitals: BP 128/76, HR 78 irreg irreg (known AFib), RR 16, SpO2 95% RA, Wt 152 lb (up 1 lb from last visit), Ht 5'4".
+
+Physical Exam:
+Gen: NAD, well groomed, appropriate affect.
+CV: irreg irreg rhythm, no murmur appreciated, no gallop, no rub. JVP not elevated.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Ext: trace bilateral pedal edema, PAD-related skin changes noted b/l LE, no ulcers, pulses diminished but palpable dorsalis pedis b/l.
+Abd: soft, NT/ND, no hepatomegaly appreciated.
+Skin: warm, dry.
+Psych: mood euthymic, cooperative.
+
+Labs (reviewed, from 10/29/2023): BNP mildly elevated at 210 (baseline ~180), BMP wnl, Cr 1.0, K 4.2, INR n/a (on DOAC).
+
+Assessment/Plan:
+1. CHF - clinically compensated today, cont diuretic prn, monitor wt daily, low Na diet reinforced. Will trend BNP.
+2. OSA - cont CPAP, encourage compliance, download data at next visit.
+3. PAD - stable, no claudication sx today, cont antiplatelet/anticoag per AFib mgmt, f/u vascular surg as scheduled.
+4. Depression - stable on current dose sertraline, PHQ9 to repeat next visit.
+5. AFib - rate appears controlled today on exam, cont apixaban, no changes.
+6. Tobacco/Nicotine use - extensive smoking hx (51 yrs), pt reports quitting approx 8 yrs ago; counseled re: continued avoidance of combustible tobacco. Pt also reports occasional vaping - counseled on risks of e-cigarette use, encouraged full cessation of all nicotine products including vape. General health maintenance counseling provided regarding smoking-related risks.
+7. ETOH - hx of prior use, quit 1998 per pt, no current concerns, no further intervention needed at this time.
+8. HTN/HLD - stable, cont current meds.
+
+F/u: RTC 3 months for HF recheck, sooner if wt gain >3lb in 2 days or worsening SOB/edema. Pt verbalized understanding of red flag sx. Pt agreeable to plan.
+
+Electronically signed: Quentin Hale, PA-C, 11/05/2023.

@@ -1,0 +1,49 @@
+TELEHEALTH FOLLOW-UP NOTE - PULMONOLOGY
+Patient: Hung Barnes (M), 51 years old, DOB: 10/01/1973
+Date of Service: 10/01/2024
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior imaging.
+
+HPI: Mr. Barnes is a 51-year-old male seen today via video visit for follow-up of a pulmonary nodule noted incidentally on CT imaging done for another indication. He states, "I feel fine, no chest pain or nothing, just a little short of breath climbing stairs sometimes." He denies hemoptysis, fevers, or unintentional weight loss. He reports his CPAP compliance for OSA has been "pretty good, most nights I'd say." Blood pressure control per home cuff readings has been reasonable, though he admits to occasionally forgetting his lisinopril [inaudible] dose on weekends when his schedule is off and he sleeps in and skips his morning pills sometimes and then just doubles up later which we discussed is not recommended. He continues to smoke cigarettes and when asked directly about his tobacco use he said, "Yeah I still smoke, somewhere between half a pack and a pack a day, I've been doing that for about 31 years now." He expresses some interest in quitting and states he has set a quit date of 10/19/2024, which he is optimistic about. We discussed nicotine replacement options and he will consider patches closer to the date.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs per day: 0.5-1 ppd (per patient report)
+Years smoked: 31 years
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, per patient
+Drug use: Denies
+Occupation: Warehouse supervisor
+Living situation: Lives with spouse
+
+[Copied from note dated 11/01/2021 - Social History, unchanged since original documentation, retained for continuity]: "Tobacco: current smoker. No further detail provided in that note."
+
+PAST MEDICAL / PROBLEM LIST (ICD-10):
+- M19.90 Osteoarthritis, unspecified site
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- J98.4 Other disorders of lung (nodule, incidental) - added 2024
+- E78.5 Hyperlipidemia, unspecified (outdated entry, resolved per patient, last documented 2019, not addressed today)
+
+REVIEW OF SYSTEMS: Otherwise negative for fevers, chills, night sweats, hemoptysis, or significant dyspnea at rest. Positive for occasional exertional dyspnea as above.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, no acute distress, seated comfortably at home.
+Cardiac: Not formally auscultated (telehealth limitation).
+Respiratory: No visible increased work of breathing, speaking in full sentences without difficulty.
+Extremities: No edema noted on camera.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule - stable per report from radiology reviewed prior to visit. Continued surveillance imaging discussed per standard interval; will schedule follow-up CT per protocol. Lung cancer screening options were discussed in general terms with the patient as part of overall risk conversation.
+2. Tobacco use, current smoker - counseled extensively on cessation given ongoing cigarette use; patient reports a quit date of 10/19/2024 already in place. Encouraged nicotine replacement therapy and offered referral to tobacco cessation program; patient will follow up on this closer to his quit date.
+3. Hypertension - continue lisinopril, reinforced adherence given reported occasional missed weekend doses; will recheck BP at next visit.
+4. OSA - continue CPAP, encouraged continued nightly use; will obtain compliance download at next in-person visit.
+5. Osteoarthritis - stable, managed conservatively, no new complaints today.
+
+Follow-up in pulmonology clinic per nodule protocol; patient to call sooner if new symptoms such as hemoptysis, worsening dyspnea, or unexplained weight loss.
+
+---
+ADDENDUM (same day, later): Spoke again briefly with patient by phone this afternoon regarding scheduling of follow-up imaging; confirmed contact number and preferred pharmacy for any future prescriptions related to smoking cessation aids. Patient reiterated his 10/19/2024 quit date and voiced motivation to follow through. No new clinical concerns raised at this time. Will document further at next visit.
+-- Teresa Alvarez, NP

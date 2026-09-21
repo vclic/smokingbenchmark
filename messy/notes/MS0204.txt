@@ -1,0 +1,45 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology Consult – Incidental Lung Nodule Follow-Up
+Date of Service: 01/22/2026
+Author: Quentin Hale, PA-C
+
+Patient: Raymond Hall (M), DOB 01/22/1976 (age 50 today)
+Referring: Dr. S. Okafor, PCP
+
+HPI:
+Mr. Hall is a 50 y/o male referred for eval of an incidental 8 mm RUL pulmonary nodule found on chest CT obtained during PAD w/u in 11/2025. He is asymptomatic — denies cough, hemoptysis, dyspnea, wt loss, fevers. Hx notable for afib (on anticoag), PAD s/p prior claudication w/u, OSA on CPAP, GERD. Pt presents today for discussion of nodule surveillance plan.
+
+PAST MEDICAL HISTORY: Atrial fibrillation, peripheral artery disease, obstructive sleep apnea, GERD.
+
+SOCIAL HISTORY (templated EHR block):
+ Smoking status: Never Smoker [NOTE: this auto-populated field is INCORRECT — see narrative below]
+ Smokeless tobacco: Not on file
+ Alcohol use: Not on file
+ Illicit drug use: Denies
+ Occupation: ______
+ Exercise: ______
+
+Narrative correction to above: The "Never Smoker" field is inaccurate and should be disregarded — pt has a positive smoking history. Per pt report, he smoked for 6 years and quit smoking in 2007, at the time he suffered a stroke, which prompted cessation. He has remained smoke-free since. No current tobacco use.
+
+REVIEW OF SYSTEMS: Constitutional: neg for fever, chills, wt loss. Resp: neg for cough, hemoptysis, wheeze, dyspnea. CV: + known afib, denies chest pain/palpitations today. GI: occasional reflux, controlled on PPI. Neuro: no focal deficits, no residual stroke sx reported. MSK: PAD-related claudication stable per pt. All other systems reviewed and negative.
+
+MEDICATIONS: Apixaban 5 mg BID, Metoprolol succinate 50 mg daily, Atorvastatin 40 mg qhs, Omeprazole 20 mg daily, Clopidogrel 75 mg daily, Cilostazol 100 mg BID, Aspirin 81 mg daily (per cardiology), CPAP nightly.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 68 irregular, RR 16, SpO2 97% RA, BMI 29. General: NAD, well-appearing. HEENT: unremarkable. Neck: no LAD, no JVD. CV: irregularly irregular rhythm, no murmurs. Resp: clear to auscultation bilat, no wheezes/rales/rhonchi. Abd: soft, NT/ND, +BS. Extremities: diminished distal pulses bilat LE c/w known PAD, no edema, no clubbing/cyanosis. Skin: no lesions. Neuro: alert, oriented x3, no focal deficits.
+
+LABS/RESULTS:
+ CBC (01/15/2026): WBC 6.8, Hgb 14.2, Plt 245
+ BMP (01/15/2026): Na 139, K 4.1, Cr 1.0, eGFR >60
+ INR (01/20/2026): 2.3 (therapeutic on apixaban monitoring per protocol)
+ CT Chest (11/2025): 8 mm solid nodule RUL, no calcification, no lymphadenopathy
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, RUL, 8 mm — low-risk features. Discussed surveillance imaging strategy per Fleischner guidelines. General risk factors including remote smoking history were briefly discussed with the patient in the context of nodule follow-up; no further action regarding this topic taken today. Surveillance interval imaging will be arranged separately per radiology protocol at a later visit.
+2. Atrial fibrillation — continue apixaban, follow with cardiology.
+3. PAD — continue cilostazol, vascular surgery f/u as scheduled.
+4. OSA — continue CPAP, reinforce adherence.
+5. GERD — continue PPI, lifestyle modification reviewed.
+
+Return to clinic per surveillance schedule or sooner if new resp sx develop. Copy of this note sent to Dr. Okafor.
+
+Electronically signed: Quentin Hale, PA-C

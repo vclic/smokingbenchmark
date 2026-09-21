@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 5/24/2024
+Patient: Patricia Miller   DOB: 7/13/1961   MRN: 70840802
+
+SUBJECTIVE:
+CC: Chest pressure
+HPI: Ms. Miller is a 62 y.o. female with a history of HTN, HLD, GERD, and hypothyroidism who presents for evaluation of chest pain. Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Associated mild dyspnea. No syncope or palpitations. She continues to smoke and has fifty-one pack-years. CV risk factors: HTN, HLD, current tobacco use, FHx premature CAD.
+
+PMH:
+- Hypercholesterolemia
+- Hypertension (dx 2011)
+- Hypothyroidism
+- Gastroesophageal reflux disease
+- Nicotine dependence, cigarettes (F17.210)
+PSH: Cataract extraction, bilateral
+Meds: multivitamin daily; omeprazole 20 mg daily; amlodipine 5 mg daily; simvastatin 20 mg nightly; levothyroxine 100 mcg daily; losartan 50 mg daily
+Allergies: Latex
+SH: Lives with husband in a single-family home. Retired accountant. Social drinker. No IVDU.
+FH: Mother - dementia, d. 84. Mother - HTN, DM2.
+ROS: GI neg, CV +, Neuro neg, Skin neg, MSK neg, Resp neg, Gen neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 150/87  HR: 91  RR: 18  Temp: 98.0 F  SpO2: 96% on RA  Wt: 161 lbs  BMI: 28.5
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (4/24/2024): LDL 117, Cr 0.83, K 4.2, TSH 4.02
+
+A/P:
+1. Chest pain: ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Hypertension: Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Health maintenance
+   - LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+RTC 3 months.
+
+-- BO (MD)

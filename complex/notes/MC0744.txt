@@ -1,0 +1,68 @@
+OWEN FITZGERALD, MD - Pulmonology Resident Note
+Attending: Dr. S. Rangwala (attestation below)
+Date of Service: 01/28/2023
+Patient: Rosa Mitchell (F), DOB 01/28/1949, Age: 74
+
+CHIEF COMPLAINT: COPD follow-up
+
+HPI:
+74 yo woman w/ hx COPD, HFrEF, CKD3, OSA, GERD, osteoporosis here for routine pulm f/u. Reports mild increase in exertional dyspnea over past mo, no fevers, no change in sputum color. Denies chest pain. She is a former smoker, quit smoking well over a decade ago per her report, states she has not touched a cigarette since. No current tobacco use. Uses home O2 prn w exertion, compliant w inhalers though admits occasionally forgets evening dose. No recent hospitalizations. Sleeps w CPAP most nights, tolerates fairly well.
+
+ROS: + occasional wheeze, + dyspnea on exertion, denies hemoptysis, denies orthopnea beyond baseline, + occasional heartburn managed w PPI.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+ Tobacco use status: Former smoker
+ Smoking history detail: 2.5 packs/day from 1969 to 2006
+ Type: Cigarettes
+ Smokeless tobacco: Not on file
+ E-cigarette/vape use: Not on file
+ Alcohol use: Occasional, denies heavy use
+ Drug use: Denies
+ Occupation: Retired seamstress
+ Living situation: Lives w daughter
+ Exercise: Limited due to dyspnea
+
+Additional social note (free text, HPI-adjacent): Pt moved to this state in 2005. She reports quitting smoking 1 year after that move.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. COPD (J44.9) - dx approx 2010, on maintenance inhalers
+2. Heart failure with reduced ejection fraction (I50.22) - EF 35% per echo 2021, may be outdated
+3. Chronic kidney disease stage 3 (N18.3) - baseline creat ~1.4
+4. Obstructive sleep apnea (G47.33) - on CPAP
+5. GERD (K21.9) - on omeprazole
+6. Osteoporosis (M81.0) - on alendronate, last DEXA 2019 (outdated, needs repeat)
+7. Hypertension (I10) - copied forward, pt states resolved per PCP, needs verification
+
+MEDICATIONS: Tiotropium inhaler, albuterol prn, furosemide 20mg daily, metoprolol succinate, omeprazole 20mg daily, alendronate weekly, vitamin D, calcium
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/76, HR 78, RR 18, SpO2 93% RA, Wt 142 lbs
+
+PHYSICAL EXAM:
+General: NAD, comfortable, sitting upright
+Lungs: decreased breath sounds bilat bases, scattered expiratory wheeze, no crackles
+CV: RRR, no murmur appreciated, no significant edema
+Abd: soft nontender
+Ext: no clubbing, no cyanosis
+
+LABS/IMAGING (reviewed):
+CXR 12/2022 - hyperinflation, no acute infiltrate
+BMP 01/2023 - creat 1.5, K 4.2
+BNP pending
+
+ASSESSMENT/PLAN:
+74F w COPD, HFrEF, CKD3, OSA, GERD, osteoporosis presenting for f/u, DOS 1/28/2023.
+
+1. COPD - stable-ish, mild worsening dyspnea. Continue tiotropium, albuterol prn. Former smoker status noted; quit smoking 1969-2006 2.5 ppd hx as above per social hx template. She quit roughly a year after relocating to this state, as noted in social hx. Encouraged continued abstinence, reinforced importance given underlying lung dz. Lung cancer screening discussed in general terms with pt, will revisit at future visit; no imaging ordered today for that purpose.
+2. HFrEF - appears euvolemic today, continue furosemide/metoprolol, f/u with cardiology, repeat echo recommended given outdated EF data.
+3. CKD3 - stable creat, avoid nephrotoxins, recheck BMP in 3 mo.
+4. OSA - continue CPAP, ask pt to bring compliance data next visit.
+5. GERD - continue omeprazole, no change.
+6. Osteoporosis - continue alendronate/vit D/calcium, repeat DEXA overdue, will order.
+7. HTN dx - unclear if still active, will clarify w PCP records, remains on problem list pending review.
+
+Return to clinic in 3 months or sooner if worsening symptoms. Pt verbalized understanding of plan.
+
+---
+ATTESTATION: I have seen and examined the patient with Dr. Fitzgerald. I agree with the history, exam findings, and plan as documented above with minor additions discussed in person. - S. Rangwala, MD, Attending Pulmonology, 01/28/2023

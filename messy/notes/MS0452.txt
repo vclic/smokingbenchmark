@@ -1,0 +1,44 @@
+Family Medicine – Annual Wellness Visit
+Date of Service: 11/18/2025
+Author: Quentin Hale, PA-C (resident note; attending attestation below)
+
+Patient: Linda Novak DOB 6/21/1967 (age 58) F
+
+CC: Annual wellness exam
+
+HPI: Pt presents for routine annual visit, no acute complaints today. Reports fatigue with exertion, stable per pt, denies chest pain, orthopnea improved w current regimen. COPD sx stable, occassional wheeze, uses inhaler prn. No new urinary sx, BPH stable per uro f/u. No fractures, continues calcium/vit D for osteoporosis.
+
+ROS: Otherwise negative except as above, denies fevers, denies hemoptysis, denies wt loss
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Former smoker
+  - Pack-year history: 16 pack-years
+  - Quit year: 2020
+ Alcohol use: Not on file
+ Drug use: denies
+ Occupation: retired
+ Living situation: ___ (blank)
+ Exercise: walks daily, per pt
+
+PMH/Problem list (ICD-10):
+ I50.22 Heart failure with reduced ejection fraction (chronic)
+ J44.9 COPD, unspecified
+ M81.0 Osteoporosis, age-related, without pathological fracture
+ N40.0 Benign prostatic hyperplasia w/o LUTS (outdated entry, pt now has mild LUTS per uro note 2023, not updated)
+ E66.9 Obesity, unspecified
+
+Meds: metoprolol succinate, sacubitril/valsartan, spironolactone, tiotropium inhaler, alendronate, tamsulosin
+
+Exam: Vitals stable, BMI elevated, lungs w scattered exp wheeze, decreased breath sounds bases, heart RRR w S3 noted, no significant edema today, abd soft nontender, ext no clubbing/cyanosis
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT, recheck BNP and BMP
+2. COPD - stable, continue tiotropium, f/u PFTs
+3. Osteoporosis - continue alendronate, DEXA due next yr
+4. BPH - continue tamsulosin, uro f/u as scheduled
+5. Obesity - counseled on diet/exercise
+6. Tobacco history - former smoker, quit 2020, 16 pack-year history noted above; screening options discussed with pt, no imaging ordered today
+
+Return to clinic in 1 year or sooner if needed.
+
+Attestation: I have reviewed and discussed this note with Mr. Hale, agree with findings and plan as documented. - Attending physician

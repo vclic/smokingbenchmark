@@ -1,0 +1,29 @@
+Nurse Intake:
+Pt: Gwendolyn Jackson, F, DOB 6/28/1950 (age 74). DOS: 10/01/2024. Visit: pre-op eval for R TKA, referred by ortho.
+
+Vitals: BP 138/82, HR 78 irreg (known AFib), RR 16, T 98.2F, SpO2 95% RA, Wt 176 lb, Ht 5'4".
+
+Allergies: NKDA.
+Meds: apixaban 5mg BID, allopurinol 300mg qd, colchicine 0.6mg prn flare, atorvastatin 40mg qhs, losartan 50mg qd, CPAP nightly for OSA, metoprolol succinate 50mg qd, multivitamin qd.
+
+Social hx: pt states "I've never smoked a day in my life, never even tried it." Denies EtOH, denies illicit drug use. Lives w/ husband, independent ADLs, uses cane occasionally.
+
+ROS: Constitutional - denies fever/chills/wt loss. HEENT - denies vision change, denies hearing loss. CV - reports occasional palpitations, denies CP. Resp - denies cough, denies dyspnea at rest, uses CPAP nightly per OSA hx. GI - denies N/V/D, denies constipation. GU - denies dysuria, denies hematuria. MSK - reports R knee pain, worse w/ ambulation, improved w/ rest, occasional gout flares in great toe. Skin - denies rash. Neuro - denies HA, denies weakness. Psych - denies depression/anxiety.
+
+Physician Progress Note - Michael Dunn, DO
+Date of service: 10/01/2024.
+
+HPI: Ms. Jackson is a 74-year-old woman with hx of gout, CKD stage 3, OSA on CPAP, AFib on apixaban, and hyperlipidemia who presents today for pre-operative medical clearance prior to R total knee arthroplasty. She reports progressive R knee pain over past several months, states "it's gotten to where I can barely get up the stairs." No recent gout flares. No chest pain, no syncope, no orthopnea. She reports good adherence to CPAP, "I use it every night, my husband says I don't snore anymore." Denies any tobacco use whatsoever; she is a lifelong non-smoker per pt report, corroborated by chart review.
+
+Physical Exam: Gen - well-appearing, NAD. CV - irregularly irregular rhythm, no murmurs appreciated. Lungs - CTAB, no wheezes/rales/rhonchi. Abd - soft, NT/ND. Ext - R knee w/ crepitus and mild effusion, no erythema, 1st MTP joints without active tophi today. Neuro - grossly intact.
+
+Labs reviewed: Cr 1.4 (baseline, consistent w/ CKD3), eGFR 42, K 4.3, uric acid 6.8, INR n/a (on DOAC), lipid panel at goal on statin.
+
+Assessment/Plan:
+1. Pre-op clearance for R TKA - cardiac risk low-moderate given AFib, continue metoprolol, hold apixaban per surgical protocol, will coordinate bridging w/ cardiology if needed.
+2. AFib - rate controlled, continue metoprolol succinate.
+3. CKD stage 3 - stable, avoid nephrotoxic agents peri-op, monitor Cr post-op.
+4. OSA - continue CPAP nightly, bring device to hospital for peri-op use.
+5. Gout - continue allopurinol, colchicine prn.
+6. Hyperlipidemia - continue atorvastatin, at goal.
+Return to clinic post-op or prn. Discussed general health maintenance including age-appropriate cancer screening topics as applicable.

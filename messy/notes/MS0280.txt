@@ -1,0 +1,53 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Joseph Robinson (M), DOB 8/10/1957, Age: 67
+Date of Service: 09/18/2024
+Visit Type: New Patient Visit - Establish Care, Primary Care
+Author: Kevin Osei, MD (Resident)
+
+CHIEF COMPLAINT: Establish care.
+
+HPI: Mr. Robinson is a 67-year-old male presenting to establish primary care after moving to the area. He has a history of hypothyroidism, CKD stage 3, type 2 diabetes, coronary artery disease, and obesity. He states, "I just moved here and need a new doctor for my meds." He reports his diabetes is "pretty stable, I check my sugars sometimes." He denies chest pain, SOB, or edema currently. He says, "My knees bother me more than my heart these days." No recent hospitalizations. He takes levothyroxine, metformin, a statin, and aspirin per his report, though he could not recall exact doses.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2023 (OUTSIDE RECORDS PROVIDED BY PATIENT)***
+PATIENT SEEN FOR FOLLOW UP DIABETES AND CAD. VITALS: BP 138/84, HR 78, WT 231 LB. LABS REVIEWED: A1C 7.8, CREATININE 1.6, EGFR 42. PATIENT REPORTS COMPLIANCE WITH DIET. CARDIOLOGY FOLLOW UP SCHEDULED. CONTINUE CURRENT REGIMEN. PATIENT ADVISED ON LOW SODIUM DIET FOR CKD. DISCUSSED IMPORTANCE OF STATIN ADHERENCE FOR CAD. NO ACUTE ISSUES TODAY. RTC 3 MONTHS.
+***END COPIED FORWARD TEXT***
+
+REVIEW OF SYSTEMS: Positive for occasional cough. Negative for hemoptysis, weight loss, fevers, night sweats. Otherwise as per template, negative.
+
+SOCIAL HISTORY: Patient smokes 1 pack per day for 49 years. He states, "I know I should quit but I'm not ready right now, I've tried before and it didn't stick." He continues to smoke daily and is not currently interested in cessation aids or medications, though he was counseled on the benefits of quitting. He drinks alcohol occasionally, denies illicit drug use. Lives alone, retired factory worker.
+
+FAMILY HISTORY: Father with MI at age 60, mother with hypothyroidism.
+
+MEDICATIONS (per patient report, to be reconciled with pharmacy):
+1. Levothyroxine
+2. Metformin
+3. Atorvastatin
+4. Aspirin 81mg
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 142/88, HR 82, RR 16, Temp 98.4F, Wt 234 lb, BMI 34.2
+General: Obese male, no acute distress
+HEENT: Normocephalic, atraumatic, no thyromegaly appreciated
+CV: Regular rate and rhythm, no murmurs, no JVD
+Lungs: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-tender, obese habitus
+Extremities: No edema, pulses 2+ bilaterally
+Skin: No rashes
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - continue metformin, order updated A1c, CMP
+2. CKD stage 3 - monitor renal function, avoid nephrotoxic agents, recheck eGFR
+3. Coronary artery disease - continue statin and aspirin, will obtain EKG today, consider stress test if symptomatic
+4. Hypothyroidism - check TSH, continue levothyroxine
+5. Obesity - discussed diet and exercise, referral to nutrition considered
+6. Tobacco use - discussed smoking cessation resources including counseling and pharmacotherapy options; patient not ready to quit at this time; will readdress at follow up visit
+7. Health maintenance - discussed age-appropriate screenings including colon cancer screening; discussed lung cancer screening as a topic for future conversation
+
+Plan reviewed with attending, Dr. Angela Ferris, who agrees with above assessment and plan.
+
+RTC in 4-6 weeks or sooner if needed.
+
+---ADDENDUM (later same day, 09/18/2024, 4:47 PM)---
+Addendum by Kevin Osei, MD: Labs drawn today resulted this afternoon. A1c 8.1%, creatinine 1.7, eGFR 39. Discussed results with patient by phone; he was advised to increase metformin dose pending endocrinology referral. He again reiterated he continues to smoke and is not ready to quit at this time. Attending Dr. Ferris notified and concurs with plan to titrate metformin and refer to endocrinology. No other changes to plan.

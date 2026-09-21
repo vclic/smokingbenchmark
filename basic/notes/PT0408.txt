@@ -1,0 +1,46 @@
+General Medicine Clinic Clinic Note
+Date of Service: 02/02/2024
+Patient: Carmen Jenkins   DOB: 7/1/1962   MRN: 57204240
+
+S:
+CC: Follow-up
+HPI: Mrs. Jenkins is a 61-year-old woman with a history of T2DM, depression, HTN, and HLD who presents for routine follow-up of chronic conditions. Feels about the same as last visit. Taking all meds as prescribed.
+
+PMH: Mixed hyperlipidemia, Obstructive sleep apnea on CPAP, Major depressive disorder, recurrent, in remission, HTN, T2DM without complication
+PSH: Right total knee arthroplasty (2010); Left inguinal hernia repair (2018)
+Meds: metformin 1000 mg BID; simvastatin 20 mg nightly; insulin glargine 20 units nightly; sertraline 100 mg daily; trazodone 50 mg nightly PRN; amlodipine 10 mg daily
+Allergies: No known allergies
+SH: Lives with husband and adult daughter. Retired, former nurse. She has no history of tobacco use. No alcohol. No illicit drug use.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 131/68  HR: 85  RR: 18  Temp: 98.8 F  SpO2: 97% on RA  Wt: 165 lbs  BMI: 25.1
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. HTN
+   - Well controlled on home log. No changes.
+2. Obstructive sleep apnea on CPAP: Using CPAP nightly.
+3. Mixed hyperlipidemia: LDL at goal on last check; continue.
+
+f/u 6 mo
+
+Seen and discussed with resident Dr. Chen. I personally saw and examined the patient and agree with the findings and plan as documented.
+Elena Markovic, MD

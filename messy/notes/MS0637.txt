@@ -1,0 +1,43 @@
+URGENT CARE - NURSE INTAKE
+Patient: Joyce Scott (F) DOB 4/27/1964 Age 62
+Date of Service: 04/27/2026
+Provider: Gregory Tan MD
+
+CC: cough x5 days, worse at night, mild sob
+
+Vitals: T 98.9 HR 88 RR 18 BP 132/78 SpO2 96% RA
+Allergies: NKDA
+Meds: levothyroxine 75mcg daily, acetaminophen prn
+
+HPI (nurse note): pt reports cough started ~5 days ago, nonproductive initially now w/ some clear sputum. denies fever, denies chest pain. c/o fatigue and hoarseness. no recent travel no sick contacts. hx of hypothyroidism and osteoarthritis, both stable per pt. Smoking status: Unknown if ever smoked
+
+SOCIAL HISTORY: Lives alone, retired schoolteacher. Family hx notable - mother had COPD and was a lifelong smoker, pt states she recalls mother using home oxygen in later yrs. No other substance use documented at this visit. Pt drinks coffee daily, denies illicit drug use.
+
+---
+PHYSICIAN PROGRESS NOTE - Dr Gregory Tan
+
+Seen and examined 62F here for cough, date of service 04/27/2026. Reviewed nursing intake above. Pt confirms cough onset ~5d ago, denies hemoptysis, denies significant dyspnea at rest, some exertional tightness. No wt loss no night sweats. Osteoarthritis stable, taking otc analgesics as needed, no new joint complaints today. Hypothyroidism - last TSH wnl per pt reccolection, will recheck if not done recently.
+
+ROS: constitutional - fatigue, denies fever/chills. resp - cough, mild sob, denies wheeze at rest. cardiac - denies cp/palpitations. Endocrine - no cold intolerance currently, no wt change. MSK - chronic OA knees, no acute flare.
+
+Exam:
+Gen: NAD, comfortable, mild intermittent cough during visit
+HEENT: oropharynx mildly erythematous, no exudate
+Neck: supple no LAD no thyromegaly
+Lungs: scattered rhonchi bilat, no wheeze, no crackles, good air movement
+CV: RRR nl s1s2 no m/r/g
+Abd: soft nontender
+Ext: no edema, mild crepitus b/l knees c/w known OA
+
+Assessment/Plan:
+1. Acute bronchitis, likely viral - supportive care, fluids, rest, OTC antitussive/expectorant as needed. Return if worsening sob, fever, or hemoptysis.
+2. Hypothyroidism - stable, continue levothyroxine 75mcg daily, will order TSH if due.
+3. Osteoarthritis - stable, continue current mgmt, ortho f/u as scheduled previously.
+4. Smoking status documented as unknown per intake; will clarify at next visit if possible. Given family hx of COPD in mother (lifelong smoker), general lung health and avoidance of smoke exposure discussed with pt in general terms.
+5. Pt educated on red flag sx warranting ER eval.
+
+f/u prn or w pcp in 1-2wks if not improving
+
+---
+ADDENDUM (later same day, 04/27/2026, G Tan MD):
+Pt called back reporting cough slightly improved since visit this AM, no fever, tolerating fluids well. Reassured, no change to plan above. Advised continue supportive care and f/u as previously instructed.

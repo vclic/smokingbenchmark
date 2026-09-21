@@ -1,0 +1,77 @@
+TELEHEALTH VISIT NOTE - URGENT CARE
+Patient: Paula Butler | DOB: 4/13/1958 | Age: 67
+Date of Service: 04/13/2025
+Author: Daniel Reyes, MD
+
+CHIEF COMPLAINT: Cough x 5 days, no fever reported.
+
+HPI: Ms Butler is a 67 y/o female w/ hx GERD, CKD stage 3, depression, osteoporosis, CAD, hypothyroidism who presents via telehealth for cough. Reports dry cough worse at night, mild sore throat, denies chest pain, denies hemoptysis. Some post nasal drip noted. No recent travel no sick contacts. She states cough started after a cold about a week ago, no improvement w/ OTC cough drops. Denies SOB at rest but notes mild dyspnea on exertion which she says is her baseline given CAD. No leg swelling. Reviewed GERD sx, states occasional reflux at night, takes omeprazole most days but admits missing doses sometimes.
+
+ROS: Constitutional - no fever chills wt loss. Resp - cough as above, no wheeze reported by pt. CV - no chest pain palpitations. GI - occasional heartburn. Psych - mood stable on current meds, denies SI. MSK - no new fx or falls.
+
+SOCIAL HISTORY / TOBACCO USE (EHR TEMPLATED BLOCK):
+ Tobacco use status: Current every day smoker
+ Type: Cigarettes
+ Pack-years: 33
+ Counseling given: Yes, advised to quit, discussed cessation resources
+ Alcohol: occasional glass of wine
+ Illicit drug use: denies
+
+PMH / PROBLEM LIST (ICD-10):
+1. GERD - K21.9
+2. Chronic kidney disease stage 3 - N18.3
+3. Major depressive disorder - F32.9
+4. Osteoporosis - M81.0
+5. Coronary artery disease - I25.10
+6. Hypothyroidism - E03.9
+7. Seasonal allergic rhinitis - J30.2 (outdated, pt states resolved years ago, still on list)
+8. Vitamin D deficiency - E55.9 (outdated, last noted 2019, unclear if still active)
+
+MEDICATIONS: Omeprazole 20mg daily, Metoprolol succinate 25mg daily, Atorvastatin 40mg qhs, Levothyroxine 75mcg daily, Sertraline 50mg daily, Alendronate 70mg weekly, Aspirin 81mg daily, Calcium/Vit D supplement.
+
+ALLERGIES: NKDA
+
+VITALS (per home cuff/pulse ox reported by pt during telehealth):
+BP 128/78 | HR 76 | SpO2 96% RA | Temp 98.4F (oral, home thermometer)
+
+EXAM (limited, telehealth):
+General: appears well, no acute distress, speaking full sentences
+HEENT: mild pharyngeal erythema reported by pt via video, no stridor
+Resp: pt auscultated own chest not possible remotely, reports no increased work of breathing observed on camera
+CV: unable to auscultate, pt denies edema on visual inspection of legs
+
+LABS/RESULTS (reviewed, from recent visits):
+- CMP 03/15/2025: Creatinine 1.4 mg/dL, eGFR 46 mL/min/1.73m2, K+ 4.3 mmol/L, Na+ 139 mmol/L
+- TSH 02/10/2025: 2.8 mIU/L (within normal range on current levothyroxine dose)
+- Lipid panel 01/20/2025: LDL 92 mg/dL, HDL 48 mg/dL, Trig 130 mg/dL
+- CBC 03/15/2025: WBC 7.2, Hgb 13.1, Plt 245
+- DEXA scan 11/2024: T-score -2.6 lumbar spine, on alendronate
+
+ASSESSMENT:
+1. Acute cough, likely viral upper respiratory infection vs post-infectious cough
+2. Tobacco use disorder, cigarettes - discussed cessation, pt currently smokes
+3. GERD - stable, counseled on adherence to omeprazole
+4. CKD stage 3 - stable per recent labs
+5. CAD - stable, no new sx concerning for acute coronary syndrome today
+6. Depression - stable per pt report
+7. Osteoporosis - continue current therapy
+8. Hypothyroidism - euthyroid on current dose
+
+PLAN:
+- Supportive care for cough: fluids, honey/lemon, consider guaifenesin OTC
+- If cough persists beyond 2 weeks or worsens, fever develops, or SOB worsens pt instructed to seek in person eval or ER
+- Given hx of CAD and cough, low threshold for in person visit if any chest pain develops
+- Counseled extensively regarding tobacco use given 33 pack-year smoking history documented above; provided info on nicotine replacement options and quitline number; pt states not ready to quit at this time but will consider
+- Continue home meds as above no changes
+- F/u with PCP Dr Nguyen in 2-3 wks for routine follow up of chronic conditions, sooner if needed
+- Pt verbalized understanding of red flag sx to watch for
+
+Time spent on telehealth visit: approx 18 minutes, more than half spent on counseling/coordination of care regarding tobacco use and chronic disease management.
+
+Daniel Reyes, MD
+Electronically signed 04/13/2025 11:42am
+
+---
+ADDENDUM (added later same day, 04/13/2025 4:15pm) - Daniel Reyes, MD:
+Pt called back nursing line this afternoon reporting cough slightly improved after taking OTC guaifenesin, no new sx, no fever, denies chest pain or SOB. Advised continue current plan, no changes needed. Reiterated smoking cessation resources info was sent to pt portal per her request this afternoon. Will follow up as previously scheduled with PCP. No further action needed today.
+Addendum signed electronically by Daniel Reyes, MD 04/13/2025 4:20pm

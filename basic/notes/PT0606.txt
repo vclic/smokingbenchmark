@@ -1,0 +1,46 @@
+Cardiology Clinic Note
+Date of Service: 2023-09-14
+Patient: Curtis Wright   DOB: 11/20/1960   MRN: 38281809
+
+S:
+CC: CP eval
+HPI: Mr. Wright is a 62 year old male with a history of HLD and HTN who presents for evaluation of chest pain. Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Occassionally radiates to L arm. No syncope or palpitations. CV risk factors: HTN, HLD, never smoker.
+
+PMH: Hypertension, Hypercholesterolemia (dx 2014)
+Meds: multivitamin daily; atorvastatin 40 mg daily; lisinopril 40 mg daily; chlorthalidone 12.5 mg daily
+Allergies: Penicillin (rash)
+Social History:
+- Lives alone in an apartment.
+- He has never smoked.
+- Drinks a glass of wine with dinner.
+- Denies illicit drugs.
+FH: Sister - breast cancer at 59. Mother - COPD, was a lifelong smoker.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denys myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 144/93  HR: 59  RR: 20  Temp: 98.1 F  SpO2: 100% on RA  Wt: 171 lbs  BMI: 23.9
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Chest pain: ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Health maintenance: Lung cancer screening: not indicated (never smoker).
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Julia Brennan, MD on 9/14/2023 at 12:14

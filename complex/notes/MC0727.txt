@@ -1,0 +1,55 @@
+NURSE INTAKE NOTE
+Date of Service: 12/28/2023
+Patient: Nancy Sanchez, F, DOB 08/01/1973 (age 50)
+Provider: Farah Siddiqui, MD - Pulmonology
+
+Vitals: BP 128/78, HR 76, RR 16, SpO2 94% RA, Wt 168 lb, Ht 5'4", BMI 28.8
+Chief complaint: Shared decision-making visit for lung cancer screening discussion.
+
+Allergies: NKDA
+Medications: Albuterol HFA inhaler PRN, Tiotropium 18 mcg inhaled daily, Fluticasone/salmeterol 250/50 BID, Levothyroxine 88 mcg daily, Alendronate 70 mg weekly, Montelukast 10 mg daily, Vitamin D3 2000 IU daily, Calcium carbonate 600 mg BID
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss
+ENT: denies sore throat, denies hoarseness
+Respiratory: reports chronic cough, denies hemoptysis, uses CPAP nightly for OSA
+Cardiovascular: denies chest pain, denies palpitations
+GI: denies nausea, vomiting, diarrhea
+GU: denies dysuria
+Musculoskeletal: denies joint swelling, reports mild low back pain
+Neuro: denies headache, denies syncope
+Skin: denies rash
+Psych: denies depression, denies anxiety
+(all other systems reviewed and negative)
+
+PHYSICIAN PROGRESS NOTE - Farah Siddiqui, MD
+
+HPI: Ms. Sanchez is a 50-year-old woman with a history of COPD, obstructive sleep apnea, hypothyroidism, asthma, and osteoporosis who presents today, 12/28/2023, for a shared decision-making visit regarding lung cancer screening. She states, "I just want to know if I still need to worry about my lungs since I quit." She denies hemoptysis, denies unexplained weight loss, and reports occasional dyspnea on exertion which she attributes to her COPD. She is compliant with her inhalers and CPAP.
+
+Social History: Patient works part time as a receptionist, lives with her husband, denies current alcohol use, denies illicit drug use. She has a 54 pack-year smoking history. She is a former smoker. She reports, "I still think about it sometimes when I'm stressed, but I haven't picked one up in a while."
+
+Physical Exam:
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: no lymphadenopathy, no thyromegaly
+Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+Cardiac: regular rate and rhythm, no murmurs
+Abdomen: soft, non-tender, non-distended
+Extremities: no clubbing, no cyanosis, no edema
+Skin: warm, dry, intact
+
+Problem List (ICD-10):
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- G47.33 Obstructive sleep apnea
+- E03.9 Hypothyroidism, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- Z87.891 Personal history of nicotine dependence (former smoker)
+- I10 Essential hypertension (outdated - resolved per prior note 2021)
+
+Assessment/Plan:
+50-year-old woman, former smoker with a 54 pack-year smoking history, here today 12/28/2023 for lung cancer screening shared decision-making discussion. We reviewed the risks and benefits of screening in detail. Discussed benefits and limitations, including potential for false positives, incidental findings, and radiation exposure. Patient verbalized understanding. Continue current COPD/asthma regimen. Continue CPAP for OSA. Continue levothyroxine, monitor TSH in 6 months. Continue alendronate for osteoporosis, recheck DEXA in 1-2 years. Follow up in pulmonology clinic in 6 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 12/28/2023, 4:45 PM) - Farah Siddiqui, MD:
+Spoke with patient again by phone after she reviewed educational materials provided in clinic. She had additional questions about the screening process which were addressed. No changes to plan above. She continues to deny any hemoptysis or new respiratory symptoms since this morning's visit.

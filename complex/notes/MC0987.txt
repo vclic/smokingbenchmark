@@ -1,0 +1,44 @@
+PULMONOLOGY FOLLOW-UP NOTE
+Date of Service: 01/04/2026
+Author: Isaac Moreno, PA-C
+
+Patient: Gloria Taylor, F, DOB 01/04/1972 (age 54)
+
+Reason for visit: ED-to-clinic follow-up s/p COPD exacerbation.
+
+HPI: Pt seen in ED 12/29/2025 for dyspnea, wheeze, productive cough - treated w/ nebs, steroid burst, azithro, dc'd home. Today reports improved breathing, still some fatigue w exertion. No fevers, no chest pain. Denies hemoptysis. Home O2 sat 94-96% on RA per pulse ox.
+Smoking history: Lifelong non-smoker. Notably, father was a heavy smoker who died of lung cancer - pt reports this weighs on her mind given family hx.
+Social hx also notes pt quit drinking alcohol in 2012, denies current EtOH use.
+
+--- COPIED FORWARD FROM VISIT 08/14/2025 (Pulm clinic, Dr. Alvarez) ---
+Pt with h/o asthma, CAD s/p stent 2019, T2DM on metformin, HTN, hypothyroidism on levothyroxine, PAD, CKD stage 3 (baseline Cr ~1.6). Reports use of albuterol PRN, budesonide/formoterol BID. Denies tobacco use, lifelong non-smoker (confirmed again at that visit). Spirometry 08/2025: FEV1 58% predicted, FEV1/FVC 0.61, consistent w/ moderate obstruction. Pt counseled on inhaler technique, adherence. Discussed pulm rehab referral - pt declined at that time due to transportation issues. f/u 6 months or sooner if worsening sx.
+--- end copied text ---
+
+ROS: Denies chest pain, palpitations, edema (stable PAD sx, claudication w/ prolonged walking unchanged). Denies polyuria/polydipsia. No new numbness/tingling in feet. Denies cold intolerance, denies constipation (on levothyroxine, stable dose).
+
+Medications: Albuterol HFA PRN, budesonide/formoterol 160/4.5 BID, metformin 1000mg BID, atorvastatin 40mg daily, clopidogrel 75mg daily, levothyroxine 75mcg daily, lisinopril 10mg daily, cilostazol 100mg BID.
+
+Allergies: NKDA.
+
+Labs/Results:
+- CBC 12/29/2025: WBC 11.2 (elevated, likely 2/2 exacerbation + steroid), Hgb 12.8, Plt 245.
+- BMP 12/29/2025: Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.7 (baseline ~1.6, stable CKD3), Glucose 168.
+- TSH 11/15/2025: 2.1 (WNL on current levothyroxine dose).
+- A1c 11/15/2025: 7.4%.
+- CXR 12/29/2025: no acute infiltrate, mild hyperinflation, no effusion.
+
+Exam: Vitals BP 138/82, HR 78, RR 18, SpO2 95% RA, Temp 98.1F. Gen - NAD, comfortable. Lungs - mild expiratory wheeze bilat bases, no crackles. CV - RRR, no m/r/g. Ext - no edema, distal pulses 1+ bilat (baseline for PAD). Skin warm, dry.
+
+Assessment/Plan:
+1. COPD exacerbation, recently resolved - continue current inhalers, f/u spirometry in 3 mo.
+2. Asthma-COPD overlap - stable on budesonide/formoterol.
+3. CAD - continue statin, antiplatelet, stable.
+4. T2DM - A1c 7.4%, continue metformin, recheck in 3 mo.
+5. CKD stage 3 - Cr stable at baseline, monitor.
+6. Hypothyroidism - TSH WNL, continue current dose.
+7. PAD - stable claudication, continue cilostazol, f/u vascular as scheduled.
+8. Family hx of lung cancer discussed; screening options discussed with patient given risk factors, no imaging ordered today.
+
+Return to clinic in 3 months or sooner if worsening respiratory symptoms.
+
+/s/ Isaac Moreno, PA-C

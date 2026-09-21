@@ -1,0 +1,46 @@
+TELEHEALTH URGENT CARE VISIT NOTE
+Patient: William Johnson | DOB: 9/2/1949 (age 75) | Sex: M
+Date of Service: 12/13/2024
+Provider: Kevin Osei, MD
+Visit type: Telehealth, urgent care - cough
+
+CHIEF COMPLAINT: cough x several days, pt calling in for eval, states "i cant seem to shake this cough"
+
+HPI: 75 yo male with hx of osteoarthritis, hypothyroidism, HFrEF, CKD stage 3, OSA, and obesity presents via video visit for cough. Pt reports cough started about a week ago, denies fever, some mild dyspnea on exertion which he says is "about the same as usual" for him given his heart failure. No chest pain no hemoptysis. He does note some increased sputum production, whiteish in color. Denies sick contacts. Video quality poor at times, [inaudible] portions of interview regarding recent travel. Pt says he has been compliant with his lasix and other heart failure meds although he ran out of one of them last week and its unclear which one [inaudible]. Denies leg swelling worse then baseline denies orthopnea worse than usual he sleeps with 2 pillows same as before.
+
+PMH: osteoarthritis, hypothyroidism, heart failure w/ reduced EF, CKD stage 3, OSA (uses CPAP nightly per pt report, though today he admits he has not been using it consistently the last few months), obesity
+
+MEDICATIONS: furosemide, levothyroxine, metoprolol succinate, lisinopril, atorvastatin (per pt report, list not independently verified this visit due to call quality)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Patient has a 44 pack-year smoking history. He currently smokes cigarettes. Pt reports he had previously quit smoking in 2011 but relapsed in 2014 and has been smoking since. Counseled extensively today regarding smoking cessation, offered resources and discussed nicotine replacement options, pt states he is "not ready right now" but will think about it. Alcohol - occasional beer on weekends per pt. Lives with spouse, retired machinist.
+
+[NOTE: Templated field below is outdated/incorrect, being retained per system requirement but flagged - see narrative social history above for accurate/current smoking status]
+Smoking status: Never Smoker -- THIS FIELD IS INCORRECT, disregard, see social hx narrative above for accurate history, this appears to be an old template default that did not get updated.
+
+----- COPIED FROM PRIOR NOTE DATED 6/13/2023 (unchanged, for reference only, reflects status as of that date) -----
+Social History (as documented 6/13/2023): Current smoker.
+----- END COPIED SECTION -----
+
+ROS: as per HPI, otherwise negative in detail, general review limited by call quality/[inaudible] segments, pt denies weight loss denies night sweats denies hemoptysis
+
+VITALS: unable to obtain formal vitals via telehealth, pt reports home BP cuff reading of 138/82 this AM, denies fever by subjective feel
+
+EXAM: Limited telehealth exam. Pt appears comfortable, no acute distress noted on video, speaking in full sentences without obvious increased work of breathing. Skin color appears normal on video though lighting poor. Unable to auscultate heart/lungs via telehealth. No visible peripheral edema on camera exam of lower legs bilaterally although quality limited.
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs early bronchitis - supportive care, fluids, rest, OTC cough suppressant as needed, return to clinic/ED if worsening dyspnea, fever, or hemoptysis
+2. HFrEF - stable per pt report, continue current regimen, advised to obtain BP/weight log and follow up with cardiology, discussed importance of medication compliance, will need to clarify which med he ran out of
+3. CKD stage 3 - stable, avoid NSAIDs for OA pain given renal function, recommend acetaminophen instead
+4. OSA - discussed importance of consistent CPAP use, pt states will try to resume
+5. Tobacco use - as above, extensive counseling provided, pt not ready to quit at this time, screening for lung cancer was discussed with patient as a general topic but no imaging ordered today, will readdress at future visit
+6. Osteoarthritis - stable, continue current management
+7. Hypothyroidism - stable, continue levothyroxine, check TSH at next in person visit
+
+Follow up: pt advised to schedule in person visit with PCP within 1-2 weeks for full exam given limitations of telehealth today, return sooner or go to ED for worsening symptoms
+
+Electronically signed: Kevin Osei, MD
+
+---ADDENDUM (same day, later)---
+Addendum 12/13/2024 1645: Pt's daughter called clinic after visit to clarify that pt did in fact fill his furosemide refill yesterday, so medication compliance concern above may be resolved, will still recommend f/u with cardiology as planned. No other changes to plan. -Kevin Osei, MD

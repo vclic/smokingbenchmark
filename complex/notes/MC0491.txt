@@ -1,0 +1,64 @@
+GERIATRICS RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Hannah Weiss, NP (resident documentation, attending co-signature pending)
+Date of Service: 12/11/2025
+
+PATIENT: Robert Williams M DOB 3/18/1965 Age 60
+
+CC: Geriatric assessment, routine follow-up hypothyroidism and CKD stage 3
+
+HPI: Mr Williams is a 60 year old male presenting for scheduled geriatric assessment. He reports overall stable mood, no falls, ambulates without assistive device. Denies chest pain, denies dyspnea at rest though notes mild exertional breathlessness climbing stairs. Sleep is fair. Appetite good. He lives alone, family checks in weekly. No new complaints today reviewd systems otherwise negative except as below.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+  - Pack-years: Not on file
+  - Details: Patient reports smoked a quarter pack (about 5 cigarettes) per day for 22 years, then increased to half a pack (about 10 cigarettes) per day for 21 years and continues to smoke at that current rate.
+  - Readiness to quit: Not ready to quit at this time
+Alcohol use: Not on file
+Substance use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+Counseling: Discussed smoking cessation options including nicotine replacement and counseling referral; patient states he still smokes and is not ready to quit at this visit. Advised to quit, offered resources, will readdress at next visit. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+PROBLEM LIST (with ICD-10):
+1. Hypothyroidism (E03.9) - on levothyroxine, stable
+2. Chronic kidney disease stage 3 (N18.3) - monitored, nephrology f/u prn
+3. Tobacco use disorder (Z72.0) - ongoing
+4. Hyperlipidemia (E78.5) - outdated entry, per pt no longer on statin, needs review
+5. GERD (K21.9) - intermittent, PRN omeprazole
+
+ROS: Constitutional - no fever, no weight loss. Resp - mild dyspnea on exertion as above, no cough, no hemoptysis. Cardiac - no chest pain, no palpitations. GI - occasional reflux. GU - nocturia x1. MSK - mild knee stiffness AM. Neuro - no focal deficits. Psych - mood stable, no SI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 95% RA, Wt 182 lb
+General: Well-appearing, no acute distress
+HEENT: PERRLA, oropharynx clear
+Neck: No thyromegaly appreciated, no lymphadenopathy
+CV: RRR, no murmur
+Resp: Mild bibasilar crackles vs transmitted upper airway sounds, no wheeze
+Abd: Soft, nontender, nondistended
+Ext: No edema
+Skin: Nicotine staining noted on fingertips of right hand
+Neuro: A&Ox3, gait steady
+
+LABS/RESULTS:
+11/20/2025 - TSH 3.1 (WNL), Free T4 1.2 (WNL)
+11/20/2025 - Creatinine 1.6 mg/dL, eGFR 48 mL/min/1.73m2 (consistent with CKD stage 3)
+11/20/2025 - CBC WNL
+11/20/2025 - Lipid panel: Total chol 190, LDL 110, HDL 45, TG 150
+10/05/2025 - Chest xray: no acute infiltrate, mild hyperinflation, no lymph node consult needed at this time
+
+ASSESSMENT/PLAN:
+1. Hypothyroidism - stable on current dose levothyroxine, recheck TSH in 6 mo
+2. CKD stage 3 - stable, avoid nephrotoxic agents, monitor labs q6mo, renal diet reviewed
+3. Tobacco use disorder - patient continues smoking, counseled today, not ready to quit, will continue to offer cessation resources at future visits; declines pharmacotherapy at this time
+4. Hyperlipidemia - will recheck lipid panel, consider statin discussion at next visit given outdated status of this problem
+5. GERD - continue PRN omeprazole
+6. Health maintenance - immunizations reviewed and up to date, preventive screening discussions ongoing including general discussion of lung cancer screening guidelines without specific recommendation made today
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan agrees to follow up.
+
+ATTESTATION: I have reviewed the resident's history and exam findings and discussed the plan of care with Ms Weiss. I agree with the assessment and plan as documented above.
+
+-- Attending physician cosignature pending in chart --

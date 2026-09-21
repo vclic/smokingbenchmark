@@ -1,0 +1,53 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: James Thompson (M) DOB: 3/11/1953 (age 71)
+Date of Service: 07/13/2024
+Author: Priya Raman, MD (NP progress note)
+
+CHIEF COMPLAINT: Chest pain evaluation
+
+PROBLEM LIST (ICD-10):
+- E03.9 Hypothyroidism, unspecified
+- N18.3 Chronic kidney disease, stage 3
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina (old, from prior cardiology note - status unclear, carried forward)
+- Z87.891 Personal history of nicotine dependence
+- E78.5 Hyperlipidemia, unspecified (chart carried forward, not addressed today)
+
+HPI: Mr. Thompson is a 71-year-old male who presents today, 7/13/2024, for evaluation of intermittent chest discomfort over the past several weeks. He describes the pain as a pressure-like sensation across the mid-sternum, occurring with exertion such as climbing stairs, lasting a few minutes and resolving with rest. No radiation to the arm or jaw reported today, though he endorses mild associated shortness of breath. No nausea, diaphoresis, or palpitations. He denies any recent chest trauma. He has not had similar symptoms at rest. He took his usual medications this morning.
+
+SOCIAL HISTORY (EHR TEMPLATE - DISCRETE FIELDS):
+Tobacco use status: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+PAST MEDICAL HISTORY: Hypothyroidism, CKD stage 3, hyperlipidemia (per chart, though poorly documented in recent notes).
+
+MEDICATIONS: Levothyroxine 75 mcg daily, atorvastatin 20 mg daily, aspirin 81 mg daily.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Positive for exertional chest pressure and mild dyspnea on exertion as above. Negative for fever, chills, weight loss, cough, hemoptysis, leg swelling, or syncope. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 97% on room air, Temp 98.2F
+General: Well-appearing, no acute distress
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated. No JVD.
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+Extremities: No edema, pulses 2+ throughout.
+Skin: Warm, dry, no cyanosis.
+
+LABS/STUDIES REVIEWED: Basic metabolic panel from last month notable for creatinine 1.6 (baseline for CKD3). TSH within normal limits on current levothyroxine dose. EKG today shows normal sinus rhythm, no acute ST-T wave changes.
+
+ASSESSMENT AND PLAN:
+1. Chest pain, likely exertional, concerning for possible coronary artery disease given history and risk factors. Notably, patient reports a substantial prior tobacco history: he smoked 2 packs per day for 26 years, then cut back to 1.5 packs per day for 17 years before ultimately quitting. He is now a former smoker. He reports having moved to this state in 2011, and quit smoking 5 years after that move. Given his prior tobacco exposure and current symptoms, will proceed with stress testing to further evaluate for ischemia.
+2. Hypothyroidism - stable on current levothyroxine dose, TSH within normal range, continue current regimen.
+3. CKD stage 3 - stable, will continue to monitor renal function with routine labs, renally-dose medications as appropriate.
+4. Hyperlipidemia - continue atorvastatin, will reassess lipid panel at next visit.
+
+Plan discussed with patient, who verbalized understanding and agreement. Follow-up scheduled after stress test results are available.
+
+---
+ADDENDUM (later same day, 07/13/2024, added by Priya Raman, MD):
+Spoke with patient again by phone this afternoon after he called with question about scheduling of stress test. Reassured him regarding the plan discussed in clinic. He denies any worsening symptoms since this morning's visit. No new chest pain, no shortness of breath at rest. Advised to call back or go to the emergency department if symptoms worsen or if he develops chest pain at rest, pain radiating to arm/jaw, or significant shortness of breath. He verbalized understanding. Stress test scheduling confirmed with cardiology diagnostic testing department for later this week.

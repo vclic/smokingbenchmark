@@ -1,0 +1,49 @@
+NURSE INTAKE - Cardiology
+DOS: 06/16/2025
+Pt: Jose Green, M, DOB 06/16/1945, age 80
+CC: chest pain eval, referred by PCP
+
+VS: BP 138/82, HR 78 reg, RR 16, SpO2 96% RA, Temp 97.8F, Wt 182 lb
+Pt ambulates independently, uses cane occ 2/2 PAD claudication.
+
+HPI (per Dr. Dunn):
+Pt is an 80 yo M w/ hx PAD, hypothyroidism, hyperlipidemia, gout p/w intermittent chest tightness x 2 wks. States "it feels like pressure, comes on when I walk to the mailbox and back." Denies radiation to arm/jaw. No assoc diaphoresis. Some SOB w exertion. No PND/orthopnea. Pt states "I get the same cramping in my legs I always get, but this chest thing is new." Denies palpitations, syncope.
+
+ROS: otherwise negative except as above. Denies fevers, chills, wt loss.
+
+SOCIAL HISTORY:
+Tobacco - smoked 1.5 packs/day x 26 yrs, then quit completely for 5 yrs, then restarted at 2 packs/day x 29 yrs and continues to smoke currently.
+ETOH - occasional beer, denies drug use.
+Lives w/ spouse, retired machinist.
+
+[Copied from note dated 5/16/2023 - Social Hx as documented at that visit]:
+"Tobacco use: current smoker."
+(no further detail given in that prior note)
+
+PMH: PAD (s/p claudication w/u), hypothyroidism, hyperlipidemia, gout
+Meds: levothyroxine, atorvastatin, allopurinol, cilostazol, aspirin 81mg
+Allergies: NKDA
+
+PHYSICAL EXAM:
+Gen: NAD, alert, appropriate for age
+CV: RRR, no m/r/g appreciated, no JVD
+Resp: CTAB, no wheeze/rales
+Ext: cool distal extremities b/l, diminished DP/PT pulses, no edema, no ulcers
+Neuro: grossly nonfocal
+
+EKG in office: NSR, nonspecific ST-T changes, no acute ST elevation.
+
+ASSESSMENT/PLAN:
+80 yo M w/ PAD, HLD, hypothyroidism, gout p/w new exertional chest tightness, concerning for possible angina given vascular risk factors including longstanding tobacco use.
+
+1. Chest pain / possible CAD - obtain troponin, repeat EKG, schedule stress test. Cont ASA 81mg. D/w pt risk factors incl continued smoking; pt continues to smoke despite counseling given today re: cardiac and vascular risk. Advised to quit, discussed general health risks of ongoing smoking including vascular/cardiac risk, pt states will "think about it." Broader discussion of screening for smoking-related disease occurred but no specific test ordered or scheduled today as part of this visit.
+2. PAD - cont cilostazol, ABI stable per last vascular note, follow with vascular surgery as scheduled.
+3. HLD - cont atorvastatin, lipid panel today.
+4. Hypothyroidism - TSH today, cont levothyroxine same dose.
+5. Gout - stable, cont allopurinol, no flare currently.
+
+F/u 1 wk or sooner if sx worsen, return precautions given (worsening chest pain, SOB, diaphoresis - call 911).
+
+---
+ADDENDUM (later same day, 06/16/2025, M. Dunn DO):
+Troponin result back, negative x1. Pt tolerated visit well, no acute distress on discharge. Repeat troponin ordered in 3 hrs per protocol given anginal-sounding sx. Reiterated smoking cessation counseling verbally to pt and spouse prior to d/c; pt again advised to quit, will reconsider at f/u visit. Cardiology stress test scheduling confirmed for next wk. Pt educated on when to seek emergent care. No further changes to plan at this time.

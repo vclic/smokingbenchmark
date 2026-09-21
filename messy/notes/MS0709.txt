@@ -1,0 +1,77 @@
+PULMONOLOGY - Shared Decision-Making Visit
+Date of Service: 02/15/2024
+Author: Hannah Weiss, NP
+
+Patient: Lan Hernandez, F, DOB 02/15/1945 (age 79)
+
+CHIEF COMPLAINT: Lung cancer screening SDM visit, referred by PCP.
+
+HPI: Ms. Hernandez is a 79-year-old woman with h/o T2DM, gout, HFrEF, hypothyroidism, and GERD who presents today for a shared decision-making discussion regarding lung cancer screening. She reports feeling at her baseline, no new cough, hemoptysis, or unintentional weight loss. She denies chest pain or worsening dyspnea beyond her usual exertional limitations from HF. She was referred by Dr. Alvarez after routine health maintenance review flagged a possible screening discussion given her smoking history.
+
+***COPIED FORWARD FROM VISIT 09/12/2022 (Cardiology f/u note - left in chart by prior transcription error, not reflective of today's exam)***
+Patient reports doing well on current diuretic regimen, denies orthopnea/PND, weight stable at 142 lbs. Lower extremity edema trace bilaterally. Continue current metoprolol succinate dose, recheck BMP in 3 months. Discussed low sodium diet extensively. Patient's daughter present at visit and assisted with med reconciliation. Will follow up in cardiology clinic in 6 months or sooner if symptoms worsen.
+***END COPIED TEXT***
+
+SOCIAL HISTORY: Patient smoked on and off for most of her adult life; she is a former smoker who quit smoking in March 2022. She quit drinking alcohol in 1999 and has remained abstinent since. No illicit drug use reported. Lives with daughter, retired seamstress.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss/gain.
+HEENT: Denies vision changes, hearing loss, sore throat.
+Cardiovascular: Denies chest pain, palpitations; chronic mild exertional dyspnea at baseline per HF history.
+Respiratory: Denies cough, wheeze, hemoptysis, dyspnea at rest.
+GI: Occasional heartburn, controlled with medication. Denies nausea, vomiting, diarrhea, constipation, blood in stool.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Occasional gout flares in great toe, currently quiescent.
+Endocrine: Denies polyuria, polydipsia; hypothyroidism stable on levothyroxine.
+Neuro: Denies headache, dizziness, syncope, focal weakness.
+Skin: Denies rash, new lesions.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 96% RA, Temp 97.8F, Wt 140 lbs, Ht 5'2"
+General: Well-appearing elderly female, NAD, appropriate for age.
+HEENT: NC/AT, PERRLA, oropharynx clear, no lymphadenopathy.
+Cardiovascular: RRR, no murmur/rub/gallop appreciated today, trace bilateral LE edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales/rhonchi, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No acute joint swelling, gout not active today.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly non-focal.
+Psych: Mood/affect appropriate.
+
+PROBLEM LIST:
+1. Type 2 diabetes mellitus - E11.9
+2. Gout, unspecified - M10.9
+3. Heart failure with reduced ejection fraction - I50.22 (outdated - last echo 2021, EF 35%, repeat echo overdue)
+4. Hypothyroidism, unspecified - E03.9
+5. GERD - K21.9
+6. Hyperlipidemia - E78.5 (chart shows resolved per 2020 note, unclear if still active - needs reconciliation)
+7. Former tobacco use - Z87.891
+
+MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Levothyroxine 75mcg PO daily
+3. Allopurinol 300mg PO daily
+4. Metoprolol succinate 50mg PO daily
+5. Furosemide 20mg PO daily
+6. Lisinopril 10mg PO daily
+7. Omeprazole 20mg PO daily
+8. Atorvastatin 20mg PO daily
+9. Colchicine 0.6mg PO PRN gout flare
+10. Aspirin 81mg PO daily
+
+ASSESSMENT/PLAN:
+79-year-old former smoker (quit 03/2022) with h/o smoking on and off for most of her adult life, presenting today for shared decision-making discussion regarding lung cancer screening.
+
+1. Lung cancer screening - Discussed potential benefits and risks of screening at length, including false positives, incidental findings, and radiation exposure. Patient verbalized understanding. No imaging ordered today; will discuss further with PCP and finalize decision at next visit.
+2. HFrEF - Stable today on exam, no signs of decompensation. Will coordinate with cardiology re: repeat echo given last study from 2021.
+3. T2DM - Continue metformin, will check A1c at next lab draw.
+4. Gout - Quiescent, continue allopurinol, colchicine PRN.
+5. Hypothyroidism - Stable, continue levothyroxine, TSH due for recheck.
+6. GERD - Well controlled on omeprazole, continue current regimen.
+7. Tobacco cessation - Reinforced continued abstinence, praised patient for maintaining smoking cessation since March 2022.
+
+Return to clinic in 3 months or sooner if symptoms arise. Extensive discussion had with patient regarding above; all questions answered.
+
+Hannah Weiss, NP

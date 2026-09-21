@@ -1,0 +1,40 @@
+Cardiology Clinic Note
+Date of Service: November 4, 2024
+Patient: Ronald O'Brien   DOB: 4/28/1956   MRN: 63367353
+
+SUBJECTIVE:
+CC: Heart failure f/u
+HPI: Mr. O'Brien is a 68-year-old man with a history of CHF, T2DM, GERD, and obesity who presents for heart failure follow-up. Weight stable on home scale. Mild orthopnea, 2 pillows. DOE with 1 block. Last echo October 4, 2023: EF 28%.
+
+PMH: Type 2 diabetes mellitus, Hypertension, Generalized anxiety disorder, Gastroesophageal reflux disease, Class I obesity, HFrEF
+PSH: Cataract extraction, bilateral
+Meds: amlodipine 5 mg daily; bupropion XL 150 mg daily; spironolactone 25 mg daily; famotidine 20 mg BID; furosemide 20 mg daily; empagliflozin 10 mg daily; metformin 1000 mg BID; lisinopril 10 mg daily
+Allergies: Codeine (nausea)
+SH: Widowed; lives with son. Retired, former postal worker. No alcohol. Denies illicit drugs.
+FH: Father - stroke. Sister - hypothyroidism.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 141/76  HR: 78  RR: 20  Temp: 97.9 F  SpO2: 100% on RA  Wt: 203 lbs  BMI: 32.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Fine bibasilar crackles
+  Abd: Soft, NT/ND, +BS
+  Ext: Trace bilateral ankle edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+Labs (10/12/2024): A1c 8.9%, Cr 0.73, K 4.2, Hgb 12.5
+
+ASSESSMENT/PLAN:
+1. Heart failure: Stable; continue current regimen, daily weights.
+2. Tobacco abuse: Pt continues to smoke, 1.0 PPD x 52 years. Discussed cessation (5 min). He is motivated to quit. Offered NRT - declined. Meets USPSTF criteria for LCS - LDCT ordered.
+3. Type 2 diabetes mellitus
+   - Repeat A1c in 3 months. Annual eye exam reminder.
+4. Gastroesophageal reflux disease: Trial PPI step-down.
+
+Return in about 12 months (around 11/4/2025).
+
+Electronically signed by Hannah Weiss, NP on 11/4/2024 at 09:41

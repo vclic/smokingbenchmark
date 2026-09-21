@@ -1,0 +1,82 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: William Williams (M)
+DOB: 06/28/1972 (Age 52)
+Date of Service: 06/28/2024
+Author: Anita Patel, MD, Family Medicine
+
+Dear Dr. Referring Physician,
+
+Thank you for referring Mr. Williams for his annual wellness visit today, 06/28/2024. He is a 52-year-old male with a history of GERD, COPD, peripheral artery disease, and chronic kidney disease stage 3, presenting for routine follow-up and preventive care review.
+
+HPI:
+Mr. Williams reports feeling "about the same as last year, maybe a bit more short of breath when I mow the lawn." He denies chest pain, fevers, or hemoptysis. He states, "I still smoke, but I've set a quit date of 08/12/2024." He reports ongoing reflux symptoms controlled with medication, and intermittent claudication in his left calf after walking about two blocks. He denies orthopnea or PND. He notes his energy is stable and appetite is normal.
+
+He continues to smoke cigarettes currently, and reports a 30-year history of smoking (no specific pack quantity documented in today's visit). He was counseled extensively today on the health risks of continued smoking and the benefits of cessation, and he reiterated his plan to quit on 08/12/2024.
+
+[COPIED FORWARD FROM VISIT DATED 03/14/2022 — RETAINED FOR CONTINUITY]
+Pt is a pleasant gentleman who returns for follow-up of COPD and PAD. He reports stable symptoms, denies acute exacerbation. On exam, lungs are clear to auscultation bilaterally with scattered expiratory wheezes. Extremities: 1+ dorsalis pedis pulses bilaterally, no edema. Discussed importance of statin adherence and antiplatelet therapy for PAD. GERD symptoms well controlled on PPI. CKD stage 3 stable per most recent labs. Continue current medication regimen. Follow-up in 6 months or sooner if symptoms worsen. [END COPIED TEXT]
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss.
+HEENT: denies vision changes, hearing loss, sore throat.
+Cardiovascular: denies chest pain, palpitations; positive for claudication as above.
+Respiratory: positive for exertional dyspnea; denies hemoptysis, wheezing at rest.
+GI: positive for occasional heartburn; denies nausea, vomiting, blood in stool.
+GU: denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: denies joint pain, swelling.
+Neurological: denies headache, dizziness, numbness.
+Skin: denies rash, lesions.
+Psychiatric: denies depression, anxiety.
+All other systems reviewed and negative unless otherwise noted above.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.4 F, SpO2 94% on room air, Wt 198 lb, Ht 5'10".
+General: well-appearing male, no acute distress.
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: no JVD, no lymphadenopathy.
+Cardiovascular: regular rate and rhythm, no murmurs, gallops, or rubs.
+Respiratory: mildly diminished breath sounds bilaterally, occasional expiratory wheeze, no crackles.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: diminished dorsalis pedis pulses bilaterally, no edema, no ulcerations.
+Skin: warm, dry, intact.
+Neurologic: alert and oriented x3, cranial nerves II-XII grossly intact.
+
+Labs/Results (most recent, drawn 06/25/2024):
+- CBC: WBC 6.8, Hgb 14.1, Hct 42.3%, Plt 210
+- BMP: Na 139, K 4.4, Cl 101, CO2 24, BUN 22, Creatinine 1.5 (baseline for CKD3), eGFR 52
+- Lipid panel (fasting): Total cholesterol 178, LDL 102, HDL 41, Triglycerides 150
+- HbA1c: 5.7%
+- Spirometry (04/2024): FEV1/FVC 0.62, consistent with moderate COPD
+
+Problem List:
+- J44.9 COPD, unspecified
+- I73.9 Peripheral artery disease, unspecified
+- K21.9 GERD
+- N18.3 Chronic kidney disease, stage 3
+- I10 Essential hypertension (outdated - resolved per pt, no longer on antihypertensive, to reconcile)
+- E78.5 Hyperlipidemia
+- Z87.891 Personal history of nicotine dependence (outdated - patient reports current use, to update)
+
+Medications:
+1. Omeprazole 20 mg PO daily
+2. Tiotropium inhaler 18 mcg, one inhalation daily
+3. Albuterol HFA inhaler, 2 puffs q4-6h PRN wheezing
+4. Clopidogrel 75 mg PO daily
+5. Atorvastatin 40 mg PO daily
+6. Lisinopril 10 mg PO daily (patient reports not taking regularly - see note above)
+7. Cilostazol 100 mg PO BID for claudication
+8. Multivitamin daily
+
+Assessment/Plan:
+1. COPD - stable, moderate obstruction on spirometry. Continue tiotropium and albuterol PRN. Discussed smoking cessation extensively; patient reaffirms quit date of 08/12/2024. Encouraged use of nicotine replacement or pharmacotherapy (varenicline vs bupropion) to support quit attempt; will follow up closer to quit date to finalize plan.
+2. Peripheral artery disease - stable, on antiplatelet and cilostazol. Continue current regimen, encourage walking program as tolerated.
+3. GERD - well controlled on omeprazole, continue current dose.
+4. CKD stage 3 - stable, creatinine and eGFR consistent with prior. Continue to avoid nephrotoxic agents, monitor labs in 6 months.
+5. Hyperlipidemia - LDL at goal on atorvastatin, continue current dose.
+6. Health maintenance - discussed age-appropriate cancer screening; lung cancer screening was discussed generally as part of preventive counseling given smoking history. Colonoscopy up to date. Reviewed vaccination status, influenza and pneumococcal vaccines administered today.
+
+Will follow up in 3 months, sooner if symptoms worsen. Thank you again for this referral; please do not hesitate to contact me with any questions.
+
+Sincerely,
+Anita Patel, MD
+Family Medicine

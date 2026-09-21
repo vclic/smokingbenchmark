@@ -1,0 +1,62 @@
+PRIMARY CARE PROGRESS NOTE
+Patient: Kenneth Jones
+DOB: 9/9/1973 (age 50)
+Date of Service: 10/21/2023
+Author: Teresa Alvarez, NP
+
+REASON FOR VISIT: Hospital discharge follow-up s/p pneumonia.
+
+HPI: Mr. Jones is a 50-year-old male who was recently hospitalized for community-acquired pneumonia, now s/p discharge presenting for follow up. He reports improved cough and decreased shortness of breath since discharge, though he states he still gets winded walking up stairs, he denies fever or chills at this time, he denies chest pain, he does note some ongoing fatigue which he attributes to being cooped up in the hospital for several days, patient states he has been taking the antibiotics as prescribed and finished the course two days ago, he denies any rash or GI upset from the medication, he was seen by pulm while inpatient and follow up with them was recommended but he has not yet scheduled that appt, [inaudible] regarding whether he received the pneumococcal vaccine prior to discharge, will verify in records.
+
+PMH: Depression, peripheral artery disease.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+  - Type: Cigarettes
+  - Details: Patient reports smoking 3 packs per day for approximately 16 years, then cut back to 2 packs per day for the past 13 years and continues to smoke at that rate currently.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies binge drinking
+Drug use: Reports smoking marijuana a few times a month, denies other illicit drug use
+Living situation: 
+Occupation: Not on file
+Exercise: Sedentary
+
+MEDICATIONS:
+1. Sertraline 100 mg PO daily
+2. Clopidogrel 75 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Cilostazol 100 mg PO BID
+5. Amoxicillin-clavulanate 875-125 mg PO BID (completed course)
+6. Albuterol inhaler PRN
+7. Aspirin 81 mg PO daily
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, denies chills, reports fatigue as above. HEENT: no sore throat, no ear pain. Cardiovascular: denies chest pain, denies palpitations, reports intermittent leg cramping with ambulation consistent with known PAD. Respiratory: improving cough, decreased dyspnea on exertion compared to hospitalization, no hemoptysis. GI: no nausea, no vomiting, no diarrhea, appetite improving. GU: no dysuria, no frequency. Musculoskeletal: no new joint pain. Neuro: no headache, no focal weakness. Psychiatric: reports mood is stable on current regimen, denies SI/HI. Skin: no rash. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78, BP 128/76, RR 16, SpO2 96% on room air
+General: well-nourished male, no acute distress, alert and oriented x3
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: supple, no lymphadenopathy, no JVD
+Cardiovascular: regular rate and rhythm, no murmurs, distal pulses diminished bilaterally in lower extremities consistent with known PAD
+Respiratory: mild bibasilar crackles, improved from prior exam, no wheeze, no accessory muscle use
+Abdomen: soft, nontender, nondistended, normal bowel sounds
+Extremities: no edema, cool to touch distally, no ulceration noted today
+Skin: no rash, no lesions
+Psych: mood euthymic, affect appropriate
+
+LABS/RESULTS:
+CBC (10/18/2023): WBC 9.2, Hgb 14.1, Hct 41.3, Plt 245
+BMP (10/18/2023): Na 138, K 4.1, Cl 101, CO2 25, BUN 16, Cr 1.0, Glucose 102
+CXR (10/17/2023, inpatient): Improving right lower lobe infiltrate compared to admission film
+CRP (10/18/2023): 12 (down from 84 on admission)
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, resolving clinically - continue supportive care, encourage fluids and rest, follow up with pulmonology as recommended at discharge, will fax records to confirm vaccination status.
+2. Tobacco use disorder - patient continues to smoke cigarettes daily as above; counseled extensively on smoking cessation, benefits reviewed including improved pulmonary and vascular outcomes given his PAD, offered nicotine replacement therapy and referral to cessation counseling which he declined today but will reconsider; discussed general lung health monitoring, patient given handout materials.
+3. Marijuana use - counseled on risks, patient not interested in cessation at this time.
+4. Peripheral artery disease - stable, continue cilostazol and clopidogrel, reinforce smoking cessation importance for vascular health.
+5. Depression - stable on sertraline, continue current dose, screened negative for SI/HI today.
+
+Follow up in 2-4 weeks or sooner if symptoms worsen, return precautions reviewed with patient and he verbalized understanding.
+
+-- Teresa Alvarez, NP

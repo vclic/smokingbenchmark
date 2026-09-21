@@ -1,0 +1,43 @@
+Internal Medicine - Progress Note
+DOS: 09/14/2023
+Author: Steven Park, MD (NP visit)
+Patient: Charles Rivera M DOB 4/10/1959 Age: 64
+
+CC: f/u HTN, DM2
+
+HPI: Pt presents for routine f/u. reports BP running slightly high at home in 150s/90s. Denies chest pain, SOB stable at baseline for his HFrEF. Blood glucose logs reviewed, fasting readings 110-140. no hypoglycemic episodes. Continues alendronate for osteoporosis, tolerating well. No new fx no falls.
+
+ROS: otherwise negative except as above. no cough no hemoptysis no wt loss.
+
+Social History (templated block):
+Tobacco use: Never smoker - lifelong non-smoker, denies any hx of cigarette, cigar, or pipe use.
+Alcohol: occasional, 1-2 drinks/wk
+Drug use: Not on file
+Occupation: retired
+Living situation: 
+Exercise: walks daily
+
+Meds: lisinopril, metoprolol succinate, metformin, empagliflozin, alendronate, furosemide prn
+
+Allergies: NKDA
+
+Exam:
+Vitals: BP 148/88 HR 72 RR 16 wt 198lb
+Gen: NAD
+CV: RRR, no murmur, mild bilat LE edema trace
+Resp: CTAB
+Ext: no clubbing cyanosis edema noted trace only
+
+Labs reviewed: A1c 7.4, BMP wnl, BNP stable from prior
+
+Assessment/Plan:
+1. HTN - suboptimal control, increase lisinopril dose, recheck BP in 2wks
+2. DM2 - reasonable control continue current regimin, recheck a1c in 3mo
+3. HFrEF - stable, continue GDMT, weigh daily
+4. Osteoporosis - continue alendronate, DEXA due next yr
+5. Health maintenance - screening d/w pt including lung ca screening topic discussed generally, pt has no smoking hx so not applicable in his case
+
+RTC 3 months or sooner if needed.
+
+---ADDENDUM (same day, later)---
+Addendum 09/14/2023 1730: Pt called back after visit c/o mild dizziness since BP med increase this AM. Advised to hold new dose tonight recheck BP at home tomrw and call if persistent. Will follow up phone call tomorrow. No other acute concerns voiced. Reiterated pt is lifelong nonsmoker per chart, confirmed again during call for accuracy of record.

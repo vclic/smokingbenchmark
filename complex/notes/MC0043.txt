@@ -1,0 +1,58 @@
+TELEHEALTH VISIT NOTE
+Patient: Susan Hall (F) DOB: 03/05/1949
+Date of Service: 03/05/2024
+Age: 75 y/o
+Provider: Teresa Alvarez, NP - Family Medicine
+Visit type: Telehealth, medication refill follow-up
+
+CHIEF COMPLAINT: Medication refills - depression, osteoporosis, BPH management (per PCP-supervised protocol).
+
+HPI: Ms. Hall is a 75-year-old female seen via video visit today for routine medication refills. She reports mood is stable on current antidepressant regimen, denies SI/HI. No new fractures, no back pain flare. Urinary symptoms related to BPH history are reportedly stable per patient report, no dysuria, no hematuria. She is currently living independently, ambulates without assistive device. Denies chest pain, SOB, cough, hemoptysis, or unintentional weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (some entries outdated, reviewed today):
+1. F32.9 - Major depressive disorder, unspecified (active)
+2. M81.0 - Age-related osteoporosis without pathological fracture (active)
+3. N40.1 - BPH with lower urinary tract symptoms (active, noted historically in chart - please disregard sex mismatch, longstanding data entry error not corrected)
+4. E11.9 - Type 2 diabetes mellitus (RESOLVED per pt report 2019, remains on list - needs cleanup)
+5. I10 - Essential hypertension (active)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Smoking status: Never Smoker [NOTE: this field is incorrect/outdated - see narrative below for accurate smoking history]
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+Diet: Not on file
+
+NARRATIVE SOCIAL HISTORY / TOBACCO DETAIL:
+The templated field above listing 'Never Smoker' is incorrect and should be disregarded - it appears to be a carryover default that was never updated. On direct questioning today, Ms. Hall confirms a significant smoking history. She reports she smoked 2 packs per day for 24 years, and then cut back to about half a pack (roughly 10 cigarettes) per day for an additional 14 years before quitting entirely. She states she quit smoking when her granddaughter was born, and that granddaughter is now 18 years old. Patient confirms she no longer smokes and has not smoked in many years. She denies any current tobacco or nicotine product use, including vaping or chewing tobacco. Lung cancer screening was discussed briefly given her prior smoking history; patient will consider and discuss further with her PCP at next in-person visit.
+
+MEDICATIONS REVIEWED:
+- Sertraline 100mg daily - continue, refilled x90 days
+- Alendronate 70mg weekly - continue, refilled x3 months
+- Tamsulosin 0.4mg daily - continue, refilled x90 days
+- Calcium/Vitamin D supplement - OTC, continue
+
+VITALS (per home BP cuff report, telehealth):
+BP 128/76, HR 72, no home scale reported today
+
+ASSESSMENT:
+1. Depression - stable on current regimen
+2. Osteoporosis - stable, continue bisphosphonate therapy
+3. BPH - stable per patient report, continue tamsulosin
+4. Tobacco history - remote former smoker, quit many years ago, discussed general health maintenance
+
+PLAN:
+1. Continue current medications as above, refills sent to pharmacy of patient's choice.
+2. Recommend follow-up in-person visit in 3 months for physical exam and labs (CMP, lipid panel).
+3. Bone density scan (DEXA) due for repeat per guideline interval - will schedule.
+4. Reinforce fall precautions given osteoporosis diagnosis.
+5. Discussed lung cancer screening briefly given smoking history; patient to discuss further with PCP.
+6. Update problem list to correct outdated tobacco status field and resolve T2DM entry at next chart review.
+7. Return to clinic or telehealth PRN, sooner if new symptoms arise.
+
+Electronically signed: Teresa Alvarez, NP
+
+---
+ADDENDUM (same day, later): Spoke with patient by phone this afternoon regarding pharmacy confirmation for tamsulosin refill - insurance required prior authorization which has now been submitted. Patient also called back to clarify that she wanted to confirm the tobacco history was recorded correctly, restating that she quit when her granddaughter (now 18) was born and that she has not smoked since. No other changes to plan. Teresa Alvarez, NP.

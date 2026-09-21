@@ -1,0 +1,53 @@
+Cardiology Follow-up Note - Heart Failure
+Date of Service: 09/17/2025
+Author: Laura Castellano, FNP-C (resident note; attending attestation below)
+
+Patient: Maria Williams, F, DOB 09/17/1974 (age 51)
+
+CHIEF COMPLAINT: HF follow-up, routine.
+
+HPI:
+Ms Williams is a 51 yo woman w/ hx of heart failure hypothyroidism and type 2 diabetes here for routine f/u. She reports mild dyspnea on exertion, denies orthopnea or PND. Weight stable per pt report, no significant edema noted today. She continues to smoke cigarettes, and states she has not been able to cut down recently despite prior counseling. No chest pain, no palpitations. Diet has been fair, admits to occasional non-compliance w/ low salt diet. Diabetes reportedly well controlled per pt, checks sugars at home intermittently.
+
+---- COPIED FORWARD FROM PRIOR NOTE DATED 05/17/2022 (unedited, left in chart for reference) ----
+SOCIAL HISTORY (as documented 5/17/2022): Pt is a current smoker. Denies alcohol use denies illicit drug use. Lives alone, ambulates independently. Follows up w cardiology and endocrinology regularly. No occupational exposures reported. Pt was counseled extensively regarding cardiovascular risk reduction, importance of medication adherence, and smoking cessation resources at that visit; declined referral to quitline at the time.
+----- END COPIED SECTION -----
+
+ROS: Constitutional - no fever no chills. CV - as above. Resp - no cough no hemoptysis. GI - unremarkable. Endo - no polyuria polydipsia currently reported.
+
+PMH: Heart failure (etiology per prior workup), Type 2 Diabetes Mellitus, Hypothyroidism
+
+PSH: none significant
+
+MEDICATIONS: Metoprolol succinate, Furosemide, Lisinopril, Levothyroxine, Metformin
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (current, updated today):
+Smoking status: Never Smoker [NOTE: this templated field is incorrect and has not been updated in the system; patient is in fact a current cigarette smoker as discussed below and in prior documentation]. Alcohol: occasional. Illicits: denies.
+
+VITALS: BP 128/76, HR 78, RR 16, Temp 98.2F, Wt 172 lb, O2 sat 97% RA
+
+PHYSICAL EXAM:
+General: NAD, alert, oriented x3
+CV: RRR, no m/r/g appreciated, no significant JVD
+Resp: CTAB, no wheezes rales or rhonchi
+Ext: trace edema bilateral lower extremities, no clubbing cyanosis
+Skin: warm dry intact
+
+LABS (reviewed, from last week):
+BNP mildly elevated compared to baseline, stable trend
+A1c 7.1%
+TSH within normal limits on current levothyroxine dose
+BMP unremarkable, K 4.1, Cr 0.9
+
+ASSESSMENT/PLAN:
+1. Heart failure, stable - continue current regimen, follow up in 3 months, weight log encouraged, low sodium diet reinforced. Will monitor for decompensation. Pt counseled on daily weights and when to call clinic.
+2. Tobacco use - patient currently smokes cigarettes, 1.5 packs per day per patient report today. Given cardiopulmonary risk in setting of heart failure, tobacco cessation strongly recommended, discussed nicotine replacement options and behavioral counseling referral. Lung cancer screening was discussed in general terms with the patient as part of preventive care conversation. Pt to consider quitline referral, will readdress at next visit.
+3. Type 2 Diabetes Mellitus - A1c improved slightly, continue metformin, reinforce dietary modification, follow with endocrinology as scheduled.
+4. Hypothyroidism - TSH at goal on current levothyroxine dose, continue same, recheck labs in 6 months.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Attestation: I have personally seen and evaluated the patient, reviewed and edited the resident's documentation, and agree with the assessment and plan as outlined above.
+- Attending Cardiologist

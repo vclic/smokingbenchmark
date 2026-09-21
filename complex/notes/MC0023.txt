@@ -1,0 +1,68 @@
+URGENT CARE PROGRESS NOTE
+DOS: 10/01/2024
+Author: Julia Brennan, MD (NP progress note)
+Patient: Rita Jones, F, DOB 09/25/1948, age 76
+
+CC: cough x5 days, worse at night, some scant white sputum. No fever reported. No hemoptysis.
+
+HPI: 76 yo F w/ PMHx T2DM, PAD, HLD, OSA, BPH, HFrEF presents to UC for cough. Denies chest pain, denies SOB at rest, mild DOE at baseline per pt. No sick contacts. Tried OTC cough drops w/ minimal relief. No recent travel. Pt reports fatigue but attributes to poor sleep.
+
+---COPY FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2023 (retained in chart, not updated this visit)---
+Pt here for HFrEF follow up. EF 35% on last echo. Doing well on GDMT, tolerating carvedilol and sacubitril/valsartan. No orthopnea, no PND, no lower extremity edema today. Weight stable. Continue current regimen, follow up in 3 months. Labs reviewed, BNP improved from prior. Diabetes well controlled per pt report, last A1c 7.1. PAD stable, no claudication currently. Denies rest pain, feet warm w/ palpable pulses bilat. Continue cilostazol. OSA - uses CPAP nightly per pt, tolerates well.
+---END COPY FORWARD---
+
+ROS: Constitutional: reports fatigue, denies fever/chills/night sweats. HEENT: denies sore throat, denies nasal congestion. Resp: + cough, denies wheeze, denies hemoptysis. CV: denies chest pain, denies palpitations, mild DOE at baseline. GI: denies N/V/D, denies abd pain. GU: nocturia x2-3, known BPH. MSK: denies joint pain. Neuro: denies HA, denies dizziness. Skin: denies rash. Psych: denies depression/anxiety. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated):
+Tobacco use status: Former smoker
+Smoking history: 18 pack-year smoking history
+Current cigarette use: None
+Quit details: Patient has not smoked since her 48th birthday.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 glasses wine/wk
+Marijuana use: Patient smokes marijuana a few times a month.
+Other drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+Exercise: Not on file
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 78, BP 132/76, RR 16, SpO2 96% RA, Wt stable per prior.
+Gen: NAD, alert, appears stated age.
+HEENT: PERRLA, oropharynx clear, no erythema, no exudate.
+Neck: no LAD, no JVD appreciated.
+CV: RRR, no murmur appreciated today, no gallop.
+Resp: mild scattered rhonchi bilat bases, no wheeze, no crackles, no accessory muscle use.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, feet warm, pulses palpable bilat, no ulcers noted.
+Skin: no rash, no lesions.
+Neuro: grossly intact, A&Ox3.
+Psych: mood/affect appropriate.
+
+MEDICATIONS (current, per chart):
+1. Metformin 1000mg BID
+2. Carvedilol 12.5mg BID
+3. Sacubitril/valsartan 49/51mg BID
+4. Atorvastatin 40mg qhs
+5. Cilostazol 100mg BID
+6. Tamsulosin 0.4mg qhs
+7. Aspirin 81mg qday
+8. CPAP therapy nightly
+9. Furosemide 20mg qday PRN
+10. Vitamin D3 2000IU qday
+
+A/P:
+1. Acute cough - likely postnasal drip vs mild URI, no signs of PNA today. RR/SpO2 wnl. Will trial guaifenesin, supportive care, return precautions given. No abx indicated today.
+2. HFrEF - stable, cont current GDMT, no acute decompensation signs today.
+3. T2DM - cont metformin, recheck A1c at next PCP visit.
+4. PAD - stable, cont cilostazol.
+5. HLD - cont atorvastatin.
+6. OSA - cont CPAP.
+7. BPH - cont tamsulosin.
+8. Tobacco - former smoker as above, 18 pack-year hx, quit at age 48 and has not smoked since; counseled on continued avoidance, reinforced benefit of remaining smoke-free.
+9. Marijuana use noted, few times monthly per pt report; discussed briefly, pt declines further counseling at this time.
+10. Lung cancer screening discussion - discussed general risk factors given smoking hx; no imaging ordered today, defer further discussion to PCP.
+
+Follow up: return to PCP within 1-2 wks or sooner if worsening symptoms, fever, or SOB. Return to UC/ED if acute distress.
+
+Electronically signed: Julia Brennan, MD, 10/01/2024.

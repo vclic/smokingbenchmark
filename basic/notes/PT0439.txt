@@ -1,0 +1,80 @@
+Adult Medicine Progress Note
+
+Patient: JACKSON, Denise    MRN: 24213071
+DOB: 03/08/1954    Age: 70 y.o.    Sex: Female
+Date of Service: 11/21/2024    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Denise Jackson is a 70 y.o. female who presents for diabetes follow-up.
+Most recent A1c 9.2% (previously 9.6% in August 2024). Rarely checks glucose at home. Denies polyuria/polydipsia. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus
+• Class I obesity	2003
+• Essential hypertension	1997
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (1994)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• losartan 100 mg daily
+• glipizide 5 mg daily
+• hydrochlorothiazide 25 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives alone in an apartment.
+  Retired, former engineer.
+  THC: occasional, smoked.
+  EtOH: 1-2 beers/wk.
+
+Family History
+Father - colon cancer at 68. Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 145/84 (BP Location: Left arm, Patient Position: Sitting) | Pulse 88 | Temp 98.3 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 218 lb | SpO2 95% | BMI 35.17 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.2% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. Health maintenance
+   LCS: N/A - never smoker.
+
+Return in about 3 months (around 2/21/2025).
+
+Electronically signed by Hannah Weiss, NP on 11/21/2024

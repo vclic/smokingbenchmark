@@ -1,0 +1,40 @@
+URGENT CARE - NURSE INTAKE
+DOS: 12/21/2023
+Patient: Samuel Anderson, M, DOB 5/14/1948, age 75
+Provider: Laura Castellano, FNP-C
+
+CC: cough x several days, pt states "can't shake this cough"
+
+Vitals: T 98.2, HR 78, BP 138/82, RR 18, SpO2 96% RA, wt 191 lb
+
+HPI (per pt, dictated - some phrases may be inaccurate due to speech recognition): Mr Anderson is a 75 y/o male who presents today complaining of a cough that started about five days ago, initially dry now productive of yellowish sputum, denies fever chills he does note some chest tightness with coughing fits [inaudible] no hemoptysis no clear shortness of breath at rest although he does get winded walking up the stairs to his apartment which he says is worse than usual, he denies sick contacts although he mentions his grandson had a cold recently, he has not tried any over the counter meds yet wanted to be seen first, he denies travel denies weight loss although he says his appetite has been a little off the past week.
+
+PMH: depression, coronary artery disease, GERD, type 2 diabetes mellitus
+
+SOCIAL HISTORY: Former smoker. Pt reports smoking about a quarter pack (approx 5 cigarettes) per day for 10 years, then stopped completely for a period of 6 years, after which he restarted smoking at a higher rate of about 1.5 packs per day for 15 years before ultimately quitting for good. No current tobacco use. Denies illicit drug use, occasional EtOH per pt "maybe a beer on the weekend."
+
+----- COPIED FORWARD FROM VISIT 03/14/2022 (CARDIOLOGY F/U NOTE) -----
+Pt seen for routine CAD follow up, denies chest pain at rest, denies orthopnea/PND, on aspirin 81mg, atorvastatin 40mg, metoprolol succinate 25mg daily. EKG NSR no acute ST changes. Pt counseled on diet and exercise, low sodium diet recommended given h/o CAD and possible fluid retention issues. Pt also with h/o GERD managed on omeprazole 20mg daily, reports occasional breakthrough heartburn especially after spicy foods. Depression stable on sertraline 100mg, PHQ-9 today 4, pt denies SI/HI. A1c last drawn 7.1, on metformin 1000mg BID, pt reports fairly good adherence to diabetic diet though admits "holiday season makes it hard." Continue current meds, RTC 6 months or PRN.
+----- END COPIED FORWARD SECTION -----
+
+ROS: Constitutional - mild decreased appetite, denies fever. Resp - productive cough, denies hemoptysis. CV - denies chest pain, does note mild tightness w/ coughing. GI - occasional reflux sx unchanged. Endo - no polyuria/polydipsia currently. Psych - mood stable per pt.
+
+EXAM:
+Gen: alert, NAD, conversant
+HEENT: oropharynx clear, no exudate
+Neck: no LAD, no JVD
+Lungs: scattered rhonchi bilat bases, no wheeze, no rales, good air movement
+CV: RRR, no m/r/g
+Abd: soft NT/ND
+Ext: no edema
+
+ASSESSMENT/PLAN (Laura Castellano, FNP-C):
+75 y/o male, former smoker, presenting 12/21/2023 with acute bronchitis, likely viral vs early bacterial given duration.
+1. Acute bronchitis - supportive care, guaifenesin, encourage fluids, return precautions given re: worsening SOB, fever, chest pain. Given his age and smoking history he was counseled regarding pulmonary risk and the importance of monitoring for any new or worsening respiratory symptoms; he was advised to discuss his respiratory health further with his PCP at follow up.
+2. CAD - stable, continue home meds, no acute concerns today, will defer to cardiology for further management at next scheduled visit.
+3. GERD - continue omeprazole, reinforce dietary modification.
+4. T2DM - continue metformin, recheck A1c at PCP follow up.
+5. Depression - stable, continue sertraline, PHQ-9 not repeated today, pt denies SI/HI.
+f/u with PCP in 1-2 wks or sooner if worsening, return to urgent care/ED if severe SOB, chest pain, hemoptysis, or fever >101.5.
+
+Electronically signed: Laura Castellano, FNP-C, 12/21/2023

@@ -1,0 +1,37 @@
+Pulmonology Progress Note
+Patient: Sandra Roberts | DOB: 1/19/1957 | Age: 67 | Sex: F
+Date of Service: 11/20/2024
+Author: Michael Dunn, DO
+
+CHIEF COMPLAINT: Follow-up after ED visit/COPD exacerbation.
+
+HPI: Ms. Roberts is a 67-year-old woman seen today in f/u after recent ED visit for acute exacerbation, treated w/ prednisone taper and albuterol. Reports improved dyspnea, occasional wheeze, no fevers. Cough productive of small amt clear sputum. No hemoptysis, no chest pain. Denies smoking cigarettes ever; she does report vaping nicotine daily, states she has never smoked traditional cigarettes. Continues home nebulizer PRN.
+
+--- Copied forward from visit dated 03/14/2023 ---
+Pt with hx of asthma since childhood, well controlled on ICS/LABA until this year. Hyperlipidemia dx'd 2015, on statin. Denies chest pain, palpitations. Alcohol use: pt quit drinking alcohol in 2007, denies current use. Family hx notable for CAD in father. Social hx: retired schoolteacher, lives w/ spouse, denies illicit drug use. ROS otherwise negative in detail (see below).
+--- end copied forward text ---
+
+ROS: Constitutional: no fever/chills, mild fatigue. Eyes: no visual changes. ENT: no sore throat. CV: no chest pain, no palpitations, no edema. Resp: dyspnea improving, occasional wheeze, cough as above. GI: no nausea/vomiting/diarrhea. GU: no dysuria. MSK: no joint pain. Skin: no rash. Neuro: no headache, no dizziness. Psych: no anxiety/depression reported. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: T 98.2F, HR 82, RR 18, BP 128/76, SpO2 95% RA. General: well-appearing, NAD. HEENT: normocephalic, atraumatic, oropharynx clear. Neck: no LAD, no JVD. CV: RRR, no murmur/gallop/rub. Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use. Abd: soft, NT/ND, +BS. Ext: no edema, no clubbing. Skin: warm, dry. Neuro: alert, oriented x3, no focal deficits.
+
+MEDICATIONS: Albuterol HFA inhaler PRN; Fluticasone/salmeterol DPI BID; Montelukast 10mg qhs; Atorvastatin 40mg qhs; Prednisone taper (finishing this wk); Vitamin D3 1000IU daily; Multivitamin daily; Fish oil 1000mg daily; Loratadine 10mg PRN seasonal allergies; Omeprazole 20mg daily PRN reflux.
+
+PROBLEM LIST:
+- J45.909 Asthma, unspecified
+- E78.5 Hyperlipidemia
+- J44.1 COPD w/ acute exacerbation (recent)
+- I10 Essential hypertension (outdated - resolved per pt, off meds >2yrs)
+- F41.9 Anxiety, unspecified (outdated, not currently active)
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, improving s/p ED tx - continue current inhalers, finish steroid taper, f/u 4 wks or sooner if worse.
+2. Asthma - stable on current regimen.
+3. Hyperlipidemia - continue atorvastatin, recheck lipids in 6 mo.
+4. Nicotine vaping - discussed cessation resources, counseled on risks; pt not ready to quit at this time.
+5. Lung cancer screening discussed in general terms given respiratory hx; will revisit at future visit.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen.
+
+---ADDENDUM (later same day, 11/20/2024)---
+Spoke with pt by phone re: pharmacy issue with inhaler refill, resolved. Reiterated importance of adherence to ICS/LABA regimen. No new complaints reported at this time. Pt reminded that she has never smoked cigarettes, per chart review, but continues daily nicotine vape use - encouraged to consider quitting vape products as well.

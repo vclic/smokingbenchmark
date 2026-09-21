@@ -1,0 +1,75 @@
+HISTORY AND PHYSICAL - HOSPITAL DISCHARGE FOLLOW-UP
+Patient: Denise Henderson | DOB: 1/3/1960 | Age: 64 y/o F
+Date of Service: 01/03/2024
+Author: Julia Brennan, MD (Primary Care)
+
+CHIEF COMPLAINT: F/u s/p hospitalization for pneumonia, discharged 3 days ago.
+
+HPI: Pt is a 64-year-old female, DOB 1/3/1960, seen today for post-discharge f/u after inpt tx for community-acquired pneumonia. She reports gradual improvement in cough and dyspnea since d/c, though still c/o mild fatigue and occasional productive cough w/ whitish sputum, denies fever/chills currently. She completed most of her prescribed abx course at home (last dose taken yesterday per pt report - will confirm w/ pharmacy). No SOB at rest, some exertional dyspnea climbing stairs, improved from prior wk. Appetite improving, sleeping better though still napping during day 2/2 fatigue. Pt denies chest pain, denies hemoptysis, denies new lower extremity swelling (relevant given h/o PAD and AFib). She lives alone, has home health aide coming 2x/wk to assist, daughter checks in daily by phone.
+
+Regarding tobacco use, pt states she tried a few cigarettes as a teenager but never smoked regularly - denies any history of regular cigarette use, denies current use, denies other tobacco/nicotine products. No vaping hx. This info reviewed and confirmed w/ pt directly today, consistent w/ prior documentation in chart.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per EHR, some entries may be outdated - reviewed w/ pt today):
+1. Hypothyroidism (E03.9) - on levothyroxine, TSH checked q6-12mo, last check 11/2023 WNL
+2. Major depressive disorder (F33.1) - stable on sertraline, followed by psych as outpt, pt denies SI/HI today
+3. Peripheral artery disease (I73.9) - h/o claudication, on ASA + statin, vasc surgery f/u ongoing
+4. Atrial fibrillation (I48.91) - on anticoagulation (apixaban), rate controlled, last EKG in chart from 2022 (outdated, will repeat today)
+5. Pneumonia, resolving (J18.9) - current issue, s/p recent hosp stay
+6. GERD (K21.9) - old dx, pt states resolved yrs ago, likely outdated entry, will remove from active list
+
+MEDICATIONS (per d/c summary and pt report):
+- Levothyroxine 75 mcg daily
+- Sertraline 100 mg daily
+- Apixaban 5 mg BID
+- Atorvastatin 40 mg qhs
+- Aspirin 81 mg daily (per vasc surgery, cont'd alongside apixaban per their recs)
+- Amoxicillin-clavulanate, finishing course at home
+- Albuterol inhaler PRN, was given at d/c for cough, pt reports minimal use
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Retired schoolteacher, lives alone in single-story home, daughter nearby and involved in care. Denies EtOH use, denies illicit drug use. Tobacco hx as above - tried a few cigs as teen, never regular smoker, no pack-yr hx to report. Pt ambulates w/ cane at baseline 2/2 PAD-related claudication.
+
+FAMILY HISTORY: Mother - HTN, DM2. Father - CAD, dec'd age 78. No fam hx of lung dz reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: + fatigue, denies fever/chills currently
+HEENT: denies sore throat, denies congestion
+CV: denies chest pain, denies palpitations today (known AFib, on anticoag), denies LE edema
+Resp: + mild productive cough improving, denies hemoptysis, denies pleuritic pain
+GI: denies n/v/d, appetite improving
+GU: denies dysuria
+MSK: chronic b/l LE claudication pain w/ ambulation, stable, no acute change
+Neuro: denies HA, denies focal weakness, denies numbness/tingling
+Psych: mood stable, denies SI/HI, sleep improving
+Skin: no rashes noted
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78 irregularly irregular (known AFib), BP 132/78, RR 16, SpO2 96% RA
+Gen: NAD, alert, appears comfortable, conversant
+HEENT: NCAT, PERRLA, oropharynx clear, no exudate
+Neck: supple, no LAD, no JVD
+CV: irregularly irregular rhythm, no m/r/g appreciated, distal pulses diminished bilat LE consistent w/ known PAD
+Resp: mild scattered crackles at L base, improved from d/c exam per report, no wheezes, no accessory muscle use, breathing comfortably
+Abd: soft, NT/ND, nl bowel sounds
+Ext: no edema, cool distal extremities bilat (chronic, c/w PAD), no ulcers noted today, cap refill slightly delayed but unchanged from baseline
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady w/ cane
+Skin: no rash, no lesions
+
+DATA REVIEWED:
+Discharge summary from hospitalist reviewed - pt was admitted 5 days prior w/ CAP, treated w/ IV abx, transitioned to oral abx at d/c, afebrile x48h prior to d/c, O2 sats stable on RA at time of d/c.
+CXR from admission reviewed - showed L lower lobe infiltrate, will repeat imaging in 4-6 wks to confirm resolution.
+Labs from hosp stay reviewed - WBC downtrending at d/c, BMP unremarkable, INR/coags stable on apixaban per anticoag protocol [inaudible] noted in hosp course.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continuing improvement clinically, will complete abx course as prescribed, repeat CXR in 4-6 wks to document resolution, return precautions given re: worsening cough, fever, SOB.
+2. Atrial fibrillation - continue apixaban, rate appears controlled today, will obtain repeat EKG today given last one on file from 2022 is outdated, f/u w/ cardiology as previously scheduled.
+3. Peripheral artery disease - continue ASA and statin, no acute changes, vasc surgery f/u ongoing per their schedule, counseled on importance of walking program as tolerated.
+4. Hypothyroidism - stable, continue current dose levothyroxine, next TSH check per standard interval.
+5. Depression - mood stable today, continue sertraline, continue outpt psych f/u, denies SI/HI.
+6. Health maintenance - discussed age-appropriate screenings, discussed general lung health given recent pneumonia and PAD dx, tobacco/smoking hx reviewed and confirmed as above (never a regular smoker), reinforced healthy lifestyle habits, discussed vaccination status (flu, pneumococcal - will verify records).
+7. GERD - appears resolved per pt report, will remove from active problem list pending further review, pt to notify if symptoms recur.
+
+Return to clinic in 2 wks or sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered today.
+
+Julia Brennan, MD

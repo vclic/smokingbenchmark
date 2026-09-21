@@ -1,0 +1,82 @@
+CONSULTATION NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - Rachel Goldberg, MD
+Date of Service: 11/15/2024
+
+Patient: James Robinson
+DOB: 03/24/1947 (Age: 77)
+MRN: on file
+
+Reason for Consult: Shared decision-making visit regarding lung cancer screening, referred by PCP.
+
+HPI:
+Mr. Robinson is a 77-year-old male with history of COPD, CAD, OSA, obesity, CKD stage 3, and hyperlipidemia who presents today for shared decision-making discussion regarding lung cancer screening. He reports chronic mild dyspnea on exertion, stable over past year, using his home nebulizer as prescribed. No hemoptysis, no unintentional weight loss, no new chest pain. He uses CPAP nightly for OSA with good adherence per his home report. He denies fevers or night sweats. He is accompanied today by his daughter.
+
+PAST MEDICAL HISTORY:
+- COPD (on inhaled therapy)
+- Coronary artery disease s/p stent 2015
+- Obstructive sleep apnea, on CPAP
+- Obesity
+- Chronic kidney disease, stage 3
+- Hyperlipidemia
+
+MEDICATIONS: Tiotropium inhaler daily, albuterol PRN, atorvastatin 40mg daily, aspirin 81mg daily, metoprolol succinate 50mg daily, losartan 50mg daily.
+
+ALLERGIES: NKDA
+
+=== SOCIAL HISTORY (EHR TEMPLATE) ===
+Tobacco Use Status: Former smoker
+Cigarettes: 3/4 pack per day (~15 cigarettes/day)
+Age Started: 16
+Age Quit: 55
+Year Quit: 2002
+Type: Cigarettes
+Smokeless Tobacco: Not on file
+E-cigarette/Vaping Use: Not on file
+Alcohol Use: Occasional, 1-2 drinks/week
+Drug Use: Denies
+Secondhand Smoke Exposure: Not on file
+Living Situation: Lives with spouse
+Occupation: Retired
+=== END TEMPLATE ===
+
+[Copied from note dated 03/15/2022]:
+"Social History: Patient is a former smoker."
+(No further quantities documented in that prior note; carried forward for reference only.)
+
+REVIEW OF SYSTEMS: Positive for chronic cough and exertional dyspnea as above. Negative for fevers, chills, hemoptysis, chest pain, orthopnea, PND, leg swelling. Remainder of ROS negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 74, RR 16, SpO2 94% RA, BMI 33.4
+General: Obese male, no acute distress
+HEENT: Normocephalic, atraumatic
+Neck: No JVD, no lymphadenopathy
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: Regular rate and rhythm, no murmurs
+Abdomen: Soft, obese, non-tender
+Extremities: No edema
+Skin: Warm, dry
+
+LABS/RESULTS:
+- CBC (11/10/2024): WBC 6.8, Hgb 13.9, Hct 41.2%, Plt 245
+- BMP (11/10/2024): Na 138, K 4.3, Cl 101, CO2 25, BUN 24, Creatinine 1.6 (baseline for CKD3), eGFR 42
+- Lipid panel (10/02/2024): Total chol 168, LDL 88, HDL 42, Trig 150
+- Spirometry (09/28/2024): FEV1 62% predicted, FEV1/FVC 0.63, consistent with moderate obstructive lung disease
+- Chest X-ray (11/05/2024): Hyperinflated lungs, no acute infiltrate or mass
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening shared decision-making - discussed benefits, risks, and limitations of screening at length with patient and daughter, including false positives, incidental findings, and radiation exposure. Provided decision aid handout. Patient will consider and follow up with PCP to finalize decision.
+2. COPD - moderate, stable. Continue tiotropium and albuterol PRN. Reinforced smoking cessation history and importance of continued abstinence; patient has remained tobacco-free since quitting.
+3. CAD - stable, continue current cardiac regimen, no anginal symptoms today.
+4. OSA - continue CPAP, good adherence reported.
+5. CKD stage 3 - stable, monitor renal function with routine labs, avoid nephrotoxic agents.
+6. Hyperlipidemia - at goal on current statin dose.
+7. Obesity - counseled on weight management, discussed benefits for pulmonary and cardiac health.
+
+Will follow up in pulmonology clinic in 6 months or sooner if symptoms worsen. Copy of this note sent to referring PCP.
+
+Rachel Goldberg, MD
+Pulmonology
+Electronically signed 11/15/2024 14:32
+
+=== ADDENDUM (same day, 11/15/2024, 17:10) ===
+Addendum by Dr. Goldberg: Patient's daughter called back this afternoon requesting clarification on the screening handout materials provided during today's visit. Discussed further via phone, reiterated that decision regarding screening remains to be finalized with PCP after patient has time to review materials at home. No changes to clinical assessment or plan above. Encouraged continued adherence to CPAP and inhaler regimen. No new symptoms reported since visit this morning.

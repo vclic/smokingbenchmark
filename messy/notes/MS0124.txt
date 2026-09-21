@@ -1,0 +1,72 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Mei Baker (F), DOB 2/18/1961
+Date of Service: 02/18/2023
+Author: Daniel Reyes, MD
+Age: 62 y/o F
+
+CC: Chest pain eval.
+
+HPI: Pt presents w/ intermittent substernal CP x several days, non-exertional at times, some assoc dyspnea. Denies radiation to jaw/arm today. Hx of HFrEF, PAD, COPD - relevant given overlapping sx. No syncope. Reports fatigue, mild ankle edema unchanged from baseline. No fevers/chills.
+
+=== COPY-FORWARD TEXT FROM PRIOR VISIT (11/03/2022) - left in note by EHR carry-forward ===
+Pt seen for routine PAD/HFrEF follow up. Doing reasonably well, ambulates ~2 blocks before claudication sx. LE edema trace. Continues lisinopril, carvedilol, furosemide, atorvastatin. O2 sat 94% RA. Denies chest pain at that visit. Gout flare resolved w/ colchicine course last summer. OSA - on CPAP, adherence per pt "most nights." Discussed weight mgmt, dietary sodium restriction. Plan: recheck BNP, continue current regimen, f/u 3 months.
+=== END COPY-FORWARD ===
+
+ROS: Otherwise negative except as above. No hemoptysis, no fevers.
+
+PMH / Problem List:
+- E78.5 Hyperlipidemia, unspecified
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- I73.9 Peripheral arterial disease, unspecified (outdated dx code, may need update to I70.209)
+- I50.22 Chronic systolic (congestive) heart failure
+- G47.33 Obstructive sleep apnea (adult)(pediatric)
+- M10.9 Gout, unspecified
+- Z87.891 Personal history of nicotine dependence (outdated entry - see current status below)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: Not on file
+Pack-years: 78 pack-year history
+Smoking status: Active smoker as of today's visit
+Previous quit attempts: Pt previously quit smoking in 2011 but relapsed in 2014 and has smoked continuously since.
+Secondhand smoke exposure: Not on file
+Alcohol use: Denies; pt quit drinking alcohol in 1999
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+
+Medications:
+- Lisinopril 10mg daily
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Atorvastatin 40mg daily
+- Allopurinol 100mg daily
+- Albuterol inhaler PRN
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 18, O2 sat 93% RA, Temp 98.2F
+Gen: NAD, conversant, mild wheeze audible without stethoscope.
+CV: RRR, no murmurs appreciated, JVD not elevated. Trace bilateral LE edema.
+Resp: Diffuse expiratory wheezes, prolonged expiratory phase c/w COPD.
+Ext: Pulses diminished bilat DP/PT, no ulcers noted, cap refill <3 sec.
+Skin: No cyanosis.
+
+Labs/Studies reviewed: BNP pending. Recent lipid panel reviewed - LDL 98. EKG today: NSR, no acute ST changes, nonspecific T wave flattening in lateral leads unchanged from prior.
+
+Assessment: 62 y/o F w/ multiple cardiopulm comorbidities presenting w/ chest pain, likely multifactorial given COPD/HFrEF overlap; ongoing active tobacco use with substantial 78 pack-year smoking history is a significant contributing factor to her COPD and PAD progression and cardiovascular risk overall.
+
+Plan:
+1. Chest pain - obtain troponin, repeat EKG if sx recur, consider stress test if labs unremarkable.
+2. COPD - continue albuterol PRN, consider pulm referral, reinforce inhaler technique.
+3. PAD - continue current antiplatelet/statin regimen, ABI recheck if not done in past year.
+4. HFrEF - continue GDMT, monitor weights daily, recheck BNP.
+5. OSA - continue CPAP, review adherence data at next visit.
+6. Gout - stable, continue allopurinol.
+7. Tobacco use - counseled at length regarding smoking cessation given active smoking status; discussed risks, offered resources including pharmacotherapy options (varenicline, nicotine replacement) and behavioral counseling referral. Lung cancer screening discussed as a general topic appropriate for her risk profile; will revisit at future visit. Pt states she is "thinking about it."
+8. Alcohol - none currently, no intervention needed.
+9. F/u in 2-4 weeks or sooner if sx worsen.
+
+Time spent: 28 minutes, >50% counseling/coordination of care.
+
+Electronically signed: Daniel Reyes, MD

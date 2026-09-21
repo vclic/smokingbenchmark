@@ -1,0 +1,91 @@
+Internal Medicine Pre-Operative Evaluation
+Date of Service: 04/29/2026
+Patient: Charles Henderson | DOB: 04/29/1976 | Age: 50 | Sex: M
+Author: Rachel Goldberg, MD
+
+CC: Pre-op eval for right total knee replacement (Ortho: Dr. Patel).
+
+HPI: Mr. Henderson is a 50 yo M w/ HTN, HLD, obesity, OSA on CPAP, presenting for pre-op clearance ahead of scheduled TKA. He reports chronic right knee pain, worsening over past yr, now limiting ambulation. Pt states, "I can barely make it up the stairs anymore, my knee just gives out." Denies CP, palpitations, orthopnea, PND. Reports good CPAP compliance, "I use it every night, feels like I actually sleep now."
+
+Regarding tobacco use, pt reports smoking 3 packs per day for 19 years, then cutting back to 2 packs per day for the past 10 years, and he continues to smoke cigarettes at that rate currently. He states, "I know I should quit, I've just never been able to." Advised to quit smoking; discussed cessation resources, nicotine replacement options, and possible referral to tobacco cessation counseling. Pulmonary risk assessment discussed given upcoming surgery; smoking cessation strongly encouraged pre-operatively to reduce surgical/anesthetic risk. Lung cancer screening was discussed as an appropriate topic given his smoking hx, per general guidelines.
+
+--- Copied forward from note dated 12/29/2022 (Dr. Goldberg) ---
+SOCIAL HISTORY (as documented 12/29/2022): Pt is a current smoker of cigarettes. No quantities specified in that note. Denies illicit drug use. Occasional EtOH, ~2-3 drinks/wk. Works as a warehouse supervisor. Married, lives with spouse. Denies e-cigarette or vaping use.
+--- End copied section ---
+
+PMH:
+- Hypertension
+- Hyperlipidemia
+- Obesity (BMI 34)
+- Obstructive sleep apnea, on CPAP
+
+PSH: Appendectomy (age 22), no other surgeries.
+
+FH: Father w/ CAD, MI at 62. Mother w/ T2DM. No known lung disease in family per pt report.
+
+Medications:
+1. Lisinopril 20 mg PO daily
+2. Atorvastatin 40 mg PO qHS
+3. Amlodipine 5 mg PO daily
+4. Metformin 500 mg PO BID (started for pre-diabetes)
+5. Aspirin 81 mg PO daily
+6. Omeprazole 20 mg PO daily prn
+7. Multivitamin daily
+8. Ibuprofen 400-600mg PO q6h prn knee pain
+9. Tylenol 650mg prn breakthrough pain
+
+Allergies: NKDA.
+
+Review of Systems:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss. Reports fatigue.
+Eyes: Denies vision changes, no diplopia.
+ENT: Denies sore throat, denies hearing loss, occasional nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, denies syncope, +occasional lower extremity edema.
+Respiratory: Denies hemoptysis, denies wheeze at present, reports occasional productive cough in AM, denies current dyspnea at rest, +exertional dyspnea w/ prolonged ambulation.
+GI: Denies abdominal pain, denies nausea/vomiting, denies hematochezia, denies melena.
+GU: Denies dysuria, denies hematuria, denies urinary frequency.
+MSK: +Right knee pain, chronic, mechanical in nature, denies other joint pain currently.
+Skin: Denies rash, denies non-healing lesions.
+Neuro: Denies HA, denies focal weakness, denies numbness/tingling.
+Psych: Denies depression, denies anxiety, denies SI/HI.
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+Endo: Denies polyuria, denies polydipsia.
+Allergic/Immunologic: Denies recurrent infections.
+
+Physical Exam:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 232 lb, BMI 34.1
+General: Well-developed, well-nourished male, NAD, appears stated age.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no oral lesions.
+Neck: Supple, no JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: RRR, no m/r/g, normal S1/S2, no peripheral edema noted today.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, no rales, no rhonchi, good air movement bilaterally, no accessory muscle use, no clubbing.
+Abdomen: Soft, non-tender, non-distended, +BS, no hepatosplenomegaly.
+Extremities: Right knee w/ crepitus, mild effusion, decreased ROM 2/2 pain, no calf tenderness, no cyanosis/clubbing.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neuro: A&Ox3, CN II-XII grossly intact, motor 5/5 throughout except limited by knee pain, sensation grossly intact.
+Psych: Mood/affect appropriate, cooperative, good eye contact.
+
+Problem List (ICD-10):
+1. Essential hypertension - I10
+2. Hyperlipidemia - E78.5
+3. Obesity - E66.9
+4. Obstructive sleep apnea - G47.33
+5. Tobacco use disorder, cigarettes - Z72.0
+6. Osteoarthritis of right knee - M17.11
+7. Type 2 diabetes mellitus, unspecified - E11.9 (outdated dx, pt now categorized as pre-diabetic per recent labs, chart not yet updated)
+8. GERD - K21.9 (old dx, asymptomatic x several yrs, on prn PPI only)
+
+Assessment/Plan:
+50 yo M w/ HTN, HLD, obesity, OSA on CPAP, longstanding tobacco use, presenting for pre-op eval prior to right TKA.
+
+1. Pre-op clearance: Cardiac risk appears low-moderate given controlled HTN, no active cardiac sx, adequate functional status limited primarily by knee. EKG obtained today, reviewed, NSR, no acute changes. Cleared from cardiopulmonary standpoint for surgery w/ standard precautions.
+2. Tobacco use disorder: Counseled extensively on smoking cessation given ongoing cigarette use and upcoming surgery; discussed increased risk of wound healing complications, pulmonary complications post-op, and anesthesia risk. Provided cessation resources and offered pharmacologic aids (varenicline, NRT); pt states he will consider. Lung cancer screening discussion had; pt to follow up w/ PCP regarding further workup as appropriate.
+3. HTN: Well controlled today, continue current regimen.
+4. HLD: Continue atorvastatin, recheck lipid panel at next visit.
+5. Obesity: Discussed weight management, dietary counseling, referral to nutrition offered.
+6. OSA: Continue CPAP, good compliance reported.
+7. Pre-diabetes: Continue metformin, recheck A1c in 3 months.
+
+F/u w/ Dr. Goldberg in 4 wks or sooner if needed; f/u w/ Ortho per their schedule for surgical planning.
+
+Electronically signed: Rachel Goldberg, MD, 04/29/2026

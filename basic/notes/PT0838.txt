@@ -1,0 +1,85 @@
+Family Medicine Progress Note
+
+Patient: BROOKS, Harold    MRN: 98347001
+DOB: 09/08/1958    Age: 66 y.o.    Sex: Male
+Date of Service: 03/26/2025    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Harold Brooks is a 66 y.o. male who presents for diabetes follow-up.
+Most recent A1c 8.9% (previously 8.5% in September 2024). Rarely checks glucose at home. Denies polyuria/polydipsia. He is a former smoker; he smoked 2 packs per day for 12 years, then cut back to a quarter of a pack a day for another 23 years. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity
+• OSA	1999
+• Osteoarthritis
+• T2DM without complication
+• Peripheral vascular disease
+• CAD
+• HFrEF
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (2001)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• spironolactone 25 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• furosemide 20 mg daily
+• cilostazol 100 mg BID
+• aspirin 81 mg daily
+• clopidogrel 75 mg daily
+• metformin 500 mg BID
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with wife.
+  Social drinker.
+  No IVDU.
+  Drives.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS: Gen neg, MSK neg, GU neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 114/84 (BP Location: Left arm, Patient Position: Sitting) | Pulse 76 | Temp 97.6 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 235 lb | SpO2 95% | BMI 36.76 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Obese, soft, nontender
+Extremities: Trace bilateral ankle edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.9% - above goal; increase metformin to 1000 mg BID. UACR ordered.
+2. OSA
+   Using CPAP nightly.
+3. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+4. HFrEF
+   Stable; continue GDMT.
+
+Return in about 3 months (around 6/26/2025).
+
+Electronically signed by Rachel Goldberg, MD on 03/26/2025

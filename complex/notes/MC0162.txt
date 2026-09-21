@@ -1,0 +1,45 @@
+TELEHEALTH VISIT NOTE
+Patient: Pamela Smith, F, DOB 7/20/1947 (age 76)
+Date of Service: 09/10/2023
+Provider: Brian Okonkwo, MD
+Visit type: New patient, establish care, Primary Care (video)
+
+HPI: 76 yo woman here to establish care via telehealth, new to practice, transferring records from prior PCP. Reports overall doing okay, some fatigue, occasional joint pain c/w known OA. No new complaints today. Reviewing prior records for CKD stage 3, depression, T2DM, hypothyroidism.
+
+---copied forward from previous visit note dated 04/22/2019 (outside record, imported)---
+52 yo F here for f/u HTN and lipid mgmt, denies CP/SOB, meds reviewed, A1c 6.8, TSH wnl on current dose levothyroxine, continue current regimen, RTC 3 months. Denies tob use. Pt reports she quit drinking alcohol in 2010 and has remained abstinent since.
+---end copied text---
+
+Social History: Lifelong non-smoker, never used tobacco products in any form. Denies vaping. Pt notes father was a heavy smoker, died of lung cancer - some family discussion of this history but no personal smoking history. No current alcohol use (quit 2010, per above). Lives alone, independent in ADLs, uses cane for ambulation d/t knee OA.
+
+ROS: Constitutional - fatigue as above, denies fever/chills/weight loss. Resp - denies cough, dyspnea, wheeze. CV - denies CP, palpitations, edema. GI - denies n/v/d, appetite ok. GU - denies dysuria, hematuria. MSK - chronic knee/hand pain, OA. Psych - endorses low mood at times, on treatment, denies SI/HI. Endo - no polyuria/polydipsia currently.
+
+Meds (reported, to be reconciled): metformin, levothyroxine, sertraline, occasional acetaminophen for joint pain. Will need full med list confirmed at next in-person visit.
+
+Allergies: NKDA per pt report.
+
+PMH: CKD stage 3 (last known eGFR ~45 per outside records, will repeat labs), depression (stable per pt), T2DM (last A1c reported 6.8 from outside records, will recheck), osteoarthritis (knees, hands), hypothyroidism (on levothyroxine, last TSH wnl per outside records).
+
+FH: Father - heavy smoker, died of lung cancer. Mother - hx not fully obtained today, will ask at f/u. No other significant FH obtained this visit.
+
+SH (cont.): Non-smoker as above. No illicit drug use reported. Widowed, lives alone, daughter checks in weekly.
+
+Exam: Limited given telehealth format. General - pt appears well, no acute distress, conversant and appropriate. Skin - no lesions visible on cam. No other exam performed given virtual visit; will complete full physical at in-person follow-up.
+
+Labs: None done today (telehealth). Will order CMP, A1c, TSH, lipid panel, UA for pickup at local lab prior to next visit.
+
+Assessment/Plan:
+1. CKD stage 3 - stable by report, will recheck renal function labs, review outside records once received.
+2. Depression - reports stable mood on sertraline, continue current tx, will reassess at follow up, screen with PHQ-9 next visit.
+3. Type 2 diabetes - will recheck A1c, continue metformin pending outside record review, reinforce diet/exercise as tolerated given OA limitations.
+4. Osteoarthritis - continue acetaminophen PRN, discussed non-pharm measures (heat, gentle ROM exercises), refer to PT if worsens.
+5. Hypothyroidism - continue levothyroxine, recheck TSH.
+6. Health maintenance - pt is a lifelong non-smoker, no tobacco use history noted or elicited. General age-appropriate cancer screening status (mammogram, colonoscopy) to be reviewed in detail at next visit given time constraints today.
+7. Social - no current alcohol use, quit in 2010; no illicit drugs.
+Plan to see in person within 4-6 weeks to complete exam and review labs. Pt verbalizes understanding, agrees with plan.
+
+Time spent: ~20 min telehealth visit, most time in counseling/coordination of care.
+
+---ADDENDUM (same day, later)---
+Addendum 09/10/2023 1730: Spoke briefly again with patient by phone re: lab order confirmation, she confirmed she will go to LabCorp near her home this week. Reiterated for chart clarity: patient denies any personal history of cigarette smoking or other tobacco use whatsoever, lifelong non-smoker confirmed again on this call. No changes to plan above. Will follow up once labs result.
+-Brian Okonkwo, MD

@@ -1,0 +1,34 @@
+RESIDENT NOTE - New Patient Visit to Establish Care
+Patient: Larry Allen | DOB: 3/4/1971 (age 53) | Sex: M
+Date of Service: 04/28/2024
+Author: Julia Brennan, MD (resident); attending attestation below
+
+CC: Establish care, review of chronic conditions.
+
+HPI: 53 y/o male here today to establish care w/ PCP, transferring records from prior clinic per pt report but not yet on file. Pt reports doing reasonably well, denies acute complaints, some fatigue which he attributes to poor sleep, no chest pain no SOB at rest though gets [inaudible] with exertion occasionally and pt states its been going on for a wile, denies fevers chills or weight loss, reports occasional urinary frequency and weak stream which he says has been present for some time now not acutely worse.
+
+Problem List:
+- N18.3 CKD stage 3
+- E03.9 Hypothyroidism
+- E11.9 Type 2 diabetes mellitus
+- N40.0 BPH
+- J44.9 COPD
+- I10 Essential hypertension (outdated, resolved per pt, off meds x2 yrs)
+
+Medications: Levothyroxine 75 mcg daily, Metformin 1000 mg BID, Tamsulosin 0.4 mg qhs, Albuterol HFA prn, Tiotropium inhaler daily, Vitamin D3 2000 IU daily, Atorvastatin 20 mg daily (unclear indication, cont for now).
+
+Social History (templated):
+Alcohol use: occasional, 1-2 drinks/wk, beer
+Tobacco use: 
+Living situation: lives alone, house
+Occupation: retired warehouse supervisor
+Drug use: Not on file
+Exercise: Not on file
+
+ROS: Constitutional - negative for fever, chills, unintentional weight loss. Cardiovascular - negative for chest pain, palpitations, edema. Respiratory - positive for occasional dyspnea on exertion as above, negative for hemoptysis. GI - negative for nausea vomiting diarrhea constipation. GU - positive for urinary frequency, weak stream, negative for dysuria hematuria. Endocrine - negative for polyuria polydipsia. All other systems reviewed and negative.
+
+Physical Exam: Vitals stable, BP 132/78, HR 76, RR 16, Temp 98.4, BMI 29. General - well appearing, NAD. HEENT - normocephalic atraumatic, PERRL. Neck - no thyromegaly, no LAD. Lungs - mild expiratory wheeze bilat bases, no rales no rhonchi. Cardiac - RRR no m/r/g. Abdomen - soft NT/ND, no organomegaly. Extremities - no edema. Neuro - grossly intact.
+
+Assessment/Plan: 53 yo male establishing care, multiple chronic conditions stable today. CKD3 - continue monitoring renal function, recheck BMP. Hypothyroidism - continue levothyroxine, check TSH. T2DM - continue metformin, check A1c. BPH - continue tamsulosin. COPD - continue inhalers, discussed lung cancer screening today but deferred until smoking history can be obtained and documented at follow up visit.
+
+Attestation: I have reviewed and discussed this case with the resident and agree with the assessment and plan as documented above. - Julia Brennan, MD.

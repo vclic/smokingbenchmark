@@ -1,0 +1,54 @@
+URGENT CARE PHYSICIAN PROGRESS NOTE
+Patient: Curtis Torres | DOB: 4/10/1948 | Age: 76 | Sex: M
+DOS: 12/13/2024
+Author: Catherine Lindqvist, DO
+
+CC: cough x5 days
+
+HPI: 76 yo M w/ PMH gout, osteoporosis, OA presents c/o worsening cough. Pt states "I've had this cough for about a week and it's not getting better, kinda hacking all day." Denies fever, denies hemoptysis. + mild SOB w/ exertion per pt: "I get winded walking up the stairs now." No chest pain. No recent travel or sick contacts. Appetite fair, no wt loss noted by pt.
+
+ROS: otherwise negative except as above. No hemoptysis, no night sweats.
+
+SOCIAL HISTORY:
+Tobacco: pt continues to smoke cigarettes at this visit, current smoker.
+Alcohol: occasional beer, ~1-2/wk.
+Lives alone, ambulates with cane 2/2 OA.
+
+[TOBACCO USE TEMPLATE - AUTO-GEN]
+Smoking status: Never Smoker
+*** NOTE: above auto-populated field is INCORRECT/outdated, does not reflect actual hx - see below for accurate smoking hx ***
+Tobacco use details (manually entered): Pt reports smoking ~3/4 pack/day (approx 15 cigs/day) since 1966. Current smoker, continues to smoke daily. Advised to quit, discussed cessation resources.
+
+PMHx / PROBLEM LIST:
+- M10.9 Gout, unspecified (active, on allopurinol)
+- M81.0 Age-related osteoporosis w/o current pathological fracture (active)
+- M19.90 Osteoarthritis, unspecified site (active)
+- J45.909 Asthma, unspecified (outdated - resolved per pt, no longer on inhalers x years)
+- Z87.891 Hx of tobacco dependence (note: pt is CURRENT smoker per today's visit, this old code inaccurate)
+
+MEDS: allopurinol 300mg daily, calcium/vit D supplement, acetaminophen prn OA pain.
+
+ALLERGIES: NKDA
+
+VITALS: T 98.4, HR 82, RR 18, BP 138/78, SpO2 95% RA
+
+EXAM:
+Gen: NAD, comfortable, mild cough noted during visit
+HEENT: OP clear, no erythema
+Neck: supple, no LAD
+Lungs: mild expiratory wheeze bilat bases, no rales, no rhonchi, good air movement
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: no edema, no clubbing/cyanosis
+MSK: mild crepitus b/l knees c/w known OA, no acute swelling, no tophi appreciated today
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral - supportive care, fluids, rest. Cough suppressant OTC recommended. Return if worsening dyspnea, fever, or hemoptysis.
+2. Tobacco use, current smoker - as above pt continues to smoke cigarettes at this visit. Counseled extensively re: cessation given cough sx and ongoing use; pt not ready to quit today. Screening for lung malignancy was discussed briefly given smoking hx, pt to follow up w/ PCP re: further workup/monitoring.
+3. Gout - stable, continue allopurinol, follow labs at PCP.
+4. Osteoporosis - stable, continue calcium/vit D, no new fx concerns.
+5. OA - stable, continue acetaminophen prn, PT referral previously given.
+
+F/u w/ PCP in 1-2 wks or sooner if sx worsen. Pt verbalized understanding of plan.
+
+- C. Lindqvist, DO

@@ -1,0 +1,80 @@
+Geriatrics – Resident Note with Attending Attestation
+Patient: David Robinson (M), DOB 2/11/1948, Age 75
+Date of Service: 04/11/2023
+Author: Laura Castellano, FNP-C (attending co-sign pending)
+
+CC: Comprehensive geriatric assessment, referred by PCP for fall risk and polypharmacy review.
+
+HPI:
+Pt is a 75 y/o male c/o some fatigue, occasional dizziness on standing. Denies chest pain. Hx notable for COPD, HTN, HLD, gout, hypothyroid, afib. Lives alone, daughter checks in weekly. Pt states "I get winded going up the stairs now, more than before." Denies falls in last 6 mo but reports "almost went down" twice last month reaching for mail. Appetite fair. Sleep fragmented, up 2-3x nightly to void.
+
+Pt further states "I know I should quit but its the one thing that calms me down" when asked about tobacco use — see tobacco section below for details.
+
+ROS: Constitutional - fatigue as above, denies fever/chills. Resp - chronic cough, occasional wheeze, denies hemoptysis. Cardiac - denies palpitations today although known afib, denies syncope. GI - denies n/v/d. GU - nocturia x2-3. MSK - occasional great toe pain c/w gout flares, currently resolved. Neuro - denies focal weakness, some lightheadedness as noted.
+
+PMH: COPD (on inhalers), HTN, HLD, gout, hypothyroidism, atrial fibrillation (on anticoagulation)
+PSH: Denies major surgeries, appendectomy remote per pt "way back when"
+FH: Non contributory, limited data available, [inaudible] per pt re: father's cause of death
+SH: See tobacco use block below. Denies illicit drug use. Occasional etoh, "maybe a beer on the weekend."
+
+MEDICATIONS:
+- Tiotropium inhaler daily
+- Albuterol PRN
+- Atorvastatin 40mg qhs
+- Lisinopril 10mg daily
+- Allopurinol 100mg daily
+- Levothyroxine 75mcg daily
+- Apixaban 5mg BID
+
+ALLERGIES: NKDA
+
+=== TOBACCO USE ASSESSMENT (EHR TEMPLATE) ===
+Current tobacco user: Yes
+Type: Cigarettes
+Amount: 1/4 pack per day (approx 5 cigarettes/day)
+Duration: 55 years
+Quit attempts: Pt reports "tried patches once, didnt work"
+Counseling provided: Yes, advised to quit, discussed resources, pt declined referral to cessation program today
+=== END TOBACCO TEMPLATE ===
+
+[Copied from note dated 03/11/2020, Dr. R. Alvarez, Internal Medicine — carried forward for reference, not updated]:
+"Smoking status as of 03/11/2020: current smoker. Pt continues to smoke, counseled again on cessation, pt not ready to quit at this time."
+[END COPIED SECTION 03/11/2020]
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregular, RR 18, T 98.2F, O2 sat 94% RA, Wt 172 lbs
+Gen: Elderly male, NAD, alert, oriented x3
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: No JVD, no thyromegaly appreciated
+CV: Irregularly irregular rhythm, no murmurs appreciated
+Resp: Diminished breath sounds bilat bases, scattered expiratory wheezes, prolonged expiratory phase
+Abd: Soft, NT, ND, +BS
+Ext: No edema, pulses 2+ bilat, gout changes noted at b/l 1st MTP, no active flare
+Neuro: CN II-XII grossly intact, gait slow but steady w/ cane, some mild postural sway noted on standing
+Skin: Thin, some ecchymoses on forearms c/w anticoag use
+
+FUNCTIONAL ASSESSMENT:
+ADLs: Independent
+IADLs: Needs some help w/ meds management per daughter
+Timed up and go: 14 seconds (elevated)
+Mini-Cog: 4/5, unremarkable
+
+ASSESSMENT/PLAN:
+1. COPD - stable-ish, continue current inhalers, reinforced technique, tobacco use remains a major contributor to disease progression, discussed cessation extensively today, pt not ready to quit, will readdress next visit. Lung cancer screening was discussed generally with pt as part of overall risk conversation, no further action taken today.
+2. HTN - reasonably controlled today, continue lisinopril
+3. HLD - continue atorvastatin, lipid panel due for recheck
+4. Gout - no active flare, continue allopurinol
+5. Hypothyroidism - continue levothyroxine, TSH due
+6. Afib - continue apixaban, HR controlled today although irregular on exam, will get EKG
+7. Fall risk - elevated TUG time, referring to PT for gait training, home safety eval recommended, daughter to assist with med organization/pillbox
+8. Nocturia - will check PSA, consider urology referral if persists
+
+Return to clinic in 3 months or sooner if needed. Pt verbalized understanding of plan.
+
+___
+Attending Attestation: I have reviewed and discussed this patient with the resident/NP author, Laura Castellano FNP-C. I concur with the assessment and plan as documented above, including tobacco use history and counseling provided.
+— Attending, Geriatrics
+
+=== ADDENDUM (same day, later) ===
+Addendum 04/11/2023 1615: Pt called back to clinic after morning visit, stated he forgot to mention he ran out of allopurinol about a week ago. Advised to restart today and refill sent to pharmacy. No other changes to plan. Tobacco counseling reiterated telephonically, pt again declined cessation program referral at this time, states "maybe next visit we can talk about it more." No further concerns voiced by pt at this time.
+— L. Castellano, FNP-C

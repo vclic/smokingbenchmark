@@ -1,0 +1,91 @@
+NEW PATIENT VISIT - HISTORY & PHYSICAL
+Patient: Walter Thompson (M) DOB: 2/11/1975 (age 50)
+Date of Service: 08/19/2025
+Provider: Steven Park, MD
+Location: Primary Care Clinic
+
+CHIEF COMPLAINT: Establish care.
+
+HPI: Pt is a 50 yo M new to clinic, here to establish primary care. He reports h/o GERD, OSA on CPAP, OA, and hypothyroidism, all previously managed elsewhere. States, "I just moved here and need a new doctor for my regular meds and checkups." No acute complaints today. Denies chest pain, SOB, palpitations. Reports occasional heartburn controlled with PPI. Sleep is "okay" with CPAP use most nights. Denies joint swelling currently, some AM stiffness in knees. No new neuro deficits.
+
+PAST MEDICAL HISTORY:
+- GERD
+- Obstructive sleep apnea (on CPAP)
+- Osteoarthritis
+- Hypothyroidism
+- Ischemic stroke (2008)
+
+PAST SURGICAL HISTORY: None reported.
+
+MEDICATIONS:
+1. Omeprazole 20mg PO daily
+2. Levothyroxine 75mcg PO daily
+3. Aspirin 81mg PO daily
+4. Atorvastatin 40mg PO qHS
+5. Acetaminophen 500mg PRN joint pain
+6. Meloxicam 15mg PO daily PRN
+7. Vitamin D3 2000 IU PO daily
+8. Multivitamin daily
+9. Melatonin 5mg PO qHS PRN sleep
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+  - Smoking status: Quit
+  - Detail: Pt reports smoking approx 1/2 pack (~10 cig/day) per day for 8 yrs, then increased to 1 pack/day for 9 yrs before quitting.
+  - Pack-years: Not on file
+  - Quit date: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Walks daily
+Diet: Not on file
+
+FAMILY HISTORY: Father - HTN, DM2. Mother - hypothyroidism. No known FH of lung ca.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, wt loss/gain.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, dyspnea, wheeze, hemoptysis.
+GI: Reports occasional heartburn, otherwise denies N/V/D/constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Reports mild joint stiffness, denies swelling/redness.
+Skin: Denies rash, lesions.
+Neurologic: Denies HA, dizziness, focal weakness/numbness currently.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies heat/cold intolerance beyond baseline.
+Hematologic/Lymphatic: Denies easy bruising/bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, BMI 29.
+General: Well-developed, well-nourished, NAD.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no thyromegaly.
+Neck: Supple, no LAD, no JVD.
+Cardiovascular: RRR, no murmurs/rubs/gallops.
+Respiratory: CTAB, no wheezes/rales/rhonchi.
+Abdomen: Soft, NT/ND, +BS, no HSM.
+Extremities: No edema, mild crepitus bilateral knees, no effusion.
+Skin: Warm, dry, intact, no rashes.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 all extremities, gait steady.
+Psych: Mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. GERD - continue omeprazole, lifestyle modification counseling given.
+2. OSA - continue CPAP, will request compliance data from DME.
+3. Osteoarthritis - continue PRN NSAID/acetaminophen, refer to PT if worsens.
+4. Hypothyroidism - continue levothyroxine, check TSH today.
+5. H/o ischemic stroke (2008) - stable, continue aspirin/statin, neuro follow up as needed.
+6. Tobacco use, former - Pt states he quit smoking right after his stroke. Counseled on maintaining abstinence, discussed general health benefits of continued cessation. Lung cancer screening was discussed in general terms with patient.
+7. Health maintenance - due for routine labs, colonoscopy screening discussion, immunizations updated.
+
+Labs ordered: CMP, TSH, lipid panel, A1c.
+Return to clinic in 3 months or sooner if issues arise.
+
+---
+ADDENDUM (later same day, 08/19/2025, Steven Park, MD):
+Pt called back after visit to clarify that CPAP supplies were recently reordered and should arrive within the week; no change to plan. Also confirmed labs drawn in office prior to discharge. No further changes to today's assessment/plan.

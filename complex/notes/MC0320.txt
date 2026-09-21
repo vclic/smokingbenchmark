@@ -1,0 +1,38 @@
+TELEHEALTH FOLLOW-UP NOTE — Pulmonology
+Date of Service: 12/20/2024
+Patient: Richard Davis | DOB: 05/28/1953 (age 71) | M
+Author: Hannah Weiss, NP
+
+CC: F/u after recent ED visit and admission for COPD exacerbation.
+
+HPI: Mr. Davis is a 71 y/o male with hx COPD, afib, OSA, seen via telehealth for f/u following recent COPD exacerbation managed in ED w/ nebs, steroids, and short course of abx. Reports improved dyspnea since discharge, though still c/o mild residual cough and intermittent wheeze. Denies fever, chest pain, hemoptysis. Sats have been stable at home per pt report (89-92% on RA). Using rescue inhaler ~2x/day, down from 6x/day at time of exacerbation. Sleeping better, uses CPAP nightly per usual routine, no recent changes to OSA sx. No palpitations or syncope, afib reportedly rate-controlled per recent EKG at cardiology.
+
+ROS: Constitutional: no fever, chills, wt loss. Resp: + mild cough, + occasional wheeze, denies hemoptysis. CV: no CP, no palpitations, no edema. GI: no n/v/d. GU: no dysuria. MSK: no new joint pain. Neuro: no focal deficits, no HA. Skin: no rashes. Psych: mood stable, no SI/HI. All other systems reviewed and negative except as noted in HPI.
+
+PMH: COPD (GOLD stage not specified this visit), atrial fibrillation (on anticoagulation), obstructive sleep apnea (on CPAP).
+
+Social History: Pt reports being a former smoker. Smoking hx notable for smoking about a quarter pack per day (approx 5 cigs/day) for 23 years, then increasing to about half a pack per day (approx 10 cigs/day) for 15 years, before ultimately quitting. He states he quit smoking 4 years after his first grandchild was born, and his first grandchild was born in 2008 — he did not specify the exact year he quit but confirms he has not smoked since. Denies current tobacco use, denies vaping, denies illicit drug use. Rare EtOH, ~1-2 drinks/month. Lives w/ spouse, retired machinist. Ambulates independently, uses cane occasionally for balance.
+
+Meds: Albuterol/ipratropium nebulizer PRN, tiotropium 18mcg inh daily, fluticasone/salmeterol 250/50 1 puff BID, apixaban 5mg BID, metoprolol succinate 50mg daily, amlodipine 5mg daily, atorvastatin 40mg qhs, omeprazole 20mg daily, montelukast 10mg qhs, multivitamin daily.
+
+Allergies: NKDA.
+
+Physical Exam (limited, via telehealth, patient self-reported vitals from home pulse ox/BP cuff): Gen: NAD, conversing in full sentences without significant dyspnea on video. Vitals per pt: BP 128/78, HR 76 irregular (known afib), RR 16, SpO2 90% RA, temp 98.2F, wt 182 lbs (stable). HEENT: no visible distress, no cyanosis noted on camera. Resp: unable to auscultate via telehealth; pt reports no increased WOB, no accessory muscle use observed on video. CV: unable to auscultate; pt denies palpitations currently. Ext: no visible edema on camera. Skin: no rash noted. This exam limited by telehealth modality; pt agreeable to in-person visit if needed.
+
+Labs/Results:
+- CXR (ED, 12/14/2024): No acute infiltrate, hyperinflation consistent with COPD, no effusion.
+- BNP (12/14/2024): 210 pg/mL (mildly elevated, stable from prior).
+- ABG not obtained this visit.
+- Spirometry (last on file, 03/2023): FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstruction.
+- INR (12/18/2024): 2.3, therapeutic on apixaban (NOTE: apixaban does not require routine INR monitoring, value obtained incidentally at cardiology visit, per chart).
+- BMP (12/18/2024): Na 138, K 4.1, Cl 101, CO2 26, BUN 18, Cr 0.9, glucose 104 — WNL.
+
+Assessment/Plan:
+1. COPD, recent exacerbation, now improving clinically. Continue current inhaler regimen. F/u spirometry to be scheduled outpatient. Advised pt to continue avoiding tobacco smoke exposure and secondhand smoke; discussed importance of remaining smoke-free given his significant prior smoking history. Discussed pulmonary rehab referral.
+2. Atrial fibrillation — rate controlled, continue apixaban and metoprolol, f/u with cardiology as scheduled.
+3. OSA — continue CPAP, encourage compliance, will review download at next sleep med visit.
+4. Health maintenance — pneumococcal and influenza vaccination status reviewed and up to date. Encouraged continued abstinence from smoking.
+
+F/u: Telehealth or in-person in 4 weeks, sooner if worsening dyspnea, chest pain, or oxygen desaturation. Pt verbalized understanding of plan.
+
+Electronically signed: Hannah Weiss, NP, 12/20/2024.

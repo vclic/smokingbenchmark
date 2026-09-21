@@ -1,0 +1,73 @@
+TELEHEALTH FOLLOW-UP NOTE
+Patient: Donald Martin (M), DOB 8/13/1974, Age 51
+Date of Service: 08/13/2025
+Provider: Julia Brennan, MD - Internal Medicine
+
+CHIEF COMPLAINT: F/u HTN, DM2, telehealth visit.
+
+HPI: Mr. Martin is a 51-year-old male seen today via video visit for routine follow-up of hypertension and diabetes. He reports doing 'okay', says his sugars have been 'up and down, hard to say' -- home glucose log reviewed, values ranging roughly 110-190 fasting per patient report [inaudible] some entries missing. BP per home cuff averages around 138/86 per his report today although he states the cuff his 'acting up' at times so numbers may not be fully reliable. No chest pain, no SOB at rest, some exertional dyspnea consistent w/ known COPD. Denies leg swelling, denies claudication today though he has hx PAD.
+Smoking history reviewed in detail: patient reports he previously smoked about a quarter pack (approx 5 cigarettes) per day for 15 years, then increased to about 1.5 packs per day for the past 17 years and continues to smoke at that rate currently. He states he is not ready to quit at this time. He was counseled again on smoking cessation resources including nicotine replacement and referral to quitline; he declined further discussion today.
+
+---COPY FORWARD FROM PRIOR VISIT 02/14/2023 (retained in chart, not updated)---
+Pt here for f/u DM, HTN, CKD. A1c 7.8. Denies CP/SOB. Meds reviewed. Continue lisinopril, metformin. RTC 3 months. Pt notes he had previously quit smoking in 2007 but relapsed in 2010 and has smoked intermittently since. Foot exam unremarkable, monofilament intact. Depression screen PHQ-9 stable. Continue sertraline. Renal function stable, eGFR 52.
+----------------------------------------------------------------
+
+PAST MEDICAL HISTORY: CKD stage 3, depression, COPD, peripheral artery disease, hypertension, type 2 diabetes mellitus.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: see HPI for details
+Years smoked: see HPI
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies weight loss.
+Eyes: denies visual changes.
+ENT: denies sore throat, denies congestion.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea.
+Respiratory: reports mild exertional dyspnea, denies hemoptysis, denies wheeze at rest.
+GI: denies nausea, denies vomiting, denies abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: denies joint pain, denies swelling.
+Skin: denies rash.
+Neuro: denies headache, denies numbness, denies tingling.
+Psych: reports mood 'stable-ish', denies SI/HI.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (via video, limited):
+General: alert, no acute distress, seated comfortably at home.
+Vitals: reported by patient - BP 138/86, HR 78 (per home monitor), unable to auscultate lungs/heart via telehealth.
+HEENT: no gross abnormality noted on camera.
+Cardiovascular: unable to auscultate; no visible JVD.
+Respiratory: no visible increased work of breathing; occasional cough noted during call.
+Extremities: no visible edema on camera, patient reports no swelling.
+Skin: no obvious lesions visible.
+Psych: mood/affect appropriate, cooperative.
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Metformin 1000 mg twice daily
+3. Atorvastatin 40 mg daily
+4. Sertraline 100 mg daily
+5. Albuterol HFA inhaler PRN
+6. Tiotropium inhaler daily
+7. Clopidogrel 75 mg daily
+8. Aspirin 81 mg daily
+9. Amlodipine 5 mg daily
+
+ASSESSMENT/PLAN:
+1. Hypertension - suboptimal control per home readings, will increase amlodipine, recheck in 2 weeks via home log, discussed accuracy of home cuff, advised recalibration/replacement if needed.
+2. Type 2 diabetes mellitus - A1c pending, continue metformin, reinforced diet and glucose log.
+3. CKD stage 3 - stable, monitor labs, avoid NSAIDs.
+4. COPD - continue inhalers, discussed smoking cessation again at length; patient reiterates he is not ready to quit at this time; offered nicotine patches, quitline info given; he will consider.
+5. PAD - stable, continue clopidogrel and aspirin, ABI results reviewed [inaudible] discussion of vascular referral if symptoms worsen.
+6. Depression - stable on sertraline, PHQ-9 to be repeated next visit.
+7. Lung cancer screening was discussed with patient given smoking history; risks/benefits reviewed; he will think it over.
+RTC in 4-6 weeks or sooner if symptoms worsen. Telehealth visit concluded, patient verbalized understanding.
+
+Electronically signed: Julia Brennan, MD

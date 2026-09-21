@@ -1,0 +1,46 @@
+Pulmonology NP Progress Note
+Patient: Charles Garcia | DOB: 02/16/1944 | Age: 79 | Sex: M
+Date of Service: 02/16/2023
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Follow-up after ED visit for COPD exacerbation.
+
+HPI: Mr. Garcia is a 79-year-old male who presented to the ED last week with increased dyspnea and productive cough, treated with nebulizers and a steroid burst, now here for follow-up. He reports his breathing is somewhat improved but still gets winded walking to the mailbox, and he's had some [inaudible] wheeze at night that his wife says sounds like a whistle, he denies fevers chills or chest pain, he's been using his rescue inhaler more often than usually and says he ran out of albuterol refills over the weekend which he thinks made things worse and so on.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+Smoking history: Started half a pack (about 10 cigarettes) per day at age 20, continued at that rate until quitting in 2003.
+Quit date: 2003
+Circumstance of quitting: Patient quit smoking when his grandson was born; that grandson is now 20 years old.
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+
+[COPY-FORWARD FROM VISIT DATED 09/14/2021]
+Patient continues to follow with cardiology for PAD, has intermittent claudication with ambulation approx 2 blocks, on cilostazol, ABI last checked was borderline, patient advised to continue walking program as tolerated, foot checks reviewed given diabetes, patient denies non-healing ulcers, gout flares occurring roughly every few months managed with colchicine PRN, sleep study from prior years confirmed OSA on CPAP, compliance reportedly fair to good per device download, hypertension stable on lisinopril, A1c goal reviewed with patient and he's understanding of dietary modifications needed although he says its hard to change habits of a lifetime and we talked about that for a while.
+[END COPY-FORWARD]
+
+ROS: Positive for dyspnea on exertion, chronic cough. Negative for hemoptysis, fevers, chest pain, edema.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 93% on room air
+General: Elderly male, no acute distress
+Lungs: Diffuse expiratory wheezes, mild prolonged expiratory phase
+CV: Regular rate and rhythm, no murmurs
+Extremities: Trace edema bilaterally, PAD stable per prior exam
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, improving - continue tapering steroid, refill albuterol, add tiotropium
+2. Asthma - reinforce inhaler technique, spacer recommended
+3. Given his prior smoking history, lung cancer screening was discussed with the patient as part of routine preventive care conversation.
+4. T2DM - continue metformin, recheck A1c in 3 months
+5. OSA - continue CPAP, encourage compliance
+6. HTN - stable, continue lisinopril
+7. Gout - continue allopurinol, PRN colchicine
+8. PAD - continue cilostazol, follow with vascular
+Return to clinic in 4 weeks or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 02/16/2023, T. Alvarez NP):
+Spoke with patient by phone after visit regarding pharmacy issue with albuterol refill, resolved with pharmacy calling in new prescription this afternoon. Patient verbalized understanding of when to use rescue inhaler versus maintenance medication. No new complaints at this time. Will follow up as scheduled.

@@ -1,0 +1,33 @@
+TELEHEALTH VISIT - Family Medicine
+Patient: Larry Young | DOB: 6/19/1959 (age 64) | Date of Service: 06/19/2023
+Provider: Gregory Tan, MD (dictated; reviewed by NP)
+
+CHIEF COMPLAINT: Medication refills, chronic disease follow-up (CHF w/ reduced EF, HTN, gout, PAD, BPH, OA).
+
+HPI: Mr. Young is a 64 y.o. male seen via telehealth today for routine refill visit. He reports doing reasonably well, denies chest pain, denies worsening dyspnea on exertion though he does note some ankle swelling toward end of day, denies orthopnea, sleeps on 2 pillows same as before. Knee pain stable on current regimen, uses cane occasionally per prior visit note, [inaudible] states knees are 'about the same, maybe a little better with the warm weather.' Denies gout flare since last visit approx 4 months ago. Denies urinary retention, some nocturia x1-2, consistent w/ known BPH. Denies claudication at rest, reports he can walk 'a couple blocks' before calf cramping, unchanged from prior.
+
+SMOKING HISTORY (addendum, reviewed and corrected this visit): Note that the templated field below auto-populates from an old chart entry and reads "Smoking status: Never Smoker" -- this is INCORRECT and should be disregarded; the correct history, confirmed verbally with the patient today, is as follows: patient smoked 1.5 packs per day for 6 years, then cut back to 1 pack per day for 7 years, and subsequently quit smoking altogether. He is currently a former smoker (quit). He shared that he quit smoking 1 year after his wife passed away, which he says happened in 1987; this was a difficult period for him and he has remained smoke-free since. No current tobacco use reported. No vaping or other nicotine products reported.
+
+TEMPLATED FIELD (auto-populated, outdated - see addendum above): Smoking status: Never Smoker. [Do not rely on this field; see corrected narrative above.]
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Eyes: denies visual changes. ENT: denies sore throat, denies hearing loss. Cardiovascular: as above, denies chest pain, denies palpitations, positive for mild lower extremity edema. Respiratory: denies cough, denies wheeze, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation, denies abdominal pain. GU: nocturia x1-2 as above, denies dysuria, denies hematuria. Musculoskeletal: chronic knee pain as above, denies acute joint swelling. Skin: denies rash, denies ulceration of lower extremities. Neuro: denies focal weakness, denies numbness/tingling. Psych: denies depression, denies anxiety, mood euthymic per patient report. Endocrine: denies polyuria, polydipsia. Heme/Lymph: denies easy bruising, denies lymphadenopathy. Allergic/Immunologic: denies seasonal allergy symptoms today.
+
+PHYSICAL EXAM (limited, telehealth - visual only, no vitals obtained by staff, patient self-reported home BP 128/76 today): General: patient appears well, alert, in no acute distress, seated comfortably at home. HEENT: grossly normal by visual inspection, no obvious distress. Neck: unable to assess JVD via video. Cardiovascular: unable to auscultate; patient denies palpitations. Respiratory: no visible increased work of breathing, no accessory muscle use noted on camera. Abdomen: not assessed. Extremities: visible mild bilateral ankle edema noted on camera, no obvious skin breakdown seen, no visible ulcers. Neuro: gait not assessed today (telehealth), moves all extremities on camera without obvious deficit. Skin: no rash visualized.
+
+LABS/RESULTS (reviewed from recent visit, drawn 06/12/2023 at outside lab): BNP 410 pg/mL (elevated, baseline for pt), Creatinine 1.3 mg/dL, eGFR 55 mL/min/1.73m2, Potassium 4.6 mmol/L, Uric acid 7.8 mg/dL, A1c 5.9%, LDL 88 mg/dL. All essentially stable compared to prior panel dated 03/2023.
+
+MEDICATIONS (reviewed and refilled today): Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Spironolactone 25mg daily, Furosemide 40mg daily, Dapagliflozin 10mg daily, Allopurinol 100mg daily, Colchicine 0.6mg as needed for gout flare, Clopidogrel 75mg daily, Atorvastatin 40mg nightly, Tamsulosin 0.4mg nightly, Acetaminophen 650mg as needed for joint pain, Cilostazol 100mg twice daily for PAD.
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue GDMT as above, will recheck BNP and BMP in 3 months, patient to weigh self daily and call if weight increase >3lbs in 2 days.
+2. Hypertension - well controlled per home readings, continue current regimen.
+3. Gout - no flare since last visit, continue allopurinol, uric acid trending toward goal.
+4. PAD - stable claudication symptoms, continue cilostazol, discussed importance of walking program as tolerated.
+5. BPH - stable on tamsulosin, continue.
+6. OA knees - continue acetaminophen PRN, discussed weight-bearing exercise as tolerated.
+7. Tobacco history - former smoker, quit many years ago as detailed above; no current use; counseled on continued avoidance of tobacco products and general health maintenance topics.
+8. Refills sent to pharmacy of record as listed above.
+
+Follow-up in 3 months or sooner if symptoms worsen. Patient verbalized understanding, agreeable with plan.
+
+-- Gregory Tan, MD, dictated note (dictation reviewed for accuracy; minor transcription errors possible)

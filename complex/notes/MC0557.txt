@@ -1,0 +1,35 @@
+NURSE INTAKE
+DOS: 07/04/2025
+Pt: Terrence O'Brien, M, DOB 07/04/1957 (age 68)
+VS: BP 138/82, HR 78 irreg (known AFib), RR 16, SpO2 97% RA, Wt 198 lb
+CC: pre-op eval for L TKA
+Allergies: NKDA
+Meds: allopurinol, apixaban, levothyroxine
+
+Tob hx: former smoker, quit smoking. Pt states "I moved to this state back in '84 and quit smoking about two years after that." ROH: quit EtOH in 2002, denies current use. Denies illicit drugs.
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+HPI: 68 yo M here for pre-op clearance prior to elective L total knee arthroplasty. Pt reports chronic L knee pain, worse w/ weight bearing, limiting ambulation. States "my knee just gives out on me some days." No CP, no palpitations currently, AFib rate-controlled per pt. Gout flares intermittent, last flare ~3 mo ago, well controlled on allopurinol. Hypothyroidism stable on levothyroxine.
+
+PMH: gout, atrial fibrillation (on apixaban), hypothyroidism
+PSH: none significant
+Soc hx: former smoker - started smoking 1.5 ppd at age 16, continued at that rate until quitting in 1986. Quit EtOH 2002. Denies current tobacco/EtOH/illicit drug use. Lives w/ spouse.
+FH: noncontributory
+
+Labs (drawn 06/28/2025):
+CBC: Hgb 14.1, Hct 42%, Plt 230
+BMP: Na 140, K 4.2, Cr 1.0, Glu 98
+TSH (06/28/2025): 2.1 (WNL)
+Uric acid (06/28/2025): 6.8
+INR/PT: N/A (on apixaban, not warfarin)
+EKG 06/28/2025: irregularly irregular rhythm c/w known AFib, rate 76, no acute ST changes.
+
+A/P:
+1. Pre-op clearance for L TKA - cardiac risk assessed, RCRI low-moderate, cleared from cardiac standpoint given stable AFib on anticoag. Recommend continue apixaban per ortho/anesthesia bridging protocol.
+2. AFib - rate controlled, continue current management.
+3. Gout - stable, continue allopurinol, avoid NSAIDs peri-op due to renal/GI risk, may use colchicine if flare.
+4. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 mo.
+5. Tobacco use - former smoker as above; reinforced healthy lifestyle counseling. No current use, no further cessation counseling indicated at this time.
+6. Pre-op labs/EKG reviewed, no contraindications to surgery identified.
+
+F/u post-op or PRN. Pt verbalizes understanding of plan.

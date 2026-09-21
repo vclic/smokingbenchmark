@@ -1,0 +1,84 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Lan Allen (F) DOB: 4/3/1957 (age 66)
+Date of Service: 04/15/2023
+Author: Owen Fitzgerald, MD
+
+CC: F/u HTN, DM2.
+
+HPI: 66 yo F here for routine f/u of HTN and T2DM, also w/ hx CAD, GERD, OA, COPD, HLD, depression. Reports fair control, occasional AM HA, no chest pain, no SOB at rest, mild dyspnea on exertion c/w known COPD. Denies palpitations, edema. GERD sx mild, controlled on PPI. Mood stable on current antidepressant. Joint pain in knees, managed w/ OTC NSAID prn.
+
+EHR SOCIAL HISTORY TEMPLATE:
+Tobacco use: Current every day smoker
+Smoking cessation counseling given: Yes
+Readiness to quit: Not ready to quit at this time
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary, per pt report
+
+ROS (templated, 14-system review):
+Constitutional: Denies fever, chills, weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, orthopnea, PND. Occasional palpitations reported above.
+Respiratory: Chronic mild dyspnea on exertion, denies hemoptysis, denies acute wheeze today.
+GI: Occasional heartburn, denies nausea/vomiting/diarrhea/melena.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic bilateral knee pain, denies acute injury.
+Skin: Denies rash.
+Neuro: Denies focal weakness, numbness.
+Psych: Denies SI/HI, mood stable.
+Endocrine: Denies polyuria/polydipsia beyond baseline.
+Heme/Lymph: Denies easy bruising.
+Allergic/Immunologic: Denies new allergies.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 95% RA, Wt 172 lb, BMI 29.4
+Gen: NAD, well-appearing, conversant.
+HEENT: NCAT, PERRLA, oropharynx clear.
+Neck: No JVD, no thyromegaly.
+CV: RRR, no m/r/g.
+Lungs: Mild expiratory wheeze bilat bases, no crackles, no acute distress. Prolonged expiratory phase noted, c/w COPD.
+Abd: Soft, NT/ND, +BS.
+Ext: No edema, pulses 2+.
+Skin: Warm, dry.
+Neuro: Grossly intact, A&Ox3.
+Psych: Mood euthymic, affect appropriate.
+
+LABS/RESULTS:
+HbA1c (03/28/2023): 7.4%
+Basic metabolic panel (03/28/2023): Na 138, K 4.3, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 142
+Lipid panel (01/10/2023): TC 188, LDL 104, HDL 46, TG 190
+Spirometry (last on file 09/2022): FEV1/FVC 0.63, consistent w/ moderate obstruction
+Urine microalbumin (03/28/2023): 22 mg/g (mildly elevated)
+
+CURRENT MEDICATIONS:
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Metformin 1000mg BID
+4. Atorvastatin 40mg qhs
+5. Aspirin 81mg daily
+6. Sertraline 50mg daily
+7. Omeprazole 20mg daily
+8. Tiotropium inhaler daily
+9. Albuterol inhaler prn
+10. Acetaminophen prn joint pain
+11. Vitamin D3 1000IU daily
+
+ASSESSMENT/PLAN:
+1. HTN - stable on current regimen, BP slightly above goal today, continue current meds, recheck next visit.
+2. T2DM - A1c 7.4%, cont metformin, reinforce diet/exercise, recheck A1c in 3 mo.
+3. Hyperlipidemia - lipids at goal-ish, continue statin.
+4. CAD - stable, continue ASA/statin, no anginal sx today.
+5. GERD - well controlled on PPI, continue.
+6. Osteoarthritis - stable, continue prn acetaminophen/NSAID.
+7. COPD - moderate, on inhaled tiotropium, mild exam findings today, no exacerbation signs. Patient has a 50 pack-year smoking history. Continues to smoke daily; counseled extensively on cessation benefits given COPD and CAD, but pt states not ready to quit at this time. Discussed lung cancer screening as a topic for future consideration; will revisit at next visit. Offered cessation resources/pharmacotherapy, pt declined for now.
+8. Depression - stable on sertraline, mood euthymic today.
+
+F/u 3 months, sooner if concerns.
+
+---
+ADDENDUM (later same day, 04/15/2023, 4:47 PM) - Owen Fitzgerald, MD:
+Pt called back after visit to clarify medication instructions for metformin timing with meals; advised to take with breakfast and dinner as previously prescribed. No new complaints. Reiterated smoking cessation offer; pt again declined today but agreed to think about it. No changes to plan above.

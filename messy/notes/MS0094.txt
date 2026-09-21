@@ -1,0 +1,84 @@
+NURSE INTAKE
+DOS: 01/05/2025
+Patient: Luis Mitchell, M, DOB 01/05/1970 (age 55)
+Provider: Farah Siddiqui, MD - Pulmonology f/u post ED visit for COPD exacerbation
+
+Vitals: T 98.2F, HR 88 irreg (known AFib), BP 138/86, RR 20, SpO2 92% RA, Wt 198 lb, Ht 5'10"
+CC: f/u COPD exac s/p ED visit last wk, now improved on prednisone taper + neb tx
+
+HPI (per RN): pt reports mild residual SOB, less wheeze than ED presentation, cough w/ scant white sputum. Denies fever/chills. Compliant with inhalers per report. c/o mild ankle swelling, attributed to known CKD3.
+
+ROS (templated, reviewed all systems):
+Constitutional: denies fever, chills, wt loss
+HEENT: denies vision changes, denies sore throat
+CV: (+) known AFib, denies chest pain, denies palpitations today
+Resp: (+) cough, (+) dyspnea on exertion, denies hemoptysis
+GI: denies nausea, vomiting, diarrhea, denies constipation
+GU: (+) nocturia x2-3 (known BPH), denies dysuria, denies hematuria
+MSK: (+) chronic knee pain (OA), denies acute injury
+Skin: denies rash, denies lesions
+Neuro: denies HA, denies dizziness, denies focal weakness
+Psych: denies SI/HI, mood stable
+All other systems reviewed and negative except as noted above.
+
+Tobacco/Substance Use (EHR template):
+ Tobacco: Current every day smoker
+ Type: cigarettes
+ Pack-years: 74
+ Counseling provided: Yes - advised cessation
+ Readiness to quit: pt states not ready at this time
+ Alcohol: occasional, denies
+ Drugs: denies
+
+Medication List (reconciled today):
+1. Albuterol-ipratropium neb soln, per neb q4-6h prn
+2. Tiotropium inhaler 1 puff daily
+3. Fluticasone/salmeterol DPI 250/50 1 puff BID
+4. Prednisone taper - currently 20mg daily, tapering per ED d/c instructions
+5. Apixaban 5mg BID (AFib)
+6. Metoprolol succinate ER 50mg daily
+7. Tamsulosin 0.4mg qHS (BPH)
+8. Finasteride 5mg daily
+9. Acetaminophen 650mg prn (OA pain)
+10. Atorvastatin 40mg daily
+11. Vitamin D3 1000 IU daily
+12. Albuterol HFA MDI 2 puffs q4h prn
+
+Allergies: NKDA
+
+PHYSICAL EXAM (templated, physician):
+Gen: NAD, sitting comfortably, mild use of accessory muscles
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear, no JVD
+CV: irreg irreg rhythm, no m/r/g appreciated, 1+ pitting edema b/l ankles
+Resp: mild expiratory wheeze b/l, decreased breath sounds at bases, no crackles, no accessory muscle use at rest
+Abd: soft, NT/ND, +BS, no organomegaly
+Ext: 1+ edema b/l LE, no cyanosis, no clubbing
+Skin: warm, dry, no rash
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits
+Psych: mood/affect appropriate
+
+LABS/RESULTS:
+01/05/2025 CBC: WBC 9.8, Hgb 13.9, Hct 41.2, Plt 245
+01/05/2025 BMP: Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline ~1.5, consistent w/ CKD3), Glu 104
+01/05/2025 BNP: 210 (mildly elevated)
+12/29/2024 CXR (from ED): hyperinflated lungs, no acute infiltrate, no effusion
+11/2024 Echo: EF 55%, mild LA enlargement
+
+ASSESSMENT/PLAN:
+Mr. Mitchell is a 55 yo M w/ hx BPH, AFib, CKD3, OA, asthma, now s/p recent COPD exacerbation, f/u in clinic today. Notably he continues to smoke despite counseling on multiple prior visits and again today. This visit date, 01/05/2025, documented per templates above.
+
+1. COPD exacerbation, resolving - continue prednisone taper per ED instructions, f/u in 2 wks or sooner if worsening. Continue nebs and maintenance inhalers as above.
+2. Tobacco use, current, 74 pack-year hx per template above - counseled extensively on cessation benefits, esp. given recent exac. Discussed nicotine replacement options, pt declined at this time. Discussed screening guidelines in general terms; no imaging ordered today.
+3. Atrial fibrillation - rate appears controlled on current metoprolol dose, continue apixaban for anticoagulation, no changes today.
+4. CKD stage 3 - Cr stable at baseline, will recheck BMP at next visit, avoid nephrotoxic agents.
+5. BPH - stable on tamsulosin/finasteride, no new urinary complaints beyond baseline nocturia.
+6. OA - stable, continue acetaminophen prn, discussed non-pharm measures (PT referral offered, pt declined for now).
+7. Asthma - overlap with COPD picture, continue combination inhaler, reassess at f/u.
+
+Return to clinic in 2 weeks, sooner if symptoms worsen. Pt given written instructions re: red flag sx (worsening SOB, chest pain, fever) to seek ED care.
+
+-- Farah Siddiqui, MD
+
+ADDENDUM (later same day, 01/05/2025, 16:40):
+Spoke with pt by phone after visit re: pharmacy question regarding prednisone taper schedule - clarified dosing, pt verbalized understanding. No new complaints at this time. Reiterated importance of smoking cessation given ongoing tobacco use despite prior counseling; pt again declined nicotine replacement or referral to quitline today, will revisit at next visit.
+-- Farah Siddiqui, MD

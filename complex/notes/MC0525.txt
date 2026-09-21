@@ -1,0 +1,50 @@
+Cardiology Progress Note
+Patient: David Ramirez  DOB: 2/14/1949 (age 77)
+Date of Service: 02/14/2026
+Author: Owen Fitzgerald, MD (NP progress note dictated)
+
+CC: chest pain eval
+
+HPI: Mr Ramirez is a 77 y/o male referred for eval of intermittent chest pressure, occuring w exertion, relieved w rest, no radiaton noted. Pt reports symptoms x 2 weeks, denies diaphoresis, denies syncope. Pt ambulates w cane due to PAD claudication, states legs 'feel heavy' after walking half block [inaudible] further history. No recent fevers chills.
+
+PMH/Problem List:
+- E11.9 Type 2 diabetes mellitus
+- N18.3 Chronic kidney disease stage 3
+- I73.9 Peripheral artery disease
+- J44.9 COPD (no smoking history documented)
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- I25.10 CAD (old, likely outdated dx, unclear if still active per chart review)
+
+Social History: noncontributory.
+
+Medications: metformin 500mg BID, lisinopril 20mg daily, atorvastatin 40mg qhs, tiotropium inhaler daily, CPAP nightly (compliance unclear pt reports 'most nights').
+
+ROS: Cardiac - as above. Resp - occasional dyspnea on exertion, no cough today. GI - noncontributory. Neuro - noncontributory. All other systems reviewed and negative.
+
+Vitals: BP 148/86, HR 78, RR 16, SpO2 94% RA, Wt 198 lb, Temp 98.2F
+
+Exam: Gen - NAD, alert. CV - RRR no m/r/g, no JVD. Lungs - diminished breath sounds bilat bases, no wheeze appreciated today, prolonged expiratory phase noted. Ext - trace edema b/l, dorsalis pedis pulses diminished bilat, cap refill <3 sec. Skin - warm dry intact.
+
+Labs/Results (reviewed today):
+- BMP 02/10/2026: Na 138, K 4.6, Cr 1.6 (baseline per CKD stage 3), eGFR 42
+- HbA1c 01/15/2026: 7.8%
+- Lipid panel 01/15/2026: LDL 92, HDL 38, TG 210
+- BNP 02/14/2026: 210 pg/mL (mildly elevated)
+- Troponin x1 02/14/2026: <0.01 (negative)
+- EKG today: NSR rate 78, no acute ST changes, old LBBB unchanged from prior
+
+Assessment: 77 y/o male w chest pain, multiple cardiovascular risk factors including PAD, HTN, DM, CKD stage3, presenting for further eval. Troponin negative today, BNP mildly elevated. Differential includes stable angina vs noncardiac etiology, will pursue further workup.
+
+Plan:
+1. Chest pain - obtain stress echo outpt, continue current cardiac meds, pt educated on when to seek ER care for worsening sx or new radiaton/diaphoresis.
+2. COPD - continue tiotropium, no acute exacerbation today, screening for lung ca discussed in general terms w pt, further imaging decsions deferred to pt/PCP discussion.
+3. PAD - cont current antiplatelet regimen, reinforced walking program as tolerated.
+4. CKD stage3 - stable, recheck BMP in 3 months, avoid nephrotoxic agents.
+5. DM - A1c above goal, will discuss med adjustment w PCP, reinforced diet.
+6. HTN - BP borderline elevated today, continue monitoring, consider med titration if persists.
+7. OSA - reinforce CPAP compliance, discussed at length.
+
+F/u in cardiology clinic 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered today, pt agreeable to above.
+
+Electronically signed: Owen Fitzgerald, MD 02/14/2026

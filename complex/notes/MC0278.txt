@@ -1,0 +1,42 @@
+TELEHEALTH VISIT NOTE
+Patient: Mark Wright | DOB: 1/17/1971 | Age: 52 | M
+Date of Service: 02/23/2023
+Provider: Laura Castellano, FNP-C
+Visit type: Annual wellness visit (telehealth, video)
+
+CC: Annual wellness exam, med refills, general check in
+
+HPI: Pt is a 52 yo M w/ hx osteoporosis, HTN, GERD presenting via telehealth for annual wellness visit. Pt reports feeling generally well, no acute complaints today. denies chest pain sob palpitations. Reports occasional heartburn, controlled w/ current regimen mostly. No new fx or falls since last visit. Pt states he continues to smoke, has been smoking for 23 years, currently an active smoker - reports no interest in quitting at this time, declines referral to tobacco cessation program today but agreeable to revisit topic at future visit. Discussed lung cancer screening in general terms with pt, he will think about it. Pt denies illicit drug use, occasional etoh use (1-2 drinks/wk). Reviewed med list, pt confirms compliance w most meds though admits occasionally forgets calcium supplement.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 08/14/2022 (retained per office template, please disregard outdated details)***
+CC: f/u HTN, osteoporosis, GERD
+HPI: pt here for routine f/u, reports BP well controlled on current regimen, no headaches or visual changes. Osteoporosis - last DEXA reviewed, T score improved slightly since starting therapy, pt tolerating bisphosphonate without GI upset. GERD sx well controlled on PPI, pt denies dysphagia odynophagia or wt loss. ROS otherwise negative. Pt continues to work full time as an electrician, reports good energy level, exercises 2x/wk walking. No falls. Denies SOB CP palpitations edema. Immunizations UTD per pt report. Pt due for colonoscopy screening, will schedule. Pt advised to continue current meds, f/u in 6 months or sooner if issues arise. Labs ordered: CMP, lipid panel, HbA1c.
+***END COPIED SECTION***
+
+PMH: Osteoporosis (dx ~2019), HTN, GERD
+PSH: none reported
+Meds: Alendronate 70mg PO weekly, Lisinopril 20mg daily, Omeprazole 20mg daily, Calcium/Vit D supplement daily (pt admits inconsistent use)
+Allergies: NKDA
+FH: Father - CAD, mother - osteoporosis
+SH: Active smoker as above. Etoh occasional. Denies illicit drugs. Works as electrician. Married, lives w/ spouse.
+
+ROS: Constitutional - no fever/chills/wt loss. CV - no CP/palpitations. Resp - no cough/sob currently. GI - occasional heartburn as above, no n/v/d. MSK - no new joint pain. Neuro - no HA/dizziness. Psych - mood stable, denies depression/anxiety.
+
+Objective (per pt report/telehealth limitations - no vitals obtained in person today, pt reports home BP log values in acceptable range):
+Gen: appears well, no acute distress on video
+HEENT: no visible abnormalities
+Resp: no visible respiratory distress, no cough noted during call
+CV: unable to auscultate via telehealth
+Skin: no rashes noted on visible areas
+
+Assessment/Plan:
+1. Osteoporosis - continue alendronate, encourage consistent calcium/vit D use, will order repeat DEXA when due, counseled on wt bearing exercise and fall precautions
+2. HTN - well controlled per home readings, continue lisinopril, recheck BP at next in person visit
+3. GERD - continue omeprazole, counsel on lifestyle modification (avoid late meals, elevate HOB, avoid trigger foods)
+4. Tobacco use - active smoker, 23 yr smoking hx as above, counseled on risks and benefits of cessation, offered cessation resources today which pt declined, will readdress at future visits, lung cancer screening discussed in general terms
+5. Health maintenance - due for colonoscopy per prior note, will schedule; immunizations reviewed and UTD; labs to be ordered incl CMP lipid panel HbA1c
+6. Return to clinic in 6 months or sooner for in person visit to obtain vitals and further exam, sooner if any new sx arise
+
+Pt verbalizes understanding and agreement with above plan. All questions answered. Telehealth visit ended, total time spent 20 min including counseling and coordination of care.
+
+Electronically signed: Laura Castellano, FNP-C 02/23/2023

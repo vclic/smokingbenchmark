@@ -1,0 +1,84 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Jose Barnes
+DOB: 04/23/1953
+Age: 72 y.o. male
+Date of Service: 04/23/2025
+Author: Hannah Weiss, NP
+
+Dear Dr. Chen,
+
+Thank you for referring Mr. Barnes, a 72 y.o. male, for eval of chest pain. He was seen in clinic today, 04/23/2025, for further workup given his hx of CAD, HLD, and osteoporosis.
+
+HPI: Pt c/o intermittent chest pressure x 2 wks, described as substernal, non-radiating, assoc w/ exertion, relieved w/ rest. Denies SOB at rest, denies diaphoresis, denies n/v. Pt states episodes last approx 5-10 min and occur w/ climbing stairs or walking >2 blocks. No recent fevers/chills. Pt reports med compliance is good, takes all meds as prescribed per pharmacy refill records reviewed today. Pt denies palpitations, denies syncope or near syncope. Pt was scene by PCP 2 wks ago and started on additional antihypertensive, tolerating well per pt report.
+
+PMH: CAD (s/p cath 2019, no stent per pt recollection - records pending), HLD, osteoporosis (dx 2020, DEXA reviewed - T score -2.6 lumbar spine).
+
+PSH: None significant, denies prior surgeries.
+
+Family Hx: Father - MI at age 68, deceased. Mother - osteoporosis, hip fracture at age 80.
+
+Allergies: NKDA.
+
+Medications:
+1. Atorvastatin 40mg PO QHS
+2. Aspirin 81mg PO QD
+3. Metoprolol succinate 50mg PO QD
+4. Alendronate 70mg PO QWeek
+5. Vitamin D3 2000 IU PO QD
+6. Calcium carbonate 600mg PO BID
+7. Lisinopril 10mg PO QD (new, started by PCP)
+8. Multivitamin PO QD
+
+Review of Systems:
+Constitutional: Denies fever, chills, unintentional weight loss or gain.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies hearing loss, denies tinnitus, denies sore throat.
+Cardiovascular: Positive for chest pressure as above, denies orthopnea, denies PND, denies LE edema.
+Respiratory: Denies cough, denies wheeze, denies hemoptysis.
+GI: Denies abd pain, denies nausea, denies vomiting, denies change in bowel habits.
+GU: Denies dysuria, denies hematuria, denies frequency.
+Musculoskeletal: Positive for chronic low back pain, denies joint swelling.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies HA, denies dizziness, denies numbness/tingling.
+Psych: Denies depression, denies anxiety.
+Endocrine: Denies polyuria, denies polydipsia.
+Hematologic: Denies easy bruising, denies bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+Physical Exam:
+Vitals: BP 138/82, HR 74, RR 16, Temp 97.8F, SpO2 97% RA, Wt 178 lbs, Ht 5'9"
+General: Alert, NAD, well groomed male appearing his stated age
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no thyromegaly
+CV: RRR, no murmurs/rubs/gallops, normal S1/S2, no JVD
+Resp: Lungs CTA bilat, no wheezes rales rhonchi
+Abd: Soft NT/ND, +BS, no HSM
+Ext: No edema, pulses 2+ bilat, no clubbing/cyanosis
+Skin: Warm dry intact, no rash
+Neuro: A&Ox3, CN II-XII grossly intact, motor/sensory grossly intact, gait steady
+MSK: No joint swelling, ROM WNL
+
+Labs/Results (reviewed today, drawn 04/20/2025):
+CBC: WBC 6.8, Hgb 14.1, Hct 42.3, Plt 245
+BMP: Na 139, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 98
+Lipid panel (04/20/2025): Total chol 178, LDL 96, HDL 48, Trig 145
+Troponin (04/20/2025, x1): <0.01 (negative)
+BNP: 62 (WNL)
+EKG today: NSR, no acute ST changes, rate 74, no significant Q waves noted, unremarkable overall - [inaudible] portion of lead placement note dictated, please disregard prior artifact comment
+A1c: 5.6%
+TSH: 2.1
+
+Assessment/Plan:
+72 y.o. male w/ known CAD presenting w/ exertional chest pressure, concerning for possible anginal equivalent though troponin negative and EKG unremarkable today. Given hx of CAD will proceed w/ stress test to further eval.
+
+1. Chest pain - likely stable angina given exertional pattern, low risk features on labs/EKG today. Will schedule exercise stress echo. Continue current cardiac meds. Pt advised to call or go to ED if sx worsen, occur at rest, or assoc w/ diaphoresis/SOB.
+2. CAD - continue atorvastatin, aspirin, metoprolol as above. Will obtain records from 2019 cath for review.
+3. HLD - lipid panel today shows improvement from prior, LDL at goal. Continue statin.
+4. Osteoporosis - continue alendronate, calcium, vit D. F/u w/ PCP for repeat DEXA per guideline interval.
+5. Lung cancer screening was discussed with the patient today but deferred, as no smoking history could be obtained or found documented anywhere in this patient's chart, and this info was not provided by the patient during today's visit.
+6. Pt to f/u in cardiology clinic in 4-6 wks or sooner if sx worsen. Will call pt w/ stress test results directly.
+
+Thank you again for this referral, please do not hesitate to reach out w/ any questions.
+
+Hannah Weiss, NP
+Cardiology Associates

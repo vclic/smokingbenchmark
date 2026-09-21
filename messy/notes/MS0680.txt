@@ -1,0 +1,65 @@
+PULMONOLOGY FOLLOW-UP NOTE
+Patient: Jose Perry (M), DOB 2/3/1970, Age 54
+Date of Service: 02/03/2024
+Author: Laura Castellano, FNP-C
+
+HPI:
+Mr. Perry is a 54-year-old male with history of COPD, HFrEF, gout, osteoarthritis, hypothyroidism, and atrial fibrillation who presents today for routine COPD follow-up. He reports his breathing has been 'about the same, maybe a little worse when it's cold out' - denies fevers, denies chest pain, some increase in leg swelling noted by wife which he attributes to 'sitting too much, [inaudible] at work.' He continues on his inhalers, states he 'uses the rescue one maybe two times a week or so, hard to say exactly cause I don't keep track real good.' No recent hospitalizations, no ER visits since last seen. He denies orthopnea, though sleeps on two pillows 'has always done that.' Reviewed medication list with patient and no changes reported today, he says he takes them 'pretty much every day, sometimes forgets the water pill.'
+
+COPIED FROM NOTE DATED 5/3/2022 (SOCIAL HISTORY, unchanged verbatim from prior note for reference):
+"Tobacco: current smoker."
+
+PAST MEDICAL HISTORY:
+- Heart failure with reduced ejection fraction
+- Gout
+- Osteoarthritis
+- Hypothyroidism
+- Atrial fibrillation
+- COPD
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Alcohol use: None - patient quit drinking alcohol in 2022
+Drug use: Not on file
+Occupation: Warehouse worker
+Living situation: Lives with spouse
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies weight loss
+Respiratory: chronic cough, denies hemoptysis
+Cardiovascular: mild bilateral lower extremity edema, denies palpitations today
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76 irregular, RR 18, SpO2 94% on room air, Temp 98.2F, Wt stable from last visit
+General: well-developed male, no acute distress
+HEENT: normocephalic, atraumatic, no scleral icterus
+Neck: no JVD appreciated
+Lungs: mild expiratory wheeze bilaterally, no crackles, prolonged expiratory phase
+CV: irregularly irregular rhythm, no murmurs appreciated, 1+ pitting edema bilateral lower extremities
+Abdomen: soft, non-tender, non-distended
+Extremities: no clubbing, 1+ edema as noted above
+Neuro: alert and oriented x3, no focal deficits
+
+LABS/STUDIES REVIEWED:
+Recent BNP mildly elevated, stable from prior. TSH within normal limits on current levothyroxine dose. INR therapeutic on current anticoagulation regimen. Chest imaging from last year showed hyperinflation consistent with COPD, no acute infiltrate.
+
+ASSESSMENT AND PLAN:
+1. COPD - patient with 30-year history of smoking, currently an active smoker. Symptoms appear stable today, continue current inhaler regimen. Discussed importance of smoking cessation at length, patient states he 'has thought about it' but not ready to quit at this time. Provided cessation resources and offered pharmacologic aids, patient declined for now. Lung cancer screening was discussed with the patient as part of general preventive care conversation.
+2. HFrEF - appears volume stable today with mild lower extremity edema, will continue current diuretic and guideline-directed medical therapy, follow with cardiology as scheduled.
+3. Atrial fibrillation - rate appears controlled on exam, continue current anticoagulation, INR therapeutic per recent labs.
+4. Hypothyroidism - TSH at goal, continue current levothyroxine dose.
+5. Gout/Osteoarthritis - stable, no acute flare reported today, continue current management.
+6. Alcohol use - patient reports he quit drinking alcohol in 2022, encouraged continued abstinence.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Laura Castellano, FNP-C
+
+---ADDENDUM (same day, later)---
+Addendum 02/03/2024 1645: Spoke further with patient by phone after he called clinic with question about inhaler technique, [inaudible] regarding spacer device use, advised him to bring device to next visit for demonstration. No other changes to plan above. Reiterated recommendation regarding tobacco cessation given his active smoking status and 30-year smoking history as documented above. Patient verbalized understanding.
+-Laura Castellano, FNP-C

@@ -1,0 +1,84 @@
+Pulmonology H&P
+Patient: Terrence Rivera
+DOB: 4/16/1963 (age 62)
+Date of Service: 06/24/2025
+Provider: Daniel Reyes, MD
+
+CHIEF COMPLAINT: COPD follow-up, worsening dyspnea on exertion
+
+HISTORY OF PRESENT ILLNESS:
+Mr Rivera is a 62 year old male with hx of COPD, osteoarthritis, hyperlipidemia, type 2 diabetes, PAD and obesity who presents today for routine follow up of his COPD. He states "I get winded going up the stairs to my apartment now, its worse than a few months ago." He denies any recent fevers, chills, or hemoptysis. He reports occasional productive cough, whitish sputum, no change in color recently. Uses albuterol inhaler PRN with some relief. He reports compliance with his Spiriva. No recent hospitalizations or ED visits for COPD exacerbation. He does note increased fatigue and states "some days I just don't have the energy I used to." He denies chest pain, orthopnea, or PND. Reviewed his PFTs from last visit which showed moderate obstruction.
+
+PAST MEDICAL HISTORY:
+- COPD
+- Osteoarthritis
+- Hyperlipidemia
+- Type 2 diabetes mellitus
+- Peripheral artery disease
+- Obesity
+
+SOCIAL HISTORY: Patient lives alone in a second floor apartment, reports occasional alcohol use (~2-3 drinks per week, mostly beer on weekends). Previously worked as a warehouse supervisor, now retired. No mention of illicit drug use. Support system includes a daughter who checks in regularly per patient report.
+
+FAMILY HISTORY: Father with history of heart disease, mother with type 2 diabetes. No known family hx of lung cancer.
+
+ALLERGIES: NKDA
+
+MEDICATIONS:
+1. Tiotropium (Spiriva) 18 mcg inhalation daily
+2. Albuterol HFA 90 mcg 2 puffs q4-6h PRN
+3. Metformin 1000 mg PO BID
+4. Atorvastatin 40 mg PO daily
+5. Aspirin 81 mg PO daily
+6. Clopidogrel 75 mg PO daily
+7. Lisinopril 20 mg PO daily
+8. Cilostazol 100 mg PO BID
+9. Acetaminophen 500 mg PO PRN for joint pain
+10. Vitamin D3 2000 units PO daily
+11. Fluticasone/salmeterol 250/50 1 puff BID (recently added)
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+HEENT: denies vision changes, hearing loss, sore throat
+Cardiovascular: denies chest pain, palpitations, edema noted in lower extremities bilaterally, stable
+Respiratory: + dyspnea on exertion, + occasional productive cough, denies hemoptysis, denies wheeze at rest
+GI: denies nausea, vomiting, diarrhea, constipation, abd pain
+GU: denies dysuria, frequency, hematuria
+Musculoskeletal: + chronic joint pain c/w osteoarthritis, denies new swelling or injury
+Skin: denies rash, denies non healing wounds (monitored given PAD)
+Neuro: denies headache, denies numbness/tingling, denies syncope
+Psych: denies depression, denies anxiety, sleep somewhat disrupted by cough
+Endocrine: + known T2DM, home glucose logs reviewed, mostly 120-160 range
+Hematologic: denies easy bruising or bleeding
+Allergic/Immunologic: denies seasonal allergies
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, Temp 98.4F, SpO2 94% on room air, Wt 231 lbs, BMI 34.2
+General: obese male, no acute distress, conversant, appropriate affect
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear, no cervical lymphadenopathy
+Neck: supple, no JVD, no thyromegaly
+Cardiovascular: RRR, no murmurs rubs or gallops, 1+ pitting edema bilateral lower extremities, distal pulses diminished bilaterally c/w known PAD
+Respiratory: mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles, no use of accessory muscles at rest
+Abdomen: soft, non tender, non distended, normoactive bowel sounds
+Extremities: no clubbing, cyanosis noted trace, chronic skin changes c/w PAD, feet warm to touch, no ulcerations today
+Musculoskeletal: crepitus noted bilateral knees, decreased ROM c/w osteoarthritis
+Neuro: alert and oriented x3, grossly nonfocal
+Skin: intact, no rashes
+
+LABS/RESULTS:
+CBC (06/20/2025): WBC 7.2, Hgb 14.1, Hct 41.8, Plt 245
+CMP (06/20/2025): Na 139, K 4.2, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 142
+HbA1c (06/20/2025): 7.4%
+Lipid panel (05/15/2025): Total chol 178, LDL 96, HDL 42, Trig 201
+Spirometry (04/10/2025): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstruction
+ABI (03/2025): 0.72 right, 0.75 left, consistent with known PAD
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, GOLD group B - symptomatic today with increased dyspnea. Added fluticasone/salmeterol combo inhaler last visit continue and reassess in 6-8 weeks. Reviewed inhaler technique with patient reinforced correct use of spacer. Discussed pulmonary rehab referral, patient agreeable. Screening for lung cancer was discussed in general terms as part of routine preventive care conversation.
+2. Peripheral artery disease - stable, continue cilostazol and antiplatelet therapy, ABI monitored annually
+3. Type 2 diabetes mellitus - A1c 7.4%, reasonably controlled, continue metformin, reinforced dietary modifications
+4. Hyperlipidemia - continue atorvastatin, repeat lipid panel in 6 months
+5. Osteoarthritis - continue acetaminophen PRN, discussed weight loss for symptom management given obesity
+6. Obesity - discussed weight management strategies, referred to nutrition
+Follow up in pulmonology clinic in 2 months or sooner if symptoms worsen. Patient verbalized understanding of plan and agreed with above.
+
+Electronically signed by Daniel Reyes, MD

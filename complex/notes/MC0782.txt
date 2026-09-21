@@ -1,0 +1,57 @@
+GERIATRICS PROGRESS NOTE
+DOS: 05/05/2026 (Geriatric Assessment Visit)
+Author: Daniel Reyes, MD (NP note co-signed)
+Patient: Judith Harris, F, DOB 05/05/1976, age 50
+
+CC: Comprehensive geriatric-style assessment referral for osteoporosis/asthma mgmt, pt turned 50 today per chart, wanted baseline eval given fam hx.
+
+HPI: Pt is a 50 yo F, DOB 5/5/1976, here for geriatric assessment visit today 5/5/2026. She reports doing fairly well overall, occasional SOB with exertion which she attribues to her asthma, uses albuterol prn maybe 2x/wk. No nocturnal awakenings. Denies chest pain, denies palpitations, [inaudible] some fatigue in afternoons but sleep is okay she says. She has hx of osteoporosis dx'd on DEXA a few yrs back, takes calcium/vit D, not currently on bisphosphonate per her report, we'll review records. She mentions her father passed away from lung cancer and that he was a heavy smoker for many years, this came up when we discussed fam hx of malignancy and she was tearful recalling it, we spent extra time addressing this and she was reassured that her own risk factors are different than his.
+
+=== COPIED FORWARD FROM VISIT 11/14/2023 (Dr. A. Whitfield, Internal Medicine) — retained for reference, not all current ===
+Pt seen for routine f/u. Asthma stable on low-dose ICS, uses rescue inhaler infrequently. Osteoporosis: DEXA T-score -2.6 lumbar spine, started on calcium 600mg BID and vit D3 2000 IU daily. Discussed fall precautions, home safety. Labs reviewed: CBC wnl, CMP wnl, TSH wnl. Immunizations UTD per pt report. Plan: cont current meds, f/u 6 months, refer to endocrine if worsening bone density. Pt tolerating meds well, no GI upset reported. Family hx reviewed - father w/ lung ca, mother w/ HTN. Social hx: lives alone, retired teacher, denies etoh, denies illicit drug use. [end of copied text]
+
+ROS: Constitutional - no fever, no wt loss. Resp - mild dyspnea on exertion as above, no cough, no hemoptysis. MSK - no new fx, no back pain currently. Skin - no rashes. Psych - mood okay, some anxiety re: fam hx of cancer discussed above.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Never Smoker
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, denies daily use
+Recreational drug use: denies
+Occupation: retired teacher
+Marital status: divorced
+Living situation: lives alone
+Exercise: walks 20 min most days
+
+Additional note from Dr. Reyes re: tobacco: Pt was specifically asked and confirmed she has never used tobacco in any form, no cigarettes, no vaping, no chew, this was clarified given strong fam hx of smoking-related lung cancer in her father who was noted to be a heavy smoker.
+
+PMH: Asthma (mild persistent), Osteoporosis (DEXA -2.6 lumbar spine per prior record).
+FH: Father - deceased, lung cancer, heavy smoker per pt report. Mother - HTN.
+Allergies: NKDA.
+Meds: Albuterol HFA prn, Calcium 600mg BID, Vitamin D3 2000 IU daily, Alendronate 70mg weekly (started since last visit per pharmacy records, though pt seemed unsure today).
+
+PHYSICAL EXAM:
+Vitals: BP 122/76, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, Wt 68 kg, Ht 163 cm.
+Gen: well-appearing, NAD, appropriate for stated age.
+HEENT: NCAT, PERRL, EOMI, oropharynx clear.
+Neck: supple, no LAD, no thyromegaly.
+CV: RRR, no m/r/g.
+Resp: mild expiratory wheeze bilat bases, otherwise clear, no crackles.
+Abd: soft, NT/ND, +BS.
+MSK: no kyphosis noted, gait steady, no obvious deformity.
+Skin: no lesions.
+Neuro: A&Ox3, CN II-XII grossly intact.
+Psych: mood congruent, affect appropriate, brief tearfulness when discussing father's illness, otherwise cooperative and pleasant.
+
+ASSESSMENT/PLAN:
+1. Asthma, mild persistent - stable, cont albuterol prn, reinforce inhaler technique, f/u PFTs if worsens.
+2. Osteoporosis - cont calcium/vit D and alendronate, will confirm adherence and re-check DEXA in 12-18 mo, discussed fall prevention again given prior counseling on record.
+3. Family history of lung cancer (father, heavy smoker) - discussed at length today. Pt herself has never used tobacco in any form (confirmed never-smoker status). Given strong fam hx we discussed general lung health, avoidance of secondhand smoke exposure, and screening options were discussed in general terms though not ordered today given pt's own risk profile differs from her father's given her nonsmoking status.
+4. Health maintenance - UTD per report, will verify immunization records, discussed general geriatric preventive care topics appropriate for age 50 given referral context.
+5. Psychosocial - some grief/anxiety related to father's cancer diagnosis discussed, offered resources, pt declined formal counseling referral at this time, will readdress at next visit.
+
+Return to clinic in 3-6 months or sooner if symptoms worsen. Pt verbalized understanding of plan and agreed with above.
+
+Electronically signed: Daniel Reyes, MD, Geriatrics, 05/05/2026.

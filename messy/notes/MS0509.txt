@@ -1,0 +1,31 @@
+TELEHEALTH VISIT NOTE
+Patient: Mark Walker (M), DOB 4/2/1945, Age: 80
+DOS: 04/02/2025
+Provider: Nadia Haddad, MD - Family Medicine
+
+Reason for visit: med refills
+
+HPI: 80 y/o M w/ hx CAD, CKD stage 3, PAD, HTN presents via telehealth for routine med refills. Denies chest pain, SOB, claudication changes. Reports stable BP readings at home, occasional dizziness. Pt states he had quit smoking in 2008 but relapsed in 2011; continues to smoke presently. No new complaints. Denies dysuria, edema, hematuria.
+
+---- copied forward from visit 09/14/2019 ----
+ROS: Constitutional: no fever, chills, wt loss. Cardiac: no chest pain, palpitations. Resp: no cough, wheeze. GI: no n/v/d. GU: no dysuria. MSK: no new joint pain. Neuro: no focal deficits. Skin: no rash.
+PE: Gen: NAD, A&Ox3. HEENT: PERRLA, EOMI. Neck: no JVD, no bruits. CV: RRR, no m/r/g. Lungs: CTAB. Abd: soft, NT/ND, +BS. Ext: no edema, PAD-related skin changes stable, pulses diminished bilat DP. Neuro: CN II-XII grossly intact.
+Meds at that time: aspirin 81mg, atorvastatin 40mg, lisinopril 20mg, metoprolol succinate 50mg, cilostazol 100mg BID, clopidogrel 75mg.
+---- end copied text ----
+
+Social History: Former alcohol use, quit drinking in 2005. Current tobacco use - smokes cigarettes, not interested in cessation at this time despite repeated counseling. Lives alone, denies illicit drug use.
+
+Meds (current, reconciled): ASA 81mg qd, atorvastatin 40mg qhs, lisinopril 20mg qd, metoprolol succinate 50mg qd, cilostazol 100mg BID, clopidogrel 75mg qd, furosemide 20mg prn edema, vitamin D3 1000IU qd.
+
+Vitals: BP 138/78, HR 72, RR 16, O2 sat 97% RA (per home device), wt 82kg.
+
+Assessment/Plan:
+1. CAD - stable, continue ASA, statin, beta-blocker. Refill atorvastatin, metoprolol.
+2. CKD stage 3 - stable renal function per last labs, avoid nephrotoxic agents, monitor Cr q6mo.
+3. PAD - continue cilostazol, clopidogrel; refill as needed.
+4. HTN - well controlled on current regimen, continue lisinopril.
+5. Tobacco use disorder - pt has smoked 1.5 packs per day for 62 years; still smokes and is not ready to quit at this time. Counseled extensively on cardiovascular/renal/PAD risks of continued smoking; general discussion held regarding lung cancer screening topics. Pt declines cessation aids at this visit, will reconsider.
+6. Prior alcohol use - quit 2005, no current concerns.
+F/u telehealth or in-person in 3 months, sooner if symptoms worsen. Labs (BMP, lipid panel) to be drawn prior to next visit.
+
+Electronically signed: Nadia Haddad, MD

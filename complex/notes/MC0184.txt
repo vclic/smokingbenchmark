@@ -1,0 +1,85 @@
+PULMONOLOGY FOLLOW-UP - PROGRESS NOTE
+Date of Service: 02/04/2024
+Patient: Raymond Ross | DOB: 02/04/1944 | Age: 80 | Sex: M
+Author: Farah Siddiqui, MD
+
+CHIEF COMPLAINT: Follow-up after ED visit / hospitalization for COPD exacerbation.
+
+HPI:
+Mr. Ross is an 80-year-old male with hx of COPD, gout, depression, type 2 diabetes, and obesity who presents today for pulm follow-up s/p recent ED visit for acute COPD exacerbation. He reports increased dyspnea, cough with yellowish sputum, and wheeze x 5 days prior to ED presentation. Was treated in ED with nebulizers, IV steroids, and a course of azithromycin; discharged home with prednisone taper and albuterol MDI. Today he reports significant improvement - cough much better, dyspnea now near baseline (able to walk to mailbox w/o significant SOB). Denies fever, chest pain, hemoptysis. Sleeping better. Appetite fair. Blood sugars have been running a bit high per home glucometer log, attributed partly to steroid taper. No new joint swelling c/w gout flare currently. Mood stable, continues on sertraline per psych.
+
+ROS: Otherwise negative as above. Denies edema, orthopnea, PND.
+
+PAST MEDICAL HISTORY:
+- COPD (GOLD stage not on file)
+- Gout
+- Depression
+- Type 2 diabetes mellitus
+- Obesity
+
+MEDICATIONS:
+- Albuterol MDI prn
+- Tiotropium daily
+- Prednisone taper (day 4 of 10)
+- Metformin 1000mg BID
+- Sertraline 100mg daily
+- Allopurinol 300mg daily
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Type: Cigarettes
+Amount/frequency: Approx 3/4 pack per day (~15 cigarettes/day) at time of regular use
+Age started: 18
+Quit date: Not on file
+Smokeless tobacco: Never
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Illicit drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired machinist
+
+Note re: tobacco - patient reports he started smoking about three-quarters of a pack (roughly 15 cigarettes) per day at age 18 and continued at that same rate for many years, stopping in 1991. He states he has not smoked since and currently denies any tobacco use of any kind, cigarettes, cigars, pipe, or smokeless. No vaping reported.
+
+FAMILY HISTORY: Father - MI at age 70. Mother - diabetes. No known family hx of lung cancer.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 84, RR 18, SpO2 94% on room air, Temp 97.8F, Wt 231 lbs, BMI 34.2
+General: Elderly male, NAD, comfortable at rest
+HEENT: Unremarkable
+Neck: No JVD, no LAD
+Lungs: Mild expiratory wheeze bilat bases, no crackles, decreased breath sounds bases c/w hyperinflation
+CV: RRR, no m/r/g
+Abdomen: Obese, soft, NT/ND
+Extremities: No edema, no active gout tophi noted, 1st MTP joints without erythema currently
+Neuro: A&Ox3, grossly nonfocal
+
+LABS/RESULTS:
+01/30/2024 (ED visit) - CBC: WBC 11.2 (H), Hgb 13.1, Plt 245
+01/30/2024 - BMP: Na 138, K 4.1, Cl 101, CO2 26, BUN 22, Cr 1.1, Glucose 210 (H)
+01/30/2024 - CXR: Hyperinflated lungs, flattened diaphragms, no acute infiltrate
+02/01/2024 (outpt) - HbA1c: 7.8%
+02/04/2024 (today, in-office) - Pulse ox 94% RA; spirometry deferred today given recent exacerbation, to reschedule
+
+ASSESSMENT:
+80-year-old male with COPD, recent exacerbation now clinically improved, along with gout, depression, T2DM, and obesity.
+
+1. COPD, acute exacerbation, resolving - Continue prednisone taper as prescribed. Continue tiotropium daily, albuterol prn. Reinforce inhaler technique. Discussed pulmonary rehab referral. Lung cancer screening was discussed in general terms given his tobacco history; no imaging ordered today. He is a former smoker as noted in social history above and reports no current tobacco use of any kind. Will reassess with spirometry once stable, in approx 4-6 weeks.
+
+2. Type 2 diabetes mellitus - HbA1c 7.8%, glucose transiently elevated on steroids. Continue metformin, monitor as taper completes; consider short-term glucose logs.
+
+3. Gout - Currently quiescent. Continue allopurinol, avoid high-purine foods, ensure hydration.
+
+4. Depression - Stable on sertraline, continue current dose, follow with PCP/psych.
+
+5. Obesity - BMI 34.2, discussed weight management, diet, and activity as tolerated post-exacerbation.
+
+PLAN:
+- Complete prednisone taper
+- Continue tiotropium, albuterol prn
+- Pulm rehab referral placed
+- Recheck spirometry in 4-6 weeks
+- Labs: repeat BMP at next visit given metformin/renal function
+- f/u in pulm clinic 6 weeks, sooner if worsening symptoms
+- Pt educated on red flag symptoms requiring ED return
+
+Electronically signed: Farah Siddiqui, MD, Pulmonology, 02/04/2024

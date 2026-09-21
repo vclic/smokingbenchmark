@@ -1,0 +1,67 @@
+CARDIOLOGY HISTORY & PHYSICAL
+Patient: Margaret Scott (DOB 1/11/1952, age 74)
+Date of Service: 01/11/2026
+Author: Farah Siddiqui, MD
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Ms. Scott is a 74-year-old woman with history of HFpEF, T2DM, HTN, obesity, and OA who returns for routine cardiology follow-up. She reports mild dyspnea on exertion, unchanged from last visit, no orthopnea, no PND. Weight stable, adherent to low-sodium diet. She denies chest pain, palpitations, or syncope. Continues on diuretic and beta-blocker with good tolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I50.32 Chronic diastolic (congestive) heart failure
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential hypertension
+- E66.9 Obesity, unspecified
+- M19.90 Osteoarthritis, unspecified site (chronic, stable)
+- Z87.891 Personal history of nicotine dependence (former smoker, copy-forward from prior note)
+- N18.3 CKD stage 3 (outdated - resolved per 2023 nephrology note, retained in list per system default)
+
+SOCIAL HISTORY:
+Tobacco Use Screening (EHR template, auto-populated from prior encounter, reviewed today):
+  Tobacco Use: Former smoker
+  Packs/day: 1.00
+  Years: 28.00
+  Quit status: Quit smoking in the late 1990s
+  Second-hand smoke exposure: Denied
+Alcohol: Occasional glass of wine, denies excess.
+Exercise: Walks 15-20 min daily as tolerated.
+
+REVIEW OF SYSTEMS: Positive for mild fatigue and occasional joint pain (knees). Negative for fever, chest pain, cough, hemoptysis, or unintentional weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 72, RR 16, SpO2 96% RA, Wt 198 lb, BMI 34.2
+General: Well-appearing, no acute distress.
+Cardiac: Regular rate and rhythm, S1/S2 normal, no S3/S4, no murmurs appreciated today.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales.
+Extremities: Trace bilateral lower extremity edema, no calf tenderness.
+MSK: Mild crepitus bilateral knees, no effusion.
+
+LABS/RESULTS:
+- BNP (01/08/2026): 210 pg/mL (mildly elevated, improved from 340 pg/mL on 10/15/2025)
+- Basic metabolic panel (01/08/2026): Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 142
+- HbA1c (12/20/2025): 7.1%
+- Lipid panel (12/20/2025): LDL 92, HDL 48, TG 150
+- Echocardiogram (11/2025): LVEF 55%, grade I diastolic dysfunction, mild LA enlargement
+- CBC (01/08/2026): WNL
+
+ASSESSMENT:
+1. HFpEF, stable, NYHA class II symptoms.
+2. Type 2 diabetes mellitus, adequately controlled.
+3. Hypertension, controlled on current regimen.
+4. Obesity, counseled on weight management.
+5. Osteoarthritis, stable, managed conservatively.
+6. Former tobacco use - discussed importance of continued abstinence from smoking; general discussion of preventive health topics held with patient.
+
+PLAN:
+- Continue current diuretic and beta-blocker regimen.
+- Continue metformin for diabetes management; follow up A1c in 3 months.
+- Continue antihypertensive regimen, monitor home BP logs.
+- Encourage weight loss through diet and low-impact exercise given OA limitations.
+- Reinforce sodium restriction and daily weight monitoring for HF.
+- Return to clinic in 3 months or sooner if symptoms worsen.
+- Reinforced tobacco abstinence counseling; no other tobacco-related interventions at this time.
+
+Electronically signed: Farah Siddiqui, MD, 01/11/2026
+
+ADDENDUM (later same day, 01/11/2026, 4:47 PM):
+Patient called clinic after visit to clarify tobacco history documented in chart. She confirmed she is a former smoker, quit smoking in the late 1990s, and had not smoked since. No change to plan. Addendum added by Farah Siddiqui, MD.

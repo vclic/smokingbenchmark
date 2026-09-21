@@ -1,0 +1,45 @@
+Internal Medicine Clinic Note
+Date of Service: 09/18/2024
+Patient: Robert Perez   DOB: 3/18/1958   MRN: 37551358
+
+SUBJECTIVE:
+CC: Lung cancer screening
+HPI: 66 y/o male w/ h/o CVA, AFib, HTN, obesity here for lung cancer screening shared decision-making. Here to discuss lung cancer screening. Asymptomatic from a respiratory standpoint. He is an active smoker, a 49-pack-year history.
+
+PMH: HTN, obesity, h/o CVA, OA, AFib
+PSH: Right total knee arthroplasty (2014)
+Meds: losartan 50 mg daily; diclofenac 1% gel QID PRN; aspirin 81 mg daily; vitamin D3 2000 IU daily; apixaban 5 mg BID
+Allergies: NKDA
+Social History:
+- Divorced, lives alone.
+- Retired, former office manager.
+- Alcohol: rare.
+- Exercise: walks daily.
+FH: Father - MI at 74.
+ROS: GI neg, Resp neg, Gen neg, Skin neg, GU neg, Neuro neg, CV neg, MSK neg
+
+OBJECTIVE:
+Vitals: BP: 133/73  HR: 80  RR: 16  Temp: 97.8 F  SpO2: 96% on RA  Wt: 244 lbs  BMI: 31.3
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (9/13/2024): LDL 128, Cr 0.95, K 4.1
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening
+   - SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. Obesity
+   - Discussed diet and exercise.
+3. Paroxysmal atrial fibrillation
+   - Rate controlled; continue anticoagulation.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Owen Fitzgerald, MD on 9/18/2024 at 11:14

@@ -1,0 +1,50 @@
+GERIATRICS PROGRESS NOTE
+Patient: Hung Robinson (M), DOB 4/4/1955, age 71
+Date of Service: 04/04/2026
+Author: Brian Okonkwo, MD
+
+HPI:
+Mr Robinson presents today for annual geriatric assessment, accompnaied by his daughter who assits with med management. He states "I feel pretty good, just my knees act up when it rains" and denies chest pain at rest, though he does note occassional exertional discomfort that resolves w/ rest, consistent w/ known CAD. He reprots nocturia 2-3x/night, stable per his BPH hx, tamsulosin continued w/o change. Regarding tobacco use the patient reports he smoked 1.5 packs per day from 1973 until 1989, a substantial hx that is documented for cardiovascular risk stratification. He no longer smokes cigarettes and has not for many years now. Patient states "I finally kicked it for good back in '89, best thing I ever did for my heart." He denies use of e-cigarettes, cigars, or smokeless tobacco currently. [inaudible] discussion regarding his diet followed, mostly around sodium intake and knot adding salt at the table.
+
+--- COPIED FORWARD FROM VISIT 09/14/2024 ---
+PATIENT reviewed in clinic for routine f/u of CAD and BPH. Pt reports doing well, ambulates independently with a cane, denies falls since last visit. Cardiac exam: RRR, no murmurs appreciated, no JVD, lungs clear to auscultation bilaterally. Abdomen soft, non-tender, no CVA tenderness. Labs reviewed: PSA stable at 2.1, lipid panel notable for LDL 98 on current statin dose. Med list reconciled: atorvastatin 40mg qhs, aspirin 81mg daily, tamsulosin 0.4mg qhs, metoprolol succinate 50mg daily. Pt counseled on fall precautions, home safety eval discussed, referral to PT considered but deferred at pt request. F/u in 6 months or sooner if symptoms worsen. -- signed B Okonkwo MD 09/14/2024
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (templated):
+Tobacco use status: Former smoker
+Cigarettes: see HPI for details
+Smoking cessation history: pt first quit in 1978, restarted in 1979, quit for good in 1989
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired machinist
+Living situation: lives with spouse
+Exercise: Not on file
+Secondhand smoke exposure: Not on file
+
+ROS:
+Constitutional: denies fever, chills, wt loss
+Cardiovascular: denies chest pain at rest, +exertional discomfort as above
+Respiratory: denies cough, denies dyspnea at rest
+GU: nocturia as above, denies dysuria or hematuria
+Musculoskeletal: chronic knee pain, worse w/ weather changes
+All other systems reviewed and negative
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 68, RR 16, Temp 97.8F, SpO2 96% RA, wt 178 lbs
+General: well-appearing elderly male, NAD
+Cardiovascular: RRR, no m/r/g, no JVD, no peripheral edema
+Respiratory: CTAB, no wheezes/rales/rhonchi
+Abdomen: soft, NT/ND, no organomegaly
+Extremities: no edema, pulses intact bilaterally
+Neuro: grossly intact, gait steady with cane
+
+ASSESSMENT/PLAN:
+1. CAD - stable, continue current cardiac regimen, ASA and statin continued, EKG reviewed no acute changes
+2. BPH - stable on tamsulosin, continue current dose, PSA to be rechecked at next visit
+3. Tobacco use history - former smoker as detailed above, quit x many yrs, reinforced importance of continued abstinence from tobacco, general discussion held regarding lung health given his prior smoking hx, pt educated on symptoms to report such as new cough or hemoptysis
+4. Geriatric assessment - functional status reviewed, pt ambulates with cane, no falls reported, home safety and fall precautions reviewed again given prior hx
+5. Health maintenance - immunizations reviewed and up to date, colonoscopy hx reviewed, pt due for routine labs at next visit
+
+F/u in 6 months, sooner if symptoms arise. Pt verbalizes understanding of plan and agrees to follow up as scheduled.
+
+Electronically signed: Brian Okonkwo, MD 04/04/2026

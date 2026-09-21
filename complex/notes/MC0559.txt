@@ -1,0 +1,29 @@
+CARDIOLOGY RESIDENT NOTE
+Patient: Rajesh Campbell | DOB: 3/2/1959 | Age: 67
+Date of Service: 03/31/2026
+Author: Steven Park, MD (resident), attending attestation appended below
+
+CC: Heart failure follow-up.
+
+HPI: Mr. Campbell is a 67 year old male with history of type 2 diabetes and hypothyroidism who returns to clinic for routine HF follow up, he reports doing reasonably well with no new orthopnea, no PND, some mild ankle swelling by end of day that resolves overnight, denies chest pain palpitations or syncope, he did note some fatigue this week which he attributes to poor sleep, [inaudible] discussion regarding diet compliance and he states he's been mostly following low sodium diet though admits to "cheating" on weekends. Smoking history: patient smoked half a pack (about 10 cigarettes) per day for 17 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for 28 years before quitting; he is a former smoker who quit smoking at age 59. He denies current tobacco, alcohol, or illicit drug use.
+
+PMH (copied from note dated 11/30/2024): Smoking status: former smoker.
+
+Problem List (ICD-10):
+- I50.22 Chronic systolic heart failure
+- E11.9 Type 2 diabetes mellitus without complications
+- E03.9 Hypothyroidism, unspecified
+- I10 Essential hypertension (outdated, patient reports normotensive now off meds x2 yrs)
+- J45.909 Asthma, unspecified (outdated, no history found in chart, possibly transcription error carried forward)
+
+Meds: Metoprolol succinate, lisinopril, furosemide, levothyroxine, metformin.
+
+Exam: BP 128/76, HR 72, RR 16, SpO2 97% RA, weight stable from last visit. Lungs clear to auscultation bilaterally, no rales or wheezes appreciated although patient was speaking rapidly and exam somewhat limited by his run on descriptions of symptoms, heart RRR no murmurs, trace bilateral lower extremity edema, JVP not elevated.
+
+Labs reviewed: BNP mildly elevated but improved from prior, A1c 7.1, TSH within normal limits.
+
+Assessment/Plan: 1) Chronic systolic HF - stable, continue current regimen, reinforce low sodium diet. 2) T2DM - reasonably controlled, continue metformin. 3) Hypothyroidism - continue levothyroxine, recheck TSH in 6 months. 4) Health maintenance - lung cancer screening was discussed with patient given his tobacco history; further evaluation to be considered as appropriate. Follow up in 3 months or sooner if symptoms worsen.
+
+Attestation: I have seen and examined the patient with Dr. Park and agree with the above assessment and plan. - Attending, Cardiology.
+
+ADDENDUM (later same day): Patient called clinic nurse line this afternoon reporting mild lightheadedness after this morning's visit; advised to hydrate and monitor, no acute intervention needed at this time, will follow up at next scheduled appointment unless symptoms worsen.

@@ -1,0 +1,45 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Darnell Nelson, M, DOB 3/6/1959 (age 65)
+Date of Service: 12/20/2024
+Author: Rachel Goldberg, MD, Family Medicine
+
+Dear Dr. colleague, thank you for referring Mr. Nelson, 65 y.o. male, for annual wellness visit and further management of obesity and COPD.
+
+HPI: Pt here today for annual wellness exam, denies chest pain, reports occasional wheeze with exertion, says he uses rescue inhaler "maybe twice a week, [inaudible] more in cold whether." No hemoptysis, no unintentional weight loss. Reviewed spirometry from last year, stable. He notes some knee pain, worse when he's out doing yard work, otherwise feeling well overall.
+
+=== COPIED FORWARD FROM PRIOR NOTE DATED 6/20/2022 ===
+[Begin copied text]
+SOCIAL HISTORY (as of 6/20/2022): Tobacco - current smoker. Alcohol - occasional, denies drug use. Employment - retired postal worker. Living situation - lives alone, family nearby. Exercise - walks daily per pt report.
+ROS at that time: constitutional negative, cardiac negative, pulm positive for occasional cough, GI negative, GU negative, MSK negative for acute complaint.
+[End copied text]
+=== END COPIED SECTION ===
+
+EHR TEMPLATED SOCIAL HISTORY (current, 12/20/2024):
+Tobacco Use Status: Current every day smoker
+Smoking Status: Active smoker
+Pack-Year History: 21 pack-years
+Type: Cigarettes
+Secondhand smoke exposure: Not on file
+Smokeless tobacco: Never
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Counseling given: Advised to quit, discussed cessation resources, pt states he is "thinking about it."
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats. Eyes: no visual changes. ENT: no sore throat. Cardiovascular: no chest pain, no palpitations, no edema. Respiratory: chronic cough, occasional wheeze as noted above, denies hemoptysis. GI: no nausea, vomiting, diarrhea, denies blood in stool. GU: no dysuria, no hematuria. Musculoskeletal: knee pain as above, no other joint complaints. Skin: no rashes. Neuro: no weakness, no numbness. Psych: mood stable, sleep adequate. Endocrine: no polyuria, no polydipsia. Heme/Lymph: no easy bruising.
+
+PHYSICAL EXAM: Vitals: BP 138/84, HR 78, RR 16, Temp 98.4F, SpO2 94% on RA, BMI 34.2. General: obese male, no acute distress. HEENT: normocephalic, atraumatic, oropharynx clear. Neck: no JVD, no lymphadenopathy. Lungs: mildly diminished breath sounds bilat bases, scattered expiratory wheeze, no crackles. Heart: RRR, no murmurs. Abdomen: obese, soft, non-tender, non-distended. Extremities: no edema, pulses intact. Skin: no lesions. Neuro: grossly intact.
+
+MEDICATIONS: Albuterol HFA inhaler PRN, Tiotropium 18mcg inhaled daily, Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily, Vitamin D3 2000IU daily, Multivitamin daily.
+
+ASSESSMENT/PLAN:
+1. COPD - stable on current regimen, continue tiotropium and albuterol PRN, reviewed inhaler technique.
+2. Obesity - discussed diet and exercise, referred to nutrition.
+3. Tobacco use, active - counseled on cessation, discussed nicotine replacement options, pt declined pharmacotherapy today, discussed lung cancer screening in general terms as topic for future discussion.
+4. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 months.
+5. Hypertension - well controlled, continue lisinopril.
+
+Follow-up in 3 months or sooner if symptoms worsen. Thank you for allowing me to participate in care of this patient.
+
+Sincerely,
+Rachel Goldberg, MD

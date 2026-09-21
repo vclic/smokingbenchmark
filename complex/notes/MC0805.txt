@@ -1,0 +1,44 @@
+VASCULAR SURGERY - RESIDENT NOTE
+Date of Service: 02/24/2024
+Author: Michael Dunn, DO (resident); attending attestation below
+Patient: Nancy Perry | DOB: 02/24/1966 | Age: 58 | Sex: F
+
+CHIEF COMPLAINT: Evaluation of peripheral artery disease (PAD), claudication symptoms.
+
+HPI: Ms. Perry is a 58 y/o female presenting for f/u eval of PAD with hx of CAD, COPD, CKD3. She states, "My legs cramp up after about a block now, it's gotten worse." She denies rest pain or ulceration. She reports adherence to cilostazol. Patient notes, "I quit smoking years ago and I feel like my breathing still isn't great."
+
+[COPIED FORWARD FROM NOTE DATED 09/24/2022 - VASCULAR SURGERY]
+---begin copied block---
+As of the 09/24/2022 visit, patient is documented as a former smoker. She continues on statin and antiplatelet therapy for PAD/CAD. ABI last checked was mildly abnormal on the right. She is followed for COPD and CKD stage 3, stable. Denies chest pain, denies rest pain in extremities. Continues home exercise program as tolerated. Discussed risk factor modification including lipid control and glycemic management if applicable.
+---end copied block---
+
+SOCIAL HISTORY:
+Smoking status: Never Smoker [NOTE: this templated field is incorrect and should be disregarded - see assessment for accurate smoking history]
+Alcohol: denies.
+Lives with spouse, retired.
+
+PROBLEM LIST:
+- I73.9 Peripheral vascular disease, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.9 COPD, unspecified
+- K21.9 GERD without esophagitis
+- N18.3 CKD stage 3
+- I25.10 Atherosclerotic heart disease of native coronary artery
+- I10 Essential hypertension (outdated - resolved per chart 2019)
+- E78.5 Hyperlipidemia, unspecified (outdated entry, currently on statin)
+
+EXAM: Vitals stable, afebrile. Lungs mild expiratory wheeze bilat. Cardiac RRR, no murmurs. Lower extremities: diminished DP/PT pulses bilaterally, no ulcers, mild hair loss on lower legs. Cap refill <3 sec.
+
+ASSESSMENT/PLAN:
+58 y/o female with PAD, CAD, COPD, CKD3, asthma, GERD, here for PAD follow-up.
+Smoking history: Patient smoked 2 packs per day for 17 years, then increased to 3 packs per day for 13 years, before quitting smoking. She quit smoking 6 years ago. This corrects the inaccurate "Never Smoker" field noted above in social history.
+1. PAD - continue cilostazol, home exercise program, f/u ABI in 6 months.
+2. CAD - continue statin/antiplatelet, stable.
+3. COPD/Asthma - continue inhalers, discussed pulmonary function follow up.
+4. CKD3 - monitor renal function, avoid nephrotoxic agents.
+5. GERD - continue PPI as needed.
+Lung cancer screening was discussed with patient given smoking history; further discussion to occur with PCP.
+
+Attending Attestation: I have seen and examined the patient with Dr. Dunn and agree with the above assessment and plan. - Attending Vascular Surgery
+
+ADDENDUM (later same day, 02/24/2024): Patient called clinic after visit to clarify that she has not had any recent falls; no changes to plan above. Vitals rechecked stable per nursing call log.

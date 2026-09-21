@@ -1,0 +1,41 @@
+CARDIOLOGY RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Yolanda Lopez | DOB: 10/25/1967 | Age: 57 | Date of Service: 10/25/2024
+Author: Teresa Alvarez, NP (resident); attending co-signature below
+
+CC: chest pain evaluation
+
+HPI: Ms Lopez is a 57 year old woman with hx of peripheral artery disease atrial fibrillation and asthma who presents today for evaluation of intermittent chest discomfort, she states the pain is like a pressure sensation that comes on with exertion and resolves with rest, she denies radiation to the arm but does note some [inaudible] tightness in the throat at times, she also reports occasional palpitations which she attributes to her known afib, no syncope no diaphoresis, she was seen in the ER two weeks ago for similar symptoms and was discharged home after workup was reportedly unremarkable although records are not available today so history is somewhat limited and she cant recall exact details of what was done there she thinks and ekg and some blood work.
+
+PMH: peripheral artery disease, atrial fibrillation (on anticoagulation), asthma (uses albuterol prn)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Former/experimental
+Smoking details: Patient tried a few cigarettes as a teenager but never smoked regularly.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies daily use
+Drug use: denies
+Occupation: retired school administrator
+Living situation: Not on file
+Exercise: reports walking most days, limited by leg claudication
+
+ROS: positive for exertional chest discomfort and palpitations, negative for fever, cough, hemoptysis, weight loss, orthopnea, PND, lower extremity edema, denies wheezing today though has hx of asthma flares in cold weather.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, SpO2 97% RA, Temp 98.4F
+General: NAD, well appearing woman in no acute distress
+CV: irregularly irregular rhythm, no murmurs rubs or gallops appreciated, pulses diminished bilaterally in the lower extremities consistent with known PAD
+Lungs: clear to auscultation bilaterally, mild expiratory wheeze noted in bilateral bases
+Ext: no edema, cool distal extremities noted bilaterally, no ulcerations
+
+Labs/Imaging reviewed: recent EKG shows atrial fibrillation with controlled ventricular response, troponin from ER visit reportedly negative, lipid panel pending
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely multifactorial given hx of PAD and afib, will pursue stress testing to further risk stratify, symptoms and overall cardiac risk to be reassessed at follow up.
+2. Atrial fibrillation - continue current anticoagulation, will check INR/labs as appropriate, rate appears controlled on exam today.
+3. Peripheral artery disease - continue antiplatelet therapy, counsel on walking program for claudication symptoms.
+4. Asthma - continue albuterol prn, no signs of acute exacerbation today, will consider controller therapy if symptoms worsen.
+5. Tobacco - reviewed history above, no current use, no counseling needed regarding cessation given remote and minimal experimental use only, general healthy lifestyle counseling provided.
+
+Follow up in cardiology clinic in 4 weeks or sooner if symptoms worsen, patient verbalized understanding of plan and agreed with above, all questions answered today.
+
+Attestation: I have personally seen and evaluated the patient with Teresa Alvarez NP and agree with the history exam and plan as documented above with minor additions discussed with the resident, signed electronically. — Dr R Chen, Attending Cardiology, 10/25/2024

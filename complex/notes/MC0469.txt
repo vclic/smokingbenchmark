@@ -1,0 +1,46 @@
+TELEHEALTH VISIT - Internal Medicine Pre-Op Evaluation
+Patient: Charles Powell | DOB: 4/15/1973 | Age: 53 | Sex: M
+Date of Service: 06/15/2026
+Author: Brian Okonkwo, MD
+
+CC: Pre-operative medical clearance for right total knee replacement (Ortho: Dr. Manning)
+
+HPI:
+Mr Powell is a 53 y/o male w/ hx T2DM, obesity, HFrEF, and OA of the knee presenting via telehealth for pre-op eval prior to TKA. Pt states "the knee's been killin me, cant hardly walk to the mailbox no more." Denies chest pain, denies orthopnea worsening, reports occasional ankle swelling. Pt reports med compliance mostly good, admits missing metformin doses "once in a blue moon."
+
+PMH reviewed via chart - unremarkable changes since last visit aside from ongoing knee pain.
+
+[Copied forward from note dated 06/15/2022]: "Smoking status: current smoker." - this line reproduced verbatim from the 2022 note for continuity of documentation; no quantities given in that entry.
+
+Pt was asked directly today about tobacco use, pt states "yeah I still smoke, tried to cut back but its hard." Pt reports plan to quit, quit date has been set for 6/29/2026 per pt request during visit.
+
+ROS: Cardiac - as above. Resp - denies hemoptysis, denies acute SOB at rest, chronic exertional dyspnea stable. GI/GU - noncontributory. MSK - R knee pain, limits ambulation. All other systems reviewed and negative except as noted.
+
+Meds: Metformin 1000mg BID, Lisinopril, Carvedilol, Furosemide PRN, Atorvastatin.
+Allergies: NKDA.
+
+Vitals: BP 138/84, HR 78, RR 16, T 98.2F, SpO2 95% RA, Wt 245 lb, BMI 36.4
+
+Exam:
+Gen: obese male, NAD, conversant via video
+CV: RRR, no murmur appreciated (audio limited via telehealth), no visible JVD on camera
+Resp: no visible increased work of breathing
+Ext: trace bilat ankle edema per pt report/visual
+MSK: unable to fully assess knee ROM via telehealth, pt demonstrates limited flexion on camera
+Skin: no cyanosis noted
+
+Labs (reviewed from recent draw 06/10/2026):
+A1c 7.8%, Cr 1.1, BNP 410, K 4.2, Na 138
+
+EKG (on file 06/01/2026): NSR, no acute changes, old LBBB unchanged
+
+Assessment/Plan:
+53M with T2DM, obesity, HFrEF, OA s/p pre-op eval for TKA.
+
+1. Tobacco use - active smoker. Smoking hx notable per pt report: smoked 2 packs per day for 9 years, then decreased to about 15 cigarettes per day for the next 20 years, continuing to present. Counseled extensively re: risks of continued smoking especially peri-operatively (wound healing, cardiopulm complications, anesthesia risk). Pt reports a quit date has been set for 6/29/2026 (pt's own initiative, post-visit today). Advised to quit sooner if possible given upcoming surgery. Lung cancer screening was discussed generally as part of preventive care conversation; will address further at future visit.
+
+2. HFrEF - stable, euvolemic-appearing today, BNP mildly elevated but at baseline per prior trend. Continue carvedilol, lisinopril, furosemide PRN. Will need cardiology clearance note prior to surgery - reaching out to Dr. Feldstein's office today.
+
+3. T2DM - A1c 7.8%, above goal but reasonable for surgical clearance. Continue metformin, hold day of surgery per standard protocol. Reinforce glucose monitoring pre-op.
+
+4. Obesity - BMI 36.4, contributes to surgical risk (wound healing, DVT risk). Discussed weight mgmt resources, pt declines referral at this time,

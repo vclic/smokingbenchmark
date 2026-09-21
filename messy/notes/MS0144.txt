@@ -1,0 +1,41 @@
+Progress Note – Primary Care
+Patient: Cheryl Roberts | DOB: 6/12/1964 | Age: 60 | Sex: F
+Date of Service: 08/27/2024
+Provider: Priya Raman, MD
+
+CHIEF COMPLAINT: New patient visit to establish care.
+
+HPI: Ms. Roberts is a 60-year-old woman presenting today, 08/27/2024, to establish care with our practice after relocating. She reports a history of peripheral artery disease, coronary artery disease, osteoarthritis of the knees, and hyperlipidemia. She states she has been doing reasonably well, though she notes intermittent claudication with ambulation of about two blocks, unchanged from prior. She denies chest pain, palpitations, or syncope. She takes her medications regularly per her report, though she is unsure of exact dosages and asks that we reconcile her list. Family history is notable in that her mother had COPD and was a lifelong smoker; patient states she often worried about her mother's breathing difficulties in her later years. No other significant family history reported at this visit.
+
+[Copied forward from outside visit note dated 03/14/2019 — appears to have been carried into this encounter by templating error]:
+"Patient seen for follow up of PAD and CAD, stable, ABI improved from prior study, continues on aspirin and statin therapy, denies rest pain or non healing wounds, lipid panel reviewed and reviewed with patient in detail today, LDL at goal, will continue current regimen and follow up in 6 months, patient tolerating medications well no new complaints at this time, [inaudible] discussed diet and exercise recommendations extensively today with patient who appeared engaged and motivated, return to clinic as needed or sooner if symptoms worsen or change in any way."
+
+Note: this being an initial visit to establish care, a full social history intake including occupation, alcohol use, exercise habits, and living situation was intended but was not completed today due to time constraints; no social history section was obtained at this visit and this will be addressed at the follow up appointment.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiovascular: as above, denies chest pain. Musculoskeletal: chronic bilateral knee pain, worse with weather changes. Respiratory: denies cough, denies shortness of breath at rest. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 168 lb, Ht 5'4"
+General: well-appearing woman in no acute distress.
+Cardiovascular: regular rate and rhythm, no murmurs appreciated, distal pulses diminished bilaterally in lower extremities consistent with known PAD.
+Musculoskeletal: mild crepitus bilateral knees, no effusion, range of motion preserved.
+Respiratory: clear to auscultation bilaterally, no wheezes or rales.
+Extremities: no edema, no ulcers noted.
+
+PROBLEM LIST:
+1. I73.9 – Peripheral artery disease, unspecified
+2. I25.10 – Atherosclerotic heart disease of native coronary artery without angina pectoris
+3. M17.9 – Osteoarthritis of knee, unspecified (outdated entry, patient now reports bilateral)
+4. E78.5 – Hyperlipidemia, unspecified
+5. Z71.3 – Dietary counseling (outdated, from 2019 encounter, unclear if still active)
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease – stable per patient report, will obtain ABI and vascular labs to establish updated baseline. Continue antiplatelet therapy pending medication reconciliation.
+2. Coronary artery disease – no anginal symptoms today, will obtain EKG and lipid panel, continue statin pending reconciliation.
+3. Osteoarthritis – bilateral knee pain, recommend continued conservative management, consider PT referral if worsens.
+4. Hyperlipidemia – recheck lipid panel today, reinforce dietary modification.
+5. Health maintenance – age-appropriate cancer screenings discussed including mammography and colon cancer screening; will address further at follow up visit, including completion of social history at that time. Immunization status to be reviewed once records obtained.
+
+Patient instructed to follow up in 4-6 weeks with labs, sooner if symptoms worsen. All questions answered today, patient verbalized understanding of plan discussed at length, will coordinate care with vascular surgery and cardiology as records become available. Total time spent face to face and in care coordination today was approximately 35 minutes, greater than half spent in counseling and coordination of care.
+
+Electronically signed: Priya Raman, MD, 08/27/2024

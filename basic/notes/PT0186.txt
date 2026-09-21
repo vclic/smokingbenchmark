@@ -1,0 +1,71 @@
+Primary Care Office Visit
+
+Patient: THOMPSON, Pamela    MRN: 80156092
+DOB: 06/11/1974    Age: 50 y.o.    Sex: Female
+Date of Service: 04/07/2025    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Pamela Thompson is a 50 y.o. female who presents for an annual physical.
+Feels well overall. Walks the dog daily. Some trouble sleeping.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• GERD
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• famotidine 20 mg BID
+• lisinopril 40 mg daily
+• chlorthalidone 12.5 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband and adult daughter.
+  Alcohol: rare.
+  No illicit drug use.
+  Sedentary.
+
+Family History
+Mother - breast cancer at 70. Sister - breast cancer at 59.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 138/74 (BP Location: Right arm, Patient Position: Sitting) | Pulse 59 | Temp 98.7 °F (Oral) | Resp 14 | Ht 5' 5" | Wt 149 lb | SpO2 95% | BMI 24.81 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (03/03/2025): Cr 1.08, K 3.8
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2017 - normal; Mammogram 2025-01-07 - BI-RADS 1; Shingrix series complete; Pneumococcal vaccine up to date.
+2. Essential hypertension
+   Well controlled on home log. No changes.
+3. GERD
+   Trial PPI step-down.
+
+Return in about 6 months (around 10/7/2025).
+
+Electronically signed by Quentin Hale, PA-C on 04/07/2025

@@ -1,0 +1,29 @@
+Internal Medicine Progress Note
+Patient: Barbara Clark | DOB: 5/18/1964 (age 60) | DOS: 12/23/2024
+Provider: Isaac Moreno, PA-C
+
+CC: f/u HTN, DM2, PAD
+
+HPI: Ms Clark returns for routine f/u of hypertension and type 2 diabetes, also followed for PAD and obesity. Reports doing fairly well, no chest pain, denies claudication worse than baseline, feet checked at home no new ulcers. Former smoker - smoked 3 packs per day for 22 years, quit smoking, no longer smokes; no info given on quit date. Pt notes occasional marijuana use, a few times a month, for appetite/relaxation. Alcohol - pt quit drinking in 2002, denies current use. Diet non-compliant at times, admits to "cheating" over holidays, denies polyuria/polydipsia. BP meds tolerated well, no dizziness. [inaudible] discussion regarding diet and excercise continued.
+
+--- Copied forward from visit 6/14/2023 (Dr. Nguyen) ---
+ROS: Constitutional: denies fever, chills, wt loss. Eyes: no visual changes. ENT: no sore throat. CV: no CP, no palpitations, + known PAD. Resp: no SOB, no cough. GI: no n/v/d, no abd pain. GU: no dysuria. MSK: chronic low back pain stable. Skin: no rashes. Neuro: no numbness/tingling. Psych: denies depression/anxiety.
+PE: Gen: well-nourished, obese female, NAD. VS: BP 138/84, HR 76, RR 16, Temp 98.4F, Wt 214 lb, BMI 36.2. HEENT: NCAT, PERRLA. Neck: no JVD, no thyromegaly. CV: RRR no m/r/g. Lungs: CTAB. Abd: obese, soft, NT/ND, +BS. Ext: trace edema b/l, DP pulses diminished b/l c/w PAD, no ulcers noted. Skin: warm, dry.
+Meds: Lisinopril 20mg daily, Amlodipine 5mg daily, Metformin 1000mg BID, Atorvastatin 40mg qhs, Aspirin 81mg daily, Cilostazol 100mg BID, Metoprolol succinate 25mg daily.
+--- end copied section ---
+
+Current visit exam (12/23/2024): Gen: alert, obese female in NAD. VS: BP 132/80, HR 72, RR 16, Wt 211 lb. CV: RRR, no murmurs. Resp: CTAB. Ext: PAD stable, pulses diminished but unchanged, no new ulcers, cap refill <3 sec. Skin intact.
+
+Labs reviewed (from 12/20/2024): A1c 7.4%, fasting glucose 142, LDL 88, Cr 0.9, eGFR >60, UACR 22 (microalbuminuria stable).
+
+Assessment/Plan:
+1. Hypertension - controlled on current regimen, continue lisinopril and amlodipine.
+2. Type 2 diabetes - A1c improved, continue metformin, reinforced diet/exercise.
+3. PAD - stable, continue cilostazol and aspirin, reinforced foot care, exercise therapy discussed.
+4. Obesity - counseled on weight loss, referred to nutrition.
+5. Tobacco - former smoker, counseled to remain smoke-free, screening for lung cancer discussed as option, no imaging ordered today.
+6. Marijuana use - counseled on risks, pt aware.
+7. Alcohol - none since 2002, no concerns.
+f/u in 3 months or sooner PRN. Pt verbalizes understanding, agrees w plan.
+
+Isaac Moreno, PA-C

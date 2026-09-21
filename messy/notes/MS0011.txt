@@ -1,0 +1,68 @@
+Family Medicine Annual Wellness Visit
+Patient: Roger Taylor | DOB: 5/26/1969 | Age: 56 | Sex: M
+Date of Service: 09/15/2025
+Author: Gregory Tan, MD (NP progress note)
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI: Mr. Taylor is a 56-year-old male with hx of CKD stage 3, PAD, and HTN who presents today for his annual wellness visit, date of service September 15, 2025. He reports feeling generally well, denies chest pain, denies claudication symptoms worsening, though he notes some intermittent calf cramping w/ ambulation which he feels is stable compared to last year, [inaudible] he thinks its about the same as before or maybe slightly better he's not sure, he denies any recent falls or syncope. He continues to smoke 3 packs per day of cigarettes; he was counseled extensively regarding smoking cessation resources including nicotine replacement and referral to quitline but he continues to smoke despite this counseling today. He denies illicit drug use. Review of systems otherwise obtained per template below.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Packs per day: 3 ppd
+Years smoked: Not on file
+Alcohol use: Occasional, denies binge pattern
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+HEENT: denies vision changes, denies hearing loss
+Cardiovascular: denies chest pain, denies palpitations, positive for known PAD with claudication as above
+Respiratory: denies cough, denies hemoptysis, denies dyspnea at rest
+GI: denies nausea, vomiting, diarrhea, constipation
+GU: denies dysuria, denies hematuria
+Musculoskeletal: denies joint swelling, reports mild low back stiffness in am
+Neuro: denies numbness, tingling, denies headache
+Psych: denies depression, denies anxiety
+Skin: denies rash, denies lesions
+Endocrine: denies polyuria, polydipsia
+All other systems reviewed and are negative per patient report.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 202 lb
+General: well-developed, well-nourished male in no acute distress
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear
+Neck: no JVD, no thyromegaly
+Cardiovascular: regular rate and rhythm, no murmurs rubs or gallops, diminished dorsalis pedis pulses bilaterally consistent with known PAD
+Respiratory: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Abdomen: soft, nontender, nondistended, no organomegaly
+Extremities: no edema, cool to touch distally, no ulceration noted today
+Skin: no rashes or lesions noted
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable, continue current management, recheck labs including BMP and urine microalbumin at next visit, renal diet reviewed
+2. Peripheral artery disease - stable symptoms, continue antiplatelet therapy, discussed importance of walking program, ABI to be considered if symptoms worsen
+3. Hypertension - BP slightly elevated today, will continue current regimen and recheck at follow up, reinforced low sodium diet
+4. Tobacco use - continues to smoke despite counseling today, discussed cessation options again including pharmacotherapy, patient states he is not ready to quit at this time, lung cancer screening was discussed as a general topic during the visit
+5. Health maintenance - immunizations reviewed and up to date per chart, colon cancer screening discussed, pt due for routine bloodwork
+
+MEDICATIONS:
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Clopidogrel 75mg daily
+4. Atorvastatin 40mg daily
+5. Aspirin 81mg daily
+6. Sodium bicarbonate 650mg twice daily
+7. Cilostazol 100mg twice daily
+8. Vitamin D3 1000 IU daily
+
+Follow up in 3-4 months or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+Electronically signed: Gregory Tan, MD
+
+---ADDENDUM (later same day, 09/15/2025)---
+Addendum: Patient called back after visit to clarify he had misheard the instructions regarding his cilostazol dosing, he was instructed correctly to continue twice daily as prescribed no changes made to med list, also wanted to note that his home BP log was reviewed and readings have been trending slightly high in the 140s/80s range at home which is consistent with todays in office reading, will monitor and address at next follow up visit, no further changes to plan at this time. -Gregory Tan, MD

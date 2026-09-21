@@ -1,0 +1,70 @@
+PULMONOLOGY PROGRESS NOTE
+DOS: 04/28/2024
+Author: Julia Brennan, MD
+
+Pt: Harold Miller, M, DOB 4/28/1965 (age 59)
+Visit type: ED-to-clinic f/u s/p COPD exacerbation
+
+HPI:
+59 yo M seen in f/u after recent ED visit for COPD exacerbation, tx with steroid taper and abx, now feeling improved. Reports decreased SOB compared to ED presentation, still using rescue inhaler ~2-3x/day, some residual cough productive of white-yellow sputum. Denies fever chills chest pain hemoptysis. Sleeps with CPAP nightly per hx of OSA, reports fair adherence, wife notes snoring improved w device on. No new orthopnea or edema. Pt states he has been trying to cut back on cigs but has not stopped.
+
+ROS: Constitutional - no wt loss no fever. Resp - chronic cough, dyspnea on exertion improving. CV - no chest pain no palpitations. GI - unremarkable. Neuro - unremarkable. Psych - denies depression/anxiety currently.
+
+PMH:
+- COPD (moderate, GOLD B)
+- Obstructive sleep apnea, on CPAP
+- HTN (dx per old chart, pt says dr told him bp borderline, unclear if formally tx)
+- GERD (old problem, not on meds currently, quiescent)
+
+Social History:
+Tobacco: 26 pack-year smoking history. Pt continues to smoke despite counseling given at prior visits and again today; states he "knows he should quit" but has not been able to. Encouraged NRT and pharmacotherapy (varenicline vs bupropion), pt declined meds today, open to d/c discussion next visit. No illicit drug use reported. Occasional etoh, ~2 beers/wk. Lives w wife, retired machinist.
+
+Family Hx: father w COPD, mother w DM2, no fam hx lung cancer reported.
+
+Meds:
+- Tiotropium inhaler daily
+- Albuterol MDI prn
+- Fluticasone/salmeterol combo inhaler bid
+- Lisinopril 10mg daily (per old list, pt unsure if still taking)
+- Omeprazole prn
+
+Allergies: NKDA
+
+Vitals: BP 138/86, HR 82, RR 18, SpO2 93% RA, Temp 98.2F, Wt 210 lb, Ht 5'10"
+
+Physical Exam:
+Gen: NAD, comfortable, mild use of accessory muscles at rest resolved compared to ED note.
+HEENT: nl, no JVD.
+Resp: decreased breath sounds bilat bases, scattered expiratory wheezes, no crackles, no accessory muscle use now.
+CV: RRR nl S1S2 no m/r/g.
+Abd: soft NT ND +BS.
+Ext: no c/c/e.
+Skin: nl.
+Neuro: A&Ox3, nonfocal.
+
+Labs/Imaging (reviewed from ED visit):
+CXR 4/25/24: hyperinflated lungs, no acute infiltrate, no effusion.
+CBC/BMP wnl.
+BNP nl.
+ABG not repeated today, prior venous gas mildly hypercapnic.
+
+Assessment:
+1. COPD exacerbation, recently resolved, now stable on inhalers - J44.1
+2. Obstructive sleep apnea, on CPAP, adherence fair - G47.33
+3. Tobacco use disorder, continues to smoke despite counseling - Z72.0
+4. Hypertension, borderline, hx per pt (outdated entry, needs verification) - I10
+5. GERD, quiescent, not on active tx currently - K21.9
+
+Plan:
+1. Continue current inhaler regimen, reinforce technique, review COPD action plan.
+2. Pulm f/u in 3 months or sooner if worsening sx.
+3. Tobacco cessation counseling provided again today; pt continues to smoke despite counseling, encouraged to consider pharmacologic aid, will readdress at next visit; discussed general risks of continued smoking incl lung ca risk, screening options discussed conceptually but no imaging ordered today for that purpose.
+4. Continue CPAP, encourage improved adherence, refer to sleep med if issues persist.
+5. Recheck BP at next visit, consider referral to PCP for HTN mgmt if elevated again.
+6. GERD - continue prn omeprazole, no changes.
+7. Pt given written instructions, return precautions reviewed (worsening SOB, fever, hemoptysis - go to ED).
+8. Labs: repeat CBC/BMP at next visit if starting new meds.
+
+Pt verbalized understanding of plan, agreeable to f/u. Time spent in visit ~25 min, more than half spent counseling re: tobacco cessation and COPD self-mgmt.
+
+Electronically signed: Julia Brennan, MD, Pulmonology, 04/28/2024

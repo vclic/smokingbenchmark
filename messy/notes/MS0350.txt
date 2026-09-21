@@ -1,0 +1,83 @@
+TELEHEALTH VISIT NOTE
+Family Medicine - Gregory Tan, MD
+Date of Service: 10/25/2024
+
+Patient: Patricia Powell (F)
+DOB: 02/20/1953 (Age: 71 y/o)
+MRN: on file
+
+CHIEF COMPLAINT: Medication refills via telehealth.
+
+HPI: Pt is a 71 y/o female with PMH of hyperlipidemia, obesity, COPD, and depression, presenting via video visit for routine med refills. Reports overall stable mood, no acute SOB exacerbation though occasional wheeze noted esp. with exertion. Denies chest pain, fevers, hemoptysis. Continues home nebulizer PRN. Sleep fair, appetite stable. No new complaints today.
+
+PAST MEDICAL HISTORY: HLD, obesity, COPD, MDD.
+PAST SURGICAL HISTORY: none reported.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+  Tobacco Use: Current every day smoker
+    - Type: Cigarettes
+    - Amount: 1 pack per day (PPD)
+    - Duration: 48 years
+    - Readiness to quit: Not ready to quit at this time
+  Alcohol Use: Not on file
+  Illicit Drug Use: Denies
+  Occupation: Retired
+  Living Situation: Not on file
+  Exercise: Sedentary, limited d/t COPD sx
+
+MEDICATIONS:
+1. Atorvastatin 40 mg PO QHS
+2. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN wheeze/SOB
+3. Tiotropium (Spiriva) 18 mcg inhaled daily
+4. Sertraline 100 mg PO daily
+5. Metformin - N/A (not diabetic)
+6. Fluticasone/salmeterol 250/50 1 puff BID
+7. Vitamin D3 2000 IU daily
+8. Omeprazole 20 mg PO daily PRN reflux
+9. Multivitamin daily
+10. Melatonin 3 mg qhs PRN sleep
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional wt loss.
+HEENT: No vision changes, no hearing loss, no sore throat.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, edema.
+Respiratory: + occasional wheeze, denies hemoptysis, denies acute dyspnea at rest, chronic cough stable per pt report.
+GI: Denies nausea, vomiting, diarrhea, constipation, abd pain.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Denies joint pain, swelling, stiffness.
+Skin: No rashes, no lesions.
+Neuro: Denies HA, dizziness, numbness, tingling, focal weakness.
+Psych: Reports mood stable on current regimen, denies SI/HI, denies anhedonia currently.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Heme/Lymph: Denies easy bruising, bleeding, lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM (via telehealth, limited):
+General: Well-appearing female, NAD, seated comfortably at home, appropriate hygiene and grooming.
+Vitals (pt reported via home BP cuff): BP 132/78, HR 76, home pulse ox 95% RA (per pt device).
+HEENT: Atraumatic, no visible distress, moist mucous membranes appreciated on cam.
+Cardiovascular: Unable to auscultate via telehealth; pt denies palpitations or peripheral edema on visual inspection.
+Respiratory: Pt observed with mild increased work of breathing during conversation, no obvious accessory muscle use, no visible cyanosis. Auscultation deferred - telehealth limitation.
+Abdomen: Not examined - telehealth limitation, pt denies distension or tenderness on self-report.
+Extremities: No visible edema on camera, no cyanosis or clubbing noted.
+Skin: No rashes visible.
+Psych: Affect appropriate, engaged, cooperative throughout visit, linear thought process.
+
+ASSESSMENT/PLAN:
+1. COPD - stable per pt report today, continue current inhaler regimen (tiotropium, fluticasone/salmeterol, albuterol PRN). Counseled extensively on tobacco cessation given ongoing daily cigarette use; discussed risks of continued smoking on COPD progression and cardiovascular health. Pt verbalizes understanding but states she is not ready to quit at this time. Offered nicotine replacement therapy and cessation counseling referral - pt declined today, will reconsider. Discussed lung cancer screening in general terms as part of preventive care conversation for long-term smokers; no imaging ordered today. Will continue to readdress at future visits.
+2. Hyperlipidemia - continue atorvastatin 40 mg qhs, lipid panel due at next visit, dietary counseling reinforced.
+3. Obesity - discussed weight management strategies, encouraged low-impact exercise as tolerated given COPD limitations, referred to nutrition if interested.
+4. Depression - mood reportedly stable on sertraline 100mg daily, continue current dose, no SI/HI today, will follow up in 3 months or sooner if worsening.
+5. Medication refills - all above medications refilled x90 days via pharmacy e-script per pt request.
+6. Health maintenance - reviewed age-appropriate screening needs, pt up to date per chart review.
+
+Follow-up: RTC in 3 months or sooner PRN. Pt instructed to call or message via portal with any worsening symptoms, especially increased SOB, chest pain, or fever.
+
+Electronically signed: Gregory Tan, MD
+
+---
+ADDENDUM (same day, 10/25/2024, 4:47 PM):
+After further chart review post-visit, confirming tobacco history documented above (1 ppd x 48 yrs, current smoker, not ready to quit) is consistent with prior notes on file. No changes to plan. Pt's pharmacy confirmed receipt of refill scripts. Will continue to monitor COPD status and readdress smoking cessation readiness at next visit.
+- Gregory Tan, MD

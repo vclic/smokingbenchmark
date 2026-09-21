@@ -1,0 +1,60 @@
+Vascular Surgery Progress Note
+Patient: Maria Price | DOB: 01/12/1961 | Age: 62 | Sex: F
+Date of Service: 01/12/2023
+Author: Owen Fitzgerald, MD
+
+PROBLEM LIST (per EHR, some entries outdated):
+- J45.909 Asthma, unspecified
+- J44.9 COPD, unspecified
+- E66.9 Obesity, unspecified
+- I25.10 Coronary artery disease, native vessel, w/o angina
+- M19.90 Osteoarthritis, unspecified site
+- M10.9 Gout, unspecified
+- I70.209 PAD, unspecified extremity (added today)
+- I10 Essential hypertension (resolved per pt, remains on list)
+
+HPI:
+Pt returns to vascular clinic for eval of PAD, referred by PCP after abnormal ABI. Reports bilateral calf cramping w/ ambulation, worse on inclines, relieved w/ rest - classic claudication pattern. Sx have been present ~6 mo, gradually worsening. Denies rest pain, denies non-healing ulcers. Hx of CAD followed by cardiology. No chest pain today. Pt states she no longer smokes cigarettes - has not for some time; declines to give further detail on timing. Uses albuterol inhaler PRN for asthma/COPD flares, reports fair control currently. Some dyspnea on exertion, attributes mostly to legs limiting her before breathing does.
+
+[COPY-FORWARD FROM VISIT 08/03/2022 - retained in chart, not fully reconciled]
+Pt seen today for f/u COPD and asthma. Reports occasional wheeze, uses albuterol 2-3x/wk. No recent exacerbation requiring steroids or antibiotics. O2 sat 96% RA in clinic. Lungs w/ mild expiratory wheeze bilat, no crackles. Continue current inhaler regimen, Symbicort BID + albuterol PRN. Discussed pulmonary rehab referral, pt declined at that time citing transportation issues. Gout flare last month resolved w/ colchicine course, uric acid to be rechecked. Osteoarthritis of knees stable, using topical NSAID + acetaminophen prn, ortho f/u as needed. Weight stable at last visit, discussed dietary modification and increased activity as tolerated given joint pain limits. Pt tolerating current med regimen without issue. RTC 3 months or sooner if worsening symptoms.
+[END COPY-FORWARD]
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE]
+ Smoking status: Former smoker
+ History: Smoked 2 packs per day for 10 years. Quit completely for 4 years. Restarted smoking at 2 packs per day for 9 years. Quit smoking for good thereafter.
+ Current use: None
+ Interest in cessation resources: N/A - not currently smoking
+[END TEMPLATE]
+Alcohol: occasional glass of wine, denies EtOH abuse.
+Lives with husband, retired from clerical work, uses cane for ambulation d/t knee pain.
+
+ROS: Positive for exertional leg pain as above, denies chest pain, denies syncope, denies leg swelling. Negative for fevers, chills, unintentional weight loss. Remainder of ROS reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 95% RA, Wt 198 lb, BMI 34.2
+Gen: obese female, NAD, ambulates with cane
+CV: RRR, no murmurs appreciated
+Resp: mild expiratory wheeze bilat bases, no accessory muscle use
+Extremities: bilateral lower extremity pulses diminished (DP/PT 1+ bilat), cap refill slightly delayed >3 sec, no ulceration, hair loss noted on distal lower legs, cool to touch distally. No edema.
+MSK: knees w/ crepitus, no acute effusion, mild tenderness bilat.
+
+DATA:
+ABI done 12/2022: right 0.68, left 0.71, consistent with mild-moderate PAD.
+Lipid panel from last visit: LDL 118, HDL 42, TG 165.
+A1c 5.9%.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, symptomatic (claudication) - consistent with ABI findings. Discussed lifestyle modification, supervised exercise therapy, and pharmacologic options (cilostazol). Discussed importance of remaining tobacco-free given cardiovascular risk reduction; reinforced that continued abstinence from smoking is beneficial for both PAD and COPD/CAD given pt is no longer smoking. Start cilostazol 100mg BID if no contraindication, will confirm no heart failure hx (none noted). Vascular surgery f/u 3 months, consider arterial duplex if worsening.
+2. Coronary artery disease - stable, continue current cardiology-directed meds, no new sx today.
+3. COPD/Asthma - stable per pt report, continue Symbicort + albuterol PRN, will defer to pulmonology for further management, pulm rehab discussed previously.
+4. Obesity - counseled on weight loss benefits for both joints and vascular disease, dietary referral offered.
+5. Osteoarthritis - continue current regimen, ortho f/u as needed.
+6. Gout - stable, no active flare today, continue allopurinol if applicable per PCP records (not listed in current med list, will clarify with PCP).
+
+RTC 3 months or sooner if claudication worsens or new rest pain/ulceration develops.
+
+---
+ADDENDUM (later same day, 01/12/2023, added by Dr. Fitzgerald):
+Spoke with patient by phone after visit to clarify medication list - patient confirmed she is not currently on allopurinol, last gout flare managed with colchicine only per PCP. Updated problem list accordingly. No other changes to plan above. Patient again confirmed she does not currently smoke and has not been smoking; further details on timing not disclosed and not necessary for today's management plan. ABI results reviewed again with patient by phone, reiterated importance of walking program and cilostazol adherence. No new complaints reported at this time.

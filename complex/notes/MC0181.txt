@@ -1,0 +1,48 @@
+URGENT CARE PROGRESS NOTE
+Patient: Barbara Ramirez (F) DOB 2/28/1961
+DOS: 02/28/2023
+Author: Rachel Goldberg, MD
+
+CC: Cough x5 days.
+
+HPI: 62 yo female presents c/o productive cough, worse at night, no fever documented at home. Denies hemoptysis. Reports mild SOB w exertion. No chest pain. Pt states she quit smoking back in 2009 but relapsed in 2010 and has continued smoking since. Nasal congestion +. Sore throat mild. No sick contacts identified. Uses albuterol occasionally per pt report, unclear if prescribed.
+
+PMH: HTN, depression, gout.
+
+Meds: lisinopril, sertraline, allopurinol (per chart, not reconciled today).
+
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Current every day smoker
+ Type: Cigarettes
+ Quit attempts: Yes - see HPI
+ Alcohol: Not on file
+ Drug use: Denies
+ Occupation: ---
+ Living situation: Not on file
+ Exercise: Not on file
+
+ROS: Constitutional - denies fever/chills. Resp - + cough, + mild dyspnea. CV - denies palpitations/CP. GI - unremarkable. All other systems negative or noncontributory.
+
+Vitals: T 98.4F, HR 84, BP 138/86, RR 16, SpO2 96% RA.
+
+Exam: Gen - NAD, alert. HEENT - oropharynx mildly erythematous, no exudate. Neck - supple, no LAD. Lungs - scattered rhonchi bilaterally, no wheeze, no crackles. CV - RRR, no m/r/g. Abd - soft, NT/ND. Ext - no edema, no tophi visible today.
+
+LABS/RESULTS:
+ 02/28/2023 - Rapid flu A/B: negative
+ 02/28/2023 - Rapid strep: negative
+ 02/28/2023 - COVID PCR: pending
+ 01/15/2023 - CMP (prior visit): unremarkable, Cr 0.8, K 4.1
+ 01/15/2023 - Uric acid: 7.2 (mildly elevated, stable per pt)
+
+Assessment/Plan:
+1. Acute bronchitis, likely viral. Supportive care, increase fluids, guaifenesin PRN, follow up if worsening dyspnea or fever >101.
+2. Tobacco use, active smoker - patient has a 44 pack-year smoking history. Counseled on smoking cessation resources, offered nicotine replacement therapy, pt declined today but open to discussing at future visit. Lung cancer screening discussed as an option to review with PCP.
+3. Hypertension - stable today, BP at goal-ish, continue lisinopril, recheck at next routine visit.
+4. Depression - stable, continue sertraline, no acute SI/HI voiced today.
+5. Gout - uric acid mildly elevated per last labs, continue allopurinol, encourage hydration, low purine diet reviewed.
+
+Return precautions given verbally and in writing. Pt verbalized understanding. Follow up with PCP within 1-2 weeks or sooner if symptoms worsen.
+
+Electronically signed: Rachel Goldberg, MD, 02/28/2023.

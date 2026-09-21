@@ -1,0 +1,107 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Clinic
+Date of Service: 03/01/2025
+Author: Nadia Haddad, MD
+
+RE: John Patel, DOB 03/01/1951 (age 74)
+Referring Physician: Dr. R. Osei, Internal Medicine
+
+Dear Dr. Osei,
+
+Thank you for referring Mr. Patel, a 74-year-old male, for evaluation of a persistent cough. I saw him today, 03/01/2025, in urgent care.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Patel presents with a 10-day history of cough, described as intermittent, occasionally productive of white-yellow sputum, without hemoptysis. He denies fevers but reports mild subjective chills two nights ago. He notes some increased shortness of breath with exertion, which he attributes to his known COPD, though he feels this episode is somewhat worse than his baseline. He denies chest pain, though he does have a history of coronary artery disease and is attentive to any chest discomfort given this. He has been using his albuterol inhaler more frequently over the past week, roughly 4-5 times per day versus his usual 1-2 times per day. No recent travel, no sick contacts identified. He has not had any fevers documented at home. He denies significant weight loss, though he does report a mild decrease in appetite over the past week which he attributes to feeling unwell.
+
+He was last seen by his PCP approximately 3 months ago for routine follow-up of his chronic conditions including COPD, CAD, BPH, and type 2 diabetes.
+
+PAST MEDICAL HISTORY:
+1. COPD (GOLD stage not specified in chart)
+2. Coronary artery disease, status post stent placement (year not on file)
+3. Benign prostatic hyperplasia
+4. Type 2 diabetes mellitus
+5. Osteoarthritis, bilateral knees
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current smoker
+Smoking history: Patient reports having smoked on and off for most of her adult life.
+Type of tobacco: Cigarettes
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: N/A - currently smoking
+Alcohol use: Occasional, reports 1-2 beers on weekends
+Drug use: Denies
+Occupation: Retired postal worker
+Living situation: Lives with spouse
+Exercise: Limited due to COPD and knee pain
+
+FAMILY HISTORY:
+Father - deceased, MI at age 68
+Mother - deceased, unknown cause
+No family history of lung cancer reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, reports mild decreased appetite, denies night sweats.
+HEENT: Denies sore throat, denies nasal congestion, denies sinus pressure.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, does report occasional lower extremity swelling at baseline.
+Respiratory: Positive for cough as above, positive for mild dyspnea on exertion, denies hemoptysis, denies pleuritic chest pain.
+Gastrointestinal: Denies nausea, denies vomiting, denies abdominal pain, denies diarrhea, denies constipation.
+Genitourinary: Reports chronic urinary hesitancy and nocturia consistent with known BPH, denies dysuria, denies hematuria.
+Musculoskeletal: Reports chronic bilateral knee pain, stable, no new complaints.
+Neurological: Denies headache, denies dizziness, denies focal weakness.
+Skin: Denies rash, denies new lesions.
+Psychiatric: Denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Albuterol HFA inhaler, 2 puffs q4-6h PRN
+2. Tiotropium inhaler, 1 inhalation daily
+3. Metoprolol succinate 50mg daily
+4. Atorvastatin 40mg daily
+5. Aspirin 81mg daily
+6. Metformin 1000mg twice daily
+7. Glipizide 5mg daily
+8. Tamsulosin 0.4mg daily
+9. Finasteride 5mg daily
+10. Acetaminophen 500mg PRN for joint pain
+11. Vitamin D3 1000 IU daily
+
+ALLERGIES: No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Vitals: T 37.1C, HR 88, BP 138/82, RR 18, SpO2 94% on room air
+General: Alert, mildly uncomfortable-appearing male, no acute distress at rest.
+HEENT: Normocephalic, atraumatic, oropharynx clear, no erythema.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. 1+ pitting edema bilateral lower extremities, chronic per patient.
+Respiratory: Mild expiratory wheezing bilaterally, no crackles, no rhonchi, mild increased work of breathing with prolonged expiratory phase.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, no clubbing, trace edema as noted above.
+Skin: Warm, dry, no rashes.
+Neurological: Alert and oriented x3, no focal deficits.
+Musculoskeletal: Mild crepitus bilateral knees, no effusion, range of motion preserved.
+
+LABS/RESULTS:
+CBC (03/01/2025): WBC 9.8 (ref 4.0-11.0), Hgb 13.9, Hct 41.2%, Platelets 245
+BMP (03/01/2025): Na 138, K 4.3, Cl 101, CO2 26, BUN 18, Creatinine 1.0, Glucose 156
+HbA1c (12/15/2024, on file): 7.4%
+Chest X-ray (03/01/2025): Hyperinflated lungs consistent with known COPD, no focal consolidation, no acute infiltrate, no effusion. Cardiac silhouette within normal limits given rotation.
+
+ASSESSMENT AND PLAN:
+1. Acute bronchitis, likely viral vs. COPD exacerbation - given his history of COPD and current smoking status, he currently smokes cigarettes, which likely contributes to both his baseline disease and his slower recovery from respiratory infections. Advised smoking cessation counseling today; discussed nicotine replacement options and referral to a formal cessation program. Will start a short course of prednisone taper and continue bronchodilators. Encouraged increased fluid intake and rest.
+2. COPD, stable baseline per patient report - continue tiotropium, albuterol PRN. Discussed the importance of smoking cessation in slowing disease progression. We briefly discussed lung cancer screening guidelines given his age and smoking history, though this will be deferred to his primary care physician for further discussion and coordination.
+3. Coronary artery disease - continue current cardiac medications, no acute chest pain today, EKG deferred given reassuring vitals and lack of cardiac symptoms.
+4. Type 2 diabetes mellitus - glucose today mildly elevated at 156, HbA1c from 12/2024 was 7.4%, will defer medication adjustment to PCP, continue current regimen.
+5. BPH - stable, continue tamsulosin and finasteride.
+6. Osteoarthritis - stable, continue acetaminophen PRN.
+
+Follow up with PCP Dr. Osei within 1-2 weeks or sooner if symptoms worsen. Return to urgent care or ED for worsening shortness of breath, chest pain, high fever, or confusion.
+
+Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Nadia Haddad, MD
+
+---
+ADDENDUM (later same day, 03/01/2025, 4:45 PM):
+Patient called clinic after discharge to clarify prednisone taper instructions. Instructions were reiterated verbally and written instructions were sent via patient portal. No new complaints reported at this time. He reconfirmed that he currently smokes cigarettes and was again encouraged to consider cessation resources discussed earlier today.

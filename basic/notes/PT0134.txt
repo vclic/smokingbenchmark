@@ -1,0 +1,78 @@
+Geriatrics Progress Note
+
+Patient: SULLIVAN, Kenneth    MRN: 67171401
+DOB: 12/19/1950    Age: 74 y.o.    Sex: Male
+Date of Service: 05/29/2025    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• 3 month follow-up
+
+Subjective:
+Kenneth Sullivan is a 74 y.o. male who presents for routine follow-up of chronic conditions.
+Doing okay overall. He denies ever smoking cigarettes. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• BPH with LUTS
+• Type 2 diabetes mellitus
+• Obstructive sleep apnea on CPAP
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• finasteride 5 mg daily
+• metformin 1000 mg BID
+• tamsulosin 0.4 mg nightly
+• multivitamin daily
+• losartan 50 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives in assisted living.
+  Retired, former teacher.
+  Occasional marijuana use.
+  Social drinker.
+  Drives.
+
+Family History
+Father - colon cancer at 68.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 131/93 (BP Location: Left arm, Patient Position: Sitting) | Pulse 71 | Temp 98.0 °F (Oral) | Resp 18 | Ht 6' 0" | Wt 158 lb | SpO2 97% | BMI 21.48 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (2025-05-21): A1c 9.2%, Cr 0.87, K 4.8
+
+Assessment & Plan
+1. Obstructive sleep apnea on CPAP
+   Using CPAP nightly.
+2. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Type 2 diabetes mellitus
+   UACR ordered.
+
+Return in about 3 months (around 8/29/2025).
+
+Electronically signed by Nadia Haddad, MD on 05/29/2025

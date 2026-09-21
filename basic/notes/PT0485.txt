@@ -1,0 +1,69 @@
+Adult Medicine Clinic Note
+
+Patient: LOPEZ, Carlos    MRN: 22875525
+DOB: 05/03/1958    Age: 67 y.o.    Sex: Male
+Date of Service: 10/27/2025    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Medicare annual wellness visit
+
+Subjective:
+Carlos Lopez is a 67 y.o. male who presents for a Medicare annual wellness visit.
+Feels well overall. Gardening for activity. Caring for a grandchild several days a week.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Type 2 diabetes
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sitagliptin 100 mg daily
+• amlodipine 10 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Noncontributory.
+
+Family History
+Mother - HTN, DM2. Brother - smokes, had MI at 52.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 138/75 (BP Location: Left arm, Patient Position: Sitting) | Pulse 81 | Temp 98.4 °F (Oral) | Resp 20 | Ht 5' 6" | Wt 130 lb | SpO2 98% | BMI 21.03 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2016 - normal, repeat in 10 yrs; Shingrix #1 today; Flu shot today.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Rachel Goldberg, MD on 10/27/2025

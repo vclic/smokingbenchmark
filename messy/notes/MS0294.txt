@@ -1,0 +1,37 @@
+RESIDENT NOTE - Hospital d/c f/u
+DOS: 08/03/2024
+Patient: Terrence Perez, M, DOB 8/3/1957 (age 67)
+Attending: Dr. Gregory Tan, MD (attestation below)
+
+HPI: Pt is a 67 y/o male s/p recent hospitalization for CAP, dc'd 5 days ago, here for f/u. Pt states "I feel about 80% back to normal, still get a little winded going up stairs." Denies fever, chills, hemoptysis. Reports mild productive cough, improving. c/o intermittent heartburn, states GERD meds helping "most days." No chest pain currently, denies orthopnea/PND.
+
+ROS: otherwise negative except as above.
+
+PMH/Problem List (ICD-10):
+- CKD stage 3 (N18.3)
+- GERD (K21.9)
+- CAD (I25.10) - s/p cath 2019, no intervention needed at that time (outdated entry, TBD update)
+- Pneumonia, resolving (J18.9)
+- HTN (I10) - old dx, unclear current status, needs review
+
+Meds: lisinopril, omeprazole, atorvastatin, ASA 81mg
+
+Social Hx: Pt reports current cigarette smoker, 14 pack-year hx. Also uses vape occasionally per pt report, "just sometimes when I run out of regular ones." Denies illicit drug use. Occasional etoh, denies excess. Lives alone, retired factory worker.
+
+Vitals: BP 132/78, HR 76, RR 16, O2 sat 96% RA, Temp 98.2F, Wt stable
+
+Exam: Gen - NAD, comfortable. Lungs - mild crackles at R base, improved from prior, no wheeze. CV - RRR, no m/r/g. Abd - soft, NT/ND. Ext - no edema.
+
+Labs reviewed: BMP wnl for known CKD3 (baseline Cr 1.4), CBC unremarkable.
+
+Assessment/Plan:
+1. Pneumonia, resolving - clinically improving, f/u CXR in 4-6 wks to confirm resolution.
+2. CAD - stable, continue current regimen, no acute issues today.
+3. CKD stage 3 - stable, monitor labs q6mo, avoid nephrotoxic agents.
+4. GERD - continue omeprazole, sx well controlled per pt.
+5. Tobacco use - pt continues to smoke cigarettes, 14 pack-year hx noted, also occasional vape use. Counseled on cessation, offered resources/nicotine replacement, pt declined at this time but open to d/c at future visit. Lung ca screening was discussed w/ pt as part of general risk conversation.
+
+F/u in 4 wks or sooner if worsening sx.
+
+---
+Attestation: I have seen and examined the pt with the resident, discussed the case, and agree with the above assessment and plan as documented. - Gregory Tan, MD

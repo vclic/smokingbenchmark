@@ -1,0 +1,41 @@
+NURSE INTAKE
+Pt: Jose Alexander, M, DOB 08/05/1971, age 53. DOS: 08/05/2024.
+CC: chest pain, referred to Cardiology by PCP.
+Vitals: BP 148/92, HR 78, RR 16, SpO2 96% RA, Wt 210 lb.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+HPI (per NP Alvarez):
+53 yo M h/o PAD, CKD stage 3, OSA, HTN, hypothyroidism p/w intermittent substernal chest pressure x 3 days, worse w/ exertion, assoc SOB. No radiation to jaw/arm reported. Denies diaphoresis. Pt reports similar episodes in past resolved w/ rest. No current tobacco use - pt states he quit smoking. Meds reviewed - on levothyroxine, lisinopril, atorvastatin, CPAP nightly for OSA. No fevers/chills. ROS otherwise negative except mild fatigue.
+
+EXAM:
+Gen: NAD, comfortable, sitting up in chair.
+CV: RRR, no murmurs/rubs/gallops appreciated. No JVD.
+Resp: CTAB, no wheezes/crackles.
+Ext: 1+ pitting edema b/l ankles, cool distal extremities c/w known PAD, diminished DP pulses b/l.
+Skin: no ulcerations noted today.
+
+LABS (reviewed from recent visit):
+Cr 1.6, eGFR 48, TSH 3.1, lipid panel pending.
+
+EKG: NSR, no acute ST changes, nonspecific T wave flattening inferior leads.
+
+ASSESSMENT/PLAN (Teresa Alvarez, NP):
+1. Chest pain, likely multifactorial - r/o cardiac etiology given PAD hx (marker for systemic atherosclerosis) and tobacco hx below. Will obtain troponin, stress test to follow if initial workup unremarkable. Continue home ASA if not contraindicated (renal fn to be considered).
+   -- Smoking hx detailed per pt report: 1.5 packs/day x 7 yrs, then decreased to about a quarter pack/day (~5 cigs/day) x 10 yrs, then increased again to three-quarters pack/day (~15 cigs/day) x 7 yrs before ultimately quitting. Pt confirms he has not smoked since his 37th birthday and currently denies any tobacco use. No vaping reported.
+   -- Lung cancer screening discussed briefly given smoking hx; will revisit at future visit, no imaging ordered today for that purpose.
+2. PAD - stable, no rest pain, continue cilostazol, follow vascular surgery as scheduled. Counseled again re: importance of staying smoke-free given vascular disease burden.
+3. CKD stage 3 - baseline per recent labs, avoid nephrotoxic agents, hold NSAIDs.
+4. OSA - on CPAP, adherence reportedly good per pt, will screen adherence data at next visit.
+5. HTN - BP elevated today, may be white coat vs suboptimal control, will trend home readings, consider med adjustment if persistently elevated.
+6. Hypothyroidism - stable on current levothyroxine dose, TSH wnl.
+
+F/u: return to cardiology clinic in 2 wks or sooner if sx worsen. Pt educated on when to seek ED care (crushing chest pain, radiating pain, SOB at rest, diaphoresis).
+
+Electronically signed: Teresa Alvarez, NP, 08/05/2024.

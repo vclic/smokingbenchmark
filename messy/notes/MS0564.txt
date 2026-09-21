@@ -1,0 +1,69 @@
+Pulmonology - COPD Follow-up
+Date of Service: 06/27/2025
+Patient: Dennis Hill | DOB: 06/27/1962 (Age 63) | Sex: M
+Author: Laura Castellano, FNP-C
+
+CC: COPD f/u, dyspnea on exertion stable per pt.
+
+HPI:
+63 yo male with hx HFrEF, osteoporosis, CKD stage 3, hyperlipidemia presenting for routine COPD follow-up. Reports baseline dyspnea unchanged, no increase in sputum, no fevers. Uses albuterol PRN, tiotropium daily. Denies chest pain. Sleeps with 2 pillows, no PND. Weight stable per pt, though will confirm w/ vitals below.
+
+ROS: Otherwise negative except as above. No hemoptysis. No leg swelling change.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking duration: 30 years
+Quit year: 2011
+Packs per day: Not on file
+Type: Not on file
+Alcohol use: Former drinker, quit 2016
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+
+[Copied forward from note dated 04/27/2024]: "Smoking status as of 4/27/2024: former smoker." (No further quantities documented in that prior note.)
+
+Meds: Furosemide 40mg daily, Carvedilol 12.5mg BID, Sacubitril-valsartan 24/26mg BID, Atorvastatin 40mg qhs, Alendronate 70mg weekly, Tiotropium 18mcg daily, Albuterol HFA PRN.
+
+Allergies: NKDA.
+
+Vitals: BP 118/72, HR 68, RR 16, SpO2 95% RA, Temp 98.2F, Wt 182 lb (stable from last visit), BMI 27.4.
+
+Exam:
+Gen: NAD, comfortable, conversing in full sentences.
+HEENT: unremarkable.
+CV: RRR, no S3/S4 appreciated today, no murmurs.
+Resp: mildly decreased breath sounds bilat bases, no wheezes, no crackles.
+Ext: trace edema bilat ankles, no change from prior.
+Skin: no lesions.
+
+Labs/Results (reviewed today):
+- BNP (06/20/2025): 210 pg/mL (baseline elevated, stable)
+- BMP (06/20/2025): Na 138, K 4.3, Cl 101, CO2 24, BUN 28, Cr 1.5 (eGFR 52 mL/min/1.73m2, consistent with known CKD3)
+- Lipid panel (03/15/2025): LDL 92, HDL 45, TG 130
+- Spirometry (05/10/2025): FEV1/FVC 0.62, FEV1 58% predicted - moderate obstruction, similar to prior study
+- CBC (06/20/2025): WNL
+
+Assessment:
+1. COPD, moderate, stable on current regimen.
+2. HFrEF - stable, euvolemic today, continue GDMT.
+3. CKD stage 3 - stable, monitor Cr.
+4. Osteoporosis - continue alendronate, no new fx.
+5. Hyperlipidemia - controlled on statin.
+6. Tobacco history - patient quit smoking; smoked for 30 years total, quit in 2011. Discussed continued importance of avoiding relapse. Lung cancer screening options were discussed with patient; further decision-making deferred to PCP/shared discussion at future visit.
+
+Plan:
+- Continue current inhalers, GDMT for HF.
+- Recheck BMP in 3 months given CKD.
+- Bone density scan due in fall, will schedule.
+- Continue statin, no changes.
+- Pt encouraged re: pulm rehab referral - declined again today, will revisit.
+- F/u pulm in 3 months or sooner if symptoms worsen.
+- Reinforced tobacco relapse prevention counseling; pt states no interest in resuming, has remained smoke-free since quitting.
+
+Electronically signed: Laura Castellano, FNP-C
+
+---
+ADDENDUM (later same day, 06/27/2025, 16:42):
+Spoke with patient by phone after visit re: lab results discussed above - pt verbalizes understanding of plan, no new complaints since this AM visit. Confirmed pt remains former smoker, quit 2011 as documented above; no changes to smoking history. No further action needed at this time. Will address bone density scheduling via MyChart message tomorrow.
+-Laura Castellano, FNP-C

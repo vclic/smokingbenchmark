@@ -1,0 +1,53 @@
+VASCULAR SURGERY - RESIDENT NOTE
+Patient: Mark Mitchell | DOB: 05/14/1944 | Age: 79 y.o. male
+Date of Service: 05/14/2023
+Author: Priya Raman, MD (Resident), attending attestation below
+
+CC: Follow-up eval for peripheral artery disease (PAD), claudication symptoms.
+
+HPI: Mr. Mitchell is a 79 y.o. male with PMH significant for hypothyroidism, obesity, OA, CAD, and HFrEF who presents for f/u of PAD, initially dx'd on ABI testing last yr. Reports intermittent claudication in b/l calves, worse on L, after walking approx 1-2 blocks, relieved w/ rest. No rest pain, no new ulcers or skin breakdown noted. He denies chest pain, palpitations, or worsening dyspnea beyond baseline. Smoking hx notable for 2 packs per day from age 19 until quitting at age 43; pt quit smoking in December 1987 and has remained smoke-free since. No current tobacco or nicotine use. No illicit drug use. Occasional EtOH (1-2 drinks/wk).
+
+--- BEGIN COPIED FORWARD TEXT FROM PRIOR VISIT (dtd 11/02/2022) ---
+HPI (11/02/2022): Pt is a 78 y.o. male here for PAD f/u. C/o bilateral calf pain w/ ambulation, improved w/ rest. Denies rest pain, non-healing wounds. Cardiac: hx of CAD s/p PCI 2015, HFrEF EF 35% on last echo, compliant w/ GDMT. Endocrine: hypothyroidism on levothyroxine 75mcg daily, TSH wnl per last check. MSK: osteoarthritis affecting knees b/l, managed conservatively w/ acetaminophen and PT. Obesity: BMI 34, counseled on diet/exercise. ROS otherwise negative. Meds reviewed and reconciled, no changes made at that visit. Plan at that time: continue ASA 81mg, atorvastatin 40mg, metoprolol succinate 50mg, lisinopril 10mg, furosemide 20mg PRN, levothyroxine 75mcg. F/u ABI in 6 months, vascular surgery f/u in 3-6 months, refer to PT for gait/strength training given OA and claudication limiting mobility. Pt educated on foot care and importance of walking program for claudication.
+--- END COPIED FORWARD TEXT ---
+
+ROS (today): Denies fevers, chills, chest pain. + Bilateral calf claudication as above. No numbness/tingling in feet. No new skin changes. Denies orthopnea, PND. Occasional knee pain, stable.
+
+PMH: Hypothyroidism, obesity, osteoarthritis, CAD, HFrEF (EF 35% last echo 2022), PAD.
+PSH: None significant.
+Meds: ASA 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 50mg daily, lisinopril 10mg daily, furosemide 20mg PRN, levothyroxine 75mcg daily.
+Allergies: NKDA.
+Social Hx: Former smoker as above (2 ppd, quit 12/1987). No current tobacco. Retired machinist. Lives w/ spouse. Denies illicit drug use.
+Family Hx: Father - MI at 60s. Mother - DM2.
+
+Vitals: BP 138/82, HR 68, RR 16, Temp 98.4F, SpO2 96% RA, Wt 210 lb, BMI 33.9
+
+Physical Exam:
+Gen: NAD, well-appearing elderly male.
+CV: RRR, no m/r/g. No JVD.
+Resp: CTAB, no wheezes/crackles.
+Abd: Soft, NT/ND, obese habitus.
+Ext: B/l DP and PT pulses 1+, diminished compared to radial. Cap refill <3 sec. No ulcers, no edema. Skin intact, cool to touch distally.
+Neuro: Grossly intact, sensation intact b/l feet.
+
+Labs/Results:
+- CBC (05/12/2023): WBC 6.8, Hgb 13.9, Plt 210
+- BMP (05/12/2023): Na 139, K 4.2, Cr 1.1, BUN 18, Glc 102
+- Lipid panel (04/20/2023): TC 165, LDL 88, HDL 42, TG 150
+- TSH (03/15/2023): 2.1 (WNL)
+- ABI (05/10/2023): Right 0.72, Left 0.65 (consistent with moderate PAD)
+
+Assessment/Plan:
+79 y.o. male w/ PAD, CAD, HFrEF, hypothyroidism, obesity, OA.
+1. PAD - Sx stable, ABI shows moderate dz, worse on L. Continue ASA, statin. Emphasize supervised walking program. Will consider cilostazol if sx worsen.
+2. CAD/HFrEF - Continue GDMT as above, stable on current regimen. Repeat echo in 6 mo.
+3. Hypothyroidism - TSH wnl, continue current levothyroxine dose.
+4. Obesity - Counseled diet/exercise, referred to nutrition.
+5. OA - Continue acetaminophen PRN, PT referral renewed.
+
+F/u in 3 months or sooner if worsening sx.
+
+Attending Attestation: I have seen and examined the patient with Dr. Raman, discussed the plan of care, and agree with the assessment and plan as documented above. - Dr. Alan Foster, Vascular Surgery Attending.
+
+--- ADDENDUM (later same day, 05/14/2023, 16:45) ---
+Addendum by Dr. Raman: Pt called back after visit to clarify he had misplaced his home BP log; will bring to next visit. Also confirmed once more that he quit smoking in December 1987 and has had no relapse since that time. No other changes to plan.

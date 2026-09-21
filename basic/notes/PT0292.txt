@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Date of Service: 30-Jun-2025
+Patient: Dorothy Alexander   DOB: 2/19/1961   MRN: 90452414
+
+S:
+CC: Right knee pain
+HPI: Ms. Alexander is a 64 y.o. female with a history of obesity and depression who presents for right knee pain. Right knee pain for 4 months, worse with stairs. No numbness or weakness. Tylenol helps somewhat. She denies ever smoking cigarettes.
+
+PMH:
+- Generalized anxiety disorder
+- Obesity (dx 2019)
+Meds: bupropion XL 150 mg daily
+Allergies: Penicillin (rash)
+SH: Married, lives with husband. Works as a bus driver. No alcohol. Denies illicit drugs.
+FH: Noncontributory. Mother - COPD, was a lifelong smoker.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 110/66  HR: 80  RR: 18  Temp: 98.2 F  SpO2: 98% on RA  Wt: 236 lbs  BMI: 36.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Right knee pain
+   - Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+2. Generalized anxiety disorder
+   - Mood stable.
+3. Health maintenance: Lung cancer screening: not indicated (never smoker).
+
+Follow up in 1 month or sooner PRN.
+
+-- DR (MD)

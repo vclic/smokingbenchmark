@@ -1,0 +1,50 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine - Dr. Nadia Haddad, MD
+Date of Service: 09/08/2023
+
+Patient: Janet Perez, F, DOB 08/06/1970 (age 53)
+
+Dear colleague,
+
+Thank you for referring Ms Perez, a 53 year old woman, for follow up of her hypertension and diabetes. She reports fatigue and occassional leg cramping with ambulation, consistent with her known PAD. Blood sugars have been running in the 140-180 range per home log. She denies chest pain or SOB today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- Essential hypertension (I10)
+- Type 2 diabetes mellitus without complications (E11.9)
+- Peripheral artery disease (I73.9)
+- Gout (M10.9) - outdated, last flare 2019
+- Benign prostatic hyperplasia (N40.0) - outdated entry, likely miscoded, pt is female
+- GERD (K21.9)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Active smoker
+Alcohol use: Not on file
+Recreational drug use: denies
+Occupation: retired
+Living situation: 
+Exercise: Not on file
+
+HPI/SMOKING DETAIL: Patient continues to smoke 30 cigarettes per day, and has done so for 31 years. She is an active smoker and has been counseled multiple times regarding cessation; declines referral to quitline at this time. Discussed lung cancer screening as a general topic of conversation but no further action taken today regarding imaging.
+
+COPIED FROM PRIOR NOTE (7/8/2020): "Smoking status: current smoker." [no quantities given in this section, copied forward for reference]
+
+RESULTS:
+HbA1c 8/30/2023: 7.8%
+Basic metabolic panel 8/30/2023: Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, glucose 162
+Lipid panel 8/30/2023: TC 190, LDL 110, HDL 42, TG 190
+Urine microalbumin 8/30/2023: 45 mg/g (mildly elevated)
+ABI (right/left) 6/15/2023: 0.72/0.68, consistent w known PAD
+
+ASSESSMENT/PLAN:
+1. Hypertension - continue lisinopril, recheck BP today 138/86.
+2. T2DM - A1c above goal, will increase metformin dose, reinforce diet.
+3. PAD - cont cilostazol, reinforce importance of smoking cessaton given vascular risk.
+4. Gout - stable, no meds needed currently.
+5. GERD - continue omeprazole prn.
+
+Follow up in 3 months or sooner if symptoms worsen.
+
+Sincerely,
+Nadia Haddad, MD
+
+ADDENDUM (later same day, 09/08/2023, 4:15pm): Pt called back to clarify she took her AM metformin dose already today, no change to plan. Labs reviewed again, no additional concerns. -N. Haddad, MD

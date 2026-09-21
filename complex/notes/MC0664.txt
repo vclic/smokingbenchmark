@@ -1,0 +1,62 @@
+CARDIOLOGY CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Date of Service: 09/30/2023
+Patient: Charles Walker | DOB: 04/21/1953 | Age: 70 | Sex: M
+Author: Catherine Lindqvist, DO
+
+RE: Follow-up, Heart Failure
+
+Dear Doctor,
+
+Thank you for referring Mr. Walker, a 70-year-old male (DOB 4/21/1953) with hx of atrial fibrillation, CAD, and T2DM, seen today 09/30/2023 for HF follow-up.
+
+HPI: Pt reports doing 'about the same, maybe a little more short of breath climbing stairs.' Denies orthopnea, PND. No chest pain. Weighs himself daily, no significant gain. Compliant with diuretic per pt report. He states 'I take my water pill every morning like clockwork.'
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco: Smoking status: Never Smoker [NOTE: this field is outdated/incorrect - see narrative below]
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary
+
+Narrative addendum re: tobacco (templated field above is wrong): Pt has an extensive active smoking history. He reports smoking about a quarter pack (approx 5 cigarettes) per day for 25 years, then increased to 2 packs per day for the past 27 years and continues to smoke at that rate currently. He states he is not ready to quit at this time despite repeated counseling. Advised to quit smoking; discussed risks of continued tobacco use on cardiovascular and pulmonary health. Discussed smoking cessation resources and lung health screening in general terms, though no imaging ordered today.
+
+ROS: Constitutional: no fever, chills, wt loss. CV: as above, denies palpitations today. Resp: mild DOE, no cough/hemoptysis. GI: no N/V/D. GU: nocturia x1. MSK: no edema noted by pt. Neuro: no syncope/presyncope. Psych: mood stable. Skin: no rashes. Heme: no bruising/bleeding. Endocrine: known T2DM, no polyuria/polydipsia currently.
+
+MEDICATIONS:
+1. Metoprolol succinate 50mg daily
+2. Furosemide 40mg daily
+3. Apixaban 5mg BID
+4. Atorvastatin 40mg daily
+5. Lisinopril 10mg daily
+6. Metformin 1000mg BID
+7. Empagliflozin 10mg daily
+8. Aspirin 81mg daily (held given apixaban - to reconcile)
+9. Spironolactone 25mg daily
+10. Sacubitril-valsartan 24/26mg BID
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular, RR 16, SpO2 96% RA, Wt 198 lb, Temp 98.2F
+Gen: NAD, well-appearing, in no acute distress
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear
+Neck: no JVD appreciated at 30 degrees, no carotid bruits
+CV: irregularly irregular rhythm, no m/r/g appreciated, S1/S2 normal
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: no LE edema, pulses 2+ throughout
+Skin: warm, dry, no rash
+Neuro: A&Ox3, no focal deficits
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - rate controlled, on apixaban for anticoagulation, continue metoprolol.
+2. Coronary artery disease - continue statin, aspirin held pending reconciliation with anticoagulation.
+3. Heart failure - clinically euvolemic today, continue GDMT as above, continue sacubitril-valsartan and spironolactone, monitor renal function/potassium.
+4. Type 2 diabetes mellitus - on empagliflozin and metformin, appears reasonably controlled, defer A1c management to PCP/endocrine.
+5. Tobacco use - active smoker as detailed above, quarter pack/day x25 yrs then increased to 2 packs/day x27 yrs, ongoing; not ready to quit; counseled today, will readdress at future visits, general discussion of smoking cessation resources and lung health screening had, but no imaging ordered at this time.
+
+Follow-up in 3 months or sooner if symptoms worsen. Labs (BMP, BNP) ordered today.
+
+Thank you again for this referral. Please contact our office with any questions.
+
+Sincerely,
+Catherine Lindqvist, DO

@@ -1,0 +1,79 @@
+Weill Primary Care Associates
+New Patient Visit - Progress Note
+Date of Service: 10/28/2023
+Author: Hannah Weiss, NP
+
+Patient: Paul Barnes
+DOB: 03/21/1961 (Age 62)
+Sex: M
+
+CHIEF COMPLAINT: Establish care, new patient.
+
+HPI: 62 yo M new to practice, transferring care after relocation. Hx significant for CAD and OSA. Reports stable exertional capacity, denies current chest pain, occasional mild dyspnea on exertion which he attributes to being 'out of shape.' Uses CPAP nightly per report, tolerates fairly well though c/o dry mouth. No recent hospitalizations. Pt notes he used to smoke heavily but quit many years ago - states he smoked between 2 and 3 packs per day for 12 years before quitting, with quit date of 8/15/1989. Denies any tobacco use since. No vaping, no other nicotine products. Denies illicit drug use.
+
+PMH: CAD (s/p stent placement, per pt report - records pending), OSA on CPAP.
+PSH: None reported.
+Allergies: NKDA.
+Meds: Atorvastatin 40mg qhs, Aspirin 81mg daily, Metoprolol succinate 50mg daily (per pt report, will confirm w/ pharmacy).
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Former smoker
+Smoking status: Quit
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary - referred to cardiac rehab discussion
+Diet: Not on file
+
+FAMILY HISTORY: Father - MI at age 58. Mother - HTN. Copy-forward from intake form, not independently verified this visit.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, wt loss.
+Cardiac: Denies chest pain, palpitations. + occasional DOE.
+Resp: Denies cough, wheeze. Snoring reported by spouse, known OSA.
+GI: Denies n/v/d.
+GU: Denies dysuria.
+MSK: Denies joint pain.
+Neuro: Denies HA, dizziness.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 68, RR 16, Temp 98.2F, Wt 205 lb, BMI 29.8
+Gen: NAD, well-appearing male.
+HEENT: NC/AT, oropharynx clear, mucous membranes slightly dry.
+Neck: No JVD, no carotid bruits appreciated.
+CV: RRR, no murmurs/rubs/gallops. Distal pulses 2+ bilat.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Abd: Soft, NT/ND, +BS.
+Ext: No edema, no cyanosis.
+Skin: Warm, dry, intact.
+Neuro: Grossly nonfocal.
+
+LABS/RESULTS (reviewed today, drawn 10/25/2023):
+CBC: WBC 6.8, Hgb 14.9, Hct 44.1, Plt 232
+BMP: Na 140, K 4.3, Cl 102, CO2 25, BUN 18, Cr 1.0, Glucose 98
+Lipid panel: TC 172, LDL 96, HDL 45, TG 155
+HbA1c: 5.6%
+TSH: 2.1
+EKG (10/28/2023 in-office): NSR, rate 68, no acute ST-T changes, nonspecific old inferior Q waves noted - compare to prior if avail.
+
+ASSESSMENT:
+1. Coronary artery disease - stable, no anginal sx today. Lipids reasonably controlled on current statin. Will obtain records from prior cardiologist.
+2. Obstructive sleep apnea, on CPAP - reports adequate adherence, no significant daytime somnolence per pt.
+3. Tobacco use, former - quit smoking 8/15/1989 after smoking 2-3 packs per day for 12 yrs prior to quitting; remains abstinent per pt report today, 10/28/2023. Counseled to continue avoidance of tobacco. Lung cancer screening was briefly discussed given his smoking history; will revisit at future visit pending review of records.
+4. Obesity, mild (BMI 29.8) - discussed diet and exercise, referred to nutrition.
+
+PLAN:
+- Obtain records from prior cardiology and sleep medicine providers.
+- Continue current cardiac meds, will reassess after records reviewed.
+- Repeat lipid panel in 6 months.
+- Encourage CPAP compliance, consider sleep study download at next visit.
+- Continue tobacco abstinence, reinforced today.
+- Nutrition referral placed.
+- Follow up in 3 months or sooner if symptoms arise.
+- Pt educated on when to seek emergent care (chest pain, SOB, etc).
+
+Electronically signed: Hannah Weiss, NP, 10/28/2023.

@@ -1,0 +1,53 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 04/23/2026
+Patient: Paul Campbell (M), DOB: 04/23/1964 (age 62)
+Provider: Catherine Lindqvist, DO - Pulmonology
+
+CHIEF COMPLAINT: F/u incidental lung nodule found on CT chest 01/2026.
+
+HPI: Patient is a 62 y/o male with hx of COPD, HTN, GERD, CKD stage 3, seen via telehealth today for f/u of incidental pulmonary nodule. Pt reports no new cough, no hemoptysis, denies chest pain. States he feels 'about the same, maybe a little more short of breath with exertion but nothing new-new.' No fevers/chills/night sweats. Denies unintentional weight loss. [inaudible] portion of call re: home o2 sat monitor readings, pt states values 'in the 90s most days.'
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Smoking history: 94 pack-year smoking history
+Current status: Quit smoking
+Alcohol use: Quit drinking alcohol in 2016
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+PAST MEDICAL HISTORY: COPD, hypertension, GERD, CKD stage 3.
+
+MEDICATIONS:
+1. Tiotropium inhaler daily
+2. Albuterol HFA PRN
+3. Lisinopril 20mg daily
+4. Amlodipine 5mg daily
+5. Omeprazole 40mg daily
+6. Furosemide 20mg daily prn edema
+7. Atorvastatin 40mg daily
+8. Vitamin D 1000 units daily
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no chills, no weight loss. Eyes: no visual changes. ENT: no sore throat, no nasal congestion. Cardiovascular: no chest pain, no palpitations, occasional ankle swelling. Respiratory: chronic cough stable, mild dyspnea on exertion, denies hemoptysis. GI: occasional reflux, controlled on PPI. GU: no dysuria, no hematuria. MSK: no joint pain. Neuro: no headache, no dizziness. Skin: no rashes. Psych: no depression, no anxiety reported. All other systems reviewed and negative.
+
+PHYSICAL EXAM (per telehealth, limited): General: pt appears well, sitting comfortably, no acute distress. Vitals per home device (self-reported): BP 132/78, HR 76, reported home SpO2 94% RA. Resp: pt denies increased work of breathing on camera, no visible use of accessory muscles noted on video. Cardiac: unable to auscultate via telehealth. Abd: not examined, deferred. Ext: no visible edema on camera.
+
+LABS/RESULTS:
+CT chest 01/15/2026: 8mm nodule RUL, stable in appearance compared to prior imaging.
+CBC 03/02/2026: WBC 7.2, Hgb 13.9, Plt 210
+BMP 03/02/2026: Na 138, K 4.4, Cl 101, CO2 25, BUN 28, Cr 1.6, eGFR 48
+PFTs 02/2026: FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstruction
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, stable - given stability, plan for continued surveillance imaging per guideline, repeat CT in 6 months. Lung cancer screening discussed generally with patient; further eligibility discussion deferred to in-person visit.
+2. COPD - stable on current inhaler regimen, continue tiotropium and albuterol PRN, reinforced pulmonary hygiene.
+3. HTN - well controlled on current regimen, continue lisinopril/amlodipine.
+4. GERD - stable on omeprazole.
+5. CKD stage 3 - stable, recheck BMP in 3 months, avoid nephrotoxic agents.
+6. Tobacco - patient is a former smoker with 94 pack-year smoking history; encouraged continued abstinence, no further cessation counseling needed at this time given quit status.
+7. Alcohol - patient quit drinking alcohol in 2016, no current use reported.
+
+F/u telehealth or in-person in 6 months, sooner if symptoms worsen. Pt verbalized understanding of plan, agreeable to above. Time spent in visit approx 20 min, mostly counseling/coordination of care.
+
+Electronically signed: Catherine Lindqvist, DO

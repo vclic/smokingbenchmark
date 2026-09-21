@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Patient: Larry Clark | DOB: 4/25/1972 | Age: 53 | Sex: M
+Date of Service: 04/25/2025
+Provider: Farah Siddiqui, MD - Internal Medicine
+Visit Type: Telehealth F/U - HTN, DM2, CAD
+
+HPI:
+Pt is a 53 y.o. male, DOB 4/25/1972, seen via video visit today, 4/25/2025, for f/u of HTN and T2DM, also with hx of GERD, osteoporosis, and CAD. Pt states BP cuff readings at home running 138-145/85-90, worse in AM, ran out of lisinopril about a wk ago so refill needed, he says, um, sugars per glucometer log avg around 150-170 fasting, diet has been [inaudible] he thinks bc of stress at work, denies chest pain, denies SOB, c/o occasional heartburn worse after large meals which is not new for him takes omeprazole prn. No falls, no new fractures, last DEXA reviewed previously stable.
+
+ROS: otherwise negative except as above, denies fevers chills wt loss, cough noted occasionally productive of clear sputum in AM.
+
+SOCIAL HISTORY:
+Tobacco Use Screening (EHR templated block):
+ Current smoker: Yes
+ Type: Cigarettes
+ Hx: Pt reports smoking 2 packs per day for 20 years, then cut back to half a pack (about 10 cigarettes) per day for the past 13 years, and continues to smoke at that reduced rate currently.
+ Quit attempts: none documented this visit
+ Counseled on cessation: Yes
+Alcohol: occasional glass of wine, denies illicit drug use.
+Lives with wife, retired mechanic, denies occupational exposures currently.
+
+EXAM (limited, telehealth, pt self-reported vitals):
+BP 142/88 (home cuff), HR 78, home glucometer this AM 162, pt appears comfortable, no acute distress per video, breathing unlabored, speech clear.
+
+LABS/DATA reviewed:
+A1c from last month 7.8%, lipid panel reviewed LDL 98, HDL 42, TG 160, renal fxn stable, eGFR >60, K 4.2.
+
+ASSESSMENT/PLAN:
+1. Hypertension, suboptimally controlled - restart lisinopril 20mg daily, sent to pharmacy, recheck BP in 2 wks via home log, discussed low sodium diet again.
+2. Type 2 diabetes mellitus - A1c 7.8, will continue metformin 1000mg BID, discussed diet/exercise, consider adding second agent if not improved at next visit, pt to continue home glucose monitoring.
+3. Coronary artery disease - stable, continue aspirin 81mg daily and atorvastatin 40mg qhs, no chest pain today.
+4. Tobacco use - pt continues to smoke despite prior counseling on cessation, again advised to quit today, discussed nicotine replacement options and referral to tobacco quitline, pt states he is not ready to quit at this time but will "think about it." General discussion held regarding smoking-related health risks as part of routine preventive care; no imaging or further testing ordered today related to this discussion.
+5. GERD - stable on omeprazole, continue current dose, reinforce avoidance of trigger foods/late meals.
+6. Osteoporosis - stable, continue calcium/vitamin D, last DEXA reviewed as noted above, f/u with endocrine as previously scheduled.
+
+Follow up: telehealth or in-person visit in 4-6 wks, sooner if BP or sugars worsen, pt verbalized understanding of plan, all questions answered today.
+
+Time spent: approx 25 min telehealth visit, more than half spent on counseling/coordination of care as above.
+
+Electronically signed: Farah Siddiqui, MD

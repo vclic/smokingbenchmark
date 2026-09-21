@@ -1,0 +1,41 @@
+RESIDENT NOTE - PULMONOLOGY FOLLOW-UP
+DOS: 05/19/2023
+Author: Hannah Weiss, NP (resident); attending attestation below
+
+PT: Dennis Alexander, M, DOB 05/19/1963 (age 60 today - happy bday visit, pt notes)
+
+CC: COPD f/u
+
+HPI: 60 yo M w/ COPD, HTN, CKD3 here for routine f/u. Pt reports doing 'ok, not too bad' on current inhaler regimen, denies acute SOB at rest, occasional productive cough AM. No fevers/chills. Smoking hx reviewed in detail: pt smoked approx 3/4 pack (~15 cigs/day) for 12 yrs, then increased to 1 pack/day for 16 yrs, then cut back to 1/2 pack (~10 cigs/day) for 12 more yrs before quitting entirely. Pt states, "I haven't touched a cigarette since my 59th birthday." Confirmed quit status - pt currently a former smoker, not smoking now. No vaping or other tobacco products reported.
+
+--- COPIED FORWARD FROM VISIT 11/12/2022 (left in error, not updated) ---
+Pt seen for COPD/HTN f/u. Reports stable dyspnea on exertion, uses albuterol PRN approx 2x/wk. BP well controlled on current regimen. Denies chest pain, palpitations. CKD stable, nephrology following. Pt continues to work part-time as a driver, denies occupational exposures. Plan: continue current meds, f/u labs in 3 months, repeat spirometry at next visit. RTC 3 months.
+--- END COPIED TEXT ---
+
+ROS: Otherwise negative except as above. No hemoptysis, no unintentional weight loss.
+
+PMH/Problem List:
+- J44.9 COPD, unspecified
+- I10 Essential hypertension
+- N18.3 CKD stage 3
+- E78.5 Hyperlipidemia, unspecified (outdated, pt states resolved per PCP, still listed)
+- Z87.891 Personal history of nicotine dependence
+
+MEDS: Tiotropium inhaler daily, albuterol PRN, lisinopril 10mg daily, atorvastatin 20mg daily (per old list, unclear if still active)
+
+LABS/RESULTS:
+- CMP 05/15/2023: Cr 1.4 (baseline), eGFR 52, K 4.3, Na 138
+- CBC 05/15/2023: WBC 6.8, Hgb 14.1, Hct 42%
+- Spirometry 03/2023: FEV1 62% predicted, FEV1/FVC 0.61, consistent w/ moderate obstruction
+
+EXAM: Vitals stable, BP 132/78, HR 76, RR 16, SpO2 95% RA. Lungs: mild expiratory wheeze bilat, no crackles. CV: RRR, no m/r/g. Ext: no edema.
+
+ASSESSMENT/PLAN:
+1. COPD - moderate, stable on current regimen. Continue tiotropium + albuterol PRN. Discussed importance of continued smoking abstinence, pt reassured re: quit status maintained since 59th bday.
+2. HTN - well controlled, continue lisinopril.
+3. CKD3 - stable, monitor labs q3mo, nephrology co-managing.
+4. Health maintenance - lung cancer screening discussed given smoking hx; will revisit at future visit.
+RTC 3 months or sooner if symptoms worsen.
+
+ATTESTATION: I have reviewed and discussed this patient with the resident/NP. I concur with the assessment and plan as documented above.
+- Dr. Marcus Ferreira, Attending Pulmonology

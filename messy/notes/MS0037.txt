@@ -1,0 +1,40 @@
+CARDIOLOGY CONSULT / LETTER TO REFERRING PHYSICIAN
+Date of Service: 01/08/2024
+Patient: William Nguyen | DOB: 01/08/1954 | Age: 70 | Sex: M
+Provider: Teresa Alvarez, NP
+
+Dear Dr. Patel,
+
+Thank you for referring Mr. Nguyen, a 70-year-old man, for follow-up of his heart failure. He returns today, 01/08/2024, for routine reassessment.
+
+HPI: Mr. Nguyen reports stable exertional dyspnea, no PND, mild bilateral ankle edema, weight stable at home per his log. He denies chest pain, palpitations, or syncope. He continues to take his diuretic as prescribed and reports good adherence. He notes no recent hospitalizations. No history of tobacco use has ever been documented on this patient's chart; he confirms again today that he has never smoked and has no interest in doing so.
+
+SOCIAL HISTORY (EHR-templated block):
+Tobacco use: Never smoker
+Pack-years: N/A
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+PMH: Type 2 diabetes mellitus, GERD, obstructive sleep apnea (on CPAP, reports good compliance).
+
+Medications: Metoprolol succinate 50 mg daily, Lisinopril 10 mg daily, Furosemide 40 mg daily, Spironolactone 25 mg daily, Empagliflozin 10 mg daily, Metformin 1000 mg BID, Omeprazole 20 mg daily, Atorvastatin 40 mg daily, Aspirin 81 mg daily, Multivitamin daily.
+
+Review of Systems: Constitutional: no fever, no chills, no weight loss. HEENT: no vision changes, no hearing loss. Cardiac: as above. Respiratory: no cough, no wheeze; uses CPAP nightly. GI: occasional reflux, controlled on PPI. GU: nocturia x1. Musculoskeletal: no joint pain. Neuro: no focal deficits. Skin: no rashes. Psych: mood stable. All other systems reviewed and negative.
+
+Physical Exam: VSS, BP 128/76, HR 68, RR 16, SpO2 96% RA, weight stable from last visit. Gen: well-appearing, NAD. Neck: no JVD. Lungs: clear to auscultation bilaterally, no crackles. CV: RRR, S1S2, no murmurs, no S3. Abd: soft, non-tender, no organomegaly. Ext: trace bilateral pitting edema. Skin: warm, dry, intact.
+
+Assessment/Plan:
+1. Heart failure with reduced ejection fraction, stable - continue current GDMT, recheck BMP in 2 weeks.
+2. Type 2 diabetes mellitus - continue current regimen, A1c due at next visit.
+3. GERD - continue omeprazole.
+4. OSA - continue CPAP, encourage adherence.
+As he has never used tobacco (lifelong non-smoker), no tobacco cessation counseling was indicated today. Lung cancer screening was briefly discussed in the context of his overall preventive care given his age.
+
+Follow-up in 3 months or sooner if symptoms worsen.
+
+Sincerely,
+Teresa Alvarez, NP

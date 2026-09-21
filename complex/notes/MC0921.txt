@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+DOS: 09/05/2024
+Provider: Owen Fitzgerald, MD (Cardiology)
+Pt: Joseph Wright, M, DOB 02/14/1969 (age 55)
+
+CC: chest pain eval, f/u telehealth.
+
+HPI: 55 yo M w/ hx depression, T2DM, COPD c/o intermittent substernal CP x 2 wks, non-exertional at times, no radiation, no diaphoresis. No prior cardiac hx. Denies SOB at rest but does note baseline dyspnea c/w COPD. Reports med compliance fair. States stress at work worsening depression sx. No recent ED visits. Tobacco use discussed at length during visit (see SHx/A&P).
+
+ROS: + occasional palpitations, denies syncope, denies LE edema. Otherwise neg per template.
+
+PMH: Depression, T2DM, COPD.
+PSH: none pertinent.
+Meds: metformin, sertraline, albuterol prn, tiotropium.
+Allergies: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Yes, current
+Type: cigarettes
+Packs/day: see A/P
+Years smoked: Not on file
+Quit date: pt previously quit in 2020 but relapsed in 2021
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Vaping/e-cig use: occasional - pt reports vapes intermittently, unclear frequency
+Occupation: warehouse supervisor
+Exercise: minimal 2/2 dyspnea
+
+LABS/RESULTS:
+Troponin (09/05/2024): <0.01 ng/mL (neg)
+BNP (09/05/2024): 68 pg/mL (WNL)
+HbA1c (08/20/2024): 7.4%
+ECG (09/05/2024): NSR, no acute ST changes
+
+ASSESSMENT/PLAN:
+55 yo M, DOS 9/5/2024, atypical CP, low suspicion ACS given neg troponin/BNP and unremarkable ECG, but will trend given cardiac risk factors. Tobacco use is a major risk factor here - pt has smoked 2.5 packs per day since 1984. He also vapes occasionally per SHx. Pt states he still smokes currently and is not ready to quit at this time despite counseling. He did previously quit in 2020 but relapsed in 2021. Advised cessation resources offered again; pt declined referral today. Will continue outpt w/u w/ stress test as outpt. Continue COPD meds, DM mgmt per PCP, cont sertraline for depression. F/u 2 wks or sooner if sx worsen.
+
+ADDENDUM (later same day, Dr. Fitzgerald):
+Spoke w/ pt by phone re: lab results reviewed above, all reassuring. Reiterated importance of tobacco cessation given ongoing 2.5 ppd use since 1984; pt again voiced he is not ready to quit. Discussed but did not order any imaging for lung ca screening today. Will readdress at next visit.

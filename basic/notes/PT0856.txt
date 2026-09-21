@@ -1,0 +1,41 @@
+PROGRESS NOTE
+Date of Service: 2023-08-30
+Patient: Hung Brooks   DOB: 3/5/1953   MRN: 38963387
+
+S:
+CC: Fatigue
+HPI: Mr. Brooks is a 70-year-old man with a history of HLD, OA, and obesity who presents for fatigue. Fatigue for 5 months. Sleeping 8 hrs but not refreshed. No weight change.
+
+PMH:
+- Osteoarthritis of knees
+- Obesity (dx 2019)
+- Mixed hyperlipidemia (dx 1990)
+Meds: atorvastatin 20 mg daily; diclofenac 1% gel QID PRN
+Allergies: Latex
+SH: Lives with wife in a single-family home. He has no history of tobacco use. Social drinker. Denies illicit drugs.
+FH: Father - MI at 74. Sister - hypothyroidism.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 115/80  HR: 72  RR: 16  Temp: 97.9 F  SpO2: 99% on RA  Wt: 261 lbs  BMI: 34.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear, good air movement
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (08/19/2023): LDL 65, Cr 0.73, K 4.5
+
+A/P:
+1. Fatigue
+   - CBC, CMP, TSH, B12, vitamin D ordered. Sleep study if unrevealing.
+2. Obesity: Discussed diet and exercise.
+3. Osteoarthritis of knees: Continue PRN analgesics; home exercises.
+
+f/u 12 mo
+
+Anita Patel, MD

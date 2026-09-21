@@ -1,0 +1,50 @@
+TELEHEALTH FOLLOW-UP - PULMONOLOGY
+Patient: Mary Hall | DOB: 1/7/1951 (age 72) | Date of Service: 09/19/2023
+Provider: Nadia Haddad, MD
+
+Visit type: Telephone/video follow-up after recent ED visit for COPD exacerbation, seen today 09/19/2023.
+
+HPI: Ms Hall is a 72 year old female with hx of COPD, GERD, atrial fibrillation, and gout who presented to the ED last week with worsening dyspnea and increased sputum, treated with nebs and a burst of prednisone and dischargd home; she reports today that her breathing is improved but she still has some residual wheeze in the mornings, she states quote "I can breathe a lot easier now than I could" [inaudible] "but I still cough up some junk" and denies fever chills chest pain or hemoptysis, she is tolerating her inhalers without issue and her son has been helping with meds so compliance has been good, she did miss one dose of her tiotropium over the weekend but otherwise no missed doses reported, she denies any new leg swelling or palpitations related to her afib and states her gout has been quiet since her last flare.
+
+EHR TEMPLATED SOCIAL HISTORY BLOCK:
+Tobacco use: Current every day smoker
+Cigarettes per day: 5 (quarter pack/day)
+Years smoked: 57 years
+Type: Cigarettes
+Pack-years: Not on file
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: Former drinker, quit 2016
+Drugs of abuse: Denies
+Living situation: Lives with son
+Occupation: Retired
+
+Assessment/Plan discussion (dictated, some errors preserved): Patient is a seventy-two year old women with COPD exacerbation recently resolved, she is currently smoking cigarettes, she reports smoking about a quarter pack, that's about five cigarettes a day, and she has smoked for fifty seven years total, we discussed smoking cessation at length today and she states she is 'not quite ready' to quit but is open to using a nicotine patch, I counseled her on the risks of continued smoking including risk of further exacerbations and lung cancer, we briefly discussed lung cancer screening as a general topic of conversation today, this was purely educational in nature, will readdress at next visit.
+
+Other issues: Her GERD is stable on omeprazole, she denies any worsening reflux symptoms, her atrial fibrillation is rate-controlled on metoprolol and she remains on apixaban for anticoagulation, INR- n/a as she is on a DOAC, her gout is quiet currently on allopurinol maintenance, she was ecouraged to continue hydration and avoid high purine foods.
+
+ROS: Denies chest pain, denies palpitations today, positive for occassional morning cough with white sputum, denies fevers or chills, denies weight loss, denies hemoptysis, denies leg swelling, denies orthopnea, sleep has been fair per patient.
+
+Exam (limited, telehealth - visual only): Patient appears comfortable, speaking in full sentences without noticable distress, no visible use of accessory muscles, color appears normal on camera, no acute distress noted.
+
+Vitals per home reading reported by patient: BP 128/76, HR 78 irregular (known afib), O2 sat 94% on room air per home pulse ox.
+
+Assessment:
+1. COPD, recent exacerbation, improving - continue current inhaler regimin, albuterol prn, tiotropium daily, consider step-up therapy if symptoms worsen.
+2. Tobacco use disorder, current smoker - discussed cessation resources, patient declined referral to quitline today but open to nicotine patch, will provide prescription.
+3. GERD - stable, continue omeprazole.
+4. Atrial fibrillation - rate controlled, continue metoprolol and apixaban.
+5. Gout - quiescent, continue allopurinol.
+
+Plan:
+- Nicotine patch prescribed, start per package instructions, follow up on tolerance.
+- Continue current COPD regimen, f/u in pulm clinic in 4-6 weeks or sooner if worsening symptoms.
+- Discussed vaccination status, pt is up to date per prior note (copied forward from last visit, not verified today).
+- Pt to call if worsening dyspnea, fever, or hemoptysis.
+- Labs: none ordered today.
+- No imaging ordered today.
+- Return to clinic in 4-6 wks, sooner PRN.
+
+Electronically signed: Nadia Haddad, MD
+
+ADDENDUM (same day, later): Spoke again briefly with patient by phone this afternoon to clarify medication instructions for the nicotine patch after pharmacy called with a question, patient confirmed she understands to apply one patch daily and remove old patch before applying new one, no other changes to plan, she reiterated she is still smoking cigarettes daily as noted above and reaffirmed she is not ready to quit completely at this time but will try the patch to cut down, will continue to monitor at next visit - Nadia Haddad, MD.

@@ -1,0 +1,51 @@
+PRIMARY CARE FOLLOW-UP
+Raymond Thompson, M, DOB 9/6/1970 (age 55)
+DOS: 09/06/2025
+Author: Julia Brennan, MD, Internal Medicine
+
+CHIEF COMPLAINT: F/u HTN, DM2.
+
+PROBLEM LIST (ICD-10):
+- E11.9 Type 2 diabetes mellitus
+- I10 Essential hypertension
+- M81.0 Osteoporosis
+- E03.9 Hypothyroidism
+- E66.9 Obesity
+- N18.3 CKD stage 3
+- J45.909 Asthma, unspecified (old entry, last active 2019, still listed)
+
+HPI: Pt here for routine f/u. Reports fatigue, occasional SOB w/ exertion. Denies chest pain. Home BP log reviewed, mixed control. Blood sugars running 140-180 fasting per pt report. No new complaints re: bones or thyroid.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Smoking status: Current
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: 
+Living situation: Not on file
+Exercise: Sedentary
+
+[Copied from note dated 11/6/2021]: Social history at that visit - Tobacco: current smoker. No quantities documented in that prior note.
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - denies cough, wheeze currently. CV - denies chest pain, palpitations, edema. GI - denies n/v/d. GU - denies dysuria. MSK - denies joint pain. Neuro - denies headache, numbness. Skin - denies rash. Psych - denies depression, anxiety. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM: VSS, BP 138/86, HR 78, RR 16, T 98.2, Wt 220 lb, BMI 34. Gen - NAD, obese habitus. HEENT - normocephalic, atraumatic, no thyromegaly. CV - RRR, no m/r/g. Lungs - CTAB, no wheeze/rales appreciated today. Abd - soft, NT/ND, +BS. Ext - no edema. Skin - intact. Neuro - grossly nonfocal.
+
+MEDICATIONS: Lisinopril 20mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Alendronate 70mg weekly, Albuterol HFA PRN, Atorvastatin 40mg daily, Amlodipine 5mg daily, Vitamin D3 2000 IU daily, Calcium carbonate 600mg BID.
+
+LABS: A1c 7.8%, Cr 1.4, eGFR 52, TSH 2.1, lipid panel pending.
+
+ASSESSMENT/PLAN:
+1. HTN - suboptimal control, cont current regimen, recheck BP in 2 wks.
+2. DM2 - A1c elevated, reinforce diet, cont metformin, consider adding agent if no improvement.
+3. Tobacco use - pt continues to smoke cigarettes, currently smokes 1.5 packs per day. Advised to quit, discussed cessation resources and pharmacologic options (varenicline, NRT). Lung cancer screening discussed generally as topic for future visit.
+4. CKD stage 3 - stable, monitor labs.
+5. Osteoporosis - cont alendronate, DEXA due next year.
+6. Hypothyroidism - TSH at goal, cont current dose.
+7. Obesity - counseled diet/exercise.
+8. Asthma - stable, no exacerbations reported, cont albuterol PRN.
+
+F/u 3 months or sooner if needed.
+
+---ADDENDUM (same day, later)---
+Addendum by Dr. Brennan, 09/06/2025 1600: Pt called after visit to clarify medication instructions re: metformin dosing timing (with meals). Advised as such. No other changes to plan. Tobacco counseling handout given to pt at checkout; pt verbalized understanding of risks of continued 1.5 ppd cigarette use and expressed willingness to consider cessation aids at next visit.

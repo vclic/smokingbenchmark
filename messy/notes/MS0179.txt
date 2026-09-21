@@ -1,0 +1,25 @@
+VASCULAR SURGERY PROGRESS NOTE
+Patient: Gwendolyn Green | DOB: 4/24/1950 | Age: 74 | Sex: F
+Date of Service: 04/24/2024
+Author: Priya Raman, MD
+
+CHIEF COMPLAINT: Follow-up evaluation for peripheral artery disease, claudication symptoms.
+
+HPI: Ms. Green is a 74-year-old woman with history of PAD, obesity, OSA, HTN, HFrEF, and CAD who presents for routine vascular follow-up. She reports, "my legs still cramp up after about a block of walking, but it's a little better since I started the new medication." She denies rest pain, non-healing ulcers, or new skin changes on the lower extremities. Smoking history is notable for an 88 pack-year history; she is a former smoker who quit smoking in December 2013 and states, "I haven't touched a cigarette since I quit back in 2013 - best decision I ever made." She continues to work on weight management and reports adherence to her CPAP for OSA, though admits, "some nights I just don't feel like wearing the mask."
+
+PROBLEM LIST:
+- I70.213 Atherosclerosis of native arteries of bilateral legs with claudication
+- E66.01 Morbid obesity due to excess calories
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- I50.22 Chronic systolic (congestive) heart failure
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina
+- Z87.891 Personal history of nicotine dependence (outdated entry, retained per prior note)
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiac: denies chest pain, orthopnea, PND; mild ankle edema noted. Respiratory: denies cough, wheeze, hemoptysis. GI: denies nausea, vomiting, abdominal pain. GU: denies dysuria, hematuria. MSK: reports bilateral calf cramping with exertion as above. Neuro: denies focal weakness, numbness. Skin: no ulcers, no rashes. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, BMI 38. General: obese woman, no acute distress. Cardiac: RRR, no murmurs, trace bilateral lower extremity edema. Pulmonary: clear to auscultation bilaterally. Vascular: femoral pulses 2+ bilaterally, dorsalis pedis and posterior tibial pulses diminished bilaterally, no ulcerations, skin intact, mild pallor with elevation.
+
+MEDICATIONS: Aspirin 81 mg daily, Clopidogrel 75 mg daily, Atorvastatin 40 mg daily, Lisinopril 20 mg daily, Metoprolol succinate 50 mg daily, Furosemide 20 mg daily, Spironolactone 25 mg daily, Cilostazol 100 mg BID, Metformin 500 mg BID.
+
+ASSESSMENT/PLAN: PAD with claudication - continue cilostazol, reinforce walking program. CAD/HFrEF - stable, continue current regimen. HTN - well controlled. OSA - encourage CPAP adherence. Lung cancer screening was discussed given extensive smoking history; risks and benefits reviewed. Follow up in 3 months or sooner if symptoms worsen.

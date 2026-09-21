@@ -1,0 +1,79 @@
+Internal Medicine Progress Note
+
+Patient: SMITH, Denise    MRN: 56051291
+DOB: 10/11/1950    Age: 73 y.o.    Sex: Female
+Date of Service: 01/04/2024    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Cough and congestion
+
+Subjective:
+Denise Smith is a 73 y.o. female who presents for cough and congestion.
+Cough for 24 days, worse at night. No fevers. Grandchild was sick last week. Mild DOE with the cough.
+
+Past Medical History:
+Diagnosis	Date
+• History of CVA
+• Coronary artery disease
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral
+• Left inguinal hernia repair (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• metformin 1000 mg BID
+• aspirin 81 mg daily
+• empagliflozin 10 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former engineer.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+  Sedentary.
+
+Family History
+Mother - dementia, d. 84.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 136/80 (BP Location: Right arm, Patient Position: Sitting) | Pulse 85 | Temp 97.9 °F (Oral) | Resp 18 | Ht 5' 8" | Wt 158 lb | SpO2 99% | BMI 24.09 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Coarse breath sounds R base
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Cough
+   Post-viral cough. Honey, fluids. If persists >8 wks, CXR.
+2. History of CVA
+   No new deficits; continue antiplatelet.
+3. Coronary artery disease
+   No angina. Continue current cardiac regimen.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+Return in about 6 months (around 7/4/2024).
+
+Electronically signed by Michael Dunn, DO on 01/04/2024

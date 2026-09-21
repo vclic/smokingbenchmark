@@ -1,0 +1,36 @@
+Internal Medicine Clinic Note
+Date of Service: 01-Jul-2024
+Patient: Curtis Moore   DOB: 12/4/1972   MRN: 11717723
+
+S:
+CC: Pre-operative evaluation
+HPI: Mr. Moore is a 51 y.o. male with a history of obesity, hypothyroidism, CAD, and OSA who presents for pre-operative evaluation prior to right total knee arthroplasty. Scheduled for right total knee arthroplasty on 07/17/2024. Walks daily without limitation. Had PONV with prior surgery.
+
+PMH: OSA, Hyperlipidemia, Acquired hypothyroidism (dx 2018), Coronary artery disease (dx 2012), Class I obesity
+Meds: aspirin 81 mg dialy; levothyroxine 100 mcg daily; simvastatin 20 mg nightly
+Allergies: Penicillin (rash)
+SH: Lives alone in an apartment. He smoked about 10 cigarettes a day from age 23 until he quit at age 38. THC: occasional, smoked. EtOH: 1-2 beers/wk.
+FH: Father - MI at 74.
+ROS: 10-point ROS otherwise negative.
+
+OBJECTIVE:
+Vitals: BP: 114/73  HR: 66  RR: 18  Temp: 97.5 F  SpO2: 97% on RA  Wt: 237 lbs  BMI: 36.0
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation
+   - RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Acquired hypothyroidism: Recheck TSH.
+
+RTC 12 months.
+
+Electronically signed by Gregory Tan, MD on 7/3/2024 at 16:03

@@ -1,0 +1,30 @@
+Cardiology Progress Note - HF Follow-up
+DOS: 05/06/2026
+Author: Isaac Moreno, PA-C
+
+Pt: Karen O'Brien, F, DOB 5/6/1968 (age 58)
+
+HPI: Pt presents for routine f/u of HFrEF, HTN, OSA, obesity, OA. Pt states "I've been feeling more short of breath climbing the stairs at home" and also notes "my knees have been acting up again." No CP, no PND, mild bilat LE edema per pt. Wt stable. Med [inaudible] reconciliation done at bedside, pt reports taking meds as prescribed mostly and sometimes forgets the evening dose the the diuretic she said. Denies chest pain denies syncope denies palpitations. Sleep apnea - uses CPAP nightly per report, tolerates well although sometimes mask leaks and she wakes up.
+
+ROS: otherwise negative except as above.
+
+SOCIAL HISTORY (templated block):
+Tobacco: Current smoker. Hx: smoked 1.5 packs per day for 18 years, quit completely, stopped smoking x4 years, then restarted at 2 packs per day for 19 years and continues to smoke to present.
+Prior quit attempt: pt reports she quit in 2010 but relapsed in 2011.
+Alcohol: Not on file
+Other substance use: Marijuana - pt reports smoking marijuana a few times a month.
+Occupation: Not on file
+Living situation: lives w/ spouse
+
+Assessment/Plan: Pt continues to smoke despite counseling; tobacco cessation counseling provided again today, discussed nicotine replacement options and referral to cessation program, pt states she is "not ready yet." Discussed risks of continued smoking in setting of HFrEF and OSA. Screening for lung malignancy was discussed with pt in general terms.
+
+1. HFrEF - stable, continue GDMT, current regimen carvedilol, sacubitril-valsartan, spironolactone; recheck BMP/BNP today.
+2. HTN - well controlled, continue current antihypertensives.
+3. OSA - continue CPAP, will refer back to sleep med for mask refit given leak issue pt reports.
+4. Obesity - discussed dietary modification, referral to nutrition offered.
+5. OA - continue NSAID as needed, activity as tolerated, consider ortho referral if worsens.
+6. Tobacco use - continues to smoke despite counseling as above, encouraged cessation, will readdress at next visit.
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+[Signed electronically by Isaac Moreno, PA-C]

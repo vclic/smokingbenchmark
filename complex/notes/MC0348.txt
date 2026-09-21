@@ -1,0 +1,68 @@
+INTERNAL MEDICINE - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Rajesh Jenkins (M)  DOB: 4/9/1962 (age 63)
+Date of Service: 4/9/2025
+Author: Nadia Haddad, MD (resident), attending co-signature below
+
+CC: Follow-up HTN, DM2, routine chronic disease management.
+
+HPI: Mr. Jenkins is a 63-year-old male with history of hypertension, osteoarthritis, HFrEF, osteoporosis, PAD, and hyperlipidemia who presents today for routine follow-up. He reports doing reasonably well, denies chest pain, orthopnea, PND, or lower extremity claudication worsening. Blood sugars at home have been in the 120-160 range fasting. He continues to take his medications as prescribed, though admits occasional missed doses of atorvastatin. No new falls. He denies leg cramping with ambulation beyond baseline.
+
+[Copied forward from prior visit note dated 11/12/2024, retained per template - not updated]
+ROS: Constitutional: denies fevers, chills, night sweats, unintentional weight loss. Eyes: no visual changes. ENT: no hearing loss, no sinus congestion. CV: denies chest pain, palpitations, orthopnea, PND, but does note occasional mild lower extremity edema. Resp: denies cough, wheeze, hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation, blood in stool. GU: denies dysuria, hematuria, nocturia x1. MSK: chronic knee pain bilaterally, worse with weather changes, no new joint swelling. Skin: no rashes or lesions. Neuro: denies numbness, tingling, weakness, headache. Psych: denies depression, anxiety, sleep normal. Endocrine: denies polyuria, polydipsia beyond baseline. Heme/Lymph: no easy bruising, no lymphadenopathy.
+PHYSICAL EXAM (from 11/12/2024, carried forward in error by template):
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 198 lb
+Gen: well-appearing, NAD
+HEENT: normocephalic, atraumatic, PERRL, EOMI, oropharynx clear
+Neck: no JVD, no thyromegaly
+CV: RRR, S1 S2 normal, no murmurs appreciated, trace bilateral LE edema
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abd: soft, non-tender, non-distended, normal bowel sounds
+Ext: no cyanosis, clubbing; trace edema noted; PT/DP pulses 1+ bilaterally
+Neuro: alert and oriented x3, CN II-XII grossly intact, strength 5/5 throughout
+Skin: warm, dry, intact, no lesions
+[End copied section]
+
+Current vitals (4/9/2025): BP 132/78, HR 72, RR 16, Temp 98.4F, Wt 196 lb, SpO2 97% RA.
+
+Current Exam (today):
+Gen: alert, comfortable, NAD
+CV: RRR, no murmurs, no S3/S4 appreciated today, trace pedal edema unchanged
+Lungs: CTAB
+Abd: soft, NT/ND
+Ext: no acute changes, pulses palpable
+Neuro: nonfocal
+
+Medications:
+1. Lisinopril 20 mg daily
+2. Metoprolol succinate 50 mg daily
+3. Furosemide 20 mg daily
+4. Spironolactone 25 mg daily
+5. Metformin 1000 mg BID
+6. Atorvastatin 40 mg daily
+7. Aspirin 81 mg daily
+8. Alendronate 70 mg weekly
+9. Cilostazol 100 mg BID
+10. Acetaminophen 500 mg PRN joint pain
+11. Vitamin D3 2000 IU daily
+12. Calcium carbonate 600 mg daily
+
+Social History: Former smoker; quit smoking in 2021. Denies current alcohol use beyond occasional social drinking. Lives with spouse, retired postal worker.
+
+Labs reviewed (from 3/28/2025): A1c 7.2%, LDL 88, Cr 1.1, eGFR 68, K+ 4.3, BNP 210.
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled today at 132/78. Continue current regimen.
+2. Type 2 diabetes mellitus - A1c 7.2%, reasonable control. Continue metformin, reinforce diet/exercise.
+3. Heart failure with reduced ejection fraction - stable, no signs of decompensation on exam. Continue GDMT as above, will trend BNP.
+4. Peripheral artery disease - stable, ABI has not changed significantly per vascular records. Continue cilostazol, encourage walking program.
+5. Osteoporosis - continue alendronate, calcium, vitamin D. DEXA due in 1 year.
+6. Hyperlipidemia - LDL at goal, continue atorvastatin.
+7. Osteoarthritis - continue acetaminophen PRN, discussed weight management and PT referral.
+8. Tobacco history - patient is a former smoker who quit smoking in 2021. Smoking history is notable: he smoked a quarter pack (about 5 cigarettes) per day for 13 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for 24 years before quitting. Given his age of 63 and extensive smoking history, lung cancer screening was discussed with the patient, including risks and benefits of low-dose imaging; no imaging ordered today, further discussion to occur at next visit. Encouraged continued abstinence from tobacco.
+
+Follow-up in 3 months, sooner if symptoms worsen. Labs to be repeated prior to next visit.
+
+---
+Attending Attestation: I have seen and examined the patient with Dr. Haddad and agree with the assessment and plan as documented above, with minor additions discussed with the resident. - Dr. Okafor, Attending
+
+ADDENDUM (same day, 4/9/2025, 3:45 PM): Patient called back after visit requesting clarification on his lung cancer screening discussion; patient states he understood the discussion and will think about it further. No changes to plan. Reiterated importance of continued smoking cessation maintenance given his history as a former smoker who quit in 2021. - N. Haddad, MD

@@ -1,0 +1,71 @@
+TELEHEALTH VISIT NOTE
+Patient: William Nelson | DOB: 3/15/1956 (age 70) | Sex: M
+Date of Service: 06/01/2026
+Provider: Teresa Alvarez, NP
+Dept: Family Medicine
+Visit type: Telehealth - medication refill visit
+
+CHIEF COMPLAINT: Refill meds, brief f/u.
+
+HPI:
+70 y/o M with hx HFrEF, OSA, T2DM, AFib, CKD3 c/o no new sx today. Calls in for refills of lisinopril, metoprolol, apixaban, furosemide, and metformin. Denies chest pain, orthopnea, PND. Reports mild ankle swelling, stable from baseline. Sleeping w/ CPAP most nights, states compliance is 'ok.' No hypoglycemic episodes reported. No palpitations. Pt states he continues to smoke despite prior counseling, has tried to cut back but unsuccessful; declines referral to tobacco quitline again today.
+
+PROBLEM LIST (partial, some entries outdated per chart review):
+- I50.22 Chronic systolic (congestive) heart failure
+- M19.90 Osteoarthritis, unspecified site (outdated, likely knee-specific per prior note)
+- G47.33 Obstructive sleep apnea
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Unspecified atrial fibrillation
+- N18.30 Chronic kidney disease, stage 3 (unspecified)
+- Z87.891 Personal history of nicotine dependence (see note - pt is CURRENT smoker, not just hx)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Current every day smoker
+Type: Cigarettes
+Amount: 1/4 pack per day (approx 5 cigs/day)
+Years smoked: 52 years
+Pack-years: Not on file
+Quit date: N/A - still smoking
+Smokeless tobacco: Not on file
+E-cigarette/vape use: None reported
+Alcohol use: Former drinker, quit in 2004
+Alcohol type: Not on file
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Not on file
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted in HPI. 10-point ROS reviewed, negative for fever, chills, weight loss, hemoptysis, dysuria.
+
+VITALS (per home monitor, pt reported):
+BP 128/78, HR 74 irregular, wt 210 lb (stable), SpO2 96% RA
+
+EXAM (limited via video):
+Gen: NAD, comfortable, conversant.
+CV: irregularly irregular rhythm noted on visual/audio, no acute distress.
+Resp: no visible increased WOB, no cough during visit.
+Ext: trace bilateral ankle edema per pt report and visible on camera.
+Skin: no obvious lesions on visible areas.
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable per pt report, continue lisinopril, metoprolol succinate, furosemide. F/u with cardiology as scheduled. Refill furosemide 40mg daily x90 days.
+2. AFib - on apixaban, continue anticoagulation, refill apixaban 5mg BID x90 days. HR controlled per report.
+3. T2DM - continue metformin 1000mg BID, refill x90 days. A1c due, will order labs.
+4. CKD3 - stable, monitor renal function w/ labs at next visit, avoid NSAIDs (counseled re: OA mgmt without NSAIDs).
+5. OSA - continue CPAP, encourage improved compliance, will refer to sleep med if not improved by next visit.
+6. OA - continue acetaminophen PRN, avoid NSAIDs given CKD.
+7. Tobacco use - pt continues to smoke despite counseling today; discussed health risks including cardiopulmonary and renal effects; encouraged cessation, offered nicotine replacement therapy, pt declined at this time. Will readdress at next visit.
+8. Alcohol - pt quit drinking alcohol in 2004, no current concerns, continue to monitor.
+
+Labs ordered: BMP, A1c, lipid panel.
+F/u: Telehealth or in-person in 3 months, sooner if symptoms worsen.
+
+Time spent: 18 minutes, >50% counseling/coordination of care.
+
+Electronically signed: Teresa Alvarez, NP
+
+---
+ADDENDUM (same day, later):
+Addendum added 06/01/2026 1645 by Teresa Alvarez, NP:
+Pt called back after visit to clarify he is out of metformin today, sent refill to pharmacy stat. Also wanted to note for the record - reviewed smoking hx again with pt on phone, he confirmed he smokes approx a quarter pack (5 cigs) daily and has done so for 52 years total, continues despite multiple counseling attempts over the years. No changes to plan otherwise. Pt verbalized understanding of risks discussed.
+End addendum.

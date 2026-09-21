@@ -1,0 +1,47 @@
+Cardiology Clinic Note
+Date of Service: 14-Apr-2026
+Patient: Dale Lopez   DOB: 9/17/1961   MRN: 62250585
+
+S:
+CC: AFib follow-up
+HPI: Mr. Lopez is a 64 year old male with a history of asthma, OA, AFib, and HLD who presents for atrial fibrillation follow-up. No palpitations. No bleeding on anticoagulation.
+
+PMH:
+- Paroxysmal atrial fibrillation (dx 2004)
+- Essential hypertension
+- Asthma
+- Hyperlipidemia
+- Primary OA, bilateral knees
+Meds: acetaminophen 500 mg 2 tabs TID PRN; diltiazem ER 120 mg daily; amlodipine 10 mg daily; ezetimibe 10 mg daily; rivaroxaban 20 mg daily; budesonide-formoterol 160/4.5 2 puffs BID; rosuvastatin 20 mg daily
+Allergies: NKDA
+Social History:
+- Lives alone in an apartment.
+- Works as an engineer.
+- No alcohol.
+- No illicit drug use.
+- Drives.
+FH: Mother - dementia, d. 84.
+ROS: Resp neg, MSK neg, GU neg, GI neg, Gen neg, CV neg
+
+OBJECTIVE:
+Vitals: BP: 126/78  HR: 66  RR: 16  Temp: 98.7 F  SpO2: 95% on RA  Wt: 173 lbs  BMI: 23.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+A/P:
+1. Atrial fibrillation
+   - CHA2DS2-VASc 1. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. Current smoker
+   - Pt continues to smoke, 2 ppd for 50 yrs. Advised to quit; >5 min spent counseling. Not ready to quit at this time. Offered NRT - declined. LDCT for lung cancer screening ordered after SDM.
+
+Follow up in 12 months or sooner PRN.
+
+Quentin Hale, PA-C

@@ -1,0 +1,48 @@
+NP New Patient Visit - Primary Care
+Patient: Luis Allen, M, DOB 5/30/1962 (age 62)
+DOS: 05/30/2024
+Author: Teresa Alvarez, NP
+
+CC: Establish care.
+
+HPI: 62 yo M here to establish PCP after moving to area. Hx of OSA and COPD, per pt records from prior clinic (not yet obtained). Reports occas SOB w exertion, uses CPAP nightly per pt report, compliance unclear - will request download data. No chest pain, no hemoptysis, no fevers. Denies current cough productive of sputum, some wheeze in am. Here today mainly for med refills and general f/u.
+
+ROS: Otherwise negative except as above. + occasional GERD sx. Denies palpitations, edema.
+
+PMH: COPD, OSA.
+PSH: None reported.
+Meds: Albuterol PRN, uses CPAP.
+Allergies: NKDA.
+
+Social History:
+- Tobacco: Former smoker. Hx notable - smoked approx 1/4 pack/day (~5 cigs/day) x16 yrs, then quit completely x4 yrs, then restarted at 3/4 pack/day (~15 cigs/day) x15 yrs before quitting for good. Pt states he quit smoking at age 51 and has not smoked since.
+- EtOH: Quit drinking alcohol in 2003, denies current use.
+- Illicit drugs: denies.
+- Occupation: retired.
+- Lives with spouse.
+
+Family Hx: Father w/ CAD, mother w/ DM2.
+
+Vitals: BP 132/78, HR 76, RR 16, SpO2 94% RA, Wt 198 lb, Ht 5'9".
+
+Exam: Gen - NAD, well-appearing. Lungs - mild exp wheeze bilat bases, no crackles. CV - RRR, no m/r/g. Ext - no edema. Neuro - grossly intact.
+
+Labs/Results (reviewed today, from outside records):
+- CBC 04/15/2024: WBC 6.8, Hgb 14.9, Hct 44.2, Plt 230.
+- BMP 04/15/2024: Na 140, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.9, Glu 94.
+- Lipid panel 04/15/2024: TC 188, LDL 112, HDL 46, TG 150.
+- A1c 04/15/2024: 5.6%.
+- Spirometry (outside, 03/2024): FEV1/FVC reduced, consistent w/ obstructive pattern, in line with known COPD dx.
+
+Assessment/Plan:
+1. COPD - stable per hx and outside spirometry. Continue albuterol PRN. Consider adding long-acting bronchodilator, will review outside pulm records. Pt no longer smokes, which is favorable for disease course. Lung cancer screening was discussed given smoking hx; will revisit at next visit once records obtained.
+2. OSA - continue CPAP, will request compliance download. Encourage nightly use.
+3. GERD sx - trial OTC omeprazole, f/u in 4-6 wks.
+4. Health maintenance - UTD on colonoscopy per pt report, will confirm. Discussed diet/exercise.
+5. Former tobacco use (quit smoking at age 51) - counseled on continued avoidance, congratulated pt on cessation.
+6. EtOH - quit in 2003, no current concerns.
+RTC 3 months or sooner PRN.
+
+---
+ADDENDUM (later same day, 05/30/2024, T. Alvarez NP):
+Spoke w/ pt by phone re: pharmacy issue for albuterol refill, resolved - sent to correct pharmacy per pt request. No other changes to plan above. Pt reiterated he has not smoked since quitting at age 51 and denies any current tobacco use in any form (no vaping, no cigars). No new sx reported at this time.

@@ -1,0 +1,50 @@
+Pulmonology Progress Note
+DOS: 04/16/2023
+Author: Michael Dunn, DO
+
+Pt: Rivera, Marilyn F, DOB 1/18/1961, age 62
+
+CC: COPD f/u
+
+HPI: 62 yo F w/ h/o COPD, HTN, osteoporosis, hypothyroidism, AFib, obesity, BPH presents for routine f/u of COPD. Reports mild increase in dyspnea on exertion, denies fever/chills, cough stable, occasional wheeze noted esp w exertion. No recent hospitalizations. Uses albuterol prn, tiotropium daily w some relief. Compliance c meds reviewed, pt states takes levothyroxine and apixaban as prescribed. No chest pain, no palpitations currently although hx AFib on rate control.
+
+SOCIAL HISTORY: Smoking hx reviewed in detail today - pt smoked approx half a pack (about 10 cigarettes) per day for 9 years, then stopped completely for 8 years, then restarted at a quarter pack (about 5 cigarettes) per day for 11 years before quitting for good. Pt quit smoking 17 years ago and has remained smoke-free since. No vaping, no other tobacco products. Denies illicit drug use. Rare EtOH.
+
+[Copied from note dated 11/16/2020, unchanged]: Smoking status - former smoker. (No quantities documented in that note.)
+
+ROS: Otherwise negative except as above. Denies hemoptysis, denies unintentional weight loss, denies night sweats.
+
+PMH: HTN, osteoporosis, hypothyroidism, AFib, obesity, BPH
+PSH: none significant
+Meds: levothyroxine 75mcg qd, apixaban 5mg bid, lisinopril 20mg qd, alendronate 70mg weekly, tiotropium inh qd, albuterol prn
+Allergies: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irreg irreg, RR 18, Temp 98.4F, SpO2 94% RA, Wt 210 lb, BMI 36.2
+Gen: NAD, obese habitus
+HEENT: PERRLA, no JVD
+Lungs: mild expiratory wheeze bilat bases, decreased breath sounds at bases, no crackles
+CV: irregularly irregular rhythm, no m/r/g
+Abd: soft, obese, NT/ND
+Ext: no edema
+Neuro: grossly intact
+
+LABS/RESULTS:
+- CBC (04/16/2023): WBC 7.1, Hgb 13.2, Plt 245
+- BMP (04/16/2023): Na 139, K 4.2, Cr 0.9, Glu 101
+- TSH (03/02/2023): 2.1 (WNL)
+- PFTs (01/10/2023): FEV1 62% predicted, FEV1/FVC 0.61 c/w moderate obstruction
+- CXR (01/10/2023): hyperinflation, no acute infiltrate
+
+ASSESSMENT/PLAN:
+1. COPD, moderate - continue tiotropium, albuterol prn. Reviewed inhaler technique. Pulm rehab discussed. General discussion held regarding lung cancer screening as topic of ongoing preventive care; no further determination made today and no imaging arranged as part of this visit.
+2. HTN - stable on current regimen, cont lisinopril
+3. Osteoporosis - cont alendronate, f/u DEXA per PCP
+4. Hypothyroidism - TSH WNL, cont levothyroxine
+5. AFib - rate appears controlled, cont apixaban, f/u cardiology
+6. Obesity - counseled diet/exercise
+7. BPH - stable, no new urinary sx, f/u urology as needed
+
+RTC 3 months or sooner if worsening sx. Pt verbalizes understanding of plan.
+
+Michael Dunn, DO

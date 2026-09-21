@@ -1,0 +1,40 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Michael Barnes (M), DOB 7/12/1964, Age: 61
+Date of Service: 12/04/2025
+Author: Elena Markovic, MD, Family Medicine
+
+Dear Dr. colleague,
+
+I had the pleasure of seeing Michael Barnes today, age 61, for his annual wellness visit. He continues to do well overall; GERD, hypertension, and hyperlipidemia are stable on current regimen.
+
+HPI: Patient denies chest pain, dyspnea, or dysphagia. Reports occasional heartburn managed with omeprazole. BP well controlled on lisinopril. No new complaints today.
+
+--- COPIED FORWARD FROM VISIT DATED 10/4/2023 ---
+SOCIAL HISTORY (as documented 10/4/2023): Former smoker. Patient reports quitting smoking in the past; no further detail obtained at that visit. Alcohol: occasional. Exercise: walks 3x/week. Diet: reports trying to reduce sodium intake given HTN.
+ASSESSMENT/PLAN (10/4/2023, copied forward in error): Continue current antihypertensive regimen, recheck lipid panel in 6 months, GERD stable on PPI.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (EHR TEMPLATE - updated today):
+Tobacco use: Former smoker
+Smoking details: Patient smoked approximately half a pack (about 10 cigarettes) per day for 19 years, then cut back to about a quarter pack (approximately 5 cigarettes) per day for an additional 20 years before quitting entirely. He states he quit smoking 5 years after his wife passed away, which occurred in 2017. He has not smoked since and denies any current tobacco use.
+Smokeless tobacco: Not on file
+E-cigarette/vaping: Never
+Alcohol use: Occasional, social
+Illicit drug use: Not on file
+Occupation: Retired
+Living situation: Lives alone
+
+Assessment/Plan:
+1. Hypertension - stable, continue lisinopril, recheck BP at next visit.
+2. Hyperlipidemia - continue statin, lipid panel due in 6 months.
+3. GERD - continue omeprazole, stable symptoms.
+4. Health maintenance - discussed age-appropriate cancer screenings; discussed general risks of prior smoking history and lung health, though no imaging ordered at this time. Discussed importance of continued abstinence from tobacco, patient reassured he has no interest in resuming.
+5. Return to clinic in 1 year or sooner if concerns arise.
+
+Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Elena Markovic, MD
+
+--- ADDENDUM (same day, later) ---
+Addendum 12/04/2025 16:40: Patient called after visit to clarify that he has never used vaping products, consistent with chart documentation. No changes to plan. Reviewed labs from last visit, all within acceptable limits. No further action needed at this time.

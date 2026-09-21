@@ -1,0 +1,50 @@
+GERIATRICS RESIDENT NOTE (with attending attestation)
+Date of Service: 06/16/2024
+Author: Hannah Weiss, NP (resident); attending co-signed
+
+Patient: Kathleen O'Brien, F, DOB 3/1/1973, age 51
+
+CC: Geriatric assessment, follow-up of multiple chronic conditions
+
+HPI: Ms. O'Brien presents today for comprehensive geriatric assessment. She reports fatigue and occasional dyspnea on exertion. Hx of CAD, HFrEF, atrial fib, osteoporosis, obesity. She denies chest pain today. Med adherence reviewed, pt states she takes meds with breakfast most days sometimes forgets evening dose.
+
+[COPY-FORWARD FROM PRIOR VISIT 11/03/2021 - left in note by error]
+Pt seen for routine f/u. BP 138/82, HR 76 irreg irreg. Lungs clear b/l no rales no wheezes. Cardiac exam reveals irregular rhythm, no murmurs appreciated. Extremities no edema. Pt reports doing well overall, ambulates with cane. Osteoporosis stable on current tx, no new fractures. Continue current meds, f/u in 6 months. Labs reviewed - BMP wnl, TSH wnl. Pt counseled on fall prevention and home safety.
+[END COPY-FORWARD]
+
+PMH: CAD (s/p MI in 2002), obesity, atrial fibrillation, osteoporosis, HFrEF
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking details: Pt smoked about half a pack (approx 10 cigarettes) per day for 8 years, then increased her smoking to 3 packs per day for 7 years, after which she quit smoking entirely.
+Quit timeframe: Pt quit smoking 5 years after her heart attack in 2002 (exact quit year not specified in chart)
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Lives with daughter
+Exercise: Sedentary, limited by fatigue
+
+ROS: Otherwise negative except as noted in HPI. Denies fevers chills night sweats. Denies hemoptysis.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 88 irregularly irregular, RR 16, SpO2 96% RA, Wt 198 lb
+Gen: NAD, well-groomed elderly female
+CV: irregularly irregular rhythm, no murmurs rubs or gallops
+Resp: CTAB, no wheezes rales rhonchi
+Abd: soft NT ND
+Ext: trace bilat edema, no clubbing
+Neuro: alert oriented x3, gait steady with cane
+
+ASSESSMENT/PLAN:
+1. CAD, s/p MI 2002 - continue statin, ASA, monitor lipids
+2. HFrEF - continue GDMT, monitor daily weights, f/u BNP
+3. Atrial fibrillation - continue anticoagulation, rate control adequate
+4. Osteoporosis - continue bisphosphonate, calcium/vit D, DEXA due next yr
+5. Obesity - discussed diet and activity as tolerated, referral to nutrition considered
+6. Former smoking history discussed - reinforced importance of continued abstinence, general lung health counseling provided
+7. Health maintenance - immunizations reviewed, pt due for pneumococcal booster
+
+Follow-up in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Electronically signed: Hannah Weiss, NP
+Attestation: I have personally seen and examined the patient and agree with the above assessment and plan as documented by the resident. - Dr. Attending Physician

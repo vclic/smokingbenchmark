@@ -1,0 +1,52 @@
+RESIDENT NOTE - PULMONOLOGY
+Date of Service: 09/25/2024
+Author: Teresa Alvarez, NP (resident); attending attestation below
+
+PATIENT: Rosa Nelson, F, DOB 07/23/1972 (age 52)
+
+CC: COPD follow-up
+
+HPI: Pt is a 52 yo F w/ hx asthma, afib, CAD, PAD presenting for routine COPD f/u. Reports mild dyspnea on exertion, stable from last visit, denies increased sputum or fevers. Uses albuterol PRN w/ good relief. No recent ER visits or hospitalizations. Pt states she quit drinking alcohol in 2010 and has maintained sobriety since. Sleep and appetite stable.
+
+--- COPIED FORWARD FROM VISIT 03/14/2022 ---
+Pt seen for routine f/u of COPD/asthma overlap. Reports occasional wheeze w/ exertion, uses rescue inhaler 2-3x/wk. Denies chest pain, denies PND/orthopnea. Cardiac: afib rate controlled on current regimen, no palpitations. PAD: denies claudication at rest, ambulates without difficulty. Vitals stable, RA sat 96%. Plan at that time: continue current inhalers, f/u PFTs, cont anticoag per cardiology.
+--- END COPIED TEXT ---
+
+ROS: Otherwise negative except as above. No hemoptysis, no unintentional weight loss.
+
+PMH: Asthma, atrial fibrillation, CAD, PAD
+PSH: none significant
+Meds: albuterol MDI PRN, apixaban, atorvastatin, metoprolol succ, aspirin 81mg
+Allergies: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: 
+Living situation: Not on file
+Exercise: Not on file
+
+Note: pt reports she no longer smokes; further details discussed in A/P below.
+
+OBJECTIVE:
+Vitals: BP 128/76, HR 78 irreg irreg, RR 16, SpO2 95% RA, Temp 98.2F
+Gen: NAD, comfortable
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: mild expiratory wheeze bilat bases, no crackles
+Ext: no edema, PAD-related skin changes noted on b/l LE, pulses diminished but palpable
+
+Labs (reviewed): BNP wnl, CBC unremarkable, INR therapeutic
+
+ASSESSMENT/PLAN:
+1. COPD/asthma overlap - stable. Pt has a smoking history of 22 years total but no longer smokes; she quit sometime in the early 2010s. Continue current inhaler regimen, reinforce smoking cessation maintenance (pt already abstinent, praised for continued abstinence). Lung cancer screening was discussed with pt given hx, will revisit at future visit.
+2. Atrial fibrillation - rate controlled, continue apixaban and metoprolol, f/u w cardiology.
+3. CAD - continue statin/ASA, stable.
+4. PAD - stable, no claudication reported today, continue current mgmt, f/u vascular surgery as scheduled.
+5. Alcohol use - pt quit drinking in 2010, no concerns currently, continue to monitor.
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+ATTESTATION: I have reviewed and discussed this case with the resident/NP and agree with the assessment and plan as documented above. - Attending Pulmonology
+
+[end of note]

@@ -1,0 +1,77 @@
+Adult Medicine Office Visit
+
+Patient: BAKER, Leonard    MRN: 58976408
+DOB: 06/17/1948    Age: 75 y.o.    Sex: Male
+Date of Service: 10/09/2023    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Leonard Baker is a 75 y.o. male who presents for diabetes follow-up.
+Most recent A1c 6.5% (previously 7.3% in April 2023). Rarely checks glucose at home. One episode of shakiness relieved with juice. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus
+• Primary OA, bilateral knees
+• Persistent AF
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2014)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 1000 mg BID
+• insulin glargine 20 units nightly
+• acetaminophen 500 mg 2 tabs TID PRN
+• rivaroxaban 20 mg daily
+• diltiazem ER 120 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+
+Family History
+Mother - CHF, d. age 88.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 133/80 (BP Location: Right arm, Patient Position: Sitting) | Pulse 65 | Temp 98.5 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 166 lb | SpO2 98% | BMI 25.29 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 6.5% - at goal; continue current regimen. Diabetic eye exam referral.
+2. Persistent AF
+   Rate controlled; continue anticoagulation.
+3. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+RTC 3 months.
+
+Electronically signed by Farah Siddiqui, MD on 10/09/2023

@@ -1,0 +1,76 @@
+TELEHEALTH VISIT NOTE
+Patient: Jose Powell (M), DOB 2/18/1955, Age: 69
+Date of Service: 02/18/2024
+Provider: Michael Dunn, DO - Cardiology
+Visit Type: Telehealth, chest pain evaluation
+
+CHIEF COMPLAINT: Chest pain, ongoing eval.
+
+HPI:
+69 y/o male with hx of HFrEF, CKD stage 3, HTN, presenting via video visit for eval of intermittent chest discomfort x several days. Pt states, "It feels tight, like someone's sitting on my chest, comes and goes." Denies radiation to arm, denies syncope. States, "I get short of breath walking to the mailbox now." No fevers, no cough noted today.
+Smoking history reviewed in detail during visit given cardiopulmonary risk factors. Pt reports he smokes about half a pack (approx 10 cigarettes) per day, and has done so for 53 years. When asked about quitting, pt states, "I've tried before, doc, but I'm just not ready to quit right now." Encouraged to consider cessation resources; pt remains ambivalent.
+Note: the templated field below auto-populated from an old intake form and reads "Smoking status: Never Smoker" - this is INCORRECT and does not reflect current history; correct history as documented above (half pack/day x53 years, still smoking).
+
+PMH/Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- N18.30 CKD stage 3, unspecified
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified (outdated, last addressed 2021, pt reports lipids now normal per PCP)
+- M54.5 Low back pain (outdated, resolved per pt)
+
+Templated Smoking Field (auto-populated, outdated - see HPI for correction):
+Smoking status: Never Smoker
+
+ROS (templated, reviewed all systems):
+Constitutional: no fever, no chills, no unintentional weight loss.
+Eyes: no visual changes.
+ENT: no sore throat, no congestion.
+Cardiovascular: + chest tightness as above, + exertional dyspnea, denies palpitations, denies orthopnea today though has hx of PND.
+Respiratory: denies cough, denies hemoptysis, denies wheeze.
+GI: denies nausea, vomiting, diarrhea, abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: denies joint pain, denies swelling.
+Skin: no rashes.
+Neuro: denies headache, denies dizziness, denies focal weakness.
+Psych: denies depression, denies anxiety (though pt seems anxious per tele-visit observation).
+Endocrine: denies polyuria, polydipsia.
+Heme/Lymph: no easy bruising, no lymphadenopathy reported.
+Allergic/Immunologic: no known allergies.
+
+PHYSICAL EXAM (limited, via telehealth):
+General: alert, appears comfortable, no acute distress noted on camera.
+HEENT: no gross abnormalities visualized.
+Neck: unable to assess JVD adequately via video.
+Cardiovascular: unable to auscultate; pt denies current chest pain during visit; pt reports no leg swelling today.
+Respiratory: pt denies increased work of breathing on camera; speaking in full sentences.
+Abdomen: pt reports no distension, no tenderness on self-palpation.
+Extremities: pt reports no edema currently, no calf tenderness.
+Skin: no visible rashes or lesions on camera.
+Neuro: alert, oriented x3, speech clear, no facial droop noted.
+
+MEDICATIONS (per chart, reconciled today):
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Furosemide 40 mg PO daily
+5. Atorvastatin 20 mg PO qHS
+6. Aspirin 81 mg PO daily
+7. Empagliflozin 10 mg PO daily
+8. Potassium chloride 10 mEq PO daily
+9. Multivitamin PO daily
+10. Sodium bicarbonate 650 mg PO BID (for CKD)
+
+ASSESSMENT/PLAN:
+1. Chest pain, atypical features, in setting of HFrEF - will obtain EKG at local lab, repeat troponin if available, consider stress test if symptoms persist. Pt advised to go to ER if pain worsens or associated with diaphoresis/radiation.
+2. HFrEF - continue GDMT as above, monitor weights daily, low sodium diet reinforced.
+3. CKD stage 3 - continue to monitor renal function, recheck BMP in 4 weeks.
+4. HTN - BP reportedly well controlled per home readings, continue current regimen.
+5. Tobacco use - counseled on cessation given cardiopulmonary risk; pt not ready to quit at this time; offered nicotine replacement therapy and referral to quit line, pt declined for now but will reconsider. Discussed general lung cancer screening guidelines briefly with pt; further discussion deferred to PCP.
+
+Follow up in 2 weeks or sooner if symptoms worsen. Telehealth visit lasted approx 20 minutes.
+
+-- Michael Dunn, DO
+
+ADDENDUM (same day, later):
+Pt called back later this afternoon requesting clarification on medication instructions for furosemide dosing. Reviewed with pt over phone; instructed to continue current dose and call if weight increases >2 lbs in 24 hrs or >5 lbs in a week. Pt verbalized understanding. No new complaints reported at this time. Will continue to monitor per plan above.
+-- Michael Dunn, DO

@@ -1,0 +1,83 @@
+Adult Medicine Clinic Note
+
+Patient: ALLEN, David    MRN: 28910789
+DOB: 05/31/1964    Age: 61 y.o.    Sex: Male
+Date of Service: 01/20/2026    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Left knee pain
+
+Subjective:
+David Allen is a 61 y.o. male who presents for left knee pain.
+Left knee pain for 4 months, worse with stairs. Twisted it stepping off a curb. He quit at the time of his PCI and has 9 pack-years of exposure. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• CAD s/p PCI/stent to RCA (2018)
+• GERD
+• Type 2 diabetes mellitus
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 1000 mg BID
+• clopidogrel 75 mg daily
+• pantoprazole 40 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Works as a truck driver.
+  Uses a nicotine vape daily; no combustible cigarettes since quitting.
+  Social drinker.
+  Denies illicit drugs.
+  Exercise: walks daily.
+
+Family History
+Sister - breast cancer at 59.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 116/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 96 | Temp 98.0 °F (Oral) | Resp 18 | Ht 5' 8" | Wt 143 lb | SpO2 99% | BMI 21.76 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+MSK: L knee: no effusion, crepitus, full ROM with pain at end flexion
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (1/16/2026): A1c 8.4%, LDL 75, Cr 1.10, K 4.2
+
+Assessment & Plan
+1. Left knee pain
+   Likely OA flare. Ice, acetaminophen, PT.
+2. Type 2 diabetes mellitus
+   UACR ordered.
+3. ASCVD
+   Stable. Continue secondary prevention.
+
+Return in about 3 months (around 4/20/2026).
+
+Electronically signed by Daniel Reyes, MD on 01/20/2026

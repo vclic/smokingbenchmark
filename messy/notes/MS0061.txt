@@ -1,0 +1,41 @@
+HISTORY AND PHYSICAL
+Patient: Kathleen Johnson (DOB 3/6/1957), 67 y/o female
+Date of Service: 05/13/2024
+Author: Elena Markovic, MD
+Visit: Hospital discharge follow-up after pneumonia (Primary Care)
+
+HPI: Ms. Johnson is a 67-year-old female s/p recent hospitalization for pneumonia, now here for f/u. She states "I'm breathing a lot better than I was last week" though still c/o mild fatigue and occasional cough productive of clear sputum. She denies fever, chills, or chest pain. She reports sleeping better with CPAP use though admits "I don't always put the mask on [inaudible] because it fogs up my glasses and then I just take it off and go back to sleep." No new SOB at rest, some exertional dyspnea persists which she attributes to deconditioning during admission.
+
+--- Copied forward from visit dated 11/02/2022 ---
+PATIENT reports doing well overall, PAD stable, ABI unchanged, denies claudication at rest, gout flares occurring approx twice yearly managed with colchicine PRN, osteoporosis f/u with DEXA due, GERD symptoms controlled on omeprazole, continues to follow with podiatry annually for foot checks given PAD, no new ulcerations noted, pedal pulses palpable bilaterally though diminished, pt educated on foot care and smoking cessation at that time, pt states she understands importance of not smoking for vascular health, will continue to encourage.
+--- end copied text ---
+
+SOCIAL HISTORY / TOBACCO:
+[EHR Tobacco Use Template]
+Smoking status: Former smoker
+Years smoked: 24 years
+Quit age: 43
+Spouse tobacco use: Yes, spouse currently smokes
+Alcohol: occasional glass of wine
+Drug use: denies
+
+PROBLEM LIST:
+1. I70.209 - Peripheral artery disease, unspecified extremity
+2. G47.33 - Obstructive sleep apnea (on CPAP)
+3. M10.9 - Gout, unspecified
+4. M81.0 - Osteoporosis, age-related without pathological fracture
+5. K21.9 - GERD
+6. J18.9 - Pneumonia, unspecified organism (recent admission, resolving)
+7. I25.10 - CAD (outdated, no longer active per cardiology 2021 note)
+
+EXAM: Vitals stable, afebrile, SpO2 94% on room air improved from discharge. Lungs with mild bibasilar crackles, improved from prior, no wheeze. CV RRR, no murmurs. Extremities warm, pedal pulses diminished but palpable, no edema.
+
+ASSESSMENT/PLAN:
+- Pneumonia, resolving: continue current abx course, f/u CXR in 4-6 wks
+- PAD: continue cilostazol, discuss vascular risk reduction including tobacco exposure at home given spouse still smokes
+- OSA: reinforce CPAP compliance, discussed mask fit issues
+- Gout: stable, continue allopurinol
+- Osteoporosis: DEXA ordered
+- GERD: continue omeprazole
+- General health maintenance discussed including remote smoking history and secondhand smoke exposure at home; general risk-reduction counseling provided, will continue at future visits
+- Return to clinic in 2 weeks or sooner if worsening symptoms

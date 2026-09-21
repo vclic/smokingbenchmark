@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE - FAMILY MEDICINE
+Patient: James Coleman DOB 3/17/1966 (age 59)
+Date of Service: 03/17/2025
+Provider: Hannah Weiss, NP
+
+CC: medication refills
+
+HPI: Mr Coleman is a 59 y/o male presenting via telehealth for routine refill of CAD and OA meds. He reports doing 'ok, no chest pain lately' and states 'my knees are the worst part of my day.' Denies SOB, palpitations, or edema. In discussing cardiac risk factors patient reports extensive smoking hx - he states he smoked 1.5 packs per day for 12 years in his 20s-30s, then cut back to about a quarter pack (5 cigs/day) for the past 24 years and continues to smoke at that rate today. He was counseled again on the benefits of quitting and offered resources including nicotine replacement and referral to tobacco cessation program, which he declined at this time. He denies alcohol use, reports occasional soreness in knees worse w/ cold weather.
+
+Problem List:
+1. I25.10 - Coronary artery disease, native vessel, without angina (chronic, stable)
+2. M19.90 - Osteoarthritis, unspecified site
+3. Z87.891 - Personal hx of nicotine dependence (outdated entry, pt remains active smoker per HPI/social hx below)
+4. I10 - Essential hypertension (outdated, last documented elevated BP 2021, currently normotensive per recent visits)
+
+Social History: Tobacco - active smoker, see HPI for detailed hx. Alcohol - denies. Illicit drugs - denies. Lives with spouse, retired machinist, ambulates independently.
+
+Review of Systems:
+Constitutional: denies fever, chills, weight loss
+Eyes: denies visual changes
+ENT: denies sore throat, congestion
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND
+Respiratory: denies cough, wheeze, hemoptysis (pt continues to smoke per HPI)
+GI: denies nausea, vomiting, diarrhea, abd pain
+GU: denies dysuria, hematuria
+Musculoskeletal: + bilateral knee pain, worse AM, improves w/ activity, no swelling reported
+Skin: denies rash, lesions
+Neuro: denies HA, dizziness, numbness
+Psych: denies depression, anxiety
+All other systems reviewed and negative.
+
+Physical Exam (limited, telehealth, pt self-reported vitals via home cuff):
+Vitals: BP 132/78 (home cuff), HR 74, wt stable per pt report
+General: alert, well-appearing, no acute distress, video quality adequate
+Cardiovascular: pt denies chest pain, no visible distress on cam, unable to auscultate via telehealth
+Respiratory: no visible increased WOB, no cough noted during call
+Musculoskeletal: pt demonstrates limited knee flexion on camera, no obvious deformity visualized
+Skin: no rashes visualized on exposed areas
+Psych: mood/affect appropriate, cooperative throughout visit
+
+Medications (current, per chart):
+1. Aspirin 81 mg PO daily
+2. Atorvastatin 40 mg PO qhs
+3. Metoprolol succinate 25 mg PO daily
+4. Lisinopril 10 mg PO daily (continued despite improved BP, will reassess)
+5. Acetaminophen 500 mg PO PRN knee pain
+6. Meloxicam 7.5 mg PO daily PRN OA flare
+7. Nicotine lozenge 2mg PRN - declined by pt, not currently using
+8. Omeprazole 20 mg PO daily
+
+Labs: Lipid panel from 01/2025 reviewed - LDL 88, HDL 42, TG 150. A1c 5.6% stable. Renal fxn wnl.
+
+Assessment/Plan:
+1. CAD (I25.10) - stable, no anginal sx today, continue ASA, statin, beta-blocker as above. Pt remains an active smoker which continues to be a major modifiable risk factor for progression of CAD; strongly encouraged cessation again today, discussed cessation resources, pt not ready to quit at this visit. Will readdress at next f/u.
+2. Osteoarthritis, bilateral knees (M19.90) - stable, continue acetaminophen and meloxicam PRN, recommend PT referral if worsens, avoid high-impact activity.
+3. Tobacco use - active smoker as above, extensive pack-history discussed in HPI; counseled on cessation, declined pharmacotherapy today, will continue to offer support at future visits.
+4. HTN (I10) - appears improved/normalized on current regimen, will continue lisinopril, monitor home BP logs, follow up in 3 months.
+5. Health maintenance - lung cancer screening was discussed in general terms as part of preventive care conversation given smoking hx; no imaging ordered today.
+
+Refills sent to pharmacy of record for all above meds except nicotine lozenge which pt declined. Pt verbalized understanding of plan and agreed to f/u in 3 months or sooner if symptoms change. Telehealth visit concluded, total time spent 22 minutes, more than half spent on counseling and coordination of care regarding tobacco cessation and CAD risk reduction.
+
+Electronically signed: Hannah Weiss, NP 03/17/2025

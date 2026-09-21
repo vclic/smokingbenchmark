@@ -1,0 +1,77 @@
+NURSE INTAKE
+DOS: 07/08/2025
+Patient: Nancy Allen DOB 04/26/1963 Age: 62
+Provider: Brian Okonkwo, MD
+Visit type: Pre-operative evaluation - Internal Medicine, r/t upcoming total knee replacement (Ortho: Dr. Feldman)
+
+Vitals: BP 138/82 HR 76 RR 16 Temp 98.2F SpO2 95% RA Wt 168 lb Ht 5'4"
+
+Allergies: NKDA
+
+SOCIAL HISTORY (templated):
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Alcohol use: occasional, pt reports
+Illicit drug use: denies
+Occupation: retired school administartor
+Living situation: lives w/ spouse
+Exercise: limited d/t knee pain
+
+MEDICATION LIST (reconciled):
+1. Levothyroxine 100mcg po qday
+2. Atorvastatin 40mg po qhs
+3. Aspirin 81mg po qday
+4. Metoprolol succinate 25mg po qday
+5. Tiotropium inhaler 1 puff qday
+6. Albuterol HFA prn wheeze/SOB
+7. Vitamin D3 2000IU po qday
+8. Calcium carbonate 500mg po BID
+
+CHIEF COMPLAINT: pre-op clearance for L TKA, surgery tentitively scheduled in 3 wks
+
+HPI: 62F with h/o hypothyroidism, CAD, hyperlipidemia, COPD here for pre-op eval prior to left total knee replacement. Reports progressive L knee pain over past yr, now limiting ambulation to <1 block. Failed conservative tx incl NSAIDs, PT, intra-articular injections. Ortho recommends surgical intervention. No chest pain, no palpitations, no syncope. Occasional dyspnea on exertion c/w baseline COPD - uses albuterol prn, denies recent exacerbation or steroid burst. No fevers/chills. No recent illness.
+
+ROS: (per template, all systems reviewed)
+Constitutional: no fever, no chills, no unintentional wt loss
+HEENT: no vision changes, no hearing loss
+CV: no chest pain, no palpitations, no orthopnea, no PND, + occasional ankle edema mild
+Resp: + exertional dyspnea baseline, no cough, no hemoptysis
+GI: no nausea, no vomiting, no abd pain, no change in bowel habits
+GU: no dysuria, no hematuria
+MSK: + L knee pain as above, no other joint pain currently
+Skin: no rashes, no lesions
+Neuro: no HA, no focal weakness, no numbness
+Psych: no depression, no anxiety
+Endo: no polyuria, no polydipsia, thyroid sx well controlled on current dose
+Heme: no easy bruising, no bleeding
+All other systems reviewed and negative
+
+PHYSICAL EXAM:
+General: well-appearing, NAD, in no acute distress, appropriate affect
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear, no thyromegaly appreciated
+Neck: supple, no JVD, no carotid bruits
+CV: RRR, nl S1/S2, no murmur/rub/gallop appreciated on exam today
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi, good air movement overall
+Abd: soft, NT/ND, +BS, no organomegaly
+Extrem: L knee w/ crepitus, decreased ROM, mild effusion, no erythema, no warmth, trace bilat ankle edema
+Skin: warm, dry, intact
+Neuro: A&Ox3, CN II-XII grossly intact, gait antalgic favoring L side
+
+LABS reviewed (from 07/01/2025): CBC wnl, BMP wnl, TSH 2.1 (nl), lipid panel: LDL 88, HDL 52, TG 110
+EKG (today): NSR, rate 74, no acute ST-T changes, unchanged from prior
+
+ASSESSMENT/PLAN:
+1. Pre-op clearance for L TKA - pt medically optimized at this time, cardiac and pulm status stable, cleared from IM standpoint pending anesthesia eval
+2. CAD - stable, continue ASA 81mg, metoprolol, atorvastatin; no chest pain sx today
+3. COPD - stable on current regimen, mild wheeze on exam today but pt asymptomatic, continue tiotropium + albuterol prn, will hold off further w/u unless sx worsen
+4. Hypothyroidism - TSH at goal, continue levothyroxine current dose
+5. Hyperlipidemia - LDL at goal on statin, continue current dose
+6. Peri-op plan: hold ASA per ortho/anesthesia protocol prior to surgery, continue other home meds through surgery per usual, f/u with anesthesia pre-op clinic
+7. Pt counseled re: importance of pulm hygiene post-op given underlying COPD, incentive spirometry to be reviewed post-op
+Return to clinic if any new sx prior to surgery date, otherwise will see post-op per ortho routine
+
+Brian Okonkwo, MD
+
+---ADDENDUM (later same day, 07/08/2025 16:40)---
+Received callback from ortho office confirming surgical date now set for 07/29/2025. Pt notified by phone, verbalizes understanding of pre-op instructions incl NPO after midnight day of surgery. No new complaints reported at this time. Pulmonary function test not indicated given pt's baseline stability; will proceed w/ current clearance. Chart updated accordingly.
+Brian Okonkwo, MD

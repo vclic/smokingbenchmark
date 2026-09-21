@@ -1,0 +1,36 @@
+NEW PT VISIT - Establish Care - Primary Care
+DOS: 08/09/2025
+Author: Laura Castellano, FNP-C
+
+Pt: John White, M, DOB 08/09/1950, age 75 y/o presents today to establish care w/ NP.
+
+HPI: Pt reports hx of OSA on CPAP, hyperlipidemia, hypothyroidism, and asthma, all stable per pt report. No acute complaints today, here mainly for routine f/u and med refills. Denies CP, SOB at rest, denies wheeze today. Uses albuterol prn.
+
+SOC HX: Smoking hx obtained in detail today - pt smoked 3/4 pack (~15 cigs) per day for 25 yrs, then quit completely x3 yrs, then restarted smoking at 1/4 pack (~5 cigs) per day for 28 yrs and continues to smoke to present day. Pt continues to smoke despite repeated counseling on cessation, discussed risks including CV and pulm dz, offered resources/nicotine replacement, pt declined at this time. General lung health and cessation resources discussed w/ pt.
+
+[Copied from note dated 5/9/2023]: "Smoking status: current smoker." (no further detail given in that prior note)
+
+ROS: otherwise negative except as above, denies fevers chills wt loss.
+
+PMH/Problem List:
+- G47.33 Obstructive sleep apnea
+- E78.5 Hyperlipidemia
+- E03.9 Hypothyroidism
+- J45.909 Asthma, unspecified
+- I10 HTN (outdated - pt reports no longer has dx, will verify)
+- Z87.891 Personal hx of nicotine dependence (legacy entry, still applies)
+
+Meds: atorvastatin, levothyroxine, albuterol HFA prn, multivitamin
+
+Exam: A&O x3, NAD. Lungs: mild exp wheeze bilat, no crackles. CV: RRR no m/r/g. Thyroid: no palpable nodules. Ext: no edema.
+
+A/P:
+1. OSA - continue CPAP, review compliance data next visit
+2. HLD - continue statin, recheck lipid panel
+3. Hypothyroidism - continue levothyroxine, check TSH
+4. Asthma - continue albuterol prn, add ICS if worsening
+5. Tobacco use - continues to smoke despite counselling today, will readdress at next visit, encouraged cessation resources
+
+F/u in 3 months or sooner prn.
+
+Laura Castellano, FNP-C

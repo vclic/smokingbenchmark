@@ -1,0 +1,44 @@
+Cardiology Progress Note
+Author: Elena Markovic, MD
+Date of Service: 10/13/2025
+
+Patient: Dale Perez, M, DOB 5/20/1950, age 75 y/o
+
+CC: chest pain evaluation, referred from PCP for further workup given hx of afib and cardiac risk factors.
+
+HPI: Pt is a 75-year-old male who presents today for eval of intermittent chest pain, described as pressure-like, sub-sternal, lasting several minutes, occasionally radiating to left arm, occurring w/ exertion and sometimes at rest. Pt denies SOB at rest but does note some dyspnea on exertion, which he attributes in part to his known OSA and obesity. He uses CPAP nightly per report, though [inaudible] compliance download not avail today. No recent syncope or pre-syncope, no lower extremity edema currently, no PND or orthopnea. He denies fevers, chills, night sweats, unintentional weight loss.
+
+Social History: Patient has never smoked cigarettes. He does report he smokes a cigar a few times a year, typically on holidays such as Thanksgiving or New Year's, but denies any cigarette use whatsoever, past or present. He states he quit drinking alcohol in 2004 and has been abstinent since. No illicit drug use reported. Lives at home with spouse, retired machinist, ambulates independently.
+
+PMH: Obstructive sleep apnea (on CPAP), hypertension, hyperlipidemia, hypothyroidism, atrial fibrillation (on anticoagulation), obesity.
+
+PSH: None significant, no prior cardiac surgeries or stents per pt report.
+
+Medications: Metoprolol succinate 50mg daily, Apixaban 5mg BID, Atorvastatin 40mg qHS, Losartan 50mg daily, Levothyroxine 100mcg daily, Lisinopril held due to cough hx per chart note, Omeprazole 20mg daily prn, Aspirin 81mg daily (per cardiology recs), Multivitamin daily.
+
+Allergies: NKDA.
+
+Review of Systems: Constitutional - denies fever, chills, malaise. Eyes - denies visual changes. ENT - denies sore throat, congestion. Cardiovascular - as per HPI, positive for chest pressure, denies palpitations today though has known afib hx, denies syncope. Respiratory - denies cough, wheeze, hemoptysis; endorses mild DOE as above. GI - denies abd pain, nausea, vomiting, denies GI bleed, denies changes in bowel habits. GU - denies dysuria, hematuria, nocturia x2 which is baseline per pt. Musculoskeletal - denies joint pain, denies swelling. Skin - denies rash, denies lesions. Neuro - denies headache, denies weakness, denies numbness/tingling. Psych - denies depression, denies anxiety, sleep somewhat improved with CPAP.
+
+Physical Exam: Vitals - BP 138/82, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% RA, BMI 33.
+General: obese male, NAD, alert and oriented x3.
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear.
+Neck: no JVD appreciated, no carotid bruits auscultated bilaterally.
+Cardiovascular: irregularly irregular rhythm consistent w/ known afib, no murmurs/rubs/gallops appreciated, no peripheral edema, distal pulses 2+ bilaterally.
+Respiratory: CTAB, no wheezes/rales/rhonchi, good air movement bilaterally.
+Abdomen: obese, soft, non-tender, non-distended, +BS x4 quadrants.
+Extremities: no edema, no cyanosis, no clubbing.
+Skin: warm and dry, no rashes noted.
+Neuro: CN II-XII grossly intact, motor strength 5/5 throughout, gait not formally tested today.
+
+Assessment/Plan: 75 y/o male w/ chest pain, hx afib, HTN, HLD, hypothyroidism, OSA, obesity.
+1. Chest pain - likely multifactorial, will obtain repeat EKG, troponin, stress echo scheduled. Pt to follow up w/ PCP for routine health maintenance topics.
+2. Afib - continue anticoagulation w/ apixaban, rate appears controlled today, will obtain repeat EKG in office.
+3. HTN - reasonably controlled today, continue current regimen.
+4. HLD - continue statin, will check lipid panel at next visit.
+5. Hypothyroidism - continue levothyroxine, TSH to be rechecked.
+6. OSA/obesity - encourage continued CPAP compliance, discussed weight management strategies including referral to nutrition if pt interested, pt declined for now.
+
+Follow-up in 4 weeks or sooner if symptoms worsen, pt instructed to go to ED if severe chest pain, SOB, or syncope occurs.
+
+Elena Markovic, MD

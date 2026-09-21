@@ -1,0 +1,36 @@
+PULMONOLOGY FOLLOW-UP - RESIDENT NOTE WITH ATTENDING ATTESTATION
+DOS: 06/25/2024
+Author: Quentin Hale, PA-C
+Pt: David Campbell, M, DOB 06/25/1953 (age 71)
+
+HPI: 71 y/o male s/p recent ED visit and COPD exacerbation, here for f/u in clinic today. Pt reports improved dyspnea since d/c, using nebs prn, [inaudible] cough less frequent per pt but still occasional productive sputum am's. Denies fever chills he does note some orthopnea which is baseline per pt given his known hx of HFrEF, no new lower extremity edema noted today. Pt also carries dx of BPH and OSA, on CPAP compliance reportedly fair per device download not available today will request. ROS otherwise negative for chest pain, denies hemoptysis, wt stable.
+
+SOCIAL HISTORY: Smoking hx - pt has a 16 pack-year smoking history, quit smoking in 2016. Lives with spouse, denies current EtOH, denies illicit drug use.
+
+[Copied from note dated 02/25/2022 - smoking status at that time]: "Former smoker, quit prior to this visit." (no quantities documented in that prior note)
+
+MEDS: Furosemide, metoprolol succinate, tamsulosin, tiotropium inhaler, albuterol prn, CPAP nightly.
+
+EXAM:
+Vitals: BP 132/78, HR 78, RR 18, SpO2 94% RA, Temp 98.2F, Wt 198 lb
+Gen: NAD, comfortable appearing, sitting upright in chair
+HEENT: no JVD appreciated
+CV: RRR, no m/r/g, S3 gallop faintly appreciated per attending exam
+Lungs: diffuse expiratory wheeze bilat, decreased air movement bases, no crackles
+Ext: trace edema b/l, no clubbing cyanosis
+
+LABS/RESULTS:
+CBC (06/25/2024): WBC 8.9, Hgb 13.4, Hct 40.1, Plt 245
+BMP (06/25/2024): Na 138, K 4.3, Cl 101, CO2 26, BUN 22, Cr 1.1, Glu 104
+BNP (06/25/2024): 410 pg/mL (baseline per chart ~350)
+CXR (06/25/2024): no acute infiltrate, mild hyperinflation, stable cardiomegaly
+PFTs (04/2024, on file): FEV1/FVC consistent w/ moderate obstruction
+
+ASSESSMENT/PLAN:
+1. COPD, recent exacerbation - improving clinically, cont tiotropium, continue prednisone taper per ED d/c instructions, f/u PFTs in 3 months. Smoking status reviewed today, pt reports 16 pack-year hx, quit smoking in 2016, no current use, no further cessation counseling needed given quit status, reinforced avoidance of secondhand smoke.
+2. HFrEF - euvolemic-ish today, mild S3, cont home diuretic, will trend BNP, cont GDMT per cardiology.
+3. OSA - cont CPAP, will obtain compliance download at next visit.
+4. BPH - stable on tamsulosin, no new urinary sx.
+5. General health maintenance discussed briefly with pt, deferred further work-up to primary care as appropriate.
+
+Attending attestation: I have seen and examined pt with resident/PA, agree with above assessment and plan as documented, discussed case in detail, will cont to follow in pulm clinic. - Dr. [attending signature on file]

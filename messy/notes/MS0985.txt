@@ -1,0 +1,23 @@
+Pre-Op Internal Medicine Progress Note
+Author: Gregory Tan, MD (NP visit, co-signed)
+Date of Service: 04/27/2023
+Patient: William Brooks, M, DOB 3/15/1963, Age 60
+
+CC: Pre-operative evaluation for right total knee replacement, ortho referral from Dr. Sanchez.
+
+HPI: Pt is a 60 year old male with history of gout, depression, and coronary artery disease presenting for pre-op clearance prior to TKR. He reports chronic right knee pain, worse with stairs and prolonged standing, denies acute chest pain or SOB today, occasional palpitations that resolve w/ rest, no syncope. He has a 28 pack-year smoking history and is an active smoker, continuing to smoke daily per his report; extensive counseling provided on cessation resources including quitline referral and pharmacotherapy options, patient states he is 'not ready' to quit at this time. He quit drinking alcohol in 1999 and has remained abstinent since. No illicit drug use reported.
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Cardiac - denies orthopnea, PND, edema, as above occasional palpitations. Resp - denies cough, hemoptysis, wheeze. GI - denies nausea, vomiting, diarrhea, constipation. GU - denies dysuria, hematuria. MSK - positive right knee pain as above, denies other joint swelling except occasional gout flares in great toe. Neuro - denies weakness, numbness, tingling. Psych - denies SI/HI, endorses stable mood on current regimen. All other systems reviewed and negative.
+
+Meds: Allopurinol 300mg daily, colchicine 0.6mg PRN flare, sertraline 100mg daily, aspirin 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 50mg daily, lisinopril 10mg daily, acetaminophen PRN, multivitamin daily.
+
+Physical Exam: Vitals stable, afebrile, BP 132/78, HR 72, RR 16, SpO2 97% RA. Gen - NAD, well-appearing. HEENT - PERRLA, oropharynx clear. Neck - no JVD, no bruits. CV - RRR, no murmurs/rubs/gallops. Lungs - clear to auscultation bilaterally, no wheezes/rales/rhonchi. Abd - soft, NT/ND, +BS. Ext - no edema, right knee w/ crepitus and decreased ROM, no effusion appreciated today. Skin - warm, dry, intact. Neuro - grossly intact.
+
+Assessment/Plan: 60 yo male w/ CAD, gout, depression, active tobacco use w/ 28 pack-year history, pre-op eval for TKR.
+1. CAD - stable, continue current cardiac regimen, EKG reviewed unremarkable, cleared from cardiac standpoint.
+2. Gout - stable on allopurinol, continue.
+3. Depression - stable on sertraline, continue.
+4. Tobacco use - active smoker, discussed lung cancer screening as a topic pt should discuss further with PCP, counseled on cessation, provided resources.
+5. Pre-op clearance - low to moderate risk, medically cleared for TKR pending anesthesia eval.
+
+Addendum (later same day): Spoke with pt by phone re: lab results, CBC and BMP reviewed, both within normal limits, no additional concerns at this time, plan unchanged. Pt verbalizes understanding of pre-op instructions.

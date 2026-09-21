@@ -1,0 +1,43 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: Barbara Henderson (F), DOB 2/21/1958, Age: 66
+Date of Service: 07/20/2024
+Author: Julia Brennan, MD
+
+HPI: Pt presents for annual wellness exam, no acute complaints today. Reports fatigue and occassional heartburn worse at nite, c/w known GERD. Denies chest pain, palpitations resolved on current rate control, sleeps w/ CPAP most nights per report (compliance data not on file today). Wt stable per pt, denies edema. Pt states "I feel about the same as last year" [inaudible] some further discussion re: diet difficult to transcribe due to background noise.
+
+PMH: GERD, atrial fibrillation (on anticoagulation), obesity, OSA on CPAP, CAD, CKD stage 3.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Details: Pt smoked about three-quarters of a pack (~15 cigarettes) per day for 25 years, then increased to one and a half packs per day for the past 24 years and continues to smoke at that rate.
+Prior quit attempts: Pt previously quit smoking in 2010 but relapsed in 2013.
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary, occassional walking
+
+[Copied from note dated 12/20/2022, Dr. Brennan]: "Social history: Patient is a current smoker." (No quantities documented in that prior note.)
+
+ASSESSMENT/PLAN discussion: Counseled extensively today regarding smoking cessation, pt continues to smoke despite repeated counseling over multiple visits, pt verbalizes understanding of risks but not ready to quit at this time. Discussed general preventive health topics related to tobacco use. Encouraged nicotine replacement therapy, pt declined at this visit, will readdress next visit.
+
+EXAM: BP 138/82, HR 76 irregular, RR 16, Wt 212 lb, BMI 34.2. Gen: NAD, obese habitus. CV: irregularly irregular rhythm, no murmurs appreciated. Resp: clear to auscultation bilaterally, no wheezes/rales. Abd: soft, nontender, obese, +BS. Ext: no edema.
+
+LABS (reviewed today, drawn 07/15/2024):
+- BMP: Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.4 (eGFR 46, consistent w/ known CKD stage 3), Glucose 101
+- Lipid panel: Total chol 188, LDL 112, HDL 42, Trig 170
+- HbA1c 5.8%
+- TSH 2.1
+- INR (for AFib anticoag mgmt) 2.3, therapeutic range
+
+ASSESSMENT:
+1. GERD - stable, continue PPI
+2. Atrial fibrillation - rate controlled, INR therapeutic today
+3. Obesity - discussed diet/exercise, refer to nutrition
+4. OSA - continue CPAP, reinforce compliance
+5. CAD - stable, continue statin and antiplatelet per cardiology
+6. CKD stage 3 - stable eGFR, avoid nephrotoxic agents, follow up labs in 6 months
+7. Tobacco use disorder - counseled extensively, pt continues to smoke despite counseling, will continue to address at future visits
+
+PLAN: RTC in 6 months or sooner if needed, labs prior to next visit, continue current meds, f/u cardiology as scheduled.

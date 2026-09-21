@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Evelyn King, F, DOB 10/30/1951 (age 72)
+DOS: 12/25/2023
+Provider: Kevin Osei, MD
+
+CC: Med refills, f/u chronic conditions.
+
+PROBLEM LIST (ICD-10):
+- M81.0 Osteoporosis
+- E78.5 Hyperlipidemia
+- E66.9 Obesity
+- I10 Hypertension
+- I63.9 Ischemic stroke, hx (1987) - PMH, stable
+- (outdated entry, not addressed today) M54.5 Low back pain
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Marijuana use - few times/month
+Living situation: ______ (blank)
+Occupation: Retired
+
+HPI: Pt calls in via video for routine refills of statin, antihypertensive, and bisphosphonate. Denies chest pain, SOB, new falls. Reports fatigue c/w baseline. No new fractures. BP log reviewed, mostly WNL.
+
+--- COPIED FORWARD FROM NOTE DATED 3/25/2020 ---
+Social history as documented on 3/25/2020: Pt is a former smoker. No current tobacco use reported at that visit. Continues routine f/u for osteoporosis and HTN management. Denies SOB, cough. Bone density scan reviewed, stable. Recommend continued calcium/vit D supplementation. Follow up in 6 months.
+--- END COPIED SECTION ---
+
+ROS: Otherwise negative except as above.
+
+Exam: Deferred (telehealth). Pt appears comfortable on camera, no acute distress noted.
+
+A/P:
+1. Tobacco use, former - Pt smoked 1 pack per day from 1966 until 1987; she quit smoking and has remained abstinent since. Counseled on continued avoidance.
+2. Osteoporosis - continue bisphosphonate, calcium/vit D.
+3. HTN - continue current regimen, BP logs reviewed.
+4. Hyperlipidemia - continue statin, refill sent.
+5. Obesity - discussed diet/exercise, no changes today.
+6. Marijuana use - few times monthly per pt report, discussed risks/benefits, no changes recommended at this time.
+
+Refills sent to pharmacy. RTC 3 months or sooner if needed.
+
+--- ADDENDUM (later same day, 12/25/2023) ---
+Spoke further with pt by phone after visit. She clarified that she quit smoking right after her ischemic stroke in 1987 and has not smoked cigarettes since. No further changes to plan. Addendum entered by Kevin Osei, MD.

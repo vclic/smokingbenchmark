@@ -1,0 +1,74 @@
+Cardiology Office Visit
+
+Patient: GONZALES, Diane    MRN: 90200514
+DOB: 03/01/1961    Age: 63 y.o.    Sex: Female
+Date of Service: 08/05/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Chest pressure
+
+Subjective:
+Diane Gonzales is a 63 y.o. female who presents for evaluation of chest pain.
+She is a current smoker and smokes 1 pack daily. Episodes of chest tightness when walking uphill, no rest symptoms. Associated mild dyspnea. No syncope or palpitations. CV risk factors: HLD, DM2, current tobacco use, FHx premature CAD.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia	2019
+• Class I obesity
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release
+• Cataract extraction, bilateral (1997)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 10 mg daily
+• metformin 1000 mg BID
+• fish oil 1 g daily
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Drinks a glass of wine with dinner.
+
+Family History
+Mother - CHF, d. age 88. Father - prostate cancer.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 111/78 (BP Location: Right arm, Patient Position: Sitting) | Pulse 101 | Temp 98.2 °F (Oral) | Resp 18 | Ht 5' 2" | Wt 177 lb | SpO2 97% | BMI 32.34 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Chest pain
+   Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+2. Hypercholesterolemia
+   Continue statin. Lipid panel due.
+3. Class I obesity
+   Discussed diet and exercise.
+
+Return in about 3 months (around 11/5/2024).
+
+Electronically signed by Brian Okonkwo, MD on 08/05/2024

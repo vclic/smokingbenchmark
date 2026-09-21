@@ -1,0 +1,82 @@
+Geriatrics Office Visit
+
+Patient: ROBINSON, Donna    MRN: 14534873
+DOB: 07/21/1951    Age: 73 y.o.    Sex: Female
+Date of Service: 12/19/2024    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up hypertension
+
+Subjective:
+Donna Robinson is a 73 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/80s. Taking amlodipine 5 mg daily without missed doses. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• GERD
+• HTN
+• Peripheral vascular disease
+• CKD 3b
+• Class I obesity
+
+Past Surgical History:
+Procedure	Laterality	Date
+• C-section x2 (2007)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• multivitamin daily
+• amlodipine 5 mg daily
+• famotidine 20 mg BID
+• lisinopril 10 mg daily
+• cilostazol 100 mg BID
+• aspirin 81 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 1 ppd from age 28 to 49; quit in '01
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former mechanic.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+  Sedentary.
+
+Family History
+Mother - CHF, d. age 88. Parents deceased, causes unknown.
+
+Review of Systems
+ROS: GU neg, GI neg, Resp neg, CV neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 128/70 (BP Location: Right arm, Patient Position: Sitting) | Pulse 93 | Temp 98.5 °F (Oral) | Resp 16 | Ht 5' 5" | Wt 224 lb | SpO2 97% | BMI 37.28 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Hypertension
+   Controlled on amlodipine 5 mg daily; no changes.
+2. CKD 3b
+   Cr stable. Avoid NSAIDs.
+3. Peripheral vascular disease
+   Stable claudication distance.
+
+Return in about 3 months (around 3/19/2025).
+
+Electronically signed by Owen Fitzgerald, MD on 12/19/2024

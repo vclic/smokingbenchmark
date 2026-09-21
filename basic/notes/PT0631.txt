@@ -1,0 +1,81 @@
+Cardiology Office Visit
+
+Patient: NGUYEN, Mei    MRN: 72226981
+DOB: 09/16/1948    Age: 76 y.o.    Sex: Female
+Date of Service: 08/04/2025    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• CHF follow-up
+
+Subjective:
+Mei Nguyen is a 76 y.o. female who presents for heart failure follow-up.
+Up 3 lbs this week. Mild orthopnea, 2 pillows. DOE with 1 block. Last echo 11/04/2024: EF 29%. She has no history of tobacco use.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity
+• Chronic systolic heart failure
+• Osteoarthritis	1993
+• HTN	1987
+• CAD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2011)
+• Left inguinal hernia repair
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metoprolol succinate 50 mg daily
+• amlodipine 10 mg daily
+• aspirin 81 mg daily
+• torsemide 20 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+
+Allergies
+• Latex
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired hairdresser.
+  Drinks a glass of wine with dinner.
+  No IVDU.
+
+Family History
+Father - colon cancer at 68. Sister - hypothyroidism.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 142/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 74 | Temp 97.5 °F (Oral) | Resp 14 | Ht 5' 4" | Wt 216 lb | SpO2 98% | BMI 37.08 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: Trace bilateral ankle edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (7/14/2025): LDL 124, Cr 0.79, K 4.8, Hgb 14.2
+
+Assessment & Plan
+1. Heart failure
+   Mildly volume up; double diuretic dose x3 days.
+
+RTC 6 months.
+
+Electronically signed by Michael Dunn, DO on 08/04/2025

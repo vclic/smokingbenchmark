@@ -1,0 +1,55 @@
+URGENT CARE PROGRESS NOTE
+Patient: Jose Jones (M) DOB: 4/6/1971 Age: 52
+Date of Service: 11/29/2023
+Provider: Steven Park, MD
+
+CC: cough x5 days
+
+HPI: 52 yo M presents with productive cough, low grade subjective fever, mild chest congestion. No hemoptysis. Denies significant dyspnea at rest. Reports pt tried a few cigarettes as a teenager but never smoked regularly - denies any current or regular tobacco use. States he has never used tobacco products consistently through adulthood. No sick contacts identified, though wife had URI sx last wk. No recent travel. Pt has hx of GERD, occ reflux sx worse w/ cough. Also hx of CAD s/p stent (per old records), hypothyroidism on levothyroxine, and BPH w/ nocturia stable.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: See HPI - never smoked regularly, brief experimentation as teen only
+ Pack-years: Not on file
+ Quit date: N/A
+ Alcohol use: occasional, 1-2 drinks/wk
+ Drug use: denies
+ Occupation: warehouse supervisor
+ Family smoking hx: father was a heavy smoker who died of lung cancer
+ Living situation: lives w/ spouse
+
+[COPY-FORWARD FROM PRIOR VISIT 6/14/2022 - ROUTINE FOLLOW UP - DO NOT EDIT BELOW - RETAINED FOR CONTINUITY]
+Pt here for routine f/u of CAD, GERD, hypothyroidism, BPH. Reports doing well overall. Denies chest pain, palpitations, or exertional dyspnea. Reflux sx controlled on current PPI regimen, occasional breakthrough sx w/ spicy food. TSH wnl per last labs 4/2022, continue levothyroxine same dose. BPH sx stable, nocturia 1-2x/night, no urinary retention, no hematuria. Pt denies tobacco use, reports trying cigs as teen but never smoked regularly (again documented here for continuity of chart). Family hx notable for father, heavy smoker, deceased from lung cancer - pt understands this raises his own risk and has been counseled previously regarding lung cancer screening discussion at future visit if appropriate. Exam unremarkable, heart RRR no murmurs, lungs CTAB, abd soft nontender, no peripheral edema. Plan: continue current meds, f/u in 6 months, routine labs ordered.
+[END COPY-FORWARD]
+
+ROS: Constitutional: mild fatigue, denies chills. Resp: cough, denies SOB. CV: denies chest pain. GI: denies nausea/vomiting, reports occasional reflux. GU: nocturia as above. All other systems reviewed and negative.
+
+PMH: BPH, GERD, hypothyroidism, coronary artery disease (CAD)
+
+Meds: Levothyroxine, omeprazole, tamsulosin, aspirin, atorvastatin (per chart, pt to confirm current list)
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: T 99.1F, HR 78, BP 128/76, RR 16, SpO2 97% RA
+Gen: NAD, mild cough noted during visit
+HEENT: oropharynx mild erythema, no exudate
+Neck: supple, no LAD
+Lungs: scattered rhonchi bilat, no wheeze, no crackles
+CV: RRR, no m/r/g
+Abd: soft, NT/ND, +BS
+Ext: no edema
+Skin: warm dry
+
+Assessment/Plan:
+1. Acute bronchitis, likely viral - supportive care, rest, fluids, OTC antitussive prn. Return if worsening or fever persists >3 days.
+2. Tobacco: pt reports brief experimentation as teen only, never a regular smoker; no current tobacco use, no cessation counseling needed at this time given lack of regular use history. Family hx of lung cancer (father, heavy smoker, deceased) noted and discussed w/ pt; lung cancer screening was discussed in general terms as part of preventive care conversation.
+3. CAD - stable, continue home meds, no acute issues today, f/u w/ cardiology per usual schedule.
+4. GERD - stable on current regimen, reinforce dietary modifications.
+5. Hypothyroidism - continue levothyroxine, recheck TSH at next routine visit.
+6. BPH - stable, continue tamsulosin, no red flag urinary sx today.
+
+Pt verbalizes understanding of plan, all questions answered. Return precautions given. F/u w/ PCP in 1-2 wks if sx not improved, sooner if worsening.
+
+Steven Park, MD
+Urgent Care
+Electronically signed 11/29/2023

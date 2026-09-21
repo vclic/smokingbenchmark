@@ -1,0 +1,70 @@
+HOSPITAL DISCHARGE FOLLOW-UP - PRIMARY CARE
+Patient: Michael Walker | DOB: 7/16/1968 | Age: 56 | Sex: M
+Date of Service: 10/30/2024
+Author: Teresa Alvarez, NP
+
+PROBLEM LIST (per EHR, some outdated):
+- I10 Essential hypertension
+- I25.10 Coronary artery disease w/o angina
+- J18.9 Pneumonia, unspecified organism (recent admit)
+- E78.5 Hyperlipidemia (dz per old note, not on current lipid panel)
+- J44.9 COPD (chart entry from 2018, unclear if active dx, pt denies)
+
+HPI:
+Mr Walker is a 56 yo male s/p recent hospitalization for community-acquired pneumonia, d/c'd 4 days ago, here for f/u. Reports improving cough, less SOB, denies fever chills. Appetite returning. Chest discomfort intermittent, non-exertional, likely musculoskeletal from coughing fits. No hemoptysis. Compliant w discharge abx (finished course yest). Cards hx of CAD - denies angina equivalents, no chest pressure w exertion currently limited by recovery. HTN - home BP log reviewed pt states readings 130s/80s. No edema.
+
+PMHx as above. PSHx: appendectomy age 22.
+
+SOCIAL HISTORY:
+Former smoker. No current tobacco use reported. Denies illicit drug use. Rare etoh, ~1-2 drinks/month. Lives w spouse, retired machinist. Denies vaping.
+
+MEDICATIONS:
+- Lisinopril 20mg daily
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Metoprolol succinate 50mg daily
+- Amoxicillin-clavulanate 875/125 BID (d/c'd, completed course)
+- Albuterol HFA PRN
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever chills night sweats, mild fatigue persisting
+HEENT: denies sore throat, denies nasal congestion
+CV: denies chest pain palpitations orthopnea PND
+Resp: improving cough, denies hemoptysis, denies current dyspnea at rest
+GI: denies nausea vomiting diarrhea constipation abd pain
+GU: denies dysuria frequency hematuria
+MSK: mild chest wall soreness from coughing
+Neuro: denies HA dizziness weakness numbness
+Skin: no rash
+Psych: denies depression anxiety, mood stable
+All other systems reviewed and negative
+
+PHYSICAL EXAM:
+Vitals: T 98.2F HR 76 BP 128/78 RR 16 SpO2 97% RA Wt 198 lb
+General: well-appearing, NAD, comfortable
+HEENT: PERRL, EOMI, oropharynx clear, no LAD
+Neck: supple no JVD no thyromegaly
+CV: RRR, no m/r/g, normal S1 S2, no peripheral edema
+Resp: lungs clear to auscultation bilat, mild scattered rhonchi improved from prior, no wheeze, no crackles
+Abd: soft NT ND, +BS, no HSM
+Extrem: no cyanosis clubbing edema
+Skin: warm dry intact
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady
+Psych: mood/affect appropriate
+
+LABS/STUDIES:
+CXR at d/c showed improving infiltrate. CBC WNL. BMP unremarkable. Lipid panel pending.
+
+ASSESSMENT AND PLAN:
+1. Pneumonia, resolving - clinically improved, abx course completed, f/u CXR in 6 wks to confirm resolution.
+2. Hypertension - well controlled on current regimen, continue lisinopril, recheck BP next visit.
+3. Coronary artery disease - stable, continue ASA statin BB, no acute concerns today.
+4. Tobacco use, former smoker - patient reports a 46 pack-year smoking history; former smoker status noted. No current tobacco use. Discussed general health maintenance and risk reduction given hx; lung cancer screening was discussed as a topic for further conversation. Reinforced importance of continued abstinence and healthy lifestyle.
+5. Health maintenance - up to date on age-appropriate screenings per chart, will address at next visit.
+
+Return to clinic in 4 weeks or sooner if worsening symptoms. Pt verbalized understanding of plan, all questions answered.
+
+Teresa Alvarez, NP

@@ -1,0 +1,47 @@
+NURSE INTAKE - 07/24/2023
+Patient: Charles Henderson, M, DOB 02/04/1963 (age 60)
+Visit: Primary care f/u HTN, DM2
+Vitals: BP 138/86, HR 78, RR 16, T 98.2F, Wt 224 lb, Ht 70in, BMI 32.1
+Pt brought in by daughter, appears fatigued but cooperative. Unable to complete full ROS 2/2 pt's difficulty w/ speech today (?word-finding trouble, appears frustrated).
+
+---COPIED FORWARD FROM VISIT 11/02/2022 (old note, left in error, do not use for current data)---
+HPI: 59M w/ HTN, DM2, obesity, osteoporosis, CAD s/p PCI 2019, BPH, gout here for routine f/u. Pt reports doing well, denies CP/SOB. Home glucose logs reviewed, fasting range 110-140. BP well-controlled on lisinopril/HCTZ. Continue metformin 1000mg BID, atorvastatin 40mg qHS. Gout stable on allopurinol, last flare >1yr ago. BPH sx stable on tamsulosin. DEXA from 2021 reviewed, T-score improved on alendronate. Pt encouraged to continue home exercise program, low-Na diet. RTC 3 months, sooner if issues.
+---END COPIED TEXT---
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD - 07/24/2023
+HPI: Mr. Henderson is a 60-year-old male with PMH significant for HTN, T2DM, obesity, osteoporosis, CAD, BPH, and gout, presenting today for scheduled f/u. Today's visit is notably limited by the patient's acute change in speech - daughter reports he has had increasing difficulty with word-finding over the past several days, and today he appears aphasic at times. When asked how he was feeling, pt stated "the... the thing, the... I can't..." and became visibly frustrated, gesturing toward his head. Daughter denies any known trauma. No clear c/o CP, palpitations, or focal weakness reported by daughter, though history is limited.
+
+Given the acuity of this presentation, most of today's visit is focused on neurologic eval rather than routine chronic disease management. Social history could not be adequately obtained today given pt's expressive difficulties; daughter present but unable to answer all detailed hx questions on his behalf (e.g., could not confirm tobacco or etoh use with certainty).
+
+ROS: Limited 2/2 pt's aphasia; otherwise per daughter, no fevers, no recent falls, no incontinence noted.
+
+SOCIAL HISTORY:
+Tobacco: unable to obtain today - pt aphasic/poor historian, daughter unable to confirm reliably. To be revisited once pt's speech improves or via collateral records.
+Alcohol: unable to obtain, see above.
+Living situation: lives with spouse, daughter assists with some ADLs per report.
+
+EXAM:
+Gen: NAD but appears anxious/frustrated, alert
+HEENT: NC/AT, no facial droop noted
+CV: RRR, no m/r/g
+Lungs: CTAB
+Neuro: Expressive aphasia noted, comprehension appears grossly intact (follows simple commands), no obvious focal motor deficit on brief exam, face symmetric, grip strength grossly equal bilaterally
+Ext: no edema
+
+ASSESSMENT/PLAN:
+1. New-onset expressive aphasia, etiology unclear - given acuity, sending pt directly to ED for stat CT head/possible stroke w/u rather than continuing routine outpatient visit. Discussed urgency with daughter, she will drive him to ED now, called ahead to ED to give heads up.
+2. HTN - stable per prior records, defer further mgmt to ED/inpatient team pending w/u above.
+3. T2DM - stable per prior records, continue home regimen for now, defer to inpatient team if admitted.
+4. Obesity - defer.
+5. Osteoporosis - defer, continue current regimen.
+6. CAD - noted above, will need cardiac eval as part of stroke w/u given hx.
+7. BPH - stable, no acute issues today.
+8. Gout - no active flare today, defer.
+9. Tobacco/EtOH use history unable to be obtained this visit given pt's aphasia; will attempt to clarify at f/u once speech improves or via old records/collateral.
+Discussed general preventive health topics were deferred given acuity of today's presentation.
+
+RTC per neuro/ED recs; will call daughter later today for update.
+
+---ADDENDUM 07/24/2023 16:40---
+Spoke with ED attending Dr. Priya Anand by phone. Pt has been triaged, stat CT head pending, neuro consulted. Will await results and follow up with pt's chart tomorrow. Family updated at bedside per ED staff. No further outpatient action needed today; visit converted to ED transfer note for billing purposes.
+- Owen Fitzgerald, MD

@@ -1,0 +1,49 @@
+Pulmonology NP Progress Note
+Date of Service: 01/11/2026
+Author: Farah Siddiqui, MD (co-signed)
+Patient: Rajesh Adams M DOB 1/11/1975 (age 51)
+
+CC: COPD follow-up.
+
+HPI: Pt returns for routine f/u of COPD. Reports stable dyspnea on exertion, no change in cough. No fevers, no chest pain. Using inhalers as prescribed, occasional rescue albuterol ~2x/wk. Denies recent exacerbations, no hospitalizations since last visit. Sleep ok, appetite fine. Ambulates without significant SOB at home but c/o some breathlessness on stairs.
+
+Social hx: Smoking status reviewed - pt states he tried a few cigarettes as a teenager but never smoked regularly, no current or subsequent tobacco use. Denies vaping, denies illicit drug use. Occasional ETOH, denies drug use.
+
+ROS: Constitutional - neg for fever/chills/wt loss. Resp - + dyspnea on exertion, denies hemoptysis. CV - denies chest pain, + hx PAD w/ claudication sx stable. GU - no dysuria. Renal - stable per CKD hx. Rest of ROS negative per template.
+
+PMH/Problem List (ICD-10):
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- I73.9 Peripheral artery disease
+- N18.3 Chronic kidney disease, stage 3
+- E78.5 Hyperlipidemia (outdated - pt reports lipids normal now per PCP)
+- I10 Essential hypertension (chart shows old entry, pt denies current HTN dx, unclear if resolved or miscoded)
+
+Meds: Tiotropium inhaler daily, albuterol PRN, atorvastatin, aspirin 81mg, clopidogrel.
+
+Allergies: NKDA.
+
+Exam:
+Vitals: BP 128/76, HR 78, RR 16, SpO2 95% RA, Wt stable.
+Gen: NAD, comfortable, sitting upright.
+Resp: Mild expiratory wheeze bilat bases, no rales, no accessory muscle use.
+CV: RRR, no m/r/g. Peripheral pulses diminished bilat LE c/w known PAD, no acute ischemic changes.
+Ext: No edema, feet warm, cap refill <3s.
+Renal: No flank tenderness.
+
+Assessment:
+1. COPD - stable, continue current regimen.
+2. PAD - stable, continue antiplatelet, monitor claudication sx.
+3. CKD stage 3 - stable, recheck renal panel at next visit.
+
+Plan:
+- Continue tiotropium + albuterol PRN.
+- Pulm function test to be repeated in 6 months.
+- Encouraged physical activity as tolerated given PAD.
+- Renal panel and lipid panel ordered.
+- D/c'd outdated HTN dx pending PCP clarification.
+- Lung cancer screening discussed in general terms; no imaging ordered today.
+- F/u in 3 months or sooner if worsening symptoms.
+
+Electronically signed: Farah Siddiqui, MD
+
+ADDENDUM (same day, later): Spoke with pt by phone re: renal panel scheduling logistics; pt agreeable to lab draw next week at outside lab. No new complaints reported at time of call. Reiterated importance of adherence to inhaler regimen and activity as tolerated for PAD. No changes to plan above. -F. Siddiqui, MD

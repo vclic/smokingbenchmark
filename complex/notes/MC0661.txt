@@ -1,0 +1,87 @@
+TELEHEALTH VISIT NOTE
+Patient: Joyce Rodriguez | DOB: 1/26/1946 (Age 77) | Sex: F
+Date of Service: 03/02/2023
+Provider: Steven Park, MD (Internal Medicine)
+Visit type: Pre-operative evaluation - telehealth, right total knee replacement
+
+HPI:
+Ms. Rodriguez is a 77-year-old woman with history of peripheral artery disease, depression, gout, atrial fibrillation, osteoporosis, and COPD who presents via telehealth for pre-op medical clearance prior to planned right total knee arthroplasty. She reports worsening right knee pain, "it's bone on bone now, I can barely get up the stairs." She denies chest pain, denies recent falls. Regarding tobacco use, patient reports she has smoked about a quarter pack (approximately 5 cigarettes) per day since 1963 and continues to smoke despite repeated counseling on cessation. She states, "I've tried patches before but I always go back to it, it's just what I do after dinner." She was counseled again today on the benefits of quitting and offered pharmacologic cessation aids; she declined at this time but agreed to think it over.
+
+NOTE: The templated Social History field below auto-populated from an old record and incorrectly lists "Never Smoker" - this is inaccurate; please disregard, as documented above patient is a current daily smoker.
+
+SOCIAL HISTORY (templated block):
+Smoking status: Never Smoker [FIELD ERROR - see HPI for accurate history]
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired seamstress
+Living situation: Lives alone, daughter nearby
+Exercise: Not on file
+Diet: Not on file
+
+--- COPIED FROM PRIOR NOTE DATED 05/02/2019 (Dr. R. Alvarez) ---
+Social History (as documented 5/2/2019): Patient is a current smoker. No further detail specified in that note.
+--- END COPIED SECTION ---
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: Denies vision changes.
+ENT: Denies hearing loss, sore throat.
+Cardiovascular: Reports occasional palpitations, known atrial fibrillation, denies chest pain, denies orthopnea.
+Respiratory: Reports chronic cough, known COPD, denies hemoptysis, denies acute dyspnea at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Positive for right knee pain, stiffness; gout flares in great toe intermittently.
+Skin: Denies rash.
+Neuro: Denies focal weakness, numbness.
+Psych: Reports depressed mood, stable on current medication regimen.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, denies swollen glands.
+Allergic/Immunologic: Denies seasonal allergies.
+
+MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Clopidogrel 75 mg PO daily
+4. Allopurinol 100 mg PO daily
+5. Colchicine 0.6 mg PO as needed for gout flare
+6. Sertraline 100 mg PO daily
+7. Alendronate 70 mg PO weekly
+8. Tiotropium inhaler 1 puff daily
+9. Albuterol HFA inhaler PRN
+10. Calcium carbonate/vitamin D3 supplement daily
+11. Cilostazol 100 mg PO BID
+
+PHYSICAL EXAM:
+Vitals (via home cuff/reported): BP 132/78, HR 78 irregular, RR 16, SpO2 95% on room air, Temp 97.8F, Weight 148 lbs.
+General: Alert, oriented x3, no acute distress, seated comfortably on video.
+HEENT: Normocephalic atraumatic, no visible facial asymmetry.
+Neck: No visible JVD appreciated on camera.
+Cardiovascular: Irregularly irregular rhythm reported by patient's home pulse check; unable to auscultate via telehealth.
+Respiratory: No visible increased work of breathing, no accessory muscle use noted on camera.
+Extremities: Patient demonstrates limited right knee flexion on camera, no visible swelling of calves reported by patient, no visible cyanosis.
+Skin: No rashes visible on camera.
+Psych: Mood appears euthymic, affect appropriate.
+
+LABS/RESULTS:
+CBC (02/20/2023): WBC 6.8, Hgb 12.4, Hct 37.2, Plt 245
+BMP (02/20/2023): Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 102
+INR (02/25/2023): 1.1 (on apixaban, not routinely followed but obtained per surgical request)
+Uric acid (01/15/2023): 7.8 mg/dL
+TSH (01/15/2023): 2.1 mIU/L
+DEXA scan (11/2022): T-score -2.7 lumbar spine, consistent with osteoporosis
+PFTs (09/2022): FEV1 62% predicted, FEV1/FVC ratio 0.64, consistent with moderate COPD
+EKG (03/01/2023): Atrial fibrillation, rate 76, no acute ST changes
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable, continue cilostazol and clopidogrel, will need surgical/anesthesia input regarding antiplatelet management perioperatively.
+2. Atrial fibrillation - rate controlled, continue metoprolol; apixaban will require bridging discussion with orthopedic surgery and anesthesia given bleeding risk with TKA.
+3. Depression - stable on sertraline, continue current dose.
+4. Gout - continue allopurinol, colchicine PRN, uric acid at goal.
+5. Osteoporosis - continue alendronate and calcium/vitamin D, fall precautions post-op.
+6. COPD - moderate, stable; continue tiotropium and albuterol PRN, will optimize pulmonary status pre-op; incentive spirometry post-op recommended.
+7. Tobacco use - current daily smoker as above; discussed smoking cessation extensively today, patient not ready to quit at this time, declined pharmacotherapy; will readdress at future visits.
+8. Pre-operative clearance - medically optimized for proceeding with right TKA pending surgical/anesthesia clearance regarding anticoagulation management.
+
+Follow up with orthopedic surgery and anesthesia pre-op clinic prior to procedure. Return to clinic or telehealth as needed. Patient verbalized understanding of plan.
+
+Electronically signed: Steven Park, MD

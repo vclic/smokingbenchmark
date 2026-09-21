@@ -1,0 +1,35 @@
+Encounter: Pulmonology Follow-up (COPD)
+Patient: Brenda White | DOB: 07/17/1953 | Age: 70 | Sex: F
+Date of Service: 09/15/2023
+Attending: Gregory Tan, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 142/86, HR 78, RR 18, SpO2 93% RA, Temp 98.2F, Wt 202 lb, Ht 5'4"
+Chief complaint per chart: COPD f/u.
+Social History (templated):
+ Tobacco use: Unable to obtain - patient aphasic, poor historian at this visit.
+ Alcohol use: Not on file
+ Occupation: Retired
+ Living situation: Blank
+ Secondhand smoke exposure: Not on file
+
+HPI (nurse note): Patient accompanied by daughter today, reports pt has had increasing word-finding difficulty and appears aphasic since a recent hospitalization; history is limited as patient is unable to reliably answer questions today. Daughter reports increased dyspnea on exertion over past 2 weeks.
+
+Problem List:
+- J44.9 COPD, unspecified
+- I10 Essential hypertension
+- N18.3 CKD stage 3
+- K21.9 GERD
+- E66.9 Obesity
+- E78.5 Hyperlipidemia (outdated, resolved per 2019 note, left on list)
+
+Medications: Tiotropium inhaler daily, Albuterol PRN, Lisinopril 20mg daily, Omeprazole 20mg daily, Atorvastatin 10mg daily (may be d/c'd), Furosemide 20mg daily, Metoprolol succinate 25mg daily, Vitamin D3 1000 IU daily.
+
+Review of Systems: Constitutional - denies fever, chills; reports fatigue. Resp - dyspnea on exertion, chronic cough, no hemoptysis. CV - no chest pain, occasional palpitations. GI - reflux symptoms stable on PPI. GU - no dysuria. Neuro - new expressive language difficulty per family, no focal weakness noted. MSK - denies joint pain. Skin - no rashes. All other systems reviewed and negative per template.
+
+--- PHYSICIAN PROGRESS NOTE (Gregory Tan, MD) ---
+Brenda White is a 70-year-old female (DOB 7/17/1953) presenting today, 09/15/2023, for COPD follow-up in Pulmonology clinic. As noted by nursing, the patient is currently aphasic and a poor historian; tobacco history is unable to be obtained at this time and could not be verified with the daughter either. No further smoking history is documented in this encounter.
+
+Exam: Alert, appears comfortable, mild expiratory wheeze bilaterally, no accessory muscle use. Cardiac exam RRR, no murmurs. Abdomen obese, soft, nontender. Extremities without edema. Neurologic exam notable for expressive aphasia; will refer to neurology for further workup given acute change.
+
+Assessment/Plan: COPD - stable oxygenation, continue current inhaler regimen, discussed pulmonary rehab. HTN - well controlled, continue lisinopril. CKD stage 3 - monitor renal function, recheck BMP. GERD - continue omeprazole. New expressive aphasia - urgent neurology referral, consider MRI brain. Will attempt to re-obtain full social and tobacco history once patient's communication improves or via other family collateral.

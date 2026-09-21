@@ -1,0 +1,80 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Karen Hernandez
+DOB: 9/24/1957 (age 66)
+Date of Service: September 24, 2023
+Author: Elena Markovic, MD, Primary Care
+
+Dear Dr. Colleague,
+
+Thank you for referring Ms. Hernandez for follow-up after her recent hospitalization for pneumonia. I had the pleasure of seeing her today, 09/24/2023, in clinic, and I am pleased to update you on her progress.
+
+HPI: Ms. Hernandez is a 66-year-old woman with history of BPH, heart failure with reduced ejection fraction, and coronary artery disease who presented last week with cough, fever, and dyspnea, and was admitted for community-acquired pneumonia. She was treated with IV antibiotics and discharged home five days ago on oral therapy. She states, "I feel a lot better than I did in the hospital, but I still get winded going up the stairs." She denies chest pain, denies hemoptysis, denies fevers or chills currently. She reports mild fatigue and states "my appetite is coming back slowly." No nausea, no vomiting, some residual cough productive of clear sputum. She denies any recent weight loss she is aware of, though states "I haven't been weighing myself, honestly."
+
+Review of Systems:
+Constitutional: Positive for fatigue, denies fever/chills at this time.
+HEENT: No sore throat, no congestion, no [inaudible] sinus pressure reported.
+Cardiovascular: Denies chest pain, denies palpitations, mild orthopnea noted, uses two pillows.
+Respiratory: Residual cough, improving, denies wheeze, denies hemoptysis.
+GI: Appetite improving, denies nausea/vomiting/diarrhea, denies abdominal pain.
+GU: Reports nocturia x2-3, consistent with known BPH, denies dysuria, denies hematuria.
+Musculoskeletal: Denies joint pain, denies swelling.
+Neuro: Denies headache, denies dizziness, denies focal weakness.
+Psych: Denies depression, denies anxiety, mood stable.
+Skin: No rashes noted, no new lesions.
+All other systems reviewed and are negative except as noted above.
+
+Social History (templated EHR block):
+Tobacco use status: Current every day smoker
+Smoking status: Active smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+Past Medical History: BPH, HFrEF, CAD, pneumonia (recent hospitalization).
+
+Past Surgical History: None on file.
+
+Medications (reconciled at discharge):
+1. Metoprolol succinate 50 mg daily
+2. Lisinopril 10 mg daily
+3. Furosemide 40 mg daily
+4. Spironolactone 25 mg daily
+5. Atorvastatin 40 mg nightly
+6. Aspirin 81 mg daily
+7. Tamsulosin 0.4 mg nightly
+8. Finasteride 5 mg daily
+9. Amoxicillin-clavulanate 875 mg twice daily, to complete 5-day course (started at discharge)
+10. Albuterol inhaler PRN
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 128/76, HR 78, RR 16, Temp 98.2F, SpO2 95% on room air, weight stable per chart.
+General: Alert, oriented, no acute distress, comfortable appearing.
+HEENT: Normocephalic, atraumatic, oropharynx clear, mucous membranes moist.
+Neck: No JVD appreciated, no thyromegaly, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated today, no gross edema of lower extremities, trace edema at ankles bilaterally.
+Respiratory: Mild bibasilar crackles, improved from prior exam, no wheezes, no rhonchi, good air movement bilaterally.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no hepatosplenomegaly.
+Extremities: Trace edema as above, no calf tenderness, pulses intact.
+Skin: Warm, dry, no rashes.
+Neuro: Grossly intact, no focal deficits, gait steady with assistance of cane (baseline).
+
+Labs (reviewed from discharge, no new labs drawn today): WBC trending down, BNP mildly elevated but at baseline for her, creatinine stable, electrolytes within normal limits.
+
+Assessment and Plan:
+1. Recent pneumonia, resolving clinically - continue current antibiotic course to completion, follow up if fever recurs or symptoms worsen, encourage incentive spirometry and ambulation as tolerated.
+2. Heart failure with reduced ejection fraction - stable today, continue current guideline-directed medical therapy, monitor daily weights, reinforce low-sodium diet.
+3. Coronary artery disease - continue aspirin and statin, no anginal symptoms reported today.
+4. BPH - continue tamsulosin and finasteride, tolerating well, no urinary retention symptoms.
+5. Tobacco use - patient is an active smoker with a 50-year history of smoking. Discussed health risks of continued tobacco use in the setting of her cardiopulmonary disease at length, offered smoking cessation counseling and pharmacotherapy options, patient states she is "thinking about it" but not ready to quit at this time. Lung cancer screening was discussed as a general topic of conversation appropriate to her age and smoking history, to be revisited at a future visit.
+6. Follow up in 2 weeks or sooner if symptoms worsen, will coordinate with cardiology as needed.
+
+Thank you again for allowing me to participate in Ms. Hernandez's care. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Elena Markovic, MD

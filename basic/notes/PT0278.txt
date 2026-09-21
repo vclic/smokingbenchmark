@@ -1,0 +1,42 @@
+General Medicine Clinic Clinic Note
+Date of Service: November 21, 2023
+Patient: Sharon Torres   DOB: 7/19/1944   MRN: 13809948
+
+S:
+CC: Pre-operative evaluation
+HPI: Ms. Torres is a 79-year-old female with a history of osteoporosis, CAD, OA, and HTN who presents for pre-operative evaluation prior to left total hip arthroplasty. Scheduled for left total hip arthroplasty on 12/23/2023. Walks daily without limitation. No prior anesthesia complications.
+
+PMH:
+- Essential hypertension
+- Coronary artery disease
+- Osteoarthritis
+- Osteopenia
+PSH: Carpal tunnel release; Right total knee arthroplasty
+Meds: aspirin 81 mg daily; acetaminophen 500 mg 2 tabs TID PRN; losartan 100 mg daily; calcium + vitamin D daily; alendronate 70 mg weekly; hydrochlorothiazide 25 mg daily
+Allergies: Sulfa drugs
+SH: Divorced, lives alone. She is a former smoker with fourteen pack-years and quit at age 50. Social drinker. No illicit drug use.
+FH: Noncontributory.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 126/84  HR: 93  RR: 12  Temp: 98.4 F  SpO2: 98% on RA  Wt: 165 lbs  BMI: 25.8
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (10/16/2023): Cr 0.85, K 3.9
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation: RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Osteoarthritis: Continue PRN analgesics; home exercises.
+3. Essential hypertension: Well controlled on home log. No changes.
+
+f/u 3 mo
+
+-- BO (MD)

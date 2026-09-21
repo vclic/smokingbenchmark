@@ -1,0 +1,57 @@
+VASCULAR SURGERY H&P
+Patient: Linda Powell | DOB: 5/10/1974 | Age: 52 | DOS: 05/10/2026
+Provider: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: Bilateral leg claudication, worsening over past several months, referred for PAD eval.
+
+HPI: 52 y/o female presents for evaluation of peripheral artery disease. She reports calf pain w/ ambulation, relieved by rest, distance now down to ~1 block. Denies rest pain, denies non-healing ulcers. Pt states she quit smoking right after her stroke and has not smoked since. Reports occasional gout flares in the right first MTP jt, currently quiescent. No chest pain, no SOB. Pt states pain is [inaudible] worse in the AM, improves as day progresses, then returns w/ prolonged standing, she also notes some numbness in toes bilat, [inaudible] question of neuropathy vs vascular etiology, will defer to vascular studies.
+
+PAST MEDICAL HISTORY:
+- Osteoarthritis, bilateral knees (M17.9)
+- Gout (M10.9)
+- Ischemic stroke (2010) (I63.9)
+- Hypertension (I10) - old dx, unclear current status, pt unsure if still active
+- Hyperlipidemia (E78.5)
+
+SOCIAL HISTORY: Tobacco - former smoker. Per pt report, smoked 2 packs per day for 8 years, then cut down to about 15 cigarettes per day for the next 9 years before quitting entirely. No current tobacco use. Denies illicit drug use. Occasional alcohol, ~1-2 glasses wine/wk. Lives w/ husband, retired schoolteacher.
+
+FAMILY HISTORY: Father - MI at age 60. Mother - T2DM. No known family h/o PAD.
+
+ALLERGIES: NKDA
+
+MEDICATIONS:
+- Allopurinol 300mg daily
+- Atorvastatin 40mg qHS
+- Aspirin 81mg daily
+- Colchicine PRN gout flare
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, wt loss. CV - denies chest pain, palpitations. Resp - denies cough, dyspnea. GI - denies abd pain, denies GI bleed. GU - denies dysuria. MSK - + joint pain as above, chronic. Neuro - denies focal weakness, denies numbness other than toes as noted. Skin - denies ulcers, denies rashes.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 98% RA, Wt 168 lb
+General: Well-appearing female, NAD.
+CV: RRR, no murmurs. Femoral pulses 2+ bilat, popliteal pulses diminished bilat, DP/PT pulses non-palpable bilat, cap refill delayed >3 sec toes bilat.
+Resp: CTAB.
+Abd: Soft, NT/ND.
+Ext: No ulcers noted, mild hair loss noted b/l lower legs, skin cool to touch distally, no edema.
+MSK: Mild crepitus b/l knees, no active synovitis. 1st MTP jt right - no acute erythema/swelling today.
+Skin: Intact, no rashes.
+
+LABS/RESULTS:
+- CBC (05/08/2026): WBC 6.8, Hgb 13.9, Plt 245
+- BMP (05/08/2026): Na 140, K 4.1, Cr 0.9, Glucose 98
+- Uric acid (05/08/2026): 7.2 mg/dL
+- Lipid panel (05/08/2026): Total chol 178, LDL 96, HDL 52, Trig 150
+- ABI (05/09/2026): Right 0.68, Left 0.71 - consistent w/ moderate PAD
+
+ASSESSMENT/PLAN:
+52 y/o female w/ h/o ischemic stroke (2010), osteoarthritis, gout, now w/ symptomatic PAD w/ abnormal ABIs bilaterally.
+1. PAD - moderate severity by ABI. Will obtain arterial duplex of bilat lower extremities for further characterization. Started on cilostazol 100mg BID if no contraindications, supervised exercise program discussed. Risk factor modification reviewed; pt is a former smoker, tobacco cessation counseling reinforced although she reports she quit smoking after her stroke and has remained abstinent since.
+2. H/o ischemic stroke (2010) - stable, no new neuro deficits today, continue ASA 81mg daily, follow w/ neurology as scheduled.
+3. Gout - quiescent currently, continue allopurinol, colchicine PRN flares, uric acid today 7.2, will recheck in 3 months.
+4. Osteoarthritis - stable, managing w/ conservative measures, refer to PT if worsens.
+5. HTN/HLD - defer to PCP for further management, recommend f/u w/ PCP re: BP control given reading today 138/84.
+
+Return to clinic in 6-8 wks w/ duplex results, sooner if worsening symptoms, rest pain, or non-healing wounds. Pt verbalized understanding of plan.
+
+Brian Okonkwo, MD

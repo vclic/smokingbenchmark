@@ -1,0 +1,55 @@
+Pulmonology - COPD Follow-up
+DOS: 04/12/2023
+Patient: Nancy Thomas | DOB 4/12/1972 | Age 51 y/o F
+Author: Quentin Hale, PA-C
+
+PROBLEM LIST:
+1. J44.9 - COPD, unspecified
+2. F32.9 - Depression, unspecified (dx 2015, stable)
+3. I48.91 - Atrial fibrillation, unspecified
+4. K21.9 - GERD
+5. Z87.891 - Personal hx nicotine dependence (outdated entry - pt still smoking, see below)
+
+HPI:
+pt here for f/u COPD. c/o "still get winded going up the stairs, worse than last winter" also endorses occasional wheeze am. denies fevers chills. Using albuterol prn, says "helps some but not all the way." No recent ER visits no hospitalizations since last seen. Sleep ok, appetite ok. GERD sx well controlled on current regimen, denies heartburn. Afib - no palpitations reported, takes anticoagulant as directed compliance good per pt report. Mood - "about the same, some good days some bad" - continues counseling.
+
+ROS:
+Constitutional: no fever no wt loss
+Resp: + dyspnea on exertion, + occasional wheeze, no hemoptysis
+CV: no chest pain no palpitations
+GI: no n/v, GERD well ctrl'd
+Psych: mood stable per pt, no SI/HI
+All other systems reviewed and neg per pt
+
+PMH: COPD, depression, afib, GERD
+PSH: none reported
+Meds: albuterol MDI prn, sertraline, apixaban, omeprazole
+Allergies: NKDA
+
+Social Hx:
+Tobacco - current smoker, cigs daily. Etoh - occasional. Illicit - denies.
+Lives w/ husband, retired teacher.
+
+VITALS:
+BP 128/78 HR 82 irreg irreg RR 18 SpO2 94% RA Temp 98.2 Wt 165 lb
+
+PHYSICAL EXAM:
+Gen: NAD, comfortable, sitting upright
+HEENT: nl, no JVD
+Resp: mild exp wheeze bilat, no crackles no accessory muscle use
+CV: irregularly irregular rhythm, no murmur
+Abd: soft NT ND
+Ext: no edema
+Psych: appropriate affect, cooperative
+
+ASSESSMENT/PLAN:
+51 yo F w/ COPD, depression, afib, GERD presents for routine f/u, reports mild worsening dyspnea on exertion.
+
+1. COPD - sx slightly worse than prior visit. pt continues to smoke cigarettes currently, per pt report smokes about half a pack (10 cigs) per day and has done so for 29 years. Counseled extensively re: smoking cessation, importance of quitting to slow disease progression and improve sx, offered resources incl quitline referral and nicotine repl options, pt states "I know I should quit, its just hard." will consider adding long acting bronchodilator, repeat spirometry ordered. Lung cancer screening discussed with pt given smoking hx, will revisit at next visit.
+2. Afib - rate appears controlled on exam, continue current anticoag, no acute issues today, cont monitor.
+3. Depression - stable per pt report, continue sertraline, continue counseling, will screen w PHQ9 at next visit.
+4. GERD - well controlled, continue omeprazole, reinforced dietary measures.
+
+F/u in 3 months or sooner if worsening sx. Pt verbalizes understanding of plan, all questions answered today.
+
+Electronically signed: Quentin Hale, PA-C 04/12/2023

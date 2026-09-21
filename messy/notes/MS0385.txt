@@ -1,0 +1,51 @@
+NURSE INTAKE (F. Rios, RN) — DOS: 03/20/2023
+Pt: Jose Foster, M, DOB 3/20/1960 (age 63). Visit: f/u incidental lung nodule, Pulm clinic.
+Vitals: BP 138/84, HR 76, RR 16, SpO2 96% RA, wt 224 lb (obese, BMI 33).
+CC: f/u nodule seen on CXR 2 mo ago, incidental finding.
+
+TOBACCO USE HISTORY (EHR template):
+- Smoking status: Former smoker
+- Pack-years: 23 pack-year smoking history
+- Quit date: May 1999
+- Other tobacco: pt also vapes occasionally, denies current cig use
+
+ROS: denies chest pain, denies hemoptysis, mild dyspnea on exertion attributed to PAD/obesity per pt.
+
+---
+PHYSICIAN PROGRESS NOTE — Farah Siddiqui, MD
+DOS: 03/20/2023
+
+Problem List (per chart, some entries outdated):
+1. BPH - N40.0
+2. Asthma, unspecified - J45.909
+3. Osteoarthritis, unspecified site - M19.90
+4. Obesity - E66.9
+5. Peripheral artery disease - I73.9
+6. Hx tobacco use - Z87.891
+7. GERD - K21.9 (old dx, not active, pt denies sx x 2 yrs)
+
+HPI: 63 yo M here for f/u of incidental pulm nodule found on CXR done for pre-op PAD w/u. No wt loss, no fevers, no night sweats. Baseline dyspnea stable per PAD hx. Asthma well-controlled on prn albuterol.
+
+[Copied from note dated 3/20/2021]: "Smoking status: former smoker." (No further quantities documented at that time.)
+
+Current smoking hx reviewed today: pt confirms he quit smoking in May 1999, cumulative 23 pack-year hx. Pt also reports occasional vaping, denies current combustible cig use. Encouraged continued abstinence from cigs; discussed potential health effects of vaping and advised cessation of that as well.
+
+Additional social hx: pt quit drinking alcohol in 2005, denies current EtOH use. Denies illicit drug use.
+
+Exam: Gen - NAD, obese habitus. CV - RRR, no m/r/g, PAD-related decreased pulses in b/l DP/PT noted (chronic). Resp - CTAB, no wheeze appreciated today, mild use of accessory muscles absent. MSK - crepitus b/l knees c/w known OA, no acute swelling. Ext - no edema, cool distal extremities c/w PAD.
+
+Imaging review: CT chest w/o contrast (outside file) shows 7mm solid nodule RUL, no significant change compared to prior CXR (limited comparison). No lymphadenopathy noted.
+
+A/P:
+1. Incidental pulm nodule - low-moderate risk given smoking hx, will obtain repeat low-dose CT in 6-12 mo per guidelines for surveillance interval; discussed screening guidelines in general terms with pt, no further imaging ordered today beyond surveillance plan.
+2. Asthma - continue prn albuterol, review inhaler technique today, refill given.
+3. PAD - continue current antiplatelet regimen per vascular, f/u with vascular surgery as scheduled.
+4. Obesity - counseled on diet/exercise, discussed wt mgmt referral.
+5. BPH - stable, continue tamsulosin.
+6. OA - continue APAP/NSAID as tolerated, PT referral offered.
+
+Plan discussed at length with pt, questions answered, verbalizes understanding. RTC 3 months or sooner if sx worsen.
+
+---
+ADDENDUM (later same day) — F. Siddiqui, MD, 03/20/2023 1645:
+After further review of prior imaging report from outside facility uploaded this afternoon, nodule characteristics unchanged from 2022 study, reassuring for stability. Discussed results by phone w/ pt, reassured, plan unchanged as above. Pt verbalizes understanding, no new concerns voiced. Will continue surveillance imaging per above interval; no additional imaging ordered at this time.

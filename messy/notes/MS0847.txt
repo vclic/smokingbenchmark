@@ -1,0 +1,57 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Rita Novak, F, DOB 3/22/1966 (age 59)
+DOS: 3/22/2025
+Provider: Kevin Osei, MD
+
+PROBLEM LIST (ICD-10):
+- E11.9 Type 2 diabetes mellitus w/o complications
+- I73.9 Peripheral artery disease (PAD)
+- M19.90 Osteoarthritis, unspecified site
+- E66.9 Obesity
+- I10 Hypertension
+- Z87.891 Personal hx of tobacco use (copy-forward, outdated dx code - pt still smoking, see below)
+
+HPI:
+Pt is a 59 yo F here for f/u of HTN and T2DM. States "my legs still ache when I walk to the mailbox" - c/w known PAD, stable per pt. Denies chest pain, SOB. Reports home BP readings running 130s/80s. Sugars c/w log, fasting ~110-130. Denies polyuria/polydipsia currently. c/o intermittent knee pain, OA-related, using OTC Tylenol w/ some relief.
+
+Regarding tobacco: pt states "I know I should quit, I've tried before." Continues to smoke despite repeated counseling at prior visits. On further discussion today, quantifies use as about a quarter pack per day (~5 cigs/day), and reports this pattern has been consistent for approximately 44 years. She has expressed interest in quitting and per discussion today has set a quit date of 4/21/2025. Encouraged NRT and follow-up.
+
+[NOTE COPIED FROM VISIT DATED 3/22/2022 - RETAINED FOR HISTORICAL REFERENCE, NOT UPDATED]:
+"Tobacco use as of 3/22/2022: current smoker. Advised cessation, discussed resources. Pt not ready to quit at this time."
+[END COPIED SECTION]
+
+ROS: Otherwise negative except as above. No fevers, no vision changes, no numbness/tingling in feet reported today though will screen at next visit.
+
+PMH: T2DM dx ~2015, PAD dx 2020, OA knees, obesity, HTN.
+PSH: none significant.
+Meds: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily, Tylenol PRN.
+Allergies: NKDA.
+Social Hx: Lives w/ spouse, retired admin assistant. Tobacco use as above. Denies EtOH abuse, denies illicit drug use. Limited exercise 2/2 leg pain.
+Family Hx: Mother - T2DM, Father - MI at 68.
+
+VITALS: BP 128/78, HR 76, RR 16, Temp 98.2F, Wt 198 lb, BMI 34.1
+
+EXAM:
+Gen: NAD, obese habitus, pleasant, cooperative.
+CV: RRR, no m/r/g.
+Resp: CTAB.
+Abd: soft, NT/ND, obese.
+Ext: PAD-related findings - diminished DP/PT pulses bilat, no ulcers noted today, feet warm, skin intact. Mild crepitus b/l knees, no effusion.
+Skin: no lesions.
+
+LABS (reviewed):
+A1c 7.8% (last mo)
+Lipid panel: LDL 92, HDL 44, TG 150
+Cr 0.9, eGFR >60
+
+ASSESSMENT/PLAN:
+1. Type 2 DM (E11.9) - A1c 7.8%, mod control. Continue metformin, reinforce diet/exercise as tolerated given PAD limitations. Recheck A1c in 3 mo.
+2. HTN (I10) - well controlled on current regimen, continue lisinopril.
+3. PAD (I73.9) - stable claudication sx, continue aspirin/statin, monitor pulses, f/u vascular surgery per prior referral.
+4. Osteoarthritis (M19.90) - continue OTC Tylenol, consider PT referral if worsens.
+5. Obesity (E66.9) - discussed weight mgmt strategies, nutrition referral offered.
+6. Tobacco use disorder - Pt smokes a quarter pack (about 5 cigarettes) per day, with a 44-year history of use. She continues to smoke despite ongoing counseling. Quit date set for 4/21/2025; discussed NRT options, offered referral to cessation program. Lung cancer screening discussed generally as part of preventive care conversation.
+
+RTC 3 months, sooner if concerns.
+
+Kevin Osei, MD

@@ -1,0 +1,84 @@
+TELEHEALTH VISIT NOTE
+Dept: Internal Medicine (Pre-Op Clearance)
+Author: Anita Patel, MD
+Date of Service: 10/02/2025
+Patient: Ronald Brown | DOB: 10/02/1957 | Age: 68 | Sex: M
+
+CHIEF COMPLAINT: Pre-op eval for right total knee arthroplasty, scheduled per Ortho (Dr. Lin) later this month.
+
+HPI:
+Pt is a 68 yo M with hx obesity, T2DM, AFib, and osteoporosis presenting via telehealth for pre-operative medical clearance ahead of R TKA. Pt states, "My knee's been bone-on-bone for two years, I just want to walk without pain again." Denies chest pain, SOB at rest, or recent palpitations. Reports occasional ankle swelling by end of day, attributes to standing at his part-time job. Denies fevers, recent infections, or falls. Reviewed anticoagulation status given AFib - pt on apixaban, last dose taken this AM per report. Discussed peri-op hold plan w/ pt, will coordinate w/ Ortho and cardiology.
+
+Pt also notes, "I tried a couple cigarettes back when I was maybe 15 or 16, hated it, never really smoked after that." No other tobacco use reported at this visit.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. E66.9 - Obesity, unspecified (BMI last documented 33.4, 2024)
+2. E11.9 - Type 2 diabetes mellitus without complications
+3. I48.91 - Atrial fibrillation, unspecified type
+4. M81.0 - Age-related osteoporosis without current pathological fracture
+5. J45.909 - Asthma, unspecified (outdated dx, pt reports no asthma sx x10 yrs, may need to be removed from list)
+6. M17.11 - Unilateral primary osteoarthritis, right knee
+
+MEDICATIONS:
+- Apixaban 5 mg PO BID
+- Metformin 1000 mg PO BID
+- Empagliflozin 10 mg daily
+- Alendronate 70 mg PO weekly
+- Vitamin D3 2000 IU daily
+- Calcium carbonate 600 mg BID
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Never smoker (per pt report, few experimental cigs as teen, no regular use)
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Illicit drug use: Denies
+Occupation: Part-time hardware store clerk
+Living situation: Lives w/ spouse
+Exercise: Limited 2/2 knee pain, uses stationary bike as tolerated
+E-cigarette/vaping use: Not on file
+
+ROS: Constitutional - no fever/chills/weight loss. CV - no CP, no palpitations at present, known AFib. Resp - no cough/dyspnea. GI - no N/V/D. GU - no dysuria. MSK - chronic R knee pain, improved w/ bracing. Endo - reports home glucose readings 110-160 mg/dL. Neuro - no focal deficits. Psych - denies depression/anxiety.
+
+VITALS (telehealth, pt self-reported/home cuff):
+BP 138/82, HR 76 irregular, RR 16, Temp 98.2F (per pt), Wt 224 lb, Ht 5'9"
+O2 sat 97% RA (home pulse ox)
+
+EXAM (limited, telehealth):
+Gen: Well-appearing, no acute distress, seated comfortably.
+CV: Irregularly irregular rhythm noted on pt's home ECG-capable watch strip reviewed during call, no gross distress.
+Resp: No visible increased work of breathing.
+Ext: Pt demonstrates mild swelling R ankle on camera, no overt erythema.
+Skin: No rashes visible.
+(Note: physical exam limited by telehealth modality; formal in-person pre-op exam to be completed by anesthesia pre-op clinic day of surgery.)
+
+LABS REVIEWED (from recent visit 09/15/2025):
+HbA1c 7.4%
+Cr 0.9, eGFR >60
+CBC WNL
+INR not applicable (on DOAC)
+TSH 2.1
+
+ASSESSMENT AND PLAN:
+68 yo M, DOB 10/02/1957, seen today 10/02/2025 via telehealth for pre-op clearance prior to R TKA.
+
+1. Atrial fibrillation (I48.91) - Rate controlled currently, on apixaban. Will need peri-op anticoag plan; recommend cardiology clearance note prior to surgery date. Continue home metoprolol (not listed above, will reconcile - please add to med list on next visit).
+
+2. Type 2 diabetes mellitus (E11.9) - A1c 7.4%, reasonably controlled. Continue home regimen, hold empagliflozin per standard peri-op protocol (SGLT2 inhibitor hold 3-4 days pre-op to reduce euglycemic DKA risk). Will provide written instructions.
+
+3. Obesity (E66.9) - BMI elevated, discussed weight-bearing implications for post-op recovery and rehab. Encouraged continued dietary moderation.
+
+4. Osteoporosis (M81.0) - Continue alendronate, calcium, vitamin D. No new fractures reported.
+
+5. Tobacco/smoking history - Pt reports minimal experimental cigarette use as a teenager, never a regular smoker; no current or past regular tobacco use identified. No further counseling needed at this time given lack of smoking history; general health maintenance counseling on alcohol moderation given as routine.
+
+6. Pre-operative clearance - Medically reasonable to proceed w/ R TKA pending cardiology sign-off re: anticoag hold plan given AFib. Recommend standard pre-op labs/EKG day of or week of surgery per anesthesia protocol. Will fax clearance summary to Ortho office.
+
+7. Asthma (J45.909) - Outdated problem, pt denies any asthma sx in over a decade, no inhalers on current med list, recommend removal from active problem list at next in-person visit for chart accuracy.
+
+FOLLOW UP: Pt to follow up with cardiology within 1-2 wks for anticoag peri-op planning. RTC to this office PRN or after surgery for post-op medical management. Telehealth visit concluded, pt verbalized understanding of plan, no further questions at this time.
+
+Time spent: approx 20 min telehealth encounter, more than half spent on counseling/coordination of care regarding peri-op anticoagulation and diabetes med adjustments.
+
+Electronically signed: Anita Patel, MD - 10/02/2025

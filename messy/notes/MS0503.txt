@@ -1,0 +1,79 @@
+PULMONOLOGY RESIDENT NOTE
+Attending Attestation: Owen Fitzgerald, MD
+Date of Service: 06/06/2026
+Patient: Roger Flores, M, DOB 04/11/1970 (age 56)
+
+CHIEF COMPLAINT: COPD follow-up
+
+HPI:
+Mr Flores is a 56 year old male with hx of COPD, CAD, HLD, OSA, PAD, obesity, and asthma who presents today for routine f/u of his COPD. He reports mild increase in dyspnea on exertion over the past month, no fevers, no increase in sputum production, no hemoptysis. Uses albuterol inhaler PRN, occasional wheeze noted by pt at night. Compliant w/ CPAP most nights per pt report. Denies chest pain today, denies orthopnea. He states his energy level is stable, ambulates without assistive device.
+
+***COPY-FORWARD FROM PRIOR VISIT (03/02/2026) - left in chart by prior author, retained for continuity***
+Pt is a 56M (age at time of note) with COPD, CAD s/p PCI, HLD on statin, OSA on CPAP, PAD, obesity, asthma presenting for routine pulm f/u. Pt reports doing well overall, no acute distress. Denies CP, SOB at rest, denies cough. Continues home meds as prescribed. Denies recent hospitalizations or ED visits. Pt was counseled extensively regarding importance of medication adherence and pulmonary rehab referral was discussed at that time. Pt agreeable to f/u in 3 months.
+***END COPY-FORWARD***
+
+SOCIAL HISTORY (EHR templated fields):
+Tobacco use: Former smoker
+Smoking history: Smoked approximately three-quarters of a pack per day (about 15 cigarettes/day) for 30 years; patient no longer smokes; quit smoking at age 51.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Second hand smoke exposure: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+HEENT: Denies sore throat, nasal congestion, hearing changes.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND. Positive for known CAD.
+Respiratory: Positive for mild exertional dyspnea, denies hemoptysis, denies productive cough, denies wheeze at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Denies joint pain, denies swelling.
+Neuro: Denies headache, dizziness, syncope.
+Psych: Denies depression, anxiety.
+Skin: Denies rash, lesions.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic: Denies easy bruising, bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 18, SpO2 94% RA, Temp 98.4F, BMI 33.2
+General: Well-developed, well-nourished male in no acute distress.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mild expiratory wheeze bilaterally, no rales, no rhonchi, breathing comfortably.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, PAD-related skin changes noted on b/l lower extremities, pulses diminished but palpable.
+Skin: Warm, dry, no rashes.
+Neuro: Alert and oriented x3, no focal deficits.
+
+MEDICATIONS:
+1. Albuterol HFA inhaler PRN
+2. Tiotropium inhaler daily
+3. Atorvastatin 40mg daily
+4. Aspirin 81mg daily
+5. Clopidogrel 75mg daily
+6. Metoprolol succinate 50mg daily
+7. Lisinopril 20mg daily
+8. Cilostazol 100mg BID
+9. Fluticasone/salmeterol inhaler BID
+10. Montelukast 10mg daily
+11. Multivitamin daily
+
+ASSESSMENT/PLAN:
+1. COPD - stable, mild increase in DOE, continue current inhaler regimen, reinforce inhaler technique, f/u in 3 months, discussed pulmonary rehab again.
+2. CAD - stable, continue current cardiac meds, f/u with cardiology as scheduled.
+3. HLD - continue statin, lipid panel due at next visit.
+4. OSA - continue CPAP, encourage adherence tracking review.
+5. PAD - continue cilostazol, monitor symptoms, vascular surgery f/u as needed.
+6. Obesity - counseled on diet and exercise, discussed weight loss goals.
+7. Asthma - overlap with COPD, continue combination inhaler.
+Lung cancer screening was discussed with the patient as part of general preventive health counseling.
+
+Plan discussed with and reviewed by attending Dr. Fitzgerald. Pt verbalizes understanding, agrees with plan, f/u appt made.
+
+---
+ADDENDUM (later same day, 06/06/2026, 16:42):
+Additional note - pt called back to clinic after CT scheduling desk mixup, clarified he is not currently scheduled for any imaging today. No changes to plan above. Pt reassured. Will proceed as documented. Attending Dr. Fitzgerald aware and concurs.

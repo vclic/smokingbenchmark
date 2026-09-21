@@ -1,0 +1,82 @@
+TELEHEALTH VISIT NOTE
+Family Medicine
+Date of Service: 03/13/2024
+Provider: Michael Dunn, DO
+
+Patient: Thomas Ramirez
+DOB: 03/13/1957 (Age 67)
+Sex: M
+
+Visit Type: Telehealth - medication refill visit
+
+CHIEF COMPLAINT: Medication refills - osteoporosis and asthma management.
+
+HPI:
+Mr. Ramirez is a 67-year-old male who presents via telehealth today, 03/13/2024, for routine follow-up and medication refills. He reports doing reasonably well overall. No new fractures, no significant bone pain. His asthma has been stable, using his rescue inhaler infrequently, approximately once every 1-2 weeks with exertion. He denies any recent exacerbations, ED visits, or hospitalizations for asthma in the past year. He is compliant with his osteoporosis medication regimen. He denies chest pain, palpitations, or shortness of breath at rest.
+
+[COPIED FORWARD FROM VISIT 09/14/2023]:
+Patient seen in office for annual wellness exam. Reports good energy, no falls, no new fractures. Continues on alendronate weekly. Asthma well controlled on current regimen, uses albuterol PRN. Denies wheeze, cough, or nocturnal symptoms. Diet reviewed - encouraged calcium and vitamin D rich foods. Discussed fall prevention strategies at home, including removal of loose rugs and adequate lighting. Bone density scan reviewed, T-score discussed with patient, plan to repeat DEXA in 2 years. Immunizations up to date including pneumococcal and influenza vaccines. Patient tolerating medications well without GI upset. Follow-up in 6 months or sooner if symptoms arise.
+[END COPIED TEXT]
+
+Smoking history: Patient tried a few cigarettes as a teenager but never smoked regularly. No current tobacco use. Denies alcohol or illicit drug use.
+
+PROBLEM LIST:
+1. Osteoporosis (M81.0) - ongoing, on bisphosphonate therapy
+2. Asthma, mild intermittent (J45.20) - stable
+3. Hyperlipidemia (E78.5) - outdated, resolved per patient report, statin discontinued 2021
+4. GERD (K21.9) - outdated, not currently symptomatic
+5. Vitamin D deficiency (E55.9) - on supplementation
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: No vision changes, no hearing loss, no sore throat.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, hemoptysis, dyspnea at rest; occasional exertional wheeze as above.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, frequency, hematuria.
+Musculoskeletal: Denies joint pain, back pain, new fractures.
+Neuro: Denies headache, dizziness, weakness, numbness.
+Skin: No rashes or lesions.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (Telehealth - limited):
+General: Alert, well-appearing male, no acute distress, appears stated age.
+Vitals (per patient home BP cuff): BP 128/76, HR 72, reported temp 98.2F, weight 178 lbs.
+HEENT: Normocephalic, no visible distress, speaking in full sentences.
+Respiratory: No visible increased work of breathing, no audible wheeze on this call.
+Cardiovascular: Unable to auscultate via telehealth; patient denies symptoms.
+Musculoskeletal: No obvious deformity noted on camera, gait not assessed today.
+Skin: No visible rashes.
+Mental status: Alert, oriented x3, appropriate affect.
+
+LABS/RESULTS:
+- DEXA scan 11/02/2023: Lumbar spine T-score -2.6, Femoral neck T-score -2.3, consistent with osteoporosis.
+- CMP 02/20/2024: Calcium 9.4 mg/dL, Creatinine 0.9 mg/dL, eGFR >60.
+- Vitamin D, 25-OH 02/20/2024: 32 ng/mL (improved from prior 22 ng/mL on 08/2023).
+- Spirometry 06/2023: FEV1/FVC 78%, mild obstructive pattern, improved post-bronchodilator.
+
+CURRENT MEDICATIONS:
+1. Alendronate 70 mg PO once weekly
+2. Calcium carbonate 600 mg with Vitamin D3 PO BID
+3. Vitamin D3 2000 IU PO daily
+4. Albuterol HFA inhaler 90 mcg, 2 puffs PRN wheeze/SOB
+5. Fluticasone propionate inhaler 110 mcg, 2 puffs BID
+6. Lisinopril 10 mg PO daily (for mild HTN, not on active problem list above but continued)
+7. Multivitamin PO daily
+
+ASSESSMENT/PLAN:
+1. Osteoporosis - stable on alendronate, continue current regimen, repeat DEXA in approximately 2 years per prior plan. Refill alendronate x90 days sent to pharmacy.
+2. Asthma, mild intermittent - well controlled, continue current inhalers, refill albuterol and fluticasone sent to pharmacy. Reviewed proper inhaler technique verbally.
+3. Vitamin D deficiency - improving, continue supplementation, recheck level at next visit.
+4. Health maintenance - lung cancer screening discussed briefly given age; will revisit at next in-person visit for further discussion.
+5. Follow-up in 6 months, sooner if symptoms worsen. Patient to call if any new chest pain, shortness of breath, or fracture concerns.
+
+Time spent on this visit: 20 minutes, primarily counseling and coordination of care.
+
+Electronically signed: Michael Dunn, DO
+
+---
+ADDENDUM (later same day, 03/13/2024):
+Patient called back after visit to clarify pharmacy for refill of fluticasone inhaler - corrected to preferred pharmacy per patient request (CVS on Main St instead of Walgreens). No other changes to plan. Reiterated to patient that his smoking history is minimal - he mentioned trying a few cigarettes as a teenager but never became a regular smoker, which was documented for the record. No further concerns voiced by patient at this time.
+- Michael Dunn, DO

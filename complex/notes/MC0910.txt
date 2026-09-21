@@ -1,0 +1,49 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Division of Pulmonology
+Daniel Reyes, MD
+
+Patient: Karen Okafor (F), DOB 5/13/1953 (age 70)
+Date of Service: 05/13/2023
+Referring Provider: Dr. A. Whitfield, Internal Medicine
+
+Reason for visit: COPD follow-up.
+
+Dear Dr. Whitfield,
+
+Thank you for continuing to allow me to participate in the care of your patient, Ms. Okafor, a 70-year-old woman with COPD, type 2 diabetes, and BPH, seen today, 05/13/2023, for routine pulmonology follow-up.
+
+HPI: Pt reports intermittent dyspnea on exertion, worse with stairs, no significant change since last visit. Denies fever, chest pain, hemoptysis. Occasional productive cough, whitish sputum, no hemoptysis. Uses albuterol PRN, roughly 2-3x/week. Sleep fair, appetite stable. No recent hospitalizations or ED visits. No peripheral edema noted by pt. Diabetes reportedly well-controlled per PCP, last A1c 6.9% (per pt report). BPH sx stable on tamsulosin, nocturia x1-2/night.
+
+--- Copied forward from visit dated 11/02/2021 (retained for reference, not updated this visit) ---
+HPI (11/02/2021): Pt here for COPD f/u, reports stable dyspnea, uses albuterol inhaler PRN. Denies orthopnea, PND. No wt loss, no night sweats. Spirometry reviewed, FEV1 58% predicted, consistent w/ moderate obstruction. Pt educated on inhaler technique, smoking cessation resources offered. BPH: nocturia x2, tamsulosin tolerated well. DM2: diet-controlled per pt at that time, A1c 7.1%. Plan (2021): continue current regimen, f/u 6 months, consider pulm rehab referral.
+--- end copied forward text ---
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies daily use
+Drug use: Denies
+Occupation: Retired (former administrative assistant)
+Living situation: Lives alone, daughter nearby
+Exercise: Limited due to dyspnea
+Diet: 
+Caffeine: 
+
+Smoking history detail (dictated): Pt has smoked cigarettes for many years and currently smokes cigarettes. Per pt report, she smoked about a quarter pack (roughly 5 cigarettes) per day for 29 years, then increased her smoking to 1 pack per day for the past 17 years and continues to smoke at that rate currently. She states she has tried to cut down in the past without lasting success. Advised to quit smoking again today; discussed risks of continued tobacco use in setting of COPD and offered cessation counseling resources, including pharmacologic options (varenicline, nicotine replacement).
+
+EXAM: Vitals stable, afebrile. Lungs w/ diffuse expiratory wheeze, prolonged expiratory phase. Cardiac exam RRR, no murmurs. No lower extremity edema. Abdomen soft, non-tender.
+
+ASSESSMENT/PLAN:
+1. COPD - continue current inhaler regimen, reinforce technique, discuss general lung cancer screening topic without recommendation of specific test today.
+2. Tobacco use - discussed cessation extensively as above.
+3. T2DM - continue to follow with PCP.
+4. BPH - continue tamsulosin, stable.
+F/u in 3 months or sooner if symptoms worsen.
+
+Thank you again for this referral. Please contact me with any questions.
+
+Sincerely,
+Daniel Reyes, MD
+
+--- ADDENDUM (later same day, 05/13/2023) ---
+Addendum: Spoke further with pt by phone this afternoon regarding cessation resources; she agreed to consider nicotine patch trial and will call pharmacy. No other changes to plan. -- Daniel Reyes, MD

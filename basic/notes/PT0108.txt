@@ -1,0 +1,40 @@
+PROGRESS NOTE
+Date of Service: 2025-07-31
+Patient: James Russell   DOB: 9/10/1949   MRN: 36286923
+
+SUBJECTIVE:
+CC: Right shoulder pain
+HPI: Mr. Russell is a 75-year-old man with a history of HTN and BPH who presents for right shoulder pain. Right shoulder pain for 3 months, worse with activity. No trauma. Nothing has helped.
+
+PMH: BPH with LUTS, Essential hypertension
+PSH: Tonsillectomy (childhood); Right total knee arthroplasty
+Meds: tamsulosin 0.4 mg nightly; amlodipine 10 mg daily
+Allergies: Codeine (nausea)
+SH: Lives with wife and adult daughter. Retired, former construction worker. Quit drinking in 2003.
+FH: Son - type 1 diabetes. Father - colon cancer at 68.
+ROS: Gen neg, Skin neg, Neuro neg, MSK +, Resp neg, GI neg, CV neg
+
+O:
+Vitals: BP: 122/81  HR: 89  RR: 12  Temp: 97.7 F  SpO2: 99% on RA  Wt: 184 lbs  BMI: 27.9
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (2025-07-01): LDL 121, Cr 1.04, K 3.9
+
+A/P:
+1. Right shoulder pain: Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. BPH with LUTS
+   - Nocturia x1-2; continue tamsulosin.
+3. Essential hypertension: Well controlled on home log. No changes.
+
+Follow up in 1 month or sooner PRN.
+
+-- KO (MD)

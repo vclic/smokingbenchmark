@@ -1,0 +1,58 @@
+HISTORY AND PHYSICAL
+Patient: Michael Young M DOB 8/17/1963 (age 62)
+Date of Service: 08/17/2025
+Provider: Elena Markovic, MD
+PCP: new patient establish care visit
+
+CC: establish care, new patient physical
+
+HPI: 62 yo male presents to establish care w/ PCP, new to area, prior records requested but not yet on file. Pt reports hx of OSA on CPAP (compliance variable per pt report), type 2 DM diet controlled per pt but unclear last A1c. Also carries dx of COPD and asthma, uses inhalers intermittently, reports occasional wheeze and morning cough productive of clear sputum. No chest pain, no hemoptysis, denies fevers/chills. Pt somewhat vague historian, several gaps in hx d/t lack of records.
+
+ROS: Constitutional - denies fever, chills, wt loss. HEENT - denies vision changes, denies hearing loss. Resp - chronic cough as above, wheeze intermittent, denies hemoptysis. CV - denies chest pain, palpitations, edema. GI - denies abd pain, nausea, vomiting, denies change in bowel habits. GU - denies dysuria, hematuria. MSK - denies joint pain, denies swelling. Neuro - denies HA, denies numbness/tingling, denies weakness. Psych - denies depression, denies anxiety. Skin - denies rash, denies lesions. Endo - denies polyuria, denies polydipsia (though hx of DM2 noted above). All other systems reviewed and negative except as noted in HPI.
+
+Social History: Lives alone, retired warehouse worker. Denies illicit drug use. Reports occasional alcohol, ~2 beers/wk. Tobacco: current cigarette smoker, has smoked three-quarters of a pack (about 15 cigarettes) per day since age 19, still smoking currently. Advised re: smoking cessation resources, pt states not ready to quit at this time but will consider. Discussed lung cancer screening as a general topic for pts w/ significant smoking hx, no further action taken today.
+
+Medications:
+1. Metformin 1000mg PO BID
+2. Albuterol HFA inhaler PRN
+3. Fluticasone/salmeterol 250/50 one puff BID
+4. Tiotropium inhaler daily
+5. Lisinopril 10mg daily
+6. Atorvastatin 40mg daily
+7. Aspirin 81mg daily
+8. CPAP nightly (settings unknown, pt to bring machine data next visit)
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.4F, SpO2 94% RA, Wt 210 lb, Ht 5'10", BMI 30.1
+General: obese male, no acute distress, appears stated age
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear, no thrush
+Neck: no JVD, no lymphadenopathy, thyroid nonpalpable
+Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, breath sounds diminished at bases
+CV: RRR, no murmurs/rubs/gallops, no peripheral edema
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds, no organomegaly
+Extremities: no cyanosis, no clubbing, pulses 2+ bilaterally
+Skin: warm dry intact, no rashes noted
+Neuro: alert oriented x3, CN II-XII grossly intact, gait normal
+Psych: mood/affect appropriate
+
+Problem List (some outdated, review pending):
+- E11.9 Type 2 diabetes mellitus without complications
+- G47.33 Obstructive sleep apnea
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- I10 Essential hypertension (per old chart, to confirm)
+- E78.5 Hyperlipidemia, unspecified (per old chart)
+- Z87.891 Personal history of nicotine dependence -- NOTE: pt is a current smoker, dx needs updating in problem list
+
+Assessment/Plan:
+62M new to practice establishing care 08/17/2025, multiple chronic conditions incl COPD, asthma, OSA, T2DM.
+1. COPD/Asthma overlap - continue current inhalers, will obtain PFTs, consider pulm referral if not improved. Pt continues to smoke cigarettes daily which likely contributing to symptoms; counseled extensively on cessation, offered nicotine patches/gum, pt declined today but open to discussing again future visit.
+2. T2DM - order Hgba1c, CMP, lipid panel, urine microalbumin. Cont metformin.
+3. OSA - request CPAP compliance download, sleep med f/u.
+4. HTN/HLD - recheck BP, lipid panel as above, continue current meds pending records.
+5. Health maintenance - UTD on immunizations per pt report, will verify. Discussed importance of regular follow up given complex multi-system disease and ongoing tobacco use.
+RTC 4-6 wks or sooner if symptoms worsen.
+
+Elena Markovic, MD

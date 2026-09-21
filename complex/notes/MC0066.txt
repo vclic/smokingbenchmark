@@ -1,0 +1,66 @@
+NEW PATIENT VISIT - ESTABLISH CARE
+Primary Care - Nadia Haddad, MD
+DOS: 06/07/2025
+
+Pt: Carlos Roberts, M, DOB 6/7/1975 (age 50)
+
+CC: Establish care, general checkup, med reconciliation.
+
+HPI: 50 yo M presents to establish primary care. Pt has PMH significant for BPH, HFrEF, OSA (on CPAP per pt report, compliance unclear), asthma, and AFib. Denies acute complaints today. Reports occasional exertional dyspnea, stable, no chest pain, no palpitations currently, no syncope. Denies orthopnea/PND. Nocturia x2 attributed to BPH. Uses albuterol prn for asthma, denies recent exacerbations. Smoking hx: 21 pack-year smoking history noted. Pt quit smoking; he reports he quit smoking when his youngest grandchild was born, and that grandchild is now 11 yo. No other tobacco use reported. Denies illicit drug use. Reports occasional ETOH, social.
+
+PMH: BPH, HFrEF (last known EF ~35% per outside records, TBC), OSA, asthma, AFib (on anticoagulation per pt report, needs verification).
+
+PSH: None reported.
+
+FH: Father - MI at 68. Mother - DM2. No known FH of lung disease.
+
+SH: Retired construction supervisor. Married, lives w/ spouse. Denies current tobacco use (see HPI). Occasional ETOH. Denies illicit drugs. Independent w/ ADLs.
+
+Allergies: NKDA.
+
+Meds (per pt report / prior records, to reconcile):
+1. Metoprolol succinate 50 mg daily
+2. Lisinopril 10 mg daily
+3. Spironolactone 25 mg daily
+4. Furosemide 20 mg daily prn edema
+5. Apixaban 5 mg BID
+6. Tamsulosin 0.4 mg qHS
+7. Finasteride 5 mg daily
+8. Albuterol HFA prn
+9. Fluticasone/salmeterol 250/50 BID
+10. Atorvastatin 40 mg qHS
+11. Multivitamin daily
+12. Fish oil OTC
+
+ROS: Constitutional: denies fever, chills, unintentional wt loss/gain. Eyes: denies vision changes. ENT: denies sore throat, hearing loss. CV: as above, denies chest pain currently, + occasional palpitations resolved. Resp: + occasional exertional dyspnea, denies cough, hemoptysis. GI: denies N/V/D/C, denies abd pain. GU: + nocturia x2, denies dysuria, hematuria. MSK: denies joint pain, denies swelling. Skin: denies rash, denies lesions. Neuro: denies HA, denies numbness/tingling, denies focal weakness. Psych: denies depression, denies anxiety. Endo: denies polyuria/polydipsia. Heme: denies easy bruising/bleeding. Allergy/Immune: denies seasonal allergies. All other systems reviewed and negative except as noted above.
+
+Physical Exam:
+Vitals: BP 128/78, HR 72 irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb, Ht 70 in, BMI 28.4
+Gen: well-appearing, NAD, A&Ox3.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear, no thyromegaly.
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no JVD, no peripheral edema.
+Resp: CTAB, no wheezes/rales/rhonchi, no accessory muscle use.
+Abd: soft, NT/ND, +BS, no organomegaly.
+GU: deferred, prostate exam deferred to urology f/u.
+Ext: no cyanosis/clubbing/edema, pulses 2+ throughout.
+Skin: warm, dry, no rashes/lesions.
+Neuro: CN II-XII grossly intact, strength 5/5 throughout, sensation intact.
+Psych: mood/affect appropriate.
+
+Assessment/Plan:
+1. AFib - continue apixaban, will obtain EKG today, cards f/u to be arranged.
+2. HFrEF - continue GDMT as above, will trend BNP, echo to be scheduled given no recent record.
+3. OSA - continue CPAP, will refer to sleep med for re-eval and device download.
+4. Asthma - continue current inhalers, reviewed technique, provided asthma action plan.
+5. BPH - continue tamsulosin/finasteride, IPSS score to be assessed at f/u.
+6. Tobacco: former smoker, 21 pack-year hx, quit status confirmed - counseling regarding relapse prevention given, praised for cessation success. Lung cancer screening discussed with pt; will revisit at future visit.
+7. Health maintenance: labs ordered today (CBC, CMP, lipid panel, HbA1c, TSH), UTD on immunizations per pt report, will verify.
+
+RTC 3 months or sooner if symptoms worsen.
+
+Nadia Haddad, MD
+
+---
+ADDENDUM (later same day, 06/07/2025):
+Spoke further w/ pt by phone re: labs drawn this afternoon - pt tolerated well, no issues. Reiterated importance of continued smoking cessation given his 21 pack-year hx and cardiopulmonary comorbidities; pt reaffirmed he has not smoked since quitting when his youngest grandchild was born, now age 11, and has no plans to resume. Pt agreeable to all recommendations. Will follow up on labs and coordinate cardiology/sleep med referrals as above.
+Nadia Haddad, MD

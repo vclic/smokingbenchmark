@@ -1,0 +1,82 @@
+Steward Health Pulmonology
+Progress Note - Follow-up Incidental Lung Nodule
+Author: Steven Park, MD (NP visit co-signed)
+Date of Service: 02/07/2023
+
+Patient: Mark Flores, M, DOB 02/07/1945 (age 78)
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior imaging.
+
+HPI: Mr. Flores is a 78-year-old male who presents today for routine follow up of a right upper lobe pulmonary nodule noted incidentally on CT chest obtained for cardiac workup last year. He denies any new cough, hemoptysis, wait he says occasional throat clearing but no bloody sputum, denies fevers or chills, denies unintentional weight loss although he says his pants feel looser lately [inaudible] he attributes this to reduced appetite from reflux symptoms. He reports his GERD has been fairly well controlled on omeprazole though he admits to eating late dinners which the patient acknowledges worsens his symptoms and he continues to take antacids as needed the patient states he has not had any chest pain radiating to jaw or arm and denies any exertional dyspnea beyond his baseline. Patient underwent CABG x3 in 1988 and quit smoking right after his bypass surgery, remaining smoke-free since.
+
+PAST MEDICAL HISTORY:
+- Coronary artery disease
+- CABG x3 (1988)
+- GERD
+- Incidental pulmonary nodule, right upper lobe
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Status: Former smoker
+Smoking History Details: Patient reports smoking 2 packs per day for 11 years, then stopped completely for a period of 4 years, after which he restarted smoking at 1.5 packs per day for 9 years before quitting for good.
+Current Tobacco Use: No
+Secondhand Smoke Exposure: Denied
+Alcohol Use: Occasional, 1-2 drinks/week
+Illicit Drug Use: Denied
+
+FAMILY HISTORY: Father with history of MI in his 60s, mother with hypertension. No family history of lung cancer reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats; endorses mild decreased appetite.
+HEENT: Denies vision changes, denies hearing loss, denies sore throat, admits occasional throat clearing as above.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, prior CABG as noted.
+Respiratory: Denies cough, denies hemoptysis, denies wheeze, denies dyspnea at rest.
+Gastrointestinal: Endorses occasional heartburn, denies nausea, denies vomiting, denies hematochezia, denies melena.
+Genitourinary: Denies dysuria, denies hematuria, denies frequency.
+Musculoskeletal: Denies joint pain, denies swelling, denies back pain.
+Skin: Denies rash, denies new lesions.
+Neurological: Denies headache, denies dizziness, denies focal weakness, denies numbness.
+Psychiatric: Denies depression, denies anxiety, sleep is adequate.
+Endocrine: Denies polyuria, denies polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, denies swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies, denies recurrent infections.
+
+MEDICATIONS:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Metoprolol succinate 50 mg daily
+4. Lisinopril 10 mg daily
+5. Omeprazole 20 mg daily
+6. Clopidogrel 75 mg daily (per cardiology, ongoing since CABG)
+7. Multivitamin daily
+8. Calcium carbonate PRN for heartburn
+9. Vitamin D3 1000 IU daily
+10. Fish oil 1000 mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 68 regular, RR 16, Temp 98.2 F, SpO2 96% on room air, Weight 178 lbs, Height 5'9"
+General: Well-developed, well-nourished male, in no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no lymphadenopathy.
+Neck: Supple, no JVD, no carotid bruits appreciated.
+Cardiovascular: Regular rate and rhythm, well healed median sternotomy scar, no murmurs, rubs, or gallops appreciated.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no rales, no rhonchi, good air movement throughout.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No clubbing, no cyanosis, no edema, pulses 2+ bilaterally.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neurological: Alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout.
+Psychiatric: Mood and affect appropriate.
+
+ASSESSMENT AND PLAN:
+78 year old male with history of CAD s/p CABG x3 (1988) and GERD, followed for incidental pulmonary nodule.
+1. Pulmonary nodule - stable in size compared to prior imaging per radiology report reviewed today, will continue surveillance imaging per Fleischner guidelines, repeat CT chest recommended in 6 months, discussed lung cancer risk reduction generally including avoidance of secondhand smoke exposure and healthy lifestyle, screening options were discussed with patient in general terms.
+2. CAD - stable, continue current cardiac regimen, follow up with cardiology as scheduled, no new symptoms today.
+3. GERD - continue omeprazole, counseled on dietary modification including avoiding late meals and reducing caffeine intake, follow up if symptoms worsen or if alarm symptoms develop such as dysphagia or weight loss.
+4. Health maintenance - up to date on vaccinations per chart review, encouraged regular exercise as tolerated given cardiac history.
+
+Return to clinic in 6 months or sooner if symptoms arise, patient verbalized understanding of the plan and all questions were answered today.
+
+Electronically signed by Steven Park, MD
+
+ADDENDUM (same day, later):
+Addendum added after review of radiology report addendum received this afternoon - radiologist clarifies nodule measures 6mm, unchanged from prior study dated approximately one year ago, no additional action needed beyond above plan at this time. Patient was called and updated telephonically, he had no further questions. No changes to smoking history or other portions of note above.

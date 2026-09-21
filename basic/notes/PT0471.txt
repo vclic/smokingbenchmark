@@ -1,0 +1,79 @@
+General Medicine Clinic Clinic Note
+
+Patient: THOMAS, Carmen    MRN: 71624410
+DOB: 12/21/1965    Age: 58 y.o.    Sex: Female
+Date of Service: 03/14/2024    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Carmen Thomas is a 58 y.o. female who presents for routine preventive care.
+Feels well overall. Not exercising regularly. Eating out more since retiring.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension	2002
+• Atrial fibrillation
+• OSA
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• diltiazem ER 120 mg daily
+• rivaroxaban 20 mg daily
+• amlodipine 5 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with husband and adult daughter.
+  Works as a cashier.
+  Social drinker.
+  No IVDU.
+  Drives.
+
+Family History
+Parents deceased, causes unknown. Mother - HTN, DM2.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 151/77 (BP Location: Right arm, Patient Position: Sitting) | Pulse 95 | Temp 98.7 °F (Oral) | Resp 16 | Ht 5' 6" | Wt 145 lb | SpO2 95% | BMI 23.39 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (2024-03-05): Cr 0.83, K 4.9
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2019 - normal; Mammogram 2023-11-14 - BI-RADS 1; Shingrix #1 today; Flu shot today.
+2. OSA
+   Using CPAP nightly.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Quentin Hale, PA-C on 03/14/2024

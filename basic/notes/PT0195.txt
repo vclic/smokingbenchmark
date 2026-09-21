@@ -1,0 +1,46 @@
+Vascular Medicine Clinic Note
+Date of Service: 2023-03-17
+Patient: Rita Miller   DOB: 11/12/1948   MRN: 35146120
+
+SUBJECTIVE:
+CC: Claudication
+HPI: Mrs. Miller is a 74-year-old female with a history of osteoporosis, PAD, HLD, and CAD who presents for evaluation of leg pain with walking. Calf pain with walking 1 block, relieved by rest. No rest pain. She smoked 1-2 packs a day for 55 years and gave up cigarettes in 2019. ABI: R 0.88, L 0.89.
+
+PMH: Generalized anxiety disorder, ASCVD, Peripheral vascular disease, HFrEF, Hypercholesterolemia, Osteopenia, Class I obesity
+PSH: Lumbar laminectomy (2017)
+Meds: aspirin 81 mg daily; calcium + vitamin D daily; metoprolol succinate 50 mg daily; atorvastatin 20 mg daily; bupropion XL 150 mg daily; cilostazol 100 mg BID; torsemide 20 mg daily
+Allergies: Latex
+SH: Divorced, lives alone. No alcohol. No illicit drug use.
+FH: Father - stroke. Mother - HTN, DM2.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 132/75  HR: 88  RR: 20  Temp: 97.8 F  SpO2: 95% on RA  Wt: 167 lbs  BMI: 31.6
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Fine bibasilar crackles
+  Abd: Benign
+  Ext: Trace bilateral ankle edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (2/19/2023): LDL 142, Cr 0.72, K 4.8, Hgb 13.7
+
+ASSESSMENT/PLAN:
+1. PAD with claudication: Supervised exercise therapy referral; continue antiplatelet and statin.
+2. Hypercholesterolemia: LDL at goal on last check; continue.
+3. Former smoker
+   - Encouraged continued abstinence.
+
+Return in about 1 month (around 4/17/2023).
+
+-- NH (MD)

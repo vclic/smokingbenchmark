@@ -1,0 +1,55 @@
+RESIDENT NOTE - CARDIOLOGY
+Patient: Kathleen Rivera (DOB 1/30/1945)
+Date of Service: 01/30/2025
+Age: 80 y/o F
+Author: Michael Dunn, DO (resident); attending attestation below
+
+CC: chest pain eval
+
+HPI: 80 y/o F w/ hx HFrEF, COPD, PAD presents for eval of intermittent CP x several wks, described as pressure-like, non-exertional at times, no radiation, assoc mild SOB. No syncope. Denies diaphoresis today. Pt reports similar episodes in past but says "not as bad as before."
+
+PMH/Problem List (ICD-10):
+- I50.22 HFrEF (outdated - EF 30% on echo 2022, repeat pending)
+- M19.90 Osteoarthritis, unspecified
+- E03.9 Hypothyroidism
+- J44.9 COPD
+- K21.9 GERD
+- I73.9 Peripheral artery disease
+- I25.10 CAD (old, unconfirmed, copy-forward from prior note)
+
+Social Hx: Former smoker - pt states she smoked between 2 and 3 packs per day for 37 years, quit smoking in 2000. No current tobacco use. No EtOH. Lives alone, uses cane for ambulation.
+
+ROS: Constitutional - denies fever/chills/wt loss. CV - + CP as above, denies palpitations, + occasional orthopnea. Resp - denies cough, + mild dyspnea on exertion, no hemoptysis. GI - + occasional heartburn, denies N/V/abd pain. GU - denies dysuria. MSK - chronic knee pain, stable. Neuro - denies HA, dizziness, focal weakness. Skin - no rashes. Psych - denies depression/anxiety. All other systems reviewed and negative.
+
+Meds: metoprolol succinate 50mg daily, furosemide 40mg daily, lisinopril 10mg daily, spironolactone 25mg daily, levothyroxine 75mcg daily, tiotropium inhaler daily, albuterol PRN, omeprazole 20mg daily, aspirin 81mg daily, clopidogrel 75mg daily, atorvastatin 40mg daily, cilostazol 100mg BID, acetaminophen PRN for joint pain, vitamin D3 1000IU daily, calcium carbonate 600mg daily.
+
+PE: Vitals - BP 132/78, HR 68, RR 16, T 36.7C, SpO2 94% RA, Wt 68kg.
+Gen: NAD, sitting comfortably.
+CV: RRR, no murmurs/rubs/gallops appreciated, JVP not elevated, trace bilateral LE edema.
+Resp: mild diffuse expiratory wheeze, no crackles, no accessory muscle use.
+Abd: soft, NT/ND, +BS.
+Ext: cool distal extremities bilat, diminished DP pulses c/w PAD, no ulcers.
+Skin: intact, no cyanosis.
+Neuro: A&Ox3, no focal deficits.
+
+Labs (from 01/29/2025):
+TSH 3.1 (nl 0.4-4.0)
+BNP 420 pg/mL (elevated)
+Troponin I <0.01 ng/mL x1
+Cr 1.1, eGFR 58
+K 4.2
+Na 138
+Hgb 12.1
+
+Assessment/Plan:
+1. Chest pain - low suspicion ACS given flat troponin, likely multifactorial (GERD vs cardiac). Will trend troponin, obtain EKG, consider stress test as outpatient.
+2. HFrEF - stable on current regimen, repeat echo ordered.
+3. COPD - continue tiotropium/albuterol, counsel on inhaler technique.
+4. Tobacco hx - discussed lung ca screening in general terms; no imaging ordered today per current plan.
+5. PAD - continue cilostazol, ABI to be considered.
+6. GERD - continue omeprazole.
+7. Osteoarthritis/hypothyroidism - stable, continue current meds.
+
+Attending Attestation: I have seen and examined the patient with Dr. Dunn and agree with the above assessment and plan. - Dr. A. Feldman, MD
+
+ADDENDUM (later same day, 01/30/2025, 16:40): EKG reviewed - NSR, no acute ST changes, unchanged from prior. Discussed results with patient by phone, reassured. Will follow up in clinic in 4 wks or sooner if symptoms worsen.

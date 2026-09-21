@@ -1,0 +1,65 @@
+Family Medicine Clinic Note
+
+Patient: COLEMAN, Edward    MRN: 69951051
+DOB: 08/14/1944    Age: 79 y.o.    Sex: Male
+Date of Service: 02/19/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Fatigue
+
+Subjective:
+Edward Coleman is a 79 y.o. male who presents for fatigue.
+Fatigue for 4 months. Sleeping 8 hrs but not refreshed. No bleeding.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Mixed hyperlipidemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• rosuvastatin 10 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with wife and adult daughter.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 125/88 (BP Location: Left arm, Patient Position: Sitting) | Pulse 77 | Temp 98.1 °F (Oral) | Resp 14 | Ht 5' 11" | Wt 203 lb | SpO2 97% | BMI 28.38 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (08-Feb-2024): LDL 83, Cr 1.08, K 4.1, Hgb 13.8
+
+Assessment & Plan
+1. Fatigue
+   PHQ-9 9. Labs ordered.
+
+Return in about 3 months (around 5/19/2024).
+
+Electronically signed by Brian Okonkwo, MD on 02/19/2024

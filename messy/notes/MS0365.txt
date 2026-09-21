@@ -1,0 +1,62 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Theresa O'Brien (DOB 1/15/1968)
+DOS: 01/15/2023
+Author: Teresa Alvarez, NP
+
+CC: F/u HTN, DM2.
+
+HPI: 55 y.o. woman here for routine f/u of HTN and T2DM. Reports doing fairly well, home BP readings running 130s/80s. No chest pain, no SOB, no polyuria/polydipsia. Some fatigue, attributes to poor sleep. Gout stable, no flares since last visit. Mood ok, on sertraline, denies SI. Asthma quiet, uses albuterol PRN maybe once/wk.
+
+PROBLEM LIST (per chart, some entries not updated):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified
+- M10.9 Gout, unspecified
+- F32.9 Major depressive disorder, single episode (dx 2015, likely now recurrent - not updated)
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+[Copied from note dated 1/15/2019 by prior provider - reproduced here per addendum policy for continuity]:
+"Tobacco: former smoker. No quantities documented at that visit."
+
+ROS: As per HPI, otherwise negative in 10-system review.
+
+MEDS: Lisinopril 20mg daily, metformin 1000mg BID, allopurinol 300mg daily, sertraline 100mg daily, albuterol HFA PRN.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 128/78, HR 76, RR 16, Temp 98.2F, Wt 172 lb, BMI 29.4.
+
+EXAM:
+Gen: NAD, well-appearing.
+CV: RRR, no murmurs.
+Resp: Clear to auscultation bilat, no wheezes.
+Abd: Soft, NT/ND.
+Ext: No edema, no active gout tophi noted, 1st MTP nontender today.
+Psych: Euthymic affect, cooperative.
+
+LABS (reviewed today):
+A1c 7.1% (prior 7.4%)
+Cr 0.9, eGFR >60
+Uric acid 6.8
+Lipid panel: LDL 98, HDL 52, TG 140
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled on current regimen. Continue lisinopril 20mg daily. F/u BP log at next visit.
+2. Type 2 DM - improved A1c, continue metformin, reinforce diet/exercise. Recheck A1c in 3 months.
+3. Tobacco history - patient quit smoking; per history she smoked 1.5 packs per day prior to quitting. She reports having quit smoking at age 46. Counseled on continued avoidance, reviewed relapse-prevention strategies. Lung cancer screening discussed in general terms; will revisit eligibility discussion at future visit as appropriate.
+4. Gout - stable, continue allopurinol, avoid triggers (etoh, purine-heavy foods).
+5. Asthma - well controlled, continue albuterol PRN, no controller needed at this time.
+6. Depression - stable on sertraline, continue, reassess PHQ-9 next visit.
+
+Return to clinic in 3 months or sooner if issues arise.
+
+---
+ADDENDUM (same day, later): Pt called back after visit to clarify - confirmed she has not used any tobacco products, including vaping, since quitting. No further changes to plan. Discussed importance of continued abstinence. -T. Alvarez, NP, 01/15/2023 3:45pm

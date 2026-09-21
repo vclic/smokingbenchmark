@@ -1,0 +1,83 @@
+Pulmonology H&P – Shared Decision-Making Visit
+Patient: Gwendolyn Price | DOB: 1/25/1969 | Age: 56 | Sex: F
+Date of Service: 01/25/2025
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: Lung cancer screening SDM visit, referred by PCP.
+
+HPI: 56 yo F w/ hx gout, asthma, CAD, afib here today for discussion re: lung cancer screening. Pt states "I just want to know if I need one of those scans, my sister had lung cancer." She denies cough, hemoptysis, wt loss. Mild exertional dyspnea, chronic, stable per pt, uses albuterol PRN w/ good relief. No fevers, no chest pain currently, denies recent palpitations though has known afib on anticoagulation.
+
+Pt reports she has continued to smoke cigarettes despite counseling at multiple prior visits; discussed again today the importance of cessation, offered resources including quitline number and pharmacotherapy options (varenicline, NRT), pt states "I've tried patches before, didn't work for me." Will continue to encourage quit attempts at future visits.
+
+Social history also notes patient's husband is a smoker as well, pt reports they often smoke together in the evenings, this may complicate cessation efforts given shared household exposure. Pt quit drinking alcohol in 2020, states she has not had any etoh since then, denies illicit drug use.
+
+TOBACCO USE (EHR templated block, auto-populated):
+  Tobacco Use: Current every day smoker
+  Packs/day: 2.00
+  Years: 42.00
+  Type: Cigarettes
+  Quit date: N/A
+
+PMH:
+- Gout, on allopurinol, last flare approx 6 mo ago per pt
+- Asthma, intermittent, albuterol PRN
+- Coronary artery disease, s/p stent placement (per old records, date unclear, [inaudible] on dictation regarding exact vessel)
+- Atrial fibrillation, on apixaban, rate controlled
+
+PSH: Denies major surgeries other than stent procedure noted above.
+
+MEDICATIONS:
+1. Allopurinol 300mg daily
+2. Albuterol HFA inhaler PRN
+3. Apixaban 5mg BID
+4. Metoprolol succinate 50mg daily
+5. Atorvastatin 40mg daily
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Sister with lung cancer (per pt, age at dx unclear). Mother with HTN. Father deceased, MI.
+
+SOCIAL HISTORY: Lives with husband, retired schoolteacher. Denies illicit drug use. Alcohol use as above, quit 2020. Tobacco as detailed above in templated block. Exercise minimal due to dyspnea on exertion.
+
+ROS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Respiratory: Endorses mild dyspnea on exertion, denies cough, hemoptysis, wheeze currently controlled.
+Cardiovascular: Denies chest pain, palpitations today, known afib as above.
+GI: denies nausea, vomiting, diarrhea, denies abdominal pain.
+GU: denies dysuria, hematuria.
+MSK: occasional joint pain c/w gout hx, currently not flaring.
+Neuro: denies headache, denies focal weakness.
+Psych: denies depression, denies anxiety.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76 irregular, RR 16, SpO2 96% RA, Temp 98.2F, Wt 168 lbs, Ht 5'4"
+General: Well-developed, well-nourished female, NAD, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no peripheral edema.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi appreciated today, good air movement.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, clubbing, or edema. 1st MTP joints without active synovitis bilaterally.
+Skin: Warm, dry, intact.
+Neuro: Grossly non-focal.
+
+ASSESSMENT/PLAN:
+56 yo F w/ longstanding tobacco use, asthma, CAD, afib presenting for lung cancer screening shared decision-making discussion.
+
+1. Lung cancer screening: Discussed risks/benefits of low-dose CT screening at length today including false positives, incidental findings, radiation exposure, and overdiagnosis. Pt verbalizes understanding. Decision aid handout provided. Will document discussion, pt to follow up with PCP regarding next steps.
+
+2. Tobacco use: Continues to smoke despite repeat counseling as noted above. Strongly encouraged cessation today, discussed pharmacologic options again, provided quitline referral. Husband also smokes which pt identifies as a barrier — discussed possibility of pt and spouse quitting together, pt open to considering this. Will readdress at next visit.
+
+3. Asthma: Stable, continue albuterol PRN, no rescue inhaler overuse reported.
+
+4. CAD: Stable, continue statin, no anginal sx today, follow with cardiology as scheduled.
+
+5. Atrial fibrillation: Rate controlled, continue apixaban, no bleeding concerns voiced, INR N/A given DOAC.
+
+6. Gout: Stable on allopurinol, no active flare.
+
+7. Alcohol: Pt reports abstinence since 2020, reinforced positive behavior change.
+
+Return to clinic in 6 months or sooner if symptoms worsen. Pt verbalizes understanding of plan, all questions answered today, [inaudible] discussion continued briefly re: insurance coverage for screening but cut off due to time constraints, will follow up on this administrative question separately.
+
+Electronically signed: Hannah Weiss, NP

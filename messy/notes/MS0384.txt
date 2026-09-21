@@ -1,0 +1,65 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 12/25/2024
+Author: Quentin Hale, PA-C
+
+Patient: Paula Harris, F, DOB 11/02/1952 (age 72)
+
+CHIEF COMPLAINT: Establish care.
+
+HPI: Ms Harris is a 72 yo woman presenting to establish primary care after moving to the area. She reports history of CKD, HTN, hypothyroidism, depression, obesity, and T2DM, all previously managed by outside providers, records not fully available. She denies chest pain, denies SOB at rest, occasional exertional fatigue. She endorses good adherence to home BP cuff readings, systolic in 130s-140s. No new GI or GU complaints. Sleep fair, mood stable on current antidepressant per pt report (records not on file to confirm dose). She mentions quitting smoking many years ago and wants to discuss general preventive health screening today, including lung cancer screening discussion which we reviewed briefly without committing to imaging at this time.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per intake, some entries may be outdated):
+1. Chronic kidney disease, stage 3 - N18.3
+2. Essential hypertension - I10
+3. Hypothyroidism, unspecified - E03.9
+4. Major depressive disorder, recurrent, mild - F33.0
+5. Obesity, unspecified - E66.9
+6. Type 2 diabetes mellitus without complications - E11.9
+7. GERD (per old chart, pt denies current sx) - K21.9 [outdated, pt unaware of this dx]
+
+MEDICATIONS: Levothyroxine dose unknown (bottle not brought), Lisinopril unk dose, Metformin unk dose, Sertraline unk dose - reconciliation needed at next visit.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR fields):
+Tobacco use: Former smoker - quit smoking 36 years ago (relative to today's visit). Smoked about three-quarters of a pack per day (approx 15 cigarettes/day) for 20 years.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+Diet: Reports low-salt diet attempt
+Marital status: Widowed
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, wt loss. Resp - denies cough, denies wheeze. CV - denies palpitations, denies edema. GI - denies nausea, denies abd pain. GU - denies dysuria. Endo - denies polyuria, denies polydipsia. Psych - denies SI, denies hopelessness. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb, Ht 5'4", BMI 34.0
+General: Well-appearing, NAD, obese habitus
+HEENT: NCAT, PERRLA, no thyromegaly appreciated
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheezes rales rhonchi
+Abd: soft, nontender, nondistended, obese
+Ext: no edema, pulses intact
+Skin: no rashes noted
+Neuro: A&Ox3, no focal deficits
+Psych: mood euthymic, affect appropriate
+
+LABS (reviewed from outside records, dated 6 months ago, pt due for update):
+Cr 1.4, eGFR 45, HbA1c 7.8%, TSH 3.1, lipid panel pending
+
+ASSESSMENT/PLAN:
+72 yo woman establishing care today 12/25/2024 with multiple chronic conditions.
+
+1. CKD stage 3 (N18.3) - stable per last labs, will repeat BMP and urine microalbumin today given records dated 6 mo ago.
+2. HTN (I10) - BP acceptable in clinic, continue home monitoring, will obtain med bottles for reconciliation.
+3. Hypothyroidism (E03.9) - clinically euthyroid today, will recheck TSH.
+4. Depression (F33.0) - mood reportedly stable, continue current regimen pending med reconciliation, PHQ-9 to be done at next visit.
+5. Obesity (E66.9) - BMI 34, discussed diet and activity goals, referral to nutrition offered.
+6. T2DM (E11.9) - last A1c 7.8%, will repeat today, reinforced dietary counseling, continue metformin pending dose confirmation.
+7. Tobacco - former smoker, quit smoking 36 years ago; reinforced continued abstinence and healthy lifestyle. Lung cancer screening was discussed in general terms as part of preventive care conversation; no imaging ordered today.
+8. Health maintenance - due for mammogram, colonoscopy status unclear, will request records. Immunizations to be reviewed next visit.
+
+Return to clinic in 4 weeks with fasting labs, sooner if any acute concerns. Pt verbalized understanding and agreement with plan.
+
+Quentin Hale, PA-C

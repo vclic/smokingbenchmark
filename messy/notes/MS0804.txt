@@ -1,0 +1,59 @@
+CARDIOLOGY FOLLOW-UP NOTE (RESIDENT NOTE WITH ATTENDING ATTESTATION)
+Patient: Rita King | DOB: 5/14/1968 | Age: 56 y/o F | DOS: 05/14/2024
+Author: Laura Castellano, FNP-C
+Attending: Dr. R. Okafor (attestation below)
+
+CC: HF follow-up, r/o volume overload, med recon
+
+HPI: Ms King is a 56 y/o F with history of HFrEF (EF 38% on last echo), CAD s/p PCI, obesity, hypothyroidism, and afib on anticoagulation, who presents today, date of service 05/14/2024, for routine cardiology follow up. Pt reports doing reasonably well, denies significant dyspnea at rest, occasional 2-pillow orthopnea, no PND currently, mild bilat LE edema improved since last visit. She has been compliant with low Na diet per report, weighs herself qd at home, no acute wt gain >3lbs in past wk. No CP, no palpitations noted although she does report occassional skipped beats which she attributes to her known afib (rate-controlled per home log). She denies fevers, chills, hemoptysis. Pt states she quit smoking, and this was a topic of extensive discussion today given her CAD and asthma hx.
+
+SOCIAL HISTORY: Tobacco - former smoker, quit smoking in the late 2000s. Prior smoking hx notable for 1 pack per day for 15 years. No current tobacco, no vape/e-cig use, no illicit drug use. Denies significant EtOH use, occasional glass of wine. Lives w/ spouse, retired schoolteacher, ambulates independently.
+
+PMH: Asthma (uses albuterol PRN, no recent exacerbation), CAD s/p PCI (stent to LAD 2019 per chart), obesity (BMI ~34), hypothyroidism (on levothyroxine, TSH last checked wnl), atrial fibrillation (on apixaban, rate controlled).
+
+PSH: Cardiac cath/PCI as above, cholecystectomy remote.
+
+MEDS (reconciled today):
+- Metoprolol succinate 50mg daily
+- Apixaban 5mg BID
+- Furosemide 20mg daily
+- Lisinopril 10mg daily
+- Atorvastatin 40mg qhs
+- Levothyroxine 75mcg qam
+- Albuterol HFA PRN
+- Empagliflozin 10mg daily
+- Spironolactone 25mg daily
+- Aspirin 81mg daily (held given anticoag, confirm w/ pharmacy - [inaudible] on recording, will clarify)
+
+ALLERGIES: NKDA
+
+ROS: Constitutional - denies fever, chills, night sweats, wt loss. Cardiac - as per HPI, denies syncope, presyncope. Resp - denies cough, wheeze at present, hx asthma stable. GI - denies n/v/d, abd pain. GU - denies dysuria, hematuria. MSK - denies joint pain, swelling other than LE edema noted. Neuro - denies HA, focal weakness, numbness. Psych - denies depression, anxiety sx, sleep grossly nl. Skin - denies rash, lesions. Endo - hypothyroid stable per pt report, no polyuria/polydipsia. Heme - no bleeding, no easy bruising beyond expected on anticoag. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72 irregular, RR 16, SpO2 97% RA, Wt 198 lbs, Temp 98.2F
+Gen: NAD, well-appearing female, A&Ox3
+HEENT: NC/AT, EOMI, no JVD appreciated at 30 degrees, no scleral icterus
+Neck: supple, no LAD, no thyromegaly
+CV: irregularly irregular rhythm, nl S1/S2, no murmurs/rubs/gallops appreciated today, PMI nondisplaced
+Resp: CTAB, no wheeze/rales/rhonchi, good air movement bilat
+Abd: soft, NT/ND, +BS, no HSM
+Ext: trace-1+ pitting edema b/l ankles, improved from prior, pulses 2+ throughout, no calf tenderness
+Skin: warm, dry, no rash
+Neuro: grossly intact, no focal deficit
+
+LABS (reviewed today): BNP mildly elevated at 210 (down from 340 last visit), Cr 0.9, K 4.4, TSH 2.1, INR n/a (on DOAC)
+
+ASSESSMENT/PLAN:
+56 y/o F with HFrEF, CAD, obesity, hypothyroidism, and afib presenting for routine f/u, clinically improved from prior visit.
+
+1. HFrEF - EF 38%, appears euvolemic today, BNP trending down. Continue GDMT as above (metoprolol succ, lisinopril, empagliflozin, spironolactone). Continue furosemide 20mg daily, may titrate if wt increases. F/u echo in 6 months.
+2. CAD - stable, s/p PCI, continue atorvastatin, held ASA pending pharmacy clarification given anticoag - to be addressed by phone f/u.
+3. Afib - rate controlled, continue apixaban for anticoag, continue metoprolol.
+4. Tobacco history - patient is a former smoker with a prior smoking history of 1 pack per day for 15 years; she quit smoking in the late 2000s. Given her age of 56 and prior smoking history, lung cancer screening was discussed today as part of preventive care counseling; risks/benefits reviewed with pt, she will consider and follow up with PCP.
+5. Asthma - stable, continue albuterol PRN, no exacerbation.
+6. Obesity - counseled on diet/exercise, low Na diet reinforced, referral to nutrition offered.
+7. Hypothyroidism - TSH wnl, continue current levothyroxine dose.
+
+RTC 3 months or sooner if symptoms worsen. Pt educated on signs/sx of decompensation, to call or go to ED if wt gain >3lbs in 2 days, worsening SOB, or chest pain.
+
+ATTESTATION: I have reviewed the resident's note and personally examined the patient. I agree with the assessment and plan as documented above. - Dr. R. Okafor, Attending Cardiology, 05/14/2024

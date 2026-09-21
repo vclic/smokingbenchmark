@@ -1,0 +1,40 @@
+Pulmonology Follow-up Visit
+Date of Service: 11/24/2024
+Author: Rachel Goldberg, MD
+
+Patient: Jose Wright, M, DOB 1/13/1960 (age 64)
+
+HPI: Mr Wright is a 64 yo male seen today in f/u after recent ED visit for COPD exacerbation, now stabilized on prednisone taper and nebs. He states "I'm breathing a lot better than last week but still get winded going up the stairs." He denies fevers, chest pain, or hemoptysis. He reports adherence to inhalers although admits sometimes forgets evening dose. Cough is productive of white sputum, improving. No new lower extremity edema per patient, though he has hx of PAD and HFrEF so we continue to monitor closely.
+
+[Copied forward from prior visit dated 03/15/2023 — not updated this encounter]
+Pt continues to follow with cardiology for HFrEF, EF last documented 35%, on GDMT including carvedilol, sacubitril-valsartan, and spironolactone. PAD managed conservatively w/ cilostazol, vascular surgery following. OSA on CPAP compliance reportedly good per device download. Depression stable on sertraline, PHQ-9 mild range. Pt denies SI/HI. [inaudible] discussion regarding diet and exercise limitations due to claudication symptoms occurred at that time.
+
+Social History (EHR template):
+Tobacco use: Current every day smoker
+Alcohol use: None (quit 2009)
+Drug use: Not on file
+Living situation: Lives with wife
+Occupation: Retired
+Exercise: Limited due to dyspnea and claudication
+
+ROS: Positive for dyspnea on exertion, chronic cough. Negative for chest pain, palpitations, syncope. All other systems reviewed and negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 128/78, HR 82, RR 18, SpO2 93% on RA, Temp 98.2F
+General: NAD, comfortable, breathing is a little labored but talks in full sentences
+Lungs: Mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles
+CV: RRR, no murmurs, no JVD appreciated
+Ext: Trace edema, cool distal extremities c/w known PAD, pulses diminished but palpable
+Psych: Mood euthymic, affect appropriate
+
+Labs/Imaging: CXR from ED visit reviewed, no acute infiltrate, hyperinflated lungs consistent w COPD. BNP mildly elevated at baseline per cardiology.
+
+Assessment/Plan:
+1. COPD exacerbation, resolving — continue current inhaler regimen, finish steroid taper, f/u in 4 wks or sooner if worsening.
+2. Tobacco use disorder — patient is an active smoker. Smoking history reviewed in detail: he smoked about three-quarters of a pack (roughly 15 cigarettes) per day for 23 years, then stopped completely for 7 years, but restarted smoking at 1 pack per day for the past 17 years and continues to smoke currently. Lung cancer screening was discussed as part of general preventive care conversation. Counseled extensively on cessation, offered varenicline, pt declined today but agreed to think about it.
+3. HFrEF — continue GDMT, follow with cardiology, weight log reviewed, stable.
+4. PAD — continue cilostazol, vascular surgery f/u as scheduled.
+5. OSA — continue CPAP, good compliance noted.
+6. Depression — stable on sertraline, continue, reassess PHQ-9 next visit.
+
+Return to clinic in 4 weeks or sooner as needed.

@@ -1,0 +1,37 @@
+NURSE INTAKE - Vascular Surgery
+DOS: 04/01/2026
+Pt: Judith Long, F, DOB 04/01/1960, age 66 y/o today (bday)
+CC: eval for PAD, claudication in b/l calves worse w/ ambulation ~1 blk
+
+VS: BP 148/92, HR 78, RR 16, T 98.2F, Wt 212 lb, Ht 64in, BMI 36.4
+ROS: pt denies CP, denies SOB at rest, +intermittent claudication, denies rest pain, denies non-healing ulcers, denies fever/chills, denies weight loss, GI: denies N/V/D, GU: denies dysuria, MSK: denies acute jt swelling, Neuro: denies focal weakness, Skin: denies rash, Psych: denies SI/HI. All other systems reviewed and negative per pt report.
+
+Meds: Lisinopril 20mg daily, HCTZ 25mg daily, Atorvastatin 40mg qhs, Metformin 500mg BID, Aspirin 81mg daily, Amlodipine 5mg daily, Omeprazole 20mg daily, Metoprolol succinate 25mg daily, Vitamin D3 2000IU daily, Multivitamin daily
+
+Labs (recent):
+- 03/15/2026 A1c 7.1%
+- 03/15/2026 LDL 118 mg/dL, HDL 38, TG 210
+- 03/15/2026 Cr 0.9, eGFR >60
+- 03/20/2026 ABI (resting): R 0.68, L 0.72 - consistent w/ mild-mod PAD
+
+HPI (dictated, some errors present due to speech-to-text): Patient is a 66 y.o. female who presents today four (for) follow up of her peripheral arterial disease, she notes calf pain when she walks about one block that resolves with rest, no chest pain no shortness of breath, she has a hx of hypertension and obesity, she was seen last in clinic in [inaudible] and started on cilostazol which she tolerated well although she thinks it maid her flushed initially, she is otherwise stable, she denies any new symptoms and states she is compliant with her meds she just ran out of her lisinopril too days ago and needs a refill.
+
+PHYSICAL EXAM:
+Gen: well-nourished, NAD, obese habitus
+CV: RRR, no m/r/g, distal pulses: DP/PT 1+ bilat, femoral 2+ bilat
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, obese, NT/ND, +BS
+Ext: no edema, no ulcers, skin warm, cap refill <3sec, mild hair loss noted bilateral lower legs c/w chronic ischemia
+Skin: no rash, no lesions
+Neuro: A&Ox3, CN II-XII grossly intact
+
+ASSESSMENT & PLAN (Nadia Haddad, MD):
+66 y/o F with hx obesity, HTN, presenting for PAD f/u, DOS 4/1/2026.
+1. Peripheral artery disease - ABI c/w mild-mod dz bilaterally, sx stable on cilostazol. Continue current med, recheck ABI in 6 mo, consider vascular US if worsening.
+2. Tobacco use - active smoker, 1 pack per day x 47 years. Counseled extensively on smoking cessation given significant vascular risk; discussed pharmacologic options (varenicline, nicotine patch) and behavioral referral. Pt has set a quit date for 5/14/2026 and is motivated to follow through. Will provide cessation resources and f/u on progress at next visit.
+3. Hypertension - BP still elevated today, will refill lisinopril, add low-dose amlodipine adjustment if not controlled, recheck in 4 wks.
+4. Obesity - discussed diet/exercise, referred to nutrition.
+5. DM2 screening/monitoring - A1c 7.1%, continue metformin, recheck in 3 mo.
+Return to clinic in 6 wks or sooner if worsening leg pain, non-healing wounds, or rest pain.
+
+Electronically signed: Nadia Haddad, MD, Vascular Surgery, 04/01/2026

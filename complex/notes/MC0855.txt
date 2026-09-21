@@ -1,0 +1,31 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 10/20/2024
+Patient: Elizabeth Torres, DOB 5/29/1969, age 55 F
+Provider: Michael Dunn, DO (NP progress note)
+
+CC: Establish care.
+
+HPI: 55 yo F here to establish PCP, hx CAD and afib, currently on meds, referred by cardiology after recent hospitalization. Pt reports feeling 'pretty good most days, just tired sometimes.' Denies chest pain at rest, no palpitations noted today. States 'my heart flutters sometimes when I climb stairs.' Tobacco hx reviewed in detail - pt states she smoked 2 packs per day for 17 years, then cut down to about 15 cigarettes per day for the next 20 years, continuing to present. Pt currently smokes cigarettes, confirms 'yeah I still smoke, been trying to cut back but haven't quit.' Advised to quit smoking, discussed resources including counseling and pharmacotherapy options. Lung cancer screening was discussed as a general topic per age/smoking hx guidelines, no further action documented today. Denies alcohol or illicit drug use. Diet fair, exercise limited by fatigue.
+
+PMH: CAD s/p stent 2019, atrial fibrillation on anticoagulation.
+PSH: none reported.
+FH: father MI at 60, mother HTN.
+SH: lives with spouse, retired teacher. Tobacco as above. Occasional social ETOH denied today.
+
+Medications: metoprolol succinate 50mg daily, apixaban 5mg BID, atorvastatin 40mg qhs, aspirin 81mg daily, lisinopril 10mg daily, omeprazole 20mg daily prn, multivitamin daily.
+
+Allergies: NKDA.
+
+ROS: Constitutional - denies fever, chills, weight loss. Eyes - no visual changes. ENT - no sore throat, no hearing loss. Cardiovascular - occasional palpitations as above, denies syncope, denies edema. Respiratory - denies cough, denies hemoptysis, denies dyspnea at rest. GI - denies nausea, vomiting, diarrhea, constipation. GU - denies dysuria, denies hematuria. Musculoskeletal - denies joint pain, denies swelling. Skin - denies rash. Neuro - denies headache, denies weakness, denies numbness. Psych - denies depression, denies anxiety. Endocrine - denies polyuria, polydipsia. Heme/lymph - denies easy bruising. Allergic/immunologic - denies seasonal allergies. All other systems reviewed and negative.
+
+Physical Exam: Vitals - BP 128/78, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 97% RA, Wt 168 lbs, Ht 5'5". General - well-appearing, NAD. HEENT - normocephalic, atraumatic, PERRLA, oropharynx clear. Neck - no JVD, no thyromegaly. Cardiovascular - irregularly irregular rhythm, no murmurs appreciated, no gallops, no rubs. Lungs - clear to auscultation bilaterally, no wheezes, no rales, no rhonchi. Abdomen - soft, non-tender, non-distended, normal bowel sounds. Extremities - no edema, pulses 2+ bilaterally. Skin - warm, dry, no rashes. Neuro - alert and oriented x3, CN II-XII grossly intact, no focal deficits. Psych - mood/affect appropriate.
+
+Assessment/Plan:
+1. CAD - continue current regimen, follow with cardiology.
+2. Atrial fibrillation - continue anticoagulation, monitor rate control.
+3. Tobacco use - counseled on cessation, discussed nicotine replacement and behavioral resources, follow up next visit.
+4. Health maintenance - labs ordered, will discuss preventive screenings at next visit.
+
+RTC 3 months or sooner if concerns.
+
+ADDENDUM (later same day, 10/20/2024): Pt called office after visit to clarify medication timing for apixaban, advised to take as prescribed BID with food if GI upset. No new complaints reported. Will address further at next visit.

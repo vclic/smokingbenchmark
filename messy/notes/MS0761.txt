@@ -1,0 +1,46 @@
+NURSE INTAKE - Cardiology
+DOS: 06/28/2023
+Patient: Carol Kowalski, F, DOB 06/28/1968 (age 55)
+
+CC: chest pain eval
+
+VITALS: BP 148/86, HR 92, RR 18, SpO2 94% RA, Wt 210 lb
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Type: cigarettes
+Amount: 1 pack per day
+Duration: 38 years
+Alcohol: Not on file
+Occupation: ______
+Living situation: with spouse
+Secondhand smoke exposure: blank
+Drug use: denies
+
+ROS: positive for exertional chest tightness, mild dyspnea, occas ankle swelling, pt reports snoring per spouse [inaudible] not using CPAP consistently the machine she says is to loud and she just cant sleep with it on so shes been leaving it off most nights.
+
+PROBLEM LIST (ICD-10):
+G47.33 Obstructive sleep apnea
+I50.22 Chronic systolic (congestive) heart failure
+M10.9 Gout, unspecified
+E78.5 Hyperlipidemia, unspecified
+I73.9 Peripheral artery disease (outdated dx 2015, unclear if still followed by vascular)
+N18.3 CKD stage 3
+
+PHYSICIAN PROGRESS NOTE - Catherine Lindqvist, DO
+Visit date of service is June 28, 2023.
+
+HPI: Ms Kowalski is a 55 year old woman with hx of HFrEF PAD OSA and CKD3 who presents today for eval of intermittent chest pain, describes it as a pressure sensation with exertion lasting several minutes resolving with rest, denies radiation to jaw or arm denies diaphoresis, she has had similar episodes over past month and her cardiologist wanted repeat workup given her cardiovascular risk profile.
+
+Exam: Alert NAD, JVD mild, lungs clear bilat, cardiac RRR no murmur, trace bilateral LE edema, distal pulses diminished bilat feet cool to touch.
+
+Assessment/Plan:
+1. Chest pain - likely anginal equivalent given PAD/HFrEF, will obtain stress test and repeat echo, adjust diuretic as needed.
+2. Tobacco use - patient continues to smoke despite counseling on cessation today, discussed risks re: cardiovascular and pulmonary disease, offered pharmacotherapy (varenicline) which she declined at this time, will readdress at next visit. Lung cancer screening was discussed in general terms.
+3. HFrEF - continue GDMT, monitor renal fxn given CKD3, recheck BMP next visit.
+4. PAD - continue antiplatelet therapy, ABI outdated will consider repeat.
+5. OSA - encourage CPAP compliance, refer back to sleep med if needed.
+6. Gout - stable, continue allopurinol.
+7. Hyperlipidemia - continue statin, lipid panel due.
+
+Follow up in 4 weeks or sooner if symptoms worsen, pt verbalized understanding of plan and agreed to return.

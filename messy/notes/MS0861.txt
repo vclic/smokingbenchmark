@@ -1,0 +1,51 @@
+INTERNAL MEDICINE - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Samuel Clark (M) DOB: 11/07/1962 Age: 62
+Date of Service: 11/07/2024
+Author: Teresa Alvarez, NP
+
+CC: F/u HTN and DM
+
+HPI: Pt presents for routine follow up of hypertension and diabetes. Reports doing reasonabl well overall, no chest pain, no SOB, occasional polyuria. Home BP logs reviewed averaging 138/84. Denies hypoglycemic episodes. Continues metformin and lisinopril without issue. Mood stable on current regimen for depression per pt.
+
+PAST MEDICAL HISTORY: depression, hyperlipidemia, BPH, CKD stage 3
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Current smoker
+ Type: Cigarettes
+ Pack-years: Not on file
+ Duration: smoked on and off for most of her adult life
+ Quit date: N/A
+ Readiness to quit: Not ready at this time
+ Alcohol use: occasional, denies excess
+ Drug use: denies
+ Occupation: retired
+
+Smoking status confirmed with pt today still smokes, counseled on cessation resources, pt states not ready to quit at this time discussed nicotine patch/gum, pt declined for now, will readdress at next visit.
+
+ROS: otherwise negative except as above
+
+EXAM: BP 136/82 HR 76 RR 14 Wt stable
+General: NAD
+CV: RRR no m/r/g
+Resp: CTAB
+Abd: soft NT ND
+Ext: no edema
+
+LABS (reviewed 11/05/2024):
+ A1c: 7.2% (prior 7.4% on 08/02/2024)
+ Creatinine: 1.4 mg/dL (eGFR 52)
+ LDL: 98 mg/dL
+ K+: 4.3 mmol/L
+
+ASSESSMENT/PLAN:
+1. HTN - well controlled, continue lisinopril
+2. DM2 - improved A1c, continue metformin, recheck in 3 months
+3. CKD stage 3 - stable, monitor Cr/eGFR q6mo
+4. Hyperlipidemia - continue statin, recheck lipids in 6mo
+5. BPH - stable, continue tamsulosin
+6. Depression - stable, continue current regimen
+7. Tobacco use - discussed cessation, lung cancer screening discussed generally, pt still smokes and is not ready to quit, will readdress
+
+F/u 3 months or sooner if needed.
+
+Attending attestation: I have reviewed and discussed this patient with Ms. Alvarez and agree with the assessment and plan as documented above.

@@ -1,0 +1,31 @@
+Telehealth Note - Cardiology
+Patient: James Long | DOB: 5/11/1973 | Age: 52
+Date of Service: 05/11/2025
+Author: Catherine Lindqvist, DO
+
+HPI: Pt calling in re chest pain x several days, intermittent, non-exertional per pt but story a bit vague [inaudible] at times due to connection. Denies SOB at rest, some dyspnea w exertion though hard to tell if related to OSA vs cardiac. No radiation to arm reported today, though pt says sometimes feels like it goes to they're jaw - spelling per dictation error, meant 'their'. No nausea/vomiting. CPAP compliance reportedly fair per pt report, machine due for download.
+
+ROS: otherwise negative except fatigue, poor sleep quality.
+
+PMH/Problem List:
+- G47.33 Obstructive sleep apnea (on CPAP)
+- E03.9 Hypothyroidism, unspecified (on levothyroxine)
+- I25.10 CAD - outdated entry, no documented cath or stress test on file, unclear origin
+- I10 Essential hypertension - carried forward, not addressed today
+
+Meds: Levothyroxine 75mcg daily, home CPAP.
+
+Exam: Limited via telehealth. Pt appears comfortable, no acute distress noted on camera. Speech clear. No visible respiratory distress.
+
+Assessment/Plan:
+52 yo male, DOS 5/11/2025, presenting w atypical chest pain, hx significant for OSA and hypothyroidism. Cardiac risk factors reviewed - notably patient has a substantial smoking history, previously smoked 3 packs per day. Patient states he quit smoking, quit year was 2009. No current tobacco use. Will order outpt EKG and troponin given symptoms, though pt already left the call at time of order so will need f/u call to confirm labs drawn. Consider stress test if pain recurs or EKG abnormal. Discussed lung cancer screening in general terms given smoking hx but no further action taken today regarding imaging for that purpose.
+
+OSA: continue CPAP, will pull download data at next visit, reinforce compliance.
+Hypothyroidism: TSH due for recheck, continue current dose pending labs.
+HTN: not addressed this visit, defer to PCP.
+
+Pt educated on red flag sx - worsening chest pain, syncope, SOB at rest - instructed to go to ER if occurs. Return to clinic or telehealth f/u in 2-4 wks or sooner per symptoms/labs.
+
+Time spent: approx 15 min telehealth encounter, more than half spent on counseling/coordination of care.
+
+Electronically signed: Catherine Lindqvist, DO

@@ -1,0 +1,84 @@
+TELEHEALTH FOLLOW-UP NOTE - PULMONOLOGY
+Date of Service: 03/14/2024
+Author: Rachel Goldberg, MD
+Patient: Thomas Young | DOB: 3/14/1963 | Age: 61 | Sex: M
+
+Visit type: Telehealth, video, f/u after ED visit for COPD exacerbation.
+
+CHIEF COMPLAINT: F/u COPD exacerbation, recent ED visit.
+
+HPI: Pt is a 61 y/o male, seen last wk in ED for acute worsening SOB, wheeze, and increased sputum production, tx'd with nebs, steroids, and doxycycline. Reports improvement since d/c, still occasional cough am, denies fever/chills now. No overnight hospitalization required. Denies chest pain. Uses rescue inhaler more frequently than baseline but tapering back down. Sleeping better past 2 nights.
+
+--- COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2022 (retained per dept template, not updated) ---
+HPI: Pt here for routine COPD/DM/thyroid check. Reports doing well overall, no recent exac. A1c improved on current regimen. TSH stable. Denies joint swelling, some AM stiffness in knees c/w known OA. Discussed influenza vaccine, pt declined at that time. Will readdress. Continue metformin, levothyroxine as prescribed. RTC in 6 months or sooner if symptoms worsen.
+--- END COPY-FORWARD ---
+
+PMH: Hypothyroidism, Type 2 Diabetes Mellitus, Osteoarthritis (knees, bilateral), COPD.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use status: Current every day smoker
+Smoking details: Pt reports he smoked about a quarter pack (approx 5 cigarettes) per day for 15 years, then quit completely for 8 years. He subsequently restarted smoking and has been smoking 1 pack per day for the past 22 years; he continues to smoke at present.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+Counseling: Pt continues to smoke despite repeated counseling on cessation, risks reviewed again today including COPD progression and cardiovascular risk. Pt states he is 'not ready' to quit at this time but will consider nicotine patches. Discussed lung cancer screening in general terms as part of overall risk discussion; no imaging ordered today.
+
+MEDICATIONS (per active med list):
+1. Albuterol HFA inhaler 90mcg, 2 puffs q4-6h prn wheeze/SOB
+2. Tiotropium bromide inhaler 18mcg, 1 puff daily
+3. Fluticasone/salmeterol 250/50 diskus, 1 inh BID
+4. Prednisone taper, currently on day 4 of 5-day course from ED
+5. Metformin 1000mg BID
+6. Levothyroxine 75mcg daily
+7. Acetaminophen 500mg prn joint pain
+8. Meloxicam 7.5mg daily prn OA flare
+9. Multivitamin daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS (templated, 10-point):
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, denies epistaxis.
+Cardiovascular: Denies chest pain, denies palpitations, denies edema.
+Respiratory: Positive for cough and occasional wheeze as above, denies hemoptysis.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, denies hematuria.
+Musculoskeletal: Positive for chronic bilateral knee pain c/w OA, denies acute swelling.
+Skin: Denies rash, denies lesions.
+Neuro: Denies HA, denies focal weakness, denies numbness.
+Psych: Denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, telehealth - visual/audio only, no vitals obtained by staff on call):
+General: Alert, no acute distress noted on video, speaking in full sentences.
+HEENT: No visible distress, no accessory muscle use appreciated on camera.
+Respiratory: Pt coughed once during call, non-productive appearing, no visible labored breathing.
+Cardiovascular: Not assessed (no auscultation possible via telehealth).
+Extremities: No visible edema on camera, pt able to move both legs without apparent difficulty.
+Skin: No visible rash or lesion on face/hands noted.
+Mental status: Appropriate, oriented, engaged throughout visit.
+(Note: physical exam limited due to telehealth modality; vitals not obtained today, pt advised to monitor home pulse ox if available.)
+
+ASSESSMENT:
+1. COPD, recent exacerbation, improving on current steroid taper and inhaler regimen.
+2. Tobacco use disorder, current smoker, ongoing counseling provided.
+3. Type 2 diabetes mellitus, stable per last documented A1c.
+4. Hypothyroidism, stable, no dose change today.
+5. Osteoarthritis, bilateral knees, stable, managed with prn NSAID/acetaminophen.
+
+PLAN:
+1. Continue current inhaler regimen; finish prednisone taper as prescribed.
+2. Tobacco cessation counseling provided again today; pt declined pharmacotherapy at this visit but open to nicotine patch in future, will discuss further at next visit.
+3. Continue metformin and levothyroxine at current doses; recheck labs at next routine visit.
+4. Continue acetaminophen/meloxicam prn for OA pain.
+5. RTC in pulm clinic in 4 weeks or sooner if symptoms worsen; pt instructed to seek ED care for worsening SOB, chest pain, or fever.
+6. Discussed general lung health risks associated with long smoking history; screening options discussed conceptually, no imaging ordered today.
+
+Time spent: 20 min telehealth visit, >50% spent on counseling/coordination of care.
+
+Electronically signed: Rachel Goldberg, MD, 03/14/2024

@@ -1,0 +1,57 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Samuel Schmidt (M), DOB 1/17/1958, Age: 67
+Date of Service: 07/23/2025
+Provider: Nadia Haddad, MD - Primary Care
+
+Dear Dr. Colleague,
+
+Thank you for referring Mr. Schmidt, a 67-year-old male, to establish care in our practice. He presents today for a new patient visit with a history notable for depression, BPH, hyperlipidemia, and osteoarthritis.
+
+HPI: Mr. Schmidt reports overall stable mood on his current antidepressant regimen, though he notes some fatigue and joint discomfort, particularly in the knees, consistent with his known osteoarthritis. He denies urinary retention but does report nocturia 2-3 times nightly, which we will address as part of his BPH management. He has not had recent labs at our facility, so baseline studies including CBC, CMP, lipid panel, PSA, and HbA1c will be ordered today.
+
+***COPY-FORWARD TEXT FROM PRIOR VISIT (dated 03/14/2022, outside record, scanned into chart):***
+"Patient seen for follow-up of hyperlipidemia and depression. He continues on simvastatin 20mg qhs and sertraline 50mg daily. Reports mood as 'okay,' sleep fair, appetite normal. Denies SI/HI. Prostate exam deferred, will schedule with urology. Osteoarthritis of bilateral knees stable, using acetaminophen PRN. Discussed diet and exercise. Follow up in 6 months." ***END COPY-FORWARD***
+
+Review of Systems: Negative except as noted above. No chest pain, no shortness of breath, no hematuria, no changes in bowel habits.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Pack-years: Not on file
+Smokeless tobacco: No
+Alcohol use: Former drinker, quit in 2000
+Drinks/week: N/A
+Illicit drug use: Denies
+Caffeine: 1-2 cups coffee daily
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Sedentary, limited by knee pain
+Diet: Not on file
+
+Physical Exam:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.4F, BMI 29.2
+General: Well-appearing, no acute distress
+Cardiovascular: RRR, no murmurs
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales
+Abdomen: Soft, non-tender, no organomegaly
+Musculoskeletal: Mild crepitus bilateral knees, no effusion
+Psychiatric: Mood euthymic, affect appropriate
+
+Assessment and Plan:
+1. Depression - stable on current regimen, will continue sertraline, follow up in 3 months or sooner if symptoms worsen.
+2. BPH - will check PSA, consider urology referral if symptoms progress; continue current management.
+3. Hyperlipidemia - continue statin therapy, repeat lipid panel today.
+4. Osteoarthritis - continue acetaminophen and consider physical therapy referral for knee pain.
+5. Tobacco use - Mr. Schmidt has a 50-year history of smoking. He reports that he continues to smoke and states he is not ready to quit at this time. We discussed general health risks of continued tobacco use and the importance of eventual cessation. Lung cancer screening was discussed as a topic in general terms as part of preventive health counseling. Advised to consider cessation resources including nicotine replacement therapy and counseling when he feels ready; will readdress at future visits.
+6. Alcohol - patient quit drinking alcohol in 2000, no current concerns.
+7. Health maintenance - discussed age-appropriate screenings including colonoscopy status, will verify records from prior facility.
+
+Patient verbalized understanding of the above plan and agreed to follow up in 3 months, sooner if needed. Records will be requested from his previous primary care office to complete his history.
+
+Thank you again for this referral. Please let me know if you have any questions.
+
+Sincerely,
+Nadia Haddad, MD
+Primary Care

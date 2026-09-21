@@ -1,0 +1,45 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Susan Jenkins | DOB: 2/25/1955 | Age: 68 y.o. F
+DOS: 02/25/2023
+Provider: Owen Fitzgerald, MD (Primary Care)
+
+CC: F/u post-hospital discharge, pneumonia
+
+HPI: Pt is a 68-year-old female s/p recent hospitalization for community-acquired pneumonia, now on telehealth f/u. She reports improving cough and decreased dyspnea since discharge, tho she notes she still gets winded going up her stairs which she attribute to her COPD baseline, this is her usual per pt. No fevers, no chills, appetite returning to normal. She is tolerating the completed abx course without issue, denies GI upset. Smoking hx notable - pt is a former smoker, she smoked 1.5 packs per day for 13 years, then stopped completely for 2 years, then restarted smoking at three-quarters of a pack (about 15 cigarettes) per day for 17 years before quitting for good; she quit smoking in 2003. She denies any current tobacco use, denies vaping, denies other inhalant use. She lives with her husband, states she has good support at home for recovery.
+
+ROS: Denies chest pain, denies hemoptysis, denies lower extremity swelling, denies orthopnea (uses 2 pillows, baseline). Positive for mild fatigue. Otherwise negative in detail, [inaudible] portion of review d/t call dropping briefly, pt re-confirmed no new symptoms upon reconnection.
+
+PMH: COPD (on home O2 PRN per prior notes, not currently requiring supplemental O2 today per pt report), CKD stage 3, OSA (uses CPAP nightly, compliance reportedly good), HTN.
+
+SOCIAL HISTORY (templated block):
+Tobacco: Former smoker - see HPI for details
+Alcohol: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+MEDICATIONS: Tiotropium inhaler daily, albuterol PRN, lisinopril 10mg daily, CPAP nightly, recently completed course of amoxicillin-clavulanate for pneumonia (last dose 2/22/2023).
+
+ALLERGIES: NKDA
+
+VITALS (telehealth, pt reported/home device): BP 132/78, HR 76, Temp 98.2F (home thermometer), SpO2 94% on room air per pt's home pulse ox, RR 16 (est).
+
+RECENT LABS/RESULTS:
+CBC (02/20/2023, inpatient): WBC 9.8 (down from 15.2 on admission), Hgb 12.1, Hct 37%, Plt 245
+BMP (02/24/2023, outpatient draw): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.4 (baseline for her CKD3), eGFR 41
+Chest X-ray (02/19/2023, inpatient, prior to discharge): Improving right lower lobe infiltrate, no effusion
+BNP: not repeated, prior wnl
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - clinically improved, completed abx course, will not repeat imaging unless symptoms worsen or fail to continue improving.
+2. COPD - stable today by pt report, continue tiotropium and albuterol PRN, reviewed inhaler technique verbally over video, pt demonstrated adequate technique with device in hand. Discussed lung cancer screening in general terms given her smoking history; further discussion deferred to in-person visit given need for shared decision-making conversation.
+3. CKD stage 3 - Cr stable at baseline, will recheck BMP in 3 months, continue to avoid nephrotoxic agents, renewed counseling on hydration.
+4. OSA - continues CPAP, reports good compliance, will pull compliance data at next in-person visit.
+5. HTN - well controlled on current regimen, continue lisinopril.
+6. Health maintenance - due for pneumococcal booster per records, will schedule at next in-office visit; influenza vaccine given this season per chart review.
+
+Return to clinic in 4 weeks for in-person follow up, sooner if worsening symptoms, fever, increased sputum production, or new chest pain. Pt verbalized understanding, all questions answered, telehealth visit concluded without further concerns voiced by patient.
+
+Electronically signed: Owen Fitzgerald, MD

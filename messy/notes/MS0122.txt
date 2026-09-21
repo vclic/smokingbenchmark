@@ -1,0 +1,69 @@
+Pulmonology Follow-Up Visit Note
+Patient: Jose Hall (M), DOB: 05/12/1965, Age: 58
+Date of Service: 05/14/2023
+Author: Steven Park, MD (NP progress note co-signed)
+Visit type: ED-to-clinic follow-up post COPD exacerbation
+
+HPI:
+Mr Hall is a 58 year old male with history of GERD, peripheral artery disease and asthma who presents today for follow up after being seen in the ED last week for a COPD exacerbation with worsening dyspnea and productive cough. He states "I couldnt catch my breath climbing the stairs at home" and reports some improvement since starting the prednisone taper and increased albuterol use. He denies fevers chills or chest pain currently, though he does note occassional wheeze especially at night. He was given a short course of azithromycin in the ED and completed it without issue. Pt reports adherence to inhalers though admits he sometimes forgets his evening dose he states "I just get busy and forget, doc". He denies any recent travel or sick contacts, review of records shows he has had 2 exacerbations in the past year requiring steroid bursts.
+
+Social History (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: 2.5 ppd
+Age started: 22
+Years smoked: Not on file
+Quit attempts: Not on file
+Readiness to quit: Patient states he still smokes and is not ready to quit at this time, he was counseled on cessation resources including nicotine replacement and quitlines but declined further discussion today
+Alcohol use: Occasional, denies heavy use
+Drug use: Denies
+Occupation: Retired warehouse worker
+Living situation: Lives with spouse
+Exercise: Limited due to dyspnea on exertion
+
+Review of Systems:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+HEENT: denies sore throat, denies nasal congestion, denies ear pain
+Cardiovascular: denies chest pain, denies palpitations, positive for occasional lower extremity cramping with ambulation consistent with known PAD
+Respiratory: positive for chronic cough, positive for wheeze, positive for dyspnea on exertion, denies hemoptysis
+GI: positive for occasional heartburn worse when lying flat, denies nausea, denies vomiting, denies diarrhea, denies constipation
+GU: denies dysuria, denies hematuria
+Musculoskeletal: denies joint pain, denies muscle weakness
+Skin: denies rash, denies pruritis
+Neuro: denies headache, denies dizziness, denies numbness or tingling
+Psych: denies depression, denies anxiety [inaudible] patient mumbled something about sleep quality that was not able to be transcribed clearly
+All other systems reviewed and negative
+
+Physical Exam:
+Vitals: BP 138/86, HR 88, RR 20, Temp 98.4F, SpO2 93% on room air, Wt 210 lbs, Ht 69 in
+General: alert, in no acute distress, well nourished male sitting comfortably in chair
+HEENT: normocephalic atraumatic, oropharynx clear, mucous membranes moist
+Neck: no jvd, no lymphadenopathy, trachea midline
+Cardiovascular: regular rate and rhythm, no murmurs rubs or gallops, distal pulses diminished bilaterally in lower extremities consistent with known PAD
+Respiratory: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest, mild prolongation of expiratory phase noted
+Abdomen: soft, non-tender, non-distended, normal bowel sounds
+Extremities: no edema, skin cool to touch distally, no ulcerations noted today
+Skin: no rashes, no lesions
+Neuro: alert and oriented x3, cranial nerves grossly intact
+Psych: mood and affect appropriate
+
+Medications:
+1. Albuterol HFA inhaler 90mcg, 2 puffs every 4-6 hrs PRN
+2. Fluticasone/salmeterol 250/50 one puff twice daily
+3. Omeprazole 20mg once daily
+4. Aspirin 81mg once daily
+5. Atorvastatin 40mg once daily
+6. Clopidogrel 75mg once daily
+7. Montelukast 10mg once daily
+8. Prednisone taper (completing this week)
+9. Cilostazol 100mg twice daily for PAD symptoms
+
+Assessment/Plan:
+1. COPD exacerbation, recently resolving s/p ED visit, continue current inhaler regimen, complete steroid taper as directed, follow up pulmonary function testing to be scheduled
+2. Tobacco use disorder - patient continues to smoke 2.5 packs per day, counseled on general health risks of continued smoking including worsening COPD and cardiovascular disease, patient again verbalized he still smokes and is not ready to quit at this time, will readdress at future visits, offered cessation resources today including nicotine replacement and quitline information
+3. Asthma - overlap with COPD suspected, continue current controller therapy
+4. GERD - continue omeprazole, advised to avoid lying down after meals
+5. PAD - continue cilostazol and antiplatelet therapy, monitor for claudication symptoms
+6. Return to clinic in 4-6 weeks or sooner if symptoms worsen, patient was given return precautions and verbalized understanding
+
+Electronically signed by Steven Park, MD

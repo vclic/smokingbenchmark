@@ -1,0 +1,82 @@
+Adult Medicine Progress Note
+
+Patient: RODRIGUEZ, Pamela    MRN: 43815444
+DOB: 06/08/1947    Age: 75 y.o.    Sex: Female
+Date of Service: 02/16/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up
+
+Subjective:
+Pamela Rodriguez is a 75 y.o. female who presents for routine follow-up of chronic conditions.
+Feels about the same as last visit. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• COPD
+• GERD	2022
+• Osteoporosis
+• CAD	1986
+• Osteoarthritis
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2002)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• albuterol HFA PRN
+• tiotropium 18 mcg inhaled daily
+• alendronate 70 mg weekly
+• omeprazole 20 mg daily
+• clopidogrel 75 mg daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+• acetaminophen 500 mg 2 tabs TID PRN
+• calcium + vitamin D daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Social History Narrative
+  Lives alone in an apartment.
+  Retired electrician.
+  Alcohol: rare.
+  Independent in ADLs.
+
+Family History
+Mother - osteoporosis, hip fracture. Parents deceased, causes unknown.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 125/79 (BP Location: Right arm, Patient Position: Sitting) | Pulse 83 | Temp 98.7 °F (Oral) | Resp 18 | Ht 5' 7" | Wt 179 lb | SpO2 93% | BMI 28.10 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (1/16/2023): Cr 1.08, K 4.3, Hgb 14.8
+
+Assessment & Plan
+1. CAD
+   Stable. Continue secondary prevention.
+2. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+3. Cigarette smoker
+   Pt continues to smoke, 87 pack yr. Counseled on cessation for 4 min. She is in the precontemplation stage. Offered NRT - declined. LDCT for lung cancer screening ordered after SDM.
+4. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+
+RTC 6 months.
+
+Electronically signed by Julia Brennan, MD on 02/16/2023

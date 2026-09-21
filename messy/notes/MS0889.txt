@@ -1,0 +1,48 @@
+Nurse Intake Note - Pulmonology
+Pt: Robert Simmons, M, DOB 2/29/1956, age 69
+DOS: 12/17/2025
+
+Vitals: BP 138/84, HR 76, RR 16, SpO2 96% RA, Wt 198 lb
+
+Reason for visit: LCS shared decision-making.
+
+SOCIAL HISTORY (EHR templated tobacco block):
+Smoking status: Never Smoker [NOTE: this auto-populated field is INCORRECT - see below]
+Pack-years: --
+Tobacco use: Cigarettes, 1-1.5 packs per day x 28 years. Quit 2006.
+Alcohol: occasional. Illicit drugs: denies.
+
+HPI:
+Pt here for f/u re: LCS discussion, referred by PCP given hx of PAD, HTN, GERD. Pt states "I haven't touched a cigarette since '06, that's when they told me I had the COPD." Denies current cough, hemoptysis, wt loss. Reports occasional exertional leg cramping c/w known PAD, stable. GERD sx well-controlled on current regimen, no dysphagia. HTN - checks home BP occasionally, meds as prescribed.
+
+ROS: Negative except as above. No fevers, no chest pain, no hemoptysis.
+
+Meds: lisinopril, omeprazole, cilostazol.
+
+Allergies: NKDA.
+
+Exam: NAD, A&Ox3. Lungs CTAB, no wheeze/rales. CV RRR, distal pulses diminished b/l LE c/w PAD. Abd soft, NT/ND.
+
+---
+
+Physician Progress Note - Gregory Tan, MD
+DOS: 12/17/2025
+
+Assessment/Plan:
+69 y.o. male, DOB 2/29/1956, seen today for lung cancer screening SDM visit.
+
+1. Tobacco history - Chart auto-fills "Smoking status: Never Smoker" in the templated field above; this is inaccurate and should be disregarded. Correct history: pt smoked 1-1.5 ppd x 28 years, quit in 2006 at the time of his COPD diagnosis. Pt currently does not smoke - no relapse reported, no vaping. Reinforced benefit of continued abstinence.
+
+2. Lung cancer screening - Discussed risks/benefits of screening given tobacco history above, per SDM visit format. Discussed radiation exposure, false positives, incidental findings. Pt verbalizes understanding. Decision-making documented; no imaging ordered today as part of this note.
+
+3. PAD - stable, continue cilostazol, follow with vascular.
+
+4. HTN - well controlled today, continue lisinopril.
+
+5. GERD - stable on omeprazole, no red flag sx.
+
+F/u in pulm clinic prn, return sooner if new resp sx develop.
+
+---
+ADDENDUM (later same day, G. Tan MD):
+After note signed, RN flagged that templated tobacco field still displays "Never Smoker" despite correction above - IT ticket submitted to fix auto-population error. For clarity, restating for the record: patient is a FORMER smoker, 1-1.5 packs/day x 28 years, quit 2006 coinciding with COPD dx. He does not currently smoke. No changes to plan.

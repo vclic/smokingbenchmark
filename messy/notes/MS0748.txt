@@ -1,0 +1,44 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Samuel Ramirez | DOB: 07/09/1965 | Age: 60 | Sex: M
+Visit type: New patient visit to establish care, Primary Care
+Date of service: 10/14/2025
+Author: Priya Raman, MD (resident); attending co-signature below
+
+CHIEF COMPLAINT: Establish care, review of chronic conditions.
+
+HPI: Mr. Ramirez is a 60-year-old male, DOB 7/9/1965, presenting today, 10/14/2025, to establish primary care after moving to the area. He reports history of hypertension, asthma, atrial fibrillation, and GERD, all previously managed by an outside provider whose records are pending. He states "I just want somebody to keep an eye on my heart and my blood pressure, doc." He denies chest pain currently but says he gets "a flutter in my chest every now and then, especially when I'm stressed [inaudible] or after coffee." He reports occasional heartburn worse at night, and wheeze with exertion which he treats with an albuterol inhaler he brought from home, he says he uses it maybe twice a week, the canister label is worn so exact refill date unclear. He denies fevers chills or weight loss he does note some fatigue which he attributes to poor sleep and says his wife tells him he snores loudly, will consider sleep study if symptoms persist. He was seen by cardiology two years ago for the afib and was started on a blood thinner at that time although he isn't sure of the exact name today he thinks it starts with an 'E' possibly Eliquis. He takes his blood pressure at home occasionally and reports readings "around 140 over 90-ish, sometimes higher."
+
+PAST MEDICAL HISTORY: Hypertension, asthma, atrial fibrillation, GERD.
+PAST SURGICAL HISTORY: Appendectomy, age 22.
+FAMILY HISTORY: Father with MI at 58, mother with COPD.
+
+SOCIAL HISTORY: Patient works as a delivery driver. Lives with spouse. Drinks alcohol socially, 2-3 beers on weekends. He has a 46 pack-year smoking history and currently smokes cigarettes. He states he has tried to cut back but has not been able to quit. No illicit drug use reported. Denies use of e-cigarettes.
+
+[Section copied forward from prior note dated 1/14/2022, unedited]: SOCIAL HISTORY (as documented 1/14/2022): Patient is a current smoker. No further detail provided in that note.
+
+MEDICATIONS (reported/reconciled today):
+1. Lisinopril 20 mg daily
+2. Amlodipine 5 mg daily
+3. Albuterol HFA inhaler PRN
+4. Apixaban (Eliquis) 5 mg twice daily (unconfirmed dose, to verify with records)
+5. Omeprazole 20 mg daily
+6. Montelukast 10 mg nightly
+7. Multivitamin daily
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss, endorses fatigue. Eyes: denies visual changes. ENT: denies sore throat, denies epistaxis. Cardiovascular: endorses palpitations as above, denies syncope, denies lower extremity edema. Respiratory: endorses exertional wheeze, denies hemoptysis, denies orthopnea. GI: endorses heartburn, denies nausea, denies vomiting, denies melena, denies hematochezia. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies swelling. Skin: denies rash, denies new lesions. Neuro: denies headache, denies numbness, denies weakness. Psych: denies depression, denies anxiety, endorses occasional stress related to work. Endocrine: denies polyuria, denies polydipsia. Heme/Lymph: denies easy bruising, denies lymphadenopathy. All other systems reviewed and negative per patient report.
+
+PHYSICAL EXAM: Vitals: BP 142/88, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% on room air, BMI 29.4. General: well-developed male, no acute distress. HEENT: normocephalic, atraumatic, oropharynx clear, no exudate. Neck: no jugular venous distension, no thyromegaly. Cardiovascular: irregularly irregular rhythm, no murmurs rubs or gallops appreciated, no peripheral edema. Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use. Abdomen: soft, nontender, nondistended, normoactive bowel sounds. Extremities: no clubbing cyanosis or edema. Skin: warm and dry, no rashes. Neuro: alert and oriented x3, cranial nerves grossly intact, no focal deficits. Psych: mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - continue anticoagulation, will obtain records to confirm dose, order EKG today, cardiology referral to re-establish care locally.
+2. Hypertension - suboptimally controlled, will increase lisinopril, recheck in 4 weeks, home BP log requested.
+3. Asthma - continue albuterol PRN, discuss possible controller therapy, spirometry ordered.
+4. GERD - continue omeprazole, dietary counseling given regarding trigger foods.
+5. Tobacco use - patient continues to smoke cigarettes with a 46 pack-year history as noted above; discussed smoking cessation resources including counseling and pharmacotherapy options such as varenicline and nicotine replacement; patient states he is "thinking about it but not ready yet." Lung cancer screening was discussed as a topic for future consideration pending further workup. Will readdress at follow-up.
+6. Health maintenance - routine labs ordered including lipid panel, CMC, TSH; influenza vaccine offered and administered today.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Extensive discussion held with patient regarding above plan, all questions answered.
+
+Attestation: I have personally seen and evaluated the patient with the resident and agree with the above assessment and plan, with modifications discussed in person. - Attending physician co-signature on file.

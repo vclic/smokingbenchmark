@@ -1,0 +1,85 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Luis Novak | DOB: 01/01/1946 | Age: 78 | Sex: M
+Date of Service: 11/16/2024
+Provider: Farah Siddiqui, MD (Primary Care)
+Visit type: Telehealth, post-hospitalization follow-up (recent admission for pneumonia)
+
+CHIEF COMPLAINT: F/u after hospital discharge for pneumonia, review meds/labs, general check-in.
+
+HPI: Mr. Novak is a 78-year-old male with history of OSA, hypothyroidism, HFrEF, and PAD, seen today via telehealth on 11/16/2024 for follow-up after recent hospitalization for community-acquired pneumonia. He reports gradual improvement in cough and dyspnea since discharge ~1 wk ago. Denies fevers, chills, hemoptysis. Reports some residual fatigue, appetite improving, sleeping better with CPAP. No chest pain, no increased lower extremity edema. He continues to ambulate with claudication-type leg pain at ~1 block, unchanged from baseline PAD symptoms.
+
+SOCIAL HISTORY / TOBACCO (EHR templated block, pulled from intake questionnaire):
+Tobacco Use: Cigarettes - Current every day smoker
+Packs/day: 0.75
+Years: 61.00
+Type: Cigarettes
+Quit date: N/A
+Comment: pt continues to smoke, states "cuts down when he can" - advised re: smoking cessation, offered counseling/resources again, pt declines pharmacotherapy at this time.
+Alcohol: occasional beer, denies illicit drug use.
+
+REVIEW OF SYSTEMS: (per standard templated ROS, reviewed with patient by phone/video)
+Constitutional: denies fevers, chills, night sweats; +mild fatigue.
+HEENT: denies sore throat, denies nasal congestion.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea beyond baseline (sleeps on 2 pillows, chronic).
+Respiratory: +mild residual cough, denies hemoptysis, denies significant dyspnea at rest.
+GI: denies nausea, vomiting, diarrhea, abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: +bilateral leg claudication with exertion, chronic, unchanged.
+Neuro: denies focal weakness, denies numbness/tingling.
+Psych: denies depressed mood, denies SI.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM: (limited telehealth exam, visual/verbal assessment)
+General: Alert, oriented x3, NAD, conversant, appears stated age of 78.
+Vitals (per home BP cuff/pulse ox reported by patient): BP 128/76, HR 78, SpO2 94% on room air per home pulse ox, temp afebrile per patient report.
+Cardiovascular: unable to auscultate via telehealth; patient denies visible edema on self-exam of lower extremities.
+Respiratory: patient reports no visible increased work of breathing, able to speak in full sentences without pausing.
+Skin: no rashes reported.
+Extremities: no swelling reported by patient, chronic dependent rubor of feet noted on video (consistent with known PAD).
+
+LABS/RESULTS:
+CBC (11/09/2024, during admission): WBC 11.2 (elevated, trending down from 14.8 on admission), Hgb 12.9, Plt 245.
+BMP (11/09/2024): Na 138, K 4.1, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 104.
+BNP (11/09/2024): 480 (elevated, baseline ~350 per prior records).
+TSH (10/02/2024, outpatient): 2.1 (within normal limits).
+CXR (11/08/2024, inpatient): Right lower lobe infiltrate, improving on repeat film 11/10/2024.
+
+PROBLEM LIST (per chart, some entries outdated):
+1. J18.9 - Pneumonia, organism unspecified (active, resolving)
+2. G47.33 - Obstructive sleep apnea (chronic, on CPAP)
+3. E03.9 - Hypothyroidism, unspecified (chronic, stable on levothyroxine)
+4. I50.22 - Chronic systolic (congestive) heart failure, HFrEF (chronic)
+5. I73.9 - Peripheral vascular disease, unspecified (PAD, chronic)
+6. I10 - Essential hypertension (chronic) [older entry, BP currently well controlled]
+7. M54.5 - Low back pain (resolved per prior note, kept on list, outdated)
+8. Z87.891 - Personal history of nicotine dependence [NOTE: outdated entry - pt is current smoker, see tobacco block above, problem list not yet updated to reflect active status]
+
+MEDICATIONS (reviewed and reconciled today):
+1. Furosemide 40 mg PO daily
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Levothyroxine 100 mcg PO daily
+6. Clopidogrel 75 mg PO daily
+7. Atorvastatin 40 mg PO nightly
+8. Cilostazol 100 mg PO BID (for PAD claudication)
+9. Amoxicillin-clavulanate 875-125 mg PO BID x remaining 3 days (completing course from discharge for pneumonia)
+10. Albuterol inhaler PRN
+11. Multivitamin daily
+
+ASSESSMENT/PLAN:
+78-year-old male, DOB 01/01/1946, seen via telehealth 11/16/2024 for post-hospitalization follow-up after pneumonia.
+
+1. Pneumonia, resolving - continue abx course as above, f/u CXR in 4-6 wks to confirm resolution, return precautions reviewed.
+2. HFrEF - euvolemic per patient report, continue current GDMT, will check BNP and BMP at next visit.
+3. PAD - continue cilostazol, ASA/clopidogrel, discussed importance of walking program as tolerated.
+4. OSA - continue CPAP, doing well per patient report.
+5. Hypothyroidism - TSH WNL, continue current dose levothyroxine.
+6. Tobacco use - lengthy discussion regarding ongoing cigarette smoking; patient again counseled on cessation given cardiopulmonary comorbidities, offered nicotine replacement/pharmacotherapy, patient not ready at this time. Lung cancer screening was discussed in general terms as part of preventive care conversation. Will continue to readdress at future visits.
+7. General - f/u in 2 weeks in office, sooner if worsening symptoms.
+
+Time spent: 25 minutes, >50% counseling/coordination of care.
+
+---ADDENDUM (same day, later)---
+11/16/2024, 4:45 PM - F. Siddiqui, MD
+Addendum: Patient's daughter called after visit to clarify home O2 sat readings - confirmed pulse ox reading of 94% RA was accurate, no change to plan. Also confirmed with patient's daughter that patient is aware of upcoming lab draw scheduled for follow-up BNP/BMP in 2 weeks. No other changes to today's assessment/plan. Reiterated smoking cessation resources will be mailed to home address per patient's request.

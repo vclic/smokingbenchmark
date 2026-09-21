@@ -1,0 +1,37 @@
+Internal Medicine Progress Note
+Patient: Mei Foster (F), DOB 6/2/1963, Age 61
+Date of Service: 06/02/2024
+Author: Rachel Goldberg, MD (NP progress note)
+
+CC: f/u DM2, HTN.
+
+HPI: Pt here for routine f/u of type 2 diabetes, hyperlipidemia, obesity, and depression. Reports fair adherence to meds, home glucose logs stable, no chest pain/SOB. Mood stable on current regimen. Denies new complaints today. Pt describes herself as a "social smoker" for many years - no set pack/day amount given, smokes occasionally at social events per her report. She states she quit smoking 5 years after her husband died, which was in 2015. She also reports she quit drinking alcohol in 2015.
+
+--- Copied from note dated 8/2/2020 ---
+Social history as documented on 8/2/2020: former smoker. No further quantities documented in that 8/2/2020 note.
+--- end copied section ---
+
+ROS: Constitutional - denies fever, chills, weight loss. CV - denies chest pain, palpitations, edema. Resp - denies cough, dyspnea, wheeze. GI - denies abdominal pain, nausea, vomiting, changes in bowel habits. GU - denies dysuria, hematuria. MSK - denies joint pain, swelling. Neuro - denies HA, dizziness, numbness. Psych - endorses stable mood, denies SI/HI. Skin - denies rash, lesions. All other systems reviewed and negative.
+
+Physical Exam: Vitals: BP 128/78, HR 72, RR 16, Temp 98.2F, Wt 182 lb, BMI 31.4. General: well-appearing, NAD. HEENT: normocephalic, atraumatic, PERRLA. Neck: no JVD, no thyromegaly. CV: RRR, no murmurs/gallops/rubs. Lungs: CTA bilaterally, no wheezes/rales/rhonchi. Abd: soft, NT/ND, +BS. Ext: no edema, pulses 2+. Skin: no rashes. Neuro: A&Ox3, no focal deficits. Psych: mood/affect appropriate.
+
+Labs (reviewed today):
+- HbA1c 6/1/2024: 7.1%
+- Lipid panel 6/1/2024: LDL 98, HDL 52, TG 140
+- CMP 6/1/2024: Cr 0.9, eGFR >60, Na 140, K 4.2
+- Urine microalbumin 6/1/2024: 18 mg/g
+
+Medications: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg nightly, Sertraline 100mg daily, Aspirin 81mg daily, Multivitamin daily, Vitamin D3 2000IU daily.
+
+Assessment/Plan:
+1. T2DM - A1c improved, continue metformin, recheck in 3 mo.
+2. HTN - well controlled, continue lisinopril.
+3. HLD - continue atorvastatin, repeat lipid panel in 6 mo.
+4. Obesity - counseled on diet/exercise.
+5. Depression - stable, continue sertraline.
+6. Social hx - counseled re: no current tobacco use; discussed lung cancer screening in general terms during visit.
+
+RTC 3 months or sooner PRN.
+
+***ADDENDUM (later same day, added by Dr. Goldberg)***
+Patient called after visit to clarify smoking history - confirmed she quit smoking and has not resumed. No further changes to plan.

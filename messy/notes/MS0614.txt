@@ -1,0 +1,39 @@
+Telehealth Note - Cardiology
+Date of Service: 07/05/2024
+Author: Teresa Alvarez, NP
+
+Patient: George Gonzales | DOB: 06/15/1961 | Age: 63 | Sex: M
+
+CHIEF COMPLAINT: Chest pain evaluation, telehealth follow-up.
+
+HPI: Mr. Gonzales is a 63-year-old male with hx of T2DM, PAD, HTN, and gout presenting via video visit for intermittent chest discomfort over the past 2 weeks. He states, "It feels like a tightness across my chest when I walk up the stairs, but it goes away when I rest." No radiation to arm/jaw reported. Denies diaphoresis or syncope. He notes his legs have been more crampy with walking, consistent with known PAD. Blood sugars have been running slightly high per home glucometer log. No recent ED visits.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Patient reports he tried a few cigarettes as a teenager but never smoked regularly.
+Alcohol use: Not on file.
+Illicit drug use: Denies.
+Occupation: Retired.
+Living situation: Not on file.
+Exercise: Walks daily, limited by leg pain.
+
+PAST MEDICAL HISTORY: Type 2 diabetes mellitus, peripheral artery disease, hypertension, gout.
+
+MEDICATIONS: Metformin 1000mg BID, Atorvastatin 40mg daily, Lisinopril 20mg daily, Cilostazol 100mg BID, Allopurinol 300mg daily.
+
+RESULTS:
+Lipid panel (06/28/2024): LDL 98 mg/dL, HDL 42 mg/dL, Triglycerides 165 mg/dL.
+HbA1c (06/28/2024): 7.8%.
+BMP (06/28/2024): Creatinine 1.1 mg/dL, eGFR 68.
+EKG (07/05/2024, in-office prior visit): Normal sinus rhythm, no acute ST changes.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely exertional angina equivalent given PAD burden - will schedule stress test.
+2. PAD - continue cilostazol, reinforce walking program.
+3. T2DM - A1c above goal, discuss medication adjustment at next visit.
+4. HTN - well controlled on current regimen, continue.
+5. Gout - stable, continue allopurinol.
+Follow-up in 2 weeks or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 07/05/2024, 4:15pm): Patient called back stating chest discomfort recurred briefly this afternoon while resting, lasting about 5 minutes and resolving spontaneously. Advised to go to ED if it recurs or worsens, otherwise stress test will proceed as planned this week. Discussed general cardiovascular risk reduction strategies including diet and activity; lung cancer screening was not discussed in detail today given acute cardiac focus. Will touch base after stress test results are available.
+- T. Alvarez, NP

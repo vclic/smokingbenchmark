@@ -1,0 +1,55 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Frank Anderson, M, DOB 3/17/1968 (age 55)
+Date of Service: 10/16/2023
+Author: Gregory Tan, MD, Internal Medicine
+
+RE: Follow-up visit for hypertension and diabetes
+
+Dear Dr. Colleague,
+
+Thank you for referring Mr. Anderson for ongoing management of his chronic conditions. He presents today for routine primary care follow-up.
+
+PROBLEM LIST:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- N40.1 BPH with LUTS
+- I48.91 Atrial fibrillation, unspecified
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- Z87.891 Personal history of nicotine dependence
+
+[Copied forward from visit 04/12/2021 - please disregard outdated portions below]
+Pt is a pleasant 53yo male here for f/u HTN, DM2, and AFib. Reports doing well on current regimen, denies CP, SOB, palpitations. BP log reviewed, mostly wnl. Denies polyuria polydipsia. Continues lisinopril, metformin, apixaban. Discussed diet and exercise. Will recheck labs in 3 months. Follow up PRN or sooner if symptoms worsen. Pt tolerating meds well no side effects noted at this time. Plan unchanged from prior visit continue current regimen f/u in 6 months.
+[End of copied text]
+
+HPI:
+Mr Anderson returns today for f/u of HTN and DM, both reasonably controlled per home readings and recent labs. He denies chest pain, SOB, or palpitations; his AFib has been rate-controlled on current regimen. No new urinary sx to suggest worsening BPH. No fractures or falls since last visit; continues calcium/vitamin D per osteoporosis mgmt.
+
+SOCIAL HISTORY:
+Smoking: Patient has a notable smoking history. He smoked about three-quarters of a pack (approx 15 cigarettes) per day for 8 years, then stopped completely for 3 years. He later restarted smoking at a quarter pack (about 5 cigarettes) per day for 7 years before quitting for good. Patient states he quit smoking for good when his youngest grandchild was born; that grandchild is now 12 years old. He remains a former smoker and denies any current tobacco use.
+Alcohol: Patient quit drinking alcohol in 2019, denies current use.
+Occupation: retired postal worker.
+Lives with spouse, denies illicit drug use.
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76 irregular, RR 14, Temp 98.4F, BMI 27.8
+General: well-appearing, NAD
+CV: irregularly irregular rhythm, no murmurs
+Resp: clear to auscultation bilaterally
+Abd: soft, nontender, no organomegaly
+Ext: no edema
+GU: deferred, pt reports stable urinary sx
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled, continue lisinopril
+2. Type 2 DM - A1c stable, continue metformin, recheck labs in 3 months
+3. Atrial fibrillation - continue apixaban, INR/renal function monitored, HR well controlled
+4. BPH - stable, continue tamsulosin, monitor sx
+5. Osteoporosis - continue calcium/vitamin D, DEXA due next year
+6. Tobacco history - former smoker, quit smoking status confirmed and reviewed; general risks of prior tobacco use discussed with patient; encouraged continued abstinence
+
+Will see pt again in 3 months or sooner if needed. Please let me know if you have questions regarding his care.
+
+Sincerely,
+Gregory Tan, MD

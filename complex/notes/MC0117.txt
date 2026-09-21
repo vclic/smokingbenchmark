@@ -1,0 +1,61 @@
+Pulmonology Follow-Up Progress Note
+Date of Service: 03/17/2025
+Author: Hannah Weiss, NP
+Patient: Mei Coleman, F, DOB 03/17/1971 (age 54 today - happy birthday to her, seen on her actual birthday)
+
+CHIEF COMPLAINT: Follow up s/p COPD exacerbation, recent ED visit.
+
+HPI: Pt is a 54 y/o woman with hx of hypothyroidism, PAD, hyperlipidemia, HFrEF, BPH (wait, pt is female, this is copy-forward error, disregard BPH line - see below, likely template artifact), and depression who presents today for follow up after being seen in the ED last week for what was called a COPD exacerbation. She reports she was having increased shortness of breath, wheeze, and cough productive of yellowish sputum for about four days before she went in. In the ED she got nebs, steroids, and I believe azithro although records are [inaudible] partially. She states she is feeling somewhat better today, still some residual dyspnea on exertion, denies fever chills now. She denies chest pain. She does note some ankle swelling which she says is her usual baseline for her heart failure. Sleeping okay, appetite fine.
+
+Of note when reviewing her smoking history the patient reports she has never smoked cigarettes, not even experimentally, and this has been consistent on prior visits as well.
+
+PMH: hypothyroidism, peripheral artery disease, hyperlipidemia, heart failure with reduced ejection fraction, BPH, depression. (BPH listed per chart problem list - patient reports this may be an error carried from a prior template, will clarify with PCP, not addressing today.)
+
+PAST SURGICAL HISTORY: none significant per chart.
+
+MEDICATIONS (per last reconciliation): levothyroxine, atorvastatin, clopidogrel, carvedilol, furosemide, sertraline, tiotropium inhaler, albuterol PRN.
+
+ALLERGIES: NKDA.
+
+---BEGIN COPY-FORWARD TEXT FROM PRIOR VISIT DATED 11/02/2024---
+HPI: Pt is a 53 y/o female here for routine PAD and heart failure follow up. She reports stable claudication symptoms, ambulates about two blocks before onset of calf pain, resolves with rest. No rest pain, no non-healing wounds on feet noted on exam today. She continues on clopidogrel and atorvastatin as above. Cardiology last saw her in September and echo at that time showed EF 35%, on optimal medical therapy with carvedilol and furosemide, no recent decompensation reported until this current exacerbation obviously. Denies orthopnea beyond 2 pillows, denies PND. Weight stable per home scale.
+ROS: otherwise negative in detail, all other systems reviewed and negative except as noted above.
+EXAM: BP 128/76, HR 68, well-appearing, lungs clear bilat, no lower extremity edema at that time, distal pulses diminished bilaterally but palpable, no ulcers.
+ASSESSMENT/PLAN at that time: 1. PAD - continue clopidogrel, atorvastatin, f/u vascular surgery for surveillance duplex. 2. HFrEF - continue carvedilol, furosemide, low sodium diet reviewed. 3. Hyperlipidemia - LDL at goal, continue statin. 4. Hypothyroidism - TSH within range, continue levothyroxine. 5. Depression - stable on sertraline, continue, PHQ-9 done in office was low.
+---END COPY-FORWARD TEXT---
+
+REVIEW OF SYSTEMS (today): Respiratory - as above, cough improving. Cardiac - denies chest pain, some mild bilateral ankle edema unchanged from baseline. GI - no complaints. GU - denies urinary symptoms today, though BPH is on the problem list this appears to be a documentation error as patient is female, will address with records dept. Psych - mood stable, denies SI.
+
+PHYSICAL EXAM:
+Vitals: BP 132/80, HR 74, RR 18, SpO2 94% on room air, Temp 98.2 F, Weight stable from last visit.
+General: well-appearing woman, no acute distress, speaking in full sentences.
+HEENT: unremarkable.
+Neck: no JVD appreciated.
+Cardiovascular: RRR, no murmurs appreciated, trace bilateral ankle edema.
+Respiratory: mild expiratory wheeze bilateral bases, no crackles, no accessory muscle use.
+Abdomen: soft nontender.
+Extremities: pulses diminished but palpable, no ulcers, trace edema.
+Neuro: grossly intact.
+
+LABS/STUDIES REVIEWED: CBC and BMP from ED unremarkable, BNP mildly elevated from her baseline but improved from ED value, CXR from ED showed no consolidation, hyperinflation noted consistent with COPD, no effusion.
+
+ASSESSMENT:
+1. COPD exacerbation, improving, likely triggered by viral URI, now resolving on current oral steroid taper and antibiotics as started in ED.
+2. HFrEF - stable, continue current regimen, will recheck BNP at next visit.
+3. PAD - stable, no interval change in symptoms.
+4. Hyperlipidemia - continue statin, will recheck lipid panel in 3 months.
+5. Hypothyroidism - stable, continue levothyroxine, TSH due at next annual labs.
+6. Depression - stable per patient report, continue sertraline.
+
+PLAN:
+- Continue prednisone taper as started in ED, review schedule with pt, she has written instructions from discharge.
+- Continue tiotropium daily and albuterol PRN, reviewed inhaler technique with pt today, appears adequate.
+- Pulmonary function testing to be scheduled once acute exacerbation resolved, in about 4-6 weeks.
+- General discussion regarding overall lung health and preventive care had with the patient today, questions answered.
+- Vaccination status reviewed, pt is up to date on influenza and pneumococcal vaccines per chart.
+- Return to clinic in 4 weeks or sooner if worsening symptoms, call with any fever, increased sputum purulence, or worsening dyspnea.
+- Reviewed red flag symptoms requiring ED return: chest pain, severe SOB, confusion, hemoptysis.
+
+Pt verbalizes understanding of plan, all questions answered today, follow up as above.
+
+Electronically signed: Hannah Weiss, NP

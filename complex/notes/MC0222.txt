@@ -1,0 +1,48 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Date of Service: 09/01/2025
+Patient: Yolanda Barnes  DOB: 09/01/1950 (age 75)
+Provider: Priya Raman, MD
+
+HPI:
+Pt presents for annual wellness visit accompanied by daughter. Pt states "I feel about the same as last year, just my knees get stiffer." She denies chest pain, hemoptysis or unintentional weight loss. Reports occasional wheeze w exertion, uses albuterol prn. Pt also states "I know I should quit but its hard, I've smoked most of my life." No new complaints otherwise.
+
+[COPY-FORWARD FROM VISIT 03/14/2024 - not updated]
+CC: f/u COPD, asthma, OA. Pt reports stable dyspnea on exertion, uses Advair BID. OA affecting bilateral knees, managed w/ acetaminophen and topical diclofenac. No falls. Immunizations UTD per prior note. Pt reports living alone, independent in ADLs. Denies SI/HI. Wt stable. Pulm exam clear to auscultation bilaterally with mild expiratory wheeze. Plan continue current regimen, f/u in 6 mo.
+[END COPY-FORWARD]
+
+SOCIAL HISTORY (templated):
+Tobacco use: Yes - active smoker
+  Cigarettes - smoked 2 packs per day for 23 years, then decreased to about 15 cigarettes per day for the next 29 years up to now
+Alcohol use: Not on file
+Drug use: denies
+Occupation: retired seamstress
+Living situation: lives alone
+Exercise: ___ (blank)
+Secondhand smoke exposure: Not on file
+
+PROBLEM LIST:
+J44.9 - COPD, unspecified (active)
+J45.909 - Asthma, unspecified, uncomplicated (active)
+M19.90 - Osteoarthritis, unspecified site (active)
+Z71.3 - Dietary counseling (resolved, outdated entry from 2019)
+I10 - Essential hypertension (inactive - per pt no longer takes med, unclear if accurate)
+
+ROS: Resp - wheeze as above. Cardiac - no CP/palpitations. GI - unremarkable. MSK - chronic knee pain, no acute injury. Skin - no lesions noted, exam otherwise unremarkable.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 94% RA, Wt 165 lb
+Gen: NAD, well-groomed elderly female
+Lungs: mild expiratory wheeze bilat, no rales, no accessory muscle use
+CV: RRR, no m/r/g
+Ext: mild crepitus bilateral knees, no effusion
+
+ASSESSMENT/PLAN:
+1. COPD - stable, continue current inhalers, discussed pulm rehab referal
+2. Asthma - well controlled, continue Advair, albuterol prn
+3. Tobacco use, active smoker - counseled extensively on cessation benefits, offered nicotine replacement therapy and referral to quitline, pt states will consider
+4. OA bilateral knees - continue acetaminophen, topical NSAID, consider PT referral
+5. Health maintenance - immunizations reviewed, colon ca screening UTD, mammogram due, will schedule
+
+Follow up in 6 months or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+Priya Raman, MD

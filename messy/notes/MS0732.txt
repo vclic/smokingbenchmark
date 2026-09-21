@@ -1,0 +1,52 @@
+NURSE INTAKE
+Pt: Henderson, Theresa. DOB: 6/7/1949 (age 75). DOS: 06/07/2024.
+Visit type: ED-to-clinic follow-up, Pulmonology.
+Vitals: BP 132/78, HR 88 irreg irreg, RR 20, SpO2 91% RA, Temp 97.6F, Wt 158 lb.
+Chief complaint per pt: "I just can't catch my breath like I used to, and them steroids they gave me at the hospital made me jittery as all get out."
+
+SOCIAL HISTORY (templated block)
+Tobacco use: Never
+Pack-years: N/A
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired seamstress
+Living situation: Lives alone, daughter nearby
+Exercise: Sedentary, limited by dyspnea
+
+Allergies: NKDA
+PROBLEM LIST
+I48.91 - Atrial fibrillation, unspecified
+I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+J44.1 - COPD with acute exacerbation (resolving)
+E78.5 - Hyperlipidemia, unspecified (outdated, last documented 2019)
+M19.90 - Osteoarthritis, unspecified site (outdated)
+
+PHYSICIAN PROGRESS NOTE - Brian Okonkwo, MD
+
+HPI: Ms. Henderson is a 75 y/o female, DOB 6/7/1949, seen today 06/07/2024 in pulm clinic as f/u after recent ED visit and short hospital observation stay for COPD exacerbation, she was started on a burst of oral steroids and a course of azithromycin and now presents for reassessment of symptoms, she states "I'm breathing a little easier but I still get winded going up them stairs to my apartment" and reports intermittent nonproductive cough with occasional wheeze worse in the mornings, denies fever chills or hemoptysis, denies chest pain though notes some palpitations which she attributes to her known afib and which have been stable per her cardiologist per pt report, sleep has been poor she says "I keep waking myself up coughing" and appetite reduced somewhat likely related to steroid taper, she is accompanied today by her daughter who assists with med management, review of systems otherwise negative for lower extremity edema although pt has hx of HFrEF and is followed closely by cardiology, she denies orthopnea currently states she sleeps on one pillow, [inaudible] discussion regarding home oxygen use was had and pt states she does not currently require supplemental O2 at home though her sat today is borderline at 91% on room air so this was addressed further below.
+
+Past Medical History: Atrial fibrillation on anticoagulation, heart failure with reduced ejection fraction (last EF reported 35% on echo from outside cardiology group), COPD, hyperlipidemia (outdated diagnosis, not currently on statin per chart review, to reconcile), osteoarthritis.
+
+Medications: Apixaban 5 mg BID, metoprolol succinate 50 mg daily, furosemide 40 mg daily, tiotropium inhaler daily, albuterol PRN, prednisone taper (day 4 of 10), azithromycin (day 3 of 5).
+
+Social History: As above, patient has never used tobacco, she reports she has never smoked cigarettes cigars or pipes in her life and there is no history of vaping or e-cigarette use, no occupational exposure to fumes reported though she notes some remote exposure to secondhand smoke from a former spouse many years ago which is not felt to be clinically significant at this time, alcohol use not on file, denies recreational drug use.
+
+Physical Exam:
+Gen: Elderly female, NAD, conversant, appropriate.
+HEENT: PERRLA, no JVD appreciated today.
+CV: Irregularly irregular rhythm, no murmurs appreciated, no significant peripheral edema.
+Resp: Diminished breath sounds bilat bases, scattered expiratory wheeze, no crackles, mild increased work of breathing, using accessory muscles minimally.
+Ext: No cyanosis or clubbing, trace edema b/l ankles.
+Skin: Warm, dry, intact.
+
+Assessment/Plan:
+1. COPD exacerbation, resolving - continue steroid taper as prescribed, complete azithromycin course, continue tiotropium and albuterol PRN, reinforce inhaler technique which was reviewed today with RT, pt demonstrated appropriate technique.
+2. Hypoxemia, borderline on RA today - will trend, pt to use home pulse ox and call if sats persistently below 90%, will reassess at next visit whether home O2 indicated, discussed general risk factors for lung disease although patient's history notably does not include tobacco use.
+3. Atrial fibrillation - stable, continue apixaban and metoprolol, will defer further titration to cardiology.
+4. HFrEF - euvolemic today on exam, continue furosemide and metoprolol, no evidence of acute decompensation.
+5. Health maintenance - routine age-appropriate preventive care topics reviewed with patient and daughter, deferred further detail to primary care.
+6. Follow up in pulm clinic 4-6 weeks or sooner if worsening symptoms, return precautions reviewed including instructions to go to ED for worsening SOB chest pain or hemoptysis.
+
+Time spent: 28 minutes, more than half spent in counseling and coordination of care.
+
+/s/ Brian Okonkwo, MD

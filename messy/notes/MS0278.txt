@@ -1,0 +1,82 @@
+INTERNAL MEDICINE RESIDENT NOTE
+Patient: Larry Schmidt (M)
+DOB: 2/7/1969
+Date of Service: September 27, 2024
+Attending: Brian Okonkwo, MD (attestation below)
+
+CC: Follow-up for hypertension and diabetes.
+
+HPI: Mr Schmidt is a 55 year old male here for routine f/u of HTN and DM2. He reports doing reasonably well, checking home BP logs intermittently, glucose readings mostly in 120-160 range fasting. No chest pain, no SOB, no polyuria/polydipsia currently. He denies medication side effects. He continues to follow with urology for BPH and has been stable on tamsulosin. Mood has been ok per him, still on sertraline for depression, no recent flares of gout, last flare several months ago per patient recollection.
+
+Past Medical Hx / Problem List (ICD-10):
+- Essential hypertension I10
+- Type 2 diabetes mellitus without complications E11.9
+- Benign prostatic hyperplasia N40.0
+- Hyperlipidemia E78.5
+- Major depressive disorder, recurrent, mild F33.0
+- Gout, unspecified M10.9
+- Tobacco use disorder Z87.891 (former)
+- GERD K21.9 (old dx, pt denies current sx, unclear if still active)
+- Seasonal allergic rhinitis J30.2 (copied forward, likely outdated)
+
+Social History: Former smoker. He quit smoking in 2010, when he retired. Alcohol occasional, denies illicit drug use. Lives with spouse, retired from manufacturing job.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss, fatigue
+Eyes: denies vision changes, denies eye pain
+ENT: denies sore throat, denies nasal congestion
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: denies nausea, denies vomiting, denies abd pain, denies change in bowel habits
+GU: reports mild urinary hesitancy, known BPH, denies dysuria, denies hematuria
+Musculoskeletal: denies acute joint pain today, hx gout as above
+Skin: denies rash, denies lesions
+Neuro: denies headache, denies numbness, denies tingling
+Psych: denies SI/HI, mood stable per pt, on sertraline
+Endocrine: denies polyuria, denies polydipsia
+All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.4F, Wt 210 lb, BMI 31.2
+General: well-appearing male, NAD
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear
+Neck: no JVD, no thyromegaly
+CV: RRR, no murmurs rubs or gallops
+Lungs: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Abdomen: soft, non-tender, non-distended, normal bowel sounds
+Extremities: no edema, no cyanosis, no clubbing
+Skin: warm and dry, no rash
+Neuro: alert and oriented x3, CN II-XII grossly intact
+Psych: mood and affect appropriate
+
+Medications:
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Metformin 1000mg twice daily
+4. Atorvastatin 40mg daily
+5. Tamsulosin 0.4mg daily
+6. Sertraline 100mg daily
+7. Allopurinol 300mg daily
+8. Aspirin 81mg daily (pt states he takes intermittently, not consistant)
+9. Omeprazole 20mg daily prn (per old note, unclear if still taking)
+
+Labs (reviewed from 9/20/2024):
+A1c 7.4%, fasting glucose 138, LDL 98, HDL 42, TG 150, Cr 0.9, eGFR >60, K 4.1
+
+Assessment/Plan:
+55 year old male, DOB 2/7/1969, presenting 9/27/2024 for HTN/DM2 f/u.
+
+1. Hypertension - reasonably controlled today at 138/84, continue current regimen, recheck home logs at next visit.
+2. Type 2 diabetes mellitus - A1c 7.4%, mild improvement from prior, continue metformin, reinforce diet/exercise counseling, recheck A1c in 3 months.
+3. Tobacco use - former smoker with a 15 pack-year smoking history, quit in 2010 at time of retirement. No current use, reinforced abstinence, discussed lung cancer risk factors and screening was discussed in general terms with patient without further recommendation documented today.
+4. BPH - stable on tamsulosin, continue, no new urinary sx of concern.
+5. Hyperlipidemia - LDL at goal, continue atorvastatin.
+6. Depression - mood stable, continue sertraline, will reassess at next visit, no SI/HI today.
+7. Gout - no acute flare, continue allopurinol, encourage hydration and dietary moderation.
+
+Return to clinic in 3 months or sooner if issues arise. Pt verbalizes understanding of plan.
+
+Electronically signed by Resident, reviewed and discussed in detail with patient present.
+
+ATTESTATION: I have personally seen and examined the patient with the resident. I agree with the history, exam findings, and plan as documented above.
+- Brian Okonkwo, MD, Attending Physician

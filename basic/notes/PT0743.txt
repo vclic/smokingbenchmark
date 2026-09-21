@@ -1,0 +1,74 @@
+Family Medicine Progress Note
+
+Patient: YOUNG, Carmen    MRN: 11910731
+DOB: 03/03/1951    Age: 73 y.o.    Sex: Female
+Date of Service: 05/27/2024    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Carmen Young is a 73 y.o. female who presents for diabetes follow-up.
+Most recent A1c 9.3% (previously 9.1% in December 2023). Rarely checks glucose at home. No hypoglycemic episodes. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Asthma
+• HTN	2001
+• Class I obesity
+• T2DM without complication	2010
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• budesonide-formoterol 160/4.5 2 puffs BID
+• amlodipine 10 mg daily
+• sitagliptin 100 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired electrician.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+
+Family History
+Mother - breast cancer at 70.
+
+Review of Systems
+ROS: GI neg, Resp neg, Gen neg, CV neg, Neuro neg, GU neg, MSK neg, Skin neg
+
+Objective:
+Vitals:
+  BP 126/70 (BP Location: Right arm, Patient Position: Sitting) | Pulse 59 | Temp 97.6 °F (Oral) | Resp 16 | Ht 5' 2" | Wt 167 lb | SpO2 95% | BMI 30.51 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (5/6/2024): A1c 9.3%, LDL 131, Cr 0.78, K 3.8
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.3% - above goal; increase metformin to 1000 mg BID. Diabetic eye exam referral.
+2. Asthma
+   Well controlled; continue.
+3. Class I obesity
+   Discussed diet and exercise.
+4. Lung cancer screening
+   Not indicated - never smoker.
+5. Health maintenance
+   LCS: N/A - never smoker.
+
+f/u 6 mo
+
+Electronically signed by Isaac Moreno, PA-C on 05/27/2024

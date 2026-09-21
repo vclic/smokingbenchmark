@@ -1,0 +1,54 @@
+NP Progress Note - Pulmonology Follow-up
+Date of Service: 02/12/2026
+Author: Anita Patel, MD
+
+Patient: Deborah Schmidt (F), DOB 02/12/1968, Age: 58
+
+HPI:
+Pt is a 58 yo woman s/p recent ED visit and hospital d/c after COPD exacerbation, here for f/u. Reports improved dyspnea since starting steroid taper, still some wheeze am. Denies fever chills. O2 sat stable per home pulse ox. No new CP. Pt states she quit smoking right after her stroke and has not restarted since.
+
+PMH (problem list, ICD-10):
+- COPD, unspecified (J44.9)
+- Gout (M10.9)
+- Osteoarthritis, unspecified site (M19.90) - outdated entry, likely knee/hip per prior notes
+- Hypertension (I10)
+- Coronary artery disease (I25.10)
+- Peripheral artery disease (I73.9)
+- BPH (N40.0)
+- Ischemic stroke (2011) (I63.9)
+
+Meds: lisinopril, atorvastatin, allopurinol, tamsulosin, albuterol inh prn, tiotropium daily
+
+Social History (EHR template):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: 
+Exercise: Not on file
+Smoking cessation counseling: Provided at prior visits
+
+ROS: Otherwise negative except as above. + occasional joint pain (gout hx), no acute flare today.
+
+Exam:
+Vitals stable, afebrile, RR 18, O2 94% RA.
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles
+CV: RRR, no m/r/g, PAD-related decreased pedal pulses noted bilat as baseline
+Ext: no edema, no gout flare noted today
+
+Assessment/Plan:
+58 yo F with COPD s/p recent exacerbation, now improving. Former smoker - smoking hx notable: smoked half a pack (about 10 cigarettes) per day for 18 years, then increased to 2 packs per day for 9 years before quitting. Continue tiotropium, albuterol prn. Cont steroid taper as directed at d/c. Screening for lung cancer was discussed with patient given smoking hx; pt to think it over.
+
+1. COPD - improving, cont current regimen, f/u 4-6 wks
+2. HTN - stable on lisinopril, cont
+3. CAD - stable, cont atorvastatin
+4. PAD - stable, no claudication today
+5. Gout - no flare, cont allopurinol
+6. OA - stable, otc analgesics prn
+7. BPH - stable on tamsulosin
+8. h/o ischemic stroke (2011) - no new deficits, cont current preventive meds
+
+Return to clinic in 4-6 weeks or sooner if worsening sx. Pt educated on COPD action plan, given rescue inhaler instructions. Discussed importance of continued abstinence from tobacco - pt reiterated she has no interest in restarting.
+
+Electronically signed: Anita Patel, MD, NP

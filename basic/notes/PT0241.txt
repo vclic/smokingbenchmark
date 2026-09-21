@@ -1,0 +1,47 @@
+PROGRESS NOTE
+Date of Service: 12/23/2024
+Pateint: Elizabeth Washington   DOB: 11/23/1955   MRN: 50852916
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Ms. Washington is a 69-year-old woman with a history of GERD, obesity, and AFib who presents for pre-operative evaluation prior to right total knee arthroplasty. Scheduled for right total knee arthroplasty on 01/12/2025. Can climb 2 flights of stairs without symptoms (>4 METs). Had PONV with prior surgery.
+
+PMH: Paroxysmal atrial fibrillation, Class I obesity, Gastroesophageal reflux disease
+Meds: apixaban 5 mg BID; fish oil 1 g daily; pantoprazole 40 mg daily
+Allergies: Codeine (nausea)
+SH: Lives with husband in a single-family home. Retired engineer. She smoked 2 packs per day and has since quit. Drinks a glass of wine with dinner. No illicit drug use.
+FH: Mother - CHF, d. age 88.
+ROS:
+  Constitutional: denys fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 132/77  HR: 79  RR: 14  Temp: 97.9 F  SpO2: 95% on RA  Wt: 218 lbs  BMI: 34.1
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTAB
+  Abd: Obese, soft, nontender
+  Ext: Warm, well perfused, no edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+
+A/P:
+1. Pre-operative evaluation: RCRI 0. Low risk; no further testing needed. Hold ASA 5 days prior per surgeon.
+2. Paroxysmal atrial fibrillation: Rate controlled; continue anticoagulation.
+3. Gastroesophageal reflux disease
+   - Symptoms controlled.
+4. History of tobacco use (Z87.891): Congratulated on remaining smoke-free.
+5. Class I obesity
+   - Discussed diet and exercise.
+
+Follow up in 6 months or sooner PRN.
+
+-- LC (FNP-C)

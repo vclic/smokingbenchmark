@@ -1,0 +1,47 @@
+Primary Care Clinic Note
+Date of Service: 6/16/2026
+Patient: Rita King   DOB: 2/11/1952   MRN: 51857675
+
+SUBJECTIVE:
+CC: Right knee pain
+HPI: Mrs. King is a 74-year-old woman with a history of HTN, HLD, and obesity who presents for right knee pain. Right knee pain for 6 months, worse in the morning. No numbness or weakness. Tylenol helps somewhat. Never smoker.
+
+PMH:
+- Mixed hyperlipidemia
+- Class I obesity (dx 2024)
+- Hypertension
+PSH: Cholecystectomy
+Meds: pravastatin 40 mg nightly; lisinopril 20 mg daily
+Allergies: Penicillin (rash)
+SH: Married, lives with husband. Worked as a bartender for ~20 years with heavy secondhand smoke exposure. EtOH: 2-3 drinks on weekends. No illicit drug use.
+FH: Mother - HTN, DM2.
+ROS: Gen neg, MSK +, GU neg, Skin neg, GI neg, Resp neg, Neuro neg
+
+OBJECTIVE:
+Vitals: BP: 152/70  HR: 70  RR: 18  Temp: 98.5 F  SpO2: 95% on RA  Wt: 210 lbs  BMI: 31.9
+Exam:
+  General: Comfortable, conversant
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: No clubbing, cyanosis, or edema
+  MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (5/10/2026): LDL 129, Cr 1.04, K 4.1, Hgb 12.7
+
+A/P:
+1. Right knee pain: Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+2. Class I obesity: Discussed diet and exercise.
+3. Mixed hyperlipidemia: Tolerating statin; recheck lipids in 1 yr.
+4. Hypertension
+   - Above goal today; recheck at next visit, reinforce low-sodium diet.
+5. Health maintenance
+   - Lung cancer screening: not indicated (never smoker).
+
+RTC 3 months.
+
+Seen and discussed with resident Dr. Martin. I personally saw and examined the patient and agree with the findings and plan as documented.
+Owen Fitzgerald, MD

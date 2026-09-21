@@ -1,0 +1,47 @@
+GERIATRIC ASSESSMENT - NURSE INTAKE / PHYSICIAN PROGRESS NOTE
+Date of Service: 11/25/2023
+Patient: Donna Powell, F, DOB 6/22/1944, Age 79
+Author: Hannah Weiss, NP
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 76 irregular, RR 18, SpO2 94% RA, Wt 152 lb.
+Pt ambulates w/ cane, escorted by daughter today, reviewd meds w/ patient who states she takes them 'most days' [inaudible] some confusion re: metformin dosing.
+
+SOCIAL HISTORY (templated):
+  Marital status: Widowed
+  Living situation: Lives alone, daughter nearby
+  Occupation: Retired seamstress
+  Alcohol use: Not on file
+  Illicit drug use: Denies
+  TOBACCO USE:
+     - Smoking status: Former smoker
+     - Cigarettes/pack-years: Smoked 2 packs per day for 23 years, then approximately 15 cigarettes per day for the next 12 years before quitting.
+     - Quit: Quit smoking approximately 24 years ago
+     - Secondhand smoke exposure: Not on file
+  Exercise: Denies regular exercise
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 79-year-old female here today, 11/25/2023, for geriatric assessment referred by cardiology for medication reconciliation and functional status review. Patient reports increasing fatigue and occasional dyspnea on exertion, denies chest pain, denies syncope. She reports her breathing is 'about the same' though daughter notes more coughing in mornings, will follow up with pulm re COPD management. Diabetes reportedly controlled per home glucose log, though log itself was left at home today so unable to reveiw actual numbers.
+
+PROBLEM LIST (ICD-10):
+  I48.91 - Atrial fibrillation, unspecified (active, on anticoagulation)
+  J44.9 - COPD, unspecified (active)
+  I25.10 - Coronary artery disease w/o angina (active)
+  E11.9 - Type 2 diabetes mellitus w/o complications (active)
+  I10 - Essential hypertension (active)
+  Z87.891 - Personal history of nicotine dependence (outdated entry, patient is former smoker, no longer smokes)
+
+Exam: Alert, oriented x3, mild kyphosis, lungs w/ scattered expiratory wheezes, decreased breath sounds bilat bases, cardiac irregularly irregular rhythm no murmur appreciated, extrem no edema, gait slow but steady w/ cane.
+
+Assessment/Plan:
+1. Afib - continue anticoagulation, cardiology f/u already scheduled.
+2. COPD - continue inhalers, discussed pulm f/u for ongoing symptom management, general topic of lung health awareness discussed given prior tobacco use, no further workup ordered today.
+3. CAD - stable, continue statin and antiplatelet.
+4. T2DM - reviewed diet, will obtain updated A1c, pt to bring glucose log next visit.
+5. HTN - well controlled today, continue current regimen.
+6. Functional status - overall fair, will arrange PT eval for gait and fall risk.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (same day, later) ---
+Addendum 3:45pm: Daughter called clinic to clarify medication list, states patient sometimes doubles up on metformin accidentally. Advised daughter to use pill organizer, will discuss further at next visit. No change to tobacco history documented above; patient confirmed again she no longer smokes and has not smoked in many years.

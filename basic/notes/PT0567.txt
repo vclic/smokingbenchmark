@@ -1,0 +1,72 @@
+Adult Medicine Progress Note
+
+Patient: WALKER, Richard    MRN: 77234159
+DOB: 04/01/1945    Age: 78 y.o.    Sex: Male
+Date of Service: 03/06/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Richard Walker is a 78 y.o. male who presents for right shoulder pain.
+Right shoulder pain for 5 months, worse in the morning. He is a former smoker with a 39-pack-year smoking history and quit in 2017. No trauma. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (1992)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 40 mg daily
+• chlorthalidone 12.5 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Social History Narrative
+  Married, lives with wife.
+  Retired, former truck driver.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+  Sedentary.
+
+Family History
+Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS: CV neg, Resp neg, Gen neg, MSK +, Skin neg, GI neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 125/81 (BP Location: Right arm, Patient Position: Sitting) | Pulse 71 | Temp 98.1 °F (Oral) | Resp 16 | Ht 5' 10" | Wt 178 lb | SpO2 96% | BMI 25.48 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (2024-01-28): Cr 1.10, K 4.0, Hgb 14.8
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. HTN
+   BP at goal; continue current regimen.
+3. Health maintenance
+   LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Brian Okonkwo, MD on 03/06/2024

@@ -1,0 +1,35 @@
+Internal Medicine Follow-Up - DOS: 12/29/2025
+Patient: Ronald Nguyen, M, DOB 3/20/1945 (age 80)
+Provider: Steven Park, MD
+
+NURSE INTAKE:
+Pt here for f/u HTN, DM. VS stable BP 138/82 HR 76 irreg irreg (known afib) wt 178 lbs. Pt c/o mild knee pain, denies chest pain SOB today. Meds reconciled, some refills needed. Pt states he feels 'ok, tired sometimes' [inaudible] rest of comment re: sleep. Pt ambulates without assistance, uses cane occasionally for gout flares.
+
+PROBLEM LIST (some outdated):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus
+- N18.3 CKD stage 3
+- E78.5 Hyperlipidemia
+- I48.91 Atrial fibrillation
+- M10.9 Gout
+- J44.9 COPD
+- I73.9 Peripheral artery disease
+- Z87.891 Personal hx of tobacco use (inactive - needs update, pt still using per below)
+
+PHYSICIAN PROGRESS NOTE:
+HPI: 80 yo M here today, 12/29/2025, for routine f/u of HTN and DM2, also being followed for CKD3, afib, gout, COPD, and PAD. Reports overall stable, no new complaints except occasional knee discomfort attributed too gout, no acute flare currently. Denies dyspnea at rest, some exertional SOB consistent with known COPD, ude bronchodilator prn. No hemoptysis no wt loss. Cardiac: no palpitations noted, on anticoagulation for afib, INR/labs reviewed separately.
+
+Exam: A&O x3, NAD. Lungs: diminished breath sounds bilat bases, occas exp wheeze. CV: irreg irreg rate, no murmur appreciated. Extrem: cool distal, faint pedal pulses c/w PAD, no ulceration noted today. Gait steady with cane.
+
+Assessment/Plan:
+1. HTN - stable, continue current regimen, recheck lytes/renal fxn given CKD.
+2. DM2 - A1c pending, continue metformin, reinforce diet.
+3. CKD stage 3 - monitor eGFR, avoid nephrotoxic agents.
+4. Afib - continue anticoag, rate controlled today.
+5. Gout - colchicine prn, uric acid to be rechecked.
+6. COPD/tobacco use - Smoking history reviewed in detail: patient smoked half a pack (about 10 cigarettes) per day for 23 years, then quit completely for 2 years, after which he restarted at a quarter pack (about 5 cigarettes) per day and has continued this for 33 years; he still smokes currently and states he is not ready to quit at this time. Counseled extensively on cessation benefits, offered resources, pt declines at this visit, will continue to encourage at future visits. Screening for lung cancer discussed in general terms, no imaging ordered today.
+7. PAD - continue antiplatelet, monitor symptoms, no claudication change reported.
+
+F/u 3 months or sooner if symptoms worsen. Labs ordered today including BMP, A1c, lipid panel.
+
+-- Steven Park, MD

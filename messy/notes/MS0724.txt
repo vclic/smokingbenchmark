@@ -1,0 +1,71 @@
+GERIATRICS - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Diane Nelson (F) DOB 3/4/1973
+Date of Service: 3/4/2026
+Author: Anita Patel, MD (resident) - attending attestation below
+
+CC: Comprehensive geriatric assessment, f/u chronic conditions.
+
+HPI: Ms Nelson is a 53 year old woman presenting for annual geriatric assessment. Hx notable for HTN, CAD, OA, CKD stage 3, obesity, and COPD. She reports stable exertional dyspnea, no new chest pain, occasional knee pain managed w/ acetaminophen. Denies falls, denies cognitive complaints per pt and family. Appetite fair, sleep adequate. Reviewed meds, no new allergies. She notes overall doing well, ambulates w/o assistive device.
+
+--- COPIED FORWARD FROM VISIT DATED 5/4/2023 (unedited, retained for continuity) ---
+SOCIAL HISTORY (as documented 5/4/2023): Smoking status: former smoker. Alcohol: occasional, denies illicit drug use. Lives alone, independent in ADLs. Pt reports good family support. Exercise: walks daily as tolerated. No occupational exposures reported at that time. Pt counselled re: fall prevention and home safety same visit. F/u recs from 2023 visit: continue statin, monitor renal fxn, repeat CBC/CMP in 6 mo, consider pulm referal if worsening dyspnea (sic - copied as-is w/ typo).
+--- END COPIED SECTION ---
+
+Current visit social hx update (reviewed and confirmed w/ pt today, 3/4/2026):
+SOCIAL HISTORY (EHR TEMPLATE):
+ Tobacco use status: Former smoker
+ Smoking history (pack-years): 19 pack-years
+ Years since quitting: quit 19 years ago
+ Type of tobacco: cigarettes
+ Secondhand exposure: Not on file
+ Alcohol use: occasional, denies binge
+ Illicit drug use: denies
+ Vaping/e-cigarette use: Not on file
+ Occupation: retired, prior office admin
+ Living situation: lives alone, daughter nearby
+ Exercise: daily walking
+
+Pt confirms she no longer smokes and has not smoked in many yrs; when asked directly stated she quit smoking 19 years ago. Total exposure calculated at 19 pack-year smoking history per pt report and prior records. Encouraged continued abstinence, reinforced benefits given COPD dx. Lung cancer screening discussed in general terms as part of preventive care conversation; no imaging orders placed today.
+
+ROS: Denies fever, chills. Resp: mild dyspnea on exertion, chronic, stable. CV: no chest pain, no palpitations. GI: no nausea/vomiting. GU: no dysuria. MSK: chronic knee pain, stable. Neuro: no focal deficits. Psych: mood stable, denies depression/anxiety.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 94% RA, Wt 198 lb, BMI 34.1
+Gen: well-appearing, NAD, obese habitus
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: no JVD, no LAD
+CV: RRR, no murmurs/rubs/gallops
+Resp: mild expiratory wheeze bilat bases, no crackles, decreased breath sounds bibasilar c/w COPD
+Abd: soft, NT/ND, no organomegaly
+Ext: no edema, OA changes noted bilat knees, crepitus on ROM
+Neuro: A&Ox3, gait steady, no tremor
+Skin: no lesions
+
+LABS/RESULTS (reviewed today):
+ CBC (2/20/2026): WBC 6.8, Hgb 13.1, Hct 39.4, Plt 245
+ CMP (2/20/2026): Na 139, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.4 (eGFR 42 c/w CKD stage 3), Glucose 101
+ Lipid panel (1/15/2026): Total chol 178, LDL 96, HDL 52, Trig 150
+ HbA1c (1/15/2026): 5.7%
+ Spirometry (11/2025): FEV1 68% predicted, FEV1/FVC 0.65, c/w moderate obstructive pattern
+
+ASSESSMENT:
+1. HTN - well controlled on current regimen
+2. CAD - stable, no anginal sx today
+3. OA bilat knees - stable, managed conservatively
+4. CKD stage 3 - stable eGFR, monitor labs
+5. Obesity - counseled diet/exercise
+6. COPD - stable, moderate obstruction on recent PFTs, former smoker with 19 pack-year hx, quit 19 years ago
+
+PLAN:
+- Continue current antihypertensives, statin
+- Repeat CMP in 3 mo given CKD
+- Continue albuterol PRN, consider LAMA if worsening sx
+- Refer PT for knee OA
+- Nutrition referral for weight management
+- Reinforce tobacco abstinence, no current tobacco use
+- F/u geriatrics in 6 months or sooner PRN
+- Immunizations reviewed, up to date
+
+ATTESTATION: I have personally seen and examined the patient with the resident, reviewed and discussed the plan of care, and agree with the documentation above with additions as noted. - Anita Patel, MD, Attending Geriatrics, 3/4/2026
+
+Note length and formatting reflect standard resident/attending documentation workflow; some sections carried forward per dept template policy for continuity of care.

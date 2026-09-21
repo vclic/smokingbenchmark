@@ -1,0 +1,40 @@
+TELEHEALTH VISIT - Pulmonology
+Patient: William Nelson (M), DOB 3/7/1955 (age 69)
+Date of Service: 03/07/2024
+Provider: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: COPD follow-up via video visit.
+
+HPI: Mr. Nelson reports stable dyspnea on exertion, no increase in cough or sputum. No fevers. He continues home O2 PRN with exertion. Reviewed inhaler technique; states adherence is good. No recent ED visits or hospitalizations for COPD exacerbation. Also followed for PAD, CAD, and obesity - reports intermittent claudication unchanged, no chest pain.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking history: 51 pack-year smoking history
+Year quit: 2012
+Alcohol use: Not currently - quit drinking alcohol in 2010
+Illicit drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+[COPIED FORWARD FROM NOTE DATED 02/07/2021]
+Social History (as documented 2/7/2021): Patient is a former smoker. No quantities recorded in that note. Denies current illicit drug use. Lives with spouse. Continues to work part-time in retail per that visit's documentation. Family history reviewed and unchanged from prior encounters. Review of systems otherwise negative for hemoptysis, unintentional weight loss, or night sweats at that time.
+[END COPIED SECTION]
+
+RESULTS:
+PFTs (1/15/2024): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstruction.
+CBC (2/28/2024): WBC 6.8, Hgb 14.1, Hct 42%.
+BMP (2/28/2024): Cr 1.0, eGFR 78.
+CXR (2/28/2024): No acute infiltrate, stable hyperinflation.
+
+ASSESSMENT/PLAN:
+1. COPD, moderate - continue current inhaler regimen (tiotropium/formoterol), continue pulmonary rehab exercises, reviewed inhaler technique via video.
+2. PAD - continue cilostazol, monitor claudication symptoms.
+3. CAD - continue statin and aspirin, stable.
+4. Obesity - discussed weight management strategies, dietary counseling referral offered.
+5. Lung cancer screening discussed with patient given smoking history; risks/benefits reviewed.
+6. Follow-up in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Catherine Lindqvist, DO
+
+ADDENDUM (later same day, 03/07/2024, 4:15 PM):
+Patient called back after visit to clarify he has not had any recent fevers or chills, consistent with earlier documentation. No changes to plan. Will continue as above. - C. Lindqvist, DO

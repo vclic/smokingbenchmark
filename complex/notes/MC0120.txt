@@ -1,0 +1,59 @@
+GERIATRICS PROGRESS NOTE
+Patient: Carol Wood (DOB 4/6/1972, age 51)
+Date of Service: 4/6/2023
+Author: Kevin Osei, MD (NP progress note)
+
+CHIEF COMPLAINT: Geriatric assessment, routine f/u for CKD stage 3, HTN, osteoporosis, HFrEF, depression, PAD.
+
+HPI: Ms Wood presents today for her scheduled geriatric assessment. She reports fatigue and mild lower extremity claudication with ambulation, consistent with known PAD. Mood stable on current regimen, denies SI. She continues to take meds as prescribed, occassional missed doses noted per pharmacy refill records. She reports no new falls, no chest pain at rest.
+
+SOCIAL HISTORY / TOBACCO: Patient is a current cigarette smoker. She reports she smoked a quarter pack (about 5 cigarettes) per day for 13 years, then transitioned to about 10 cigarettes per day for the following 23 years, continuing to the present. She has expressed interest in cessation and a quit date has been set for 4/28/2023. Counseled extensively on benefits of stopping smoking given CV and PAD risk; discussed nicotine replacement options and referral to quitline.
+
+=== COPIED FORWARD FROM NOTE DATED 4/6/2020 (please disregard for current smoking quantities) ===
+SOCIAL HISTORY (as documented 4/6/2020): Patient is a current smoker. Continues to endorse tobacco use, no cessation attempts reported at that visit. Discussed risks of continued use, pt states she is not ready to quit at this time. Alcohol: occasional glass of wine, denies illicit drug use. Lives alone, ambulates independently, uses cane occasionally for balance. Family hx significant for CAD and osteoporosis in mother.
+=== END COPIED SECTION ===
+
+PMH: CKD stage 3, HTN, osteoporosis, HFrEF (EF 35% on last echo), depression, PAD.
+
+MEDICATIONS: Lisinopril 10mg daily, carvedilol 12.5mg BID, furosemide 20mg daily, sertraline 50mg daily, alendronate 70mg weekly, aspirin 81mg daily, atorvastatin 40mg daily.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional: fatigue, no fevers. CV: no chest pain, occasional palpitations. Resp: no cough, mild dyspnea on exertion. GI: no nausea/vomiting. GU: no dysuria. MSK: chronic low back pain, stable. Neuro: no focal deficits. Psych: mood stable, sleep fair.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 142 lbs, SpO2 96% RA
+General: Alert, oriented x3, no acute distress
+CV: RRR, S3 gallop present, no murmurs
+Lungs: clear bilat, no wheezes/rales
+Ext: trace edema bilat LE, decreased pedal pulses bilat, skin cool to touch distally c/w PAD
+Skin: no ulcers noted today
+Psych: affect appropriate, cooperative
+
+LABS/RESULTS:
+- BMP 3/28/2023: Na 138, K 4.4, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline for CKD3), eGFR 38
+- CBC 3/28/2023: Hgb 12.1, Hct 36.5, Plt 245, WBC 6.8
+- BNP 3/28/2023: 410 (elevated, stable from prior 398 on 1/10/2023)
+- Lipid panel 1/10/2023: TC 172, LDL 88, HDL 46, TG 190
+- DEXA 11/2022: T-score -2.6 lumbar spine, -2.1 femoral neck, consistent with osteoporosis
+- PHQ-9 4/6/2023: score 7, mild depressive sx
+
+ASSESSMENT:
+1. CKD stage 3 - stable, eGFR 38, will continue current regimen and recheck labs in 3 months
+2. HTN - reasonably controlled, continue lisinopril
+3. HFrEF - stable, BNP stable, continue carvedilol/furosemide
+4. Osteoporosis - continue alendronate, ensure adequate calcium/vit D intake
+5. Depression - mild sx per PHQ9, continue sertraline, f/u with behavioral health
+6. PAD - stable, continue aspirin/statin, encourage walking program as tolerated
+7. Tobacco use - current smoker, discussed cessation extensively, quit date set 4/28/2023, provided resources for nicotine replacement therapy and quitline referral
+
+PLAN:
+- Recheck BMP, CBC in 3 months
+- Continue current medication regimen, no changes today
+- F/u geriatrics in 3 months, sooner if needed
+- Reinforce fall precautions, home safety review completed
+- Encourage smoking cessation, quit date 4/28/2023 confirmed with patient, discussed screening options for lung health in general terms
+- Refer to nutrition for CKD-appropriate diet counseling
+- Return to clinic PRN for worsening symptoms
+
+Electronically signed by Kevin Osei, MD

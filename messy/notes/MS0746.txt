@@ -1,0 +1,67 @@
+Geriatrics Progress Note
+Date of Service: 01/03/2024
+Author: Anita Patel, MD
+
+Patient: Larry Brooks, M, DOB 1/3/1964 (age 60)
+
+HPI:
+60 y/o male here for geriatric assessment. Established pt w/ COPD, hypothyroidism, depression, HFrEF, hyperlipidemia. Reports overall stable mood on current regimen. C/o mild dyspnea on exertion, unchanged. No chest pain, no palpitations. Sleep fair. Appetite ok. Denies falls since last visit. Reviewed old records - smoking history noted (see social hx below), pt quit smoking, states he quit back in October 2011 and has not resumed. No current tobacco or vaping use.
+
+Review of Systems:
+Constitutional: no fever, no weight loss.
+HEENT: no vision changes, no hearing loss.
+CV: no chest pain, + occasional edema.
+Resp: chronic cough stable, no hemoptysis.
+GI: no nausea, no BM changes.
+GU: nocturia x1.
+MSK: mild joint stiffness AM.
+Neuro: no focal deficits.
+Psych: mood stable, denies SI/HI.
+All other systems reviewed and negative.
+
+Social History (EHR template):
+Tobacco use: Former smoker
+Smoking amount: 1/2 pack/day (~10 cigarettes/day)
+Duration: 24 years
+Quit date: 10/2011
+Alcohol: occasional, denies excess
+Drug use: Not on file
+Occupation: retired
+Living situation: lives w/ spouse
+Exercise: Not on file
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, T 98.2F, SpO2 95% RA, wt stable.
+Gen: well-appearing, NAD.
+HEENT: PERRLA, oropharynx clear.
+Neck: no JVD appreciated.
+CV: RRR, no murmur, trace pedal edema.
+Resp: mild expiratory wheeze bilaterally, no crackles.
+Abd: soft, NT/ND.
+Ext: no cyanosis, trace edema as noted.
+Neuro: A&Ox3, gait steady.
+Skin: no rashes.
+Psych: mood euthymic, affect appropriate.
+
+Medications:
+1. Levothyroxine 75 mcg daily
+2. Sertraline 100 mg daily
+3. Carvedilol 12.5 mg BID
+4. Furosemide 20 mg daily
+5. Atorvastatin 40 mg qHS
+6. Tiotropium inhaler daily
+7. Albuterol inhaler PRN
+8. Lisinopril 10 mg daily
+9. Spironolactone 25 mg daily
+10. Vitamin D 1000 IU daily
+
+Assessment/Plan:
+60 y/o male, DOS 01/03/2024, multiple chronic conditions, stable overall.
+1. COPD - continue inhalers, smoking cessation counseling not needed given pt quit smoking many yrs ago (quit 10/2011); reinforced importance of maintaining abstinence. Lung cancer screening discussed generally as part of preventive health discussion; will address further at future visit.
+2. Hypothyroidism - TSH stable on current dose, recheck in 6 mo.
+3. Depression - mood stable on sertraline, continue.
+4. HFrEF - euvolemic today, continue GDMT, monitor weight daily.
+5. Hyperlipidemia - continue statin, lipid panel due at next visit.
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed by Anita Patel, MD.

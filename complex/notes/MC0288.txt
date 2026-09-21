@@ -1,0 +1,27 @@
+Internal Medicine Progress Note
+Patient: Yolanda Ross | DOB: 4/9/1961 (age 62) | DOS: 05/23/2023
+Author: Isaac Moreno, PA-C
+
+HPI: Pt here for f/u of HTN, T2DM. Reports overall doing ok, occasional headaches, no chest pain. Continues to smoke; also vapes occasionally per pt report. States not ready to quit at this time. Discussed CV/metabolic risk of continued tobacco use.
+
+PMH: CAD, hypothyroidism, T2DM, osteoporosis.
+
+Copied from note dated 10/23/2021: "Smoking status: current smoker." (unchanged, ref only, no quantities documented at that time).
+
+Social Hx: Lives alone, denies etoh, occasional vaping noted above.
+
+Exam: BP 138/84, HR 76, wt stable. Lungs CTAB, no wheeze/rales. Extrem no edema.
+
+Labs: A1c pending, TSH stable per last check.
+
+Assessment/Plan:
+1. HTN - cont lisinopril, f/u BP log.
+2. T2DM - cont metformin, A1c pending.
+3. Hypothyroidism - stable on levothyroxine.
+4. Osteoporosis - cont calcium/vit D, DEXA due next yr.
+5. Tobacco use - smoking hx notable for 1 pack/day x19 yrs, quit x8 yrs, then restarted at 2 packs/day x19 yrs and continues to smoke presently. Pt not ready to quit today; counseled on cessation resources and general health risks of tobacco. Quit date set for 6/27/2023 per pt preference.
+
+RTC 3 months or sooner prn.
+
+---ADDENDUM (later same day)---
+Addendum by I. Moreno, PA-C: Spoke further w/ pt by phone after visit re: tobacco cessation resources; reiterated quit date of 6/27/2023 already set. No change to plan otherwise. Pt still smoking currently, reports vaping occasionally as adjunct. No new labs/meds today.

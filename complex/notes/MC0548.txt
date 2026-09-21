@@ -1,0 +1,81 @@
+Cardiology Consult / Letter to Referring Physician
+Patient: Kathleen Okafor DOB 9/15/1952 (age 73)
+Date of Service: 12/04/2025
+Author: Hannah Weiss, NP
+
+Referring Provider: Dr. R. Martinez, IM
+
+Reason for visit: f/u CHF, HFrEF, med management
+
+HPI:
+73 yo F w/ hx HFrEF, CKD stage 3, GERD, HTN, OA presenting for routine cardiology f/u. Pt reports mild DOE w/ 2-flight stairs, denies orthopnea, PND, or peripheral edema currently. Wt stable per home scale. She reports adherence to lasix and other meds. No CP, no palpitations. Sleeps well, occasional reflux sx managed w PPI.
+
+Smoking Hx: Pt has significant tobacco hx - she started smoking 1 pack per day at age 15 and continued at that rate until quitting in 2009. She quit smoking right after her stroke. Current status: former smoker, quit x many yrs, no relapse reported. Counseled to continue abstinence, reinforced benefits of continued non-smoking status.
+
+---- COPIED FORWARD FROM VISIT 03/14/2023 (NOTE: some data outdated, retained per dept template) ----
+PMH: HFrEF (EF 35% on TTE 2019), CKD stage 3 (baseline Cr ~1.6), GERD, HTN, OA b/l knees, ischemic stroke (2009).
+Social hx: lives alone, independent ADLs, uses cane occasionally for OA. Denies EtOH, denies illicit drug use.
+Family hx: mother w/ HTN, father d. MI age 68.
+Meds (as of 2023 visit - see updated list below): lasix 40mg qd, lisinopril 10mg qd, metoprolol succ 25mg qd, omeprazole 20mg qd, atorvastatin 40mg qhs.
+Vitals 03/14/2023: BP 142/86, HR 78, RR 16, Wt 168 lb.
+Assessment/Plan 2023: continue current regimen, f/u 6 mo, recheck BMP/BNP.
+---- END COPIED SECTION ----
+
+PMH (current, updated 12/04/2025): HFrEF, CKD stage 3, GERD, HTN, OA, ischemic stroke (2009).
+
+Medications (current):
+1. Furosemide 40mg PO qd
+2. Lisinopril 20mg PO qd
+3. Metoprolol succinate 50mg PO qd
+4. Spironolactone 25mg PO qd
+5. Omeprazole 20mg PO qd
+6. Atorvastatin 40mg PO qhs
+7. Acetaminophen 500mg PRN OA pain
+8. Calcium/vit D supplement daily
+9. Aspirin 81mg qd
+
+Allergies: NKDA
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - denies CP, palpitations, syncope; +mild DOE as above. Resp - denies cough, wheeze, hemoptysis. GI - occasional reflux, denies n/v, denies melena, denies abd pain. GU - denies dysuria, hematuria. MSK - chronic b/l knee pain, stable, denies acute swelling. Neuro - denies focal weakness, numbness, denies HA, denies vision changes (stable post-stroke baseline). Skin - denies rash, denies non-healing wounds. Psych - denies depression, denies SI. Endocrine - denies polyuria polydipsia. Heme - denies easy bruising, denies bleeding. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 138/82, HR 74 reg, RR 16, Temp 98.2F, Wt 165 lb, SpO2 97% RA
+General: NAD, well-groomed elderly F, appears stated age
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no JVD noted at 30 deg
+CV: RRR, no m/r/g appreciated, S1 S2 normal, no S3/S4 today
+Resp: CTAB, no rales/rhonchi/wheeze, no accessory muscle use
+Abd: soft, NT/ND, +BS, no HSM, no pulsatile mass
+Ext: no c/c/e, pulses 2+ symmetric b/l, no varicosities
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 all extrem, gait steady w/ cane
+Skin: warm, dry, no rash, no lesions
+MSK: crepitus b/l knees, ROM decreased slightly 2/2 OA, no effusion
+
+Labs/Results:
+- BNP (11/20/2025): 210 pg/mL (mildly elevated, improved from prior 340 pg/mL on 05/2025)
+- BMP (11/20/2025): Na 138, K 4.3, Cl 101, CO2 24, BUN 28, Cr 1.5 (eGFR ~38), Glc 96
+- CBC (11/20/2025): WBC 6.8, Hgb 12.9, Hct 38.5, Plt 245
+- Lipid panel (09/2025): TC 162, LDL 78, HDL 52, TG 140
+- TTE (08/2025): EF 40%, mild LVH, mild diastolic dysfxn, no significant valvular disease
+- UA (11/20/2025): unremarkable, no protein, no blood
+
+Assessment:
+1. HFrEF/now borderline preserved (EF 40%) - clinically compensated, cont current regimen
+2. CKD stage 3 - stable, cont monitor renal fxn given diuretic/ACEi use
+3. HTN - well controlled today
+4. GERD - stable on PPI
+5. OA - stable, managed w/ APAP and conservative measures
+6. Former tobacco use - counseling reinforced re: continued abstinence; screening for lung ca discussed w pt given remote smoking hx, no imaging ordered today
+
+Plan:
+- Cont lasix, lisinopril, metoprolol, spironolactone as above
+- Recheck BMP/BNP in 3 mo or sooner if sx worsen
+- Cont low Na diet, daily wt monitoring, call if wt gain >3lb in 2 days
+- f/u cardiology in 6 mo, sooner PRN
+- Refer back to PCP Dr Martinez for routine CKD/HTN mgmt continuity
+- Pt educated re: signs/sx of worsening HF, given written materials
+- Discussed importance of continued smoking abstinence and healthy lifestyle
+
+Electronically signed: Hannah Weiss, NP - Cardiology
+Date/time of note: 12/04/2025 14:32
+
+[end of note]

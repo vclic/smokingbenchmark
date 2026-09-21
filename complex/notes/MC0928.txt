@@ -1,0 +1,33 @@
+Telehealth Progress Note - Family Medicine
+Date of Service: 07/16/2023
+Author: Isaac Moreno, PA-C
+
+Patient: Curtis King, M, DOB 7/16/1973 (age 50)
+
+Problem List:
+1. N18.3 - Chronic kidney disease, stage 3
+2. N40.0 - Benign prostatic hyperplasia
+3. K21.9 - GERD
+4. E78.5 - Hyperlipidemia (copied forward, outdated, no longer treated per pt)
+5. Z71.3 - Dietary counseling (old entry from 2019)
+
+HPI: Pt is a 50 y/o male here via telehealth today for med refills he states 'I just need my prescriptions renewed doc I'm doing okay overall' he denies chest pain SOB or dysuria today, urinary stream reportedly improved on current BPH regimen, GERD symptoms controled with omeprazole, he did note some [inaudible] fatigue over past few weeks but attributes this to poor sleep and work stress, denies fevers chills or weight loss.
+
+Social History: Patient reports he has smoked on and off for most of her adult life, he continues to smoke currently and when asked about quitting he stated 'I know I should stop but I'm just not ready to do that right now.' He was advised to quit smoking again today and offered resources including the quitline, he declined at this time. Patient quit drinking alcohol in 2008 and reports no current alcohol use.
+
+---Copied forward from visit dated 03/02/2022---
+Pt with stable CKD stage 3, last eGFR 52, follows with nephrology annually, BPH managed with tamsulosin, GERD well controlled, pt reports good adherence to meds, no new complaints today, will continue current regimen and follow up in 6 months, pt encouraged to maintain low sodium diet and adequate hydration, labs reviewed and stable, pt tolerating meds well no adverse affects noted, return to clinic as needed or sooner if symptoms worsen.
+---End copied forward text---
+
+ROS: otherwise negative except as noted above, GI, GU, cardiac, resp all reviewed and negative today.
+
+Meds: Tamsulosin 0.4mg qhs, Omeprazole 20mg daily, Lisinopril 10mg daily (renal dosing per nephro)
+
+Assessment/Plan:
+1. CKD stage 3 - stable, continue current mgmt, recheck labs in 3 months
+2. BPH - stable on tamsulosin, continue
+3. GERD - well controlled, continue omeprazole
+4. Tobacco use - ongoing, discussed smoking cessation and lung cancer screening was discussed briefly with patient today, he was not interested at this time, will readdress at next visit
+5. Refills sent to pharmacy of record as requested
+
+Follow up in 3 months or sooner if needed, telehealth visit today date of service July 16 2023, patient verbalized understanding of plan.

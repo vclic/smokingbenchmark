@@ -1,0 +1,49 @@
+PULMONOLOGY FOLLOW-UP (Resident Note w/ Attending Attestation)
+Patient: Nancy Butler | DOB: 08/20/1966 | Age: 57 | Sex: F
+Date of Service: 08/20/2023
+Author: Laura Castellano, FNP-C
+
+CHIEF COMPLAINT: F/u after ED visit for COPD exacerbation.
+
+HPI: Ms. Butler is a 57 y/o female w/ PMH HTN, AFib, PAD, seen today for f/u s/p ED tx of COPD exac ~1 wk ago. Reports improved dyspnea, decreased wheeze, occasional cough w/ scant clear sputum. Denies fever, chest pain, hemoptysis. Compliant w/ nebulizer tx and prednisone taper started in ED. Sats stable on RA per pt report. No new orthopnea/PND. Ambulates w/o significant limitation currently, though c/o claudication in b/l calves w/ prolonged walking (known PAD).
+
+PROBLEM LIST:
+- J44.1 COPD w/ acute exacerbation
+- I10 Essential hypertension
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral artery disease, unspecified
+- E78.5 Hyperlipidemia (outdated, last addressed 2019, may be resolved per pt)
+- M54.5 Low back pain (chronic, stable, outdated entry)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never smoker. Pt states she is a lifelong non-smoker, has never used cigarettes, cigars, or vape products.
+Alcohol use: Former drinker; pt reports she quit drinking alcohol in 1999.
+Illicit drug use: Not on file
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: 
+Second-hand smoke exposure: Not on file
+
+ROS: Otherwise negative except as above. Denies palpitations currently, denies leg swelling. No syncope.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irreg irreg, RR 16, SpO2 95% RA, Temp 97.8F
+Gen: NAD, comfortable
+CV: irregularly irregular rhythm, no m/r/g
+Resp: mild expiratory wheeze b/l, no crackles, no accessory muscle use
+Ext: no edema, distal pulses diminished b/l (PAD), no ulcers
+
+LABS/STUDIES: CBC wnl, BMP wnl. CXR from ED reviewed - no acute infiltrate, mild hyperinflation c/w COPD.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation - improving. Continue prednisone taper per ED instructions, complete albuterol/ipratropium nebs prn, follow up spirometry once stable.
+2. HTN - well controlled on current regimen, continue current antihypertensive.
+3. AFib - rate controlled on exam, continue anticoagulation per cardiology, no acute issues today.
+4. PAD - stable claudication sx, continue antiplatelet, reinforce walking program as tolerated.
+5. Return to clinic in 4 wks or sooner if worsening dyspnea/fever.
+
+Attending Attestation: I have personally seen and examined this patient with the resident/NP. I agree with the above history, exam, assessment, and plan as documented. - Dr. R. Feinman, Attending Pulmonology
+
+---
+ADDENDUM (later same day, 08/20/2023, 4:45pm):
+Pt called clinic after visit to clarify nebulizer dosing schedule; instructions repeated by phone, pt verbalized understanding. No changes to plan above. Encouraged to continue prednisone taper as prescribed and to call if any worsening symptoms, chest pain, or increased leg swelling. - L. Castellano, FNP-C

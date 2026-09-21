@@ -1,0 +1,86 @@
+TELEHEALTH VISIT NOTE
+Patient: Terrence Campbell (M), DOB 6/25/1951
+Date of Service: 11/24/2023
+Provider: Elena Markovic, MD
+Visit type: New patient, establish care - video visit
+
+CHIEF COMPLAINT: Establish care, general health maintenance, med refills.
+
+HPI:
+72 yo M new to practice, transferring care from prior PCP (records pending). Pt states he is 'doing ok' overall. Hx notable for afib, asthma, PAD, OA of knees. No acute complaints today. Denies chest pain, denies SOB at rest, occasional exertional dyspnea c/w baseline asthma. Reports intermittent claudication in b/l calves w/ ambulation ~2 blocks, improved w/ rest - consistent w/ known PAD. Knee pain chronic, worse in AM, uses OTC APAP prn. On anticoagulation per cardiology for afib - confirms compliance. Denies palpitations currently. No falls. No fevers/chills. Appetite stable, no wt loss.
+
+PMH/Problem List (per pt report/records, some entries may be outdated - to reconcile):
+1. Atrial fibrillation - I48.91
+2. Asthma, unspecified - J45.909
+3. Peripheral artery disease, unspecified extremity - I73.9
+4. Osteoarthritis, unspecified site - M19.90
+5. Hyperlipidemia - E78.5 (copied fwd, unclear if still active dx, to confirm)
+6. GERD - K21.9 (copied fwd from outside records)
+
+MEDICATIONS (per pt report, reconciling):
+- Apixaban 5 mg PO BID
+- Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h prn wheeze/SOB
+- Fluticasone/salmeterol 250/50 1 inh BID
+- Atorvastatin 40 mg PO qhs
+- Cilostazol 100 mg PO BID (for PAD claudication)
+- Acetaminophen 500 mg PO prn OA pain
+- Omeprazole 20 mg PO qday
+- Metoprolol succinate 50 mg PO qday
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Former smoker. No current alcohol use reported. Lives alone, independent in ADLs. Retired machinist. Denies illicit drug use.
+
+REVIEW OF SYSTEMS (12-point, template):
+Constitutional: denies fever, chills, night sweats, unintentional wt loss/gain.
+Eyes: denies vision changes, denies eye pain.
+ENT: denies hearing loss, denies sore throat, denies nasal congestion.
+Cardiovascular: denies chest pain, denies orthopnea, denies PND, +hx afib as above, denies syncope.
+Respiratory: +occasional wheeze/exertional dyspnea, denies hemoptysis, denies productive cough today.
+GI: denies nausea, denies vomiting, denies diarrhea, denies constipation, denies blood in stool.
+GU: denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: +chronic knee pain as above, denies acute injury.
+Skin: denies rash, denies new lesions.
+Neuro: denies HA, denies numbness/tingling, denies weakness.
+Psych: denies depression, denies anxiety, denies SI/HI.
+Heme/Lymph: denies easy bruising, denies lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM (limited - telehealth, visual/verbal only):
+General: pt appears stated age, well-groomed, sitting comfortably, no acute distress, video connection stable.
+Vitals: per pt home BP cuff today 128/78, HR reported 72 (irregular per pt palpation), wt per pt scale 178 lb - unable to verify. No thermometer used.
+HEENT: no visible facial asymmetry, no obvious distress.
+CV: unable to auscultate via telehealth, pt denies chest pain/palpitations currently.
+Resp: no visible increased work of breathing, no accessory muscle use noted on camera, pt speaking in full sentences.
+Ext: no visible edema on camera, pt able to move both legs, gait not formally assessed via video.
+Skin: no visible rashes/lesions on exposed areas.
+Note: physical exam limited by telehealth modality; in-person visit recommended for full exam incl auscultation, pulses, joint exam.
+
+ASSESSMENT/PLAN:
+72 yo M (DOB 6/25/1951), new to practice, establishing care 11/24/2023 via telehealth, w/ hx afib, asthma, PAD, OA.
+
+1. Atrial fibrillation (I48.91) - stable on apixaban, HR reported reg-irreg per pt, will obtain EKG at next in-person visit, continue current anticoag, f/u w/ cardiology as scheduled.
+
+2. Asthma (J45.909) - stable, using combo inhaler + prn albuterol, no recent exacerbations reported, will continue current regimen.
+
+3. Peripheral artery disease (I73.9) - claudication sx stable per pt report, continue cilostazol, counseled on walking program, f/u vascular surgery per pt's existing follow-up.
+
+4. Osteoarthritis (M19.90) - chronic knee pain, using APAP prn, will consider referral to ortho if worsens, discussed activity modification.
+
+5. Tobacco use history - pt reports significant prior smoking hx: smoked about three-quarters of a pack per day (approx 15 cigarettes/day) for 44 years. Pt reports he no longer smokes; quit sometime in the mid-2010s per pt report, exact year uncertain. Given hx of heavy tobacco use and age, lung cancer screening options were discussed with pt; no imaging ordered today, further discussion to occur at in-person f/u.
+
+6. Health maintenance - due for labs (lipid panel, CMP), will order. Colonoscopy hx unclear, to reconcile w/ prior records once received. Immunization status to be reviewed at next visit incl flu/pneumococcal/shingles.
+
+7. Med reconciliation - full list reviewed today per pt report, will confirm against pharmacy records prior to next visit.
+
+PLAN SUMMARY:
+- Labs ordered (CMP, lipid panel, HbA1c)
+- Schedule in-person f/u visit within 4-6 wks for full physical exam incl BP, pulses, auscultation
+- Continue current meds as above
+- Pt educated on s/sx requiring urgent eval (chest pain, worsening SOB, leg pain at rest, etc.)
+- Records request sent to prior PCP office
+- RTC in 4-6 wks or sooner if needed
+
+Elena Markovic, MD
+Electronically signed 11/24/2023

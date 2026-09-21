@@ -1,0 +1,81 @@
+GERIATRIC ASSESSMENT PROGRESS NOTE
+Geriatrics Clinic
+Date of Service: 04/13/2024
+Author: Gregory Tan, MD (NP progress note co-signed)
+
+Patient: Susan Jackson
+DOB: 04/13/1960 (Age 64)
+Sex: F
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment; follow-up of HFrEF, HTN, hyperlipidemia, depression, obesity.
+
+HPI:
+Ms. Jackson is a 64-year-old woman (DOB 4/13/1960) who presents today, 04/13/2024, for her annual geriatric assessment. She reports doing reasonably well overall. She denies acute chest pain, orthopnea, or PND, though notes occasional ankle swelling by end of day. She continues to follow with cardiology for her heart failure with reduced ejection fraction. Mood has been stable on current antidepressant regimen; she denies SI/HI. She reports adherence to her low-sodium diet with variable success. No new falls. She lives independently with her husband and remains functionally independent in ADLs/IADLs.
+
+--- Copied forward from prior visit note dated 11/14/2023 (retained for reference) ---
+PATIENT SEEN FOR ROUTINE F/U. VITALS STABLE. PT REPORTS COMPLIANCE WITH MEDS. DENIES CP/SOB/PALPITATIONS. WEIGHT STABLE AT BASELINE. NO PERIPHERAL EDEMA NOTED ON EXAM. LUNGS CTAB. HEART RRR NO M/G/R. ABD SOFT NT ND. EXTREMITIES WWP NO C/C/E. NEURO GROSSLY INTACT. AFFECT EUTHYMIC. PLAN: CONTINUE CURRENT REGIMEN, F/U IN 4-6 MONTHS, LABS ORDERED PRIOR TO NEXT VISIT.
+--- End of copied-forward text ---
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: Denies vision changes.
+ENT: Denies hearing loss, tinnitus, sore throat.
+Cardiovascular: Denies chest pain, palpitations; occasional mild ankle edema as above.
+Respiratory: Denies cough, wheeze, dyspnea at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, urinary incontinence.
+Musculoskeletal: Reports mild chronic knee pain, stable.
+Skin: Denies rash, new lesions.
+Neuro: Denies focal weakness, numbness, headache.
+Psych: Reports mood as stable; denies SI/HI, anhedonia minimal.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, bleeding.
+All other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY:
+Lives with husband in single-story home. Retired schoolteacher. Denies alcohol use. Denies illicit drug use. Tobacco: never smoker, has never used tobacco products in her life. Diet as noted above. Exercise: walks short distances daily, limited by fatigue.
+
+FAMILY HISTORY: Mother with hypertension and diabetes; father with coronary artery disease, deceased at 78.
+
+MEDICATIONS:
+1. Carvedilol 25 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Furosemide 40 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 40 mg PO nightly
+6. Sertraline 100 mg PO daily
+7. Metformin 500 mg PO BID (for prediabetes)
+8. Aspirin 81 mg PO daily
+9. Vitamin D3 1000 IU PO daily
+10. Calcium carbonate 500 mg PO BID
+11. Multivitamin PO daily
+12. Melatonin 3 mg PO qhs PRN sleep
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Weight 182 lb, Height 5'4", BMI 31.2
+General: Well-appearing, well-nourished woman in no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear, moist mucous membranes.
+Neck: Supple, no JVD, no thyromegaly, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs/gallops/rubs, no significant peripheral edema today.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, obese habitus.
+Extremities: Warm, well-perfused, no clubbing/cyanosis/edema.
+Skin: No rashes or lesions.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, normal gait observed, no focal deficits.
+Psychiatric: Euthymic mood, appropriate affect, normal thought process.
+
+ASSESSMENT/PLAN:
+Ms. Jackson is a 64-year-old woman seen today, 04/13/2024, for geriatric assessment with multiple chronic conditions including HFrEF, hypertension, hyperlipidemia, depression, and obesity. Her tobacco status is notable in that she has never used tobacco in her life, which is a favorable factor in her cardiopulmonary risk profile; given this, lung cancer screening was not discussed as clinically indicated but general preventive health topics were reviewed.
+
+1. Heart failure with reduced EF: Stable on guideline-directed medical therapy. Continue carvedilol, lisinopril, furosemide, spironolactone. Recheck BMP and BNP at next visit.
+2. Hypertension: Well controlled today. Continue current regimen.
+3. Hyperlipidemia: Continue atorvastatin, will check fasting lipid panel.
+4. Depression: Mood stable on sertraline, continue current dose, reassess at next visit, no changes today.
+5. Obesity: Discussed diet and activity modifications; referral to nutrition considered.
+6. Health maintenance: Discussed age-appropriate screening including colonoscopy, mammography, and bone density; discussed general preventive counseling. Immunizations reviewed and updated as needed.
+
+Follow-up in 4 months or sooner if symptoms worsen. Patient verbalized understanding of plan and agreed to follow up as scheduled.
+
+Electronically signed: Gregory Tan, MD

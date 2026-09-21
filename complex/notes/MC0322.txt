@@ -1,0 +1,65 @@
+PULMONOLOGY PROGRESS NOTE
+DOS: 06/14/2026
+Patient: Walter Ramirez, M, DOB 06/14/1953 (age 73 today - happy birthday Mr. Ramirez)
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: Shared decision-making visit re: lung cancer screening.
+
+HPI: Pt is a 73 y/o male referred by PCP for discussion of low-dose CT screening given hx of tobacco use. Pt reports overall doing well, denies acute cough, hemoptysis, wt loss, or chest pain. He does note some occasional dyspnea on exertion which he attributes to deconditioning and OA of knees - '[inaudible] sometimes when I'm climbin the stairs at my sons house I get a little winded' pt states. No fevers/chills. Sleep reportedly fair, uses CPAP nightly per report, though machine data not reviewed today. Smoking hx per pt and old records: he smoked about a quarter pack (approx 5 cigarettes) per day for 16 years, then increased to about half a pack (approx 10 cigarettes) per day for an additional 18 years, before quitting entirely. No other substance use reported, denies current tobacco, vaping, or marijuana use. Pt lives with spouse, retired machinist, denies occupational asbestos exposure though worked around some solvents 'a long time ago, don't really recall the details'.
+
+PMHx:
+- Osteoporosis - on antiresorptive tx, last DEXA reviewed prior visit
+- Obstructive sleep apnea - on CPAP
+- Osteoarthritis - knees, hips, managed conservatively
+- Atrial fibrillation - on anticoagulation, rate controlled
+
+PSHx: none significant per chart.
+
+Meds: Apixaban 5mg BID, Alendronate 70mg weekly, Acetaminophen PRN, Metoprolol succinate 50mg daily.
+
+Allergies: NKDA.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker. Quit smoking and has not smoked since his 50th birthday. No current use, no vaping. Denies interest in resuming.
+Alcohol: occasional, 1-2 glasses wine/wk.
+Illicit drugs: denies.
+Lives w/ wife, ambulates independently, uses cane occasionally for OA flares.
+
+ROS: Otherwise negative in detail except as noted above; 10-point ROS reviewed and negative except as documented in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular (known AFib), RR 16, SpO2 96% RA, Wt 182 lbs, Ht 5'9"
+Gen: NAD, well-appearing elderly male, pleasant, in NAD
+HEENT: NC/AT, no LAD, oropharynx clear
+CV: irregularly irregular rhythm, no m/r/g appreciated, no JVD
+Resp: clear to auscultation bilat, no wheezes/rales/rhonchi, no accessory muscle use, no clubbing
+MSK: mild crepitus bilateral knees, no effusion, ROM limited but functional
+Ext: no edema, pulses 2+ symmetric
+Skin: no lesions
+
+LABS/RESULTS:
+- CBC (05/28/2026): WBC 6.2, Hgb 13.9, Plt 210 - unremarkable
+- BMP (05/28/2026): Na 140, K 4.3, Cr 1.0, eGFR >60
+- INR (06/10/2026): 2.3, therapeutic on apixaban - wait, pt not on warfarin, this may be a copy-forward error from prior chart, will need to verify
+- DEXA (03/2026): T-score -2.6 lumbar spine, consistent with known osteoporosis
+- Pulmonary function testing not on file, none performed at this visit
+- Prior CXR (2024): no acute findings, stable
+
+ASSESSMENT/PLAN:
+73 y/o male, former smoker (quit at age 50, per pt hasn't smoked since his 50th birthday), presenting today for lung cancer screening SDM visit.
+
+1. Lung cancer screening - discussed risks/benefits of LDCT with pt and spouse at bedside, reviewed potential for false positives, incidental findings, need for annual follow-up if screening pursued. Pt verbalizes understanding. Discussed radiation exposure, overdiagnosis, and downstream testing risks. Pt to think it over and discuss further with PCP, no imaging ordered today. Provided decision aid handout.
+
+2. Tobacco use, former - reinforced abstinence, praised pt for long-term cessation, no current intervention needed given quit status.
+
+3. Atrial fibrillation - continue apixaban, rate appears controlled today, no acute complaints, will defer to cardiology for ongoing mgmt, pt reports seeing cardiology q6 months.
+
+4. OSA - continue CPAP, encourage compliance, pt reports fair adherence, will refer back to sleep med if symptoms worsen.
+
+5. Osteoporosis - continue alendronate, DEXA reviewed, stable per most recent study, f/u with PCP for ongoing monitoring.
+
+6. Osteoarthritis - continue APAP PRN, consider PT referral if symptoms worsen, pt declines referral today, prefers to manage conservatively.
+
+Return to clinic in 6 months or sooner if new pulmonary symptoms develop, chest pain, hemoptysis, unexplained wt loss, or worsening dyspnea. Pt verbalizes understanding of plan, all questions answered today, no further concerns voiced at this time. Pt and spouse thank staff, leaves in good spirits.
+
+Electronically signed: Hannah Weiss, NP

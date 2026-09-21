@@ -1,0 +1,49 @@
+Cardiology Progress Note
+Patient: Rita Young
+DOB: 05/28/1962
+Age: 64
+Date of Service: 05/28/2026
+Author: Rachel Goldberg, MD (NP progress note)
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Ms. Young returns to clinic today for f/u of her heart failure, reports she has been compliant with her diuretic and feels her energy has been 'ok, some days better then others'. She denies orthopnea, denies PND, does note some mild bilateral ankle swelling by end of day witch improves overnite. She has not had any chest pain, palpitations have been less frequent since her rate control was adjusted last visit. She states she walks about 20 min daily without stopping, occasionally gets short of breath going up the stairs at home [inaudible] but overall feels stable. No recent hospitalizations or ER visits since last seen.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- J45.909 Asthma, uncomplicated
+- I48.91 Atrial fibrillation, unspecified
+- E03.9 Hypothyroidism, unspecified (on levothyroxine, TSH checked 2024, due for recheck)
+- I73.9 Peripheral artery disease
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- Z87.891 History of tobacco use
+
+SOCIAL HISTORY: Patient is a former smoker; she reports she smoked about 10 cigarettes per day for 26 years and quit smoking in 2012. She has not resumed since. No alcohol use reported. Lives with husband, independent with ADLs.
+
+MEDICATIONS: Furosemide 20mg daily, metoprolol succinate, apixaban, levothyroxine 75mcg, alendronate weekly, albuterol PRN.
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted above, denies fevers chills, denies cough, denies wheeze today although she does carry albuterol for occasional asthma flares triggered by cold air or exersion.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 74 irregularly irregular, RR 16, SpO2 96% RA, Wt stable from last visit.
+General: well appearing, no acute distress.
+Cardiac: irregularly irregular rhythm, no murmurs appreciated, JVP not elevated.
+Lungs: clear to auscultation bilaterally, no wheeze/rales at this time.
+Extremities: trace bilateral lower extremity edema, PAD noted with diminished dorsalis pedis pulses bilaterally, feet warm.
+Skin: no ulcerations noted.
+
+ASSESSMENT/PLAN:
+1. Heart failure - clinically stable, continue current diuretic dose, recheck BMP/BNP at next visit.
+2. Atrial fibrillation - rate appears controlled today, continue anticoagulation, no changes.
+3. Asthma - stable, continue albuterol PRN, no oral steroids needed.
+4. Hypothyroidism - due for TSH recheck, will order labs.
+5. Peripheral artery disease - continue current antiplatelet/statin regimen, reinforce foot care.
+6. Osteoporosis - continue alendronate, DEXA due in future, discussed calcium/vitamin D intake.
+7. Tobacco history - counseled on continued avoidance of tobacco given her PAD and cardiac history, discussed general health maintenance including lung health; screening options discussed with patient in general terms.
+
+Follow up in 3 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 05/28/2026, 4:47pm):
+Patient called clinic after visit to clarify medication instructions for furosemide, advised to take as previously prescribed each morning, no dose change at this time. Will call in AM if symptoms of increased swelling or weight gain occur. No new issues identified, plan unchanged from above note.
+-Rachel Goldberg, MD

@@ -1,0 +1,31 @@
+Telehealth Note - Geriatrics
+Author: Brian Okonkwo, MD
+Date of Service: 10/22/2024
+
+Patient: Samuel Smith, M, DOB 9/19/1968 (age 56)
+
+HPI: Mr Smith is a 56 y.o. male seen via video visit for geriatric assessment, follow up of multiple chronic conditions including osteoarthritis, CKD stage 3, OSA, afib, and T2DM. He reports joint pain worse in mornigns, uses CPAP nightly with variable compliance he says machine is 'kinda loud so I take it off sometimes' - [inaudible] portion of audio here regarding mask fit. Denies chest pain palpiations noted occasionally when he forgets metoprolol dose he takes for rate control of afib. Blood sugars per home glucometer running in 140s-160s fasting, he admits diet has been 'not great' over the holidays last year and continues to be inconsistent now.
+
+Social History: Patient reports he has never smoked cigarettes he states 'never touched em in my life.' He does note that he uses chewing tobacco, a habit he says he picked up from his father years ago. No alcohol use reported, denies illicit drug use.
+
+ROS: otherwise negative except as above, denies fevers chills weight loss hemoptysis or dyspnea at rest.
+
+Exam (via video, limited): Appears comfortable no acute distress, speaking in full sentances, skin without obvious lesions on camera, moving all extremities without difficulty, gait not assessed today given telehealth format.
+
+Labs/Results (reviewed from recent visit):
+- CMP 10/15/2024: Creatinine 1.6 mg/dL (baseline), eGFR 42 mL/min/1.73m2, Glucose 158 mg/dL, Potassium 4.6 mmol/L
+- HbA1c 10/15/2024: 7.8%
+- Lipid panel 10/15/2024: LDL 102 mg/dL, HDL 38 mg/dL, Trig 210 mg/dL
+- EKG 10/15/2024: atrial fibrillation, rate controlled around 78 bpm, no acute ST changes
+
+Assessment/Plan:
+1. Osteoarthritis - continue acetaminophen as needed, consider PT referal for home exercise program, discussed weight-bearing exercises within tolerance.
+2. CKD stage 3 - stable per recent labs, continue to avoid NSAIDs given renal fnction, recheck BMP in 3 months, nephrology f/u as previously scheduled.
+3. OSA - reinforce CPAP compliance, will have DME company reach out re: mask fit issues discussed today, consider repeat sleep study if symptoms persist.
+4. Atrial fibrillation - continue metoprolol and anticoagulation per cardiology, reminded patient of importance of adherence, will forward note to cardiology.
+5. T2DM - A1c 7.8%, suboptimal control, discussed dietary modifications again, may need to adjust metformin dose vs add second agent, will discuss with patient at next visit.
+6. Health maintenance - discussed age appropriate screening including colon cancer screening which patient has not completed, lung cancer screening was discussed as a topic given his tobacco use history though not further detailed here, patient given handout on tobacco cessation resources for chewing tobacco use and encouraged to consider quitting given cardiovascular risk factors.
+
+Total visit time was approx 20 minutes, spent primarily in counceling and coordination of care given complexity of chronic conditions above. Patient verbalized understanding of plan and agreed to follow up in 3 months or sooner if needed. Will continue to monitor renal function and glycemic control closely given multiple comorbidities present.
+
+Electronically signed by Brian Okonkwo, MD

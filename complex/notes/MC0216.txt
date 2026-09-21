@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Patient: Larry Green | DOB: 5/20/1972 | Age: 52 | Sex: M
+Date of Service: 12/11/2024
+Provider: Daniel Reyes, MD (Pulmonology)
+Visit type: Shared decision-making, video encounter
+
+CHIEF COMPLAINT: Shared decision-making visit regarding lung cancer screening discussion.
+
+HPI: Mr. Green is a 52-year-old male with history of gout and coronary artery disease who presents via telehealth today, 12/11/2024, for discussion of lung cancer screening options. He reports feeling well overall, denies chest pain, denies hemoptysis, denies unintentional weight loss. He states he has been compliant with his cardiology follow up and his gout has been quiescent [inaudible] for several months now with no recent flares he says the joints have been fine no swelling no redness. Discussed general population risk factors and the role of screening; no order for imaging placed today, and no statement made regarding eligibility as this is being deferred pending further discussion with his PCP.
+
+ROS: Constitutional: no fever, no chills, no night sweats. HEENT: no vision changes, no hearing changes. Cardiovascular: no chest pain, no palpitations, denies orthopnea. Respiratory: no cough, no wheeze, no dyspnea at rest. GI: no nausea, no vomiting, no abdominal pain. GU: no dysuria. MSK: occasional joint stiffness, attributed to gout, currently stable. Neuro: no focal weakness, no numbness. Psych: mood stable, no SI/HI. All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Allopurinol 300 mg daily
+2. Colchicine 0.6 mg PRN flare
+3. Aspirin 81 mg daily
+4. Atorvastatin 40 mg nightly
+5. Metoprolol succinate 50 mg daily
+6. Lisinopril 10 mg daily
+7. Nitroglycerin 0.4 mg SL PRN chest pain
+
+PHYSICAL EXAM (limited, via video):
+General: well-appearing, no acute distress, sitting comfortably.
+HEENT: normocephalic, atraumatic, no visible distress.
+Cardiovascular: unable to auscultate via telehealth, patient denies edema on self-exam.
+Respiratory: no visible increased work of breathing, no use of accessory muscles noted on camera.
+Extremities: no obvious joint swelling visualized on camera, patient reports no tenderness currently.
+
+SOCIAL HISTORY: Patient quit drinking alcohol in 2007. Lives with spouse, retired machinist, denies current illicit drug use.
+
+ASSESSMENT/PLAN:
+52-year-old male, former smoker, seen today 12/11/2024 for lung cancer screening shared decision-making discussion.
+Smoking history reviewed in detail: patient reports smoking 1.5 packs per day for 5 years, followed by 2 packs per day for 7 years, followed by 1 pack per day for 5 years, before quitting smoking altogether. He is a former smoker and has not smoked since he quit in 2007.
+Discussed general benefits and risks of lung cancer screening including false positives, incidental findings, and radiation exposure; discussed that screening decisions should be individualized in conjunction with PCP.
+Continue current cardiology and rheumatology management for CAD and gout respectively.
+Follow up in 6 months or sooner if new respiratory symptoms develop.
+Patient verbalized understanding, agreeable with plan.
+
+Electronically signed: Daniel Reyes, MD
+
+ADDENDUM (same day, 12/11/2024, 4:15 PM):
+Spoke further with patient by phone after visit to clarify a few points regarding his cardiac medication refill request; pharmacy called to confirm metoprolol dose, no changes made to plan above. No new smoking-related information obtained during this call. Addendum entered for documentation purposes only.
+Daniel Reyes, MD

@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Patient: Hung Bryant, M, DOB 3/13/1944, age 79
+Date of Service: 10/15/2023
+Provider: Laura Castellano, FNP-C (Cardiology)
+
+Visit type: telephone/video f/u for heart failure
+
+HPI: Mr Bryant is a 79 y/o male with hx of HFrEF seen today via video for routine f/u. Reports doing fairly well, denies acute chest pain, orthopnea somewhat improved since last visit, occasional ankle swelling in evenings. Weighs himself daily per instruction, no significant weight gain noted this week. He has a 91 pack-year smoking history, current smoker, continues to smoke despite prior counseling. He states he is not ready to quit at this time; declines referral to tobacco cessation program today, will continue to offer at future visits. Sleep reportedly fragmented, uses CPAP inconsistently for known OSA. No new urinary sx, BPH stable on tamsulosin. No hypoglycemic episodes reported, checks sugars intermittently.
+
+ROS: Denies fevers, denies syncope, denies palpitations. Positive for mild dyspnea on exertion, unchanged. Denies hemoptysis. All other systems reviewed and negative except as above.
+
+Meds: Furosemide 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Metformin 500mg BID, Tamsulosin 0.4mg qhs, CPAP nightly (per report, inconsistent use)
+
+Allergies: NKDA
+
+Vitals (per home cuff reported by pt): BP 128/76, HR 74, wt 198 lbs (down 1 lb from last visit)
+
+Exam: limited via telehealth, pt appears comfortable, no acute distress noted on camera, speaking in full sentences, no visible edema reported by pt when asked to show lower legs, mild bilateral trace edema noted.
+
+Problem List (per chart, some entries outdated):
+- I50.9 Heart failure, unspecified
+- G47.33 Obstructive sleep apnea
+- N40.1 Benign prostatic hyperplasia with LUTS
+- N18.3 Chronic kidney disease, stage 3
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential hypertension (chart note: may be resolved, pt reports normal home readings off additional agents - needs review)
+- J45.909 Asthma, unspecified (outdated, pt denies asthma hx, likely copied forward in error)
+
+Assessment/Plan:
+1. HFrEF - clinically stable today, continue current regimen, recheck BMP and BNP prior to next visit given diuretic use and CKD stage 3.
+2. Tobacco use - discussed lung cancer screening in general terms as part of overall risk discussion; pt continues to smoke, not ready to quit, advised to quit again today, offered resources, pt declined at this time. Will readdress next visit.
+3. OSA - encourage more consistent CPAP use, will send reminder re: supply replacement.
+4. CKD stage 3 - stable, monitor renal fx with labs.
+5. T2DM - reports adequate control, recommend more frequent home glucose checks, A1c due at next in-person visit.
+6. BPH - stable on tamsulosin, no acute urinary retention sx.
+
+f/u in 3 months or sooner if symptoms worsen, pt to call if wt gain >3lbs in 2 days or worsening SOB.
+
+--- ADDENDUM (later same day) ---
+Addendum by L. Castellano, FNP-C, 10/15/2023 later in afternoon: Pt called back after visit to clarify he had run out of furosemide refills approx 3 days ago, refill sent to pharmacy this afternoon. No new sx reported at this time, advised to resume today. Also reiterated importance of daily weights and to report increase promptly. No change to overall plan above.

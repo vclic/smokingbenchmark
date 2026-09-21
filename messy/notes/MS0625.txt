@@ -1,0 +1,85 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Gwendolyn Lee (F), DOB 4/16/1956 (age 70)
+Date of Service: 04/16/2026
+Author: Nadia Haddad, MD
+
+CC: Pre-op eval for right total knee replacement (Ortho: Dr. Patel).
+
+HPI: 70 y/o woman with h/o BPH, hypothyroidism, CKD stage 3, OSA (on CPAP) referred for pre-operative medical clearance prior to TKA. Reports progressive right knee pain, failed conservative mgmt, PT, NSAIDs. No chest pain, no exertional dyspnea beyond baseline. Denies recent fevers/chills. Former smoker per chart - see social hx below for details captured at this visit. Functional status limited 2/2 knee pain but otherwise independent in ADLs.
+
+PMH (problem list, ICD-10, some entries outdated - not reconciled this visit):
+- N40.1 Benign prostatic hyperplasia w/ LUTS (outdated coding, patient female - carried over in error, flagged for correction)
+- E03.9 Hypothyroidism, unspecified
+- N18.3 Chronic kidney disease, stage 3
+- G47.33 Obstructive sleep apnea
+- Z87.891 Personal history of nicotine dependence
+
+Medications:
+1. Levothyroxine 75 mcg PO daily
+2. Tamsulosin 0.4 mg PO daily (carried forward, relevance to be reassessed - likely dictation/copy error given pt is female)
+3. Calcium carbonate 500 mg PO BID
+4. Vitamin D3 2000 IU PO daily
+5. Losartan 50 mg PO daily
+6. Atorvastatin 20 mg PO qHS
+7. Acetaminophen 650 mg PO PRN pain
+8. Ibuprofen 400 mg PO PRN (hold pre-op per Ortho)
+9. Multivitamin PO daily
+
+Allergies: NKDA.
+
+Social History: Lives alone in single-story home, uses cane for ambulation. Former tobacco user - quit smoking in 2013. EHR tobacco use template (auto-populated from prior visit, reviewed today): Packs/day: 1.00; Years: 39.00. Denies current tobacco use of any kind, no vaping. Alcohol - quit drinking in 2005, denies current use. Denies illicit drug use. Retired schoolteacher. Supportive family nearby.
+
+Review of Systems (per templated ROS, reviewed and updated):
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: No visual changes.
+ENT: No hearing loss, no sore throat.
+Cardiovascular: No chest pain, no palpitations, no orthopnea, no PND, no LE edema beyond chronic mild ankle swelling.
+Respiratory: No cough, no hemoptysis, no wheeze. Uses CPAP nightly for OSA, reports adequate compliance.
+GI: No nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Positive right knee pain as above, chronic, worsening. No other joint complaints.
+Skin: No rashes, no lesions.
+Neuro: No focal weakness, no numbness, no headaches.
+Psych: Denies depression, denies anxiety.
+Endocrine: No heat/cold intolerance beyond baseline hypothyroid sx, stable.
+Heme/Lymph: No easy bruising, no bleeding.
+Allergic/Immunologic: No known allergies.
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb, Ht 5'4".
+General: Well-appearing woman, NAD, appropriate for stated age.
+HEENT: Normocephalic, atraumatic. PERRL. Oropharynx clear, moist mucosa.
+Neck: Supple, no JVD, no thyromegaly, no lymphadenopathy.
+Cardiovascular: RRR, no murmurs/rubs/gallops. Peripheral pulses 2+ throughout.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes/rales/rhonchi. No increased work of breathing.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: Right knee with mild effusion, crepitus, decreased ROM 2/2 osteoarthritis. No calf tenderness, no edema. Left knee unremarkable.
+Skin: Warm, dry, intact, no rashes or ulcers.
+Neuro: Alert and oriented x3, CN II-XII grossly intact, motor strength 5/5 throughout, sensation intact.
+Psych: Mood/affect appropriate.
+
+Labs (reviewed today): CBC WNL. BMP: Cr 1.4 (baseline, consistent with CKD stage 3), eGFR ~40. TSH within therapeutic range on current levothyroxine dose. Coags WNL. UA unremarkable.
+
+EKG: NSR, no acute ST-T changes, rate 70s, no significant change from prior.
+
+Assessment/Plan:
+70 y/o woman, DOB 4/16/1956, presenting 04/16/2026 for pre-op medical clearance prior to right TKA.
+
+1. Cardiac risk assessment: Low-moderate surgical risk given no active cardiac symptoms, normal EKG. RCRI low. Cleared from cardiac standpoint for proceeding with surgery.
+
+2. Pulmonary/OSA (G47.33): Continue CPAP nightly, ensure device brought to hospital post-op for use during recovery. Former smoker - quit smoking in 2013, tobacco cessation history noted; EHR tobacco template documents Packs/day: 1.00, Years: 39.00 as recorded from prior intake. No current tobacco use, no counseling needed re: active cessation at this time given she does not smoke. Discussed general respiratory risk reduction strategies post-op (incentive spirometry, early mobilization).
+
+3. CKD stage 3 (N18.3): Baseline Cr stable at 1.4. Avoid nephrotoxic agents peri-operatively, hold NSAIDs pre/post-op, use acetaminophen for pain control preferentially. Monitor renal function post-op.
+
+4. Hypothyroidism (E03.9): Euthyroid on current levothyroxine dose, continue same, no adjustment needed pre-op.
+
+5. BPH (N40.1 - flagged as possible documentation error, patient is female; to be reviewed/corrected in chart, does not affect surgical planning): No action needed this visit.
+
+6. Alcohol history: Patient reports she quit drinking alcohol in 2005; denies current use, no further intervention needed.
+
+7. Pre-operative clearance: Patient cleared for right TKA from internal medicine standpoint. Recommend continued CPAP use peri-operatively given OSA, renal-dosing precautions given CKD stage 3, and standard post-op monitoring. Follow up with this office post-operatively as needed, and continue routine primary care follow-up for hypothyroidism/CKD management.
+
+Will communicate clearance note to Ortho team. Patient verbalizes understanding of plan, agrees with above.
+
+Nadia Haddad, MD
+Internal Medicine

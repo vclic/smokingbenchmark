@@ -1,0 +1,49 @@
+TELEHEALTH FOLLOW-UP - HOSPITAL DISCHARGE (Pneumonia)
+Date of Service: 02/15/2026
+Provider: Daniel Reyes, MD
+Patient: Susan Thompson, F, DOB 02/15/1965 (Age 61)
+
+CC: Follow-up post d/c for pneumonia.
+
+HPI: Pt is a 61 yo female s/p recent hosp for CAP, discharged 5 days ago on abx course (completed w/ good tolerance). Denies fever, chills. Mild residual cough, no SOB at rest, no CP. Reports improved appetite. HFrEF and CAD stable per pt report; no orthopnea, no PND, no edema. Compliant w/ home meds.
+
+PMH/Problem List:
+- I50.22 - Chronic systolic (congestive) heart failure - active
+- I25.10 - Atherosclerotic heart disease of native coronary artery w/o angina - active
+- J18.9 - Pneumonia, unspecified organism - resolving, recent hosp d/c
+- E78.5 - Hyperlipidemia, unspecified - outdated, last addressed 2019, unclear current status
+- N18.3 - CKD stage 3 - outdated entry, no recent labs to confirm
+
+SOCIAL HISTORY (EHR template):
+Tobacco use status: Never smoker
+Smokeless tobacco: Yes - chewing tobacco
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: ___ (blank)
+Living situation: Not on file
+
+ROS: Otherwise negative except as above. No hemoptysis. No wt loss.
+
+Exam (limited, telehealth):
+Gen: NAD, comfortable, speaking full sentences.
+Vitals per home cuff/pulse ox reported by pt: BP 128/76, HR 74, SpO2 96% RA.
+Resp: no visible distress on cam, occasional cough noted during call.
+CV: pt denies palpitations; unable to auscultate via telehealth.
+Ext: no visible edema per pt report/self-exam guidance given.
+
+Labs/Imaging: CXR at d/c showed improving infiltrate per hosp summary. No new imaging ordered today.
+
+Assessment:
+1. Resolving community-acquired pneumonia, s/p recent hospitalization - clinically improving.
+2. HFrEF - stable, continue GDMT.
+3. CAD - stable, no anginal sx.
+
+Plan:
+- Continue current cardiac meds (beta-blocker, ACEI/ARB, diuretic as prescribed) - reconcile at next in-person visit.
+- F/u CXR in 6 wks to confirm resolution.
+- Counseled on chewing tobacco cessation given cardiovascular risk; pt aware of resources.
+- Encouraged hydration, gradual return to activity.
+- RTC in 2 wks or sooner if worsening cough, fever, SOB.
+- Discussed general health maintenance topics appropriate for age; no further imaging planned today.
+
+Signed electronically by Daniel Reyes, MD.

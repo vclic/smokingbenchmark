@@ -1,0 +1,59 @@
+NURSE INTAKE
+Pt: Cheryl Green, F, DOB 1/31/1972 (age 52)
+DOS: 01/31/2024
+Visit type: ED-to-clinic f/u (COPD exacerbation) - Pulmonology
+
+CC: f/u after ED visit for COPD flare last wk.
+VS: BP 128/78, HR 82, RR 18, SpO2 94% RA, Temp 98.2F, Wt 165 lb
+Allergies: NKDA
+Meds: albuterol MDI prn, omeprazole 20mg daily, tiotropium started at ED d/c
+
+Tobacco: pt denies any hx of smoking, lifelong non-smoker. No vape/e-cig use. No occupational smoke exposure reported today.
+Alcohol: social, occasional glass of wine.
+
+=== COPIED FORWARD FROM VISIT 06/14/2021 (Pulm f/u note - left in error, retained for hx) ===
+CC: Pt here for routine pulm f/u, cough and dyspnea on exertion x several months.
+HPI: 49F with h/o GERD p/w progressive DOE, occasional dry cough, denies fevers/chills/hemoptysis. No wt loss. Reports reflux sx well controlled on PPI. Denies chest pain. PFTs from that visit reviewed - FEV1/FVC reduced c/w obstructive pattern, moderate.
+ROS: + occasional heartburn, otherwise neg.
+Exam: Lungs - mild expiratory wheeze b/l, no crackles. Heart RRR. Abd soft NT/ND.
+A/P: COPD, moderate, GERD stable - cont current regimen, f/u 6 mo, incentive spirometry reviewed, flu vaccine given.
+=== END COPIED SECTION ===
+
+PHYSICIAN PROGRESS NOTE - Quentin Hale, PA-C
+DOS: 01/31/2024
+
+HPI: Ms. Green is a 52 y/o female, DOB 1/31/1972, w/ hx GERD and COPD, seen today s/p recent ED visit for acute COPD exacerbation (dyspnea, increased sputum, wheeze). She was tx'd in ED w/ nebs, steroid burst (prednisone 40mg x5d), and abx (azithromycin) and d/c'd home with new tiotropium. Today reports significant improvement in breathing, still mild residual cough, no fevers, no chest pain. Denies hemoptysis. GERD sx quiet on daily PPI, no epigastric pain, no dysphagia.
+
+Tobacco/smoking hx: reconfirmed with pt directly - she is a lifelong non-smoker, no cigarette, cigar, or pipe use ever, no vaping. No known significant secondhand smoke exposure. This is consistent w/ prior documentation.
+
+ROS: Resp - improving cough, no more wheeze at rest per pt. GI - GERD well controlled. Cardiac - no palpitations, no edema. Constitutional - no fevers/chills, appetite good. All other systems reviewed and negative except as above.
+
+PMH: GERD, COPD (moderate, per prior spirometry)
+PSH: none significant
+FH: noncontributory for lung dz
+SH: lifelong non-smoker as above; denies illicit drug use; occasional social ETOH; works as admin assistant, denies occupational inhalant exposure.
+
+Meds reviewed: albuterol MDI prn, tiotropium daily (new), omeprazole 20mg daily, completing prednisone taper, completing azithromycin course.
+
+Exam:
+Gen: well-appearing, NAD, conversing in full sentences.
+VS: as above, afebrile, SpO2 94% RA.
+HEENT: unremarkable.
+Neck: no JVD, no LAD.
+Lungs: mild expiratory wheeze b/l bases, improved from ED report, no accessory muscle use, no crackles.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND, no organomegaly.
+Ext: no edema, no clubbing.
+Skin: warm, dry, no cyanosis.
+
+Assessment/Plan:
+1. COPD exacerbation, resolving - continue tiotropium daily, albuterol prn, finish steroid taper and azithromycin course as directed. Reviewed inhaler technique. Discussed importance of pulm rehab referral, given handout. Lung cancer screening discussed briefly given age/COPD hx, though pt's tobacco history noted above; no imaging ordered today, will revisit at next visit as appropriate.
+2. GERD - stable on current PPI dose, continue omeprazole 20mg daily, reinforced dietary modification (avoid late meals, reduce caffeine).
+3. Health maintenance - flu vaccine given last visit per chart, up to date; discussed pneumococcal vaccine status, will check records and update if needed.
+4. F/u in pulm clinic in 4 wks or sooner if sx worsen. Pt given return precautions (worsening SOB, fever, hemoptysis - go to ED).
+
+Pt verbalized understanding, agreeable to plan. Time spent counseling ~15 min, >50% of visit on counseling/coordination of care.
+
+---
+ADDENDUM (later same day, 01/31/2024, 16:45) - Q. Hale, PA-C
+Addendum: Spoke with pt by phone this afternoon re: pharmacy issue - tiotropium was not covered by insurance as written; called in alternate formulation, pt to pick up today. Also clarified with pt again that she has never smoked cigarettes at any point in her life, lifelong non-smoker confirmed once more for documentation accuracy given copied-forward note above referencing an old visit; no change to current assessment/plan otherwise. Pt verbalized understanding of updated inhaler instructions.

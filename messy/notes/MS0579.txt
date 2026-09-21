@@ -1,0 +1,49 @@
+Pulmonology Progress Note
+DOS: 06/18/2024
+Patient: Samuel Williams | DOB: 06/18/1947 (age 77) | M
+Author: Kevin Osei, MD
+
+--- NURSE INTAKE ---
+VS: BP 138/82, HR 76, RR 18, SpO2 93% RA, Temp 98.2F, Wt 182 lb
+CC: COPD f/u, c/o mild dyspnea on exertion x few wks.
+Pt ambulatory, no acute distress. Reports using inhalers regularly, some missed doses per pt.
+Tobacco use: never used tobacco. Denies vaping, cigars, chew.
+Allergies: NKDA.
+
+--- COPIED FORWARD FROM VISIT 01/09/2023 (retained in chart, not all current) ---
+Pt is a 76 yo male here for routine f/u of COPD, PAD, CAD, BPH. Pt states he feels well overall, ambulates without difficulty, denies chest pain, denies syncope. On exam lungs w/ mild expiratory wheeze bilat, heart RRR no m/r/g, abd soft NT/ND, extrem no edema, pedal pulses [inaudible] diminished bilat but stable per prior vascular studies. Pt continues on tiotropium, albuterol PRN, atorvastatin, aspirin 81mg, tamsulosin. Pt was counseled re: importance of medication adherence and f/u with vascular surgery for PAD surveillance. Plan: continue current regimen, f/u 6 months, labs at next visit.
+[END COPIED TEXT]
+
+--- PHYSICIAN PROGRESS NOTE 06/18/2024 ---
+HPI: 77-year-old male, longstanding COPD, PAD, CAD, BPH, returns for routine pulm follow up. Reports increased SOB with stairs, denies fevers, denies hemoptysis, denies chest pain at rest. Sleep ok, appetite stable. Pt states he has never smoked, no tobacco history of any kind, this reconfirmed today given pulm workup.
+
+ROS: otherwise negative except as above. Denies leg claudication worse than baseline (known PAD).
+
+Exam: Gen - NAD, alert. Lungs - diffuse expiratory wheeze, prolonged expiratory phase, no crackles. CV - RRR, S1S2 nl, no JVD. Ext - trace edema b/l, pulses diminished but palpable, chronic per vascular hx.
+
+Labs/Results (reviewed):
+- CBC 06/17/2024: WBC 7.1, Hgb 13.9, Plt 244
+- BMP 06/17/2024: Na 139, K 4.2, Cr 1.1, eGFR 68
+- BNP 06/17/2024: 142 pg/mL
+- PFT 03/2024: FEV1 58% predicted, FEV1/FVC 0.61, consistent w/ moderate obstruction
+- CXR 03/2024: hyperinflation, no acute infiltrate
+
+Problem List:
+J44.9 COPD, unspecified
+I73.9 Peripheral artery disease
+I25.10 CAD w/o angina
+N40.0 BPH w/o LUTS
+E78.5 Hyperlipidemia (outdated, pt reports d/c'd statin per PCP 2022, needs reconcile)
+Z87.891 Personal hx of nicotine dependence (ERROR - flagged for correction, does not apply, pt never used tobacco, coded in error prior visit)
+
+Assessment: 77 yo male, COPD moderate, stable-ish, mild symptom increase possibly seasonal/allergic vs med nonadherence. PAD/CAD stable per vascular/cards. BPH stable on tamsulosin.
+
+Plan:
+1. Continue tiotropium, albuterol PRN, add fluticasone/salmeterol combo inhaler given symptom uptick.
+2. Reinforce inhaler technique, adherence counseling.
+3. Correct problem list - remove erroneous nicotine dependence code, confirm never-smoker status in chart.
+4. Lung cancer screening was discussed generally with pt as part of preventive care conversation.
+5. Recheck PFTs in 6 months, f/u vascular surgery per prior plan.
+6. Return to clinic in 3 months or sooner if worsening dyspnea.
+
+Electronically signed: Kevin Osei, MD

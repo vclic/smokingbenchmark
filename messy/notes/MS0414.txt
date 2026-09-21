@@ -1,0 +1,64 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 02/11/2024
+Resident: Catherine Lindqvist, DO (co-signed by attending)
+
+PATIENT: Kenneth King, M, DOB 01/22/1971 (age 53)
+
+CHIEF COMPLAINT: Establish care.
+
+HPI:
+Mr King is a 53 yo male presenting to establish primary care. He has hx of CKD stage 3, T2DM, and GERD, previously followed elsewhere. He states "I just moved and need a new doctor for my sugar and my kidneys." No acute complaints today, though he does note occasional heartburn at night, "mostly after I eat late." Denies chest pain, dyspnea, hematuria, edema. Diet reviewed - reports inconsistent carb counting. He also mentions he had quit smokign for a few yrs but went back to it - "I quit back in 2014 but by 2017 I was smoking again, stress got to me." Says he wants to try again and has set a target quit date of 3/23/2024 with plans to use nicotine patches at that time.
+
+PMH: CKD stage 3, T2DM (dx ~2015 per pt report), GERD.
+PSH: none reported.
+Meds: metformin, losartan, omeprazole (pt unsure of doses, will reconcile).
+Allergies: NKDA.
+
+SOCIAL HISTORY:
+Tobacco Use Screening (EHR template):
+  Current tobacco use: Yes
+  Type: Cigarettes
+  Amount: 3/4 pack per day (approx 15 cigarettes/day)
+  Duration: 34 years
+  Prior quit attempts: Yes - quit 2014, relapsed 2017
+  Readiness to quit: Contemplative, quit date set
+Alcohol: occasional, denies excess.
+Illicit drugs: denies.
+Occupation: works as a delivery dispatcher, sedentary.
+Lives with spouse, no children at home.
+
+REVIEW OF SYSTEMS: Otherwise negative except as above; denies fevers, wt loss, cough, hemoptysis.
+
+VITALS: BP 138/86, HR 78, RR 16, T 98.2F, Wt 210 lb, BMI 31.4
+
+EXAM:
+Gen: well-appearing, NAD
+CV: RRR, no m/r/g
+Resp: CTAB
+Abd: soft, NT/ND, no organomegaly
+Ext: no edema
+Skin: no lesions
+
+LABS (drawn 02/11/2024, resulted same day):
+  Glucose (random): 168 mg/dL
+  HbA1c: 7.9% (02/11/2024)
+  BUN/Cr: 28/1.6 mg/dL (eGFR 52 mL/min/1.73m2) - stable per prior records from 2023
+  Potassium: 4.6 mmol/L
+  Urine microalbumin/creat ratio: 145 mg/g
+  Lipid panel: TC 190, LDL 112, HDL 38, TG 200
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - eGFR 52, stable. Continue losartan, monitor BP and renal function. Avoid nephrotoxic agents (NSAIDs). Recheck BMP and urine microalbumin in 3 months.
+2. Type 2 diabetes mellitus - A1c 7.9%, above goal. Continue metformin, reinforce dietary counseling, consider adding second agent if not improved at next visit. Diabetic eye exam and foot exam to be scheduled.
+3. GERD - continue omeprazole, counsel on avoiding late meals and trigger foods.
+4. Tobacco use, active smoker - patient is an active smoker, currently smoking 3/4 pack per day (~15 cigs/day) for 34 years total, with a history notable for a prior quit in 2014 and relapse in 2017. He has now set a quit date of 3/23/2024. Advised to quit, counseled on health risks including cardiovascular and renal implications given his comorbidities. Discussed nicotine replacement options and behavioral support resources. Lung cancer screening was discussed as a general topic of preventive care conversation.
+5. Health maintenance - due for colonoscopy screening, will schedule. Influenza vaccine given today.
+
+Follow-up in 3 months or sooner if needed.
+
+Attending Attestation: I have reviewed the resident's note and agree with the history, exam, and plan as documented above. I personally examined the patient and discussed the plan with Dr Lindqvist. - Attending physician
+
+---
+ADDENDUM (later same day, 02/11/2024, 4:45pm):
+Patient called back office after visit to clarify his renal function labs from 2023 were done at an outside lab and he will fax records. Also wanted to confirm his quit date of 3/23/2024 remains his plan; he reiterated intent to use nicotine patches starting that date. No other changes to note.
+- C. Lindqvist, DO

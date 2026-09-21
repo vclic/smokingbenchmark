@@ -1,0 +1,1001 @@
+patient_id,age,sex,note_date,smoking_status,pack_years,pack_years_min,pack_years_max,quit_date,quit_date_precision,quit_year_min,quit_year_max,uspstf2021,acs2023,pack_years_source,quit_date_source,note_format,visit_type,challenge_tags
+MS0001,50,F,2023-05-03,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,unknown_status;unknown_with_distractor
+MS0002,56,F,2025-05-29,current,18.5,18.5,18.5,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,resident note with attending attestation,COPD follow-up,
+MS0003,68,M,2024-07-10,former,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_documented,resident note with attending attestation,peripheral artery disease evaluation,alcohol_quit_distractor;py_not_determinable
+MS0004,65,F,2024-08-10,former,58,58,58,1985,year,1984,1986,not_eligible,eligible,stated,years_ago,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,copied_forward_prior_status;relative_quit
+MS0005,60,M,2023-07-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,heart failure follow-up,
+MS0006,73,M,2024-11-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,follow-up of an incidental lung nodule,
+MS0007,64,M,2023-03-27,former,33,33,33,1990,year,1990,1990,not_eligible,eligible,stated,year,physician progress note,new patient visit to establish care,copied_forward_prior_status
+MS0008,69,F,2025-06-08,current,48,48,48,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,
+MS0009,70,F,2025-11-17,former,16,16,16,2011,year,2011,2011,not_eligible,not_eligible,stated,event,consult note / letter to the referring physician,annual wellness visit,
+MS0010,69,F,2024-12-05,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,resident note with attending attestation,annual wellness visit,py_not_determinable
+MS0011,56,M,2025-09-15,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,nurse practitioner progress note,annual wellness visit,py_not_determinable
+MS0012,52,M,2026-03-24,current,8.75,8,8.75,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,lung cancer screening shared decision-making visit,prior_quit_then_relapse
+MS0013,56,F,2024-04-25,current,16.5,16.5,16.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,history and physical,lung cancer screening shared decision-making visit,alcohol_quit_distractor
+MS0014,69,F,2024-10-08,former,27,27,27,2011,year,2011,2011,eligible,eligible,stated,year,nurse intake followed by a physician progress note,new patient visit to establish care,
+MS0015,50,M,2026-05-19,former,1.8,1.8,1.8,1995,year,1995,1995,not_eligible,not_eligible,cpd_years,year,history and physical,ED-to-clinic follow-up after a COPD exacerbation,
+MS0016,68,M,2023-03-22,former,41,41,41,2012,year,2012,2012,eligible,eligible,stated,year,nurse practitioner progress note,new patient visit to establish care,
+MS0017,80,M,2024-07-04,current,15.25,15.25,15.25,,,,,not_eligible,not_eligible,ppd_years,not_applicable,resident note with attending attestation,heart failure follow-up,
+MS0018,60,F,2023-05-25,current,58,58,58,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,telehealth visit for medication refills,alcohol_quit_distractor
+MS0019,57,F,2024-08-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,telehealth visit for medication refills,
+MS0020,51,F,2024-09-02,former,20,20,20,2007,year,2006,2008,not_eligible,eligible,stated,at_age,nurse intake followed by a physician progress note,new patient visit to establish care,age_based_quit
+MS0021,62,M,2024-09-29,former,,,,2010,year,2010,2010,insufficient,insufficient,insufficient_duration_only,year,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,alcohol_quit_distractor;py_not_determinable
+MS0022,57,M,2025-02-02,current,55,55,55,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,urgent care visit for cough,stale_template_contradicted
+MS0023,80,F,2025-12-10,former,26.5,26.5,26.5,2015-05-13,day,2015,2015,eligible,eligible,ehr_fields,full_date,resident note with attending attestation,hospital discharge follow-up after pneumonia,
+MS0024,58,M,2026-04-14,former,11,11,11,2009-01,month,2009,2009,not_eligible,not_eligible,ppd_years,month_year,physician progress note,new patient visit to establish care,alcohol_quit_distractor
+MS0025,75,M,2024-12-13,current,44,44,44,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,urgent care visit for cough,copied_forward_prior_status;prior_quit_then_relapse;stale_template_contradicted
+MS0026,60,F,2026-05-25,former,12.5,12,13,2009,year,2008,2010,not_eligible,not_eligible,age_to_age,years_ago,nurse practitioner progress note,urgent care visit for cough,relative_quit
+MS0027,53,M,2024-08-12,former,28,28,28,2004,year,2004,2004,not_eligible,eligible,stated,year,nurse intake followed by a physician progress note,annual wellness visit,
+MS0028,71,M,2025-05-30,current,137.5,110,165,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,heart failure follow-up,
+MS0029,76,F,2024-10-09,current,14,13.75,14.25,,,,,not_eligible,not_eligible,since_age,not_applicable,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,copied_forward_prior_status
+MS0030,69,F,2023-08-17,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0031,75,F,2024-04-12,current,31,31,31,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,heart failure follow-up,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0032,72,M,2023-06-29,former,26,26,26,,,,,insufficient,eligible,stated,not_documented,physician progress note,peripheral artery disease evaluation,smoking_adjacent_distractor
+MS0033,69,M,2024-02-18,current,26.5,26.5,26.5,,,,,eligible,eligible,ppd_years,not_applicable,brief telehealth note,chest pain evaluation,stale_template_contradicted
+MS0034,58,M,2023-09-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,lung cancer screening shared decision-making visit,
+MS0035,67,F,2023-01-31,current,19,19,19,,,,,not_eligible,not_eligible,stated,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,
+MS0036,62,F,2026-02-10,former,,,,,,,,insufficient,insufficient,insufficient_vague,not_documented,consult note / letter to the referring physician,urgent care visit for cough,py_not_determinable
+MS0037,70,M,2024-01-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,heart failure follow-up,
+MS0038,65,M,2025-05-14,current,11.5,11.5,11.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,physician progress note,urgent care visit for cough,copied_forward_prior_status
+MS0039,61,F,2026-02-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0040,68,F,2025-07-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,chest pain evaluation,smoking_adjacent_distractor
+MS0041,60,F,2024-12-23,former,66,66,66,,,,,insufficient,eligible,ppd_years,not_documented,physician progress note,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0042,79,M,2023-06-04,current,17,17,17,,,,,not_eligible,not_eligible,stated,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,
+MS0043,71,F,2024-11-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,COPD follow-up,smoking_adjacent_distractor
+MS0044,51,F,2023-01-07,former,22,22,22,2005-05,month,2005,2005,not_eligible,eligible,stated,month_year,nurse intake followed by a physician progress note,peripheral artery disease evaluation,copied_forward_prior_status
+MS0045,78,M,2024-07-18,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,prior_quit_then_relapse
+MS0046,56,F,2025-03-02,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,new patient visit to establish care,
+MS0047,67,F,2025-09-09,former,23,23,23,2022-09,month,2022,2022,eligible,eligible,cpd_years,month_year,physician progress note,heart failure follow-up,smoking_adjacent_distractor
+MS0048,60,M,2025-01-23,current,11,10.75,11.25,,,,,not_eligible,not_eligible,since_age,not_applicable,resident note with attending attestation,geriatric assessment,copied_forward_prior_status;stale_template_contradicted
+MS0049,57,M,2026-03-23,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,primary care follow-up for hypertension and diabetes,unknown_status
+MS0050,60,M,2023-06-23,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,peripheral artery disease evaluation,unknown_status
+MS0051,77,M,2024-04-01,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,new patient visit to establish care,unknown_status
+MS0052,77,M,2025-03-22,former,31,31,31,1994,year,1993,1995,not_eligible,eligible,stated,years_ago,brief telehealth note,geriatric assessment,alcohol_quit_distractor;relative_quit
+MS0053,72,M,2025-06-15,current,40,40,40,,,,,eligible,eligible,stated,not_applicable,physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor;prior_quit_then_relapse
+MS0054,79,F,2025-06-15,current,39,39,39,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,chest pain evaluation,alcohol_quit_distractor;prior_quit_then_relapse
+MS0055,69,M,2025-02-14,former,20.25,20.25,20.25,2014,year,2014,2014,eligible,eligible,cpd_years,year,history and physical,COPD follow-up,
+MS0056,76,M,2025-08-14,former,16,16,16,,,,,not_eligible,not_eligible,stated,not_documented,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0057,51,M,2024-07-07,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,geriatric assessment,unknown_status;unknown_with_distractor
+MS0058,77,F,2026-02-02,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,telehealth visit for medication refills,unknown_status
+MS0059,56,F,2023-10-24,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,telehealth visit for medication refills,future_quit_date;py_not_determinable
+MS0060,68,F,2025-09-06,former,8.75,8.75,8.75,2013,year,2013,2013,not_eligible,not_eligible,ehr_fields,year,resident note with attending attestation,follow-up of an incidental lung nodule,alcohol_quit_distractor
+MS0061,67,F,2024-05-13,former,,,,2000,year,1999,2001,not_eligible,insufficient,insufficient_duration_only,at_age,history and physical,hospital discharge follow-up after pneumonia,age_based_quit;py_not_determinable;smoking_adjacent_distractor
+MS0062,67,F,2025-01-26,current,4.5,0,4.5,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse practitioner progress note,urgent care visit for cough,prior_quit_then_relapse
+MS0063,61,F,2024-05-01,current,58.5,33,78,,,,,eligible,eligible,range,not_applicable,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,alcohol_quit_distractor;prior_quit_then_relapse
+MS0064,51,F,2024-06-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0065,71,F,2024-10-29,current,50,50,50,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,follow-up of an incidental lung nodule,alcohol_quit_distractor
+MS0066,54,M,2025-06-26,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,nurse practitioner progress note,hospital discharge follow-up after pneumonia,py_not_determinable;smoking_adjacent_distractor;stale_template_contradicted
+MS0067,69,M,2026-05-24,former,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_documented,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,py_not_determinable
+MS0068,58,F,2025-05-15,current,42,42,42,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,chest pain evaluation,
+MS0069,72,M,2024-11-06,former,14.5,14.5,14.5,,,,,not_eligible,not_eligible,ppd_years,not_documented,consult note / letter to the referring physician,follow-up of an incidental lung nodule,copied_forward_prior_status
+MS0070,64,F,2023-08-17,current,6,6,6,,,,,not_eligible,not_eligible,stated,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0071,66,F,2024-05-24,former,29.25,19.5,39,2015-03-07,day,2015,2015,eligible|not_eligible,eligible|not_eligible,range,full_date,history and physical,ED-to-clinic follow-up after a COPD exacerbation,smoking_adjacent_distractor
+MS0072,64,M,2023-10-17,current,5,5,5,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,chest pain evaluation,
+MS0073,51,F,2024-02-14,former,10,10,10,1999,year,1999,1999,not_eligible,not_eligible,ppd_years,year,nurse practitioner progress note,COPD follow-up,
+MS0074,60,M,2023-05-14,former,43.5,43.5,43.5,2011-09,month,2011,2011,eligible,eligible,ppd_years,month_year,history and physical,hospital discharge follow-up after pneumonia,
+MS0075,67,M,2024-02-08,former,80,80,80,2018,year,2018,2018,eligible,eligible,stated,year,history and physical,COPD follow-up,
+MS0076,51,F,2024-09-22,current,47,47,47,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,heart failure follow-up,prior_quit_then_relapse
+MS0077,68,M,2023-11-02,former,3,3,3,2010,year,2010,2010,not_eligible,not_eligible,stated,year,nurse intake followed by a physician progress note,peripheral artery disease evaluation,
+MS0078,63,F,2023-02-08,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,geriatric assessment,unknown_status
+MS0079,73,F,2024-08-21,former,21.5,21,22,2015,year,2015,2015,eligible,eligible,age_to_age,year,physician progress note,annual wellness visit,
+MS0080,61,M,2024-08-03,current,22,22,22,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,annual wellness visit,
+MS0081,79,F,2026-03-09,former,,,,2016-05-12,day,2016,2016,insufficient,insufficient,insufficient_rate_only,full_date,nurse practitioner progress note,follow-up of an incidental lung nodule,alcohol_quit_distractor;py_not_determinable
+MS0082,59,M,2024-04-02,former,83,83,83,2013,year,2013,2013,eligible,eligible,stated,year,nurse intake followed by a physician progress note,heart failure follow-up,copied_forward_prior_status;smoking_adjacent_distractor
+MS0083,69,F,2025-03-16,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,physician progress note,COPD follow-up,
+MS0084,50,F,2025-05-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,annual wellness visit,alcohol_quit_distractor
+MS0085,58,F,2024-03-07,current,9,9,9,,,,,not_eligible,not_eligible,ppd_years,not_applicable,resident note with attending attestation,geriatric assessment,future_quit_date;smoking_adjacent_distractor;stale_template_contradicted
+MS0086,55,F,2024-09-20,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,COPD follow-up,py_not_determinable
+MS0087,66,F,2023-04-19,former,,,,2007,year,2006,2008,insufficient|not_eligible,insufficient,insufficient_vague,years_ago,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,py_not_determinable;relative_quit
+MS0088,71,F,2023-07-25,current,24.6,24.6,24.6,,,,,eligible,eligible,cpd_years,not_applicable,resident note with attending attestation,hospital discharge follow-up after pneumonia,
+MS0089,65,M,2023-07-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0090,53,M,2024-05-26,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,prior_quit_then_relapse;py_not_determinable
+MS0091,72,M,2025-01-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,new patient visit to establish care,
+MS0092,65,M,2025-01-25,former,19,19,19,2010,year,2009,2011,not_eligible,not_eligible,stated,years_ago,nurse practitioner progress note,heart failure follow-up,relative_quit
+MS0093,51,F,2025-08-26,current,16,15.5,16.5,,,,,not_eligible,not_eligible,since_age,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,prior_quit_then_relapse;stale_template_contradicted
+MS0094,55,M,2025-01-05,current,74,74,74,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0095,70,M,2026-06-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,peripheral artery disease evaluation,
+MS0096,79,M,2023-05-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,alcohol_quit_distractor
+MS0097,70,M,2024-02-08,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,primary care follow-up for hypertension and diabetes,unknown_status
+MS0098,64,M,2025-05-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,smoking_adjacent_distractor
+MS0099,53,M,2024-02-15,current,18,17.5,18.5,,,,,not_eligible,not_eligible,since_age,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor
+MS0100,54,M,2024-08-12,former,59,59,59,2024,year,2024,2024,eligible,eligible,stated,event,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,copied_forward_prior_status
+MS0101,59,M,2024-04-28,current,26,26,26,,,,,eligible,eligible,stated,not_applicable,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0102,52,F,2025-01-27,current,36,36,36,,,,,eligible,eligible,ehr_fields,not_applicable,physician progress note,chest pain evaluation,
+MS0103,77,F,2023-09-04,former,21,21,21,2022,year,2022,2022,eligible,eligible,stated,year,resident note with attending attestation,telehealth visit for medication refills,copied_forward_prior_status
+MS0104,79,M,2023-07-09,former,8.25,8,8.5,1995-05,month,1995,1995,not_eligible,not_eligible,age_to_age,month_year,nurse practitioner progress note,primary care follow-up for hypertension and diabetes,
+MS0105,75,M,2024-01-24,former,17,17,17,2011,year,2011,2011,not_eligible,not_eligible,stated,event,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0106,66,F,2025-08-17,current,33.75,33.75,33.75,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,pre-operative evaluation for knee replacement,
+MS0107,53,M,2025-01-16,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,
+MS0108,53,M,2025-02-23,former,27,27,27,2005-11-05,day,2005,2005,not_eligible,eligible,stated,full_date,history and physical,new patient visit to establish care,
+MS0109,69,F,2023-01-05,former,38.25,25.5,51,,,,,insufficient,eligible,range,not_documented,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,copied_forward_prior_status
+MS0110,67,F,2023-10-13,current,24,23,24,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,heart failure follow-up,alcohol_quit_distractor;prior_quit_then_relapse
+MS0111,72,F,2024-08-02,former,107.5,86,129,2015-03,month,2015,2015,eligible,eligible,range,month_year,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0112,57,M,2025-02-17,former,11,11,11,2020,year,2020,2020,not_eligible,not_eligible,stated,year,resident note with attending attestation,urgent care visit for cough,
+MS0113,72,M,2025-01-18,former,8.6,8.6,8.6,2013,year,2013,2013,not_eligible,not_eligible,cpd_years,event,physician progress note,new patient visit to establish care,
+MS0114,75,M,2025-06-06,former,28,28,28,2022,year,2022,2022,eligible,eligible,stated,year,brief telehealth note,pre-operative evaluation for knee replacement,
+MS0115,64,M,2025-01-17,former,4.8,4.8,4.8,1996,year,1995,1997,not_eligible,not_eligible,cpd_years,at_age,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,age_based_quit;smoking_adjacent_distractor
+MS0116,79,F,2026-05-10,current,46.5,31,62,,,,,eligible,eligible,range,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0117,50,M,2023-06-12,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,telehealth visit for medication refills,unknown_status
+MS0118,75,F,2025-06-16,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,COPD follow-up,smoking_adjacent_distractor
+MS0119,55,M,2026-05-19,current,9.25,9.25,9.25,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,COPD follow-up,
+MS0120,73,F,2025-03-07,former,37,37,37,2001,year,2000,2002,not_eligible,eligible,stated,years_ago,physician progress note,pre-operative evaluation for knee replacement,relative_quit
+MS0121,64,M,2026-04-22,former,24,24,24,2011,year,2010,2012,eligible|not_eligible,eligible,ppd_years,at_age,resident note with attending attestation,follow-up of an incidental lung nodule,age_based_quit
+MS0122,58,M,2023-05-14,current,90,87.5,92.5,,,,,eligible,eligible,since_age,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0123,58,F,2023-03-10,former,24,24,24,1993,year,1993,1993,not_eligible,eligible,stated,year,resident note with attending attestation,telehealth visit for medication refills,
+MS0124,62,F,2023-02-18,current,78,78,78,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,chest pain evaluation,alcohol_quit_distractor;prior_quit_then_relapse
+MS0125,63,F,2023-11-27,current,31.5,31.5,31.5,,,,,eligible,eligible,ppd_years,not_applicable,nurse practitioner progress note,chest pain evaluation,copied_forward_prior_status
+MS0126,51,M,2026-03-31,former,15,14,16,2007,year,2006,2008,not_eligible,not_eligible,age_to_age,at_age,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,age_based_quit
+MS0127,61,F,2026-04-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,peripheral artery disease evaluation,smoking_adjacent_distractor
+MS0128,56,F,2025-08-10,former,41,41,41,,,,,insufficient,eligible,stated,not_documented,consult note / letter to the referring physician,annual wellness visit,
+MS0129,53,F,2025-01-20,former,1.5,1,2,1991-01,month,1991,1991,not_eligible,not_eligible,range,month_year,nurse intake followed by a physician progress note,new patient visit to establish care,stale_template_contradicted
+MS0130,74,M,2026-06-28,current,19,19,19,,,,,not_eligible,not_eligible,stated,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,future_quit_date;smoking_adjacent_distractor
+MS0131,65,M,2026-01-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,chest pain evaluation,
+MS0132,76,M,2025-07-19,former,10,10,10,2009,year,2009,2009,not_eligible,not_eligible,ehr_fields,year,history and physical,hospital discharge follow-up after pneumonia,
+MS0133,57,F,2023-06-06,former,92,92,92,2003,year,2002,2004,not_eligible,eligible,stated,years_ago,nurse practitioner progress note,peripheral artery disease evaluation,copied_forward_prior_status;relative_quit
+MS0134,76,F,2024-06-01,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status
+MS0135,51,F,2024-06-17,current,59,59,59,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;copied_forward_prior_status
+MS0136,67,M,2024-09-13,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,consult note / letter to the referring physician,peripheral artery disease evaluation,py_not_determinable
+MS0137,74,F,2023-10-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,annual wellness visit,
+MS0138,62,F,2026-01-12,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,history and physical,annual wellness visit,prior_quit_then_relapse;py_not_determinable
+MS0139,51,F,2024-05-26,current,26.25,25.5,27,,,,,eligible,eligible,since_age,not_applicable,physician progress note,new patient visit to establish care,
+MS0140,51,F,2025-11-07,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,geriatric assessment,unknown_status;unknown_with_distractor
+MS0141,70,M,2024-01-16,former,55.5,55.5,55.5,2009,year,2008,2010,eligible|not_eligible,eligible,ehr_fields,years_ago,history and physical,hospital discharge follow-up after pneumonia,relative_quit
+MS0142,51,F,2023-06-14,former,6,6,6,,,,,not_eligible,not_eligible,stated,not_documented,nurse practitioner progress note,COPD follow-up,
+MS0143,77,F,2023-04-03,former,,,,2006,year,2006,2006,not_eligible,insufficient,insufficient_rate_only,year,physician progress note,chest pain evaluation,copied_forward_prior_status;py_not_determinable
+MS0144,60,F,2024-08-27,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,new patient visit to establish care,unknown_status;unknown_with_distractor
+MS0145,62,F,2025-09-03,former,42,42,42,2009,year,2008,2010,eligible|not_eligible,eligible,ppd_years,at_age,physician progress note,lung cancer screening shared decision-making visit,age_based_quit;alcohol_quit_distractor
+MS0146,79,M,2025-03-11,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,geriatric assessment,smoking_adjacent_distractor
+MS0147,77,F,2024-10-03,former,67.5,65,70,1995,year,1995,1995,not_eligible,eligible,age_to_age,year,brief telehealth note,urgent care visit for cough,
+MS0148,71,F,2023-08-27,former,35.25,23.5,47,2021,year,2021,2021,eligible,eligible,range,event,brief telehealth note,annual wellness visit,
+MS0149,77,M,2024-07-23,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,chest pain evaluation,
+MS0150,53,F,2023-09-10,current,17.5,17,18,,,,,not_eligible,not_eligible,since_age,not_applicable,resident note with attending attestation,lung cancer screening shared decision-making visit,
+MS0151,80,F,2023-05-07,former,17.5,17.5,17.5,1997-01,month,1997,1997,not_eligible,not_eligible,ppd_years,month_year,nurse intake followed by a physician progress note,geriatric assessment,copied_forward_prior_status
+MS0152,70,F,2025-03-11,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,COPD follow-up,unknown_status;unknown_with_distractor
+MS0153,62,F,2025-11-28,former,39,39,39,2014-06,month,2014,2014,eligible,eligible,stated,month_year,nurse practitioner progress note,heart failure follow-up,alcohol_quit_distractor;copied_forward_prior_status;stale_template_contradicted
+MS0154,78,F,2023-01-03,former,21,21,21,,,,,insufficient,eligible,stated,not_documented,physician progress note,new patient visit to establish care,
+MS0155,78,M,2025-10-24,former,12,12,12,2000,year,2000,2000,not_eligible,not_eligible,stated,year,resident note with attending attestation,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;stale_template_contradicted
+MS0156,70,F,2023-03-21,former,,,,2010,year,2009,2011,insufficient,insufficient,insufficient_duration_only,years_ago,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,py_not_determinable;relative_quit
+MS0157,64,M,2023-02-21,former,,,,2013-02-25,day,2013,2013,insufficient,insufficient,insufficient_rate_only,full_date,physician progress note,geriatric assessment,copied_forward_prior_status;py_not_determinable
+MS0158,51,M,2023-02-18,former,,,,,,,,insufficient,insufficient,insufficient_vague,not_documented,physician progress note,telehealth visit for medication refills,py_not_determinable
+MS0159,59,M,2023-12-02,former,28,28,28,1990,year,1990,1990,not_eligible,eligible,stated,year,nurse practitioner progress note,heart failure follow-up,
+MS0160,50,M,2023-08-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,chest pain evaluation,smoking_adjacent_distractor
+MS0161,63,F,2025-05-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,
+MS0162,74,M,2024-04-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,COPD follow-up,
+MS0163,64,F,2023-06-16,former,,,,2014,year,2014,2014,insufficient,insufficient,insufficient_duration_only,year,history and physical,geriatric assessment,py_not_determinable
+MS0164,52,M,2025-06-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0165,71,F,2023-01-18,current,15,15,15,,,,,not_eligible,not_eligible,cpd_years,not_applicable,resident note with attending attestation,chest pain evaluation,
+MS0166,69,M,2023-05-25,former,23,22.5,23.5,2019,year,2018,2020,eligible,eligible,age_to_age,years_ago,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,relative_quit
+MS0167,54,M,2026-02-11,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,hospital discharge follow-up after pneumonia,unknown_status;unknown_with_distractor
+MS0168,68,M,2025-10-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0169,64,M,2026-02-23,former,10,10,10,1989-07-09,day,1989,1989,not_eligible,not_eligible,ppd_years,full_date,consult note / letter to the referring physician,new patient visit to establish care,alcohol_quit_distractor
+MS0170,68,M,2026-02-01,former,20,20,20,2013-12,month,2013,2013,eligible,eligible,ppd_years,month_year,nurse practitioner progress note,peripheral artery disease evaluation,alcohol_quit_distractor
+MS0171,69,F,2023-01-05,current,96,96,96,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,heart failure follow-up,
+MS0172,69,F,2024-12-01,former,36,36,36,2023-09-19,day,2023,2023,eligible,eligible,stated,full_date,history and physical,COPD follow-up,
+MS0173,71,M,2026-03-25,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,py_not_determinable
+MS0174,72,M,2025-09-19,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,unknown_status;unknown_with_distractor
+MS0175,53,F,2025-10-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,alcohol_quit_distractor
+MS0176,80,M,2023-06-27,former,70,67.5,72.5,1990,year,1989,1991,not_eligible,eligible,age_to_age,years_ago,nurse practitioner progress note,heart failure follow-up,alcohol_quit_distractor;relative_quit
+MS0177,69,F,2026-06-05,current,51,50,52,,,,,eligible,eligible,since_age,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0178,57,M,2023-06-11,former,46,46,46,2013,year,2013,2013,eligible,eligible,ppd_years,year,physician progress note,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0179,74,F,2024-04-24,former,88,88,88,2013-12,month,2013,2013,eligible,eligible,stated,month_year,physician progress note,peripheral artery disease evaluation,
+MS0180,80,F,2026-03-13,current,50,50,50,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,
+MS0181,70,F,2025-07-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,heart failure follow-up,
+MS0182,80,F,2023-09-13,former,24.5,24.5,24.5,2013,year,2013,2013,eligible,eligible,ppd_years,year,brief telehealth note,chest pain evaluation,
+MS0183,51,M,2024-09-30,current,7.5,7,7.5,,,,,not_eligible,not_eligible,cpd_years,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,prior_quit_then_relapse
+MS0184,55,F,2023-07-31,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0185,79,M,2025-03-13,former,,,,2001,year,2001,2001,not_eligible,insufficient,insufficient_rate_only,event,history and physical,lung cancer screening shared decision-making visit,py_not_determinable
+MS0186,70,F,2023-04-03,former,22,21.5,22.5,2017,year,2017,2017,eligible,eligible,age_to_age,year,consult note / letter to the referring physician,chest pain evaluation,
+MS0187,62,M,2025-07-27,current,12,12,12,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,heart failure follow-up,copied_forward_prior_status
+MS0188,72,F,2024-01-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0189,78,M,2024-03-13,former,114,114,114,2020,year,2019,2021,eligible,eligible,ppd_years,at_age,physician progress note,heart failure follow-up,age_based_quit
+MS0190,73,F,2025-09-02,former,48,48,48,1992-03,month,1992,1992,not_eligible,eligible,ehr_fields,month_year,nurse practitioner progress note,COPD follow-up,smoking_adjacent_distractor
+MS0191,56,M,2024-10-30,former,46,46,46,,,,,insufficient,eligible,stated,not_documented,history and physical,hospital discharge follow-up after pneumonia,
+MS0192,51,M,2026-01-11,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,COPD follow-up,
+MS0193,61,F,2026-01-22,former,20,20,20,,,,,insufficient,eligible,stated,not_documented,nurse practitioner progress note,urgent care visit for cough,alcohol_quit_distractor
+MS0194,56,F,2024-01-06,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0195,58,F,2024-04-04,current,9.5,9.5,9.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,physician progress note,new patient visit to establish care,
+MS0196,53,M,2023-03-16,current,57,57,57,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,chest pain evaluation,
+MS0197,52,M,2024-10-28,current,34,34,34,,,,,eligible,eligible,ehr_fields,not_applicable,physician progress note,urgent care visit for cough,future_quit_date
+MS0198,67,M,2024-05-22,former,16.5,16.5,16.5,1991-09-14,day,1991,1991,not_eligible,not_eligible,ppd_years,full_date,nurse intake followed by a physician progress note,COPD follow-up,
+MS0199,71,M,2026-04-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0200,74,F,2025-09-19,former,49,49,49,2024-11,month,2024,2024,eligible,eligible,stated,month_year,physician progress note,peripheral artery disease evaluation,smoking_adjacent_distractor
+MS0201,58,M,2024-02-29,former,,,,2018-03-18,day,2018,2018,insufficient,insufficient,insufficient_duration_only,full_date,brief telehealth note,primary care follow-up for hypertension and diabetes,py_not_determinable
+MS0202,62,F,2023-03-06,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,primary care follow-up for hypertension and diabetes,
+MS0203,76,M,2024-06-30,former,17,17,17,2004-09-06,day,2004,2004,not_eligible,not_eligible,stated,full_date,physician progress note,pre-operative evaluation for knee replacement,
+MS0204,50,M,2026-01-22,former,,,,2007,year,2007,2007,not_eligible,insufficient,insufficient_duration_only,event,consult note / letter to the referring physician,follow-up of an incidental lung nodule,py_not_determinable;stale_template_contradicted
+MS0205,78,M,2023-05-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor
+MS0206,60,F,2025-08-06,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0207,63,F,2026-06-26,current,84,84,84,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,geriatric assessment,
+MS0208,77,M,2024-08-18,former,80,80,80,2008,year,2008,2008,not_eligible,eligible,ehr_fields,year,consult note / letter to the referring physician,new patient visit to establish care,
+MS0209,51,F,2023-06-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,
+MS0210,80,M,2024-08-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,
+MS0211,57,M,2025-08-08,current,66,66,66,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,annual wellness visit,
+MS0212,69,F,2023-06-19,former,16,16,16,2006,year,2006,2006,not_eligible,not_eligible,stated,year,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0213,51,F,2024-11-02,former,,,,1994,year,1994,1994,not_eligible,insufficient,insufficient_vague,year,resident note with attending attestation,chest pain evaluation,alcohol_quit_distractor;py_not_determinable
+MS0214,76,F,2024-04-08,former,27,26,28,1993,year,1992,1994,not_eligible,eligible,age_to_age,stop_age_in_smoking_history,physician progress note,urgent care visit for cough,quit_date_in_smoking_history
+MS0215,78,M,2024-09-12,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,copied_forward_prior_status;py_not_determinable
+MS0216,67,M,2025-02-17,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,new patient visit to establish care,
+MS0217,78,M,2024-11-16,current,45.75,45.75,45.75,,,,,eligible,eligible,ehr_fields,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,
+MS0218,70,M,2026-04-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,urgent care visit for cough,
+MS0219,53,F,2024-04-06,former,27.5,22,33,2014-08,month,2014,2014,eligible,eligible,range,month_year,history and physical,peripheral artery disease evaluation,
+MS0220,59,F,2025-08-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,lung cancer screening shared decision-making visit,alcohol_quit_distractor
+MS0221,54,M,2025-07-22,current,36,36,36,,,,,eligible,eligible,stated,not_applicable,history and physical,lung cancer screening shared decision-making visit,copied_forward_prior_status
+MS0222,50,F,2024-11-20,current,48,48,48,,,,,eligible,eligible,ppd_years,not_applicable,brief telehealth note,geriatric assessment,
+MS0223,71,F,2024-02-11,former,95,76,114,,,,,insufficient,eligible,range,not_documented,brief telehealth note,geriatric assessment,
+MS0224,76,F,2025-06-30,former,35,35,35,2012,year,2011,2013,eligible,eligible,stated,years_ago,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,relative_quit
+MS0225,61,F,2026-06-15,current,50,50,50,,,,,eligible,eligible,stated,not_applicable,history and physical,pre-operative evaluation for knee replacement,future_quit_date;smoking_adjacent_distractor
+MS0226,69,M,2026-02-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0227,57,M,2026-01-03,current,97.5,78,117,,,,,eligible,eligible,range,not_applicable,brief telehealth note,pre-operative evaluation for knee replacement,
+MS0228,56,M,2023-04-16,current,26,26,26,,,,,eligible,eligible,stated,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0229,61,F,2026-04-07,current,57,57,57,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,new patient visit to establish care,smoking_adjacent_distractor
+MS0230,79,M,2023-08-27,former,37,37,37,2004,year,2004,2004,not_eligible,eligible,ppd_years,year,consult note / letter to the referring physician,annual wellness visit,
+MS0231,54,F,2025-11-06,former,64,64,64,2001-08-26,day,2001,2001,not_eligible,eligible,stated,full_date,history and physical,follow-up of an incidental lung nodule,
+MS0232,73,M,2024-12-17,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,smoking_adjacent_distractor
+MS0233,64,M,2024-05-13,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,unknown_status;unknown_with_distractor
+MS0234,66,F,2024-03-25,current,2.7,2.7,2.7,,,,,not_eligible,not_eligible,cpd_years,not_applicable,brief telehealth note,geriatric assessment,copied_forward_prior_status
+MS0235,50,F,2025-10-08,current,16,15,16,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,new patient visit to establish care,prior_quit_then_relapse
+MS0236,61,M,2023-04-24,former,35,35,35,1993,year,1993,1993,not_eligible,eligible,stated,year,brief telehealth note,lung cancer screening shared decision-making visit,copied_forward_prior_status;smoking_adjacent_distractor
+MS0237,76,M,2023-07-05,current,12.75,12.75,12.75,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,geriatric assessment,copied_forward_prior_status
+MS0238,59,M,2024-09-10,current,17.2,16,17.2,,,,,not_eligible,not_eligible,cpd_years,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,prior_quit_then_relapse
+MS0239,78,M,2026-01-20,former,19.2,19.2,19.2,2014,year,2014,2014,not_eligible,not_eligible,cpd_years,year,brief telehealth note,new patient visit to establish care,copied_forward_prior_status
+MS0240,75,F,2023-07-29,current,26,26,26,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,annual wellness visit,
+MS0241,65,M,2025-01-20,former,15,15,15,2011,year,2011,2011,not_eligible,not_eligible,ppd_years,year,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status
+MS0242,69,M,2025-06-14,current,3,3,3,,,,,not_eligible,not_eligible,stated,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,
+MS0243,67,F,2023-12-06,current,53,53,53,,,,,eligible,eligible,ehr_fields,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,future_quit_date;smoking_adjacent_distractor
+MS0244,71,F,2023-11-16,former,10,10,10,2020,year,2019,2021,not_eligible,not_eligible,stated,years_ago,resident note with attending attestation,chest pain evaluation,alcohol_quit_distractor;relative_quit
+MS0245,77,M,2026-01-05,current,37.5,25,50,,,,,eligible,eligible,range,not_applicable,history and physical,geriatric assessment,
+MS0246,59,F,2024-11-28,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,urgent care visit for cough,unknown_status
+MS0247,52,M,2025-10-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,peripheral artery disease evaluation,
+MS0248,56,M,2026-04-26,former,3,3,3,1994,year,1993,1995,not_eligible,not_eligible,ehr_fields,years_ago,resident note with attending attestation,COPD follow-up,relative_quit
+MS0249,72,F,2025-09-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0250,61,F,2024-08-16,current,19.5,19.5,19.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,history and physical,telehealth visit for medication refills,future_quit_date
+MS0251,70,M,2025-08-11,current,29.25,19.5,39,,,,,eligible|not_eligible,eligible|not_eligible,range,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0252,66,F,2024-04-14,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,geriatric assessment,unknown_status
+MS0253,76,M,2024-09-12,current,41,41,41,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,prior_quit_then_relapse
+MS0254,70,M,2023-10-19,former,56,56,56,2008,approximate,2007,2009,eligible|not_eligible,eligible,stated,decade,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0255,64,M,2025-11-19,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,annual wellness visit,unknown_status;unknown_with_distractor
+MS0256,80,M,2024-02-28,former,24,24,24,1994-12,month,1994,1994,not_eligible,eligible,stated,month_year,nurse intake followed by a physician progress note,new patient visit to establish care,
+MS0257,77,F,2025-02-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0258,51,F,2023-04-12,current,14.5,14.5,14.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,nurse practitioner progress note,COPD follow-up,
+MS0259,71,M,2023-09-03,former,25,25,25,2000,year,2000,2000,not_eligible,eligible,stated,year,physician progress note,urgent care visit for cough,
+MS0260,54,F,2026-06-11,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,new patient visit to establish care,
+MS0261,58,M,2025-09-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,primary care follow-up for hypertension and diabetes,
+MS0262,67,F,2025-04-13,current,33,33,33,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,urgent care visit for cough,
+MS0263,71,M,2024-06-25,former,16,16,16,2016,year,2016,2016,not_eligible,not_eligible,stated,year,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status
+MS0264,52,F,2023-06-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0265,80,M,2026-03-28,former,13,13,13,2009,year,2009,2009,not_eligible,not_eligible,stated,year,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,stale_template_contradicted
+MS0266,60,F,2024-07-15,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,consult note / letter to the referring physician,heart failure follow-up,future_quit_date;py_not_determinable
+MS0267,65,M,2026-05-03,former,97,97,97,2014,year,2013,2015,eligible,eligible,stated,at_age,brief telehealth note,hospital discharge follow-up after pneumonia,age_based_quit;copied_forward_prior_status
+MS0268,55,M,2025-08-10,former,6.25,6.25,6.25,,,,,not_eligible,not_eligible,ehr_fields,not_documented,resident note with attending attestation,chest pain evaluation,
+MS0269,76,F,2023-07-07,current,24,24,24,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor;prior_quit_then_relapse
+MS0270,73,F,2024-10-18,former,12,12,12,2016,year,2016,2016,not_eligible,not_eligible,ppd_years,year,history and physical,COPD follow-up,alcohol_quit_distractor;copied_forward_prior_status;stale_template_contradicted
+MS0271,70,F,2025-05-03,current,48,48,48,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,smoking_adjacent_distractor
+MS0272,74,M,2025-04-04,current,26,26,26,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,annual wellness visit,alcohol_quit_distractor
+MS0273,53,M,2023-12-25,current,8.75,8.75,8.75,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,
+MS0274,73,F,2024-03-10,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,new patient visit to establish care,unknown_status
+MS0275,55,M,2024-12-05,current,3.6,3.6,3.6,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,geriatric assessment,
+MS0276,60,F,2024-02-17,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,heart failure follow-up,unknown_status
+MS0277,69,F,2026-05-21,former,22.5,22.5,22.5,2009,year,2009,2009,not_eligible,eligible,ppd_years,year,nurse practitioner progress note,peripheral artery disease evaluation,copied_forward_prior_status
+MS0278,55,M,2024-09-27,former,15,15,15,2010,year,2010,2010,not_eligible,not_eligible,stated,event,resident note with attending attestation,primary care follow-up for hypertension and diabetes,
+MS0279,75,M,2025-06-28,former,,,,1993,year,1993,1993,not_eligible,insufficient,insufficient_duration_only,year,nurse intake followed by a physician progress note,COPD follow-up,py_not_determinable
+MS0280,67,M,2024-09-18,current,49,49,49,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,new patient visit to establish care,
+MS0281,52,M,2024-05-22,former,3.2,3.2,3.2,2007,year,2006,2008,not_eligible,not_eligible,cpd_years,at_age,physician progress note,primary care follow-up for hypertension and diabetes,age_based_quit
+MS0282,54,F,2024-04-29,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,physician progress note,annual wellness visit,prior_quit_then_relapse;py_not_determinable
+MS0283,72,F,2023-08-27,former,23,23,23,2019,year,2019,2019,eligible,eligible,ehr_fields,year,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,
+MS0284,77,M,2024-01-11,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,unknown_status
+MS0285,71,M,2025-03-15,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,heart failure follow-up,unknown_status
+MS0286,63,F,2023-01-23,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,alcohol_quit_distractor
+MS0287,66,F,2023-07-31,former,82.5,82.5,82.5,2011,year,2011,2011,eligible,eligible,ppd_years,year,brief telehealth note,new patient visit to establish care,
+MS0288,73,F,2023-04-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,new patient visit to establish care,smoking_adjacent_distractor
+MS0289,60,F,2024-11-08,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,follow-up of an incidental lung nodule,unknown_status
+MS0290,80,F,2025-02-28,former,30,30,30,2009,year,2009,2009,not_eligible,eligible,stated,year,resident note with attending attestation,heart failure follow-up,alcohol_quit_distractor
+MS0291,72,M,2024-02-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,geriatric assessment,
+MS0292,76,F,2024-11-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,primary care follow-up for hypertension and diabetes,
+MS0293,56,F,2024-12-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,new patient visit to establish care,
+MS0294,67,M,2024-08-03,current,14,14,14,,,,,not_eligible,not_eligible,stated,not_applicable,resident note with attending attestation,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0295,71,M,2026-02-18,former,14,14,14,2012,year,2012,2012,not_eligible,not_eligible,stated,year,brief telehealth note,hospital discharge follow-up after pneumonia,
+MS0296,68,F,2024-09-13,current,38.25,37.5,39,,,,,eligible,eligible,since_age,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor;copied_forward_prior_status
+MS0297,70,F,2025-10-03,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,annual wellness visit,unknown_status;unknown_with_distractor
+MS0298,54,M,2025-08-15,former,19,19,19,2024,year,2024,2024,not_eligible,not_eligible,stated,year,history and physical,annual wellness visit,smoking_adjacent_distractor
+MS0299,70,M,2024-04-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0300,62,M,2025-10-09,current,10.5,10.25,10.75,,,,,not_eligible,not_eligible,since_age,not_applicable,brief telehealth note,annual wellness visit,prior_quit_then_relapse
+MS0301,72,M,2023-11-24,former,33,33,33,2014,approximate,2013,2016,eligible,eligible,ppd_years,decade,brief telehealth note,new patient visit to establish care,
+MS0302,73,F,2026-05-07,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,history and physical,COPD follow-up,py_not_determinable
+MS0303,61,M,2026-05-21,former,14,14,14,,,,,not_eligible,not_eligible,ppd_years,not_documented,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,copied_forward_prior_status
+MS0304,70,M,2026-05-06,former,8,8,8,2003,year,2002,2004,not_eligible,not_eligible,ehr_fields,at_age,physician progress note,annual wellness visit,age_based_quit;alcohol_quit_distractor
+MS0305,56,F,2026-05-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0306,67,M,2023-06-30,former,17.5,17.5,17.5,2008,year,2007,2009,not_eligible,not_eligible,ppd_years,years_ago,nurse practitioner progress note,follow-up of an incidental lung nodule,relative_quit
+MS0307,62,M,2025-12-29,current,62,62,62,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,geriatric assessment,
+MS0308,74,F,2023-01-12,current,27,27,27,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,
+MS0309,74,F,2026-06-17,former,21,21,21,2019,year,2019,2019,eligible,eligible,cpd_years,year,physician progress note,annual wellness visit,
+MS0310,54,M,2026-06-10,former,4.75,4.75,4.75,2007,year,2007,2007,not_eligible,not_eligible,cpd_years,event,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0311,60,M,2023-10-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0312,53,F,2023-09-08,current,46.5,46.5,46.5,,,,,eligible,eligible,cpd_years,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,copied_forward_prior_status
+MS0313,72,M,2024-04-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,peripheral artery disease evaluation,
+MS0314,75,M,2025-10-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,chest pain evaluation,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0315,80,F,2026-05-16,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,nurse practitioner progress note,follow-up of an incidental lung nodule,future_quit_date;py_not_determinable
+MS0316,53,M,2026-04-28,former,,,,2016,year,2016,2016,insufficient,insufficient,insufficient_vague,year,history and physical,peripheral artery disease evaluation,alcohol_quit_distractor;py_not_determinable
+MS0317,78,F,2023-03-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,geriatric assessment,
+MS0318,65,M,2025-01-10,current,37.5,37.5,37.5,,,,,eligible,eligible,cpd_years,not_applicable,history and physical,urgent care visit for cough,copied_forward_prior_status;stale_template_contradicted
+MS0319,63,M,2023-06-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,alcohol_quit_distractor
+MS0320,76,F,2025-08-13,former,73.75,59,88.5,2025,year,2025,2025,eligible,eligible,range,year,physician progress note,hospital discharge follow-up after pneumonia,copied_forward_prior_status
+MS0321,70,M,2023-02-12,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,lung cancer screening shared decision-making visit,unknown_status;unknown_with_distractor
+MS0322,79,M,2024-02-18,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,primary care follow-up for hypertension and diabetes,unknown_status;unknown_with_distractor
+MS0323,62,F,2024-09-01,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,py_not_determinable
+MS0324,51,M,2025-06-02,current,24,24,24,,,,,eligible,eligible,ehr_fields,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;copied_forward_prior_status
+MS0325,68,M,2025-05-20,current,12.75,12.75,12.75,,,,,not_eligible,not_eligible,ppd_years,not_applicable,consult note / letter to the referring physician,chest pain evaluation,
+MS0326,60,M,2025-11-28,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,chest pain evaluation,unknown_status
+MS0327,72,M,2025-02-25,former,38,37,39,2019,year,2019,2019,eligible,eligible,age_to_age,event,nurse intake followed by a physician progress note,COPD follow-up,copied_forward_prior_status
+MS0328,70,M,2026-04-01,former,38,38,38,2010,year,2010,2010,not_eligible,eligible,ppd_years,year,physician progress note,urgent care visit for cough,
+MS0329,61,M,2023-01-19,current,50,50,50,,,,,eligible,eligible,stated,not_applicable,physician progress note,chest pain evaluation,copied_forward_prior_status
+MS0330,73,F,2024-02-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,heart failure follow-up,
+MS0331,62,M,2024-10-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,new patient visit to establish care,
+MS0332,67,M,2025-07-23,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,alcohol_quit_distractor;py_not_determinable
+MS0333,72,F,2023-10-01,former,97.5,97.5,97.5,2007,year,2007,2007,not_eligible,eligible,ppd_years,year,nurse intake followed by a physician progress note,geriatric assessment,alcohol_quit_distractor;copied_forward_prior_status
+MS0334,54,F,2023-06-10,former,19.5,18,21,2001,year,2001,2001,not_eligible,eligible|not_eligible,age_to_age,year,history and physical,hospital discharge follow-up after pneumonia,
+MS0335,60,M,2025-06-16,current,15.6,14.8,15.6,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse practitioner progress note,COPD follow-up,prior_quit_then_relapse
+MS0336,51,M,2023-02-20,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,unknown_status;unknown_with_distractor
+MS0337,57,F,2023-07-03,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,follow-up of an incidental lung nodule,unknown_status
+MS0338,69,F,2026-03-20,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,urgent care visit for cough,unknown_status;unknown_with_distractor
+MS0339,79,F,2023-11-05,former,,,,2015,year,2014,2016,insufficient,insufficient,insufficient_duration_only,years_ago,nurse practitioner progress note,heart failure follow-up,alcohol_quit_distractor;py_not_determinable;relative_quit;smoking_adjacent_distractor
+MS0340,62,F,2023-11-17,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,unknown_status
+MS0341,72,M,2025-10-29,current,30,30,30,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,geriatric assessment,alcohol_quit_distractor
+MS0342,53,F,2025-02-21,current,17,17,17,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,heart failure follow-up,
+MS0343,80,F,2024-11-05,former,,,,2024-01,month,2024,2024,insufficient,insufficient,insufficient_rate_only,month_year,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,py_not_determinable;smoking_adjacent_distractor
+MS0344,51,F,2023-08-20,current,2,2,2,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,telehealth visit for medication refills,
+MS0345,70,F,2026-03-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0346,66,M,2025-01-31,former,,,,2014,year,2013,2015,insufficient,insufficient,insufficient_duration_only,years_ago,resident note with attending attestation,geriatric assessment,alcohol_quit_distractor;py_not_determinable;relative_quit
+MS0347,64,F,2025-06-30,former,20,20,20,2015-06,month,2015,2015,eligible,eligible,stated,month_year,consult note / letter to the referring physician,urgent care visit for cough,smoking_adjacent_distractor
+MS0348,65,M,2025-11-11,former,,,,2009,year,2009,2009,not_eligible,insufficient,insufficient_vague,year,history and physical,telehealth visit for medication refills,py_not_determinable
+MS0349,69,M,2023-04-15,former,22.5,21.75,23.25,2004,year,2004,2004,not_eligible,eligible,age_to_age,event,consult note / letter to the referring physician,annual wellness visit,
+MS0350,71,F,2024-10-25,current,48,48,48,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,telehealth visit for medication refills,
+MS0351,73,M,2025-03-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,chest pain evaluation,smoking_adjacent_distractor
+MS0352,60,M,2023-12-11,former,40,37.5,42.5,1994,year,1993,1995,not_eligible,eligible,age_to_age,years_ago,history and physical,geriatric assessment,alcohol_quit_distractor;relative_quit;smoking_adjacent_distractor
+MS0353,61,F,2024-04-22,former,,,,2012,year,2011,2013,insufficient,insufficient,insufficient_rate_only,years_ago,resident note with attending attestation,new patient visit to establish care,copied_forward_prior_status;py_not_determinable;relative_quit
+MS0354,67,F,2026-06-14,former,22.5,15,30,2012-08-21,day,2012,2012,eligible|not_eligible,eligible|not_eligible,range,full_date,physician progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0355,52,F,2026-03-27,former,43,43,43,2009-04,month,2009,2009,not_eligible,eligible,stated,month_year,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0356,69,M,2023-03-10,current,127.5,102,153,,,,,eligible,eligible,range,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,smoking_adjacent_distractor
+MS0357,61,F,2023-08-08,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,brief telehealth note,peripheral artery disease evaluation,prior_quit_then_relapse;py_not_determinable
+MS0358,51,M,2024-10-10,current,17.25,15.75,17.25,,,,,not_eligible,not_eligible,ppd_years,not_applicable,physician progress note,peripheral artery disease evaluation,copied_forward_prior_status;prior_quit_then_relapse
+MS0359,77,F,2025-05-15,former,20.25,20.25,20.25,2005,year,2004,2006,not_eligible,eligible,ehr_fields,years_ago,brief telehealth note,geriatric assessment,relative_quit
+MS0360,80,F,2024-10-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,hospital discharge follow-up after pneumonia,
+MS0361,58,M,2025-03-08,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,urgent care visit for cough,alcohol_quit_distractor
+MS0362,77,M,2023-03-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,new patient visit to establish care,smoking_adjacent_distractor
+MS0363,79,F,2023-07-17,former,20,20,20,1999,year,1999,1999,not_eligible,eligible,cpd_years,year,nurse practitioner progress note,follow-up of an incidental lung nodule,
+MS0364,61,M,2025-01-04,former,21,14,28,2010,year,2009,2011,eligible|not_eligible,eligible|not_eligible,range,at_age,resident note with attending attestation,peripheral artery disease evaluation,age_based_quit
+MS0365,55,F,2023-01-15,former,,,,2014,year,2013,2015,insufficient,insufficient,insufficient_rate_only,at_age,physician progress note,primary care follow-up for hypertension and diabetes,age_based_quit;copied_forward_prior_status;py_not_determinable
+MS0366,52,M,2025-05-11,former,,,,2009,year,2009,2009,not_eligible,insufficient,insufficient_rate_only,year,brief telehealth note,chest pain evaluation,py_not_determinable
+MS0367,70,F,2025-10-16,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,history and physical,pre-operative evaluation for knee replacement,py_not_determinable;smoking_adjacent_distractor
+MS0368,51,M,2023-05-06,former,21,20.25,21.75,2022,year,2022,2022,eligible,eligible,age_to_age,event,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,
+MS0369,68,M,2025-02-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0370,67,M,2024-03-28,current,110,88,132,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,annual wellness visit,
+MS0371,67,M,2024-11-25,former,,,,2009,year,2008,2010,insufficient|not_eligible,insufficient,insufficient_duration_only,years_ago,consult note / letter to the referring physician,follow-up of an incidental lung nodule,py_not_determinable;relative_quit
+MS0372,57,M,2025-06-18,former,85,85,85,2024-09,month,2024,2024,eligible,eligible,stated,month_year,brief telehealth note,pre-operative evaluation for knee replacement,alcohol_quit_distractor;copied_forward_prior_status
+MS0373,64,F,2024-12-07,former,87,87,87,,,,,insufficient,eligible,stated,not_documented,nurse practitioner progress note,geriatric assessment,alcohol_quit_distractor
+MS0374,51,M,2024-10-03,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,COPD follow-up,
+MS0375,63,F,2024-05-18,former,53.75,43,64.5,2022-08,month,2022,2022,eligible,eligible,range,month_year,consult note / letter to the referring physician,annual wellness visit,stale_template_contradicted
+MS0376,75,M,2023-04-11,current,13.75,13.75,13.75,,,,,not_eligible,not_eligible,ppd_years,not_applicable,resident note with attending attestation,geriatric assessment,copied_forward_prior_status
+MS0377,79,M,2023-05-14,former,48,46,50,1987-12,month,1987,1987,not_eligible,eligible,age_to_age,month_year,resident note with attending attestation,peripheral artery disease evaluation,
+MS0378,77,M,2024-11-15,former,29.25,28.5,30,2002,year,2002,2002,not_eligible,eligible,age_to_age,year,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,copied_forward_prior_status
+MS0379,71,F,2024-09-14,current,102,102,102,,,,,eligible,eligible,ehr_fields,not_applicable,brief telehealth note,urgent care visit for cough,alcohol_quit_distractor
+MS0380,77,F,2025-12-01,former,58,58,58,2025,year,2025,2025,eligible,eligible,ehr_fields,year,history and physical,annual wellness visit,
+MS0381,66,F,2024-08-29,former,28.5,27.75,29.25,2015,year,2015,2015,eligible,eligible,age_to_age,year,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,copied_forward_prior_status;smoking_adjacent_distractor
+MS0382,61,M,2026-01-16,former,10.5,7,14,1997,year,1996,1998,not_eligible,not_eligible,range,at_age,brief telehealth note,chest pain evaluation,age_based_quit
+MS0383,59,F,2023-04-14,former,26.25,17.5,35,2019,year,2018,2020,eligible|not_eligible,eligible|not_eligible,range,at_age,history and physical,annual wellness visit,age_based_quit
+MS0384,72,F,2024-12-25,former,15,15,15,1988,year,1987,1989,not_eligible,not_eligible,ppd_years,years_ago,physician progress note,new patient visit to establish care,relative_quit
+MS0385,63,M,2023-03-20,former,23,23,23,1999-05,month,1999,1999,not_eligible,eligible,stated,month_year,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,alcohol_quit_distractor;copied_forward_prior_status;smoking_adjacent_distractor
+MS0386,61,M,2026-04-19,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,chest pain evaluation,unknown_status
+MS0387,58,M,2023-05-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,urgent care visit for cough,smoking_adjacent_distractor
+MS0388,72,M,2023-06-20,current,51,51,51,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,future_quit_date
+MS0389,73,F,2025-02-17,former,9,9,9,2004,year,2003,2005,not_eligible,not_eligible,ppd_years,at_age,physician progress note,urgent care visit for cough,age_based_quit;alcohol_quit_distractor;copied_forward_prior_status
+MS0390,80,M,2023-07-07,current,76,76,76,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,chest pain evaluation,prior_quit_then_relapse
+MS0391,75,M,2024-09-11,current,96,96,96,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,peripheral artery disease evaluation,future_quit_date;prior_quit_then_relapse
+MS0392,56,M,2024-01-11,former,6,6,6,2015-06-01,day,2015,2015,not_eligible,not_eligible,ppd_years,full_date,nurse intake followed by a physician progress note,peripheral artery disease evaluation,
+MS0393,71,F,2024-08-02,former,19,19,19,2017-03-14,day,2017,2017,not_eligible,not_eligible,stated,full_date,brief telehealth note,annual wellness visit,
+MS0394,66,M,2026-06-21,former,19,19,19,2003,year,2003,2003,not_eligible,not_eligible,stated,event,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,smoking_adjacent_distractor
+MS0395,54,F,2024-10-29,current,52,52,52,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,heart failure follow-up,
+MS0396,68,M,2025-08-02,former,24.6,24.6,24.6,2018,year,2018,2018,eligible,eligible,cpd_years,event,history and physical,ED-to-clinic follow-up after a COPD exacerbation,
+MS0397,55,F,2024-10-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,COPD follow-up,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0398,52,M,2024-01-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,urgent care visit for cough,smoking_adjacent_distractor
+MS0399,73,M,2023-05-29,former,,,,2010,year,2010,2010,insufficient,insufficient,insufficient_duration_only,year,nurse practitioner progress note,urgent care visit for cough,py_not_determinable;stale_template_contradicted
+MS0400,70,M,2024-06-06,current,58,58,58,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,peripheral artery disease evaluation,smoking_adjacent_distractor
+MS0401,58,F,2025-11-30,former,58,58,58,2004,year,2003,2005,not_eligible,eligible,stated,years_ago,resident note with attending attestation,annual wellness visit,alcohol_quit_distractor;relative_quit
+MS0402,54,M,2026-04-28,current,117,117,117,,,,,eligible,eligible,ehr_fields,not_applicable,consult note / letter to the referring physician,COPD follow-up,alcohol_quit_distractor
+MS0403,78,F,2025-07-01,former,87,87,87,2024-05,month,2024,2024,eligible,eligible,ppd_years,months_ago,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,relative_quit
+MS0404,59,F,2024-02-26,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status
+MS0405,63,F,2024-12-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,telehealth visit for medication refills,smoking_adjacent_distractor
+MS0406,69,M,2023-08-21,former,,,,2014,year,2014,2014,insufficient,insufficient,insufficient_duration_only,year,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,py_not_determinable
+MS0407,55,F,2023-06-01,current,20,20,20,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,peripheral artery disease evaluation,prior_quit_then_relapse
+MS0408,76,M,2026-06-19,former,3,3,3,,,,,not_eligible,not_eligible,stated,not_documented,brief telehealth note,urgent care visit for cough,
+MS0409,67,M,2023-02-04,former,66,44,88,2017,year,2016,2018,eligible,eligible,range,years_ago,consult note / letter to the referring physician,chest pain evaluation,relative_quit
+MS0410,57,M,2026-01-25,former,58.5,58.5,58.5,2024,year,2024,2024,eligible,eligible,ppd_years,event,nurse intake followed by a physician progress note,COPD follow-up,stale_template_contradicted
+MS0411,76,F,2023-09-14,former,,,,2012-08,month,2012,2012,insufficient,insufficient,insufficient_rate_only,month_year,consult note / letter to the referring physician,peripheral artery disease evaluation,py_not_determinable
+MS0412,80,M,2026-06-02,former,51,51,51,2013,year,2013,2013,eligible,eligible,ppd_years,year,history and physical,hospital discharge follow-up after pneumonia,
+MS0413,79,M,2026-03-10,current,19.5,19.5,19.5,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse practitioner progress note,geriatric assessment,
+MS0414,53,M,2024-02-11,current,25.5,23.25,25.5,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,new patient visit to establish care,future_quit_date;prior_quit_then_relapse
+MS0415,77,M,2024-02-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0416,74,M,2024-10-09,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,unknown_status
+MS0417,78,F,2025-09-17,former,34,34,34,2024-05,month,2024,2024,eligible,eligible,stated,months_ago,consult note / letter to the referring physician,annual wellness visit,copied_forward_prior_status;relative_quit
+MS0418,53,F,2025-09-25,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,unknown_status
+MS0419,72,F,2025-08-27,current,48,48,48,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,new patient visit to establish care,future_quit_date
+MS0420,54,F,2024-11-03,former,49,49,49,1993,year,1992,1994,not_eligible,eligible,stated,at_age,history and physical,peripheral artery disease evaluation,age_based_quit
+MS0421,75,M,2024-08-11,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,hospital discharge follow-up after pneumonia,prior_quit_then_relapse
+MS0422,54,F,2023-02-11,former,5.2,5.2,5.2,2010,year,2010,2010,not_eligible,not_eligible,cpd_years,year,physician progress note,primary care follow-up for hypertension and diabetes,
+MS0423,73,M,2025-08-22,former,33,33,33,,,,,insufficient,eligible,stated,not_documented,history and physical,follow-up of an incidental lung nodule,
+MS0424,53,F,2025-12-28,former,18,18,18,2020,year,2020,2020,not_eligible,not_eligible,ppd_years,event,nurse intake followed by a physician progress note,telehealth visit for medication refills,
+MS0425,63,F,2023-04-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,telehealth visit for medication refills,
+MS0426,79,F,2023-08-28,current,18,18,18,,,,,not_eligible,not_eligible,stated,not_applicable,brief telehealth note,geriatric assessment,alcohol_quit_distractor
+MS0427,74,F,2025-08-18,former,,,,2010-03-21,day,2010,2010,insufficient,insufficient,insufficient_vague,full_date,resident note with attending attestation,follow-up of an incidental lung nodule,py_not_determinable
+MS0428,50,F,2025-04-19,former,30,30,30,2015,year,2015,2015,eligible,eligible,stated,year,consult note / letter to the referring physician,new patient visit to establish care,copied_forward_prior_status
+MS0429,78,F,2025-05-14,current,10,10,10,,,,,not_eligible,not_eligible,stated,not_applicable,resident note with attending attestation,telehealth visit for medication refills,prior_quit_then_relapse;stale_template_contradicted
+MS0430,75,F,2023-07-28,former,18,18,18,1989,year,1988,1990,not_eligible,not_eligible,ppd_years,at_age,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,age_based_quit
+MS0431,54,F,2025-03-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,
+MS0432,69,F,2025-01-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,heart failure follow-up,smoking_adjacent_distractor
+MS0433,73,M,2025-06-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,
+MS0434,71,M,2024-11-09,current,19,19,19,,,,,not_eligible,not_eligible,stated,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,stale_template_contradicted
+MS0435,60,F,2023-08-01,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,unknown_status;unknown_with_distractor
+MS0436,76,F,2025-11-13,current,81,81,81,,,,,eligible,eligible,ppd_years,not_applicable,nurse practitioner progress note,COPD follow-up,
+MS0437,50,M,2026-02-12,former,22,22,22,2020-05-04,day,2020,2020,eligible,eligible,stated,full_date,physician progress note,COPD follow-up,
+MS0438,60,F,2025-07-05,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,pre-operative evaluation for knee replacement,unknown_status
+MS0439,62,F,2023-12-21,current,15,15,15,,,,,not_eligible,not_eligible,stated,not_applicable,nurse practitioner progress note,chest pain evaluation,
+MS0440,61,F,2023-07-19,current,86,86,86,,,,,eligible,eligible,stated,not_applicable,history and physical,chest pain evaluation,
+MS0441,53,M,2025-10-12,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,new patient visit to establish care,unknown_status;unknown_with_distractor
+MS0442,61,M,2023-06-20,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,consult note / letter to the referring physician,heart failure follow-up,copied_forward_prior_status;py_not_determinable;stale_template_contradicted
+MS0443,78,M,2023-09-28,former,10.5,10.5,10.5,2010,year,2010,2010,not_eligible,not_eligible,ppd_years,year,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0444,80,F,2026-06-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,chest pain evaluation,alcohol_quit_distractor
+MS0445,51,F,2025-09-17,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,resident note with attending attestation,heart failure follow-up,copied_forward_prior_status;py_not_determinable;stale_template_contradicted
+MS0446,74,F,2024-11-29,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,heart failure follow-up,py_not_determinable
+MS0447,58,M,2025-11-05,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,annual wellness visit,
+MS0448,60,F,2025-01-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,
+MS0449,58,F,2023-12-28,current,61.5,41,82,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,telehealth visit for medication refills,alcohol_quit_distractor;future_quit_date
+MS0450,65,F,2025-05-22,current,61.25,44.5,73.5,,,,,eligible,eligible,range,not_applicable,nurse practitioner progress note,heart failure follow-up,prior_quit_then_relapse
+MS0451,78,M,2023-07-21,former,54,36,72,2006,year,2005,2007,not_eligible,eligible,range,years_ago,resident note with attending attestation,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;relative_quit
+MS0452,58,F,2025-11-18,former,16,16,16,2020,year,2020,2020,not_eligible,not_eligible,stated,year,resident note with attending attestation,annual wellness visit,
+MS0453,60,F,2025-09-17,former,23,23,23,2008,year,2008,2008,not_eligible,eligible,stated,year,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,alcohol_quit_distractor;copied_forward_prior_status
+MS0454,66,M,2024-09-11,former,16,16,16,2005,year,2004,2006,not_eligible,not_eligible,stated,at_age,nurse practitioner progress note,COPD follow-up,age_based_quit
+MS0455,67,F,2024-11-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0456,50,M,2023-11-29,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,py_not_determinable
+MS0457,59,F,2025-08-02,current,54,54,54,,,,,eligible,eligible,stated,not_applicable,history and physical,hospital discharge follow-up after pneumonia,prior_quit_then_relapse
+MS0458,58,M,2023-11-02,former,27,26,28,2020,year,2019,2021,eligible,eligible,age_to_age,years_ago,physician progress note,lung cancer screening shared decision-making visit,relative_quit
+MS0459,60,F,2025-06-21,current,35,35,35,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,telehealth visit for medication refills,prior_quit_then_relapse
+MS0460,61,F,2023-07-09,former,37,37,37,,,,,insufficient,eligible,stated,not_documented,resident note with attending attestation,geriatric assessment,copied_forward_prior_status
+MS0461,50,F,2023-03-22,former,,,,2017,year,2017,2017,insufficient,insufficient,insufficient_vague,event,resident note with attending attestation,COPD follow-up,py_not_determinable
+MS0462,51,M,2025-06-22,current,93,93,93,,,,,eligible,eligible,stated,not_applicable,physician progress note,COPD follow-up,
+MS0463,64,F,2024-05-03,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,urgent care visit for cough,unknown_status;unknown_with_distractor
+MS0464,66,M,2025-11-19,former,43,43,43,2013,year,2013,2013,eligible,eligible,stated,year,history and physical,ED-to-clinic follow-up after a COPD exacerbation,
+MS0465,63,F,2023-07-08,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,
+MS0466,78,F,2023-04-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,annual wellness visit,
+MS0467,60,F,2023-07-05,current,40,40,40,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0468,60,F,2024-01-24,current,21,21,21,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0469,57,F,2025-11-13,current,48,48,48,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,new patient visit to establish care,alcohol_quit_distractor
+MS0470,79,F,2025-02-24,former,112.5,90,135,2009-12,month,2009,2009,not_eligible,eligible,range,month_year,history and physical,telehealth visit for medication refills,
+MS0471,77,F,2025-08-02,former,39,39,39,2023,year,2023,2023,eligible,eligible,stated,year,physician progress note,telehealth visit for medication refills,
+MS0472,61,M,2023-06-26,former,15,15,15,1994,year,1993,1995,not_eligible,not_eligible,ppd_years,years_ago,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,alcohol_quit_distractor;relative_quit
+MS0473,68,M,2026-05-30,current,24.5,24.5,24.5,,,,,eligible,eligible,ppd_years,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0474,57,F,2024-08-22,current,18,18,18,,,,,not_eligible,not_eligible,stated,not_applicable,consult note / letter to the referring physician,telehealth visit for medication refills,copied_forward_prior_status;future_quit_date
+MS0475,51,M,2023-05-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,lung cancer screening shared decision-making visit,
+MS0476,64,F,2026-05-28,former,13,13,13,2012,year,2012,2012,not_eligible,not_eligible,cpd_years,year,nurse practitioner progress note,heart failure follow-up,
+MS0477,68,M,2024-01-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,chest pain evaluation,smoking_adjacent_distractor
+MS0478,74,F,2024-12-04,former,11,11,11,,,,,not_eligible,not_eligible,stated,not_documented,resident note with attending attestation,primary care follow-up for hypertension and diabetes,copied_forward_prior_status
+MS0479,64,F,2024-05-26,current,62.5,50,75,,,,,eligible,eligible,range,not_applicable,consult note / letter to the referring physician,telehealth visit for medication refills,copied_forward_prior_status
+MS0480,64,F,2025-02-11,current,21.5,21.5,21.5,,,,,eligible,eligible,ppd_years,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,future_quit_date
+MS0481,58,F,2026-06-23,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,unknown_status;unknown_with_distractor
+MS0482,68,M,2025-06-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,
+MS0483,80,F,2023-01-26,former,12.25,12.25,12.25,2007-09-03,day,2007,2007,not_eligible,not_eligible,ppd_years,full_date,brief telehealth note,primary care follow-up for hypertension and diabetes,
+MS0484,62,M,2025-01-01,former,22.5,21.75,23.25,2009,year,2008,2010,eligible|not_eligible,eligible,age_to_age,at_age,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,age_based_quit
+MS0485,80,M,2023-12-18,former,74,74,74,,,,,insufficient,eligible,stated,not_documented,physician progress note,pre-operative evaluation for knee replacement,copied_forward_prior_status
+MS0486,56,M,2023-03-28,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,annual wellness visit,
+MS0487,69,M,2023-03-18,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,alcohol_quit_distractor
+MS0488,51,M,2025-07-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,COPD follow-up,alcohol_quit_distractor
+MS0489,75,F,2024-09-23,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,chest pain evaluation,
+MS0490,61,F,2025-11-23,current,10.25,10.25,10.25,,,,,not_eligible,not_eligible,ppd_years,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,
+MS0491,58,F,2026-02-06,current,10,10,10,,,,,not_eligible,not_eligible,ppd_years,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,copied_forward_prior_status
+MS0492,54,M,2024-05-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,new patient visit to establish care,alcohol_quit_distractor
+MS0493,69,F,2023-04-17,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,COPD follow-up,unknown_status
+MS0494,75,M,2023-05-19,former,50,40,60,2010,year,2010,2010,eligible,eligible,range,year,brief telehealth note,peripheral artery disease evaluation,copied_forward_prior_status;stale_template_contradicted
+MS0495,77,F,2025-12-23,former,,,,2012,approximate,2010,2013,insufficient,insufficient,insufficient_vague,decade,resident note with attending attestation,geriatric assessment,py_not_determinable
+MS0496,80,M,2023-11-08,former,39.75,26.5,53,2014,year,2014,2014,eligible,eligible,range,year,history and physical,geriatric assessment,alcohol_quit_distractor;copied_forward_prior_status
+MS0497,58,F,2023-11-16,former,49,49,49,2018-02,month,2018,2018,eligible,eligible,stated,month_year,brief telehealth note,telehealth visit for medication refills,stale_template_contradicted
+MS0498,76,F,2024-05-12,former,23.5,23.5,23.5,2016-04,month,2016,2016,eligible,eligible,ehr_fields,month_year,history and physical,telehealth visit for medication refills,smoking_adjacent_distractor
+MS0499,63,M,2024-11-15,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,resident note with attending attestation,heart failure follow-up,future_quit_date;py_not_determinable
+MS0500,78,M,2023-11-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0501,69,F,2023-12-31,current,48,47,49,,,,,eligible,eligible,since_age,not_applicable,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,future_quit_date
+MS0502,61,M,2024-12-05,current,24,24,24,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,heart failure follow-up,alcohol_quit_distractor;future_quit_date
+MS0503,56,M,2026-06-06,former,22.5,22.5,22.5,2021,year,2020,2022,eligible,eligible,ppd_years,at_age,resident note with attending attestation,COPD follow-up,age_based_quit
+MS0504,68,F,2025-05-22,current,11.25,11.25,11.25,,,,,not_eligible,not_eligible,ppd_years,not_applicable,history and physical,annual wellness visit,smoking_adjacent_distractor
+MS0505,64,M,2024-05-11,current,24,24,24,,,,,eligible,eligible,ehr_fields,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,
+MS0506,65,M,2023-02-07,former,47.5,38,57,2017-08,month,2017,2017,eligible,eligible,range,month_year,brief telehealth note,primary care follow-up for hypertension and diabetes,
+MS0507,65,M,2025-03-30,former,35,35,35,1987,year,1986,1988,not_eligible,eligible,stated,years_ago,resident note with attending attestation,peripheral artery disease evaluation,alcohol_quit_distractor;relative_quit
+MS0508,62,M,2026-05-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0509,80,M,2025-04-02,current,93,88.5,93,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,telehealth visit for medication refills,alcohol_quit_distractor;prior_quit_then_relapse
+MS0510,71,F,2026-06-19,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,annual wellness visit,unknown_status;unknown_with_distractor
+MS0511,78,F,2025-01-14,former,27,27,27,2014,year,2013,2015,eligible,eligible,stated,years_ago,consult note / letter to the referring physician,peripheral artery disease evaluation,relative_quit;stale_template_contradicted
+MS0512,76,M,2024-03-11,former,49,49,49,2005,year,2005,2005,not_eligible,eligible,stated,year,physician progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0513,59,F,2024-05-29,current,10.75,10.25,10.75,,,,,not_eligible,not_eligible,cpd_years,not_applicable,resident note with attending attestation,follow-up of an incidental lung nodule,prior_quit_then_relapse
+MS0514,73,M,2025-07-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,annual wellness visit,
+MS0515,79,F,2025-01-05,former,57,57,57,2022-03-29,day,2022,2022,eligible,eligible,ppd_years,full_date,consult note / letter to the referring physician,new patient visit to establish care,
+MS0516,71,M,2025-05-09,former,35,35,35,2006,year,2006,2006,not_eligible,eligible,ppd_years,year,nurse practitioner progress note,peripheral artery disease evaluation,
+MS0517,69,F,2026-06-19,current,40.5,27,54,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,chest pain evaluation,
+MS0518,64,F,2023-11-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,telehealth visit for medication refills,smoking_adjacent_distractor
+MS0519,53,F,2024-01-23,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0520,66,M,2024-08-05,former,42,40.5,43.5,2002-11,month,2002,2002,not_eligible,eligible,age_to_age,month_year,brief telehealth note,heart failure follow-up,
+MS0521,62,M,2023-01-12,former,45,45,45,2010,year,2009,2011,eligible,eligible,ppd_years,at_age,physician progress note,geriatric assessment,age_based_quit
+MS0522,54,M,2023-03-16,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status;unknown_with_distractor
+MS0523,59,F,2023-03-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,COPD follow-up,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0524,60,M,2025-12-29,current,61.5,41,82,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,hospital discharge follow-up after pneumonia,copied_forward_prior_status
+MS0525,50,M,2024-04-06,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0526,70,F,2023-03-23,former,18,18,18,,,,,not_eligible,not_eligible,ppd_years,not_documented,nurse practitioner progress note,peripheral artery disease evaluation,copied_forward_prior_status
+MS0527,76,F,2026-03-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,telehealth visit for medication refills,
+MS0528,52,F,2025-07-26,current,14.5,14.5,14.5,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,
+MS0529,69,F,2026-02-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,chest pain evaluation,
+MS0530,59,F,2023-07-09,former,15,15,15,2004,year,2004,2004,not_eligible,not_eligible,cpd_years,year,history and physical,annual wellness visit,stale_template_contradicted
+MS0531,57,M,2024-06-22,former,16.25,16.25,16.25,2009,year,2008,2010,not_eligible,not_eligible,cpd_years,at_age,nurse practitioner progress note,follow-up of an incidental lung nodule,age_based_quit
+MS0532,66,F,2024-04-06,former,7.25,7.25,7.25,,,,,not_eligible,not_eligible,ppd_years,not_documented,physician progress note,lung cancer screening shared decision-making visit,
+MS0533,74,F,2023-06-12,current,11.25,11.25,11.25,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,resident note with attending attestation,new patient visit to establish care,copied_forward_prior_status;future_quit_date
+MS0534,61,M,2025-06-18,former,26,26,26,,,,,insufficient,eligible,stated,not_documented,resident note with attending attestation,telehealth visit for medication refills,
+MS0535,55,F,2024-12-02,former,101,101,101,2012-09,month,2012,2012,eligible,eligible,stated,month_year,brief telehealth note,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0536,58,M,2023-03-16,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,urgent care visit for cough,smoking_adjacent_distractor
+MS0537,60,M,2023-11-20,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,new patient visit to establish care,unknown_status
+MS0538,79,F,2025-06-27,former,22,22,22,2022-07,month,2022,2022,eligible,eligible,stated,month_year,consult note / letter to the referring physician,heart failure follow-up,
+MS0539,66,M,2025-01-10,former,25,24,26,2005,year,2004,2006,not_eligible,eligible,age_to_age,at_age,resident note with attending attestation,geriatric assessment,age_based_quit;alcohol_quit_distractor
+MS0540,67,F,2026-03-09,former,,,,2024,year,2023,2025,insufficient,insufficient,insufficient_rate_only,at_age,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,age_based_quit;py_not_determinable
+MS0541,80,F,2025-07-30,former,10,10,10,,,,,not_eligible,not_eligible,stated,not_documented,nurse intake followed by a physician progress note,urgent care visit for cough,alcohol_quit_distractor
+MS0542,65,F,2024-01-06,former,28,28,28,2005,year,2004,2006,not_eligible,eligible,stated,at_age,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,age_based_quit
+MS0543,70,F,2023-06-21,former,30,30,30,1984,year,1984,1984,not_eligible,eligible,ehr_fields,year,nurse intake followed by a physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0544,56,F,2025-01-25,current,84,84,84,,,,,eligible,eligible,ehr_fields,not_applicable,history and physical,lung cancer screening shared decision-making visit,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0545,79,F,2025-01-24,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,nurse practitioner progress note,heart failure follow-up,alcohol_quit_distractor;copied_forward_prior_status;py_not_determinable
+MS0546,60,M,2026-01-08,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,urgent care visit for cough,unknown_status
+MS0547,70,F,2026-03-08,former,62,62,62,2006,year,2006,2006,not_eligible,eligible,ppd_years,year,brief telehealth note,urgent care visit for cough,
+MS0548,59,F,2025-01-02,former,,,,2014,year,2014,2014,insufficient,insufficient,insufficient_duration_only,year,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,py_not_determinable
+MS0549,56,M,2024-11-20,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,peripheral artery disease evaluation,py_not_determinable
+MS0550,60,M,2023-10-04,current,16,14,16,,,,,not_eligible,not_eligible,cpd_years,not_applicable,brief telehealth note,telehealth visit for medication refills,alcohol_quit_distractor;prior_quit_then_relapse
+MS0551,54,F,2024-02-21,current,28,28,28,,,,,eligible,eligible,stated,not_applicable,history and physical,COPD follow-up,
+MS0552,51,M,2024-10-24,former,,,,2014,approximate,2013,2016,insufficient,insufficient,insufficient_rate_only,decade,resident note with attending attestation,annual wellness visit,alcohol_quit_distractor;py_not_determinable
+MS0553,54,F,2025-12-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,heart failure follow-up,smoking_adjacent_distractor
+MS0554,62,F,2026-04-22,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,brief telehealth note,chest pain evaluation,prior_quit_then_relapse;py_not_determinable
+MS0555,61,M,2025-05-02,current,67.5,66,69,,,,,eligible,eligible,since_age,not_applicable,brief telehealth note,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0556,72,M,2023-02-27,current,38.25,38.25,38.25,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,
+MS0557,58,F,2024-07-22,current,45,31.5,54,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,peripheral artery disease evaluation,copied_forward_prior_status;prior_quit_then_relapse
+MS0558,76,F,2023-03-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0559,77,F,2023-11-07,current,62,62,62,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,geriatric assessment,alcohol_quit_distractor;prior_quit_then_relapse
+MS0560,76,F,2023-10-23,former,,,,2023,year,2023,2023,insufficient,insufficient,insufficient_vague,year,consult note / letter to the referring physician,peripheral artery disease evaluation,copied_forward_prior_status;py_not_determinable
+MS0561,67,F,2025-04-16,former,25.5,25.5,25.5,2007-02-19,day,2007,2007,not_eligible,eligible,cpd_years,full_date,resident note with attending attestation,COPD follow-up,copied_forward_prior_status;smoking_adjacent_distractor
+MS0562,60,M,2025-07-04,current,17,17,17,,,,,not_eligible,not_eligible,stated,not_applicable,nurse intake followed by a physician progress note,heart failure follow-up,
+MS0563,74,F,2023-05-01,former,27.5,27,28,2022-11,month,2022,2022,eligible,eligible,age_to_age,month_year,brief telehealth note,pre-operative evaluation for knee replacement,
+MS0564,63,M,2025-06-27,former,,,,2011,year,2011,2011,insufficient,insufficient,insufficient_duration_only,year,nurse practitioner progress note,COPD follow-up,alcohol_quit_distractor;copied_forward_prior_status;py_not_determinable
+MS0565,78,F,2024-06-24,current,54,54,54,,,,,eligible,eligible,cpd_years,not_applicable,history and physical,urgent care visit for cough,alcohol_quit_distractor;stale_template_contradicted
+MS0566,59,F,2023-02-17,former,11,11,11,2022-06-26,day,2022,2022,not_eligible,not_eligible,ehr_fields,full_date,consult note / letter to the referring physician,annual wellness visit,
+MS0567,57,M,2026-01-16,former,,,,2008-03,month,2008,2008,not_eligible,insufficient,insufficient_rate_only,month_year,physician progress note,peripheral artery disease evaluation,alcohol_quit_distractor;copied_forward_prior_status;py_not_determinable
+MS0568,72,F,2023-09-19,current,14.25,14.25,14.25,,,,,not_eligible,not_eligible,ppd_years,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor
+MS0569,55,F,2024-12-23,former,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_documented,nurse intake followed by a physician progress note,chest pain evaluation,py_not_determinable
+MS0570,76,M,2023-08-09,former,34,34,34,2005-06,month,2005,2005,not_eligible,eligible,stated,month_year,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0571,74,M,2025-03-01,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,py_not_determinable
+MS0572,65,F,2025-10-19,former,17,17,17,2012,year,2012,2012,not_eligible,not_eligible,ppd_years,year,brief telehealth note,COPD follow-up,
+MS0573,80,F,2024-11-17,former,43.5,43.5,43.5,1996,year,1995,1997,not_eligible,eligible,ppd_years,years_ago,brief telehealth note,COPD follow-up,relative_quit
+MS0574,56,F,2023-05-18,current,27,27,27,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0575,72,M,2023-11-26,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0576,71,F,2025-04-02,former,,,,2006-11,month,2006,2006,not_eligible,insufficient,insufficient_duration_only,month_year,resident note with attending attestation,lung cancer screening shared decision-making visit,py_not_determinable
+MS0577,77,F,2023-08-10,former,,,,2003,year,2003,2003,not_eligible,insufficient,insufficient_duration_only,year,history and physical,hospital discharge follow-up after pneumonia,py_not_determinable
+MS0578,71,F,2023-03-06,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,annual wellness visit,
+MS0579,77,M,2024-06-18,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,
+MS0580,61,M,2025-09-21,current,20,20,20,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,prior_quit_then_relapse
+MS0581,57,M,2025-11-03,former,19,19,19,2005,year,2005,2005,not_eligible,not_eligible,stated,event,nurse intake followed by a physician progress note,urgent care visit for cough,
+MS0582,68,F,2023-10-02,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,telehealth visit for medication refills,unknown_status
+MS0583,64,M,2023-07-29,current,69,69,69,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,copied_forward_prior_status
+MS0584,72,M,2025-08-20,former,25,24,26,2007,year,2006,2008,not_eligible,eligible,age_to_age,years_ago,physician progress note,primary care follow-up for hypertension and diabetes,copied_forward_prior_status;relative_quit;smoking_adjacent_distractor
+MS0585,59,F,2025-05-15,current,30,29.25,30.75,,,,,eligible,eligible,since_age,not_applicable,resident note with attending attestation,new patient visit to establish care,alcohol_quit_distractor
+MS0586,54,M,2024-04-22,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,brief telehealth note,chest pain evaluation,alcohol_quit_distractor;py_not_determinable;smoking_adjacent_distractor
+MS0587,70,F,2025-04-16,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,smoking_adjacent_distractor
+MS0588,62,F,2025-01-02,current,11.75,11.75,11.75,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,resident note with attending attestation,COPD follow-up,future_quit_date
+MS0589,80,F,2024-02-10,former,18,18,18,2017,year,2017,2017,not_eligible,not_eligible,stated,year,history and physical,hospital discharge follow-up after pneumonia,
+MS0590,51,M,2023-09-09,current,52.5,45,52.5,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,new patient visit to establish care,prior_quit_then_relapse;smoking_adjacent_distractor
+MS0591,66,M,2024-06-17,former,,,,2012,year,2011,2013,insufficient,insufficient,insufficient_duration_only,years_ago,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,py_not_determinable;relative_quit
+MS0592,52,F,2024-09-25,former,,,,2012,approximate,2010,2013,insufficient,insufficient,insufficient_duration_only,decade,resident note with attending attestation,COPD follow-up,alcohol_quit_distractor;py_not_determinable
+MS0593,56,F,2024-01-24,former,53,53,53,,,,,insufficient,eligible,stated,not_documented,history and physical,follow-up of an incidental lung nodule,
+MS0594,67,F,2023-10-18,current,12.5,11.75,12.5,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;prior_quit_then_relapse
+MS0595,62,F,2026-03-03,current,22.5,22,23,,,,,eligible,eligible,since_age,not_applicable,nurse practitioner progress note,geriatric assessment,alcohol_quit_distractor;copied_forward_prior_status
+MS0596,57,F,2024-06-27,current,22,22,22,,,,,eligible,eligible,stated,not_applicable,physician progress note,heart failure follow-up,future_quit_date
+MS0597,56,F,2024-08-12,current,49,49,49,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,follow-up of an incidental lung nodule,future_quit_date;prior_quit_then_relapse
+MS0598,65,F,2025-05-29,current,16,16,16,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,urgent care visit for cough,
+MS0599,59,M,2023-03-07,former,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_documented,consult note / letter to the referring physician,peripheral artery disease evaluation,copied_forward_prior_status;py_not_determinable
+MS0600,73,F,2025-04-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0601,73,M,2024-03-07,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,prior_quit_then_relapse;py_not_determinable
+MS0602,70,M,2023-06-15,current,117.5,88,141,,,,,eligible,eligible,range,not_applicable,consult note / letter to the referring physician,COPD follow-up,prior_quit_then_relapse
+MS0603,72,F,2025-03-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,alcohol_quit_distractor
+MS0604,59,F,2024-10-09,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,nurse practitioner progress note,new patient visit to establish care,py_not_determinable;stale_template_contradicted
+MS0605,80,F,2025-03-12,former,,,,2005-11,month,2005,2005,not_eligible,insufficient,insufficient_duration_only,month_year,nurse practitioner progress note,lung cancer screening shared decision-making visit,py_not_determinable
+MS0606,76,F,2024-07-14,former,28.5,28.5,28.5,2023,year,2022,2024,eligible,eligible,ppd_years,at_age,nurse practitioner progress note,urgent care visit for cough,age_based_quit;smoking_adjacent_distractor
+MS0607,50,M,2025-01-07,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,nurse practitioner progress note,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;future_quit_date;py_not_determinable
+MS0608,57,M,2025-10-18,current,20,20,20,,,,,eligible,eligible,cpd_years,not_applicable,resident note with attending attestation,heart failure follow-up,copied_forward_prior_status;smoking_adjacent_distractor;stale_template_contradicted
+MS0609,64,M,2023-08-22,current,20.5,20.5,20.5,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,annual wellness visit,
+MS0610,69,F,2025-03-06,former,18.5,18,19,2011,year,2010,2012,not_eligible,not_eligible,age_to_age,stop_age_in_smoking_history,resident note with attending attestation,lung cancer screening shared decision-making visit,copied_forward_prior_status;quit_date_in_smoking_history
+MS0611,72,F,2024-05-23,current,59,59,59,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,
+MS0612,53,M,2026-04-29,current,31,31,31,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,follow-up of an incidental lung nodule,
+MS0613,66,M,2023-05-07,current,112.5,90,135,,,,,eligible,eligible,range,not_applicable,history and physical,pre-operative evaluation for knee replacement,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0614,63,M,2024-07-05,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,chest pain evaluation,
+MS0615,60,F,2024-07-19,former,15.2,15.2,15.2,2022,year,2021,2023,not_eligible,not_eligible,cpd_years,years_ago,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,copied_forward_prior_status;relative_quit
+MS0616,53,M,2025-01-07,current,16.25,16.25,16.25,,,,,not_eligible,not_eligible,cpd_years,not_applicable,brief telehealth note,urgent care visit for cough,copied_forward_prior_status;smoking_adjacent_distractor
+MS0617,52,M,2023-11-09,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,resident note with attending attestation,COPD follow-up,copied_forward_prior_status;prior_quit_then_relapse;py_not_determinable
+MS0618,51,F,2023-08-18,current,25.5,25.5,25.5,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,
+MS0619,67,M,2024-04-16,current,38,38,38,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,alcohol_quit_distractor;prior_quit_then_relapse
+MS0620,56,M,2023-04-20,former,13.5,13.5,13.5,2009,year,2009,2009,not_eligible,not_eligible,cpd_years,year,nurse practitioner progress note,peripheral artery disease evaluation,
+MS0621,53,M,2026-06-03,former,,,,,,,,insufficient,insufficient,insufficient_vague,not_documented,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,py_not_determinable
+MS0622,54,M,2025-08-11,current,54,54,54,,,,,eligible,eligible,stated,not_applicable,physician progress note,telehealth visit for medication refills,copied_forward_prior_status;future_quit_date
+MS0623,78,M,2024-07-15,current,15.75,15.75,15.75,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,
+MS0624,65,M,2023-01-26,current,12,12,12,,,,,not_eligible,not_eligible,cpd_years,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,copied_forward_prior_status
+MS0625,70,F,2026-04-16,former,39,39,39,2013,year,2013,2013,eligible,eligible,ehr_fields,year,physician progress note,pre-operative evaluation for knee replacement,alcohol_quit_distractor
+MS0626,62,F,2025-11-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,urgent care visit for cough,alcohol_quit_distractor
+MS0627,52,M,2023-11-29,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,urgent care visit for cough,smoking_adjacent_distractor
+MS0628,80,M,2025-12-06,current,27,27,27,,,,,eligible,eligible,cpd_years,not_applicable,physician progress note,peripheral artery disease evaluation,future_quit_date
+MS0629,75,F,2024-03-01,former,31.25,31.25,31.25,2018,year,2017,2019,eligible,eligible,cpd_years,at_age,history and physical,urgent care visit for cough,age_based_quit
+MS0630,62,F,2025-12-21,current,10,10,10,,,,,not_eligible,not_eligible,ppd_years,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0631,51,M,2026-01-04,former,,,,2024-05,month,2024,2024,insufficient,insufficient,insufficient_duration_only,months_ago,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,py_not_determinable;relative_quit;stale_template_contradicted
+MS0632,57,M,2026-03-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,chest pain evaluation,smoking_adjacent_distractor
+MS0633,57,F,2024-02-21,former,43,43,43,2004,year,2004,2004,not_eligible,eligible,stated,year,physician progress note,geriatric assessment,
+MS0634,54,M,2023-07-27,former,29,29,29,2006-04,month,2006,2006,not_eligible,eligible,stated,month_year,resident note with attending attestation,new patient visit to establish care,
+MS0635,64,M,2023-06-14,former,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_documented,nurse intake followed by a physician progress note,COPD follow-up,copied_forward_prior_status;py_not_determinable;stale_template_contradicted
+MS0636,72,M,2023-02-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,hospital discharge follow-up after pneumonia,
+MS0637,62,F,2026-04-27,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,unknown_status;unknown_with_distractor
+MS0638,53,F,2025-11-29,former,16,16,16,2025-03,month,2025,2025,not_eligible,not_eligible,stated,month_year,physician progress note,geriatric assessment,copied_forward_prior_status
+MS0639,73,M,2026-01-01,current,13,12.25,13,,,,,not_eligible,not_eligible,ppd_years,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,future_quit_date;prior_quit_then_relapse
+MS0640,66,F,2025-05-31,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,brief telehealth note,heart failure follow-up,copied_forward_prior_status;py_not_determinable;smoking_adjacent_distractor
+MS0641,76,F,2023-06-26,former,13,13,13,2019,year,2019,2019,not_eligible,not_eligible,ppd_years,year,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0642,66,F,2025-01-18,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,urgent care visit for cough,
+MS0643,71,M,2026-06-14,former,23,23,23,2015,year,2015,2015,eligible,eligible,ehr_fields,year,brief telehealth note,annual wellness visit,
+MS0644,78,M,2023-08-03,current,22,22,22,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,pre-operative evaluation for knee replacement,
+MS0645,53,F,2024-07-22,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,hospital discharge follow-up after pneumonia,
+MS0646,67,F,2025-04-04,former,42,42,42,2007,year,2006,2008,not_eligible,eligible,stated,years_ago,nurse practitioner progress note,new patient visit to establish care,relative_quit
+MS0647,53,M,2023-09-07,current,26.25,25.5,26.25,,,,,eligible,eligible,cpd_years,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,prior_quit_then_relapse
+MS0648,54,M,2025-10-12,former,24,21,27,1994,year,1993,1995,not_eligible,eligible,age_to_age,years_ago,physician progress note,pre-operative evaluation for knee replacement,copied_forward_prior_status;relative_quit
+MS0649,51,F,2025-09-01,current,6,6,6,,,,,not_eligible,not_eligible,stated,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,
+MS0650,62,M,2024-09-22,current,96,92,96,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,prior_quit_then_relapse
+MS0651,51,F,2025-04-28,former,15,10,20,2020,year,2019,2021,eligible|not_eligible,eligible|not_eligible,range,at_age,physician progress note,COPD follow-up,age_based_quit
+MS0652,55,M,2024-03-11,current,55.5,55.5,55.5,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,
+MS0653,75,F,2023-01-04,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,primary care follow-up for hypertension and diabetes,unknown_status
+MS0654,71,F,2024-03-26,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,new patient visit to establish care,unknown_status
+MS0655,74,M,2023-07-25,current,33,33,33,,,,,eligible,eligible,ehr_fields,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,smoking_adjacent_distractor
+MS0656,78,F,2025-06-27,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,alcohol_quit_distractor
+MS0657,65,F,2024-11-05,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,brief telehealth note,lung cancer screening shared decision-making visit,future_quit_date;py_not_determinable
+MS0658,69,M,2023-12-09,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,telehealth visit for medication refills,
+MS0659,59,F,2026-02-21,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,lung cancer screening shared decision-making visit,
+MS0660,74,M,2023-07-05,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,hospital discharge follow-up after pneumonia,py_not_determinable
+MS0661,62,M,2025-08-08,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,chest pain evaluation,unknown_status
+MS0662,64,F,2026-03-13,former,31,31,31,2023,year,2023,2023,eligible,eligible,cpd_years,year,history and physical,urgent care visit for cough,
+MS0663,76,M,2026-02-16,former,77,77,77,2008,year,2008,2008,not_eligible,eligible,stated,event,nurse intake followed by a physician progress note,annual wellness visit,
+MS0664,52,M,2025-06-26,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,peripheral artery disease evaluation,
+MS0665,75,F,2023-04-17,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,heart failure follow-up,smoking_adjacent_distractor
+MS0666,61,M,2025-12-02,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,urgent care visit for cough,smoking_adjacent_distractor
+MS0667,58,F,2025-05-31,former,21,21,21,2006,year,2006,2006,not_eligible,eligible,ppd_years,year,physician progress note,geriatric assessment,copied_forward_prior_status
+MS0668,79,M,2024-05-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,
+MS0669,66,F,2024-06-18,former,26,26,26,2009,year,2008,2010,eligible|not_eligible,eligible,stated,years_ago,nurse intake followed by a physician progress note,urgent care visit for cough,relative_quit;stale_template_contradicted
+MS0670,65,F,2026-05-22,former,19.5,19.5,19.5,1993,year,1993,1993,not_eligible,not_eligible,ehr_fields,year,brief telehealth note,chest pain evaluation,
+MS0671,72,F,2025-01-16,current,55,55,55,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,peripheral artery disease evaluation,alcohol_quit_distractor
+MS0672,64,M,2024-09-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0673,66,F,2024-12-21,former,67,67,67,2020,year,2020,2020,eligible,eligible,stated,year,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0674,77,M,2024-07-17,current,4.5,4.5,4.5,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,
+MS0675,50,F,2024-08-14,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,pre-operative evaluation for knee replacement,unknown_status
+MS0676,59,M,2024-06-05,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,resident note with attending attestation,telehealth visit for medication refills,py_not_determinable
+MS0677,73,M,2025-06-21,current,53,50,53,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,new patient visit to establish care,prior_quit_then_relapse
+MS0678,56,M,2025-02-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,urgent care visit for cough,
+MS0679,74,M,2025-12-22,former,,,,2012,year,2011,2013,insufficient,insufficient,insufficient_duration_only,years_ago,consult note / letter to the referring physician,annual wellness visit,py_not_determinable;relative_quit
+MS0680,54,M,2024-02-03,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,history and physical,COPD follow-up,alcohol_quit_distractor;copied_forward_prior_status;py_not_determinable
+MS0681,62,M,2026-06-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0682,53,F,2023-03-16,former,94,94,94,2004,approximate,2003,2006,not_eligible,eligible,stated,decade,resident note with attending attestation,geriatric assessment,
+MS0683,59,F,2023-10-30,current,22,20.5,22,,,,,eligible,eligible,ehr_fields,not_applicable,resident note with attending attestation,telehealth visit for medication refills,prior_quit_then_relapse
+MS0684,50,M,2025-12-06,former,57,57,57,2023,year,2022,2024,eligible,eligible,stated,years_ago,nurse practitioner progress note,geriatric assessment,relative_quit
+MS0685,66,F,2025-10-08,current,73.5,73.5,73.5,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0686,61,F,2025-02-22,former,60,60,60,2020,year,2020,2020,eligible,eligible,stated,event,physician progress note,chest pain evaluation,
+MS0687,79,M,2023-07-22,current,39,39,39,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,follow-up of an incidental lung nodule,
+MS0688,63,M,2025-04-04,former,41,41,41,2010-09,month,2010,2010,eligible,eligible,stated,month_year,nurse practitioner progress note,lung cancer screening shared decision-making visit,copied_forward_prior_status
+MS0689,55,M,2023-01-24,former,76,76,76,2022-07,month,2022,2022,eligible,eligible,stated,months_ago,brief telehealth note,follow-up of an incidental lung nodule,copied_forward_prior_status;relative_quit
+MS0690,72,M,2024-07-06,former,14.25,14,14.5,2023,year,2023,2023,not_eligible,not_eligible,age_to_age,event,resident note with attending attestation,heart failure follow-up,
+MS0691,58,M,2025-11-26,former,21.5,21.5,21.5,2025-01-14,day,2025,2025,eligible,eligible,ppd_years,full_date,brief telehealth note,COPD follow-up,
+MS0692,72,F,2023-05-08,former,13,13,13,2006,year,2006,2006,not_eligible,not_eligible,stated,year,resident note with attending attestation,COPD follow-up,copied_forward_prior_status
+MS0693,55,M,2023-10-28,former,104,104,104,2014,year,2014,2014,eligible,eligible,stated,year,brief telehealth note,chest pain evaluation,
+MS0694,70,F,2026-06-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,
+MS0695,62,M,2025-08-17,current,32.25,31.5,33,,,,,eligible,eligible,since_age,not_applicable,history and physical,new patient visit to establish care,
+MS0696,60,M,2025-05-24,former,100,100,100,,,,,insufficient,eligible,stated,not_documented,resident note with attending attestation,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0697,74,M,2024-04-19,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,nurse practitioner progress note,lung cancer screening shared decision-making visit,py_not_determinable
+MS0698,53,F,2026-05-31,former,26,26,26,2020-04,month,2020,2020,eligible,eligible,ehr_fields,month_year,nurse practitioner progress note,pre-operative evaluation for knee replacement,
+MS0699,74,M,2023-05-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0700,58,M,2024-11-28,former,70,56,84,2015,year,2015,2015,eligible,eligible,range,year,brief telehealth note,heart failure follow-up,alcohol_quit_distractor
+MS0701,68,M,2025-11-10,current,92,92,92,,,,,eligible,eligible,stated,not_applicable,history and physical,COPD follow-up,stale_template_contradicted
+MS0702,56,F,2023-04-21,current,25,25,25,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,prior_quit_then_relapse
+MS0703,65,F,2024-10-14,former,51,51,51,2019-04,month,2019,2019,eligible,eligible,stated,month_year,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,smoking_adjacent_distractor
+MS0704,53,M,2025-07-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,chest pain evaluation,
+MS0705,66,F,2026-03-16,former,28,28,28,,,,,insufficient,eligible,stated,not_documented,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0706,77,F,2024-03-15,former,43,43,43,2011,year,2011,2011,eligible,eligible,ppd_years,year,nurse practitioner progress note,urgent care visit for cough,
+MS0707,71,M,2026-05-16,former,13,13,13,2011,year,2010,2012,not_eligible,not_eligible,stated,years_ago,physician progress note,heart failure follow-up,relative_quit
+MS0708,79,F,2024-07-31,former,11.25,11.25,11.25,2009,year,2009,2009,not_eligible,not_eligible,ppd_years,year,consult note / letter to the referring physician,telehealth visit for medication refills,copied_forward_prior_status
+MS0709,79,F,2024-02-15,former,,,,2022-03,month,2022,2022,insufficient,insufficient,insufficient_vague,month_year,nurse practitioner progress note,lung cancer screening shared decision-making visit,alcohol_quit_distractor;py_not_determinable
+MS0710,65,M,2023-10-28,former,,,,2001,year,2001,2001,not_eligible,insufficient,insufficient_vague,year,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,py_not_determinable;stale_template_contradicted
+MS0711,73,M,2025-11-02,current,3,3,3,,,,,not_eligible,not_eligible,cpd_years,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,smoking_adjacent_distractor
+MS0712,77,M,2025-11-04,current,105,105,105,,,,,eligible,eligible,stated,not_applicable,physician progress note,new patient visit to establish care,alcohol_quit_distractor;copied_forward_prior_status;smoking_adjacent_distractor
+MS0713,72,F,2024-02-04,former,,,,2021,year,2020,2022,insufficient,insufficient,insufficient_vague,years_ago,brief telehealth note,urgent care visit for cough,py_not_determinable;relative_quit
+MS0714,59,M,2026-06-21,former,38,38,38,2011-03,month,2011,2011,eligible,eligible,stated,month_year,history and physical,new patient visit to establish care,alcohol_quit_distractor
+MS0715,80,M,2025-05-28,current,94.5,93,94.5,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,chest pain evaluation,prior_quit_then_relapse;stale_template_contradicted
+MS0716,60,M,2025-01-12,current,12.9,12.9,12.9,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,lung cancer screening shared decision-making visit,future_quit_date
+MS0717,80,F,2024-04-09,current,41,41,41,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,stale_template_contradicted
+MS0718,75,F,2025-10-28,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,annual wellness visit,smoking_adjacent_distractor
+MS0719,72,F,2024-06-30,current,82.5,55,110,,,,,eligible,eligible,range,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,
+MS0720,50,F,2025-04-01,current,14,14,14,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,pre-operative evaluation for knee replacement,
+MS0721,51,F,2024-11-16,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,history and physical,chest pain evaluation,py_not_determinable
+MS0722,80,M,2025-06-16,current,24,24,24,,,,,eligible,eligible,stated,not_applicable,history and physical,telehealth visit for medication refills,alcohol_quit_distractor
+MS0723,64,F,2025-03-12,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,unknown_status
+MS0724,53,F,2026-03-04,former,19,19,19,2007,year,2006,2008,not_eligible,not_eligible,stated,years_ago,resident note with attending attestation,geriatric assessment,copied_forward_prior_status;relative_quit
+MS0725,66,F,2024-05-11,former,,,,2009,year,2008,2010,insufficient|not_eligible,insufficient,insufficient_vague,at_age,physician progress note,chest pain evaluation,age_based_quit;copied_forward_prior_status;py_not_determinable
+MS0726,52,F,2026-03-05,current,23,23,23,,,,,eligible,eligible,stated,not_applicable,physician progress note,peripheral artery disease evaluation,
+MS0727,74,F,2026-01-11,former,28,28,28,1998,approximate,1997,1999,not_eligible,eligible,ehr_fields,decade,history and physical,heart failure follow-up,
+MS0728,50,F,2025-02-20,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,lung cancer screening shared decision-making visit,unknown_status;unknown_with_distractor
+MS0729,75,F,2024-07-30,former,40,32,48,,,,,insufficient,eligible,range,not_documented,history and physical,heart failure follow-up,
+MS0730,51,M,2026-04-02,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,telehealth visit for medication refills,unknown_status;unknown_with_distractor
+MS0731,75,F,2023-06-02,former,82,82,82,2010,year,2010,2010,eligible,eligible,stated,year,consult note / letter to the referring physician,annual wellness visit,copied_forward_prior_status
+MS0732,75,F,2024-06-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0733,76,F,2026-04-25,former,23,23,23,,,,,insufficient,eligible,stated,not_documented,nurse intake followed by a physician progress note,chest pain evaluation,copied_forward_prior_status
+MS0734,70,F,2023-06-10,current,45,45,45,,,,,eligible,eligible,stated,not_applicable,physician progress note,new patient visit to establish care,
+MS0735,60,M,2023-07-21,current,45,36,54,,,,,eligible,eligible,range,not_applicable,resident note with attending attestation,follow-up of an incidental lung nodule,
+MS0736,60,M,2026-01-27,former,43,43,43,2019,year,2019,2019,eligible,eligible,stated,event,brief telehealth note,follow-up of an incidental lung nodule,
+MS0737,64,M,2025-12-18,former,,,,1995-12,month,1995,1995,not_eligible,insufficient,insufficient_rate_only,month_year,physician progress note,telehealth visit for medication refills,py_not_determinable
+MS0738,64,F,2024-04-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,geriatric assessment,
+MS0739,60,M,2025-12-21,current,25.2,24,25.2,,,,,eligible,eligible,cpd_years,not_applicable,physician progress note,urgent care visit for cough,prior_quit_then_relapse
+MS0740,66,M,2026-03-29,former,7.5,7.5,7.5,2004-10,month,2004,2004,not_eligible,not_eligible,cpd_years,month_year,resident note with attending attestation,primary care follow-up for hypertension and diabetes,
+MS0741,71,M,2024-11-03,current,73,73,73,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,lung cancer screening shared decision-making visit,future_quit_date
+MS0742,55,M,2025-04-27,current,96,96,96,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,new patient visit to establish care,copied_forward_prior_status
+MS0743,75,M,2024-02-24,former,63,42,84,2006-04,month,2006,2006,not_eligible,eligible,range,month_year,brief telehealth note,primary care follow-up for hypertension and diabetes,
+MS0744,56,F,2026-01-08,current,80,78,82,,,,,eligible,eligible,since_age,not_applicable,nurse practitioner progress note,follow-up of an incidental lung nodule,
+MS0745,71,F,2023-01-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,annual wellness visit,
+MS0746,60,M,2024-01-03,former,12,12,12,2011-10,month,2011,2011,not_eligible,not_eligible,ppd_years,month_year,nurse practitioner progress note,geriatric assessment,
+MS0747,76,F,2025-01-30,former,55.5,54,57,2005,year,2004,2006,not_eligible,eligible,age_to_age,years_ago,brief telehealth note,heart failure follow-up,relative_quit
+MS0748,60,M,2025-10-14,current,46,46,46,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,new patient visit to establish care,copied_forward_prior_status
+MS0749,52,F,2025-09-22,former,27,24,30,2008,year,2008,2008,not_eligible,eligible,age_to_age,year,consult note / letter to the referring physician,telehealth visit for medication refills,
+MS0750,56,M,2024-04-30,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,peripheral artery disease evaluation,unknown_status
+MS0751,66,M,2025-06-20,former,60,60,60,2010-03-02,day,2010,2010,eligible,eligible,ehr_fields,full_date,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0752,72,M,2025-04-05,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,lung cancer screening shared decision-making visit,unknown_status
+MS0753,51,F,2025-05-02,current,35,35,35,,,,,eligible,eligible,stated,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0754,74,F,2023-05-18,former,6.8,6.8,6.8,1985,year,1985,1985,not_eligible,not_eligible,cpd_years,year,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0755,65,M,2024-10-30,current,19,19,19,,,,,not_eligible,not_eligible,stated,not_applicable,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0756,74,M,2025-01-31,former,25.5,24.75,26.25,2005,year,2004,2006,not_eligible,eligible,age_to_age,stop_age_in_smoking_history,history and physical,COPD follow-up,copied_forward_prior_status;quit_date_in_smoking_history
+MS0757,62,M,2026-01-02,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,COPD follow-up,smoking_adjacent_distractor
+MS0758,63,F,2024-08-18,current,21.5,21,22,,,,,eligible,eligible,since_age,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,future_quit_date
+MS0759,61,M,2024-08-04,former,24,24,24,2019,year,2019,2019,eligible,eligible,ppd_years,event,history and physical,heart failure follow-up,
+MS0760,63,M,2024-09-21,former,25.5,25.5,25.5,2012,approximate,2010,2013,eligible,eligible,ehr_fields,decade,physician progress note,annual wellness visit,
+MS0761,55,F,2023-06-28,current,38,38,38,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,chest pain evaluation,
+MS0762,71,F,2026-05-26,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,geriatric assessment,
+MS0763,66,F,2026-04-01,current,47,47,47,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,future_quit_date
+MS0764,65,F,2023-12-26,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,COPD follow-up,unknown_status
+MS0765,78,F,2023-12-09,former,48,48,48,2010,year,2009,2011,eligible,eligible,stated,years_ago,resident note with attending attestation,COPD follow-up,relative_quit
+MS0766,78,M,2024-07-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0767,78,F,2023-10-15,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,primary care follow-up for hypertension and diabetes,unknown_status;unknown_with_distractor
+MS0768,68,F,2023-04-21,former,15,15,15,1996,year,1995,1997,not_eligible,not_eligible,cpd_years,at_age,consult note / letter to the referring physician,geriatric assessment,age_based_quit
+MS0769,67,M,2023-06-07,former,104,104,104,2003,year,2002,2004,not_eligible,eligible,stated,years_ago,history and physical,peripheral artery disease evaluation,alcohol_quit_distractor;copied_forward_prior_status;relative_quit
+MS0770,57,M,2025-09-28,current,15,15,15,,,,,not_eligible,not_eligible,stated,not_applicable,physician progress note,chest pain evaluation,
+MS0771,76,M,2025-04-26,current,42.75,42.75,42.75,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,telehealth visit for medication refills,stale_template_contradicted
+MS0772,52,F,2024-09-06,former,17,17,17,,,,,not_eligible,not_eligible,ehr_fields,not_documented,physician progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0773,60,M,2025-01-18,current,21,21,21,,,,,eligible,eligible,stated,not_applicable,resident note with attending attestation,telehealth visit for medication refills,
+MS0774,56,F,2024-11-16,current,27,17,36,,,,,eligible|not_eligible,eligible|not_eligible,range,not_applicable,consult note / letter to the referring physician,hospital discharge follow-up after pneumonia,copied_forward_prior_status;prior_quit_then_relapse
+MS0775,75,M,2025-06-12,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,alcohol_quit_distractor;py_not_determinable
+MS0776,51,M,2024-10-01,current,23.25,15.5,31,,,,,eligible|not_eligible,eligible|not_eligible,range,not_applicable,brief telehealth note,follow-up of an incidental lung nodule,copied_forward_prior_status;future_quit_date
+MS0777,74,F,2025-11-22,former,24,24,24,2023,year,2022,2024,eligible,eligible,stated,at_age,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,age_based_quit
+MS0778,77,F,2025-06-18,current,15,15,15,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,new patient visit to establish care,
+MS0779,50,F,2026-03-04,former,16,16,16,2009-01,month,2009,2009,not_eligible,not_eligible,cpd_years,month_year,nurse practitioner progress note,new patient visit to establish care,
+MS0780,70,M,2023-06-26,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,alcohol_quit_distractor;prior_quit_then_relapse;py_not_determinable
+MS0781,54,M,2025-06-26,former,21,20,22,2009,year,2008,2010,eligible|not_eligible,eligible,age_to_age,at_age,nurse practitioner progress note,hospital discharge follow-up after pneumonia,age_based_quit
+MS0782,70,F,2026-03-04,current,75,75,75,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,annual wellness visit,
+MS0783,58,M,2025-03-29,current,2,2,2,,,,,not_eligible,not_eligible,stated,not_applicable,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,
+MS0784,80,M,2024-12-10,former,,,,2017,year,2017,2017,insufficient,insufficient,insufficient_duration_only,event,physician progress note,urgent care visit for cough,py_not_determinable
+MS0785,63,M,2024-04-18,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,pre-operative evaluation for knee replacement,unknown_status
+MS0786,65,M,2023-02-14,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,physician progress note,follow-up of an incidental lung nodule,future_quit_date;py_not_determinable;smoking_adjacent_distractor
+MS0787,50,M,2026-03-19,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,new patient visit to establish care,smoking_adjacent_distractor
+MS0788,70,F,2023-09-15,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,COPD follow-up,unknown_status
+MS0789,74,M,2023-03-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,urgent care visit for cough,
+MS0790,68,F,2023-04-25,former,10.5,10.5,10.5,2021,year,2021,2021,not_eligible,not_eligible,ppd_years,event,nurse practitioner progress note,lung cancer screening shared decision-making visit,
+MS0791,62,M,2025-08-02,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,new patient visit to establish care,
+MS0792,54,M,2023-12-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,
+MS0793,66,F,2023-04-15,current,50,50,50,,,,,eligible,eligible,stated,not_applicable,physician progress note,primary care follow-up for hypertension and diabetes,
+MS0794,79,M,2025-07-16,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,primary care follow-up for hypertension and diabetes,smoking_adjacent_distractor
+MS0795,50,M,2024-10-12,former,,,,2009-04,month,2009,2009,insufficient,insufficient,insufficient_vague,month_year,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status;py_not_determinable
+MS0796,71,F,2025-02-26,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,prior_quit_then_relapse;py_not_determinable
+MS0797,56,M,2024-10-22,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,geriatric assessment,smoking_adjacent_distractor
+MS0798,52,M,2025-08-14,former,3.5,3,4,2001,year,2001,2001,not_eligible,not_eligible,age_to_age,year,resident note with attending attestation,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0799,54,F,2023-07-27,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,brief telehealth note,peripheral artery disease evaluation,py_not_determinable
+MS0800,54,F,2025-04-03,former,15,15,15,1991-04,month,1991,1991,not_eligible,not_eligible,stated,month_year,nurse practitioner progress note,hospital discharge follow-up after pneumonia,
+MS0801,68,M,2025-01-22,current,75,75,75,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor;prior_quit_then_relapse
+MS0802,70,F,2026-01-22,current,73.5,73.5,73.5,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,copied_forward_prior_status
+MS0803,78,F,2026-06-05,former,38,38,38,2001,year,2001,2001,not_eligible,eligible,stated,year,resident note with attending attestation,lung cancer screening shared decision-making visit,
+MS0804,56,F,2024-05-14,former,15,15,15,2008,approximate,2007,2009,not_eligible,not_eligible,ppd_years,decade,resident note with attending attestation,heart failure follow-up,
+MS0805,67,F,2025-01-09,former,21,21,21,,,,,insufficient,eligible,cpd_years,not_documented,nurse intake followed by a physician progress note,telehealth visit for medication refills,
+MS0806,57,M,2025-12-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,lung cancer screening shared decision-making visit,
+MS0807,61,F,2025-03-28,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,heart failure follow-up,unknown_status;unknown_with_distractor
+MS0808,64,F,2023-11-14,former,15.5,15.5,15.5,2008,year,2008,2008,not_eligible,not_eligible,cpd_years,year,physician progress note,follow-up of an incidental lung nodule,
+MS0809,73,F,2025-08-31,former,36,36,36,2013,year,2012,2014,eligible,eligible,stated,at_age,consult note / letter to the referring physician,urgent care visit for cough,age_based_quit
+MS0810,66,F,2023-03-15,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,
+MS0811,51,F,2024-04-30,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,annual wellness visit,
+MS0812,52,F,2024-01-31,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0813,65,M,2026-06-28,current,32,32,32,,,,,eligible,eligible,stated,not_applicable,physician progress note,chest pain evaluation,copied_forward_prior_status
+MS0814,67,F,2025-04-26,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,
+MS0815,50,F,2026-02-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor
+MS0816,76,F,2023-12-08,current,52,52,52,,,,,eligible,eligible,ehr_fields,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,
+MS0817,70,F,2024-06-12,current,81,79.5,81,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,lung cancer screening shared decision-making visit,copied_forward_prior_status;prior_quit_then_relapse
+MS0818,75,F,2023-01-17,former,13.5,13.5,13.5,,,,,not_eligible,not_eligible,ehr_fields,not_documented,nurse practitioner progress note,primary care follow-up for hypertension and diabetes,
+MS0819,59,F,2024-12-18,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0820,77,F,2026-06-19,current,17,17,17,,,,,not_eligible,not_eligible,stated,not_applicable,resident note with attending attestation,COPD follow-up,alcohol_quit_distractor
+MS0821,66,F,2025-04-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,primary care follow-up for hypertension and diabetes,smoking_adjacent_distractor
+MS0822,69,F,2024-02-17,current,9,9,9,,,,,not_eligible,not_eligible,stated,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,future_quit_date
+MS0823,79,M,2023-10-15,current,91,91,91,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,heart failure follow-up,
+MS0824,63,M,2025-06-19,current,56,56,56,,,,,eligible,eligible,stated,not_applicable,history and physical,chest pain evaluation,
+MS0825,66,M,2023-12-11,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,
+MS0826,78,M,2025-09-26,former,97.5,95,100,2005,year,2004,2006,not_eligible,eligible,age_to_age,years_ago,nurse intake followed by a physician progress note,new patient visit to establish care,relative_quit
+MS0827,72,F,2024-07-03,former,13.5,13.5,13.5,2015,year,2015,2015,not_eligible,not_eligible,cpd_years,year,nurse intake followed by a physician progress note,peripheral artery disease evaluation,
+MS0828,69,F,2025-11-02,current,23.5,23.5,23.5,,,,,eligible,eligible,ppd_years,not_applicable,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;future_quit_date
+MS0829,80,F,2026-01-21,former,55,44,66,2013,year,2013,2013,eligible,eligible,range,year,brief telehealth note,heart failure follow-up,copied_forward_prior_status
+MS0830,63,F,2025-05-12,current,22,22,22,,,,,eligible,eligible,cpd_years,not_applicable,history and physical,peripheral artery disease evaluation,
+MS0831,62,M,2023-05-05,former,14,14,14,2012,year,2012,2012,not_eligible,not_eligible,ppd_years,year,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0832,64,F,2024-09-14,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,
+MS0833,68,M,2025-07-01,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,heart failure follow-up,unknown_status
+MS0834,74,F,2025-08-20,former,15.5,15.5,15.5,2001,year,2000,2002,not_eligible,not_eligible,cpd_years,years_ago,history and physical,telehealth visit for medication refills,relative_quit
+MS0835,78,M,2024-05-12,current,85.5,85.5,85.5,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,
+MS0836,59,F,2024-10-06,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,annual wellness visit,unknown_status
+MS0837,59,M,2024-04-13,former,,,,2014-05,month,2014,2014,insufficient,insufficient,insufficient_rate_only,month_year,brief telehealth note,annual wellness visit,py_not_determinable
+MS0838,66,F,2023-11-13,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,alcohol_quit_distractor
+MS0839,52,F,2024-01-03,former,7,7,7,2004,year,2003,2005,not_eligible,not_eligible,cpd_years,years_ago,nurse practitioner progress note,new patient visit to establish care,relative_quit
+MS0840,79,F,2025-04-05,current,53,53,53,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,telehealth visit for medication refills,
+MS0841,50,M,2025-02-24,former,6,6,6,2023,year,2022,2024,not_eligible,not_eligible,cpd_years,years_ago,brief telehealth note,pre-operative evaluation for knee replacement,relative_quit
+MS0842,80,F,2023-06-17,current,9,9,9,,,,,not_eligible,not_eligible,stated,not_applicable,history and physical,lung cancer screening shared decision-making visit,
+MS0843,63,M,2023-03-13,current,27,27,27,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status;smoking_adjacent_distractor
+MS0844,76,F,2023-03-25,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,unknown_status
+MS0845,78,F,2024-02-12,former,26,26,26,2011,year,2011,2011,eligible,eligible,stated,year,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status
+MS0846,71,M,2025-02-01,former,17,17,17,,,,,not_eligible,not_eligible,stated,not_documented,nurse practitioner progress note,heart failure follow-up,smoking_adjacent_distractor
+MS0847,59,F,2025-03-22,current,11,11,11,,,,,not_eligible,not_eligible,ppd_years,not_applicable,physician progress note,primary care follow-up for hypertension and diabetes,copied_forward_prior_status;future_quit_date
+MS0848,79,M,2026-05-19,current,14,14,14,,,,,not_eligible,not_eligible,ehr_fields,not_applicable,nurse practitioner progress note,annual wellness visit,alcohol_quit_distractor
+MS0849,66,M,2025-09-12,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,telehealth visit for medication refills,alcohol_quit_distractor
+MS0850,61,M,2024-05-22,former,,,,2021-01,month,2021,2021,insufficient,insufficient,insufficient_duration_only,month_year,resident note with attending attestation,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor;py_not_determinable
+MS0851,55,F,2025-12-29,former,23,23,23,2013,year,2012,2014,eligible,eligible,ppd_years,years_ago,physician progress note,telehealth visit for medication refills,alcohol_quit_distractor;relative_quit
+MS0852,53,F,2025-10-15,former,,,,2021,year,2020,2022,insufficient,insufficient,insufficient_duration_only,at_age,nurse practitioner progress note,chest pain evaluation,age_based_quit;py_not_determinable
+MS0853,62,M,2023-10-28,former,30,24,36,1989-08-15,day,1989,1989,not_eligible,eligible,range,full_date,nurse practitioner progress note,new patient visit to establish care,
+MS0854,67,F,2024-08-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,geriatric assessment,
+MS0855,78,F,2026-03-02,former,,,,2012,approximate,2010,2013,insufficient|not_eligible,insufficient,insufficient_rate_only,decade,resident note with attending attestation,chest pain evaluation,py_not_determinable
+MS0856,80,M,2025-08-18,former,63,62,64,2025-02,month,2025,2025,eligible,eligible,age_to_age,month_year,consult note / letter to the referring physician,ED-to-clinic follow-up after a COPD exacerbation,smoking_adjacent_distractor
+MS0857,76,F,2026-02-20,current,25,25,25,,,,,eligible,eligible,stated,not_applicable,physician progress note,chest pain evaluation,copied_forward_prior_status
+MS0858,58,M,2023-11-10,former,57.5,46,69,,,,,insufficient,eligible,range,not_documented,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,copied_forward_prior_status
+MS0859,79,F,2025-02-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,lung cancer screening shared decision-making visit,
+MS0860,55,F,2025-06-22,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,unknown_status
+MS0861,62,M,2024-11-07,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,resident note with attending attestation,primary care follow-up for hypertension and diabetes,py_not_determinable
+MS0862,57,M,2023-01-19,former,,,,,,,,insufficient,insufficient,insufficient_vague,not_documented,resident note with attending attestation,heart failure follow-up,py_not_determinable;stale_template_contradicted
+MS0863,79,F,2024-12-04,former,30,29.5,30.5,2020-10,month,2020,2020,eligible,eligible,age_to_age,month_year,brief telehealth note,urgent care visit for cough,
+MS0864,56,F,2023-04-07,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,
+MS0865,62,F,2024-03-01,former,54,54,54,,,,,insufficient,eligible,ppd_years,not_documented,history and physical,telehealth visit for medication refills,
+MS0866,64,M,2024-02-05,current,49,49,49,,,,,eligible,eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,chest pain evaluation,alcohol_quit_distractor;future_quit_date
+MS0867,70,F,2026-04-05,current,36.75,36.75,36.75,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,heart failure follow-up,
+MS0868,80,F,2025-01-30,former,92.5,74,111,2000,year,2000,2000,not_eligible,eligible,range,year,resident note with attending attestation,chest pain evaluation,
+MS0869,54,F,2023-05-26,former,16.5,16.5,16.5,2021,year,2020,2022,not_eligible,not_eligible,ppd_years,years_ago,brief telehealth note,heart failure follow-up,relative_quit
+MS0870,66,F,2023-11-29,former,,,,2006,year,2005,2007,not_eligible,insufficient,insufficient_rate_only,at_age,resident note with attending attestation,pre-operative evaluation for knee replacement,age_based_quit;py_not_determinable
+MS0871,76,F,2025-11-13,current,120,118,122,,,,,eligible,eligible,since_age,not_applicable,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;copied_forward_prior_status;prior_quit_then_relapse;smoking_adjacent_distractor
+MS0872,51,F,2023-10-15,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,annual wellness visit,unknown_status
+MS0873,75,F,2024-12-29,former,63,63,63,2013,year,2013,2013,eligible,eligible,stated,year,nurse practitioner progress note,hospital discharge follow-up after pneumonia,
+MS0874,74,M,2023-04-15,former,50,50,50,,,,,insufficient,eligible,stated,not_documented,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,
+MS0875,55,M,2024-05-18,former,65,65,65,,,,,insufficient,eligible,stated,not_documented,nurse intake followed by a physician progress note,heart failure follow-up,alcohol_quit_distractor
+MS0876,74,M,2025-12-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,smoking_adjacent_distractor
+MS0877,76,F,2023-08-01,current,90,88.5,91.5,,,,,eligible,eligible,since_age,not_applicable,physician progress note,lung cancer screening shared decision-making visit,prior_quit_then_relapse
+MS0878,67,M,2025-08-06,current,22.5,22.5,22.5,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,
+MS0879,57,M,2023-12-22,current,19.5,19.5,19.5,,,,,not_eligible,not_eligible,cpd_years,not_applicable,history and physical,peripheral artery disease evaluation,
+MS0880,71,M,2025-10-30,former,,,,1990-10-25,day,1990,1990,not_eligible,insufficient,insufficient_duration_only,full_date,resident note with attending attestation,COPD follow-up,alcohol_quit_distractor;py_not_determinable;stale_template_contradicted
+MS0881,57,M,2025-05-26,former,,,,2016,year,2016,2016,insufficient,insufficient,insufficient_rate_only,year,consult note / letter to the referring physician,chest pain evaluation,copied_forward_prior_status;py_not_determinable
+MS0882,68,F,2025-03-19,former,61,61,61,2009,year,2009,2009,not_eligible,eligible,stated,year,nurse practitioner progress note,COPD follow-up,smoking_adjacent_distractor
+MS0883,59,M,2026-04-06,former,,,,2008,approximate,2007,2009,not_eligible,insufficient,insufficient_duration_only,decade,history and physical,urgent care visit for cough,alcohol_quit_distractor;copied_forward_prior_status;py_not_determinable
+MS0884,55,F,2023-10-19,former,46,46,46,1988,approximate,1987,1989,not_eligible,eligible,stated,decade,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0885,51,F,2023-08-31,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,smoking_adjacent_distractor
+MS0886,69,M,2025-07-21,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,smoking_adjacent_distractor
+MS0887,67,F,2024-04-02,former,,,,1992-03,month,1992,1992,not_eligible,insufficient,insufficient_duration_only,month_year,nurse intake followed by a physician progress note,COPD follow-up,py_not_determinable
+MS0888,70,F,2024-12-07,former,16,16,16,1999,year,1999,1999,not_eligible,not_eligible,cpd_years,year,physician progress note,lung cancer screening shared decision-making visit,
+MS0889,69,M,2025-12-17,former,35,28,42,2006,year,2006,2006,not_eligible,eligible,range,event,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,stale_template_contradicted
+MS0890,51,M,2023-02-07,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,brief telehealth note,COPD follow-up,py_not_determinable
+MS0891,72,F,2023-10-03,former,30,30,30,1989,year,1989,1989,not_eligible,eligible,stated,year,history and physical,urgent care visit for cough,
+MS0892,59,M,2023-02-22,current,19.5,19.5,19.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,resident note with attending attestation,telehealth visit for medication refills,copied_forward_prior_status
+MS0893,75,M,2025-07-04,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,primary care follow-up for hypertension and diabetes,unknown_status
+MS0894,56,F,2023-02-02,current,54,54,54,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0895,57,M,2025-01-01,former,24.75,24,25.5,2015,year,2014,2016,eligible,eligible,age_to_age,years_ago,nurse intake followed by a physician progress note,geriatric assessment,relative_quit
+MS0896,70,F,2025-02-02,former,51.25,41,61.5,2018,year,2017,2019,eligible,eligible,range,years_ago,history and physical,geriatric assessment,relative_quit
+MS0897,65,M,2023-05-15,current,11.5,11.25,11.75,,,,,not_eligible,not_eligible,since_age,not_applicable,resident note with attending attestation,annual wellness visit,copied_forward_prior_status
+MS0898,77,M,2025-12-24,former,72,72,72,2006,year,2006,2006,not_eligible,eligible,ehr_fields,year,consult note / letter to the referring physician,heart failure follow-up,alcohol_quit_distractor
+MS0899,55,F,2023-04-21,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,new patient visit to establish care,unknown_status;unknown_with_distractor
+MS0900,76,F,2025-04-11,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,copied_forward_prior_status;py_not_determinable
+MS0901,51,M,2026-04-01,former,72,72,72,2021-06,month,2021,2021,eligible,eligible,ehr_fields,month_year,resident note with attending attestation,lung cancer screening shared decision-making visit,
+MS0902,70,F,2026-03-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,chest pain evaluation,
+MS0903,70,F,2023-01-31,former,22,22,22,1989,year,1988,1990,not_eligible,eligible,stated,at_age,physician progress note,annual wellness visit,age_based_quit
+MS0904,67,F,2024-03-10,former,10,10,10,,,,,not_eligible,not_eligible,cpd_years,not_documented,history and physical,pre-operative evaluation for knee replacement,alcohol_quit_distractor;copied_forward_prior_status
+MS0905,55,F,2026-05-12,former,26.25,25.5,27,2025,year,2024,2026,eligible,eligible,age_to_age,stop_age_in_smoking_history,nurse practitioner progress note,heart failure follow-up,quit_date_in_smoking_history
+MS0906,58,F,2025-09-20,current,92.5,85,92.5,,,,,eligible,eligible,ppd_years,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,prior_quit_then_relapse
+MS0907,54,F,2024-09-03,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,follow-up of an incidental lung nodule,smoking_adjacent_distractor
+MS0908,72,M,2025-05-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0909,62,M,2025-02-15,current,33,33,33,,,,,eligible,eligible,ehr_fields,not_applicable,physician progress note,follow-up of an incidental lung nodule,copied_forward_prior_status;future_quit_date
+MS0910,70,F,2023-11-13,former,17.5,17.5,17.5,2008,year,2007,2009,not_eligible,not_eligible,ppd_years,at_age,physician progress note,hospital discharge follow-up after pneumonia,age_based_quit
+MS0911,53,F,2023-07-31,former,23,23,23,2019,year,2018,2020,eligible,eligible,stated,years_ago,resident note with attending attestation,lung cancer screening shared decision-making visit,alcohol_quit_distractor;relative_quit
+MS0912,72,F,2024-08-18,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status
+MS0913,54,F,2026-03-26,former,,,,2010,year,2010,2010,not_eligible,insufficient,insufficient_rate_only,year,physician progress note,COPD follow-up,py_not_determinable;stale_template_contradicted
+MS0914,73,F,2025-07-30,former,,,,1986-09-04,day,1986,1986,not_eligible,insufficient,insufficient_duration_only,full_date,brief telehealth note,chest pain evaluation,py_not_determinable
+MS0915,69,M,2025-11-12,former,4.6,4.6,4.6,2016,year,2015,2017,not_eligible,not_eligible,cpd_years,at_age,nurse practitioner progress note,COPD follow-up,age_based_quit;alcohol_quit_distractor;stale_template_contradicted
+MS0916,64,F,2023-10-25,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,telehealth visit for medication refills,
+MS0917,62,F,2024-03-20,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse intake followed by a physician progress note,geriatric assessment,unknown_status;unknown_with_distractor
+MS0918,79,M,2026-04-17,current,25.5,24.5,25.5,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,annual wellness visit,future_quit_date;prior_quit_then_relapse
+MS0919,50,F,2023-11-13,current,15,15,15,,,,,not_eligible,not_eligible,stated,not_applicable,resident note with attending attestation,geriatric assessment,
+MS0920,65,F,2025-10-31,current,18.5,17.5,18.5,,,,,not_eligible,not_eligible,ppd_years,not_applicable,history and physical,hospital discharge follow-up after pneumonia,prior_quit_then_relapse
+MS0921,56,M,2025-11-05,former,33,33,33,2010-03,month,2010,2010,eligible,eligible,cpd_years,month_year,nurse practitioner progress note,ED-to-clinic follow-up after a COPD exacerbation,copied_forward_prior_status
+MS0922,65,M,2023-10-10,former,24,24,24,,,,,insufficient,eligible,stated,not_documented,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,alcohol_quit_distractor
+MS0923,54,M,2023-05-15,current,29.25,28.5,30,,,,,eligible,eligible,since_age,not_applicable,consult note / letter to the referring physician,follow-up of an incidental lung nodule,
+MS0924,77,F,2026-05-15,former,27.5,27,28,2020,year,2019,2021,eligible,eligible,age_to_age,years_ago,physician progress note,telehealth visit for medication refills,alcohol_quit_distractor;relative_quit;stale_template_contradicted
+MS0925,57,M,2023-02-11,former,18,18,18,1991,year,1990,1992,not_eligible,not_eligible,stated,at_age,history and physical,lung cancer screening shared decision-making visit,age_based_quit;copied_forward_prior_status
+MS0926,58,F,2024-07-19,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,unknown_status;unknown_with_distractor
+MS0927,59,M,2024-06-21,former,24,24,24,2008,year,2008,2008,not_eligible,eligible,ppd_years,year,nurse intake followed by a physician progress note,annual wellness visit,
+MS0928,53,F,2025-06-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,new patient visit to establish care,
+MS0929,73,M,2024-01-31,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,brief telehealth note,chest pain evaluation,
+MS0930,78,M,2023-07-08,former,23,23,23,2015,year,2014,2016,eligible,eligible,ehr_fields,at_age,nurse practitioner progress note,geriatric assessment,age_based_quit;alcohol_quit_distractor
+MS0931,50,F,2025-02-10,former,13,13,13,2016,year,2016,2016,not_eligible,not_eligible,ppd_years,year,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0932,53,M,2026-02-20,former,21,21,21,2000-04,month,2000,2000,not_eligible,eligible,ppd_years,month_year,physician progress note,pre-operative evaluation for knee replacement,
+MS0933,68,M,2025-05-11,current,11,11,11,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,
+MS0934,57,M,2024-11-29,former,18,12,24,,,,,insufficient|not_eligible,eligible|not_eligible,range,not_documented,nurse practitioner progress note,annual wellness visit,
+MS0935,51,F,2023-05-26,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,brief telehealth note,primary care follow-up for hypertension and diabetes,future_quit_date;py_not_determinable
+MS0936,78,F,2024-06-21,current,22.5,22.5,22.5,,,,,eligible,eligible,cpd_years,not_applicable,history and physical,pre-operative evaluation for knee replacement,
+MS0937,52,F,2025-01-23,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,brief telehealth note,annual wellness visit,py_not_determinable
+MS0938,57,F,2023-08-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor
+MS0939,72,F,2024-03-22,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,new patient visit to establish care,
+MS0940,80,M,2025-12-25,current,13,13,13,,,,,not_eligible,not_eligible,stated,not_applicable,nurse practitioner progress note,chest pain evaluation,copied_forward_prior_status;prior_quit_then_relapse
+MS0941,78,F,2026-04-23,former,,,,1995,year,1995,1995,not_eligible,insufficient,insufficient_rate_only,year,consult note / letter to the referring physician,lung cancer screening shared decision-making visit,py_not_determinable
+MS0942,71,M,2025-09-11,current,73.5,73.5,73.5,,,,,eligible,eligible,ppd_years,not_applicable,history and physical,follow-up of an incidental lung nodule,stale_template_contradicted
+MS0943,65,M,2024-12-20,current,21,21,21,,,,,eligible,eligible,stated,not_applicable,consult note / letter to the referring physician,annual wellness visit,copied_forward_prior_status
+MS0944,75,F,2024-02-29,former,10.25,10.25,10.25,2008,year,2008,2008,not_eligible,not_eligible,ppd_years,year,nurse intake followed by a physician progress note,new patient visit to establish care,
+MS0945,72,F,2023-06-04,former,54,51,57,1984,year,1983,1985,not_eligible,eligible,age_to_age,stop_age_in_smoking_history,brief telehealth note,primary care follow-up for hypertension and diabetes,quit_date_in_smoking_history
+MS0946,79,F,2025-01-22,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status;unknown_with_distractor
+MS0947,70,M,2023-04-14,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,history and physical,geriatric assessment,alcohol_quit_distractor;future_quit_date;py_not_determinable
+MS0948,52,F,2026-03-10,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,COPD follow-up,
+MS0949,70,M,2026-06-01,current,13,13,13,,,,,not_eligible,not_eligible,ppd_years,not_applicable,brief telehealth note,telehealth visit for medication refills,alcohol_quit_distractor
+MS0950,58,M,2023-03-28,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse practitioner progress note,heart failure follow-up,
+MS0951,75,F,2025-02-10,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,history and physical,hospital discharge follow-up after pneumonia,future_quit_date;prior_quit_then_relapse;py_not_determinable
+MS0952,55,F,2026-06-03,former,21.25,21.25,21.25,2010,year,2010,2010,not_eligible,eligible,cpd_years,year,nurse practitioner progress note,urgent care visit for cough,
+MS0953,54,M,2024-05-24,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,COPD follow-up,smoking_adjacent_distractor
+MS0954,80,M,2024-04-21,current,47,47,47,,,,,eligible,eligible,stated,not_applicable,physician progress note,lung cancer screening shared decision-making visit,future_quit_date
+MS0955,78,M,2023-02-16,former,27,27,27,1998,year,1997,1999,not_eligible,eligible,cpd_years,years_ago,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,relative_quit
+MS0956,74,F,2023-03-03,former,76,76,76,1993-06,month,1993,1993,not_eligible,eligible,stated,month_year,brief telehealth note,hospital discharge follow-up after pneumonia,
+MS0957,75,M,2024-03-09,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,history and physical,chest pain evaluation,unknown_status
+MS0958,57,F,2024-10-01,current,92.5,74,111,,,,,eligible,eligible,range,not_applicable,nurse practitioner progress note,annual wellness visit,
+MS0959,80,M,2023-06-07,current,15,15,15,,,,,not_eligible,not_eligible,ppd_years,not_applicable,nurse practitioner progress note,lung cancer screening shared decision-making visit,alcohol_quit_distractor
+MS0960,53,M,2024-03-08,current,22,22,22,,,,,eligible,eligible,stated,not_applicable,history and physical,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor;smoking_adjacent_distractor
+MS0961,63,M,2025-05-27,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,brief telehealth note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor;prior_quit_then_relapse;py_not_determinable
+MS0962,51,M,2025-12-22,former,19.5,19.5,19.5,2018,year,2018,2018,not_eligible,not_eligible,ppd_years,year,nurse intake followed by a physician progress note,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0963,50,F,2024-06-16,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,nurse intake followed by a physician progress note,lung cancer screening shared decision-making visit,py_not_determinable
+MS0964,70,F,2023-05-08,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,annual wellness visit,alcohol_quit_distractor
+MS0965,77,M,2024-01-20,former,,,,2012,approximate,2010,2013,insufficient,insufficient,insufficient_rate_only,decade,resident note with attending attestation,follow-up of an incidental lung nodule,alcohol_quit_distractor;py_not_determinable
+MS0966,76,F,2026-02-09,former,,,,2011-05,month,2011,2011,insufficient,insufficient,insufficient_duration_only,month_year,resident note with attending attestation,urgent care visit for cough,py_not_determinable
+MS0967,51,F,2024-05-21,former,9,9,9,2017-12,month,2017,2017,not_eligible,not_eligible,stated,month_year,physician progress note,lung cancer screening shared decision-making visit,alcohol_quit_distractor;copied_forward_prior_status
+MS0968,61,M,2026-05-21,former,72.5,72.5,72.5,2011,year,2011,2011,eligible,eligible,ppd_years,year,physician progress note,follow-up of an incidental lung nodule,copied_forward_prior_status
+MS0969,56,M,2024-01-07,former,15,15,15,2017,year,2017,2017,not_eligible,not_eligible,cpd_years,year,brief telehealth note,new patient visit to establish care,
+MS0970,70,M,2023-06-27,former,,,,1992-11-08,day,1992,1992,not_eligible,insufficient,insufficient_duration_only,full_date,nurse practitioner progress note,lung cancer screening shared decision-making visit,copied_forward_prior_status;py_not_determinable
+MS0971,65,M,2023-06-01,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,physician progress note,ED-to-clinic follow-up after a COPD exacerbation,
+MS0972,62,M,2025-10-01,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,physician progress note,heart failure follow-up,prior_quit_then_relapse;py_not_determinable
+MS0973,62,M,2026-04-23,former,94,94,94,,,,,insufficient,eligible,stated,not_documented,brief telehealth note,follow-up of an incidental lung nodule,alcohol_quit_distractor
+MS0974,74,F,2024-03-06,former,56,56,56,2011,year,2011,2011,eligible,eligible,stated,year,nurse intake followed by a physician progress note,pre-operative evaluation for knee replacement,
+MS0975,59,F,2023-11-01,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,physician progress note,pre-operative evaluation for knee replacement,unknown_status;unknown_with_distractor
+MS0976,59,M,2026-04-23,current,12.9,12.9,12.9,,,,,not_eligible,not_eligible,cpd_years,not_applicable,nurse practitioner progress note,new patient visit to establish care,
+MS0977,65,M,2025-11-12,current,64.5,43,86,,,,,eligible,eligible,range,not_applicable,brief telehealth note,ED-to-clinic follow-up after a COPD exacerbation,alcohol_quit_distractor
+MS0978,56,M,2025-05-04,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,history and physical,new patient visit to establish care,
+MS0979,77,M,2025-08-18,current,24,24,24,,,,,eligible,eligible,stated,not_applicable,brief telehealth note,heart failure follow-up,
+MS0980,64,M,2025-11-11,former,4.2,4.2,4.2,2002,year,2002,2002,not_eligible,not_eligible,cpd_years,year,resident note with attending attestation,ED-to-clinic follow-up after a COPD exacerbation,
+MS0981,52,F,2023-12-16,current,12,12,12,,,,,not_eligible,not_eligible,stated,not_applicable,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,
+MS0982,75,F,2026-06-17,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,resident note with attending attestation,urgent care visit for cough,
+MS0983,57,F,2023-10-29,current,6,6,6,,,,,not_eligible,not_eligible,stated,not_applicable,consult note / letter to the referring physician,peripheral artery disease evaluation,
+MS0984,52,M,2024-06-28,current,,,,,,,,insufficient,insufficient,insufficient_duration_only,not_applicable,consult note / letter to the referring physician,annual wellness visit,future_quit_date;py_not_determinable
+MS0985,60,M,2023-04-27,current,28,28,28,,,,,eligible,eligible,stated,not_applicable,nurse practitioner progress note,pre-operative evaluation for knee replacement,alcohol_quit_distractor
+MS0986,78,M,2024-08-05,current,14.75,14.75,14.75,,,,,not_eligible,not_eligible,ppd_years,not_applicable,nurse intake followed by a physician progress note,urgent care visit for cough,
+MS0987,77,F,2025-10-20,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,consult note / letter to the referring physician,primary care follow-up for hypertension and diabetes,smoking_adjacent_distractor
+MS0988,53,F,2026-05-11,former,24,24,24,2007,year,2007,2007,not_eligible,eligible,stated,year,consult note / letter to the referring physician,pre-operative evaluation for knee replacement,
+MS0989,66,M,2025-01-03,current,,,,,,,,insufficient,insufficient,insufficient_rate_only,not_applicable,resident note with attending attestation,hospital discharge follow-up after pneumonia,py_not_determinable
+MS0990,55,M,2025-11-05,current,76,74,78,,,,,eligible,eligible,since_age,not_applicable,history and physical,hospital discharge follow-up after pneumonia,smoking_adjacent_distractor
+MS0991,64,F,2025-02-03,former,,,,2013,year,2012,2014,insufficient,insufficient,insufficient_duration_only,years_ago,nurse intake followed by a physician progress note,heart failure follow-up,py_not_determinable;relative_quit
+MS0992,51,M,2024-04-10,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,nurse practitioner progress note,new patient visit to establish care,unknown_status
+MS0993,66,M,2025-12-25,former,,,,2018,year,2017,2019,insufficient,insufficient,insufficient_duration_only,at_age,brief telehealth note,COPD follow-up,age_based_quit;copied_forward_prior_status;py_not_determinable
+MS0994,71,F,2024-09-06,former,43.5,43.5,43.5,2006,year,2006,2006,not_eligible,eligible,ehr_fields,year,nurse intake followed by a physician progress note,follow-up of an incidental lung nodule,
+MS0995,60,F,2025-04-18,current,,,,,,,,insufficient,insufficient,insufficient_vague,not_applicable,history and physical,annual wellness visit,copied_forward_prior_status;py_not_determinable
+MS0996,69,F,2025-04-06,former,14,14,14,2008-03-11,day,2008,2008,not_eligible,not_eligible,stated,full_date,brief telehealth note,heart failure follow-up,
+MS0997,75,M,2024-04-30,current,26,26,26,,,,,eligible,eligible,ppd_years,not_applicable,physician progress note,hospital discharge follow-up after pneumonia,alcohol_quit_distractor
+MS0998,78,M,2023-11-11,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,resident note with attending attestation,lung cancer screening shared decision-making visit,unknown_status
+MS0999,72,M,2025-04-23,unknown,,,,,,,,insufficient,insufficient,not_applicable,not_applicable,consult note / letter to the referring physician,chest pain evaluation,unknown_status;unknown_with_distractor
+MS1000,80,F,2025-10-05,never,0,0,0,,,,,not_eligible,not_eligible,never_smoker_zero,not_applicable,nurse intake followed by a physician progress note,peripheral artery disease evaluation,smoking_adjacent_distractor

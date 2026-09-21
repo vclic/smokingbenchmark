@@ -1,0 +1,84 @@
+Pulmonology Clinic - COPD Follow-Up
+Date of Service: 06/15/2023
+Patient: Ronald Johnson (M) DOB: 01/09/1960 (Age: 63)
+Provider: Laura Castellano, FNP-C
+
+=== NURSE INTAKE ===
+Vitals: BP 132/78, HR 82 (irregularly irregular, known AFib), RR 18, SpO2 94% RA, Temp 98.2F, Wt 190 lb, Ht 5'10"
+Allergies: NKDA
+
+SOCIAL HISTORY (templated block):
+Tobacco Use: Never smoker
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Smokeless tobacco: Not on file
+Alcohol Use: Former drinker, quit in 2000
+Alcohol type: Not on file
+Drug Use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Not on file
+
+=== PHYSICIAN PROGRESS NOTE ===
+CC: COPD follow-up, worsening dyspnea on exertion x 2 weeks
+
+HPI: Mr. Johnson is a 63-year-old male with history of COPD, osteoporosis, atrial fibrillation, osteoarthritis, and CKD stage 3 who presents for routine COPD follow-up. He states, "I get more winded walking up the stairs than I used to, maybe over the last couple weeks." He denies fever, chills, or increased sputum production. He reports occasional use of his rescue inhaler, up to 2-3 times per day currently, up from baseline 1x/day. He denies chest pain but notes some fatigue. He says, "I've been trying to keep active but it's harder some days." No recent hospitalizations or ED visits. He denies orthopnea or PND. Review of home oxygen use - not currently on supplemental O2.
+
+Regarding tobacco history, patient reports he has never smoked cigarettes in his life, consistent with prior documentation in the chart. He does report he quit drinking alcohol in 2000 and has remained abstinent since.
+
+ROS (templated, 12-point):
+Constitutional: Denies fever, chills, unintentional weight loss. Reports mild fatigue as above.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Known AFib, denies palpitations today, denies chest pain, denies edema.
+Respiratory: Reports increased dyspnea on exertion as above, denies hemoptysis, denies wheeze at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic osteoarthritis pain, stable, denies new joint swelling.
+Skin: Denies rash.
+Neuro: Denies headache, dizziness, focal weakness.
+Psych: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+Medications (reviewed and reconciled today):
+1. Tiotropium inhaler 18 mcg, 1 cap inhaled daily
+2. Albuterol HFA inhaler, 2 puffs q4-6h PRN
+3. Fluticasone/salmeterol 250/50, 1 puff BID
+4. Apixaban 5 mg PO BID (AFib)
+5. Metoprolol succinate 50 mg PO daily
+6. Alendronate 70 mg PO weekly
+7. Calcium carbonate/vitamin D3 combo tablet daily
+8. Acetaminophen 500 mg PO PRN for joint pain
+9. Atorvastatin 20 mg PO daily
+10. Lisinopril 10 mg PO daily (renal dosing considered given CKD stage 3)
+11. Multivitamin daily
+
+Physical Exam:
+General: Well-developed, well-nourished male in no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs, rubs, or gallops. No peripheral edema. Pulses 2+ throughout.
+Respiratory: Mildly diminished breath sounds bilaterally at bases, no wheezes or crackles appreciated today. Mild prolonged expiratory phase.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Musculoskeletal: Mild crepitus of bilateral knees, no acute joint swelling or erythema. Normal gait.
+Skin: Warm, dry, intact, no rashes or lesions.
+Neuro: Alert and oriented x3, grossly non-focal.
+
+Assessment/Plan:
+1. COPD - mild exacerbation of symptoms, likely related to recent heat/humidity. Continue current inhaler regimen. Reinforce inhaler technique. Consider short course of prednisone if symptoms worsen. Return to clinic or ED if increasing dyspnea, fever, or hypoxia.
+2. Atrial fibrillation - rate controlled today, continue apixaban and metoprolol, follow with cardiology as scheduled.
+3. CKD stage 3 - stable, monitor renal function with routine labs, continue current regimen with renal dosing adjustments as needed.
+4. Osteoporosis - continue alendronate and calcium/vitamin D, DEXA scan due for repeat in 1 year.
+5. Osteoarthritis - stable, continue acetaminophen PRN, discussed weight-bearing exercise as tolerated.
+6. Health maintenance - immunizations reviewed and up to date. Lung cancer screening discussed given COPD history; further discussion to be had regarding appropriate work-up.
+
+Follow-up in 3 months or sooner if symptoms worsen.
+
+Laura Castellano, FNP-C
+
+=== ADDENDUM (same day, 4:47 PM) ===
+Patient called back after visit to clarify that his increased inhaler use over the past two weeks correlates with increased outdoor activity (yard work) during a recent heat wave. He was advised to limit outdoor exertion during peak heat hours and to use rescue inhaler as needed, and to call if symptoms do not improve or worsen. No changes to plan otherwise. Reiterated smoking history status unchanged - patient continues to deny ever smoking cigarettes.
+-Laura Castellano, FNP-C

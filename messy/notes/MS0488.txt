@@ -1,0 +1,81 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: Larry Kim (M), DOB: 07/25/1974 (age 51)
+Date of Service: 07/25/2025
+Author: Farah Siddiqui, MD
+
+PROBLEM LIST:
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- E11.9 Type 2 diabetes mellitus without complications
+- M19.90 Osteoarthritis, unspecified site
+- I10 Essential hypertension (resolved per pt, kept on list from prior chart, may be outdated)
+- J45.909 Asthma, unspecified (old entry, unclear if still active - to review)
+
+HPI:
+Mr. Larry Kim is a 51-year-old male, DOB 07/25/1974, seen today 07/25/2025 in pulmonology clinic for routine COPD follow-up. He reports mild dyspnea on exertion, worse with stair climbing, but denies chest pain, fevers, or hemoptysis. He states, "I've been using the inhaler like you told me, and I think it's helping some." He reports his blood sugars have been "a little high in the mornings" and his knees have been bothering him more with the recent heat.
+
+On direct questioning regarding smoking history, patient reports he has never smoked cigarettes. He denies any history of tobacco use of any kind, including cigars, pipes, or e-cigarettes.
+
+Regarding alcohol, he reports he quit drinking alcohol in 2000 and has remained abstinent since.
+
+[COPIED FORWARD FROM VISIT 01/14/2025 - PULMONOLOGY - DR. SIDDIQUI]
+Patient is a pleasant gentleman with history of COPD, managed on tiotropium and albuterol PRN. He reports occasional cough productive of clear sputum in the mornings, no hemoptysis. He denies orthopnea or PND. Denies recent travel. He works as a warehouse supervisor and reports adequate exposure control at work with respect to dust. Vitals at that visit: BP 128/78, HR 76, RR 16, O2 sat 96% on room air, Temp 98.2F. Lungs with mild expiratory wheeze bilaterally, no crackles. Cardiac exam RRR, no murmurs. Extremities without edema. Plan at that time was to continue current inhaler regimen, follow up PFTs in 6 months, and continue diabetic and orthopedic management with respective specialists.
+[END COPIED TEXT]
+
+PAST MEDICAL HISTORY:
+- COPD, diagnosed approximately 6 years ago
+- Type 2 diabetes mellitus, diet and metformin controlled
+- Osteoarthritis, bilateral knees
+
+SOCIAL HISTORY:
+Never smoker. Quit alcohol use in 2000. Denies illicit drug use. Works as warehouse supervisor. Lives with spouse.
+
+MEDICATIONS:
+- Tiotropium 18 mcg inhalation, once daily
+- Albuterol HFA, PRN
+- Metformin 1000 mg BID
+- Acetaminophen PRN for knee pain
+
+ALLERGIES: No known drug allergies
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Respiratory: Positive for mild exertional dyspnea, occasional morning cough. Denies hemoptysis.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Endocrine: Reports occasional morning hyperglycemia per home glucose log.
+Musculoskeletal: Positive for bilateral knee pain, worse with activity.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/80, HR 78, RR 16, O2 sat 97% on room air, Temp 98.4F, Weight 198 lbs
+General: Well-appearing male, no acute distress
+Lungs: Mild expiratory wheeze bilaterally, no crackles or rhonchi
+CV: Regular rate and rhythm, no murmurs, gallops, or rubs
+Extremities: No cyanosis, clubbing, or edema. Mild crepitus of bilateral knees on range of motion.
+Skin: Warm, dry, intact
+
+LABS/RESULTS:
+HbA1c (06/30/2025): 7.4%
+CMP (06/30/2025): Glucose 142, Creatinine 0.9, eGFR >60
+PFTs (01/20/2025): FEV1 68% predicted, FEV1/FVC ratio 0.65, consistent with moderate obstructive pattern
+Chest X-ray (01/20/2025): Hyperinflated lungs, no acute infiltrate or effusion
+
+ASSESSMENT:
+1. COPD, moderate, stable on current regimen
+2. Type 2 diabetes mellitus, suboptimal control, will adjust management
+3. Osteoarthritis, bilateral knees, stable
+
+PLAN:
+1. Continue tiotropium and albuterol PRN
+2. Discussed lung cancer screening guidelines with patient in general terms given age and COPD history; further discussion to continue at future visits
+3. Repeat PFTs in 6 months
+4. Refer back to endocrinology for diabetes management given elevated HbA1c
+5. Continue acetaminophen PRN for knee pain, consider orthopedic referral if worsening
+6. Follow up in pulmonology clinic in 3 months, sooner if symptoms worsen
+7. Reinforced healthy lifestyle habits including diet and exercise as tolerated
+
+Electronically signed by Farah Siddiqui, MD
+
+---
+ADDENDUM (later same day, 07/25/2025):
+Patient called back after visit to clarify that he has been using his glucometer correctly and wanted to confirm his next diabetes follow-up date. Advised he will hear from endocrinology within 2 weeks to schedule. No changes to today's assessment or plan. Reiterated that he has never smoked cigarettes, for documentation clarity after a question arose regarding an old outside record that had conflicting information. Patient confirmed again he is a lifelong never-smoker.
+- Farah Siddiqui, MD

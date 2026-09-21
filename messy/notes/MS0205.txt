@@ -1,0 +1,55 @@
+VASCULAR SURGERY PROGRESS NOTE
+Patient: John Patel (M) DOB: 5/13/1945
+Date of Service: 05/13/2023
+Author: Daniel Reyes, MD
+
+CC: Follow-up peripheral artery disease (PAD), claudication sx.
+
+HPI: Pt is a 78-year-old male, here today 5/13/2023 for PAD f/u. Reports bilat calf pain w/ ambulation, improved somewhat since last visit; distance to onset of pain now ~2 blocks vs 1 block prior. Denies rest pain, denies non-healing ulcers. States he's been more compliant w/ walking program. No new chest pain, no SOB, no palpitations. [inaudible] some intermittent numbness in toes bilaterally, worse in AM. Pt denies any tobacco use whatsoever — lifelong non-smoker, has never smoked cigarettes, cigars, or pipe, and denies any vape/e-cig use. He did report he used to drink socially but quit ETOH entirely in 2016 and has remained abstinent since.
+
+ROS: Constitutional: denies fever, chills, unintentional weight loss. HEENT: no vision changes, no hearing loss. CV: as above, denies chest pain/palpitations. Resp: denies cough, dyspnea, wheeze. GI: denies nausea, vomiting, diarrhea, constipation, blood in stool. GU: denies dysuria, hematuria. MSK: chronic knee pain, stable, attributed to known OA. Skin: no rashes, no ulcers noted by pt. Neuro: reports mild intermittent bilat toe numbness as above, denies weakness, denies falls. Psych: denies depression, denies anxiety. Endocrine: denies polyuria, polydipsia. Heme/Lymph: denies easy bruising or bleeding. All other systems reviewed and negative.
+
+PMH/Problem List:
+- I73.9 Peripheral artery disease, bilateral lower extremity
+- M19.90 Osteoarthritis, unspecified site
+- E78.5 Hyperlipidemia
+- E66.9 Obesity
+- I25.10 CAD w/o angina (old, per chart, unclear current relevance, carried forward)
+- Z87.891 Personal hx of nicotine dependence (NOTE: appears to be carried forward in error from prior template; pt denies any tobacco hx, lifelong non-smoker, will address at next visit for correction)
+
+Social Hx: Lives w/ spouse, retired postal worker. Denies illicit drug use. ETOH — quit 2016, abstinent x7 yrs. Tobacco — never smoker, lifelong non-smoker as noted above. Exercise: walking program per vascular rehab recs.
+
+Medications:
+1. Atorvastatin 40mg PO qhs
+2. Aspirin 81mg PO daily
+3. Clopidogrel 75mg PO daily
+4. Cilostazol 100mg PO BID
+5. Metoprolol succinate 25mg PO daily
+6. Lisinopril 10mg PO daily
+7. Acetaminophen 500mg PO PRN for OA pain
+8. Omeprazole 20mg PO daily
+9. Vitamin D3 1000 IU PO daily
+
+Physical Exam:
+Vitals: BP 138/82, HR 72, RR 16, Temp 98.4F, SpO2 96% RA, Wt 231 lb, BMI 33.9
+General: Well-developed, well-nourished male, NAD, obese habitus.
+CV: RRR, no murmurs/rubs/gallops appreciated.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Abd: soft, NT/ND, obese, +BS.
+Extremities: Bilat lower extremity — no ulcers, no edema. Femoral pulses palpable bilat. DP/PT pulses diminished bilat, monophasic on doppler. Cap refill <3 sec. Skin warm, no hair loss noted on distal legs. Toes w/ mildly diminished sensation to light touch bilat, symmetric.
+MSK: Knees w/ mild crepitus bilat, no effusion, ROM intact.
+Skin: no rashes, no lesions, no non-healing wounds noted.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 throughout, gait steady w/ assistive device (cane).
+
+Assessment/Plan:
+1. PAD, bilateral LE, claudication — stable/improved, continue cilostazol, continue supervised walking program, f/u ABI in 6 mo, discussed general vascular risk reduction incl. lipid mgmt, BP control, weight mgmt.
+2. Hyperlipidemia — continue atorvastatin, lipid panel due at next visit.
+3. Obesity — counseled re: diet/exercise, referred to nutrition.
+4. OA — continue acetaminophen PRN, ortho f/u as needed.
+5. Tobacco/nicotine status — pt confirms lifelong non-smoker; will correct problem list entry (Z87.891) which appears to have been carried forward erroneously; no counseling re: cessation needed as pt has never used tobacco.
+
+RTC in 3 months or sooner if sx worsen.
+
+________________________________________
+ADDENDUM (later same day, 05/13/2023, D. Reyes MD):
+Spoke w/ pt again by phone after clinic re: clarify problem list discrepancy — pt reiterated he is a lifelong non-smoker and has never used any tobacco products in his life; the nicotine dependence code on chart is being removed as an error. Also confirmed pt remains abstinent from alcohol since quitting in 2016, no interval change. No other changes to plan above.

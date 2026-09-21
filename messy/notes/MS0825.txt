@@ -1,0 +1,68 @@
+NURSE INTAKE
+Pt: Luis Brown  M  Age: 66 (DOB 7/26/1957)
+Date of Service: 12/11/2023
+Visit: Pre-op eval for L knee replacement, referred by ortho (Dr. Sanchez)
+Provider: Quentin Hale, PA-C
+
+VS: BP 138/82, HR 76, RR 16, Temp 98.4F, SpO2 95% RA, Wt 214 lb, Ht 5'9"
+Allergies: NKDA
+Meds: metformin 1000mg BID, atorvastatin 20mg qhs, albuterol PRN, alendronate 70mg weekly, CPAP nightly
+
+Soc Hx: Lives w/ spouse, retired postal worker. Denies EtOH excess, denies illicit drug use. Tobacco - pt tried a few cigarettes as a teenager but never smoked regularly, denies current or regular past use. No vaping hx per pt.
+Fam Hx: father w/ CAD, mother w/ osteoporosis
+
+CC: pre-op medical clearance for TKA scheduled next month
+
+HPI (per nursing intake, brief): pt here for pre-op clearance ahead of L TKA. reports chronic L knee pain, worse w/ ambulation, using cane occasionally. no CP, no SOB at rest. sleeps w/ CPAP, compliance reportedly good per pt report (download not avail today). blood sugars per pt log running 110-160 fasting. asthma well controlled, uses albuterol rare, maybe 1x/wk.
+
+---
+PHYSICIAN PROGRESS NOTE
+Seen and eval'd by Quentin Hale, PA-C, in conjunction w/ Dr. Alvarez (supervising).
+
+Subjective: 66 yo M here for pre-op medical clearance prior to L total knee arthroplasty, date of service 12/11/2023. Pt reports chronic osteoarthritis of L knee, failed conservative tx (NSAIDs, PT, intra-articular injections x2). Denies chest pain, palpitations, orthopnea, PND, lower extremity edema. Denies fevers/chills. Reviewed osteoporosis status - last DEXA reportedly showed osteopenia/osteoporosis, on wkly alendronate, tolerating well, no GERD sx. OSA - uses CPAP nightly, denies excessive daytime somnolence currently, denies snoring per bed partner report (spouse). T2DM - reports fairly good control, checks fingersticks am, denies polyuria/polydipsia currently. Asthma - stable, no recent exacerbations, no ED visits or steroid bursts in past yr.
+
+Social hx reviewed again w/ pt directly - confirmed tobacco: tried a few cigarettes as teen, never became a regular smoker, no current tobacco use, no other tobacco products. Denies marijuana. Occasional EtOH, 1-2 drinks/wk.
+
+ROS: 10-point ROS reviewed, negative except as noted in HPI. Constitutional - no wt loss, no fevers. Cardiac - neg. Resp - no cough, no hemoptysis. GI - neg. GU - neg. MSK - + L knee pain as above, - other joint pain. Neuro - neg. Psych - denies depression/anxiety sx.
+
+Objective:
+VS as above (see nurse intake), afebrile, sats 95% RA.
+Gen: NAD, comfortable, ambulates w/ cane, antalgic gait favoring L
+CV: RRR, no m/r/g, no JVD, no peripheral edema
+Resp: clear to auscultation bilat, no wheeze appreciated today, good air movement
+Abd: soft, NT/ND, +BS
+MSK: L knee - mild effusion, crepitus w/ ROM, decreased flexion ~90deg limited by pain, no erythema/warmth. R knee wnl.
+Skin: no rashes, no ulcers
+Ext: no edema, pulses 2+ bilat
+
+Labs (drawn 12/08/2023 pre-op panel):
+CBC: WBC 6.8, Hgb 13.9, Hct 41.2%, Plt 245
+BMP: Na 139, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.94, Glc 142
+HbA1c (12/08/2023): 7.1%
+Lipid panel (09/2023, prior): TC 178, LDL 96, HDL 44, Trig 190
+UA: unremarkable, no proteinuria
+EKG (12/11/2023, in office): NSR, rate 74, no acute ST-T changes, no significant change from prior 2022 EKG on file.
+CXR (12/08/2023): no acute cardiopulmonary process, no nodules or infiltrates noted by radiology
+PFTs: not done today, none on file recently
+
+Assessment:
+1. Pre-op medical clearance for L TKA - pt appears reasonable surgical candidate from medicine standpoint, no acute cardiopulmonary contraindications identified today.
+2. T2DM, reasonably controlled, A1c 7.1% - continue metformin, will hold day of surgery per anesthesia protocol.
+3. Osteoporosis - continue alendronate, hold day of/around surgery per ortho protocol given NPO status, resume post-op.
+4. OSA on CPAP - advise continued nightly use including post-op recovery period, ensure CPAP brought to hospital day of surgery.
+5. Asthma, stable - continue albuterol PRN, no maintenance inhaler currently indicated based on symptom frequency.
+6. Tobacco - non-smoker functionally; brief adolescent experimentation only per pt report, no further counseling regarding cessation indicated given no regular use history.
+
+Plan:
+- Cleared for surgery from IM standpoint pending anesthesia eval
+- Continue home meds as above w/ noted peri-op adjustments
+- F/u post-op or PRN
+- Pt educated on signs of infection, DVT precautions post-op
+- Written instructions given
+
+Electronically signed: Quentin Hale, PA-C, 12/11/2023 1442
+
+---
+ADDENDUM (later same day, 12/11/2023, 1655) - Q. Hale, PA-C
+Spoke again briefly w/ pt by phone after he called office w/ question re: holding metformin day of surgery - clarified instructions, pt verbalized understanding. No new complaints reported at this time. No changes to assessment/plan above. Pt again confirmed no current or regular past tobacco use, reiterated only tried a few cigs as teenager decades ago. Will forward final clearance note to ortho office and to anesthesia pre-op team prior to scheduled surgery date.
+End of addendum.

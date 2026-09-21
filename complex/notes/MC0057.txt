@@ -1,0 +1,44 @@
+Pulmonology NP Progress Note
+Author: Kevin Osei, MD
+DOS: 11/24/2023
+
+Pt: Lan Chen, F, age 67 (DOB 9/14/1956)
+
+CC: f/u incidental lung nodule found on CT chest 8/2023
+
+HPI: Pt presents for f/u of incidental RUL nodule noted on prior imaging done for asthma/COPD w/u. She reports no new sx, denies hemoptysis, wt loss, night sweats. She states "I feel about the same, maybe a bit more short of breath when it's cold out." Denies chest pain, states CAD sx stable, no anginal episodes since last visit. Uses albuterol prn, occasionally 2-3x/wk. Reports mood stable on current antidepressant regimen, denies SI/HI.
+
+--- copied forward from 6/12/2023 visit note ---
+Pt seen for routine COPD/asthma f/u. Lungs w/ mild expiratory wheeze bilat, no acute distress. Continue Advair 250/50 BID, albuterol prn. CAD stable, last stress test 2021 unremarkable. Depression screen PHQ-9 stable at 6, continue sertraline 100mg qd. RTC 3 months or PRN. Pt counseled re: importance of med compliance and f/u imaging for nodule surveillance. Pt verbalized understanding.
+--- end copied text ---
+
+ROS: Resp: mild dyspnea on exertion, chronic cough unchanged. CV: no chest pain, no palpitations. Psych: mood stable. All other systems reviewed and negative except as noted above.
+
+Social Hx: Pt lives alone, retired schoolteacher. Denies EtOH use, no illicit drug use. Smoking hx notable - pt reports she had previously quit smoking in 2007 but relapsed in 2008 and has smoked intermittently since. Pt currently smokes cigarettes daily. No occupational exposures reported, no significant asbestos or dust exposure hx.
+
+Meds: Advair Diskus 250/50 1 puff BID, albuterol HFA prn, sertraline 100mg qd, aspirin 81mg qd, atorvastatin 40mg qhs, lisinopril 10mg qd
+
+Allergies: NKDA
+
+PE:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Wt 142 lb
+Gen: NAD, comfortable, no acute distress
+HEENT: unremarkable
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze b/l bases, no crackles, no accessory muscle use
+Abd: soft, NT/ND
+Ext: no edema, no clubbing
+Psych: mood euthymic, affect appropriate
+
+Labs/Imaging: CT chest 8/2023 - 7mm RUL nodule, noncalcified, stable morphology c/w prior comparison not avail. CBC, BMP wnl. Recent PFTs show mild obstructive pattern c/w known COPD/asthma.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule (RUL, 7mm) - pt with significant tobacco use hx. Smoking hx: pt smoked approx a quarter pack (about 5 cigarettes) per day for 27 years, then increased to approx 10 cigarettes per day for the following 22 yrs, continuing to present. Pt currently smokes cigarettes. Discussed importance of smoking cessation, provided counseling and resources; pt declined pharmacotherapy at this time but will consider. Recommend repeat low dose CT in 6-12 months for interval f/u per nodule surveillance protocol, exact timing to be determined by radiology recs. Discussed lung cancer screening guidelines in general terms with pt.
+2. COPD/Asthma - stable on current regimen, continue Advair and albuterol prn, reinforce inhaler technique.
+3. CAD - stable, continue current cardiac meds, no acute issues today.
+4. Depression - stable on sertraline, PHQ-9 to be repeated at next visit.
+5. Health maintenance - pt due for influenza vaccine, offered today, pt accepted.
+
+RTC 3 months or sooner if sx worsen. Pt verbalized understanding of plan, all questions answered.
+
+Electronically signed: Kevin Osei, MD, 11/24/2023

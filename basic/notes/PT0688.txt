@@ -1,0 +1,44 @@
+Primary Care Clinic Note
+Date of Service: 2025-09-15
+Patient: Theresa Butler   DOB: 5/25/1969   MRN: 43166905
+
+S:
+CC: Annual exam
+HPI: Ms. Butler is a 56-year-old female with a hsitory of HTN who presents for an annual physical. Feels well overall. Uses a stationary bike at home. Eating out more since retiring.
+
+PMH:
+- HTN (dx 2012)
+Meds: lisinopril 20 mg daily
+Allergies: NKDA
+SH: Lives with husband in a single-family home. She is a current smoker and smokes half a pakc a day. EtOH: 2-3 drinks on weekends. No illicit drug use.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 122/74  HR: 86  RR: 14  Temp: 98.1 F  SpO2: 95% on RA  Wt: 157 lbs  BMI: 24.6
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Health maintenance: Colonoscopy 2021 - 2 tubular adenomas, repeat 5 yrs; Mammogram 11/15/2024 - BI-RADS 1; Declines Shingrix; Flu shot today.
+2. HTN
+   - Well controlled on home log. No changes.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Anita Patel, MD on 9/16/2025 at 14:41

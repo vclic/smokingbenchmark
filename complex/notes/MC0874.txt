@@ -1,0 +1,54 @@
+VASCULAR SURGERY - NURSE INTAKE
+Date of Service: 05/22/2024
+Patient: Evelyn Roberts DOB: 05/22/1947 (age 77)
+Provider: Julia Brennan, MD
+
+VITALS: BP 148/82, HR 78, RR 16, SpO2 96% RA, Wt 71 kg
+Allergies: NKDA
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease, claudication symptoms.
+
+SOCIAL HISTORY (templated block):
+Tobacco Use: See HPI
+Alcohol Use: Not on file
+Drug Use: Denies
+Occupation: Retired
+Living Situation: Lives alone, daughter nearby
+Exercise: Limited d/t leg pain
+
+---
+
+PHYSICIAN PROGRESS NOTE - Julia Brennan, MD
+
+HPI: Ms. Roberts is a 77-year-old woman (DOB 5/22/1947) here today, 05/22/2024, for eval of PAD. She reports, "My legs just cramp up something awful when I walk to the mailbox now." States the pain is in both calves, worse on the left, improves with rest. Denies rest pain or non-healing ulcers currently, though she notes "my toes get kinda cold and purple sometimes." No fevers, no chills.
+
+Regarding tobacco history: patient smoked 2 packs per day for 11 years, then cut down to about 15 cigarettes per day for the following 14 years before quitting entirely. She reports she no longer smokes. She states she quit smoking when her youngest grandchild was born, and notes that grandchild is now 31 years old. She denies any current tobacco or nicotine product use of any kind.
+
+Past medical history notable for gout, asthma, osteoarthritis, chronic kidney disease stage 3, and coronary artery disease. She takes allopurinol, albuterol PRN, and a statin, per her outside records - though she couldn't recall exact doses today, "I just take what's in the little box, I don't know the names half the time."
+
+ROS: Positive for bilateral calf claudication as above. Negative for chest pain, palpitations, syncope. Denies hematuria. Reports occasional joint pain in the knees, consistent w/ known OA, [inaudible] when asked about severity but gestured to both knees. Denies wheeze today although she does note some shortness of breath when climbing stairs at her daughter's house which has 'about a thousand steps or something, feels like.'
+
+EXAM:
+General: Well-appearing, elderly female, NAD.
+CV: RRR, no murmurs appreciated, distant heart sounds.
+Pulses: Femoral 2+ bilaterally, popliteal 1+ bilaterally, dorsalis pedis and posterior tibial nonpalpable bilaterally, monophasic signals by doppler.
+Skin: Mild hair loss on lower extremities, skin cool to touch distally, no ulceration noted, no gangrene.
+Resp: Clear to auscultation bilaterally, mild expiratory wheeze noted at bases.
+MSK: Crepitus bilateral knees, no effusion.
+
+LABS (reviewed today): Cr 1.6 (baseline per CKD stage 3), eGFR 34, K 4.1, uric acid 7.8.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, symptomatic - will obtain ABIs given nonpalpable pedal pulses; continue cilostazol trial, reinforce walking program as tolerated.
+2. CKD stage 3 - stable, will avoid nephrotoxic contrast where possible; renal function to be rechecked with labs prior to any imaging requiring contrast.
+3. CAD - continue current cardiac meds, defer to cardiology for further management.
+4. Gout - continue allopurinol, uric acid trending in acceptable range.
+5. Asthma - mild wheeze noted on exam today, continue albuterol PRN, consider pulm referral if worsens.
+6. OA - continue conservative management, PT referral offered.
+Lung cancer screening was discussed with the patient given her age and prior tobacco history; risks and benefits reviewed, she will consider and follow up.
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Julia Brennan, MD
+
+---
+ADDENDUM (later same day, 05/22/2024, 16:42): Patient's daughter called clinic after visit to clarify a portion of history discussed during the appointment; nothing pertaining to tobacco use changes from what was documented above. Daughter also asked about ABI scheduling logistics, staff advised will call with appointment time once available. No other changes to plan. -JB, MD

@@ -1,0 +1,44 @@
+CARDIOLOGY - HEART FAILURE FOLLOW-UP
+Date of Service: 02/16/2023
+Patient: Jose Alexander (M) DOB 02/16/1960, age 63
+Provider: Farah Siddiqui, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 132/84, HR 78, RR 18, SpO2 94% RA, Wt 91kg
+Pt here for f/u HF, reports mild increase in ankle swelling over past wk, denies chest pain, some dyspnea on exertion climbing stairs. Compliant w/ meds per pt report. O2 sat checked twice stable.
+
+Allergies: NKDA
+Meds reviewed: furosemide, carvedilol, lisinopril, montelukast, albuterol prn, sertraline, alendronate
+
+--- HPI (Dr. Siddiqui) ---
+63M w/ hx HFrEF, COPD, asthma, OSA on CPAP, osteoporosis, osteoarthritis, depression here for routine HF f/u. Pt notes some increased LE edema, no PND or orthopnea currently. Denies fevers chills cough change. Continues nebulizer prn for COPD flares, uses CPAP most nights per wife. Mood stable on current sertraline dose no SI/HI.
+
+ROS otherwise negative except as above.
+
+--- SOCIAL HISTORY ---
+COPIED FROM NOTE DATED 6/16/2021: "Smoking status: current smoker." (no quantities documented in that note)
+Lives w/ wife, retired machinist, denies etoh excess, no illicit drug use.
+
+--- PHYSICAL EXAM ---
+Gen: NAD, comfortable
+CV: RRR, no m/r/g, JVP mildly elevated
+Resp: mild bibasilar crackles, wheeze on forced expiration
+Ext: 1+ pitting edema b/l
+Skin: no rash
+
+--- LABS/RESULTS ---
+BNP 02/16/2023: 410 pg/mL (elevated, improved from prior)
+BMP 02/16/2023: Na 138, K 4.2, Cr 1.1, BUN 22
+CXR 02/16/2023: mild pulmonary vascular congestion, no acute infiltrate
+Echo (prior, 11/2022): EF 35%, mild MR
+
+--- ASSESSMENT/PLAN ---
+1. HFrEF - mild decompensation, increase furosemide dose, f/u wt daily, low Na diet reinforced.
+2. COPD/Asthma - stable today on exam, continue albuterol prn and inhaled steroid, consider pulm f/u.
+ Smoking history: pt smoked a quarter pack (about 5 cigarettes) per day for 23 years, then increased to half a pack (about 10 cigarettes) per day for 17 years and continues to smoke at that rate currently. Pt continues to smoke despite repeated counseling on cessation, discussed risks again today, offered cessation resources and nicotine replacement, pt declined at this time. Lung ca screening was discussed generally as part of counseling.
+3. OSA - continue CPAP, reports adherence, will re-check compliance data next visit.
+4. Osteoporosis - continue alendronate, last DEXA reviewed prior visit.
+5. OA - stable, tylenol prn.
+6. Depression - stable mood, continue sertraline, no changes.
+
+RTC 3 months or sooner if worsening symptoms. pt verbalized understanding of plan today, questions answered.

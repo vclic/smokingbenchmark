@@ -1,0 +1,58 @@
+TELEHEALTH VISIT - Family Medicine
+DOS: 05/14/2025
+Patient: Priya Baker, F, DOB 03/21/1947 (age 78)
+Author: Hannah Weiss, NP (resident note); attending attestation pending co-sign - Dr. R. Alonso
+
+CC: med refills, f/u CAD, CKD3, HFrEF, obesity, BPH, AFib.
+
+HPI: 78 yo F seen via telehealth for routine refill visit. Pt states "I'm doing okay, just need my pills renewed." Denies CP, worsening SOB, orthopnea, PND. Reports occasional ankle swelling, stable per pt. Denies dysuria, hematuria; BPH sx stable on tamsulosin. No palpitations, no syncope - AFib rate-controlled per pt report.
+Smoking Hx: 10 pack-year smoking history noted in chart; pt is an active smoker at this time - reports smoking daily, states "I know I should quit but it helps with stress." Hx notable in that pt previously quit smoking in 2023 but relapsed in 2024 after family stressor; currently smoking again as above. Advised cessation again today, offered resources/counseling, pt declined referral at this time. Reviewed benefits of cessation given CAD/HFrEF/CKD.
+Note: templated SH field below (auto-populated, outdated) reads "Smoking status: Never Smoker" - this is INCORRECT/outdated; correct status per interview above is active smoker w/ 10 pack-year hx, prior quit 2023, relapsed 2024. Chart to be updated.
+
+ROS: Constitutional - no fever/chills/weight loss. CV - no CP, + occ edema. Resp - no cough/hemoptysis/wheeze. GI - no N/V/abd pain. GU - nocturia x2, stable. MSK - no new joint pain. Neuro - no focal deficits. Psych - no SI/HI. Skin - no rash. All other ROS reviewed and negative per pt report.
+
+SOCIAL HISTORY (templated):
+Tobacco: (see note above re: discrepancy)
+Smoking status: Never Smoker [outdated/auto-populated - see HPI for correction]
+Packs/day: Not on file
+Alcohol: occasional, denies excess
+Drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+Exercise: limited, deconditioned
+Diet: low salt, per pt adherent
+
+PHYSICAL EXAM (limited, telehealth - visual only):
+Gen: NAD, seated comfortably, appropriate historian.
+HEENT: no acute distress noted visually, no gross facial asymmetry.
+CV: unable to auscultate via telehealth; pt denies palpitations.
+Resp: no visible respiratory distress, no accessory muscle use.
+Ext: pt reports mild bilateral ankle edema, no redness/warmth per pt.
+Skin: no visible lesions on camera.
+Mental status: alert, oriented x3, appropriate affect.
+
+MEDS (reviewed/reconciled):
+- Metoprolol succinate 50mg daily
+- Apixaban 2.5mg BID (renally dosed for CKD3)
+- Furosemide 20mg daily
+- Atorvastatin 40mg qHS
+- Lisinopril 5mg daily
+- Tamsulosin 0.4mg qHS
+- Spironolactone 12.5mg daily
+- Sacubitril-valsartan 24-26mg BID
+- Aspirin 81mg daily (held given anticoag - verify)
+- Multivitamin daily
+
+ASSESSMENT/PLAN:
+1. CAD - stable, continue statin/antiplatelet regimen as above, no new anginal sx.
+2. CKD stage 3 - stable, renal-dosed meds continued, labs to be repeated.
+3. HFrEF - euvolemic per pt report, continue GDMT as tolerated, monitor wt daily.
+4. Obesity - counseled on diet/exercise as tolerated given deconditioning.
+5. BPH - stable on tamsulosin, no urinary retention sx.
+6. AFib - rate controlled per pt, continue anticoagulation, no bleeding concerns.
+7. Tobacco use - active smoker, 10 pack-year hx, prior quit 2023/relapse 2024; cessation counseling given, declined referral today; general discussion of screening options for long-term smokers had with pt, to be revisited at future visit.
+8. Refills sent as above per pt request.
+
+F/u in 3 months or sooner if symptoms worsen. Telehealth visit, all issues addressed to extent possible remotely.
+
+Attending attestation: I have reviewed resident's note and agree with assessment and plan as documented above. Discrepancy in templated smoking field identified and addressed as above. - Dr. R. Alonso

@@ -1,0 +1,49 @@
+PROGRESS NOTE
+Date of Service: 2/10/2023
+Patient: Susan Young   DOB: 7/29/1946   MRN: 82154681
+
+S:
+CC: Diabetes follow-up
+HPI: Mrs. Young is a 76 year old female with a history of GERD, T2DM, and depression who presents for diabetes follow-up. Most recent A1c 9.1% (previously 9.7% in October 2022). Fasting glucose 130-180 per log. One episode of shakiness relieved with juice. Trying to walk 20 minutes daily.
+
+PMH:
+- GERD
+- Generalized anxiety disorder (dx 1993)
+- Type 2 diabetes mellitus
+PSH: Total abdominal hysterectomy (2019)
+Meds: metformin 1000 mg BID; famotidine 20 mg BID; insulin glargine 20 units nightly; bupropion XL 150 mg daily; fish oil 1 g daily
+Allergies: Penicillin (rash)
+SH: Lives in assisted living. Retired cashier. No history of tobacco use. EtOH: 1-2 beers/wk. Denies illicit drugs. Exercise: walks daily.
+FH: Son - type 1 diabetes.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 125/62  HR: 61  RR: 12  Temp: 98.8 F  SpO2: 98% on RA  Wt: 122 lbs  BMI: 21.6
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+A/P:
+1. Type 2 diabetes mellitus
+   - A1c 9.1% - above goal; add empagliflozin 10 mg daily. Diabetic eye exam referral.
+2. GERD: Symptoms controlled.
+3. Generalized anxiety disorder
+   - PHQ-9 stable; continue current regimen.
+
+Follow up in 12 months or sooner PRN.
+
+Elena Markovic, MD

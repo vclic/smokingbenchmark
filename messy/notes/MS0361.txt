@@ -1,0 +1,76 @@
+URGENT CARE VISIT NOTE
+Date of Service: 03/08/2025
+Author: Owen Fitzgerald, MD (Resident) — Attending attestation: Dr. M. Alvarez
+
+Patient: Darnell Lee
+DOB: 02/25/1967 (age 58)
+Sex: M
+
+CC: Cough x5 days
+
+HPI: Mr. Lee is a 58 yo male w/ PMH of CAD, T2DM, hypothyroidism, osteoporosis, AFib, HTN presenting w/ cough, worsening over past several days. Denies fever, denies hemoptysis. Reports some chest tightness w/ coughing fits but no true SOB at rest. No recent travel, no sick contacts identified. Pt states cough is dry, occasionally productive of clear sputum. No wheeze noted by pt. Appetite stable. Denies weight loss.
+
+Social Hx: Pt reports a 23 pack-year smoking history. He continues to smoke currently and when counseled about cessation today, he stated he is not ready to quit at this time. Alcohol use: pt quit drinking alcohol in 2021, has remained abstinent since. No illicit drug use reported.
+
+--- COPIED FORWARD FROM VISIT 11/14/2023 (PCP office note, left in chart by resident, not fully updated) ---
+HPI (11/14/2023): Pt here for routine f/u of CAD, T2DM, HTN. Reports doing well overall. No CP, no palpitations noted at that visit (pt now has known AFib dx since then, see problem list). BP well controlled on current regimen at that time. A1c reviewed and discussed diet. Pt continues to work part time as a warehouse supervisor. Denies SOB. Lower extremity edema trace bilaterally, stable. Osteoporosis f/u — pt on alendronate at that time, tolerating well, no GERD sx. Thyroid labs reviewed, TSH wnl on current levothyroxine dose. Plan at that visit: continue current meds, f/u labs in 6 mo, return visit in 3 mo, DEXA ordered.
+--- END COPY FORWARD ---
+
+ROS: Constitutional: denies fever, chills, night sweats, unintentional weight loss. Eyes: no visual changes. ENT: no sore throat, no rhinorrhea. Cardiovascular: denies chest pain, denies palpitations today, denies orthopnea, denies PND. Respiratory: + cough as above, denies hemoptysis, denies wheeze, denies SOB at rest. GI: no nausea, no vomiting, no abdominal pain, no diarrhea, no constipation. GU: no dysuria, no hematuria. Musculoskeletal: no new joint pain, chronic low back pain stable. Skin: no rash. Neuro: no HA, no focal weakness, no numbness. Psych: no SI/HI, mood stable. Endocrine: no polyuria, no polydipsia. Heme/Lymph: no easy bruising, no lymphadenopathy noted by pt. All other systems reviewed and negative except as noted above.
+
+PMH / Problem List:
+1. I25.10 Coronary artery disease
+2. E11.9 Type 2 diabetes mellitus w/o complications
+3. E03.9 Hypothyroidism
+4. M81.0 Osteoporosis w/o current pathological fracture
+5. I48.91 Atrial fibrillation, unspecified
+6. I10 Essential hypertension
+7. J20.9 Acute bronchitis, unspecified (2019 — resolved, outdated entry left on list)
+8. Z87.891 Personal history of nicotine dependence (outdated entry, pt still smoking per current visit)
+
+Medications:
+- Metformin 1000mg PO BID
+- Atorvastatin 40mg PO qHS
+- Aspirin 81mg PO daily
+- Metoprolol succinate 50mg PO daily
+- Apixaban 5mg PO BID
+- Lisinopril 20mg PO daily
+- Levothyroxine 75mcg PO daily
+- Alendronate 70mg PO qWeek
+- Vitamin D3 2000 units PO daily
+- Calcium carbonate 600mg PO BID
+- Albuterol HFA inhaler PRN (new script given today)
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: T 98.6F, HR 78 irregularly irregular, BP 132/78, RR 16, SpO2 97% RA, Wt 198 lb, Ht 5'10"
+General: NAD, alert, conversant, well-nourished
+HEENT: NC/AT, PERRL, oropharynx clear, no exudate, mucous membranes moist
+Neck: supple, no LAD, no JVD, thyroid nontender no nodules palpated
+Cardiovascular: irregularly irregular rhythm consistent w/ known AFib, no murmurs/rubs/gallops appreciated, no peripheral edema today
+Respiratory: mild expiratory wheeze bilat bases, no rales, no rhonchi, no accessory muscle use, good air movement
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds
+Extremities: warm, well perfused, no edema, no clubbing or cyanosis
+Skin: no rash, no lesions
+Neuro: alert and oriented x3, CN II-XII grossly intact, no focal deficits
+Psych: mood/affect appropriate
+
+Assessment/Plan:
+58 yo M w/ multiple chronic conditions presenting w/ acute cough, likely acute bronchitis vs viral URI, mild bronchospasm on exam.
+
+1. Acute cough / bronchospasm — likely viral bronchitis. Start albuterol inhaler PRN, supportive care, push fluids, rest. Return if fever develops or SOB worsens. No antibiotics indicated at this time given lack of signs of bacterial infxn.
+2. Tobacco use — discussed smoking cessation extensively w/ pt today. As above, pt continues to smoke and states not ready to quit at this time. Advised to quit, offered resources (quitline info given), will readdress at future visits. Lung cancer screening was discussed in general terms with the patient.
+3. CAD — stable, continue home meds, no acute issues today, f/u w/ cardiology per usual schedule.
+4. T2DM — continue metformin, will check A1c at next visit w/ PCP.
+5. HTN — BP acceptable today on current regimen, continue lisinopril/metoprolol.
+6. AFib — rate appears controlled today, continue apixaban for anticoagulation, continue metoprolol.
+7. Hypothyroidism — continue levothyroxine, stable.
+8. Osteoporosis — continue alendronate, Ca/vit D.
+9. Alcohol — pt reports abstinence since 2021, continues to do well, no further intervention needed at this time.
+
+Return to clinic or ED if worsening SOB, chest pain, high fever, or hemoptysis.
+
+Attending Attestation: I have personally seen and evaluated the patient with Dr. Fitzgerald. I agree with the history, exam, and plan as documented above. — Attending: Dr. M. Alvarez
+
+Electronically signed: Owen Fitzgerald, MD, 03/08/2025

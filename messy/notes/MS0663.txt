@@ -1,0 +1,33 @@
+Family Medicine - Annual Wellness Visit
+DOS: 02/16/2026
+Patient: Harold Kowalski | DOB: 02/16/1950 | Age: 76 | M
+Author: Laura Castellano, FNP-C
+
+=== NURSE INTAKE ===
+VS: BP 138/82, HR 74, RR 16, Temp 97.8F, Wt 198lb, Ht 5'9"
+Pt here for AWV, no acute c/o today. Meds reviewed w/ pt, list updated per pharmacy fill hx.
+Allergies: NKDA
+Soc hx: former smoker, quit 2008 at time of stroke. Lives w/ spouse, denies etoh, no illicit drug use.
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: 76 yo M here for annual wellness exam. Hx notable for BPH, GERD, asthma, HTN, hypothyroidism, depression. Pt reports doing fairly well, some nocturia x2, GERD sx controlled on current regimen. No SOB, no CP. 77 pack-year smoking hx, former smoker, quit smoking in 2008 at time of stroke - has not resumed since. Denies vaping/other tobacco products currently.
+
+ROS: Constitutional - no fever/chills/wt loss. Eyes - no visual changes. ENT - no sore throat. CV - no chest pain/palpitations. Resp - no cough/wheeze today (known asthma, uses inhaler prn). GI - occas heartburn, controlled. GU - nocturia as above, no dysuria/hematuria. MSK - no new joint pain. Neuro - no focal weakness (h/o stroke 2008, no residual deficits reported). Psych - mood stable, denies SI/HI. Skin - no rashes. Endo - no cold intolerance currently, on levothyroxine. All other systems reviewed and negative.
+
+PE: Gen - well-appearing, NAD. HEENT - PERRLA, oropharynx clear. Neck - no LAD, no thyromegaly. CV - RRR, no m/r/g. Lungs - CTAB, no wheeze/rales. Abd - soft, NT/ND, +BS. Ext - no edema. Neuro - CN II-XII grossly intact, no focal deficits, gait steady. Skin - no lesions.
+
+Labs (recent, 02/10/2026): TSH 2.1 (WNL), CMP unremarkable, A1c 5.8%, lipid panel: LDL 98, HDL 52, TG 130. PSA 1.4 ng/mL (02/10/2026).
+
+Meds: tamsulosin 0.4mg qhs, omeprazole 20mg daily, albuterol HFA prn, lisinopril 10mg daily, levothyroxine 75mcg daily, sertraline 50mg daily.
+
+A/P:
+1. Health maintenance - AWV completed, counseling on diet/exercise given.
+2. BPH - stable on tamsulosin, cont current dose.
+3. GERD - stable, cont omeprazole.
+4. Asthma - stable, cont albuterol prn.
+5. HTN - well controlled, cont lisinopril.
+6. Hypothyroid - TSH WNL, cont levothyroxine.
+7. Depression - stable mood, cont sertraline.
+8. Tobacco use - former smoker, extensive counseling re: cessation maintenance given, encouraged continued abstinence. Lung cancer screening discussed with pt.
+
+RTC 1 year or PRN.

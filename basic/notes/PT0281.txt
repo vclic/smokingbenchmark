@@ -1,0 +1,73 @@
+Cardiology Office Visit
+
+Patient: RIVERA, Terrence    MRN: 15754528
+DOB: 11/25/1959    Age: 65 y.o.    Sex: Male
+Date of Service: 09/22/2025    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• CP eval
+
+Subjective:
+Terrence Rivera is a 65 y.o. male who presents for evaluation of chest pain.
+Intermittent substernal chest pressure x 3 weeks, occurs with exertion and resolves with rest within 5 min. No radiation. Denies diaphoresis. CV risk factors: HTN, HLD, never smoker, FHx premature CAD.
+
+Past Medical History:
+Diagnosis	Date
+• CKD stage 3
+• Essential hypertension	2022
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 5 mg daily
+• losartan 50 mg daily
+• atorvastatin 20 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Works as an office manager.
+  Alcohol: rare.
+
+Family History
+Sister - breast cancer at 59.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 146/92 (BP Location: Left arm, Patient Position: Sitting) | Pulse 94 | Temp 97.8 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 193 lb | SpO2 95% | BMI 29.39 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (08/23/2025): LDL 88, Cr 1.39, K 4.6
+
+Assessment & Plan
+1. Chest pain
+   ECG today NSR, no ischemic changes. Coronary CTA ordered. Start ASA 81 mg. ED if rest pain.
+2. Essential hypertension
+   Elevated today; home BP log requested.
+
+Return in about 6 months (around 3/22/2026).
+
+Electronically signed by Brian Okonkwo, MD on 09/22/2025

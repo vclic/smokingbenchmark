@@ -1,0 +1,49 @@
+HISTORY AND PHYSICAL
+Patient: Wayne Lewis (M), DOB 7/11/1962, Age 62
+Date of Service: November 10, 2024
+Author: Rachel Goldberg, MD
+Location: Primary Care - Hospital Discharge Follow-up
+
+CHIEF COMPLAINT: F/u after admission for pneumonia, discharged 3 days ago.
+
+HPI: Mr Lewis is a 62 y/o male s/p recent hospitalization for community acquired pneumonia now seen for post discharge follow up he states "I still feel kinda winded going up the stairs but the cough is much better than it was" he denies fever chills or chest pain currently, appetite improving, sleeping ok, wife reports he is "back to his old self mostly" [inaudible] on exam today he is afebrile and in no acute distress. He continues his home meds for CAD, hyperlipidemia and BPH without issue, denies new urinary symptoms or chest pressure.
+
+PMH/Problem List (ICD-10):
+- I25.10 Coronary artery disease, native vessel
+- E78.5 Hyperlipidemia
+- N40.0 Benign prostatic hyperplasia
+- J18.9 Pneumonia, unspecified organism (recent, resolving) - outdated entry, still listed as active, should be updated to resolving/resolved
+- Smoking status: Never Smoker [outdated templated field - this is INCORRECT, see history below, updating in chart]
+
+MEDICATIONS: Atorvastatin, Aspirin, Tamsulosin, Metoprolol
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives with wife, retired machinist, denies current alcohol or illicit drug use.
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted in HPI, denies hemoptysis, denies unintentional weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, T 98.2F, SpO2 96% RA
+General: well appearing, NAD
+Lungs: mild bibasilar crackles, improved from discharge, no wheeze
+CV: RRR, no murmur
+Abd: soft NT ND
+Ext: no edema
+
+LABS: CBC and BMP reviewed from discharge, unremarkable, repeat CXR to be obtained in 4-6 weeks to confirm resolution.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue supportive care, f/u CXR in 4-6 wks, return precautions reviewed.
+2. Tobacco history - the templated field above listing "Never Smoker" is incorrect and is being corrected in the chart today. On detailed history, patient reports a smoking history in three stretches: three-quarters of a pack (about 15 cigarettes) per day for 4 years; then 1.5 packs per day for 5 years; then 2 packs per day for 4 years, after which he quit. He is currently a former smoker. No further information about quit timing is documented.
+3. CAD - stable, continue current meds, no chest pain reported.
+4. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+5. BPH - stable on tamsulosin, no urinary retention symptoms.
+
+Discussed general health maintenance including age appropriate screenings; lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+Follow up in 4 weeks or sooner if symptoms worsen.
+
+Rachel Goldberg, MD
+
+ADDENDUM (later same day): Spoke again with patient by phone after he called with question about medication timing regarding his statin, clarified to take atorvastatin in the evening as previously prescribed no other changes to plan discussed. Smoking history above remains accurate as documented, patient reiterated he is a former smoker and is not currently smoking.

@@ -1,0 +1,68 @@
+VASCULAR SURGERY - NURSE INTAKE
+Patient: Patricia Hall | DOB: 02/10/1956 | Age: 70 | Sex: F
+Date of Service: 06/04/2026
+Provider: Rachel Goldberg, MD
+
+CC: PAD f/u eval, claudication sx worsening x few months.
+VS: BP 138/82, HR 76, RR 16, Temp 97.8F, Wt 168 lb, Ht 63 in.
+Allergies: NKDA.
+
+Social History: Retired postal worker. Lives w/ husband. Denies EtOH. Tobacco - pt states she tried a few cigarettes as a teenager but never smoked regularly, no current or past regular use. No illicit drug use. Diet - reports difficulty with low-fat/low-sugar diet compliance.
+
+ROS (per template, all systems reviewed):
+Constitutional: no fever, no wt loss.
+CV: + intermittent claudication in b/l calves, denies chest pain, denies palpitations.
+Resp: no SOB, no cough.
+GI: no n/v/d.
+GU: no dysuria.
+MSK: chronic gout flares, currently quiescent.
+Endo: hypothyroid on replacement, no palpitations/tremor.
+Skin: no ulcers noted currently.
+All other systems reviewed and negative.
+
+---
+PHYSICIAN PROGRESS NOTE - Rachel Goldberg, MD
+
+HPI: Ms. Hall is a 70 yo woman (DOB 2/10/1956) presenting 06/04/2026 for PAD follow-up. She reports claudication distance has decreased to approx 1-2 blocks over past several months. No rest pain, no ulceration. She has been ambulating w/ husband daily for exercise therapy as previously advised. Diabetes control reportedly fair per home glucose log. No new chest pain or dyspnea.
+
+Problem List (ICD-10):
+I73.9 - Peripheral vascular disease, unspecified
+E11.9 - Type 2 diabetes mellitus without complications
+E03.9 - Hypothyroidism, unspecified
+M10.9 - Gout, unspecified (outdated entry - last flare >1 yr ago per pt)
+E78.5 - Hyperlipidemia
+I10 - Essential hypertension (outdated, pt reports normalized BP off meds x 2 yrs)
+
+Medications:
+Metformin 1000mg BID
+Levothyroxine 88mcg daily
+Atorvastatin 40mg qHS
+Allopurinol 300mg daily
+Aspirin 81mg daily
+Cilostazol 100mg BID
+Multivitamin daily
+
+Labs/Results:
+05/20/2026 - HbA1c 7.4%
+05/20/2026 - LDL 88, HDL 46, TG 150
+05/20/2026 - TSH 2.1 (WNL)
+05/20/2026 - Uric acid 6.8
+04/15/2026 - ABI: right 0.68, left 0.71 (mild-mod PAD)
+
+Physical Exam:
+Gen: NAD, well-groomed, appears stated age.
+CV: RRR, no m/r/g. Distal pulses: DP/PT diminished bilaterally, palpable.
+Ext: no ulcers, no edema, skin intact, mild hair loss on lower legs bilaterally c/w PAD.
+Neuro: sensation intact grossly to monofilament.
+
+Assessment/Plan:
+70 yo woman, DOB 02/10/1956, seen today 06/04/2026 for PAD follow-up.
+1. PAD - claudication progressing mildly. Continue cilostazol, encourage supervised exercise program. Repeat ABI in 6 months.
+2. T2DM - continue metformin, recheck A1c in 3 months, reinforce dietary counseling.
+3. Hypothyroidism - TSH at goal, continue current dose.
+4. Gout - quiescent, continue allopurinol.
+5. Hyperlipidemia - LDL at goal on statin, continue.
+6. Tobacco/lung risk - patient's tobacco history reviewed; she tried a few cigarettes as a teenager but never smoked regularly. No indication for further tobacco cessation counseling given lack of regular use. Lung cancer screening discussed in general terms as part of preventive care conversation.
+RTC 6 months or sooner if symptoms worsen.
+
+Electronically signed: Rachel Goldberg, MD

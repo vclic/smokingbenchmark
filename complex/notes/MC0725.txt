@@ -1,0 +1,27 @@
+PULMONOLOGY CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Patient: Curtis Jones, M, DOB 7/29/1958
+Date of Service: 07/29/2025
+Author: Rachel Goldberg, MD
+
+Referral reason: incidental pulmonary nodule follow-up (initially noted on CT abd/pelvis for unrelated indication).
+
+HPI: Mr Jones is a 67 year old man who returns for follow up of an incidentally found right upper lobe nodule. He denies hemoptysis, unintentional weight loss, or new dyspnea, though he does note occassional exertional SOB which he attributes to his known OSA and obesity. No fevers/chills. He continues on his home CPAP with variable compliance per his report, [inaudible] regarding actual hours used per night. Cardiology following for atrial fibrillation, currently rate-controlled.
+
+Review of Systems: Constitutional: negative for fever, chills, night sweats. HEENT: negative. Cardiac: occasional palpitations, known afib. Resp: mild exertional dyspnea as above, no cough, no hemoptysis. GI: negative. GU: negative. MSK: negative. Neuro: negative. Skin: negative. Psych: negative. All other systems reviewed and negative.
+
+Physical Exam: Vitals stable, BP 138/84, HR 76 irregularly irregular, RR 16, SpO2 95% RA, BMI 34. General: obese male, NAD. HEENT: PERRL, oropharynx clear. Neck: no lymphadenopathy. Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi. CV: irregularly irregular rhythm, no murmur. Abd: soft, obese, nontender. Ext: no edema. Neuro: grossly intact.
+
+Social History: Patient smoked half a pack (about 10 cigarettes) per day for 23 years, then stopped completely for 2 years, then restarted at three-quarters of a pack (about 15 cigarettes) per day for 25 years and continues to smoke today. He is an active smoker. Denies alcohol excess, no illicit drug use.
+
+[Copied from note dated 06/29/2023]: Smoking status: current smoker.
+
+Problem List:
+- I10 Essential hypertension
+- I48.91 Atrial fibrillation, unspecified
+- G47.33 Obstructive sleep apnea
+- E66.9 Obesity, unspecified
+- R91.1 Solitary pulmonary nodule (outdated entry, prior CT)
+
+Medications: lisinopril 20mg daily, metoprolol succinate 50mg daily, apixaban 5mg BID, atorvastatin 40mg daily, omeprazole 20mg daily as needed.
+
+Assessment/Plan: Mr Jones is an active smoker as detailed above in social history, this remains the single most important modifiable risk factor for progression of his pulmonary nodule and future malignancy risk. We discussed lung cancer screening in general terms and continued smoking cessation counseling was provided, nicotine replacement therapy options reviewed. Repeat imaging recommended per Fleischner guidelines, follow up in 6 months or sooner if symptoms arise.

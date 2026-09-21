@@ -1,0 +1,74 @@
+OFFICE VISIT NOTE
+Patient: Linda Powell (F), DOB 8/1/1955 (age 70)
+Date of Service: 10/03/2025
+Provider: Farah Siddiqui, MD - Family Medicine
+Visit Type: Annual Wellness Visit
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI: Ms. Powell is a 70-year-old female presenting for her annual wellness visit. She reports feeling generally well. She continues to use her CPAP nightly for OSA with good adherence per her report. Mood has been stable on current antidepressant regimen; she denies SI/HI. Joint pain from osteoarthritis is intermittent, mostly affecting knees, managed with acetaminophen PRN. No recent gout flares reported; last flare was several months ago. She denies chest pain, hemoptysis, unexplained weight loss, or dyspnea at rest.
+
+FAMILY HISTORY: Mother had COPD and was a lifelong smoker; she passed away from respiratory complications. Father with history of hypertension. No other significant family history reported.
+
+SOCIAL HISTORY: Patient reports occasional alcohol use, approximately 1-2 glasses of wine per week. She lives alone in a single-story home and remains independent with activities of daily living. She is a retired schoolteacher. No safety concerns identified in the home environment.
+
+[COPIED FORWARD FROM VISIT DATED 03/14/2022 - NOTE: some information below may be outdated]
+REVIEW OF SYSTEMS (templated, copied forward):
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+HEENT: Denies vision changes, hearing loss, sore throat.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, wheezing, dyspnea.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Positive for chronic joint pain (see HPI).
+Skin: Denies rashes, lesions, pruritus.
+Neuro: Denies headache, dizziness, numbness, tingling.
+Psych: Positive for depression, stable on medication (see HPI).
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, bleeding, lymphadenopathy.
+[END COPIED SECTION]
+
+PHYSICAL EXAM (templated):
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.4F, Wt 168 lbs, Ht 64in, BMI 28.8
+General: Well-developed, well-nourished female in no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema. Mild crepitus noted in bilateral knees. No active gout tophi visualized.
+Skin: Warm, dry, intact, no rashes.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact.
+Psych: Mood euthymic, affect appropriate.
+
+PROBLEM LIST:
+1. G47.33 - Obstructive sleep apnea (active)
+2. F32.9 - Major depressive disorder, unspecified (active)
+3. M19.90 - Osteoarthritis, unspecified site (active)
+4. M10.9 - Gout, unspecified (active)
+5. E78.5 - Hyperlipidemia, unspecified (resolved per pt, outdated entry - consider removing)
+6. J45.909 - Asthma, unspecified (outdated - patient reports no history of asthma, likely erroneous carryover)
+
+MEDICATIONS:
+1. Sertraline 100mg PO daily
+2. Allopurinol 300mg PO daily
+3. Colchicine 0.6mg PO PRN for gout flare
+4. Acetaminophen 500mg PO PRN for joint pain
+5. Atorvastatin 20mg PO daily
+6. Vitamin D3 2000IU PO daily
+7. Melatonin 5mg PO QHS PRN sleep
+8. CPAP therapy nightly
+
+ASSESSMENT/PLAN:
+1. OSA - continue CPAP, reinforce adherence, review download data at next sleep clinic follow-up.
+2. Depression - stable on sertraline, continue current dose, follow up in 3 months or sooner if symptoms worsen.
+3. Osteoarthritis - continue acetaminophen PRN, discussed weight-bearing exercise and PT referral if symptoms worsen.
+4. Gout - continue allopurinol, monitor uric acid levels at next labs, colchicine PRN for flares.
+5. Health maintenance - mammogram and colonoscopy up to date per patient report, will verify with records. Age-appropriate cancer screening discussed generally.
+6. Immunizations - updated influenza and shingles vaccines discussed; patient to schedule.
+
+Return to clinic in 1 year or sooner as needed.
+
+---
+ADDENDUM (later same day, 10/03/2025, Farah Siddiqui, MD):
+Patient called back after visit to clarify home BP monitoring instructions. Advised to log BP twice daily and bring log to next visit. No other changes to plan at this time.

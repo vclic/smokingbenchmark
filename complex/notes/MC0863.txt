@@ -1,0 +1,50 @@
+Pulmonology Follow-Up Progress Note
+Patient: Maria Scott | DOB: 02/02/1950 | Age: 76
+Date of Service: 04/15/2026
+Provider: Kevin Osei, MD (NP progress note)
+
+CC: Follow-up of incidental lung nodule found on prior CT chest.
+
+HPI:
+Ms. Scott is a 76-year-old woman referred to pulmonology after an incidental 8mm nodule was noted in the right upper lobe on a CT abdomen/pelvis obtained for unrelated GI workup in Jan 2026. Pt reports feeling well overall, no new cough, no hemoptysis, no unintentional weight loss. She denies fevers/night sweats. Some mild dyspnea on exertion which she attributes to deconditioning - walks about 2 blocks before needing to rest. No chest pain. She is accompanied today by her daughter. Reviewed prior imaging report with pt; nodule surveillance plan discussed.
+
+PMH: Depression, Hypertension, BPH
+PSH: None significant
+Allergies: NKDA
+Meds: Sertraline 50mg daily, Lisinopril 20mg daily, Tamsulosin 0.4mg qHS
+
+Social History (EHR templated block):
+ Tobacco use: Noncontributory
+ Alcohol use: Not on file
+ Illicit drug use: Denies
+ Occupation: Retired (former admin assistant)
+ Living situation: Lives with daughter
+ Exercise: Not on file
+
+ROS: Constitutional - negative for fever, chills, wt loss. Resp - mild DOE as above, denies cough/hemoptysis. CV - negative. GU - reports nocturia x2, stable, followed by urology for BPH. Psych - endorses stable mood on current sertraline dose, denies SI/HI. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 97% RA, Temp 98.2F, Wt 152 lb
+Gen: NAD, well-appearing woman, appears stated age
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi
+CV: RRR, no murmur
+Abd: soft, NT/ND
+Ext: no edema
+
+Labs/Results:
+ CBC (04/10/2026): WBC 6.1, Hgb 13.2, Plt 245
+ BMP (04/10/2026): Na 140, K 4.2, Cr 0.9, eGFR >60
+ CT chest w/o contrast (01/22/2026): 8mm solid nodule RUL, no other findings, no lymphadenopathy
+ PFTs (03/2026): FEV1 88% predicted, FVC 91% predicted, FEV1/FVC 0.79
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, RUL, 8mm - low-moderate concern given imaging characteristics. Social history noncontributory per chart; unable to further risk-stratify tobacco exposure at this time as data not available. Plan for repeat CT chest in 6 months per standard nodule surveillance protocol (Fleischner-based interval). Will correlate with prior imaging when available.
+2. Hypertension - well controlled on current regimen, continue lisinopril, recheck BP at next visit.
+3. Depression - stable per pt report, continue sertraline, no changes today.
+4. BPH - stable, continue tamsulosin, f/u with urology as scheduled.
+Return to clinic in 6 months or sooner with any new respiratory symptoms. Pt verbalizes understanding, all questions answered.
+
+Electronically signed: Kevin Osei, MD
+
+---ADDENDUM (later same day, 04/15/2026)---
+Addendum: Called pt's daughter re: scheduling of repeat CT chest in 6 months (approx Oct 2026); daughter verbalizes understanding and will assist with transportation. No other changes to plan. Chart reviewed again - social history remains documented as noncontributory; no additional details obtained regarding tobacco history at this time. -Kevin Osei, MD

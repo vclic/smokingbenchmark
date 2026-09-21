@@ -1,0 +1,58 @@
+Pulmonology Follow-up Note
+Date of Service: 02/11/2026
+Author: Daniel Reyes, MD
+
+Patient: Lan Brown, F, DOB 02/11/1970 (56 y.o. today - happy birthday to her, as she noted wryly in clinic)
+
+HPI:
+Ms. Brown returns for f/u after recent ED visit and short hospitalization for COPD exacerbation. She was seen approx 2 wks ago with worsening dyspnea, increased sputum, wheeze - treated with prednisone taper and nebs, sent home w/ abx course (azithro). Today she reports improved breathing though still some residual cough. Denies fever, denies chest pain. Sats stable at home per her pulse ox readings ("I check it every morning, it's usually 94 or so").
+Pt states, "I was doing better for a while, but the coughing fits come back when the weather changes." Also endorses fatigue, attributes partly to poor sleep - known OSA, uses CPAP inconsistently per pt report ("I hate the mask, doc, it's [inaudible] uncomfortable").
+No new orthopnea, no PND, no leg swelling.
+
+ROS: otherwise negative except as above; denies hemoptysis, denies unintentional weight loss.
+
+PMH:
+- Obstructive sleep apnea (on CPAP, adherence poor)
+- Hypothyroidism (on levothyroxine)
+- COPD (recent exacerbation, on home inhalers - albuterol PRN, tiotropium daily)
+
+Social History:
+Lives with husband, retired schoolteacher. Previously quit smoking in 2020, unfortunately relapsed in 2022 and has been smoking since. No alcohol use reported. No illicit drug use reported. Works part-time, formerly in retail.
+
+Meds:
+- Levothyroxine 75 mcg daily
+- Tiotropium 18 mcg inhaled daily
+- Albuterol MDI PRN
+- Prednisone taper (near completion)
+- Azithromycin (completing course)
+
+Allergies: NKDA
+
+Vitals: BP 128/82, HR 88, RR 18, Temp 98.4F, SpO2 93% RA, Wt stable per chart
+
+Physical Exam:
+General: NAD, conversing in full sentences, mild expiratory wheeze audible without stethoscope
+HEENT: unremarkable, no LAD
+CV: RRR, no murmurs
+Resp: decreased breath sounds bilat bases, scattered expiratory wheezes, no crackles, no accessory muscle use at rest
+Abd: soft, NT/ND
+Ext: no edema, no clubbing
+Neuro: grossly intact
+
+Labs/Imaging (reviewed from ED visit):
+CXR: hyperinflation, no acute infiltrate, no effusion
+CBC: WBC mildly elevated at time of ED visit, now trending down per outpt labs today
+TSH: within normal limits, thyroid fxn stable on current dose
+
+Assessment/Plan:
+1. COPD, recent exacerbation - clinically improved since ED visit and hospitalization, near completion of steroid taper and antibiotics. Continue tiotropium daily, albuterol PRN. Reinforce inhaler technique - pt demonstrated in clinic, technique adequate.
+   Smoking: Patient continues to smoke despite counseling on prior visits and today. She has smoked 2.5 packs per day since 1987, and this ongoing tobacco use remains the single most important modifiable risk factor for her COPD progression and exacerbation frequency. Extensive discussion held today regarding smoking cessation resources including nicotine replacement therapy, varenicline, and referral to the state quitline. Patient states she is "not ready" to quit again at this time given prior relapse in 2022, but agreed to consider follow-up with cessation counseling. Lung cancer screening was discussed in general terms as part of overall risk reduction counseling.
+2. Obstructive sleep apnea - adherence to CPAP suboptimal per patient report, likely contributing to daytime fatigue. Will refer back to sleep medicine for mask refitting and adherence coaching. Discussed importance of consistent use given overlap with COPD-related hypoxia risk (overlap syndrome).
+3. Hypothyroidism - stable, TSH wnl on current levothyroxine dose, continue same.
+4. Health maintenance - up to date on influenza vaccine per pt report, pneumococcal vaccine status to be confirmed, will order if not already given. Discussed general pulmonary health maintenance.
+
+Return to clinic in 4-6 weeks or sooner if worsening symptoms. Pt given return precautions - to call or go to ED if increased shortness of breath, fever, chest pain, or hemoptysis. Follow-up pulmonary function testing to be scheduled once acute exacerbation fully resolved.
+
+Time spent in visit: approximately 25 minutes, majority spent on counseling and coordination of care given complexity of overlapping conditions (COPD, OSA, tobacco use).
+
+Electronically signed: Daniel Reyes, MD, Pulmonology

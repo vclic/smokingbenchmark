@@ -1,0 +1,87 @@
+CLINIC PROGRESS NOTE – Pulmonology
+Patient: Rita Schmidt | DOB: 02/07/1969 | Age: 57 | Sex: F
+Date of Service: 02/07/2026
+Author: Catherine Lindqvist, DO
+
+=== NURSE INTAKE ===
+Vitals: BP 138/84, HR 92 (irregularly irregular), RR 20, SpO2 92% RA, Temp 98.2F, Wt 221 lb, Ht 5'4"
+Chief complaint: f/u after ED visit/COPD exacerbation, ongoing SOB and productive cough.
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking history detail: Patient reports smoking 2 packs per day for 2 years, then stopped completely for 2 years, then restarted at 2 packs per day for 2 years before quitting for good.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Spouse tobacco use: Spouse also smokes cigarettes.
+Exercise: Sedentary, limited by dyspnea
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Ms. Schmidt is a 57-year-old woman with history of COPD, T2DM, PAD, gout, atrial fibrillation, GERD, and obesity who presents for follow-up after a recent ED visit for COPD exacerbation. She reports improvement in dyspnea since starting prednisone taper and increased albuterol use, though she still has intermittent wheeze and cough productive of white sputum. No fevers, no hemoptysis, no chest pain. She denies current tobacco use; she quit smoking right after her stroke and has not smoked since. She notes her husband continues to smoke in the home, which she finds triggers her cough at times.
+
+PAST MEDICAL HISTORY (problem list, ICD-10):
+- COPD, unspecified (J44.9)
+- Type 2 diabetes mellitus without complications (E11.9)
+- Peripheral artery disease (I73.9)
+- Gout, unspecified (M10.9)
+- Atrial fibrillation, paroxysmal (I48.0) [note: last documented as persistent in 2023, may be outdated]
+- GERD (K21.9)
+- Obesity, BMI 37 (E66.9)
+- Ischemic stroke (1992)
+- Hyperlipidemia (E78.5) [chart lists this but pt denies current statin need, may be outdated]
+
+MEDICATIONS:
+1. Metformin 1000mg BID
+2. Empagliflozin 10mg daily
+3. Apixaban 5mg BID
+4. Metoprolol succinate 50mg daily
+5. Albuterol/ipratropium nebulizer PRN
+6. Tiotropium inhaler daily
+7. Fluticasone/salmeterol inhaler BID
+8. Prednisone taper (currently 20mg daily, tapering)
+9. Allopurinol 300mg daily
+10. Omeprazole 20mg daily
+11. Atorvastatin 40mg daily
+12. Cilostazol 100mg BID
+13. Multivitamin daily
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats; reports mild fatigue
+HEENT: denies sore throat, denies rhinorrhea
+Cardiovascular: denies chest pain, reports occasional palpitations (known AFib), denies syncope
+Respiratory: reports cough, dyspnea on exertion, denies hemoptysis
+GI: reports occasional heartburn, denies nausea/vomiting, denies melena
+GU: denies dysuria, denies hematuria
+Musculoskeletal: reports intermittent gout flares in great toe, denies acute flare today
+Neuro: denies focal weakness, denies numbness, denies headache (stable since remote stroke)
+Skin: denies rash, denies lesions
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+General: obese woman, mild respiratory distress, speaking in full sentences
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+Cardiovascular: irregularly irregular rhythm, no murmurs appreciated, distal pulses diminished bilaterally at DP/PT (known PAD)
+Respiratory: diffuse expiratory wheeze, prolonged expiratory phase, no crackles
+Abdomen: obese, soft, non-tender, non-distended, normoactive bowel sounds
+Extremities: no edema, trophic skin changes consistent with PAD, no ulcers
+Neuro: alert and oriented x3, no focal deficits, gait steady
+Skin: no rashes or lesions noted
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, improving – continue prednisone taper, nebulizer treatments, follow up in 2 weeks for spirometry once stable. Discussed smoking cessation resources for household exposure given spouse's continued smoking, and reinforced importance of avoiding secondhand smoke exposure at home. Lung cancer screening was discussed at a general level as part of preventive care conversation.
+2. Type 2 diabetes – A1c pending, continue metformin/empagliflozin.
+3. Peripheral artery disease – continue cilostazol, monitor claudication symptoms.
+4. Atrial fibrillation – continue apixaban and metoprolol, rate well controlled today aside from palpitation complaint.
+5. Gout – continue allopurinol, no acute flare.
+6. GERD – continue omeprazole.
+7. Obesity – discussed weight management, dietary counseling referral offered.
+8. History of ischemic stroke (1992) – stable, no new neuro deficits; she quit smoking right after this stroke event in 1992 and has remained smoke-free since.
+
+Follow up in 2 weeks or sooner if symptoms worsen. Patient verbalizes understanding of plan.
+
+Electronically signed: Catherine Lindqvist, DO – 02/07/2026

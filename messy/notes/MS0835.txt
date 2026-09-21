@@ -1,0 +1,65 @@
+Hospital Discharge Follow-Up Visit
+DOS: 05/12/2024
+Patient: Mark Flores | DOB: 5/12/1946 | Age: 78 | Sex: M
+Provider: Quentin Hale, PA-C
+
+--- NURSE INTAKE ---
+VS: T 98.2F, HR 88, RR 18, BP 138/82, SpO2 94% RA
+Wt 245 lb, Ht 5'9", BMI 36.2 (obesity - noted)
+Pt seen today post d/c from Riverside Gen after admit for pneumonia, feels 'better than last wk but still get short of breath climbin stairs'
+Chief complaint per pt: follow up after hospital stay, refill meds
+Allergies: NKDA
+Meds reconciled from d/c summary - see below
+
+--- HPI (Quentin Hale, PA-C) ---
+Mr Flores is a 78 yo M with h/o GERD and obesity who presents for f/u approx 1 wk s/p hospitalization for CAP (community acquired pneumonia), tx w/ IV abx during admit, discharged on po levofloxacin to complete course. He states 'I coughed up green stuff for days before I went in, scared the heck outta me.' Denies fever now, reports mild residual cough, no hemoptysis. Appetite improving. He notes some heartburn worse at night, attributes to lying flat, takes omeprazole most days but admits 'I forget it sometimes.'
+
+Regarding respiratory hx, pt has smoked cigarettes continuously and is a current/active smoker - he reports smoking about 1.5 packs per day for 57 years total, has never successfully quit despite multiple attempts per prior notes. He was counseled again today re: smoking cessation resources, offered referral to quitline, pt states 'I've tried patches before, didnt work for me.' Discussed general risks of continued smoking on pulmonary recovery and GERD sx.
+
+No chest pain, no palpitations. Some fatigue overall. Sleeping ok aside from reflux-related awakenings.
+
+--- SOCIAL HISTORY ---
+Tobacco: active smoker, 1.5 ppd x 57 yrs (per pt report, consistent w/ prior chart entries)
+Alcohol: occasional beer, ~1-2/wk
+Illicit drugs: denies
+Lives w/ spouse, retired factory worker
+Exercise: limited d/t SOB and knee pain
+Diet: high sodium/fatty foods per pt, contributing likely to GERD and obesity
+
+--- LABS/RESULTS (from recent d/c and today) ---
+CBC (05/05/2024, inpt): WBC 13.2 (H), Hgb 14.1, Plt 250
+CBC (05/12/2024, today): WBC 8.9 (nl), Hgb 14.0
+BMP (05/12/2024): Na 138, K 4.1, Cr 1.0, Gluc 110
+CXR (05/05/2024): RLL infiltrate c/w PNA
+CXR (05/11/2024, repeat inpt): improving, residual haziness
+SpO2 today 94% RA (baseline per chart similar)
+
+--- REVIEW OF SYSTEMS ---
+Constitutional: mild fatigue, denies fever/chills
+Resp: cough improving, denies dyspnea at rest
+GI: reflux sx as above, denies blood in stool
+CV: denies CP, palpitations, edema
+MSK: chronic knee pain, stable
+All other systems reviewed and negative except as noted above
+
+--- PHYSICAL EXAM ---
+Gen: obese male, NAD, alert and oriented x3
+HEENT: unremarkable, no oral lesions
+Neck: no JVD, no LAD
+Lungs: mild bibasilar crackles improving from prior exam, no wheeze
+CV: RRR, no m/r/g
+Abd: obese, soft, nontender, +BS
+Ext: no edema, no clubbing/cyanosis
+Skin: no rash
+
+--- ASSESSMENT/PLAN ---
+1. Community acquired pneumonia, resolving - continue levofloxacin to complete 7 day course, repeat CXR in 4-6 wks to document resolution, return precautions given for fever, worsening SOB, chest pain
+2. Tobacco use disorder, active smoker (1.5 packs/day x 57 years reported) - reiterated cessation counseling, provided quitline info, pt declined pharmacotherapy today, will readdress at next visit. Discussed impact of ongoing tobacco use on pulm recovery and overall health. Screening options for lung health were discussed with pt in general terms.
+3. GERD - continue omeprazole daily, counseled on avoiding late meals, elevating HOB, weight loss may help sx
+4. Obesity - discussed diet/exercise, referred to nutrition consult, pt agreeable to consider
+5. Overall guarded but improving clinical picture s/p pneumonia hospitalization
+
+F/u in 2 wks or sooner if worsening sx. Pt verbalizes understanding of plan.
+
+Electronically signed: Quentin Hale, PA-C
+05/12/2024

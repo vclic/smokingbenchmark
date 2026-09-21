@@ -1,0 +1,36 @@
+NURSE INTAKE - 2/25/2025
+Patient: Roger Brown, M, DOB 2/25/1953 (age 72)
+Visit: COPD follow-up, Pulmonology, Date of Service: 2/25/2025
+Author: Teresa Alvarez, NP
+
+VITALS: BP 138/82, HR 78, RR 18, SpO2 94% RA, Wt 224 lb, Ht 5'9"
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Type: Cigarettes
+Packs/day: 1 ppd
+Age started: 28
+Age quit: 66
+Years used: field left blank
+Alcohol: Occasional - Not on file details
+Drug use: Denies
+Occupation: Retired
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - chronic cough, occasional wheeze, denies hemoptysis. CV - denies chest pain, denies palpitations. GI - reflux sx stable on PPI. GU - nocturia x2, known BPH. MSK - denies new falls, known osteoporosis. Endo - diabetes stable per pt. All other systems reviewed and negative.
+
+--- COPIED FROM NOTE DATED 4/25/2022 ---
+Social history as documented on 4/25/2022: Tobacco - former smoker. No further details recorded in that 2022 entry.
+--- END COPIED SECTION ---
+
+PHYSICIAN PROGRESS NOTE - Dr. covering note dictated with NP Alvarez, DOS 2/25/2025
+HPI: Mr. Brown returns for COPD follow-up. States "I've been doing okay, just get short of breath walking up the stairs at home." Denies fevers, denies increased sputum production. He reports he no longer smokes; he quit smoking in 2019, at the time of his bypass surgery. Continues on inhalers as prescribed, uses rescue inhaler occasionally.
+
+PMH: Asthma, GERD, type 2 diabetes, osteoporosis, obesity, BPH.
+
+MEDICATIONS: Albuterol HFA prn, Tiotropium daily, Fluticasone/salmeterol BID, Omeprazole 40mg daily, Metformin 1000mg BID, Alendronate 70mg weekly, Tamsulosin 0.4mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily, Vitamin D3 2000IU daily, Calcium carbonate 600mg BID.
+
+PHYSICAL EXAM: General - NAD, obese habitus. Lungs - mild expiratory wheeze bilat, no crackles. CV - RRR, no murmurs. Abd - soft, obese, nontender. Ext - no edema. Skin - intact.
+
+ASSESSMENT/PLAN: COPD, stable. Continue current inhaler regimen. Discussed ongoing lung cancer screening considerations in general terms with patient given smoking history; no imaging ordered today. Continue GERD, DM2, osteoporosis, BPH management per PCP recommendations. Follow up in Pulmonology clinic in 6 months or sooner if symptoms worsen.
+
+Signed: Teresa Alvarez, NP

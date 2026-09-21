@@ -1,0 +1,61 @@
+CARDIOLOGY TELEHEALTH FOLLOW-UP
+Patient: Margaret Jones | DOB: 7/3/1949 (age 76) | DOS: 07/03/2025
+Provider: Catherine Lindqvist, DO
+
+CC: HF follow-up, telehealth visit.
+
+HPI: Ms. Jones reports stable dyspnea on exertion, no orthopnea, no PND. Weights stable per home log. Denies chest pain. Compliant with diuretic. Some increased knee pain limiting ambulation, otherwise doing well.
+
+PROBLEM LIST (partially outdated, EHR-generated):
+- I50.9 Heart failure, unspecified
+- E78.5 Hyperlipidemia
+- E66.9 Obesity
+- E11.9 Type 2 diabetes mellitus
+- M17.9 Osteoarthritis, knee (bilateral)
+- J44.9 COPD
+- N40.0 BPH
+- I10 Essential hypertension (dc'd 2021, kept on list - outdated)
+
+SOCIAL HISTORY (EHR template, discrete fields):
+Alcohol use: Not on file
+Illicit drug use: Denies
+Living situation: Blank
+Occupation: Retired
+TOBACCO USE:
+  Smoking status: Former smoker
+  Type: Cigarettes
+  History: Smoked 1.5 packs per day for 15 years, then reduced to approx. 8 cigarettes per day for the next 33 years before quitting.
+  Quit age: 65
+  Current use: None
+  Counseling given: N/A (already quit)
+
+[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 8/3/2023 - NOT UPDATED]
+---begin copied text---
+Note dated 8/3/2023: SOCIAL HISTORY: Tobacco - former smoker. Alcohol - occasional. Lives with spouse. Pt continues to do well on current HF regimen, no acute complaints. Denies chest pain, denies syncope. Ambulates with cane at baseline. Discussed medication adherence and diet. F/u in 6 months or sooner if symptoms worsen.
+---end copied text---
+
+ROS: Otherwise negative except as above. No fevers, no cough change, no hemoptysis.
+
+EXAM (limited, telehealth):
+General: Alert, no acute distress, appears comfortable on camera.
+Cardiac: Reports no leg swelling today, denies palpitations.
+Resp: No increased work of breathing observed.
+Ext: No visible edema per patient report.
+
+Vitals (home-reported): BP 128/76, HR 72, wt 168 lb (stable from last visit).
+
+Labs reviewed: BNP stable, BMP within acceptable range, A1c 7.2% from last draw.
+
+ASSESSMENT/PLAN:
+1. Heart failure - stable, continue current regimen, no changes today.
+2. Hyperlipidemia - continue statin, recheck lipids at next visit.
+3. Type 2 diabetes - A1c acceptable, continue metformin, reinforce diet.
+4. Osteoarthritis - discussed knee pain, recommend topical NSAID, PT referral if worsens.
+5. COPD - stable, no exacerbations reported, continue inhalers.
+6. BPH - stable on current management, no new urinary symptoms.
+7. Tobacco history - patient quit smoking; history noted above per template. Lung cancer screening was discussed with patient as part of preventive care conversation; further discussion to continue at future visit.
+8. Health maintenance - vaccines up to date per chart, will confirm at next in-person visit.
+
+F/u: Telehealth or in-person in 3 months, sooner if symptoms worsen. Patient verbalized understanding and agreed with plan.
+
+Electronically signed: Catherine Lindqvist, DO, 07/03/2025.

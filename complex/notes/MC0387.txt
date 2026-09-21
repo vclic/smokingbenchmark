@@ -1,0 +1,39 @@
+RESIDENT NOTE - Pulmonology Follow-up
+Date of Service: 06/16/2023
+Patient: Sandra Carter, F, DOB 6/16/1945 (age 78)
+Attending: Dr. Owen Fitzgerald, MD (attestation below)
+
+CC: Follow-up after ED visit/COPD exacerbation.
+
+HPI: Ms. Carter is a 78-year-old woman with a history of asthma, now with question of overlap COPD, presenting for follow-up after an ED visit last week for acute dyspnea and wheeze, treated with nebulizers, prednisone taper, and azithromycin. She reports gradual improvement in cough and breathlessness since discharge, though still using her albuterol inhaler more than usual. No fevers currently. She denies chest pain. She has a remote tobacco history, discussed further below in social history. No supplemental O2 at home. She reports mood has been stable, continues sertraline for depression.
+
+PMH/Problem List (per chart, some entries outdated):
+- E78.5 Hyperlipidemia
+- M81.0 Osteoporosis
+- M19.90 Osteoarthritis, unspecified site
+- F32.9 Major depressive disorder, unspecified (chart also lists F33.1, recurrent moderate - likely outdated, needs reconciliation)
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.1 COPD with acute exacerbation (new, added this visit)
+
+Social History: Former smoker. Patient quit smoking in 2011. Detailed smoking history obtained today given exacerbation: she smoked half a pack (about 10 cigarettes) per day for 16 years, then cut down to a quarter pack (about 5 cigarettes) per day for 21 years, then increased again to three-quarters of a pack (about 15 cigarettes) per day for 16 years before finally quitting in 2011. No current tobacco, no vaping, denies alcohol or illicit drug use. Lives with daughter, ambulates with a cane at baseline due to OA.
+
+Meds: Atorvastatin, alendronate, sertraline, albuterol MDI PRN, fluticasone-salmeterol inhaler, recently completed prednisone taper.
+
+Allergies: NKDA.
+
+Exam: Vitals stable, afebrile, SpO2 94% RA. Alert, mild kyphosis. Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use. CV: RRR, no murmurs. Ext: no edema. Gait slow but steady with cane.
+
+Labs/Imaging: CBC, BMP unremarkable per ED records from last week. CXR at that time showed no acute infiltrate, mild hyperinflation.
+
+Assessment/Plan:
+78-year-old woman, DOB 6/16/1945, seen today 6/16/2023 for follow-up after COPD exacerbation in the setting of longstanding asthma and a substantial remote tobacco history (former smoker, quit 2011).
+1. COPD/asthma overlap - continue combination inhaler, ensure proper technique reviewed with RT. Given her smoking history, lung cancer screening was discussed with the patient as a general topic of health maintenance; no imaging ordered today for this purpose. Follow-up spirometry to be arranged.
+2. Depression - stable on sertraline, continue, reassess problem list coding discrepancy (F32.9 vs F33.1) at next visit.
+3. Osteoporosis/OA - continue alendronate, calcium/vitamin D, OA managed conservatively with acetaminophen PRN.
+4. Hyperlipidemia - continue atorvastatin, lipid panel due at next annual visit.
+Return to clinic in 4 weeks or sooner if worsening symptoms.
+
+Resident: Owen Fitzgerald, MD
+Attending Attestation: I have seen and examined the patient with the resident and agree with the above assessment and plan. - Dr. Fitzgerald
+
+ADDENDUM (later same day, 06/16/2023): Patient's daughter called clinic this afternoon to clarify smoking timeline discussed at visit; confirms mother's smoking history as documented above (half pack x16 yrs, quarter pack x21 yrs, three-quarter pack x16 yrs, quit 2011) and that patient has had no relapse since quitting. No changes to plan.

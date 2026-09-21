@@ -1,0 +1,68 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 08/29/2025
+Patient: Michael Allen (M)
+DOB: 08/29/1969 (age 56, today is his birthday - patient joked "guess I get cake instead of a stress test doc")
+Author: Elena Markovic, MD (NP progress note)
+
+CHIEF COMPLAINT: Chest pain evaluation
+
+HPI:
+Mr Allen is a 56 year old male with hx of HTN, asthma, CAD, BPH, osteoporosis, and hypothyroidism who presents today for f/u of intermittent chest pain over past 2 wks. He describes it as "a tightness right in the middle of my chest, like someone's leaning on it" that comes on with exertion, lasting 5-10 min, relieved w rest. Denies radiation to arm/jaw today though endorsed some jaw achiness last visit. No assoc n/v, diaphoresis noted this time. Pt states "I get winded going up the stairs at work now, didnt used to be like that." No PND/orthopnea. Takes ASA 81mg daily per prior cards recs. Reports med compliance overall good, occasionally misses evening thyroid dose.
+
+Pt also notes he still smokes, states "I know I should quit, I've cut back some over the years but havent stopped." No new resp sx, asthma reportedly stable on current inhaler regimen, uses albuterol PRN maybe 1x/wk.
+
+ROS: Otherwise negative except as above. No fevers, no wt loss, no leg swelling.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Asthma
+- Coronary artery disease
+- BPH
+- Osteoporosis
+- Hypothyroidism
+
+MEDICATIONS: Lisinopril 20mg daily, Albuterol HFA PRN, Atorvastatin 40mg qhs, Levothyroxine 75mcg qam, Tamsulosin 0.4mg qhs, Alendronate 70mg weekly, Aspirin 81mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Current every day smoker
+ Type: Cigarettes
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, 1-2 drinks/wk
+ Drug use: denies
+ Living situation: lives w spouse
+ Occupation: warehouse supervisor
+ Exercise: sedentary-ish, states limited by dyspnea on exertion recently
+ Caffeine: 2 cups coffee/day
+
+FAMILY HISTORY: Father w MI at age 60, mother w osteoporosis, no known lung ca in family
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, T 98.4F, SpO2 97% RA, Wt stable per chart
+Gen: NAD, well appearing male
+CV: RRR, no m/r/g, no JVD
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft NT ND
+Ext: no edema, pulses 2+ symmetric
+Skin: no cyanosis
+
+LABS/STUDIES:
+Lipid panel (repeat, from last mo): LDL 98, HDL 42, TG 150
+TSH pending redraw
+EKG today: NSR, no acute ST changes, unchanged from prior
+Troponin ordered, pending at time of note
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely anginal equivalent given CAD hx - will trend troponin, consider outpt stress echo if neg. Continue ASA, statin. Pt educated on when to seek ER care.
+2. Coronary artery disease - risk factor modification remains key. Regarding tobacco use: pt has smoked cigarettes across several distinct periods - three-quarters of a pack (about 15 cigarettes) per day for 10 years, then half a pack (about 10 cigarettes) per day for 14 years, then most recently a quarter pack (about 5 cigarettes) per day for 10 years, which is his current level of use. He remains a current every day cigarette smoker. Discussed smoking cessation resources, offered nicotine replacement and referral to quitline, pt states "maybe when things calm down at work." Lung cancer screening was discussed in general terms as part of preventive care conversation.
+3. Hypertension - BP borderline elevated today, continue lisinopril, recheck next visit, reinforce low sodium diet.
+4. Asthma - mild wheeze on exam today, pt using albuterol PRN, will continue current regimen, f/u if worsening.
+5. BPH - stable on tamsulosin, no new urinary sx.
+6. Osteoporosis - continue alendronate, due for DEXA rescan this yr per chart.
+7. Hypothyroidism - continue levothyroxine, TSH redraw pending, will adjust dose if needed.
+
+Return to clinic in 4 wks or sooner if sx worsen. Pt verbalizes understanding of plan, all questions answered today.
+
+Elena Markovic, MD
+Electronically signed 08/29/2025

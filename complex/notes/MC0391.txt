@@ -1,0 +1,58 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Larry Foster (M), DOB: 02/02/1959, Age: 65
+Date of Service: 09/20/2024
+Author: Isaac Moreno, PA-C
+Visit type: HF follow-up
+
+CHIEF COMPLAINT: F/u HFrEF, mild dyspnea on exertion, med review.
+
+HPI: Pt is a 65 y/o male with h/o HFrEF (EF 35% on last echo), permanent AFib on anticoagulation, OSA on CPAP, hypothyroidism, asthma, and gout who presents for routine cardiology f/u. Reports doing reasonably well, denies orthopnea, PND, or LE edema. Mild DOE w/ 2 flights of stairs, unchanged from prior visit. Takes furosemide, carvedilol, sacubitril/valsartan, and apixaban as directed. Denies chest pain, palpitations, syncope. c/o occasional gout flares, last one ~1 month ago, resolved with colchicine.
+
+--- COPY FORWARD FROM VISIT 03/14/2024 (retained per dept policy for continuity) ---
+HPI (03/14/2024): Pt returns for HF f/u, reports stable weight, no significant edema, using CPAP nightly per wife's report, compliance ~6hrs/night per download. TSH last checked 6 wks ago WNL on current levothyroxine dose. AFib rate controlled, no recent palpitations. Denies syncope/presyncope. Gout well controlled on allopurinol, no flares x3 months at that time. Asthma stable, uses albuterol PRN rarely. Continue current regimen, f/u in 6 months, labs prior to next visit (BMP, TSH, digoxin level if applicable). Pt counseled extensively on low sodium diet and daily weights.
+--- END COPY FORWARD ---
+
+ROS: Denies fever, chills, cough, hemoptysis. Occasional wheeze, no acute distress today. GI: no N/V/D. GU: nocturia x1. MSK: no active joint swelling today. Psych: mood stable.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Alcohol use: Occasional, 1-2 drinks/wk
+Illicit drug use: Denies
+Tobacco use status: Former smoker
+Tobacco - cigarettes: See tobacco detail block below
+Tobacco - other products: Not on file
+Smokeless tobacco: Not on file
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Light walking, 3x/wk
+
+TOBACCO DETAIL BLOCK (structured):
+ Stretch 1: 1 pack per day x 10 years
+ Stretch 2: 2 packs per day x 14 years
+ Stretch 3: 1.5 packs per day x 10 years, then quit
+ Current status: Not currently smoking; he no longer smokes.
+ Quit context: Pt states he has not smoked since his 50th birthday.
+ Passive smoke exposure: None reported
+
+PHYSICAL EXAM:
+Vitals: BP 118/72, HR 68 irregular, RR 16, SpO2 96% RA, Wt 198 lb (stable)
+Gen: NAD, comfortable
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated today
+Resp: mild expiratory wheeze bilat bases, no rales
+Abd: soft, NT, ND
+Ext: no edema, trace pitting at ankles bilat, unchanged
+Neuro: A&Ox3, no focal deficits
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue GDMT, cont furosemide/carvedilol/sacubitril-valsartan, recheck BMP in 4 wks.
+2. AFib - rate controlled, cont apixaban, no changes.
+3. OSA - cont CPAP, reinforce compliance.
+4. Hypothyroidism - cont levothyroxine, TSH at next labs.
+5. Asthma - mild sx today, cont albuterol PRN, consider inhaled corticosteroid if worsens.
+6. Gout - stable on allopurinol, colchicine PRN flares.
+7. Tobacco - former smoker, quit smoking status reinforced positively; continued encouragement to maintain abstinence. Lung cancer screening discussion had previously; not further addressed in detail today given time constraints.
+8. F/u in 3 months or sooner PRN.
+
+Electronically signed: Isaac Moreno, PA-C
+
+---ADDENDUM (same day, 09/20/2024, 16:42)---
+Addendum: Pt called back after visit re: gout med refill request, called into pharmacy. No other changes to plan. Reiterated importance of daily weights and low-sodium diet. No new tobacco use reported; patient reaffirmed he has not resumed smoking. -Isaac Moreno, PA-C

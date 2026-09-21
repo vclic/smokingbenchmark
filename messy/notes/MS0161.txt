@@ -1,0 +1,54 @@
+TELEHEALTH VISIT NOTE
+DOS: 05/01/2025
+Provider: Owen Fitzgerald, MD
+Patient: Betty Adams, F, DOB 05/01/1962 (63 yo)
+
+CC: Discharge f/u s/p pneumonia
+
+HPI: Pt is a 63 yo F, DOB 5/1/1962, seen via telehealth for f/u after recent hosp d/c for CAP. Reports improving cough, less SOB, appetite returning. Denies fever/chills. Using inhaler PRN per asthma action plan. Tolerating PO abx, c/o mild GI upset. No CP, no hemoptysis. Ambulating around house w/o significant desat by home pulse ox report (per pt, not documented here).
+
+PROBLEM LIST (per chart, some outdated):
+1. J18.9 - Pneumonia, unspecified organism (active, recent hosp)
+2. M81.0 - Age-related osteoporosis w/o current pathological fracture
+3. J45.909 - Asthma, unspecified, uncomplicated
+4. E78.5 - Hyperlipidemia, unspecified
+5. N18.3 - CKD stage 3
+6. I10 - Essential HTN (old, per 2019 note, unclear if still active - pt denies HTN dx now, ? outdated entry)
+7. M25.561 - Right knee pain (2018, likely resolved)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, per pt
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+[Copy-forward text from prior visit dated 11/14/2023, retained in chart - not necessarily reflective of current status]:
+"Pt seen for routine f/u of osteoporosis and hyperlipidemia. Reports doing well overall. DEXA scan reviewed, T-score stable compared to prior. Continues on calcium/vit D supplementation. Lipid panel reviewed, LDL at goal on current statin dose. No new fractures or falls reported. Renal function stable, eGFR unchanged from baseline. Asthma well-controlled on current regimen, uses rescue inhaler rarely. Pt denies chest pain, palpitations, or syncope. Physical exam unremarkable except for mild kyphosis. Plan: continue current meds, f/u in 6 months, routine labs ordered."
+[End of copy-forward text]
+
+ROS: Otherwise negative except as above. No dysuria, no edema, no rash.
+
+PE (limited, telehealth):
+Gen: NAD, conversant, no acute distress noted on camera
+Resp: No visible increased WOB, speaking full sentences
+Skin: No rash visible
+(Formal exam limited by telehealth format)
+
+A/P:
+1. Pneumonia (J18.9) - clinically improving per pt report, s/p recent hosp d/c. Continue abx course as prescribed by inpt team, f/u CXR in 4-6 wks to confirm resolution given age. Return precautions given (worsening SOB, fever, chest pain -> ED).
+2. Asthma (J45.909) - stable, continue current inhalers, reviewed proper technique verbally.
+3. Osteoporosis (M81.0) - continue calcium/vit D, wt-bearing activity as tolerated post-pneumonia recovery.
+4. Hyperlipidemia (E78.5) - continue statin, recheck lipid panel at next visit.
+5. CKD stage 3 (N18.3) - monitor renal fxn, recheck BMP in 2-4 wks, avoid nephrotoxic agents (NSAIDs) given recent abx course.
+6. Tobacco/lifestyle - pt is a never-smoker; no tobacco cessation counseling indicated. Discussed general lung health post-pneumonia and importance of vaccination status review (pneumococcal, influenza) at next visit.
+
+F/u: Telehealth or in-person in 1-2 wks for reassessment, sooner if worsening sx. Labs as above.
+
+-- Owen Fitzgerald, MD, 05/01/2025 14:32
+
+ADDENDUM (same day, 05/01/2025 17:10):
+Spoke w/ pt again by phone re: pharmacy issue - abx refill processed, sent to correct pharmacy after initial mix-up. Pt confirms she is a lifelong never-smoker, no h/o any tobacco product use, reaffirmed during this call while discussing overall pulmonary risk factors post-pneumonia. No other changes to plan. Will continue to monitor.
+-- Owen Fitzgerald, MD

@@ -1,0 +1,54 @@
+Internal Medicine Clinic Note
+Date of Service: 5/23/2025
+Patient: Margaret Miller   DOB: 2/2/1964   MRN: 83007596
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Mrs. Miller is a 61-year-old female with a history of depression, GERD, CHF, and CAD who presents for pre-operative evaluation prior to inguinal hernia repair. Scheduled for inguinal hernia repair on 6/19/2025. Can climb 2 flights of stairs without symptoms (>4 METs). No personal/family hx of anesthesia problems.
+
+PMH:
+- ASCVD
+- Heart failure with reduced ejection fraction
+- GERD
+- Major depressive disorder, recurrent, in remission
+- History of tobacco use (Z87.891)
+PSH: Tonsillectomy (childhood); Rotator cuff repair (2001); Carpal tunnel release
+Meds: famotidine 20 mg BID; clopidogrel 75 mg daily; sertraline 50 mg daily; torsemide 20 mg daily; metoprolol succinate 50 mg daily
+Allergies: Codeine (nausea)
+Social History:
+- Lives with husband and adult daughter.
+- Retired bus driver.
+- She quite smoking about 36 years ago and has 4 pack-years.
+- Social drinker.
+FH: Brother - T2DM.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 113/84  HR: 93  RR: 12  Temp: 97.9 F  SpO2: 95% on RA  Wt: 163 lbs  BMI: 29.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Trace bilateral ankle edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (5/16/2025): Cr 0.86, K 4.3
+
+A/P:
+1. Pre-operative evaluation: RCRI 0. Low risk; no further testing needed. Hold ASA 5 days prior per surgeon.
+2. History of tobacco use (Z87.891)
+   - Encouraged continued abstinence.
+
+RTC 12 months.
+
+-- NH (MD)

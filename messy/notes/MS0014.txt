@@ -1,0 +1,70 @@
+NURSE INTAKE NOTE
+Patient: Maria Russell | DOB: 2/4/1955 | Age: 69 | Sex: F
+Date of Service: 10/08/2024
+Provider: Laura Castellano, FNP-C
+Visit type: New patient - establish care, Primary Care
+
+Vitals: BP 138/84, HR 78, RR 16, Temp 97.9F, Wt 214 lb, Ht 63in, BMI 37.9, SpO2 97% RA
+Allergies: NKDA
+Chief complaint per patient: "I just need a regular doctor, my old one retired."
+
+=== COPIED FORWARD FROM PRIOR VISIT (dated 03/14/2019, outside practice records, imported into chart) ===
+Pt seen for hypertension follow up, denies chest pain, denies SOB, c/o occasional knee pain, on lisinopril 10mg daily, A1c 7.8, recommended diet and exercise changes, follow up in 3 months, pt tolerating metformin well, no hypoglycemia episodes reported, continue current regimen, RTC prn.
+=== END COPIED TEXT ===
+
+PHYSICIAN PROGRESS NOTE
+HPI: Ms. Russell is a 69-year-old woman, DOB 2/4/1955, presenting today 10/08/2024 to establish care with our practice after her previous PCP retired. She reports a history of obesity and type 2 diabetes, both managed for several years. She states, "I've been trying to eat better but its hard with my schedule," and reports occasional fatigue in the afternoons, no polyuria, no polydipsia currently. She denies chest pain, denies palpitations, reports mild bilateral knee discomfort with prolonged standing, worse this pass winter. Home glucose monitoring done sporadically, fasting readings reportedly in the 130s-150s. She reports a 27 pack-year smoking history; she no longer smokes, having quit smoking in 2011. She denies alcohol use, denies illicit drug use. She works part time as a receptionist and lives with her husband. Review of prior records [inaudible] suggests she was on metformin and lisinopril previously, though pharmacy records are incomplete and she was not sure of her prior dosages, she says "I think it was the white pill twice a day but I'm not sure."
+
+Problem List:
+- E11.9 Type 2 diabetes mellitus without complications
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension (outdated - unclear if still active, needs reassessment)
+- M17.9 Osteoarthritis of knee, unspecified (outdated entry from prior chart, not confirmed today)
+- Z87.891 Personal history of nicotine dependence
+
+Medications (per patient report, reconciliation pending):
+1. Metformin 1000mg PO BID
+2. Lisinopril 10mg PO daily
+3. Atorvastatin 20mg PO qHS
+4. Multivitamin daily
+5. Ibuprofen 200mg PRN knee pain
+6. Calcium/Vitamin D supplement daily
+
+Review of Systems:
+Constitutional: denies fever, denies chills, endorses fatigue as above, denies unintentional weight loss
+HEENT: denies vision changes, denies hearing loss, denies sore throat
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies edema
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: denies nausea, denies vomiting, denies diarrhea, denies constipation, denies abdominal pain
+GU: denies dysuria, denies hematuria, denies frequency
+Musculoskeletal: positive for bilateral knee pain as above, denies back pain
+Skin: denies rash, denies lesions
+Neuro: denies headache, denies numbness, denies tingling
+Psych: denies depression, denies anxiety, sleep reportedly fair
+Endocrine: positive for known diabetes as above, denies heat/cold intolerance
+All other systems reviewed and negative.
+
+Physical Exam:
+General: well-developed, well-nourished woman, no acute distress, obese habitus
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear
+Neck: supple, no lymphadenopathy, no thyromegaly
+Cardiovascular: regular rate and rhythm, no murmurs, rubs, or gallops, no jugular venous distension
+Respiratory: clear to auscultation bilaterally, no wheezes, no rales, no rhonchi, normal effort
+Abdomen: soft, non-tender, non-distended, obese, normal bowel sounds, no organomegaly appreciated
+Extremities: no edema, no cyanosis, no clubbing, mild crepitus bilateral knees on ROM, no effusion appreciated
+Skin: warm, dry, intact, no rash noted
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, normal gait observed
+Psych: mood and affect appropriate, cooperative throughout visit
+
+Assessment/Plan:
+1. Type 2 diabetes mellitus (E11.9) - order HbA1c, CMP, lipid panel today; continue metformin pending reconciliation of dose; reinforce dietary counseling, discussed exercise goals
+2. Obesity (E66.9) - discussed weight management strategies, nutrition referral offered, patient interested
+3. History of hypertension (I10) - recheck BP today borderline elevated, will monitor, no new medication changes at this time pending records
+4. History of nicotine dependence (Z87.891) - patient successfully quit smoking in 2011 after 27 pack-year history; counseled on continued avoidance of tobacco, praised for maintaining cessation
+5. Knee pain - conservative management advised, ibuprofen PRN, will consider imaging if not improved
+6. Health maintenance - discussed age appropriate cancer screening including mammogram due and colonoscopy history to be verified; general preventive health counseling provided
+7. Labs ordered today, follow up in 4 weeks to review results and finalize medication reconciliation
+
+Patient verbalized understanding and agreement with plan. All questions answered. Return to clinic in 4 weeks or sooner if concerns.
+
+Electronically signed: Laura Castellano, FNP-C, 10/08/2024

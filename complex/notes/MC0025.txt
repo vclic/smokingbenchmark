@@ -1,0 +1,80 @@
+GERIATRIC ASSESSMENT CLINIC
+Date of Service: 07/27/2024
+Patient: Mark Kim | DOB: 07/06/1971 | Age: 53 | Sex: M
+Provider: Kevin Osei, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, Wt 189 lb, Ht 5'9"
+Pt is a 53-year-old male here today, 07/27/2024, for geriatric assessment, accompanied by spouse. Pt states he feels 'ok overall' but c/o intermittent knee pain and occassional heartburn. Denies chest pain, denies SOB at rest. Hx of gout flares, last one approx 3 months ago per pt report. Pt ambulates independently, uses cane occasionally for long distances.
+
+HPI (per MD, dictated - some phrases auto-transcribed, please excuse errors):
+Mr. Kim presents for routine geriatric assessment today. He reports doing reasonably well since last visit, thow he continues to have intermittent flank discomfort which he attributes to 'kidney issues,' [inaudible] and he denies hematuria or dysuria currently. He notes occasional reflux symptoms worse after spicy meals, managed with OTC antacids as needed, he says its been 'about the same' for months and he has not required ER visits. Gout has been relatively quiet, last flare was in his right first MTP joint, resolved with colchicine per his report. He denies fevers, chills, unintentional weight loss, or night sweats. Sleep is fair, he wakes 1-2x/night to void. Appetite stable. He lives with his wife in a single story home, no stairs, states he feels safe at home.
+
+Social History:
+Married, retired machinist. Lives with spouse. Denies current alcohol use, denies illicit drug use. Former smoker - see assessment/plan for detailed smoking history. Drinks 2 cups of coffee daily. Exercise: walks around neighborhood most days as tolerated.
+
+Review of Systems (templated, reviewed and updated):
+Constitutional: denies fever, chills, weight loss/gain
+Eyes: denies vision changes, wears reading glasses
+ENT: denies hearing loss, denies tinnitus
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea
+Respiratory: denies cough, denies wheeze, denies hemoptysis
+GI: + occasional heartburn as above, denies nausea/vomiting, denies melena
+GU: + nocturia x1-2, denies hematuria, denies dysuria
+Musculoskeletal: + intermittent knee and joint pain, gout hx as above
+Skin: denies rash, denies new lesions
+Neuro: denies focal weakness, denies numbness/tingling, denies falls
+Psych: denies depressed mood, denies SI/HI
+All other systems reviewed and negative.
+
+Physical Exam:
+General: well-appearing male, NAD, appropriate for age
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear
+Neck: supple, no LAD, no thyromegaly
+CV: RRR, no murmurs/rubs/gallops
+Resp: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abd: soft, nontender, nondistended, normoactive bowel sounds
+Ext: no edema, pulses 2+ bilaterally, mild crepitus right knee on ROM
+Skin: warm, dry, intact, no rashes
+Neuro: alert and oriented x3, CN II-XII grossly intact, gait steady w/ cane as needed
+MSK: no active gout flare noted on exam today, first MTP joints nontender bilaterally
+
+Labs/Results:
+06/15/2024 - Creatinine 1.6 mg/dL (baseline), eGFR 42 mL/min/1.73m2
+06/15/2024 - Uric acid 7.8 mg/dL
+06/15/2024 - CBC WNL
+05/02/2024 - DEXA: T-score -2.6 lumbar spine, consistent with osteoporosis, stable from prior
+03/10/2024 - Basic metabolic panel unremarkable aside from above
+
+Problem List (per EHR, some entries may be outdated):
+- N18.3 Chronic kidney disease, stage 3
+- M81.0 Osteoporosis without current pathological fracture
+- K21.9 GERD
+- M10.9 Gout, unspecified
+- Z87.891 Personal history of nicotine dependence
+- I10 Essential hypertension (resolved per pt report 2019, retained on list)
+- E78.5 Hyperlipidemia (chart note: reportedly diet-controlled, unclear current status)
+
+Medications:
+1. Allopurinol 100mg PO daily
+2. Omeprazole 20mg PO daily
+3. Alendronate 70mg PO weekly
+4. Calcium carbonate 600mg/Vit D3 PO daily
+5. Colchicine 0.6mg PO PRN gout flare
+6. Acetaminophen 500mg PO PRN pain
+
+--- ASSESSMENT AND PLAN (Kevin Osei, MD) ---
+Mark Kim is a 53-year-old male (DOB 07/06/1971) seen today, 07/27/2024, for geriatric assessment.
+
+Smoking history reviewed in detail today with patient. He reports a history of smoking 2 packs per day for 2 years, then stopping completely for 4 years, after which he restarted smoking at 2 packs per day for another 2 years before quitting for good. He has not smoked since his 23rd birthday and reports no tobacco use since that time. He is a former smoker, currently quit, and this has been reinforced as a positive health behavior; continued abstinence encouraged.
+
+1. CKD stage 3 - stable, creatinine and eGFR relatively unchanged from prior. Continue current management, avoid nephrotoxic agents, recheck labs in 6 months.
+2. Osteoporosis - DEXA stable, continue alendronate and calcium/vit D, reinforce fall precautions.
+3. GERD - well controlled on omeprazole, continue current regimen, reinforce dietary modification.
+4. Gout - infrequent flares, continue allopurinol, uric acid slightly elevated will monitor, colchicine PRN for flares.
+5. Tobacco use - former smoker as detailed above, quit smoking, continue to reinforce abstinence at future visits. Discussed general age-appropriate cancer screening topics with patient; further workup to be individualized.
+6. Health maintenance - immunizations reviewed and updated per schedule, discussed fall risk, home safety reviewed with pt and spouse.
+
+Follow up in geriatrics clinic in 6 months or sooner as needed. Pt verbalized understanding of plan.
+
+Electronically signed: Kevin Osei, MD

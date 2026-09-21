@@ -1,0 +1,73 @@
+NURSE INTAKE
+Date of Service: 05/17/2025
+Patient: Darnell Taylor | DOB: 04/07/1956 | Age: 69 | Sex: M
+Visit type: Hospital discharge follow-up (post-pneumonia), Primary Care
+
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.2F, SpO2 95% RA, Wt 191 lb
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Alcohol use: None - quit 2013
+Recreational drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+HPI (copy-forward from prior visit dated 01/09/2024, retained in chart by front desk staff, mixed with current note below):
+"Mr. Taylor is a 69-year-old male with history of hypothyroidism, peripheral artery disease, GERD, and coronary artery disease who presents for routine follow-up. He reports stable claudication symptoms with ambulation, denies chest pain, denies palpitations. Continues levothyroxine, aspirin, statin. Reports adherence to home meds. No new complaints at that time."
+
+CURRENT VISIT HPI (Dr. Siddiqui):
+Mr. Taylor presents today for follow-up after recent hospitalization for pneumonia, discharged several days ago. He reports improving cough, decreased fatigue, and no fevers since discharge. He is tolerating the completion of his oral antibiotic course. No shortness of breath at rest. He denies chest pain, denies hemoptysis. He reports appetite has returned to baseline.
+
+Regarding tobacco history: patient smoked approximately a quarter pack (about 5 cigarettes) per day for 25 years, then increased to about 10 cigarettes per day for the following 15 years before quitting. He quit smoking 14 years ago and has remained abstinent since. He denies alcohol use, having quit drinking in 2013. No illicit drug use reported.
+
+Review of Systems (templated, all systems reviewed):
+Constitutional: denies fever, chills, night sweats, unintentional weight loss.
+HEENT: denies vision changes, hearing changes, sore throat.
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: reports resolving cough, denies current dyspnea, denies wheeze.
+GI: denies nausea, vomiting, diarrhea, constipation, reports occasional reflux consistent with known GERD.
+GU: denies dysuria, frequency, hematuria.
+Musculoskeletal: denies joint pain, denies myalgias.
+Neuro: denies headache, denies dizziness, denies focal weakness.
+Skin: denies rash, denies new lesions.
+Psych: denies depressed mood, denies anxiety.
+All other systems reviewed and negative.
+
+Physical Exam:
+General: Well-appearing, no acute distress, elderly male sitting comfortably.
+HEENT: Normocephalic, atraumatic, oropharynx clear, no exudate.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Distal pulses diminished bilaterally in lower extremities, consistent with known PAD.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Improved from recent hospitalization.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, no acute skin changes, pedal pulses faintly palpable.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly nonfocal.
+
+Medications:
+1. Levothyroxine 75 mcg daily
+2. Aspirin 81 mg daily
+3. Atorvastatin 40 mg nightly
+4. Clopidogrel 75 mg daily
+5. Omeprazole 20 mg daily
+6. Amoxicillin-clavulanate (completing course post-discharge)
+7. Metoprolol succinate 25 mg daily
+8. Cilostazol 100 mg twice daily
+
+Assessment/Plan:
+1. Recent pneumonia, resolving - continue to complete antibiotic course, follow up chest imaging as previously arranged, return precautions reviewed.
+2. Coronary artery disease - stable, continue current regimen.
+3. Peripheral artery disease - stable claudication, continue cilostazol, encourage walking program.
+4. GERD - stable on omeprazole.
+5. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 months.
+6. Tobacco history discussed; patient remains a former smoker, quit 14 years ago. Praised for continued abstinence. Alcohol cessation since 2013 also noted and reinforced positively.
+7. Discussed general health maintenance topics including immunizations and age-appropriate screening; further discussion deferred to upcoming visit.
+
+Follow up in 4 weeks or sooner if symptoms worsen.
+
+-- Farah Siddiqui, MD
+
+ADDENDUM (later same day, 05/17/2025, 4:45 PM):
+Patient called office after visit to clarify that he completed his antibiotic course as of yesterday and is not experiencing any adverse effects. No changes to plan. Advised to continue monitoring symptoms and to call if fever or worsening cough recurs. - F. Siddiqui, MD

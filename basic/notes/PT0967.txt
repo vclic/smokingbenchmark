@@ -1,0 +1,73 @@
+Cardiology Office Visit
+
+Patient: O'BRIEN, Carmen    MRN: 64179722
+DOB: 12/26/1971    Age: 52 y.o.    Sex: Female
+Date of Service: 01/19/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Chest pressure
+
+Subjective:
+Carmen O'Brien is a 52 y.o. female who presents for evaluation of chest pain.
+Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. No radiation. No orthopnea or PND. CV risk factors: HTN, HLD, FHx premature CAD.
+
+Past Medical History:
+Diagnosis	Date
+• Emphysema
+• Essential hypertension	2022
+• Hyperlipidemia
+• Nicotine dependence, cigarettes (F17.210)
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 10 mg daily
+• amlodipine 5 mg daily
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA 2 puffs q4-6h PRN
+• atorvastatin 40 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Works as a machinist.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+  Sedentary.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS: Resp +, Skin neg, GU neg, Gen neg, GI neg, CV +, Neuro neg, MSK neg
+
+Objective:
+Vitals:
+  BP 136/87 (BP Location: Right arm, Patient Position: Sitting) | Pulse 73 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 4" | Wt 158 lb | SpO2 94% | BMI 27.09 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Chest pain
+   ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Current smoker
+   Smoking daily. Counseled on cessation for 5 min. She is contemplating quitting. Offered NRT - declined. LDCT for lung cancer screening ordered after SDM.
+
+f/u 3 mo
+
+Electronically signed by Brian Okonkwo, MD on 01/19/2024

@@ -1,0 +1,57 @@
+VASCULAR SURGERY - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Thomas Bennett   DOB: 1/8/1963   Age: 63   Sex: M
+Date of Service: 01/08/2026
+Author: Elena Markovic, MD (resident); attending attestation below
+
+CHIEF COMPLAINT: Evaluation of peripheral artery disease, claudication symptoms.
+
+HPI: Mr Bennett is a 63 yo male with hx of HTN, asthma, OSA, GERD, PAD and BPH who presents for f/u of PAD. He reports intermittant calf cramping with ambulation, improved somewhat with cilostazol. No rest pain, no ulcers noted on exam today. He denies chest pain, denies SOB at rest.
+
+--- SOCIAL HISTORY (EHR TEMPLATE) ---
+Tobacco Use Status: Former smoker
+Cigarettes/day (current): N/A
+History: Smoked 1 pack per day for 15 years, then cut back to about a quarter pack (approx 5 cigarettes) per day for 9 years, then quit.
+Quit relation to relocation: Patient quit smoking 1 year after moving to this state (relocated in 2000).
+Smokeless tobacco: Not on file
+Alcohol Use: Occasional, denies heavy use
+Drug Use: Denies
+Occupation: Retired machinist
+Living Situation: Lives with spouse
+--- END TEMPLATE ---
+
+[COPY FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2023 - VASCULAR SURGERY]
+Pt returns for routine follow up of PAD, HTN, and asthma. ABI performed showed mild-moderate disease bilaterally. Pt reports stable symptoms, no new claudication. Continues on aspirin 81mg daily, atorvastatin 40mg daily, cilostazol 100mg BID. Asthma well controlled on albuterol PRN, denies nocturnal symptoms. OSA managed w CPAP, pt reports good compliance, feels well rested. GERD symptoms controlled on omeprazole. BPH stable, no urinary retention, follows with urology. Pt was counseled regarding cardiovascular risk reduction, importance of exercise program, and foot care given PAD dx. Plan: continue current regimen, f/u in 6 mo, repeat ABI at that time.
+[END COPY FORWARD]
+
+PMH: Hypertension, Asthma, Obstructive sleep apnea (on CPAP), GERD, Peripheral artery disease, BPH
+
+MEDS: Aspirin 81mg daily, Atorvastatin 40mg daily, Cilostazol 100mg BID, Losartan 50mg daily, Albuterol PRN, Omeprazole 20mg daily, Tamsulosin 0.4mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 72, RR 16, SpO2 96% RA, Wt 198 lb
+Gen: NAD, well appearing male
+CV: RRR, no m/r/g
+Resp: CTAB, no wheeze appreciated today
+Ext: Distal pulses 1+ bilat DP/PT, no ulcers, no edema, skin intact, cap refill <3sec
+Abd: soft, NT, ND
+
+RESULTS:
+ABI (01/08/2026): Right 0.68, Left 0.71 (consistent w moderate PAD)
+Lipid panel (12/20/2025): LDL 98, HDL 42, TG 150, Total chol 178
+CBC (12/20/2025): WNL
+BMP (12/20/2025): Cr 0.9, eGFR >60, K 4.2, Na 140
+HbA1c (12/20/2025): 5.6%
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - moderate dz by ABI, symptoms stable on cilostazol. Continue current meds, reinforce walking program. Lung cancer screening was discussed given tobacco hx; pt to follow up with PCP regarding this.
+2. Hypertension - well controlled, continue losartan.
+3. Asthma - stable, continue albuterol PRN.
+4. OSA - continues CPAP, compliance good.
+5. GERD - controlled on omeprazole.
+6. BPH - stable, f/u urology as scheduled.
+
+Follow up in 6 months or sooner if worsening claudication, rest pain, or non healing wounds.
+
+Attending Attestation: I have personally seen and examined the patient with Dr Markovic and agree with the assessment and plan as documented above. - Attending Vascular Surgery

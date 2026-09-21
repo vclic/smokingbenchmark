@@ -1,0 +1,35 @@
+H&P - New Patient, Primary Care
+Patient: Barbara Foster, F, age 76 (DOB 9/9/1949)
+DOS: 12/08/2025
+Provider: Steven Park, MD
+
+CC: establish care
+
+HPI: Pt is a 76 y/o F here to establish PCP after moving to area, hx of CAD s/p stent, GERD, gout, COPD. She reports occasional exertional chest tightness relived with rest, no acute distress today, denies syncope. Denies recent flair of gout, last episode she thinks was "a while ago, maybe [inaudible] months" cant recall exact date. GERD sx controlled on omeprazole she says burning is mostly gone now just occassional after spicy food. COPD - uses albuterol prn, denies recent exacerbation or ER visits, so2 stable per pt.
+
+PMH: CAD, GERD, gout, COPD
+PSH: none reported
+Meds: omeprazole, albuterol MDI, allopurinol, aspirin, atorvastatin
+Allergies: NKDA
+
+Social History: Pt has smoked cigarettes, about half a pack (10 cigs) per day, since 1969, and continues to smoke currently. She quit drinking alcohol in 2018 and has remained abstinent since. Denies illicit drug use. Lives alone, retired school teacher.
+
+ROS: otherwise negative except as above, 10 point ROS reviewed and negative other than noted.
+
+Exam:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% RA, Wt stable
+Gen: NAD, well-appearing elderly female
+CV: RRR, no m/r/g appreciated
+Lungs: mild expiratory wheeze bilat, no crackles
+Abd: soft NT/ND
+Ext: no edema, no tophi visualized today
+
+Assessment/Plan:
+1. CAD - stable, continue ASA/statin, will get lipid panel and EKG today
+2. GERD - stable on PPI continue current dose
+3. Gout - no active flare, cont allopurinol, uric acid level today
+4. COPD - stable, continue albuterol prn, will obtain PFTs, pt continues to smoke cigarettes and was counseled extensively on smoking cessation today, offered resources including quitline and pharmacotherapy options, pt states she is "thinking about it" but not ready today
+5. Tobacco use - as above, given her ongoing cigarette use lung cancer screening was discussed with pt in general terms, will readress at future visit
+6. Health maintenance - due for age-appropriate cancer screenings, will discuss at f/u, immunizations reviewed and updated as needed today
+
+RTC 3 months or sooner prn, pt verbalized understanding of plan today.

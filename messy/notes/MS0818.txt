@@ -1,0 +1,49 @@
+Internal Medicine – Progress Note
+Patient: Theresa Smith DOB 1/17/1948 (age 75) F
+Date of Service: 01/17/2023
+Author: Daniel Reyes, MD (NP progress note)
+
+CC: f/u HTN, T2DM
+
+HPI: Pt returns for routine f/u of hypertension and diabetes. reports doing fairly well, no chest pain no palpitations though hx of afib. denies dizzness or syncope. checks BG at home, sugars running 110-160. no new sx today. c/o mild knee stiffness am, otherwise stable.
+
+ROS: neg for cough, SOB, hemoptysis, wt loss. Denies edema.
+
+Social Hx / Tobacco:
+Tobacco Use Screen (EHR template):
+Smoking status: Former smoker
+Packs/day: 0.25
+Years: 54.00
+Type: Cigarettes
+Pt states she quit smoking; no further detail on quit date documented today. Encouraged continued abstinence, discussed lung ca screening at length though this was not ordered today.
+
+PMH: T2DM, Atrial fibrillation (on anticoag), HTN.
+
+Meds: metformin 1000mg bid, lisinopril 20mg qd, apixaban 5mg bid, atorvastatin 40mg qd.
+
+Exam:
+Vitals: BP 138/78, HR 76 irreg irreg, RR 16, Wt 162 lb
+Gen: NAD, alert, pleasant elderly female
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: CTAB, no wheezes rales rhonchi
+Ext: no edema, pulses 2+
+
+Labs reviewed: A1c 7.2 (last mo), Cr 1.0, K 4.3, INR n/a (on DOAC)
+
+Problem List (ICD-10):
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Atrial fibrillation, unspecified
+- I10 Essential hypertension
+- Z87.891 Personal hx of nicotine dependence
+- M17.9 osteoarthritis knee (outdated entry, pt has not endorsed recently)
+- J45.909 asthma unspecified (outdated, chart carried over, pt denies current sx)
+
+Assessment/Plan:
+1. T2DM - A1c improved, cont metformin, recheck A1c in 3 mo.
+2. Afib - rate controlled, cont apixaban, no bleeding sx.
+3. HTN - well controlled on current regimen.
+4. Tobacco - former smoker per template above; reinforced cessation maintenance, no cessation meds needed at this time.
+5. Health maintenance - d/w pt lung cancer screening discussion, colon ca screening up to date per pt report, will confirm.
+f/u 3 months or sooner if concerns.
+
+Signed, Daniel Reyes, MD

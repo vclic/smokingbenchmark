@@ -1,0 +1,66 @@
+NURSE INTAKE
+Date of Service: 12/22/2025
+Patient: Larry Kim, M, DOB 1/10/1974 (age 51)
+Provider: Kevin Osei, MD
+Visit type: Hospital discharge follow-up (pneumonia), Primary Care
+
+Vitals: T 98.4F, HR 82, RR 18, BP 128/80, SpO2 95% RA
+Chief complaint per pt: "I'm still coughin a bit but feelin alot better since I got out of the hosptial."
+
+HPI (nurse note): Pt presents for f/u after recent hospitalization for pneumonia, dischgd 6 days ago. States "I finished most of my antibiotics, just got 2 pills left." Denies fever, chills. Reports mild dyspnea on exertion, improving. Hx of COPD and asthma, uses inhalers, reports compliance "most days." No chest pain, no hemoptysis.
+
+SOCIAL HX / TOBACCO BLOCK (templated EHR field):
+Tobacco Use Screening:
+ Smoking status: Former smoker
+ Type: Cigarettes
+ Amount: 3/4 pack per day (approx 15 cigs/day)
+ Duration: 26 years
+ Quit date/year: 2018
+ Other tobacco/nicotine products: Occasional e-cigarette/vape use reported
+ Pack-year calc: [not auto-calculated in this template]
+ Counseling given: Y - reinforced benefit of continued abstinence
+
+ROS: Resp - productive cough, improving; denies wheeze at rest. Cardiac - no palpitations, no edema. GI - unremarkable. Constitutional - fatigue improving.
+
+PHYSICIAN PROGRESS NOTE (Kevin Osei, MD)
+Date: 12/22/2025
+
+Subjective: 51 yo M w/ hx COPD, asthma, recently hospitalized for CAP, here for post-discharge f/u. Pt states "I feel like I'm gettin my energy back, just still coughin some in the morning." He c/o occassional wheeze but no acute distress. Reports adherence to inhaled therapies though admits "I forget my night dose sometimes." No fevers, no hypoxia at home per pulse ox he owns.
+
+Tobacco history reviewed per intake - pt confirmed he is a former smoker, quit in 2018, previously smoked approx 3/4 pack/day (about 15 cigs/day) x 26 yrs. He states "I havent touched a cigarette since I quit, but I'll vape every now and then, mostly at parties or when I'm stressed." Encouraged him to also stop vaping altogether given underlying lung dz.
+
+Past Medical Hx: COPD (on LAMA/LABA combo), Asthma (hx of exac requiring steroids in past), recent CAP (dischgd 12/16/2025), HTN well controlled.
+
+Meds: Tiotropium/olodaterol inh daily, albuterol PRN, amlodipine 5mg daily, completing course of amoxicillin-clavulanate (2 doses remaining per pt report).
+
+Allergies: NKDA
+
+Physical Exam:
+Gen: NAD, comfortable, conversant
+HEENT: Nml, oropharynx clear
+Neck: No LAD, no JVD
+CV: RRR, no m/r/g
+Resp: Mild exp wheeze bilat bases, decreased from prior visit per chart, no rales, no accessory muscle use
+Abd: Soft NT ND
+Ext: No edema, no clubbing
+Skin: WNL
+
+Labs/Imaging: CXR at discharge showed resolving RLL infiltrate, no effusion. CBC WNL, BMP unremarkable. Repeat CXR not indicated at this time given clinical improvement.
+
+Assessment:
+1. Recent community-acquired pneumonia, resolving - clinically improving, near completion of abx course.
+2. COPD - stable, mild residual wheeze, cont current regimen.
+3. Asthma - stable, no recent exac.
+4. Former tobacco use (quit 2018) with occasional vape use - counseled re: cessation of all nicotine products including vaping given underlying lung disease.
+5. HTN - well controlled.
+
+Plan:
+- Complete remaining abx course as prescribed.
+- Cont tiotropium/olodaterol and albuterol PRN.
+- Incentive spirometry encouraged, pulm hygiene reviewed.
+- General discussion of lung health maintenance and importance of ongoing avoidance of all inhaled irritants including vape products.
+- Strongly advised complete cessation of vaping/e-cigarette use.
+- F/u in 4 wks or sooner if worsening cough, fever, or dyspnea.
+- Pt verbalizes understanding, agrees w/ plan.
+
+Electronically signed: Kevin Osei, MD 12/22/2025

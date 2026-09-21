@@ -1,0 +1,86 @@
+RESIDENT NOTE - FAMILY MEDICINE
+Patient: Margaret Carter (DOB 1/3/1955)
+Age: 69
+Date of Service: 12/05/2024
+Author: Elena Markovic, MD (Resident)
+Attending: Dr. R. Hollis (attestation below)
+
+CHIEF COMPLAINT: Annual wellness visit.
+
+HPI:
+Ms Carter is a 69 year old woman here today for her annual wellness exam. She reports feeling generally well, with no new complaints since her last visit. She denies chest pain, dyspnea on exertion, or claudication symptoms today though she has hx of PAD and CAD which are followed by cardiology. She endorses some intermittent low back pain which she attributes to her osteoporosis, controlled w/ acetaminophen prn. She reports adherence to levothyroxine and states she has been taking it on empty stomach as instructed. No urinary retention sx, though she does note occasional nocturia x1-2, stable from prior, being followed for BPH by urology as well.
+She has not had any falls recently. Appetite good, sleep fair. She continues to smoke cigarettes, and when discussing this today she became a bit defensive, stating she "knows the risks" but isn't ready to quit at this time. Discussed general health risks of continued tobacco use, offered counseling resources and nicotine replacement options, she declined further discussion today but agreed to revisit at next visit.
+
+PAST MEDICAL HISTORY: see problem list below.
+
+MEDICATIONS:
+- Levothyroxine 75mcg daily
+- Atorvastatin 40mg daily
+- Aspirin 81mg daily
+- Alendronate 70mg weekly
+- Tamsulosin 0.4mg daily
+- Cilostazol 100mg BID
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Lives alone in single level home, ambulates independently, uses cane occasionally for longer distances due to PAD-related claudication. Retired schoolteacher. Denies alcohol use. Tobacco: patient has smoked on and off for most of her adult life; she is a current smoker. No illicit drug use reported. Widowed, has two adult children who live nearby and check in regularly.
+
+FAMILY HISTORY: Mother - osteoporosis, hip fracture in her 80s. Father - MI at age 62. No family hx of lung cancer reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, no weight loss
+Cardiovascular: no chest pain, no palpitations, known CAD and PAD stable
+Respiratory: no cough, no hemoptysis, no dyspnea at rest
+GU: mild nocturia as above, no dysuria, no hematuria
+Musculoskeletal: mild low back pain as above, no new fractures
+Endocrine: no heat/cold intolerance, no palpitations
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, Wt 148 lbs, Ht 5'4", BMI 25.4
+General: well-appearing woman, no acute distress
+HEENT: normocephalic, atraumatic, no thyromegaly appreciated
+CV: RRR, no murmurs/rubs/gallops, distal pulses diminished bilaterally in lower extremities c/w known PAD
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abdomen: soft, nontender, nondistended, no masses
+Extremities: no edema, skin intact, no ulcerations noted, cap refill slightly delayed in toes bilaterally
+Neuro: grossly intact, gait steady w/ cane
+Skin: no concerning lesions
+
+PROBLEM LIST (with ICD-10 codes):
+1. N40.0 - Benign prostatic hyperplasia (this appears to be an outdated/copy-forward entry, likely transcribed in error given patient is female - to be corrected in chart, unclear if referring to hx of BPH-like sx or transcription error from template)
+2. I25.10 - Coronary artery disease without angina
+3. M81.0 - Osteoporosis without current pathological fracture
+4. E03.9 - Hypothyroidism, unspecified
+5. I73.9 - Peripheral artery disease, unspecified
+6. Z87.891 - Personal history of nicotine dependence (NOTE: patient is a current smoker, this code needs updating, will address)
+7. Z71.6 - Tobacco use counseling
+
+ASSESSMENT/PLAN:
+69 yo F here for annual wellness visit, multiple chronic conditions stable overall.
+
+1. Health maintenance / annual wellness visit for 12/05/2024 - labs ordered incl CBC, CMP, lipid panel, TSH. Mammogram due, will order. Colonoscopy up to date per pt report, will verify w records.
+
+2. Tobacco use - patient continues to smoke cigarettes at this visit. Counseled extensively on risks including cardiovascular disease progression, worsening PAD symptoms, and general cancer risk associated with continued smoking. Patient not ready to quit at this time, declined pharmacotherapy today, agreed to reconsider. Will readdress at future visits, provided quitline information.
+
+3. CAD - stable, continue aspirin and atorvastatin, no anginal symptoms today, f/u with cardiology as scheduled.
+
+4. PAD - stable claudication, continue cilostazol, distal pulses diminished but unchanged from prior exam, f/u vascular surgery as scheduled, reinforced importance of smoking cessation given direct impact on PAD progression.
+
+5. Osteoporosis - continue alendronate, encourage weight-bearing exercise as tolerated, calcium/vit D supplementation reviewed, no new fractures.
+
+6. Hypothyroidism - continue levothyroxine, TSH ordered today to reassess dosing, clinically euthyroid.
+
+7. BPH - stable per pt, continue tamsulosin, no urinary retention, will refer back to urology if worsening.
+
+Plan discussed with patient, she verbalized understanding and agreement with above plan. RTC in 3 months or sooner if concerns, in the meantime as needed for acute issues.
+
+Elena Markovic, MD (Resident)
+
+---
+ATTESTATION: I have personally reviewed and examined the patient along with the resident physician. I discussed the case with Dr. Markovic and agree with the history, exam findings, assessment, and plan as documented above, with edits made as noted. - Dr. R Hollis, Attending Physician
+
+---
+ADDENDUM (later same day, 12/05/2024, added by Dr. Markovic):
+After further discussion following the visit, patient called back the office nursing line to clarify some questions about her medications and thyroid labs from prior year, no acute concerns raised, advised to await today's lab results, will follow up via patient portal once resulted. Also correcting problem list item #1 above - BPH entry appears to be a copy-forward error and should be removed/corrected at next visit; leaving as-is for now pending review of full chart history. No changes to smoking status or plan as documented above.

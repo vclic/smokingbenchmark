@@ -1,0 +1,81 @@
+Primary Care Progress Note
+
+Patient: FOSTER, Kenneth    MRN: 84404349
+DOB: 09/26/1951    Age: 73 y.o.    Sex: Male
+Date of Service: 02/12/2025    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Kenneth Foster is a 73 y.o. male who presents for diabetes follow-up.
+He is a former smoker with a 21-pack-year history and stopped smoking in 2013. Most recent A1c 9.6% (previously 9.6% in November 2024). Fasting glucose 130-180 per log. No hypoglycemic episodes. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Paroxysmal atrial fibrillation	2012
+• Emphysema
+• Benign prostatic hyperplasia
+• Hyperlipidemia
+• Type 2 diabetes mellitus	1993
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2005)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• albuterol HFA 2 puffs q4-6h PRN
+• diltiazem ER 120 mg daily
+• tamsulosin 0.4 mg nightly
+• rosuvastatin 10 mg daily
+• tiotropium 18 mcg inhaled daily
+• rivaroxaban 20 mg daily
+• metformin 1000 mg BID
+• semaglutide 0.5 mg weekly
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former office manager.
+  Uses a nicotine vape daily; no combustible cigarettes since quitting.
+  EtOH: 1-2 beers/wk.
+  Sedentary.
+
+Family History
+Father - prostate cancer. Mother - breast cancer at 70.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 113/80 (BP Location: Left arm, Patient Position: Sitting) | Pulse 71 | Temp 98.0 °F (Oral) | Resp 18 | Ht 6' 1" | Wt 209 lb | SpO2 88% | BMI 27.52 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.6% - above goal; add empagliflozin 10 mg daily. Diabetic eye exam referral.
+2. Benign prostatic hyperplasia
+   Nocturia x1-2; continue tamsulosin.
+
+RTC 3 months.
+
+Electronically signed by Daniel Reyes, MD on 02/12/2025

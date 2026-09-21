@@ -1,0 +1,62 @@
+PHYSICIAN PROGRESS NOTE
+Patient: Cheryl Butler | DOB: 3/27/1974 | Age: 52 | Sex: F
+Date of Service: 03/27/2026
+Author: Nadia Haddad, MD (Primary Care)
+
+REASON FOR VISIT: Hospital discharge follow-up s/p pneumonia.
+
+HPI: Ms. Butler is a 52 yo woman seen today 03/27/2026 for f/u after recent hospitalization for community-acquired pneumonia, discharged 4 days ago on po antibiotics. She states "I'm breathing a lot better than when I went in, but I still get winded going up the stairs." Denies fever, chills, chest pain. Cough improving, now productive of scant white sputum, previously more copious and discolored. She reports good po intake and appetite returning. No hemoptysis. Pt reports she has been compliant w/ inhaler and abx regimen, occasional missed dose 2/2 [inaudible] schedule mix up while staying with daughter during recovery. She denies SOB at rest currently. Some residual fatigue, which she attributes to being "cooped up in that hospital bed for days." No new joint pain beyond her baseline osteoarthritis symptoms, no chest pain radiating to arm or jaw c/w known CAD.
+
+ROS: Constitutional - fatigue as above, no fevers. Resp - improving cough, no hemoptysis, no wheeze reported. CV - no chest pain, no palpitations, no orthopnea. GI - appetite improved. MSK - chronic knee pain stable. All other systems reviewed and negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Osteoarthritis, bilateral knees - M17.0
+2. Coronary artery disease - I25.10
+3. Community-acquired pneumonia (recent hospitalization) - J18.9
+4. Hyperlipidemia (dx 2015, outdated - pt reports last lipid panel normal on current statin) - E78.5
+5. GERD (per old chart, pt states resolved years ago, kept for continuity) - K21.9
+
+SOCIAL HISTORY:
+Tobacco: Patient has a 43 pack-year smoking history. She no longer smokes; quit smoking in April 2009. Denies any relapse or use of e-cigarettes/vaping products since quitting. No current tobacco use.
+Alcohol: Patient quit drinking alcohol in 2003; denies any alcohol use since that time.
+Illicit drug use: denied.
+Occupation: retired administrative assistant.
+Lives with: daughter (temporarily during recovery), otherwise lives alone.
+Exercise: limited currently 2/2 post-pneumonia fatigue, previously walked regularly.
+
+MEDICATIONS:
+- Amoxicillin-clavulanate, continuing per discharge instructions x 3 more days
+- Atorvastatin 40 mg qhs
+- Aspirin 81 mg daily
+- Metoprolol succinate 25 mg daily
+- Acetaminophen prn for OA pain
+- Albuterol inhaler prn
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/76, HR 74, RR 16, Temp 98.2F, SpO2 96% RA, Wt stable from last visit.
+
+PHYSICAL EXAM:
+General: Well-appearing woman, NAD, appears fatigued but comfortable.
+HEENT: NC/AT, PERRL, oropharynx clear.
+Neck: Supple, no LAD, no JVD.
+Cardiac: RRR, normal S1/S2, no murmurs, rubs, or gallops appreciated on exam today.
+Pulm: Lungs with mild bibasilar crackles, improved from discharge exam, no wheeze, no rhonchi. Good air movement bilaterally.
+Abdomen: Soft, NT/ND, normoactive bowel sounds.
+Extremities: No edema. Knees w/ mild crepitus bilaterally, no effusion, no erythema, consistent w/ known osteoarthritis.
+Skin: Warm, dry, no rashes.
+Neuro: Alert and oriented x3, grossly nonfocal.
+
+LABS/IMAGING REVIEWED: CBC from discharge showing resolving leukocytosis, WBC trending down. CXR at discharge showed improving infiltrate in RLL. Basic metabolic panel wnl.
+
+ASSESSMENT AND PLAN:
+1. Community-acquired pneumonia, resolving (J18.9) - Clinically improving today, exam w/ decreased crackles compared to discharge. Will complete current course of antibiotics as prescribed at discharge. F/u CXR in 6 wks to confirm radiographic resolution given her age and smoking history. She has a 43 pack-year smoking history and no longer smokes, having quit in April 2009; given her prior tobacco exposure and this pneumonia episode we discussed ongoing lung health monitoring, though no specific imaging for cancer screening was ordered at this visit and further decisions deferred to routine preventive care discussion at a later date. Return precautions reviewed re: worsening SOB, fever, chest pain - pt verbalized understanding.
+2. Coronary artery disease (I25.10) - Stable, no anginal sx during illness or currently. Continue ASA, statin, beta-blocker as above. Will check lipid panel at next visit given last one performed some time ago per problem list note.
+3. Osteoarthritis, bilateral knees (M17.0) - Stable, baseline pain, continue acetaminophen prn, consider PT referral if symptoms worsen.
+4. Tobacco use history - Patient no longer smokes; quit smoking in April 2009 with a cumulative 43 pack-year history prior to cessation. Reinforced importance of continued abstinence, praised her for maintaining cessation for many years.
+5. Alcohol use - Patient quit drinking alcohol in 2003, no current use, no further intervention needed at this time.
+6. Health maintenance - Discussed age-appropriate screening including mammogram and colonoscopy status, pt states up to date. Discussed continued smoking cessation reinforcement despite long-term quit status, given personal hx of pneumonia and CAD.
+
+Follow-up: RTC in 6 weeks for repeat CXR and clinical reassessment, sooner if symptoms worsen. Pt verbalizes understanding and agreement w/ plan.
+
+Electronically signed: Nadia Haddad, MD

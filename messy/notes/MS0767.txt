@@ -1,0 +1,50 @@
+INTERNAL MEDICINE - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Judith Rodriguez (F), DOB 5/16/1945, Age: 78
+Date of Service: 10/15/2023
+Author: Elena Markovic, MD (resident), attending co-signature below
+
+CC: Follow-up hypertension and diabetes
+
+HPI: Ms. Rodriguez is a 78 year old woman returning for routine follow up of HTN and DM2. She states "I've been checking my sugars most mornings, they run in the 130s." She denies chest pain, SOB, orthopnea, or edema. She reports occasional nocturia which she attributes to her BPH. She adds "my knees hurt more when it rains" - unrelated to today's visit but noted. No new complaints of dysuria or hematuria. She has been compliant with lisinopril and metformin per her report.
+
+---COPIED FORWARD FROM VISIT 03/02/2022---
+Pt seen for annual wellness visit. Reviewed medication list including lisinopril 20mg daily, metformin 1000mg BID, and continued CPAP use for OSA with good adherence per download data. Pt reports mood stable on sertraline, denies SI/HI. Discussed fall risk given age, home safety reviewed. Pt lives alone, ambulates without assistive device. Colonoscopy last done 2015, pt due for repeat. Bone density scan ordered. Pt was advised to continue current regimen and follow up in 3 months. Labs reviewed: A1c 7.1, creatinine 1.4, eGFR 42.
+---END COPIED SECTION---
+
+Social History: Noncontributory. Lives alone, retired schoolteacher, denies alcohol or illicit drug use.
+
+Family History: Mother had COPD, was a lifelong smoker; father deceased of MI at age 70. One sibling with breast cancer.
+
+ROS: Otherwise negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 138/82, HR 74, RR 16, Temp 97.8F, Wt 168 lb
+Gen: Well-appearing elderly female, NAD
+CV: RRR, no murmurs
+Lungs: CTAB
+Abd: Soft, NT, ND
+Ext: No edema
+Neuro: Alert, oriented x3
+
+Problem List (ICD-10):
+1. Essential hypertension - I10
+2. Type 2 diabetes mellitus without complications - E11.9
+3. Chronic kidney disease, stage 3 - N18.3
+4. Benign prostatic hyperplasia - N40.0 (outdated dx, listed on prior charts in error given pt is female - retained per chart continuity, likely refers to unspecified urinary retention hx)
+5. Obstructive sleep apnea - G47.33
+6. Major depressive disorder - F32.9
+7. Osteoarthritis - M19.90 (not addressed today)
+
+Assessment/Plan:
+1. HTN - well controlled today at 138/82, continue lisinopril
+2. DM2 - A1c trending stable, continue metformin, reinforce diet and exercise as tolerated
+3. CKD stage 3 - stable eGFR, monitor labs in 6 mo, avoid nephrotoxic agents including NSAIDs
+4. OSA - continue CPAP, will encourage annual sleep study f/u
+5. Depression - stable on current regimen, PHQ-9 today 4, no SI/HI
+6. Health maintenance - discussed age-appropriate cancer screening including lung cancer screening discussion given family hx of COPD in mother; discussed general risk factors, no further action at this time
+7. Return to clinic in 3 months or sooner if symptoms worsen
+
+Pt verbalizes understanding and agrees with plan.
+
+Elena Markovic, MD (Resident)
+Attending Attestation: I have seen and examined the patient, discussed the case with Dr. Markovic, and agree with the assessment and plan as documented above.

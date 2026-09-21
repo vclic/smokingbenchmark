@@ -1,0 +1,69 @@
+NURSE INTAKE - Internal Medicine
+Date of Service: 01/01/2025
+Patient: Mark Foster, M, DOB 01/01/1963 (age 62)
+Author of progress note: Anita Patel, MD
+
+VITALS: BP 138/84, HR 78 irregular, RR 16, Wt 210 lb, T 97.8F
+CC: f/u HTN, DM2
+
+HPI per nurse intake: pt here for routine f/u. Reports med compliance overall. No CP, no SOB at rest. Occasional palpitations, known Afib. Uses CPAP nightly per pt report, tolerates fairly well.
+
+---- COPIED FORWARD FROM VISIT 06/14/2022 (retained in chart, not reviewed/updated this visit) ----
+HPI: 59 yo M w/ HTN, DM2, OSA, here for f/u. BP borderline elevated in clinic today. Pt c/o fatigue, admits poor sleep despite CPAP. Denies chest pain, denies edema. Meds reviewed - lisinopril, metformin, atorvastatin. Diet reviewed, pt states trying to cut back on carbs. Foot exam unremarkable, monofilament intact. A1c pending. RTC 3 months.
+ROS: (+) fatigue, (-) CP, (-) SOB, (-) dysuria, (-) polyuria, (-) polydipsia. All other systems reviewed and negative.
+PE: gen - NAD, well-appearing. CV - RRR, no m/r/g (note: pt not yet dx w/ Afib at that visit). Lungs - CTAB. Abd - soft, NT/ND. Ext - no edema.
+Assessment/Plan from that visit: HTN - continue lisinopril, recheck BP. DM2 - continue metformin, f/u A1c. OSA - continue CPAP, reinforce compliance.
+---- END COPIED FORWARD SECTION ----
+
+TOBACCO USE HISTORY (EHR template, completed this visit):
+Smoking status: Former smoker
+Type: Cigarettes
+Amount: 3/4 pack per day (~15 cigs/day)
+Age started: 16
+Age quit: 46
+Years smoked: (calc field left blank by nurse)
+Current use: No - patient no longer smokes
+Secondhand exposure: denied
+Counseling on relapse prevention: given
+
+PHYSICIAN PROGRESS NOTE - A. Patel, MD
+DOS: 01/01/2025
+
+Subjective: Mr. Foster is a 62 yo male, DOB 1/1/1963, established pt with HTN, DM2, Afib, OSA, here today for routine f/u. He states he feels generally well. Denies chest pain, denies significant dyspnea. Reports occasional palpitations, brief, self-resolving, consistent w/ known paroxysmal Afib. Compliant w/ CPAP most nights, per report. Diet - trying to watch sugar intake, admits some slips over holidays. No new falls, no vision changes, no numbness/tingling in feet currently.
+
+Tobacco: reviewed intake tobacco history above. Pt confirms - smoked 3/4 pack/day (about 15 cigarettes daily) starting at age 16, quit smoking at age 46. He has not smoked since quitting at age 46. No current tobacco use. Denies vaping, denies other nicotine products. Discussed general health benefits of remaining smoke-free, praised his quit.
+
+Alcohol: occasional, 1-2 drinks/wk. Denies illicit drug use.
+
+Meds reviewed: lisinopril 20mg daily, metformin 1000mg BID, atorvastatin 40mg qHS, apixaban 5mg BID for Afib.
+
+Exam:
+Gen: well-appearing, NAD, pleasant, conversant.
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD.
+Lungs: CTA bilat, no wheezes/rales/rhonchi.
+Abd: soft, NT, ND, +BS.
+Ext: no edema, pulses 2+ bilat, feet w/ intact sensation to monofilament.
+Skin: no lesions concerning.
+
+Labs reviewed (from this AM): A1c 7.1%, fasting glucose 132, lipid panel stable, Cr 1.0, K 4.2, TSH WNL.
+
+Assessment:
+1. Hypertension - reasonably controlled, cont current regimen.
+2. Type 2 Diabetes Mellitus - A1c slightly above goal, reinforce diet/exercise, continue metformin.
+3. Atrial fibrillation - stable on apixaban, rate controlled, no anticoag issues, no bleeding.
+4. Obstructive sleep apnea - continue CPAP, reinforce adherence, consider repeat sleep study if symptoms worsen.
+5. Former tobacco use - quit smoking history noted, remains smoke-free, continue to encourage.
+
+Plan:
+- Continue current meds as above.
+- Recheck A1c in 3 months.
+- Basic metabolic panel and lipid panel at next visit.
+- Encourage low-carb diet, home BP log.
+- CPAP compliance download at next sleep med f/u.
+- Discussed general lung health topics given his past smoking history.
+- RTC 3 months, sooner if symptoms.
+
+Electronically signed: Anita Patel, MD
+
+---- ADDENDUM (later same day, 01/01/2025, 4:47pm) ----
+Addendum by A. Patel, MD: Pt called back after visit re: question about apixaban dosing timing w/ meals - advised no food restriction needed, take as prescribed. Also clarifying chart note - tobacco history confirmed accurate as documented above (quit at age 46, no current use); nurse intake template auto-populated correctly, no corrections needed. No other changes to today's plan.

@@ -1,0 +1,27 @@
+NURSE INTAKE (7/15/2025) - Theresa Perry, F, 73 y/o, DOB 1/22/1952. Annual wellness visit, Family Medicine. VS: BP 138/82, HR 92 irreg irreg, RR 18, SpO2 91% RA, Wt 164 lb. Pt ambulates w/ cane 2/2 PAD/OA, c/o L hip ache and occasional claudication after ~1 block, denies CP. Pt states "I feel more short of breath lately, esp climbing stairs [inaudible] since the heat wave." Meds reconciled, brought bottles, list unchanged per pt.
+
+PHYSICIAN PROGRESS NOTE - Isaac Moreno, PA-C
+DOS: 07/15/2025
+CC: annual wellness visit.
+HPI: Theresa Perry is a 73-year-old female here today for her annual wellness exam she says shes doing okay overall but notes increased dyspnea on exertion the past few weaks, no chest pain no syncope no edema, she has hx of afib on anticoagulation and COPD, also PAD and OA affecting mobility. She reports med compliance and denies falls, sleep is fair, appetite fine.
+
+Social History: Longtime smoker - pt reports smoking about half a pack (10 cigs/day) for 34 years, then increased to 3 packs/day for the past 19 years and continues at that rate currently. Continues to smoke despite repeated counseling on cessation at every visit; declines referral to quitline again today. No EtOH, no illicit drug use reported. Lives alone, daughter checks in daily.
+
+ROS: otherwise negative except as above, denies fevers chills wt loss.
+
+Exam: Gen - NAD, alert, pleasant. CV - irreg irreg rate no murmur appreciated. Lungs - diminished breath sounds bilat bases, mild expiratory wheeze, using accessory muscles mildly. Ext - trace edema, dorsalis pedis pulses diminished bilat, skin intact.
+
+Problem List:
+- I48.91 Atrial fibrillation, unspecified
+- J44.9 COPD, unspecified (outdated entry, last spirometry 2021)
+- M19.90 Osteoarthritis, unspecified site
+- I73.9 Peripheral artery disease, unspecified
+- Z87.891 Personal hx of nicotine dependence (entry appears outdated/inaccurate given current use)
+
+Assessment/Plan:
+1. Afib - continue current anticoag, INR/DOAC labs stable per last check, cont rate control.
+2. COPD - continue inhalers, discussed pulm rehab referral, will monitor sx and follow up on breathing complaints.
+3. PAD - cont antiplatelet, ABI results reviewed, vascular f/u as scheduled.
+4. OA - cont NSAID PRN, PT referral discussed.
+5. Tobacco use - counseled extensively on cessation, pt continues to smoke despite counseling today, offered pharmacotherapy (varenicline) declined again, will re-address next visit.
+RTC 6 months or sooner if worsening sx.

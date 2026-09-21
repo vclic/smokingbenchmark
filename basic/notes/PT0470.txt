@@ -1,0 +1,86 @@
+Family Medicine Office Visit
+
+Patient: WASHINGTON, Betty    MRN: 94991044
+DOB: 08/07/1947    Age: 75 y.o.    Sex: Female
+Date of Service: 05/15/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Cough
+
+Subjective:
+Betty Washington is a 75 y.o. female who presents for cough.
+Cough for 7 days, dry. Subjective fever and chills. Grandchild was sick last week. Mild DOE with the cough.
+
+Past Medical History:
+Diagnosis	Date
+• ASCVD	2012
+• HTN
+• GERD
+• Osteoarthritis
+• Class I obesity
+• Mixed hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2018)
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• simvastatin 20 mg nightly
+• clopidogrel 75 mg daily
+• pantoprazole 40 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• losartan 50 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: 2 1/2 ppd
+Social History Narrative
+  Divorced, lives alone.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+  Exercise: walks daily.
+
+Family History
+Mother - rheumatoid arthritis. Mother - HTN, DM2.
+
+Review of Systems
+ROS: Resp +, Skin neg, GU neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 144/86 (BP Location: Left arm, Patient Position: Sitting) | Pulse 88 | Temp 98.4 °F (Oral) | Resp 18 | Ht 5' 6" | Wt 195 lb | SpO2 95% | BMI 31.40 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Scattered rhonchi that clear with cough
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (5/5/2023): LDL 114, Cr 0.83, K 4.5, Hgb 13.0
+
+Assessment & Plan
+1. Acute bronchitis
+   Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+2. GERD
+   Symptoms controlled.
+3. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+4. Cigarette smoker
+   Advised to quit; >4 min spent counseling. She is motivated to quit. Rx bupropion SR 150 mg daily x3d then BID. Quit date set for 18-Jun-2023.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Julia Brennan, MD on 05/15/2023

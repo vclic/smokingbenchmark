@@ -1,0 +1,78 @@
+PHYSICIAN PROGRESS NOTE
+Patient: Betty O'Brien (F)
+DOB: 05/16/1944 (age 80)
+Date of Service: 05/16/2024
+Author: Anita Patel, MD - Primary Care
+
+VISIT TYPE: Hospital discharge follow-up, s/p pneumonia (discharged 05/11/2024).
+
+HPI:
+80 yo F, recent admission for community-acquired pneumonia, now dc'd home w/ 7-day course levofloxacin, completing today. Reports improved cough, less SOB. Appetite slowly returning. Denies fevers, chills, chest pain. Denies hemoptysis. Ambulating around house w/o significant desaturation per home pulse ox (reports readings 94-96% RA). Some residual fatigue, expected post-pneumonia. Daughter accompanies pt to visit, states pt more tired than baseline but overall improving day by day.
+
+Review of systems otherwise negative except as above. GERD sx stable on current regimen, no increase in reflux. No palpitations, pt on anticoagulation for AFib, no bleeding events noted.
+
+Social history: Attempted to discuss tobacco use during visit; patient declined to discuss this topic today, redirected conversation. Will revisit at next visit. No further details on smoking history obtained or documented at this time.
+
+PMH/Problem List:
+- E11.9 Type 2 diabetes mellitus without complications
+- K21.9 GERD
+- I48.91 Atrial fibrillation, unspecified
+- N18.3 Chronic kidney disease, stage 3
+- J45.909 Asthma, unspecified, uncomplicated
+- J18.9 Pneumonia, unspecified organism (recent, resolving) - active
+- I10 Essential hypertension (dc'd per pt report 2019, still listed - needs reconciliation)
+- M19.90 Osteoarthritis, unspecified site (outdated entry, unclear if still active problem)
+
+MEDS (per discharge summary, reconciled today):
+- Levofloxacin 750mg daily (day 7/7 today)
+- Metformin 500mg BID
+- Omeprazole 20mg daily
+- Apixaban 5mg BID
+- Albuterol HFA prn
+- Fluticasone/salmeterol 250/50 one puff BID
+- Lisinopril 10mg daily (pt reports not taking, held since 2019 per report above - discrepancy noted, to clarify)
+
+ALLERGIES: NKDA
+
+VITALS:
+BP 128/76, HR 78 irregularly irregular, RR 16, Temp 97.8F, SpO2 95% RA, Wt 142 lb
+
+PHYSICAL EXAM:
+General: Frail-appearing elderly woman, NAD, alert, oriented x3.
+HEENT: NC/AT, MMM, no oral lesions.
+Neck: No JVD, no LAD.
+CV: Irregularly irregular rhythm, no murmurs appreciated, no peripheral edema.
+Lungs: Mild bibasilar crackles, improved from recent admission, no wheezes currently, no accessory muscle use.
+Abd: Soft, NT/ND, +BS.
+Ext: No edema, no clubbing or cyanosis.
+Skin: Warm, dry, intact.
+Neuro: Grossly nonfocal.
+
+LABS (reviewed from discharge, no new labs today):
+WBC 8.2 (down from 14.1 on admission), Cr 1.4 (baseline for pt per CKD stage 3), eGFR 38, HbA1c 7.2% (from last month), INR 2.3 (therapeutic range on apixaban - not applicable, pt not on warfarin, INR incidental from other workup).
+
+ASSESSMENT:
+1. Pneumonia, resolving - completing abx course today, clinically improved, lungs clearing on exam.
+2. Atrial fibrillation - rate controlled, continues apixaban, no bleeding concerns.
+3. Type 2 diabetes - reasonably controlled, will continue metformin.
+4. GERD - stable.
+5. CKD stage 3 - stable, renal function at baseline.
+6. Asthma - no acute exacerbation, continues maintenance inhaler.
+7. Tobacco use status - unable to assess today, pt declined to discuss.
+
+PLAN:
+- Continue current medication regimen as above.
+- F/u CBC and BMP in 2 weeks to ensure continued clinical improvement and stable renal function.
+- Continue apixaban, no changes.
+- Reinforce pneumococcal and influenza vaccination status at next visit if not up to date.
+- Discussed general health maintenance and preventive screening topics including age-appropriate cancer screening; lung cancer screening was discussed in general terms as part of overall preventive care discussion, per current guidelines for patients w/ significant tobacco history - however could not determine pt's specific smoking history today given her decision not to discuss it; will re-address at future visit.
+- Encouraged fluids, rest, gradual return to activity.
+- Daughter given instructions to call if fever recurs, worsening cough, SOB.
+- Follow up in office in 2 weeks, sooner if symptoms worsen.
+- Reconcile home BP meds - clarify lisinopril status with pharmacy and pt at next visit.
+
+Time spent: 30 min, >50% counseling/coordination of care.
+
+---
+ADDENDUM (later same day, 05/16/2024, 4:45 PM):
+Pt's daughter called office this afternoon w/ additional questions re: medication reconciliation, specifically asking about lisinopril - confirmed per pharmacy records pt has not filled this since 2019, consistent w/ prior note. No changes to plan. Daughter also asked about tobacco cessation resources in case topic comes up again in future - advised general cessation resources are available and can be discussed with pt directly at next visit if she is willing; reiterated that pt declined to discuss her smoking history/status during today's visit and this remains undocumented. No new clinical information obtained. -Anita Patel, MD

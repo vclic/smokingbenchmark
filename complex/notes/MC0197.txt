@@ -1,0 +1,44 @@
+Family Medicine Telehealth Progress Note
+Patient: Darnell Sanchez (M), DOB 06/15/1958, Age 66
+Date of Service: 06/15/2024
+Author: Nadia Haddad, MD (NP progress note dictated/reviewed)
+
+CHIEF COMPLAINT: Medication refills, telehealth visit.
+
+HPI: Mr. Sanchez is a 66-year-old male presenting via telehealth today, 06/15/2024, for routine medication refills. Reports feeling generally stable. No new palpitations, no chest pain, no syncope. Denies SOB at rest, mild exertional dyspnea unchanged from baseline. Continues levothyroxine, apixaban, and lisinopril without issue. States he has been taking meds as prescribed, though ran out of levothyroxine about 4 days ago - needs refill today. No new falls, no bleeding events. Denies fevers, chills, cough. Pt notes he has smoked for 47 years; states he has tried to cut back in the past without lasting success.
+
+PMH copied forward from 11/02/2022 visit note (retained for reference, may be outdated):
+"Pt with longstanding hypothyroidism on levothyroxine 100mcg daily, TSH last checked 4 months ago WNL. Afib dx'd 2015, on apixaban 5mg BID, no bridging needed. HTN controlled on lisinopril 20mg daily, home BP logs reviewed averaging 128/78. Pt denies CP, palpitations. Continues to endorse tobacco use, counseled extensively regarding cessation, declined referral to quitline at that time. Diet reviewed, low sodium encouraged. Pt tolerating current regimen well. Follow up in 6 months or sooner PRN."
+[End of copied-forward text.]
+
+ROS: Constitutional - no fever, no weight loss. Cardiac - no palpitations, no edema. Resp - no cough, no wheeze, mild dyspnea on exertion as above. GI - no complaints. Neuro - no focal deficits.
+
+SOCIAL HISTORY: Lives with spouse, retired postal worker. Denies illicit drug use. Occasional EtOH, ~1-2 drinks/week. Tobacco: current smoker, smoking history now spans 47 years total; continues to smoke despite repeated counseling regarding cessation and cardiovascular/pulmonary risks. Discussed lung cancer screening in general terms as part of preventive care discussion; no further action taken today regarding imaging.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, cooperative, no acute distress on video.
+Vitals (pt reported home cuff): BP 132/80, HR 78 irreg irreg (known afib), Wt stable per pt report.
+Cardiac: Unable to auscultate via telehealth; pt reports no new symptoms.
+Resp: Pt appears comfortable, no visible respiratory distress on camera, no accessory muscle use noted.
+Skin: no rashes visible.
+Affect: appropriate, engaged.
+
+PROBLEM LIST (ICD-10):
+1. E03.9 - Hypothyroidism, unspecified - stable on levothyroxine.
+2. I48.91 - Atrial fibrillation, unspecified - on anticoagulation, rate controlled.
+3. I10 - Essential hypertension - controlled.
+4. Z72.0 - Tobacco use - ongoing, counseled again today.
+5. E78.5 - Hyperlipidemia, unspecified (outdated entry, last documented 2019, pt reports lipid panel since WNL off statin - needs review/removal).
+6. M54.5 - Low back pain (outdated, resolved per pt, chronic entry not updated in system).
+
+ASSESSMENT AND PLAN:
+1. Hypothyroidism (E03.9) - Stable. Refill levothyroxine 100mcg daily, #90 day supply with 3 refills. Recheck TSH in 6 months or sooner if symptomatic.
+2. Atrial fibrillation (I48.91) - Rate appears controlled per pt report and home monitoring. Continue apixaban 5mg BID, refilled today. Discussed importance of adherence given stroke risk. No new anticoagulation issues reported.
+3. Hypertension (I10) - Well controlled per home BP logs. Continue lisinopril 20mg daily, refilled. Encouraged continued low-sodium diet and home monitoring.
+4. Tobacco use (Z72.0) - Patient continues to smoke despite counseling provided today and at prior visits regarding cardiovascular, pulmonary, and malignancy risk. Discussed cessation resources including quitline and nicotine replacement therapy; pt again declined referral at this time but open to discussing again at next visit. Given atrial fibrillation and long smoking history (47 years total per patient report), reinforced risk discussion. Lung cancer screening discussed in general educational terms; no imaging ordered today.
+5. Hyperlipidemia (E78.5) - outdated problem list entry, to be reviewed and updated at next in-person visit; pt reports no current statin use, will need updated lipid panel.
+6. Low back pain (M54.5) - resolved per patient, chronic problem list entry to be cleaned up, no active complaints today.
+
+Follow-up: RTC in 3-6 months or sooner if symptoms arise. Pt advised to call/message via portal with any acute concerns, chest pain, worsening palpitations, or bleeding. Refills sent to pharmacy of record as above. Telehealth visit concluded, pt verbalized understanding and agreement with plan.
+
+Electronically signed: Nadia Haddad, MD, 06/15/2024.

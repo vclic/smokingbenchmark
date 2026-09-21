@@ -1,0 +1,57 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Cheryl Robinson | DOB: 03/13/1962 | Age: 64 | Sex: F
+Date of Service: 03/13/2026
+Provider: Anita Patel, MD
+
+CHIEF COMPLAINT: cough
+
+HPI:
+Pt is a 64 yo F, DOB 3/13/1962, presenting today 03/13/2026 with c/o cough x5 days, nonproductive, worse at night. Denies fever, denies hemoptysis. Hx of chronic kidney disease stage 3 and gout, both stable per pt. She notes she used to smoke but stopped a few years back; she is a former smoker who quit smoking in 2023 and has not restarted since. No CP, no SOB at rest, mild dyspnea w exertion which she attributes to deconditioning. No sick contacts identified, no recent travel. Denies wt loss, denies night sweats.
+
+---- COPIED FORWARD FROM PRIOR VISIT DATED 09/14/2022 (chronic disease follow up) ----
+Pt seen for routine f/u of CKD stage 3 and gout. Labs reviewed, Cr stable at baseline. Uric acid slightly elevated, continue allopurinol. Pt reports occasional joint flares, using colchicine PRN w good relief. BP controlled on current regimen. Diet reviewed, counseled on low purine diet and renal-friendly diet, encouraged hydration. Pt tolerating meds well, no new complaints at that time. Will recheck renal panel in 6 months. Continue current meds, f/u prn or routine.
+---- END COPIED FORWARD TEXT ----
+
+ROS: Constitutional - no fever, no chills. Resp - cough as above, no wheeze reported by pt. CV - no CP no palpitations. GI - nl appetite. GU - no dysuria. MSK - no active gout flare currently. Skin - nl.
+
+PMH: chronic kidney disease stage 3, gout
+PSH: none significant
+MEDS: allopurinol, colchicine PRN, others per chart
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Lives w spouse, retired admin assistant. Denies illicit drug use. Occasional etoh, ~1-2 drinks/wk.
+Tobacco use: pt has hx of tobacco use, additional details captured in tobacco block below.
+
+----TOBACCO USE TEMPLATE (per EHR smoking hx module)----
+Smoking status: Former smoker
+Cigarettes per day: 20
+Years smoked: 31
+Quit year: 2023
+Counseling: N/A - pt already quit, reinforced benefit of continued abstinence
+----END TOBACCO TEMPLATE----
+
+FAMILY HX: mother w HTN, father w CAD, noncontributory to acute issue today.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78, BP 132/78, RR 16, SpO2 97% RA
+Gen: NAD, comfortable, conversing full sentences
+HEENT: OP clear, no erythema, nares patent
+Neck: no LAD, no JVD
+Resp: mild scattered rhonchi bilat bases, no wheeze, no crackles, good air movement
+CV: RRR, no m/r/g
+Abd: soft NTND, nl bs
+Ext: no edema, no gout tophi visualized today, no active joint swelling
+Skin: warm dry intact
+Neuro: A&Ox3, no focal deficits
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs post nasal drip. Supportive care, fluids, rest. Return if worsening dyspnea, fever, or hemoptysis. Consider CXR if not improved in 1-2 wks.
+2. Chronic kidney disease stage 3 - stable, continue routine monitoring, renal panel due at next PCP visit.
+3. Gout - stable, continue allopurinol, colchicine PRN for flares.
+4. Tobacco history - patient is a former smoker as noted above; discussed general risks of prior tobacco use and importance of continued abstinence. Lung cancer screening options were discussed in general terms; no imaging ordered today by this urgent care visit.
+5. Return precautions given. F/u w PCP for chronic disease mgmt as scheduled.
+
+Pt verbalized understanding of plan, all questions answered today 3/13/2026.
+
+Electronically signed: Anita Patel, MD

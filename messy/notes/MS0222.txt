@@ -1,0 +1,66 @@
+TELEHEALTH VISIT NOTE
+Patient: Janet Adams (F), DOB 10/24/1974, Age: 50
+Date of Service: 11/20/2024
+Provider: Gregory Tan, MD - Geriatrics
+Visit Type: Geriatric Assessment (video visit)
+
+=== COPIED FORWARD TEXT FROM PRIOR VISIT (05/14/2023) — left in chart, not reviewed/updated ===
+CC: f/u BPH, GERD, hypothyroidism
+HPI: 50 yo? female here for routine f/u. Pt reports occassional nocturia x2, denies dysuria hematuria. GERD sx controlled on current regimine, denies heartburn wakening her at night. TSH last checked stable. Lipid panel pending. PAD stable, no claudication today. Pt states "I feel about the same as last time." ROS otherwise negative. Meds reviewed no changes. Plan: cont current meds, f/u 6 months, labs ordered.
+=== END COPIED FORWARD BLOCK ===
+
+HPI (current, 11/20/2024):
+Ms Adams is a 50 year old female seen today via telehealth for geriatric assessment. She reports doing reasonably well overall. She states "my stomach has been fine since I started taking that pill every morning" referring to her GERD regimen. She denies new urinary sx though notes mild hesitancy at times, unchanged. Mood is described as "okay, some days are harder than others." She endorses fatigue and intermittent leg cramping with walking which she attributes to her PAD, says "my legs still bother me on the stairs." No chest pain, no syncope, no falls since last visit. Sleep fair. Appetite good. She lives alone, family checks in weekly per pt report.
+
+PMH: BPH, GERD, hypothyroidism, hyperlipidemia, peripheral artery disease, depression
+
+PSH: none reported
+
+Allergies: NKDA
+
+Medications (reviewed today, reconciled):
+- Tamsulosin 0.4mg qhs
+- Omeprazole 20mg qam
+- Levothyroxine 75mcg qam
+- Atorvastatin 40mg qhs
+- Cilostazol 100mg BID
+- Sertraline 50mg daily
+
+=== SOCIAL HISTORY (EHR templated block) ===
+Tobacco use: Current every day smoker
+Smoking status: Current smoker
+Type: Cigarettes
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+Marital status: Divorced
+=== END SOCIAL HISTORY BLOCK ===
+
+ROS: As above in HPI; all other systems reviewed and negative except as noted.
+
+Vitals: BP 138/82, HR 78, RR 16, T 98.4F, Wt 162 lb, SpO2 97% RA (per home device relayed to staff)
+
+Physical Exam (limited, telehealth):
+General: alert, no acute distress, appears stated age
+Cardiovascular: no visible distress, unable to auscultate via video
+Extremities: pt shows lower legs to camera, no visible ulceration, mild pallor noted on distal foot bilaterally per pt report of coolness
+Psych: mood congruent affect, cooperative, linear thought process
+
+Assessment/Plan:
+1. Tobacco use disorder — pt continues to smoke cigarettes, reports smoking 1.5 packs per day for 32 years. Counseled on smoking cessation resources including quitline and pharmacotherapy options; pt states she is "thinking about it" but not ready to set a quit date today. Lung cancer screening was discussed in general terms as part of preventive care conversation. Will continue to encourage cessation at future visits.
+2. BPH — stable on tamsulosin, no urinary retention sx, continue current dose.
+3. GERD — well controlled on omeprazole, continue, reinforce diet/lifestyle measures.
+4. Hypothyroidism — clinically euthyroid today per pt report, will check TSH at next labs.
+5. Hyperlipidemia — continue atorvastatin, discussed diet, repeat lipid panel at next visit.
+6. Peripheral artery disease — reports intermittent claudication with stairs, continue cilostazol, reinforce walking program as tolerated, smoking cessation particularly important here given vascular risk.
+7. Depression — mood variable but stable overall, continue sertraline, no SI/HI voiced today, will monitor.
+
+Health maintenance: reviewed immunization status, discussed age-appropriate screening; pt agreeable to f/u labs prior to next visit.
+
+Disposition: RTC in 3 months or sooner if concerns, telehealth or in person per pt preference. Pt verbalized understanding of plan and agreed with above.
+
+Time spent: 22 minutes, more than half spent in counseling/coordination of care including tobacco cessation discussion.
+
+Electronically signed: Gregory Tan, MD, 11/20/2024

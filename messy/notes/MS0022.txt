@@ -1,0 +1,89 @@
+Urgent Care Progress Note
+Patient: Robert Rodriguez (M), DOB 02/02/1968 (age 57)
+Date of Service: 02/02/2025
+Author: Daniel Reyes, MD, NP-C
+Location: Riverside Urgent Care Clinic
+
+CHIEF COMPLAINT: Cough x 5 days.
+
+HPI: Mr. Rodriguez is a 57-year-old male with history of coronary artery disease, osteoarthritis, type 2 diabetes, and depression who presents today with a 5-day history of cough, described as intermittent, dry at times, occasionally productive of clear-to-white sputum. He denies fever, chills, or hemoptysis. No significant dyspnea at rest, but reports mild exertional shortness of breath which he attributes to his chronic cough. He denies chest pain, though he notes some tightness with coughing spells. He has not tried any OTC remedies yet. He continues to smoke cigarettes despite being counseled at prior visits on smoking cessation, stating he has 'cut back a little' but has not stopped. On further review of his tobacco history obtained today, he reports a 55 pack-year smoking history. He was encouraged again today to consider cessation options including nicotine replacement therapy and counseling referral.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease - s/p stent placement, on antiplatelet therapy
+2. Osteoarthritis - bilateral knees
+3. Type 2 diabetes mellitus - on metformin
+4. Depression - on sertraline
+
+MEDICATIONS:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg daily
+- Metformin 1000 mg BID
+- Sertraline 100 mg daily
+- Lisinopril 10 mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Yes
+Smoking status: Never Smoker [NOTE: This field is outdated/incorrect in the chart - see narrative below for accurate history; patient has a 55 pack-year smoking history and continues to smoke.]
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired warehouse supervisor
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+[Copied forward from visit dated 06/14/2023 - Dr. Reyes]
+Patient seen for follow up of hypertension and knee pain. Reports doing well overall. BP controlled on current regimen. Knees remain achy, worse with prolonged standing, uses OTC NSAIDs sparingly given renal function should be monitored. Discussed weight management and home exercise program. No new complaints at that time. Continues on metformin, sertraline, aspirin, atorvastatin as above. Follow up in 3 months or sooner if symptoms worsen. Patient counseled on medication adherence and reviewed diabetic foot care. A1c at that visit was 7.2%. Denies chest pain, palpitations, or syncope. Cardiac exam unremarkable, regular rate and rhythm, no murmurs appreciated. Lungs clear to auscultation bilaterally at that time. Extremities without edema. Plan included continuation of current medications, recheck labs in 3 months, and reinforcement of lifestyle modifications including diet and exercise.
+[End copied forward text]
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, weight loss
+Respiratory: Positive for cough as above, denies hemoptysis, denies significant dyspnea
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND
+GI: Denies nausea, vomiting, diarrhea, abdominal pain
+Musculoskeletal: Chronic bilateral knee pain, stable
+Psychiatric: Reports mood stable on current sertraline dose
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.4F, SpO2 96% on room air, Weight 202 lb, Height 5'10"
+General: Alert, oriented, no acute distress, mild intermittent cough noted during visit
+HEENT: Normocephalic, atraumatic, oropharynx clear, no erythema
+Neck: Supple, no lymphadenopathy, no JVD
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+Respiratory: Mild scattered rhonchi bilaterally, no wheezes, no rales, no accessory muscle use
+Abdomen: Soft, nontender, nondistended, normal bowel sounds
+Extremities: No edema, pulses intact bilaterally
+Skin: Warm, dry, no rashes
+Neuro: Grossly intact, no focal deficits
+Psychiatric: Mood/affect appropriate, cooperative
+
+LABS/RESULTS:
+CBC (01/28/2025): WBC 7.8, Hgb 14.2, Hct 42.1, Plt 245
+CMP (01/28/2025): Na 139, K 4.2, Cl 102, CO2 25, BUN 18, Cr 1.0, Glucose 142
+HbA1c (01/28/2025): 7.4%
+Lipid panel (11/15/2024): Total chol 178, LDL 98, HDL 42, TG 190
+Chest X-ray (02/02/2025, today): No acute cardiopulmonary process. No focal consolidation. Heart size within normal limits. No pleural effusion.
+
+ASSESSMENT:
+1. Acute cough, likely viral upper respiratory infection versus acute bronchitis - chest x-ray today without acute findings
+2. Tobacco use disorder - continues to smoke despite counseling; patient reports a 55 pack-year smoking history; the 'Never Smoker' designation previously documented in the social history template is inaccurate and should be corrected in the chart
+3. Coronary artery disease - stable, no acute symptoms today
+4. Type 2 diabetes mellitus - A1c 7.4%, slightly above goal
+5. Osteoarthritis - chronic, stable
+6. Depression - stable on current medication
+
+PLAN:
+1. Acute cough - supportive care with fluids, rest, guaifenesin as needed for symptomatic relief. Return precautions given for worsening dyspnea, fever, chest pain, or hemoptysis. Chest x-ray reassuring today.
+2. Tobacco use - discussed smoking cessation extensively again today given his continued smoking and 55 pack-year history. Discussed nicotine replacement therapy options, bupropion, and varenicline as potential aids. Referral to tobacco cessation counseling program offered and accepted. Correction noted to chart regarding outdated 'Never Smoker' field - accurate smoking history documented in this note.
+3. CAD - continue current cardiac regimen, follow up with cardiology as previously scheduled.
+4. Diabetes - continue metformin, discussed dietary modifications, recheck A1c in 3 months.
+5. OA - continue conservative management, refer to PT if symptoms worsen.
+6. Depression - continue sertraline, patient reports mood stable, no acute safety concerns identified today.
+7. Follow up with primary care physician within 1-2 weeks or sooner if symptoms worsen or fail to improve.
+
+Patient verbalized understanding of plan and agreed with above recommendations. All questions answered. Follow up as above.
+
+Electronically signed by Daniel Reyes, MD
+02/02/2025

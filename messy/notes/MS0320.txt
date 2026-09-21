@@ -1,0 +1,71 @@
+PROGRESS NOTE – Hospital Discharge Follow-up
+Patient: Carmen Lopez | DOB: 6/3/1949 (age 76) | Sex: F
+Date of Service: 08/13/2025
+Author: Catherine Lindqvist, DO (Primary Care)
+
+CHIEF COMPLAINT: F/u after recent hospitalization for pneumonia.
+
+HPI:
+Ms. Lopez is a 76-year-old woman with CKD stage 3 and OSA, s/p recent 4-day admission for community-acquired pneumonia, presenting today for post-discharge follow-up. She reports gradually improving energy and cough since discharge, though still using her rescue inhaler occasionally. Denies fevers, chills, or hemoptysis. She reports quitting smoking in 2025 after this hospitalization scared her into stopping for good; she has not touched a cigarette since. Prior to quitting, she reports a long smoking history of 1 to 1.5 packs per day for 59 years. She denies any illicit substance use. Appetite has improved; she is sleeping better with her CPAP, though admits inconsistent use over the past week.
+
+PROBLEM LIST:
+1. J18.9 – Pneumonia, unspecified organism (resolving)
+2. N18.3 – Chronic kidney disease, stage 3
+3. G47.33 – Obstructive sleep apnea
+4. I10 – Essential hypertension (outdated entry, last addressed 2019, unclear if still active)
+5. E78.5 – Hyperlipidemia (outdated entry, no recent lipid panel on file)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: 2025
+Alcohol use: Denies
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives alone, daughter checks in daily
+Exercise: Not on file
+
+[COPIED FORWARD FROM NOTE DATED 9/13/2021]
+PATIENT REPORTS SHE IS A CURRENT SMOKER. SHE HAS BEEN COUNSELED MULTIPLE TIMES ON THE IMPORTANCE OF SMOKING CESSATION AND EXPRESSES AMBIVALENCE ABOUT QUITTING AT THIS TIME. SHE CONTINUES TO USE TOBACCO DAILY. NO QUANTITIES DOCUMENTED IN THIS PRIOR NOTE. PT ALSO C/O CHRONIC KNEE PAIN, MANAGED WITH ACETAMINOPHEN. FOLLOW UP IN 6 MONTHS FOR ROUTINE CKD LABS. [END COPIED TEXT]
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, mild fatigue.
+Respiratory: Improving cough, no dyspnea at rest.
+Cardiovascular: No chest pain, no palpitations.
+GI: Appetite improved, no nausea/vomiting.
+GU: No dysuria, no hematuria.
+Musculoskeletal: Chronic mild knee discomfort, stable.
+Neuro: No headaches, no focal weakness.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, Temp 97.8F, SpO2 96% RA
+General: Alert, well-appearing, no acute distress.
+Lungs: Mild bibasilar crackles, improved from prior exam, no wheezes.
+Cardiac: RRR, no murmurs.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema.
+Skin: Warm, dry, intact.
+
+LABS/RESULTS:
+08/09/2025 (during admission): WBC 11.2 (elevated), CRP 42 mg/L (elevated), Creatinine 1.4 mg/dL (baseline for CKD3)
+08/13/2025 (today, outpatient): CBC WNL, BMP: Creatinine 1.3 mg/dL, eGFR 48 mL/min/1.73m2, Potassium 4.3 mmol/L
+Chest X-ray (08/09/2025): Right lower lobe infiltrate, improving on repeat imaging prior to discharge.
+
+ASSESSMENT:
+76-year-old woman with CKD stage 3 and OSA, recovering well from recent pneumonia. Notably, she reports she no longer smokes, having quit in 2025 after decades of tobacco use (1 to 1.5 packs per day for 59 years per patient report). This represents a significant positive change from her smoking status documented in previous visits, including as recently as 2021 when she was still an active smoker.
+
+1. Pneumonia, resolving – clinically improved, repeat CXR not indicated at this time given symptomatic improvement.
+2. CKD stage 3 – stable, creatinine trending down from admission baseline. Continue current management, avoid nephrotoxic agents.
+3. OSA – encourage more consistent CPAP compliance; will discuss with sleep medicine if adherence remains poor.
+4. Tobacco use, former – patient successfully quit smoking in 2025. Discussed importance of maintaining cessation, provided resources for relapse prevention. Lung cancer screening was discussed with the patient as part of general preventive health conversation given her extensive smoking history.
+
+PLAN:
+- Continue supportive care for pneumonia recovery, f/u in 2 weeks or sooner if symptoms worsen.
+- Repeat BMP in 4-6 weeks to monitor renal function.
+- Reinforce CPAP adherence at next visit; consider sleep medicine referral if non-adherent.
+- Congratulated patient on smoking cessation; encouraged continued abstinence with strong positive reinforcement.
+- Update immunizations (pneumococcal, influenza) as indicated.
+- Follow up in office in 2 weeks.
+
+Electronically signed: Catherine Lindqvist, DO – 08/13/2025

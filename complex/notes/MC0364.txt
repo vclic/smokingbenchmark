@@ -1,0 +1,63 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Paul Adams | DOB: 06/23/1973 | Age: 52 | Sex: M
+Date of Service: 06/23/2025
+Visit: COPD follow-up, Pulmonology
+Author: Laura Castellano, FNP-C (resident); attending co-signature below
+
+CC: "I've been more short of breath climbing stairs, doc."
+
+HPI: Mr. Adams is a 52-year-old male with hx of COPD, atrial fibrillation, T2DM, and hypothyroidism presenting for routine f/u. He reports increased dyspnea on exertion over past 2-3 wks, no fevers/chills. States, "I feel more winded than usual, but my cough is about the same." Denies chest pain, denies hemoptysis. Compliant with tiotropium and albuterol PRN. Reports occasional peripheral edema, denies orthopnea. Uses home O2 PRN with exertion, sats reportedly fine at rest per pt. No recent hospitalizations. Pt states, "I've been trying to walk more but it's tough some days."
+
+ROS: Constitutional - no wt loss, no fever. Resp - + dyspnea on exertion, chronic cough stable. CV - no palpitations noted today though known AFib, on anticoagulation. GI - unremarkable. Endo - denies polyuria/polydipsia. All other systems negative per pt report.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Smoking status: Former smoker
+Pack-year history: Smoked 2 packs/day x 2 years, then decreased to approx. 15 cigarettes/day for the next 3 years before quitting.
+Quit history: Pt first quit smoking in 1986, restarted in 1991, quit for good in 1998.
+Alcohol: occasional, denies drugs.
+Occupation: retired warehouse supervisor.
+
+PMH / Problem List (per chart, some entries outdated):
+1. COPD, unspecified, J44.9 (active)
+2. Atrial fibrillation, I48.91 (active, on apixaban)
+3. Type 2 diabetes mellitus without complications, E11.9 (active)
+4. Hypothyroidism, unspecified, E03.9 (active, on levothyroxine)
+5. GERD, K21.9 (chart carried forward, pt denies current sx)
+6. Seasonal allergic rhinitis, J30.2 (inactive, outdated entry)
+7. h/o tobacco use, Z87.891 (former smoker, quit long ago per hx above)
+
+Meds: Tiotropium 18mcg inhaled daily, Albuterol HFA PRN, Apixaban 5mg BID, Metformin 1000mg BID, Levothyroxine 75mcg daily, Atorvastatin 20mg daily.
+
+Allergies: NKDA.
+
+Vitals: BP 138/84, HR 78 irregular, RR 18, T 98.4F, SpO2 94% RA, Wt 198 lb, BMI 29.4.
+
+Exam:
+Gen: NAD, comfortable, conversant.
+HEENT: PERRL, no JVD.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest.
+Ext: trace pitting edema bilat ankles.
+Skin: warm, dry, no cyanosis.
+Neuro: grossly intact.
+
+Labs/Studies reviewed: TSH WNL 6 mo ago, HbA1c 7.1% last visit, INR therapeutic on last check. Spirometry from 3 mo ago showed moderate obstruction (FEV1 62% predicted), unchanged from prior.
+
+Assessment:
+52M with COPD (moderate obstructive pattern), AFib on anticoagulation, T2DM, hypothyroidism, now with worsening exertional dyspnea, likely COPD exacerbation vs deconditioning vs early volume overload given mild edema. Former smoker with substantial hx of tobacco use as above, quit for good in 1998.
+
+Plan:
+1. COPD: Continue tiotropium, add short course of azithromycin if sx worsen, reinforce inhaler technique, consider pulm rehab referral. Repeat spirometry in 6 mo.
+2. Dyspnea/edema: check BNP, consider echo given AFib + edema, monitor weight daily.
+3. AFib: continue apixaban, HR control adequate, no acute changes.
+4. T2DM: continue metformin, recheck A1c in 3 mo.
+5. Hypothyroidism: continue levothyroxine, recheck TSH in 6 mo.
+6. Tobacco: reinforced continued abstinence, praised long-term cessation success; general counseling on avoiding relapse triggers given.
+7. Lung cancer screening discussed in general terms per guidelines; further discussion to occur with PCP.
+8. F/u in 3 months or sooner if worsening symptoms.
+
+Discussed plan with pt, questions answered, pt verbalizes understanding.
+
+Resident: Laura Castellano, FNP-C
+
+ATTESTATION: I have personally reviewed and examined the patient with the resident/NP above. I agree with the documented history, exam findings, assessment, and plan as written, with minor modifications discussed in person. — Attending Physician, Pulmonology, 06/23/2025.

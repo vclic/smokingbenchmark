@@ -1,0 +1,79 @@
+GERIATRICS CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Walter Foster
+DOB: 01/10/1959 (Age: 67)
+Sex: M
+Date of Service: 01/10/2026
+Referring Provider: Dr. R. Simmons
+Author: Teresa Alvarez, NP
+
+Dear Dr. Simmons,
+
+Thank you for referring Mr. Foster, a 67 y/o gentleman, for comprehensive geriatric assessment. He was seen today, 01/10/2026, in the Geriatrics clinic for eval of multiple comorbidities including BPH, depression, COPD, and atrial fibrillation.
+
+HPI:
+Mr. Foster reports overall stable health since last f/u. He c/o mild urinary hesitancy and nocturia x2, consistent w/ known BPH, currently managed medically. Mood has been intermittently low; he endorses some anhedonia but denies SI/HI. He notes occasional dyspnea on exertion, which he attributes to his COPD, though he denies acute exacerbation sx (no increased sputum, no fever). He is compliant w/ his anticoagulation for AFib and denies palpitations or syncope. No chest pain. He reports good appetite, stable weight, and denies falls since last visit.
+
+PMH:
+- BPH
+- Depression
+- COPD
+- Atrial fibrillation
+
+PSH: none significant on file
+
+Medications (per chart, reconciled today):
+- Tamsulosin 0.4mg qhs
+- Sertraline 50mg daily
+- Tiotropium inhaler daily
+- Apixaban 5mg BID
+- Albuterol PRN
+
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Alcohol use: Reports 1-2 glasses of wine on weekends, denies heavy use.
+Living situation: Lives with spouse in single-story home, independent with ADLs/IADLs.
+Occupation: Retired postal worker.
+Tobacco use: [field left blank]
+Drug use: Not on file
+Exercise: Not on file
+
+ROS: Otherwise negative except as above. Denies fevers, chills, night sweats, hemoptysis, unexplained weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76 irregular, RR 16, T 98.1F, SpO2 96% RA, Wt 182 lb, Ht 5'9"
+Gen: NAD, well-groomed, appears his stated age
+CV: Irregularly irregular rhythm, no murmurs
+Resp: Mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft, NT/ND, no organomegaly
+GU: deferred, prior eval by urology on file
+Neuro: A&Ox3, gait steady, no focal deficits
+Ext: no edema
+Psych: mood mildly dysphoric, affect appropriate, no SI/HI
+
+LABS/RESULTS (reviewed today):
+- CBC (01/03/2026): WBC 6.8, Hgb 13.9, Plt 210 — WNL
+- BMP (01/03/2026): Na 139, K 4.3, Cr 1.0, eGFR >60
+- TSH (12/15/2025): 2.1 — WNL
+- INR (01/08/2026): 2.3 — therapeutic
+- PSA (11/2025): 1.8 — stable from prior
+
+ASSESSMENT/PLAN:
+1. BPH - stable on tamsulosin, will continue; f/u with urology as scheduled.
+2. Depression - mood mildly low but stable, continue sertraline, reassess at next visit; consider psych referral if worsens.
+3. COPD - mild wheeze on exam today, continue tiotropium and albuterol PRN; reviewed inhaler technique. Lung cancer screening was discussed with the patient today; however, this was deferred until his smoking history can be obtained, as tobacco use field was not completed in his social history and could not be clarified further during today's visit.
+4. Atrial fibrillation - INR therapeutic at 2.3, continue apixaban, no dose change.
+5. General geriatric health maintenance - reviewed fall risk (low), immunization status up to date per chart, encouraged continued independence with ADLs.
+
+Will f/u in 3 months or sooner if issues arise. Please contact clinic with any questions.
+
+Sincerely,
+Teresa Alvarez, NP
+Geriatrics
+
+---
+ADDENDUM (later same day, 01/10/2026, 4:45 PM):
+Patient's spouse called clinic after visit to clarify a question regarding medication timing for apixaban; advised to continue current dosing schedule as prescribed, no changes made. No new clinical information obtained regarding tobacco use or other social history items at this time. Will attempt to clarify smoking history at next visit or via phone outreach prior to considering further discussion of lung cancer screening.
+
+- T. Alvarez, NP

@@ -1,0 +1,85 @@
+Family Medicine Progress Note
+
+Patient: HARRIS, Dorothy    MRN: 55458919
+DOB: 06/11/1947    Age: 77 y.o.    Sex: Female
+Date of Service: 05/20/2025    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Low back pain
+
+Subjective:
+Dorothy Harris is a 77 y.o. female who presents for low back pain.
+Low back pain for 1 month, worse with activity. She smoked a pack a day for 52 years and quit in 2017 when her husband was diagnosed with lung cancer. No numbness or weakness. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• Mild persistent asthma	2005
+• Depression
+• Paroxysmal atrial fibrillation
+• History of tobacco use (Z87.891)
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumpectomy, benign
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• sertraline 100 mg daily
+• apixaban 5 mg BID
+• metoprolol tartrate 25 mg BID
+• trazodone 50 mg nightly PRN
+• multivitamin daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 1.00
+    Years: 52.00
+    Pack years: 52.00
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with husband.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+  Sedentary.
+
+Family History
+Mother - breast cancer at 70.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 110/83 (BP Location: Left arm, Patient Position: Sitting) | Pulse 85 | Temp 98.0 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 179 lb | SpO2 97% | BMI 27.98 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (May 1, 2025): Cr 0.86, K 4.8, Hgb 14.1
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. History of tobacco use (Z87.891)
+   Remains abstinent.
+
+Return in about 6 months (around 11/20/2025).
+
+Electronically signed by Julia Brennan, MD on 05/20/2025

@@ -1,0 +1,56 @@
+VASCULAR SURGERY - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Julia Brennan, MD (Resident, co-signed by attending)
+Date of Service: 07/10/2024
+Patient: Ronald King, M, DOB 07/10/1956 (age 68)
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease, worsening claudication.
+
+HPI: Mr. King is a 68-year-old male with history of HFrEF, depression, obesity, and hyperlipidemia who presents today for evaluation of PAD. He reports increasing bilateral calf pain with ambulation, now limiting him to about one block before needing to stop. He denies rest pain or non-healing ulcers at this time. Notably he is a former smoker with a substantial smoking history - he reports having smoked 3 packs per day; he has since quit, though the specific timeframe of cessation is not documented in the chart. He continues to endorse fatigue and mild dyspnea on exertion, which are followed by his cardiology team for his known HFrEF. Mood has been stable on current psychiatric regimen; no active SI/HI.
+
+REVIEW OF SYSTEMS: Denies chest pain, orthopnea, PND. Positive for bilateral lower extremity claudication. Denies fevers, chills, unintentional weight loss. Denies numbness/tingling in feet. GI/GU otherwise unremarkable.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Former smoker
+ Smoking status: Former smoker
+ Cigarettes per day: Not on file
+ Packs per day: 3 packs/day (historical)
+ Years smoked: Not on file
+ Quit date: Not on file
+ Type of tobacco: Cigarettes
+ Smokeless tobacco: Never
+ Alcohol use: Former drinker, quit in 2004
+ Drugs: Denies
+ Occupation: Retired
+ Living situation: Lives with spouse
+
+PAST MEDICAL HISTORY: Heart failure with reduced ejection fraction, depression, obesity, hyperlipidemia, peripheral artery disease.
+
+MEDICATIONS: Carvedilol, lisinopril, furosemide, atorvastatin, sertraline, aspirin 81mg.
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, Wt 236 lb, BMI 34.9
+General: Obese male, NAD.
+Cardiovascular: RRR, no murmurs, mild bilateral lower extremity edema.
+Pulmonary: CTAB.
+Vascular: Diminished bilateral dorsalis pedis and posterior tibial pulses, right slightly weaker than left. Femoral pulses 2+ bilaterally. No ulcers or gangrene noted. Skin cool distally, mild hair loss on lower legs.
+Abdomen: Soft, non-tender, obese habitus, no bruits appreciated.
+
+LABS/RESULTS:
+ Lipid panel (06/28/2024): Total cholesterol 210 mg/dL, LDL 138 mg/dL, HDL 38 mg/dL, TG 175 mg/dL
+ BNP (06/28/2024): 420 pg/mL
+ Ankle-brachial index (07/01/2024): Right 0.68, Left 0.72
+ Basic metabolic panel (06/28/2024): Cr 1.1, eGFR >60, K 4.2
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, symptomatic (claudication) - ABI results today consistent with moderate PAD bilaterally. Patient is a former smoker with a notable prior smoking history (3 packs per day) which likely contributed to vascular disease burden. Will start supervised exercise therapy referral, continue aspirin, discuss cilostazol if no contraindication. Continue to reinforce tobacco cessation maintenance given prior heavy use, though patient has already quit. Lung cancer screening was discussed in general terms given smoking history; further workup deferred to primary care.
+2. HFrEF - stable, continue current GDMT, follow with cardiology.
+3. Depression - stable on sertraline, continue monitoring.
+4. Obesity - counseled on diet and exercise, BMI 34.9.
+5. Hyperlipidemia - LDL above goal, continue atorvastatin, consider dose increase at next visit.
+6. Alcohol - patient reports quitting alcohol use in 2004; no current concerns.
+
+Follow-up in vascular surgery clinic in 3 months, sooner if symptoms worsen. Attending Dr. Brennan attests to having reviewed and discussed this case with the resident; agrees with assessment and plan as documented above.
+
+Electronically signed: Julia Brennan, MD

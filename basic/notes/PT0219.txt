@@ -1,0 +1,79 @@
+Cardiology Clinic Note
+
+Patient: ALEXANDER, Gwendolyn    MRN: 54147047
+DOB: 09/29/1966    Age: 59 y.o.    Sex: Female
+Date of Service: 03/30/2026    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Heart failure f/u
+
+Subjective:
+Gwendolyn Alexander is a 59 y.o. female who presents for heart failure follow-up.
+Weight stable on home scale. Sleeps on 1 pillow, no PND. No LE edema. Last echo 2/28/2025: EF 30%.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic systolic heart failure
+• Essential hypertension
+• Type 2 diabetes mellitus
+• Primary OA, bilateral knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2023)
+• C-section x2 (2017)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diclofenac 1% gel QID PRN
+• torsemide 20 mg daily
+• lisinopril 20 mg daily
+• semaglutide 0.5 mg weekly
+• metformin 1000 mg BID
+• metoprolol succinate 50 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+  Independent in ADLs.
+
+Family History
+Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: CV neg, Resp neg, MSK neg, Skin neg, Neuro neg, GU neg
+
+Objective:
+Vitals:
+  BP 144/82 (BP Location: Left arm, Patient Position: Sitting) | Pulse 83 | Temp 98.2 °F (Oral) | Resp 20 | Ht 5' 3" | Wt 119 lb | SpO2 98% | BMI 21.01 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Benign
+Extremities: Trace bilateral ankle edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (3/9/2026): A1c 8.9%, LDL 141, Cr 0.78, K 4.8
+
+Assessment & Plan
+1. Heart failure
+   NYHA II. Trace edema only; continue GDMT, daily weights, 2 g Na diet.
+2. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+
+RTC 3 months.
+
+Electronically signed by Rachel Goldberg, MD on 03/30/2026

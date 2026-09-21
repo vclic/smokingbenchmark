@@ -1,0 +1,86 @@
+Internal Medicine Progress Note
+
+Patient: FLORES, William    MRN: 41466146
+DOB: 10/16/1945    Age: 78 y.o.    Sex: Male
+Date of Service: 01/30/2024    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up
+
+Subjective:
+William Flores is a 78 y.o. male who presents for routine follow-up of chronic conditions.
+No new concerns. Asks about refills.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension	1999
+• Acquired hypothyroidism
+• Osteoarthritis of knees
+• Gastroesophageal reflux disease
+• COPD, GOLD 2	1997
+• Type 2 diabetes
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 100 mcg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• amlodipine 5 mg daily
+• sitagliptin 100 mg daily
+• famotidine 20 mg BID
+• lisinopril 10 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• tiotropium 18 mcg inhaled daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Heavy Tobacco Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 1 pack/day x 53 yrs
+Social History Narrative
+  Widowed; lives with daughter.
+  No alcohol.
+
+Family History
+Mother - osteoporosis, hip fracture. Father - MI at 74.
+
+Review of Systems
+ROS: CV neg, Skin neg, MSK neg, Gen neg, Neuro neg, Resp +, GU neg, GI neg
+
+Objective:
+Vitals:
+  BP 151/89 (BP Location: Right arm, Patient Position: Sitting) | Pulse 104 | Temp 98.5 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 178 lb | SpO2 93% | BMI 27.13 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (1/16/24): A1c 9.2%, LDL 86, Cr 0.71, K 4.2, Hgb 15.7, TSH 2.77
+
+Assessment & Plan
+1. Essential hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+2. Gastroesophageal reflux disease
+   Trial PPI step-down.
+3. Tobacco dependence
+   Advised to quit; >4 min spent counseling. He is in the precontemplation stage. Offered NRT - declined. Eligible for annual LDCT; ordered.
+4. Type 2 diabetes
+   Repeat A1c in 3 months. Annual eye exam reminder.
+
+Return in about 6 months (around 7/30/2024).
+
+Electronically signed by Brian Okonkwo, MD on 01/30/2024

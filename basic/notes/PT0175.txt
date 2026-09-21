@@ -1,0 +1,88 @@
+Primary Care Office Visit
+
+Patient: THOMPSON, Susan    MRN: 87673500
+DOB: 03/03/1966    Age: 59 y.o.    Sex: Female
+Date of Service: 09/02/2025    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• COPD follow-up
+
+Subjective:
+Susan Thompson is a 59 y.o. female who presents for follow-up of COPD.
+Dyspnea with moderate exertion, mMRC 2. 1 exacerbation in the past year, most recently in July treated with prednisone and azithromycin. Using albuterol daily lately. Cough productive of white sputum.
+
+Past Medical History:
+Diagnosis	Date
+• HTN	2005
+• Chronic obstructive pulmonary disease
+• Hyperlipidemia
+• Atrial fibrillation
+• Osteoarthritis	2001
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2007)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• umeclidinium-vilanterol 62.5/25 1 inh daily
+• chlorthalidone 12.5 mg daily
+• lisinopril 40 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• acetaminophen 500 mg 2 tabs TID PRN
+• simvastatin 20 mg nightly
+• apixaban 5 mg BID
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: 1 ppd since age 21
+Social History Narrative
+  Widowed; lives with daughter.
+  Retired, former nurse.
+  Quit for 1 yr starting in 2023 but restarted in 2024.
+  Social drinker.
+  No IVDU.
+  Sedentary.
+
+Family History
+Son - type 1 diabetes. Mother - dementia, d. 84.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 151/80 (BP Location: Right arm, Patient Position: Sitting) | Pulse 89 | Temp 98.0 °F (Oral) | Resp 18 | Ht 5' 7" | Wt 156 lb | SpO2 94% | BMI 24.46 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (8/16/2025): LDL 68, Cr 0.94, K 3.7, Hgb 13.4
+
+Assessment & Plan
+1. COPD
+   Spirometry 3/2/2024: FEV1 56% predicted, FEV1/FVC 0.67. Continue current inhalers. Pulm rehab referral.
+2. HTN
+   Elevated today; home BP log requested.
+3. Atrial fibrillation
+   CHA2DS2-VASc reviewed; continue DOAC.
+4. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+f/u 3 mo
+
+Electronically signed by Owen Fitzgerald, MD on 09/02/2025

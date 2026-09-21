@@ -1,0 +1,58 @@
+Pulmonology Progress Note - COPD Follow-up
+DOS: 10/25/2024
+Author: Rachel Goldberg, MD (NP-authored, cosigned)
+Patient: Rajesh Martinez, M, DOB 4/10/1955, age 69y
+
+CC: COPD f/u, cough/sob stable per pt
+
+HPI: Pt is a 69 y/o M w/ hx COPD, OSA, gout presents for routine pulm f/u. Reports baseline dyspnea on exertion, no acute change. Denies fever chills. Uses albuterol prn few times/wk. Sleeps w/ CPAP most nights, c/o occasional mask discomfort. No new joint flares recently, last gout flare several mo ago per pt.
+
+Social hx: Active smoker, 49 pack-year smoking history. Pt continues to smoke daily despite repeated counseling; advised to quit again today, offered resources/nicotine replacement, pt declined at this time. Also reports use of marijuana a few times a month, recreational, no issues reported. No IVDU. Occasional etoh.
+
+---- copied forward from visit 6/12/2023 ----
+Pt seen for COPD/OSA f/u. Denies chest pain. Occasional wheeze noted on exam, no acute distress. Pt states compliant w/ CPAP approx 5 nights/wk, machine download not reviewed this visit. Gout stable, no flares x several mo, uric acid last checked was wnl. Pulm function tests reviewed from outside facility dated 3/2023 showing moderate obstruction, no significant change from prior. Plan at that time: continue current inhalers, f/u PFTs in 6-12 mo, recheck labs, continue counseling re: tobacco cessation, discussed CPAP compliance download review at next visit (not done). Pt educated re: importance of smoking cessation for COPD progression and OSA. RTC 6 months or sooner if worsening sx.
+---- end copied text ----
+
+ROS: Resp - chronic cough, denies hemoptysis. Cardiac - no chest pain/palpitations. MSK - denies acute gout flare. Sleep - snoring per spouse, using CPAP. All other systems reviewed and negative except as noted above.
+
+PMH/Problem List:
+- J44.9 COPD, unspecified
+- G47.33 Obstructive sleep apnea
+- M10.9 Gout, unspecified
+- I10 Essential hypertension (outdated, pt reports resolved off meds per pt report, not verified)
+- E78.5 Hyperlipidemia (outdated entry, carried over, not addressed today)
+
+Meds: Albuterol HFA prn, Tiotropium daily, Allopurinol 100mg daily, CPAP nightly
+
+Allergies: NKDA
+
+Vitals: BP 138/84, HR 78, RR 18, SpO2 94% RA, Temp 98.2F, Wt 210 lb
+
+Exam: Gen - NAD, appears stated age. Lungs - mild expiratory wheeze bilat, no crackles, decreased breath sounds bases. CV - RRR, no m/r/g. Ext - no edema, no active tophi noted, prior gout changes at 1st MTP noted bilat healed. Skin - no rash.
+
+Labs/Results:
+- CBC (10/24/2024): WBC 7.1, Hgb 14.2, Plt 240 - wnl
+- BMP (10/24/2024): Na 139, K 4.1, Cr 0.9, Glucose 101 - wnl
+- Uric acid (10/24/2024): 6.8 mg/dL - within target range
+- ABG not performed this visit
+- PFT (from 3/2023, copied forward): FEV1 58% predicted, FEV1/FVC 0.62, consistent w/ moderate obstruction
+- Sleep study (historical, undated in chart): AHI 22, consistent w/ moderate OSA, on CPAP since
+
+Assessment:
+1. COPD, moderate, stable today. Active smoker w/ 49 pack-year hx, continues to smoke daily; counseled extensively again re cessation, importance for slowing disease progression discussed at length. Screening for lung cancer was discussed w/ pt as part of general risk discussion given smoking hx, no imaging ordered today.
+2. OSA - reports variable CPAP compliance, will encourage improved adherence, may review download next visit.
+3. Gout - stable, uric acid wnl, continue allopurinol.
+4. Marijuana use - pt reports recreational use few times/mo, no acute concerns raised today, will monitor.
+
+Plan:
+- Continue tiotropium and albuterol prn
+- Reinforce smoking cessation counseling, provided pamphlet, pt again declined pharmacotherapy today
+- Continue CPAP, discuss compliance data at next visit
+- Continue allopurinol, recheck uric acid in 6 mo
+- Repeat PFTs in 6-12 mo or sooner if worsening
+- Pt to call if worsening dyspnea, fever, or chest pain
+- RTC 4-6 months for f/u, sooner PRN
+
+Note dictated/reviewed by Rachel Goldberg, MD. Time spent counseling >50% of visit re: tobacco cessation and disease management.
+
+[end of note]

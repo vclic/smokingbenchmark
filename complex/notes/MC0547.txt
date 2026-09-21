@@ -1,0 +1,54 @@
+TELEHEALTH VISIT NOTE
+Patient: Mei Garcia | DOB: 04/06/1965 | Age: 61 | Sex: F
+Date of Service: 04/06/2026
+Provider: Gregory Tan, MD (Pulmonology)
+Visit Type: Telehealth, COPD follow-up
+
+CHIEF COMPLAINT: Follow-up COPD, med refill, review labs.
+
+HPI: Patient is a 61 year old female with hx of COPD, hypothyroidism, CKD stage 3, asthma, GERD who presents via video visit for routine follow up. She states "I've been doing okay, just a little more short of breath when I climb the stairs at home." Denies fevers, chills, chest pain. Reports occasional wheeze at night, uses rescue inhaler maybe 2-3x/week. No recent ED visits or hospitalizations. She says "my energy is about the same as last time" and denies weight loss. Some ankle swelling noted intermittently, denies orthopnea. Med compliance reportedly good, though patient admits "I sometimes forget the evening dose."
+
+--- COPIED FORWARD FROM VISIT 11/14/2025 (Dr. Patel, Pulm) ---
+Pt with longstanding COPD dx per prior PFTs, FEV1/FVC reduced, on combo inhaler LABA/ICS, uses albuterol PRN, GERD sx controlled on omeprazole, CKD stage 3 stable per nephro last seen 3 months ago creat trending 1.4-1.6, hypothyroid on levothyroxine 75mcg daily TSH wnl, asthma component overlap per pulm eval, pt reports seasonal allergy flares in spring, recommended flu vaccine administered in office, pt tolerated well no adverse reaction, follow up in pulm clinic 4-5 months or sooner if worsening sx, pt educated on inhaler technique using spacer device, return demonstration adequate, discussed importance of avoiding triggers incl strong perfumes and dust, pt verbalized understanding, plan reviewed and pt agreeable, will cont current regimen and reassess.
+--- END COPIED SECTION ---
+
+ROS: Otherwise negative except as noted above. GI: occasional reflux, controlled. GU: no dysuria. Endo: no heat/cold intolerance.
+
+SOCIAL HISTORY: Noncontributory.
+
+FAMILY HISTORY: Mother with hypothyroidism, father with CAD, unremarkable otherwise for lung disease.
+
+PHYSICAL EXAM:
+Vitals (via home device reported by pt): BP 128/76, HR 82, RR 18, SpO2 94% RA, Temp 98.2F, Wt 71 kg
+Gen: alert, no acute distress, speaking full sentences on camera
+Resp: [inaudible] breath sounds appreciated per pt self-auscultation description, pt reports mild expiratory wheeze noted by home caregiver, no visible increased work of breathing on camera
+CV: no visible JVD on camera, unable to auscultate via telehealth
+Ext: trace bilateral ankle edema per pt report and visual inspection on camera
+Skin: no rashes noted on visible areas
+
+LABS/RESULTS:
+CBC (03/28/2026): WBC 7.1, Hgb 13.2, Hct 39.8, Plt 245
+BMP (03/28/2026): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Creat 1.5, eGFR 42
+TSH (03/15/2026): 2.8 (WNL)
+BNP (03/28/2026): 88 (normal range)
+CXR (01/10/2026): hyperinflated lungs consistent with COPD, no acute infiltrate, no effusion
+PFT (09/2025): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstructive pattern
+
+ASSESSMENT:
+1. COPD - on problem list, stable-ish, mild increase in exertional dyspnea, no signs infection, continue current regimen, discussed inhaler technique again briefly
+2. Hypothyroidism - TSH wnl on current levothyroxine dose, continue
+3. CKD stage 3 - stable, eGFR 42, continue nephro f/u, avoid nephrotoxic agents
+4. Asthma - overlap component, no acute exac today
+5. GERD - controlled on PPI, continue
+
+PLAN:
+- Continue current inhaler regimen (LABA/ICS + PRN albuterol)
+- Recheck BMP and renal panel in 3 months
+- Continue levothyroxine 75mcg daily, recheck TSH in 6 months
+- Continue omeprazole daily
+- Discussed general lung health, activity as tolerated, pulmonary rehab referral offered and pt agreeable to consider
+- F/u telehealth or in-office in 3 months, sooner if worsening dyspnea, fevers, or increased sputum
+- Discussed lung cancer screening briefly as part of general preventive health discussion, pt to think about it and discuss further with PCP
+- Pt verbalized understanding of plan, all questions answered, will call clinic with concerns
+
+Electronically signed: Gregory Tan, MD, Pulmonology, 04/06/2026

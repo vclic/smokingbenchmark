@@ -1,0 +1,42 @@
+Adult Medicine Clinic Note
+Date of Service: January 3, 2025
+Patient: Margaret Carter   DOB: 4/20/1968   MRN: 70159558
+
+SUBJECTIVE:
+CC: Follow-up diabetes
+HPI: Mrs. Carter is a 56-year-old woman with a history of T2DM and depression who presents for diabetes follow-up. Most recent A1c 8.3% (previously 8.4% in October 2024). Checks fasting sugars most mornings, running 110s-160s. No hypoglycemic episodes. Trying to walk 20 minutes daily.
+
+PMH:
+- Type 2 diabetes
+- Depression
+- Former smoker
+PSH: Cholecystectomy (2021); Lumpectomy, benign (2013)
+Meds: bupropion XL 150 mg daily; metformin 500 mg BID; vitamin D3 2000 IU daily
+Allergies: Lisinopril (cough)
+SH: Married, lives with husband. Works as a machinist. Smoking: Former smoker. No alcohol. Denies illicit drugs. Independent in ADLs.
+FH: Father - stroke. Son - type 1 diabetes.
+ROS: Negative except as noted in HPI.
+
+OBJECTIVE:
+Vitals: BP: 136/80  HR: 63  RR: 14  Temp: 98.3 F  SpO2: 96% on RA  Wt: 152 lbs  BMI: 26.8
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+A/P:
+1. Type 2 diabetes mellitus: A1c 8.3% - above goal; increase metformin to 1000 mg BID. UACR ordered.
+2. Former smoker
+   - Quit at 50. Continue annual LDCT. Remains abstinent.
+3. Depression
+   - PHQ-9 stable; continue current regimen.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Gregory Tan, MD on 1/3/2025 at 12:52

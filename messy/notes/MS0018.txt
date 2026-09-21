@@ -1,0 +1,69 @@
+TELEHEALTH VISIT NOTE
+Patient: Donna Perry
+DOB: 05/25/1963 (Age 60)
+Date of Service: 05/25/2023
+Provider: Michael Dunn, DO
+Visit Type: Telehealth - medication refills, Family Medicine
+
+CHIEF COMPLAINT: Med refills, f/u chronic conditions.
+
+HPI: Ms Perry is a 60 yo female seen via telehealth today for routine refill of chronic meds. She reports doing reasonably well, no new chest pain, no dysuria, no acute gout flares recently. She notes occasional heartburn managed with current regimen. She continues to smoke cigarettes and states she is not ready to quit at this time despite prior counseling. She denies alcohol use, reports she quit drinking in 2021 and has remained abstinent since.
+
+PROBLEM LIST:
+1. N40.1 - Benign prostatic hyperplasia (outdated - pt is female, carried over in error from template)
+2. M10.9 - Gout, unspecified
+3. K21.9 - GERD
+4. I25.10 - Coronary artery disease, native vessel, without angina
+5. Z87.891 - Personal hx of nicotine dependence (inactive per prior note - update: pt still smoking, see below)
+6. F10.21 - Alcohol dependence, in remission
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+HEENT: no vision changes, no hearing loss
+Cardiovascular: denies chest pain, denies palpitations, occas mild exertional discomfort resolved w rest
+Respiratory: denies SOB, denies cough, denies hemoptysis
+GI: occasional reflux sx, denies nausea/vomiting, denies blood in stool
+GU: mild urinary hesitancy, no dysuria, no hematuria
+Musculoskeletal: denies acute joint swelling, hx gout flares in great toe
+Neuro: no HA, no numbness/tingling
+Psych: denies depression, denies anxiety
+Skin: no rashes, no lesions
+All other systems reviewed and negative except as noted above
+
+PHYSICAL EXAM (limited, telehealth):
+General: alert, well-appearing, no acute distress, video quality adequate
+Vitals (per home cuff reported by pt): BP 128/78, HR 74, unable to obtain temp/O2 sat
+Cardiovascular: unable to auscultate via telehealth, pt denies edema on self-exam
+Respiratory: pt denies increased work of breathing, no visible distress on camera
+Abdomen: pt denies tenderness on self-palpation
+Extremities: no obvious swelling noted on camera
+Skin: no rashes visualized
+
+LABS/RESULTS:
+BMP 04/12/2023: Na 140, K 4.1, Cr 0.9, eGFR >60
+Lipid panel 04/12/2023: Total chol 188, LDL 110, HDL 42, Trig 155
+Uric acid 04/12/2023: 6.8 mg/dL
+HgbA1c 04/12/2023: 5.6%
+LFTs 04/12/2023: WNL
+
+CURRENT MEDICATIONS:
+1. Tamsulosin 0.4mg qhs
+2. Allopurinol 300mg daily
+3. Omeprazole 20mg daily
+4. Aspirin 81mg daily
+5. Atorvastatin 40mg qhs
+6. Metoprolol succinate 50mg daily
+7. Lisinopril 10mg daily
+8. Colchicine 0.6mg PRN gout flare
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder - Pt has a 58 pack-year smoking history, continues to smoke, states not ready to quit at this visit. Counseled again on risks, benefits of cessation reviewed, offered resources including quitline and pharmacotherapy options (varenicline, NRT) which pt declined today. Lung cancer screening was discussed with pt during visit. Will readdress at future visits.
+2. CAD - stable, continue current meds, no anginal sx today, refill atorvastatin, metoprolol, aspirin, lisinopril.
+3. Gout - no active flare, continue allopurinol, refill colchicine PRN, uric acid at goal per recent labs.
+4. GERD - stable on omeprazole, continue, refill.
+5. BPH (hx) - continue tamsulosin, refill, no urinary retention sx.
+6. Alcohol use - pt quit drinking alcohol in 2021, doing well, continue to monitor, no further intervention needed at this time.
+
+Follow up in 3 months or sooner if needed. All refills sent to pharmacy. Telehealth visit concluded, pt verbalized understanding of plan.
+
+Michael Dunn, DO

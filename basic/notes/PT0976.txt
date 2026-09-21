@@ -1,0 +1,75 @@
+Geriatrics Progress Note
+
+Patient: SCHMIDT, Dale    MRN: 12070267
+DOB: 12/24/1947    Age: 78 y.o.    Sex: Male
+Date of Service: 02/13/2026    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Right knee pain
+
+Subjective:
+Dale Schmidt is a 78 y.o. male who presents for right knee pain.
+Right knee pain for 7 months, worse in the morning. Twisted it stepping off a curb. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic systolic heart failure
+• Tobacco use disorder
+
+Past Surgical History:
+Procedure	Laterality	Date
+• TURP (2025)
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• spironolactone 25 mg daily
+• furosemide 20 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired electrician.
+  Quit for 1 yr starting in 2022 but restarted in 2023.
+  Vapes occasionally in addition to cigarettes.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+
+Family History
+Mother - HTN, DM2. Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: Skin neg, CV neg, GI neg, MSK +, Neuro neg
+
+Objective:
+Vitals:
+  BP 119/74 (BP Location: Left arm, Patient Position: Sitting) | Pulse 79 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 169 lb | SpO2 99% | BMI 26.43 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: Trace bilateral ankle edema
+MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (2/4/2026): LDL 99, Cr 0.99, K 4.8
+
+Assessment & Plan
+1. Right knee pain
+   Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+2. Current smoker
+   Pt continues to smoke, 2 pk/day x 60-65 yrs. Counseled on cessation for 10 min. He is in the precontemplation stage. Rx bupropion SR 150 mg daily x3d then BID.
+3. Chronic systolic heart failure
+   Stable; continue GDMT.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Anita Patel, MD on 02/13/2026

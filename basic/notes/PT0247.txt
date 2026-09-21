@@ -1,0 +1,87 @@
+Adult Medicine Progress Note
+
+Patient: LOPEZ, Kenneth    MRN: 28694899
+DOB: 09/07/1962    Age: 60 y.o.    Sex: Male
+Date of Service: 03/13/2023    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Kenneth Lopez is a 60 y.o. male who presents for routine preventive care.
+Feels well overall. Swims twice a week. He first quit in 1989 but restarted in 2000; he quit again in 2006 and has not smoked since; prior to that he smoked 1 pack daily for 25 years. Trying to cut back on sweets.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• HTN
+• PAD
+• T2DM without complication	2020
+• Gout
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2000)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• acetaminophen 500 mg 2 tabs TID PRN
+• allopurinol 300 mg daily
+• aspirin 81 mg daily
+• amlodipine 10 mg daily
+• cilostazol 100 mg BID
+• metformin 1000 mg BID
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Packs/day: 1.00
+    Years: 25.00
+    Pack years: 25.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with wife.
+  Works as an office manager.
+  Drinks a glass of wine with dinner.
+  No IVDU.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 135/94 (BP Location: Left arm, Patient Position: Sitting) | Pulse 65 | Temp 98.1 °F (Oral) | Resp 12 | Ht 5' 9" | Wt 188 lb | SpO2 99% | BMI 27.72 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (02/14/2023): A1c 8.8%, Cr 0.80, K 4.5, Hgb 11.9
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2017 - 2 tubular adenomas, repeat 5 yrs; Shingrix #1 today; Flu shot today.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+3. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+4. PAD
+   Stable claudication distance.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Steven Park, MD on 03/13/2023

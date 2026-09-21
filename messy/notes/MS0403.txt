@@ -1,0 +1,76 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine Pre-Operative Evaluation
+Patient: Denise Kowalski (F), DOB: 1/11/1947 (age 78)
+Date of Service: 07/01/2025
+Author: Quentin Hale, PA-C
+
+Referring MD: Dr. Alan Beck, Orthopedic Surgery
+Reason for referral: Pre-op clearance for right total knee replacement
+
+HPI:
+Ms Kowalski is a 78 yo woman with h/o osteoporosis, atrial fibrillation, T2DM, HFrEF, asthma and depression who presents for pre-operative medical evaluation prior to right TKA scheduled with Dr Beck. She reports chronic right knee pain limiting ambulation, denies chest pain, denies recent falls. She has been optimizing glycemic control per her PCP. No fevers, no recent illness.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, no chills, no unintentional weight loss
+Cardiac: no chest pain, occasional palpitations, no syncope
+Respiratory: mild dyspnea on exertion, no hemoptysis, no wheeze at rest
+GI: no nausea, no vomiting, no abd pain
+GU: no dysuria
+Musculoskeletal: chronic R knee pain, decreased ROM
+Neuro: no focal weakness, no numbness
+Psych: mood stable on current meds, denies SI
+Skin: no rashes
+All other systems reviewed and negative
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+ Cigarettes: 1.5 packs per day for 58 years
+ Quit status: Quit smoking, quit approximately 14 months ago
+Alcohol: occasional glass of wine, denies excess
+Drug use: Not on file
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Limited due to knee pain
+
+MEDICATIONS:
+1. Apixaban 5 mg BID
+2. Metformin 500 mg BID
+3. Empagliflozin 10 mg daily
+4. Carvedilol 12.5 mg BID
+5. Furosemide 20 mg daily
+6. Alendronate 70 mg weekly
+7. Albuterol HFA PRN
+8. Fluticasone/salmeterol 250/50 BID
+9. Sertraline 100 mg daily
+10. Calcium/Vitamin D supplement daily
+
+LABS/RESULTS:
+CBC (06/28/2025): WBC 6.8, Hgb 12.1, Plt 240
+BMP (06/28/2025): Na 138, K 4.2, Cr 0.9, Glucose 142
+HbA1c (06/15/2025): 7.4%
+BNP (06/28/2025): 410 pg/mL
+EKG (06/28/2025): atrial fibrillation, rate controlled, no acute ST changes
+Echo (03/2025): EF 35%, mild MR
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76 irregular, RR 16, SpO2 96% RA, Temp 98.2F
+General: well-appearing, NAD
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: clear to auscultation bilaterally, mild bibasilar crackles
+Abd: soft, non-tender, non-distended
+Ext: trace bilateral LE edema, right knee with crepitus and decreased ROM, no effusion
+Skin: intact, no lesions
+
+ASSESSMENT/PLAN:
+78 yo woman with multiple comorbidities presenting for pre-op eval prior to R TKA.
+1. Cardiac: HFrEF and AFib, continue home cardiac meds, cardiology to co-manage peri-operatively, continue anticoagulation per orthopedic/cardiology protocol
+2. Diabetes: continue current regimin, hold SGLT2 inhibitor peri-operatively per protocol
+3. Osteoporosis: continue alendronate, calcium/vit D
+4. Asthma: well controlled, continue inhalers, no acute exacerbation
+5. Depression: stable on sertraline, continue
+6. Tobacco: discussed prior smoking history at length; patient has successfully quit and should be commended, continue to encourage abstinence, lung cancer screening was discussed generally with patient
+7. Cleared for surgery from medicine standpoint pending cardiology and anesthesia input
+
+Will follow up as needed. Thank you for this interesting referral.
+
+Quentin Hale, PA-C

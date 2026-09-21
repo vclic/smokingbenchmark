@@ -1,0 +1,78 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine - Dr. Brian Okonkwo, MD
+Date of Service: 01/24/2024
+
+Re: Mark Nguyen, DOB 01/24/1949 (age 75)
+
+Dear Colleague,
+
+Thank you for referring Mr. Nguyen for continued management of his hypertension and type 2 diabetes. I had the pleasure of seeing him today in follow-up.
+
+HPI:
+Mr. Nguyen is a 75-year-old male with history of hypertension, type 2 diabetes, obstructive sleep apnea, GERD, and asthma who presents for routine follow-up. He reports doing reasonably well overall. Blood sugars have been running in the 130-160 range per home glucometer log. Blood pressure at home has averaged around 138/82. No chest pain, no new dyspnea on exertion beyond baseline. He denies orthopnea or PND. He continues to use his CPAP most nights with good adherence per his report. He has a 17 pack-year smoking history, which was reviewed with him today as part of routine health maintenance counseling. He denies any current respiratory symptoms concerning for exacerbation of his asthma; uses albuterol PRN, rarely.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Type 2 diabetes mellitus
+- Obstructive sleep apnea, on CPAP
+- GERD
+- Asthma
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Tobacco type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: None (quit 2009)
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+Additional social history note (free text, entered by nursing staff): Patient quit smoking in 2011, at the time of his stroke - he states the hospitalization was a wake-up call and he has not smoked since. He also reports he quit drinking alcohol back in 2009 and has remained abstinent. No illicit drug use reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, no weight loss.
+Cardiovascular: No chest pain, no palpitations.
+Respiratory: No cough, no wheeze today, occasional shortness of breath with exertion, stable.
+GI: Occasional heartburn, controlled with omeprazole.
+Neuro: History of stroke in 2011, no residual deficits reported, no new focal weakness or speech changes.
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 136/84, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb, BMI 29.4
+General: Well-appearing, no acute distress, pleasant and cooperative.
+HEENT: Normocephalic, atraumatic. Oropharynx clear.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, pulses intact.
+Neuro: Alert and oriented x3, no focal deficits, gait steady.
+Skin: Warm, dry, no rashes.
+
+LABS/RESULTS:
+HbA1c (01/10/2024): 7.4%
+Fasting glucose (01/10/2024): 142 mg/dL
+Lipid panel (01/10/2024): Total cholesterol 178, LDL 96, HDL 42, Triglycerides 165
+Basic metabolic panel (01/10/2024): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.1, eGFR 68
+Urine microalbumin/creatinine ratio (01/10/2024): 28 mg/g (mildly elevated)
+LFTs (01/10/2024): AST 24, ALT 28, Alk Phos 76 - within normal limits
+Spirometry (11/2023, prior visit for reference): FEV1 82% predicted, FVC 88% predicted, FEV1/FVC 0.76 - consistent with mild asthma, no significant obstruction noted at that time.
+
+ASSESSMENT AND PLAN:
+1. Hypertension - reasonably controlled on current regimen. Continue lisinopril 20 mg daily and amlodipine 5 mg daily. Recheck BP at next visit; consider home BP log review.
+2. Type 2 diabetes mellitus - A1c 7.4%, slightly above goal. Will increase metformin to 1000 mg BID and reinforce dietary counseling. Continue home glucose monitoring.
+3. Obstructive sleep apnea - continues CPAP with good adherence; no changes at this time.
+4. GERD - stable on omeprazole 20 mg daily.
+5. Asthma - stable, using albuterol PRN rarely; no exacerbations since last visit.
+6. Tobacco history - former smoker, quit in 2011 at the time of his stroke; 17 pack-year history noted in chart. Given his age and smoking history, we discussed lung cancer screening guidelines in general terms as part of health maintenance; no imaging ordered today. Continue to encourage avoidance of any tobacco relapse.
+7. Alcohol - patient quit drinking in 2009 and remains abstinent; no concerns at this time.
+8. Health maintenance - up to date on immunizations per chart review; will order routine labs prior to next visit.
+
+Patient verbalized understanding of the plan and agreed with recommendations. Will follow up in 3 months, sooner if concerns arise.
+
+Thank you again for allowing me to participate in this patient's care. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Brian Okonkwo, MD
+Internal Medicine

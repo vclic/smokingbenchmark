@@ -1,0 +1,83 @@
+CARDIOLOGY CONSULTATION LETTER
+Date of Service: 08/03/2023
+Referring Physician: Dr. Patel, Internal Medicine
+Author: Farah Siddiqui, MD
+
+Re: Charles Clark, DOB 2/12/1962
+
+Dear Dr. Patel,
+
+Thank you for referring Mr. Clark, a 61-year-old male, for follow-up of his heart failure. He was seen today, 08/03/2023, in clinic for routine cardiology follow-up.
+
+HPI:
+Mr. Clark returns today for reassessment of his heart failure, which has been reasonably stable since his last visit. He reports mild exertional dyspnea when climbing stairs, denies orthopnea, denies PND, and denies significant lower extremity edema at this time. He states his energy level is 'about the same as before,' and he has been compliant with his medications, though he admits to occasional missed doses of his diuretic when he is 'busy at work, so to speak, running errands and whatnot' -- [inaudible] -- he clarified he simply forgets sometimes. No recent chest pain, no syncope, no palpitations. He continues to follow up with his PCP for his diabetes and hypothyroidism management. He also notes his mood has been 'up and down' related to his depression, and he is currently on sertraline, which he feels is helping somewhat, their he says he sometimes forgets to take it as well.
+
+Of note, tobacco use continues to be an active issue as discussed further in the social history below, and this was reviewed again with the patient today.
+
+PAST MEDICAL HISTORY:
+1. Heart failure (reduced ejection fraction, per prior echo)
+2. Peripheral artery disease
+3. Depression
+4. Hypothyroidism
+5. Obstructive sleep apnea
+6. Type 2 diabetes mellitus
+
+SOCIAL HISTORY:
+Tobacco: Patient continues to smoke cigarettes; he is an active smoker at this time. Historical review of his smoking pattern was updated today given inconsistent documentation in the chart.
+Alcohol: occasional, denies heavy use
+Illicit drugs: denies
+Occupation: works in maintenance, physically active job
+Lives with: spouse
+
+[TOBACCO USE TEMPLATE - EHR AUTO-GENERATED FIELD]
+Smoking status: Never Smoker
+*** Note: The above auto-populated field is INCORRECT and does not reflect this patient's actual history; it appears to be a carryover default that was never updated. For the accurate record, please see below. ***
+Accurate smoking history per patient interview today: Mr. Clark reports smoking approximately three-quarters of a pack per day (about 15 cigarettes/day) for 24 years, followed by a reduction to approximately 8 cigarettes per day for the subsequent 19 years, continuing up to the present. He remains an active smoker as of today's visit.
+
+FAMILY HISTORY:
+Father with history of MI in his 60s, mother with history of hypertension. No known family history of lung cancer.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies weight loss
+Cardiovascular: as per HPI
+Respiratory: denies hemoptysis, mild chronic cough reported, likely tobacco-related
+GI: denies nausea, denies vomiting
+GU: denies dysuria
+Neuro: denies focal weakness
+Psych: mood as above, denies SI/HI
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 95% on room air, Weight 210 lb
+General: well-appearing, no acute distress
+Cardiovascular: regular rate and rhythm, no S3 appreciated today, no significant murmur, trace bilateral lower extremity edema
+Respiratory: clear to auscultation bilaterally, no wheezes, no crackles
+Extremities: diminished pedal pulses bilaterally, consistent with known PAD, no ulcers noted
+Skin: warm, dry
+
+LABS/RESULTS:
+- BNP (07/28/2023): 410 pg/mL (elevated)
+- Basic metabolic panel (07/28/2023): Na 138, K 4.3, Cl 101, CO2 25, BUN 22, Cr 1.1, Glucose 152
+HbA1c (06/15/2023): 7.8%
+TSH (05/10/2023): 2.1 mIU/L (within normal limits on current levothyroxine dose)
+Echocardiogram (06/02/2023): LVEF 38%, mild left ventricular hypertrophy, no significant valvular disease
+
+ASSESSMENT AND PLAN:
+1. Heart failure with reduced ejection fraction - stable, continue current regimen including beta-blocker, ACE inhibitor, and diuretic; reinforce medication adherence; discussed importance of daily weights.
+2. Active tobacco use - as detailed above in social history, patient remains an active smoker. Discussed smoking cessation at length, including risks to cardiovascular and pulmonary health given his heart failure and PAD. Offered nicotine replacement therapy and referral to smoking cessation counseling, which he says he will consider. General discussion of lung cancer screening topics occurred as part of overall preventive health discussion.
+3. Peripheral artery disease - stable, continue antiplatelet therapy, monitor pedal pulses.
+4. Type 2 diabetes mellitus - HbA1c above goal, will defer further management to PCP, encouraged dietary modification.
+5. Depression - continue sertraline, encourage adherence, follow up with PCP or psychiatry as needed.
+6. Hypothyroidism - TSH within normal limits, continue current levothyroxine dose.
+7. Obstructive sleep apnea - continue CPAP, assess compliance at next visit.
+
+Follow-up in 3 months, sooner if symptoms worsen.
+
+Sincerely,
+Farah Siddiqui, MD
+Cardiology
+
+---
+ADDENDUM (same day, later afternoon, 08/03/2023):
+After dictating the above note, I had a chance to speak further with Mr. Clark's spouse, who was in the waiting room and wanted to add additional context. She confirms that his smoking has been consistent with what he reported today and expressed concern about his ongoing tobacco use given his cardiac and vascular disease. No changes to the assessment and plan above; this addendum is for documentation purposes only. Encouraged continued discussion of cessation strategies at future visits.
+
+-Farah Siddiqui, MD

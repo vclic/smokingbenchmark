@@ -1,0 +1,59 @@
+TELEHEALTH VISIT NOTE
+Patient: Cheryl Ross | DOB: 01/30/1965 | Age: 59 | Sex: F
+Date of Service: 01/30/2024
+Provider: Quentin Hale, PA-C (Family Medicine)
+
+Visit type: Annual wellness visit, conducted via video due to patient preference/transportation issues.
+
+HPI:
+Pt is a 59-year-old female here for annual wellness exam. Reports feeling generally well. No new complaints today. Continues on levothyroxine for hypothyroidism, states compliance good. No palpitations, no cold intolerance. Denies fractures or falls; last DEXA reviewed below. No urinary retention symptoms currently, occasional nocturia x1/night, stable. Denies chest pain, SOB, cough. Diet review shows some improvement in portion control, still working on weight loss goals with obesity.
+
+Social History:
+Former smoker - quit in 1992. Smoked for 9 years total prior to quitting. No current tobacco use, no vaping. Denies illicit drug use. Occasional glass of wine on weekends. Lives with spouse, works part-time as a bookkeeper.
+
+Medications:
+- Levothyroxine 75 mcg daily
+- Atorvastatin 20 mg daily
+- Alendronate 70 mg weekly
+- Tamsulosin 0.4 mg daily
+- Calcium/Vitamin D supplement daily
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 72, RR 16, Temp 98.2F, Wt 189 lb, Ht 5'4", BMI 32.4
+
+Problem List (ICD-10):
+- E66.9 Obesity, unspecified
+- E78.5 Hyperlipidemia
+- E03.9 Hypothyroidism, unspecified
+- M81.0 Osteoporosis without current pathological fracture
+- N40.0 Benign prostatic hyperplasia (outdated entry - carried over from prior template, N/A for this patient, flagged for removal)
+- Z87.891 Personal history of nicotine dependence
+
+Labs/Results:
+- TSH (01/15/2024): 2.1 mIU/L (WNL)
+- Lipid panel (01/15/2024): Total chol 198, LDL 112, HDL 54, TG 140
+- DEXA scan (11/2023): T-score -2.6 lumbar spine, consistent with osteoporosis, stable compared to prior study
+- CMP (01/15/2024): unremarkable, Cr 0.8, eGFR >90
+
+Exam:
+General: well-appearing, no acute distress.
+HEENT: unremarkable.
+Cardiac: RRR, no murmurs.
+Lungs: clear to auscultation bilaterally, no wheezes/rales.
+Abdomen: soft, non-tender, non-distended.
+Extremities: no edema.
+Skin: no lesions of concern.
+
+Assessment/Plan:
+1. Osteoporosis (M81.0) - stable on alendronate, continue current regimen, repeat DEXA in 2 years.
+2. Hyperlipidemia (E78.5) - lipid panel reviewed, at goal on current statin dose, continue atorvastatin 20 mg daily.
+3. Hypothyroidism (E03.9) - TSH within normal limits, continue current levothyroxine dose, recheck TSH in 6 months.
+4. Obesity (E66.9) - discussed diet and exercise, referred to nutrition for further counseling, follow up in 3 months to reassess weight.
+5. BPH (N40.0) - patient reports minimal symptoms, continue tamsulosin, monitor.
+6. Tobacco history - patient is a former smoker who quit in 1992 after smoking for 9 years; no current tobacco use. Reinforced healthy lifestyle choices, no further counseling needed given long-standing cessation.
+7. Health maintenance - mammogram up to date per patient report, will verify with imaging center. Colonoscopy due, order placed. Immunizations reviewed and updated as needed.
+
+Return to clinic in 3 months or sooner if concerns arise. Patient verbalized understanding and agreement with plan.
+
+Electronically signed by Quentin Hale, PA-C

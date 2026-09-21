@@ -1,0 +1,61 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Date of Service: 04/16/2025
+Patient: Maria Allen | DOB: 04/16/1968 | Age: 57 | Sex: F
+Provider: Owen Fitzgerald, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/86, HR 78 irregular, RR 16, Temp 98.2F, Wt 212 lb, Ht 64in, BMI 36.4
+Allergies: NKDA
+Chief complaint: Here for annual physical, no acute complaints today.
+
+SOCIAL HISTORY (templated block)
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retail associate
+Living situation: Lives with spouse
+Exercise: Sedentary, denies regular exercise
+
+Review of systems: Denies chest pain, denies hemoptysis, occasional cough per pt, denies fevers, denies unintentional weight loss.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms. Allen is a 57-year-old woman, DOB 4/16/1968, presenting today, 04/16/2025, for her annual wellness visit. She reports feeling generally well aside from some fatigue which she attributes to poor sleep. No new cardiopulmonary symptoms. Her atrial fibrillation has been stable on current rate-control regimen, no palpitations reported. Mood is stable on current antidepressant, PHQ-9 today reassuring. Asthma well controlled, uses albuterol PRN, denies nocturnal awakenings. Osteoporosis followed by endocrinology, last DEXA reviewed previously.
+
+She has a long history of heavy smoking and continues to smoke despite ongoing counseling at every visit. We again discussed the health risks of continued tobacco use, including cardiovascular and pulmonary implications given her comorbid atrial fibrillation and asthma. She verbalizes understanding but is not ready to quit at this time. Lung cancer screening was discussed in general terms as part of preventive care conversation appropriate for her age and smoking history; no imaging ordered today. She was again offered smoking cessation resources including counseling and pharmacotherapy options, which she declined at this visit but will consider.
+
+PROBLEM LIST (reviewed, some entries outdated per chart):
+1. E66.9 - Obesity, unspecified
+2. I10 - Essential hypertension
+3. I48.91 - Atrial fibrillation, unspecified type
+4. M81.0 - Age-related osteoporosis without current pathological fracture
+5. F32.9 - Major depressive disorder, single episode, unspecified (chart note: dx from 2019, may need update to recurrent)
+6. J45.909 - Asthma, unspecified, uncomplicated
+7. Z87.891 - Personal history of nicotine dependence (outdated - pt still smoking, not a history)
+8. E78.5 - Hyperlipidemia, unspecified (per old note 2021, not addressed today)
+
+Exam:
+General: well-appearing, no acute distress, obese habitus.
+Cardiac: irregularly irregular rhythm, no murmurs appreciated, no peripheral edema.
+Pulm: clear to auscultation bilaterally, no wheezes today, no increased work of breathing.
+MSK: no kyphosis noted, gait steady, no focal tenderness.
+Skin: no lesions, no clubbing.
+Psych: mood euthymic, affect appropriate, no SI/HI.
+
+Assessment/Plan:
+1. Tobacco use, current, heavy - continues despite counseling. Discussed risks in depth given cardiac and pulmonary comorbidities. Cessation resources offered again (declined today). Will readdress at next visit. Screening conversation had; no imaging ordered.
+2. Atrial fibrillation - stable, continue current rate control, INR/anticoag monitoring per cardiology.
+3. Hypertension - BP borderline elevated today, continue current antihypertensive, recheck at next visit.
+4. Osteoporosis - continue current therapy, follow with endocrine as scheduled.
+5. Depression - stable on current medication, continue, reassess PHQ-9 in 3 months.
+6. Asthma - well controlled, continue albuterol PRN, no controller needed at this time.
+7. Obesity - discussed diet and activity modification, pt open to referral to nutrition.
+8. Health maintenance - mammogram, colonoscopy status reviewed and up to date per chart; immunizations reviewed.
+
+Return to clinic in 3 months or sooner if symptoms arise. Patient verbalized understanding of plan.
+
+Owen Fitzgerald, MD
+Family Medicine

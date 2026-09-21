@@ -1,0 +1,46 @@
+Pulmonology Progress Note - Follow-up after COPD Exacerbation
+DOS: 08/14/2025
+Author: Hannah Weiss, NP
+
+Pt: Thomas Nguyen, M, DOB 2/7/1949 (age 76)
+
+HPI: Pt seen today s/p recent ED visit for COPD exacerbation, now f/u in clinic. Pt states "I still feel kinda winded going up the stairs but its better than last wk." Denies fever, chills, chest pain. Cough improved, less sputum production. Pt also notes "my sleep has been off, guess the mask helps some nights." Reports mood stable on current regimen, no SI/HI. No new falls, no fx.
+
+ROS: + dyspnea on exertion, - hemoptysis, - orthopnea, - edema, + fatigue, otherwise neg per template
+
+PMH: osteoporosis, depression, obstructive sleep apnea (OSA), COPD
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+  - Pack-year history: 16 pack-years
+  - Current use: No
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Not on file
+
+Meds: Tiotropium inhaler, albuterol prn, sertraline, alendronate, CPAP nightly
+
+Allergies: NKDA
+
+Exam:
+Vitals: BP 132/78, HR 82, RR 18, SpO2 94% RA, Temp 98.2F
+Gen: NAD, comfortable, mild use of accessory muscles noted
+Lungs: diminished breath sounds bilat, mild expiratory wheeze, no crackles
+CV: RRR, no m/r/g
+Ext: no edema
+Psych: mood euthymic, affect appropriate
+
+Assessment/Plan:
+76 yo M w/ COPD, recent exac now improving, also OSA, osteoporosis, depression.
+1. COPD - continue tiotropium, albuterol prn, f/u spirometry in 4 wks, d/c prednisone taper as scheduled
+2. Counseled on avoidance of tobacco/2nd hand smoke given prior hx, reinforced healthy lifestyle
+3. Lung ca screening was discussed w/ pt, will revisit at next visit
+4. OSA - continue CPAP, review compliance data next visit
+5. Osteoporosis - continue alendronate, ca/vit D supplementation, f/u DEXA per schedule
+6. Depression - stable on sertraline, cont current dose, f/u w/ PCP
+
+RTC in 4 wks or sooner if worsening sx. Pt verbalized understanding of plan.
+
+-- Hannah Weiss, NP

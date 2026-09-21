@@ -1,0 +1,69 @@
+NURSE INTAKE
+Patient: David Williams | DOB: 06/14/1965 | Age: 59 | Sex: M
+Date of Service: 06/21/2024
+Visit Type: Annual Wellness Visit - Family Medicine
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, Wt 198 lb, Ht 5'10", BMI 28.4, SpO2 96% RA
+Allergies: NKDA
+
+EHR SOCIAL HISTORY TEMPLATE (Tobacco Use):
+  Tobacco Use Status: [X] Former Smoker  [ ] Current  [ ] Never
+  Type: Cigarettes
+  Amount: 2 packs/day
+  Duration: 12 years
+  Quit Date/Year: 2008
+  Smokeless tobacco: Not on file
+  Vaping/e-cig: None documented
+  Alcohol use: Occasional, denies excess
+  Drug use: Not on file
+  Occupation: Retired mechanic
+  Living situation: Lives with spouse
+
+HPI (Dr. Lindqvist):
+Mr. Williams presents for his annual wellness visit. He reports feeling generally stable since his last visit. He has known heart failure with reduced ejection fraction and states he has been compliant with his diuretic and other cardiac meds, with no recent weight gain, orthopnea, or PND. He notes some intermittent bilateral knee discomfort attributed to his osteoarthritis, managed conservatively with acetaminophen. He denies chest pain, palpitations, or syncope. Urinary symptoms related to his BPH are stable on tamsulosin - he reports mild nocturia (1x/night) but no hesitancy or retention. Mood has been reasonably well-controlled on his current antidepressant regimen, though he admits to some situational stress related to a family member's illness. He denies suicidal ideation. He reports intermittent claudication-type leg discomfort with ambulation, consistent with his known peripheral artery disease, though he says this has not significantly worsened.
+
+During today's visit, we reviewed his tobacco history in detail as part of routine health maintenance counseling. He is a former smoker and reiterated that he quit smoking back in 2008, which correlates with the timing noted in his chart when he switched primary care providers. He was glad to discuss this openly and expressed pride in having maintained abstinence from cigarettes since that time. No current tobacco or nicotine product use was reported today.
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Cardiovascular - as above, denies acute chest pain. Respiratory - denies cough, hemoptysis, dyspnea at rest. GI - denies nausea, vomiting, changes in bowel habits. GU - as above. MSK - chronic bilateral knee pain, no acute swelling or redness. Psychiatric - mood stable, denies SI/HI. Vascular - intermittent claudication as above, denies rest pain or non-healing wounds.
+
+PROBLEM LIST:
+1. I50.22 - Chronic systolic (congestive) heart failure - active, on GDMT
+2. E78.5 - Hyperlipidemia, unspecified - active
+3. M17.9 - Osteoarthritis of knee, unspecified - active, bilateral
+4. N40.1 - Benign prostatic hyperplasia with lower urinary tract symptoms - active
+5. F32.9 - Major depressive disorder, single episode, unspecified - active (note: chart shows F32.9, consider updating to F33.x if recurrent per hx)
+6. I73.9 - Peripheral vascular disease, unspecified - active
+7. Z87.891 - Personal history of nicotine dependence - active (former smoker)
+8. I10 - Essential hypertension - listed on old problem list from 2019, appears resolved/reclassified under HF management, may be outdated entry
+
+EXAM:
+General: well-appearing, no acute distress, appropriate for stated age of 59.
+HEENT: normocephalic, atraumatic, PERRLA.
+Neck: no JVD appreciated at 45 degrees.
+CV: RRR, S1/S2 normal, no S3 appreciated today, no significant murmur.
+Lungs: CTAB, no wheezes/rales/rhonchi.
+Abdomen: soft, nontender, nondistended.
+Extremities: trace bilateral lower extremity edema, dorsalis pedis pulses 1+ bilaterally, no ulcerations noted. Knees with mild crepitus on ROM, no effusion.
+Psych: mood euthymic, affect appropriate.
+
+LABS/RESULTS (recent):
+- BNP 06/10/2024: 210 pg/mL (mildly elevated, stable from prior 198 pg/mL on 01/15/2024)
+- Lipid panel 06/10/2024: Total chol 178, LDL 96, HDL 42, TG 150
+- BMP 06/10/2024: Na 138, K 4.3, Cr 1.1, eGFR 72
+- PSA 03/2024: 1.8 ng/mL (stable)
+- HbA1c 06/10/2024: 5.6%
+- Echo 02/2024: EF 35%, mild LV dilation, no significant valvular disease
+- ABI 11/2023: 0.72 right, 0.78 left, consistent with known PAD
+
+ASSESSMENT AND PLAN:
+1. Heart failure with reduced EF - stable on current regimen (carvedilol, lisinopril, spironolactone, furosemide). Continue current meds, recheck BNP and BMP in 6 months, encourage daily weights and sodium restriction.
+2. Hyperlipidemia - LDL at goal on atorvastatin, continue current dose.
+3. Osteoarthritis, bilateral knees - continue acetaminophen as needed, discussed weight management and low-impact exercise, PT referral offered but patient prefers to continue home exercises for now.
+4. BPH - stable on tamsulosin, continue, will recheck PSA in 6 months.
+5. Depression - stable on sertraline, continue, follow up sooner if symptoms worsen given reported situational stressors; provided crisis line information as routine practice.
+6. Peripheral artery disease - continue aspirin and statin, discussed importance of walking program for claudication, follow ABIs as needed.
+7. Tobacco history - patient is a former smoker, quit in 2008; he was counseled on the ongoing importance of continued abstinence and general risk reduction given prior tobacco exposure. Lung cancer screening was discussed in general terms as part of preventive care conversation appropriate for patients with significant prior smoking history.
+8. Health maintenance - up to date on age-appropriate preventive care; colonoscopy and immunizations reviewed separately.
+
+Return to clinic in 6 months or sooner as needed. Patient verbalized understanding and agreement with plan.
+
+Electronically signed: Catherine Lindqvist, DO - 06/21/2024

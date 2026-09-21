@@ -1,0 +1,51 @@
+NURSE INTAKE
+DOS: 08/27/2023
+Patient: Patricia Hughes, F, DOB 8/4/1951 (age 72)
+Provider: Steven Park, MD - Pulmonology
+
+CC: Lung cancer screening shared decision-making visit, referred by PCP for discussion of LDCT screening given tobacco hx.
+
+Vitals: BP 138/82, HR 78 (irreg, known AFib), RR 16, SpO2 96% RA, Wt 154 lb, Ht 63 in
+
+Allergies: NKDA
+
+SOCIAL HISTORY (tobacco block, EHR template):
+Tobacco use: former
+Packs/day: 0.50
+Years: 46.00
+Quit year: 2019
+Alcohol: occasional glass of wine
+Drug use: denies
+
+Pt reports she has not smoked since 2019 and denies any interest in vaping or e-cigs. She lives w/ husband, retired schoolteacher, ambulates independently w/ cane occasionally for knee pain.
+
+ROS: Denies hemoptysis, denies unintentional wt loss. + occasional dyspnea on exertion attributed to asthma/AFib. + chronic cough, stable, attributed to GERD. Denies chest pain, denies fevers/night sweats.
+
+Meds: albuterol PRN, apixaban, alendronate, omeprazole, lisinopril
+
+LABS/RESULTS (reviewed today):
+- CBC 08/15/2023: WBC 6.1, Hgb 12.8, Plt 240
+- BMP 08/15/2023: Creatinine 1.4 (baseline, CKD stage 3), eGFR 41
+- TSH 06/2023: 2.1 (WNL)
+- Prior chest xray 03/2022: no acute findings, mild hyperinflation c/w asthma
+
+---
+PHYSICIAN PROGRESS NOTE - Steven Park, MD
+Date of Service: 08/27/2023
+
+HPI: Ms Hughes is a 72 yo woman with h/o asthma, atrial fibrillation, osteoarthritis, osteoporosis, CKD stage 3, and GERD who presents today for a shared decision-making visit regardin lung cancer screening. She was refered by her PCP due to her tobacco history documented in the chart. Per the tobacco block she carries a history consistent with Packs/day: 0.50 and Years: 46.00 recorded in the social hx template. She states she quit smoking in 2019 and has remained smoke-free since, she denies any relapse or use of nicotine replacement currently. No new resp symptoms today, chronic cough stable and thought 2/2 GERD, no hemoptysis, no wt loss.
+
+Today we discussed the risks and benefits of low-dose CT lung screening in detail including radiation exposure, false positives, incidental findings, and the potential for additional workup including biopsy. Discussed the benefit of early detection in appropriate candidates. Pt asks reasonable questions, appears to understand options presented, verbalizes she will think it over and discuss w/ her husband before deciding.
+
+Exam: Well-appearing woman in NAD. Lungs: mild expiratory wheeze bilat, no crackles. CV: irregularly irregular rhythm, no murmur. Ext: no edema, mild crepitus at knees c/w OA. Skin: no clubbing/cyanosis.
+
+Assessment/Plan:
+1. Tobacco history - former smoker, quit smoking in 2019. Continue to reinforce abstinence at each visit; congratulated pt on cessation.
+2. Lung cancer screening - risks/benefits discussed today per SDM visit; decision deferred to pt, no imaging ordered at this time, screening options will remain avail for future discussion.
+3. Asthma - stable, continue albuterol PRN, reviewed inhaler technique.
+4. Atrial fibrillation - continue apixaban, rate appears controlled today.
+5. CKD stage 3 - stable per recent BMP, avoid nephrotoxic agents.
+6. GERD - continue omeprazole, chronic cough likely related, will reassess if worsens.
+7. Osteoporosis/OA - continue alendronate, ortho f/u as needed for knee pain.
+
+RTC in 6 months or sooner if symptoms change. Pt verbalizes understanding of plan.

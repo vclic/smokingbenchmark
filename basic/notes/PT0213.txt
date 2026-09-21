@@ -1,0 +1,73 @@
+Geriatrics Office Visit
+
+Patient: RIVERA, Yolanda    MRN: 29833046
+DOB: 08/14/1953    Age: 70 y.o.    Sex: Female
+Date of Service: 07/10/2024    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Low back pain
+
+Subjective:
+Yolanda Rivera is a 70 y.o. female who presents for low back pain.
+Low back pain for 1 month, worse with stairs. No trauma. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoporosis
+• Hypertension
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+• Left inguinal hernia repair (1995)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 10 mg daily
+• alendronate 70 mg weekly
+• amlodipine 5 mg daily
+• calcium + vitamin D daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with daughter.
+  Retired mechanic.
+  Social drinker.
+
+Family History
+Father - MI at 74. Sister - breast cancer at 59.
+
+Review of Systems
+ROS: Neuro neg, MSK +, CV neg, GU neg, Resp neg, Skin neg, GI neg, Gen neg
+
+Objective:
+Vitals:
+  BP 124/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 64 | Temp 98.4 °F (Oral) | Resp 14 | Ht 5' 4" | Wt 173 lb | SpO2 97% | BMI 29.67 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. Health maintenance
+   LCS: N/A - never smoker.
+
+f/u 6 mo
+
+Electronically signed by Quentin Hale, PA-C on 07/10/2024

@@ -1,0 +1,49 @@
+NURSE INTAKE
+DOS: 05/11/2025
+Pt: Dennis Carter, M, DOB 05/11/1957, age 68yo, here for pre-op eval prior to R total knee replacement, ortho requesting IM clearance.
+VS: BP 138/84, HR 78 irreg irreg (known AFib), RR 16, SpO2 96% RA, Temp 98.2F, Wt 210lb, Ht 5'10".
+Allergies: NKDA.
+Meds reconciled per pt - see below.
+Pt ambulatory, no acute distress, c/o mild R knee pain 6/10 worse w/ weight bearing.
+
+---- COPIED FORWARD FROM VISIT 11/14/2023 (Dr. Tan) ----
+Pt seen for f/u of BPH, asthma, afib, OA, hypothyroidism. Pt reports nocturia x2-3/night, on tamsulosin w/ some improvement. Asthma well controlled on prn albuterol, denies recent exacerbations or ED visits. Afib - on apixaban, rate controlled, denies palpitations or SOB at that time. OA affecting knees b/l, R>L, using NSAIDs prn. Hypothyroid on levothyroxine, TSH wnl per last labs 9/2023. Exam at that time: lungs clear bilat, no wheezes, cardiac irreg irreg rate no murmur, knees w/ crepitus no effusion. Plan was to continue current meds, f/u in 6 months, recheck TSH and BMP.
+---- END COPIED FORWARD ----
+
+PHYSICIAN PROGRESS NOTE
+Date of service: 05/11/2025
+Author: Gregory Tan, MD
+
+HPI: Mr Carter is a 68-year-old male hx BPH, asthma, afib, osteoarthritis, and hypothyroidism who presents today for pre-operative medical clearance in advance of scheduled R knee replacement with Dr [inaudible] orthopedics. He reports progressive R knee pain over past several yrs now limiting ambulation and stairs, failed conservative tx incl PT and NSAIDs. No chest pain, no SOB at rest, denies recent syncope or near-syncope. He continues to have some nocturia which he attributes to his BPH, tamsulosin helpful he feels. Smoking history notable - pt smokes 20 cigarettes per day for 11 years, he is aware of the risks and has been counseled extensively on cessation in the past. Denies EtOH excess, denies illicit drug use. Pt states he tries to stay active despite knee pain, walks w a cane at times.
+
+ROS: Constitutional - no fever no chills no weight loss. CV - no chest pain no palpitations currently, known afib. Resp - no cough no hemoptysis, occasional wheeze w exertion. GU - nocturia as above, no dysuria no hematuria. MSK - R knee pain as above, also mild L knee discomfort. Endo - no heat/cold intolerance, on levothyroxine. All other systems reviewed and negative except as noted above the patient endorses no other complaints at this [inaudible] time and denies any new symptoms since last visit which was several months ago approximately.
+
+PMH: BPH, asthma, atrial fibrillation, osteoarthritis, hypothyroidism.
+PSH: appy as a teenager, otherwise none.
+Meds: tamsulosin 0.4mg qhs, albuterol HFA prn, apixaban 5mg BID, levothyroxine 75mcg qd, acetaminophen prn knee pain, occasional NSAID.
+FH: father w MI at 70, mother w breast ca, noncontributory otherwise.
+Social: continues to smoke despite counseling on multiple occasions regarding cessation, lives w spouse, retired postal worker, denies illicit drugs, occasional EtOH.
+
+LABS/RESULTS (reviewed today):
+CBC 05/09/2025: WBC 6.8, Hgb 14.1, Hct 41.5, Plt 245
+BMP 05/09/2025: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glu 96
+TSH 04/28/2025: 2.1 (wnl)
+INR n/a (on apixaban, no monitoring req'd)
+EKG 05/11/2025: afib, rate 76, no acute ST changes, unchanged from prior 2023 tracing on file
+CXR 05/11/2025: no acute cardiopulm process, mild hyperinflation c/w underlying reactive airway dz, no infiltrate no effusion
+
+EXAM: Gen - well-appearing, NAD. HEENT - unremarkable. Neck - no JVD no thyromegaly. Lungs - clear to auscultation bilat, mild expiratory wheeze noted, no rales no rhonchi. CV - irreg irreg rhythm, no murmur rub or gallop appreciated, normal S1S2. Abd - soft nontender nondistended, +BS. Ext - no edema no cyanosis no clubbing. MSK - R knee w crepitus, decreased ROM, no effusion no warmth, L knee mild crepitus. Neuro - grossly intact, gait antalgic favoring R.
+
+ASSESSMENT/PLAN:
+1. Pre-op clearance for R TKA - from cardiopulm standpoint pt appears reasonable surgical candidate, afib rate controlled, asthma stable. Cleared for surgery pending anesthesia eval. Continue apixaban per ortho/anesthesia bridging protocol, will coordinate holding parameters closer to surgical date.
+2. Atrial fibrillation - rate controlled, continue apixaban, no changes today, will obtain pre-op EKG (done today, unchanged).
+3. Asthma - stable, continue albuterol prn, consider pre-op inhaler optimization if wheeze persists, discussed avoiding NSAIDs excessive use given renal fx.
+4. BPH - continue tamsulosin, stable sx.
+5. Osteoarthritis - surgical mgmt planned as above, continue acetaminophen prn.
+6. Hypothyroidism - TSH wnl, continue levothyroxine current dose.
+7. Tobacco use - patient continues to smoke despite counseling, again strongly advised to quit, offered resources incl cessation counseling and pharmacotherapy, pt declined at this time states he will consider it. Lung cancer screening was discussed with the patient as part of general health maintenance conversation.
+8. F/u in office post-op per ortho recs, sooner if any new sx.
+
+Time spent on visit approx 30 min, >50% counseling and coordination of care.
+
+Gregory Tan, MD

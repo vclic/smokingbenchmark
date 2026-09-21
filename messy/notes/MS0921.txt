@@ -1,0 +1,42 @@
+Pulmonology Progress Note
+Patient: Curtis Price | DOB: 4/13/1969 (age 56) | DOS: 11/05/2025
+Author: Laura Castellano, FNP-C
+
+HPI:
+Mr. Price is a 56-year-old male seen in follow-up after a COPD exacerbation requiring ED visit last week. He reports gradual improvement in dyspnea since starting the prednisone taper and increased nebulizer use. He states, "I still get winded going up the stairs, but it's better than last week." He denies fever or worsening cough currently. Smoking history notable for 30 cigarettes per day for 22 years; he quit smoking in March 2010 and has remained abstinent since. He denies any recent relapse.
+
+--- Copied forward from note dated 5/5/2024 ---
+SOCIAL HISTORY (as documented 5/5/2024): Patient is a former smoker. Denies current alcohol or illicit drug use. Lives with spouse, retired from warehouse work. Family history reviewed and unchanged from prior visits. Continues to follow up with PCP for diabetes and thyroid management.
+--- End copied section ---
+
+Social History (current):
+Smoking status: quit smoking, no current tobacco use. No vaping or e-cigarette use reported. No occupational exposures noted currently.
+
+PMH: Type 2 diabetes mellitus, hypothyroidism, COPD.
+
+Medications: Metformin 1000mg BID, Levothyroxine 88mcg daily, Albuterol/ipratropium nebulizer PRN, Tiotropium inhaler daily, Prednisone taper (day 5 of 10).
+
+Labs/Results:
+- CBC (11/01/2025): WBC 9.8, Hgb 14.1, Hct 42%
+- BMP (11/01/2025): Glucose 142, Na 138, K 4.2, Cr 0.9
+- HbA1c (10/15/2025): 7.4%
+- TSH (10/15/2025): 2.1 mIU/L
+- ABG (ED, 10/29/2025): pH 7.36, pCO2 46, pO2 68 on room air
+- Chest X-ray (10/29/2025): hyperinflation, no acute infiltrate
+
+Physical Exam:
+Vitals: BP 132/78, HR 88, RR 18, SpO2 94% RA, Temp 98.2F
+General: Mild respiratory distress at rest, improved from ED visit.
+Lungs: Diffuse expiratory wheezes, decreased breath sounds bilaterally, no crackles.
+Cardiac: RRR, no murmurs.
+Extremities: No edema.
+
+Assessment/Plan:
+1. COPD exacerbation, improving - continue prednisone taper as prescribed, complete albuterol/ipratropium nebulizer course, follow up with spirometry once symptoms stable. Discussed pulmonary rehab referral.
+2. Tobacco use - patient is a former smoker, quit in March 2010; reinforced importance of continued abstinence given COPD diagnosis. Lung cancer screening was discussed as part of general preventive care counseling.
+3. Type 2 diabetes mellitus - HbA1c 7.4%, continue metformin, recheck in 3 months.
+4. Hypothyroidism - TSH within normal limits, continue current levothyroxine dose.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Laura Castellano, FNP-C

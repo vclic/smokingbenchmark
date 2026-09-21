@@ -1,0 +1,57 @@
+Urgent Care - Nurse Intake
+DOS: 11/03/2025
+Patient: Roger Brooks, M, DOB 10/12/1968 (age 57)
+Provider: Elena Markovic, MD
+
+Vitals: BP 148/92, HR 88 irreg (known AFib), RR 18, Temp 98.4F, SpO2 95% RA, Wt 245 lb
+CC: cough x5 days
+
+Tobacco Use Screening (EHR templated block):
+Tobacco use status: Former smoker
+Pack-year history: 19 pack-years
+Quit date/circumstances: patient reports quitting in 2005 at time of COPD diagnosis
+Alcohol: occasional
+Drug use: denies
+
+---
+Physician Progress Note - Elena Markovic, MD
+
+HPI: Mr Brooks is a 57 yo male with hx of OSA, HTN, gout, obesity, and AFib who presents today 11/03/2025 with 5 days of cough, mild dyspnea and low grade subjective fevers. He states "it feels like it's settled in my chest, worse at night when i lay down." He denies hemoptysis, chest pain, or significant sputum production, though he notes "a little yellowish stuff in the mornings." No recent travel no sick contacts. He is compliant w his CPAP per his report tho admits "i dont always wear it when im tired."
+
+Regarding tobacco use he confirms he quit smoking and has not smoked since. He states he quit in 2005, around the time he was told he had COPD, and has remained smoke free since. He denies any current tobacco, vape, or nicotine product use.
+
+PMH: OSA (on CPAP), HTN, gout, obesity, AFib (on anticoagulation)
+Meds: apixaban, metoprolol succinate, allopurinol, lisinopril
+Allergies: NKDA
+
+ROS: Otherwise negative except as noted in HPI. No leg swelling, no palpitations beyond baseline, no wt loss.
+
+Exam:
+Gen: Well nourished male, mild distress from coughing spells
+HEENT: OP clear, no erythema
+Neck: no JVD, no lymphadenopathy
+CV: irregularly irregular rhythm, no murmurs, consistent w known AFib
+Lungs: scattered rhonchi bilat bases, no wheeze, no crackles at apices, good air movement
+Abd: soft NT ND obese habitus
+Ext: no edema, no clubbing or cyanosis
+
+Labs/Results (drawn today 11/03/2025 in clinic):
+CBC: WBC 9.8 (nl 4.5-11.0), Hgb 14.2, Plt 231
+BMP: Na 139, K 4.1, Cr 1.0, Glucose 101
+CRP: 8.2 mg/L (mildly elevated)
+Rapid flu A/B: negative
+Rapid COVID antigen: negative
+CXR (portable, today): no focal consolidation, mild hyperinflation c/w chronic lung disease, no acute infiltrate, cardiac silhouette mildly enlarged
+
+Assessment: 57M with acute bronchitis, likely viral, in setting of underlying COPD (per patient hx) and comorbid OSA, HTN, gout, obesity, AFib. Cough syndrome most c/w acute bronchitis given exam and imaging; no evidence acute pneumonia today.
+
+Plan:
+1. Supportive care - rest, fluids, OTC antitussive/expectorant, return precautions given in writing.
+2. Continue home meds incl apixaban, metoprolol, lisinopril, allopurinol - no changes today.
+3. Encouraged continued CPAP compliance nightly, reviewed importance given OSA and AFib overlap.
+4. Reinforced tobacco free status - praised patient for maintaining smoking cessation since 2005; continued avoidance encouraged.
+5. Given h/o COPD and chronic lung changes on CXR, screening for lung cancer discussed generally with patient; further workup/imaging decisions deferred to PCP for longitudinal management.
+6. F/u with PCP in 1-2 wks or sooner if worsening, f/u cardiology per usual AFib monitoring schedule.
+7. Return to urgent care or ED for worsening SOB, chest pain, high fever, or hemoptysis.
+
+Elena Markovic, MD - Urgent Care

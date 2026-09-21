@@ -1,0 +1,41 @@
+VASCULAR SURGERY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Date of Service: 09/13/2024
+Author: Laura Castellano, FNP-C
+
+Patient: Dorothy Smith | DOB: 3/4/1974 | Age: 50 | Sex: F
+
+Reason for referral: Eval for peripheral artery disease, referred by PCP for claudication sx worsening over past several months, uh, [inaudible] with ambulation distance decreasing to about a block or so.
+
+HPI: Pt is a 50 y/o female w/ h/o AFib, HFrEF, HTN, HLD, OA presenting w/ bilateral calf pain on exertion, relieved w/ rest. She notes the pain has become more limiting, effecting her ability to do errans and walk her dog, she denies rest pain, ulcers, or gangrene currently. No prior vascular procedures on file.
+
+PROBLEM LIST:
+- I48.91 Atrial fibrillation, unspecified
+- I50.22 Chronic systolic (congestive) heart failure (HFrEF)
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- M19.90 Osteoarthritis, unspecified site (chronic, stable)
+- I73.9 Peripheral vascular disease, unspecified (new, pending workup)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Chewing tobacco - yes, current use reported
+Smoking status: Former/never - see note below
+Cigarettes: Pt tried a few cigarettes as a teenager but never smoked regularly, no sustained hx of cigarette use.
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Blank
+
+ROS: Positive for bilat calf claudication. Negative for chest pain, palpitations (well controlled on current regimen), orthopnea, PND, leg swelling. All other systems reviewed and are negative except as noted above, patient denys any new complaints at this time, she does mention some intermittent knee stiffness which she attributes to her OA, not acute.
+
+EXAM: BP 138/84, HR 72 irregular, wt stable. Bilat lower extremity pulses diminished at DP/PT bilaterally, femoral pulses palpable, no ulcers or skin breakdown noted, cap refill <3 sec.
+
+ASSESSMENT/PLAN:
+1. PAD, likely mod-severe given claudication distance - will obtain ABI's bilat and consider referral for imaging based on results.
+2. AFib - continue current anticoagulation per cardiology, rate well controlled today.
+3. HFrEF - continue GDMT, no acute decompensation noted on exam.
+4. HTN/HLD - stable, continue current meds.
+5. Tobacco/chew use discussed, counseled on cessation resources and cardiovascular risks of chewing tobacco specifically, pt states she is not ready to quit at this time.
+
+Will follow up after ABI results, pt to call w/ any worsening sx in interim.
+
+Laura Castellano, FNP-C

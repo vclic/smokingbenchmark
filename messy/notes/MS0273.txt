@@ -1,0 +1,36 @@
+NURSE INTAKE
+Pt: William Hughes, M, age 53 (DOB 10/8/1970)
+Date of Service: 12/25/2023
+Visit: hospital discharge follow-up s/p pneumonia
+
+VS: T 98.2 HR 82 RR 18 BP 132/78 SpO2 94% RA
+Pt seen today for f/u after recent hospitalization for pneumonia, c/o mild cough persisting, denies fever chills. Appetite improving. Ambulates without difficulty although gets short of breath climbing stairs [inaudible] states its better than in hospital.
+
+Problem List (partial, some outdated):
+J44.9 COPD
+M81.0 Osteoporosis
+J45.909 Asthma, unspecified
+J18.9 Pneumonia (resolving)
+Z87.891 Personal hx of nicotine dependence -- outdated, pt currently smokes
+
+Social hx: smokes cigarettes currently, 5 cigarettes per day, has smoked for 35 years, lives alone, denies etoh use denies illicit drugs
+
+PHYSICIAN PROGRESS NOTE
+Julia Brennan, MD
+
+HPI: Mr Hughes is a 53 year old male seen today 12/25/2023 for follow up after recent discharge from hospital for pneumonia. He reports gradual improvement in his cough and energy since discharge he was started on a course of antibiotics which he completed states he feels stronger this week compared to last but still gets winded going up the stairs at home. No fevers no chest pain no hemoptysis. Continues to use his inhalers for COPD and asthma, reports occasional wheeze especially in cold air.
+
+PMH: COPD, asthma, osteoporosis (on supplementation, no recent fracture)
+
+Social History: Patient currently smokes cigarettes, about 5 cigarettes per day, for 35 years per pt report. Advised to quit smoking again today, discussed risks of continued tobacco use in setting of COPD and recent pneumonia, discussed smoking cessation resources including nicotine patches and counseling referral. Lung cancer screening was discussed with patient as an option to consider with his primary care team.
+
+Exam: Lungs- mild expiratory wheeze bilaterally, no crackles today, improved from discharge exam. Heart RRR no murmur. Extremities no edema. Skin warm dry.
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue supportive care, f/u CXR in 6 weeks to confirm resolution
+2. COPD - continue current inhalers, reinforce smoking cessation counseling given ongoing tobacco use
+3. Asthma - stable, continue current regimen
+4. Osteoporosis - continue calcium/vit D, DEXA due next year
+5. Tobacco use - discussed cessation strategies extensively today, pt states hes 'thinking about it'
+
+RTC in 4 weeks or sooner if worsening symptoms, pt verbalizes understanding of plan.

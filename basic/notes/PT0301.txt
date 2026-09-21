@@ -1,0 +1,78 @@
+Family Medicine Clinic Note
+
+Patient: MOORE, Joseph    MRN: 36580477
+DOB: 08/27/1962    Age: 61 y.o.    Sex: Male
+Date of Service: 02/12/2024    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Fatigue
+
+Subjective:
+Joseph Moore is a 61 y.o. male who presents for fatigue.
+Fatigue for 3 months. Mood low. No weight change.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes	2022
+• Gout	2006
+• Mixed hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• atorvastatin 20 mg daily
+• multivitamin daily
+• sitagliptin 100 mg daily
+• allopurinol 300 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with wife.
+  Works as a nurse.
+  No alcohol.
+  No IVDU.
+  Independent in ADLs.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 138/78 (BP Location: Right arm, Patient Position: Sitting) | Pulse 61 | Temp 98.7 °F (Oral) | Resp 14 | Ht 5' 8" | Wt 192 lb | SpO2 95% | BMI 29.22 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (2024-01-24): A1c 8.0%, LDL 126, Cr 0.74, K 3.7
+
+Assessment & Plan
+1. Fatigue
+   PHQ-9 9. Labs ordered.
+2. Mixed hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+3. Type 2 diabetes
+   Continue metformin. Foot exam today normal.
+
+RTC 6 months.
+
+Electronically signed by Rachel Goldberg, MD on 02/12/2024

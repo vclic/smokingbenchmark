@@ -1,0 +1,55 @@
+Pulmonology Clinic - Follow-up Visit
+Date of Service: 10/05/2024
+Provider: Isaac Moreno, PA-C
+
+--- NURSE INTAKE ---
+Patient: Frank Nelson, M, DOB 06/23/1969 (age 55)
+Vitals: BP 138/86, HR 82, RR 18, SpO2 94% RA, Temp 98.2F, Wt 241 lb, BMI 34.9
+Chief complaint: f/u after ED visit for COPD flare, pt reports "still a little short of breath but way better than last week"
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Former smoker
+Cigarettes/day: Not on file
+Years smoked: Not on file
+Alcohol use: occasional, denies binge
+Drug use: denies
+Occupation: warehouse supervisor
+Living situation: lives with spouse
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Nelson is a 55 y/o male with hx of hyperlipidemia, obesity, OSA, T2DM, and GERD who was seen in the ED 6 days ago for a COPD exacerbation, treated w/ prednisone taper and albuterol/ipratropium nebs, now presenting for f/u. He states "I'm breathing a lot easier, just get winded going up stairs." Denies fever, chest pain, hemoptysis. Reports good adherence to inhaler regimen. Sleeps with CPAP nightly, states compliance ~6 hrs/night per machine download.
+
+Regarding tobacco: pt reports extensive smoking hx. He smoked 2 packs per day for 4 years in his younger adult yrs, then increased to 3 packs per day for 6 years before ultimately quitting. He states he has not smoked since his 40th birthday and has remained smoke-free since. He denies any current tobacco, vaping, or nicotine product use. Lung cancer screening was discussed with patient given smoking hx; risks/benefits reviewed, pt to think it over.
+
+ROS: Positive for occasional dyspnea on exertion, chronic cough productive of small amounts of clear sputum. Negative for wt loss, night sweats, palpitations, leg swelling.
+
+LABS/RESULTS:
+CBC (10/01/2024): WBC 8.9, Hgb 14.2, Hct 42.1, Plt 245
+CMP (10/01/2024): Na 139, K 4.1, Cl 102, CO2 26, BUN 18, Cr 0.9, Glucose 142
+HbA1c (09/15/2024): 7.4%
+Lipid panel (09/15/2024): TC 198, LDL 118, HDL 42, TG 190
+Chest x-ray (09/29/2024, ED): hyperinflated lungs c/w COPD, no acute infiltrate
+Spirometry (08/2024, on file): FEV1 58% predicted, FEV1/FVC 0.62 - consistent w moderate obstruction
+
+EXAM: Gen - well appearing, NAD. Lungs - diminished breath sounds bilat, mild expiratory wheeze, no crackles. CV - RRR, no m/r/g. Ext - trace edema, no cyanosis or clubbing.
+
+PROBLEM LIST:
+1. COPD w acute exacerbation, resolved - J44.1
+2. Type 2 diabetes mellitus - E11.9
+3. Hyperlipidemia - E78.5
+4. Obesity - E66.9
+5. Obstructive sleep apnea - G47.33
+6. GERD - K21.9
+7. Tobacco use disorder - Z87.891 (in remission, former smoker) [note: old chart from prior clinic still lists "current smoker" - outdated, pt confirms he quit yrs ago]
+
+ASSESSMENT/PLAN:
+55 yo M w COPD, DM2, HLD, obesity, OSA, GERD, s/p recent exacerbation, doing well clinically today.
+- COPD: continue tiotropium, albuterol PRN, complete steroid taper. F/u spirometry in 3 mo
+- DM2: continue metformin, A1c stable, recheck in 3 mo
+- HLD: continue statin, recheck lipids in 6 mo
+- OSA: continue CPAP, encourage improved compliance
+- GERD: continue omeprazole
+- Tobacco: reinforced no current use, congratulated pt on cessation, counseled re: continued avoidance and pulmonary rehab referral offered
+- RTC 3 months or sooner if worsening symptoms
+
+Electronically signed: Isaac Moreno, PA-C 10/05/2024

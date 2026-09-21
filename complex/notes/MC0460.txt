@@ -1,0 +1,67 @@
+RESIDENT NOTE - CARDIOLOGY
+Date of Service: 05/02/2025
+Author: Kevin Osei, MD (Resident); Attending attestation below
+
+Patient: Nancy Lewis (F), DOB 5/2/1950, age 75
+
+CHIEF COMPLAINT: Heart failure follow-up
+
+HPI: Pt is a 75 yo woman w/ hx of HFrEF presenting for routine f/u. She reports mild dyspnea on exertion, denies orthopnea or PND currently. Wt stable per home scale. No chest pain, no palpitations. Adherent to diuretic regimen per pt report. She notes occasional lower extremity swelling in evenings, improved w elevation. No recent hospitalizations since last visit.
+
+ROS: Denies fever, chills, cough (chronic cough attributed to COPD per prior notes), denies hemoptysis. Depression sx reportedly stable on current regimen, pt denies SI/HI. Gout flares none recently. PAD - denies claudication changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+- I50.9 Heart failure, unspecified
+- F32.9 Major depressive disorder, unspecified (dx outdated, may be in remission per pt)
+- J44.9 COPD, unspecified
+- I73.9 Peripheral artery disease
+- M10.9 Gout
+- E78.5 Hyperlipidemia
+- I10 Essential hypertension (old entry, unclear if still active - needs review)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: See assessment/plan below for detailed hx
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: 
+Exercise: Not on file
+Diet: 
+
+MEDICATIONS: Furosemide, carvedilol, atorvastatin, sertraline, allopurinol, tiotropium inhaler (pt states she takes "most days" - adherence unclear)
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 94% RA, Wt 152 lb
+
+PHYSICAL EXAM:
+Gen: NAD, comfortable, seated in exam room
+CV: RRR, no m/r/g appreciated, JVP not elevated at 30deg
+Resp: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+Ext: trace pitting edema b/l ankles, PAD-related skin changes noted on lower legs, pulses diminished but palpable
+Psych: mood euthymic, affect appropriate
+
+LABS (reviewed today): BNP mildly elevated from baseline, BMP wnl, lipid panel at goal on statin
+
+ASSESSMENT AND PLAN:
+75 yo F w HFrEF, COPD, PAD, depression, gout, HLD here for HF f/u.
+
+1. Heart failure - clinically stable today, mild residual EF DOE. Continue current GDMT. Will recheck BNP and BMP in 4 wks. Reinforced daily weights and low Na diet.
+
+2. Tobacco use / smoking history - Extensive counseling and history review done today. Pt has significant smoking hx notable for three distinct periods of use: 1.5 packs per day for 14 years, followed by half a pack (approx 10 cigarettes) per day for 18 years, followed by a quarter pack (approx 5 cigarettes) per day for 14 years, after which she quit entirely. Pt reports she is no longer a smoker and has not smoked in quite some time. She recalls quitting about 2 yrs after her first grandchild was born, which happened in 2016 - this milestone helped her stop for good. Continue tiotropium for COPD, reinforced smoking cessation success and encouraged continued abstinence. General discussion held regarding pulmonary and cardiovascular health maintenance; no imaging ordered as part of today's visit.
+
+3. COPD - stable, mild wheeze on exam today, continue tiotropium, f/u with pulm as scheduled.
+
+4. PAD - stable, no claudication changes, continue current antiplatelet regimen (documented elsewhere), routine vascular surveillance per prior plan.
+
+5. Depression - pt reports euthymic mood, continue sertraline, will defer to psych/PCP for further med mgmt if needed.
+
+6. Gout - no active flare, continue allopurinol, encouraged hydration.
+
+7. HLD - at goal on atorvastatin per labs today, continue current dose.
+
+Follow up in 4 weeks or sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered today.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Osei and discussed the assessment and plan as documented above. I agree with the findings and plan as written.
+- Attending Cardiologist

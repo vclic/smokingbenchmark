@@ -1,0 +1,49 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Curtis Clark (M), DOB: 3/14/1947 (age 78)
+Date of Service: 10/24/2025
+Provider: Anita Patel, MD (Internal Medicine)
+
+CHIEF COMPLAINT: Follow-up hypertension and diabetes.
+
+HPI: Mr. Clark is a 78-year-old man here for routine follow up of HTN and DM2. He reports doing reasonably well, denies chest pain, denies polyuria/polydipsia. He notes occasional knee discomfort consistent w/ prior gout flares, non-tender today. Blood sugars per home log range 110-160. He take his meds mostly as directed although he sometimes forgets the evening dose, patient states, "I forget sometimes because I'm not, uh, [inaudible] in the routine yet."
+
+[COPY-FORWARD FROM PRIOR VISIT 03/12/2024 — left in note by resident, not updated]:
+Pt here for f/u asthma, BPH, gout. Denies wheeze, denies nocturia >2x, uric acid stable. Continue same meds. Return 6 months. Weight 182 lb, BP 138/82, HR 76. Discussed diet and exercise. Pt tolerating albuterol PRN. No new complaints today. Follow up labs in 3 months. [END COPY-FORWARD]
+
+SOCIAL HISTORY (templated):
+Tobacco use: Smoking status: Never Smoker [NOTE: this templated field is incorrect — see narrative below]
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Blank
+
+Narrative addendum (Dr. Patel): The EHR social history field above auto-populated as "Never Smoker," which is inaccurate and should be disregarded. Patient actually has a 12 pack-year smoking history; he quit smoking in 2000 and has remained abstinent since. Also of note, he reports he quit drinking alcohol in 2023 and has not resumed.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiac: denies chest pain, palpitations, orthopnea. Resp: denies cough, denies hemoptysis, occasional mild wheeze per asthma hx. GI: denies nausea, vomiting, diarrhea, constipation. GU: BPH symptoms stable, denies dysuria, denies hematuria. MSK: occasional joint pain c/w gout, no acute flare. Psych: mood stable on current antidepressant, denies SI/HI. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 72, RR 16, Temp 98.4F, Wt 179 lb, BMI 27.4. General: well-appearing, NAD. HEENT: PERRLA, oropharynx clear. Neck: no JVD, no thyromegaly. CV: RRR, no murmurs/gallops/rubs. Lungs: clear to auscultation bilaterally, no wheeze/rales/rhonchi appreciated today. Abd: soft, non-tender, non-distended, normal bowel sounds. Ext: no edema, pulses 2+ bilaterally. Neuro: grossly intact, alert and oriented x3. Skin: no rashes noted.
+
+LABS/RESULTS:
+09/30/2025 A1c: 7.2%
+09/30/2025 Fasting glucose: 128 mg/dL
+09/30/2025 LDL: 98 mg/dL, HDL 42 mg/dL, TG 150 mg/dL
+09/30/2025 Creatinine: 1.1 mg/dL, eGFR >60
+09/30/2025 Uric acid: 6.8 mg/dL
+10/15/2025 EKG: NSR, no acute ST changes, unchanged from prior.
+
+MEDICATIONS: Lisinopril 20mg daily, Amlodipine 5mg daily, Metformin 1000mg BID, Atorvastatin 40mg daily, Aspirin 81mg daily, Albuterol inhaler PRN, Allopurinol 300mg daily, Finasteride 5mg daily, Tamsulosin 0.4mg daily, Sertraline 50mg daily, Metoprolol succinate 25mg daily.
+
+ASSESSMENT/PLAN:
+1. Hypertension — well controlled, continue current regimen.
+2. Diabetes mellitus type 2 — A1c 7.2%, continue metformin, reinforce diet.
+3. Coronary artery disease — stable, continue aspirin/statin/beta-blocker.
+4. Gout — uric acid stable, continue allopurinol.
+5. BPH — stable on tamsulosin/finasteride.
+6. Asthma — well controlled, continue albuterol PRN.
+7. Depression — stable mood, continue sertraline.
+8. Tobacco history — quit smoking, longstanding former smoker; corrected inaccurate EHR field as above; general health maintenance counseling provided.
+9. Alcohol — quit in 2023, continue to encourage abstinence.
+
+Return to clinic in 3 months or sooner if concerns.
+
+Electronically signed by Anita Patel, MD, with attending attestation: "I have reviewed and discussed this encounter with the resident and agree with the documented plan."

@@ -1,0 +1,31 @@
+TELEHEALTH URGENT CARE NOTE
+Date of service 11/26/2023
+Pt: Lan Thompson, F, age 70 (DOB 5/6/1953)
+Provider: Teresa Alvarez, NP
+
+HPI: pt calling in for cough x5 days, worse at night, no fever no chest pain. hx COPD, afib, PAD, BPH, obesity. reports some sob w exertion but baseline per pt. denies hemoptysis. no travel no sick contacts. c/o sputum yellowish, denies wt loss.
+
+ROS: otherwise negative except as above cough/sob
+
+PMH: peripheral artery disease, atrial fibrillation, BPH, obesity, COPD
+
+Social Hx: pt quit etoh in 2017, no current use. Smoking status: Never Smoker (this field is outdated/incorrect - see note). Pt actually has significant smoking hx - per pt she smoked about a quarter pack (5 cigs/day) for 22 yrs, then stopped completely for 7 yrs, then restarted at three-quarters pack (~15 cigs/day) for 16 yrs and continues to smoke to this day. pt states she is not ready to quit at this time, declines further cessation counseling today but open to revisit.
+
+Meds: albuterol inh prn, metoprolol, apixaban, tamsulosin - reviewed no changes
+
+Exam: gen - NAD, alert, comfortable on telehealth cam
+Resp: cough noted during call, no visible distress, pt denies increased wob
+CV: reports irreg pulse at baseline (known afib)
+Other systems deferred - telehealth limited exam
+
+Assessment/Plan:
+1. Acute cough, likely bronchitis vs COPD exacerbation - supportive care, close f/u if worsens, consider in-person visit if fever or worsening sob
+2. COPD - continue current inhalers, reinforce smoking cessation resources given ongoing tobacco use (pt smokes quarter pack then quit 7 yrs then restarted three-quarter pack x16 yrs, still smoking, not ready to quit today) - advised to quit, offered resources, pt declines at this visit
+3. Afib - continue apixaban and metoprolol, no acute issues reported
+4. PAD - stable, no new claudication sx
+5. BPH - stable on tamsulosin
+6. Obesity - discussed lifestyle modification briefly
+
+Note: correcting chart - templated smoking status field says 'Never Smoker' which is inaccurate, updating social hx as above for accurate longitudinal record.
+
+f/u prn or sooner if worse, pt verbalized understanding, telehealth visit ended without difficulty

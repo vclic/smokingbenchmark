@@ -1,0 +1,63 @@
+NURSE INTAKE
+DOS: 10/23/2024
+Pt: Lan Martinez, F, DOB 3/25/1958 (age 66)
+Provider: Priya Raman, MD, Family Medicine - Annual Wellness Visit
+
+Vitals: BP 138/82, HR 76, RR 16, T 97.8F, Wt 154 lb, Ht 5'4", BMI 26.4
+Allergies: NKDA
+Meds reconciled: yes (see MAR)
+
+--- SOCIAL HISTORY (templated) ---
+Alcohol use: occasional, ~1 glass wine/wk
+Drug use: denies
+Occupation: retired admin assistant
+Exercise: Not on file
+Living situation: lives w/ spouse
+
+TOBACCO USE:
+  Current status: current every day smoker
+  Type: cigarettes
+  Hx: smoked approx 1/4 pack (~5 cigs) per day x19 yrs, then increased to approx 8 cigs/day for the following 26 yrs, continuing to present
+  Readiness to quit: pt states not ready to quit at this time
+  Counseling given: yes, brief cessation counseling offered, pt declined referral to quitline today
+Secondhand smoke exposure: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+CC: Annual wellness visit, established pt w/ CAD and GERD, here for routine f/u and physical.
+
+HPI: Ms. Martinez is a 66 yo F, DOB 3/25/1958, presenting 10/23/2024 for her annual wellness exam. She reports feeling generally well, denies chest pain, denies SOB at rest or exertion, though she does note occasional heartburn after eating spicy or fried foods, which she manages with OTC antacids most days. She states her GERD sx are stable overall, worse w/ large meals late at night, and she has not had any new episodes of dysphagia or wt loss. Regarding her CAD, she is s/p stent placement (per old records, exact date not on file) and reports no anginal equivalents, no palpitations, no syncope. She continues to take her cardiac meds as prescribed and denies missed doses. Pt reports mild fatigue at end of day which she attributes to poor sleep, sleeping approx 5-6 hrs/night, sometimes waking due to reflux sx.
+
+On review of the tobacco history above, pt confirms she continues to smoke cigarettes daily and when asked about quitting she states she is not ready to make an attempt at this time; she was counseled on cardiovascular and GI risks of continued smoking, including worsening of GERD sx and increased cardiac risk, and briefly educated on available cessation resources including nicotine replacement therapy and counseling programs, which she declined at this visit. Lung cancer screening was discussed in general terms as part of preventive care conversation, no further action taken today regarding imaging.
+
+ROS: Constitutional - denies fever, chills, unintentional wt loss. CV - denies chest pain, palpitations, edema. Resp - denies cough, wheeze, hemoptysis. GI - + occasional heartburn as above, denies BRBPR, melena. All other systems reviewed and negative per pt report, [inaudible] portion of dictation regarding musculoskeletal complaints not fully captured, pt to clarify at f/u if sx persist.
+
+PMH: CAD (s/p PCI, exact stent date not on file), GERD
+PSH: cholecystectomy (year unknown per pt)
+FH: mother w/ HTN, father w/ MI in 70s
+Meds: aspirin 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 25mg daily, omeprazole 20mg daily
+
+Physical Exam:
+Gen: well-appearing, NAD, alert and oriented x3
+HEENT: PERRLA, oropharynx clear, no thrush
+Neck: no JVD, no thyromegaly
+CV: RRR, no murmurs/rubs/gallops appreciated, no lower extremity edema
+Resp: lungs clear to auscultation bilaterally, no wheezes/rales/rhonchi, no increased work of breathing
+Abd: soft, nontender, nondistended, normoactive bowel sounds
+Skin: warm, dry, intact, no lesions noted
+Ext: no clubbing/cyanosis/edema
+Neuro: grossly nonfocal
+
+Labs/Results (reviewed today):
+  Lipid panel 10/20/2024: Total chol 188, LDL 102, HDL 48, Trig 190
+  CMP 10/20/2024: Na 139, K 4.2, Cr 0.9, eGFR >60, glucose 101
+  HbA1c 10/20/2024: 5.7%
+  EKG 10/23/2024 (in office): NSR, rate 74, no acute ST changes, unchanged from prior tracing
+
+Assessment/Plan:
+1. CAD - stable, continue current regimen, ASA + statin + BB, EKG reviewed today unremarkable, will continue routine cardiology f/u per pt's cardiologist, encouraged low-fat diet and regular activity.
+2. GERD - stable on omeprazole, advised avoidance of trigger foods, late meals, and continued weight management; will consider dose adjustment if sx worsen.
+3. Tobacco use, current everyday smoker, not ready to quit today - counseled on risks, offered resources, will readdress at future visits, pt encouraged to call if she reconsiders cessation aids.
+4. Health maintenance - up to date on mammogram and colonoscopy per pt report, will order labs for next visit, discussed general preventive screening topics including age-appropriate imaging considerations, no imaging ordered today.
+5. Return to clinic in 12 months or sooner if sx change; pt verbalized understanding of plan and agreed with above.
+
+Electronically signed: Priya Raman, MD, 10/23/2024

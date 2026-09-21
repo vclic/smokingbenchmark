@@ -1,0 +1,60 @@
+Pulmonology Clinic - Follow-up after COPD Exacerbation
+Date of Service: 03/01/2023
+Author: Elena Markovic, MD
+Patient: Leonard Taylor  DOB: 03/01/1972  Age: 51  Sex: M
+
+--- NURSE INTAKE ---
+Vitals: BP 132/82, HR 78, RR 18, SpO2 94% RA, Temp 98.4F, Wt 191 lb
+Chief complaint: f/u after recent ED visit for COPD flare, pt reports mild improvment in cough and dyspnea since d/c
+Allergies: NKDA
+Meds reviewed: albuterol inh prn, fluticasone/salmeterol, atorvastatin, sertraline, meloxicam prn joint pain
+
+SOCIAL HISTORY (EHR templated block)
+Tobacco use status: Former smoker
+Smoking pack-years: 15
+Quit date: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: warehouse supervisor
+Living situation: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr Taylor is a 51 y/o male with hx of COPD, depression, hyperlipidemia, and osteoarthritis who presents for f/u after ED visit last wk for COPD exacerbation. He states he was treated with prednisone taper and azithromycin and is now feeling notably better, cough less productive, using rescue inhaler less freqently. No fevers no chest pain. He denies current tobacco use; he has not smoked since his 47th birthday and endorses a 15 pack-year smoking history overall. He is motivated to remain smoke free; general discussion held regarding tobacco-related health risks.
+
+[COPIED FORWARD FROM PRIOR VISIT 09/14/2022 - please disregard outdated info below, left in error]
+HPI (09/14/2022): Pt presents today for routine COPD follow up, reports occasional wheeze with exertion, denies orthopnea or PND. Continues on combo inhaler with good effect. Reports mood stable on sertraline, no SI/HI. Osteoarthritis of bilateral knees stable on meloxicam, uses cane occasionally for ambulation. Lipid panel reviewed, LDL improved from prior. Pt was counseled again regarding importance of pulmonary rehab referral, states he has not yet scheduled due to work schedule. Plan at that time: continue current inhalers, f/u in 6 months, recheck spirometry.
+[END COPIED TEXT]
+
+ROS: Resp - improved cough, no hemoptysis. Cardiac - no chest pain/palpitations. Psych - mood stable, denies SI/HI. MSK - chronic knee pain, unchanged. All other systems reviewed and negative.
+
+Exam:
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat bases, no rales, no accessory muscle use
+CV: RRR no m/r/g
+MSK: mild crepitus b/l knees, no effusion
+Psych: euthymic affect, appropriate
+
+Labs/Results:
+- CBC (02/28/2023): WBC 7.8, Hgb 14.9, Hct 44.1, Plt 240
+- BMP (02/28/2023): Na 139, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.9, Glu 96
+- Lipid panel (01/15/2023): Total chol 188, LDL 104, HDL 46, Trig 190
+- Spirometry (02/15/2023): FEV1 62% predicted, FEV1/FVC 0.64, consistent with moderate obstruction
+- CXR (02/28/2023 ED): no acute infiltrate, mild hyperinflation c/w COPD
+
+Assessment:
+1. COPD, recent exacerbation - improving, s/p steroid/antibiotic course, will continue current regimen
+2. Former tobacco use, 15 pack-year hx, quit since age 47 - reinforced continued abstinence, general tobacco-related risk discussion held
+3. Depression - stable on sertraline
+4. Hyperlipidemia - improved on atorvastatin, will recheck lipids in 6 mo
+5. Osteoarthritis - stable, continue meloxicam prn, consider PT referal
+
+Plan:
+- Continue combo inhaler and albuterol prn
+- Pulm rehab referral placed again, encouraged pt to schedule
+- F/u in pulm clinic 3 months, sooner if worsening sx
+- Repeat spirometry at next visit
+- Continue sertraline, atorvastatin, meloxicam prn
+- Pt educated on smoking relapse prevention resources given prior hx
+
+Elena Markovic, MD
+Electronically signed 03/01/2023

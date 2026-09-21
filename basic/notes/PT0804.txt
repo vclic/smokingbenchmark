@@ -1,0 +1,69 @@
+General Medicine Clinic Progress Note
+
+Patient: BROOKS, Frank    MRN: 31673375
+DOB: 11/15/1971    Age: 51 y.o.    Sex: Male
+Date of Service: 05/15/2023    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Frank Brooks is a 51 y.o. male who presents for diabetes follow-up.
+Most recent A1c 9.5% (previously 9.9% in December 2022). Fasting glucose 130-180 per log. Denies polyuria/polydipsia. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity
+• Type 2 diabetes	2013
+• Essential hypertension
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2019)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• hydrochlorothiazide 25 mg daily
+• metformin 1000 mg BID
+• losartan 100 mg daily
+• insulin glargine 20 units nightly
+• fish oil 1 g daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Unknown If Ever Smoked
+• Smokeless tobacco: Not on file
+
+Family History
+Mother - osteoporosis, hip fracture. Sister - breast cancer at 59. Both parents were smokers.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 138/68 (BP Location: Left arm, Patient Position: Sitting) | Pulse 68 | Temp 97.8 °F (Oral) | Resp 20 | Ht 5' 9" | Wt 206 lb | SpO2 96% | BMI 30.40 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (2023-05-12): A1c 9.5%, Cr 0.73, K 4.5
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.5% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+
+f/u 12 mo
+
+Electronically signed by Laura Castellano, FNP-C on 05/15/2023

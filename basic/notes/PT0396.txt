@@ -1,0 +1,41 @@
+PROGRESS NOTE
+Date of Service: April 10, 2023
+Patient: Charles Davis   DOB: 10/18/1947   MRN: 82040773
+
+S:
+CC: Chronic disease f/u
+HPI: Mr. Davis is a 75-year-old male with a history of OSA, obesity, asthma, and HLD who presents for routine follow-up of chronic conditions. Feels about the same as last visit. Taking all meds as prescribed.
+
+PMH: Mild persistent asthma, Obesity (dx 1983), OSA, Hypercholesterolemia, CKD 3b, PAD
+PSH: Cataract extraction, bilateral (2008); Left inguinal hernia repair (2020)
+Meds: simvastatin 20 mg nightly; aspirin 81 mg daily; cilostazol 100 mg BID; albuterol HFA PRN; fluticasone 110 mcg 2 puffs BID
+Allergies: Latex
+SH: Widowed; lives with son. He is a lifelong nonsmoker. Drinks a glass of wine with dinner. No illicit drug use.
+FH: Mother - CHF, d. age 88. Son - type 1 diabetes.
+ROS: CV neg, Gen neg, Neuro neg, MSK neg, GI neg, Skin neg, Resp neg
+
+OBJECTIVE:
+Vitals: BP: 119/78  HR: 63  RR: 20  Temp: 98.6 F  SpO2: 97% on RA  Wt: 222 lbs  BMI: 34.8
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Obese, soft, nontender
+  Ext: 1+ DP pulses bilaterally, no ulcers
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Hypercholesterolemia: Continue statin. Lipid panel due.
+2. OSA
+   - Using CPAP nightly.
+3. CKD 3b
+   - Monitor BMP q6 months.
+4. Health maintenance
+   - LCS: N/A - never smoker.
+
+Follow up in 12 months or sooner PRN.
+
+Gregory Tan, MD

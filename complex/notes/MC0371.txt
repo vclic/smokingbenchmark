@@ -1,0 +1,70 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Dennis Nelson (M), DOB: 02/13/1954 (age 70)
+Date of Service: 02/13/2024
+Provider: Catherine Lindqvist, DO
+
+CC: Heart failure follow-up.
+
+HPI: Mr. Nelson returns for routine f/u of chronic systolic heart failure (EF 35% on last echo). Reports mild dyspnea on exertion, denies orthopnea, denies PND. No new chest pain. Weight stable per pt report, home scale readings brought in - fluctuating 1-2 lbs. Compliant with diuretic. No recent hospitalizations since last visit. GERD sx intermittent, controlled on current regimen. OSA - uses CPAP nightly, reports good compliance, machine download not available today.
+
+ROS: Constitutional: denies fevers, chills, wt loss. Cardiac: as above, denies syncope/presyncope, denies palpitations. Resp: denies cough, denies hemoptysis, mild DOE as noted. GI: occasional reflux, denies dysphagia, denies melena/hematochezia. GU: denies dysuria, nocturia x1. MSK: denies joint swelling. Neuro: denies focal weakness, denies HA. Skin: denies rash. Psych: denies depression/anxiety sx. All other systems reviewed and negative except as documented above.
+
+PMH: Congestive heart failure (systolic), GERD, obstructive sleep apnea, hyperlipidemia.
+PSH: none significant.
+
+SOCIAL HISTORY (templated block):
+Smoking status: Never Smoker
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+[Note: the 'Smoking status: Never Smoker' field above is an outdated template default and is INCORRECT - see assessment/plan below for accurate smoking history.]
+
+MEDICATIONS:
+1. Metoprolol succinate 50 mg daily
+2. Lisinopril 10 mg daily
+3. Furosemide 40 mg daily
+4. Spironolactone 25 mg daily
+5. Atorvastatin 40 mg qhs
+6. Omeprazole 20 mg daily
+7. Aspirin 81 mg daily
+8. Empagliflozin 10 mg daily
+
+ALLERGIES: NKDA
+
+VITALS: BP 128/76, HR 68 reg, RR 16, SpO2 96% RA, Wt 198 lb (stable from 200 lb 3 mo ago), BMI 29.4
+
+PHYSICAL EXAM:
+General: well-appearing, NAD.
+HEENT: normocephalic, atraumatic, no JVD appreciated at 30 deg.
+Cardiac: RRR, no m/r/g, no S3/S4 appreciated today.
+Lungs: CTAB, no rales/wheezes, no accessory muscle use.
+Abdomen: soft, nontender, nondistended, no hepatomegaly.
+Extremities: no edema, pulses 2+ symmetric.
+Skin: warm, dry, no rash.
+Neuro: alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+- BMP 02/12/2024: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+- BNP 02/12/2024: 210 pg/mL (improved from 340 pg/mL on 11/14/2023)
+- Lipid panel 01/05/2024: TC 165, LDL 88, HDL 42, TG 150
+- Echo 12/2023: LVEF 35%, mild LV dilation, no significant valvular disease
+- TSH 01/05/2024: 2.1 (WNL)
+
+ASSESSMENT/PLAN:
+1. Chronic systolic heart failure, NYHA II - clinically stable, BNP trending down. Continue current GDMT as above. Will recheck BMP/BNP in 3 months. Reinforce low-sodium diet, daily weights.
+2. Smoking history - correcting the templated field above, which incorrectly lists 'Never Smoker.' Patient is a former smoker; smoked approximately a quarter pack (about 5 cigarettes) per day from 1970 until 2013. He has since stopped. Given cardiovascular risk profile, continued reinforcement of tobacco-free status is appropriate; lung cancer screening was discussed with patient in general terms.
+3. GERD - stable on omeprazole, no dose change.
+4. OSA - continue CPAP, reports good adherence; will encourage bringing download data to next visit.
+5. Hyperlipidemia - LDL at goal, continue atorvastatin.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+________________________________
+Catherine Lindqvist, DO
+
+ADDENDUM (same day, later):
+Addendum added after review of chart discrepancy flagged by nursing staff regarding smoking status field. Confirmed with patient directly during visit - he reaffirms he is a former smoker as documented above in assessment/plan (quarter pack per day, 1970-2013). The 'Never Smoker' field in the templated social history section is an error carried forward from an old intake form and should be disregarded; correction has been requested to the EHR template team. No further changes to plan.
+- C. Lindqvist, DO

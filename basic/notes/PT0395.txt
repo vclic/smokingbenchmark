@@ -1,0 +1,45 @@
+Internal Medicine Clinic Note
+Date of Service: 2026-05-15
+Patient: Nancy Hughes   DOB: 4/14/1974   MRN: 27035346
+
+SUBJECTIVE:
+CC: Follow-up hypertension
+HPI: Mrs. Hughes is a 52 year old female with a history of osteoporosis and HTN who presents for follow-up of hypertension. Home BP readings mostly in the 150s/90s. Taking lisinopril 40 mg daily without missed doses. Occasional lightheadedness on standing, otherwise no complaints.
+
+PMH:
+- Osteoporosis
+- Essential hypertension (dx 2020)
+Meds: lisinopril 40 mg daily; chlorthalidone 12.5 mg daily; alendronate 70 mg weekly; calcium + vitamin D daily
+Allergies: NKDA
+SH: Widowed; lives with daughter. Works as a farmer. Previously quit in 2020; relapsed in 2022. Former heavy drinker; quit alcohol in 2013 and has been sober since. Denies illicit drugs.
+FH: No family hx of colon cancer.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 131/94  HR: 83  RR: 18  Temp: 98.2 F  SpO2: 96% on RA  Wt: 165 lbs  BMI: 29.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (April 15, 2026): Cr 1.05, K 4.6, Hgb 15.2
+
+A/P:
+1. Hypertension: Above goal; increase lisinopril dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Nicotine dependence, cigarettes, uncomplicated (F17.210): Pt continues to smoke. Advised to quit; >8 min spent counseling. She is in the precontemplation stage. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+
+RTC 3 months.
+
+Electronically signed by Michael Dunn, DO on 5/15/2026 at 14:41

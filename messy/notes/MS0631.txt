@@ -1,0 +1,38 @@
+Owen Fitzgerald, MD - Pulmonology Progress Note
+Date of Service: 01/04/2026
+Patient: Wayne Schmidt (M), DOB 1/4/1975
+
+CHIEF COMPLAINT: Follow-up after ED visit for COPD exacerbation.
+
+HPI: Mr. Schmidt is a 51-year-old male who presented to the ED last week with worsening dyspnea, increased sputum production, and wheezing, treated with nebulizers, prednisone taper, and azithromycin, now here for pulm follow-up on 01/04/2026. He reports his breathing has improved but he still has some residual morning cough, denies fever, chest pain, or hemoptysis, and says his home pulse ox readings have been 'in the low nineties, I think, maybe higher, hard to tell with this old [inaudible] machine.' He also endorses fatigue, poor sleep despite CPAP use for his OSA, and some ankle swelling that he attributes to sitting too much over the holidays, no [inaudible] chest pressure, no palpitations. Review of systems otherwise negative for fevers, chills, night sweats, weight loss, hemoptysis, GI symptoms, GU symptoms, or new neurologic complaints, all other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY: I want to correct the templated field below, as it is inaccurate for this patient - the chart auto-populated 'Smoking status: Never Smoker' but that is not correct; he is in fact a former smoker who quit smoking 20 months ago after a long history of tobacco use, he reports he smoked for a total of 28 years before quitting. He does not currently smoke and denies any relapse since quitting. He denies illicit drug use, drinks alcohol occasionally, socially, maybe a beer or two on weekends per his report.
+
+PAST MEDICAL HISTORY: Hyperlipidemia, obesity, obstructive sleep apnea (on CPAP), COPD (recently diagnosed, moderate per spirometry from last visit).
+
+MEDICATIONS: Atorvastatin 40mg daily, Tiotropium inhaler daily, Albuterol MDI PRN, Fluticasone/salmeterol 250/50 BID, Prednisone taper (day 4 of 5), Azithromycin (day 3 of 5), Omeprazole 20mg daily, Aspirin 81mg daily, Multivitamin daily.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 82, RR 18, Temp 98.2F, SpO2 94% on room air, Wt 245 lbs, BMI 36.4
+General: Obese male, mild respiratory distress at rest, no acute distress otherwise.
+HEENT: Normocephalic, atraumatic, no scleral icterus, oropharynx clear.
+Neck: No JVD, no lymphadenopathy, thyroid normal.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops, trace bilateral lower extremity edema.
+Pulmonary: Diffuse expiratory wheezes bilaterally, mildly prolonged expiratory phase, no crackles, no accessory muscle use at rest.
+Abdomen: Obese, soft, non-tender, non-distended, normal bowel sounds.
+Extremities: Trace edema bilaterally, no clubbing or cyanosis.
+Neuro: Alert and oriented x3, no focal deficits.
+Skin: Warm, dry, intact.
+
+LABS/STUDIES: CBC and BMP from ED reviewed, unremarkable aside from mild leukocytosis which has since resolved per repeat outpatient labs today. Spirometry from prior visit reviewed showing moderate obstruction.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue current inhaler regimen, finish prednisone taper and azithromycin course as prescribed, follow up in 4 weeks or sooner if symptoms worsen.
+2. Tobacco use, former - patient is a 51-year-old former smoker who quit smoking 20 months ago after smoking for 28 years total; he is not currently smoking and this represents a correction to the erroneous 'Never Smoker' field noted in the chart above, which should be updated by records staff. Continued abstinence encouraged and praised. Lung cancer screening was discussed with the patient as part of routine preventive counseling given his smoking history.
+3. Obstructive sleep apnea - continue CPAP, reinforce adherence given reported fatigue.
+4. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next visit.
+5. Obesity - discussed weight management, referred to nutrition for counseling.
+
+Return to clinic in 4 weeks, sooner if worsening symptoms, call with any questions.
+
+Owen Fitzgerald, MD

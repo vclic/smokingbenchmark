@@ -1,0 +1,58 @@
+NURSE INTAKE
+DOS: 07/07/2023
+Pt: Diane Brooks, F, DOB 2/27/1947, age 76
+Visit: Vascular Surgery eval for PAD
+
+VS: BP 138/82, HR 76, RR 16, SpO2 95% RA, Wt 152 lb
+CC: bilateral calf pain w/ ambulation, worse over past few months, c/o cramping after approx 1 block, relvd w rest
+
+HPI (per pt, dictated): Pt is a 76 yo female referred for eval of PAD, reports intermittent claudication in b/l calves, worse on the L, denies rest pain or ulceration at this time, has hx of CAD s/p stent [inaudible] 2019, also c/o mild dyspnea on exertion but this may be r/t her known OSA and asthma, uses CPAP nightly per report although compliance data not available today, denies chest pain palpitations or syncope, she does note some low back pain chronic stable attributed to osteoporosis diagnosed several yrs ago no new fx.
+
+SOCIAL HISTORY: Pt is an active smoker, continues to smoke cigarettes daily. She reports previously quitting smoking in 2014 but relapsed in 2016 and has smoked since. Etoh - pt states she quit drinking alcohol in 2009 and has been abstinent since, no current use. Denies illicit drug use. Lives w daughter, ambulates independently w/o assistive device.
+
+ROS: as noted above, otherwise (+) occasional heartburn, (-) fevers chills wt loss, (-) hemoptysis, (-) leg swelling, remainder of 10pt ROS reviewed and negative
+
+MEDS: aspirin 81mg daily, atorvastatin 40mg qhs, albuterol INH prn, alendronate 70mg weekly, CPAP
+
+ALLERGIES: NKDA
+
+PROBLEM LIST:
+I73.9 - Peripheral vascular disease, unspecified
+G47.33 - Obstructive sleep apnea
+M81.0 - Osteoporosis w/o current path fx
+I25.10 - CAD, native vessel, without angina
+J45.909 - Asthma, unspecified, uncomplicated
+E78.5 - Hyperlipidemia (outdated, pt reports resolved per PCP 2020 note - no longer on statin? she is on atorvastatin per med list so likely still active, needs recon)
+I10 - Essential HTN (chart shows dc'd 2021 per old note, unclear if still applies, will verify c PCP)
+
+EXAM (nursing): pt appears comfortable NAD, skin warm dry, pedal pulses palpable but diminished b/l, no ulcers noted, no edema
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Catherine Lindqvist, DO
+Date: 07/07/2023
+
+Reason for visit: PAD evaluation, referred by PCP for claudication sx
+
+I have reviewed the nursing intake and independently interviewed and examined the patient today, 7/7/23. Ms Brooks is a 76 y/o female (DOB 2/27/1947) here w/ several month hx of bilateral calf claudication, now limiting her to about one block before needing rest, no rest pain no ulcers no digit color change reported.
+
+PMH significant for OSA on CPAP, osteoporosis, CAD s/p PCI, and asthma - overall fairly well controlled per pt though she notes occasional use of rescue inhaler maybe once/wk.
+
+On exam today pulses are 1+ dorsalis pedis and posterior tibial bilaterally, femoral pulses 2+, no bruits appreciated over femoral or carotid regions today, cap refill <3 sec, skin intact no breakdown, hair loss noted over b/l lower legs c/w chronic ischemic changes.
+
+ABI ordered today given exam findings, will also get bilateral lower extremity arterial duplex to further characterize extent of disease. D/w pt the plan and she is agreeable.
+
+ASSESSMENT AND PLAN:
+1. Peripheral artery disease, symptomatic (intermittent claudication) - obtain ABI + duplex as above, start pt on cilostazol if no contraindication once renal fxn confirmed, encourage supervised exercise program, f/u in 4 wks w results.
+2. Tobacco use - patient is an active smoker with a 24 pack-year smoking history. Counseled extensively today regarding smoking cessation and its direct impact on PAD progression and cardiovascular risk overall, pt verbalizes understanding, declined pharmacotherapy today but open to discussing again at next visit, nicotine replacement options reviewed. General discussion held regarding ongoing surveillance given her smoking hx, further w/u deferred to PCP.
+3. CAD, stable - continue home meds, no acute issues today, will defer further cardiac w/u to cardiology who she sees separately.
+4. OSA - continue CPAP, reports adequate compliance though no download reviewed today, will request updated compliance data at next visit.
+5. Osteoporosis - continue alendronate, due for repeat DEXA per PCP records, will coordinate.
+6. Asthma - stable on current regimen, reviewed inhaler technique briefly today, no changes made.
+
+Pt verbalizes understanding of above plan, all questions answered today, f/u as above or sooner prn worsening sx, called office if any new rest pain, non healing wounds, or color changes in feet/toes.
+
+Time spent: approx 30 min, more than half spent in counseling and coordination of care as above.
+
+Electronically signed: Catherine Lindqvist, DO, Vascular Surgery, 07/07/2023

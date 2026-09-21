@@ -1,0 +1,52 @@
+OUTPATIENT PROGRESS NOTE
+Patient: Elizabeth Long, F, DOB 1/3/1972 (age 52)
+Date of Service: 01/03/2024
+Provider: Owen Fitzgerald, MD (NP visit, new patient - establish care)
+
+CC: New patient establishing care, multiple chronic conditions.
+
+HPI: Pt is a 52 yo F here to establish primary care after moving from out of state. Hx of gout, COPD, afib, BPH, CAD, CKD stage 3. States she has been stable on her meds but ran out of refills about 2 wks ago, some sx of increased dyspnea on exertion since then, denies chest pain, denies palpitations currently although hx of afib per pt on and off for yrs. She reports occasional joint pain in great toe c/w gout flares, last flare approx 3 mo ago, resolved w/ colchicine per pt report. Denies dysuria, urinary hesitancy improved since last on tamsulosin (per old records, see below). Pt reports fatigue, denies fevers/chills, denies wt loss, some [inaudible] with appetite lately per pt but overall eating okay she says.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 05/15/2022 (outside records, unclear original author, retained for reference)***
+Pt seen for follow up of COPD and CAD, doing fairely well on current regimine, home O2 not required at this time, spirometry reviewed showed moderate obstruction, pt advised continue albuterol prn and tiotropium daily. CAD stable no anginal sx reported, last stress test unremarkable per pt report (records not available). Afib rate controlled on metoprolol, INR therapeutic per pt at that time on warfarin, gout well controlled no flares x several months, BPH sx improved on tamsulosin, CKD stage 3 stable baseline creatinine around 1.4 per old labs. Pt counseled on diet, exercise, med compliance. RTC in 6 months or sooner if needed.
+***END COPIED FORWARD TEXT***
+
+PMH: Gout, COPD, Atrial fibrillation, BPH, CAD, CKD stage 3.
+
+PSH: none significant per pt.
+
+Meds (reported, to reconcile): allopurinol, tiotropium inhaler, albuterol prn, metoprolol, warfarin (or possibly a DOAC, pt unsure - to clarify), tamsulosin, atorvastatin.
+
+Allergies: NKDA.
+
+Social History: Pt is a former smoker, quit smoking 20 years ago. Prior to quitting she smoked 20 cigarettes per day for 7 years. No current tobacco use. Denies illicit drug use. Reports occasional etoh, 1-2 glasses wine per wk. Lives with husband, retired from clerical work, walks daily for exercise as tolerated.
+
+Family Hx: mother with HTN, father with CAD, no known lung cancer in family per pt.
+
+ROS: Constitutional - fatigue as above, denies fever. Resp - mild DOE, denies cough currently, denies hemoptysis. CV - denies chest pain, denies palpitations today. GI - denies nausea/vomiting/diarrhea. GU - denies dysuria, denies hematuria. MSK - occasional joint pain as above. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78 irregular, RR 16, Temp 98.2F, SpO2 95% RA, Wt 172 lb
+Gen: NAD, well appearing woman in no distress
+HEENT: normocephalic atraumatic, PERRL, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi
+Abd: soft, nontender, nondistended, normoactive bowel sounds
+Ext: no edema, 1st MTP joint without acute erythema/swelling today
+Skin: no rashes
+Neuro: grossly intact
+
+Assessment/Plan:
+1. COPD - moderate, continue tiotropium daily and albuterol prn. Reviewed social hx, pt has not smoked in 20 yrs which is reassuring, encouraged continued abstinence from tobacco. Will consider pulm referral if sx worsen.
+2. Atrial fibrillation - rate appears controlled today, will obtain EKG and check INR or coags depending on anticoagulant used, need to clarify actual anticoag regimen with pharmacy/prior records.
+3. CAD - continue atorvastatin, reinforce lifestyle modifications, no acute anginal sx today.
+4. Gout - currently quiescent, continue allopurinol, counsel on diet (limit purine rich foods, etoh).
+5. BPH - continue tamsulosin, sx reportedly improved.
+6. CKD stage 3 - will obtain BMP today to reassess renal fxn and baseline electrolytes, avoid nephrotoxic agents.
+7. Health maintenance - discussed age appropriate screenings including mammogram, colonoscopy status, immunizations reviewed and updated as needed. General preventive health counseling given, including info on tobacco-related health resources, applicable to pt's overall history as a longtime former smoker.
+
+Labs ordered: BMP, CBC, lipid panel, HbA1c, TSH, UA.
+Follow up: RTC in 4-6 wks to review labs and finalize medication reconciliation, sooner if sx worsen.
+
+Electronically signed by Owen Fitzgerald, MD

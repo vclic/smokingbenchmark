@@ -1,0 +1,67 @@
+GERIATRIC ASSESSMENT - HISTORY AND PHYSICAL
+Date of Service: 03/25/2026
+Author: Steven Park, MD, Geriatrics
+
+PATIENT: Deborah Wright (F)
+DOB: 03/25/1955 (Age 71 today, 71st birthday)
+MRN: on file
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, follow up PAD and asthma.
+
+HPI:
+Ms. Wright is a 71-year-old woman with history of peripheral artery disease and asthma who presents for routine geriatric assessment. She reports intermittent claudication with walking about 2 blocks, stable from prior visits. She denies chest pain, syncope, or recent falls. Regarding respiratory status, she states, "My breathing's about the same, I still use my inhaler most mornings." She denies fevers or increased sputum production. When asked directly about tobacco use during today's visit, she stated, "I've smoked most of my life, I know it's bad for my legs and lungs, but I haven't been able to quit." She was counseled extensively on smoking cessation and the impact on her PAD and asthma; she declined pharmacologic cessation aids today but agreed to consider nicotine patches at next visit.
+
+PROBLEM LIST (per chart, some entries not updated):
+1. I73.9 - Peripheral vascular disease, unspecified (active, followed by vascular)
+2. J45.909 - Asthma, unspecified, uncomplicated (active)
+3. E78.5 - Hyperlipidemia, unspecified (2019, may be outdated, no recent lipid panel on file)
+4. M19.90 - Osteoarthritis, unspecified site (2017, chronic, stable)
+5. Z79.899 - Long term drug therapy NEC (copy-forward from prior note)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco Use: 
+  Smoking status: Never Smoker [NOTE: this field is incorrect/outdated in the chart - see below]
+  Cigarettes per day: Not on file
+  Pack-years: Not on file
+  Type: Cigarettes
+  Years smoked: See narrative
+  Quit date: N/A - active smoker
+  Counseling given: Yes, today
+
+[Addendum note inserted by Dr. Park below corrects the templated field - see end of note.]
+
+Alcohol use: Denies.
+Illicit drug use: Denies.
+Living situation: Lives alone, daughter checks in weekly.
+Exercise: Limited due to claudication.
+
+REVIEW OF SYSTEMS: As per HPI. Otherwise negative in 10-system review except as noted.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 95% RA, Wt 68 kg
+General: Alert, well-nourished, no acute distress.
+Cardiovascular: RRR, no murmurs. Diminished dorsalis pedis pulses bilaterally, right greater than left.
+Respiratory: Mild expiratory wheeze bilaterally, no accessory muscle use.
+Extremities: Cool distal extremities, no ulceration, mild pallor on elevation.
+Skin: No lesions.
+Neuro: Grossly intact, gait steady with cane.
+
+LABS/IMAGING (reviewed):
+ABI last checked 6 months ago: 0.72 right, 0.81 left.
+Spirometry on file from pulmonology: mild obstructive pattern.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable claudication symptoms. Continue cilostazol, aspirin. Reinforce smoking cessation given ongoing active tobacco use, which continues to worsen vascular disease. Discussed lung cancer screening in general terms as part of preventive care discussion for active smokers of her age and history; no imaging ordered today, patient to discuss further with PCP.
+2. Asthma - stable, continue albuterol PRN and low-dose ICS. Encouraged smoking cessation as it exacerbates asthma control.
+3. Hyperlipidemia - overdue for lipid panel, ordered today.
+4. Osteoarthritis - stable, continue acetaminophen PRN.
+5. Health maintenance - discussed fall risk, updated vaccinations, will schedule bone density scan.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Steven Park, MD
+
+---
+ADDENDUM (same day, 03/25/2026, 4:45 PM):
+On review of the chart after the visit, I noted the templated Social History field lists "Smoking status: Never Smoker," which is incorrect and appears to be an outdated default value that was never updated. Per today's history obtained directly from the patient, Ms. Wright is in fact an active smoker. She reports smoking about a quarter pack (approximately 5 cigarettes) per day for 16 years, followed by an increase to about 12 cigarettes per day for the next 35 years, continuing up to the present. This corrected history should supersede the erroneous templated entry. Will submit correction request to update the discrete field in the chart.
+Steven Park, MD

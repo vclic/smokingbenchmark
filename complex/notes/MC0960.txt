@@ -1,0 +1,47 @@
+LETTER TO REFERRING PHYSICIAN
+Date of Service: 03/21/2024
+From: Brian Okonkwo, MD (Primary Care)
+Re: Sharon Gonzales, DOB 03/21/1949 (age 75)
+
+Dear Colleague,
+
+I had the pleasure of seeing Ms Gonzales today for follow up after her recent hospitalization for pneumonia. She is a 75-year-old woman with hx of hyperlipidemia, depression, COPD, coronary artery disease and hypertension who was dischargd last week and is doing reasonably well.
+
+HPI: Pt reports "I'm breathing a lot better than I was in the hospital" and denies fever, chills, or worsening cough. She does note some residual fatigue. She states "I get tired walking to the mailbox but that's about it." No chest pain, no hemoptysis. Smoking history is notable - she smoked 1.5 packs per day from 1967 until 2005, at which point she quit. She has not smoked since her 56th birthday and remains smoke-free to this day. Appetite is fair, sleep is intermittent, she attributes this partly to her depression which is stable on current regimen.
+
+--- SOCIAL HISTORY (templated block, EHR) ---
+Tobacco use: Former smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Living situation: Lives alone, daughter nearby
+Occupation: Retired
+Exercise: Limited due to fatigue
+--- END SOCIAL HISTORY BLOCK ---
+
+[Copied from note dated 06/21/2020, unchanged]: "Smoking status: former smoker." This entry has been retained from the prior note for continuity of documentation; no further quantities were specified at that time.
+
+ROS: Otherwise negative except as above. No new SOB at rest, no orthopnea, no PND.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, O2 sat 95% RA, Temp 97.8F
+Gen: NAD, comfortable
+Lungs: Mild bibasilar crackles, improved from discharge exam; no wheeze
+CV: RRR, no murmurs
+Ext: No edema
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue current abx course, f/u CXR in 6 weeks to confirm resolution.
+2. COPD - stable, continue inhalers as prescribed, reviewed proper technique today.
+3. CAD/HTN - continue current meds, BP well controlled today.
+4. Hyperlipidemia - continue statin, will check lipid panel at next visit.
+5. Depression - stable, continue current antidepressant, pt denies SI.
+6. Health maintenance - discussed importance of pulmonary rehab referal. Encouraged continued abstinence from tobacco, pt states she has no plans to resume smoking and has not smoked since quitting.
+
+Will see back in 4 weeks or sooner if symptoms worsen. Thank you for allowing me to participate in her care.
+
+Sincerely,
+Brian Okonkwo, MD

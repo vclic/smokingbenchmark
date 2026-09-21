@@ -1,0 +1,52 @@
+PULMONOLOGY FOLLOW-UP - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Yolanda Martinez | DOB: 05/29/1965 | Age: 59 | Sex: F
+Date of Service: 05/29/2024
+Author: Priya Raman, MD (Resident); Attending attestation below.
+
+HPI:
+Ms. Martinez is a 59-year-old woman with asthma, CKD stage 3, and COPD who returns to clinic for follow-up of an incidental lung nodule identified on prior imaging. She reports mild intermittent dyspnea on exertion, stable from prior visits. No hemoptysis, no fevers, no unintentional weight loss. She uses albuterol PRN with adequate relief. She notes some increase in morning cough but denies change in sputum color. She states she previously quit smoking in 2014 but relapsed in 2016 and has continued smoking since. She endorses ongoing tobacco use and was counseled again today regarding cessation resources including nicotine replacement therapy and referral to the quitline.
+
+PAST MEDICAL HISTORY: Asthma, CKD stage 3, COPD.
+
+SOCIAL HISTORY (EHR TEMPLATE BLOCK):
+Tobacco use: Yes - current
+Type: Cigarettes
+Amount/day: See HPI/A&P
+Years smoked: See HPI/A&P
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies heavy use
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to dyspnea
+E-cigarette/vaping: Not on file
+
+MEDICATIONS: Albuterol HFA inhaler PRN, Fluticasone/salmeterol inhaler BID, Losartan 50mg daily, Atorvastatin 20mg daily.
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS: Denies chest pain, denies fever/chills, denies night sweats, denies significant weight change. Positive for chronic cough and occasional wheeze. Remainder of ROS negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, SpO2 95% on RA, Temp 98.4F, BMI 27.
+General: Well-appearing, no acute distress.
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use.
+CV: Regular rate and rhythm, no murmurs.
+Extremities: No clubbing, no edema.
+
+LABS/RESULTS:
+- CBC (05/20/2024): WBC 6.8, Hgb 13.1, Hct 39.2%, Plt 245
+- BMP (05/20/2024): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.4 (baseline for CKD3), eGFR 42
+- CT Chest without contrast (04/15/2024): 7mm ground-glass nodule right upper lobe, stable in size compared to prior study dated 01/10/2024.
+- Spirometry (03/2024): FEV1/FVC 0.65, consistent with mild-moderate obstruction.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, right upper lobe, stable on serial imaging - will continue surveillance imaging per prior recommendations. Nodule characteristics and stability discussed with patient. Lung cancer screening was discussed in general terms with the patient during the visit.
+2. Tobacco use, active - patient is an active smoker, reports smoking 5 cigarettes per day for 43 years. She previously achieved cessation in 2014 but relapsed in 2016 and has smoked continuously since that time. Strongly advised to quit; discussed nicotine replacement therapy, bupropion, and varenicline as options; referred to tobacco quitline; will readdress at next visit.
+3. COPD - stable on current inhaler regimen, continue fluticasone/salmeterol and albuterol PRN.
+4. Asthma - well controlled currently, no recent exacerbations.
+5. CKD stage 3 - stable, creatinine at baseline, continue to monitor renal function with routine labs, avoid nephrotoxic agents including NSAIDs.
+
+Follow-up in pulmonology clinic in 3 months, sooner if symptoms worsen. Patient verbalized understanding of plan and agreed to follow up.
+
+ATTESTATION: I have personally reviewed and confirm the history, examination, and plan documented above by Dr. Raman. I concur with the assessment and plan as written, including continued surveillance of the pulmonary nodule and tobacco cessation counseling. - Attending physician.

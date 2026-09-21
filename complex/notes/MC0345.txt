@@ -1,0 +1,38 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Raymond Sanchez (M), DOB 2/2/1975, Age: 51
+Date of Service: 06/16/2026
+Author: Julia Brennan, MD
+
+CC: HF follow-up
+
+HPI: 51 yo M with hx HTN, COPD, T2DM, HLD, asthma, OSA on CPAP, followed for HFrEF, returns for routine f/u. Pt states "I've been keeping up with my low-salt diet, doc, but I still get winded going up stairs." Denies orthopnea, PND currently, mild BLE edema noted by pt. No CP. Reports adherence to meds. Wt stable per pt report. Pt denies EtOH use, states he "quit drinking back in '06 and never looked back."
+
+[Copy-forward from prior visit 01/09/2026 - retained for continuity, not all current]: "Pt continues on GDMT for HFrEF, EF 35% on last TTE 11/2025. Denies chest pain, denies syncope. C/o occasional dizziness AM doses. Lungs with mild bibasilar crackles. JVP 8cm. No peripheral edema at that time. Plan: continue carvedilol, entresto, spironolactone, farxiga; recheck BMP in 4 wks; f/u 3 months." [End copy-forward]
+
+Social Hx: Former smoker - started smoking 2.5 packs per day (ppd) at age 22, continued at that rate until quitting in 2005. Quit tobacco in 2005. EtOH - quit drinking alcohol in 2006. No illicit drug use reported.
+
+ROS: Constitutional: no fever, no chills, mild fatigue. Cardiac: as above, + BLE edema, denies palpitations. Resp: chronic cough stable, no hemoptysis, uses inhalers, no acute SOB at rest. GI: no N/V/D. GU: nocturia x1. MSK: no new joint pain. Neuro: no focal deficits. Skin: no rashes. Psych: mood stable. All other systems reviewed and negative.
+
+PE: VS: BP 132/78, HR 76 reg, RR 16, SpO2 94% RA, Wt 91kg (up 0.5kg from last visit), Ht 175cm. Gen: NAD, well-appearing. HEENT: NC/AT, no JVD elevation today. CV: RRR, S1S2, no S3/S4 appreciated, no murmurs. Lungs: mild bibasilar crackles, no wheeze acutely. Abd: soft, NT/ND, +BS. Ext: 1+ pitting edema bilat ankles. Skin: warm, dry. Neuro: A&Ox3, no focal deficits.
+
+Labs/Results:
+- BNP (06/15/2026): 410 pg/mL (elevated, improved from 620 pg/mL on 03/10/2026)
+- BMP (06/15/2026): Na 138, K 4.3, Cr 1.1, eGFR 68
+- HbA1c (05/20/2026): 7.4%
+- Lipid panel (04/12/2026): LDL 92, HDL 41, TG 150
+- TTE (11/2025): EF 35%, mild MR
+
+Medications: carvedilol 12.5mg BID, entresto 49/51mg BID, spironolactone 25mg daily, farxiga 10mg daily, lisinopril d/c'd (on entresto instead), metformin 1000mg BID, atorvastatin 40mg qhs, albuterol PRN, tiotropium daily, fluticasone/salmeterol BID, CPAP nightly.
+
+Assessment/Plan:
+1. HFrEF - clinically improved, BNP trending down, continue GDMT as above, monitor wt daily, low Na diet reinforced.
+2. COPD/Asthma overlap - stable, continue inhalers, no exacerbation.
+3. T2DM - A1c 7.4%, continue metformin, farxiga dual benefit.
+4. HTN - well controlled today.
+5. HLD - continue statin, recheck lipids in 6 months.
+6. OSA - continue CPAP, adherence reportedly good.
+7. Tobacco/EtOH - former smoker, quit 2005; former EtOH use, quit 2006; counseled on continued avoidance, reinforced benefits of remaining smoke-free.
+
+RTC 3 months or sooner if symptoms worsen.
+
+Julia Brennan, MD

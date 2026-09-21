@@ -1,0 +1,36 @@
+RESIDENT NOTE WITH ATTESTATION
+Patient: Thomas Russell (DOB 2/15/1969), 54 y/o M
+Date of Service: 07/13/2023
+Author: Rachel Goldberg, MD (resident); attending attestation below
+
+CC: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Mr. Russell is a 54-year-old male seen today for post-discharge follow-up s/p community-acquired pneumonia treated with IV abx during admission. He reports improving cough and energy, no fever, mild residual dyspnea on exertion. He denies chest pain. Appetite improving. He is being followed for HTN, T2DM, and CKD stage 3, all stable per prior notes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+- Essential hypertension (I10)
+- Type 2 diabetes mellitus (E11.9)
+- Chronic kidney disease, stage 3 (N18.3)
+- Ischemic stroke (2005) (I63.9)
+- GERD (K21.9) - outdated, resolved per patient
+- Hyperlipidemia (E78.5) - outdated, no longer on statin per pt report, needs reconciliation
+
+SOCIAL HISTORY: Former smoker. Smoking history notable for 2 packs per day for 6 years, followed by about 15 cigarettes per day for the next 9 years, before quitting. No current alcohol use. Lives with spouse, retired machinist.
+
+ROS: Otherwise negative except as above.
+
+EXAM: BP 138/82, HR 78, RR 16, SpO2 96% RA. Lungs with mild bibasilar crackles, improved from discharge. Cardiac exam RRR no murmurs. Extremities no edema.
+
+LABS: Cr 1.4 (baseline), K 4.3, HbA1c 7.2% from last visit.
+
+ASSESSMENT/PLAN:
+1. Resolving pneumonia - continue supportive care, repeat CXR in 4-6 weeks to confirm resolution.
+2. Hypertension - continue current regimen, BP at goal today.
+3. Type 2 diabetes - continue metformin, recheck A1c in 3 months.
+4. CKD stage 3 - stable, monitor renal function.
+5. Tobacco use, former - patient quit smoking right after his stroke; reinforced importance of continued abstinence. Discussed general risks of prior tobacco use with patient; general discussion of screening options for former smokers occurred, no specifics or orders placed today.
+
+Attending Attestation: I have personally seen and examined this patient, discussed the case with Dr. Goldberg, and agree with the assessment and plan as documented above.
+
+--- ADDENDUM (later same day) ---
+Addendum by Dr. Goldberg, 07/13/2023, 4:45 PM: Patient called clinic to clarify medication list; confirmed no new OTC supplements. No changes to plan. Reiterated to patient that he quit smoking right after his ischemic stroke in 2005 and has remained abstinent since. No further issues at this time.

@@ -1,0 +1,71 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - Lung Cancer Screening Shared Decision-Making Visit
+Date of Service: 01/21/2023
+
+Patient: Edward O'Brien
+DOB: 01/21/1967 (Age 56)
+Sex: M
+Author: Catherine Lindqvist, DO
+
+Dear Dr. Referring Physician,
+
+Thank you for referring Mr. O'Brien, a 56-year-old male, for shared decision-making regarding lung cancer screening. He presents today, 01/21/2023, accompanied by his wife.
+
+HPI:
+Mr. O'Brien is a pleasant gentleman with history of osteoporosis, type 2 diabetes, coronary artery disease, peripheral artery disease, and BPH who was referred by his PCP for discussion of lung cancer screening given his cardiovascular risk factor profile and family history of cancer (father with colon cancer). He states, "I've never really been a smoker, I just messed around with a few cigarettes when I was a teenager and never kept it up." He denies ever smoking regularly at any point in his life. He denies current tobacco use of any kind, including vaping or smokeless tobacco. He reports occasional shortness of breath with exertion, which he attributes to his PAD-related claudication rather than pulmonary symptoms. He denies chronic cough, hemoptysis, or unintentional weight loss.
+
+He reports his diabetes is managed with metformin and he has been compliant with follow-up for his CAD, having had a stent placed approximately 3 years ago. He takes aspirin and a statin. He denies chest pain today. He is followed by urology for BPH and reports nocturia x2 nightly, stable.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: See HPI - tried a few cigarettes as teenager, never smoked regularly
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Secondhand smoke exposure: Denies
+Alcohol use: Occasional, 1-2 beers on weekends
+Drug use: Denies
+Occupation: Retired electrician
+Living situation: Lives with spouse
+Exercise: Walks daily as tolerated, limited by claudication
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss
+Respiratory: Denies cough, wheeze, hemoptysis
+Cardiovascular: Denies chest pain, orthopnea; positive for intermittent claudication
+GI: Denies nausea, vomiting, abdominal pain
+GU: Nocturia x2, otherwise unremarkable
+Musculoskeletal: Denies acute joint pain
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 97% RA, BMI 27.4
+General: Well-appearing, no acute distress
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+CV: Regular rate and rhythm, no murmurs
+Extremities: Diminished dorsalis pedis pulses bilaterally, no edema
+Skin: No lesions noted
+
+PROBLEM LIST (with ICD-10 codes, some outdated/copy-forward):
+1. Osteoporosis - M81.0
+2. Type 2 diabetes mellitus without complications - E11.9
+3. Coronary artery disease, native vessel - I25.10
+4. Peripheral artery disease, bilateral lower extremities - I73.9
+5. Benign prostatic hyperplasia with lower urinary tract symptoms - N40.1
+6. Vitamin D deficiency - E55.9 (per old note, status unclear, may have resolved)
+7. Tobacco use disorder - Z87.891 (copy-forward from prior template, appears outdated/inaccurate per current history)
+
+ASSESSMENT AND PLAN:
+Mr. O'Brien is a 56-year-old male presenting for shared decision-making regarding lung cancer screening in the setting of significant cardiovascular disease and family history concerns. Per his report, he tried a few cigarettes as a teenager but never smoked regularly and has no current tobacco use. Given the absence of a significant smoking history, we discussed that his risk profile differs substantially from patients meeting typical screening considerations based on tobacco exposure. We discussed the general concept of low-dose CT screening for lung cancer, its purpose, and the population in which it is typically considered, without making a determination regarding suitability for him specifically today. Discussed general risks/benefits and the importance of individualized decision-making with his primary care provider.
+
+Will continue to monitor cardiovascular and diabetes management per his PCP and cardiology. Reinforced need for daily walking as tolerated, foot care given PAD, and continued adherence to statin/antiplatelet therapy. Encouraged continued follow-up with urology for BPH symptoms. No pulmonary intervention needed at this time given absence of respiratory complaints and clear lung exam.
+
+Will send letter summary to referring PCP. Follow-up in pulmonology as needed if respiratory symptoms develop.
+
+Thank you for allowing me to participate in the care of this patient.
+
+Sincerely,
+Catherine Lindqvist, DO
+Pulmonology
+
+---
+ADDENDUM (same day, 01/21/2023, added later in afternoon by Dr. Lindqvist):
+After further chart review, I note that the tobacco use disorder diagnosis code (Z87.891) on the problem list appears to be an error carried forward from a template used for a different patient encounter type and does not reflect Mr. O'Brien's actual history. Per today's discussion, he tried a few cigarettes as a teenager and never smoked regularly, with no significant smoking history to report. This will be flagged for correction with medical records. No other changes to today's note.

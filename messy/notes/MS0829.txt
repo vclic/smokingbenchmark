@@ -1,0 +1,60 @@
+Telehealth Cardiology Follow-up
+Date of Service: 01/21/2026
+Provider: Laura Castellano, FNP-C
+
+Patient: Diane Bryant DOB 1/21/1946 Age: 80 F
+
+CC: HF follow up via video visit
+
+HPI: Pt is an 80 year old woman with hx of HFrEF, CKD stage 3, GERD, osteoarthritis and asthma seen today via telehealth for routine heart failure check in. She states "I've been feeling about the same, maybe a little more short of breath climbing the stairs." No chest pain, no orthopnea beyond baseline 2 pillow, denies significant edema. Weighs herself daily per pt report, no big jumps. Taking meds as prescribed, reports occasional missed dose of furosemide when she "forgets in the morning." Diet mostly low salt though she admits to "cheating with soup sometimes."
+
+Smoking history reviewed today: pt is a former smoker, quit smoking in 2013. Prior to quitting she smoked between 1 and 1.5 packs per day for 44 years. She denies any current tobacco use, no vaping, no other nicotine products. Lung cancer screening was discussed briefly with patient as part of general preventive health conversation given her smoking hx.
+
+--- Copied from note dated 3/21/2022 (Dr. R Alvarez, Cardiology) ---
+SOCIAL HISTORY (as documented 3/21/2022): Former smoker. No current use reported. [carried forward unchanged from that visit for reference]
+--- end copied section ---
+
+ROS: Denies fever, denies chest pain, positive for mild exertional dyspnea as above, denies PND, denies palpitations, GI: occasional reflux sx controlled on PPI, MSK: chronic knee pain stable, Resp: no increase in asthma sx, uses albuterol PRN maybe once a week.
+
+PMH/Problem List:
+- I50.22 Chronic systolic (congestive) heart failure
+- N18.3 Chronic kidney disease, stage 3
+- K21.9 Gastro-esophageal reflux disease w/o esophagitis
+- M17.9 Osteoarthritis of knee, unspecified (outdated- pt reports now bilateral, not updated in system)
+- J45.909 Asthma, unspecified, uncomplicated
+- Z87.891 Personal history of nicotine dependence
+- E78.5 Hyperlipidemia (old, last documented 2019, unclear if still active issue)
+
+Medications: Furosemide 40mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Omeprazole 20mg daily, Albuterol HFA PRN, Atorvastatin 20mg daily (verify still taking)
+
+Vitals (per home device relayed by pt): BP 128/76, HR 68, wt 154 lbs (baseline ~152-156)
+
+Exam: Limited given telehealth format. Pt appears comfortable, no acute distress, speaking in full sentences without difficulty. No visible peripheral edema on camera exam of lower legs, pt states "they look normal to me too." Skin color appropriate, no cyanosis noted.
+
+Labs: Last BMP 12/2025 showed Cr 1.4, eGFR 42, K 4.3 - stable for her CKD stage 3. BNP trending downward per last visit, will recheck at next in person visit.
+
+Assessment:
+1. HFrEF - clinically stable today, mild increase in exertional dyspnea reported, will continue current regimen, discussed importance of daily weights and med compliance
+2. CKD stage 3 - stable, monitor renal function w labs
+3. GERD - controlled on current PPI dose
+4. Osteoarthritis - chronic, pt managing w otc tylenol
+5. Asthma - well controlled on PRN albuterol
+6. Tobacco use, former - quit 2013 after long smoking hx, continue to encourage cessation maintenance, no current relapse concerns voiced by pt
+
+Plan:
+- Continue current cardiac meds as above
+- F/u labs BMP in 3 months
+- Recommend in person visit in 4-6 wks for full exam and weight check
+- Reinforce low sodium diet, daily weight monitoring
+- Continue PPI for GERD
+- Albuterol PRN for asthma, f/u if increased use
+- Pt educated on when to seek urgent care (rapid wt gain, worsening SOB, chest pain)
+- General discussion of preventive health topics including smoking related risks, pt will think about it and discuss further at next visit
+
+Pt verbalized understanding of plan, all questions answered, will follow up as above or sooner if needed.
+
+Electronically signed: Laura Castellano, FNP-C
+
+---ADDENDUM 01/21/2026 16:42---
+Addendum: Pt called back after visit to clarify she has been taking all her medications correctly and wanted to confirm her next appt time, front desk assisted with scheduling. No changes to plan above. Also pt clarified she has not used any tobacco products since quitting in 2013, wanted this noted clearly in chart. No other changes.
+-L. Castellano, FNP-C

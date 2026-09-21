@@ -1,0 +1,53 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 11/01/2024
+Author: Rachel Goldberg, MD
+
+Patient: Carmen Walker (F), DOB 8/6/1953, Age 71
+
+CC: COPD follow-up.
+
+HPI: 71 yo F with hx of COPD, CAD, HFrEF, PAD, hypothyroidism presents for routine f/u. Reports stable dyspnea on exertion, no acute change in cough or sputum production. Uses albuterol PRN, no recent exacerbations, no ED visits or hospitalizations since last seen. Denies fevers, chills, hemoptysis. O2 sat at home reportedly stable per pt report. Continues home O2 prn per prior orders (not currently required at rest today in clinic).
+
+PROBLEM LIST:
+1. COPD, unspecified type (J44.9) - active
+2. Coronary artery disease (I25.10) - active
+3. Heart failure with reduced EF (I50.22) - active
+4. Peripheral artery disease (I73.9) - active
+5. Hypothyroidism (E03.9) - active
+6. GERD (K21.9) - outdated, resolved per pt, not addressed today
+7. Osteoarthritis, knee (M17.9) - outdated entry, not reviewed
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Tried a few cigarettes as a teenager but never smoked regularly.
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Marijuana use: Occasional use reported.
+Other substance use: Not on file
+Occupation: Retired
+Living situation: [blank]
+Exercise: [blank]
+
+ROS: Otherwise negative except as above. Denies chest pain today, denies worsening claudication.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 94% RA, Temp 98.1F
+Gen: NAD, comfortable, seated in exam room.
+Lungs: Diminished breath sounds bilaterally, mild expiratory wheeze, no crackles.
+CV: RRR, S1S2, no murmurs appreciated, no JVD.
+Ext: No significant edema, PAD-related skin changes noted on b/l lower extremities, pulses diminished but palpable.
+
+LABS/STUDIES: PFTs from last visit reviewed - obstructive pattern consistent with COPD, FEV1 modestly reduced. BNP stable per last draw. TSH within normal limits per last endocrine f/u.
+
+ASSESSMENT/PLAN:
+1. COPD - stable on current regimen. Continue albuterol PRN, continue inhaled maintenance therapy as prescribed. Discussed pulmonary rehab referral, pt declined for now.
+2. CAD/HFrEF - continue current cardiology-directed meds, no new sx today, will defer to cardiology for titration.
+3. PAD - stable, continue current antiplatelet regimen, monitor for claudication symptoms.
+4. Hypothyroidism - stable, continue levothyroxine, recheck TSH at next visit.
+5. Lung cancer screening discussed briefly given age and social history; pt to consider and follow up with PCP regarding further discussion.
+6. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Time spent: 25 min, >50% counseling/coordination of care.
+
+---
+ADDENDUM (same day, 3:45 PM):
+Spoke further with pt by phone after visit re: medication refill question for albuterol inhaler - clarified insurance coverage issue with pharmacy, refill sent electronically. No other changes to plan above. -Rachel Goldberg, MD

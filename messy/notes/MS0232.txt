@@ -1,0 +1,61 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Dennis Price
+DOB: 3/18/1951 (age 73)
+Date of Service: 12/17/2024
+Provider: Teresa Alvarez, NP
+Referring Provider: Dr. J. Kim
+
+RE: New patient consult to establish primary care.
+
+Dear Dr. Kim,
+
+Thank you for referring Mr. Price, a 73-year-old male, for establishment of primary care. He was seen today, 12/17/2024, for initial visit.
+
+HPI:
+Pt here to establish care. Hx of asthma, OSA on CPAP (per pt, compliance variable), hyperlipidemia, BPH, HTN. No acute complaints today aside from occasional wheeze w/ exertion. Denies chest pain, denies hemoptysis, denies unintentional weight loss. Sleep - reports snoring per spouse, uses CPAP most nights. Urinary sx - nocturia x2, weak stream, followed previously by urology.
+
+***Copied forward from visit 6/2/2022 (Dr. Kim's office note, imported for reference)***
+"Pt is a 71 yo male presenting for f/u of HTN and hyperlipidemia. BP today 138/84. Lipid panel reviewed - LDL 112, HDL 44, TG 150. Continue atorvastatin 20mg qhs. Asthma stable on albuterol PRN, no ED visits in past year. OSA - CPAP supplied by home health, pt reports mask fit issues, referred to DME for refit. BPH - tamsulosin 0.4mg qhs, IPSS score improved from prior. Pt counseled on diet/exercise, weight stable at 198 lb. Return to clinic in 6 months or sooner if needed. Immunizations UTD per registry."
+***End copied text***
+
+Social History (EHR template):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file.
+Alcohol use: Occasional, 1-2 drinks/wk, beer.
+Marijuana/recreational drug use: Occasional marijuana use reported (pt states he uses it a few times a month for sleep/relaxation).
+Occupation: Retired (former accountant).
+Exercise: Walks ~20 min daily.
+Living situation: Lives with spouse.
+
+ROS: Constitutional - negative for fever, chills, weight loss. Resp - occasional wheeze, no cough, no hemoptysis. Cardiac - no CP, no palpitations. GU - nocturia as above. All other systems reviewed and negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, SpO2 96% RA, Wt 201 lb, Ht 5'9".
+General: well-appearing, NAD.
+HEENT: normocephalic, atraumatic, no oropharyngeal lesions.
+Neck: no JVD, no lymphadenopathy.
+Lungs: mild expiratory wheeze bilat, no crackles, no accessory muscle use.
+CV: RRR, no murmurs/gallops/rubs.
+Abd: soft, NT/ND, no organomegaly.
+GU: deferred, prior eval by urology on file.
+Ext: no edema, pulses 2+ bilat.
+Neuro: grossly intact, alert and oriented x3.
+Skin: no concerning lesions.
+
+Assessment/Plan:
+1. Asthma - stable, continue albuterol PRN, consider ICS if increased frequency of sx. Discussed inhaler technique.
+2. OSA - continue CPAP, will re-check compliance data at next visit. No further mask issues reported today.
+3. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 months.
+4. BPH - continue tamsulosin, IPSS to be reassessed at next visit.
+5. HTN - well controlled today, continue current regimen (lisinopril 10mg daily, confirmed with pt).
+6. Health maintenance - pt is 73 yo, never smoker per social hx; given age and absence of smoking history, lung cancer screening was briefly discussed as not applicable in his case given no smoking history; no further workup along those lines planned. Pt does report occasional marijuana use - counseled on risks, pt understands.
+7. Age-appropriate screening (colonoscopy, etc.) to be reviewed at f/u visit.
+8. Immunizations - reviewed, UTD per registry, will update if needed.
+
+Pt verbalized understanding of plan. Return to clinic in 3 months or sooner if symptoms worsen. Will send copy of this note to referring provider Dr. Kim for continuity of care.
+
+Thank you again for this referral. Please contact our office with any questions.
+
+Sincerely,
+Teresa Alvarez, NP
+Date: 12/17/2024

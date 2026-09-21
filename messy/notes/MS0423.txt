@@ -1,0 +1,68 @@
+Pulmonology H&P
+Patient: Paul Coleman (M)
+DOB: 8/22/1952 (age 73)
+DOS: 08/22/2025
+Author: Brian Okonkwo, MD
+
+CC: F/u incidental lung nodule noted on CT chest done for eval of chest pain wk-up by cardiology.
+
+HPI: Mr. Coleman is a 73 y/o M referred to pulm c/o incidental 8mm RUL nodule found on CTA chest 6 wks ago. Pt asymptomatic, denies cough, hemoptysis, wt loss, night sweats, dyspnea. Some occasional fatigue attributed to poor sleep 2/2 OSA, uses CPAP nightly w/ good compliance per report. No fevers/chills. No prior lung dz hx. Cardiac hx stable per CAD - on statin/ASA, last stress test unremarkable per pt report. BPH sx stable on tamsulosin, nocturia x1-2/night.
+
+ROS: Constitutional - neg wt loss/fever. Resp - neg cough/SOB/hemoptysis. CV - neg CP/palp. GU - nocturia as above. All other systems reviewed, neg except as noted in HPI.
+
+PMH:
+- OSA on CPAP
+- BPH
+- CAD s/p stent 2019 (per outside records)
+- HTN
+
+Meds: Tamsulosin 0.4mg qhs, Atorvastatin 40mg qhs, ASA 81mg daily, Lisinopril 20mg daily, CPAP nightly.
+
+Allergies: NKDA
+
+Social Hx: Retired postal worker. Lives w/ wife. Denies EtOH excess, occasional glass of wine. Smoking hx notable - 33 pack-year total hx. Pt reports he no longer smokes at this time; no further detail on quit timing obtained/documented today. No illicit drug use. Denies occupational asbestos exposure though worked around older bldgs for decades (per pt).
+
+Family Hx: Father - MI age 68. Mother - breast ca. No known lung ca in family.
+
+Physical Exam:
+Vitals: BP 138/82, HR 72, RR 16, SpO2 96% RA, Temp 98.2F, BMI 27.4
+Gen: well-appearing, NAD, comfortable
+HEENT: NC/AT, no LAD, no supraclavicular nodes
+CV: RRR, no m/r/g
+Resp: CTAB, no wheeze/crackle, no accessory muscle use
+Abd: soft, NT/ND, no HSM
+Ext: no c/c/e
+Skin: no lesions
+Neuro: A&Ox3, no focal deficits
+
+Labs/Imaging reviewed: CT chest 6 wks prior showing 8mm solid nodule RUL, no other nodules, no lymphadenopathy, no effusion. No prior imaging avail for comparison.
+
+Problem List (per EHR, some entries outdated):
+- G47.33 Obstructive sleep apnea (active, on CPAP)
+- N40.1 BPH w/ LUTS (active)
+- I25.10 CAD w/o angina (active)
+- I10 Essential HTN (active)
+- J45.909 Asthma, unspecified (outdated - pt denies asthma hx, likely erroneous carryover, will review/remove)
+- Z87.891 Personal hx of nicotine dependence (active - see below)
+
+Assessment/Plan:
+73 y/o M, DOS 08/22/2025, presenting for f/u of incidentally found 8mm RUL pulmonary nodule.
+
+1. Pulmonary nodule, RUL, 8mm, incidental: Given pt's substantial 33 pack-year smoking hx, nodule char and low-risk features (solid, well-circumscribed, no assoc lymphadenopathy) discussed at length w/ pt. Recommend repeat CT chest low-dose surveillance per Fleischner guidelines in 6-12 mo given size/risk profile; will coordinate scheduling with pt separately. Screening criteria and general lung ca screening discussed in general terms with pt, deferred further specifics to separate discussion. No biopsy indicated at this time given low prob features.
+
+2. Tobacco use, former smoker: Pt endorses 33 pack-year hx, currently reports he has quit; no add'l detail re: quit date documented. Continued abstinence encouraged, congratulated pt on cessation, reinforced importance given nodule finding and CAD hx. Resources for relapse prevention offered.
+
+3. OSA: stable on CPAP, cont current mgmt, f/u w/ sleep med as scheduled.
+
+4. CAD: stable, no anginal sx today, cont statin/ASA per cardiology, f/u w/ cards as scheduled.
+
+5. HTN: BP well-controlled today at 138/82, cont current antihypertensive regimen.
+
+6. BPH: stable sx on tamsulosin, no change.
+
+Pt verbalized understanding of plan, all questions answered. F/u in pulm clinic per surveillance schedule above, sooner if new sx develop (hemoptysis, wt loss, worsening dyspnea) - pt instructed to call clinic or seek urgent care if these occur.
+
+Time spent: 25 min, >50% counseling/coordination of care.
+
+Brian Okonkwo, MD
+Pulmonology

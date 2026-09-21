@@ -1,0 +1,60 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Judith Martin (DOB 5/11/1958)
+Date of Service: 05/11/2024
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Martin is a 66-year-old woman with history of asthma, obesity, hyperlipidemia, osteoporosis, and BPH (note: BPH listed on problem list, likely carried forward in error given patient's sex) who presents for evaluation of intermittent chest discomfort over the past several weeks. She describes the pain as "a tightness in the middle of my chest that comes and goes, especially when I climb stairs." She denies radiation to the arm or jaw but notes associated shortness of breath. She states, "I get winded faster than I used to, and I don't know if it's my asthma or my heart." No syncope, no palpitations reported.
+
+Regarding tobacco history, she says, "I was always just a social smoker, you know, for years and years, just a few here and there at parties." She reports she no longer smokes at all currently. She quit smoking at age 51, per her report today.
+
+PAST MEDICAL HISTORY: Asthma, osteoporosis, obesity, hyperlipidemia, benign prostatic hyperplasia (as noted above, likely a carryover documentation error).
+
+MEDICATIONS: Albuterol HFA inhaler PRN, fluticasone/salmeterol inhaler BID, atorvastatin 40mg daily, alendronate 70mg weekly, calcium/vitamin D supplement daily, tamsulosin 0.4mg daily (carried forward, unclear indication), lisinopril 10mg daily, aspirin 81mg daily, omeprazole 20mg daily, multivitamin daily.
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Eyes: denies vision changes. ENT: denies sore throat, congestion. Cardiovascular: as per HPI, chest tightness with exertion; denies orthopnea, PND, lower extremity edema. Respiratory: mild dyspnea on exertion as above, denies cough, hemoptysis, wheeze at rest. GI: denies nausea, vomiting, abdominal pain, changes in bowel habits. GU: denies dysuria, hematuria, urinary frequency. Musculoskeletal: denies joint pain, back pain. Skin: denies rash, lesions. Neurologic: denies headache, dizziness, numbness, tingling, weakness. Psychiatric: denies depression, anxiety. Endocrine: denies polyuria, polydipsia. Hematologic: denies easy bruising or bleeding. Allergic/Immunologic: denies seasonal allergies.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 76, RR 16, Temp 98.2F, SpO2 97% on room air, BMI 33.
+General: Well-developed, well-nourished woman, age 66, in no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops. No peripheral edema. Pulses 2+ throughout.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, clubbing, or edema.
+Skin: Warm, dry, intact.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact.
+Psychiatric: Mood and affect appropriate.
+
+[COPIED FORWARD FROM NOTE DATED 07/11/2020]
+SOCIAL HISTORY (as documented 07/11/2020): Patient is a former smoker. She works part-time as a librarian, lives with her husband, and denies illicit drug use. She drinks alcohol socially, approximately 1-2 glasses of wine per week. She reports regular exercise including walking and swimming. Family history notable for father with myocardial infarction in his 60s, mother with osteoporosis. This section reflects documentation from the prior visit and is retained here for continuity of records.
+[END COPIED SECTION]
+
+PROBLEM LIST:
+- I25.10 Atherosclerotic heart disease, unspecified (rule out, under evaluation)
+- J45.909 Asthma, unspecified, uncomplicated
+- M81.0 Age-related osteoporosis without current pathological fracture
+- E66.9 Obesity, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms (outdated entry, retained on problem list in error)
+- Z87.891 Personal history of nicotine dependence
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely musculoskeletal versus early anginal equivalent given exertional component - will obtain EKG, troponin, and stress echocardiogram given cardiac risk factors including hyperlipidemia and history of tobacco use. Discussed lifestyle modification including weight management and continued smoking cessation reinforcement, though patient reports she no longer smokes.
+2. Asthma - continue current inhaler regimen, well controlled per patient report today.
+3. Hyperlipidemia - continue atorvastatin, will check lipid panel.
+4. Osteoporosis - continue alendronate and calcium/vitamin D, DEXA due for repeat per prior schedule.
+5. Obesity - counseled on diet and exercise.
+6. BPH - deferred to urology; noted this may be an outdated entry given patient's sex, will review chart for accuracy.
+
+Will follow up after results of stress echo. Discussed possible low-dose imaging options for lung health given her smoking history in general terms, no orders placed today pending further discussion at next visit.
+
+Steven Park, MD
+
+---
+ADDENDUM (later same day, 05/11/2024):
+Patient called office this afternoon to clarify history - she confirmed again that she quit smoking at age 51 and has not smoked since, describing her prior use as social smoking over many years rather than daily use. No changes to plan at this time. Will discuss further at follow-up visit.
+Steven Park, MD

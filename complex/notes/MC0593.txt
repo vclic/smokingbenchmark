@@ -1,0 +1,68 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Clinic - Same Day Cough Visit
+Date of Service: 02/13/2023
+Author: Catherine Lindqvist, DO
+
+RE: Kathleen Campbell
+DOB: 02/13/1971 (age 52 today - happy bday I guess, pt not amused)
+
+Dear Dr. [referring MD],
+
+Thank u for the opportunity to see Ms. Campbell in urgent care today for eval of cough. Pt is a 52 y.o. F c h/o hypothyroidism, COPD, OA, and PAD who presents c/o productive cough x 5 days, some pleuritic CP c deep breath, denies fever at home tho felt "warm" per pt yesterday. No hemoptysis. No recent travel. Pt states cough worse in AM, some wheeze noted by husband [inaudible] overnight, she says she sleeps propped up on 2 pillows now which is new for her and shes not sure if related to the PAD meds or the cough itself, run-on hx but pt is a good historian otherwise just talks fast.
+
+ROS: + cough, + occasional wheeze, denies chest pain at rest, denies leg swelling changes from baseline PAD, denies palpitations, denies weight change, thyroid sx stable per pt.
+
+PMH: Hypothyroidism, COPD (on inhalers), OA (knees > hips), PAD (claudication c ambulation, stable).
+
+Meds: Levothyroxine, albuterol MDI prn, tiotropium, cilostazol, acetaminophen prn OA pain.
+
+Allergies: NKDA.
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco Use Status: Current every day smoker
+Type: Cigarettes
+Smoking Hx Detail: Pt reports smoked approx 1/2 pack/day (~10 cigs/day) x14 yrs, then quit completely x4 yrs, then restarted at approx 1/4 pack/day (~5 cigs/day) x13 yrs, ongoing to present.
+Smokeless Tobacco: Never
+Readiness to Quit: Not ready to quit at this time
+Years Since Quit (if former): N/A - currently smoking
+Secondhand Smoke Exposure: Not on file
+Alcohol Use: Pt reports quit drinking alcohol in 2018, none since.
+Drug Use: Not on file
+Occupation: Not on file
+Living Situation: Not on file
+--- END SOCIAL HX BLOCK ---
+
+Counseling: Discussed smoking cessation resources incl quitline and pharmacotherapy options (varenicline, NRT patch/gum); pt states she is not ready to quit today but will "think about it." Advised continued smoking will worsen COPD trajectory and PAD outcomes, pt verbalized understanding. Lung cancer screening was discussed briefly as a general topic given smoking hx; no further action taken on that today, this is not the focus of the urgent visit.
+
+EXAM:
+Vitals: T 99.1F, HR 88, BP 138/84, RR 18, SpO2 94% RA.
+Gen: NAD, mild intermittent cough during visit.
+HEENT: OP clear, no erythema.
+Neck: Thyroid palpable, no nodules appreciated, no LAD.
+Lungs: Diffuse expiratory wheeze b/l, no crackles, mild prolonged expiratory phase c/w COPD baseline, no accessory muscle use.
+CV: RRR, no m/r/g, distal pulses diminished bilaterally (known PAD, chronic).
+Ext: No edema, feet warm, no ulcers noted.
+MSK: Knees c mild crepitus, no effusion, ROM limited but stable from prior.
+
+LABS/RESULTS (from today, 02/13/2023 unless noted):
+CBC: WBC 8.9 (nl), Hgb 13.2, Hct 39.4, Plt 244
+BMP: Na 138, K 4.1, Cl 101, CO2 25, BUN 16, Cr 0.9, Gluc 96
+TSH (from 01/05/2023, prior labs on file): TSH 3.1 (within nl range on current levothyroxine dose)
+CXR (portable, today): No acute infiltrate, hyperinflated lungs c/w COPD, no effusion, no consolidation.
+SpO2 trend: 94% RA today vs. 96% RA baseline per last visit chart note.
+
+A/P:
+1. Acute bronchitis, likely viral vs COPD exacerbation superimposed - will treat conservatively c prednisone burst 40mg x5 days, continue current inhalers, add short course azithromycin given wheeze/sputum change, return precautions given.
+2. COPD - stable-ish today given exam, reinforce inhaler technique, f/u c pulm as scheduled.
+3. Tobacco use, current, not ready to quit - counseled as above, will continue to address at future visits, referring back to PCP for longitudinal cessation support.
+4. PAD - stable per pt report, no acute change, continue cilostazol, f/u c vascular per usual schedule.
+5. Hypothyroidism - euthyroid per recent labs, continue current dose.
+6. OA - stable, continue acetaminophen prn, non-pharm measures discussed.
+
+Pt verbalized agreement c plan. Return to ED/UC if worsening SOB, fever >101, hemoptysis, or CP.
+
+Thank u again for allowing us to participate in this pt's care, will fax full note to your office and pt encouraged to f/u c you within 1 wk.
+
+Sincerely,
+Catherine Lindqvist, DO
+Urgent Care

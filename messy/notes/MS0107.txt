@@ -1,0 +1,69 @@
+HOSPITAL DISCHARGE FOLLOW-UP - PRIMARY CARE
+Date of Service: 01/16/2025
+Patient: Dennis Martinez  DOB: 01/16/1972 (Age 53)
+Author: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: F/u after recent hospitalization for pneumonia, discharged 01/10/2025.
+
+HPI: Mr. Martinez is a 53-year-old male with hx of peripheral artery disease and hyperlipidemia who presents today for post-discharge f/u following admission for community-acquired pneumonia. He reports gradual improvement in cough and dyspnea since discharge, states energy is 'coming back slowly' and he is tolerating the completion of his oral antibiotic course without issue. No fevers, chills, or hemoptysis currently. He does note some residual fatigue and mild exertional SOB when climbing stairs at home, which he attributes to deconditioning during the hospital stay- he was in bed most of the time and the physical therepy team saw him twice, per pt he felt 'wobbly' the first day up. Denies chest pain, denies calf pain or claudication symptoms today although he has a known history of PAD and usually notices some cramping in the left calf after walking about two blocks, today he says thats about his baseline and not worse.
+
+He was seen by pulm consult inpt who recommended outpt f/u CXR in 6 weeks to confirm resolution, this has been ordered. Patient also reports he picked up his statin refill and has been taking it as prescribed, occasionally forgets the evening dose per his own report.
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. No headache, no abdominal pain, no dysuria. Denies leg swelling. [inaudible] regarding sleep quality, patient mumbled something about waking at night coughing but this has improved and its not really botherin him during the day so we'll just keep an eye on it and follow up as needed if it worsens or he develops new symptoms which he was instructed to call the office right away.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Former/Never - see comment
+Smoking comment: Patient reports he tried a few cigarettes as a teenager but never smoked regularly.
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Smokeless tobacco: Denies
+E-cigarette/vaping: Denies
+Alcohol use: Occasional, 1-2 drinks/week
+Illicit drug use: Denies
+Occupation: Retired postal worker
+Living situation: Lives with spouse
+Exercise: Reports trying to walk short distances daily as tolerated
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Peripheral artery disease (I73.9) - stable, on antiplatelet therapy
+2. Hyperlipidemia (E78.5) - on statin
+3. Pneumonia, resolving (J18.9) - recent hospitalization, completing outpt abx
+4. Hypertension (I10) - old dx, chart shows this from 2019 note but pt states he was told his BP has been normal for years and med was stopped, needs reconciliation
+5. GERD (K21.9) - inactive per pt, not currently on tx
+
+MEDICATIONS:
+- Atorvastatin 40mg PO qHS
+- Clopidogrel 75mg PO daily
+- Amoxicillin-clavulanate 875mg PO BID (day 6 of planned 7-day course)
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+LABS/RESULTS (reviewed today):
+CBC (01/09/2025, inpt): WBC 11.2 (H), Hgb 13.9, Plt 245
+CBC (01/15/2025, outpt draw): WBC 7.8, Hgb 14.1, Plt 238
+BMP (01/15/2025): Na 139, K 4.1, Cl 101, CO2 25, BUN 16, Cr 0.98, Glucose 102
+Lipid panel (01/15/2025): Total chol 168, LDL 92, HDL 41, Trig 175
+CRP (01/09/2025, inpt): 48 (H)
+CRP (01/15/2025): 6.2, trending down appropriately
+CXR (01/09/2025): Right lower lobe consolidation c/w pneumonia
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 74, RR 16, Temp 98.2F, SpO2 96% RA
+Gen: NAD, comfortable, resting in chair
+Lungs: Decreased breath sounds at right base, no wheezes, mild crackles improving from last exam
+CV: RRR, no murmurs, distal pulses palpable but diminished bilat lower extremities c/w known PAD
+Ext: No edema, no ulcers, skin intact
+Neuro: A&Ox3, no focal deficits
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - clinically improving, continue current abx to complete course, f/u CXR in 6 weeks as scheduled by pulm, return precautions given if worsening cough, fever, or SOB.
+2. Peripheral artery disease - stable today, continue clopidogrel, reinforced importance of walking program as tolerated, discussed lung cancer screening in general terms given overall risk discussion but no further action needed today given social history.
+3. Hyperlipidemia - lipid panel reviewed, LDL at goal, continue atorvastatin, recheck in 6 months.
+4. Hypertension - old problem list entry, appears inactive per patient report and today's BP reading, will remove from active list pending further review, will confirm with prior notes.
+5. Deconditioning post-hospitalization - encouraged gradual increase in activity, consider short course of outpt PT if fatigue does not continue to improve over next 2-4 weeks.
+
+Follow up in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan and return precautions.
+
+Brian Okonkwo, MD

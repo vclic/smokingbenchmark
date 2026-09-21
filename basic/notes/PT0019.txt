@@ -1,0 +1,74 @@
+Internal Medicine Office Visit
+
+Patient: LEWIS, James    MRN: 59094590
+DOB: 03/25/1973    Age: 51 y.o.    Sex: Male
+Date of Service: 11/04/2024    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Heartburn
+
+Subjective:
+James Lewis is a 51 y.o. male who presents for heartburn.
+Epigastric burning x 1 month. Taking OTC antacids.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Vasectomy (2021)
+• Carpal tunnel release (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 1000 mg BID
+• rosuvastatin 10 mg daily
+• insulin glargine 20 units nightly
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Works as a truck driver.
+  Alcohol: rare.
+  No IVDU.
+
+Family History
+Father - AAA repair. Sister - hypothyroidism.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 130/83 (BP Location: Left arm, Patient Position: Sitting) | Pulse 69 | Temp 98.0 °F (Oral) | Resp 20 | Ht 6' 1" | Wt 170 lb | SpO2 99% | BMI 22.44 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. GERD / dyspepsia
+   Start omeprazole 20 mg daily before breakfast. Lifestyle measures. EGD if alarm features.
+2. Type 2 diabetes
+   A1c at goal; continue regimen.
+3. Hyperlipidemia
+   LDL at goal on last check; continue.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Steven Park, MD on 11/04/2024

@@ -1,0 +1,64 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Margaret Barnes | DOB: 5/11/1952 | Age: 73 | Sex: F
+Date of Service: 11/16/2025
+Visit Type: Annual Wellness Visit, Family Medicine
+Author: Michael Dunn, DO (Resident)
+
+HPI:
+Ms. Barnes is a 73-year-old woman with history of peripheral artery disease and type 2 diabetes who presents today for her annual wellness visit. She reports feeling generally well. She states, "My legs don't cramp as much as they used to when I walk to the mailbox." She denies chest pain, shortness of breath, or palpitations. She reports occasional numbness in her feet, which she attributes to her diabetes. She states, "I've been trying to watch what I eat, but the holidays are coming up and that worries me." No new complaints of claudication at rest. She has been checking her blood sugars at home with generally acceptable readings in the 120-150 range fasting.
+
+PAST MEDICAL HISTORY:
+- Peripheral artery disease
+- Type 2 diabetes mellitus
+
+MEDICATIONS:
+- Metformin 1000mg BID
+- Atorvastatin 40mg daily
+- Aspirin 81mg daily
+- Cilostazol 100mg BID
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Noncontributory
+Alcohol use: Not on file
+Illicit drug use: Not on file
+Occupation: Retired
+Living situation: Lives alone, daughter nearby
+Exercise: Walks short distances daily as tolerated
+Diet: Reports moderate carbohydrate intake
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, no weight loss
+Cardiovascular: No chest pain, no orthopnea
+Respiratory: No cough, no dyspnea
+Endocrine: No polyuria, no polydipsia
+Vascular: Reports improved but persistent intermittent claudication
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 165 lbs, BMI 27.9
+General: Alert, well-appearing, no acute distress
+Cardiovascular: Regular rate and rhythm, no murmurs, diminished dorsalis pedis pulses bilaterally
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles
+Extremities: Cool distal extremities, no ulcerations, mild hair loss on lower legs consistent with PAD
+Skin: No lesions or rashes noted
+Neuro: Decreased sensation to monofilament testing on bilateral feet, consistent with known diabetic neuropathy
+
+LABS/RESULTS (reviewed today):
+- HbA1c (10/28/2025): 7.2%
+- Fasting glucose (10/28/2025): 134 mg/dL
+- Lipid panel (10/28/2025): LDL 88 mg/dL, HDL 45 mg/dL, Triglycerides 150 mg/dL
+- Basic metabolic panel (10/28/2025): Creatinine 0.9 mg/dL, eGFR >60
+- Ankle-brachial index (9/15/2025): 0.72 bilaterally, consistent with mild-moderate PAD
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable, continue cilostazol, encourage walking program, follow up with vascular surgery as scheduled.
+2. Type 2 diabetes mellitus - reasonably controlled on current regimen, continue metformin, recheck HbA1c in 3 months.
+3. Health maintenance - lung cancer screening was discussed with the patient today; however, given that her tobacco use history is not documented and social history was recorded as noncontributory, we are deferring any decision on screening until a clear smoking history can be obtained. Will follow up on this at next visit.
+4. Preventive care - influenza vaccine administered today, discussed colorectal cancer screening (up to date per prior colonoscopy), bone density screening reviewed.
+5. Return to clinic in 6 months or sooner if symptoms worsen.
+
+Attending Attestation: I have reviewed and discussed this visit with Dr. Dunn. I agree with the assessment and plan as documented above.
+
+-- Michael Dunn, DO, Family Medicine Resident

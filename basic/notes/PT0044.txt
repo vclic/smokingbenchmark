@@ -1,0 +1,81 @@
+Geriatrics Progress Note
+
+Patient: KIM, George    MRN: 77434034
+DOB: 03/27/1950    Age: 75 y.o.    Sex: Male
+Date of Service: 04/23/2025    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Heartburn
+
+Subjective:
+George Kim is a 75 y.o. male who presents for heartburn.
+Epigastric burning x 1 month. No dysphagia, melena, or weight loss. He smoked for 29 years and has been tobacco-free since 2004.
+
+Past Medical History:
+Diagnosis	Date
+• BPH with LUTS
+• HTN
+• Former smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2010)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• finasteride 5 mg daily
+• tamsulosin 0.4 mg nightly
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 129/91 (BP Location: Right arm, Patient Position: Sitting) | Pulse 70 | Temp 98.3 °F (Oral) | Resp 14 | Ht 6' 0" | Wt 160 lb | SpO2 95% | BMI 21.70 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. GERD / dyspepsia
+   H. pylori stool antigen. PPI trial 8 weeks.
+2. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Owen Fitzgerald, MD on 04/23/2025

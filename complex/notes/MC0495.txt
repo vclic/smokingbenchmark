@@ -1,0 +1,50 @@
+INTERNAL MEDICINE - FOLLOW-UP VISIT
+Patient: Hung Garcia (M), DOB 6/15/1959, Age: 64
+Date of Service: 07/28/2023
+Provider: Anita Patel, MD
+
+CHIEF COMPLAINT: F/u HTN, DM2.
+
+HPI: Mr. Garcia is a 64 yo male here for routine f/u of hypertension and diabetes. Says "I've been checkin my sugars most days, they run in the one-forties." Denies chest pain, denies SOB, some intermittent [inaudible] leg cramps at night he attributes to statin, will discuss. He reports headaches occasionally relieved with tylenol and rest, no vision changes no [inaudible].
+
+Regarding tobacco - patient has a long and complicated smoking history. He reports smoking 1.5 packs per day for 14 years, then increased to 2 packs per day for 18 years, and more recently has cut back to 1 pack per day for the last 14 years, which is his current use. He previously quit in 2006 but relapsed in 2008 after a stressful job change. He continues to smoke cigarettes currently and was advised to quit at this visit; discussed lung cancer screening as a topic to revisit with him.
+
+Note: the templated field below under Social History lists "Smoking status: Never Smoker" - this is outdated/incorrect and does not reflect his actual history as documented above; please disregard that field value.
+
+PAST MEDICAL HISTORY: Hyperlipidemia, coronary artery disease, hypothyroidism, hypertension, type 2 diabetes mellitus.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: See HPI (field below outdated)
+Smoking status: Never Smoker
+Alcohol use: Quit drinking alcohol in 1998, reports no current use.
+Drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+MEDICATIONS: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg qhs, Levothyroxine 75mcg daily, Aspirin 81mg daily, Metoprolol succinate 50mg daily.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiac: denies chest pain, palpitations, orthopnea. Resp: denies cough, wheeze, hemoptysis. GI: denies nausea, vomiting, abdominal pain, changes in bowel habits. GU: denies dysuria, hematuria. MSK: reports occasional leg cramps as above, denies joint swelling. Neuro: denies focal weakness, numbness, denies syncope. Endocrine: reports polyuria intermittently, denies polydipsia currently. Skin: denies rash, lesions. Psych: denies depression, denies anxiety.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, Wt 210 lb, BMI 31.4
+General: well-appearing male, no acute distress.
+HEENT: normocephalic, atraumatic, PERRL, EOMI, oropharynx clear.
+Neck: no JVD, no thyromegaly, no lymphadenopathy.
+Cardiac: RRR, no murmurs rubs or gallops.
+Lungs: clear to auscultation bilaterally, no wheezes rales or rhonchi.
+Abdomen: soft, nontender, nondistended, normal bowel sounds.
+Extremities: no edema, pulses intact bilaterally.
+Skin: warm dry intact, no rashes noted.
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, gait steady.
+
+ASSESSMENT/PLAN:
+1. Hypertension - stable on current regimen, continue lisinopril and metoprolol, recheck BP next visit.
+2. Type 2 diabetes mellitus - A1c pending, continue metformin, reinforced diet and exercise.
+3. Hyperlipidemia - continue atorvastatin, will address muscle cramps at next visit, consider CK if persists.
+4. Coronary artery disease - stable, continue aspirin and statin, no new symptoms.
+5. Hypothyroidism - continue levothyroxine, TSH due at next labs.
+6. Tobacco use - counseled on cessation given ongoing cigarette use, discussed resources and lung cancer screening as topic for future discussion, will readdress at next visit.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Anita Patel, MD

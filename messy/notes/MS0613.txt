@@ -1,0 +1,38 @@
+H&P - Pre-operative Evaluation for Total Knee Replacement
+Patient: Leonard Martin | DOB: 5/7/1957 | Age: 66 | Sex: M
+Date of Service: 5/7/2023
+Author: Quentin Hale, PA-C
+
+HPI:
+Mr. Martin is a 66-year-old male here for pre-op eval prior to L total knee arthroplasty. He states, "My knee's been bone on bone for years, I just want to get it fixed." He denies chest pain or SOB with exertion but notes he gets short of breath climbing stairs. He continues to smoke - reports smoking 2 to 3 packs per day for 45 years, still actively smoking at this time. He was advised to quit given upcoming surgery and cardiopulmonary risk. He states, "I know I should quit, my wife smokes too so it's hard when we're both doing it."
+
+---Copied forward from visit 11/14/2019---
+Patient presents for routine f/u of chronic conditions. Reports doing well overall. Continues home exercise program for osteoporosis. Denies falls. Depression stable on current regimen, PHQ-9 improved. Osteoporosis managed with weight-bearing activity and calcium/vitamin D. Weight stable. No new complaints today. Will continue current plan and follow up in 6 months.
+---End copied text---
+
+Social History (EHR Template):
+Tobacco use: Current every day smoker
+Alcohol use: None - quit drinking alcohol in 2008
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: 
+Diet: 
+
+Problem List (ICD-10):
+- E66.9 Obesity, unspecified
+- F33.1 Major depressive disorder, recurrent, moderate
+- M81.0 Age-related osteoporosis without pathological fracture
+- Z87.891 Personal history of nicotine dependence (outdated entry - patient is active smoker, not former)
+- I10 Essential hypertension (outdated, resolved per chart review)
+
+Exam:
+Vitals stable. BMI elevated consistent with obesity. Cardiac exam RRR, no murmurs. Lungs clear to auscultation bilaterally, no wheezes. Knee with crepitus and reduced ROM, no effusion.
+
+Assessment/Plan:
+66-year-old male for pre-op clearance prior to TKA.
+1. Active tobacco use - continues to smoke despite counseling; discussed smoking cessation resources and surgical risks including wound healing and pulmonary complications. Lung cancer screening was discussed with patient.
+2. Obesity - counseled on weight management.
+3. Depression - continue current management, stable.
+4. Osteoporosis - continue weight-bearing exercise, calcium/vitamin D.
+Cleared for surgery from medical standpoint with above risk factors discussed. Will coordinate with orthopedic surgery team.

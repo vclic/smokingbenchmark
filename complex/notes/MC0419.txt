@@ -1,0 +1,41 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Visit - Date of Service: 07/01/2023
+Author: Nadia Haddad, MD
+
+Patient: Susan Price, F, DOB 7/1/1943 (age 80)
+
+HPI: Pt is an 80 y/o F w/ PMH hypothyroidism, CKD stage 3, presenting w/ cough x5 days. Pt states, "It's a dry cough, worse at night, and I feel a little short of breath climbing stairs." Denies fever, chest pain. Reports no recent sick contacts. Otherwise stable, follows w/ PCP for chronic conditions.
+
+---COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2021---
+Pt seen for routine f/u of HTN and hypothyroidism. TSH stable on current dose Synthroid. BP 138/82. No acute complaints at that time. Continue current meds, f/u in 6 months. Labs reviewed, CMP wnl except mildly elevated Cr c/w known CKD3. Pt counseled on diet, exercise.
+---END COPIED TEXT---
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+TOBACCO USE:
+  Smoking status: Never Smoker [NOTE: this field is incorrect/outdated - see narrative below]
+  Cigarettes/day: 
+  Pack-years: 
+
+Narrative correction to above template: The 'Never Smoker' field is inaccurate and does not reflect pt's actual hx. On direct questioning, pt reports a long-standing smoking hx in three distinct stretches: she smoked about three-quarters of a pack (approx 15 cigs/day) for 19 years, then cut down to about a quarter pack (approx 5 cigs/day) for the next 25 years, and more recently has been smoking about half a pack (approx 10 cigs/day) for the past 19 years, which continues to present. Pt confirms she still smokes and states she is not ready to quit at this time. Advised to quit, discussed risks of continued smoking including CV and pulm disease. Lung cancer screening was discussed in general terms.
+
+EXAM: Vitals: T 98.4, HR 78, BP 132/78, RR 16, SpO2 96% RA. Gen: NAD, comfortable. Lungs: mild exp wheeze bilat, no crackles. CV: RRR, no m/r/g. 
+
+LABS/RESULTS (this visit, 07/01/2023):
+CXR (07/01/2023): No acute infiltrate, no mass. Mild hyperinflation.
+CBC (07/01/2023): WBC 7.2, Hgb 12.9, Plt 245.
+BMP (07/01/2023): Na 138, K 4.3, Cr 1.4 (baseline per CKD3), eGFR 42.
+TSH (06/15/2023, prior): 2.1 (WNL).
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral - supportive care, rest, fluids, OTC antitussive prn.
+2. Tobacco use, current smoker, not ready to quit - counseled, offered cessation resources, will revisit at next visit.
+3. CKD stage 3 - stable, continue monitoring.
+4. Hypothyroidism - stable, continue levothyroxine, TSH wnl.
+
+Will fax copy to referring PCP for continuity of care. RTC or ED if worsening dyspnea, fever, or chest pain.
+
+Nadia Haddad, MD

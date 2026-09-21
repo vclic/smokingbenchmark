@@ -1,0 +1,49 @@
+INTERNAL MEDICINE - PROGRESS NOTE
+Patient: Donna Kim | DOB: 7/28/1966 | Age: 57 | Sex: F
+Date of Service: 07/28/2023
+Provider: Julia Brennan, MD (NP progress note co-signed)
+
+CC: F/u HTN, T2DM.
+
+HPI: Pt presents for routine f/u of HTN and T2DM. Reports home BP readings "mostly around 130s over 80s." Denies chest pain, SOB, palpitations. Says "I've been walking most mornings, feeling pretty good." Diet review done, some improvement noted. Denies polyuria, polydipsia. No new joint complaints re: OA today, denies flare. BPH sx stable, nocturia x1 nightly, no dysuria/hematuria. HLD - continues statin, no myalgia reported.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file.
+Alcohol use: Occasional, 1-2 glasses wine/wk.
+Illicit drug use: Denies.
+Occupation: Not on file.
+Living situation: Lives w/ spouse.
+Exercise: Walks daily per pt report.
+Family smoking/cancer hx: Father - heavy smoker, died of lung cancer per pt report.
+
+ROS: Otherwise negative except as above. 10-point ROS reviewed, negative unless noted.
+
+PMH: HTN, T2DM, HLD, OA, BPH.
+PSH: None significant.
+Meds: Lisinopril, metformin, atorvastatin, tamsulosin.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, Wt 168 lb, BMI 28.9.
+Gen: NAD, well-appearing.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheezes/crackles.
+Abd: soft, NT/ND, no masses.
+Ext: no edema.
+MSK: mild crepitus b/l knees, no effusion, ROM intact.
+GU: deferred, prior exam unremarkable.
+
+Assessment/Plan:
+1. Hypertension - well controlled on current regimen. Continue lisinopril. F/u BP log in 3 mo.
+2. Type 2 DM - stable. Continue metformin. A1c ordered today. Reinforce diet/exercise.
+3. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+4. Osteoarthritis - conservative mgmt, APAP prn, consider PT referral if worsens.
+5. BPH - stable on tamsulosin, continue, monitor sx.
+6. Health maintenance - discussed age-appropriate screening; family hx of lung cancer (father) noted in chart; lung cancer screening was discussed in general terms as part of preventive care discussion.
+
+Pt verbalizes understanding of plan. RTC 3 months or sooner if concerns.
+
+---
+ADDENDUM (later same day, 07/28/2023, 3:45 PM):
+Additional note - pt called back after appt requesting clarification on statin timing (evening vs. morning dosing). Advised to take atorvastatin in evening as previously prescribed, no change to dose. No new complaints reported at this time. Pt verbalized understanding. Will document in chart; no further action needed today. -J. Brennan, MD

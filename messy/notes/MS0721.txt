@@ -1,0 +1,37 @@
+CARDIOLOGY H&P — Cardiology Associates
+Patient: Margaret Williams (DOB 1/24/1973), F, Age: 51
+Date of Service: 11/16/2024
+Provider: Teresa Alvarez, NP
+
+CC: Chest pain eval, referred by PCP.
+
+HPI: 51 yo F with PMH CKD stage 3, HLD presents w/ intermittent left-sided chest pain x2 wks, non-exertional, no radiation. Denies SOB at rest, mild dyspnea w/ exertion. No syncope. Pt reports occasional palpitations. No prior cardiac hx. Pt states she has been under increased stress at work.
+
+--- COPIED FORWARD FROM PRIOR VISIT (05/02/2023) ---
+Pt seen for routine f/u of CKD3/HLD. Renal fx stable, Cr 1.4. Lipid panel reviewed, LDL improved on statin. Pt tolerating meds well, no new complaints. Continue current regimen, f/u 6 mo. BP well controlled. Pt counseled on renal diet, low Na intake. No acute issues today.
+--- END COPIED FORWARD ---
+
+ROS: Constitutional: no fever/chills/wt loss. CV: +CP as above, no orthopnea/PND. Resp: no cough/wheeze. GI: no N/V/D. GU: no dysuria/hematuria. MSK: no joint swelling. Neuro: no focal deficits. Skin: no rash. Psych: no SI/HI. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated):
+Tobacco Use: Current smoker: Yes. Pt describes self as a "social smoker" for many years. Pack-years: Not on file. Quit date: N/A.
+Alcohol: occasional, social.
+Drug use: denies.
+Occupation: office administrator.
+Living situation: Not on file.
+
+Assessment/Plan discussion: Reviewed tobacco use with pt today; she reports she still smokes and is not ready to quit at this time. Counseled on cardiovascular and renal risks of continued tobacco use; smoking cessation resources offered, pt declined referral at this visit.
+
+MEDS: Atorvastatin 40mg qhs, Lisinopril 10mg daily, Metoprolol succinate 25mg daily, Aspirin 81mg daily, Sodium bicarb 650mg BID, Vit D3 1000IU daily, Multivitamin daily.
+
+PHYSICAL EXAM: Gen: NAD, A&Ox3. VS: BP 138/84, HR 76, RR 16, T 98.2F, SpO2 98% RA. HEENT: NC/AT, PERRLA. Neck: no JVD, no bruits. CV: RRR, no m/r/g. Lungs: CTAB, no wheeze/rales. Abd: soft, NT/ND, +BS. Ext: no edema, pulses 2+ symmetric. Skin: warm, dry. Neuro: grossly intact.
+
+A/P:
+1. Chest pain — likely musculoskeletal vs GERD, low cardiac risk features; EKG obtained, unremarkable; will trend troponin, consider stress test if symptoms persist.
+2. CKD stage 3 — stable, continue monitoring renal function.
+3. HLD — continue statin, recheck lipids in 6 months.
+4. Tobacco use — as above, ongoing counseling provided.
+
+F/u 2 weeks or sooner if symptoms worsen.
+
+Teresa Alvarez, NP

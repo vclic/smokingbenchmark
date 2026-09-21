@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Roger Sullivan (M), DOB 9/18/1961
+DOS: 09/18/2025
+Author: Elena Markovic, MD
+Visit type: Annual Wellness Visit (video, pt at home, verified ID via DL)
+
+CC: Annual wellness exam, med refill review.
+
+HPI: Pt is a 64 y/o M presenting via telehealth for AWV. Reports feeling well overall, no acute complaints. Continues on omeprazole for GERD w/ good sx control, occasional bloating after large meals. Uses CPAP nightly for OSA, states compliance >90% per machine download reviewed last visit. Osteoporosis stable on alendronate weekly, tolerating well, no new fractures or falls. No chest pain, SOB, palpitations. No cough/hemoptysis. Denies dysuria, hematuria. Sleep fair, energy ok. Appetite good. Denies EtOH excess, denies illicit drug use.
+
+Tob/soc hx: Never smoker - pt states he has never used any tobacco products in his life, no cigarettes, cigars, vape, or smokeless tobacco. However he reports his spouse smokes about a pack a day at home, so there is some secondhand smoke exposure in the household; counseled on reducing exposure and offered cessation resources for spouse if interested. Occasional social EtOH (1-2 glasses wine/wk). No recreational drug use.
+
+===== COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/12/2024 (leaving in for continuity, not all still current) =====
+HPI: Pt is a 63 y/o M here for f/u of GERD, OSA, osteoporosis. Reports intermittent heartburn, worse w/ spicy food and lying down after meals, using OTC antacids PRN in addition to omeprazole. CPAP compliance reviewed - avg use 5.2 hrs/night, download shows AHI well controlled on current settings. DEXA scan reviewed, T-score improved slightly from prior. No new falls. ROS otherwise negative. Soc hx: denies tobacco use, denies illicit drugs, occasional EtOH. Plan: continue omeprazole 20mg daily, continue CPAP, f/u DEXA in 1-2 yrs, alendronate refilled, f/u 6 months or PRN.
+===== END COPIED FORWARD SECTION =====
+
+PMH: GERD, obstructive sleep apnea (on CPAP), osteoporosis.
+PSH: Appendectomy age 22.
+Meds: Omeprazole 20mg daily, Alendronate 70mg PO weekly, Vitamin D3 2000 IU daily, Calcium carbonate 600mg BID.
+Allergies: NKDA.
+FH: Father - CAD, deceased age 78. Mother - osteoporosis, alive age 89.
+Soc hx: Retired accountant, lives w/ spouse. Never smoker as above; spouse smokes 1 ppd at home. Denies illicit drugs. Occasional wine.
+
+Vitals: BP 128/78, HR 72, RR 14, Temp 98.2F, Wt 182 lb, Ht 5'10", BMI 26.1. (Vitals obtained via home BP cuff/scale reported by pt, telehealth visit.)
+
+LABS/RESULTS (reviewed this visit):
+- CBC 08/28/2025: WBC 6.1, Hgb 14.8, Hct 43.9, Plt 231 - WNL
+- CMP 08/28/2025: Na 140, K 4.3, Cl 102, CO2 25, BUN 16, Cr 0.98, Glu 94, Ca 9.4 - WNL
+- Lipid panel 08/28/2025: Total chol 188, LDL 112, HDL 48, Trig 140 - borderline LDL, will continue diet/exercise counseling
+- TSH 08/28/2025: 2.1 - WNL
+- Vitamin D 25-OH 08/28/2025: 34 ng/mL - adequate
+- DEXA scan 06/15/2025: L-spine T-score -2.3, femoral neck T-score -2.0, stable/slightly improved from 2023 study - continue current tx
+
+A/P:
+1. GERD - stable on omeprazole 20mg daily, continue, reinforce lifestyle mods (avoid late meals, elevate HOB, avoid trigger foods).
+2. Obstructive sleep apnea - on CPAP, compliance to be reviewed at next download; continue current settings; encourage nightly use.
+3. Osteoporosis - stable per DEXA, continue alendronate 70mg weekly + Ca/Vit D, reinforce wt-bearing exercise, fall precautions. Next DEXA in ~2 yrs unless clinically indicated sooner.
+4. Health maintenance - AWV completed today, DOS 09/18/2025, pt is 64 y/o. Never smoker confirmed and documented; discussed household secondhand smoke exposure from spouse's tobacco use (1 ppd) and offered cessation resources for spouse. Colonoscopy hx reviewed - due for repeat per prior schedule, will order. Vaccines reviewed - flu vaccine offered/administered today, pneumococcal and shingles status reviewed and up to date. Discussed general lung health and screening topics briefly given household smoke exposure, no imaging ordered today.
+5. Lipids - borderline LDL, reinforce diet/exercise, recheck in 1 yr.
+6. Labs reviewed as above, all other values WNL.
+
+Plan: Refill meds as above x90 days. Pt to continue CPAP nightly, f/u sleep clinic PRN. RTC in 6-12 months or sooner PRN. Pt verbalized understanding, all questions answered. Telehealth visit time 22 min, >50% spent on counseling/coordination of care.
+
+Elena Markovic, MD

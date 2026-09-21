@@ -1,0 +1,39 @@
+PROGRESS NOTE
+Date of Service: April 22, 2024
+Patient: Deborah Wilson   DOB: 7/9/1956   MRN: 77370040
+
+S:
+CC: Lung cancer screening
+HPI: Mrs. Wilson is a 67 year old female with a history of OA, hypothyroidism, OSA, and osteoporosis who presents for lung cancer screening shared decision-making. Referred for shared decision-making regarding lung cancer screening. Asymptomatic from a respiratory standpoint.
+
+PMH: Hypothyroidism, Obstructive sleep apnea on CPAP, Osteoarthritis of knees, Chronic kidney disease stage 3a, Osteoporosis
+PSH: Lumbar laminectomy; Left inguinal hernia repair (1994)
+Meds: meloxicam 7.5 mg daily; calcium + vitamin D daily; levothyroxine 100 mcg daily
+Allergies: Penicillin (rash)
+SH: Lives with husband in a single-family home. Retired farmer. She is an ex-smoker with somewhere between 70 and 80 pack-years; she stopped smoking at age 48. EtOH: 1-2 beers/wk. Drives.
+FH: Son - type 1 diabetes. Sister - breast cancer at 59. Mother - COPD, was a lifelong smoker.
+ROS: Neuro neg, Gen neg, Resp neg, GI neg, MSK neg, GU neg, CV neg
+
+O:
+Vitals: BP: 135/81  HR: 68  RR: 20  Temp: 98.0 F  SpO2: 97% on RA  Wt: 142 lbs  BMI: 23.0
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+Labs (3/13/2024): Cr 1.28, K 4.4, TSH 2.71
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening: SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Does not meet USPSTF criteria; LDCT not ordered.
+2. Hx tobacco use: No relapse.
+3. Obstructive sleep apnea on CPAP
+   - Using CPAP nightly.
+
+Follow up in 1 month or sooner PRN.
+
+Teresa Alvarez, NP

@@ -1,0 +1,36 @@
+Pulmonology Clinic - Nurse Intake
+DOS: 04/16/2023
+Patient: Loretta Thompson, F, DOB 4/16/1966 (age 57)
+Vitals: BP 148/86, HR 84, RR 18, SpO2 93% RA, Wt 176 lb
+CC: COPD f/u
+
+Hx reviewed with patient; reports increased dyspnea on exertion over past 2 wks, no fever, occasional productive cough w/ clear sputum. Denies chest pain. Uses albuterol PRN, says it helps somewhat but not fully.
+
+--- Copied forward from visit 11/02/2021 ---
+Pt is a 55M... [sic, error in original] with hx COPD, HTN, BPH, PAD, CKD stage 3 presenting for routine f/u. Pt reports doing well on current inhaler regimen, denies exac in past 6 mo. PFTs reviewed, FEV1 stable at 58% predicted. Pt counseled extensively regarding smoking cessation, medicaton adherence, and importance of PAD foot care. Pt states understands risks. Plan: cont current meds, f/u 6 months, routine labs ordered. BP well controlled today. No new complaints at this time. Pt ambulates without assistive device. Denies falls.
+--- end copied text ---
+
+Smoking hx: pt reports smoking 1.5 packs/day since 1986, continues to smoke despite repeated counseling at prior visits. Pt previously quit smoking in 2018 but relapsed in 2020 after stressfull family event. Pt quit drinking alcohol in 2014 and denies current EtOH use.
+
+Meds: tiotropium inh daily, albuterol PRN, lisinopril 20mg daily, tamsulosin 0.4mg qhs, clopidogrel 75mg daily, atorvastatin 40mg qhs.
+
+Labs (04/14/2023):
+- BMP: Na 139, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.6 (baseline), eGFR 42
+- CBC: WBC 7.8, Hgb 13.9, Plt 244
+- A1c: 5.7%
+
+PFT (03/28/2023): FEV1 54% predicted (down from 58% prior), FEV1/FVC 0.61, consistent with moderate obstructive pattern, slight decline since last test.
+
+Physician Progress Note - Kevin Osei, MD
+
+Subjective: Ms Thompson is a 57F with COPD, HTN, BPH, PAD, and CKD stage 3 who presents today 04/16/2023 for routine COPD f/u. She notes mild worsening dyspnea, no acute distress currently. She continues to smoke 1.5 ppd (since 1986) despite counseling on multiple occasions; discussed cessation options today including nicotine replacement and referral to quitline, pt declined referral at this time but will consider. Smoking history notably includes a period of cessation in 2018 with relapse in 2020. No current alcohol use, quit in 2014.
+
+Objective: Alert, NAD, mild expiratory wheeze bilat bases, no accessory muscle use. Lower extremities w/ diminished pulses c/w known PAD, no ulcers noted. Skin warm, no edema.
+
+Assessment: 1) COPD, moderate, with slight decline in FEV1 on recent PFT - likely related to ongoing tobacco use. 2) HTN - stable on current regimen. 3) PAD - stable, continue antiplatelet. 4) CKD stage 3 - stable Cr, monitor. 5) BPH - stable on tamsulosin.
+
+Plan: Continue tiotropium and albuterol PRN. Reinforced smoking cessation counseling and discussed general risks of continued tobacco use. Recheck labs in 3 months. F/u in pulm clinic 3 months or sooner if worsening symptoms. Pt educated on signs of exacerbation requiring urgent eval.
+
+Time spent: 22 min, >50% counseling/coordination of care.
+
+Kevin Osei, MD

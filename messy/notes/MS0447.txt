@@ -1,0 +1,49 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Donald Anderson (M), DOB: 01/29/1967, Age: 58
+Date of Service: 11/05/2025
+Author: Kevin Osei, MD, Family Medicine
+
+Dear Dr. Colleague,
+
+Thank you for referring Mr. Anderson, a 58-year-old male, for further evaluation and management as part of his annual wellness visit dated 11/05/2025. He presnts today accompanied by his wife who assisted with history as pt was somewhat hard of herring today (hearing aid battery reportedly dead).
+
+HPI: Mr Anderson reports overall doing fair, sleep has been "so-so" per his report, he uses his CPAP machine most nights but admits to takeing it off sometimes around 3am cause the mask leaks air into his eyes, he denies daytime somnolence today though wife states he falls asleep in front of the TV most evenings which he denies happens as often as she says. He also reports intermittent leg cramping/claudication with ambulation, walks about two blocks before needing to stop, this is stable compared to prior visits per chart review. Asthma is well controlled on his current inhaler regimen, uses rescue inhaler maybe once a week, no nocturnal awakenings from wheeze. Weight has been stable, he is trying to walk more per his cardiologists recommendation [inaudible] discussion about diet modification was had today as well he states he has cut back on fried foods somewhat but still eats out frequently with his work schedule making meal prep difficult so we discussed strategies around that including meal delivery services and simplified batch cooking on weekends.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Never smoker
+Smoking history: Patient has never smoked cigarettes.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Warehouse supervisor
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days
+Diet: Field left blank
+
+[COPIED FORWARD FROM VISIT DATED 03/14/2023 — retained per office policy, portions may be outdated]
+Pt is a pleasant gentleman with history of OSA dx by polysomnography, obesity, PAD followed by vascular surgery, and asthma. At that time BP was 138/84, HR 78, BMI 34.2. Pt reported using CPAP nightly with good compliance, AHI on last titration study was 4.2 events/hr on setting of 9cm H2O. Peripheral pulses were 1+ bilaterally in dorsalis pedis, ABI at that time was 0.72 on the right and 0.78 on the left c/w mild-moderate PAD. Asthma was managed with albuterol PRN and low-dose ICS, pt reported good control with no ED visits in preceding year. Labs from that visit showed A1c 5.9, LDL 118, HDL 42, TG 210. Pt was counseled extensively regarding weight loss, referred to nutrition, and encouraged to continue walking program. Follow up was arranged in 6 months at that time.] [END COPIED SECTION]
+
+PHYSICAL EXAM (today, 11/05/2025):
+Vitals: BP 132/80, HR 74, RR 16, SpO2 96% RA, Weight 224 lb, BMI 33.8
+General: well-appearing, no acute distress, in no respiratory distress speaking full sentances
+CV: RRR, no murmur, distal pulses diminished bilaterally, no edema
+Lungs: clear to auscultation bilaterally, no wheeze appreciated today
+Extremities: no ulceration, skin intact, mild hair loss noted on lower legs bilaterally c/w PAD
+Neuro: grossly intact
+
+ASSESSMENT/PLAN:
+1. Obstructive sleep apnea - continue CPAP, reinforce compliance, download data at next visit
+2. Obesity - continue lifestyle modification counseling, discussed nutrition referral again
+3. Peripheral artery disease - continue current antiplatelet therapy, ABI recheck to be scheduled, vascular surgery f/u as previously arranged
+4. Asthma - continue current inhaler regimen, well controlled, reviewed technique today
+5. Health maintenance - age-appropriate preventive care reviewed, colonoscopy up to date per chart, discussed influenza and pneumococcal vaccination status which pt deferred today
+
+Return to clinic in 6 months or sooner if symptoms worsen. Thank you again for this interesting referral, please do not hesitate to reach out with questions.
+
+Sincerely,
+Kevin Osei, MD
+
+---
+ADDENDUM (later same day, 11/05/2025, 4:47pm):
+Adding note that patient's wife called after visit to clarify that patient has never smoked cigarettes at any point in his life, this was already documented correctly in social history but she wanted to make sure it was clear given some confusion with a family member's chart at another facility. No other changes to today's note. Plan remains as above.
+-Kevin Osei, MD

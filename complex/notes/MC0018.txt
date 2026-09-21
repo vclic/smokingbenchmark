@@ -1,0 +1,45 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 04/23/2026
+Provider: Teresa Alvarez, NP - Vascular Surgery
+
+Patient: Charles Anderson, M, DOB: 04/23/1955 (age 71 today)
+
+CC: Follow up peripheral artery disease evaluation via video visit.
+
+HPI: Mr Anderson is a 71 year old male with h/o asthma BPH CAD PAD and obesity seen today via telehealth for routine PAD follow up he reports "my legs still cramp up when I walk to the mailbox and back" and states the pain resolves with rest. He denies rest pain or ulceration. Denies chest pain, some shortness of breath which he attributes to his asthma, [inaudible] when discussing his inhaler refill but reports using albuterol prn. He says "I've been trying to walk more since you told me to last time doc" and notes mild improvement in distance tolerated before claudication onset.
+
+PROBLEM LIST (ICD-10):
+- I73.9 Peripheral vascular disease, unspecified
+- I25.10 Atherosclerotic heart disease of native coronary artery
+- J45.909 Asthma, unspecified, uncomplicated
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms (outdated - pt now reports nocturia x2)
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension (outdated, not currently active per pt report)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Not on file
+Smoking status: Never Smoker [NOTE: this field is incorrect and has not been updated - see narrative below for accurate smoking history]
+Alcohol use: occasional, denies binge use
+Drug use: denies
+Occupation: retired
+Living situation: Not on file
+Exercise: reports walking daily as tolerated
+
+ROS: Otherwise negative except as noted in HPI. Denies fevers chills weight loss. Positive for intermittent claudication as above negative for rest pain.
+
+PHYSICAL EXAM (limited, telehealth):
+General: well appearing male in no acute distress, seated at home
+CV: unable to auscultate via video, pt denies palpitations
+Extremities: pt shows both lower legs on camera no visible ulcers or discoloration noted, pt reports no swelling
+Skin: no obvious lesions visualized
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease (I73.9) - stable by patient report, claudication symptoms unchanged to mildly improved. Continue current antiplatelet and statin therapy, reinforce walking program. Smoking history reviewed in detail today given relevance to PAD progression; patient is a former smoker who quit smoking in 2025. Per patient report he smoked 2 packs per day for 27 years, then cut back to about a quarter pack (roughly 5 cigarettes) per day for 15 years before ultimately quitting. This differs from the outdated 'Never Smoker' status listed in the social history template above, which appears to be an error carried forward from an old encounter and does not reflect his actual history. Counseled on continued abstinence and importance given PAD and CAD.
+2. Coronary artery disease (I25.10) - stable, no new chest pain, continue current cardiac meds, follow with cardiology as scheduled.
+3. Asthma (J45.909) - reports occasional SOB, continue albuterol prn, will refill inhaler, consider spirometry if symptoms worsen.
+4. BPH (N40.0) - now with nocturia x2, will discuss with urology if worsens, continue tamsulosin.
+5. Obesity (E66.9) - discussed diet and exercise, pt already increasing activity per above.
+Low dose CT lung screening was discussed with patient as an option given his smoking history he will consider and follow up with PCP regarding further workup.
+Return to vascular surgery clinic in 3 months or sooner if symptoms worsen, will attempt in person visit next time given exam limitations of telehealth format.
+
+Electronically signed: Teresa Alvarez, NP

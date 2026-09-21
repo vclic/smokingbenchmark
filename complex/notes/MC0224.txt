@@ -1,0 +1,54 @@
+Progress Note - Follow-up post-hospitalization (pneumonia)
+Patient: Samuel Mitchell | DOB: 1/23/1965 | Age: 60 | M
+DOS: 11/02/2025
+Author: Teresa Alvarez, NP
+
+CC: F/u s/p hospital discharge for CAP (community-acquired pneumonia), resolved.
+
+HPI: Pt is a 60 yo M dc'd from Memorial Hosp 5 days ago after tx for CAP. Reports gradual improvement in cough, SOB, and fatigue. Denies fever, chills, hemoptysis. Appetite returning to baseline. Compliant w/ abx course (completed). No CP. Asthma stable, using albuterol PRN infrequently. Denies wheeze at rest.
+
+---COPY FORWARD FROM PRIOR VISIT (07/14/2023, Dr. R. Chen)---
+Pt seen for routine asthma f/u. Reports occasional nocturnal cough, uses Flovent BID. Denies recent exac. HLD stable on statin, LDL at goal per last lipid panel. Denies CP/palpitations. Exam: lungs CTAB, no wheeze/rales. Cont current regimen, f/u 6 mo. Immunizations UTD per pt report. Discussed diet/exercise. Pt tolerating meds well, no myalgias reported.
+---END COPY FORWARD---
+
+SOCIAL HISTORY: Former smoker. Started smoking 1.5 ppd at age 22, continued at that rate until he quit in 2004. Pt states he has not smoked since his 39th birthday - confirmed no relapse. No current tobacco use. No vaping. Occasional EtOH, denies illicit drug use. Lives w/ spouse, retired machinist.
+
+ROS: Const - no fever/chills, wt stable. Resp - improving cough, no hemoptysis. CV - no CP/palpitations. GI - appetite improving. All other systems reviewed and negative except as noted in HPI.
+
+PMH/Problem List:
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia, unspecified
+- J18.9 Pneumonia, unspecified organism (recent hospitalization, resolving) - active
+- I10 Essential hypertension (outdated - pt not currently on antihypertensive, may need removal)
+- Z87.891 Personal history of nicotine dependence
+
+Meds: Albuterol HFA PRN, Fluticasone inhaled BID, Atorvastatin 20mg qhs, Amoxicillin-clavulanate (completed course 10/30/2025)
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 182 lb
+
+Exam: Gen - NAD, well-appearing. Lungs - mild scattered crackles at R base, improved from discharge exam, no wheeze. CV - RRR, no m/r/g. Abd - soft, NT/ND. Ext - no edema.
+
+Labs/Results:
+- CBC (10/28/2025): WBC 9.8 (nl), Hgb 14.2, Plt 245
+- CXR (10/28/2025, inpatient): RLL infiltrate, improving from admission film
+- Lipid panel (07/10/2023): LDL 98, HDL 52, TG 130 (from prior visit, may be outdated)
+- BMP (10/28/2025): unremarkable, Cr 0.9, Na 139, K 4.1
+
+Assessment:
+1. Resolving community-acquired pneumonia - clinical improvement, will repeat CXR in 4-6 wks to confirm resolution.
+2. Asthma - stable, continue current regimen.
+3. Hyperlipidemia - continue statin, recheck lipids at next visit.
+4. Former tobacco use - counseled on maintaining abstinence, reinforced benefits of continued cessation.
+
+Plan:
+- F/u CXR in 4-6 weeks
+- Continue current inhalers
+- Continue atorvastatin
+- RTC in 4 wks or sooner if worsening symptoms
+- Pt educated on signs of recurrent infection, when to seek care
+- Discussed general lung health maintenance given remote smoking hx
+
+---ADDENDUM (later same day, 11/02/2025, T. Alvarez NP)---
+Pt called back to clinic after this visit to clarify question about inhaler technique. Reviewed proper use of spacer device with albuterol MDI over phone. Pt verbalized understanding. No new complaints reported. Will continue as planned above, no changes to regimen at this time. Encouraged pt to call if fever, worsening cough, or SOB develop before next scheduled appointment.

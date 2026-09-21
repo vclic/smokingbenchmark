@@ -1,0 +1,57 @@
+NURSE INTAKE
+Patient: Judith Brooks DOB 4/20/1958 (age 65)
+Date of Service: 04/20/2023
+Provider: Elena Markovic, MD - Geriatrics
+
+Vitals: BP 138/78, HR 76, RR 16, Temp 98.2F, Wt 172 lb, Ht 5'4"
+Chief complaint: geriatric assessment, med reconcilliation, general follow up.
+
+HPI: Ms Brooks is a 65 yo woman with hx of HFrEF, CAD, CKD stage 3, T2DM, hyperlipidemia and depression here today for annual geriatric assessment. She reports feeling generally stable, mild fatigue with exertion but no acute chest pain or orthopnea. Denies falls. Sleep fair, mood 'okay' on current antidepressant. She lives alone, daughter checks in daily by phone. Reviewed fall risk screen - low risk today.
+
+=== COPIED FORWARD FROM VISIT 09/14/2021 (retained in chart, not updated) ===
+Pt reports doing well on current regimen. HFrEF stable on GDMT, no recent hospitalizations. CKD stage 3 stable, last eGFR 48. A1c 7.1 at last check. Continues furosemide, carvedilol, lisinopril, atorvastatin, metformin, sertraline. No new complaints. Denies CP/SOB/edema. Social hx: lives alone, non-drinker, denies illicit drug use. Follow up in 6 months or sooner if needed.
+=== END COPIED SECTION ===
+
+Review of Systems: Constitutional: no fever, chills, weight loss. HEENT: no vision changes, no hearing loss. CV: no chest pain, no palpitations, mild DOE. Resp: no cough, no wheeze. GI: no nausea, vomiting, diarrhea, constipation. GU: no dysuria, no hematuria. MSK: mild knee stiffness AM. Neuro: no focal weakness, no numbness. Psych: mood stable, denies SI/HI. Skin: no rashes. All other systems reviewed and negative except as noted above.
+
+Social History: Patient states she tried a few cigarettes as a teenager but never smoked regularly - denies any regular tobacco use since then. She notes her father was a heavy smoker and died of lung cancer, which she says makes her anxious about her own lung health even though she never smoked herself. Alcohol: denies. Illicit drugs: denies. Lives alone in single level home, uses cane occasionally for balance.
+
+Physical Exam:
+General: well-appearing woman, NAD, appropriate for stated age.
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: no JVD, no lymphadenopathy, no thyromegaly.
+CV: RRR, S1 S2 normal, no S3/S4 appreciated today, no significant murmur.
+Lungs: clear to auscultation bilaterally, no wheezes rales rhonchi.
+Abd: soft, non-tender, non-distended, normal bowel sounds.
+Extrem: trace bilateral ankle edema, pulses intact.
+Neuro: alert and oriented x3, gait steady with cane, no focal deficits.
+Skin: intact, no lesions.
+
+Medications:
+1. Furosemide 40mg daily
+2. Carvedilol 12.5mg BID
+3. Lisinopril 10mg daily
+4. Atorvastatin 40mg qhs
+5. Metformin 500mg BID
+6. Sertraline 50mg daily
+7. Aspirin 81mg daily
+8. Vitamin D3 1000 IU daily
+9. Multivitamin daily
+
+Labs reviewed: BMP, lipid panel, A1c pending results from this AM draw, will follow up.
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT as above, weight log reviewd, no acute decompensation signs today.
+2. CAD - stable, continue statin and asa, no anginal symptoms reported.
+3. CKD stage 3 - stable, monitor renal fxn w labs, avoid nephrotoxic agents.
+4. T2DM - continue metformin, will review A1c when back.
+5. Hyperlipidemia - continue atorvastatin, lipid panel pending.
+6. Depression - mood reportedly stable on sertraline, continue same, will reassess at next visit, no SI/HI today.
+7. Tobacco/lung health - patient has no significant personal smoking history, tried a few cigarettes as teen only, never smoked regularly since; discussed her concern related to her father's heavy smoking history and death from lung cancer. General lung health and symptom awareness discussed.
+8. Geriatric assessment - fall risk low, cognition grossly intact today, will continue routine health maintenance.
+
+Follow up in 6 months or sooner as needed.
+
+Elena Markovic, MD
+
+ADDENDUM (later same day, 04/20/2023, 3:47pm): Spoke further with patient by phone after she called back with question about medication timing for furosemide. Clarified to take in AM to avoid nocturia. No other changes to plan. Reaffirmed she has never been a regular smoker, consistent with earlier documentation today; her concern remains primarily related to her father's smoking history and lung cancer death, not her own risk. No further action needed at this time. -E. Markovic MD

@@ -1,0 +1,87 @@
+Pamela Flores, DOB 3/15/1947, Age: 76
+Date of Service: 12/08/2023
+Provider: Nadia Haddad, MD — Primary Care
+Encounter: Hospital discharge follow-up (pneumonia)
+
+CHIEF COMPLAINT: F/u post-hosp d/c, pneumonia, resolving.
+
+HPI:
+Pt is a 76 yo woman s/p 5-day admission for community-acquired PNA, d/c'd home 12/03/2023 on PO abx (amoxicillin-clavulanate, completing course). Reports gradual improvement in cough, less dyspnea on exertion. Still c/o mild fatigue, occas rhonchi on deep insp per pt report. Denies fever/chills. Appetite improving. Sleeps with CPAP most nights though c/o mask discomfort last wk. No CP, no hemoptysis. Ambulating around house w/o difficulty, uses walker for longer distances 2/2 OA knees. No new SOB at rest.
+
+During hosp stay, was continued on home meds; CXR at d/c showed improving infiltrate LLL. F/u CXR recommended in 6 wks.
+
+ROS: + fatigue, + mild cough, denies chest pain, denies leg swelling, denies hemoptysis, denies wt loss. Otherwise neg per HPI.
+
+SOCIAL HISTORY:
+Lives alone in single-story home, daughter checks in daily. Retired schoolteacher. Denies EtOH use. Denies illicit drug use.
+Tobacco: Current smoker, continues to smoke cigarettes daily. Tobacco use assessed via EHR templated block today:
+Tobacco Use Screening (auto-populated):
+  Status: Current every day smoker
+  Packs/day: 1.00
+  Years: 52.00
+  Type: Cigarettes
+Pt counseled again re: smoking cessation resources, quitline info provided; pt states she is 'not ready' to quit at this time given stress of recent hospitalization. Will readdress at next visit.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Obstructive sleep apnea (G47.33) — on CPAP, variable compliance
+2. Chronic kidney disease, stage 3 (N18.3) — stable, last eGFR 52 (09/2023)
+3. Essential hypertension (I10) — on lisinopril
+4. Osteoarthritis, bilateral knees (M17.0) — uses walker prn
+5. Obesity (E66.9) — BMI 34
+6. Osteoporosis (M81.0) — on alendronate, last DEXA 2021 (outdated, needs repeat)
+7. GERD (K21.9) — inactive, not on tx currently, dz per old note from 2019, likely resolved
+8. Hyperlipidemia (E78.5) — dietary control only, per problem list copied forward, unclear if still active
+
+MEDICATIONS:
+- Lisinopril 20mg daily
+- Alendronate 70mg weekly
+- Amoxicillin-clavulanate 875mg BID (d/c course, 2 days left)
+- Acetaminophen prn knee pain
+- CPAP nightly
+
+ALLERGIES: NKDA
+
+VITALS (12/08/2023):
+BP 138/82, HR 78, RR 18, Temp 98.2F, SpO2 94% RA, Wt 198 lb, BMI 34.1
+
+PHYSICAL EXAM:
+Gen: NAD, comfortable, mild cough during visit
+HEENT: NC/AT, MMM
+Neck: no LAD, no JVD
+CV: RRR, no m/r/g
+Resp: mild bibasilar crackles L>R, improved from hosp exam, no wheeze
+Abd: soft, NT/ND
+Ext: no edema, mild crepitus bilateral knees w/ ROM
+Skin: warm, dry
+Neuro: A&Ox3, grossly nonfocal
+
+LABS/RESULTS:
+- CBC (12/08/2023): WBC 8.9, Hgb 12.1, Hct 37.2, Plt 245
+- BMP (12/08/2023): Na 139, K 4.2, Cl 102, CO2 24, BUN 22, Cr 1.3, eGFR 51
+- CXR (12/03/2023, inpatient d/c): Improving LLL infiltrate, no effusion
+- Prior eGFR (09/2023): 52
+
+ASSESSMENT:
+76F with recent pneumonia hospitalization, now improving clinically, CKD stage 3 stable, HTN controlled, OSA on CPAP with variable adherence, obesity, osteoporosis, and ongoing tobacco use (current smoker, 1 pack/day x 52 years per today's tobacco screening).
+
+1. Pneumonia, resolving — continue abx to complete course, f/u CXR in 6 wks, RTC or ED if worsening dyspnea/fever.
+2. CKD stage 3 — stable, monitor Cr/eGFR at next visit, avoid nephrotoxic agents.
+3. HTN — well controlled on current regimen, continue lisinopril.
+4. OSA — encourage CPAP compliance, address mask fit issue, consider DME referral for refitting.
+5. Osteoarthritis — continue acetaminophen prn, walker for ambulation, ortho f/u as needed.
+6. Obesity — discussed diet/exercise as tolerated post-pneumonia recovery.
+7. Osteoporosis — continue alendronate, repeat DEXA overdue, will order.
+8. Tobacco use — current smoker, counseled on cessation, quitline referral given, discussed general health risks of continued smoking. Lung health and screening options discussed in general terms; no imaging ordered today for this purpose.
+
+PLAN:
+- Complete abx course
+- F/u CXR in 6 weeks
+- Repeat BMP at next visit
+- Order DEXA scan
+- CPAP mask refitting referral
+- Continue home meds
+- RTC in 4 weeks or sooner if symptoms worsen
+- Continue smoking cessation counseling at future visits
+
+Electronically signed: Nadia Haddad, MD
+12/08/2023

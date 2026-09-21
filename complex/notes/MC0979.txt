@@ -1,0 +1,79 @@
+CARDIOLOGY CONSULTATION / FOLLOW-UP LETTER
+Date of Service: 04/03/2023
+Referring Provider: Dr. A. Whitfield, Internal Medicine
+Author: Daniel Reyes, MD, Cardiology
+
+Patient: Steven Kowalski
+DOB: 04/03/1965 (Age 58)
+MRN: on file
+
+Dear Dr. Whitfield,
+
+Thank you for referring Mr. Kowalski, a 58-year-old male, for follow-up of his heart failure with reduced ejection fraction. He was seen today, 04/03/2023, in clinic for routine reassessment.
+
+HPI: Mr. Kowalski reports he is doing reasonably well since his last visit, denies any new chest pain, though he does note some intermitten leg swelling toward the end of the day, especially after long shifts at werk (he is a warehouse supervisor). He denies orthopnea but admits to using to extra pillows at night, which he attributes to his sleep apnea more than his heart failure. He is compliant with his CPAP most nights, per his report, though he states the mask [inaudible] sometimes leaks and he wakes up frustrated. No syncope, no palpitations that he's aware of, though he does take his pulse occasionally and says its been regular. He denies any recent hospitalizations sense last seen.
+
+PAST MEDICAL HISTORY:
+- Heart failure with reduced ejection fraction
+- Atrial fibrillation
+- Coronary artery disease
+- NSTEMI with stent (2013)
+- Obstructive sleep apnea, on CPAP
+- Benign prostatic hyperplasia
+
+SOCIAL HISTORY (templated field, EHR):
+Smoking status: Never Smoker
+[Note: the above templated field is incorrect and should be disregarded; see narrative below for accurate smoking history.]
+Alcohol use: occasional, per patient
+Drug use: denies
+Occupation: warehouse supervisor
+Marital status: Not on file
+Living situation: Not on file
+
+Narrative smoking history: The templated "Never Smoker" field above is in error. Per patient report today, he smoked 2 packs per day for 11 years, then stopped completely for 4 years, then restarted at 2 packs per day for 15 years, and has since quit smoking for good. He states he quit smoking right after his heart attack, which per his past medical history was his NSTEMI with stent (2013). He is currently a former smoker and denies any current tobacco use, vaping, or other nicotine products.
+
+[Copied from prior note dated 02/03/2021, unedited]: Social history - smoking status: former smoker. No further detail given in that note.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Cardiovascular: as above, denies chest pain, denies syncope, positive for mild lower extremity edema. Respiratory: denies cough, denies hemoptysis, uses CPAP for OSA. GI: denies nausea, vomiting, diarrhea, constipation. GU: reports nocturia x2, consistent with known BPH, denies dysuria or hematuria. Musculoskeletal: denies joint pain. Neuro: denies focal weakness, numbness, denies TIA-like symptoms. Psych: denies depression, denies anxiety. All other systems reviewed and are negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% on room air, Wt 210 lb, Ht 5'10"
+General: well-appearing male in no acute distress
+HEENT: normocephalic, atraumatic, no JVD noted at 30 degrees
+Cardiovascular: irregularly irregular rhythm, no murmurs, rubs, or gallops appreciated, no S3 or S4 today
+Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+Abdomen: soft, non-tender, non-distended, no hepatosplenomegaly
+Extremities: 1+ pitting edema bilateral lower extremities, no calf tenderness
+Skin: warm, dry, intact
+Neuro: alert and oriented x3, grossly non-focal
+
+LABS/RESULTS:
+- BNP 245 pg/mL (03/28/2023)
+- Basic metabolic panel WNL (03/28/2023): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 98
+- INR 2.3 (03/30/2023) - on anticoagulation for atrial fibrillation
+- Echocardiogram (01/15/2023): LVEF 35%, mild mitral regurgitation, mild left atrial enlargement
+- Lipid panel (02/01/2023): Total cholesterol 165, LDL 92, HDL 40, Triglycerides 150
+
+MEDICATIONS:
+1. Metoprolol succinate 50 mg daily
+2. Lisinopril 10 mg daily
+3. Spironolactone 25 mg daily
+4. Furosemide 40 mg daily
+5. Apixaban 5 mg twice daily
+6. Atorvastatin 40 mg daily
+7. Tamsulosin 0.4 mg daily
+8. Dapagliflozin 10 mg daily
+
+ASSESSMENT AND PLAN:
+1. Heart failure with reduced ejection fraction - stable, on guideline-directed medical therapy, will continue current regimen and monitor BNP trend.
+2. Atrial fibrillation - rate controlled, continue anticoagulation with apixaban, INR/coags reviewed as above (note: on apixaban, not warfarin - INR checked for unrelated reasons/prior regimen, will clarify with pharmacy).
+3. Coronary artery disease, s/p NSTEMI with stent (2013) - continue statin and antiplatelet as indicated, no anginal symptoms today.
+4. Obstructive sleep apnea - continue CPAP compliance, discussed mask fit issues, will refer back to sleep medicine for mask refitting.
+5. BPH - continue tamsulosin, urinary symptoms stable.
+6. Tobacco history - patient is a former smoker as detailed above; continues to be counseled on the importance of abstinence. Lung cancer screening was discussed in general terms with the patient today.
+
+Will see back in cardiology clinic in 3 months, sooner if symptoms worsen. Thank you again for this referral.
+
+Sincerely,
+Daniel Reyes, MD
+Cardiology

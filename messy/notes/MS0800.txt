@@ -1,0 +1,45 @@
+PROGRESS NOTE - Hospital Discharge Follow-Up
+Date of Service: 04/03/2025
+Provider: Michael Dunn, DO (NP progress note)
+Patient: Pamela Butler, F, DOB 04/03/1971 (age 54)
+
+HPI: Pt is a 54 yo woman s/p recent hospitalization for pneumonia, seen today for follow-up. She reports gradual improvement in cough and dyspnea since discharge, states she is 'breathing easier' but still gets some [inaudible] tightness in chest with exertion, denies fever chills night sweats she does note fatigue which she attributes to poor sleep at the rehab facility and now home. She has a 15 pack-year smoking history. Pt quit smoking and has not smoked since. She reports taking her home meds including levothyroxine and albuterol inhaler as needed, denies missed doses, denies chest pain, denies leg swelling although she says her shoes felt 'tighter' over weekend which prompted call to clinic - resolved with elevation per pt report. Diet has been poor appetite since discharge, improving.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker, quit April 1991
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: 
+Exercise: 
+Diet: See HPI
+
+ROS: Constitutional - fatigue as above. Resp - improved cough, no hemoptysis. CV - no PND/orthopnea, mild ankle edema resolved. GI - decreased appetite. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 78, RR 16, SpO2 95% RA, Temp 98.1F, Wt 162 lb
+General: NAD, conversant, appropriate
+Lungs: mild bibasilar crackles, improved from prior, no wheeze appreciated today
+CV: RRR, S1 S2, no S3/S4 appreciated, trace peripheral edema bilat lower ext
+Abd: soft NT ND
+Ext: no clubbing cyanosis
+
+PROBLEM LIST (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure - reduced EF
+- J44.9 COPD, unspecified - stable
+- M10.9 Gout, unspecified - last flare remote, on allopurinol
+- E03.9 Hypothyroidism, unspecified - on levothyroxine
+- J45.909 Asthma, unspecified, uncomplicated
+- J18.9 Pneumonia, organism unspecified (resolving, recent hospitalization) - outdated entry, from prior admission, will update at next visit
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, s/p hospitalization - clinically improving, lungs clearer than d/c exam, will continue current abx course to completion, f/u CXR in 4-6 wks as outpt.
+2. HFrEF - euvolemic today, trace edema only, continue GDMT, daily weights, low Na diet reinforced.
+3. COPD/Asthma - stable today, continue inhalers, discussed pulmonary function testing as outpt when fully recovered from pneumonia.
+4. Former tobacco use - quit smoking in April 1991, congratulated pt on sustained cessation, encouraged continued abstinence, lung cancer screening was discussed generally as part of preventive care conversation.
+5. Gout - asymptomatic, continue allopurinol.
+6. Hypothyroidism - continue levothyroxine, will recheck TSH at next routine labs.
+
+Return to clinic in 2 weeks or sooner if worsening SOB, fevers, or chest pain. Pt verbalized understanding and agreement with plan, questions answered, [inaudible] discussion regarding home o2 concentrator return to DME company completed at bedside prior to d/c.
+
+Electronically signed: Michael Dunn, DO

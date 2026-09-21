@@ -1,0 +1,52 @@
+CARDIOLOGY H&P
+Patient: Yolanda Coleman (F), DOB 1/22/1946
+DOS: 01/22/2025
+Author: Elena Markovic, MD
+
+CC: chest pain x 2 days
+
+HPI: 79 yo F w/ hx HFrEF, OSA, OA presents w/ intermittent substernal CP, non-exertional, assoc w/ mild SOB. No radiation, no diaphoresis. Denies N/V. Similar episode ~6 mo ago that resolved spontaneously. Pt states pain 4/10, comes n goes, worse when lying flat. No recent med changes. Home O2 sat per pulse ox reported as 94% RA.
+
+PMH:
+- Heart failure w/ reduced EF (last echo EF 32%)
+- Obstructive sleep apnea, on CPAP nightly (poor adherence per pt)
+- Osteoarthritis, knees > hips
+- COPD (per problem list, dx yr unclear, no PFTs on file this visit)
+
+PSH: cholecystectomy 1998, R knee arthroscopy 2011
+
+Meds: furosemide 40mg daily, carvedilol 12.5mg BID, lisinopril 10mg daily, spironolactone 25mg daily, acetaminophen prn, albuterol inh prn (per problem list COPD, use unclear)
+
+Allergies: NKDA
+
+Social History: Pt lives alone in single-story home, ambulates w/ cane. Retired schoolteacher (elementary, 32 yrs). Drinks wine occasionally, ~1 glass on weekends, denies other EtOH. Daughter lives nearby n checks in weekly. No hx of illicit drug use reported. Pt independent w/ ADLs, uses grab bars in bathroom.
+
+Family Hx: Father d. MI age 68, mother w/ HTN, sister w/ T2DM.
+
+ROS: Positive for CP, mild dyspnea on exertion, occasional orthopnea (2-pillow). Negative for fever, cough (chronic per problem list COPD but pt denies acute change), palpitations, leg swelling currently, syncope. Denies wt loss.
+
+Exam:
+Vitals: BP 138/82, HR 78 reg, RR 18, Temp 97.6F, SpO2 94% RA, Wt 71kg
+Gen: NAD, appears stated age, sitting comfortably
+CV: RRR, S1S2 nl, no m/r/g appreciated today (prior hx of mild MR noted on echo), JVP ~7cm
+Resp: mild bibasilar crackles, no wheeze appreciated on exam today
+Ext: trace bilat edema, no c/c/e otherwise
+Neuro: A&Ox3, grossly nonfocal
+
+EKG: NSR, no acute ST changes, nonspecific T wave flattening lat leads, unchanged from prior on file.
+
+Labs (reviewed today): BNP 410 (elevated, near baseline per chart), troponin neg x1, Cr 1.1, K 4.2, Na 138
+
+Assessment/Plan:
+79 yo F w/ HFrEF, OSA, OA, COPD (per problem list) presenting w/ CP, low suspicion ACS given neg trop n unchanged EKG.
+1. Chest pain - r/o ACS, trend trop, consider stress test outpt if recurrent sx, cont current cardiac regimen.
+2. HFrEF - appears euvolemic-ish today, mild edema, cont diuretic, GDMT optimization d/w pt re: possible SGLT2i addition.
+3. OSA - reinforce CPAP adherence, discuss sleep study f/u.
+4. OA - cont acetaminophen, PT referral offered.
+5. COPD - noted on problem list, no active resp sx today, defer further w/u to PCP, pulm f/u recommended for possible PFTs.
+6. Routine health maintenance discussed briefly including general lung health topics; pt to f/u w/ PCP.
+
+F/u in cardiology clinic 4-6 wks or sooner if sx worsen. Pt verbalized understanding of plan.
+
+---ADDENDUM (later same day, 01/22/2025, 4:45pm)---
+Dr. Markovic: Spoke w/ pt's daughter by phone this afternoon re: plan above, she voiced understanding n will assist w/ CPAP compliance at home. No new concerns raised. Repeat troponin at 3hr resulted neg, remains reassuring. No further changes to plan at this time. Pt to call clinic w/ any worsening sx.

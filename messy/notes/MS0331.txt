@@ -1,0 +1,64 @@
+TELEHEALTH VISIT - New Patient, Establish Care
+Date of Service: 10/08/2024
+Provider: Brian Okonkwo, MD
+Patient: Steven Wilson, M, DOB 3/10/1962 (age 62)
+
+HPI:
+Mr Wilson is a 62 yo male establishing primary care via telehealth today, 10/08/2024, after relocating to the area. He has hx of CKD stage 3, hypothyroidism, obesity, afib, and PAD. States "I havent had a regular doctor in about two yrs, been meaning to get things checked." Denies chest pain, SOB at rest, or claudication at present though reports occasional calf cramping with walking. Denies palpitations currently, states his afib has been "pretty quiet lately." No recent hospitalizations.
+
+Social Hx: Pt reports he tried a few cigarettes as a teenager but never smoked regularly - "I think I had maybe five or six cigs total when I was like 15, never really got into it." Denies any current or past regular tobacco use. No vaping. Occasional alcohol, denies illicit drug use.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss
+Eyes: denies vision changes
+ENT: denies sore throat, hearing loss
+Cardiovascular: denies chest pain, orthopnea, PND, positive for occasional palpitations per above
+Respiratory: denies cough, wheeze, dyspnea
+GI: denies nausea, vomiting, diarrhea, constipation
+GU: denies dysuria, hematuria
+MSK: positive for calf cramping w/ ambulation as above, denies joint pain
+Skin: denies rash, non healing wounds
+Neuro: denies headache, numbness tingling
+Psych: denies depression anxiety
+Endo: denies polyuria polydipsia, on levothyroxine
+Heme/Lymph: denies easy bruising bleeding
+All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: reviewed by pt via home BP cuff, BP 138/84, HR 72 irregular, wt 235 lb, unable to obtain temp/O2 sat via telehealth
+General: well appearing, no acute distress, video quality adequate
+CV: irregularly irregular rhythm noted on report, no visible edema per pt self exam
+Resp: no visible respiratory distress
+Extremities: pt reports no ulcers or discoloration noted on self exam of feet and legs
+(Limited exam due to telehealth format)
+
+Problem List:
+- N18.30 Chronic kidney disease, stage 3
+- E03.9 Hypothyroidism, unspecified
+- E66.9 Obesity, unspecified
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral artery disease, unspecified (old note - may need updating to specify claudication)
+- Z79.899 other long term drug therapy (outdated entry, unclear relevance)
+
+Medications:
+1. Levothyroxine 75 mcg daily
+2. Apixaban 5 mg BID
+3. Losartan 50 mg daily
+4. Atorvastatin 20 mg daily
+5. Cilostazol 100 mg BID
+6. Metoprolol succinate 50 mg daily
+7. Vitamin D3 2000 units daily
+
+Assessment/Plan:
+62 yo male, new to practice, multiple chronic conditions reasonably controlled per pt report.
+1. CKD stage 3 - will check BMP, urine microalbumin, monitor renal fxn
+2. Hypothyroidism - continue levothyroxine, check TSH today
+3. Obesity - discussed diet/exercise, counseled on weight loss goals
+4. Afib - continue apixaban and metoprolol, will obtain EKG at next in person visit
+5. PAD - continue cilostazol, discussed importance of foot checks, vascular surgery f/u recommended
+6. Tobacco - no regular smoking history reported, no cessation counseling indicated at this time
+7. Health maintenance - due for labs, will schedule in-person visit for full physical exam and vitals
+
+Pt verbalizes understanding of plan, will f/u after labs resulted, RTC in 4-6 wks or sooner if concerns.
+
+Brian Okonkwo, MD

@@ -1,0 +1,47 @@
+CARDIOLOGY FOLLOW-UP - HEART FAILURE
+Date of Service: 01/31/2026
+Patient: Paul Torres | DOB: 01/31/1961 | Age: 65 | Sex: M
+Provider: Nadia Haddad, MD
+
+=== NURSE INTAKE ===
+Vitals: BP 138/84 HR 78 RR 16 SpO2 96% RA Wt 231 lb
+CC: HF f/u, pt reports mild ankle swelling worse by end of day, denies orthopnea change, states meds tolerated ok excpet occasional dizzness in am.
+
+SOCIAL HISTORY (templated):
+ Alcohol use: None - quit drinking alcohol in 2007
+ Illicit drug use: Not on file
+ Occupation: Not on file
+ Living situation: Not on file
+ TOBACCO USE:
+  - Smoking status: Current every day smoker
+  - Hx: 1/4 pack/day (~5 cigs/day) x 11 yrs; then 1.5 packs/day x 15 yrs; then 1/2 pack/day (~10 cigs/day) x 11 yrs (current)
+  - Smokeless tobacco: No
+  - Counseling given: Yes, advised to quit
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Mr Torres is a 65 y/o male here for routine HF follow up he says he's been doing okay overall some mild lower extremity edema noted by pt himself no new chest pain no PND he did have an episode of feeling lightheaded this AM which he attributes to missing breakfast, denies syncope. Pt continues to smoke despite counseling at every visit we have discussed cessation resources multiple times he states he 'knows he should quit' but has not been able to.
+
+ROS: Cardiac - as above. Resp - denies cough or wheeze. GI - denies nausea. Musculoskeletal - occasional gout flare last one approx 2 mo ago resolved with colchicine.
+
+PMH / Problem List:
+ I50.9 Heart failure, unspecified - active
+ M10.9 Gout, unspecified - active
+ I25.10 CAD, native vessel - active
+ E66.9 Obesity - active
+ I10 Essential hypertension - active (outdated entry, pt now normotensive per recent readings, will review)
+
+Meds: Furosemide 20mg daily, carvedilol 12.5mg BID, atorvastatin 40mg qhs, allopurinol 100mg daily, aspirin 81mg daily.
+
+Exam: Gen - obese male NAD. CV - RRR no m/r/g, JVP mildly elevated. Lungs - CTAB. Ext - 1+ pitting edema b/l. [inaudible] noted during auscultation, pt asked to hold breath, exam otherwise unremarkable.
+
+Labs reviewed: BNP mildly elevated from baseline, Cr stable, K 4.2, uric acid slightly high consistent w hx gout.
+
+Assessment/Plan:
+1. HF - stable, cont current diuretic dose, weight log reviewed, pt to call if wt gain >3lb in 2 days.
+2. CAD - cont statin and ASA, no anginal sx today.
+3. Gout - stable on allopurinol, uric acid to recheck in 3 mo.
+4. Obesity - discussed diet and activity modest goals set.
+5. Tobacco use - continues to smoke despite counseling today, discussed cessation options including pharmacotherapy, pt declined at this time will readdress next visit, lung cancer screening topic discussed generally.
+6. F/u 3 months or sooner if symptoms worsen.
+
+Electronically signed: Nadia Haddad, MD - 01/31/2026

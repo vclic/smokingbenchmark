@@ -1,0 +1,53 @@
+CARDIOLOGY RESIDENT NOTE - CHEST PAIN EVALUATION
+Date of Service: 08/10/2023
+Author: Brian Okonkwo, MD (resident); attending attestation below
+
+PT: Ronald Hall, M, DOB 6/1/1973, age 50
+
+CC: chest pain x several days, referred by PCP for eval given cardiac risk factors.
+
+HPI: 50 yo M w/ hx gout, T2DM, HTN, AFib presents for eval of intermittent chest pressure, described as "like a band across my chest" [inaudible] worse w/ exertion, better w/ rest, no radiation to jaw although he did note some left arm heaviness on Tuesday. Denies SOB at rest, denies orthopnea/PND. He states he tried taking extra tums with no improvement, so came in today. No fevers, no chills. He denies recent travel, denies illicit drug use. Reports his father was a heavy smoker who died of lung cancer, and pt states this is part of why he is anxious about his own heart/lung health, though he himself has never used tobacco in any form (no cigs, cigars, vape, chew). Pt takes metformin, lisinopril, apixaban, allopurinol, metoprolol succinate for his known conditions, adherence reportedly good per pt report, though pill counts were not done today.
+
+ROS: Constitutional: no fever, no chills, no unintentional weight loss. Eyes: no visual changes. ENT: no sore throat, no congestion. CV: + chest pressure as above, no palpitations today (though hx AFib), no syncope. Resp: no cough, no wheeze, no hemoptysis. GI: no nausea, no vomiting, no abd pain, no melena. GU: no dysuria, no hematuria. MSK: mild great toe discomfort intermittently c/w known gout, no acute flare today. Skin: no rash. Neuro: no focal weakness, no numbness, no headache. Psych: denies depression, denies anxiety disorder though endorses situational worry re: cardiac dx as above. Endocrine: no polyuria, no polydipsia currently, sugars reportedly "okay" per pt. Heme/Lymph: no easy bruising, no bleeding.
+
+PMH: Gout, Type 2 Diabetes Mellitus, Hypertension, Atrial Fibrillation (on anticoagulation).
+PSH: none reported.
+FH: Father - heavy smoker, deceased, lung cancer. Mother - HTN, alive. No other significant FH obtained today, [inaudible] further FH deferred to prior notes.
+SH: Never smoker as above. Denies alcohol excess, denies illicit drugs. Works as an assemble line supervisor, denies significant occupational exposures per pt.
+
+MEDICATIONS (per chart, reconciled today):
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Apixaban 5 mg PO BID
+4. Allopurinol 300 mg PO daily
+5. Metoprolol succinate ER 50 mg PO daily
+6. Atorvastatin 40 mg PO qHS
+7. Aspirin 81 mg PO daily (held pending cards eval given anticoag)
+8. Colchicine 0.6 mg PO PRN gout flare
+
+VITALS: BP 138/86, HR 78 irregularly irregular, RR 16, T 98.2F, SpO2 97% RA, BMI 31.
+
+PHYSICAL EXAM:
+General: pt is a well-developed, well-nourished male, NAD, appears stated age.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no exudate.
+Neck: supple, no JVD appreciated, no thyromegaly, no carotid bruits.
+CV: irregularly irregular rhythm c/w known AFib, no murmurs/rubs/gallops appreciated, no S3, no S4, PMI nondisplaced.
+Resp: CTAB, no wheezes, no rales, no rhonchi, good air movement bilat.
+Abd: soft, NT/ND, +BS x4, no organomegaly, no rebound/guarding.
+Ext: no cyanosis, no clubbing, trace edema b/l lower extremities, first MTP joint w/ no acute erythema/swelling today.
+Skin: warm, dry, intact, no rash.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 throughout, sensation intact grossly.
+Psych: mood/affect appropriate, cooperative w/ interview.
+
+LABS/STUDIES (reviewed today):
+EKG: known AFib, rate controlled, no acute ST changes noted.
+Troponin: pending at time of note.
+BMP: Cr 1.0, K 4.2, glucose 142.
+HbA1c (last, per chart): 7.8%.
+Lipid panel (last, per chart): LDL 98, HDL 42, TG 160.
+CXR: pending.
+
+ASSESSMENT/PLAN:
+50 yo M w/ gout, T2DM, HTN, AFib presenting w/ chest pain concerning for possible ACS vs anginal equivalent, r/o via serial troponins and EKG, will obtain repeat EKG and trend troponin, continue telemetry monitoring overnight. Given known AFib on apixaban, will hold aspirin for now pending further workup as above given bleeding risk discussion w/ pt. Cardiology attending Dr. [inaudible - name obscured in dictation] to review imaging once CXR results are back. Risk factor discussion held w/ pt including diet, exercise, glycemic control; incidental lung cancer risk discussion also occurred given strong family hx (father, heavy smoker, died of lung cancer) and screening options were discussed conceptually with the patient, though no imaging was ordered as part of this visit. Continue home meds as above except aspirin held. Diabetes: will continue metformin, defer A1c recheck to PCP. Gout: continue allopurinol, colchicine PRN, no acute flare today. HTN: continue lisinopril and metoprolol, BP reasonably controlled today. AFib: continue apixaban, rate appears controlled on current metoprolol dose. F/u w/ cardiology attending in am for further plan.
+
+ATTESTATION: I have personally seen and examined the patient with the resident and agree with the history, exam, and plan as documented above, with revisions discussed directly with the resident team. - Attending Cardiologist

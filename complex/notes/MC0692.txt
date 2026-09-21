@@ -1,0 +1,70 @@
+CARDIOLOGY - HEART FAILURE FOLLOW-UP
+Date of Service: 03/25/2024
+Author: Anita Patel, MD
+
+--- NURSE INTAKE ---
+Patient: Dorothy Lopez  DOB: 03/04/1970  Age: 54  Sex: F
+Vitals: BP 128/78  HR 76  RR 16  Temp 97.8F  Wt 172 lb  SpO2 97% RA
+Chief complaint: f/u heart failure, med review
+Allergies: NKDA
+Review of med list done, see below.
+
+SOCIAL HISTORY (templated fields):
+ Tobacco use: Never used tobacco
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, social
+ Cigar/pipe use: pt reports smoking a cigar a few times a year on holidays, denies regular cigarette use
+ Illicit drug use: denies
+ Occupation: retired
+ Exercise: walks 20 min most days
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms Lopez is a 54 year old woman with history of heart failure hyperlipidemia and type 2 diabetes who presents today for routine f/u. She reports mild fatigue with exertion but denies orthopnea PND or lower extremity swelling. She has been compliant with her diuretic and denies chest pain palpitations or syncope. She notes she does not smoke cigarettes and never has, though she mentioned during intake that she'll have a cigar a few times a year on holidays, mostly at family gatherings. She denies illicit drug use. Diet has been reasonably low sodium per her report, though she admits to occasional lapses around holidays.
+
+Review of Systems:
+ Constitutional: denies fever chills weight loss
+ Cardiovascular: denies chest pain palpitations, +mild dyspnea on exertion
+ Respiratory: denies cough wheeze hemoptysis
+ GI: denies nausea vomiting abdominal pain
+ GU: denies dysuria hematuria
+ MSK: denies joint pain swelling
+ Neuro: denies headache dizziness syncope
+ Psych: denies depression anxiety
+ Skin: denies rash
+ All other systems reviewed and negative except as noted above
+
+Physical Exam:
+ General: well appearing NAD
+ HEENT: normocephalic atraumatic, no JVD noted
+ Cardiovascular: RRR no murmurs rubs or gallops, no S3 S4 appreciated
+ Lungs: clear to auscultation bilaterally, no crackles or wheezes
+ Abdomen: soft nontender nondistended, no hepatomegaly
+ Extremities: no edema, pulses 2+ bilaterally
+ Skin: warm dry intact
+ Neuro: alert oriented x3, no focal deficits
+
+Current Medications:
+ Metoprolol succinate 50mg daily
+ Lisinopril 10mg daily
+ Furosemide 20mg daily
+ Spironolactone 25mg daily
+ Atorvastatin 40mg nightly
+ Metformin 1000mg twice daily
+ Empagliflozin 10mg daily
+ Aspirin 81mg daily
+ Multivitamin daily
+
+Labs reviewed: BNP mildly elevated from last visit, A1c 7.1, lipid panel improved on current statin dose, renal function stable.
+
+Assessment/Plan:
+1. Heart failure with reduced ejection fraction - stable, continue current GDMT, recheck BNP and BMP in 3 months, continue low sodium diet counseling
+2. Hyperlipidemia - controlled on atorvastatin, continue current dose
+3. Type 2 diabetes - reasonably controlled, continue metformin and empagliflozin, recheck A1c in 3 months
+4. Tobacco/substance use - patient denies any cigarette smoking history, confirmed never smoker on 54 year old patient seen today 3/25/2024; she does report occasional cigar use on holidays a few times a year, discussed general health risks of any tobacco/nicotine exposure and lung cancer risk factors were briefly discussed given her family history, no further imaging planned at this time
+5. Follow up in 3 months or sooner if symptoms worsen
+
+Electronically signed: Anita Patel, MD
+
+--- ADDENDUM (same day, later) ---
+Addendum 03/25/2024 1645: Spoke again with patient by phone after she called with a question about her furosemide dose. Clarified she should continue current dose as prescribed and call if she notices increased swelling or weight gain of more than 3 lbs in 2 days. Reiterated she is a 54-year-old with no cigarette smoking history (never smoker), and reviewed that occasional holiday cigar use should be minimized given her cardiac history. No new symptoms reported at this time. Will follow up as scheduled.
+- Anita Patel, MD

@@ -1,0 +1,80 @@
+URGENT CARE VISIT NOTE
+Patient: Loretta Flores | DOB: 3/20/1957 | Age: 69 | Sex: F
+Date of Service: 03/20/2026
+Author: Gregory Tan, MD (Resident), with Attending Attestation
+
+CHIEF COMPLAINT: Cough
+
+HPI: Ms. Flores is a 69-year-old female presenting today, 03/20/2026, with a 5-day history of dry cough, mild sore throat, and low-grade subjective fevers. She denies significant dyspnea at rest but notes some exertional shortness of breath that she attributes to her known COPD. No hemoptysis, no chest pain. She has been taking OTC cough drops with minimal relief. No sick contacts identified. She reports no recent travel.
+
+PAST MEDICAL HISTORY:
+- Gout
+- Osteoporosis
+- COPD (on problem list, no smoking history documented)
+- Hypertension (well controlled)
+
+MEDICATIONS:
+1. Allopurinol 300 mg daily
+2. Colchicine 0.6 mg as needed for gout flares
+3. Alendronate 70 mg weekly
+4. Calcium carbonate/vitamin D3 600 mg/400 IU twice daily
+5. Lisinopril 10 mg daily
+6. Albuterol inhaler PRN
+7. Tiotropium inhaler daily
+8. Acetaminophen PRN pain
+9. Multivitamin daily
+10. Omeprazole 20 mg daily
+
+SMOKING STATUS: Unknown if ever smoked.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever at time of visit, denies chills, denies unintentional weight loss.
+HEENT: Denies vision changes, denies hearing changes, mild sore throat as above, denies ear pain.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies lower extremity edema.
+Respiratory: Positive for cough as above, denies hemoptysis, mild exertional dyspnea as above, denies wheezing at rest.
+Gastrointestinal: Denies nausea, denies vomiting, denies diarrhea, denies constipation, denies abdominal pain.
+Genitourinary: Denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: Denies acute joint pain, chronic gout well controlled on current regimen.
+Skin: Denies rash, denies new lesions.
+Neurologic: Denies headache, denies dizziness, denies focal weakness.
+Psychiatric: Denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 82, BP 128/76, RR 16, SpO2 96% on room air, Weight 142 lbs, Height 5'4"
+General: Alert, oriented, in no acute distress, well-nourished, well-developed.
+HEENT: Normocephalic, atraumatic. Oropharynx mildly erythematous, no exudate. TMs clear bilaterally. Nares patent.
+Neck: Supple, no lymphadenopathy, no thyromegaly, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Normal S1/S2.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no rales, air movement adequate, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing. First MTP joints without acute erythema or swelling bilaterally.
+Skin: Warm, dry, intact, no rashes.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, no focal deficits.
+Musculoskeletal: Full range of motion in all joints, no acute synovitis.
+
+[Copied forward from previous visit dated 11/14/2025]:
+Patient seen in clinic for routine follow-up of osteoporosis and gout. Bone density scan reviewed, T-score at femoral neck -2.6, consistent with osteoporosis, continue alendronate. Gout flares occurring approximately twice yearly, well controlled with colchicine PRN. Uric acid level 6.8 mg/dL. Patient tolerating current medication regimen without side effects. Discussed calcium and vitamin D intake, patient reports adequate dietary intake plus supplementation. Discussed fall prevention strategies given osteoporosis diagnosis, home safety reviewed, no rugs or loose cords per patient report. Continue current regimen, follow up in 6 months for repeat DEXA in 2 years per guideline. Patient's COPD stable on tiotropium, no exacerbations since last visit, spirometry from 2024 showed FEV1/FVC ratio consistent with mild obstruction. Continue current inhaler regimen. Return to clinic as needed or sooner if symptoms worsen. [End copied forward text]
+
+LABS/RESULTS (today's visit, 03/20/2026):
+- Rapid strep test: Negative
+- Rapid influenza A/B: Negative
+- COVID-19 antigen: Negative
+- CBC: WBC 7.2 (normal), Hgb 13.1, Hct 39.4%, Platelets 245
+- BMP: Na 140, K 4.1, Cl 102, CO2 24, BUN 16, Creatinine 0.8, Glucose 98
+- Chest X-ray (PA/lateral), performed today: No acute infiltrate, no consolidation, hyperinflated lung fields consistent with known COPD, no acute cardiopulmonary process
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral upper respiratory infection given negative rapid testing and clear CXR. Supportive care recommended - fluids, rest, OTC antitussives as needed. Return if worsening dyspnea, high fever, or symptoms persist beyond 10-14 days.
+2. COPD - stable today, no signs of acute exacerbation. Continue tiotropium and albuterol PRN. Screening for lung disease was discussed with patient in general terms; no imaging for that purpose ordered today beyond the diagnostic chest x-ray obtained for the acute cough complaint.
+3. Gout - stable, continue allopurinol and colchicine PRN, no active flare today.
+4. Osteoporosis - continue alendronate and calcium/vitamin D supplementation, follow with PCP for routine monitoring.
+5. Follow up with primary care provider as previously scheduled; return to urgent care or ED if symptoms acutely worsen.
+
+Attending Attestation: I have personally examined the patient and discussed the case in detail with Dr. Tan. I agree with the history, examination findings, and plan as documented above. - Attending physician cosign on file.
+
+---
+ADDENDUM (later same day, 03/20/2026):
+Patient called clinic nursing line at 3:45 PM reporting mild nausea after taking colchicine dose this afternoon. Advised to take with food going forward and to hold dose if nausea worsens or vomiting occurs. Advised to call back or go to ED if symptoms worsen. No changes to overall plan at this time. Will follow up with PCP as scheduled. -Gregory Tan, MD

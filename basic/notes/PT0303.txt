@@ -1,0 +1,43 @@
+Adult Medicine Clinic Note
+Date of Service: May 14, 2025
+Patient: Gwendolyn Robinson   DOB: 4/3/1972   MRN: 47693705
+
+S:
+CC: f/u DM2
+HPI: Ms. Robinson is a 53-year-old woman current smoker with obesity, HLD, T2DM, and HTN who presents for diabetes follow-up. Most recent A1c 8.7% (previously 8.0% in January 2025). Rarely checks glucose at home. No hypoglycemic episodes. Reports some tingling in feet at night.
+
+PMH:
+- HTN
+- Hyperlipidemia
+- Obesity
+- T2DM without complication
+Meds: amlodipine 10 mg daily; metformin 1000 mg BID; atorvastatin 40 mg daily; insulin glargine 20 units nightly; vitamin D3 2000 IU daily
+Allergies: Sulfa drugs
+SH: Married, lives with husband. Works as a cashier. EtOH: 1-2 beers/wk. No illicit drug use.
+FH: Sister - breast cancer at 59. Father - AAA repair.
+ROS: GU neg, Gen neg, Neuro neg, GI neg, Skin neg, Resp neg
+
+O:
+Vitals: BP: 148/88  HR: 90  RR: 18  Temp: 98.2 F  SpO2: 96% on RA  Wt: 189 lbs  BMI: 35.7
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus
+   - A1c 8.7% - above goal; start semaglutide 0.25 mg weekly. Diabetic eye exam referral.
+2. HTN: Elevated today; home BP log requested.
+3. Obesity: Discussed diet and exercise.
+4. Cigarette smoker: Advised to quit; >4 min spent counseling. She is motivated to quit. Referred to quitline (1-800-QUIT-NOW).
+5. Hyperlipidemia: LDL at goal on last check; continue.
+
+f/u 3 mo
+
+Steven Park, MD

@@ -1,0 +1,52 @@
+CARDIOLOGY HISTORY AND PHYSICAL
+Patient: Luis Coleman | DOB: 01/02/1949 | Age: 77 | Sex: M
+Date of Service: 01/02/2026
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: chest pain.
+
+HPI:
+77M, hx BPH, gout, presents c/o chest pain x2 days. Pt states "it's like a tight band across my chest when I climb stairs." Denies radiation to jaw. Some SOB w/ exertion. No nausea. Pt also states "I get short of breath faster than I used to." No fevers, no leg swelling. Took ASA 81mg at home prior to arrival.
+
+ROS: otherwise negative except as above. Denies palpitations, syncope.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2022 (Dr. R. Alvarez, Cardiology) ----
+Pt seen for routine f/u gout and cardiac risk factors. Uric acid stable on allopurinol. BPH sx stable on tamsulosin, nocturia x1. Denies chest pain, SOB, orthopnea at that time. Exam unremarkable, lungs clear, no edema. EKG NSR, no acute changes. Plan: continue current meds, f/u 6 months, routine labs ordered.
+---- END COPIED FORWARD TEXT ----
+
+PMH: BPH, gout.
+PSH: none significant.
+MEDS: tamsulosin, allopurinol, ASA 81mg.
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Status: Former smoker.
+Cigarettes - quarter pack/day (~5 cigs/day) x 24 years, then increased to half pack/day (~10 cigs/day) x 17 years.
+Year quit: 2006.
+Smokeless tobacco: never. E-cigs: never.
+Alcohol: occasional beer. Illicit drug use: denies.
+
+FAMILY HX: father - MI age 68. mother - HTN.
+
+VITALS: BP 148/86, HR 88, RR 18, SpO2 96% RA, Temp 98.2F, Wt 190 lb.
+
+EXAM:
+Gen: NAD, alert, appropriate.
+CV: RRR, no murmur appreciated, no JVD.
+Resp: lungs clear bilat, no wheeze/rales.
+Abd: soft, NT, ND.
+Ext: no edema, pulses 2+ symmetric.
+
+EKG: sinus rhythm, no ST changes, no old EKG avail for comparison in chart at this visit.
+
+ASSESSMENT/PLAN:
+1. Chest pain - exertional pattern, concerning for angina. R/o ACS. Trop ordered, serial EKGs. Consider stress test as outpt if trops neg. Continue ASA.
+2. Tobacco use, former smoker, quit 2006 - discussed cardiovascular risk reduction. Lung cancer screening was discussed with patient as a general topic; no imaging ordered today.
+3. BPH - continue tamsulosin, stable per pt report.
+4. Gout - continue allopurinol, no active flare today.
+5. Return precautions given for worsening chest pain, discussed with pt and pt verbalized understanding.
+
+F/u in cardiology clinic pending labs; call if symptoms worsen.
+
+--- ADDENDUM (later same day, 01/02/2026, H. Weiss NP) ---
+Troponin first draw resulted 0.01, within normal limits. Repeat trop pending per protocol. Pt remains chest pain free at this time, resting comfortably in exam room. Will proceed with plan as above; if repeat trop negative and EKG unchanged, pt may be discharged home with outpt stress test scheduled and cardiology f/u arranged. Discussed again with pt reason for close monitoring; pt verbalizes understanding, no further questions at this time.

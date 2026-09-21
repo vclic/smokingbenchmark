@@ -1,0 +1,76 @@
+HOSPITAL DISCHARGE FOLLOW-UP - PRIMARY CARE
+Patient: Dorothy Bryant | DOB: 02/25/1953 | Age: 73 y/o F
+Date of Service: 02/25/2026
+Author: Farah Siddiqui, MD
+
+HPI:
+Pt is a 73 y/o F, DOB 2/25/1953, seen today for f/u after recent hosp d/c for CAP (community-acquired pneumonia). She was admitted approx 10 days ago w/ fever, productive cough, SOB, tx'd w/ IV abx, transitioned to PO levofloxacin at d/c. Reports gradual improvement in cough and energy since d/c. Denies fever, chills, hemoptysis, chest pain. Some residual fatigue and mild exertional dyspnea, improving daily. Appetite returning. Sleeping w/ CPAP nightly per usual w/ known OSA, tolerates well. No palpitations noted, on anticoagulation for AFib, no bleeding issues. Mood stable on current antidepressant regimen, denies SI/HI.
+
+PAST MEDICAL HISTORY:
+- Depression
+- Obstructive sleep apnea (on CPAP)
+- Atrial fibrillation (on anticoagulation)
+- Recent CAP, hospitalized, now s/p abx course
+
+SOCIAL HISTORY:
+Lives w/ spouse, retired schoolteacher. Denies current alcohol use. Denies illicit drug use.
+
+TOBACCO USE (templated field):
+Smoking status: Former smoker
+Pack-years/history: Pt smoked approx 1/2 pack per day (~10 cigarettes/day) x 13 years, then reduced to approx 5 cigarettes/day for the following 26 years, prior to cessation.
+Quit date/context: Quit smoking; has not smoked since her 53rd birthday.
+Current use: None - pt no longer smokes cigarettes or any tobacco product at this time.
+Secondhand exposure: None reported at home.
+Counseling: Tobacco cessation maintenance reinforced; pt encouraged to continue abstinence.
+
+REVIEW OF SYSTEMS:
+Constitutional: + fatigue (improving), denies fever/chills/night sweats
+HEENT: denies sore throat, denies nasal congestion
+CV: denies chest pain, denies palpitations, denies orthopnea, denies edema
+Resp: + mild exertional dyspnea (improving), denies wheeze, denies hemoptysis
+GI: denies nausea/vomiting/diarrhea/constipation, appetite improving
+GU: denies dysuria, denies hematuria
+MSK: denies myalgias, denies joint pain
+Neuro: denies HA, denies dizziness, denies focal weakness
+Psych: mood stable, denies SI/HI, denies anhedonia
+Skin: denies rash
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt stable from last visit
+General: Alert, NAD, appears well, comfortable
+HEENT: NC/AT, PERRL, oropharynx clear, no exudate
+Neck: no LAD, no JVD, no thyromegaly
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no peripheral edema
+Resp: Lungs CTAB, no wheezes/rales/rhonchi appreciated bilaterally, improved from hosp d/c exam
+Abd: Soft, NT/ND, BS normal
+Ext: No edema, no cyanosis, no clubbing
+Skin: warm, dry, intact, no rash
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady
+Psych: mood/affect appropriate, cooperative
+
+MEDICATIONS:
+1. Apixaban 5mg PO BID
+2. Sertraline 50mg PO daily
+3. Levofloxacin 500mg PO daily (completing course, day 8 of planned course - to finish)
+4. Metoprolol succinate ER 50mg PO daily
+5. Atorvastatin 20mg PO qhs
+6. Vitamin D3 1000 IU PO daily
+7. CPAP nightly per sleep study settings
+8. Albuterol MDI PRN (not currently using)
+9. Multivitamin daily
+
+LABS/DATA REVIEWED:
+CBC WNL, no leukocytosis. BMP unremarkable. INR/anticoag levels appropriate per anticoag mgmt clinic. CXR at d/c showed improving infiltrate, resolving.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving s/p recent hospitalization - Pt clinically improved, will complete abx course as prescribed at d/c. F/u CXR in 6 wks to confirm resolution. Return precautions reviewed (fever, worsening cough, SOB) - instructed to call or go to ED if these occur.
+2. Atrial fibrillation - Rate well controlled on current metoprolol. Continue apixaban for anticoagulation, INR/anticoag mgmt per specialty clinic. No new palpitations or symptoms.
+3. Obstructive sleep apnea - Continues CPAP nightly, tolerating well, no daytime somnolence reported.
+4. Depression - Stable on sertraline, mood euthymic today, denies SI/HI. Continue current regimen, f/u PRN or routine interval.
+5. Tobacco history - Former smoker as documented above in social/tobacco history block; she has not smoked since her 53rd birthday and currently uses no tobacco products. Continued abstinence encouraged; general health maintenance counseling provided regarding importance of remaining smoke-free given h/o significant tobacco exposure. Lung cancer screening discussed as part of general preventive health discussion; no imaging ordered today related to that discussion.
+6. Health maintenance - Influenza and pneumococcal vaccination status reviewed and up to date. Encouraged routine age-appropriate screenings.
+
+Follow-up: RTC in 4-6 wks or sooner if symptoms worsen. Pt verbalizes understanding of plan, all questions answered today.
+
+Electronically signed: Farah Siddiqui, MD

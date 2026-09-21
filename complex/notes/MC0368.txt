@@ -1,0 +1,45 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 07/20/2025
+Provider: Owen Fitzgerald, MD
+
+Patient: Dorothy Baker, F, DOB 02/04/1961 (age 64)
+
+CC: Establish care
+
+HPI: Ms Baker is a 64 year old woman presenting to establish primary care. She reports overall doing well, no acute complaints today. Hx of osteoporosis and asthma, both stable per patient report. Denies chest pain, sob at rest, wheeze x recent weeks. Uses albuterol prn, last refill several months ago.
+
+PMH: Osteoporosis, Asthma
+PSH: None reported
+Meds: Albuterol MDI prn, calcium/vitamin D supplement
+Allergies: NKDA
+
+--- SOCIAL HISTORY (templated) ---
+Tobacco use: Never smoker
+Smoking status: Lifelong non-smoker
+Pack-years: Not on file
+E-cigarette/vape use: Yes - daily nicotine vape use, denies ever smoking cigarettes
+Alcohol use: Not on file
+Drug use: 
+Occupation: retired
+Living situation: 
+---------------------------------
+
+ROS: Otherwise negative in detail, reviewed 10-point systems, non contributory findings other than above.
+
+Exam:
+Vitals stable, afebrile
+Gen: NAD, well appearing woman
+Lungs: mild expiratory wheeze bilat, no distress
+CV: RRR no m/r/g
+MSK: no deformity, gait steady
+
+Assessment/Plan:
+1. Osteoporosis - continue calcium/vit D, will check DEXA if not recent, consider bisphosphonate discussion at next visit
+2. Asthma - continue albuterol prn, discussed trigger avoidance, consider controller if symptoms worsen
+3. Health maintenance - discussed age appropriate screenings, immunizations updated, discussed vaping cessation given daily nicotine use even though she has never smoked cigarettes
+4. General preventive health topics discussed at visit including routine screenings appropriate for age, no further imaging discussed today
+
+f/u 3 months or sooner prn
+
+---ADDENDUM (same day, later)---
+Addendum by Dr Fitzgerald 07/20/2025 1730: Clarifying social history documentation after chart review - patient confirmed again in person she is a lifelong non-smoker of cigarettes, has never smoked, but does vape nicotine daily. Counseled on risks of vaping and encouraged cessation resources. No changes to plan otherwise.

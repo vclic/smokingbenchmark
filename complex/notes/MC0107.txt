@@ -1,0 +1,92 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Date of Service: 01/16/2024
+Patient: Judith Ramirez, F, DOB: 01/16/1964 (age 60)
+Author: Quentin Hale, PA-C
+
+RE: Heart failure follow-up
+
+Dear Dr. Colleague,
+
+Thank you for the continued opportunity to co-manage Ms. Ramirez, a 60-year-old woman seen today for follow-up of her heart failure. She reports doing reasonably well, denies orthopnea, PND, or significant lower extremity edema. She notes occasional exertional dyspnea climbing stairs at home, unchanged from prior visit. No chest pain, no palpitations, no syncope/presyncope. Daily weights stable per patient report. Adherent to low-sodium diet, mostly.
+
+PROBLEM LIST (ICD-10):
+- I50.9 Heart failure, unspecified
+- E78.5 Hyperlipidemia
+- K21.9 GERD
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified, uncomplicated
+- I10 Essential hypertension (resolved per pt, still listed - needs update)
+- M54.5 Low back pain (chronic, outdated entry, unclear if still active)
+
+Smoking status: Never Smoker [NOTE: this templated field is outdated/incorrect - see HPI/assessment below for accurate smoking history]
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss/gain.
+HEENT: No vision changes, no hearing changes, no sore throat.
+Cardiovascular: As above, denies chest pain, palpitations. Endorses occasional mild dyspnea on exertion.
+Respiratory: Denies cough, wheeze at rest; known asthma, uses inhaler PRN.
+GI: Occasional heartburn, controlled with PPI. Denies nausea, vomiting, diarrhea, constipation, melena, hematochezia.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Denies new joint pain, swelling.
+Skin: No rashes, no lesions.
+Neuro: No headache, no focal weakness, no numbness/tingling.
+Psych: Denies depression, anxiety symptoms.
+Endocrine: Denies polyuria, polydipsia; diabetes reportedly stable per pt.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 97.8F, SpO2 97% RA, Wt 168 lb, Ht 5'4"
+General: Well-appearing woman, NAD, appropriate affect.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD appreciated, no thyromegaly, no carotid bruits.
+Cardiovascular: RRR, no murmurs/rubs/gallops appreciated, no S3, no S4. Distal pulses 2+ bilaterally.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no crackles, no rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No lower extremity edema, no cyanosis, no clubbing.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly non-focal.
+
+MEDICATIONS:
+1. Metoprolol succinate 50mg daily
+2. Lisinopril 10mg daily
+3. Furosemide 20mg daily
+4. Atorvastatin 40mg nightly
+5. Metformin 1000mg BID
+6. Omeprazole 20mg daily
+7. Albuterol HFA inhaler PRN
+8. Fluticasone/salmeterol inhaler BID
+9. Aspirin 81mg daily
+10. Vitamin D3 1000 IU daily
+
+LABS (reviewed, from 01/10/2024):
+BMP: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 142
+BNP: 210 (improved from prior)
+A1c: 7.1%
+Lipid panel: TC 168, LDL 88, HDL 46, TG 170
+
+ASSESSMENT AND PLAN:
+Ms. Judith Ramirez is a 60-year-old woman, DOB 1/16/1964, seen today 01/16/2024 for heart failure follow-up. Overall clinically stable, euvolemic on exam, BNP trending down from prior. Will continue current regimen.
+
+1. Heart failure (I50.9) - Stable. Continue metoprolol succinate, lisinopril, furosemide as above. Daily weights, low-sodium diet reinforced. Follow-up BNP and BMP in 3 months.
+
+2. Smoking history - Correction to chart: the templated smoking status field above reading "Never Smoker" is inaccurate and should be disregarded/updated. On careful review with the patient today, she reports she smoked approximately half a pack (about 10 cigarettes) per day for 8 years, then increased to about three-quarters of a pack (roughly 15 cigarettes) per day for an additional 9 years, before quitting smoking altogether. She quit smoking in 2004 and has remained smoke-free since. Congratulated her on sustained cessation; encouraged continued abstinence given cardiopulmonary risk profile. Chart to be updated to reflect former smoker status accurately.
+
+3. Hyperlipidemia (E78.5) - LDL at goal on atorvastatin 40mg. Continue current dose, recheck lipid panel in 6 months.
+
+4. GERD (K21.9) - Well controlled on omeprazole, no red flag symptoms currently.
+
+5. Type 2 diabetes mellitus (E11.9) - A1c 7.1%, reasonably controlled. Continue metformin, defer to PCP/endocrinology for further titration as needed.
+
+6. Asthma (J45.909) - Stable, no recent exacerbations, using albuterol PRN and maintenance inhaler as prescribed. No wheeze on exam today.
+
+7. Hypertension (I10) - BP well controlled today at 128/76 on current regimen; listed as resolved per patient but continuing antihypertensive therapy given HF regimen overlap.
+
+8. Chronic low back pain (M54.5) - Outdated problem list entry, not addressed today, will review at next visit and consider removing if no longer active issue.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Will fax updated note to PCP office. Patient given after-visit summary and instructions.
+
+Thank you again for allowing us to participate in this patient's care.
+
+Sincerely,
+Quentin Hale, PA-C
+Cardiology Associates

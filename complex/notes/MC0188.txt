@@ -1,0 +1,48 @@
+RESIDENT NOTE - CARDIOLOGY
+DOS: 04/25/2026
+Author: Laura Castellano, FNP-C (resident); attending attestation below
+
+Pt: Yolanda Flores, F, DOB 04/25/1973 (age 53)
+CC: chest pain eval
+
+HPI: 53 yo F w/ hx asthma, depression, HLD p/w intermittent CP x 2 wks, described as sharp, L-sided, non-exertional, sometimes assoc w/ SOB esp when her asthma is flaring, denies radiation to arm, no diaphoresis, no n/v, pt states "it kinda comes and goes, mostly when I'm stressed out" - reports increased stress at work recently, sleep poor, mood c/w baseline depression per pt report. No prior cardiac hx, no known CAD. Denies palpitations, syncope, orthopnea, PND, LE edema. ROS otherwise negative except as above - pt endorses occasional wheeze, uses albuterol prn w/ some relief [inaudible] she says its been "a rough couple weeks with the pollen or whatever it is out there" - will address asthma control separately.
+
+PMH: asthma, depression, hyperlipidemia
+PSH: none significant
+Meds: albuterol prn, fluticasone inhaler, sertraline, atorvastatin
+Allergies: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Never smoker (per pt report - tried a few cigarettes as a teenager, never smoked regularly, denies current or daily use)
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 glasses wine/wk
+Drug use: denies
+Occupation: office admin
+Living situation: Not on file
+Exercise: Not on file
+
+Attending note: pt hx obtained and reviewed; concur w/ above social hx documentation, tobacco use accurately reflects a few teenage cigarettes only, no regular smoking hx reported.
+
+Vitals: BP 128/82, HR 78, RR 16, SpO2 97% RA, Temp 98.4F, Wt 165 lb
+
+Exam: Gen - NAD, A&Ox3. CV - RRR, no m/r/g. Lungs - mild expiratory wheeze bilat, no rales/rhonchi. Abd - soft, NT/ND. Ext - no edema, no cyanosis.
+
+LABS/RESULTS:
+CBC (04/25/2026): WBC 6.8, Hgb 13.2, Hct 39.1, Plt 245
+BMP (04/25/2026): Na 139, K 4.1, Cl 101, CO2 24, BUN 14, Cr 0.8, Glu 92
+Lipid panel (04/10/2026): TC 218, LDL 138, HDL 48, TG 160
+Troponin I (04/25/2026): <0.01 ng/mL (neg x1)
+EKG (04/25/2026): NSR, no ST changes, no acute ischemic changes
+CXR (04/25/2026): no acute cardiopulmonary process, lungs clear
+
+Assessment: 53F w/ atypical CP, low suspicion for ACS given neg trop and unremarkable EKG, likely musculoskeletal vs. anxiety-related vs. asthma-related component given wheeze on exam. HLD suboptimally controlled per recent lipid panel. Depression stable per pt report on sertraline.
+
+Plan:
+1. CP - reassuring initial workup, will trend troponin, consider stress test outpatient if sx persist or recur, pt reassured re: low ACS likelihood today
+2. Asthma - reinforce inhaler technique, continue fluticasone, f/u w/ PCP or pulm if worsening
+3. HLD - consider uptitration of statin, recheck lipid panel in 3 mo, counsel diet/exercise
+4. Depression - continue sertraline, screen w/ PHQ-9 at next visit, pt denies SI/HI today
+5. Health maintenance - lung cancer screening was discussed briefly given pt's demographic profile, however given her tobacco history (a few teenage cigarettes only, never a regular smoker) this was not felt to be indicated; no further imaging planned in this regard at this time
+6. RTC 3 months or sooner if sx worsen, pt verbalized understanding of plan
+
+Attestation: I have reviewed and discussed this case with the resident/NP author, agree with history, exam, and plan as documented above. - Attending Cardiology

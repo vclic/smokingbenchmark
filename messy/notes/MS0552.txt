@@ -1,0 +1,44 @@
+RESIDENT NOTE - Family Medicine
+Patient: Ronald Patel | DOB: 4/8/1973 | Age: 51 | M
+Date of Service: 10/24/2024
+Author: Anita Patel, MD (resident); attending attestation below
+
+VISIT TYPE: Annual wellness visit
+
+CC: Annual physical, review of chronic conditions (asthma, OSA, obesity, CAD).
+
+HPI: Mr. Patel is a 51-year-old male presenting for annual wellness visit. Reports asthma reasonably controlled on current regimen, uses rescue inhaler ~1x/week. OSA managed with CPAP, reports good adherence per device download. Weight stable. No new chest pain, denies exertional dyspnea beyond baseline. CAD stable, no anginal equivalents.
+
+=== SOCIAL HISTORY (templated) ===
+Tobacco use: Former smoker; smoked about three-quarters of a pack per day (approx 15 cigarettes/day); quit smoking in the mid 2010s.
+Alcohol use: Quit drinking alcohol in 2000.
+Illicit drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Walks 20 min most days
+
+=== COPIED FORWARD FROM VISIT 03/12/2022 ===
+Review of systems largely unchanged from prior visit. Patient continues to follow with cardiology for CAD, last stress test unremarkable per records dated 03/12/2022. Sleep medicine following for OSA, CPAP settings unchanged. Denies palpitations, denies PND, denies orthopnea. Denies hemoptysis. GI: denies abdominal pain, denies blood in stool. GU: denies dysuria. Musculoskeletal: denies joint swelling. Neuro: denies focal weakness. Psych: denies depression, denies anxiety. [Note: text copied forward inadvertently includes outdated med list - see updated list below.]
+
+CURRENT MEDICATIONS:
+1. Albuterol HFA inhaler PRN
+2. Fluticasone/salmeterol inhaler BID
+3. Aspirin 81mg daily
+4. Atorvastatin 40mg daily
+5. Metoprolol succinate 50mg daily
+6. Lisinopril 10mg daily
+7. CPAP nightly
+
+PHYSICAL EXAM: Vitals stable, BMI elevated consistent with obesity. General: obese male, no acute distress. HEENT: normal. Neck: no JVD. Lungs: mild expiratory wheeze bilaterally. Heart: RRR, no murmurs. Abdomen: soft, obese, nontender. Extremities: no edema. Skin: no lesions.
+
+ASSESSMENT/PLAN:
+1. Asthma - continue current inhalers, reinforce technique.
+2. OSA - continue CPAP, reassess adherence at next visit.
+3. Obesity - counseled on diet/exercise.
+4. CAD - continue current cardiac meds, follow with cardiology.
+5. Tobacco history discussed; reinforced benefit of continued abstinence. Lung cancer screening discussed as a topic for further conversation with PCP.
+
+Attending attestation: I have reviewed and discussed this case with Dr. Patel (resident) and agree with the assessment and plan as documented above. - Dr. Susan Meyer, MD
+
+=== ADDENDUM (same day, later) ===
+Addendum by Anita Patel, MD: Patient called after visit to clarify CPAP supply order; instructed to contact DME company directly. No changes to plan above.

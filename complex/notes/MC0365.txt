@@ -1,0 +1,50 @@
+HISTORY AND PHYSICAL - NEW PATIENT
+Patient: Linda Kowalski (F)
+DOB: 5/24/1968 (age 56)
+Date of Service: 07/19/2024
+Provider: Owen Fitzgerald, MD
+Location: Primary Care Clinic
+
+CC: Establish care.
+
+HPI: 56 yo F new to practice, transferring care after relocation. Hx PAD, osteoporosis, OSA, obesity. Reports intermittent claudication with prolonged walking, stable per pt. Uses CPAP nightly, tolerates well per report though brings no data. Denies chest pain, syncope, new fractures. Here today to establish care and review meds/refills.
+
+PROBLEM LIST:
+1. I73.9 - Peripheral artery disease, unspecified (active)
+2. M81.0 - Age-related osteoporosis without pathological fracture (active)
+3. G47.33 - Obstructive sleep apnea (adult) (active)
+4. E66.9 - Obesity, unspecified (active)
+5. M54.5 - Low back pain (2019, resolved - outdated entry, retain per legacy chart)
+6. J02.9 - Acute pharyngitis (2017, resolved)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker - lifelong non-smoker per patient report.
+Smokeless tobacco: Not on file.
+Alcohol use: Occasional, social only.
+Drug use: Marijuana - occasional use reported.
+Other substances: Not on file.
+Occupation: Retired administrative assistant.
+Living situation: Lives with spouse.
+Exercise: Limited 2/2 claudication sx.
+
+ROS: Denies fevers, chills, wt loss. + fatigue, occasional dyspnea on exertion. Denies cough, hemoptysis. Skeletal: no new pain. GI/GU: unremarkable. Neuro: no focal deficits.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Wt 198 lb, BMI 34.2, SpO2 96% RA
+Gen: obese female, NAD.
+CV: RRR, no m/r/g. Distal pulses diminished bilat LE, cap refill slightly delayed.
+Resp: CTAB.
+MSK: no deformity, gait steady but slow due to claudication.
+Skin: no ulcers/lesions noted on LE exam today.
+
+ASSESSMENT/PLAN:
+1. PAD - continue current antiplatelet, consider ABI if not recently done, refer vascular if worsening claudication.
+2. Osteoporosis - continue calcium/vit D, check DEXA due date, consider bisphosphonate review.
+3. OSA - continue CPAP, request compliance download at next visit.
+4. Obesity - discuss weight management options, nutrition referral offered.
+5. Health maintenance - up to date on immunizations pending records transfer. Lung cancer screening discussed generally given risk factor review, deferred further workup at this time. Colonoscopy/mammogram due, will schedule.
+6. Tobacco: lifelong non-smoker, no cessation counseling needed. Marijuana use noted, discussed occasional use, no intervention requested by patient at this time.
+
+F/u in 3 months or sooner if symptoms worsen. Records requested from prior PCP.
+
+---end of note---

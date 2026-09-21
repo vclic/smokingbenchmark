@@ -1,0 +1,75 @@
+Family Medicine Clinic Note
+
+Patient: JENKINS, David    MRN: 16726136
+DOB: 09/09/1957    Age: 66 y.o.    Sex: Male
+Date of Service: 02/20/2024    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• Cough x 7 days
+
+Subjective:
+David Jenkins is a 66 y.o. male who presents for cough and congestion.
+Cough for 7 days, productive of yellow sputum. He continues to smoke and has 53 pack-years of exposure. Low-grade fevers initially, now resolved. Grandchild was sick last week. Denies hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis	2008
+• Paroxysmal atrial fibrillation
+• Class I obesity
+• Gout
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• allopurinol 300 mg daily
+• apixaban 5 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with wife and adult daughter.
+  No alcohol.
+  No IVDU.
+
+Family History
+Sister - breast cancer at 59. Mother - CHF, d. age 88. Brother - smokes, had MI at 52.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 119/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 76 | Temp 97.5 °F (Oral) | Resp 12 | Ht 5' 9" | Wt 212 lb | SpO2 96% | BMI 31.34 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Coarse breath sounds R base
+Abdominal: Obese, soft, nontender
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (1/13/2024): LDL 112, Cr 0.72, K 4.3, Hgb 12.1
+
+Assessment & Plan
+1. Cough
+   Post-viral cough. Honey, fluids. If persists >8 wks, CXR.
+2. Paroxysmal atrial fibrillation
+   Rate controlled; continue anticoagulation.
+3. Cigarette smoker
+   Brief cessation counseling provided (5 min). Not ready to quit at this time. Declines pharmacotherapy. LDCT for lung cancer screening ordered after SDM.
+4. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+
+f/u 3 mo
+
+Electronically signed by Nadia Haddad, MD on 02/20/2024

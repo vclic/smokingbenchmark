@@ -1,0 +1,51 @@
+PROGRESS NOTE
+Date of Service: 8/4/2025
+Patient: Raymond Roberts   DOB: 7/20/1970   MRN: 78148605
+
+S:
+CC: f/u DM2
+HPI: Mr. Roberts is a 55 year old male with a history of T2DM and HTN who presents for diabetes follow-up. Most recent A1c 8.7% (previously 8.2% in February 2025). Rarely checks glucose at home. One episode of shakiness relieved with juice. Trying to walk 20 minutes daily.
+
+PMH:
+- T2DM without complication (dx 2019)
+- Essential hypertension
+PSH: Appendectomy; Rotator cuff repair (2018)
+Meds: lisinopril 20 mg daily; insulin glargine 20 units nightly; metformin 1000 mg BID
+Allergies: Latex
+Social History:
+- Lives alone in an apartment.
+- Works as a farmer.
+- EtOH: 2-3 drinks on weekends.
+- No illicit drug use.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 139/74  HR: 72  RR: 16  Temp: 98.5 F  SpO2: 96% on RA  Wt: 163 lbs  BMI: 22.7
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 8.7% - above goal; add empagliflozin 10 mg daily. Foot exam today - monofilament intact.
+2. Essential hypertension
+   - Well controlled on home log. No changes.
+3. Health maintenance: LCS: N/A - never smoker.
+
+Follow up in 6 months or sooner PRN.
+
+Priya Raman, MD

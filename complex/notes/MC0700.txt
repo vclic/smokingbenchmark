@@ -1,0 +1,82 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Raymond Butler (M), 56-year-old, DOB 02/18/1968
+Date of Service: 02/18/2024
+Author: Daniel Reyes, MD
+
+CC: Follow-up hypertension, diabetes.
+
+HPI: Mr. Butler is a 56-year-old male here for routine f/u of HTN and T2DM. Reports home BP readings in 130s/80s. Blood sugars "running okay, maybe a bit high in the mornings." Denies chest pain, SOB, palpitations. No new leg pain at rest, states "my legs still cramp when I walk to the mailbox and back, but it's about the same as before." No changes in vision. Compliant with meds per report, occasional missed doses of metformin "when I forget after breakfast." Diet review done, patient states he has cut back on "soda and sweets, mostly." No new joint symptoms beyond baseline OA of knees.
+
+PMH: Hypertension, Type 2 diabetes mellitus, hypothyroidism, obesity, osteoarthritis, peripheral artery disease.
+
+PSH: None significant per chart.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use status: Former smoker.
+Smoking history: Started smoking approx 1/4 pack per day (about 5 cigarettes/day) at age 14; continued at that rate until quitting smoking in 2010.
+Alcohol: Occasional, denies heavy use.
+Illicit drug use: Denied.
+Occupation: Retired warehouse supervisor.
+
+FH: Father with MI at 60s, mother with T2DM.
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Amlodipine 5 mg daily
+3. Metformin 1000 mg BID
+4. Glipizide 5 mg daily
+5. Levothyroxine 100 mcg daily
+6. Atorvastatin 40 mg daily
+7. Aspirin 81 mg daily
+8. Cilostazol 100 mg BID
+9. Acetaminophen 500 mg PRN for joint pain
+10. Vitamin D3 2000 IU daily
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: No visual changes, no eye pain.
+ENT: No sore throat, no hearing changes.
+Cardiovascular: No chest pain, no palpitations, no orthopnea, no PND. Positive for intermittent claudication as above, chronic/stable.
+Respiratory: No cough, no dyspnea, no wheeze.
+GI: No abdominal pain, no nausea, no vomiting, no change in bowel habits.
+GU: No dysuria, no hematuria, no urinary frequency.
+Musculoskeletal: Chronic bilateral knee pain, stable, no acute swelling.
+Skin: No rashes, no ulcers on feet noted by patient.
+Neuro: No numbness, no tingling, no focal weakness.
+Psych: No depression, no anxiety symptoms reported.
+Endocrine: No polyuria, no polydipsia currently.
+Heme/Lymph: No easy bruising, no bleeding.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, Wt 224 lb, BMI 34.2, SpO2 97% RA.
+General: Well-appearing, obese male, NAD.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD, no thyromegaly appreciated.
+Cardiovascular: RRR, no murmurs/rubs/gallops. Distal pulses diminished bilaterally in dorsalis pedis, faintly palpable.
+Respiratory: CTAB, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema. Skin intact, no ulcerations. Mild hair loss on lower legs bilaterally, consistent with known PAD.
+Musculoskeletal: Crepitus bilateral knees, no effusion, ROM limited by pain.
+Skin: No rashes, no lesions.
+Neuro: A&Ox3, CN II-XII grossly intact, sensation intact to light touch bilaterally.
+Psych: Mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled on current regimen, continue lisinopril and amlodipine.
+2. Type 2 diabetes mellitus - reasonably controlled, continue metformin and glipizide, recheck A1c in 3 months.
+3. Hypothyroidism - stable on levothyroxine, TSH to be rechecked.
+4. Obesity - counseled on diet and exercise, discussed weight management options.
+5. Osteoarthritis - continue acetaminophen PRN, consider referral to ortho if worsening.
+6. Peripheral artery disease - continue cilostazol and aspirin, supervised walking program discussed, vascular surgery f/u as scheduled.
+7. Tobacco history - former smoker, quit smoking at age 42; reinforced continued avoidance of tobacco, general lung health discussed.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Daniel Reyes, MD
+
+---
+ADDENDUM (same day, later):
+Patient called back after visit to clarify his morning glucose log, values ranging 140-160 mg/dL fasting. Advised to continue current regimen, will reassess at next visit with A1c results. No changes made to plan at this time. General lung health monitoring given past tobacco history was briefly discussed with patient during the call.
+-Daniel Reyes, MD

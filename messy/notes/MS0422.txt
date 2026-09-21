@@ -1,0 +1,32 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Karen Roberts DOB 1/6/1969 (age 54)
+Date of Service: 02/11/2023
+Provider: Priya Raman, MD
+
+HPI: Ms Roberts presents for f/u of HTN and T2DM, reports doing fairly well, home glucose logs reviewed pt states sugras running 110-140 most mornings, denies chest pain SOB or claudication, some fatigue [inaudible] related to poor sleep per pt she works nights and her schedule is all over the place lately. No new complaints re: CAD, no palpitations. Diet review notes increased carb intake over holidays, pt aware and working on it.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker - quit 2010
+Smoking hx: 4 cigs/day x 26 years
+Alcohol: Not on file
+Drug use: ___
+Occupation: healthcare aide, night shift
+Living situation: Not on file
+Exercise: reports walking 2-3x/wk
+
+ROS: otherwise negative except as above, 10-point ROS reviewed and negative except as noted in HPI.
+
+Exam: BP 138/84, HR 76, wt stable, general appearance well nourished no acute distress, heart RRR no m/r/g, lungs CTAB, extrem no edema, skin warm dry.
+
+Labs reviewed: A1c 7.1%, LDL 98, HDL 44, TG 150, Cr 0.9, eGFR >60.
+
+Assessment/Plan:
+1. Hypertension - stable on current regimen, continue lisinopril, recheck BP next visit.
+2. Type 2 diabetes mellitus - A1c improved from prior, continue metformin, reinforce diet/exercise, recheck A1c in 3 months.
+3. Coronary artery disease - stable, no anginal sx today, continue aspirin and statin, follow with cardiology as scheduled.
+4. Hyperlipidemia - LDL at goal, continue atorvastatin.
+5. Tobacco history - pt is a former smoker, quit in 2010, prior smoking hx of 4 cigs/day for 26 years noted for risk stratification, lung ca screening was discussed with pt during visit though no imaging ordered today, encouraged continued abstinence.
+
+Return to clinic in 3 months or sooner if concerns, pt verbalized understanding of plan and agreed with above, questions answered.
+
+Electronically signed Priya Raman, MD

@@ -1,0 +1,50 @@
+Pulmonology Follow-Up Progress Note
+Patient: Gregory Perez
+DOB: 2/5/1958 (age 65)
+Date of Service: 06/01/2023
+Author: Gregory Tan, MD
+
+CHIEF COMPLAINT: f/u after recent COPD exacerbation, ED visit last wk
+
+HPI: Mr Perez is a 65 yo male with hx of asthma and osteoporosis who presented to the ED approx 1 wk ago with worsening dyspnea, wheeze, and cough productive of yellow sputum, treated w/ nebs, prednisone taper, and azithromycin. He reports mild improvement in breathing since d/c but still c/o intermittent SOB with exertion, esp climbing stairs. Denies fever chills or chest pain currently. Using albuterol inhaler more frequently than baseline, approx 4-5x/day. He completed 4 of 5 days of the steroid taper. No hemoptysis, no lower extremity edema. Sleep somewhat disrupted by cough at night but improving. He denies any occupational exposures currently, works part time as an accountant.
+
+PMH: asthma (dx in 20s), osteoporosis (on alendronate), no known CAD, no DM
+
+PSH: appendectomy age 22
+
+MEDS: albuterol HFA prn, fluticasone/salmeterol daily, alendronate weekly, calcium/vit D, recently completed prednisone taper
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives w/ wife, retired part-time accountant. Denies any alcohol use. Denies illicit drug use. Patient is a lifelong non-smoker, has never used tobacco products of any kind including e-cigarettes. No occupational dust/chemical exposure reported. Exercises occasionally, walks 20 min most days when not symptomatic.
+
+[Copied forward from visit dated 11/14/2022 - Pulmonology intake note, left in chart by prior team, retained here for reference]
+---
+Pt is a 64 yo male referred for eval of chronic cough and occasional wheeze. HPI at that time notable for cough x 3 months, worse at night, assoc with mild dyspnea on exertion. PFTs obtained showed mild obstructive pattern, partially reversible w/ bronchodilator, consistent w/ asthma. CXR unremarkable, no infiltrate or effusion. Pt was started on ICS/LABA combo inhaler at that visit. Social hx at that time also documented as nonsmoker, no tobacco use ever. Family hx reviewed - mother with osteoporosis, father with hypertension. Pt advised on trigger avoidance, pulm hygiene, and follow up in 3-4 months or sooner if worsening sx. Immunizations reviewed and pt was due for pneumococcal vaccine, given that day without complication.
+---
+[end copied text]
+
+ROS: Constitutional: no fever, denies weight loss. Resp: as above, improving dyspnea, occasional wheeze. Cardiac: no chest pain, no palpitations. GI: no nausea/vomiting. MSK: no new bone pain, no fractures. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, SpO2 95% RA, Temp 98.2F, Wt 182 lb
+Gen: NAD, comfortable, speaking in full sentences
+HEENT: nml, no oropharyngeal erythema
+Neck: no LAD, no JVD
+Lungs: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: no edema, no clubbing or cyanosis
+Skin: warm, dry
+
+LABS/IMAGING: CXR from ED visit reviewed - no acute infiltrate, mild hyperinflation. CBC WNL, BMP unremarkable. Peak flow today 78% of personal best, improved from ED presentation.
+
+ASSESSMENT/PLAN:
+1. Asthma exacerbation, recently treated in ED, currently improving on tapering steroids and increased bronchodilator use. Pt is a lifelong non-smoker so tobacco cessation counseling not applicable; continue to reinforce avoidance of secondhand smoke exposure and environmental triggers. Continue ICS/LABA daily, albuterol prn. Will step up controller therapy if sx persist beyond 2 wks. Discussed proper inhaler technique, pt demonstrated adequate technique today.
+2. Osteoporosis - continue alendronate weekly, calcium/vit D. DEXA due for repeat in approx 1 yr per prior documentation. No new fractures reported.
+3. Health maintenance - general age-appropriate cancer screening topics were discussed at a high level today; specific imaging plans were not addressed in this visit. Pneumococcal and influenza vaccination status reviewed and up to date per records.
+4. Follow up in pulmonology clinic in 4 wks or sooner if sx worsen, return precautions reviewed extensively w/ pt and wife including when to seek ED care.
+
+Pt verbalized understanding of plan, all questions answered today. Total visit time 25 min, more than half spent on counseling and coordination of care.
+
+Electronically signed: Gregory Tan, MD, Pulmonology, 06/01/2023

@@ -1,0 +1,52 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Brenda Martinez (F), DOB 3/1/1962
+Date of Service: 3/1/2024
+Author: Teresa Alvarez, NP
+
+CC: medication refills, telehealth visit.
+
+HPI: Pt is a 62 year old female presenting via video visit for routine refill of chronic meds. She reports doing reasonably well, some intermittent SOB with exertion, states her CPAP compliance is 'ok, not perfect'. Denies chest pain, denies fevers. Reports mood stable on current regimen, sleep pattern variable. No new complaints today, requests refills for depression, OSA-related, osteoporosis, COPD, GERD and HTN meds.
+
+SOCIAL HISTORY: Tobacco - patient smoked 2 packs per day for 27 years. She no longer smokes.
+
+---- COPIED FORWARD FROM VISIT DATED 11/14/2022 ----
+Pt seen for follow up of multiple chronic conditions including depression, OSA, osteoporosis, COPD, GERD, HTN. Pt reports doing fair, continues on sertraline, alendronate, tiotropium, omeprazole, lisinopril. CPAP machine in use, reports occasional mask discomfrot. No SOB at rest, ambulates without difficulty. Denies palpitations, denies edema. Review of systems otherwise negative. Exam: BP 128/78, HR 76, RR 16, satting 96% on room air. Lungs with mild expiratory wheeze bilaterally, no rales. Heart RRR no murmur. Abd soft nontender. Extremities no edema. Plan: continue current meds, f/u in 6 months, DEXA due next year, pulm function test ordered.
+---- END COPIED SECTION ----
+
+PMHx / PROBLEM LIST (ICD-10):
+1. Major depressive disorder, recurrent - F33.1
+2. Obstructive sleep apnea - G47.33
+3. Osteoporosis without current pathological fracture - M81.0
+4. Chronic obstructive pulmonary disease, unspecified - J44.9
+5. GERD - K21.9
+6. Essential hypertension - I10
+7. Seasonal allergic rhinitis - J30.2 (outdated, resolved per pt, no longer active)
+8. Iron deficiency anemia - D50.9 (outdated, resolved 2019)
+
+MEDICATIONS: Sertraline 100mg daily, alendronate 70mg weekly, tiotropium inhaler daily, omeprazole 20mg daily, lisinopril 20mg daily, calcium/vit D supplement.
+
+ALLERGIES: NKDA.
+
+VITALS (self-reported via telehealth, home BP cuff): BP 132/80, HR 78, weight 158 lbs.
+
+EXAM (limited, telehealth): Pt appears well, no acute distress, speaking in full sentences without difficulty, no visible respiratory distress on camera. Affect appropriate, mood congruent.
+
+LABS/RESULTS (reviewed today):
+- CBC (2/15/2024): WBC 6.1, Hgb 13.4, Hct 40.1, Plt 245
+- BMP (2/15/2024): Na 139, K 4.2, Cl 101, CO2 25, BUN 15, Cr 0.9, Glucose 98
+- TSH (2/15/2024): 2.1 (nl)
+- DEXA (1/10/2024): T-score -2.6 lumbar spine, consistent with osteoporosis, stable from prior
+- Spirometry (12/2023): FEV1/FVC reduced, consistent w/ obstructive pattern, moderate severity
+
+ASSESSMENT/PLAN:
+1. Depression - stable on sertraline, continue, refill x90 days, f/u prn worsening mood.
+2. OSA - continue CPAP, encourage improved adherence, refill supplies as needed.
+3. Osteoporosis - continue alendronate and calcium/vit D, repeat DEXA in 2 yrs.
+4. COPD - continue tiotropium, discussed pulmonary hygiene, advised pt to continue avoiding smoke exposure and other irritants. Tobacco cessation counseling reinforced given prior extensive smoking history; former smoker status noted, advised continued avoidance of relapse. General discussion had with pt regarding lung health and risk factors given her smoking hx; no further action taken today, will revisit topic at a future visit.
+5. GERD - continue omeprazole, no red flag sx today.
+6. HTN - well controlled on current lisinopril dose, continue, recheck home readings.
+
+Return to clinic/telehealth in 3 months or sooner if symptoms worsen. All refills sent to pharmacy of record electronically.
+
+---ADDENDUM (later same day, 3/1/2024, 4:45pm)---
+Patient called back after visit reporting she misplaced her CPAP mask and needs replacement supply order sent to DME company. Order faxed to Apnea Solutions DME per pt request. Also clarified prior note: pt confirms she is 62 years old, no acute issues at this time. No changes to plan otherwise.

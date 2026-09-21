@@ -1,0 +1,70 @@
+TELEHEALTH VISIT NOTE
+Patient: Gregory Henderson | DOB: 03/20/1965 | Age: 59 | Sex: M
+Date of Service: 04/13/2024
+Provider: Julia Brennan, MD - Family Medicine
+Visit type: Annual Wellness Visit (video encounter)
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI: Mr. Henderson is a 59-year-old male presenting via telehealth for his annual wellness visit. He reports feeling generally well. He continues to use his CPAP for OSA most nights, states compliance is "okay, not perfect." No chest pain, no new dyspnea. He takes allopurinol for gout without recent flares. Blood pressure has been stable on his current regimen per home readings. He denies dysuria, denies joint swelling currently. He asks about whether he still needs any additional screening tests given his history.
+
+--- COPIED FORWARD FROM VISIT DATED 11/02/2021 (retained in error, not reviewed/updated this visit) ---
+PT PRESENTS FOR F/U OSA AND HTN. Pt reports snoring improved with CPAP, wife states less nighttime gasping. Gout flare in left great toe resolved with colchicine course finished 10/2021. BP today 138/86, HR 76. Denies CP/SOB. Continue lisinopril 20mg daily, continue CPAP. Uric acid level pending from last visit, will follow up. Pt was counseled extensively on diet, weight loss, and reducing purine-rich foods. Discussed alcohol moderation. Plan: recheck BP in 3 months, repeat BMP and uric acid level, continue current meds, f/u PRN or in 6 months for routine visit. Pt verbalized understanding and agreement with plan.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Smoking status: Not currently smoking
+Cigarettes per day (when smoking): approx 10 cigs/day (about half a pack per day)
+Years smoked: Not on file
+Quit date: May 2014
+Smokeless tobacco: Never
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Walks periodically, not structured
+
+Assessment/Plan note re: tobacco: Patient confirms he quit smoking in May 2014 and has remained smoke-free since. Prior to quitting he smoked about half a pack a day. No current tobacco use reported. Continued abstinence encouraged; reinforced positive impact of remaining smoke-free on cardiovascular and respiratory health, particularly given his OSA and HTN.
+
+Lung cancer screening was briefly discussed given his smoking history; further discussion regarding screening guidelines and shared decision-making to be continued at a future visit as needed.
+
+PROBLEM LIST (with ICD-10 codes):
+1. Obstructive sleep apnea (G47.33) - active, on CPAP
+2. Essential hypertension (I10) - active, on lisinopril
+3. Gout (M10.9) - active, intermittent flares, on allopurinol
+4. Tobacco use disorder (Z87.891) - history of, in remission - former smoker
+5. Hyperlipidemia (E78.5) - outdated entry, last addressed 2019, not discussed today
+6. GERD (K21.9) - outdated entry, last addressed 2018, not discussed today
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight change. Cardiac: denies chest pain, palpitations. Respiratory: denies cough, denies hemoptysis, denies current dyspnea at rest. Musculoskeletal: denies active joint pain today. All other systems reviewed and negative unless noted above.
+
+VITALS (via home cuff reported today): BP 132/84, HR 72, Wt 198 lb, Ht 5'10", BMI 28.4
+
+PHYSICAL EXAM (limited, telehealth):
+General: Well-appearing male, no acute distress, appropriate for video encounter.
+HEENT: No visible distress, no obvious oropharyngeal abnormality noted on camera.
+Cardiovascular: Unable to auscultate via telehealth; patient denies symptoms.
+Respiratory: No visible respiratory distress, speaking in full sentences.
+Extremities: No visible swelling of great toe or other joints on camera.
+
+ASSESSMENT:
+1. Obstructive sleep apnea - stable on CPAP, continue current therapy, reinforce adherence.
+2. Hypertension - well controlled on current regimen based on home readings.
+3. Gout - no active flare, continue allopurinol, reinforce dietary modification.
+4. Former tobacco use - confirmed quit May 2014, prior use approx half pack per day; continue to reinforce abstinence.
+5. Health maintenance - routine labs and preventive care discussed.
+
+PLAN:
+- Continue lisinopril as prescribed for HTN; recheck BP at next visit.
+- Continue CPAP nightly for OSA; discuss download of compliance data at next in-person visit.
+- Continue allopurinol for gout; check uric acid level with upcoming labs.
+- Order routine labs: CBC, CMP, lipid panel, uric acid.
+- Reinforce continued tobacco abstinence; patient verbalized no interest in resuming smoking.
+- Discussed general health maintenance screenings appropriate for age; will revisit specifics with patient at follow-up visit.
+- Follow up in 6 months or sooner if symptoms arise.
+- Patient given advice to contact office with any new symptoms in the interim.
+
+Time spent on this encounter: approximately 20 minutes, all via telehealth, discussing above issues with patient directly. Patient agreed with plan as outlined.
+
+Electronically signed: Julia Brennan, MD, 04/13/2024.

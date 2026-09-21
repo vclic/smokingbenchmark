@@ -1,0 +1,34 @@
+HISTORY AND PHYSICAL
+Patient: Mark Hughes | DOB: 02/15/1971 | Age: 53 | Sex: M
+Date of Service: 03/08/2024
+Author: Steven Park, MD (Pulmonology)
+
+CHIEF COMPLAINT: Follow-up after ED visit / hospitalization for COPD exacerbation.
+
+HPI: Mr. Hughes is a 53-year-old male with history of obesity, type 2 diabetes, peripheral artery disease, asthma, COPD, and OSA who presented to the ED last week with worsening dyspnea, increased sputum production, and wheezing, treated with nebulizers, steroids, and a short course of antibiotics, now following up in clinic for reassessment. He reports some improvement in breathing since discharge but states he still gets winded going up a flight of stairs, and he notes his cough is [inaudible] productive of yellowish sputum most mornings. He denies fever or chest pain currently. He continues to smoke; he is an active smoker at this time and has not been able to cut down significantly since discharge despite being encouraged to do so during his hospitalization. He uses his rescue inhaler more frequently than usual, up to 4 times daily.
+
+PAST MEDICAL HISTORY: Obesity, type 2 diabetes mellitus, peripheral artery disease, asthma, COPD (GOLD stage not specified in chart), obstructive sleep apnea on CPAP (compliance variable per patient report).
+
+SOCIAL HISTORY: Patient has a 22 pack-year smoking history and remains an active smoker. His spouse also smokes, and they typically smoke together in the evenings, which the patient acknowledges makes quitting more difficult. He quit drinking alcohol in 2013 and reports no alcohol use since. Denies illicit drug use. Works as a warehouse supervisor, lives with spouse in a single-family home, exposed to some dust at work per patient report.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats; reports mild fatigue. HEENT: denies sore throat, denies nasal congestion, denies ear pain. Cardiovascular: denies chest pain, denies palpitations, occasional lower extremity claudication with walking known PAD. Respiratory: positive for cough, positive for sputum production, positive for dyspnea on exertion, denies hemoptysis. GI: denies nausea, denies vomiting, denies abdominal pain, denies changes in bowel habits. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies swelling. Neuro: denies headache, denies dizziness, denies numbness or tingling. Skin: denies rash, denies lesions. Psych: denies depression, denies anxiety, though admits some stress related to recent hospitalization and ongoing smoking, quote "I no I should stop but its hard" [sic, per dictation].
+
+MEDICATIONS: Metformin 1000mg PO BID, Glipizide 5mg PO daily, Aspirin 81mg PO daily, Atorvastatin 40mg PO daily, Cilostazol 100mg PO BID, Albuterol HFA inhaler 2 puffs q4h PRN, Tiotropium 18mcg inhaled daily, Fluticasone/salmeterol 250/50 inhaled BID, Montelukast 10mg PO daily, Prednisone taper (currently on day 4 of 10, 20mg daily), Amoxicillin-clavulanate 875mg PO BID (day 5 of 7), CPAP nightly.
+
+PHYSICAL EXAM: Vitals: BP 138/86, HR 92, RR 20, Temp 98.4F, SpO2 93% on room air, Weight 248 lbs, BMI 38.2. General: obese male in no acute distress, alert and oriented x3. HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear, no exudate. Neck: no lymphadenopathy, no jugular venous distension. Cardiovascular: regular rate and rhythm, no murmurs, rubs, or gallops, distal pulses diminished bilaterally in lower extremities consistent with known PAD. Respiratory: mild expiratory wheeze bilaterally, prolonged expiratory phase, no crackles, no accessory muscle use at rest. Abdomen: obese, soft, non-tender, non-distended, normal bowel sounds. Extremities: no edema, skin intact, no ulcers noted today. Neuro: grossly intact, no focal deficits. Skin: warm, dry, no rashes.
+
+LABS/RESULTS: CBC (03/01/2024): WBC 11.2 (elevated), Hgb 14.1, Hct 42%, Plt 250. BMP (03/01/2024): Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 162. HbA1c (02/15/2024): 8.1%. Chest x-ray (03/01/2024): hyperinflated lungs consistent with COPD, no acute infiltrate. Spirometry (12/2023, prior to exacerbation): FEV1 58% predicted, FEV1/FVC ratio 0.62, consistent with moderate obstructive lung disease. ABG not repeated today.
+
+ASSESSMENT AND PLAN:
+1. COPD exacerbation, resolving - continue prednisone taper as prescribed, complete course of antibiotics, continue tiotropium and combination inhaler, follow up spirometry in 4-6 weeks once stable.
+2. Active tobacco use, 22 pack-year history - discussed smoking cessation extensively today, provided counseling on nicotine replacement therapy and referred to tobacco cessation program; discussed that his spouse also smoking is a barrier to quitting and encouraged them to consider quitting together; general topic of lung cancer screening was mentioned briefly as something to discuss further at a future visit.
+3. Asthma/COPD overlap - continue current inhaler regimen, reassess control at next visit.
+4. Type 2 diabetes mellitus - A1c 8.1%, suboptimal control, will adjust metformin dose and consider endocrinology referral if not improved.
+5. Peripheral artery disease - continue cilostazol and aspirin, vascular surgery follow-up as previously scheduled.
+6. Obesity - discussed weight management, dietary counseling referral offered.
+7. Obstructive sleep apnea - encourage CPAP compliance, will check download at next visit.
+8. Alcohol history - patient quit drinking alcohol in 2013, no current concerns.
+
+Follow up in pulmonology clinic in 4 weeks or sooner if symptoms worsen. Return to ED for chest pain, worsening shortness of breath, or fever.
+
+Steven Park, MD

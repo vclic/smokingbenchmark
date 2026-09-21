@@ -1,0 +1,79 @@
+Family Medicine Progress Note
+
+Patient: BROOKS, Lan    MRN: 49459347
+DOB: 05/16/1945    Age: 78 y.o.    Sex: Female
+Date of Service: 08/07/2023    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Lan Brooks is a 78 y.o. female who presents for routine preventive care.
+No acute complaints today. Walks 30 minutes most days. Caring for a grandchild several days a week.
+
+Past Medical History:
+Diagnosis	Date
+• GERD
+• Hyperlipidemia	2008
+• Acquired hypothyroidism
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• levothyroxine 100 mcg daily
+• pantoprazole 40 mg daily
+• atorvastatin 40 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 0.75
+    Years: 50.00
+    Pack years: 37.50
+    Types: Cigarettes
+    Quit date: 12/12/2011
+    Years since quitting: 11.7
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with husband.
+  Retired, former engineer.
+  Current e-cig user (no cigarettes).
+  EtOH: 1-2 beers/wk.
+
+Family History
+Mother - CHF, d. age 88. Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 135/69 (BP Location: Left arm, Patient Position: Sitting) | Pulse 76 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 5" | Wt 175 lb | SpO2 95% | BMI 29.06 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2020 - 2 tubular adenomas, repeat 5 yrs; Mammogram 07-May-2023 - BI-RADS 1; DEXA 2021: osteopenia; Declines Shingrix; Pneumococcal vaccine up to date.
+2. Former smoker
+   Encouraged continued abstinence.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Catherine Lindqvist, DO on 08/07/2023

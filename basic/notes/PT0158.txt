@@ -1,0 +1,42 @@
+PROGRESS NOTE
+Date of Service: 2023-03-02
+Patient: Edward Carter   DOB: 8/21/1969   MRN: 51106261
+
+SUBJECTIVE:
+CC: Annual physical
+HPI: 53M never smoker w/ T2DM, HLD here for an annual physical. Doing well; here for routine preventive care. Walks the dog daily. Trying to cut back on sweets.
+
+PMH: HLD, T2DM
+Meds: semaglutide 0.5 mg weekly; atorvastatin 20 mg daily; metformin 1000 mg BID
+Allergies: Sulfa drugs
+SH: Divorced, lives alone. Works as an electrician. No alcohol. Denies illicit drugs.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 122/75  HR: 89  RR: 14  Temp: 98.5 F  SpO2: 97% on RA  Wt: 180 lbs  BMI: 26.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Health maintenance
+   - Colonoscopy 2019 - normal; Shingrix series complete; Pneumococcal vaccine up to date.
+
+Follow up in 6 months or sooner PRN.
+
+-- AP (MD)

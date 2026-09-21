@@ -1,0 +1,63 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Family Medicine - Telehealth Visit
+DOS: 08/08/2024
+Patient: Betty Garcia, F, DOB 08/08/1967 (age 57)
+Author: Hannah Weiss, NP (resident); attending co-sign below
+
+CC: Medication refills, f/u CAD, osteoporosis, GERD
+
+HPI:
+57 yo F w/ hx CAD s/p PCI (2019), osteoporosis, GERD presents via telehealth for routine med refills. Pt reports doing well overall, no CP, no palpitations, no SOB at rest or exertion. Denies orthopnea/PND. Some occasional heartburn, worse after large meals, improved w/ current PPI dosing. No new falls, no fractures. Takes calcium/vit D supplementation as directed. Reports adherence to statin, aspirin, and beta-blocker. No new joint pain. Denies dizziness, syncope. Reviewed home BP log - readings mostly 118-128/70-78. States she has been walking 20-30 min most days, tolerates well.
+
+ROS: Constitutional - no fever, no weight loss. CV - neg per HPI. Resp - no cough, no dyspnea. GI - occasional reflux as above. MSK - no new pain. All other systems reviewed and negative unless noted above.
+
+PMH (see problem list below)
+
+Social History:
+Lives w/ husband, retired schoolteacher. Denies current EtOH use, denies illicit drug use. Tob: pt states she tried a few cigarettes as a teenager but never smoked regularly - no current or ongoing tobacco use. Occupation: retired. Exercise as noted in HPI. Diet: reports low-sodium diet, occasional lapses.
+
+Family Hx: Father - MI at age 61. Mother - osteoporosis, hip fracture at 78. (unchanged from prior visits, copied forward)
+
+Meds (reviewed and reconciled):
+- Atorvastatin 40mg qHS
+- Aspirin 81mg daily
+- Metoprolol succinate 25mg daily
+- Omeprazole 20mg daily
+- Alendronate 70mg weekly
+- Calcium carbonate/Vit D3 combo daily
+
+Allergies: NKDA
+
+Vitals (per home device, reported by pt): BP 122/76, HR 68, wt stable per pt report (no home scale data given today)
+
+Exam: Limited d/t telehealth format.
+Gen: Pt appears well, no acute distress, comfortable at home, appropriately groomed.
+CV: Pt denies chest pain on questioning, no visible distress.
+Resp: No increased work of breathing observed on camera.
+Skin: No rashes visualized.
+(Formal cardiac/pulm auscultation deferred - telehealth limitation, will obtain in-person vitals/exam at next visit)
+
+Problem List (dx codes, some legacy/outdated entries carried forward per EHR template):
+1. I25.10 - Atherosclerotic heart disease of native coronary artery w/o angina - stable, on current regimen
+2. M81.0 - Age-related osteoporosis w/o current pathological fracture - stable, on alendronate
+3. K21.9 - GERD - stable, controlled on PPI
+4. Z79.899 - Long term drug therapy (statins) - continue
+5. I10 - Essential HTN (legacy dx, pt normotensive x several visits, may reassess need for continued listing)
+6. E78.5 - Hyperlipidemia, unspecified (outdated entry, on treatment, lipid panel due)
+
+Assessment/Plan:
+57 yo F w/ CAD, osteoporosis, GERD presenting for telehealth refill visit, 08/08/2024, overall stable.
+
+1. CAD (I25.10): Asymptomatic today, denies angina equivalents. Continue ASA 81mg, atorvastatin 40mg, metoprolol succinate 25mg. Home BP log reviewed, well controlled. Will obtain lipid panel and BMP at next in-person visit. No tobacco history of concern - pt reports only minimal experimentation as teen, never a regular smoker, so ongoing tobacco cessation counseling not indicated at this time; lung cancer screening was briefly discussed given age but not further addressed today given lack of significant smoking history.
+2. Osteoporosis (M81.0): Continue alendronate 70mg weekly, calcium/vit D. No new fractures. DEXA due for repeat - will schedule.
+3. GERD (K21.9): Symptoms well controlled on omeprazole 20mg daily. Advised continued avoidance of trigger foods, no escalation needed today.
+4. HTN (I10) - legacy dx: Pt normotensive on multiple readings, will continue to monitor; may consider removing from active problem list if remains controlled off specific antihypertensive (currently on beta-blocker for cardioprotection, not solely for BP).
+5. Health maintenance: Discussed age-appropriate screening (mammogram, colonoscopy status reviewed - colonoscopy up to date per pt report). Bone density screening addressed above. Immunizations reviewed, pt up to date per report.
+6. Refills sent for all above medications, 90-day supply w/ 3 refills where appropriate.
+7. F/u in 3 months in-person for full exam, labs, and further med management. Pt instructed to call or message via portal if any chest pain, SOB, dizziness, or other concerning sx develop before then.
+
+Total time spent on visit including chart review, counseling, and documentation: approx 25 min.
+
+Attending Attestation:
+I have reviewed this encounter with Ms. Weiss, NP. I personally discussed the case with the resident/NP and agree with the assessment and plan as documented above. Patient's stable CAD, osteoporosis, and GERD management were reviewed; tobacco history clarified as minimal (few cigarettes as teenager only, never a regular smoker) and does not warrant cessation counseling at this time. Plan reviewed and endorsed.
+- Dr. Attending Physician (attestation on file)

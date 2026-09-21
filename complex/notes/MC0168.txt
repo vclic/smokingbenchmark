@@ -1,0 +1,71 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+DOS: 03/25/2026
+Patient: Ronald Rodriguez, M, DOB 03/25/1972 (age 54)
+Author: Julia Brennan, MD
+
+CC: AWV, review chronic conditions - GERD, AFib, OA, COPD, obesity.
+
+HPI: Pt is a 54 y/o M here for routine annual exam. Reports doing reasonably well overall. Occasional heartburn, controlled on PPI. AFib stable on rate control, no palpitations recently. Knee pain intermittent, using OTC NSAIDs prn. COPD - denies increased dyspnea, no recent exacerbations, using inhalers as prescribed. Wt stable, discussing diet/exercise.
+Smoking hx reviewed in detail: pt is a former smoker. Started smoking as young adult, initially 1 pack per day for 4 years, then increased to 2 packs per day for 5 years, then cut back to 1.5 packs per day for 4 years before ultimately quitting entirely. Pt quit smoking 3 years after his heart attack, which occurred in 2002. No tobacco use since quitting. No current use of e-cigs or other tobacco products.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 09/14/2023 ----
+HPI (from 09/14/2023 visit): Pt c/o occasional reflux sx, worse at night, taking omeprazole 20mg qday w/ some relief. AFib - on apixaban, no bleeding events, no syncope. OA of knees b/l, managing w/ activity modification. COPD stable on tiotropium, no O2 requirement. Denies chest pain, SOB at rest. Wt 245 lb, BMI 34.2. Continue current regimen, f/u in 6 months.
+ROS at that time: (+) occasional GERD sx, (-) hemoptysis, (-) hematochezia, (-) syncope, (-) fevers/chills. Physical exam at that time: NAD, lungs w/ mild expiratory wheeze b/l, heart irregularly irregular rate, abd soft NT/ND, extrem no edema.
+---- END COPIED SECTION ----
+
+PMH: GERD, atrial fibrillation (dx ~2015), osteoarthritis (knees, hips), COPD (dx 2010), obesity, s/p MI in 2002 (managed medically, no stent placed at that time per pt report).
+
+PSH: None significant.
+
+FH: Father - CAD, deceased age 70. Mother - DM2, HTN. Sibling - COPD.
+
+SH: Former smoker (see HPI above for detailed pack-year history). Denies current alcohol use, occasional social drinking. Denies illicit drug use. Lives w/ spouse, retired mechanic. Denies occupational exposures currently, though hx of some exposure to fumes/dust in prior work as mechanic.
+
+Allergies: NKDA.
+
+Medications:
+1. Apixaban 5mg PO BID
+2. Omeprazole 20mg PO qday
+3. Tiotropium inhaler 1 puff qday
+4. Albuterol MDI prn SOB/wheeze
+5. Metoprolol succinate 50mg PO qday
+6. Atorvastatin 40mg PO qhs
+7. Acetaminophen 500mg prn pain
+8. Ibuprofen 400mg prn pain (knee)
+9. Vitamin D3 2000 IU qday
+10. Multivitamin qday
+
+ROS: Constitutional - denies fever, chills, unintentional wt loss. HEENT - denies vision changes, hearing changes, sore throat. CV - denies chest pain, orthopnea, PND, does note occasional palpitations resolved spontaneously. Resp - denies acute SOB, denies hemoptysis, chronic cough stable. GI - occasional reflux, denies nausea/vomiting, denies blood in stool. GU - denies dysuria, denies hematuria. MSK - chronic knee pain, denies acute injury. Skin - denies rashes, denies lesions. Neuro - denies HA, denies focal weakness, denies numbness/tingling. Psych - denies depression, denies anxiety. Endo - denies polyuria, polydipsia. Heme - denies easy bruising, denies bleeding.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, T 98.4F, SpO2 94% RA, Wt 242 lb, Ht 5'10", BMI 34.7
+Gen: NAD, well-appearing, obese habitus.
+HEENT: NC/AT, PERRLA, oropharynx clear, no thyromegaly.
+CV: Irregularly irregular rhythm, no murmurs appreciated, no JVD.
+Resp: Mild expiratory wheeze bilaterally, no crackles, no use of accessory muscles.
+Abd: Soft, NT/ND, +BS, no HSM.
+Extrem: No edema, pulses 2+ bilaterally.
+Skin: No rashes or lesions noted.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: Mood/affect appropriate.
+
+Labs/Results (reviewed today):
+CBC (03/20/2026): WBC 6.8, Hgb 14.2, Hct 42.1, Plt 245
+CMP (03/20/2026): Na 140, K 4.3, Cl 102, CO2 25, BUN 18, Cr 1.0, Glucose 98
+Lipid panel (03/20/2026): TC 178, LDL 98, HDL 42, TG 190
+HbA1c (03/20/2026): 5.7%
+TSH (03/20/2026): 2.1
+PFTs (last done 01/15/2025): FEV1/FVC 62%, consistent w/ moderate obstruction, stable from prior.
+
+Assessment/Plan:
+1. GERD - stable, continue omeprazole, counsel on diet/lifestyle.
+2. Atrial fibrillation - stable on apixaban and metoprolol, continue current regimen, EKG today reviewed, rate controlled.
+3. Osteoarthritis - continue prn NSAIDs/APAP, consider PT referral if worsens.
+4. COPD - stable, continue tiotropium/albuterol, discussed smoking cessation history and importance of continued abstinence, pt reassured this is not currently an issue as he quit years ago. Lung cancer screening options discussed with patient given hx, pt to consider and follow up.
+5. Obesity - discussed diet, exercise, referred to nutrition.
+6. Health maintenance - UTD on immunizations, colonoscopy due, ordering referral.
+
+F/u in 6 months or sooner if concerns.
+
+---- ADDENDUM (later same day, 03/25/2026, 4:15pm) ----
+Addendum by Dr. Brennan: Spoke with pt again by phone this afternoon re: labs, all stable, no changes to plan. Pt reports understanding of plan and will schedule colonoscopy referral appt. Reiterated importance of continued smoking abstinence given h/o COPD and prior MI. No new concerns voiced by pt at this time.

@@ -1,0 +1,44 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Dorothy Williams DOB 2/22/1964 (age 61)
+DOS: 02/22/2025
+Author: Rachel Goldberg, MD
+
+CC: chest pain eval
+
+HPI: Pt is a 61 yo female w hx HFrEF, HTN, CAD presenting for f/u eval of intermittent chest pressure x 2 wks non-exertional at times exertional w minimal walking, no radiaion to jaw, assoc SOB, denies diaphoresis. Pt states pain [inaudible] comes and goes lasts maybe 5-10 min resolves with rest sometimes doesnt she also notes some fatigue and ankle swelling worse in evenings which she attributes to her heart failure meds not being adjusted recently, no PND no orthopnea per pt though husband states she sleeps propped on 2 pillows. No fevers no cough. Reviewed prior echo results w pt today.
+
+PMH: HFrEF, hypothyroidism, obesity, HTN, BPH, CAD s/p stent 2018
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Former smoker
+ Smoking status: Quit
+ Alcohol use: Not on file
+ Drug use: Denies
+ Occupation: Retired (previously admin assistant)
+ Living situation: Lives w husband
+
+ROS: otherwise negative except as above, denies n/v, denies leg pain at rest
+
+VITALS: BP 148/86 HR 78 RR 16 SpO2 96% RA Wt 212 lb
+
+EXAM: Gen - NAD obese female in no distress. CV - RRR, S3 present, no murmur appreciated. Lungs - bibasilar crackles trace. Ext - 1+ pitting edema bilat.
+
+LABS/RESULTS:
+ BNP 02/22/2025: 620 pg/mL (elevated)
+ TSH 01/15/2025: 3.1 mIU/L (WNL on levothyroxine)
+ BMP 02/22/2025: Na 138, K 4.2, Cr 1.0, eGFR >60
+ Troponin 02/22/2025: <0.01 ng/mL x1
+ Echo 12/2024: EF 35%, mild MR, LA enlargement
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely multifactorial - r/o ACS w serial troponin, EKG today unremarkable no acute ST changes. Will trend BNP given elevation, consider repeat echo. Pt has a 60 pack-year smoking history, she quit smoking in 2020 when she retired, this remains a significant risk factor for her CAD and will be documented for future risk stratification. Lung cancer screening was discussed with pt today given her tobacco hx.
+2. HFrEF - continue GDMT, will uptitrate carvedilol as tolerated, monitor renal fxn and lytes
+3. HTN - BP still elevated today will add low dose amlodipine
+4. Hypothyroidism - TSH at goal continue current levothyroxine dose
+5. Obesity - counseled on diet and exercise as tolerated given cardiac status
+6. BPH - stable continue tamsulosin, no urinary retention sx today
+7. CAD - continue statin and aspirin, f/u in cardiology clinic in 4 wks or sooner if sx worsen
+
+Pt verbalizes understanding of plan, all questions answered, will call if worsening sx develop return precautions given.
+
+Rachel Goldberg, MD

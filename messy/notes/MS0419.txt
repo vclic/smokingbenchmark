@@ -1,0 +1,34 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Patricia Flores | DOB: 2/11/1953 | Age: 72 | Sex: F
+Date of Service: 08/27/2025
+Provider: Rachel Goldberg, MD (Resident); Attending attestation below
+Visit Type: New patient visit to establish care - Primary Care
+
+HPI: Ms. Flores is a 72-year-old woman presenting to establish care. She reports a history of COPD, asthma, hyperlipidemia, atrial fibrillation, and peripheral artery disease, previously managed elsewhere. She states, "I get short of breath walking up the stairs, but it's been about the same for a while." She denies chest pain at rest, orthopnea, or PND. She reports intermittent claudication in her calves with ambulation greater than two blocks. She endorses ongoing cigarette use and states, "I know I should quit, I've set a date to stop next month." She denies alcohol or illicit drug use.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+Type: Cigarettes
+Quit date planned: 09/18/2025
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Cardiovascular: denies chest pain, palpitations noted intermittently per Afib history. Respiratory: chronic cough, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, hematuria. Musculoskeletal: denies joint pain. Neuro: denies focal weakness, numbness. Skin: denies rash. All other systems reviewed and negative.
+
+MEDICATIONS: Atorvastatin 40mg daily, Albuterol inhaler PRN, Tiotropium inhaler daily, Fluticasone/salmeterol inhaler BID, Apixaban 5mg BID, Metoprolol succinate 50mg daily, Cilostazol 100mg BID, Aspirin 81mg daily.
+
+PHYSICAL EXAM: General: alert, no acute distress. HEENT: normocephalic, atraumatic, no scleral icterus. Neck: no JVD, no lymphadenopathy. Cardiovascular: irregularly irregular rhythm, no murmurs. Lungs: mild expiratory wheeze bilaterally, no crackles. Abdomen: soft, non-tender, non-distended. Extremities: diminished dorsalis pedis pulses bilaterally, no edema. Skin: warm, dry.
+
+LABS/RESULTS: Lipid panel 08/20/2025: LDL 138 mg/dL, HDL 42 mg/dL, TG 150 mg/dL. CBC 08/20/2025: WNL. BMP 08/20/2025: WNL. INR 08/25/2025: 2.3 (therapeutic).
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder - 48 pack-year smoking history, current smoker. Counseled on cessation resources; patient plans to quit on 09/18/2025. Continue to discuss options at future visits.
+2. COPD/Asthma - continue current inhalers, monitor symptoms.
+3. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 3 months.
+4. Atrial fibrillation - continue apixaban and metoprolol, INR/rhythm monitoring as appropriate.
+5. Peripheral artery disease - continue cilostazol and aspirin, vascular follow-up as needed.
+
+Attending Attestation: I have personally examined the patient and reviewed the resident's note with Dr. Goldberg; I agree with the assessment and plan as documented above.

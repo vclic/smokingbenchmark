@@ -1,0 +1,63 @@
+PROGRESS NOTE - HOSPITAL DISCHARGE FOLLOW-UP
+Patient: Terrence Powell, M, DOB 6/10/1957 (age 68)
+Date of Service: 08/14/2025
+Author: Kevin Osei, MD (Primary Care)
+
+CC: F/u s/p recent hospitalization for pneumonia.
+
+HPI: Pt is a 68 yo male who presents for f/u after recent d/c from hospital for CAP, tx w/ IV abx, transitioned to PO levofloxacin, completed course w/o issue. Reports improved energy, cough much better, though still some scant white sputum in AM, denies fever, chills, hemoptysis. Wife states he 'sounds less wheezy' than prior to admission. Pt continues to use nightly CPAP for his OSA, tolerates it ok though says mask 'leaks air when I [inaudible] roll over.' No CP, no palpitations, appetite improving, ambulating around house without significant dyspnea now. He denies any SOB at rest currently.
+
+ROS: Otherwise negative except as above. Pos for occasional joint pain in great toe c/w known gout, no active flare today. Mood reportedly stable on current regimen per pt and wife, sleep 'ok' with CPAP.
+
+SOCIAL HISTORY: Pt reports he is an active smoker, currently smoking cigarettes daily. He also vapes occasionally, per pt 'just when I run out of real ones or at work.' Denies current alcohol or illicit drug use. Lives with wife, retired from warehouse work.
+
+PMH/Problem List (ICD-10):
+- J44.9 COPD, unspecified
+- G47.33 Obstructive sleep apnea
+- M10.9 Gout, unspecified
+- F32.9 Major depressive disorder, unspecified (note: dx from 2019, may need updated coding to recurrent episode per last psych note)
+- J18.9 Pneumonia, unspecified organism - resolving, recent hospitalization 07/2025
+- I10 Essential hypertension (outdated entry, pt reports BP has been normal off meds x 2 yrs, consider removing)
+
+MEDICATIONS:
+- Allopurinol 300 mg daily
+- Tiotropium inhaler daily
+- Albuterol PRN
+- Sertraline 100 mg daily
+- Completed levofloxacin course 07/2025 for CAP
+
+ALLERGIES: NKDA
+
+VITALS (08/14/2025): BP 128/78, HR 76, RR 16, T 98.4F, SpO2 94% RA, Wt 198 lb
+
+LABS/RESULTS:
+- CBC (08/01/2025, inpt): WBC 11.2 (improved from 15.8 on admission), Hgb 13.9, Plt 244
+- BMP (08/01/2025): Na 138, K 4.1, Cl 101, CO2 25, BUN 18, Cr 1.0, Glc 102
+- CXR (07/29/2025, inpt): RLL infiltrate, improving on repeat film 08/01/2025
+- Uric acid (06/2025): 7.8, slightly elevated, consistent w/ gout hx
+- Sleep study (2022, on file): AHI 22, moderate OSA, pt on CPAP since
+
+PHYSICAL EXAM:
+Gen: NAD, comfortable, conversant
+HEENT: NC/AT, oropharynx clear
+Neck: no LAD, no JVD
+Lungs: mild exp wheeze bilat bases, improved from last visit, no crackles currently appreciated, good air movement
+CV: RRR, no m/r/g
+Abd: soft, NT/ND, +BS
+Ext: no edema, first MTP jt w/o erythema or swelling today
+Neuro: A&Ox3, gait steady
+Psych: mood euthymic, affect appropriate
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving (J18.9) - clinically improved s/p recent hosp course, CXR trending better, will not repeat imaging unless sx recur or worsen. Continue supportive care, incentive spirometry at home, f/u prn.
+2. COPD (J44.9) - pt has a 21 pack-year smoking history, remains an active smoker as noted above. Continue tiotropium and albuterol PRN. Strongly advised to quit smoking given COPD and recent pneumonia admission; discussed cessation resources including nicotine replacement and counseling, pt states 'I know doc, I'm trying to cut back.' Also counseled regarding vaping given occasional use, advised against substituting one nicotine product for another. Lung cancer screening was discussed in general terms with pt, no further action re: imaging planned at this visit.
+3. OSA (G47.33) - continues CPAP nightly, will address mask fit issue, refer back to DME company for mask refitting.
+4. Gout (M10.9) - no active flare, continue allopurinol, uric acid mildly elevated on last check, recheck at next visit.
+5. Depression (F32.9) - stable on sertraline, mood euthymic today per pt and exam, continue current dose, f/u with psychiatry as previously scheduled.
+6. HTN (I10) - outdated dx, pt normotensive off meds x2 yrs per report and today's vitals, will consider removing from active problem list pending further review, no meds needed at this time.
+
+Follow-up: RTC in 4 weeks or sooner if worsening sx. Pt encouraged to call if fever, increased SOB, chest pain, or other concerning symptoms develop.
+
+Time spent: 25 min, >50% counseling/coordination of care re: smoking cessation, COPD mgmt, and OSA follow up.
+
+Electronically signed: Kevin Osei, MD

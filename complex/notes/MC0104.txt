@@ -1,0 +1,44 @@
+Pulmonology Progress Note
+DOS: 06/15/2026
+Author: Catherine Lindqvist, DO (NP progress note)
+
+Patient: Diane Lewis, F, DOB 6/15/1946 (age 80)
+
+CC: f/u incidental lung nodule
+
+HPI: Pt returns for f/u of incidental pulm nodule found on prior CT chest, ordered for eval of chronic cough. reports no new chest pain, no hemoptysis, mild dyspnea on exertion, baseline per pt. Denies fevers, night sweats, wt loss. hx CAD, obesity, COPD c/b occasional exacerbations, last one ~4 mo ago tx w/ prednisone/abx as outpt.
+
+ROS: otherwise negative except as above. + occasional wheeze, no orthopnea.
+
+PMH: CAD s/p stent, obesity, COPD
+Meds: albuterol PRN, atorvastatin, aspirin, tiotropium
+Allergies: NKDA
+
+--- SOCIAL HISTORY (templated) ---
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Smoking history detail: Pt smoked a quarter pack (about 5 cigarettes) per day for 28 years, then stopped completely for 8 years, then restarted smoking at half a pack (about 10 cigarettes) per day for 28 years and continues to smoke at that rate currently.
+Readiness to quit: Not ready to quit at this time
+Alcohol: Not on file
+Drug use: Not on file
+Occupation: retired, Not on file
+Living situation: 
+Exercise: 
+--- END SOCIAL HISTORY ---
+
+Pt counseled extensively today re: ongoing tobacco use and its role in COPD progression and nodule risk. she verbalizes understanding but states she is not ready to quit at this time, declines referral to tobacco cessation program today, will keep information on hand.
+
+Exam: Vitals stable, afebrile. BMI elevated c/w obesity. Lungs: diminished breath sounds bilat, scattered expiratory wheeze, no crackles. CV: RRR, no m/r/g. Ext: no edema.
+
+Imaging review: prior CT chest reviewed, stable small pulm nodule unchanged in size compared to baseline study.
+
+Assessment/Plan:
+1. Incidental lung nodule - stable appearance, will cont surveillance imaging per protocol. Screening options for lung ca discussed generally with pt, no imaging ordered today for that purpose.
+2. COPD - continue current inhalers, reviewed technique, f/u prn exac
+3. Tobacco use, current, not ready to quit - counseled, cessation resources offered again, declined today
+4. CAD - stable, cont statin/ASA, f/u w cardiology per their sched
+5. Obesity - discussed diet/exercise, pt aware
+
+RTC 3 months or sooner if sx worsen. Pt verbalized understanding of plan.
+
+-Catherine Lindqvist, DO

@@ -1,0 +1,86 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: Carlos O'Brien
+DOB: 01/23/1972 (Age: 51)
+Sex: M
+Date of Service: 05/20/2023
+Author: Farah Siddiqui, MD
+
+Reason for Visit: Lung cancer screening shared decision-making visit, referred by PCP given cardiopulmonary risk factors and family concerns about lung cancer.
+
+HPI: Mr. O'Brien is a 51-year-old male with history of obesity, heart failure with reduced ejection fraction, GERD, and obstructive sleep apnea who presents today for a shared decision-making discussion regarding lung cancer screening. He states he saw information online about low-dose CT scans and wanted to discuss whether this would be appropriate for him. He denies cough, hemoptysis, unintentional weight loss, or chest pain. He reports mild exertional dyspnea at baseline, stable, attributed to his known HFrEF and OSA. He denies fevers, night sweats. He has been compliant with CPAP per his report, though he admits some nights he does not tolerate the mask well. No recent hospitalizations. He is accompanied today by his wife.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker - lifelong non-smoker.
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: Occasional, reports 1-2 drinks/week
+Drug use: Denies
+Occupation: Warehouse supervisor
+Living situation: Lives with spouse
+Exercise: Not on file
+
+When discussing his tobacco history directly with the patient, he confirmed he has never smoked cigarettes, cigars, or pipes at any point in his life and has no history of vaping or e-cigarette use. He was somewhat puzzled by the referral for lung cancer screening discussion given this history and stated his PCP wanted to be thorough given his other comorbidities and family history (father with lung cancer at age 68, though father was a heavy smoker).
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. E66.9 - Obesity, unspecified
+2. I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+3. K21.9 - Gastro-esophageal reflux disease without esophagitis
+4. G47.33 - Obstructive sleep apnea
+5. I10 - Essential hypertension (outdated entry, patient reports BP now well controlled without medication changes in over a year)
+6. E78.5 - Hyperlipidemia (outdated, last lipid panel reviewed 2021)
+7. M54.5 - Low back pain (chronic, stable, outdated entry from 2019)
+
+MEDICATIONS:
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Furosemide 40 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Omeprazole 40 mg PO daily
+6. Atorvastatin 40 mg PO daily
+7. Aspirin 81 mg PO daily
+8. Multivitamin PO daily
+9. Vitamin D3 2000 IU PO daily
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss/gain.
+Eyes: Denies vision changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea (stable, at baseline PND controlled on current regimen).
+Respiratory: Reports mild exertional dyspnea, stable. Denies cough, hemoptysis, wheezing.
+GI: Reports occasional heartburn, well controlled on omeprazole. Denies nausea, vomiting, diarrhea, constipation, hematochezia.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Reports chronic low back pain, stable, no new complaints.
+Skin: Denies rash, lesions.
+Neurological: Denies headache, dizziness, syncope, focal weakness.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, bleeding, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 74, RR 16, SpO2 96% on room air, Temp 98.4F, BMI 34.2
+General: Well-developed, well-nourished male in no acute distress, obese habitus.
+HEENT: Normocephalic, atraumatic. Oropharynx clear, no erythema or exudate.
+Neck: No jugular venous distension appreciated. No lymphadenopathy. No thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated. No peripheral edema.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi. No accessory muscle use.
+Abdomen: Obese, soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No cyanosis, clubbing, or edema. Pulses 2+ bilaterally.
+Skin: Warm, dry, intact, no rash.
+Neurological: Alert and oriented x3, no focal deficits.
+Psychiatric: Mood and affect appropriate.
+
+ASSESSMENT AND PLAN:
+Mr. O'Brien is a 51-year-old male referred for shared decision-making discussion regarding lung cancer screening in the setting of multiple cardiopulmonary comorbidities and family history of lung cancer in his father. Given his tobacco history as discussed above, we reviewed current guidelines for low-dose CT lung cancer screening in detail, including the role of smoking history in determining who may benefit from such screening. We discussed the risks and benefits of screening broadly, including false positives, incidental findings, and radiation exposure. The patient understood the discussion and had no further questions today; no imaging was ordered as part of today's visit. He was counseled on continued CPAP adherence for his OSA and the importance of weight management given his obesity and HFrEF. He was encouraged to continue current cardiac medications without interruption and to follow up with cardiology as previously scheduled.
+
+1. Lung cancer screening shared decision-making - discussed today, see above; will defer further action per discussion.
+2. HFrEF - stable on current regimen, continue carvedilol, lisinopril, furosemide, spironolactone. Will obtain repeat echocardiogram at next cardiology visit.
+3. GERD - well controlled on omeprazole, continue current dose.
+4. OSA - continue CPAP, reinforce adherence counseling, review mask fit at next visit given reported intolerance some nights.
+5. Obesity - discussed weight management strategies, referral to nutrition considered.
+
+Follow up in 6 months or sooner if symptoms arise. Patient verbalized understanding of plan.
+
+Electronically signed by Farah Siddiqui, MD

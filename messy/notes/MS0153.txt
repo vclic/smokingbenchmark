@@ -1,0 +1,29 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Lan Lopez, F, DOB 11/28/1963 (age 62)
+Date of Service: 11/28/2025
+Provider: Elena Markovic, MD (NP visit)
+
+CC: Heart failure follow-up.
+
+HPI: Ms. Lopez returns for routine CHF follow-up. She reports stable dyspnea on exertion, no PND/orthopnea, mild bilateral ankle edema. Denies chest pain. Diet compliance fair. She continues to monitor weight daily.
+
+Social Hx: Smoking status: Never Smoker [templated field auto-populated - this is INCORRECT, see below]. Patient actually has a 39 pack-year smoking history; she quit smoking in June 2014. Alcohol: patient quit drinking alcohol in 2010, denies current use. No illicit drug use reported.
+
+[Copied from note dated 4/28/2024]: "Smoking status as of that visit: former smoker." No quantitative details were recorded in that prior note.
+
+ROS: Constitutional - no fever, no weight loss. Cardiac - as above. Resp - mild wheeze, no hemoptysis. GI - no nausea/vomiting, no abd pain. GU - no dysuria. MSK - PAD-related claudication stable, no new ulcers. Endocrine - no polyuria/polydipsia. All other systems reviewed and negative.
+
+Physical Exam: Vitals: BP 132/78, HR 76, RR 16, SpO2 96% RA, Wt 78kg. Gen - NAD. CV - RRR, S1S2, no S3, mild pitting edema bilateral ankles. Lungs - mild expiratory wheeze bilaterally, no crackles. Abd - soft, non-tender. Ext - PAD changes noted, cool distal extremities, pulses diminished but palpable. Skin - no ulcers.
+
+Labs (11/26/2025): BNP 210 pg/mL, Na 139, K 4.2, Cr 1.0, HbA1c 7.2% (drawn 10/15/2025), Lipid panel WNL.
+
+Problem List:
+- I50.9 Heart failure, unspecified
+- E11.9 Type 2 diabetes mellitus
+- J45.909 Asthma, unspecified, uncomplicated
+- I73.9 Peripheral artery disease, unspecified
+- I10 Essential hypertension (outdated, resolved per pt, remains on list)
+
+Medications: Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Metformin 1000mg BID, Albuterol HFA PRN, Atorvastatin 40mg daily, Aspirin 81mg daily, Cilostazol 100mg BID.
+
+Assessment/Plan: 62F w/ HFrEF, stable today. Continue current regimen, recheck BNP in 3 months. Counseled on continued smoking cessation maintenance given significant prior tobacco history, praised for sustained abstinence since 2014. Diabetes well-controlled, continue metformin. PAD stable, continue cilostazol. F/u 3 months or sooner if symptoms worsen.

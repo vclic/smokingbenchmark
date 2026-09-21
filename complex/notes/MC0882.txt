@@ -1,0 +1,49 @@
+TELEHEALTH URGENT CARE VISIT
+Date of Service: 10/18/2024
+Provider: Hannah Weiss, NP
+
+Patient: Nancy Thompson, F, DOB 08/06/1966 (age 58)
+
+CHIEF COMPLAINT: Cough x5 days.
+
+HPI: Pt is a 58 y/o female with hx HFrEF, afib, PAD, and CKD stage 3 who presents via telehealth for cough, nonproductive, worse at night. No fever, no chest pain. Denies hemoptysis. Reports mild SOB at baseline, not acutely worse per pt.
+
+--- COPIED FORWARD FROM VISIT 03/14/2022 ---
+Pt seen in clinic for follow-up of CHF exacerbation. Weight stable at 168 lbs. Lower extremities with trace edema. Lungs clear to auscultation bilaterally. Pt reports adherence to low-sodium diet. Denies chest pain, palpitations. Will continue current medical regimen and follow up in 3 months. INR at goal 2.3. Pt counseled on fall precautions given anticoagulation.
+--- END COPIED TEXT ---
+
+TOBACCO USE (EHR template):
+Smoking status: Former smoker.
+History: Pt started smoking 2.5 packs per day at age 15, continued at that rate until quitting in 1991. Pt reports she quit smoking 2 years after moving to this state, which occurred in 1989.
+Current use: None.
+Counseling: N/A - former smoker, encouraged continued abstinence.
+
+ROS: Constitutional - no fever/chills. HEENT - no sore throat, no rhinorrhea. Cardiac - no chest pain, no palpitations, occasional mild dyspnea on exertion at baseline. Respiratory - cough as above, no wheeze reported by pt. GI - no nausea/vomiting/diarrhea. GU - no dysuria. MSK - no joint pain. Neuro - no focal weakness. Skin - no rash. Psych - no acute mood changes. All other systems reviewed and negative per pt report.
+
+PHYSICAL EXAM (limited, telehealth): General - appears well, no distress. HEENT - oropharynx clear per pt-facilitated view. Neck - no visible JVD appreciated on camera. Cardiac - unable to auscultate via telehealth. Resp - pt coughs intermittently during call, no audible wheeze via speaker. Extremities - pt reports no new swelling.
+
+LABS/RESULTS:
+- BNP (09/30/2024): 410 pg/mL
+- Creatinine (09/30/2024): 1.6 mg/dL (baseline for CKD3)
+- INR (10/15/2024): 2.4
+- Potassium (10/15/2024): 4.3 mmol/L
+
+MEDICATIONS:
+1. Metoprolol succinate 50mg daily
+2. Furosemide 40mg daily
+3. Apixaban 5mg BID
+4. Sacubitril-valsartan 24/26mg BID
+5. Spironolactone 12.5mg daily
+6. Atorvastatin 40mg daily
+7. Cilostazol 100mg BID
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs post-nasal drip - supportive care, honey/lozenges, follow up if worsening dyspnea, fever, or hemoptysis.
+2. HFrEF - stable per report, continue GDMT, no acute exacerbation signs today.
+3. Afib - continue apixaban, INR/anticoag monitoring per anticoag clinic.
+4. PAD - continue cilostazol, reinforce foot care.
+5. CKD stage 3 - stable, monitor renal function.
+Tobacco history discussed; lung cancer screening was discussed generally as part of preventive care conversation.
+Follow up with PCP in 2 weeks or sooner if symptoms worsen.
+
+Hannah Weiss, NP

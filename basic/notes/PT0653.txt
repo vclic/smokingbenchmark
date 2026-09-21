@@ -1,0 +1,82 @@
+Pulmonology Progress Note
+
+Patient: OKAFOR, Donna    MRN: 24716464
+DOB: 02/14/1954    Age: 70 y.o.    Sex: Female
+Date of Service: 04/30/2024    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• SOB
+
+Subjective:
+Donna Okafor is a 70 y.o. female who presents for follow-up of COPD.
+Baseline dyspnea after walking 1-2 blocks. She admits today that the 'never smoker' entry in her chart is incorrect. She is a current smoker; she has smoked half a pack a day since she was 17. No exacerbations in the past year. Using albuterol daily lately. Cough productive of white sputum.
+
+Past Medical History:
+Diagnosis	Date
+• T2DM without complication
+• COPD
+• OSA
+• CKD stage 3
+• HFrEF	2000
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumpectomy, benign (2017)
+• C-section x2
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• vitamin D3 2000 IU daily
+• albuterol HFA 2 puffs q4-6h PRN
+• metoprolol succinate 50 mg daily
+• metformin 1000 mg BID
+• torsemide 20 mg daily
+• empagliflozin 10 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with daughter.
+  Retired farmer.
+  Social drinker.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: GU neg, CV neg, MSK neg, Skin neg, Resp +
+
+Objective:
+Vitals:
+  BP 120/77 (BP Location: Right arm, Patient Position: Sitting) | Pulse 78 | Temp 98.6 °F (Oral) | Resp 20 | Ht 5' 2" | Wt 121 lb | SpO2 89% | BMI 22.05 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. COPD
+   Stable. Continue maintenance inhaler; rescue albuterol PRN. Pneumococcal and RSV vaccines reviewed.
+2. OSA
+   Using CPAP nightly.
+3. CKD stage 3
+   Cr stable. Avoid NSAIDs.
+4. T2DM without complication
+   Repeat A1c in 3 months. Annual eye exam reminder.
+
+f/u 3 mo
+
+Electronically signed by Daniel Reyes, MD on 04/30/2024

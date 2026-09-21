@@ -1,0 +1,66 @@
+GERIATRICS RESIDENT NOTE
+Patient: Walter White | DOB: 1/23/1965 | Age: 60 | Sex: M
+Date of Service: 1/23/2025
+Author: Daniel Reyes, MD (resident) — attending attestation below
+
+CC: Geriatric assessment, f/u AFib and gout.
+
+HPI: 60 yo M with h/o AFib on anticoag, gout, here for comprehensive geriatric eval. Pt ambulatory, lives independently w/ wife. No falls, no acute complaints today. Denies chest pain, palpitations; reports occasional joint discomfort in great toe, improved since last flare. Sleep fair, appetite good. Reviewed meds, no new SEs reported.
+
+=== COPIED FORWARD FROM VISIT 9/23/2021 (NOT UPDATED) ===
+SOCIAL HX (as of 9/23/2021): Pt is a current smoker. Denies EtOH. Lives w/ spouse, retired chemistry teacher. Exercise: walks daily. No illicit drug use reported. Denies occupational exposures. Housing stable. F/u in 6 mo for routine geriatric care.
+ROS (9/23/2021): Constitutional - no wt loss. CV - no CP/SOB. MSK - occasional gout flares. Neuro - no focal deficits.
+=== END COPIED SECTION ===
+
+PMH:
+- I48.91 Atrial fibrillation, unspecified
+- M10.9 Gout, unspecified
+- E78.5 Hyperlipidemia, unspecified (outdated - pt reports lipid panel WNL last visit, may be resolved, needs review)
+- Z79.899 Long term drug therapy NOS (outdated entry, unclear if still accurate)
+
+Meds: Apixaban 5mg BID, Allopurinol 300mg daily, Atorvastatin 20mg qhs (per outdated problem list, TBD if still indicated).
+
+Allergies: NKDA
+
+SOCIAL HISTORY (current, updated 1/23/2025):
+NOTE: Templated field below auto-populated incorrectly and should be disregarded.
+Smoking status: Never Smoker [THIS FIELD IS INCORRECT - see narrative]
+Corrected narrative: Pt is in fact an active smoker. He reports smoking approx a quarter pack (about 5 cigarettes) per day, and states he has smoked at this level since age 16. Counseled extensively regarding smoking cessation; pt states he is not ready to quit at this time but will consider nicotine patch. Cessation resources discussed. General discussion held regarding lung cancer screening topics, no further detail documented here.
+EtOH: denies. Illicit drugs: denies. Lives w/ spouse. Retired chemistry teacher. Exercise: daily walks, ~20 min.
+
+FAMILY HX: Father - CAD, deceased age 78. Mother - DM2, deceased age 82. No fam hx of lung ca reported.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78 irregularly irregular, RR 16, SpO2 97% RA, Wt 84 kg, Ht 178 cm, BMI 26.5
+Gen: NAD, well-groomed, appears stated age
+HEENT: NCAT, PERRL, oropharynx clear
+Neck: no JVD, no thyromegaly
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: no edema; 1st MTP joint L foot with mild residual tenderness, no active erythema/swelling today
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady
+Skin: no lesions of concern
+
+LABS (reviewed today):
+INR 2.4 (therapeutic range), CBC WNL, BMP WNL, uric acid 6.8 mg/dL (improved from prior 8.9)
+
+GERIATRIC ASSESSMENT:
+- Cognitive screen (Mini-Cog): 5/5, normal
+- Functional status: independent in ADLs/IADLs
+- Fall risk: low, no assistive device
+- Polypharmacy review: 3 chronic meds, reviewed for interactions, none identified
+- Advance directives: pt has healthcare proxy on file (spouse)
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation (I48.91) - rate controlled, INR therapeutic on apixaban. Continue current regimen. F/u cardiology in 3 mo.
+2. Gout (M10.9) - improving on allopurinol, uric acid trending down. Continue current dose, recheck uric acid in 3 mo.
+3. Tobacco use, active smoker - counseled on cessation as above; quarter pack (approx 5 cigs) per day since age 16 per pt report. Offered nicotine replacement, pt declined today but open to future discussion. Will readdress at next visit. Lung cancer screening topic discussed generally with patient; no further action documented today.
+4. Hyperlipidemia (E78.5) - outdated dx, lipid panel to be rechecked, may reconsider statin necessity.
+5. Geriatric health maintenance - immunizations UTD per chart, will verify at next visit. Cognitive/functional status reassuring today.
+6. Return to clinic in 3 months, sooner if concerns.
+
+Total visit time spent: 35 min, >50% counseling/coordination of care regarding tobacco cessation and medication management.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Reyes and discussed the assessment and plan above. I agree with the findings and plan as documented, including the corrected smoking history (active smoker, quarter pack/day since age 16), which supersedes the outdated 'Never Smoker' field and the 2021 copied-forward note. — Attending, Geriatrics, 1/23/2025.

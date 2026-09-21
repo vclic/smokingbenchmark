@@ -1,0 +1,34 @@
+TELEHEALTH VISIT NOTE
+DOS: 04/11/2026
+Provider: Daniel Reyes, MD (Cardiology)
+Patient: Priya Scott, F, age 51 (DOB 1/15/1975)
+
+CC: HF follow-up, video visit.
+
+HPI: Pt is a 51 yo F w/ hx of CAD, gout, and HFrEF (EF ~35% on last echo) presenting via telehealth for routine f/u. She reports doing reasonably well since last visit, denies chest pain, denies PND/orthopnea worsening, some mild ankle swelling by end of day which she says is baseline for her, no [inaudible] recent weight gain per her home scale, she has been weighing herself most days and logging in a notebook she showed to camera during visit. She states she ran out of one of her meds about a week ago b/c pharmacy had a delay, restarted yesterday. Denies palpitations syncope presyncope. Diet mostly low salt though admits to "cheating" over the weekend at a family event. No new joint flares of gout recently, last flare was several months ago per pt.
+
+ROS: Constitutional - denies fever chills wt loss. CV - denies chest pain palpitations, +mild LE edema as above. Resp - denies cough SOB wheeze. GI - denies nausea vomiting diarrhea constipation. GU - denies dysuria hematuria. MSK - denies acute joint pain today, hx of gout as noted. Neuro - denies HA dizziness weakness numbness. Psych - denies depression anxiety. Skin - denies rash. All other systems reviewed and negative per pt.
+
+Social History: Priya Scott has never smoked cigarettes. No illicit drug use reported. Occasional glass of wine, denies heavy alcohol use. Lives with spouse, retired teacher.
+
+PMH: CAD (s/p PCI per prior records), gout, HFrEF.
+
+Meds: Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Furosemide 20mg daily, Spironolactone 25mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily, Allopurinol 300mg daily, Colchicine 0.6mg prn flare, Empagliflozin 10mg daily.
+
+Physical Exam (limited, via video):
+Gen: A&Ox3, NAD, seated comfortably at home, appears stated age.
+CV: unable to auscultate via telehealth, pt denies visible jugular distention on camera, no obvious cyanosis.
+Resp: no visible increased WOB, breathing comfortably, no accessory muscle use noted on camera.
+Ext: pt showed mild bilateral ankle swelling to camera, trace to 1+ appearing, no overt erythema.
+Skin: no rash visible.
+Note: exam limited by telehealth format, no in-person vitals obtained today, pt reports home BP log values in acceptable range mostly 110s-120s/70s.
+
+Assessment/Plan:
+1. HFrEF - stable per pt report, continue current regimen, reinforce daily weights and sodium restriction, discussed missed dose issue and importance of continuity, pharmacy issue to be addressed.
+2. CAD - stable, continue statin and aspirin, no anginal sx today.
+3. Gout - stable on allopurinol, no active flare, continue colchicine prn.
+4. Health maintenance - lung cancer screening discussed briefly given age range guidelines, will revisit; tobacco/nicotine use reviewed as above.
+f/u in 3 months or sooner if sx worsen, pt to send home BP/weight log via portal.
+
+---ADDENDUM (same day, later)---
+Addendum 04/11/2026 1740: Spoke again briefly w/ pt's pharmacy re: the medication delay mentioned in HPI, confirmed refill now processed and available for pickup today. Also clarifying documentation: date of service for this visit remains 04/11/2026, patient Priya Scott age 51 (DOB 1/15/1975) confirmed correct in chart after a nursing staff query about registration mismatch, no changes to plan above. Will continue routine f/u as scheduled.

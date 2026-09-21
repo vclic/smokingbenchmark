@@ -1,0 +1,76 @@
+General Medicine Clinic Clinic Note
+
+Patient: TAYLOR, Gregory    MRN: 32748105
+DOB: 05/23/1964    Age: 59 y.o.    Sex: Male
+Date of Service: 10/26/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Gregory Taylor is a 59 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/90s. Taking losartan 50 mg daily without missed doses. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• BPH with LUTS
+• Generalized anxiety disorder
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sertraline 50 mg daily
+• finasteride 5 mg daily
+• losartan 50 mg daily
+• amlodipine 5 mg daily
+• tamsulosin 0.4 mg nightly
+• vitamin D3 2000 IU daily
+
+Allergies
+• Latex
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former electrician.
+  Social drinker.
+  No illicit drug use.
+
+Family History
+Father - AAA repair. Mother - COPD, was a lifelong smoker.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 133/85 (BP Location: Right arm, Patient Position: Sitting) | Pulse 89 | Temp 97.6 °F (Oral) | Resp 16 | Ht 6' 2" | Wt 204 lb | SpO2 98% | BMI 26.13 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Hypertension
+   Controlled on losartan 50 mg daily; no changes.
+2. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+3. Generalized anxiety disorder
+   PHQ-9 stable; continue current regimen.
+4. Health maintenance
+   LCS: N/A - never smoker.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Julia Brennan, MD on 10/26/2023

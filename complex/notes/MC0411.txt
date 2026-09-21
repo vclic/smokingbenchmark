@@ -1,0 +1,33 @@
+TELEHEALTH VISIT - Family Medicine
+DOS: 09/13/2024
+Patient: Nancy Rodriguez, DOB 1/2/1963, F, Age 61
+Provider: Catherine Lindqvist, DO
+
+--- NURSE INTAKE ---
+Pt called in for med refills via video visit. VS reviewed from home cuff, pt reports BP 138/84 this AM. No acute distress noted on cam. Reviewed med list w/ pt, refills requested for lisinopril and omeprazole. Pt denies CP, SOB, palpitations. c/o occasional heartburn worse w/ spicy food, otherwise stable.
+
+[COPIED FORWARD FROM PRIOR NOTE DATED 12/13/2022 - not updated]
+SOCIAL HISTORY (as of 12/13/2022): Pt is a current smoker. Lives w/ husband, works part-time as bookkeeper. Denies EtOH abuse, occasional glass of wine. No illicit drug use. Exercise minimal, walks dog 2x/wk. Diet high in sodium per pt report. Copy-forward text left in chart from prior encounter, please disregard duplicate vitals below:
+BP 142/88 P 76 R 16 T 98.2 Wt 168 lbs
+A/P from that note: HTN - continue current regimen, GERD - stable on PPI, tobacco use - advised cessation counseling given.
+[END COPIED SECTION]
+
+--- HPI ---
+61 yo F here via telehealth for routine f/u and med refills, GERD and HTN both being followed. Pt reports GERD sx well controlled on omeprazole, occasional breakthrough sx as above. HTN reports home readings mostly in 130s/80s. No new complaints today. Reviewed smoking status during visit; pt states she has set a quit date for 10/28/2024 and is motivated to stop by that date. Encouraged pt and provided resources for cessation (quitline number given, discussed nicotine patch options).
+
+ROS: Constitutional - no fever, no wt loss. Resp - no cough, no dyspnea. CV - no CP, no edema. GI - occasional heartburn as noted. All other systems reviewed and neg.
+
+--- PHYSICAN PROGRESS NOTE (Dr. Lindqvist) ---
+Spoke w pt via video, confirmed identity and DOB. Reviewed nursing intake and HPI above. Pt alert, appropriate affect, no acute distress noted on camera. Discussed BP trend, currently well-controlled on current regimen. GERD sx minimal, will cont omeprazole.
+
+Discussed lung ca screening in general terms given smoking hx; explained options and what screening involves, pt to think it over, no imaging order placed today.
+
+ASSESSMENT/PLAN:
+1. HTN - stable, continue lisinopril, refill sent, recheck home readings and f/u in 3 months.
+2. GERD - stable on omeprazole, continue current dose, refill sent, follow diet modifications d/c'd spicy foods advised.
+3. Tobacco use disorder - pt has smoked half a pack (about 10 cigarettes) per day since 1982. Pt continues to smoke despite counseling given today and at prior visits. Reiterated cessation counseling, reviewed quitline resources, discussed nicotine patch/gum as bridge therapy. Pt reports quit date set for 10/28/2024, will encourage and follow up on this at next visit.
+4. Routine health maintenance reviewed, pt due for lipid panel, will order for next visit.
+
+RTC in 3 months or sooner if concerns. Telehealth visit concluded, pt verbalized understanding of plan.
+
+Electronically signed: Catherine Lindqvist, DO

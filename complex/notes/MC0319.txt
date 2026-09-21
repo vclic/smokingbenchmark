@@ -1,0 +1,92 @@
+RESIDENT NOTE – PULMONOLOGY CLINIC
+Date of Service: 04/23/2024
+Author: Elena Markovic, MD (Resident); Attending attestation appended below.
+
+Patient: Terrence Kim (M), DOB 02/24/1974, Age: 50
+Visit type: ED-to-clinic follow-up after COPD exacerbation
+
+CHIEF COMPLAINT: Follow-up after recent ED visit for COPD exacerbation.
+
+HPI:
+Mr. Kim is a 50-year-old man who presented to the ED 5 days ago with worsening dyspnea, increased sputum production, and cough. He was treated with nebulizers, oral steroids, and a short course of azithromycin, then discharged with instructions to follow up in pulmonology clinic today, 04/23/2024. He reports gradual improvement since discharge. He states, "I can walk to the mailbox now without stopping, but stairs still get me." He denies fevers or chills currently. He continues to use his albuterol inhaler PRN, roughly 2-3 times daily, down from every 2 hours at the time of the ED visit.
+He also reports occasional heartburn, worse when lying flat, which is a known issue (see PMH - GERD). He denies chest pain, hemoptysis, or lower extremity edema. He notes some fatigue but attributes this to poor sleep due to nighttime coughing.
+When asked about occupational or environmental exposures, he reports working in an office setting (IT support) with no known dust or chemical exposures. He lives with his spouse in a single-family home; no pets, no mold reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. J44.1 - COPD with acute exacerbation (recent, resolving)
+2. K21.9 - GERD
+3. J45.909 - Asthma, unspecified (outdated entry from prior chart, likely miscoded; patient has no history of asthma per current review, will address discrepancy)
+4. I10 - Essential hypertension (per old note from 2019, not currently on antihypertensives, needs reconciliation)
+5. E78.5 - Hyperlipidemia, unspecified (per problem list, unclear if still active - no recent lipid panel on file)
+
+MEDICATIONS:
+- Albuterol HFA inhaler, 2 puffs PRN
+- Omeprazole 20mg daily
+- Prednisone taper (started in ED, currently on day 4 of 5)
+- Tiotropium started at discharge, patient reports using as directed
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Smoking status: Patient is a lifelong non-smoker; he denies ever having smoked cigarettes, cigars, or using any other tobacco products. No history of vaping or e-cigarette use reported. No secondhand smoke exposure at home currently, though he mentions his father smoked when he was a child.
+Alcohol: Occasional, reports 1-2 glasses of wine per week, denies binge drinking.
+Illicit drug use: Denied.
+Occupation: IT support technician, works from home 3 days/week.
+Marital status: Married, lives with spouse.
+Exercise: Reports trying to walk daily but limited currently by dyspnea.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Respiratory: Positive for cough, dyspnea on exertion as above. Denies hemoptysis.
+Cardiovascular: Denies chest pain, palpitations, orthopnea beyond known GERD-related symptoms.
+GI: Positive for occasional heartburn, denies nausea, vomiting, diarrhea, constipation.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/82, HR 78, RR 16, Temp 98.4F, SpO2 95% on room air.
+General: Well-appearing, no acute distress, comfortable at rest.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, breath sounds symmetric.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABS/IMAGING:
+Chest x-ray from ED visit (04/18/2024) reviewed: No acute infiltrate, mild hyperinflation consistent with COPD, no pneumothorax or effusion.
+CBC, BMP from ED visit within normal limits.
+Spirometry pending scheduling for follow-up in 4-6 weeks once exacerbation fully resolved.
+
+ASSESSMENT AND PLAN:
+50-year-old man, lifelong non-smoker, presenting for follow-up after recent COPD exacerbation with improving symptoms.
+
+1. COPD with acute exacerbation, improving:
+- Continue prednisone taper as prescribed, complete course.
+- Continue albuterol PRN and newly started tiotropium.
+- Discussed inhaler technique, patient demonstrates appropriate use.
+- Given atypical presentation of COPD in a lifelong non-smoker, will pursue further workup to rule out alternative etiologies including alpha-1 antitrypsin deficiency, occupational exposures (though history unremarkable), and reassess for asthma-COPD overlap given prior asthma diagnosis on problem list (see discrepancy noted above, will clarify with prior records).
+- Alpha-1 antitrypsin level ordered.
+- Spirometry with bronchodilator response to be scheduled once symptoms fully resolved.
+- General respiratory risk factors and preventive health topics were briefly discussed with the patient during the visit.
+
+2. GERD:
+- Continue omeprazole 20mg daily.
+- Counseled on lifestyle modifications - avoid lying down after meals, elevate head of bed.
+- Symptoms currently well controlled, no changes needed at this time.
+
+3. Problem list reconciliation:
+- Asthma diagnosis (J45.909) appears outdated/inaccurate per patient report and current presentation; will review prior pulmonary records to confirm and update problem list accordingly.
+- Hypertension (I10) and hyperlipidemia (E78.5) entries appear outdated; patient not on treatment for either currently. Recommend PCP follow-up for updated lipid panel and blood pressure reassessment; problem list to be updated once clarified.
+
+4. Follow-up:
+- Return to clinic in 4-6 weeks for spirometry and reassessment.
+- Return to ED or call clinic sooner if worsening dyspnea, fever, or hemoptysis.
+- Patient education materials on COPD management provided.
+
+Patient verbalizes understanding of plan and agrees with above.
+
+---
+ATTENDING ATTESTATION:
+I have personally seen and examined the patient with Dr. Markovic. I agree with the history, exam findings, and plan as documented above, including the assessment of COPD exacerbation in a lifelong non-smoker and the plan for further workup. Will continue to monitor closely.
+- Dr. Raymond Achebe, MD, Attending Pulmonologist

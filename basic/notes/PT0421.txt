@@ -1,0 +1,46 @@
+Adult Medicine Clinic Note
+Date of Service: 11-Sep-2023
+Patient: Gloria Hill   DOB: 7/27/1972   MRN: 86189351
+
+S:
+CC: Follow-up
+HPI: 51F w/ obesity, asthma here for routine f/u of chronic conditions. Feels about the same as last visit. Ran out of one medication last week.
+
+PMH: asthma, obesity
+PSH: Lumbar laminectomy (2007)
+Meds: budesonide-formoterol 160/4.5 2 puffs BID
+Allergies: Codeine (nausea)
+SH: Divorced, lives alone. Works as a cashier. Never tob. No alcohol. No illicit drug use. Exercise: walks daily.
+FH: Son - type 1 diabetes. Sister - breast cancer at 59.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies CP, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 121/80  HR: 75  RR: 18  Temp: 98.1 F  SpO2: 98% on RA  Wt: 209 lbs  BMI: 34.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+Labs (2023-08-24): Cr 0.91, K 3.8, Hgb 14.2
+
+ASSESSMENT/PLAN:
+1. Mild persistent asthma
+   - Well controlled; continue.
+2. Class I obesity
+   - Discussed diet and exercise.
+
+f/u 12 mo
+
+Electronically signed by Priya Raman, MD on 9/12/2023 at 15:52

@@ -1,0 +1,65 @@
+INTERNAL MEDICINE - HISTORY AND PHYSICAL
+Patient: Elizabeth Kowalski | DOB: 06/23/1969 | Age: 54 | Sex: F
+Date of Service: 06/23/2023
+Author: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: Follow-up, hypertension and type 2 diabetes.
+
+PROBLEM LIST:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- N18.3 Chronic kidney disease, stage 3
+- M10.9 Gout, unspecified
+- Z87.891 Personal history of nicotine dependence
+- E78.5 Hyperlipidemia, unspecified (resolved per pt, outdated entry - remains on list from prior visit)
+
+HPI: Ms. Kowalski returns today, age 54, for routine follow-up of HTN and DM2. She reports home BP readings averaging 132/80. Blood sugars have been more stable since last adjustment of metformin dose. No chest pain, no dyspnea, no polyuria/polydipsia. She continues to follow up with podiatry annually given her DM. No new joint flares of gout since last visit; last flare was several months ago and resolved with colchicine. She denies dysuria, hematuria, or edema. Denies any current tobacco use; she is a former smoker (see social history below for details).
+
+---COPIED FORWARD FROM VISIT 11/14/2022---
+PATIENT PRESENTS FOR ROUTINE F/U. HTN CONTROLLED ON LISINOPRIL 20MG DAILY. DM2 A1C 7.1 LAST CHECKED. CKD STAGE 3, EGFR 52 AT THAT TIME, STABLE. GOUT WELL CONTROLLED ON ALLOPURINOL, LAST FLARE >6 MONTHS PRIOR. PT DENIES CP, SOB, LE EDEMA. MEDS RECONCILED. LABS ORDERED: CMP, A1C, LIPID PANEL, URINE MICROALBUMIN. RTC 3 MONTHS OR SOONER IF CONCERNS. VACCINES UTD PER PT REPORT.
+---END COPIED TEXT---
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted in HPI.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Type: Cigarettes
+Packs per day: 1/2 pack (approx. 10 cigarettes/day)
+Age started: 19
+Quit date: Not on file (quit in 2019)
+Age at quit: 50
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired administrative assistant
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days
+
+Additional social history note: Patient started smoking about half a pack per day (roughly 10 cigarettes daily) at age 19 and continued at that same rate until she quit in 2019. She has remained abstinent from tobacco since quitting and denies any current use.
+
+PHYSICAL EXAM:
+Vitals: BP 134/82, HR 76, RR 16, Temp 98.4F, Wt 172 lb, BMI 29.4
+General: Well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema, no active gout tophi noted; first MTP joints without erythema.
+Skin: No rashes.
+
+LABS REVIEWED (from today's draw):
+A1C: 6.9%
+Creatinine: 1.3 mg/dL, eGFR 51
+Uric acid: 6.8 mg/dL
+Lipid panel: LDL 98, HDL 52, TG 130
+
+ASSESSMENT AND PLAN:
+1. Hypertension (I10) - well controlled on current regimen. Continue lisinopril 20mg daily. Reinforce low-sodium diet.
+2. Type 2 diabetes mellitus (E11.9) - A1C improved to 6.9%. Continue metformin, reinforce diet and exercise.
+3. Chronic kidney disease, stage 3 (N18.3) - stable eGFR 51, monitor labs q6 months, avoid nephrotoxic agents including NSAIDs.
+4. Gout (M10.9) - well controlled on allopurinol, no flares reported. Continue current dose, monitor uric acid.
+5. Tobacco use, former smoker (Z87.891) - patient quit smoking at age 50. Counseled on continued avoidance of tobacco products and importance of maintaining abstinence. Given her age and smoking history, discussed lung cancer screening guidelines in general terms; further discussion to occur at next visit as needed.
+6. Health maintenance - due for mammogram, colonoscopy overdue by records, will schedule.
+
+RTC in 3 months or sooner if concerns. Patient verbalized understanding and agreement with plan.
+
+Electronically signed: Brian Okonkwo, MD

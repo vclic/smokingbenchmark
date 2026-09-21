@@ -1,0 +1,41 @@
+Cardiology Nurse Intake - DOS: 04/02/2024
+Patient: Curtis Roberts | DOB: 04/02/1965 | Age: 59 | Sex: M
+Vitals: BP 138/84, HR 78, RR 16, Wt 221 lb, SpO2 96% RA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional
+Vaping/e-cig use: Occasional
+Recreational drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+
+---- COPIED FORWARD FROM VISIT DATED 3/2/2021 ----
+Pt here for routine f/u of HFrEF, doing reasonably well. Denies orthopnea, no PND, no lower extremity edema noted today. Social history reviewed: patient is a former smoker. Continues on lisinopril and metoprolol succinate, tolerating well without dizziness or bradycardia. OSA managed w CPAP, reports good compliance per device download last visit. GERD sx controlled on omeprazole daily, no breakthrough heartburn. A1c stable, follows w PCP for diabetes mgmt. Plan: continue current regimen, recheck BMP and BNP at next visit, f/u in 6 months.
+----------------------------------------------------
+
+HPI (Dr. Okonkwo): Mr Roberts is a 59-year-old male with hx of heart failure, OSA, GERD, osteoarthritis, and T2DM presenting today for routine cardiology follow up on his date of service 04/02/2024. He reports feeling "pretty much the same, maybe a little more short of breath climbing stairs" over past month. Denies chest pain, denies syncope. No new leg swelling per pt though he states "my knees ache more than usual" which he attributes to osteoarthritis flare. Smoking history notable for an 83 pack-year smoking history; patient reports he quit smoking in 2013 and has not resumed. He does mention he vapes occasionally, describing it as "just once in a while when I'm stressed." Denies current cigarette use. He also endorses occasional heartburn despite omeprazole, and reports CPAP compliance is inconsistent lately - "I take it off in the middle of the night sometimes."
+
+ROS: otherwise negative for fevers, chills, palpitations, presyncope.
+
+Exam: Alert, NAD. Cardiac: RRR, no murmurs appreciated, no S3/S4. Lungs: clear to auscultation bilaterally, no wheezes/rales. Ext: trace bilateral edema, no pitting. Abd: soft, nontender.
+
+LABS/RESULTS:
+- BNP (03/28/2024): 210 pg/mL (mildly elevated)
+- BMP (03/28/2024): Na 138, K 4.3, Cr 1.1, eGFR 72
+- A1c (02/15/2024): 7.2%
+- Lipid panel (02/15/2024): LDL 98, HDL 42, TG 150
+- Echo (01/10/2024): LVEF 38%, mild LV dilation, unchanged from prior
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT (lisinopril, metoprolol succinate, spironolactone). Recheck BNP/BMP in 3 mo.
+2. Tobacco/vaping - patient no longer smokes cigarettes, quit 2013; continues occasional vaping. Counseled on risks of vaping and encouraged full cessation. Lung cancer screening discussed given extensive smoking hx, pt to consider and discuss further w PCP.
+3. OSA - reinforce CPAP compliance, will refer back to sleep medicine if issues persist.
+4. GERD - continue omeprazole, consider dose adjustment if sx persist.
+5. T2DM - stable on current regimen, f/u w PCP for ongoing mgmt.
+6. Osteoarthritis - recommend acetaminophen prn, ortho referral if worsening.
+
+RTC 3 months or sooner if symptoms worsen.
+
+Brian Okonkwo, MD

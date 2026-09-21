@@ -1,0 +1,60 @@
+CCH Pulmonology Clinic - Nurse Intake
+Patient: Karen Allen | DOB: 2/27/1946 | Age: 78 | Sex: F
+Date of Service: 04/28/2024
+Provider: Brian Okonkwo, MD
+
+Vitals: BP 132/78, HR 76, RR 18, SpO2 94% RA, Wt 142 lb, Ht 5'3"
+Chief complaint: COPD f/u, c/o intermittent SOB with exertion, denies fever/chills
+Allergies: NKDA
+
+Nursing note: Pt seated comfortably in exam room she is a pleasant 78 y/o female here for routine copd follow up she states her breathing is 'about the same' as last visit no acute distress noted breathign even not labored at rest she uses albuterol inhaler prn approx 2x/wk pt reports good adherence to tiotropium daily.
+
+Social history (per pt): Smoking - pt started smoking three-quarters of a pack (about 15 cigarettes) per day at age 25 and continued at that rate until she quit in 1998. She first quit in 1987, restarted in 1996, and then quit for good in 1998. She no longer smokes and has not for many years. Alcohol - occasional glass of wine, denies illicit drug use. Lives alone, widowed, daughter checks in weekly.
+
+---
+Physician Progress Note - Brian Okonkwo, MD
+Date of Service: 04/28/2024
+
+HPI: Ms Allen is a 78 year old female with history of COPD, hyperlipidemia, coronary artery disease, osteoporosis and depression presents today for routine pulm follow up. She reports mild increase in dyspnea on exertion over past several weeks, denies chest pain, denies orthopnea, denies PND. She denies productive cough today although she [inaudible] mentions occasional morning clearing of throat which she attributes to post nasal drip. No fevers no chills no wieght loss. She is compliant with her inhalers, uses rescue inhaler about twice weekly which is stable from prior visit. She continues to do home exercises recommended by PT for balance given her osteoporosis hx.
+
+Past Medical Hx:
+- COPD, moderate, on maintenance tiotropium
+- Hyperlipidemia
+- Coronary artery disease s/p stent 2015 (details per cardiology)
+- Osteoporosis, on alendronate
+- Depression, stable on sertraline
+
+Social History: As noted in nursing intake, patient has significant tobacco history; she started smoking three-quarters of a pack per day (about 15 cigs/day) at age 25 and smoked at that rate until quitting in 1998, with an intervening period where she first quit in 1987 then restarted in 1996 before quitting for good in 1998. She currently does not smoke and denies any tobacco use since her final quit date. No vaping history reported. Denies illicit drug use, rare etoh.
+
+ROS: Constitutional - negative for fever, chills, unintentional weight loss. Respiratory - positive for mild dyspnea on exertion, negative for hemoptysis. Cardiovascular - negative for chest pain, palpitations. GI - negative. GU - negative. MSK - reports mild low back discomfort, chronic, unchanged. Psych - mood stable per pt, denies SI/HI.
+
+Physical Exam:
+General: Well-appearing elderly female, NAD
+HEENT: Normocephalic, atraumatic, oropharynx clear
+Neck: No JVD, no LAD
+Lungs: Mild expiratory wheeze bilateral bases, no rales, no rhonchi, good air movement
+Cardiac: RRR, no murmurs/rubs/gallops
+Abdomen: Soft, nontender, nondistended
+Extremities: No edema, no clubbing, no cyanosis
+Skin: Warm, dry, intact
+Neuro: A&Ox3, gait steady with cane
+
+Labs/Results:
+- CBC (04/15/2024): WBC 6.8, Hgb 12.9, Hct 38.4, Plt 245
+- BMP (04/15/2024): Na 139, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.9, Glu 98
+- Lipid panel (03/02/2024): TC 188, LDL 102, HDL 54, TG 160
+- PFTs (01/10/2024): FEV1 62% predicted, FEV1/FVC 0.61, consistent with moderate obstruction
+- Vitamin D (02/2024): 32 ng/mL, adequate
+- DEXA (11/2023): T-score -2.6 lumbar spine, osteoporosis confirmed
+
+Assessment/Plan:
+1. COPD, moderate (J44.9) - stable, continue tiotropium, continue albuterol prn, reviewed inhaler technique, encouraged pulmonary rehab referral, f/u in 6 months or sooner if worsening symptoms. Discussed lung cancer screening guidelines generally with patient given her age and prior tobacco history; will revisit topic at future visit as appropriate.
+2. Hyperlipidemia (E78.5) - stable on statin, continue current regimen, recheck lipids in 6 months
+3. Coronary artery disease (I25.10) - stable, no anginal sx today, continue home meds, f/u with cardiology per their schedule
+4. Osteoporosis (M81.0) - continue alendronate, continue calcium/vit D supplementation, DEXA to be repeated per osteoporosis protocol
+5. Depression (F32.9) - stable mood on sertraline, continue current dose, will monitor
+6. Tobacco use, former (Z87.891) - patient with prior extensive tobacco history as above, currently a former smoker, no current tobacco use, counseling reinforced regarding avoidance of relapse and continued abstinence, no pharmacologic cessation aids needed at this time given long term abstinence
+
+Pt verbalizes understanding of plan will follow up as above. Questions answered. Return to clinic in 6 months or sooner for any acute concerns dictated but not read signed electronically Brian Okonkwo MD.
+
+Note: problem list in chart also carries old entry 'Tobacco use disorder, active' from 2010 encounter which appears outdated and should be reconciled at next visit - this predates her final quit date and is not reflective of current status.

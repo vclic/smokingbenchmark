@@ -1,0 +1,76 @@
+PULMONOLOGY - NURSE INTAKE / PHYSICIAN PROGRESS NOTE
+Patient: Rosa Brown | DOB: 04/19/1958 | Age: 66 | Sex: F
+Date of Service: 04/19/2024
+Provider: Steven Park, MD
+
+=== NURSING INTAKE ===
+VS: BP 138/82, HR 78, RR 16, Temp 98.2F, SpO2 95% RA, Wt 71 kg
+CC: f/u incidental lung nodule found on prior CT chest, done for unrelated eval.
+Pt ambulatory, NAD. Denies acute distress, chest pain today. Here w/ daughter for support.
+
+=== COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2023 (retained per template, not updated) ===
+HPI: 66 yo F (age at time 65) w/ hx COPD, HLD, CKD3, osteoporosis, BPH-related sx in spouse (N/A - pt female, dz list carried over in error) presents for eval of incidental nodule. Pt reports occasional dyspnea on exertion, stable. No hemoptysis, no fevers, no wt loss. ROS otherwise negative as below. PMH reviewed. Meds reviewed and unchanged. Plan: repeat imaging in 3-6 mo per Fleischner. F/u PFTs. [END COPIED BLOCK 11/02/2023]
+
+=== CURRENT VISIT - PHYSICIAN PROGRESS NOTE, 04/19/2024 ===
+HPI: Ms. Brown is a 66 yo F, DOB 4/19/1958, returning for scheduled f/u of the incidental pulmonary nodule identified on prior imaging. She reports no new resp sx today - no hemoptysis, no fevers/chills, no unintentional wt loss. Mild baseline DOE unchanged from last visit, attributed to known COPD. No chest pain, no orthopnea. She has brought outside imaging CD which was uploaded to PACS; radiology re-review pending.
+
+PMH: osteoporosis, BPH (managed by urology), CKD stage 3 (baseline Cr ~1.6), COPD (on inhalers), hyperlipidemia.
+
+Social History: Pt has a longstanding tobacco use hx - smokes 1 pack per day, has smoked since 1973. She remains an active smoker at this visit, continues to smoke daily. Counseled again re: smoking cessation resources, offered pharmacotherapy referral, pt states "not ready" today but will consider. Pt reports she quit drinking alcohol back in 2016 and has been abstinent from EtOH since. No illicit drug use reported. Lives w/ daughter, retired (former clerical worker).
+
+ROS (14-pt template, reviewed and negative except as noted in HPI):
+Constitutional: neg for fever, chills, wt loss (see HPI)
+Eyes: neg vision changes
+ENT: neg sore throat, congestion
+CV: neg chest pain, palpitations, edema
+Resp: +chronic mild DOE (known), neg wheeze today, neg hemoptysis, neg cough change
+GI: neg n/v/d, neg abd pain
+GU: BPH sx stable per pt, neg dysuria, neg hematuria
+MSK: neg new falls, mild low back stiffness (chronic, osteoporosis)
+Skin: neg rash
+Neuro: neg HA, neg focal weakness
+Psych: neg depression, neg anxiety sx today
+Endo: neg polyuria/polydipsia
+Heme/Lymph: neg easy bruising
+Allergic/Immun: neg new allergies
+
+Medications (reconciled today):
+1. Alendronate 70mg PO weekly
+2. Tamsulosin 0.4mg PO qHS
+3. Finasteride 5mg PO daily
+4. Atorvastatin 20mg PO daily
+5. Tiotropium inhaler 1 puff daily
+6. Albuterol HFA inhaler PRN
+7. Fluticasone/salmeterol combo inhaler BID
+8. Calcium carbonate + Vit D supplement daily
+9. Losartan 25mg daily (for renal protection, per nephrology)
+10. Vitamin B12 supplement daily
+
+Physical Exam:
+Gen: well-appearing, comfortable, NAD.
+HEENT: NC/AT, PERRL, oropharynx clear, no LAD.
+Neck: supple, no JVD, no thyromegaly.
+CV: RRR, no m/r/g.
+Resp: mild expiratory wheeze bilat bases, no rales, no accessory muscle use, symmetric expansion.
+Abd: soft, NT/ND, +BS.
+Ext: no c/c/e, no clubbing.
+Skin: warm, dry, no rash.
+Neuro: A&Ox3, grossly nonfocal.
+MSK: no kyphosis noted, gait steady.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable per outside imaging review pending official radiology comparison. Will obtain formal comparison read. Continue surveillance imaging per Fleischner criteria; timing of next scan to be determined once comparison finalized. General lung health and ongoing tobacco use were discussed with pt as part of counseling; no imaging was ordered today for that purpose.
+2. Tobacco use, active - pt continues to smoke 1 ppd, longstanding hx since 1973 as noted above in social hx. Advised to quit, discussed cessation aids (varenicline, nicotine patch), pt declined today, will revisit at next visit.
+3. COPD - stable, continue current inhaler regimen, reviewed inhaler technique.
+4. CKD stage 3 - stable, continue renal-friendly med dosing, recheck BMP at next labs.
+5. Osteoporosis - continue alendronate, encourage wt-bearing exercise, calcium/vit D.
+6. BPH - stable per pt report, continue tamsulosin/finasteride, f/u w/ urology as scheduled.
+7. HLD - continue atorvastatin, lipid panel due at next visit.
+8. Alcohol - pt reports abstinence since 2016, reinforced positive behavior, no further intervention needed at this time.
+
+RTC 3 months or sooner if sx worsen. Pt verbalized understanding of plan.
+
+Steven Park, MD
+
+=== ADDENDUM (later same day, 04/19/2024, 16:40) ===
+Addendum: Spoke w/ pt by phone after radiology completed formal read of outside CD imaging same afternoon. Nodule size stable compared to most recent priors, no interval growth reported. Pt reassured. No change to plan above. Will document official comparison report once scanned into chart. - Steven Park, MD

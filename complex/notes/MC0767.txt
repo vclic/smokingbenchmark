@@ -1,0 +1,37 @@
+NURSE INTAKE
+DOS: 09/15/2025
+Pt: Joyce Bennett, F, DOB 05/17/1968, Age 57
+Visit type: Pre-op eval, Internal Medicine (pre-op for TKA)
+Vitals: BP 128/76, HR 78 irreg, RR 16, SpO2 97% RA, Wt 168 lb, Ht 5'5"
+
+SOCIAL HISTORY (templated):
+Tobacco use: Never smoker
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Yes - spouse smokes 1 ppd at home
+Alcohol: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+
+ROS: Denies chest pain, denies palpitations at rest (though known AF), denies dyspnea on exertion beyond baseline, denies orthopnea, denies PND, denies lower extremity edema, denies syncope, denies hemoptysis, denies fevers/chills, denies cough, GI/GU/neuro/skin/psych all reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM: NAD, A&Ox3. HEENT WNL. Neck supple, no JVD. CV: irregularly irregular rhythm, no murmurs. Lungs CTAB, no wheeze/rales/rhonchi. Abd soft NT/ND. Ext: no edema, right knee with crepitus and decreased ROM, well-healed prior surgical scars none. Skin warm dry intact. Neuro grossly intact.
+
+MEDS: Apixaban 5mg BID, Metoprolol succinate 50mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily (hold per pre-op instructions), Lisinopril 10mg daily, Acetaminophen PRN.
+
+PROGRESS NOTE - Farah Siddiqui, MD
+DOS 09/15/2025
+57 y/o F (DOB 5/17/1968) with h/o CAD and AFib presenting for pre-op medical clearance ahead of L TKA. Reports intermittent knee pain limiting ambulation, otherwise stable cardiac symptoms. No chest pain, no syncope. She states she has never smoked in her life - lifelong non-smoker. Notes that her husband smokes about a pack a day inside their home, so she does have some secondhand exposure but no personal tobacco history.
+
+Assessment: Cardiac risk appears stable for planned ortho surgery; will coordinate anticoagulation bridging given AFib and apixaban use, continue statin/BB, hold ASA per surgical team protocol.
+
+Plan:
+1. Cardiology to advise on peri-op anticoag hold/bridge
+2. Continue metoprolol, atorvastatin, lisinopril
+3. Pre-op labs, EKG reviewed - baseline AF, no acute changes
+4. Cleared for surgery pending anesthesia eval
+5. F/u post-op
+
+ADDENDUM (later same day, F. Siddiqui MD): Discussed case briefly with orthopedic surgery team; no changes to plan above. Reiterated pt's non-smoking status for anesthesia risk stratification purposes - denies any personal tobacco use, ever.

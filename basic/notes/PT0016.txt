@@ -1,0 +1,56 @@
+Internal Medicine Clinic Note
+Date of Service: 07/25/2024
+Patient: Diane Allen   DOB: 7/6/1953   MRN: 28851690
+
+S:
+CC: Follow-up
+HPI: Mrs. Allen is a 71-year-old woman with a history of osteoporosis, GERD, and HTN; tobacco: 2.5ppd x 56yrs; she presents for routine follow-up of chronic conditions. Feels about the same as last visit. Taking all meds as prescribed.
+
+PMH:
+- Osteoporosis
+- Hypertension
+- Gastroesophageal reflux disease (dx 1988)
+PSH: Left inguinal hernia repair (2005); Carpal tunnel release
+Meds: famotidine 20 mg BID; calcium + vitamin D daily; losartan 50 mg daily; vitamin D3 2000 IU daily
+Allergies: No known allergies
+Social History:
+- Widowed; lives with son.
+- Retired, former hairdresser.
+- Smoking: current smoker.
+- Prior quit attempt 2016 (lasted ~3 yr), relapsed.
+- EtOH: none since 1996 (hx AUD).
+- No IVDU.
+FH: Father - stroke.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 147/84  HR: 67  RR: 16  Temp: 98.2 F  SpO2: 99% on RA  Wt: 158 lbs  BMI: 29.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (07/09/2024): LDL 93, Cr 1.03, K 4.1
+
+ASSESSMENT/PLAN:
+1. Osteoporosis: Continue bisphosphonate; DEXA due.
+2. Gastroesophageal reflux disease: Symptoms controlled.
+3. Hypertension: Elevated today; home BP log requested.
+4. Nicotine dependence, cigarettes, uncomplicated (F17.210)
+   - Counseled on cessation for 4 min. She is motivated to quit. Offered NRT - declined.
+
+f/u 6 mo
+
+Catherine Lindqvist, DO

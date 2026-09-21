@@ -1,0 +1,42 @@
+Adult Medicine Clinic Note
+Date of Service: 03/30/2026
+Patient: Patricia Perez   DOB: 11/23/1967   MRN: 82961325
+
+S:
+CC: Right knee pain
+HPI: 58-year-old female w/ HTN, T2DM, osteoporosis here for right knee pain. Right knee pain for 6 mos, worse with stairs. No numbness or weakness. Ibuprofen with partial relief.
+
+PMH: T2DM, osteoporosis, HTN
+PSH: Cataract extraction, bilateral; Carpal tunnel release (2008)
+Meds: metformin 1000 mg BID; semaglutide 0.5 mg weekly; alendronate 70 mg weekly; vitamin D3 2000 IU daily; lisinopril 40 mg daily; calcium + vitamin D daily; chlorthalidone 12.5 mg daily
+Allergies: Sulfa drugs
+Social History:
+- Divorced, lives alone.
+- Social drinker.
+- No illicit drug use.
+FH: Father - AAA repair.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 132/91  HR: 83  RR: 20  Temp: 98.8 F  SpO2: 96% on RA  Wt: 179 lbs  BMI: 27.2
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (March 22, 2026): A1c 8.0%, Cr 0.89, K 4.6
+
+A/P:
+1. Right knee pain: Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+2. Essential hypertension: Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Lung cancer screening: Not indicated - never smoker.
+
+Follow up in 3 mos or sooner PRN.
+
+Isaac Moreno, PA-C

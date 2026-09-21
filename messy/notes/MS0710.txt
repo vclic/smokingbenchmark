@@ -1,0 +1,48 @@
+Pulmonology Follow-Up - Incidental Lung Nodule
+Date of Service: 10/28/2023
+Provider: Priya Raman, MD
+
+--- NURSE INTAKE ---
+Pt: Joseph Wilson, M, DOB 7/9/1958 (age 65)
+Vitals: BP 138/86, HR 78, RR 16, SpO2 96% RA, Wt 238 lb, BMI 34.2
+Allergies: NKDA
+
+SOCIAL HISTORY (templated):
+Tobacco use: Yes
+Smoking status: Never Smoker [NOTE: field appears to be carried over incorrectly - see HPI, pt is actually a FORMER smoker, quit 2001]
+Alcohol use: Occasional
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Wilson is a 65 yo male here for f/u of an incidentally found RUL lung nodule seen on CT chest 8/2023 obtained during work-up for chronic cough. He reports no hemoptysis, no wt loss, no fevers. He endorses mild dyspnea on exertion, stable from prior visits, attributed in part to obesity and asthma. Smoking hx notable - he smoked on and off for most of her adult life per chart documentation carried forward from prior note; he confirms he is a former smoker and quit smoking in 2001. He denies any current tobacco use. Reviewed the templated social hx field above with pt, which incorrectly lists 'Never Smoker' - this is inaccurate and has been corrected in this note; his true status is former smoker, quit 2001.
+
+ROS: Otherwise negative except as above. Denies chest pain, denies hx of TB exposure.
+
+PMH/Problem List (ICD-10):
+- Obesity, unspecified (E66.9) - active
+- Major depressive disorder, recurrent (F33.9) - active, stable on sertraline
+- Asthma, mild persistent (J45.30) - active
+- Tobacco use disorder (Z87.891) - former smoker, in remission, hx of on-and-off use per pt report
+- GERD (K21.9) - outdated, resolved per pt, no longer on PPI
+
+Meds: Sertraline 100mg daily, Albuterol HFA PRN, Fluticasone/salmeterol 250/50 BID
+
+Results reviewed:
+CT chest 8/14/2023: 7mm solid nodule RUL, no significant change from remote comparison if available (none on file)
+CT chest 10/20/2023 (3-mo interval f/u): 7mm nodule, stable in size
+PFTs 9/2023: FEV1 78% predicted, FVC 88% predicted, FEV1/FVC 0.74 - mild obstructive pattern c/w asthma
+CBC, BMP 10/28/2023: WNL
+
+Assessment: 65 yo former smoker (quit 2001, prior hx of intermittent/on-and-off smoking per HPI) with stable 7mm RUL pulmonary nodule on serial imaging, low-risk features. Also with obesity, asthma, and depression, all currently stable.
+
+Plan:
+1. Pulmonary nodule - stable x2 studies. Continue surveillance imaging per Fleischner guidelines; will obtain repeat low-dose chest CT in 6-9 months given stability. Lung cancer screening was discussed with pt in general terms given his smoking history; declined further discussion today, may revisit at next visit.
+2. Asthma - continue current inhaler regimen, reviewed proper technique.
+3. Obesity - counseled on diet/exercise, referred to nutrition.
+4. Depression - stable on current dose, continue sertraline, f/u with PCP.
+5. Tobacco - reinforced importance of continued abstinence; pt states he has no plans to resume smoking.
+6. RTC in 6 months or sooner if symptoms worsen.
+
+Electronically signed: Priya Raman, MD, 10/28/2023

@@ -1,0 +1,56 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+Author: Farah Siddiqui, MD
+Date of Service: 07/30/2024
+
+Patient: Michael Baker, M, DOB 02/04/1963 (age 61 yo)
+
+CC: PAD f/u, r/o worsening claudication
+
+HPI: Pt is a 61 yo male w/ hx CKD stage 3, HFrEF, CAD presenting today, 07/30/2024, for routine PAD eval. Reports intermittent calf cramping w/ ambulation, distance now approx 1-2 blocks before he has to stop, improved w/ rest - c/w claudication, pt states its been stable, denies rest pain, denies new ulcers or non-healing wounds on LE. Pt also endorses occasional SOB on exertion, attributes to his heart failure, denies orthopnea tonight, denies PND. No chest pain, no palpitations. Pt states he has been compliant w/ his meds, occasionally forgets evening dose of furosemide per wife (who accompanies him today).
+
+ROS: Denies fevers, chills, wt loss. Cardiac/pulm as above. GI: no n/v/d. GU: no dysuria. Neuro: no focal deficits. Skin: no new lesions noted by pt.
+
+PMH: CKD stage 3, HFrEF (EF ~35% per last echo, [inaudible] date), CAD s/p prior stent (details on file elsewhere), HTN, HLD, PAD.
+
+PSH: none significant per chart.
+
+MEDS: Furosemide 40 mg daily, carvedilol, lisinopril, atorvastatin, aspirin 81 mg, clopidogrel.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: See note below.
+Smokeless tobacco: Not on file.
+Alcohol use: occasional, pt reports 1-2 beers/wk.
+Illicit drug use: denies.
+Occupation: retired, formerly worked in [inaudible] manufacturing.
+Living situation: lives w/ spouse.
+Exercise: limited 2/2 claudication sx.
+
+Tobacco/Nicotine notes (free text, d/t template limitations): Pt reports he tried a few cigarettes as a teenager but never smoked regularly - denies ever being a regular cigarette smoker. However pt does endorse current daily use of nicotine vape, states he vapes nicotine every day, and has never smoked cigarettes as an adult. Discussed nicotine cessation resources, pt states he is not ready to quit vaping at this time, will continue to counsel at future visits.
+
+FAMILY HISTORY: Father w/ MI in 60s, mother w/ DM2, no known fam hx of lung ca or other malignancy on file.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, SpO2 96% RA, Wt stable from last visit per flowsheet.
+Gen: NAD, A&Ox3, conversant, appears stated age.
+CV: RRR, no m/r/g appreciated, no JVD noted.
+Pulm: CTAB, no wheezes/rales/rhonchi.
+Abd: soft, NT/ND, +BS.
+Ext: trace pitting edema b/l ankles, no ulcers, no gangrene. Pedal pulses: DP/PT diminished b/l but palpable, cap refill <3 sec b/l. Skin warm, no hair loss noted on LE (though pt has always been fairly hairless per pt's own report, unrelated to PAD).
+Neuro: grossly intact, no focal deficits.
+
+LABS (reviewed, from recent draw): Cr 1.6 (baseline per CKD stage 3), eGFR ~45, K+ 4.2, BNP mildly elevated c/w known HFrEF, lipid panel at goal on statin.
+
+IMAGING: Prior ABI on file showing mod PAD, no new imaging today.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - sx stable, claudication distance unchanged. Continue current antiplatelet regimen (aspirin + clopidogrel), continue statin for plaque stabilization. Reinforce supervised exercise program recommendation, home walking program encouraged. F/u ABI in 6 mo or sooner if sx worsen.
+2. CKD stage 3 - stable, monitor Cr/eGFR at next labs, avoid nephrotoxic agents, renally dose meds as needed.
+3. HFrEF - clinically stable, euvolemic on exam today, continue GDMT (carvedilol, lisinopril, diuretic), reinforce med compliance esp evening furosemide dose, pt's wife to help remind him.
+4. CAD - continue dual antiplatelet therapy, statin, no anginal sx today.
+5. Nicotine/tobacco use - pt counseled re: daily nicotine vape use, encouraged cessation, provided resources, pt not ready to quit at this visit, will re-address. Reinforced that although he never smoked cigarettes regularly (per his report, only tried a few as a teen), the vape nicotine use is still a modifiable risk factor for his vascular disease and should be addressed.
+
+F/u: Vascular surgery in 6 months or PRN if sx worsen, call clinic w/ any new rest pain, non-healing wounds, or ulceration.
+
+Electronically signed: Farah Siddiqui, MD, 07/30/2024

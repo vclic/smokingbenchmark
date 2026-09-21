@@ -1,0 +1,41 @@
+PROGRESS NOTE
+Date of Service: 4/1/25
+Patient: Betty Allen   DOB: 8/8/1966   MRN: 92753747
+
+S:
+CC: Chronic disease f/u
+HPI: Mrs. Allen is a 58 y.o. female with a history of HLD and CAD; tobacco: 1 PPD since 17yo; she presents for routine follow-up of chronic conditions. Doing okay overall. Taking all meds as prescribed.
+
+PMH:
+- Hypercholesterolemia
+- CAD (dx 2009)
+Meds: aspirin 81 mg daily; metoprolol succinate 50 mg daily; pravastatin 40 mg nightly
+Allergies: NKDA
+SH: Lives alone in an apartment. Tob: current smoker. EtOH: 2-3 drinks on weekends.
+FH: Mother - CHF, d. age 88. Father smoked 2 ppd, died of emphysema at 79.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 134/70  HR: 104  RR: 12  Temp: 98.2 F  SpO2: 99% on RA  Wt: 118 lbs  BMI: 21.7
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear, good air movement
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (3/9/2025): LDL 101, Cr 0.71, K 4.0
+
+ASSESSMENT/PLAN:
+1. Hypercholesterolemia: LDL at goal on last check; continue.
+2. CAD
+   - Stable. Continue secondary prevention.
+3. Tobacco dependence
+   - Advised to quit; >3 min spent counseling. Not ready to quit at this time. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+
+Return in about 6 months (around 10/1/2025).
+
+-- KO (MD)

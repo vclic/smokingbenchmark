@@ -1,0 +1,50 @@
+CARDIOLOGY FOLLOW-UP - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Susan Harris (F), DOB 4/19/1967 (age 58)
+Date of Service: 05/12/2025
+Author: Steven Park, MD (resident); attending co-signature below
+
+CHIEF COMPLAINT: Heart failure follow up.
+
+HPI: Ms Harris is a 58 year old woman with hx of HFrEF, atrial fibrillation, OSA, hypothyroidism and BPH who presents for routine cardiology follow up. She reports mild dyspnea on exertion, denies orthopnea or PND currently. Weight stable. She continues home diuretic and beta blocker. No chest pain, no palpitations noted today though she has had intermittent episodes in the past managed w/ rate control strategy.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/03/2022*** (left in chart by prior author, not updated for todays visit)
+"Pt is a pleasant female who was seen in clinic for HF management. She reports doing well overall, denies edema, denies significant fatigue. Echo from that time showed EF 35% with mild MR. Pt was continued on carvedilol, furosemide, and spironolactone. Pt educated on low sodium diet and daily weights. Pt denies alcohol use. Pt reports adherence to medications. Follow up in 3 months with repeat BMP to monitor potassium and renal function given diuretic and spironolactone use. Pt also followed by endocrinology for hypothyroidism, on levothyroxine, TSH last checked 9/2022 was WNL. Pt also seen by urology for BPH, on tamsulosin, tolerating well." ***END COPIED TEXT***
+
+SOCIAL HISTORY (EHR TEMPLATE - discrete fields):
+Alcohol use: Not on file
+Smoking status: Never Smoker [NOTE: this field is outdated/incorrect and does not reflect actual history - see narrative below]
+Smokeless tobacco: Not on file
+Drug use: denies
+Occupation: retired
+Living situation: 
+Exercise: 
+
+NARRATIVE SOCIAL HISTORY (dictated by Dr Park): The templated smoking status field above reading 'Never Smoker' is incorrect and should be disregarded - reviewed history w/ pt directly today. Smoked 1.5 packs per day for 14 years, stopped completely for 6 years, then restarted at 1.5 packs per day for 20 years and still smokes. She was counseled extensively regarding smoking cessation given her cardiac and pulmonary comorbidities; she continues to smoke despite counseling. Discussed lung cancer screening as a topic in general terms during visit, no further plan documented re screening at this time.
+
+ROS: Cardiac - as above. Pulm - denies cough, denies hemoptysis. Denies fevers chills night sweats. Otherwise ROS reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72 irregular, RR 16, SpO2 97% RA, Wt 168 lbs
+Gen: NAD, well appearing
+CV: irregularly irregular rhythm, no murmurs appreciated, no significant JVD
+Resp: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Ext: trace bilateral lower extremity edema, no calf tenderness
+Skin: warm dry intact
+
+LABS/RESULTS:
+05/12/2025 BMP: Na 138, K 4.3, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 94
+05/12/2025 BNP: 210 pg/mL
+04/2025 TSH (endocrinology): 2.1 mIU/L, within normal limits
+05/12/2025 EKG: atrial fibrillation, rate controlled, no acute ST changes
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced ejection fraction - stable, continue current regimen, recheck BMP/BNP at next visit.
+2. Atrial fibrillation - rate controlled on current beta blocker, continue anticoagulation per prior plan.
+3. OSA - continue CPAP compliance, will follow with sleep medicine as needed.
+4. Hypothyroidism - TSH WNL per endocrinology, continue levothyroxine.
+5. BPH - stable on tamsulosin, continue with urology follow up.
+6. Tobacco use - ongoing active smoker as detailed above despite prior counseling; continued counseling provided today regarding cessation resources and risks given cardiopulmonary disease; will readdress at next visit.
+
+Plan discussed with patient, all questions answered, follow up in 3 months or sooner if symptoms worsen.
+
+ATTESTATION: I have personally seen and examined the patient with the resident, discussed the case, and agree with the assessment and plan as documented above, with amendments as noted. - Attending Cardiologist, electronically signed.

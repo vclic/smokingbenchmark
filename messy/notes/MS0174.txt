@@ -1,0 +1,46 @@
+OUTPATIENT PRE-OPERATIVE EVALUATION
+Internal Medicine, Dr. Brian Okonkwo
+Date of Service: 09/19/2025
+
+Patient: Terrence Gonzales | Sex: M | DOB: 06/30/1953 | Age: 72
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 96% RA, Wt 221 lb, Ht 70 in, BMI 31.7
+Allergies: NKDA
+Chief complaint: pre-op clearance for right total knee replacement, ortho surgery scheduled with Dr. Feldman.
+Review of systems intake form completed by patient; pt was reticent about several sections today.
+Social history: attempted to review tobacco use with patient; patient declined to discuss tobacco use, stated he 'didn't come here to talk about that.' No further detail obtained on smoking status at this time. Alcohol: reports occasional wine with dinner. Lives with spouse, retired machinist.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Gonzales is a 72-year-old male here for pre-operative medical evaluation prior to right knee replacement. He reports chronic right knee pain, 'bone on bone,' limiting ambulation to about one block. He denies chest pain, denies current dyspnea at rest. He states, 'I just want to get this knee fixed so I can walk my dog again.' When asked about tobacco history during the interview for surgical risk stratification, patient again declined to discuss tobacco use, and redirected the conversation to his knee symptoms. This was not pursued further per patient preference; smoking status remains not documented.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 03/11/2024 - Dr. Okonkwo, routine follow-up]
+HPI (03/11/2024): Patient presents for routine follow-up of OSA, T2DM, and hypothyroidism. Reports good adherence to CPAP, average use 6.5 hrs/night per download. Blood sugars log reviewed, fasting range 110-140. Denies polyuria, polydipsia. TSH last checked 4 months ago, stable on current levothyroxine dose. No new complaints. Continue current regimen, RTC in 6 months.
+Assessment/Plan (03/11/2024): 1) OSA - continue CPAP, good compliance. 2) T2DM - continue metformin, recheck A1c in 3 months. 3) Hypothyroidism - continue levothyroxine 75 mcg, recheck TSH in 6 months.
+[END COPY-FORWARD]
+
+Problem List:
+- G47.33 Obstructive sleep apnea
+- E11.9 Type 2 diabetes mellitus without complications
+- E03.9 Hypothyroidism, unspecified
+- M17.11 Unilateral primary osteoarthritis, right knee
+- Z98.89 Other specified postprocedural states (outdated entry, from prior unrelated procedure, retained on list)
+- I10 Essential hypertension (outdated - patient reports this resolved after weight loss, not currently on treatment)
+
+Medications: Metformin 1000mg BID, Levothyroxine 75 mcg daily, Atorvastatin 20mg daily, uses CPAP nightly.
+
+Exam: Alert, oriented, NAD. Cardiac: RRR, no murmurs. Lungs: clear to auscultation bilaterally, no wheezes/rales. Extremities: right knee with crepitus, decreased ROM, no effusion, no calf tenderness. No clubbing or cyanosis noted.
+
+Labs reviewed: A1c 7.1%, Cr 0.9, TSH 2.1, CBC unremarkable, EKG NSR no acute changes.
+
+ASSESSMENT AND PLAN:
+1) Pre-operative clearance for right TKA - Overall low-moderate surgical risk. Cardiac and pulmonary exam unremarkable today. Continue home medications through peri-operative period per anesthesia instructions.
+2) OSA - continue CPAP; bring device to hospital for use post-operatively.
+3) T2DM - reasonably controlled, continue metformin, hold morning dose day of surgery per protocol.
+4) Hypothyroidism - continue levothyroxine, stable.
+5) Tobacco/smoking history - unable to be assessed today as patient declined to discuss tobacco use; will attempt to readdress at future visit. Lung cancer screening was discussed but deferred until smoking history can be obtained, as risk stratification cannot be completed without this information.
+6) Health maintenance - influenza vaccine offered, patient accepted.
+
+Return to clinic post-operatively or sooner if concerns. Discussed plan with patient, who verbalized understanding and agreement.
+
+Electronically signed: Brian Okonkwo, MD, 09/19/2025.

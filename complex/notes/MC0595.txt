@@ -1,0 +1,45 @@
+NURSE INTAKE
+Date of Service: 05/08/2025
+Patient: Donna Schmidt, F, DOB 02/21/1946 (age 79)
+Provider: Brian Okonkwo, MD
+Dept: Geriatrics
+
+Vitals: BP 148/82, HR 78 irregular, RR 16, Temp 98.4F, SpO2 96% RA, Wt 198 lb, Ht 5'3", BMI 35.1
+
+Chief complaint per pt: "I just feel more tired than usual and my knees ache something awful."
+
+SOCIAL HISTORY (EHR templated block)
+Tobacco use: Current every day smoker
+Alcohol use: None (quit 2013)
+Drug use: Not on file
+Living situation: Lives alone, daughter checks in weekly
+Occupation: Retired seamstress
+Exercise: Sedentary
+
+HPI (Dr. Okonkwo):
+Ms. Schmidt is a 79 year old female with hx of T2DM, gout, atrial fibrillation, osteoporosis, HTN, and obesity, presenting today on 05/08/2025 for routine geriatric assessment. She reports gen fatigue over past several weeks, denies chest pain, denies syncope, endorses occasional palpitations that resolve on their own, um, [inaudible] she says "they come and go, maybe a few times a week, I don't think much of it." She currently smokes 1 pack per day and states she has tried to cut back multiple times, she says "I know I should quit, doctor, but it's hard, it's just hard" — she was counseled extensively today regarding tobacco cessation, offered nicotine patches and referral to quitline, but she continues to smoke despite counseling. She denies alcohol use, confirms she quit drinking back in 2013 and has not resumed since. Diet review notes she eats lower sodium foods most days but admits to "cheating" on holidays. Gout flares intermittently, last flare approx 6 wks ago per pt, resolved with colchicine. She takes apixaban for her afib and reports no bleeding issues, no bruising she noticed, though she did mention some gum bleeding after flossing which she attributes to "flossing too hard I guess." Osteoporosis followed by endocrinology, last DEXA reportedly stable though report not available in this chart today.
+
+ROS: Constitutional - fatigue as above, denies fever/chills/weight loss. Cardiac - occasional palpitations as noted, denies orthopnea, denies PND, mild bilateral ankle edema chronic per pt. Musculoskeletal - joint pain in knees and great toe, worse with weather changes per pt. Respiratory - denies cough, denies hemoptysis, denies dyspnea at rest, some exertional dyspnea walking to mailbox and back she reports. GI - denies nausea, denies abdominal pain. Neuro - denies falls, denies dizziness though states she "gets a little lightheaded standing up sometimes."
+
+LABS/RESULTS (reviewed today):
+HbA1c 05/01/2025: 7.4%
+CMP 05/01/2025: Cr 1.0, eGFR 58, K 4.3, Na 138
+Uric acid 05/01/2025: 6.8 mg/dL
+TSH 04/15/2025: 2.1 uIU/mL
+INR n/a (on apixaban, not routinely monitored)
+
+EXAM: Alert, oriented x3, mild kyphosis noted, irregularly irregular rhythm on cardiac auscultation consistent w/ known afib, no gross edema today, gait steady with cane, lungs clear to auscultation bilaterally.
+
+ASSESSMENT AND PLAN:
+1. Atrial fibrillation - continue apixaban, rhythm stable, will recheck CBC and renal function in 3 months.
+2. Type 2 diabetes mellitus - A1c 7.4%, continue metformin, reinforce diet.
+3. Gout - continue allopurinol, colchicine PRN for flares.
+4. Osteoporosis - continue calcium/vitamin D, f/u with endocrinology per their schedule.
+5. Hypertension - BP mildly elevated today, continue current antihypertensive regimen, recheck at next visit.
+6. Obesity - discussed weight management strategies, referral to nutrition offered.
+7. Tobacco use - patient continues to smoke 1 pack per day despite counseling today; nicotine patches and quitline referral offered, she declined at this time but agreed to think it over. Lung cancer screening was discussed in general terms.
+8. Alcohol use - none, quit in 2013, no concerns at this time.
+
+Follow up in geriatrics clinic in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+— Brian Okonkwo, MD

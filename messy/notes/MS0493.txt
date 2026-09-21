@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - COPD Follow-up
+Date of Service: 04/17/2023
+Author: Nadia Haddad, MD
+
+Patient: Joyce Hughes, F, DOB 04/17/1954 (age 69)
+
+CHIEF COMPLAINT: COPD f/u, video visit.
+
+HPI: Pt seen via telehealth for routine COPD follow-up. Daughter present on call, assisting w/ communication. Pt has known expressive aphasia s/p CVA (per chart), limiting hx-taking today. Daughter states, "She's been using her inhalers, I make sure of that." Pt nods when asked re: breathing but unable to verbally elaborate on symptom severity, triggers, or frequency of use. No overt distress noted on cam, resp effort appears nl. Denies (via gesture) chest pain. Daughter reports no recent ED visits or hospitalizations.
+
+PMH: depression, peripheral artery disease, osteoporosis, gout, obesity.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Unable to obtain - pt aphasic, poor historian
+ Pack-years: Not on file
+ Quit date: --
+ Alcohol use: Not on file
+ Illicit drug use: Denies (per daughter)
+ Occupation: Retired
+ Living situation: Lives w/ daughter
+ Exercise: Limited, uses walker
+
+ROS: Limited 2/2 communication barrier. Daughter denies fevers, denies weight loss, denies increased cough per her observation.
+
+EXAM: Telehealth - limited. Pt appears comfortable, seated in chair, O2 sat per home pulse ox reported by daughter as 94% RA. No visible accessory muscle use. Speech: nonfluent, effortful, consistent w/ known aphasia.
+
+ASSESSMENT/PLAN:
+69 yo F w/ COPD, h/o CVA w/ expressive aphasia, depression, PAD, osteoporosis, gout, obesity - seen via telehealth for COPD f/u.
+
+1. COPD - stable per daughter report, no exac since last visit. Continue current inhaler regimen. Tobacco/smoking history unable to be obtained today given pt's aphasia/poor historian status; will attempt to clarify via prior records or in-person visit w/ additional collateral. Lung cancer screening discussed briefly w/ daughter as topic for future in-person visit given communication limitations today.
+2. PAD - stable, continue current mgmt, f/u vascular per prior referral.
+3. Depression - daughter reports mood "okay," continue current psych meds, defer to PCP/psych for further adjustment.
+4. Osteoporosis - continue current therapy, DEXA per routine interval.
+5. Gout - no flares reported.
+6. Obesity - counseling deferred given communication barriers today.
+
+Plan to schedule in-person visit for more thorough hx and exam given limitations of telehealth format and pt's aphasia. RTC or sooner PRN.
+
+Electronically signed: Nadia Haddad, MD

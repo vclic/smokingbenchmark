@@ -1,0 +1,31 @@
+Telehealth Geriatric Assessment - Geriatrics
+Date of Service: 04/16/2023
+Provider: Daniel Reyes, MD
+
+Patient: Raymond Henderson, M, DOB 4/16/1960 (age 63)
+
+HPI: Pt seen via video visit for routine geriatric assessment. Pt states, "I feel about the same, doc, just tired more often." No new falls, no acute complaints today. Reviewed home safety and med adherence - pt reports taking meds as prescribed. Smoking history reviewed in detail: pt smoked a quarter pack (about 5 cigarettes) per day for 23 years, then increased to about 8 cigarettes per day for the next 20 years up to now. Pt remains an active smoker, continues to smoke daily. Pt states, "I've cut back some but I still light up most days." Advised to quit, discussed resources including counseling and pharmacotherapy options; pt not ready to set quit date today.
+
+--- Copied forward from prior visit note dated 11/02/2022 ---
+CC: Follow up HTN, hyperlipidemia, asthma.
+Pt with history of asthma since childhood, uses albuterol PRN, denies recent exacerbations. HTN reasonably controlled on lisinopril. Hyperlipidemia on atorvastatin, tolerating well, no myalgias reported. Pt lives alone, independent in ADLs/IADLs. Denies chest pain, SOB at rest. Gait steady, uses cane occasionally outdoors. Vision/hearing screened - reports adequate. Advance directive discussed, pt has healthcare proxy on file. Continue current regimen, f/u in 6 months or sooner if needed.
+--- end copied forward text ---
+
+ROS: Denies fever, chest pain, palpitations, dyspnea at rest. + occasional cough, no hemoptysis. Denies weight loss.
+
+Labs/Results (reviewed):
+- CBC 03/28/2023: WNL
+- CMP 03/28/2023: Cr 1.0, Na 140, K 4.2, glucose 98
+- Lipid panel 03/28/2023: LDL 92, HDL 44, TG 130
+- Spirometry 01/15/2023: mild obstructive pattern, consistent with asthma
+
+Exam: Alert, oriented x3. Lungs - mild expiratory wheeze bilaterally. CV - RRR, no murmurs. Ext - no edema. Gait observed via video - appears stable.
+
+Assessment/Plan:
+1. Active tobacco use - counseled on cessation, discussed nicotine replacement and behavioral support; screening for lung cancer discussed generally, pt to think it over.
+2. Asthma - stable, continue current inhalers.
+3. HTN - stable, continue lisinopril.
+4. Hyperlipidemia - stable on atorvastatin, repeat lipids in 6 mo.
+5. Geriatric assessment - no acute safety concerns identified today; f/u telehealth in 3 months.
+
+Electronically signed: Daniel Reyes, MD, 04/16/2023.

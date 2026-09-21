@@ -1,0 +1,73 @@
+Cardiology Progress Note
+
+Patient: MARTIN, Sandra    MRN: 59821385
+DOB: 02/11/1949    Age: 77 y.o.    Sex: Female
+Date of Service: 03/04/2026    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Sandra Martin is a 77 y.o. female who presents for atrial fibrillation follow-up.
+Occasional palpitations lasting minutes. No bleeding on anticoagulation.
+
+Past Medical History:
+Diagnosis	Date
+• Depression
+• Atrial fibrillation	2010
+• HTN
+• Gastroesophageal reflux disease
+• Heart failure with reduced ejection fraction
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (2010)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rivaroxaban 20 mg daily
+• carvedilol 12.5 mg BID
+• hydrochlorothiazide 25 mg daily
+• famotidine 20 mg BID
+• furosemide 40 mg daily
+• atorvastatin 40 mg daily
+• sertraline 100 mg daily
+• sacubitril-valsartan 49/51 mg BID
+• trazodone 50 mg nightly PRN
+• losartan 100 mg daily
+• multivitamin daily
+• diltiazem ER 120 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+
+Family History
+Mother - dementia, d. 84.
+
+Review of Systems
+ROS: Skin neg, CV neg, Neuro neg, MSK neg, GI neg, GU neg, Resp neg
+
+Objective:
+Vitals:
+  BP 123/91 (BP Location: Right arm, Patient Position: Sitting) | Pulse 78 | Temp 97.5 °F (Oral) | Resp 16 | Ht 5' 4" | Wt 123 lb | SpO2 100% | BMI 21.18 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: Trace bilateral ankle edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 5. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+
+RTC 6 months.
+
+Electronically signed by Daniel Reyes, MD on 03/04/2026

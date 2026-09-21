@@ -1,0 +1,75 @@
+URGENT CARE PROGRESS NOTE
+Patient: Paula Long (F) DOB: 01/22/1965 Age: 61
+Date of Service: 01/22/2026
+Author: Daniel Reyes, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: Cough x several days
+
+HPI: Ms. Long is a 61-year-old female presenting with a several-day history of dry, hacking cough. She states, "It's been keeping me up at night, doc, and I feel kinda winded when I walk up the stairs." No fevers reported at home, though she felt "warm" yesterday. She denies hemoptysis. She notes some post-nasal drip and mild sore throat. She has tried OTC cough drops without much relief. No sick contacts identified, though she works in a daycare setting. She denies chest pain but endorses some tightness with coughing spells, which she attributes to her asthma flaring. She uses her albuterol inhaler more frequently over the past 3 days, about 2-3x/day compared to her baseline PRN use.
+
+PROBLEM LIST (ICD-10):
+- Type 2 diabetes mellitus without complications (E11.9)
+- Essential hypertension (I10)
+- Hyperlipidemia (E78.5)
+- Gout (M10.9) - last flare 2019, currently controlled
+- Asthma, mild intermittent (J45.20)
+- Hypothyroidism (E03.9)
+- Tobacco use disorder, former (Z87.891)
+- GERD (K21.9) - outdated, pt reports resolved after dietary changes years ago
+
+PAST MEDICAL HISTORY: As above per problem list.
+
+SOCIAL HISTORY: Former smoker, 20 pack-year smoking history; pt reports she no longer smokes. Alcohol use: pt quit drinking alcohol in 2008, denies current EtOH use. Denies illicit drug use. Lives with husband, works part-time at local daycare center. Denies occupational exposures beyond typical daycare environment (frequent viral illnesses circulating).
+
+MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Levothyroxine 75 mcg PO daily
+5. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN
+6. Allopurinol 300 mg PO daily
+7. Fluticasone nasal spray PRN seasonal allergies
+8. Multivitamin daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss. Reports mild fatigue.
+HEENT: Denies vision changes, ear pain. Reports mild sore throat, nasal congestion. Denies sinus pressure.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Positive for cough as above. Denies hemoptysis, pleuritic chest pain. Reports mild dyspnea on exertion, worse than baseline.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, frequency, hematuria.
+Musculoskeletal: Denies acute joint pain, denies gout flare symptoms currently.
+Skin: Denies rash, lesions.
+Neuro: Denies headache, dizziness, syncope.
+Psych: Denies depression, anxiety, SI/HI.
+Endocrine: Denies polyuria, polydipsia beyond baseline.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 88, BP 132/78, RR 18, SpO2 96% on RA, Wt 172 lbs, BMI 29.4
+General: Alert, well-appearing female in no acute distress, mild intermittent coughing during visit.
+HEENT: Normocephalic, atraumatic. Oropharynx mildly erythematous, no exudate. TMs clear bilaterally. Nasal mucosa mildly edematous, clear rhinorrhea.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: RRR, no murmurs, rubs, or gallops. Peripheral pulses intact.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no rales. Good air movement, no accessory muscle use, no retractions.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing. Great toe joints without erythema/swelling.
+Skin: Warm, dry, intact, no rashes.
+Neuro: Alert and oriented x3, no focal deficits.
+Psych: Mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral, with asthma exacerbation - will continue albuterol PRN, add short course of prednisone taper given increased inhaler use and audible wheeze. Encouraged rest, fluids. Discussed return precautions if worsening dyspnea, high fever, or hemoptysis.
+2. Asthma, mild intermittent - reviewed inhaler technique, ensured pt has adequate refills. Discussed possible step-up therapy if flares become more frequent.
+3. Tobacco use disorder, former - reinforced importance of continued abstinence from smoking; pt confirmed she no longer smokes. General counseling regarding pulmonary health provided.
+4. Type 2 diabetes mellitus - stable, continue current metformin regimen, will check A1c at next PCP follow-up.
+5. Hypertension - stable on current regimen, BP well controlled today.
+6. Hyperlipidemia - continue atorvastatin, no new symptoms.
+7. Gout - currently quiescent, continue allopurinol.
+8. Hypothyroidism - continue levothyroxine, TSH due for recheck with PCP.
+
+Patient verbalized understanding of plan, agreed with above. Return to clinic or ED if symptoms worsen. Follow up with PCP within 1-2 weeks for chronic disease management.
+
+Daniel Reyes, MD

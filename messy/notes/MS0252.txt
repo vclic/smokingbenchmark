@@ -1,0 +1,65 @@
+GERIATRICS RESIDENT NOTE
+Patient: Susan Allen (DOB 4/14/1958, age 66)
+Date of Service: 04/14/2024
+Author: Quentin Hale, PA-C (resident); attending attestation below
+
+CC: Comprehensive geriatric assessment, follow-up of multiple chronic conditions.
+
+HPI:
+66 yo F with hx of obesity, HTN, T2DM, CKD stage 3, osteoporosis, and PAD presents for annual geriatric assessment. Pt accompanied by daughter today. Reports "I feel like I'm slowing down more than I used to." Denies chest pain, denies SOB at rest, does note some calf cramping with walking - "I have to stop after about a block now." Daughter states patient has had more falls risk concerns, no actual falls this year though. Pt reports adherence to metformin and lisinopril "most days" - admits occasionally forgets evening doses. No new GI complaints. Appetite fair. Sleep fragmented, up 2-3x/night to void.
+
+Review of systems otherwise negative except as above. Pt somewhat guarded during interview today, limited eye contact, several questions deflected.
+
+PMH:
+- Obesity
+- Hypertension
+- Type 2 diabetes mellitus
+- CKD stage 3
+- Osteoporosis
+- Peripheral artery disease
+
+Medications: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg qhs, Alendronate 70mg weekly, Aspirin 81mg daily, Vitamin D3 2000 IU daily.
+
+Allergies: NKDA
+
+SOCIAL HISTORY:
+Lives with daughter, retired schoolteacher. Denies alcohol use. Tobacco use: patient declined to discuss tobacco use when asked directly; deferred question, stated she'd "rather not get into that." Status therefore not able to be determined at this visit. Exercise: limited, mostly homebound activities per report.
+
+FAMILY HISTORY: Mother - hypertension, diabetes. Father - MI at age 70.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, Wt 205 lb, BMI 34.9
+Gen: obese female, no acute distress, appears stated age
+CV: RRR, no murmurs; diminished pedal pulses bilaterally, dorsalis pedis 1+ on right, absent on left
+Resp: CTAB
+Abd: soft, obese, NT/ND
+Ext: no edema, skin intact, no ulcers noted
+Neuro: alert, oriented x3, gait slow but steady with cane
+MSK: kyphotic posture noted
+
+LABS/RESULTS:
+- HbA1c (04/10/2024): 7.8%
+- Creatinine (04/10/2024): 1.6 mg/dL, eGFR 38 mL/min/1.73m2
+- Lipid panel (04/10/2024): LDL 98, HDL 42, TG 150
+- DEXA scan (02/2024): T-score -2.6 lumbar spine, -2.3 femoral neck
+- ABI (03/2024): 0.68 left, 0.82 right, consistent with known PAD
+- Urine microalbumin/creatinine ratio (04/10/2024): 180 mg/g
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - claudication symptoms stable to slightly worse per pt report of decreased walking distance. Continue aspirin, cilostazol not started due to concern re: CKD interactions, will reconsider. Vascular surgery f/u recommended. Encouraged supervised walking program.
+2. CKD stage 3 - eGFR 38, stable from prior. Continue lisinopril, monitor K+ and Cr. Avoid nephrotoxic agents/NSAIDs.
+3. Type 2 diabetes - A1c 7.8%, above goal for age but reasonable given frailty concerns. Continue metformin, reinforce dietary counseling.
+4. Hypertension - BP elevated today at 148/86. Will increase monitoring, consider medication adjustment if persistently elevated on home readings.
+5. Osteoporosis - DEXA consistent with osteoporosis. Continue alendronate, calcium/vitamin D. Fall precautions reviewed.
+6. Obesity - BMI 34.9. Counseled re: diet, activity as tolerated given PAD limitations.
+7. Tobacco/social history - status not determinable this visit, patient declined to discuss. Will attempt to revisit at next visit in supportive, nonjudgmental manner. General preventive health counseling given including discussion of age-appropriate cancer screening topics as applicable; no specific imaging ordered today pending further discussion.
+8. Geriatric assessment - overall function fair, some frailty markers present (slow gait, guardedness, polypharmacy). Will arrange PT eval for gait/balance. Home safety eval recommended.
+
+Return to clinic in 3 months or sooner if concerns.
+
+---
+ATTESTATION: I have personally seen and examined the patient with the resident and agree with the above assessment and plan. Discussed case in detail with Mr. Hale. - Dr. Linda Osei, MD, Attending Geriatrics
+
+---
+ADDENDUM (later same day, 04/14/2024, 4:45pm) - Q. Hale, PA-C:
+Spoke again briefly with patient by phone after daughter called clinic with additional question about medication timing for metformin. Clarified dosing instructions - take with meals to reduce GI upset. No new complaints reported at this time. Tobacco history still not discussed further; patient again did not wish to address topic and this was not pressed given time constraints and patient's preference. Will readdress at future visit as noted in plan above. No other changes to today's assessment/plan.

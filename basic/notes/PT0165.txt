@@ -1,0 +1,74 @@
+Adult Medicine Progress Note
+
+Patient: COLEMAN, Gregory    MRN: 72833725
+DOB: 12/04/1952    Age: 70 y.o.    Sex: Male
+Date of Service: 05/12/2023    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Gregory Coleman is a 70 y.o. male who presents for hospital follow-up after admission for symptomatic anemia.
+Admitted 5/1/2023-5/5/2023 for symptomatic anemia. Still fatigued but improving. Using walker at home.
+
+Past Medical History:
+Diagnosis	Date
+• Gout	2013
+• HTN
+• Osteoarthritis of knees
+• Major depressive disorder, recurrent, in remission
+• Gastroesophageal reflux disease
+• Tobacco use disorder
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• colchicine 0.6 mg PRN flare
+• lisinopril 20 mg daily
+• omeprazole 20 mg daily
+• sertraline 100 mg daily
+• meloxicam 7.5 mg daily
+• allopurinol 100 mg daily
+• trazodone 50 mg nightly PRN
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives with wife in a single-family home.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Father - stroke.
+
+Review of Systems
+ROS: MSK neg, Gen neg, GU neg, GI neg
+
+Objective:
+Vitals:
+  BP 128/83 (BP Location: Right arm, Patient Position: Sitting) | Pulse 69 | Temp 98.3 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 187 lb | SpO2 99% | BMI 29.33 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (5/8/2023): Cr 1.00, K 4.0
+
+Assessment & Plan
+1. Symptomatic anemia
+   Resolved. Med rec completed.
+2. Tobacco use disorder
+   Pt continues to smoke, 26-pack-year. Brief cessation counseling provided (8 min). He is contemplating quitting. Referred to quitline (1-800-QUIT-NOW).
+
+RTC 12 months.
+
+Electronically signed by Michael Dunn, DO on 05/12/2023

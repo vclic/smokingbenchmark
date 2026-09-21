@@ -1,0 +1,76 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Nancy Torres (DOB 1/22/1952) | Age: 72 | Sex: F
+Date of Service: 01/22/2024
+Provider: Kevin Osei, MD
+
+--- NURSE INTAKE ---
+Vitals per pt report (home cuff/pulse ox, telehealth visit): BP 128/76, HR 78 irregular, RR 16, SpO2 97% on RA, Wt 168 lb.
+Chief complaint: 'I need my refills, I'm almost out of everything.'
+Allergies: NKDA.
+Medication reconciliation done - see below.
+
+Smoking status: Never Smoker
+(NOTE: above field is auto-populated from old chart data and is WRONG - see HPI, patient has a documented smoking history, corrected in narrative below.)
+
+--- COPIED FORWARD FROM VISIT 06/14/2019 (left in chart, not reviewed/updated) ---
+HPI (from 2019): Pt is a 67 yo woman here for routine follow up of hypothyroidism and asthma. She reports doing well overall, denies chest pain, SOB at rest, or palpitations. Continues on levothyroxine. Uses albuterol PRN, maybe once a week. Sleep is fair. Mood stable on current antidepressant. No new complaints today. Plan: continue current meds, recheck TSH in 6 months, f/u PRN.
+ROS (2019): Constitutional - no fever, no weight loss. Cardiac - no chest pain, no edema. Resp - no cough, no wheeze at rest. All other systems negative.
+Exam (2019): well-appearing, NAD, lungs CTAB, RRR, no edema.
+--- END COPIED FORWARD SECTION ---
+
+--- CURRENT VISIT NOTE (Dr. Osei) ---
+HPI: Nancy Torres is a 72-year-old woman seen today via telehealth for medication refills. She is a well-known patient with hypothyroidism, asthma, depression, OSA, and atrial fibrillation. She states, 'I feel pretty much the same as always, just need my pills renewed before I run out.' She denies chest pain, palpitations, or worsening dyspnea. She reports occasional use of her albuterol inhaler, about once a week, no recent exacerbations. She uses her CPAP machine most nights and reports adequate sleep. Mood is stable, she denies SI/HI. She reports good adherence to levothyroxine and apixaban.
+
+On further questioning about the erroneous 'Never Smoker' field noted by the intake nurse, patient clarifies this is incorrect. She reports she used to smoke and quit smoking 13 years ago. When asked to quantify her prior use, she states it totals a 17 pack-year smoking history. She denies any current tobacco, vaping, or nicotine product use. This has been corrected in the chart problem list/social history.
+
+Review of Systems:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss/gain.
+Eyes: denies vision changes.
+ENT: denies sore throat, hearing changes.
+Cardiovascular: denies chest pain, orthopnea, PND, lower extremity edema; reports known history of atrial fibrillation, on anticoagulation.
+Respiratory: denies cough, hemoptysis, wheezing at rest; occasional mild wheeze with exertion per patient.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: denies joint pain, swelling.
+Neuro: denies headache, dizziness, numbness, tingling.
+Psych: denies SI/HI, reports mood stable, sleep adequate with CPAP.
+Skin: denies rash, lesions.
+Endocrine: denies heat/cold intolerance, denies polyuria/polydipsia.
+All other systems reviewed and negative.
+
+Social History: Retired schoolteacher, lives with husband. Denies current alcohol use. Denies illicit drug use. As discussed above in HPI, patient has a former smoking history - quit smoking 13 years ago, total 17 pack-year history. No current tobacco use. Denies vaping or e-cigarette use.
+
+Physical Exam (limited, telehealth):
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+HEENT: No visible distress, no scleral icterus noted on camera.
+Cardiovascular: Unable to auscultate via telehealth; patient denies chest pain or palpitations; pulse per home monitor reported irregular, consistent with known AFib.
+Respiratory: No visible respiratory distress, no use of accessory muscles, speaking in full sentences.
+Extremities: No visible edema on camera.
+Psych: Mood euthymic, affect appropriate, cooperative throughout interview.
+Skin: No visible rash or lesions on exposed skin.
+
+Current Medications:
+1. Levothyroxine 75 mcg daily
+2. Albuterol HFA inhaler 90 mcg, 2 puffs PRN wheeze
+3. Fluticasone/salmeterol 250/50 inhaler, 1 puff BID
+4. Sertraline 100 mg daily
+5. Apixaban 5 mg BID
+6. Metoprolol succinate 50 mg daily
+7. CPAP therapy nightly
+8. Vitamin D3 1000 IU daily
+9. Calcium carbonate 500 mg daily
+
+Labs/Data: TSH pending, last INR-equivalent (n/a on apixaban), last A1c WNL from prior visit.
+
+Assessment/Plan:
+1. Hypothyroidism - stable, continue levothyroxine 75 mcg daily, recheck TSH in 6 months.
+2. Asthma - well controlled, continue current inhaler regimen, refill albuterol and fluticasone/salmeterol as requested.
+3. Depression - stable on sertraline, continue, will reassess at next visit.
+4. Obstructive sleep apnea - continues CPAP use, tolerating well, continue as is.
+5. Atrial fibrillation - stable on apixaban and metoprolol, continue anticoagulation, no new symptoms.
+6. Tobacco history - former smoker, quit smoking 13 years ago, 17 pack-year history; corrected the outdated 'Never Smoker' field in chart which was inaccurate. Briefly discussed general topic of lung cancer screening as a preventive health item to consider at a future visit; deferred further discussion to primary care follow-up.
+7. Health maintenance - up to date per chart review, will address vaccinations at next in-person visit.
+
+All refills sent to pharmacy as requested. Patient verbalizes understanding of plan. Follow-up in 6 months or sooner if symptoms arise. Telehealth visit concluded, total time spent 20 minutes including chart review and counseling.
+
+Electronically signed: Kevin Osei, MD, 01/22/2024.

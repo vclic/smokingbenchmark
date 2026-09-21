@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Larry White
+DOB: 02/07/1973 (Age 50)
+Date of Service: 02/07/2023
+Author: Elena Markovic, MD (NP progress note)
+
+CHIEF COMPLAINT: Medication refills, telehealth visit.
+
+HPI: Mr. White is a 50 year old male with history of type 2 diabetes, heart failure with reduced EF, hyperlipidemia, and hypothyroidism who calls in today for refill of his usual meds, video connection kept cutting out so parts of history [inaudible]. Patient states "I'm feeling about the same, maybe a little more tired in the mornings but I think that's just because I'm not sleeping great." He denies chest pain, denies orthopnea, denies increased leg swelling, he says "my legs look normal to me, no more puffy than usual." He reports he has been taking his medications as prescribed, occasionally misses the evening dose of metformin he says. Denies fevers, chills, cough, denies any new shortness of breath at rest. He did mention some intermittent dizziness when standing up quickly, we'll review his blood pressure readings from home log.
+
+Social history: Patient has a long history of heavy smoking in his younger years. He reports he no longer smokes at all and has not smoked since his 23rd birthday - given his current age of 50 and DOB of 2/7/1973, this has been quite some time now. He denies any alcohol use, denies illicit drug use.
+
+[COPIED FORWARD FROM VISIT DATED 08/14/2019]
+ROS: Constitutional: denies fever, chills, night sweats, weight loss. HEENT: denies headache, vision changes, hearing changes, sore throat. Cardiovascular: denies chest pain, denies palpitations, denies syncope. Respiratory: denies cough, denies wheeze, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain. GU: denies dysuria, denies hematuria, denies urinary frequency. Musculoskeletal: denies joint pain, denies muscle weakness. Neuro: denies numbness, tingling, denies focal weakness. Skin: denies rash, denies new lesions. Psych: denies depression, denies anxiety, denies SI/HI.
+Physical Exam (from 08/14/2019, retained for reference): Vitals stable at that time BP 128/78, HR 72, RR 16, Wt 210 lb. General: well-appearing, no acute distress. Cardiac: RRR, no murmur appreciated at that visit. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender, non-distended. Extremities: no edema noted. Neuro: grossly intact.
+[END COPIED FORWARD SECTION]
+
+CURRENT VISIT ROS (telehealth, limited): Denies chest pain, denies shortness of breath at rest, endorses mild fatigue as above, denies fevers, denies cough, denies leg swelling per patient report, denies dizziness at rest only with position change as noted.
+
+Physical Exam (limited, telehealth): Patient appeared comfortable on camera, no acute distress noted, speaking in full sentences without difficulty. Unable to auscultate heart or lungs via telehealth. Patient self-reported home BP log values ranging 118-134 systolic, 70-82 diastolic over past week, denies home glucose readings above 180 this week, reports occasional readings low 60s in the morning per his own log which he read allowed to me over the phone, some of the numbers he read were kind of hard to here clearly due to the call quality, will have him send photo of log through portal.
+
+Current Medications:
+1. Metformin 1000mg PO BID
+2. Carvedilol 25mg PO BID
+3. Lisinopril 20mg PO daily
+4. Furosemide 40mg PO daily
+5. Spironolactone 25mg PO daily
+6. Atorvastatin 40mg PO nightly
+7. Levothyroxine 100mcg PO daily
+8. Aspirin 81mg PO daily
+9. Empagliflozin 10mg PO daily
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - continue current regimen, will review home glucose log via portal, discussed occasional hypoglycemia symptoms and reviewed hypoglycemia protocol with patient.
+2. Heart failure with reduced ejection fraction - clinically stable per patient report, no signs of decompensation reported today, continue guideline directed medical therapy as above, refill furosemide, spironolactone, carvedilol, lisinopril.
+3. Hyperlipidemia - continue atorvastatin, will check lipid panel at next in-office visit.
+4. Hypothyroidism - continue levothyroxine, TSH due for recheck, will order labs.
+5. Tobacco history - reviewed with patient, he confirms he quit smoking many years ago and has remained smoke free, positive reinforcement given for sustained cessation, general counseling provided regarding importance of continued abstinence from tobacco. Lung cancer screening was briefly discussed in general terms during the visit.
+6. Refills sent to pharmacy of record for all above medications.
+7. Follow up in 3 months or sooner if symptoms worsen, patient instructed to call clinic with any chest pain, worsening swelling, or shortness of breath.
+
+Elena Markovic, MD
+
+ADDENDUM (same day, later): Patient called back this afternoon after uploading his home glucose log photo to the portal, values reviewed, no changes to plan at this time, will continue to monitor, patient advised to keep logging and bring log to next visit dated for follow up in 3 months as above. No further changes made to today's medication refills.

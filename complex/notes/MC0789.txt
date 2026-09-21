@@ -1,0 +1,85 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+Author: Owen Fitzgerald, MD
+Date of Service: 06/04/2026
+Patient: Karen Carter | DOB: 06/04/1948 | Age: 78 | Sex: F
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease (PAD), claudication symptoms.
+
+HPI: Ms. Carter is a 78-year-old female with PAD, HFrEF, CAD, T2DM, hypothyroidism, and BPH (in husband's case, not applicable - disregard, template artifact) who presents today for routine vascular surgery follow-up. She reports, "My legs still cramp up after about a block of walking, but it's not much worse than before." She denies rest pain, non-healing ulcers, or color changes in her toes. She states, "I've been trying to walk every day like you told me, even if it hurts a little." No new chest pain, though she notes occasional exertional dyspnea consistent with her known HFrEF. She reports she has not had any falls. Denies fevers, chills, or recent hospitalizations.
+
+=== COPIED FORWARD FROM VISIT DATED 09/04/2022 ===
+[The following block was copied forward from a prior encounter and may not reflect current status]
+Patient is a current smoker. She continues to smoke despite counseling on cardiovascular risk. Discussed smoking cessation resources including nicotine replacement therapy and referral to quitline. Patient states she is not ready to quit at this time. Will continue to address at future visits. PAD symptoms stable, ABI last checked 0.65 on the right, 0.70 on the left. Continue cilostazol as tolerated. Follow up in 6 months or sooner if symptoms worsen.
+=== END COPIED SECTION ===
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Smoking status: Former smoker
+Pack-years: Smoked 1.5 packs per day from 1965 until 2024
+Quit history: Patient first quit smoking in 2012, restarted in 2015, and quit again for good in 2024
+Alcohol: Denies
+Illicit drug use: Denies
+Second-hand smoke exposure: None reported
+
+Review of Systems:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Reports exertional dyspnea, denies orthopnea, denies PND, denies palpitations.
+Respiratory: Denies cough, denies hemoptysis, denies wheezing.
+Gastrointestinal: Denies nausea, vomiting, abdominal pain, changes in bowel habits.
+Genitourinary: Reports nocturia x2, consistent with known BPH, denies dysuria, denies hematuria.
+Musculoskeletal: Reports bilateral calf cramping with ambulation (claudication), denies joint swelling.
+Skin: Denies rashes, denies non-healing wounds, denies ulcers.
+Neurological: Denies numbness, tingling, denies focal weakness.
+Endocrine: Denies polyuria, polydipsia, known hypothyroidism on treatment.
+Psychiatric: Denies depression, denies anxiety.
+All other systems reviewed and negative except as noted above.
+
+Physical Exam:
+Vitals: BP 138/76, HR 72, RR 16, Temp 98.4F, SpO2 96% on room air, Weight 152 lbs.
+General: Well-appearing elderly female in no acute distress.
+HEENT: Normocephalic, atraumatic, extraocular movements intact, oropharynx clear.
+Neck: No jugular venous distension, no carotid bruits appreciated.
+Cardiovascular: Regular rate and rhythm, S1/S2 normal, no murmurs, rubs, or gallops. No peripheral edema.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no pulsatile mass.
+Extremities: Bilateral lower extremities with diminished but palpable dorsalis pedis and posterior tibial pulses. No edema. Skin intact, no ulcerations. Capillary refill <3 seconds.
+Neurological: Alert and oriented x3, cranial nerves II-XII grossly intact, normal gait observed today.
+Skin: No rashes or lesions noted.
+
+Medications:
+1. Cilostazol 100 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Furosemide 20 mg PO daily
+5. Spironolactone 25 mg PO daily
+6. Metformin 1000 mg PO BID
+7. Empagliflozin 10 mg PO daily
+8. Levothyroxine 75 mcg PO daily
+9. Atorvastatin 40 mg PO daily
+10. Aspirin 81 mg PO daily
+11. Tamsulosin 0.4 mg PO daily
+12. Vitamin D3 1000 IU PO daily
+
+Problem List (ICD-10):
+1. Peripheral artery disease, bilateral lower extremities - I73.9
+2. Heart failure with reduced ejection fraction - I50.22
+3. Coronary artery disease - I25.10
+4. Type 2 diabetes mellitus - E11.9
+5. Hypothyroidism - E03.9
+6. Benign prostatic hyperplasia - N40.0 (outdated entry, retained from prior problem list, patient is female - likely carried over in error)
+7. Tobacco use disorder, former - Z87.891
+8. Essential hypertension - I10
+
+Assessment/Plan:
+78-year-old female with PAD, HFrEF, CAD, T2DM, hypothyroidism presenting for routine follow-up.
+1. PAD - Symptoms stable per patient report. Continue cilostazol. Encourage supervised exercise therapy. Discussed lifestyle modifications including continued abstinence from smoking, given prior history.
+2. HFrEF - Stable on current regimen, continue metoprolol succinate, lisinopril, furosemide, spironolactone. Weight stable.
+3. CAD - Continue aspirin, atorvastatin. No new anginal symptoms.
+4. T2DM - Continue metformin and empagliflozin, last A1c reviewed at prior visit.
+5. Hypothyroidism - Continue levothyroxine, recheck TSH at next visit.
+6. Health maintenance - Discussed general cardiovascular risk reduction. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+7. Follow-up in vascular surgery clinic in 6 months, sooner if worsening symptoms.
+
+Electronically signed by Owen Fitzgerald, MD.
+
+ADDENDUM (later same day, 06/04/2026):
+Patient called clinic nursing line after visit to clarify instructions regarding cilostazol dosing timing with meals. Advised to take on empty stomach as previously discussed. No new concerns reported. Reiterated importance of continued tobacco abstinence given her history of quitting for good in 2024 after previous relapse in 2015. No changes to plan at this time. -Owen Fitzgerald, MD

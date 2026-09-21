@@ -1,0 +1,49 @@
+URGENT CARE PROGRESS NOTE
+DOS: 12/12/2024
+Patient: Yolanda Barnes DOB 1/13/1971 Age 53 F
+Author: Anita Patel, MD (NP progress note co-signed)
+
+CC: cough x several days
+
+HPI: 53yo F w/ hx OSA, afib presents urgent care c/o cough. Pt states "I've had this dry cough for like a week now, it's driving me crazy." Denies fever, denies hemoptysis. c/o mild SOB w exertion, no CP. Reports some fatigue, poor sleep 2/2 coughing fits at night. Uses CPAP nightly per report, states "I think it's working ok, mask fits fine." No sick contacts reported. No recent travel. Denies wheeze per pt but exam somewhat limited by pt's rapid speech and frequent throat-clearing during interview.
+
+ROS: Const - no fever/chills, + fatigue. HEENT - mild sore throat, no congestion. Resp - + cough, dry, no hemoptysis, + mild dyspnea on exertion. CV - pt on anticoagulation for afib, denies palpitations today, no CP. GI - neg. Neuro - neg. Rest of ROS neg per pt.
+
+PMH: Obstructive sleep apnea (on CPAP), Atrial fibrillation (on anticoagulation, rate controlled)
+PSH: none reported
+Meds: apixaban, metoprolol (pt unsure of exact doses, will confirm w/ PCP records)
+Allergies: NKDA
+
+Social History:
+Lives w/ spouse, works full time (office job).
+Alcohol: occasional, ~1-2 drinks/wk per pt report.
+Smoking status: Unknown if ever smoked
+Exercise: reports "trying to walk more" - limited by fatigue currently.
+Caffeine: 1 cup coffee/day.
+
+Family Hx: mother w/ HTN, father w/ CAD, non-contributory to current presentation otherwise.
+
+Vitals: T 98.4 HR 78 (irreg per monitor, known afib) BP 128/76 RR 16 SpO2 96% RA Wt stable per pt
+
+Physical Exam:
+Gen: NAD, alert, cooperative, speaking in full sentences
+HEENT: oropharynx mildly erythematous, no exudate, TMs clear b/l, nares patent
+Neck: supple, no LAD, no thyromegaly
+CV: irreg irreg rhythm, no murmur appreciated, no JVD
+Resp: mild exp wheeze scattered b/l, no rales, no rhonchi, good air movement, no accessory muscle use, no retractions
+Abd: soft NT ND +BS
+Ext: no edema, no cyanosis, no clubbing
+Skin: warm dry intact
+Neuro: A&Ox3, no focal deficits noted
+
+Assessment/Plan:
+1. Acute cough, likely viral URI vs early bronchitis - supportive care, guaifenesin PRN, encourage fluids, rest. Return if fever develops or sx worsen. D/c'd tussin OTC as needed.
+2. Mild wheeze on exam - albuterol inhaler prescribed PRN, use as needed for wheeze/SOB, f/u w PCP if persistent >1-2wks.
+3. OSA - continue CPAP compliance, pt reports adequate use, no changes at this time, f/u w sleep med as scheduled.
+4. Afib - rate appears controlled today per vitals, continue current anticoagulation and rate control meds, no acute intervention needed, recommend f/u w cardiology per routine schedule, EKG not repeated today given stable presentation and lack of new palpitations.
+5. Pt counseled on return precautions - worsening SOB, chest pain, high fever, hemoptysis, or sx not improving in 7-10 days should prompt return to urgent care or ED as appropriate.
+6. Documentation note: smoking hx not obtained/unclear at this visit, defer to PCP for complete social hx update at next visit including tobacco use assessment.
+
+Total visit time discussed w pt, questions answered, pt verbalized understanding of plan. Pt given written after-visit summary. Follow up w PCP within 1-2 wks or sooner if worsening.
+
+Electronically signed: Anita Patel, MD - Urgent Care - DOS 12/12/2024

@@ -1,0 +1,40 @@
+Telehealth Follow-up Note - Pulmonology
+DOS: 01/24/2023
+Provider: Elena Markovic, MD
+Patient: Steven Kowalski, M, DOB 1/24/1956 (age 67)
+
+CC: COPD follow up via video visit
+
+HPI: Mr Kowalski c/o mild increase in AM cough, no change in baseline dyspnea, denies fevers chills. He notes overall doing ok, uses albuterol prn maybe 2x/wk. audio cut out briefly [inaudible] but he confirmed no ER visits since last seen. He states he quit smoking right after his bypass surgery and has not touched a cigarette since, feels that made a big diff in his breathing. Sats at home per pulse ox reportedly 94-96% RA he says.
+
+PMH:
+- COPD
+- Hyperlipidemia
+- Obstructive sleep apnea (on CPAP, compliance reportedly good per pt report)
+- Coronary artery disease
+- CABG x3 (2021)
+
+Social History: Pt has a long history of heavy smoking, quit as above. Spouse also smokes, pt exposed to some secondhand smoke at home still per his report. No alcohol use reported. Retired machinist.
+
+Meds: atorvastatin, aspirin, tiotropium inhaler, albuterol prn, metoprolol
+
+Labs/Results:
+- CBC (01/10/2023): WBC 7.1, Hgb 14.2, Plt 233 - wnl
+- BMP (01/10/2023): Na 139, K 4.3, Cr 1.0, Glucose 101
+- Lipid panel (12/15/2022): TC 168, LDL 88, HDL 42, TG 150
+- Spirometry (11/2022): FEV1 58% predicted, FEV1/FVC 0.61, consistent w moderate obstruction
+- Echo (2021 postop): EF 55%, no significant valvular disease
+
+ROS: Denies chest pain denies palpitations denies hemoptysis denies weight loss. Occasional reflux sx managed w otc antacids. all other systems reviewed and negative.
+
+Exam (limited, telehealth): Pt appears comfortable no acute distress, speaking full sentences no obvious accessory muscle use, appears well nourished. cardiac and pulm auscultation not performed given remote visit format.
+
+Assessment/Plan:
+1. COPD - moderate, stable by report and prior spirometry, continue tiotropium and albuterol prn, reviewed inhaler technique verbally pt reports no issues, discussed importance of continued smoking cessation given hx of long history of heavy smoking now quit, encouraged spouse to consider cessation as well given ongoing secondhand exposure in home, discussed lung cancer screening in general terms as topic for future discussion with PCP.
+2. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 mo
+3. OSA - continue CPAP, will obtain compliance download at next visit
+4. CAD s/p CABG x3 2021 - stable, continue asa and metoprolol, no new chest pain sx today
+
+f/u in 3 months or sooner if symptoms worsen, pt verbalized understanding, all questions answered telehealth visit completed w/o issue.
+
+Elena Markovic, MD

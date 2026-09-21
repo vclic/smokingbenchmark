@@ -1,0 +1,49 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Cardiology Consult - Chest Pain Evaluation
+Date of Service: 07/07/2023
+Author: Priya Raman, MD (resident); attending co-signed below
+
+Patient: Samuel Brooks, M, DOB 3/14/1943 (age 80)
+
+CC: chest pain x 2 days, intermittent, exertional.
+
+HPI: 80 yo M w/ h/o afib, HFrEF, PAD, COPD, asthma presents for eval of chest tightness. Pt reports pressure-like discomfort radiating to L arm, worse w/ walking to mailbox, relieved w/ rest. No n/v. Denies orthopnea but does note increased leg swelling. He states he tried to quit smoking around 2015, went several months without cigs, then relapsed back to regular smoking in 2016 and has continued since - he says stress from a family [inaudible] event triggered the relapse, run-on story about his son moving away and finances being tight, hard to follow exact timeline in dictation. Pt currently ambulates w assistance d/t claudication in b/l calves, worse on the left.
+
+ROS: Positive for dyspnea on exertion, occasional wheeze, cough productive of clear sputum. Negative for fever, syncope, hemoptysis.
+
+PMH: Asthma, atrial fibrillation (on anticoagulation), heart failure w/ reduced EF (~35% on last echo), peripheral artery disease s/p prior angioplasty, COPD (on home O2 prn).
+
+Social History: Lives alone, retired machinist. Pt continues to smoke cigarettes currently; states he is not ready to quit at this time despite repeated counseling. Denies current alcohol use. No illicit drug use reported.
+
+Medications: Metoprolol succinate, apixaban, furosemide, tiotropium inhaler, albuterol PRN, atorvastatin, clopidogrel.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78 irregular, RR 18, SpO2 93% on RA, Temp 36.7C
+Gen: Elderly male, mild distress, sitting upright.
+CV: Irregularly irregular rhythm, no murmurs appreciated, +2 pitting edema bilateral lower extremities.
+Resp: Diminished breath sounds bilat bases, scattered expiratory wheezes.
+Ext: Cool distal extremities, diminished dorsalis pedis pulses bilaterally, weaker on left.
+
+Labs/Results:
+- Troponin I 07/07/2023 08:14 - 0.02 ng/mL (normal <0.04)
+- Troponin I 07/07/2023 11:20 - 0.03 ng/mL
+- BNP 07/07/2023 - 620 pg/mL (elevated)
+- BMP 07/07/2023: Na 138, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.3, Glu 110
+- EKG 07/07/2023: Afib, rate 78, no acute ST changes
+- CXR 07/07/2023: Hyperinflated lungs c/w COPD, no acute infiltrate
+
+Assessment/Plan:
+80 yo M w/ multiple cardiopulmonary comorbidities (afib, HFrEF, PAD, COPD, asthma) presenting w/ atypical chest pain, low-level troponin elevation likely c/w demand ischemia in setting of afib and anemia (pending further workup).
+
+1. Chest pain - serial troponins stable, no acute ST changes on EKG. Will obtain stress echo as outpt. Continue home cardiac meds.
+2. Atrial fibrillation - rate controlled, continue apixaban, continue metoprolol.
+3. HFrEF - euvolemic-ish on exam though with some peripheral edema, will adjust diuretic dose, recheck BNP in 2 wks.
+4. PAD - claudication symptoms stable, continue clopidogrel, vascular surgery f/u as scheduled.
+5. COPD/Asthma - continue inhalers, no signs of acute exacerbation today.
+6. Tobacco use - patient has a 76 pack-year smoking history. He reports quitting in 2015 but relapsing in 2016 and continues to smoke presently; he states he is not ready to quit at this time. Lung cancer screening discussed with patient; counseled extensively regarding cessation resources including nicotine replacement and referral to quitline, pt declines at this time. Will revisit at next visit.
+
+Plan discussed with attending Dr. Alvarez who agrees with above assessment and plan; seen and examined patient together.
+
+Electronically signed: Priya Raman, MD / Attending: M. Alvarez, MD

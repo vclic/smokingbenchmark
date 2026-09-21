@@ -1,0 +1,37 @@
+Vascular Surgery NP Progress Note
+Patient: Elizabeth Carter | DOB: 5/2/1970 | Age: 53 | DOS: 11/19/2023
+Author: Brian Okonkwo, MD (co-signed, NP encounter)
+
+CC: PAD f/u, worsening claudication
+
+HPI: 53 yo F w/ PAD, OSA, depression, HLD, asthma, BPH presents for routine vascular f/u. Pt states 'my legs cramp up after half a block now, it didn't used to be this bad.' She reports compliance w/ cilostazol and states she walks daily as tolerated. Smoking hx notable - pt has smoked for 34 years and continues to smoke currently; she is an active smoker at this visit, no quit attempts recently d/t stress. Denies chest pain, rest pain, or non-healing ulcers. Denies claudication at rest. C/o some fatigue, attributes to poor sleep despite CPAP use.
+
+[Copied from note dated 4/19/2021]: Smoking status at that time - current smoker. (No further detail carried forward.)
+
+ROS: Otherwise negative except as above. + occasional wheeze, uses albuterol PRN.
+
+Meds: Cilostazol 100mg BID, atorvastatin 40mg qhs, sertraline 50mg qd, tamsulosin 0.4mg qd, albuterol PRN, CPAP nightly.
+
+PMH/Problem List:
+- I73.9 Peripheral artery disease, unspecified
+- G47.33 Obstructive sleep apnea
+- F32.9 Major depressive disorder, unspecified (outdated - pt reports improved mood, may need update)
+- E78.5 Hyperlipidemia, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- N40.0 BPH without LUTS (outdated code, pt now reports mild LUTS, needs recheck)
+
+Exam: Vitals stable, BP 138/84, HR 76, BMI 29. Bilateral lower extremities w/ diminished but palpable dorsalis pedis pulses, no ulcers, no edema. Cap refill <3 sec. Lungs clear to auscultation bilat w/ mild expiratory wheeze. Abd soft, nontender.
+
+Assessment: 53F w/ PAD, stable on current antiplatelet regimen, ongoing active tobacco use w/ 34-year smoking hx contributing to vascular dz progression. OSA, depression, HLD, asthma, BPH stable per hx.
+
+Plan:
+1. PAD - continue cilostazol, ABI ordered for comparison, f/u 3 months.
+2. Counseled extensively on smoking cessation, discussed nicotine replacement options and referral to tobacco cessation program; pt ambivalent today, will readdress next visit.
+3. Lung cancer screening discussed as topic for further conversation with PCP.
+4. Continue statin, monitor lipid panel next visit.
+5. OSA - continue CPAP, reassess adherence data.
+6. Depression - continue sertraline, screen w/ PHQ-9 next visit given outdated dx documentation.
+7. Asthma - continue albuterol PRN, consider controller if symptoms worsen.
+8. BPH - refer to urology given reported LUTS despite outdated problem list entry.
+
+RTC 3 months or sooner if symptoms worsen.

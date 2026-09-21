@@ -1,0 +1,82 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 11/28/2025
+Patient: Rita Henderson (F), DOB: 11/28/1958, Age: 67
+Provider: Catherine Lindqvist, DO
+
+=== NURSE INTAKE ===
+Reason for visit: med refills, telehealth. Pt seen via video, ID confirmed verbally.
+Vitals (self-reported): BP 132/78, HR 74 irreg, Wt 168 lb.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Smoking hx: 8 pack-year
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+Pt reports she quit smoking right after her heart attack, has not smoked since.
+
+Meds reviewed per pharmacy list (pt confirms taking as prescribed):
+- Apixaban 5 mg BID
+- Metoprolol succinate 50 mg daily
+- Lisinopril 10 mg daily
+- Furosemide 20 mg daily
+- Atorvastatin 40 mg qHS
+- Cilostazol 100 mg BID
+- Acetaminophen PRN for OA pain
+- Aspirin 81 mg daily
+
+Allergies: NKDA
+
+=== PHYSICIAN PROGRESS NOTE (Dr. Lindqvist) ===
+CC: refill visit, telehealth, stable chronic conditions.
+
+[COPIED FORWARD FROM VISIT 03/14/2023 - not fully updated]
+HPI: 65 yo F w/ hx AFib, HTN, HFrEF, PAD, HLD, OA here for f/u. Pt doing reasonably well, mild fatigue w/ exertion, no CP, no PND/orthopnea. Denies leg claudication worse than baseline. c/o knee stiffness AM, improved w/ activity. No falls. Compliant w/ meds per pt report. INR/labs reviewed - stable on apixaban, no dose adj needed at that time.
+[END COPIED TEXT]
+
+Interval update (today, 11/28/2025): Pt reports similar sx, no new CP/SOB, no edema increase. Denies palpitations. PAD sx stable, ambulates short distances w/o significant claudication. OA knee pain managed w/ APAP, tolerable.
+
+ROS (templated, all systems reviewed):
+Constitutional: no fever, no chills, no wt loss.
+Cardiac: no CP, occasional palpitations per baseline AFib, no syncope.
+Resp: no cough, no dyspnea at rest, mild DOE unchanged.
+GI: no N/V/D, appetite ok.
+GU: no dysuria.
+MSK: chronic knee stiffness, no acute injury.
+Neuro: no focal deficits, no HA.
+Skin: no rashes, no PAD-related ulcers noted.
+Psych: mood stable, no SI/HI.
+All other systems reviewed and negative.
+
+Physical Exam (limited, telehealth - visual only):
+Gen: well-appearing, NAD, seated comfortably.
+CV: unable to auscultate via telehealth; pt denies visible JVD on cam.
+Resp: no visible respiratory distress, no accessory muscle use.
+Extremities: no visible edema, no color changes noted on cam.
+Skin: no obvious lesions visible.
+(Note: full CV/PAD exam deferred to in-office visit given telehealth limitations.)
+
+Past Medical History:
+- Atrial fibrillation
+- Osteoarthritis
+- Hypertension
+- Heart failure with reduced EF
+- Hyperlipidemia
+- Peripheral artery disease
+- NSTEMI with stent (2008)
+
+Assessment/Plan:
+1. AFib - continue apixaban, metoprolol. Stable rhythm control per pt report.
+2. HFrEF - continue GDMT (lisinopril, metoprolol, furosemide). No decompensation signs today.
+3. HTN - BP at goal, continue current regimen.
+4. HLD - continue atorvastatin, will check lipid panel at next in-person visit.
+5. PAD - continue cilostazol, encourage walking program as tolerated.
+6. OA - continue APAP PRN, consider PT referral if worsens.
+7. Tobacco - former smoker, quit smoking; reinforced no return to use, counseled on cardiovascular benefit of continued abstinence. Lung cancer screening discussed in general terms; no imaging ordered today.
+8. Refills sent to pharmacy per above med list.
+9. RTC in 3 months or sooner if sx worsen; in-office visit recommended for full CV/PAD exam.
+
+Electronically signed: Catherine Lindqvist, DO - 11/28/2025

@@ -1,0 +1,51 @@
+PROGRESS NOTE
+Hospital Discharge Follow-up (Pneumonia)
+Date of Service: 11/13/2023
+Patient: Carol Ramirez, F, DOB 08/25/1953 (age 70)
+Author: Michael Dunn, DO - Primary Care
+
+CC: F/u post-hospitalization pneumonia.
+
+HPI: 70 yo F seen for f/u s/p recent hospital admission for pneumonia. D/c'd 5 days ago. Reports improved cough, less SOB. Still fatigued. No fevers since d/c. Appetite ok. Using nebulizer prn per COPD action plan. Denies chest pain. No hemoptysis. Sleeping better.
+
+PROBLEM LIST:
+1. J44.9 - COPD
+2. J18.9 - Pneumonia, unspecified organism (resolving)
+3. M19.90 - Osteoarthritis, unspecified site
+4. I10 - Essential hypertension (outdated - dc'd lisinopril 2019, not on current med list)
+5. E78.5 - Hyperlipidemia
+6. Z87.891 - Personal history of nicotine dependence
+
+SOCIAL HISTORY / TOBACCO USE (EHR TEMPLATE):
+Tobacco Use Status: Former smoker
+Type: Cigarettes
+Amount: 1/2 pack per day (approx 10 cigarettes/day)
+Duration: 35 years
+Current status: Patient no longer smokes.
+Age quit: Quit at age 55.
+Alcohol: occasional wine, denies drug use.
+
+ROS: Resp - improved cough, mild dyspnea on exertion. Cardiac - no palpitations, no edema. GI - no complaints. MSK - chronic knee pain, stable. All else neg per template.
+
+PE:
+Vitals: T 98.2, HR 78, BP 128/74, RR 16, SpO2 94% RA.
+Gen: NAD, comfortable.
+Lungs: mild bibasilar crackles, improved from d/c exam. No wheeze appreciated today.
+CV: RRR, no m/r/g.
+Ext: no edema. Knees w/ crepitus, no effusion.
+
+Labs/Imaging: CXR at d/c showed improving infiltrate LLL. Repeat CXR deferred, will obtain if not fully resolved clinically in 2-4 wks.
+
+A/P:
+1. Pneumonia, resolving - continue current abx course, f/u in 2 wks or sooner if worsening.
+2. COPD - stable, continue inhalers, reviewed technique. D/c'd nebulizer taper discussed.
+3. OA - stable, tylenol prn, PT referral considered.
+4. Tobacco history - reviewed with patient. Discussed lung cancer screening as topic for future discussion; not addressed further today given acute recovery. Encouraged continued abstinence, reinforced benefits of having quit.
+5. HTN - appears resolved/not on treatment currently; will reassess BP trend at next visit given discrepancy in problem list.
+6. HLD - continue statin, recheck lipids in 6 mo.
+
+F/u 2 weeks, sooner if fever, worsening cough, or dyspnea.
+
+---
+ADDENDUM (later same day, 11/13/2023, M. Dunn DO):
+Pt called after visit c/o mild lightheadedness on standing this afternoon. Advised hydration, review of home BP log. Will monitor; no ED referral needed at this time given reassuring vitals in clinic. Reiterated return precautions. No change to plan otherwise. Tobacco history as documented above remains accurate - former smoker, quit at age 55, no current use.

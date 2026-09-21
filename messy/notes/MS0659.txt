@@ -1,0 +1,41 @@
+Farah Siddiqui, MD — Pulmonology Progress Note
+Date of Service: 02/21/2026
+Patient: Barbara Foster, DOB 02/21/1967, Age: 59 y.o. F
+
+CHIEF COMPLAINT: Lung cancer screening shared decision-making visit.
+
+HPI: Ms. Foster is a 59-year-old female referred for discussion re: lung cancer screening in the setting of routine health maintenance. She states, "My sister just got diagnosed with lung cancer and I wanted to make sure I'm doing everything I should be doing." She denies cough, hemoptysis, dyspnea, or weight loss. She reports occasional joint pain related to known osteoarthritis, managed with acetaminophen. Denies chest pain, palpitations currently (known h/o afib, on anticoagulation). Pt states "I feel pretty good overall, just tired sometimes." We discussed the general concept of screening for lung cancer, how it works, and potential risks/benefits including false positives and incidental findings; patient verbalized understanding and had no further questions at this time she said their fine with that and so we'll [inaudible] revisit at a future visit as needed.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Never used tobacco.
+ Pack-years: N/A
+ Vaping/e-cigarette use: Not on file
+ Alcohol use: occasional, denies excess
+ Illicit drug use: denies
+ Occupation: retired
+ Living situation: (blank)
+ Exercise: walks daily per pt report
+
+PROBLEM LIST:
+1. Atrial fibrillation (I48.91)
+2. Essential hypertension (I10)
+3. Obesity (E66.9)
+4. Chronic kidney disease, stage 3 (N18.3)
+5. Osteoarthritis, unspecified site (M19.90)
+6. Tobacco use disorder (Z72.0) — outdated, resolved/not applicable, patient reports never-smoker, to be removed from list.
+
+LABS/RESULTS:
+ Basic metabolic panel 02/10/2026: Creatinine 1.3 mg/dL, eGFR 48 mL/min/1.73m2, K+ 4.4 mmol/L, Na+ 139 mmol/L
+ Lipid panel 01/15/2026: Total cholesterol 198 mg/dL, LDL 118 mg/dL, HDL 52 mg/dL, TG 140 mg/dL
+ INR 02/18/2026: 2.3 (therapeutic, on warfarin for afib)
+
+ASSESSMENT/PLAN:
+- Lung cancer screening SDM visit completed; general risks/benefits of screening discussed at patient's request given family history; no imaging ordered today; discussed when to seek care for pulmonary symptoms.
+- Atrial fibrillation: continue warfarin, INR therapeutic today, recheck in 4 weeks.
+- Hypertension: stable on current regimen, continue monitoring at home.
+- CKD stage 3: stable, continue nephrology follow-up, avoid nephrotoxic agents.
+- Obesity: counseled on diet/exercise, discussed weight management referral.
+- Osteoarthritis: continue acetaminophen PRN, consider PT referral if worsens.
+Return to clinic in 6 months or sooner if symptoms develop.
+
+Farah Siddiqui, MD

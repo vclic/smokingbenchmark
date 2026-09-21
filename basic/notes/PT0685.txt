@@ -1,0 +1,67 @@
+Primary Care Office Visit
+
+Patient: JACKSON, Mark    MRN: 64846177
+DOB: 08/04/1962    Age: 61 y.o.    Sex: Male
+Date of Service: 10/25/2023    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Dizziness
+
+Subjective:
+Mark Jackson is a 61 y.o. male who presents for dizziness.
+Lightheaded when standing quickly x 2 weeks. No syncope.
+
+Past Medical History:
+Diagnosis	Date
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives alone in an apartment.
+  Grew up with parents who smoked; significant secondhand exposure.
+  Alcohol: rare.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 120/82 (BP Location: Right arm, Patient Position: Sitting) | Pulse 80 | Temp 97.4 °F (Oral) | Resp 20 | Ht 6' 0" | Wt 210 lb | SpO2 100% | BMI 28.53 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Dizziness
+   Likely BPPV; Epley performed. Vestibular PT.
+2. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+Return in about 1 month (around 11/25/2023).
+
+Electronically signed by Steven Park, MD on 10/25/2023

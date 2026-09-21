@@ -1,0 +1,65 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Cardiology - Dr. Elena Markovic, MD
+
+Patient: Maria Sullivan (F), DOB: 5/9/1957
+Date of Service: 05/09/2026
+Age: 69 y/o female
+
+Dear Dr. referring provider,
+
+Thank u for referring Ms Sullivan, a 69-year-old woman, for eval of chest pain. Pt presents today, 05/09/2026, c/o intermittent chest tightness x 2 wks, worse w/ exertion, no radiaton to arm noted today although pt reports some jaw achiness last week [inaudible] during episode. No syncope. She has hx of OSA on CPAP, osteoarthritis (knees > hips), BPH, T2DM (on metformin), and GERD (on omeprazole, mostly controlled though she notes bloating after meals sometimes worse then other times not sure why).
+
+ROS: Denies fevers denies hemoptysis denies significant weight loss reports occasional dyspnea on stairs which she attributes to her weight and to being "out of shape," also endorses fatigue and poor sleep despite CPAP compliance per pt report although we should confirm compliance data at next visit.
+
+PMH: OSA, OA, BPH, T2DM, GERD as above.
+PSH: Tonsillectomy as child, no other surgeries.
+Meds: metformin, omeprazole, CPAP nightly, ibuprofen prn for knee pain.
+Allergies: NKDA.
+
+=== TOBACCO/SOCIAL HISTORY TEMPLATE (EHR auto-populated) ===
+Smoking status: Never Smoker
+[Note: the above auto-filled field is INCORRECT and should be disregarded - it does not reflect this patient's actual history, see corrected note below]
+Tobacco Use - Cigarettes: Yes, active use
+ Amount: 1/2 pack per day (approx 10 cigarettes/day)
+ Start: 1974
+ Current status: Active smoker
+=== END TEMPLATE ===
+
+Corrected narrative: Despite the outdated "Never Smoker" field carried over in the chart (this appears to be a template error from a prior visit and does not apply), Ms. Sullivan is in fact an active smoker. She reports smoking about half a pack (roughly 10 cigarettes) per day, and states she has smoked at this level since 1974. She was counseled today regarding smoking cessation resources including nicotine replacement and referral to a quitline, she states she is "thinking about it" but not ready to quit at this time.
+
+Family Hx: Father with MI in 60s, mother with T2DM, no known family hx of lung disease per pt although she wasnt totally sure about paternal side.
+
+Social Hx: Lives alone, retired postal worker, denies alcohol use, denies illicit drug use, has two adult children who live nearby and help with errands.
+
+Vitals: BP 148/86, HR 78 reg, RR 16, SpO2 96% RA, Wt 182 lb, Ht 5'4".
+
+Physical Exam:
+Gen: well-appearing woman, NAD, mildly anxious appearing.
+HEENT: unremarkable, no JVD appreciated.
+CV: RRR, no murmurs rubs or gallops appreciated, no S3/S4, PMI nondisplaced.
+Lungs: mild bilateral wheeze on exam, no crackles, symmetric expansion, no accessory muscle use at rest.
+Abd: soft nontender nondistended, +BS.
+Ext: no edema no cyanosis no clubbing, pulses 2+ throughout.
+Skin: no diaphoresis at this time.
+
+EKG: NSR, no acute ST changes, nonspecific T wave flattening in inferior leads, will compare to prior if available (prior not in system at this time).
+
+Labs reviewed: recent A1c 7.2%, lipid panel notable for LDL 132, HDL 44, trigs 168, troponin pending at time of dictation will follow up.
+
+Assessment: 69 y/o woman w/ atypical chest pain, multiple cardiac risk factors including T2DM, HTN (new finding today, will need f/u BP checks), active tobacco use as above, and dyslipidemia. Differential includes stable angina vs GERD-related discomfort vs musculoskeletal given OA hx vs anxiety component. Given risk factor burden further w/u warranted.
+
+Plan:
+1. Obtain stress echo to further eval for ischemia, will schedule.
+2. Start statin therapy given LDL elevation, discussed risks/benefits, pt agreeable.
+3. Recheck BP in 2 wks, consider initiating antihypertensive if persistently elevated.
+4. Reinforce diabetic diet and glycemic control, will loop in PCP re: A1c management.
+5. GERD - continue omeprazole, counseled on dietary triggers.
+6. Smoking cessation counseling provided today, pt not ready to quit, offered NRT and quitline referral, will readdress at f/u.
+7. Lung cancer screening was discussed briefly with patient as a general topic given her tobacco history; no imaging ordered today, this can be revisited with her PCP.
+8. Continue CPAP for OSA, encourage compliance.
+9. F/u in cardiology clinic in 4 wks or sooner if symptoms worsen, pt instructed to go to ED if chest pain becomes severe or is assoc w/ diaphoresis, SOB, or radiation.
+
+Thank you again for this interesting referral, will keep you updated as w/u proceeds.
+
+Elena Markovic, MD
+Cardiology

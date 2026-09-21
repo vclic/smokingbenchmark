@@ -1,0 +1,66 @@
+TELEHEALTH VISIT NOTE
+Patient: Roger Washington | DOB: 2/28/1966 (age 58) | Date of Service: 2/29/2024
+Provider: Anita Patel, MD (Internal Medicine)
+
+Visit type: Video follow-up, primary care - hypertension, type 2 diabetes
+
+HPI:
+Mr. Washington is a 58-year-old male with history of hypertension, type 2 diabetes, coronary artery disease, and depression who presents for a telehealth follow-up today, 2/29/2024, for routine management. He reports doing 'pretty well overall, just tired some days.' Blood pressure readings at home have averaged 132/78 per his log. He states 'I've been taking my metformin and losartan like clockwork.' He denies chest pain, palpitations, or dyspnea on exertion. He does note occasional ankle swelling in the evening, which he says is 'not too bad, goes away by morning.' No new falls, no vision changes reported. He mentions mood has been stable on current antidepressant regimen, though he admits some stress from caregiving duties for his mother. He denies suicidal ideation.
+
+He was reminded of the importance of home glucose monitoring; he reports fasting glucose readings mostly in 110-140 range. Diet has been 'okay, not perfect' with some holiday indulgences he's trying to walk off now.
+
+SOCIAL HISTORY:
+Former smoker. Patient smoked for 32 years and quit smoking on 3/18/2018. He denies current tobacco use, vaping, or other nicotine products. Alcohol: occasional beer on weekends, denies illicit drug use. Lives with spouse, retired postal worker, moderately active - walks daily per report.
+
+REVIEW OF SYSTEMS (per template, all systems reviewed):
+Constitutional: denies fever, chills, unintentional weight loss.
+Eyes: denies vision changes, denies eye pain.
+ENT: denies sore throat, denies hearing loss.
+Cardiovascular: denies chest pain, denies palpitations, endorses mild ankle edema as above.
+Respiratory: denies cough, denies wheezing, denies dyspnea.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: denies joint pain, denies muscle weakness.
+Skin: denies rash, denies new lesions.
+Neurologic: denies headache, denies numbness, denies tingling, denies dizziness.
+Psychiatric: endorses mild stress, denies SI/HI, mood stable per patient report.
+Endocrine: denies polyuria, denies polydipsia.
+Hematologic/Lymphatic: denies easy bruising, denies swollen glands.
+Allergic/Immunologic: denies seasonal allergies exacerbation.
+
+PHYSICAL EXAM (limited, telehealth visit - visual assessment only, no vitals obtained in person):
+General: Patient appears well, in no acute distress, alert and appropriately interactive via video.
+Skin: No visible rashes or lesions on face/hands.
+Mental status: Alert, oriented, mood and affect appropriate, speech fluent and normal rate.
+Note: Formal cardiopulmonary, abdominal, and extremity exam deferred due to telehealth format; patient advised to have blood pressure and weight checked at local pharmacy this week and results forwarded to clinic.
+
+LABS/RESULTS (reviewed today, drawn 2/20/2024):
+HbA1c: 7.2% (2/20/2024) - improved from 7.6% on 11/15/2023
+Fasting glucose: 128 mg/dL
+Basic metabolic panel: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Creatinine 1.0, eGFR >60
+Lipid panel (2/20/2024): Total cholesterol 168, LDL 92, HDL 44, Triglycerides 150
+LFTs: within normal limits
+Urine microalbumin/creatinine ratio: 22 mg/g (mildly elevated)
+TSH: 2.1 (WNL)
+
+CURRENT MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Losartan 100 mg PO daily
+3. Atorvastatin 40 mg PO daily
+4. Aspirin 81 mg PO daily
+5. Metoprolol succinate 50 mg PO daily
+6. Sertraline 100 mg PO daily
+7. Vitamin D3 2000 IU PO daily
+
+ASSESSMENT/PLAN (2/29/2024):
+1. Type 2 diabetes mellitus - A1c improved to 7.2%, continue metformin at current dose, reinforce dietary counseling, continue home glucose monitoring, recheck A1c in 3 months.
+2. Hypertension - well controlled on current regimen per home readings, continue losartan and metoprolol, recheck BP at pharmacy this week, follow up results by phone.
+3. Coronary artery disease - stable, continue aspirin, statin, and beta-blocker, no new anginal symptoms reported today.
+4. Depression - stable on sertraline, mood reportedly stable, continue current dose, will reassess at next visit; no acute safety concerns identified today.
+5. Tobacco use history - patient is a former smoker; he smoked for 32 years and quit smoking on 3/18/2018. He remains tobacco-free and was praised for maintaining cessation. Ongoing risk discussion related to his prior smoking history and cardiovascular disease was had; further imaging discussion deferred to future visit as appropriate.
+6. Mild elevation in urine microalbumin - will monitor, consider optimizing ACE/ARB dosing if persists on repeat testing.
+7. Health maintenance - influenza and pneumococcal vaccination status reviewed and up to date; colon cancer screening up to date per prior colonoscopy.
+
+Follow-up: Return visit or telehealth follow-up in 3 months, sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Electronically signed: Anita Patel, MD - 2/29/2024

@@ -1,0 +1,43 @@
+RESIDENT NOTE - New Patient Visit, Primary Care
+Date of Service: 10/24/2023
+Author: Gregory Tan, MD (resident); attending attestation below
+Patient: Harold Murphy, M, DOB 1/8/1959 (age 64)
+
+HPI:
+Pt here to establish care, hx of HFrEF, CKD stage 3, PAD, hyperlipidemia. Pt states "I've been managing on my own since my last doctor retired." Reports occasional lower extremity claudication with ambulation, denies chest pain at rest. c/o mild ankle swelling worse in evenings. no fevers no cough. Meds reportedly filled at outside pharmacy, list to be confirmed. Diet fair, low salt attempted per pt "I try to watch it but it's hard."
+
+ROS: otherwise negative except as above. no hemoptysis no hematuria.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Declined to discuss
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Limited 2/2 claudication
+
+Note: When asked directly about smoking hx during visit, pt became visibly irritated and stated "I don't want to talk about that, can we move on." Deferred further questioning; will revisit at future visit if pt willing. No further tobacco history obtained today, status not determinable from this encounter.
+
+PMH: HFrEF (EF last documented 35% per outside records, unconfirmed), CKD stage 3 (baseline Cr ~1.6), PAD, hyperlipidemia.
+
+Meds (as reported, unverified): carvedilol, furosemide, atorvastatin, aspirin - reconciliation pending outside records.
+
+Exam: BP 138/82, HR 76, RR 16, SpO2 96% RA, wt 198 lb.
+Gen: NAD, appears stated age.
+CV: RRR, S3 present, no murmur appreciated.
+Resp: CTAB.
+Ext: 1+ pitting edema b/l, DP pulses diminished bilaterally, no ulcers noted.
+
+Labs pending: BMP, lipid panel, BNP ordered today.
+
+Assessment/Plan:
+1. HFrEF - continue carvedilol, will obtain outside echo records, check BNP today.
+2. CKD stage 3 - trend Cr/GFR, avoid nephrotoxins, renally dose meds.
+3. PAD - continue ASA, consider vascular referral if claudication worsens, discussed exercise therapy.
+4. Hyperlipidemia - continue statin, will check lipid panel.
+5. Tobacco use status unable to be assessed this visit as patient declined discussion; will re-attempt counseling and screening discussion at follow up.
+6. Preventive care - vaccines reviewed, will update at next visit.
+
+F/u in 4 weeks or sooner if symptoms worsen.
+
+Attending Attestation: Seen and discussed with Dr. Tan, resident. I agree with the assessment and plan as documented above. Pt's tobacco history could not be obtained today due to pt declining to discuss; will readdress at next visit. - Attending MD

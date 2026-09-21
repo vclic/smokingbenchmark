@@ -1,0 +1,71 @@
+Primary Care Progress Note
+
+Patient: WALKER, Brenda    MRN: 14839286
+DOB: 07/28/1966    Age: 56 y.o.    Sex: Female
+Date of Service: 03/27/2023    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Brenda Walker is a 56 y.o. female who presents for routine preventive care.
+Doing well; here for routine preventive care. Uses a stationary bike at home. Eating out more since retiring.
+
+Past Medical History:
+Diagnosis	Date
+• Gastroesophageal reflux disease
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• famotidine 20 mg BID
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Widowed; lives with daughter.
+  Works as an accountant.
+  No alcohol.
+  No illicit drug use.
+  Drives.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 121/84 (BP Location: Right arm, Patient Position: Sitting) | Pulse 67 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 4" | Wt 155 lb | SpO2 96% | BMI 26.67 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (2023-02-21): Cr 0.80, K 4.4
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2016 - normal; Mammogram 1/27/2022 - BI-RADS 1; Declines Shingrix; Pneumococcal vaccine up to date; Lung cancer screening: not indicated (never smoker).
+2. Gastroesophageal reflux disease
+   Trial PPI step-down.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Michael Dunn, DO on 03/27/2023

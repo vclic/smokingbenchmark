@@ -1,0 +1,64 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Luis Butler (M) DOB: 01/13/1961 Age: 65
+Date of Service: 01/13/2026
+Author: Elena Markovic, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: Chest pain eval
+
+HPI: Mr. Butler is a 65 y/o male referred for evaluation of intermittent chest discomfort x 2 wks. Pt states, "It feels like a tight band across my chest when I climb stairs, then it goes away when I sit down." He denies radiation to arm but does note occasional jaw tightness. He also states, "I get kinda short of breath too, but I thought it was just my knees actin up slowin me down." No syncope, no diaphoresis reported today. Pt has hx of T2DM, HTN (not previously listed but noted on med rec), CKD stage 3, gout, depression, and osteoarthritis, all of which complicate risk stratification for CAD. He denies any recent illness, [inaudible] fevers or chills, and says his gout flares have been quiet since last visit when he was on colchicine taper the pain the knee the right one was better after that. Pt reports med compliance is fare, sometimes forgets metformin dose per his own report.
+
+PAST MEDICAL HISTORY:
+- Type 2 Diabetes Mellitus
+- Chronic Kidney Disease stage 3
+- Gout
+- Depression
+- Osteoarthritis
+
+MEDICATIONS: Metformin 1000mg BID, Sertraline 50mg qday, Allopurinol 100mg qday, Atorvastatin 20mg qhs, Lisinopril 10mg qday
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never used tobacco
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Not on file
+Occupation: Retired postal worker
+Living situation: Lives with spouse
+Exercise: Sedentary, limited by joint pain
+Diet: Not on file
+
+ROS: Constitutional - denies fever, chills, weight loss. Cardiac - + chest tightness w/ exertion, denies palpitations. Resp - mild dyspnea on exertion, denies cough. GI - denies n/v/d. GU - denies dysuria. MSK - chronic knee pain, currently stable. Psych - denies SI/HI, mood stable on sertraline per pt report he says "I've been doin ok, better than last year."
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.4F, SpO2 97% RA, Wt 210 lb
+General: NAD, well-appearing male in no acute distress
+CV: RRR, no m/r/g appreciated, no JVD
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: no edema, mild crepitus at right knee on ROM, no active gout flare noted today
+Skin: warm, dry, no rash
+
+LABS/RESULTS:
+01/10/2026 CBC: WBC 6.8, Hgb 13.9, Hct 41.2, Plt 233
+01/10/2026 BMP: Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline per CKD stage 3), Glucose 142
+01/10/2026 HbA1c: 7.4%
+01/10/2026 Lipid panel: TC 178, LDL 96, HDL 42, TG 200
+01/10/2026 Uric acid: 6.9
+01/12/2026 EKG: NSR, no acute ST/T changes, rate 76
+01/12/2026 Troponin: <0.01 (negative x1)
+
+ASSESSMENT:
+65 y/o male w/ T2DM, CKD3, gout, depression, OA presenting w/ exertional chest tightness and mild DOE. EKG unremarkable, initial trop negative. Given his age and comorbid CKD/DM, moderate pretest probability for CAD. Will pursue further workup.
+
+PLAN:
+1. Chest pain - obtain stress echo outpt, repeat troponin if sx recur or worsen, consider cardiology referral for further risk stratification. Lung cancer screening was discussed briefly given patient's age, though he reports he has never smoked so this was not pursued further at this time.
+2. T2DM - continue metformin, recheck A1c in 3 months, reinforce dietary counseling.
+3. CKD stage 3 - monitor renal function, avoid nephrotoxic agents, continue ACE-I.
+4. Gout - continue allopurinol, uric acid stable at 6.9, no active flare.
+5. Depression - continue sertraline, pt reports mood improved, will reassess at next visit.
+6. OA - continue conservative mgmt, PT referral offered, pt declined at this time stating "I'll think about it doc."
+
+Follow-up in 4 wks or sooner if symptoms worsen. Pt verbalized understanding of plan and agreed with above. Discussed red flag sx requiring ED visit including worsening chest pain, SOB at rest, diaphoresis.
+
+Elena Markovic, MD
+Electronically signed 01/13/2026

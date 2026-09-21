@@ -1,0 +1,39 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Shared Decision-Making, Lung Cancer Screening
+Patient: George Green (M), DOB 4/10/1954, Age: 70
+Date of Service: 05/17/2024
+Author: Daniel Reyes, MD
+
+CHIEF COMPLAINT: LCS SDM visit via telehealth, referred by PCP.
+
+HPI: Pt is a 70 y/o male seen via telehealth today for shared decision-making discussion regarding lung cancer screening, referred by PCP. Pt denies cough, hemoptysis, dyspnea at rest. Reports occasional exertional fatigue attributed to OSA, using CPAP nightly with fair compliance. No new resp sx.
+
+[COPIED FORWARD FROM VISIT 11/02/2022 - PULMONOLOGY FOLLOW-UP]
+Pt returns for f/u of OSA on CPAP therapy, settings 8 cmH2O, AHI on last download 3.2/hr, good mask seal, no leaks reported. Pt also endorses chronic low back and knee pain managed by ortho, on PRN NSAIDs. Denies chest pain, palpitations, orthopnea. Denies fevers, chills, night sweats. ROS otherwise negative. Exam: alert, NAD, lungs CTAB, no wheezes/rales/rhonchi, HEENT unremarkable, no LE edema. A/P: continue CPAP, f/u sleep med in 6 mo, refill supplies, ortho referral for knee pain already in place.
+[END COPIED TEXT]
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Never smoker.
+Alcohol use: Not on file.
+Recreational drug use: Marijuana - occasional use reported.
+Occupation: Retired.
+Living situation: Not on file.
+Exercise: Not on file.
+
+PROBLEM LIST (ICD-10):
+- G47.33 Obstructive sleep apnea (active)
+- M19.90 Osteoarthritis, unspecified site (active)
+- I10 Essential hypertension (resolved per pt, outdated entry - pt reports normal BP off meds x2 yrs)
+- Z87.891 Personal history of nicotine dependence (outdated/erroneous entry - see below)
+
+ASSESSMENT/PLAN:
+70 y/o male, never smoker, presenting for LCS SDM visit as referred. Discussed general lung cancer risk factors, radiation exposure risks/benefits of LDCT, and false-positive rates in detail. Reviewed pt's tobacco history, which he confirms is negative for any cigarette, cigar, or pipe use. Lung cancer screening with LDCT was discussed at length, including general population risk factors and screening rationale; no imaging was ordered or scheduled today. Encouraged pt to continue OSA management, f/u with sleep med as previously scheduled. Continue conservative mgmt for OA, PRN NSAIDs, ortho f/u as needed. RTC in 12 months or PRN.
+
+Note: Z87.891 code appears to be a documentation error carried over from prior EHR migration; will request coding team correct problem list at next visit.
+
+Electronically signed: Daniel Reyes, MD
+
+---
+ADDENDUM (later same day, 05/17/2024, 4:45 PM):
+Spoke with pt again by phone re: correction of problem list error (Z87.891). Pt confirms he has never smoked cigarettes, cigars, or pipes at any point in his life. Clarified marijuana use is occasional, recreational, no daily use reported. Will forward correction request to HIM dept. No other changes to plan.
+- Daniel Reyes, MD

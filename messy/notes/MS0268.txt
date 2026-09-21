@@ -1,0 +1,58 @@
+RESIDENT NOTE - CARDIOLOGY
+Date of Service: 08/10/2025
+Author: Anita Patel, MD (resident), attending attestation below
+
+Patient: Raymond Mitchell, M, DOB 08/01/1970 (age 55)
+
+CC: Chest pain evaluation.
+
+HPI: 55 yo male with hx asthma, PAD, CKD stage 3, GERD presents for eval of intermittent chest discomfort over the past several weeks. Describes pressure-like sensation, non-radiating, occurring w/ exertion, relieved by rest. No associated diaphoresis or syncope. Denies recent illness. Pt reports he no longer smokes cigarettes; reports quitting at some point but did not specify when.
+
+---COPIED FORWARD FROM PRIOR VISIT (04/02/2023, Dr. Lena Osei, PCP)---
+Pt here for routine PAD follow up. Ambulates without claudication at short distances, uses cilostazol. Reports compliance with meds. Reviewed foot care. Denies rest pain. Continue current regimen, recheck ABI in 6 months. Discussed diet and exercise. Pt tolerating current meds well. No new complaints today.
+---END COPIED TEXT---
+
+SOCIAL HISTORY:
+Tobacco: Former smoker, quit smoking (no date specified in record).
+EHR Tobacco Use Template (auto-populated):
+  Packs/day: 0.25
+  Years: 25.00
+  Type: Cigarettes
+Alcohol: occasional, denies illicit drug use.
+
+ROS: Positive for exertional chest discomfort. Negative for orthopnea, PND, LE edema. GI: occasional reflux, managed. Resp: no wheeze today, uses albuterol PRN.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, SpO2 97% RA, Wt 198 lb
+Gen: NAD, comfortable
+CV: RRR, no m/r/g
+Resp: clear to auscultation bilat, no wheeze
+Ext: no edema, distal pulses 1+ bilat DP/PT
+Abd: soft, nontender
+
+LABS/RESULTS:
+08/10/2025 - Troponin I: <0.01 ng/mL (negative)
+08/10/2025 - BNP: 88 pg/mL
+08/10/2025 - Creatinine: 1.5 mg/dL (baseline for CKD3)
+08/10/2025 - eGFR: 52 mL/min/1.73m2
+07/15/2025 - Lipid panel: LDL 102, HDL 40, TG 150
+EKG 08/10/2025: NSR, no acute ST changes
+
+PROBLEM LIST:
+- J45.909 Asthma, unspecified (active)
+- I73.9 Peripheral artery disease (active)
+- N18.3 CKD stage 3 (active)
+- K21.9 GERD (active)
+- I10 Essential hypertension (outdated - resolved per pt, off meds x2 yrs)
+- Z87.891 Personal history of nicotine dependence
+
+ASSESSMENT/PLAN:
+55 yo male with multiple vascular risk factors presenting w/ exertional chest pain, troponin negative, EKG unremarkable. Former smoker per history (tobacco template documents 0.25 packs/day x 25.00 years).
+1. Chest pain - low risk features, will pursue outpatient stress test given PAD and CKD.
+2. PAD - continue cilostazol, ABI trend stable.
+3. CKD stage 3 - monitor renal function, avoid nephrotoxic contrast if possible.
+4. GERD - continue PPI.
+5. Asthma - continue albuterol PRN, no exacerbation today.
+6. Tobacco cessation history discussed; encouraged to remain abstinent, screening for lung cancer discussed generally with patient.
+
+Attending Attestation: I have reviewed and discussed this patient with Dr. Patel. I agree with the assessment and plan as documented above. - Dr. Marcus Feldman, MD, Cardiology Attending, 08/10/2025.

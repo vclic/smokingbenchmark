@@ -1,0 +1,59 @@
+GERIATRICS RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Dorothy Washington, F, DOB 12/23/1948 (age 77)
+Date of Service: 12/23/2025
+Author: Farah Siddiqui, MD (Resident), attestation by attending below
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, referred by PCP for functional decline and polypharmacy review.
+
+HPI: Ms. Washington is a 77-year-old woman with history of obstructive sleep apnea and atrial fibrillation who presents today for a geriatric assessment accompanied buy her daughter, who reports mom has been more forgetful lately and sometimes forgets to take her evening meds, she also notes some unsteadiness on stairs but denies falls. Patient herself states she feels 'pretty good for my age' and denies chest pain, palpitations, or dyspnea at rest, though she does note some fatigue with exertion, she has a long history of heavy smoking and this has been a recurring topic in prior visits given her pulmonary and cardiac history. She reports using her CPAP most nights, 'maybe five out of seven,' and states her breathing is 'not bad' when she uses it consistently. Sleep is otherwise fragmented per daughter, with several nighttime awakenings. No recent hospitalizations. She continues to live independently in a one-story home with her daughter checking in daily.
+
+PAST MEDICAL HISTORY:
+- Obstructive sleep apnea, on CPAP
+- Atrial fibrillation, on anticoagulation
+- Hypertension
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS: Apixaban 5 mg BID, metoprolol succinate 50 mg daily, lisinopril 10 mg daily, acetaminophen PRN.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking status: Quit
+Years smoked: Not on file
+Packs per day: Not on file
+Alcohol use: Occasional, per patient
+Drug use: Denies
+Living situation: Lives with daughter
+Occupation: Retired schoolteacher
+Exercise: Limited, uses walker for longer distances
+
+The patient quit smoking, and per patient report this occurred in the early 2010s; she states she 'finally put them down for good' after a bout of bronchitis that she felt was a wake-up call. She denies any current tobacco or nicotine product use, including vaping.
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted in HPI. No fevers, no weight loss, no cough currently, no hemoptysis. Denies vision or hearing changes beyond baseline. GI, GU review negative. Denies new joint pain beyond chronic knee OA.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 68 irregular, RR 16, SpO2 95% RA, Wt 68 kg
+General: Well-appearing woman, no acute distress, appropriately groomed
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated, no JVD
+Lungs: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-tender, non-distended
+Extremities: No edema, mild crepitus bilateral knees on exam
+Neuro: Alert and oriented x3, gait slow but steady with walker, [inaudible] some hesitancy noted on turns
+Cognitive screen: MoCA administered today, score pending scoring by attending, patient completed most items without difficulty but had trouble with delayed recall and clock drawing was mildly abnormal
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - rate controlled, continue current anticoagulation and rate control, will obtain repeat EKG today
+2. Obstructive sleep apnea - encourage more consistent CPAP use, will download compliance data at next visit
+3. Cognitive concerns - will review MoCA results with attending, consider referral to memory clinic if abnormal
+4. Former tobacco use - counseled on continued avoidance, reinforced benefit of remaining smoke-free given cardiopulmonary history
+5. Fall risk - PT referral for gait and balance assessment, home safety eval recommended
+6. Health maintenance - reviewed age-appropriate preventive care topics generally with patient and daughter
+
+Plan discussed with patient and daughter, both in agreement, follow up in geriatrics clinic in 3 months or sooner as needed.
+
+---
+ADDENDUM (later same day, added by Dr. Siddiqui):
+Spoke with attending, Dr. Alvarez, who reviewed the case with me this afternoon after clinic; attending agrees with plan as above. Attending specifically noted that given the patient's long history of heavy smoking, cardiopulmonary risk factors should remain a focus of ongoing care, though patient has been smoke free since quitting in the early 2010s per her report. MoCA scored 22/30, consistent with mild cognitive impairment, memory clinic referral placed. No changes to medication regimen at this time. Patient's daughter was given clinic contact information for questions.
+
+Attestation: I, Dr. Alvarez, attending physician, have reviewed and discussed this case with Dr. Siddiqui and agree with the assessment and plan as documented above.

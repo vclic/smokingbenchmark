@@ -1,0 +1,61 @@
+URGENT CARE VISIT NOTE
+Patient: Carol Martinez | DOB: 04/11/1963 | Age: 61 | Sex: F
+Date of Service: 04/11/2024
+Provider: Isaac Moreno, PA-C
+
+--- NURSE INTAKE ---
+Vitals: T 99.1F, HR 88, RR 18, BP 128/76, SpO2 96% RA, Wt 152 lb, Ht 5'4"
+Chief complaint: cough x 5 days, worse at night, no fever per patient although she 'felt warm' yesterday.
+Allergies: NKDA
+Smoking status: Unknown if ever smoked
+
+Problem List (ICD-10):
+- E78.5 Hyperlipidemia, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- J20.9 Acute bronchitis, unspecified (2019, resolved)
+- M54.5 Low back pain (2017, chronic/intermittent)
+
+Medications:
+1. Atorvastatin 20 mg qhs
+2. Alendronate 70 mg PO weekly
+3. Calcium carbonate/Vitamin D3 600mg/400IU BID
+4. Multivitamin daily
+5. Occasional ibuprofen 200mg PRN back pain
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Patient is a 61 year old female who presents today, 4/11/2024, with a five day history of dry cough, worse at night, associated with mild throat irritation and post nasal drip, she denies chest pain shortness of breath or hemoptysis, she states she has been drinking [inaudible] fluids and using over the counter cough drops with minimal relief, no recent travel no sick contacts although her grandson had a cold last week, she denies fevers chills night sweats or weight loss, review of systems otherwise negative for the following as documented below.
+
+Social History: Lives with husband, works part time as a receptionist, denies illicit drug use, occasional alcohol use (1-2 glasses wine per week), exercise history not specifically addressed today.
+
+Review of Systems (templated, 10-point):
+Constitutional: negative for fever, chills, weight loss
+Eyes: negative for visual changes
+ENT: positive for cough, mild sore throat; negative for ear pain
+Cardiovascular: negative for chest pain, palpitations
+Respiratory: positive for cough; negative for dyspnea, wheeze
+GI: negative for nausea, vomiting, diarrhea
+GU: negative
+Musculoskeletal: positive for chronic low back pain, stable
+Skin: negative for rash
+Neuro: negative for headache, dizziness
+Psych: negative for depression, anxiety
+
+Physical Exam:
+General: well appearing female in no acute distress
+HEENT: oropharynx mildly erythematous, no exudate, TMs clear bilaterally
+Neck: supple, no lymphadenopathy
+Lungs: clear to auscultation bilaterally, no wheezes rales or rhonchi
+CV: regular rate and rhythm, no murmurs
+Abd: soft, nontender, nondistended
+MSK: no spinal tenderness
+Skin: warm and dry, no rash
+
+Assessment/Plan:
+1. Acute cough, likely viral upper respiratory infection / post-nasal drip - supportive care, increase fluids, OTC guaifenesin, saline nasal spray, return if worsening or fever develops.
+2. Hyperlipidemia (E78.5) - continue atorvastatin, stable, follow up with PCP for lipid panel recheck.
+3. Osteoporosis (M81.0) - continue alendronate and calcium/vitamin D, due for DEXA scan per PCP records.
+Patient counseled on red flag symptoms warranting return to urgent care or ED.
+Follow up with PCP in 1-2 weeks if symptoms persist.
+
+--- ADDENDUM (later same day, 04/11/2024, 16:42) ---
+Addendum by Isaac Moreno, PA-C: Patient called back this afternoon stating cough slightly improved after using guaifenesin, no new symptoms, no fever, advised to continue current plan and follow up with PCP as scheduled. Chart reviewed again, smoking status field remains unknown if ever smoked as patient was not specifically queried on this visit; recommend PCP address at next visit along with health maintenance updates. No changes to assessment or plan otherwise. End of addendum.

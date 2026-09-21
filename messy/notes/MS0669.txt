@@ -1,0 +1,59 @@
+URGENT CARE - Riverside Family Health
+Date of Service: 06/18/2024
+Patient: Rita Powell (F) DOB: 06/18/1958 Age: 66
+Provider: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+CC: cough x5 days, worse at night, pt states 'it just wont quit, keeps me up' [inaudible] denies fever chills sob is mild pt states she gets a little winded going up stairs but that this is not new for her.
+Vitals: BP 138/84 HR 78 RR 16 Temp 98.6F SpO2 96% RA Wt 214 lb Ht 5'4"
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Smoking status: Never Smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+
+NOTE: the 'Smoking status: Never Smoker' field above is a carryover template error and is INCORRECT - see physician note below for accurate history.
+
+Allergies: NKDA
+Meds reviewed: allopurinol, metformin (pt reports not diabetic, dose unclear, [inaudible] reconcile at next visit)
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms Powell is a 66 year old femal presenting today 6/18/2024 for evaluation of a persistent cough, she says started about five days ago, nonproductive mostly, some post nasal drip type symptoms she reports, no hemoptysis no chest pain. She denies recent travel or sick contacts. Pt has a history significant for gout and obesity, both of which are stable per her report, she is followed by her PCP for these and takes allopurinol regularly she says 'i take it every day dont miss it.'
+
+Regarding tobacco - the intake template field above listing 'Never Smoker' is an error carried forward from a prior visit and does not reflect this patient's actual history. On direct questioning today, Ms Powell reports she is a former smoker with a 26 pack-year smoking history and she quit smoking 15 years ago. She was counseled on the importance of maintaining smoking cessation and lung health screening options were discussed with her in general terms, no imaging ordered today for that indication.
+
+ROS: Constitutional - denies fever, denies weight loss. Respiratory - cough as above, denies dyspnea at rest, mild exertional dyspnea chronic per pt baseline. Cardiovascular - denies chest pain denies palpitations. GI - denies nausea vomiting diarrhea. Musculoskeletal - reports occasional great toe discomfort consistent w known gout, currently not flaring.
+
+Exam:
+General: obese female, no acute distress, alert oriented x3
+HEENT: oropharynx mildly erythematous, no exudate, nasal mucosa boggy
+Neck: supple no lymphadenopathy
+Lungs: clear to auscultation bilaterally, no wheeze no rhonchi no crackles appreciated
+CV: regular rate and rhythm, no murmur
+Abd: obese, soft, nontender, nondistended
+Ext: no edema, first MTP joint right foot mildly tender to palpation no erythema today
+Skin: warm dry intact
+
+Problem List:
+J00 - acute nasopharyngitis (working dx for cough, likely viral/URI)
+M10.9 - gout, unspecified site
+E66.9 - obesity, unspecified
+Z87.891 - personal history of nicotine dependence
+I10 - essential hypertension (outdated - pt reports no longer diagnosed, BP well controlled without meds, may need reconciliation)
+E11.9 - type 2 diabetes mellitus (outdated entry, pt denies dx of diabetes, metformin use unclear indication, flagged for PCP review)
+
+Assessment/Plan:
+1. Cough, likely viral URI vs postnasal drip - supportive care, increase fluids, saline nasal spray, OTC cough suppressant PRN, return precautions given for worsening sob, high fever, chest pain
+2. Gout - stable, continue allopurinol as prescribed by PCP, no flare currently
+3. Obesity - counseled on diet and exercise as tolerated, will defer detailed weight management plan to PCP
+4. Tobacco history - corrected in chart today, patient has 26 pack-year history, quit approx 15 years ago per patient report, reinforced continued abstinence, discussed general lung health screening considerations, no further imaging ordered from urgent care today
+5. Medication reconciliation needed at PCP re: metformin and outdated HTN/DM problem list entries, advised pt to follow up with PCP within 1-2 weeks
+6. Return to urgent care or ED if worsening symptoms, difficulty breathing, high fever, or chest pain
+
+Pt verbalized understanding of plan, all questions answered today, follow up as above.
+
+Daniel Reyes, MD
+Electronically signed 06/18/2024

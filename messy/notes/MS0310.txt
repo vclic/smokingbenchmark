@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Patient: Jose Smith | DOB: 3/10/1972 (age 54) | MRN: 88452
+Date of Service: 06/10/2026
+Provider: Daniel Reyes, MD (Pulmonology)
+Visit type: Telehealth - Lung Cancer Screening Shared Decision-Making
+
+HPI:
+Pt is a 54 y/o M w/ PMH of osteoporosis, OA, BPH, HLD who presents via video visit for LCS SDM discussion referred from PCP. Pt states "I feel fine, I just came because my doctor told me to talk about the lung scan thing." He denies cough, hemoptysis, weight loss, chest pain. He reports occasional joint stiffness in AM "like always" and takes his osteoporosis meds "most days, sometimes I forget." No dyspnea on exertion beyond baseline. No fevers/chills. Pt lives alone, retired, ambulates independently.
+
+Social Hx: Former smoker. Pt states "I quit back in '07 when I retired, haven't touched one since." No current tobacco use. No illicit drug use. Rare EtOH, ~1-2 drinks/wk per pt report. Denies vaping.
+
+ROS: Otherwise negative except as above; 10-point ROS reviewed and negative except as noted in HPI, pt reports no new symptoms, [inaudible] regarding sleep pattern but states he sleeps "ok most nights," no orthopnea.
+
+PMH: Osteoporosis, osteoarthritis (knees > hips), BPH, hyperlipidemia.
+PSH: none reported.
+Meds: alendronate weekly, tamsulosin, atorvastatin, occasional acetaminophen for joint pain.
+Allergies: NKDA.
+
+Labs/Results reviewed:
+- CMP 06/01/2026: Na 139, K 4.2, Cr 1.0, glucose 98 - WNL
+- Lipid panel 05/15/2026: LDL 132, HDL 44, TG 150 - stable, on statin
+- PSA 05/15/2026: 1.8 ng/mL - stable, followed by urology
+- Bone density DEXA 01/2026: T-score -2.6 lumbar spine, on treatment
+
+Vitals (per home device/self-report): BP 128/78, HR 72, RR 16, SpO2 97% on RA, wt 182 lb.
+
+Exam (limited via telehealth):
+Gen: well-appearing, NAD, seated comfortably, video quality intermittent at times.
+Resp: no visible increased work of breathing, no accessory muscle use noted on cam.
+CV: not auscultated (telehealth), pt denies chest pain/palpitations.
+MSK: no acute distress w/ movement, mild guarding of R knee reported by pt.
+
+Assessment/Plan:
+54 y/o M, former smoker, quit smoking in 2007 at time of retirement, with smoking history of 5 cigarettes per day for 19 years, presenting for LCS shared decision-making visit.
+1. Lung cancer screening - discussed risks/benefits of low-dose CT screening at length, discussed radiation exposure, false positive rates, incidental findings, and overdiagnosis. Pt verbalizes understanding. Decision made collaboratively; screening was discussed and pt to follow up with PCP re: next steps.
+2. Osteoporosis - continue alendronate, reinforce adherence given pt reports intermittent dosing, recheck DEXA per standard interval, encourage wt-bearing exercise as tolerated by knees.
+3. Osteoarthritis - continue APAP PRN, consider PT referral if worsening, follow with ortho as needed.
+4. BPH - continue tamsulosin, stable per pt report, no urinary retention sx.
+5. HLD - continue atorvastatin, lipid panel reviewed above, stable.
+RTC PCP in 3 months or sooner if symptoms arise. Pt verbalizes understanding of plan, all questions answered, video visit terminated without difficulty.
+
+---ADDENDUM (later same day, 06/10/2026, 4:47 PM)---
+Addendum by Dr. Reyes: Spoke briefly again w/ pt by phone re: clarification of one lab value; pt had additional question about DEXA result which was addressed, no change to overall plan above. Pt confirmed understanding again of SDM discussion regarding lung cancer screening as documented above and has no further questions at this time. No new smoking hx obtained, information as above remains accurate.

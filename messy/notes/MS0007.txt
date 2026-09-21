@@ -1,0 +1,54 @@
+PRIMARY CARE - NEW PATIENT VISIT
+Patient: Michael Johnson | DOB: 3/27/1959 | Age: 64 | Sex: M
+Date of Service: 3/27/2023
+Provider: Teresa Alvarez, NP
+
+CC: Establish care with new PCP.
+
+HPI: Mr. Johnson is a 64 y/o male presenting to establish care after moving to the area. He reports history of hyperlipidemia, HTN, gout, COPD, and GERD, all previously managed by outside provider. He states, "I feel pretty good most days, just get a little short of breath climbing stairs." Denies chest pain, denies fevers. He states, "My last doctor said my cholesterol was borderline but nothing to worry about." Reports occasional heartburn managed with OTC antacids.
+
+Smoking history: Patient reports a 33 pack-year smoking history. He is a former smoker, having quit smoking in 1990.
+
+[Copied from note dated 8/27/2020]: Smoking status: former smoker.
+
+ROS: Otherwise negative except as noted in HPI.
+
+PMH/Problem List:
+- E78.5 Hyperlipidemia
+- I10 Essential hypertension
+- M10.9 Gout, unspecified
+- J44.9 COPD, unspecified (outdated entry, may need update)
+- K21.9 GERD
+- Z87.891 Personal history of nicotine dependence
+
+Medications: Atorvastatin 20mg daily, Lisinopril 10mg daily, Allopurinol 100mg daily, Omeprazole 20mg daily, Albuterol inhaler PRN.
+
+Allergies: NKDA.
+
+Social History: Lives with spouse, retired mechanic. Denies current alcohol use. Denies illicit drug use.
+
+Physical Exam:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.4F, SpO2 95% RA, Wt 198 lb
+General: Well-appearing, NAD.
+Lungs: Mild expiratory wheeze bilaterally, no crackles.
+CV: RRR, no murmurs.
+Abd: Soft, non-tender, non-distended.
+Ext: No edema, no tophi noted currently.
+
+Labs/Results:
+- Lipid panel (3/20/2023): Total Chol 210 mg/dL, LDL 138 mg/dL, HDL 42 mg/dL, TG 150 mg/dL
+- CMP (3/20/2023): Cr 0.9, eGFR >60, Glucose 98
+- Uric acid (3/20/2023): 7.8 mg/dL
+- A1c (3/20/2023): 5.6%
+
+Assessment/Plan:
+1. Hyperlipidemia - continue atorvastatin, recheck lipids in 6 months.
+2. HTN - stable on current regimen, continue lisinopril, monitor BP at home.
+3. Gout - continue allopurinol, avoid high-purine foods.
+4. COPD - continue albuterol PRN, spirometry to be scheduled, discussed pulmonary risk given smoking history.
+5. GERD - continue omeprazole, lifestyle modification counseling given.
+6. Tobacco use - former smoker; reinforced importance of continued abstinence, screening discussed generally.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Teresa Alvarez, NP

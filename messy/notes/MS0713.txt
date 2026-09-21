@@ -1,0 +1,51 @@
+TELEHEALTH URGENT CARE NOTE
+Date of Service: 02/04/2024
+Patient: Gwendolyn Bennett | DOB: 2/4/1952 | Age: 72 y.o. female
+Author: Isaac Moreno, PA-C
+
+CHIEF COMPLAINT: Cough
+
+HPI: Pt is a 72 yo female w/ hx HFrEF, T2DM, CKD stage 3, HTN, BPH (per prior chart error, likely copy-fwd, disregard), and depression who presents via telehealth for cough x5 days. Reports intermittent dry cough, worse at night, no fever at home, denies chest pain, mild SOB c/w baseline. No hemoptysis. Denies sick contacts. Took OTC dextromethorphan without relief. Appetite stable, no wt loss. Pt states she has not felt significantly different from baseline HF sx, no increased LE edema, sleeping with usual 2 pillows.
+
+SOCIAL HISTORY: Long history of heavy smoking in the past; patient reports she no longer smokes and quit smoking 3 years ago. No current alcohol use. Lives alone, ambulates with cane at baseline.
+
+=== COPY-FORWARD FROM VISIT DATED 11/14/2022 (retained in chart, not updated) ===
+ROS: Constitutional: denies fever chills night sweats. Eyes: denies visual changes. ENT: denies sore throat congestion. CV: denies chest pain palpitations, +hx HFrEF stable on current regimen. Resp: denies wheeze, chronic cough noted at that time as well. GI: denies nausea vomiting diarrhea constipation. GU: denies dysuria frequency, +BPH sx managed w tamsulosin. MSK: denies joint pain. Neuro: denies HA dizziness. Psych: hx depression, stable on sertraline, denies SI. Skin: denies rash.
+PHYSICAL EXAM (11/14/2022): Vitals BP 138/82 HR 76 RR 16 O2 96% RA Temp 97.8. Gen: NAD, well-appearing. CV: RRR no m/r/g. Lungs: CTAB. Abd: soft NT ND. Ext: trace edema b/l. Neuro: A&Ox3, no focal deficits.
+A/P (11/14/2022): 1. HFrEF - continue carvedilol, lisinopril, spironolactone. 2. T2DM - continue metformin, A1c stable. 3. CKD3 - stable, monitor. 4. HTN - controlled. 5. BPH - continue tamsulosin. 6. Depression - continue sertraline.
+=== END COPY-FORWARD ===
+
+CURRENT VISIT CONTINUED
+
+REVIEW OF SYSTEMS (today, 02/04/2024): Constitutional: denies fever, chills, night sweats, denies unintentional wt loss. Eyes: no visual changes. ENT: mild throat irritation from coughing, denies congestion or sinus pressure. Cardiovascular: denies chest pain, palpitations, orthopnea unchanged from baseline. Respiratory: +cough as above, denies hemoptysis, denies significant dyspnea beyond baseline. GI: denies nausea, vomiting, diarrhea, constipation, abd pain. GU: denies dysuria, hematuria, +nocturia baseline 2-3x/night attributed to BPH. MSK: denies myalgias, arthralgias. Neuro: denies HA, dizziness, syncope, focal weakness. Psych: mood stable, denies SI/HI, sleep adequate. Skin: no rashes noted. Endocrine: denies polyuria polydipsia beyond baseline.
+
+MEDICATIONS (reviewed, reconciled today):
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Metformin 1000 mg PO BID
+5. Empagliflozin 10 mg PO daily
+6. Amlodipine 5 mg PO daily
+7. Tamsulosin 0.4 mg PO qHS
+8. Sertraline 100 mg PO daily
+9. Atorvastatin 40 mg PO qHS
+10. Furosemide 20 mg PO daily prn edema
+11. Vitamin D3 1000 IU PO daily
+12. Aspirin 81 mg PO daily
+
+PHYSICAL EXAM (telehealth, limited, 02/04/2024): Pt appears comfortable on video, no acute distress, speaking full sentences without noticeable dyspnea. Skin color appears normal, no cyanosis noted on camera. Pt reports temp taken at home 98.1F. Reports HR by home pulse ox monitor 78, O2 sat 97% RA. No home BP cuff available today per pt report, last recorded office BP from prior visit 138/82. Auscultation not possible via telehealth; pt denies use of any home stethoscope.
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs post-nasal drip, low suspicion for CHF exacerbation given stable exam by report and no increased edema/orthopnea. Advised supportive care, hydration, honey/lemon, OTC antitussive as tolerated. Return to clinic or ED if worsening dyspnea, chest pain, fever, or hemoptysis develops.
+2. HFrEF - stable per pt report, continue current regimen, will reassess at next scheduled cardiology visit.
+3. T2DM - continue current meds, recheck A1c at next lab draw.
+4. CKD stage 3 - stable, continue monitoring renal function, avoid NSAIDs.
+5. HTN - continue current antihypertensives.
+6. BPH - continue tamsulosin, no new urinary sx.
+7. Depression - stable on sertraline, no acute concerns today, will continue monitoring.
+8. Smoking history discussed - pt has a long history of heavy smoking but reports she no longer smokes, having quit smoking 3 years ago; reinforced importance of continued abstinence and provided positive reinforcement for cessation. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+9. Follow up with PCP in 2 weeks or sooner if sx worsen. Pt verbalized understanding of return precautions.
+
+Time spent on this telehealth encounter: 18 minutes, more than half spent on counseling/coordination of care.
+
+Electronically signed by Isaac Moreno, PA-C

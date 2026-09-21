@@ -1,0 +1,48 @@
+NURSE INTAKE (Hannah Weiss, NP) — DOS: 10/18/2025
+Pt: Denise Smith, F, DOB 7/12/1969, age 56.
+CC: Lung cancer screening SDM visit, Pulm.
+
+VITALS: BP 128/78, HR 76, RR 16, SpO2 97% RA, Wt 168 lb.
+
+HPI: Pt presents for shared decision-making visit re: lung cancer screening referred by PCP given h/o smoking. She reports no new resp sx, no hemoptysis, no wt loss. Hx of HFrEF and BPH stable per pt. Denies chest pain, orthopnea worse than baseline. Some mild dyspnea on exertion c/w known HF, unchanged.
+
+--- COPIED FORWARD FROM PRIOR NOTE 4/18/2024 ---
+SOCIAL HX (as documented 4/18/2024): Tobacco: former smoker. Alcohol: none. Drug use: denies. Occupation: retired admin assistant. Lives alone, independent in ADLs. Pt counseled re: cardiac diet, med compliance, f/u with cardiology q6mo.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (current, EHR template):
+Tobacco use: Former smoker
+Type: Cigarettes
+Current use: No
+Smokeless tobacco: Not on file
+Alcohol use: None (quit drinking in 2010)
+Drug use: Denies
+Living situation: Alone
+Occupation: Retired
+Exercise: Not on file
+
+ROS: Resp - neg for cough, hemoptysis, dyspnea beyond baseline. CV - neg for new edema, PND. GU - reports nocturia c/w BPH, stable on tamsulosin.
+
+Meds: Furosemide, metoprolol succinate, lisinopril, tamsulosin.
+
+Exam: Gen - NAD. CV - RRR, no S3 appreciated today (though HFrEF on echo). Lungs - CTAB, no wheezes/rales. GU exam deferred, stable sx.
+
+---
+
+PHYSICIAN PROGRESS NOTE (addendum to intake) — Hannah Weiss, NP
+
+Assessment/Plan:
+56 yo F, DOB 7/12/1969, seen 10/18/2025 for LCS shared decision-making visit.
+
+1. Tobacco use history: Detailed hx obtained today. Pt smoked approx 3/4 pack per day (~15 cigs/day) for 13 yrs, then decreased to approx 8 cigarettes/day for the following 21 yrs, after which she quit entirely. She is now a former smoker. General discussion held regarding the concept of lung cancer screening, including benefits/risks/limitations, per shared decision-making process; pt given decision aid pamphlet, verbalizes understanding. Pt will follow up with PCP to continue this conversation.
+
+2. HFrEF: Stable, continue GDMT as above, f/u cardiology per prior plan.
+
+3. BPH: Stable on tamsulosin, no acute urinary complaints.
+
+4. Alcohol use: Pt quit drinking etoh in 2010, no current use, no further intervention needed.
+
+Return to clinic in 3 months or sooner if resp sx develop. Pt educated on smoking cessation resources for relapse prevention given long smoking hx, though she reports no current use.
+
+--- ADDENDUM (later same day, 10/18/2025, H. Weiss NP) ---
+Addendum: Clarifying smoking cessation timeline per pt report during visit — pt states she has not smoked at all since her 48th birthday, confirming sustained abstinence. This is consistent with documentation above. No changes to plan. Discussion regarding lung cancer screening today was educational and general in nature.

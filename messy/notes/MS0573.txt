@@ -1,0 +1,34 @@
+TELEHEALTH F/U VISIT - Pulmonology
+Patient: Judith Thompson | DOB: 11/17/1944 | Age: 80 | Sex: F
+Date of Service: 11/17/2024
+Author: Gregory Tan, MD
+
+CC: COPD follow-up, telehealth.
+
+HPI: 80 yo F w/ hx asthma, HFrEF, OSA, BPH, hypothyroidism, COPD presents via video visit for routine f/u. Pt states, "I've been doin' ok, just some wheezing when I climb the stairs, doctor." She denies fevers, chest pain, hemoptysis. Reports adherence to inhalers, occasional missed doses of albuterol per pt report she "forgets sometimes especially in mornings when rushing to get ready [inaudible] busy with grandkids." No recent hospitalizations, though she notes one ER visit last winter for SOB that resolved w nebs and steroids per pt report and she says "they gave me a puff of something and I felt better right away." Sleep reportedly fair on CPAP, compliance data not available today due to tech issue - pt states machine "beeps a lot" and she sometimes takes mask off during night, will address separately.
+
+Smoking Hx: Pt has significant tobacco hx, smoked 1.5 packs per day for 29 years. She quit smoking 28 years ago and reports she no longer smokes at all, denies any current tobacco use. No vaping or other nicotine products reported. Lung cancer screening was discussed briefly given hx, pt to consider and follow up w PCP.
+
+ROS: otherwise negative except as above, denies orthopnea/PND today, mild bilateral LE edema per pt report, unchanged.
+
+PMH / Problem List:
+- J44.9 COPD, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- I50.22 Chronic systolic (congestive) heart failure
+- G47.33 Obstructive sleep apnea
+- N40.0 BPH without LUTS (outdated - pt s/p TURP per old note, may need update)
+- E03.9 Hypothyroidism, unspecified
+- Hx tobacco use, quit
+
+Meds: Tiotropium inhaler, albuterol PRN, furosemide, metoprolol succinate, levothyroxine, tamsulosin. Med list reviewed, no changes today.
+
+Exam: Telehealth visit, limited physical exam. Pt appears comfortable, speaking in full sentences, no acute distress noted on camera. Resp effort appears nl, no visible use of accessory muscles. Skin color appears normal per video, no cyanosis noted.
+
+Assessment/Plan:
+1. COPD - stable per pt report, continue current inhaler regimen, reinforce technique, discussed smoking history and importance of avoiding any future tobacco exposure.
+2. HFrEF - appears euvolemic per pt report, continue current cardiac meds, will coordinate w cardiology.
+3. OSA - CPAP compliance issue noted, will refer to sleep medicine / DME for troubleshooting.
+4. Hypothyroidism - stable, continue levothyroxine, check TSH at next labs.
+5. BPH - stable per pt report, no urinary sx today.
+
+F/u in 3 months or sooner if worsening sx. Pt verbalized understanding, agreeable to plan.

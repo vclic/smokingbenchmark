@@ -1,0 +1,37 @@
+Vascular Surgery – Progress Note
+Patient: Paula Foster | DOB: 3/23/1953 (age 70)
+Date of Service: 3/23/2023
+Author: Kevin Osei, MD (NP progress note)
+
+CHIEF COMPLAINT: Follow-up peripheral artery disease (PAD), claudication symptoms.
+
+HPI: Ms. Foster returns for reassessment of PAD. She reports intermittent calf claudication with walking approx 2 blocks, improved slightly since last visit with cilostazol. No rest pain, no ulcers. She has a documented smoking history of half a pack (about 10 cigarettes) per day for 36 years; she is a former smoker (quit). No further details on quit timing are documented.
+
+--- COPIED FORWARD FROM VISIT DATED 4/23/2021 ---
+HPI (from 4/23/2021): Patient here for PAD follow-up, stable. Denies rest pain. Smoking status: former smoker at that time. Diet reviewed, exercise program reinforced. Labs reviewed and stable. Continue current regimen.
+--- END COPIED SECTION ---
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. CV: denies chest pain, palpitations. Resp: denies dyspnea, cough. GI: occasional reflux, controlled on PPI. GU: no complaints. MSK: occasional gout flares, last one 6 months ago. Skin: no ulcers, no rashes. Neuro: no numbness/tingling. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals stable, BP 132/78, HR 72, BMI 27. General: NAD. CV: RRR, no murmurs. Pulses: dorsalis pedis 1+ bilaterally, posterior tibial faint bilaterally. Extremities: no edema, no ulcerations, hair loss noted on lower legs. Skin warm, cap refill <2 sec. Lungs clear bilaterally.
+
+LABS/RESULTS:
+- 3/20/2023 Lipid panel: LDL 118, HDL 45, TG 150
+- 3/20/2023 TSH 2.1 (within normal limits)
+- 3/20/2023 Uric acid 6.8
+- ABI (2/15/2023): Right 0.72, Left 0.68
+
+PROBLEM LIST:
+- I73.9 Peripheral vascular disease, unspecified
+- E78.5 Hyperlipidemia
+- E03.9 Hypothyroidism
+- K21.9 GERD
+- M10.9 Gout
+- Z87.891 History of tobacco use (former smoker)
+- I10 Hypertension (outdated - resolved per patient report)
+
+MEDICATIONS: Atorvastatin 40mg qd, Levothyroxine 75mcg qd, Omeprazole 20mg qd, Allopurinol 100mg qd, Cilostazol 100mg BID, Aspirin 81mg qd.
+
+ASSESSMENT/PLAN: PAD stable on cilostazol, continue current dose. Lipid panel reviewed, continue statin. Discussed lung cancer screening in general terms with patient; no imaging ordered today. Continue monitoring gout and GERD. Follow-up in 3 months.
+
+ADDENDUM (later same day): Patient called back regarding medication refill question for cilostazol; pharmacy contacted and refill authorized. No changes to plan otherwise.

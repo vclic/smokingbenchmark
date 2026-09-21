@@ -1,0 +1,42 @@
+FAMILY MEDICINE - PHYSICIAN PROGRESS NOTE
+Patient: Susan Nguyen (F) DOB: 6/17/1952 (age 74)
+Date of Service: 06/17/2026
+Author: Owen Fitzgerald, MD
+
+CC: Annual wellness visit.
+
+HPI: Pt is a 74 y/o woman here for routine annual exam. Reports feeling generally well, no acute complaints. Reviewing chronic conditions today - CKD stage 3, HTN, T2DM, GERD, hypothyroidism, all stable per pt. Denies chest pain, dyspnea, dysuria, edema. Sleep and appetite fine. Former smoker; smoked 15 cigarettes per day for 28 years, quit smoking, quit in 2019. No other tobacco or nicotine use since. No alcohol/illicit drug use reported. Exercise: walks daily w/ neighbor. Diet: low-sodium, watching carbs per prior counseling.
+
+ROS: Constitutional - no fever, no weight loss. Eyes - no visual changes. ENT - no sore throat, no hearing loss. CV - no chest pain, no palpitations. Resp - no cough, no wheeze, no SOB. GI - occasional reflux, controlled on meds, no nausea/vomiting/diarrhea. GU - no dysuria, no hematuria. MSK - mild knee stiffness AM, chronic. Skin - no rashes. Neuro - no HA, no numbness/tingling. Psych - mood stable, no anxiety/depression sx. Endo - no polyuria/polydipsia currently. Heme/Lymph - no easy bruising. Allergic/Immune - denies.
+
+PMH/Problem list:
+N18.3 CKD stage 3
+K21.9 GERD
+I10 Essential hypertension
+E11.9 Type 2 diabetes mellitus
+E03.9 Hypothyroidism
+Z87.891 Personal hx of nicotine dependence (former smoker)
+M17.9 Osteoarthritis knee (outdated, resolved per pt - carried forward from old chart)
+J45.909 Asthma (outdated - pt denies asthma dx, likely charting error, to review)
+
+Medications: Lisinopril 20mg daily; Metformin 1000mg BID; Levothyroxine 75mcg daily; Omeprazole 20mg daily; Atorvastatin 20mg qhs; Amlodipine 5mg daily; Vitamin D3 2000 IU daily; Aspirin 81mg daily; Calcium carbonate 500mg BID.
+
+Physical Exam: Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, Wt 158 lbs, Ht 5'4", BMI 27.1. General: well-appearing, NAD. HEENT: NCAT, PERRLA, oropharynx clear. Neck: no JVD, no thyromegaly. CV: RRR, no murmurs/gallops/rubs. Lungs: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND, +BS. Ext: no edema, pulses 2+ bilat. Skin: no lesions. Neuro: A&Ox3, CN II-XII grossly intact, gait steady. Psych: mood/affect appropriate.
+
+Labs/Results:
+05/28/2026: A1c 7.1%, Creatinine 1.4 mg/dL, eGFR 45, K+ 4.3, Na 139
+05/28/2026: TSH 2.1 uIU/mL
+05/28/2026: Lipid panel - LDL 92, HDL 54, TG 130
+Urine microalbumin/creat ratio 45 mg/g (05/28/2026)
+
+Assessment/Plan:
+1. CKD stage 3 - stable, continue current renoprotective regimen, recheck labs in 6 mo.
+2. HTN - well controlled, continue current meds.
+3. T2DM - A1c improved, continue metformin, reinforce diet/exercise.
+4. GERD - stable on omeprazole.
+5. Hypothyroidism - TSH euthyroid, continue levothyroxine.
+6. Health maintenance - vaccines up to date, mammogram/colon screening reviewed. Prior tobacco use noted; general lung health and respiratory symptoms discussed with pt, encouraged to report any new cough or breathing changes. Continue routine follow up.
+
+Follow up in 12 months or sooner if needed.
+
+Owen Fitzgerald, MD

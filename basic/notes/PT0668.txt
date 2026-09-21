@@ -1,0 +1,82 @@
+Geriatrics Clinic Note
+
+Patient: KOWALSKI, Wayne    MRN: 69812608
+DOB: 04/06/1953    Age: 73 y.o.    Sex: Male
+Date of Service: 04/30/2026    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• BP check
+
+Subjective:
+Wayne Kowalski is a 73 y.o. male who presents for follow-up of hypertension.
+Current every-day smoker with a 54-pack-year history. Home BP readings mostly in the 140s/80s. Taking amlodipine 10 mg daily without missed doses. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• Peripheral artery disease
+• Mixed hyperlipidemia	1998
+• Osteoarthritis of knees	2021
+• HTN
+• Benign prostatic hyperplasia	1997
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• vitamin D3 2000 IU daily
+• diclofenac 1% gel QID PRN
+• simvastatin 20 mg nightly
+• tamsulosin 0.4 mg nightly
+• aspirin 81 mg daily
+• insulin glargine 20 units nightly
+• metformin 1000 mg BID
+
+Allergies
+• Latex
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired engineer.
+  Social drinker.
+  No IVDU.
+
+Family History
+Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 123/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 67 | Temp 98.3 °F (Oral) | Resp 18 | Ht 6' 2" | Wt 184 lb | SpO2 97% | BMI 23.65 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Hypertension
+   BP at goal in clinic and at home.
+
+RTC 6 months.
+
+Electronically signed by Catherine Lindqvist, DO on 04/30/2026

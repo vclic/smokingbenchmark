@@ -1,0 +1,58 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Hung Simmons | DOB: 11/04/1949 | Age: 76 | Sex: M
+Date of Service: 11/04/2025
+Author: Hannah Weiss, NP
+
+HPI:
+Mr. Simmons is a 76-year-old man referred for pre-op medical clearance prior to right total knee replacement scheduled with orthopedic surgery. He reports chronic right knee pain limiting ambulation, worse with weight-bearing. No chest pain, no acute dyspnea at rest. Smoking history notable for 1 pack per day at prior peak use; he is a former smoker and no longer smokes at this time. He states he quit smoking when his grandson was born - that grandson is now 31 years old. He denies alcohol use. Reviewed cardiac and pulmonary risk factors given planned surgery.
+
+--- COPIED FROM VISIT 02/04/2022 (SOCIAL HISTORY, NOT UPDATED THIS VISIT) ---
+Social History (as documented 02/04/2022): Former smoker. Denies current tobacco use. Denies illicit drug use. Lives with spouse, retired.
+--- END COPIED SECTION ---
+
+Review of Systems: Constitutional: denies fever, chills, weight loss. Eyes: denies vision changes. ENT: denies hearing loss. Cardiovascular: denies chest pain, palpitations, orthopnea. Respiratory: denies cough, hemoptysis, wheezing. GI: denies nausea, vomiting, abdominal pain, change in bowel habits. GU: reports nocturia, known BPH, denies hematuria. Musculoskeletal: positive for right knee pain, denies other joint swelling. Neuro: denies focal weakness, numbness. Psych: denies SI/HI, mood stable on current regimen. Endocrine: denies polyuria/polydipsia. Skin: denies rash. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/78, HR 74, RR 16, SpO2 96% RA, Temp 98.2F, BMI 27.4
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic, EOMI
+Neck: no JVD, no lymphadenopathy
+CV: RRR, no murmurs/rubs/gallops
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abdomen: soft, non-tender, non-distended, normoactive bowel sounds
+Extremities: right knee with mild effusion, crepitus, decreased ROM, no calf tenderness, no edema
+Skin: warm, dry, intact
+Neuro: alert, oriented x3, cranial nerves grossly intact
+Psych: mood/affect appropriate
+
+Current Medications:
+Metformin 1000mg BID
+Levothyroxine 75mcg daily
+Tamsulosin 0.4mg daily
+Sertraline 50mg daily
+Alendronate 70mg weekly
+Atorvastatin 20mg daily
+CPAP nightly for OSA
+Calcium/Vitamin D supplement daily
+
+Problem List:
+E11.9 - Type 2 diabetes mellitus without complications
+E03.9 - Hypothyroidism
+N40.0 - Benign prostatic hyperplasia
+G47.33 - Obstructive sleep apnea
+M81.0 - Osteoporosis (age-related, without pathological fracture)
+F32.9 - Major depressive disorder, unspecified (outdated - patient now stable, in remission per psych)
+M17.11 - Unilateral primary osteoarthritis, right knee
+
+Assessment/Plan:
+76-year-old male, DOB 11/04/1949, presenting 11/04/2025 for pre-operative evaluation prior to right TKA.
+1. Cardiac risk: low-to-intermediate risk, functional capacity adequate, no further cardiac workup needed at this time.
+2. Pulmonary risk: history of tobacco use (1 pack per day previously) but patient no longer smokes; no active pulmonary complaints. OSA well-controlled on CPAP, continue nightly use perioperatively.
+3. Diabetes: continue metformin, hold morning of surgery, monitor glucose perioperatively.
+4. BPH: continue tamsulosin.
+5. Osteoporosis: continue alendronate and calcium/vitamin D.
+6. Depression: stable, continue sertraline.
+7. Cleared for surgery from internal medicine standpoint pending anesthesia evaluation.
+
+Addendum (later same day, 11/04/2025, H. Weiss, NP):
+Spoke with patient by phone after visit to clarify medication reconciliation; patient confirmed he takes all medications as listed above with no recent changes. No changes to plan.

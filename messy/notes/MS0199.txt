@@ -1,0 +1,87 @@
+VASCULAR SURGERY - PHYSICIAN PROGRESS NOTE
+Patient: William Nguyen | DOB: 04/20/1955 | Age: 71 | Sex: M
+Date of Service: 04/20/2026
+Author: Julia Brennan, MD
+Referral: Peripheral Artery Disease Evaluation
+
+CHIEF COMPLAINT: Follow-up for claudication, right leg worse than left.
+
+HPI:
+Mr. Nguyen is a 71-year-old male with a history of obesity, BPH, gout, and depression who returns today to Vascular Surgery for reassessment of his known peripheral artery disease. He was last seen approximately 4 months ago after an ABI study showed moderate-to-severe disease on the right. He reports that his walking distance has decreased over the past several weeks. In his own words, "I used to be able to walk to the mailbox and back without stopping, now I have to sit down halfway there." He denies rest pain, denies any non-healing ulcers or wounds on his feet. He states, "My toes get cold and kind of achy when I walk fast, but it goes away when I stop." No fevers, no chills, no recent trauma to the lower extremities.
+He denies chest pain, palpitations, or shortness of breath at rest. He has been compliant with his cilostazol as prescribed. He continues supervised exercise therapy twice weekly, though he says, "It's hard to keep up some days because of my knees."
+Regarding tobacco use, the patient reports he has never smoked cigarettes in his life. This was confirmed again today given its relevance to his vascular risk profile.
+He denies alcohol use beyond occasional social drinking and denies any illicit drug use.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Peripheral artery disease, right lower extremity, without gangrene - I70.221 (active)
+2. Obesity, unspecified - E66.9 (active)
+3. Benign prostatic hyperplasia with lower urinary tract symptoms - N40.1 (active)
+4. Gout, unspecified - M10.9 (active)
+5. Major depressive disorder, recurrent, mild - F33.0 (active)
+6. Essential hypertension - I10 (active, per chart review, though not addressed today)
+7. Hyperlipidemia - E78.5 (active, per chart, not addressed today)
+8. Tobacco use disorder - Z72.0 (LISTED IN ERROR, OUTDATED - see note below)
+9. GERD - K21.9 (outdated entry, resolved per patient, remains on problem list from prior visit)
+
+*Note: Problem #8 (tobacco use disorder) appears to be an outdated/erroneous carryover from a prior template and does not apply; patient has never smoked cigarettes, as documented above and confirmed with patient today.
+
+MEDICATIONS:
+1. Cilostazol 100 mg PO BID
+2. Aspirin 81 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Lisinopril 20 mg PO daily
+5. Tamsulosin 0.4 mg PO qHS
+6. Finasteride 5 mg PO daily
+7. Allopurinol 300 mg PO daily
+8. Colchicine 0.6 mg PO daily PRN gout flare
+9. Sertraline 100 mg PO daily
+10. Metformin 500 mg PO BID
+11. Multivitamin PO daily
+12. Vitamin D3 2000 IU PO daily
+
+ALLERGIES: No known drug allergies.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies sore throat, denies hearing loss.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND. Positive for intermittent claudication as above.
+Respiratory: Denies cough, denies dyspnea at rest, denies hemoptysis.
+Gastrointestinal: Denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits.
+Genitourinary: Positive for nocturia x2, consistent with known BPH. Denies dysuria, denies hematuria.
+Musculoskeletal: Positive for occasional gout flares in the right first MTP joint, currently quiescent. Denies acute joint swelling today.
+Skin: Denies rashes, denies non-healing wounds, denies ulcers.
+Neurological: Denies numbness, denies tingling, denies weakness.
+Psychiatric: Positive for depression, stable on current sertraline dose. Denies suicidal ideation.
+Endocrine: Denies polyuria, denies polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, denies swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies.
+All other systems reviewed and negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, SpO2 97% on room air, Weight 231 lbs, BMI 34.2
+General: Well-appearing, obese male in no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: No JVD, no carotid bruits appreciated bilaterally.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. No lower extremity edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no pulsatile mass appreciated.
+Vascular exam: Bilateral femoral pulses palpable and symmetric. Right popliteal pulse diminished compared to left. Right dorsalis pedis and posterior tibial pulses faint/monophasic by Doppler; left DP and PT pulses 2+ palpable. No skin breakdown, no ulceration noted on either foot. Capillary refill <3 seconds bilaterally. Hair loss noted on right lower leg distally, consistent with chronic arterial insufficiency.
+Musculoskeletal: Right first MTP with no active erythema or swelling today.
+Skin: Warm, dry, intact, no rashes noted.
+Neurological: Grossly intact, sensation to light touch preserved bilaterally in lower extremities.
+Psychiatric: Mood euthymic, affect appropriate.
+
+ASSESSMENT AND PLAN:
+1. Peripheral artery disease, right lower extremity - Symptoms appear to have progressed subjectively since last visit despite compliance with cilostazol and supervised exercise. Will obtain repeat ABI with exercise testing to reassess disease severity. Continue current medical management. Discussed risk factor modification including diet, weight management, and continued exercise therapy. Given the patient has never smoked, tobacco cessation counseling is not applicable, though this was reconfirmed today.
+2. Obesity - Discussed continued dietary modification and referral to nutrition if patient is interested. He was not interested at this time.
+3. BPH - Stable on tamsulosin and finasteride, continue same, follow with urology as scheduled.
+4. Gout - Currently quiescent, continue allopurinol, colchicine PRN for flares.
+5. Depression - Stable on sertraline, continue current dose, follow with psychiatry as scheduled.
+6. Hypertension and hyperlipidemia - Stable, will defer management to primary care provider, continue current regimen.
+
+Follow-up in vascular surgery clinic in 3 months, sooner if worsening symptoms, new ulceration, or rest pain develop. Patient given instructions to call clinic with any concerns. Discussed general vascular risk factors including the option of further imaging workup; no additional imaging scheduled at this visit beyond the planned ABI study.
+
+Time spent with patient today: approximately 25 minutes, more than half spent in counseling and coordination of care.
+
+Electronically signed: Julia Brennan, MD, Vascular Surgery

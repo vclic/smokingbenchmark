@@ -1,0 +1,70 @@
+NURSE INTAKE NOTE
+Date of Service: 02/01/2026
+Patient: Michael Brooks  DOB: 01/28/1957  Age: 69  Sex: M
+Provider: Daniel Reyes, MD
+Visit type: Hospital discharge follow-up (Primary Care) - post pneumonia hospitalization
+
+VITALS: BP 132/78  HR 78  RR 16  Temp 98.2F  SpO2 96% RA  Wt 190 lb
+CHIEF COMPLAINT: F/u after recent hospitalization for pneumonia.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never Smoker
+Smokeless tobacco: Not on file
+E-cigarette/Vaping: Yes - daily nicotine vaping
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+HPI: Mr. Brooks is a 69-year-old male seen today for follow-up after a recent hospital admission for community-acquired pneumonia. He reports improving energy, decreased cough, and no fevers since discharge. He continues to use a nicotine vape pen daily, a habit he has had for several years, but he states he has never smoked cigarettes, cigars, or pipes. He denies chest pain, hemoptysis, or worsening dyspnea. He is compliant with his discharge antibiotic course and finished it two days ago. Reports mild fatigue but improving appetite.
+
+REVIEW OF SYSTEMS: Denies fever, chills, night sweats, hemoptysis, or weight loss. Positive for mild residual cough. GI: occasional heartburn, consistent with known GERD. GU: nocturia x2, stable, consistent with known BPH.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (with ICD-10 codes):
+1. Benign prostatic hyperplasia (N40.1) - stable on tamsulosin
+2. GERD (K21.9) - stable on omeprazole
+3. Pneumonia, resolved (J18.9) - recent hospitalization, discharged 01/25/2026
+4. Hyperlipidemia (E78.5) - outdated entry, no active treatment noted in chart, to review
+5. Seasonal allergic rhinitis (J30.2) - outdated entry, inactive
+
+MEDICATIONS:
+- Tamsulosin 0.4 mg daily
+- Omeprazole 20 mg daily
+- Amoxicillin-clavulanate (completed discharge course)
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+General: Alert, well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Lungs: Mild bibasilar crackles, improved from discharge exam, no wheezes, no accessory muscle use.
+CV: RRR, no murmurs.
+Abdomen: Soft, nontender, nondistended, normal bowel sounds.
+Extremities: No edema.
+Skin: Warm, dry, no rash.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+CBC (01/26/2026): WBC 9.8 (ref 4.0-11.0), Hgb 14.1, Hct 42%, Plt 245
+BMP (01/26/2026): Na 139, K 4.1, Cl 101, CO2 25, BUN 16, Cr 1.0, Glucose 98
+CXR (01/25/2026, inpatient): Right lower lobe infiltrate, consistent with pneumonia
+CXR (02/01/2026, outpatient f/u): Improved aeration, resolving infiltrate
+PSA (11/2025): 1.8 ng/mL, stable
+
+ASSESSMENT AND PLAN:
+69-year-old male, never smoker, presenting for follow-up after recent hospitalization for pneumonia, now clinically improving.
+
+1. Pneumonia, resolving (J18.9) - Repeat CXR today shows improvement. Continue supportive care, encourage hydration and rest. Return precautions given for fever, worsening cough, or dyspnea. No further antibiotics needed at this time.
+2. Tobacco/nicotine use - Patient reports never having smoked cigarettes; however, he vapes nicotine daily. Counseled on risks of nicotine dependence and encouraged to consider cessation of vaping. Discussed general lung health monitoring given recent pneumonia; no specific screening recommendation made or ordered at this visit.
+3. BPH (N40.1) - Stable, continue tamsulosin, routine PSA monitoring as above.
+4. GERD (K21.9) - Stable, continue omeprazole, reinforced dietary modifications.
+5. Hyperlipidemia (E78.5) - Outdated entry, will review lipid panel status at next visit.
+6. Health maintenance - Discussed age-appropriate screenings and vaccinations; influenza and pneumococcal vaccine status reviewed and up to date per chart.
+
+Follow-up: Return to clinic in 4 weeks or sooner if symptoms worsen. Continue current medications. Patient verbalized understanding of plan.
+
+Electronically signed: Daniel Reyes, MD
+Date/Time: 02/01/2026 14:32

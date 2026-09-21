@@ -1,0 +1,83 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Diane Chen (F)  DOB: 1/5/1947 (Age 79)
+Date of Service: 01/05/2026
+Author: Laura Castellano, FNP-C
+Referring: Dr. R. Alvarez, Orthopedic Surgery
+
+CHIEF COMPLAINT: Pre-op medical clearance for right total knee replacement.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Chen is a 79-year-old woman with history of CKD stage 3, OSA on CPAP, HTN, hyperlipidemia, BPH, and osteoarthritis who presents today, 01/05/2026, for pre-operative evaluation prior to scheduled right total knee arthroplasty. She reports progressive right knee pain over the last several years, now limiting ambulation to less than one block. She states, "I can barely get up the stairs anymore, and the pain wakes me up at night." She denies chest pain, palpitations, or syncope. She reports her CPAP use is inconsistent: "I forget to wear the mask half the time, honestly." No recent fevers, dysuria, or hematuria. She takes her antihypertensives as prescribed and reports home BP readings in the 130s/70s.
+
+She was seen by nephrology last month and labs were reportedly stable at that time. She has not had any recent hospitalizations. She lives independently with her husband and remains functionally active despite the knee pain, using a cane for longer distances.
+
+SOCIAL HISTORY (EHR TEMPLATE - STRUCTURED FIELDS):
+Tobacco Use Status: Never Used
+Smoking Pack-Years: Not on file
+Smokeless Tobacco: Not on file
+Alcohol Use: Occasional, wine with dinner
+Alcohol Type: Wine
+Illicit Drug Use: Denies
+Occupation: Retired schoolteacher
+Living Situation: Lives with spouse
+Exercise: Limited due to knee pain
+Diet: Low sodium, renal-friendly
+
+[Note: patient has never used tobacco products of any kind per chart review and patient report today.]
+
+--- COPY-FORWARD TEXT FROM PRIOR VISIT DATED 07/14/2025 (Nephrology Follow-Up, Dr. S. Whitfield) ---
+Ms. Chen returns for follow-up of CKD stage 3. Etiology likely multifactorial, related to longstanding hypertension. Most recent creatinine 1.4 mg/dL, eGFR 42 mL/min/1.73m2 (06/2025). Urinalysis without proteinuria. Renal ultrasound from 2023 showed mild bilateral cortical thinning without hydronephrosis or masses. Patient continues on lisinopril 10mg daily, tolerating well, no hyperkalemia. Advised to avoid NSAIDs given renal function. Continue low sodium diet. Follow up in 6 months with repeat BMP. Discussed avoidance of nephrotoxic contrast when possible; if contrast needed for future imaging, recommend IV hydration protocol and repeat creatinine post-procedure. Patient counseled on signs/symptoms of worsening renal function including edema, decreased urine output, fatigue. She verbalized understanding. Continue current antihypertensive regimen; BP well controlled today at 128/74. No new complaints. RTC 6 months or sooner PRN.
+--- END COPY-FORWARD TEXT ---
+
+PAST MEDICAL HISTORY:
+1. Chronic kidney disease, stage 3
+2. Obstructive sleep apnea, on CPAP
+3. Hypertension
+4. Hyperlipidemia
+5. Benign prostatic hyperplasia (documented historically, likely copy-forward error given patient is female; noted in chart, not addressed today)
+6. Osteoarthritis, bilateral knees, right worse than left
+
+MEDICATIONS:
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg nightly
+- Tamsulosin (listed in chart, to review given BPH diagnosis appears to be documentation error)
+- Acetaminophen 650 mg PRN knee pain
+- Vitamin D3 1000 IU daily
+
+ALLERGIES: No known drug allergies.
+
+FAMILY HISTORY: Mother with hypertension, father with coronary artery disease.
+
+PHYSICAL EXAM:
+Vitals: BP 132/76, HR 68, RR 16, Temp 97.8F, SpO2 96% on room air, Weight 158 lbs, Height 5'4"
+General: Well-appearing, no acute distress, ambulates with cane
+HEENT: Normocephalic, atraumatic, no oral lesions
+Neck: No JVD, no lymphadenopathy
+Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+Extremities: Right knee with mild effusion, crepitus with range of motion, no erythema or warmth; left knee unremarkable; no lower extremity edema
+Skin: Warm, dry, intact
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact
+
+LABS/RESULTS:
+CBC (01/03/2026): WBC 6.2, Hgb 12.8, Hct 38.5%, Platelets 245
+BMP (01/03/2026): Na 139, K 4.3, Cl 102, CO2 24, BUN 22, Creatinine 1.45, Glucose 98, eGFR 41 mL/min/1.73m2
+Lipid Panel (11/2025): Total Cholesterol 178, LDL 92, HDL 54, Triglycerides 130
+EKG (01/05/2026): Normal sinus rhythm, rate 68, no acute ST-T wave changes, no significant change from prior
+Urinalysis (01/03/2026): No proteinuria, no hematuria
+
+ASSESSMENT/PLAN:
+1. Pre-operative clearance for right total knee arthroplasty - Patient is medically optimized for surgery. Cardiac risk assessed as low given normal EKG, no cardiac symptoms, and adequate functional capacity limited primarily by joint pain. No further cardiac workup indicated at this time.
+2. CKD stage 3 - Stable, creatinine and eGFR consistent with prior values. Recommend avoiding NSAIDs perioperatively for pain control; use acetaminophen and other non-nephrotoxic agents. Ensure adequate hydration perioperatively. Hold lisinopril morning of surgery per anesthesia protocol.
+3. OSA - Continue CPAP; counseled on importance of consistent use, particularly perioperatively given increased risk of respiratory complications with sedation/anesthesia. Recommend bringing CPAP machine to hospital for post-op use.
+4. Hypertension - Well controlled, continue lisinopril, hold day of surgery per anesthesia.
+5. Hyperlipidemia - Continue atorvastatin.
+6. BPH - Chart discrepancy noted; will clarify with patient's primary care provider given patient's female sex; tamsulosin may be documentation error and will be addressed separately, not affecting surgical clearance.
+7. Health maintenance - Routine age-appropriate preventive care reviewed; up to date on prior screenings per PCP records. No additional health maintenance items to address today.
+
+Cleared for surgery from internal medicine standpoint. Will fax clearance letter to orthopedic surgery office. Patient to follow up with this office post-operatively and continue routine nephrology follow-up as previously scheduled.
+
+Time spent: 30 minutes, more than half spent in counseling and coordination of care.
+
+Electronically signed: Laura Castellano, FNP-C, 01/05/2026

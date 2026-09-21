@@ -1,0 +1,47 @@
+TELEHEALTH VISIT NOTE
+Internal Medicine - Follow-up
+Patient: Gary Williams (M), DOB: 02/05/1970 (age 55)
+DOS: 09/23/2025
+Provider: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: F/u HTN, DM2.
+
+HPI: Pt is a 55 yo M with hx HTN, DM2, CAD, hypothyroidism, gout, osteoporosis presenting via telehealth for routine f/u. Reports doing fairly well, no chest pain, no palpitations. Home BP log reviewed, avg 138/84. Denies polyuria/polydipsia. Occasional mild ankle discomfort attributed to gout, currently quiescent, no acute flare. Compliant w/ meds per pt report. No new complaints today. During review of habits, pt mentioned that as a teen he tried a few cigarettes but never smoked regularly - has not been a smoker since, no regular use at any point in adulthood.
+
+PROBLEM LIST (partial, some entries outdated):
+- I10 Essential hypertension (active)
+- E11.9 Type 2 diabetes mellitus w/o complications (active)
+- I25.10 CAD, native vessel, w/o angina (active)
+- E03.9 Hypothyroidism, unspecified (active)
+- M10.9 Gout, unspecified (active, chronic)
+- M81.0 Osteoporosis w/o current pathological fracture (active)
+- J45.909 Asthma (outdated - resolved per pt, not addressed today)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never established regular smoker - pt reports experimental use of a few cigarettes as teenager only, never smoked regularly. Current status: Never smoker (per updated hx).
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Not on file
+Exercise: Walks ~20 min daily per pt report
+Living situation: Not on file
+
+LABS/RESULTS:
+CBC (09/10/2025): WBC 6.1, Hgb 14.2, Plt 230
+CMP (09/10/2025): Na 139, K 4.3, Cr 1.0, eGFR 78, Glucose 142
+HbA1c (09/10/2025): 7.4%
+Lipid panel (09/10/2025): TC 178, LDL 96, HDL 42, TG 150
+TSH (08/15/2025): 2.1 (WNL, on levothyroxine)
+Uric acid (08/15/2025): 6.8
+
+ASSESSMENT/PLAN:
+1. HTN - reasonably controlled, continue lisinopril 20mg daily, recheck BP log in 4 wks.
+2. DM2 - A1c 7.4%, above goal slightly, continue metformin 1000mg BID, reinforce diet/exercise, recheck A1c in 3 mo.
+3. CAD - stable, continue atorvastatin 40mg, aspirin 81mg daily, no anginal sx today.
+4. Hypothyroidism - TSH WNL on current levothyroxine dose, continue same.
+5. Gout - quiescent, continue allopurinol, uric acid improved from prior, avoid high purine foods.
+6. Osteoporosis - continue calcium/vitamin D, DEXA due for recheck, will schedule.
+7. Tobacco - never smoker per hx clarified this visit, no cessation counseling needed; general health maintenance discussed including age-appropriate screening topics discussed in general terms, no specific imaging ordered today.
+
+F/u telehealth or in-person in 3 months, sooner if symptoms worsen. Pt verbalized understanding, agreeable to plan.
+
+Owen Fitzgerald, MD

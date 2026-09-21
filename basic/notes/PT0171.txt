@@ -1,0 +1,73 @@
+Internal Medicine Office Visit
+
+Patient: MARTINEZ, Dale    MRN: 74178273
+DOB: 02/03/1970    Age: 52 y.o.    Sex: Male
+Date of Service: 01/27/2023    Provider: Gregory Tan, MD
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Dale Martinez is a 52 y.o. male who presents for routine preventive care.
+No acute complaints today. Walks the dog daily. Caring for a grandchild several days a week.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia
+• Coronary artery disease
+• GERD
+• Hypertension
+• Primary OA, bilateral knees	2016
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diclofenac 1% gel QID PRN
+• simvastatin 20 mg nightly
+• losartan 100 mg daily
+• metoprolol succinate 25 mg daily
+• hydrochlorothiazide 25 mg daily
+• aspirin 81 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• omeprazole 20 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Works as a teacher.
+  Quit drinking in 1997.
+  No IVDU.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS: CV neg, Skin neg, MSK neg, GU neg, Neuro neg, Resp neg, GI neg, Gen neg
+
+Objective:
+Vitals:
+  BP 126/84 (BP Location: Left arm, Patient Position: Sitting) | Pulse 64 | Temp 97.9 °F (Oral) | Resp 16 | Ht 5' 9" | Wt 190 lb | SpO2 99% | BMI 28.10 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2020 - 2 tubular adenomas, repeat 5 yrs; Shingrix series complete; Pneumococcal vaccine up to date; LCS: N/A - never smoker.
+
+Return in about 6 months (around 7/27/2023).
+
+Electronically signed by Gregory Tan, MD on 01/27/2023

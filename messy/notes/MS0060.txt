@@ -1,0 +1,62 @@
+Pulmonology Resident Note - Follow-up: Incidental Lung Nodule
+Date of Service: 09/06/2025
+Author: Steven Park, MD (resident), attending attestation below
+
+Patient: Kathleen Wood, F, DOB 8/4/1957 (age 68)
+
+CC: f/u incidental lung nodule found on CT abd/pelvis 3 months ago, now referred for pulm eval.
+
+HPI: Ms Wood is a 68 year old woman with hx of OSA and GERD who presents for f/u of a 7mm RUL nodule noted incidentally. She denies cough hemoptysis wt loss or fevers she has mild dyspnea on exertion which she attributes to deconditioning. She uses CPAP nightly, reports good adherence per her machine download. No new GERD sx, on PPI daily w good control.
+
+[COPY-FORWARD FROM PRIOR VISIT 03/14/2024 - left in note by mistake]
+Pt seen for routine OSA f/u. Sleep study reviewed AHI 22 c/w moderate OSA. Pt started on CPAP setting 8cm. Tolerating well no mask leak issues reported. GERD stable on omeprazole 20mg daily, denies reflux sx. Wt stable. Continue current regimen f/u in 6 months. Pt reports occassional heartburn if she eats late at nite, advised to avoid eating within 3 hrs of bedtime. Denies chest pain palpitations. Cont current meds no changes made today.
+[END COPY-FORWARD]
+
+Social History: Tobacco - EHR templated block as follows:
+Packs/day: 0.25
+Years: 35.00
+Pt reports she quit smoking in 2013 and has not smoked since. She denies any current tobacco or nicotine product use of any kind. Alcohol: pt quit drinking alcohol in 2012, denies current etoh use. No illicit drug use reported.
+
+ROS: otherwise negative except as above, all other systems reviewd and negative.
+
+Physical Exam:
+Vitals: BP 128/78, HR 72, RR 16, SpO2 96% RA, Wt 71kg
+Gen: NAD, well appearing woman
+HEENT: OP clear, no LAD
+CV: RRR no m/r/g
+Lungs: CTAB, no wheezes rales rhonchi
+Abd: soft NT ND +BS
+Ext: no c/c/e
+
+Labs/Results:
+CT chest w/o contrast 06/02/2025: 7mm noncalcified nodule RUL, unchanged from prior imaging comparison performed 09/2024 (per outside records).
+PFTs 08/28/2025: FEV1 88% predicted, FVC 91% predicted, FEV1/FVC 0.79 - no obstructive pattern.
+CBC 08/28/2025: WBC 6.1, Hgb 13.4, Plt 245 - wnl
+BMP 08/28/2025: Na 140, K 4.1, Cr 0.8, Glc 96 - wnl
+
+Problem List:
+J33.9 - Nasal polyp, unspecified (outdated, resolved 2018)
+G47.33 - Obstructive sleep apnea, adult (active)
+K21.9 - GERD (active)
+R91.1 - Solitary pulmonary nodule (active, new)
+I10 - Essential hypertension (outdated, no longer on antihypertensives per pt)
+
+Assessment/Plan:
+68F with OSA and GERD, f/u for incidental RUL nodule, stable size compared to prior imaging.
+1. Pulmonary nodule - stable per comparison imaging, low risk given no growth. Screening for lung cancer was discussed with pt in general terms including risks/benefits of further surveillance imaging. Will repeat CT chest in 6 months for interval f/u.
+2. OSA - stable on CPAP, continue current settings, f/u sleep med as scheduled
+3. GERD - stable, continue PPI daily
+4. Tobacco use - former smoker, quit 2013, reinforced benefits of continued abstinence, no further counseling indicated at this time given sustained cessation.
+5. Return to clinic in 6 months or sooner if symptoms develop such as new cough, hemoptysis, or wt loss
+
+Pt verbalized understanding and agreement with plan, all questions answered today.
+
+Electronically signed: Steven Park, MD (Resident)
+
+---
+Attending Attestation: I have personally seen and examined the patient with Dr Park and discussed the case in detail. I concur with the above documented history physical exam and assessment/plan as written above. Nodule surveillance plan is appropriate given stability on comparison imaging.
+- Margaret Hu, MD (Attending Pulmonology)
+
+---
+ADDENDUM (later same day, 09/06/2025, 16:42):
+Pt called back after visit to clarify she has not resumed any tobacco or nicotine products since her quit date. She wanted to make sure this was accurately reflected. No other changes to plan at this time. - Steven Park, MD

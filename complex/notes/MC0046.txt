@@ -1,0 +1,61 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 01/26/2024
+Provider: Julia Brennan, MD (Pulmonology)
+Patient: Susan Nelson, F, DOB 01/24/1960 (age 64)
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule.
+
+HPI: Ms Nelson is a 64 y/o female seen via telehealth today for f/u of an incidentally noted pulmonary nodule found on prior CT of the chest done for unrelated reasons. She states "I feel pretty good, no cough no chest pain," and denies hemoptysis, fevers, or weight loss. She reports occasional SOB with exertion which she attributes to her asthma and PAD. Video quality intermittent, several portions of the call were [inaudible] and patient had to repeat herself twice regarding her claudication symptoms, she says her legs cramp after walking about a block, consistent with prior PAD history.
+
+Social history/smoking: patient smoked 1.5 packs per day. She reports she first quit smoking in 1979, restarted in 1980, and then quit for good in 1991. She does not smoke now and has not for many years; she states "I haven't touched a cigarette since I quit that last time." No vaping or other tobacco products currently.
+
+--- COPY FORWARD FROM PRIOR VISIT (dated 09/14/2023) ---
+CC: PAD follow up, asthma stable
+HPI: pt here for routine f/u of PAD and asthma, reports doing well on current regimen, denies rest pain, denies non healing wounds on feet, uses albuterol prn approx 1x/week, denies nocturnal awakenings from asthma sx. Diabetes reportedly well controlled per pt report, home glucose readings mostly 100-140. ROS otherwise negative. Physical exam at that time notable for palpable pedal pulses bilaterally, no calf tenderness, lungs clear to auscultation bilaterally, no wheezes rales or rhonchi. A1c pending at that visit. Plan at that time: continue current meds, f/u in 4 months, recheck lipids and a1c.
+--- END COPY FORWARD ---
+
+PMH: Peripheral artery disease, Asthma, Type 2 diabetes mellitus.
+
+Medications:
+1. Aspirin 81mg daily
+2. Atorvastatin 40mg qHS
+3. Cilostazol 100mg BID
+4. Metformin 1000mg BID
+5. Albuterol HFA inhaler prn
+6. Fluticasone/salmeterol inhaler BID
+7. Lisinopril 10mg daily
+8. Metoprolol succinate 25mg daily
+
+Review of Systems:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss.
+Eyes: denies visual changes.
+ENT: denies sore throat, denise nasal congestion (typo carried over from template).
+Cardiovascular: denies chest pain, denies palpitations, positive for claudication as above.
+Respiratory: denies cough, denies hemoptysis, denies acute dyspnea at rest, positive for mild exertional dyspnea.
+GI: denies nausea vomiting diarrhea constipation abdominal pain.
+GU: denies dysuria hematuria frequency.
+Musculoskeletal: denies joint pain, positive for leg cramping with ambulation as above.
+Skin: denies rashes denies non healing ulcers.
+Neuro: denies headache denies numbness tingling.
+Psych: denies depression anxiety.
+Endocrine: denies polyuria polydipsia.
+All other systems reviewed and negative.
+
+Physical Exam (limited via telehealth, visual only):
+General: pt appears well, no acute distress, seated comfortably at home.
+HEENT: no visible distress, no use of accessory muscles of breathing noted.
+CV: unable to auscultate via telehealth, pt denies edema on visual inspection of lower extremities.
+Resp: no visible increased work of breathing, no stridor.
+Skin: no rashes noted on visible areas.
+Note: physical exam limited due to nature of visit, in person exam deferred to next scheduled office visit.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - appears grossly stable compared to prior imaging per report, will discuss with radiology regarding appropriate interval for repeat surveillance imaging, risks and benefits of ongoing surveillance discussed with patient in general terms.
+2. Peripheral artery disease - stable, continue cilostazol and aspirin, encourage walking program as tolerated, follow with vascular surgery per prior referral.
+3. Asthma - stable on current inhaler regimen, continue albuterol prn and combination inhaler, reviewed inhaler technique, pt states she feels her technique is fine.
+4. Type 2 diabetes mellitus - continue metformin, recheck A1c at next visit, reinforced dietary counseling.
+5. Tobacco use - former smoker as above, counseled on the importance of remaining smoke free and avoiding secondhand smoke exposure, provided reassurance regarding cessation history.
+
+Follow up: Return to clinic or telehealth in 3 months, sooner if new symptoms develop such as hemoptysis, worsening dyspnea, or unintentional weight loss. Patient verbalized understanding and agreed with plan.
+
+Electronically signed: Julia Brennan, MD

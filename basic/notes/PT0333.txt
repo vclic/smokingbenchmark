@@ -1,0 +1,49 @@
+Internal Medicine Clinic Note
+Date of Service: 09/08/2023
+Patient: Richard Baker   DOB: 6/12/1947   MRN: 19478361
+
+SUBJECTIVE:
+CC: Chest pain
+HPI: Mr. Baker is a 76-year-old man with a history of depression, HTN, AFib, and obesity who presents for evaluation of chest pain. Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Occasionally radiates to L arm. No syncope or palpitations. CV risk factors: HTN, former smoker, FHx premature CAD. He smoked half a pack daily for 21 years and quit in November 1986.
+
+PMH:
+- Generalized anxiety disorder (dx 2005)
+- Osteoarthritis of knees
+- Obesity
+- Paroxysmal atrial fibrillation
+- HTN (dx 2019)
+- History of tobacco use (Z87.891)
+PSH: Tonsillectomy (childhood); Cataract extraction, bilateral (1989)
+Meds: diltiazem ER 120 mg daily; rivaroxaban 20 mg daily; sertraline 50 mg daily; hydrochlorothiazide 25 mg daily; losartan 100 mg daily; diclofenac 1% gel QID PRN
+Allergies: Latex
+SH: Widowed; lives with son. Retired, former cashier. EtOH: 2-3 drinks on weekends.
+FH: Mother - osteoporosis, hip fracture. No family hx of colon cancer.
+ROS: Negative except as noted in HPI.
+
+OBJECTIVE:
+Vitals: BP: 130/84  HR: 85  RR: 14  Temp: 98.1 F  SpO2: 99% on RA  Wt: 261 lbs  BMI: 37.4
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (08/21/2023): Cr 0.85, K 3.8
+
+A/P:
+1. Chest pain: Likely musculoskeletal. ECG: AF, rate controlled, no acute ST changes. NSAIDs PRN.
+2. Generalized anxiety disorder: PHQ-9 stable; continue current regimen.
+3. Osteoarthritis of knees
+   - Continue PRN analgesics; home exercises.
+4. Paroxysmal atrial fibrillation
+   - CHA2DS2-VASc reviewed; continue DOAC.
+5. History of tobacco use (Z87.891)
+   - Encouraged continued abstinence.
+
+RTC 6 months.
+
+Gregory Tan, MD

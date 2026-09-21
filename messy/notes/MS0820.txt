@@ -1,0 +1,90 @@
+RESIDENT NOTE - PULMONOLOGY
+Patient: Mei Davis (F), DOB: 6/19/1949, Age: 77
+Date of Service: 06/19/2026
+Attending: Kevin Osei, MD
+Author: Kevin Osei, MD (resident note w/ attending attestation below)
+
+CC: COPD follow-up.
+
+HPI: 77 yo F w/ hx COPD, obesity, GERD here for routine f/u. Reports stable dyspnea on exertion, no acute change. Occasional productive cough AM, sputum whitish. Denies fevers, chest pain, hemoptysis. Uses albuterol PRN, ~2x/wk. Sleeps supine, GERD sx well controlled on current regimen. No new orthopnea/PND. Pt reports adherence to inhalers, occasionally forgets evening dose.
+
+SOCIAL HISTORY / TOBACCO (EHR templated block):
+Tobacco use: Current every day smoker.
+Pack-years: 17
+Readiness to quit: Not ready to quit at this time.
+Counseling: Advised to quit, discussed risks of continued smoking, offered resources (quitline, pharmacotherapy); pt declined at this visit.
+Alcohol: Former use, quit drinking alcohol in 2006. Denies current use.
+Illicit drugs: Denies.
+
+ROS: (templated, reviewed w/ pt)
+Constitutional: no fever, no chills, no unintentional weight loss.
+HEENT: no vision changes, no hearing loss, no sore throat.
+Cardiovascular: no chest pain, no palpitations, no edema.
+Respiratory: chronic cough as above, denies hemoptysis, denies wheeze at rest.
+GI: occasional heartburn, well controlled, no dysphagia, no melena.
+GU: no dysuria, no hematuria.
+Musculoskeletal: no joint swelling, chronic low back pain stable.
+Skin: no rashes, no lesions.
+Neuro: no headache, no focal weakness, no numbness.
+Psych: no depression, no anxiety reported.
+Endocrine: no polyuria, no polydipsia.
+Heme/Lymph: no easy bruising, no lymphadenopathy.
+Allergy/Immune: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, Temp 98.2F, SpO2 93% RA, Wt 198 lb, BMI 34.2.
+General: obese female, no acute distress, appropriate for age.
+HEENT: normocephalic, atraumatic, mucous membranes moist.
+Neck: no JVD, no thyromegaly, no lymphadenopathy.
+CV: RRR, no murmurs/rubs/gallops.
+Resp: mild expiratory wheeze bilaterally, prolonged expiratory phase, no rales, no rhonchi, no accessory muscle use at rest.
+Abd: obese, soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: no edema, no clubbing, no cyanosis.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, grossly nonfocal.
+Psych: mood/affect appropriate.
+
+LABS/RESULTS:
+CBC (06/12/2026): WBC 7.1, Hgb 13.2, Hct 39.8, Plt 245.
+BMP (06/12/2026): Na 139, K 4.2, Cl 101, CO2 25, BUN 16, Cr 0.9, Glucose 102.
+ABG not performed this visit.
+PFTs (05/28/2026): FEV1 58% predicted, FEV1/FVC ratio 0.62, consistent w/ moderate obstruction, mild improvement post-bronchodilator.
+Chest X-ray (03/15/2026): hyperinflated lungs, no acute infiltrate, no effusion.
+BNP (06/12/2026): 62 pg/mL, within normal limits.
+
+CURRENT MEDICATIONS:
+1. Tiotropium 18 mcg inhaled daily
+2. Albuterol HFA MDI 90 mcg, 2 puffs q4-6h PRN
+3. Fluticasone/salmeterol 250/50 DPI, 1 puff BID
+4. Omeprazole 20 mg PO daily
+5. Metformin 500 mg PO BID
+6. Lisinopril 10 mg PO daily
+7. Atorvastatin 20 mg PO qHS
+8. Vitamin D3 2000 IU PO daily
+9. Calcium carbonate 500 mg PO BID
+10. Aspirin 81 mg PO daily
+
+PROBLEM LIST (per EHR, some entries outdated):
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- E66.9 Obesity, unspecified
+- K21.9 GERD without esophagitis
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- M54.5 Low back pain (chronic, stable, carried forward x3 yrs)
+- F41.9 Anxiety disorder, unspecified (per old note 2019, pt denies current sx)
+- Z87.891 Personal history of nicotine dependence (note: pt is current smoker, list may be outdated)
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable per PFTs and exam. Continue current inhaler regimen. Discussed ongoing tobacco use and its impact on COPD progression; screening for lung cancer was discussed in general terms as part of counseling. Pt not ready to quit smoking at this time despite counseling. F/u in 3 months or sooner if worsening sx.
+2. Obesity - counseled on diet/exercise, dietitian referral offered again.
+3. GERD - well controlled on omeprazole, continue current dose.
+4. Health maintenance - influenza/pneumococcal vaccination status reviewed and updated per protocol.
+
+Plan reviewed with patient, all questions answered, pt verbalizes understanding.
+
+---
+ATTESTATION: I have personally seen and examined this patient along with the resident, discussed the case, and agree with the assessment and plan as documented above. - Kevin Osei, MD
+
+ADDENDUM (later same day, 06/19/2026, 4:45 PM):
+Pt called back nursing line after visit w/ question about albuterol refill. Reviewed chart, refill sent to pharmacy. No new clinical issues identified. Tobacco counseling reiterated telephonically; pt reaffirmed she is not ready to quit smoking at this time. No changes to plan otherwise.
+- Kevin Osei, MD

@@ -1,0 +1,52 @@
+VASCULAR SURGERY CONSULT NOTE
+Date of Service: 03/07/2023
+Referring Provider: Dr. A. Halloway, IM
+Author: Michael Dunn, DO
+
+Patient: Terrence Chen, M, DOB 03/07/1964 (age 59)
+
+REASON FOR CONSULT: Eval of PAD, claudication sx worsening x several months.
+
+HPI: 59 yo M w/ hx CAD, gout, BPH referred for eval of bilat calf pain w/ ambulation, relieved w/ rest. Pt states pain now occurs after ~1 block, previously 3-4 blocks. Denies rest pain, non healing wounds. No fevers/chills. ABI ordered.
+
+PMHx (problem list, some outdated):
+- I25.10 CAD, native vessel
+- M10.9 Gout
+- N40.0 BPH
+- I73.9 PAD, unspecified (new)
+- E78.5 Hyperlipidemia (dz per old chart, pt states resolved w/ diet - unclear, keeping on list)
+
+SOCIAL HISTORY: Lives w/ spouse, retired machinist. Occassional EtOH. Denies illicit drug use.
+
+[Copied from note dated 12/7/2019 - Social Hx as documented then:] "Smoking status: former smoker." No further detail was given in that note.
+
+MEDS: atorvastatin, allopurinol, tamsulosin, aspirin 81mg
+
+ALLERGIES: NKDA
+
+EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Wt 198 lb
+Gen: NAD, well appearing
+CV: RRR, no m/r/g
+Ext: b/l femoral pulses 2+, popliteal 1+, DP/PT diminished bilaterally, no ulcers, cap refill <3 sec, skin cool distally
+Neuro: sensation intact grossly
+
+LABS/STUDIES:
+- CBC (03/06/2023): WBC 6.8, Hgb 14.2, Plt 210
+- BMP (03/06/2023): Na 139, K 4.1, Cr 1.0, Glu 101
+- Lipid panel (02/15/2023): TC 178, LDL 96, HDL 42, TG 150
+- ABI ordered today, results pending
+- Uric acid (01/2023, per PCP): 6.9
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, likely mod-severe given exam findings and hx claudication - will obtain ABI and consider arterial duplex of lower extremities. Pt counseled extensively on risk factor modification given vascular dz. Smoking hx notable - pt reports having smoked 3 packs per day; pt has since quit smoking. No further detail on timing recorded. Strongly reinforced importance of remaining smoke free given PAD/CAD risk. Screening for lung ca was discussed generally w/ pt given smoking hx, no imaging ordered today.
+2. CAD - stable, continue current meds, f/u w/ cardiology as scheduled
+3. Gout - stable on allopurinol, uric acid wnl
+4. BPH - stable on tamsulosin, no acute urinary sx today
+5. Hyperlipidemia - per old problem list, will defer to PCP re: continued relevance
+
+Pt to f/u in 2 wks after ABI results avail, sooner if worsening sx (rest pain, new ulceration). Discussed exercise therapy program as first line, will also consider referral if sx persist.
+
+Electronically signed,
+Michael Dunn, DO
+Vascular Surgery

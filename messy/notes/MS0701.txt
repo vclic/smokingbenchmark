@@ -1,0 +1,32 @@
+Pulmonology H&P – COPD Follow-up
+Patient: Ronald Murphy | DOB: 3/9/1957 (age 68) | Date of Service: 11/10/2025
+Author: Owen Fitzgerald, MD
+
+HPI:
+Mr. Murphy returns for routine COPD follow-up. He reports increased dyspnea with exertion over the past month, worse when climbing stairs at home. He denies fever or chest pain. Patient states, "I still get out of breath just walking to the mailbox, doc." He has a 92 pack-year smoking history, which was reviewed and confirmed with him again today given inconsistencies noted in the chart. He continues to smoke cigarettes at this visit despite prior counseling. When asked about quitting, he replied, "I know I should stop, but it's hard after all these years."
+
+Past Medical History: chronic kidney disease stage 3, asthma, coronary artery disease, gout, BPH.
+
+Social History:
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated and does not reflect the patient's actual history — see HPI, patient is a current cigarette smoker with a 92 pack-year history]. Denies alcohol use. Lives with spouse. Retired machinist.
+
+Review of Systems: Positive for chronic cough and dyspnea on exertion. Negative for hemoptysis, unintentional weight loss, or fever.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 18, SpO2 94% RA.
+General: Alert, mild respiratory effort.
+Lungs: Diffuse expiratory wheezes, prolonged expiratory phase.
+CV: Regular rate and rhythm, no murmurs.
+Ext: No edema.
+
+Assessment/Plan:
+1. COPD, moderate – continue tiotropium and albuterol PRN. Given ongoing active cigarette use with an extensive 92 pack-year history, tobacco cessation was again strongly encouraged; discussed nicotine replacement and referral to cessation counseling. Lung cancer screening options were discussed with the patient in general terms.
+2. CKD stage 3 – stable, monitor renal function labs.
+3. Asthma – overlap with COPD, continue current regimen.
+4. CAD – continue statin and aspirin.
+5. Gout – no flares reported, continue allopurinol.
+6. BPH – stable on tamsulosin.
+Follow up in 3 months or sooner if symptoms worsen.
+
+Addendum (later same day, 11/10/2025, 4:45 PM – Dr. Fitzgerald):
+Spoke with patient by phone after clinic; he clarified that the outdated 'Never Smoker' field in the chart was a documentation error from a prior visit and should be disregarded. He reiterated that he is a current smoker and again confirmed the 92 pack-year history reviewed earlier today. Chart updated accordingly.

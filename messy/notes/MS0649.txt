@@ -1,0 +1,73 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Shared Decision-Making for Lung Cancer Screening
+Date of Service: 09/01/2025
+Author: Elena Markovic, MD
+
+PATIENT: Barbara Williams
+DOB: 09/01/1974 (age 51 today)
+MRN: 00445218
+
+CHIEF COMPLAINT: SDM visit re: lung cancer screening discussion.
+
+HPI:
+Pt is a 51 yo F with hx gout, HLD, T2DM, HFrEF, presenting via video visit today, 9/1/2025, for a general discussion of lung cancer screening. Pt states, "I still smoke, but I'm not ready to quit right now." She reports no new cough, no hemoptysis, no unexplained weight loss. Denies chest pain, denies acute SOB beyond baseline. HFrEF stable per pt, no recent admissions. Reports mild fatigue, attributes to poor sleep. No fevers/chills.
+
+Discussed pros/cons of low-dose CT screening in general terms; risks of false positives, incidental findings, radiation exposure reviewed. Pt has questions, wants to think about it. No imaging ordered today - screening discussed only, decision deferred to future visit pending further discussion with pt.
+
+--- COPIED FORWARD FROM VISIT 03/14/2024 (Dr. R. Nguyen, Cardiology) ---
+Pt seen for HFrEF follow up. EF 35% on last echo. NYHA class II symptoms. Continues lisinopril, carvedilol, spironolactone, empagliflozin. No orthopnea, no PND. Weight stable. Lower extremity edema trace. Labs reviewed - BNP mildly elevated, stable from prior. Diabetes well controlled per pt report, last A1c 7.1%. Gout - last flare approx 6 months ago, on allopurinol maintenance. HLD - on atorvastatin, LDL at goal. Plan: continue current regimen, f/u in 6 months, repeat echo at that time. RTC prn for acute symptoms.
+--- END COPIED FORWARD TEXT ---
+
+ROS: Otherwise negative except as above. 10-point ROS reviewed, negative for fevers, night sweats, hemoptysis, dysphagia.
+
+PMH/PROBLEM LIST (ICD-10):
+1. Gout - M10.9 (last flare documented 2024, currently quiescent)
+2. Hyperlipidemia - E78.5
+3. Type 2 diabetes mellitus - E11.9
+4. Heart failure with reduced ejection fraction - I50.22 (chronic, outpatient mgmt)
+5. Tobacco use disorder - Z72.0 (see SHx)
+6. Essential hypertension - I10 (dz - not confirmed current, copied fwd from old problem list, may be outdated - recheck BP)
+
+MEDICATIONS (per last reconciliation, not independently verified today given telehealth format):
+- Lisinopril
+- Carvedilol
+- Spironolactone
+- Empagliflozin
+- Allopurinol
+- Atorvastatin
+- Metformin (per pt report)
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY:
+Tobacco: current smoker. 6 pack-year smoking history. Pt reports she still smokes and is not ready to quit at this time; declined referral to tobacco cessation counseling today but agreeable to revisit topic at future visit. Alcohol: occasional, denies excess. Illicit drugs: denies. Lives with spouse, retired, denies occupational lung exposures of note (denies asbestos, silica).
+
+FAMILY HISTORY: Non-contributory to today's visit; no known family hx of lung cancer per pt.
+
+VITALS (per telehealth device/home cuff report):
+BP 128/78 (home cuff, per pt)
+HR 76
+RR 16
+SpO2 97% RA (per pulse ox at home)
+Wt 172 lb (self-reported)
+
+PHYSICAL EXAM: Limited by telehealth format. Pt appears well, no acute distress noted on video. No visible respiratory distress. Speech clear, full sentences. No cough noted during visit.
+
+ASSESSMENT:
+51 yo F with gout, HLD, T2DM, HFrEF, and ongoing tobacco use, here today 09/01/2025 for a general lung cancer screening discussion. Reviewed general risks/benefits of LDCT screening; did not address individual eligibility today. Pt not ready to make a decision today, wants more time to think. Continues to smoke, not ready to quit despite counseling offered.
+
+PLAN:
+1. Lung cancer screening - discussed shared decision-making points including benefits, harms (false positives, overdiagnosis, incidental findings, radiation), in general terms. No imaging ordered or scheduled at this visit. Will revisit discussion at next f/u or sooner if pt decides.
+2. Tobacco use - counseled on cessation resources; pt declines referral today; encouraged to reach out when ready. Discussed nicotine replacement options briefly, pt not interested at this time.
+3. HFrEF - stable per pt report, continue current cardiology-directed regimen, defer to cardiology for titration.
+4. T2DM - continue current regimen, will defer to PCP/endo for further mgmt, recommend recheck A1c per routine schedule.
+5. HLD - continue statin, no changes today.
+6. Gout - no acute flare today, continue allopurinol.
+7. F/u telehealth or in-person visit in 3-6 months, sooner if symptoms develop (new cough, hemoptysis, weight loss, worsening dyspnea).
+8. Pt given office contact info for questions; instructed to call/seek care if red flag symptoms develop.
+
+Time spent: approx 20 minutes, >50% spent in counseling/coordination of care re: lung cancer screening discussion.
+
+Elena Markovic, MD
+Pulmonology
+Electronically signed 09/01/2025

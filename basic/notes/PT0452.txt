@@ -1,0 +1,50 @@
+Adult Medicine Clinic Note
+Date of Service: 2024-07-11
+Patient: Gregory O'Brien   DOB: 6/22/1947   MRN: 82294532
+
+S:
+CC: Hospital follow-up
+HPI: Mr. O'Brien is a 77-year-old man with a history of HTN, AFib, CKD3, and GERD who presents for hospital follow-up after admission for community-acquired pneumonia. Admitted 2024-07-01-7/6/2024 for community-acquired pneumonia. Completed antibiotics. Appetite returning.
+
+PMH:
+- Paroxysmal atrial fibrillation
+- Hypertension
+- CKD stage 3
+- GERD
+PSH: Rotator cuff repair; Vasectomy (2010)
+Meds: pantoprazole 40 mg daily; lisinopril 20 mg daily; metoprolol tartrate 25 mg BID; apixaban 5 mg BID
+Allergies: NKDA
+SH: Lives with wife in a single-family home. Retired, former truck driver. Drinks a glass of wine with dinner. Denies illicit drugs. Exercise: walks daily.
+FH: No family hx of colon cancer.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 132/90  HR: 59  RR: 20  Temp: 97.9 F  SpO2: 95% on RA  Wt: 159 lbs  BMI: 22.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (6/2/2024): Cr 0.98, K 4.8
+
+A/P:
+1. Community-acquired pneumonia
+   - Improving; reviewed discharge summary and meds. Repeat labs in 1 week.
+2. CKD stage 3
+   - Cr stable. Avoid NSAIDs.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Farah Siddiqui, MD on 7/11/2024 at 17:09

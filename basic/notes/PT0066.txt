@@ -1,0 +1,41 @@
+Cardiology Clinic Note
+Date of Service: January 28, 2025
+Patient: Carol Hill   DOB: 5/24/1945   MRN: 41264631
+
+SUBJECTIVE:
+CC: CP eval
+HPI: 79yo F w/ CKD3, CHF, depression, obesity here for evaluation of chest pain. Episodes of chest tightness when walking uphill, no rest symptoms. Occasionally radiates to L arm. Denies diaphoresis. CV risk factors: HTN, current tobacco use.
+
+PMH: CKD3, HTN, CHF, depression, obesity
+PSH: Lumpectomy, benign (1994); Right total knee arthroplasty (2023)
+Meds: sacubitril-valsartan 49/51 mg BID; furosemide 40 mg daily; losartan 50 mg daily; bupropion XL 150 mg daily; carvedilol 12.5 mg BID
+Allergies: Penicillin (rash)
+SH: Lives in assisted living. Retired mechanic. Current every day smoker - 15 cigs/day x 64yrs. EtOH: none since 2000 (hx AUD). Denies illicit drugs. Sedentary.
+FH: Mother - dementia, d. 84.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 128/90  HR: 70  RR: 12  Temp: 98.0 F  SpO2: 98% on RA  Wt: 177 lbs  BMI: 33.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Fine bibasilar crackles
+  Abd: Soft, nontender, nondistended
+  Ext: Trace b/l ankle edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (01/21/2025): Cr 1.09, K 3.9
+
+ASSESSMENT/PLAN:
+1. Chest pain: ECG today NSR, no ischemic changes. Coronary CTA ordered. Start ASA 81 mg. ED if rest pain.
+2. Tobacco abuse
+   - Advised to quit; >8 min spent counseling. She is contemplating quitting. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+3. Class I obesity
+   - Discussed diet and exercise.
+4. Generalized anxiety disorder: Mood stable.
+
+RTC 3 months.
+
+-- FS (MD)

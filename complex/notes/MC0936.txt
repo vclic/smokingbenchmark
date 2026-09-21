@@ -1,0 +1,37 @@
+Pulmonology Resident Note – Follow-up Incidental Lung Nodule
+DOS: 03/10/2026
+Author: Isaac Moreno, PA-C (resident); attending attestation below
+
+PATIENT: Lan Lee, F, DOB 3/10/1951 (age 75)
+
+CC: f/u incidental pulm nodule found on CT abd for unrelated w/u.
+
+HPI: Pt is a 75 y/o female w/ PMHx of hyperlipidemia, osteoporosis, PAD, hypothyroidism, T2DM, and COPD who presents for f/u of an incidental RUL nodule noted on prior imaging. Pt denies hemoptysis, denies significant wt loss, reports occasional dyspnea on exertion c/w baseline COPD. No fevers/chills. Pt states she has been compliant w/ meds, [inaudible] reports some increased fatigue over past few wks but attributes this to poor sleep and caregiving duties for grandchild, she also notes occasional chest tightness which resolves w rest and she has not required any new inhaler use beyond her usual regimen so overall she feels stable.
+
+ROS: Constitutional - neg for fever, + mild fatigue. HEENT - neg. CV - neg chest pain, PAD stable per pt. Resp - chronic cough at baseline, no hemoptysis, no acute SOB. GI - neg. GU - neg. MSK - chronic low back pain 2/2 osteoporosis. Skin - neg. Neuro - neg. Psych - neg. Endo - T2DM stable per pt, home glucose readings WNL.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco: Current smoker. Pt reports smoking approx 1/4 pack (~5 cigs/day) for 31 years, then increased to approx 3/4 pack (~15 cigs/day) for 26 years and continues to smoke at that rate currently.
+Alcohol: Not on file
+Drug use: denies
+Occupation: retired seamstress
+Living situation: lives w/ daughter
+Exercise: Not on file
+
+MEDICATIONS: atorvastatin 40mg qhs, alendronate 70mg weekly, levothyroxine 75mcg qd, metformin 1000mg BID, tiotropium inhaler daily, albuterol PRN, cilostazol 100mg BID, calcium/vit D supplement, aspirin 81mg qd.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 76, RR 16, SpO2 95% RA, Temp 98.2F, Wt stable per chart. Gen: NAD, well-appearing elderly female. HEENT: NCAT, EOMI, oropharynx clear. Neck: no LAD, no thyromegaly. CV: RRR, no m/r/g. Resp: mild expiratory wheeze bilat, no crackles, no accessory muscle use. Abd: soft, NT/ND, no organomegaly. Ext: PAD-related dependent changes noted b/l LE, no ulcers, pulses diminished but palpable. Skin: no lesions. Neuro: grossly intact.
+
+ASSESSMENT/PLAN:
+1. Incidental pulm nodule - stable size per radiology comparison, will continue surveillance imaging per protocol.
+2. Tobacco use - pt continues to smoke despite counseling; discussed risks of continued smoking, cessation resources including nicotine replacement and referral to tobacco cessation program offered again today.
+3. COPD - continue tiotropium/albuterol, reinforce inhaler technique.
+4. T2DM, HLD, hypothyroidism, osteoporosis, PAD - stable, continue current regimen, f/u w PCP for routine labs.
+
+Plan reviewed and discussed w/ pt, all questions answered, pt verbalizes understanding.
+
+--- Attending Attestation ---
+I have seen and examined the pt with the resident/PA and agree with the above assessment and plan. Dr. R. Whitfield, MD, Pulmonology.
+
+--- ADDENDUM (later same day, 03/10/2026, 16:40) ---
+Addendum by I. Moreno, PA-C: Pt called back to clinic after appt to clarify that she understood the discussion regarding nodule surveillance and confirmed she will call if any new hemoptysis or worsening dyspnea occurs. No change to plan above.

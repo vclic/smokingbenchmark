@@ -1,0 +1,43 @@
+RESIDENT NOTE - New Patient Visit, Primary Care
+Date of Service: 04/27/2025
+Author: Hannah Weiss, NP (attending attestation pending)
+
+Patient: George Sullivan, M, DOB 01/20/1970, age 55.
+
+CC: establish care.
+
+HPI: Pt here to establish w/ PCP, hasn't had regular follow up in yrs. Reports knee pain worse w stairs, hx of osteoarthritis. Also c/o urinary frequency, known BPH, on tamsulosin per pt report though bottle not w him today. Denies chest pain currently, has hx CAD, stent placement per pt (records pending). Asthma - uses albuterol prn, says works ok, occas SOB [inaudible] when climbing hils. Wt has been an issue, pt frustrated, tried few diets no lasting success.
+
+ROS: otherwise negative except as above, denies fevers chills wt loss.
+
+Social History: Pt smokes 3 packs per day for 32 years, current smoker, continues to smoke cigarettes daily. Denies illicit drug use. Occasional etoh, few beers/wk per pt. Lives w wife, retired mechanic.
+
+--- Copied from note dated 5/27/2023 ---
+Social history (as documented in note from 5/27/2023): current smoker at that time, no quantities given in that prior note.
+--- end copied section ---
+
+PMH: obesity, osteoarthritis, BPH, asthma, coronary artery disease.
+
+Meds: albuterol inh prn, tamsulosin (per pt, unconfirmed), otherwise unclear, will reconcile.
+
+Allergies: NKDA.
+
+Exam: Vitals - BP 148/86, HR 82, RR 16, Wt 245 lb, Temp 98.2F. Gen - obese male NAD. Lungs - mild expiratory wheeze bilat, no acute distress. CV - RRR no m/r/g. Abd - soft NT/ND. Ext - no edema, knees w mild crepitus bilat, no effusion.
+
+Labs (from today, 04/27/2025):
+CBC - WNL
+CMP - glucose 108, Cr 1.0, otherwise unremarkable
+Lipid panel (04/27/2025): Total chol 210, LDL 138, HDL 38, TG 170
+A1c 5.9%
+
+Assessment/Plan:
+1. Obesity - discuss lifestyle modification, refer nutrition.
+2. Osteoarthritis - continue NSAIDs prn, ortho referral if worsens.
+3. BPH - continue tamsulosin, will confirm dose, refer urology if needed.
+4. Asthma - continue albuterol, consider controller if frequent use, discussed inhaler technique.
+5. CAD - will obtain records, continue cardiology f/u, statin optimization pending lipid results above.
+6. Tobacco use - advised to quit, discussed cessation resources and counseling, discussed general risks of ongoing smoking, lung cancer screening was discussed as a topic of conversation generally.
+
+Pt verbalizes understanding, agreeable to plan, f/u in 3 months or sooner if issues.
+
+Attending attestation: seen and discussed w resident, agree with above assessment and plan.

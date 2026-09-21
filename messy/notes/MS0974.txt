@@ -1,0 +1,52 @@
+NURSE INTAKE — Pre-op Evaluation
+DOS: 03/06/2024
+Patient: Brenda Martin, F, DOB 03/06/1950 (age 74)
+Provider: Daniel Reyes, MD — Internal Medicine
+
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, Wt 178 lb, Ht 5'4"
+Chief complaint per pt: "I need clearance for my knee surgery, my right knee is bone on bone."
+
+TOBACCO USE (EHR templated field):
+Smoking status: Former smoker
+Pack-year history: 56 pack-years
+Year quit: 2011
+Type: Cigarettes
+Counseling given: N/A - pt not currently using
+
+---COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2019---
+HPI: Pt is a 69 yo female here for routine f/u of HTN, OSA, OA. Reports doing fairly well overall. BP's at home reportedly in 130s/80s. Uses CPAP nightly, tolerates well c/o some dry mouth in am. Knees c/o intermittent pain, worse with stairs, takes tylenol prn. BPH stable on tamsulosin, no urinary retention issues, nocturia x1-2. Denies chest pain, SOB, palpitations. Denies edema. Diet: reports trying to reduce sodium. Exercise: walks ~20 min daily as tolerated by knee pain.
+ROS otherwise negative.
+Exam: NAD, lungs CTAB, heart RRR no m/r/g, abd soft NT/ND, ext no edema.
+A/P: 1. HTN - stable, continue lisinopril. 2. OSA - continue CPAP, f/u sleep med prn. 3. OA knees - continue conservative mgmt, consider ortho referral if worsens. 4. BPH - stable on tamsulosin.
+RTC 6 months or sooner if needed.
+---END COPIED FORWARD---
+
+HPI (current, 03/06/2024):
+The patient is 74 years old and presents today, March 6, 2024, for pre-op eval prior to right total knee arthroplasty scheduled with Dr. Ortho next month. Pt states "my knee just gives out on me now, I can't do stairs without holding the rail." Denies chest pain, denies SOB with exertion beyond what's limited by knee. Denies orthopnea, PND. No recent fevers, no calf swelling or pain. Reports good adherence to CPAP most nights, per husband snoring much improved. BP's checked at home in 130s/80s, pt reports compliance w/ lisinopril. Knees - right worse than left, pain 6/10 today, takes tylenol and occasional ibuprofen prn. BPH - nocturia x1-2, no retention, on tamsulosin.
+
+Social History:
+Lives with husband. Retired schoolteacher. Denies current alcohol use. Denies illicit drug use. She no longer smokes; she quit smoking in 2011 and has not resumed since. No occupational exposures noted. Independent in ADLs, uses cane occasionally for knee.
+
+ROS: Constitutional - no fever/chills/weight loss. Resp - no cough, no wheeze. CV - no chest pain/palpitations. GU - as above. MSK - knee pain as above. All others reviewed and negative.
+
+Exam:
+Gen: NAD, pleasant elderly woman in no distress.
+HEENT: unremarkable.
+Neck: no JVD, no thyromegaly.
+Lungs: CTAB, no wheezes/rales/rhonchi.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, right knee with crepitus and mild effusion, ROM limited by pain.
+Skin: intact.
+
+Assessment/Plan:
+1. Pre-op clearance for right TKA - cardiopulmonary exam reassuring, no active cardiac or pulmonary contraindications identified. Cleared from IM standpoint pending anesthesia eval.
+2. HTN - well controlled, BP 138/82 today, continue lisinopril, recheck BP day of surgery.
+3. OSA - continue CPAP compliance, advise bring CPAP machine to hospital for post-op use, this is important given surgical risk of desaturation.
+4. OA knees - surgical plan in place with orthopedics, continue tylenol prn until surgery.
+5. BPH - stable on tamsulosin, no changes.
+6. Tobacco history - former smoker, 56 pack-year history, quit 2011, no current use; no further counseling needed at this time given cessation status, though continued abstinence encouraged.
+7. Pre-op labs: CBC, BMP, coag panel, EKG ordered today.
+8. Follow up post-op per surgical team, return to clinic in 4-6 weeks or sooner if concerns.
+
+Electronically signed: Daniel Reyes, MD

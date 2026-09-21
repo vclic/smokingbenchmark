@@ -1,0 +1,88 @@
+Pulmonology Resident Follow-up Note
+Author: Isaac Moreno, PA-C (attestation by attending, Dr. R. Halvorsen, MD, at end of note)
+Date of Service: 09/14/2024
+Patient: Kathleen Thompson | DOB: 05/03/1960 | Age: 64 | Sex: F
+Visit Type: ED-to-clinic follow-up, COPD exacerbation
+
+CHIEF COMPLAINT: Follow-up after recent ED visit/hospitalization for COPD exacerbation.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Thompson is a 64-year-old woman (DOB 5/3/1960) with history of coronary artery disease, hypertension, hyperlipidemia, osteoporosis, obstructive sleep apnea, and hypothyroidism who presents today for follow-up after an ED visit approximately 10 days ago for acute COPD exacerbation. She was treated with a burst of oral steroids and a short course of azithromycin, and was discharged home with instructions to follow up in pulmonology clinic. She reports today, "I'm breathing a lot better than I was, but I still get winded going up the stairs." She denies fevers, chills, or hemoptysis. She reports intermittent wheeze, worse at night. She has been using her albuterol inhaler roughly 2-3 times daily, down from every 2 hours during the exacerbation. She denies chest pain, denies lower extremity edema. She states, "I really don't want to end up back in the ER, so I've been trying to do everything right."
+
+She reports adherence to her home CPAP for OSA most nights, though admits to occasional nights of non-use when traveling. No new orthopnea. No PND. She has not had any falls recently (relevant given osteoporosis history).
+
+SOCIAL HISTORY:
+Lives with husband in a single-story home. Retired schoolteacher. Denies current alcohol use, denies illicit drug use. Regarding tobacco: patient tried a few cigarettes as a teenager but never smoked regularly — she describes this as "just messing around with friends in high school, never really smoked after that." No history of vaping or other tobacco products reported. No secondhand smoke exposure at home currently. Exercise: reports short daily walks as tolerated.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss, night sweats.
+Eyes: denies vision changes.
+ENT: denies sore throat, denies epistaxis.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND, mild lower extremity edema resolved per patient.
+Respiratory: endorses intermittent wheeze and exertional dyspnea as above, denies hemoptysis, denies pleuritic chest pain.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: denies new joint pain, denies recent fractures.
+Skin: denies rash.
+Neuro: denies headache, denies focal weakness, denies numbness.
+Psych: denies depression, denies anxiety (though endorses some worry about future exacerbations, as above).
+Endocrine: denies polyuria, denies polydipsia.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 82, RR 18, Temp 98.2F, SpO2 94% on room air, Weight 168 lb, Height 5'4"
+General: well-appearing woman in no acute distress, sitting comfortably.
+HEENT: normocephalic, atraumatic, no scleral icterus, oropharynx clear.
+Neck: no JVD, no lymphadenopathy, thyroid non-enlarged.
+Cardiovascular: regular rate and rhythm, no murmurs/rubs/gallops.
+Respiratory: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest, symmetric chest expansion.
+Abdomen: soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: no edema, no cyanosis, no clubbing.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, no focal deficits.
+Psych: mood/affect appropriate.
+
+LABS/RESULTS:
+- CBC (09/03/2024, at ED visit): WBC 9.8, Hgb 13.1, Hct 39.2, Plt 245
+- BMP (09/03/2024): Na 138, K 4.1, Cl 101, CO2 26, BUN 16, Cr 0.8, Glucose 104
+- TSH (08/15/2024): 2.1 (within normal limits, on levothyroxine)
+- Lipid panel (07/22/2024): TC 168, LDL 92, HDL 54, TG 110
+- Spirometry (06/10/2024): FEV1 58% predicted, FEV1/FVC ratio 0.62, consistent with moderate obstruction
+- Chest X-ray (09/03/2024, ED): hyperinflated lungs, no acute infiltrate
+- DEXA (03/2023): T-score -2.6 at lumbar spine, osteoporosis
+
+CURRENT MEDICATIONS:
+1. Tiotropium inhaler 18 mcg, 1 puff daily
+2. Albuterol HFA inhaler, 2 puffs q4-6h PRN
+3. Fluticasone/salmeterol 250/50 combo inhaler, 1 puff BID
+4. Atorvastatin 40 mg daily
+5. Lisinopril 20 mg daily
+6. Metoprolol succinate 50 mg daily
+7. Aspirin 81 mg daily
+8. Levothyroxine 75 mcg daily
+9. Alendronate 70 mg weekly
+10. Vitamin D3 2000 IU daily
+11. Calcium carbonate 600 mg BID
+
+PROBLEM LIST (with ICD-10 codes):
+- J44.1 COPD with acute exacerbation (resolving)
+- I25.10 Coronary artery disease without angina
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia
+- M81.0 Osteoporosis without current pathologic fracture
+- G47.33 Obstructive sleep apnea
+- E03.9 Hypothyroidism, unspecified
+- J45.909 Asthma, unspecified (outdated, per old chart review — patient does not carry independent asthma diagnosis, likely overlap/COPD misclassification, to be reconciled)
+
+ASSESSMENT AND PLAN:
+64-year-old woman, seen today 09/14/2024, following recent COPD exacerbation, now clinically improved.
+1. COPD exacerbation, resolving: Continue current inhaler regimen (tiotropium, fluticasone/salmeterol, albuterol PRN). Reinforce inhaler technique. Pulmonary rehab referral discussed. Screening for lung cancer with imaging was discussed in general terms given her respiratory history, though no imaging study was ordered today. Follow up spirometry in 3 months.
+2. Coronary artery disease/HTN/hyperlipidemia: stable, continue home cardiac meds, follow with cardiology as scheduled.
+3. Osteoporosis: continue alendronate, calcium, vitamin D; DEXA due for repeat in 2025.
+4. OSA: continue CPAP, encourage consistent nightly use.
+5. Hypothyroidism: TSH within normal limits, continue current levothyroxine dose.
+6. Tobacco: no counseling needed given no regular smoking history; reinforced avoidance of secondhand smoke.
+
+Return to clinic in 6-8 weeks or sooner if worsening symptoms.
+
+Attestation: I have reviewed and discussed this patient with Mr. Moreno, PA-C, and agree with the history, exam, and plan as documented above. — R. Halvorsen, MD, Attending Pulmonology.

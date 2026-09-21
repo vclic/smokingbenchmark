@@ -1,0 +1,74 @@
+Cardiology Clinic Note
+
+Patient: HUGHES, William    MRN: 93490958
+DOB: 11/06/1951    Age: 72 y.o.    Sex: Male
+Date of Service: 12/04/2023    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Chest pressure
+
+Subjective:
+William Hughes is a 72 y.o. male who presents for evaluation of chest pain.
+Episodes of chest tightness when walking uphill, no rest symptoms. He denies ever smoking cigarettes. Occasionally radiates to L arm. No orthopnea or PND. CV risk factors: HTN, HLD, never smoker.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• BPH with LUTS
+• Mixed hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (1996)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tamsulosin 0.4 mg nightly
+• rosuvastatin 20 mg daily
+• ezetimibe 10 mg daily
+• losartan 50 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Social History Narrative
+  Lives in assisted living.
+  Retired, former teacher.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Sister - breast cancer at 59.
+
+Review of Systems
+ROS: MSK neg, Gen neg, Skin neg, Resp neg, GU neg, GI neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 158/94 (BP Location: Left arm, Patient Position: Sitting) | Pulse 62 | Temp 97.9 °F (Oral) | Resp 20 | Ht 6' 0" | Wt 215 lb | SpO2 96% | BMI 29.22 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Chest pain
+   Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+2. Mixed hyperlipidemia
+   LDL at goal on last check; continue.
+3. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+4. Hypertension
+   Elevated today; home BP log requested.
+
+f/u 3 mo
+
+Electronically signed by Quentin Hale, PA-C on 12/04/2023

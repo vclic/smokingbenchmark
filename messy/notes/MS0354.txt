@@ -1,0 +1,80 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Cheryl Russell (F)
+DOB: 06/14/1959 (Age: 67)
+Date of Service: 06/14/2026
+Author: Kevin Osei, MD
+Referral: Pre-operative medical evaluation for right total knee replacement (Orthopedics - Dr. Halloran)
+
+CHIEF COMPLAINT: Pre-op clearance for TKA.
+
+HPI: Ms. Russell is a 67-year-old woman with history of asthma and hypertension who presents today for pre-operative medical evaluation prior to scheduled right total knee arthroplasty. She reports progressive right knee pain over the past several years, worse with ambulation, now limiting her ability to walk more than a block. She denies chest pain, palpitations, syncope, or recent worsening dyspnea. She reports occasional wheeze with exertion, controlled with albuterol PRN. No recent asthma exacerbations requiring steroids or ED visits. Blood pressure has been reasonably controlled on current regimen per home readings.
+
+She denies fevers, chills, unintentional weight loss. Review of systems otherwise negative except as noted above.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. Essential hypertension - I10 (active)
+2. Asthma, mild persistent - J45.30 (active)
+3. Osteoarthritis, right knee - M17.11 (active, surgical indication)
+4. GERD - K21.9 (active, per old note - patient states resolved, not on current meds)
+5. Vitamin D deficiency - E55.9 (resolved per patient report, outdated entry, not addressed today)
+6. Tobacco use disorder - Z87.891 (history of, see social history)
+
+MEDICATIONS:
+- Lisinopril 20 mg daily
+- Albuterol HFA inhaler PRN
+- Fluticasone/salmeterol 250/50 one puff BID
+- Acetaminophen 500 mg PRN knee pain
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE):
+ Tobacco use: Former smoker
+ Smoking status detail: Patient reports smoking between half a pack and one pack of cigarettes per day for approximately 30 years; she quit smoking on 8/21/2012.
+ Current use: None (cigarettes)
+ Other nicotine products: Patient reports she vapes occasionally.
+ Smokeless tobacco: Not on file
+ Alcohol use: Occasional, 1-2 glasses wine/week
+ Illicit drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with spouse
+ Exercise: Limited due to knee pain
+
+FAMILY HISTORY: Mother - hypertension, deceased age 82. Father - CAD, deceased age 75. No family history of lung disease noted.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, SpO2 97% on room air, Temp 98.2F, Wt 168 lb, Ht 5'5"
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic
+Cardiovascular: RRR, no murmurs/rubs/gallops
+Pulmonary: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+Abdomen: soft, non-tender, non-distended
+Extremities: right knee with mild effusion, crepitus with range of motion, no erythema or warmth; no calf tenderness; no edema
+Skin: warm, dry, intact
+Neuro: grossly intact, alert and oriented x3
+
+LABS/RESULTS:
+- CBC (06/10/2026): WBC 6.2, Hgb 13.4, Hct 40.1, Plt 245
+- BMP (06/10/2026): Na 139, K 4.1, Cl 102, CO2 25, BUN 16, Cr 0.8, Glucose 94
+- HbA1c (06/10/2026): 5.4%
+- Coagulation panel (06/10/2026): PT 12.1, INR 1.0, PTT 28
+- EKG (06/14/2026): Normal sinus rhythm, rate 74, no acute ST-T changes
+- CXR (06/14/2026): No acute cardiopulmonary process; lungs clear
+- Pulmonary function testing: not performed today, prior spirometry on file from 2023 showing mild obstructive pattern consistent with asthma
+
+ASSESSMENT:
+67-year-old woman with hypertension and mild persistent asthma, both currently well-controlled, presenting for pre-operative evaluation prior to right total knee arthroplasty. Cardiopulmonary risk appears low based on today's exam, EKG, and CXR. Former smoker with significant prior tobacco exposure but longstanding cessation; current occasional vaping noted and discussed.
+
+PLAN:
+1. Hypertension - continue lisinopril, BP well controlled today, no medication changes needed pre-operatively.
+2. Asthma - continue current inhaler regimen; ensure she brings rescue inhaler day of surgery; low risk for perioperative bronchospasm given stable control.
+3. Tobacco/nicotine use - reinforced continued avoidance of cigarettes; discussed that even occasional vaping can affect wound healing and counseled cessation of vaping products prior to surgery; discussed general health risks of nicotine exposure; screening for lung cancer was discussed in general terms but no imaging ordered today.
+4. Pre-op labs and EKG reviewed, unremarkable. CXR clear.
+3. Cleared for surgery from a medical standpoint pending anesthesia evaluation.
+5. Follow up with orthopedic surgery for surgical scheduling; return to this office as needed.
+
+Electronically signed: Kevin Osei, MD
+
+---
+ADDENDUM (later same day, 06/14/2026, 4:47 PM) - Kevin Osei, MD:
+Patient called office after visit to clarify she had misspoken regarding GERD medication history; she states she occasionally uses OTC omeprazole, not documented above. No changes to cardiopulmonary clearance or smoking history documented above; all other information in note remains accurate. Problem list to be updated at next visit to reflect current GERD management. No further action needed today.

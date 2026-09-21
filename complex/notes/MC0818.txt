@@ -1,0 +1,32 @@
+Telehealth Vascular Surgery Note
+DOS: 02/07/2025
+Author: Quentin Hale, PA-C
+
+Pt: Paula Wood, F, DOB 2/7/1947 (age 78).
+
+HPI: 78yo F c/o intermittent claudication, worse w/ ambulation >1 block, improves w/ rest. Known PAD, here for f/u eval via telehealth given mobility issues. No rest pain, no ulcers per pt report. Denies chest pain, SOB. Hx depression, GERD, OSA - stable, on current regimen.
+
+ROS: Otherwise negative except as above.
+
+--- Social History (EHR template) ---
+Alcohol use: Not on file
+Tobacco use: Former smoker
+Details: Pt reports quarter pack/day (~5 cigs/day) x25 yrs, then increased to half pack/day (~10 cigs/day) x25 yrs, then quit smoking - quit was 3 yrs after moving to this state (relocated 2017).
+Secondhand smoke exposure: blank
+Drug use: Not on file
+Occupation: retired
+Living situation: lives w/ daughter
+---
+
+Exam (limited, telehealth - visual only): Pt appears comfortable, no acute distress. Skin of b/l LE not well visualized via video, pt reports no open wounds. Pulses not assessable via telehealth.
+
+Assessment: 78F with PAD, claudication sx stable. Former smoker (see SH for details above) - major modifiable risk factor for PAD progression, reinforced importance of continued abstinence. Depression/GERD/OSA - stable, managed elsewhere.
+
+Plan:
+1. PAD - continue current antiplatelet/statin regimen, encourage structured walking program.
+2. Tobacco - counseled on cardiovascular benefits of continued smoking cessation, reinforced no relapse. Lung cancer screening discussed given hx, pt to follow up w/ PCP re: appropriateness.
+3. F/u in-person in 3 months or sooner if sx worsen (rest pain, non-healing wounds).
+4. Continue current meds for depression/GERD/OSA, no changes today.
+5. Pt to call if new numbness, color change, or non-healing ulcer noted on LE.
+
+Electronically signed: Quentin Hale, PA-C, 02/07/2025.

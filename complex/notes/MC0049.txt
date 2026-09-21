@@ -1,0 +1,88 @@
+Pulmonology Clinic Note - Follow-up after COPD Exacerbation
+DOS: 07/03/2025
+Author: Isaac Moreno, PA-C
+
+Patient: Samuel Martin
+DOB: 02/25/1946 (age 79)
+Sex: M
+MRN: 884213-SM
+
+CC: F/u s/p ED visit for COPD exac, now 5 days post d/c.
+
+HPI: 79M w/ hx HTN, hyperlipidemia, obesity presenting for scheduled f/u after ED tx for acute COPD exacerbation. Pt reports mild residual dyspnea on exertion, improving since d/c. Denies fever, chest pain, hemoptysis. Using rescue inhaler prn, ~2x/day, down from 6-8x/day at presentation. Sleeping better, appetite improving. No new sputum production, color clear-ish. Reports occasional lightheadedness with standing, attributed to possible dehydration or BP meds - will monitor. No CP, no palpitations. ROS otherwise negative except as above.
+
+PMH:
+- COPD (new dx this admission, spirometry pending outpt)
+- HTN, longstanding, on lisinopril
+- Hyperlipidemia, on atorvastatin
+- Obesity (BMI 33.4 at last visit)
+
+Social Hx:
+Tobacco: Lifelong non-smoker - never used tobacco products of any kind. Denies vaping, denies prior use.
+EtOH: occasional, 1-2 drinks/wk
+Illicit drugs: denies
+Occupation: retired postal worker
+Lives with: spouse, 2-story home, no stairs to bedroom (main level)
+Exercise: limited 2/2 dyspnea, prior to exacerbation walked 20 min daily
+
+Family Hx: father - CAD, mother - DM2, no known lung disease in family
+
+Meds:
+1. Lisinopril 20mg daily
+2. Atorvastatin 40mg qhs
+3. Albuterol MDI prn
+4. Tiotropium started at d/c, new
+5. Prednisone taper (started ED, day 5 of 10)
+6. Amlodipine 5mg daily (added last visit for BP control)
+
+Allergies: NKDA
+
+Vitals (today):
+BP 138/82
+HR 78
+RR 16
+SpO2 95% RA
+Temp 98.2F
+Wt 212 lb, Ht 5'9", BMI 31.3
+
+Physical Exam:
+Gen: NAD, comfortable, conversant in full sentences
+HEENT: NC/AT, MMM, no JVD
+CV: RRR, no m/r/g
+Resp: mild exp wheeze bilat, decreased at bases, no crackles, no accessory muscle use, no tripod
+Abd: obese, soft, NT/ND, +BS
+Ext: no c/c/e, pulses 2+ symmetric
+Skin: warm, dry, no rash
+Neuro: A&Ox3, no focal deficits, gait steady w/o assistive device
+
+Labs/Results:
+CBC (06/28/2025): WBC 8.9, Hgb 14.1, Hct 41.9%, Plt 245
+BMP (06/28/2025): Na 139, K 4.1, Cl 101, CO2 26, BUN 18, Cr 0.98, Glu 112
+Lipid panel (05/15/2025): TC 198, LDL 118, HDL 42, TG 190
+A1c (05/15/2025): 5.7%
+CXR (06/27/2025, ED): hyperinflation, no acute infiltrate, no effusion
+BNP (06/27/2025): 62 (nl)
+
+Assessment:
+79yo M w/ HTN, hyperlipidemia, obesity, now COPD (new dx) s/p exacerbation, improving on current regimen.
+
+1. COPD, acute exacerbation - resolving. Continue prednisone taper as directed, complete tiotropium initiation, albuterol prn. Outpt spirometry ordered to confirm dx/staging. D/c date discussed at length was 06/29/2025, this visit represents scheduled f/u per d/c instructions.
+2. Tobacco/lung health - pt is a lifelong non-smoker, no tobacco exposure hx identified. General lung health and avoidance of secondhand smoke exposure discussed. Screening for lung cancer briefly discussed in context of new COPD dx but not further addressed given non-smoking status.
+3. HTN - well controlled today, continue current regimen.
+4. Hyperlipidemia - continue statin, recheck lipid panel in 6 mo.
+5. Obesity - BMI improved slightly since last visit, counseled on diet/exercise as tolerated given current resp status.
+
+Plan:
+- Continue current COPD regimen, f/u in 4 wks or sooner if worsening sx
+- Outpt PFTs scheduled
+- Pulm rehab referral placed
+- Labs reviewed w/ pt, results wnl except lipid panel as above
+- RTC 4 wks, sooner PRN
+- Pt verbalized understanding, agrees w/ plan
+
+Isaac Moreno, PA-C
+Signed 07/03/2025 14:22
+
+---
+ADDENDUM (later same day, 07/03/2025 17:05):
+Pt called clinic nursing line this afternoon reporting increased lightheadedness after leaving appointment, ?orthostatic. Advised to hold amlodipine dose this evening and recheck BP at home sitting/standing. Instructed to call back or go to ED if syncope, chest pain, or worsening dyspnea. Will discuss at next visit or sooner if symptoms persist. No change to smoking status noted (remains lifelong non-smoker per chart). - I. Moreno, PA-C

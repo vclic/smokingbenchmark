@@ -1,0 +1,51 @@
+Pulmonology Progress Note - Follow-up Incidental Lung Nodule
+Date of Service: 04/26/2025
+Author: Nadia Haddad, MD (NP progress note)
+Patient: Nancy Martinez, F, DOB 4/26/1948 (age 77)
+
+CC: f/u incidental lung nodule found on CT abd/pelvis done for unrelated reasons.
+
+HPI: Pt is a 77 y/o female here for follow up of a 7mm nodule noted incidentally in RUL. She reports no cough, no hemoptysis, mild dyspnea on exertion which she attributes to PAD and deconditioning. Denies fevers chills night sweats. She states she has been walking more per PT recs, tolerating okay, some claudication in calfs after ~2 blocks. Diabetes control per pt reportedly stable, checks sugars home glucometer variable, A1c pending recheck. Hypothyroid on levothyroxine, no recent TSH on file. BPH sx stable on tamsulosin, nocturia x1-2. Depression - pt reports mood 'ok', continues sertraline, denies SI/HI.
+
+Social History (EHR templated block):
+Tobacco Use Status: Current every day smoker
+Smoking History (years): 54 years
+Packs per day: Not on file
+Type: Cigarettes
+Secondhand smoke exposure: Denies
+Smokeless tobacco: Never
+Alcohol: Occasional, denies to excess
+Drug use: Denies
+Living situation: Lives with daughter
+Occupation: Retired
+
+Discussion: Pt has smoked cigarettes for 54 years total. Notably she did quit smoking in 2020 but relapsed in 2022 after a stressful family event and has continued smoking since. Today she states she is not ready to quit at this time, though she and I discussed cessation resources including nicotine patches, gum, and referral to quitline. She does state, somewhat contradictorily, that she has set a quit date for 5/13/2025 (future date) and would like to try again around that time; encouraged this plan and offered f/u support. Pt aware that continued use increases risk of nodule growth/malignancy and worsening PAD.
+
+ROS: Constitutional - no fevers, no wt loss significant. Resp - no cough no wheeze. CV - claudication as above, no chest pain. GI - denies. GU - nocturia as noted. Endo - denies polyuria polydipsia currently. Psych - mood stable per pt, some anhedonia intermittent.
+
+PMH: Type 2 diabetes mellitus, hypothyroidism, obesity, BPH, depression, peripheral artery disease.
+
+PSH: cholecystectomy remote, no other surgeries on file.
+
+Meds: Metformin 1000mg BID, levothyroxine 75mcg daily, tamsulosin 0.4mg qhs, sertraline 100mg daily, aspirin 81mg daily, cilostazol 100mg BID for PAD.
+
+Allergies: NKDA.
+
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lbs, BMI 33.
+
+Exam: Gen - well appearing, NAD, obese female in no distress. HEENT - PERRL, EOMI, oropharynx clear. Neck - no LAD, no thyromegally appreciated. CV - RRR no m/r/g, distal pulses diminished bilat dorsalis pedis. Resp - CTAB, no wheezes rales rhonchi. Abd - obese, soft, NT/ND, well healed chole scar. Ext - no edema, skin intact, cap refill slightly delayed. Neuro - grossly intact, A&Ox3. Psych - mood/affect appropriate, cooperative.
+
+Labs/Imaging: Chest CT 3 months ago showed 7mm nodule RUL, stable in size compared to prior per report (patient states radiologist told her its unchanged, [inaudible] discussion of measurements over phone was difficult to follow). A1c pending. TSH pending recheck. Lipid panel wnl per last visit.
+
+Assessment: 1. Incidental pulmonary nodule, RUL, stable - continue surveillance per nodule protocol. 2. Tobacco use disorder, current smoker, 54 years smoking history, patient not ready to quit today despite stated future quit date. 3. Type 2 DM - stable. 4. Hypothyroidism - stable, recheck TSH. 5. BPH - stable on tamsulosin. 6. Depression - stable on sertraline. 7. PAD - stable, continue cilostazol and walking program.
+
+Plan:
+- Repeat low dose chest CT per surveillance interval, to be scheduled by radiology per protocol (timing per nodule size/risk, discussed with patient in general terms).
+- Lung cancer screening discussed in general terms with patient including risks/benefits of continued imaging; no further screening determination documented today.
+- Smoking cessation counseling provided again today, discussed NRT options, quitline referral offered, pt states plan to quit 5/13/2025, will reassess progress at next visit.
+- Recheck A1c and TSH labs prior to next visit.
+- Continue current medications as above.
+- f/u pulm clinic in 3 months or sooner if new symptoms (hemoptysis, worsening SOB, chest pain, unexplained wt loss).
+- Pt verbalized understanding of plan, all questions answered today, will call clinic with any concerns in interim.
+
+Electronically signed: Nadia Haddad, MD, 04/26/2025.

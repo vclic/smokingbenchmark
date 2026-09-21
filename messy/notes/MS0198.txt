@@ -1,0 +1,62 @@
+Pulmonology Clinic - Nurse Intake
+DOS: 05/22/2024
+Patient: Wei Robinson, M, DOB 02/09/1957 (age 67)
+Vitals: BP 128/78, HR 82 irregular, RR 18, SpO2 94% RA, Wt 198 lb
+
+SOCIAL HISTORY (templated block):
+Tobacco use status: Former smoker
+Cigarettes: 1.5 ppd x 11 yrs
+Quit date: 09/14/1991
+Alcohol use: Not on file
+Drug use: denies
+Occupation: retired machinist
+Living situation: [blank]
+Exercise: Not on file
+
+CC: f/u COPD, dyspnea on exertion.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE (dated 11/14/2022) ----
+HPI: Pt is a 65 yo M with h/o COPD, afib, dCHF (EF 35%), CAD s/p stent, depression, OA of knees b/l, p/w increased SOB x 2 wks. Denies fevers/chills. Reports orthopnea 2-pillow. On home O2 prn. Cont on carvedilol, apixaban, furosemide, sertraline, tiotropium/olodaterol inhaler. Denies chest pain. Exam notable for bibasilar crackles, trace peripheral edema. Plan: cont current regimen, f/u PFTs, CXR ordered, refer to cardiology for EF re-check.
+---- END COPIED TEXT ----
+
+Current visit HPI (Dr. Markovic):
+Pt returns today 5/22/24 for routine COPD f/u. Reports doing reasonably well, occasional DOE w/ stairs, no acute exac since last visit. No increase in sputum, no fevers. Uses tiotropium/olodaterol inhaler daily, albuterol prn (rarely). Compliant w/ afib anticoagulation (apixaban) - no bleeding events. Mood stable on sertraline, f/u w/ psychiatry q3mo per pt report. Knee pain managed w/ acetaminophen and occasional NSAID, tolerable. No new cardiac sx, no PND, no acute weight gain.
+
+ROS: Denies chest pain, palpitations (baseline irregular pulse known 2/2 afib), denies syncope. Denies cough productive of blood. Denies fevers, night sweats, wt loss. Positive for occasional DOE as above.
+
+PMH: COPD, atrial fibrillation (on apixaban), depression, HFrEF (EF 35% per last echo), CAD s/p PCI, osteoarthritis bilateral knees.
+
+Meds: Tiotropium/olodaterol inh daily, albuterol MDI prn, apixaban 5mg BID, carvedilol 12.5mg BID, furosemide 20mg daily, sertraline 100mg daily, acetaminophen prn, atorvastatin 40mg qhs.
+
+Allergies: NKDA.
+
+Physical Exam:
+Gen: NAD, comfortable, conversing full sentences.
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD.
+Pulm: mild expiratory wheeze bilat bases, no crackles today, no accessory muscle use.
+Ext: trace edema b/l, no calf tenderness.
+MSK: crepitus b/l knees, no effusion, ROM limited but functional.
+
+Labs/Results (reviewed today):
+- CBC (05/20/2024): WBC 7.1, Hgb 13.4, Plt 245
+- BMP (05/20/2024): Na 138, K 4.2, Cr 1.0, BUN 18, Glc 102
+- BNP (05/20/2024): 310 pg/mL (baseline elevated 2/2 HFrEF)
+- INR n/a (on apixaban, no monitoring needed)
+- Spirometry (04/30/2024): FEV1 58% predicted, FEV1/FVC 0.62, consistent w/ moderate obstructive pattern, improvement post-bronchodilator noted
+
+Assessment/Plan:
+1. COPD, moderate, GOLD B - stable on current inhaler regimen. Cont tiotropium/olodaterol, albuterol prn. Reviewed inhaler technique. D/c'd emphasis on avoidance of triggers/infection precautions.
+2. Tobacco history - patient is a former smoker, quit 9/14/1991, no current tobacco use; no counseling needed for cessation as pt is not a current smoker. Lung cancer screening was discussed briefly with patient given hx of tobacco use; pt to consider and discuss further at PCP visit.
+3. Atrial fibrillation - rate controlled, cont carvedilol and apixaban, no bleeding concerns.
+4. HFrEF - euvolemic today, cont furosemide, carvedilol; BNP stable from prior. F/u cardiology for repeat echo.
+5. CAD - stable, cont statin.
+6. Depression - stable on sertraline, cont current regimen, f/u psychiatry.
+7. OA knees - cont acetaminophen prn, consider PT referral if worsening.
+RTC in 4 months or sooner if worsening sx.
+
+Elena Markovic, MD
+Pulmonology
+
+---- ADDENDUM (later same day, 05/22/2024, 16:40) ----
+Addendum: Spoke with patient by phone after visit re: pharmacy question about albuterol refill - authorized refill x1, 90 day supply, sent electronically to Walgreens per pt request. No other changes to plan. Reiterated importance of continued smoking abstinence given patient's history of tobacco use (1.5 ppd x 11 yrs, quit 1991) though pt has remained smoke-free for many years and reports no interest in returning to use. No further action needed at this time.
+-EM, MD

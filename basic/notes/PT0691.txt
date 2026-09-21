@@ -1,0 +1,67 @@
+Adult Medicine Clinic Note
+
+Patient: KIM, Kenneth    MRN: 20090166
+DOB: 06/08/1955    Age: 67 y.o.    Sex: Male
+Date of Service: 03/20/2023    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Kenneth Kim is a 67 y.o. male who presents for hospital follow-up after admission for cellulitis of the left leg.
+Admitted 3/4/2023-3/8/2023 for cellulitis of the left leg. Completed antibiotics. Using walker at home.
+
+Past Medical History:
+Diagnosis	Date
+• Benign prostatic hyperplasia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tamsulosin 0.4 mg nightly
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Social History Narrative
+  Noncontributory.
+
+Family History
+Sister - hypothyroidism. Mother - dementia, d. 84.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 124/79 (BP Location: Right arm, Patient Position: Sitting) | Pulse 77 | Temp 98.3 °F (Oral) | Resp 14 | Ht 5' 11" | Wt 192 lb | SpO2 98% | BMI 26.83 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (2/10/2023): Cr 1.02, K 4.2, Hgb 12.0
+
+Assessment & Plan
+1. Cellulitis of the left leg
+   Resolved. Med rec completed.
+2. Benign prostatic hyperplasia
+   Nocturia x1-2; continue tamsulosin.
+
+f/u 1 mo
+
+Electronically signed by Hannah Weiss, NP on 03/20/2023

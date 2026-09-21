@@ -1,0 +1,40 @@
+NURSE INTAKE - 01/01/2026
+Pt: Rajesh Torres, M, DOB 1/1/1968, age 58.
+Vitals: BP 138/86, HR 78, Wt 224 lb, Ht 5'10", BMI 32.1.
+CC: f/u HTN, DM2.
+Tobacco Use Screening (templated): Former smoker. Cigarettes: 1 pack per day. Status: Quit.
+
+PROBLEM LIST (partial, some outdated):
+E11.9 - Type 2 diabetes mellitus
+I10 - Essential hypertension
+K21.9 - GERD
+F32.9 - Major depressive disorder
+E66.9 - Obesity
+M19.90 - Osteoarthritis, unspecified
+J45.909 - Asthma, unspecified
+M81.0 - Osteoporosis
+(Note: J45.909 dx from 2015, may need re-eval given no recent exac.)
+
+HPI: Pt presents for routine f/u. States "I've been checking my sugars most mornings, they run in the 130s." Denies chest pain, denies SOB at rest. Reports occasional heartburn, controlled w/ PPI. Endorses low mood some days but overall stable on current antidepressant. Knee pain wax/wane, uses OTC NSAID sparingly given GERD hx. Asthma quiet, uses albuterol prn maybe 1x/mo. No recent fractures.
+
+SHx: Former tobacco user, quit smoking 16 yrs ago. No current EtOH concerns. Lives w/ spouse, works part-time.
+
+ROS: Otherwise negative except as above.
+
+Exam: NAD, A&Ox3. Lungs CTAB, no wheeze. CV RRR no m/r/g. Abd soft NT/ND, +BS. Ext no edema. MSK: mild crepitus b/l knees, no effusion.
+
+A/P:
+1. DM2 - A1c pending, cont metformin, reinforced diet/exercise.
+2. HTN - stable on lisinopril, cont current dose.
+3. GERD - cont omeprazole.
+4. Depression - stable, cont sertraline, f/u PHQ-9 next visit.
+5. Obesity - counseled diet/exercise, discussed weight mgmt options.
+6. OA knees - cont acetaminophen prn, PT referral discussed.
+7. Asthma - well controlled, cont albuterol prn.
+8. Osteoporosis - cont calcium/vit D, DEXA due for recheck.
+9. Tobacco - former smoker, quit 16 yrs ago; praised for cessation, encouraged continued abstinence.
+
+RTC 3 months or sooner PRN.
+
+--- ADDENDUM (later same day, Dr. Raman) ---
+Pt called back after labs resulted from earlier draw; A1c 7.2%, reviewed w/ pt by phone, no med changes at this time. Will readdress at next visit 1/1/2026 note stands otherwise. Reiterated importance of continued smoking abstinence given quit status of 16 years; no new tobacco products reported.

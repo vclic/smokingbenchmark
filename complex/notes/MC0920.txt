@@ -1,0 +1,67 @@
+TELEHEALTH VISIT NOTE
+Patient: Larry Lopez | DOB: 02/21/1973 | Age: 52 | Sex: M
+Date of Service: 02/21/2025
+Provider: Anita Patel, MD (Geriatrics)
+Visit Type: Geriatric Assessment, video visit
+
+CHIEF COMPLAINT: Follow-up geriatric assessment, general check-in.
+
+HPI: Mr. Lopez is a 52-year-old male with history of hypothyroidism, obesity, peripheral artery disease, and gout, seen today via telehealth for routine geriatric assessment. He reports feeling "pretty good, just some achiness in my feet when I walk too much." He denies chest pain, states "I get a little short of breath going up stairs but that's been the same for a while." Denies falls. Denies new joint swelling although he had a gout flare last month treated with colchicine, resolved per patient report of "my toe finally calmed down."
+
+He lives with his wife, sound was a bit choppy during parts of the call, [inaudible] regarding his diet but he did confirm he is trying to eat less red meat given the gout history and he mentioned he's been walking short distances daily using his cane he said something like "I do what I can, doc, some days better than others" and then the call cut out again but he came back and said he's been taking his levothyroxine regularly.
+
+=== COPIED FORWARD FROM PRIOR VISIT (10/14/2024) ===
+HPI (from 10/14/2024 visit): Mr. Lopez presents for follow-up of hypothyroidism and PAD. He reports intermittent claudication in bilateral calves after walking about 2 blocks, relieved with rest. TSH last checked was within goal range. He continues on levothyroxine 100 mcg daily. Denies chest pain, palpitations, or syncope. Feet exam notes diminished pedal pulses bilaterally, no ulcers. Discussed importance of foot care given PAD and gout history. Patient was counseled on smoking cessation maintenance and continues to do well. Weight stable. Plan: continue current medications, recheck TSH in 6 months, follow up with vascular surgery for PAD management.
+=== END COPIED FORWARD ===
+
+PROBLEM LIST:
+1. E03.9 Hypothyroidism, unspecified
+2. E66.9 Obesity, unspecified
+3. I73.9 Peripheral artery disease, unspecified (outdated entry, last updated 2021, may need review)
+4. M10.9 Gout, unspecified
+5. Z87.891 Personal history of nicotine dependence
+6. I10 Essential hypertension (outdated, per chart review this may no longer be active, pt denies hx of HTN treatment currently)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Current use: No
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Secondhand smoke exposure: Not on file
+Alcohol use: Occasional, per patient
+Drug use: Denies
+Living situation: With spouse
+Occupation: Retired
+Exercise: Limited, uses cane
+
+SMOKING HISTORY (narrative, obtained during today's visit): Patient reports he smoked 2 packs per day for 2 years, then quit completely and did not smoke at all for 5 years, then he restarted smoking at 2 packs per day for another 2 years before quitting for good. He is a former smoker and has not smoked since. He shared that he quit smoking 2 years after his first grandchild was born, which happened in 1994, and he said, "that grandbaby gave me a reason to stop for real this time." He was advised to continue avoiding tobacco and praised for maintaining cessation.
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. Cardiovascular: no chest pain, occasional exertional dyspnea as above. Musculoskeletal: foot pain as above, no new joint swelling. Endocrine: no heat/cold intolerance. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals (per home device relay, patient reported): BP 132/78, HR 76, wt 224 lb
+General: Well-appearing male, no acute distress, seated comfortably.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated on video (limited exam via telehealth).
+Extremities: Patient showed feet on camera, no visible ulcers, mild dependent edema noted bilaterally.
+Skin: No rashes visualized.
+Neuro: Alert, oriented x3, speech clear (aside from call quality issues).
+
+ASSESSMENT:
+1. Hypothyroidism - stable on current dose, will check TSH.
+2. Obesity - counseled on diet and activity as tolerated given PAD limitations.
+3. Peripheral artery disease - stable symptoms, continue vascular surgery follow-up.
+4. Gout - recent flare resolved, continue urate-lowering therapy, dietary counseling reinforced.
+5. Former smoker - counseled to continue abstinence, encouraged and praised for maintaining cessation over the years.
+
+PLAN:
+- Continue levothyroxine, recheck TSH labs in 6 months.
+- Continue allopurinol for gout, follow low-purine diet.
+- Continue current PAD management, vascular surgery follow-up as scheduled.
+- Weight management counseling provided, encouraged gentle walking as tolerated.
+- Continued encouragement of tobacco abstinence and general preventive health counseling appropriate for age.
+- Follow-up telehealth visit in 3 months or sooner if symptoms worsen.
+- Patient verbalized understanding and agreement with plan.
+
+Electronically signed: Anita Patel, MD, Geriatrics, 02/21/2025.

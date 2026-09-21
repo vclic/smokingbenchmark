@@ -1,0 +1,50 @@
+Internal Medicine Clinic Note
+Date of Service: 12/24/2025
+Patient: Donna Gonzales   DOB: 8/18/1946   MRN: 51791971
+
+SUBJECTIVE:
+CC: Lung cancer screening
+HPI: Mrs. Gonzales is a 79 y.o. female with a history of HTN, depression, GERD, and obesity who presents for lung cancer screening shared decision-making. Referred for shared decision-making regarding lung cancer screening. Chronic mild cough unchanged.
+
+PMH:
+- Depression (dx 2009)
+- CAD
+- GERD
+- Hypertension (dx 2000)
+- Type 2 diabetes mellitus
+- Class I obesity
+- Current smoker
+PSH: Cholecystectomy (1992)
+Meds: sertraline 50 mg daily; famotidine 20 mg BID; losartan 50 mg daily; sitagliptin 100 mg daily; metoprolol succinate 50 mg daily; aspirin 81 mg daily
+Allergies: Sulfa drugs
+Social History:
+- Widowed; lives with son.
+- Retired, former office manager.
+- She is an active smoker, an 81 pack-year smokign history.
+- Social drinker.
+- Denies illicit drugs.
+FH: Son - type 1 diabetes. Mother - COPD, was a lifelong smoker.
+ROS: Negative except as noted in HPI.
+
+O:
+Vitals: BP: 158/80  HR: 91  RR: 16  Temp: 98.6 F  SpO2: 97% on RA  Wt: 171 lbs  BMI: 31.2
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (11/20/25): A1c 7.7%, Cr 1.04, K 4.8, Hgb 15.6
+
+A/P:
+1. Lung cancer screening: SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. Nicotine dependence, cigerettes, uncomplicated (F17.210): Counseled on cessation for 5 min. Ambivalent about quitting. Rx bupropion SR 150 mg daily x3d then BID.
+3. Hypertension: Elevated today; home BP log requested.
+
+RTC 1 month.
+
+Teresa Alvarez, NP

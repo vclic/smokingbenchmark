@@ -1,0 +1,41 @@
+PROGRESS NOTE
+Date of Service: 6/10/2024
+Patient: Donald Barnes   DOB: 6/17/1959   MRN: 84732953
+
+SUBJECTIVE:
+CC: CP eval
+HPI: Mr. Barnes is a 64-year-old man with a history of asthma, HTN, and HLD who presents for evaluation of chest pain. Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Associated mild dyspnea. No orthopnea or PND. CV risk factors: HTN, HLD, never smoker.
+
+PMH:
+- Hypertension
+- Hyperlipidemia
+- Mild persistent asthma
+PSH: Lumbar laminectomy (2011)
+Meds: lisinopril 40 mg daily; albuterol HFA 2 puffs q4-6h PRN; chlorthalidone 12.5 mg daily; pravastatin 40 mg nightly
+Allergies: NKDA
+SH: Lives alone in an apartment. Works as an office manager. Never smoker. EtOH: 2-3 drinks on weekends. No illicit drug use.
+FH: Father - AAA repair.
+Review of systems negative except as above.
+
+OBJECTIVE:
+Vitals: BP: 148/69  HR: 85  RR: 16  Temp: 98.4 F  SpO2: 99% on RA  Wt: 186 lbs  BMI: 26.7
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+Labs (May 7, 2024): LDL 138, Cr 0.95, K 4.0, Hgb 13.1
+
+A/P:
+1. Chest pain: ECG today NSR, no ischemic changes. Coronary CTA ordered. Start ASA 81 mg. ED if rest pain.
+2. Health maintenance
+   - Lung cancer screening: not indicated (nevr smoekr).
+
+RTC 3 months.
+
+-- PR (MD)

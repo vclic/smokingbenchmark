@@ -1,0 +1,67 @@
+CARDIOLOGY FOLLOW-UP NOTE
+Patient: Rajesh Rivera (M), DOB 3/12/1943, Age: 80
+Date of Service: 06/27/2023
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Mr. Rivera is an 80-year-old male with hx of CHF, CAD, HTN, CKD stage 3 who presents today for routine f/u. Reports mild dyspnea on exertion, denies orthopnea/PND. Weight stable per home scale, pt states "about the same, maybe up a pound." No chest pain, no palpitations. Pt notes he quit smoking 33 years ago and has remained tobacco-free since. Denies current alcohol use - he quit drinking in 2002 and has not resumed. Compliant w/ meds per pt report, though pill bottle count [inaudible] at pharmacy pickup so may be some discrepancy, will clarify w/ pharmacy on callback. Pt ambulates with cane, lives w/ daughter who assists w/ meds and appointments.
+
+ROS: Constitutional - denies fever/chills. Cardiac - as above. Resp - denies cough, wheeze. GI - denies nausea/vomiting/diarrhea. GU - denies dysuria. Denies edema in lower extrem today, though hx of intermittent ankle swelling. All other systems reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY (EHR templated block):
+ Marital status: Widowed
+ Occupation: Retired (former electrician)
+ Living situation: Lives with daughter
+ Alcohol use: Former use, quit 2002
+ Illicit drug use: Not on file
+ Tobacco use:
+  - Current status: Former smoker
+  - Type: Cigarettes
+  - Amount: 2.5 packs per day
+  - Age started: 19
+  - Age quit: 47
+  - Years smoked: [see amount/age fields]
+  - Current use: None - no longer smokes
+ Exercise: Sedentary, ambulates c cane
+ Caffeine: Not on file
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+ I50.9 - Heart failure, unspecified (active)
+ I25.10 - Atherosclerotic heart disease of native coronary artery w/o angina pectoris (active)
+ I10 - Essential hypertension (active)
+ N18.3 - Chronic kidney disease, stage 3 (active)
+ E78.5 - Hyperlipidemia, unspecified (active, on statin)
+ Z87.891 - Personal history of nicotine dependence (historical, resolved per pt report)
+ K21.9 - GERD (outdated entry, pt denies sx x several yrs, may need removal at next visit)
+
+MEDICATIONS: Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Furosemide 20mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 132/78, HR 68 reg, RR 16, SpO2 96% RA, Wt 81.4kg (stable from last visit), Temp 97.8F.
+
+PHYSICAL EXAM:
+General: Well-appearing elderly male, NAD.
+CV: RRR, no m/r/g appreciated, JVP not elevated.
+Lungs: CTAB, no rales/wheezes.
+Abd: Soft, NT/ND, no organomegaly.
+Ext: Trace bilateral pedal edema, no calf tenderness.
+Neuro: A&Ox3, gait steady with cane assist.
+
+LABS (reviewed today, drawn 1 wk prior): BNP 210 (mildly elevated from baseline), Cr 1.6 (stable, consistent w/ known CKD3), K+ 4.2, eGFR 42.
+
+ASSESSMENT/PLAN:
+1. Heart failure - clinically stable today, euvolemic on exam, continue current diuretic dose, recheck BNP/lytes in 3 months.
+2. CAD - stable, continue statin and ASA, no new anginal sx reported.
+3. HTN - well controlled on current regimen, continue metoprolol/lisinopril.
+4. CKD stage 3 - stable renal function, continue to monitor labs q3mo, avoid nephrotoxic agents.
+5. Tobacco history - former smoker, quit 33 years ago per pt report, tobacco-free x many yrs, no current counseling needed re: cessation given long-term abstinence.
+6. Alcohol - former use, quit 2002, no current concerns, continue to monitor.
+7. GERD - appears resolved, will remove from active problem list if asymptomatic at next visit.
+
+Return to clinic in 3 months or sooner if worsening dyspnea, weight gain >3lbs in 2 days, or chest pain. Pt verbalizes understanding of plan. Daughter present for visit, agrees to assist with med compliance monitoring.
+
+Hannah Weiss, NP
+Cardiology
+Dictated/signed 06/27/2023

@@ -1,0 +1,49 @@
+Fenwick Pulmonology Associates
+Date of Service: 02/20/2024
+Patient: George Harris (M) DOB: 02/20/1947 (age 77)
+Provider: Quentin Hale, PA-C
+
+--- NURSE INTAKE ---
+Vitals: BP 148/86, HR 88, RR 20, SpO2 91% RA, Temp 98.2F, Wt 231 lb, Ht 5'9
+CC: f/u after ED visit for COPD flare
+Allergies: NKDA
+Meds reviewed with pt, reconciled per MAR
+Social hx: pt reports lifelong non-smoker, denies ever using cigarettes. States he smokes a cigar a few times a year on holidays ("maybe at Thanksgiving and New Year's, that's about it"). Denies drug use. Pt states he quit drinking alcohol in 2015 and has not had any since.
+
+[COPIED FORWARD FROM PRIOR VISIT 09/14/2022 - NOTE LEFT IN CHART BY ERROR]
+CC: routine PAD f/u
+HPI: Mr Harris here for routine follow up of his peripheral artery disease, reports intermittent claudication with walking approx 2 blocks, denies rest pain, denies non healing ulcers on feet. Skin intact, pulses diminished but palpable bilat DP/PT. Continue cilostazol, continue ASA 81mg, recheck ABI in 6 months. Hyperlipidemia stable on atorvastatin 40mg, last LDL 88. HTN well controlled on lisinopril/HCTZ, BP today 132/78. Wt stable. Pt encouraged to continue walking program as tolerated for claudication. RTC 6 months or sooner if worsening symptoms.
+[END COPIED SECTION]
+
+--- PHYSICIAN PROGRESS NOTE ---
+Date of service 02/20/2024
+HPI:
+Mr. Harris is a 77-year-old male (DOB 2/20/1947) with hx of PAD, HLD, HTN, and obesity, seen today in pulm clinic as a follow up after he was seen in the ED last week for a COPD exacerbation. He was treated in ED with nebulizers, IV steroids, and sent home on a prednisone taper and a course of azithromycin. He states he has been feeling somewhat better, less dyspneic at rest, still with occasional cough productive of white sputum. He denies fevers, denies chest pain. He tells me "I'm breathing easier than I was in the ER, but I still get winded walking to the mailbox."
+
+Regarding tobacco use, pt reiterates he is a lifelong non-smoker, never smoked cigarettes at any point in his life. He does note he smokes a cigar a few times a year on holidays, nothing more frequent than that. He also confirms again that he quit drinking alcohol in 2015 and has remained abstinent since.
+
+ROS: as above, otherwise negative for weight loss, hemoptysis, orthopnea, PND, leg swelling changes.
+
+PMH: PAD, hyperlipidemia, hypertension, obesity, recent COPD exacerbation.
+PSH: none significant.
+Meds: cilostazol, ASA 81mg, atorvastatin 40mg, lisinopril/HCTZ, albuterol inhaler prn, tiotropium, prednisone taper (day 4 of 10), azithromycin (day 3 of 5).
+Allergies: NKDA.
+
+Physical Exam:
+General: obese male, no acute distress, speaking in full sentences
+Vitals: as above, SpO2 91% RA improved to 94% on 2L NC
+Lungs: diffuse expiratory wheezes, mildly prolonged expiratory phase, no crackles
+CV: RRR, no m/r/g, decreased pulses bilat lower extremities but palpable
+Ext: no edema, no ulcers, skin intact
+
+Assessment/Plan:
+77 yo M DOB 2/20/1947, seen 02/20/2024, with COPD exacerbation improving on current tx, PAD stable, HLD stable, HTN stable, obesity.
+1. COPD - continue prednisone taper and azithromycin as prescribed, continue tiotropium and albuterol prn, f/u PFTs once stable, discussed smoking cessation resources though pt is a lifelong non-smoker so not applicable to cigarettes; discussed general lung health given occasional cigar use.
+2. PAD - continue cilostazol and ASA, recheck ABI at next visit.
+3. HLD - continue atorvastatin, recheck lipid panel in 6 months.
+4. HTN - continue lisinopril/HCTZ, BP today slightly elevated likely 2/2 steroid course, recheck at next visit.
+5. Obesity - counseled on diet and exercise as tolerated given claudication limits.
+Low-dose CT lung cancer screening was discussed in general terms as part of preventive health conversation.
+RTC in 2-4 weeks or sooner if symptoms worsen.
+
+Electronically signed: Quentin Hale, PA-C 02/20/2024

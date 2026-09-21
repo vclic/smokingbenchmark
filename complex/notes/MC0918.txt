@@ -1,0 +1,42 @@
+PULMONOLOGY FOLLOW-UP NOTE
+Date of Service: 09/20/2024
+Author: Steven Park, MD (NP-authored progress note)
+Patient: Gregory Walker, M, DOB 4/3/1955 (age 69)
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Mr. Walker is a 69 y/o male with hx of COPD, HFrEF, osteoporosis, presenting for routine pulm f/u. Reports stable dyspnea on exertion, no acute change since last visit. Denies fevers, chills, hemoptysis. Uses albuterol PRN, occasional rescue use 2-3x/wk. Sleep and appetite stable. No recent hospitalizations. Denies chest pain. Pt states he has never smoked cigarettes, no vaping hx either. Compliance with inhalers reviewed - pt states adherent to Symbicort BID.
+
+=== COPIED FORWARD FROM VISIT 03/14/2023 (retained in chart, not updated) ===
+ROS: Constitutional: denies fever, chills, night sweats, weight loss. HEENT: no vision changes, no hearing loss, no sore throat. CV: denies chest pain, palpitations, orthopnea (though known HFrEF, stable on current regimen). Resp: chronic cough, stable, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, hematuria. MSK: mild low back pain, chronic, unchanged (osteoporosis). Skin: no rashes. Neuro: no focal weakness, no numbness/tingling. Psych: denies depression, anxiety.
+PHYSICAL EXAM (03/14/2023): Vitals: BP 128/76, HR 72, RR 16, SpO2 95% RA, Temp 98.2F. General: NAD, well-appearing. HEENT: PERRLA, oropharynx clear. Neck: no JVD, no lymphadenopathy. CV: RRR, no murmurs. Lungs: mild expiratory wheeze bilaterally, no crackles. Abd: soft, NT/ND. Ext: no edema. Skin: warm, dry. Neuro: A&Ox3, no focal deficits.
+=== END COPIED FORWARD SECTION ===
+
+SOCIAL HISTORY (updated 09/20/2024): Lives with spouse. Retired postal worker. Denies alcohol use. Never smoker - no cigarette use in lifetime, confirmed again today. No illicit drug use. Independent with ADLs.
+
+CURRENT MEDICATIONS:
+1. Symbicort 160/4.5 mcg BID
+2. Albuterol HFA PRN
+3. Metoprolol succinate 50mg daily
+4. Sacubitril-valsartan 49/51mg BID
+5. Spironolactone 25mg daily
+6. Furosemide 20mg daily
+7. Alendronate 70mg weekly
+8. Vitamin D3 2000 IU daily
+9. Calcium carbonate 600mg BID
+10. Atorvastatin 40mg daily
+11. Aspirin 81mg daily
+
+EXAM TODAY (09/20/2024): Vitals: BP 124/78, HR 70, RR 16, SpO2 94% RA, Temp 98.1F, Wt 182 lb. General: NAD, comfortable, sitting upright. HEENT: unremarkable. Neck: no JVD. CV: RRR, no murmurs/gallops appreciated today, no significant edema. Lungs: diffuse mild expiratory wheeze, prolonged expiratory phase, no crackles or rhonchi. Abd: soft, NT/ND, no organomegaly. Ext: trace bilateral ankle edema, stable from prior. Skin: intact, no lesions. Neuro: A&Ox3, gait steady.
+
+LABS/STUDIES REVIEWED: Spirometry from 08/2024 shows moderate obstruction, FEV1 62% predicted, consistent with prior trend. BNP mildly elevated at 210, stable compared to prior.
+
+ASSESSMENT/PLAN:
+1. COPD, moderate - Continue Symbicort BID, albuterol PRN. Reinforce inhaler technique. Pulm rehab referral discussed, pt to consider. Pt is a never-smoker (no cigarette smoking history), so occupational/environmental exposures reviewed as alternate etiology - none significant identified beyond mild dust exposure in prior postal work, per pt report.
+2. HFrEF - Stable on current GDMT (sacubitril-valsartan, metoprolol succinate, spironolactone). Continue furosemide for volume management. Daily weights reviewed, pt reports stable weight.
+3. Osteoporosis - Continue alendronate, calcium, vitamin D3. DEXA due for repeat next year per bone health protocol.
+4. Health maintenance - Vaccinations reviewed, up to date per pt report (flu, pneumococcal, COVID boosters). Pt counseled on continued avoidance of secondhand smoke exposure given underlying COPD, though pt himself denies ever smoking.
+
+FOLLOW-UP: Return to pulm clinic in 3 months or sooner if symptoms worsen. Continue current regimen. Call office with any acute changes in breathing, chest pain, or lower extremity swelling.
+
+Electronically signed: Steven Park, MD, 09/20/2024.

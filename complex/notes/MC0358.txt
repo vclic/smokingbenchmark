@@ -1,0 +1,71 @@
+PULMONOLOGY CLINIC - HISTORY AND PHYSICAL
+Patient: Steven Johnson (M), DOB: 01/14/1970
+Age: 55
+Date of Service: 01/14/2025
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: Follow-up after ED visit/COPD exacerbation.
+
+HPI: Mr. Johnson is a 55-year-old male with history of asthma and hyperlipidemia who presented to the ED last week with worsening dyspnea, wheeze, and productive cough, treated as a COPD exacerbation with nebulizers, steroids, and a short course of antibiotics. He reports gradual improvement since discharge but still has mild exertional dyspnea. No fevers currently. He denies chest pain. He was instructed to follow up with pulmonology today, 01/14/2025, for reassessment and pulmonary function testing planning.
+
+PAST MEDICAL HISTORY: Asthma (since childhood per patient report), hyperlipidemia.
+
+MEDICATIONS: Albuterol HFA inhaler PRN, Fluticasone/salmeterol 250/50 one puff BID, Atorvastatin 40 mg qhs, Prednisone taper (day 4 of 5), Montelukast 10 mg qhs, Fish oil OTC, Multivitamin daily, Loratadine PRN seasonal allergies, Omeprazole 20 mg daily PRN reflux.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+ Alcohol use: Occasional, 1-2 drinks/week
+ Illicit drug use: Denies
+ Occupation: Warehouse supervisor
+ Living situation: Lives with spouse
+ Exercise: Not on file
+ Tobacco use - Cigarettes: Current every day smoker
+ Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated and does not reflect this patient's actual history - see narrative below]
+ Pack-years: Not on file
+ Tobacco cessation counseling given: Yes
+ Type of tobacco used: Cigarettes
+ Smokeless tobacco: Denies
+ E-cigarette/vaping: Denies
+ Secondhand smoke exposure: Not on file
+
+TOBACCO HISTORY NARRATIVE (correcting templated field above): Patient is an active smoker. He reports he smoked a quarter pack (about 5 cigarettes) per day for 22 years, then increased his smoking to half a pack (about 10 cigarettes) per day for the past 13 years and continues to smoke at that rate currently. He was advised to quit smoking today and counseled on the health risks of continued tobacco use in the setting of underlying asthma/COPD overlap. Nicotine replacement options and cessation resources were discussed. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+FAMILY HISTORY: Father with CAD, mother with hyperlipidemia. No known family history of lung cancer.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports mild fatigue.
+HEENT: Denies sore throat, denies nasal congestion, denies ear pain.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies lower extremity edema.
+Respiratory: Positive for mild dyspnea on exertion, positive for occasional cough, denies hemoptysis, denies pleuritic chest pain.
+Gastrointestinal: Denies nausea, denies vomiting, denies abdominal pain, denies diarrhea, denies constipation.
+Genitourinary: Denies dysuria, denies hematuria.
+Musculoskeletal: Denies joint pain, denies muscle weakness.
+Skin: Denies rash, denies pruritus.
+Neurological: Denies headache, denies dizziness, denies focal weakness.
+Psychiatric: Denies depression, denies anxiety.
+Endocrine: Denies polyuria, denies polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, denies lymphadenopathy.
+Allergic/Immunologic: Denies frequent infections.
+
+PHYSICAL EXAM:
+Vitals: BP 128/82, HR 84, RR 18, Temp 98.4F, SpO2 95% on room air, BMI 29.
+General: Alert, well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear, no cervical lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, symmetric chest expansion.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: No cyanosis, clubbing, or edema.
+Skin: Warm, dry, no rashes.
+Neurological: Alert and oriented x3, no focal deficits.
+Psychiatric: Mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+1. COPD/Asthma overlap exacerbation, improving - continue current inhaler regimen, complete prednisone taper, follow up PFTs in 4-6 weeks.
+2. Tobacco use, active smoker - counseled on cessation today; discussed nicotine replacement therapy and follow-up cessation resources; lung cancer screening discussed as part of preventive discussion.
+3. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next visit.
+4. Return to clinic in 4-6 weeks or sooner if symptoms worsen.
+
+Electronically signed: Anita Patel, MD - 01/14/2025
+
+ADDENDUM (later same day, 01/14/2025): Patient called clinic after visit to clarify medication instructions for prednisone taper; advised to continue as prescribed and reviewed schedule over phone. No new symptoms reported. Reiterated importance of smoking cessation given active smoking status and recent exacerbation. -Anita Patel, MD

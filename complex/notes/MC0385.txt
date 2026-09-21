@@ -1,0 +1,72 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Cardiology Consultation
+Patient: David Clark
+DOB: 5/29/1945
+Date of Service: 05/29/2024
+Age: 79
+Author: Rachel Goldberg, MD
+
+Dear Dr. Patel,
+
+Thank you for referring Mr. Clark, a 79 year old man, for evaluation of chest pain. He was seen today, 05/29/2024, in clinic for cardiology consultation. He describes intermittent substernal chest discomfort over the past two week, described as a pressure sensation, occuring with exertion such as climbing stairs and relieved with rest. He denies radiaton to the arm but does note some [inaudible] jaw tightness on one occassion. No associated nausea diaphoresis or palpitations reported today he states he feels otherwise well and is frustrated by the symptoms interfering with his daily walk with his wife.
+
+PAST MEDICAL HISTORY:
+- Chronic kidney disease stage 3
+- Asthma, intermittent, on albuterol PRN
+- Hyperlipidemia (per old chart, may be outdated, pt unsure if still on statin)
+- History of GERD (chart note from 2015, unclear if still active)
+
+PROBLEM LIST (ICD-10):
+N18.3 - Chronic kidney disease, stage 3
+J45.909 - Asthma, unspecified
+E78.5 - Hyperlipidemia, unspecified (outdated entry, pt denies current dx)
+I25.10 - Atherosclerotic heart disease, unspecified (to be evaluated)
+K21.9 - GERD (outdated, carried forward from prior note)
+
+MEDICATIONS:
+- Albuterol HFA inhaler PRN
+- Lisinopril 10mg daily
+- Atorvastatin 20mg daily (pt reports inconsistent adherence)
+- Multivitamin
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Noncontributory.
+
+FAMILY HISTORY: Father with MI in his 60s, mother with diabetes, otherwise noncontributory.
+
+REVIEW OF SYSTEMS: Positive for exertional chest discomfort as above and mild fatigue. Negative for fever, chills, unintentional weight loss, cough, hemoptysis, edema, or syncope. Remaining systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% on room air, Temp 98.4F
+General: Well-appearing elderly male in no acute distress
+Cardiovascular: Regular rate and rhythm, no murmurs rubs or gallops, no JVD, no peripheral edema
+Respiratory: Clear to auscultation bilaterally, mild expiratory wheeze noted, consistent with known asthma
+Abdomen: Soft, nontender, nondistended
+Extremities: No cyanosis clubbing or edema
+Neuro: Alert and oriented x3, no focal deficits
+
+LABS/DATA REVIEWED:
+Recent BMP notable for creatinine 1.6, eGFR 42, consistent with known CKD stage 3. Lipid panel from last year showed LDL 118. EKG performed today shows normal sinus rhythm, no acute ST changes, nonspecific T wave flattening in the inferior leads.
+
+ASSESSMENT:
+Mr. Clark is a 79 year old man presenting with exertional chest discomfort concerning for possible angina, in the setting of CKD stage 3 and asthma. Differential includes stable angina, GERD exacerbation, or musculoskeletal etiology, though the exertional pattern is somewhat reassuring for a cardiac etiology.
+
+PLAN:
+1. Obtain stress echocardiogram given exertional symptom pattern; will coordinate timing given renal function to minimize contrast exposure if further imaging needed.
+2. Continue current medications, reinforce adherence with atorvastatin.
+3. Consider low dose ASA pending discussion with PCP given renal function.
+4. Encourage continued daily walks as tolerated, monitor symptoms closely, patient to call if symptoms worsen or occur at rest.
+5. Follow up in cardiology clinic in 2-3 weeks with stress test results, sooner if symptoms worsen.
+6. Renal function to be monitored per nephrology recs, will fax note to Dr. Osei's office.
+7. Discussed general cardiovascular risk reduction strategies including diet and exercise, patient verbalizes understanding.
+8. Screening discussions regarding age appropriate preventive care were had in general terms, no specific imaging ordered today for that purpose.
+
+Thank you again for this interesting referral, will keep you updated as workup proceeds. Please do not hesitate to reach out with questions.
+
+Sincerely,
+Rachel Goldberg, MD
+Cardiology
+
+ADDENDUM (later same day, 05/29/2024, 4:45pm):
+Spoke with patient by phone after he returned home, he reports feeling well since the visit and denies any new chest discomfort this afternoon. He was reminded to call immediately or go to the ER if symptoms recur or worsen. Stress echo order submitted, scheduling to follow within 1-2 weeks. No changes to plan otherwise. Chart reviewed once more, social history confirmed as noncontributory, no additional history obtained at this time.

@@ -1,0 +1,61 @@
+CARDIOLOGY VISIT NOTE
+Patient: Leonard Henderson | DOB: 09/24/1965 | Age: 60 | Sex: M
+Date of Service: 09/29/2025
+Provider: Steven Park, MD
+Visit type: Heart failure follow-up
+
+--- NURSE INTAKE ---
+Vitals: BP 128/78, HR 76, RR 18, SpO2 94% RA, Wt 198 lb, Temp 98.2F
+Chief complaint: f/u heart failure, mild increase in ankle swelling over past week, denies chest pain.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+Smoking hx: pt smoked 3 packs per day from 1982 until 2009
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired machinist
+Living situation: Not on file
+Exercise: sedentary due to dyspnea on exertion
+
+Allergies: NKDA
+Current meds reviewed with pt: carvedilol 12.5mg BID, furosemide 40mg daily, lisinopril 10mg daily, spironolactone 25mg daily, atorvastatin 40mg qHS, aspirin 81mg daily, tiotropium inhaler daily, albuterol PRN, potassium chloride 20mEq daily
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr Henderson is a 60 year old male with history of coronary artery disease and COPD who returns today for routine heart failure follow up he reports mild worsening of bilateral ankle edema over the past week no orthopnea no PND denies chest pain palpitations or syncope he states his breathing has been stable at his usual baseline given his COPD he did note some increased fatigue with exertion which he attributes to the heat this past week he is compliant with his diuretic and other cardiac medications he denies any dietary indiscretion though admits to eating out more than usual over the weekend [inaudible] he also mentions occasional cough productive of clear sputum which is chronic per his COPD history he is a former smoker as noted in social history he continues to use his tiotropium and albuterol as prescribed for COPD management.
+
+Review of Systems:
+Constitutional: denies fever chills unintentional weight loss
+Cardiovascular: + mild bilateral lower extremity edema, denies chest pain, denies palpitations
+Respiratory: chronic cough stable, denies hemoptysis, denies acute dyspnea at rest
+GI: denies nausea vomiting diarrhea constipation
+GU: denies dysuria hematuria
+Musculoskeletal: denies joint pain
+Neuro: denies headache dizziness syncope
+Psych: denies depression anxiety
+Skin: denies rash
+All other systems reviewed and negative
+
+Physical Exam:
+General: well-appearing male in no acute distress
+HEENT: normocephalic atraumatic, PERRLA, oropharynx clear
+Neck: no JVD appreciated at 45 degrees, no carotid bruits
+Cardiovascular: regular rate and rhythm, S1 S2 normal, no S3 or S4, no murmurs rubs or gallops appreciated
+Lungs: mild bibasilar crackles, no wheezes, mild prolonged expiratory phase consistent with known COPD
+Abdomen: soft nontender nondistended, no hepatosplenomegaly
+Extremities: 1+ bilateral pitting edema to mid shin, no calf tenderness
+Skin: warm dry intact
+Neuro: alert and oriented x3, no focal deficits
+
+Labs reviewed today: BNP mildly elevated at 340 (baseline 280-320), Cr 1.1, K 4.3, Na 138
+
+Assessment and Plan:
+1. Heart failure, mildly decompensated - given mild increase in edema and BNP will increase furosemide to 40mg BID for one week then reassess, reinforce low sodium diet, daily weights, call if weight gain >3lbs in 2 days
+2. Coronary artery disease - continue current regimen of aspirin, atorvastatin, carvedilol, stable at this time no new anginal symptoms
+3. COPD - continue tiotropium and albuterol PRN, patient is a former smoker as documented in social history, pulmonary function tests to be reviewed at next visit
+4. Tobacco use history - patient reports having smoked 3 packs per day from 1982 until 2009, now a former smoker, general discussion held regarding tobacco-related health risks
+5. Follow up in cardiology clinic in 4 weeks or sooner if symptoms worsen, will also coordinate with pulmonology for COPD management
+
+Patient verbalized understanding of plan and agreed with above, all questions answered today, follow up appointment scheduled with front desk staff prior to leaving clinic today 09/29/2025.
+
+Electronically signed by Steven Park, MD

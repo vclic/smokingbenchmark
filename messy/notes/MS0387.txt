@@ -1,0 +1,73 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: William Rodriguez
+DOB: 5/12/1965 (Age 58)
+Sex: M
+Date of Service: 05/12/2023
+Provider: Priya Raman, MD
+
+CHIEF COMPLAINT: Cough x several days.
+
+HPI: Mr. Rodriguez is a 58-year-old male presenting today, 5/12/2023, with a complaint of persistent cough. He states, "It's been about a week now, mostly dry, worse at night." Denies fever, denies hemoptysis. He reports some post-nasal drip and mild sore throat. No recent travel. He denies any chest pain or shortness of breath at rest but notes some exertional dyspnea with stairs, which he attributes to being "out of shape lately." He was asked about tobacco use; he states, "I've never smoked a cigarette in my life, not even one." On further questioning regarding nicotine products, he reports, "I do vape though - I use a nicotine vape pen every day, has been part of my routine for a while now, but I've never smoked actual cigarettes." He denies alcohol use beyond occasional social drinking. He is followed for OSA on CPAP, hypertension, osteoporosis, and GERD.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/03/2021 ---
+HPI (from 11/03/2021 visit, Dr. A. Feldman): Patient presents for follow-up of hypertension and OSA. Reports good adherence to CPAP with reported improvement in daytime somnolence. Blood pressure readings at home reportedly averaging 138/86. No chest pain, no palpitations. GERD symptoms controlled on current regimen, occasional breakthrough heartburn with spicy food. Osteoporosis noted on DEXA scan, currently on treatment. Patient denies falls. Review of systems otherwise negative. Plan: continue current medications, recheck BP at next visit, follow up DEXA in 2 years.
+--- END COPIED FORWARD SECTION ---
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports fatigue.
+Eyes: No visual changes.
+ENT: Mild sore throat, post-nasal drip. No ear pain.
+Cardiovascular: No chest pain, no palpitations, no edema.
+Respiratory: Positive for cough as above. Denies wheezing, denies hemoptysis, denies significant dyspnea at rest.
+Gastrointestinal: Occasional heartburn, no nausea, no vomiting, no change in bowel habits.
+Genitourinary: No dysuria, no frequency.
+Musculoskeletal: No joint pain, no swelling.
+Skin: No rashes.
+Neurologic: No headache, no dizziness.
+Psychiatric: No depression, no anxiety reported.
+Allergic/Immunologic: No known drug allergies.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 76, BP 132/84, RR 16, SpO2 97% on room air, Wt 198 lb, Ht 5'10"
+General: Alert, well-appearing male, no acute distress.
+HEENT: Normocephalic, atraumatic. Oropharynx mildly erythematous, no exudate. Nasal mucosa mildly edematous.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, no rales, no rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing.
+Skin: Warm, dry, intact.
+Neurologic: Alert and oriented x3, no focal deficits.
+Psychiatric: Mood and affect appropriate.
+
+PROBLEM LIST:
+1. Obstructive sleep apnea (G47.33) - on CPAP
+2. Essential hypertension (I10)
+3. Osteoporosis without current pathological fracture (M81.0)
+4. GERD (K21.9)
+5. Seasonal allergic rhinitis (J30.2) - outdated, resolved per patient report
+6. Tobacco use disorder (Z72.0) - NOTE: outdated entry, to be reconciled; patient reports lifelong non-smoker, see HPI
+
+MEDICATIONS:
+1. Lisinopril 20 mg PO daily
+2. Alendronate 70 mg PO weekly
+3. Omeprazole 20 mg PO daily
+4. Calcium carbonate/Vitamin D3 supplement daily
+5. Vitamin D3 2000 IU daily
+6. Amlodipine 5 mg PO daily
+7. Multivitamin daily
+8. CPAP therapy nightly (device, not medication)
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral upper respiratory infection vs. post-nasal drip related. Supportive care recommended, increase fluids, consider OTC antitussive. Return if worsening, fever, or hemoptysis develops.
+2. Nicotine vape use - discussed daily use of nicotine vape pen; advised on health risks of vaping and encouraged cessation counseling resources. Patient denies any cigarette smoking history.
+3. Hypertension - stable, continue current regimen.
+4. OSA - continue CPAP, reports good adherence.
+5. Osteoporosis - continue alendronate, follow up with PCP for surveillance DEXA per prior plan.
+6. GERD - continue omeprazole, symptoms well controlled.
+7. Update problem list to correct outdated tobacco use disorder code - to be addressed with PCP given patient reports never having smoked cigarettes.
+
+Signed: Priya Raman, MD
+
+--- ADDENDUM (same day, later) ---
+Addendum 5/12/2023 1610: Patient called clinic after leaving to clarify that his cough seems to be improving slightly since this morning's visit. He was reassured supportive care is appropriate and to call back or return to urgent care if symptoms worsen. No new medications prescribed. Reiterated recommendation to consider reducing/discontinuing nicotine vape use given daily habit noted in today's visit. -Priya Raman, MD

@@ -1,0 +1,89 @@
+Cardiology Progress Note
+
+Patient: PEREZ, Michael    MRN: 72872672
+DOB: 06/20/1949    Age: 76 y.o.    Sex: Male
+Date of Service: 08/05/2025    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• CHF follow-up
+
+Subjective:
+Michael Perez is a 76 y.o. male who presents for heart failure follow-up.
+Weight stable on home scale. Sleeps on 1 pillow, no PND. No LE edema. Last echo 12/5/2024: EF 30%.
+
+Past Medical History:
+Diagnosis	Date
+• CAD s/p CABG x3 (2024)
+• Essential hypertension	1998
+• Chronic kidney disease stage 3a
+• T2DM without complication
+• Heart failure with reduced ejection fraction	2006
+• Former smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral
+• Left inguinal hernia repair (1993)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• carvedilol 12.5 mg BID
+• metformin 500 mg BID
+• furosemide 40 mg daily
+• clopidogrel 75 mg daily
+• lisinopril 10 mg daily
+• sacubitril-valsartan 49/51 mg BID
+• amlodipine 5 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 1/2 ppd x57y; quit when he had bypass surgery in 2024
+Social History Narrative
+  Lives with wife in a single-family home.
+  Retired mechanic.
+  Social drinker.
+  Drives.
+
+Family History
+Father - AAA repair. Mother - HTN, DM2.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 153/84 (BP Location: Right arm, Patient Position: Sitting) | Pulse 72 | Temp 97.4 °F (Oral) | Resp 16 | Ht 5' 9" | Wt 152 lb | SpO2 99% | BMI 22.51 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Benign
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (03-Jul-2025): A1c 8.8%, Cr 1.13, K 4.2
+
+Assessment & Plan
+1. Heart failure
+   Stable; continue current regimen, daily weights.
+
+f/u 6 mo
+
+Electronically signed by Daniel Reyes, MD on 08/05/2025

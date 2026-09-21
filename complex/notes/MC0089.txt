@@ -1,0 +1,57 @@
+NURSE INTAKE
+Date of Service: 06/20/2025
+Patient: Mei Green, F, DOB 05/25/1952 (age 73)
+Visit type: New patient visit, establish care - Primary Care
+
+Vitals: BP 138/82, HR 78 irreg irreg, RR 16, Temp 97.8F, Wt 142 lb, Ht 5'3", BMI 25.2
+Allergies: NKDA
+Meds reconciled: Metformin 1000mg BID, Apixaban 5mg BID (per pt report, bottle not brought)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Not on file
+Occupation: Retired seamstress
+Living situation: Lives alone
+Exercise: Not on file
+Diet: Not on file
+
+---COPIED FORWARD FROM VISIT 11/14/2019 (Dr. A Feldman, outside clinic)---
+Pt is a 67yo female here for f/u of htn and dm2. Reports occasional dizzness, denies chest pain, denies SOB. A1c last checked 7.1. Continues on metformin. BP well controlled on current regimine. Denies falls. Denies vision changes. Pt independant in ADLs, drives self to appts. Will recheck labs in 6 months and f/u prn. (Note: this text block appears to be carried over from a prior EHR system migration and may not reflect current status.)
+---END COPIED TEXT---
+
+PROBLEM LIST (per chart, some entries may be outdated):
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Atrial fibrillation, unspecified
+- I10 Essential hypertension (unclear if still active, no recent BP meds listed)
+- M17.9 Osteoarthritis of knee, bilateral (2016, chronic)
+- Z87.891 Personal history of nicotine dependence
+
+PHYSICIAN PROGRESS NOTE
+Rachel Goldberg, MD
+
+HPI: Ms Green is a 73-year-old woman, DOB 5/25/1952, presenting to establish care in primary care as new patient, date of service 6/20/2025. She recently relocated to be closer to family and has not had regular medical care in several years. She reports her diabetes and atrial fibrillation have been managed by an outside provider previously, records requested but not yet on file. She denies chest pain, palpitations at rest, or syncope. She endorses occassional fatigue. No recent hospitalizations reported.
+
+Tobacco history reviewed in detail with patient today. She reports smoking about a quarter pack (approx 5 cigarettes) per day for 5 years, then increasing to about three-quarters of a pack (approx 15 cigarettes) per day for 12 years, after which she quit smoking entirely. She states she quit smoking 4 years after she moved to this state, which she recalls was in 1982. She confirms she no longer smokes and has not resumed since quitting. No vaping or other nicotine products reported. Lung cancer screening was discussed briefly given her tobacco history; she will consider and we will revisit at next visit.
+
+ROS: Constitutional - denies fever, chills, unintended weight loss. Cardiac - denies chest pain, orthopnea, PND, notes occasional palpitations. Endocrine - denies polyuria, polydipsia. Musculoskeletal - chronic bilateral knee pain, stable. All other systems reviewed and negative except as noted above.
+
+Physical Exam:
+General: Well-appearing, no acute distress
+CV: Irregularly irregular rhythm, no murmurs appreciated, no peripheral edema
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abd: Soft, nontender, nondistended
+Ext: No edema, pulses intact
+Skin: No rashes or lesions noted
+
+Assessment/Plan:
+1. Type 2 diabetes mellitus (E11.9) - will obtain A1c, CMP, lipid panel today. Continue metformin, reinforce diet/exercise.
+2. Atrial fibrillation (I48.91) - continue apixaban, will obtain EKG and TSH, refer to cardiology for f/u given lapse in care.
+3. Hypertension (I10) - BP borderline elevated today, will monitor, consider initiating therapy if persistently elevated on recheck.
+4. Osteoarthritis, bilateral knees (M17.9) - stable, continue acetaminophen prn, discussed PT referral.
+5. Former tobacco use (Z87.891) - patient no longer smokes; discussed general health maintenance and preventive screenings; will revisit lung cancer screening discussion at future visit once records obtained.
+6. Health maintenance - due for mammogram, colonoscopy, vaccines to be reviewed; records requested from prior clinic.
+
+Return to clinic in 4 weeks with labs, sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Rachel Goldberg, MD

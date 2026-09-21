@@ -1,0 +1,60 @@
+Vascular Surgery Progress Note
+Patient: Theresa Coleman | DOB: 1/26/1953 | Age: 71
+Date of Service: 12/15/2024
+Author: Quentin Hale, PA-C
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease, bilateral lower extremity claudication.
+
+HPI: Ms Coleman is a 71 yo female with hx of HTN, PAD, OA, T2DM, and COPD who returns to clinic for f/u of claudication symptoms. She reports intermittant left calf pain with ambulation, improved somewhat since starting cilostazol. She denies rest pain, ulceration, or gangrene changes to feet. She notes some increased fatigue but attributes this to poor sleep. No CP, no palputations, no syncope. Diabetes reportedly well controlled per pt report, checks fingerstick glucose at home most days.
+
+PAST MEDICAL HISTORY: HTN, PAD, osteoarthritis, T2DM, COPD (on inhalers, uses albuterol PRN).
+
+MEDICATIONS: Lisinopril 20mg daily, cilostazol 100mg BID, metformin 1000mg BID, atorvastatin 40mg qhs, tiotropium inhaler daily, albuterol inhaler PRN, acetaminophen PRN for joint pain.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Patient lives alone, ambulates with cane. Occupation: retired school administrator. Alcohol: denies. Tobacco: patient declined to discuss tobacco use, deferred question when asked, status not obtained at this visit. Diet: reports trying to follow low carb diet. Exercise: limited by claudication.
+
+FAMILY HISTORY: Father with CAD, mother with T2DM, noncontributory otherwise.
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. CV: no CP, claudication as above. Resp: chronic cough stable, no hemoptysis, no acute SOB. GI: no nausea vomiting. GU: no dysuria. MSK: chronic knee pain bilat, stable. Skin: no new lesions, feet checked no ulcers noted. Neuro: no focal deficits.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, T 98.2F, Wt 172 lbs, Ht 5'4", BMI 29.5
+General: well-appearing, NAD, ambulates with cane
+CV: RRR, no murmur, diminished bilateral femoral and popliteal pulses, DP/PT pulses faintly palpable bilat
+Resp: mild expiratory wheeze bilat bases, no acute distress
+Extrem: no edema, skin intact, no ulcers, cap refill <3 sec bilat, hair loss noted on lower legs
+Abd: soft, non-tender, no bruit appreciated on auscultation today (prior visit noted faint bruit, unclear significance)
+
+LABS/RESULTS:
+ABI performed 12/15/2024: Right 0.68, Left 0.61 (consistent with moderate PAD)
+HbA1c (11/02/2024): 7.2%
+Lipid panel (11/02/2024): TC 178, LDL 96, HDL 42, TG 150
+BMP (11/02/2024): Cr 1.0, eGFR 68, glucose 142
+CBC (10/15/2024): WBC 6.8, Hgb 13.1, Plt 245
+CXR (08/2023, outdated): no acute cardiopulmonary process, mild hyperinflation c/w COPD
+
+PROBLEM LIST:
+I73.9 - Peripheral vascular disease, unspecified
+I10 - Essential hypertension
+M19.90 - Osteoarthritis, unspecified site (chronic, stable)
+E11.9 - Type 2 diabetes mellitus without complications
+J44.9 - Chronic obstructive pulmonary disease, unspecified
+Z87.891 - Personal history of nicotine dependence (carried forward from old chart, status unclear, see SH note this visit)
+I25.10 - Coronary artery disease (outdated entry, no supporting documentation found in chart, to be reviewed)
+
+ASSESSMENT/PLAN:
+71 yo female here 12/15/2024 for PAD follow up.
+
+1. PAD (I73.9): ABI today shows moderate disease bilat, worse on left. Continue cilostazol, follow up on symptom improvement. Discussed importance of walking program for claudication. Lung cancer screening was discussed but deferred until smoking history can be obtained, as tobacco use status could not be determined today given patient declined to answer questions on this topic. Will re-address at next visit.
+2. HTN (I10): BP still elevated today at 148/86, will increase lisinopril to 30mg daily, recheck in 4 weeks.
+3. T2DM (E11.9): A1c 7.2%, reasonably controlled, continue metformin, reinforced diet and exercise counseling.
+4. COPD (J44.9): Stable, mild wheeze on exam today, continue current inhaler regimen, no signs of acute exacerbation.
+5. Osteoarthritis (M19.90): Stable, continue acetaminophen PRN, discussed activity modification given PAD limitations as well.
+6. Health maintenance: Updated problem list, old CAD dx (I25.10) flagged for review as no supporting records found. Tobacco use status not obtained this visit - will attempt again at follow up, important given COPD and PAD history.
+
+Follow up in 4-6 weeks or sooner if symptoms worsen. Patient given instructions to call if experiencing rest pain, ulceration, or color changes to feet.
+
+Quentin Hale, PA-C
+Electronically signed 12/15/2024

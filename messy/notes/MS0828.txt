@@ -1,0 +1,53 @@
+Pulmonology Follow-up (Resident Note with Attending Attestation)
+Patient: Sharon Nelson, F, DOB 4/15/1956 (age 69)
+Date of Service: 11/02/2025
+Author: Owen Fitzgerald, MD (Resident), attestation by attending pulmonologist below
+
+HPI:
+Ms. Nelson is a 69-year-old woman with history of hypertension, GERD, and hyperlipidemia who presents for follow-up after a recent ED visit for COPD exacerbation. She reports gradual improvement in dyspnea and cough since discharge, now off supplemental prednisone taper as of yesterday. She denies fevers or chest pain. She continues to smoke about half a pack (roughly 10 cigarettes) per day, a habit she has maintained for 47 years. She has expressed interest in quitting and a target quit date of 11/25/2025 has been set, though she remains an active smoker at this visit. She uses albuterol PRN with some relief. No hemoptysis or unintentional weight loss reported.
+
+Social History (EHR Template):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Former drinker, quit 2017
+Drinks/week: N/A
+Illicit drug use: Denies
+Living situation: Lives alone
+Occupation: Retired
+Exercise: Sedentary, limited by dyspnea
+
+Review of Systems:
+Respiratory: Chronic cough, mild wheeze, improved from prior week
+Cardiac: No chest pain, no palpitations
+GI: Occasional heartburn, on PPI
+Constitutional: No fevers, no weight loss
+
+Physical Exam:
+Vitals: BP 138/82, HR 84, RR 18, SpO2 93% on room air, Temp 98.2F
+General: Alert, in no acute distress, speaking in full sentences
+Lungs: Diffuse expiratory wheeze, mildly prolonged expiratory phase, no crackles
+CV: Regular rate and rhythm, no murmurs
+Abdomen: Soft, nontender
+Extremities: No edema
+
+Labs/Results:
+11/01/2025 CBC: WBC 8.9, Hgb 13.1, Hct 39.4, Plt 245
+11/01/2025 BMP: Na 139, K 4.1, Cl 102, CO2 25, BUN 18, Cr 0.9, Glucose 101
+10/29/2025 Chest X-ray (during ED visit): Hyperinflated lungs, no acute infiltrate
+10/29/2025 ABG (ED): pH 7.36, pCO2 47, pO2 68, HCO3 27
+Spirometry (last on file, 08/2024): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstruction
+
+Assessment/Plan:
+69-year-old woman, active smoker with 47-year history of tobacco use (about half a pack/10 cigarettes daily), with recent COPD exacerbation, now improving.
+1. COPD exacerbation, resolving - continue current inhaler regimen, taper as tolerated, follow up spirometry in 4-6 weeks.
+2. Tobacco use disorder - reinforced counseling on cessation; patient has set a target quit date of 11/25/2025; discussed nicotine replacement options and referral to tobacco cessation program. Lung cancer screening was discussed as part of preventive care conversation.
+3. Hypertension - stable, continue current antihypertensive regimen.
+4. GERD - stable on PPI, no changes.
+5. Hyperlipidemia - continue statin, recheck lipid panel at next visit.
+Follow up in pulmonology clinic in 4 weeks or sooner if symptoms worsen.
+
+Attending Attestation: I have personally seen and examined the patient, reviewed the resident's documentation, and agree with the assessment and plan as outlined above.
+- Attending Pulmonologist

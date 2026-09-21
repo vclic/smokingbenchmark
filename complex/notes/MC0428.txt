@@ -1,0 +1,50 @@
+NURSE INTAKE
+Patient: Rita Kim, F, DOB 09/05/1948 (age 76)
+Date of Service: 09/05/2024
+Provider: Kevin Osei, MD
+Internal Medicine - Pre-operative evaluation for total knee replacement
+
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Wt 154 lb, Ht 5'4"
+
+Chief complaint: Pre-op medical clearance for R knee arthroplasty.
+
+HPI (per patient interview):
+Ms. Kim is a 76-year-old woman with history of depression and hyperlipidemia who presents today for pre-operative evaluation prior to scheduled right total knee replacement. She states, "My knee has gotten so bad I can barely walk to the mailbox anymore." She reports pain worse with weight bearing, some night pain, and has tried NSAIDs and PT without significant relief. She denies chest pain, palpitations, or shortness of breath with exertion. She states, "I want to make sure my heart is okay before they do this surgery."
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never smoker
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional wine
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Limited due to knee pain
+
+ROS: Positive for chronic knee pain. Negative for fevers, chest pain, dyspnea, cough, hemoptysis. Depression screening stable per patient, on current regimen. Denies SI/HI.
+
+Medications: Sertraline 50 mg daily, Atorvastatin 20 mg nightly, Acetaminophen PRN, Multivitamin daily.
+
+Allergies: NKDA
+
+Physical Exam:
+General: Well-appearing, no acute distress, ambulates with antalgic gait favoring right leg.
+Cardiac: RRR, no murmurs/rubs/gallops.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Extremities: No edema. Right knee with crepitus, decreased ROM, no effusion appreciated today.
+Skin: No rashes or lesions.
+
+Labs reviewed: CBC, BMP, coagulation panel within normal limits. Lipid panel shows LDL 118, on treatment. EKG: normal sinus rhythm, no acute changes.
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation for R total knee replacement - Patient is a 76-year-old lifelong non-smoker with stable depression and hyperlipidemia. Cardiac and pulmonary risk assessment reassuring based on today's exam, labs, and EKG. Cleared for surgery from an internal medicine standpoint pending anesthesia evaluation.
+2. Depression - Stable on sertraline, continue current dose. No changes needed at this time.
+3. Hyperlipidemia - Continue atorvastatin 20 mg nightly. LDL near goal, recheck lipid panel in 6 months.
+4. Health maintenance - Discussed age-appropriate screenings including colon cancer screening status; patient states up to date. Discussed importance of maintaining bone health and fall prevention post-operatively given planned knee surgery.
+5. Pre-op instructions reviewed regarding NPO status, medication management day of surgery, and anesthesia pre-op appointment.
+
+Follow-up: Post-operatively as needed, sooner if concerns arise. Patient verbalized understanding of plan.
+
+Electronically signed: Kevin Osei, MD, 09/05/2024

@@ -1,0 +1,76 @@
+Vascular Surgery Telehealth Visit
+Date of Service: 06/06/2024
+Author: Brian Okonkwo, MD
+
+Patient: Darnell Wright, M, DOB 01/29/1954 (age 70)
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease (PAD) evaluation, claudication symptoms.
+
+HPI: Mr. Wright is a 70-year-old male with history of HTN, HLD, and atrial fibrillation, presenting via telehealth for reassessment of bilateral lower extremity claudication. He reports pain in his calves after walking approximately 1.5 blocks, improved with rest. No rest pain, no non-healing ulcers, no new numbness or color changes noted. He continues to use compression stockings intermittently. Denies chest pain, palpitations, or syncope on this visit; his AFib is being managed by cardiology with apixaban.
+
+PAST MEDICAL HISTORY: Hypertension, hyperlipidemia, atrial fibrillation, peripheral artery disease.
+
+PAST SURGICAL HISTORY: None on file.
+
+SOCIAL HISTORY (EHR templated block):
+  Tobacco use: Current every day smoker
+  Smoking history: 58 pack-year history
+  Readiness to quit: Not ready to quit at this time
+  Smokeless tobacco: Not on file
+  Alcohol use: Occasional, denies heavy use
+  Marijuana use: Uses marijuana a few times a month, recreational
+  Other substance use: Not on file
+  Occupation: Retired
+  Living situation: Lives with spouse
+
+MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Amlodipine 10 mg PO daily
+3. Lisinopril 20 mg PO daily
+4. Atorvastatin 40 mg PO nightly
+5. Metoprolol succinate 50 mg PO daily
+6. Aspirin 81 mg PO daily
+7. Cilostazol 100 mg PO BID
+8. Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND. Positive for known AFib, on anticoagulation.
+Respiratory: Denies cough, hemoptysis, dyspnea at rest. Reports mild dyspnea on exertion, stable.
+Gastrointestinal: Denies nausea, vomiting, abdominal pain, changes in bowel habits.
+Genitourinary: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Positive for bilateral calf discomfort with ambulation as above. Denies joint swelling.
+Neurological: Denies numbness, tingling, weakness, dizziness.
+Skin: Denies rashes, ulcers, non-healing wounds.
+Psychiatric: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (via video, limited):
+General: Alert, well-appearing male, no acute distress, appropriate for telehealth encounter.
+Vital signs (per home device, patient-reported): BP 138/82, HR 76 irregularly irregular, RR 16, SpO2 97% on room air (home pulse ox).
+Cardiovascular: Irregularly irregular rhythm reported by patient using home monitor; no chest pain reported.
+Respiratory: No visible respiratory distress on camera.
+Extremities: Patient shows both lower extremities on camera; no visible ulcerations, no gross edema noted; skin color appears normal without obvious pallor or cyanosis on camera, though limited by video quality. Unable to palpate pulses via telehealth; will require in-person exam for full vascular assessment.
+Skin: No rashes noted on visible areas.
+
+LABS/RESULTS (reviewed from recent visit):
+  CBC (05/20/2024): WBC 6.8, Hgb 14.1, Hct 42.3%, Plt 210
+  BMP (05/20/2024): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+  Lipid panel (05/20/2024): Total cholesterol 172, LDL 98, HDL 41, Triglycerides 165
+  HbA1c (05/20/2024): 5.7%
+  Ankle-brachial index (ABI), last performed 04/15/2024: Right 0.68, Left 0.71, consistent with mild-moderate PAD
+  INR (for monitoring, though on DOAC - not routinely checked): N/A
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, bilateral lower extremities, with claudication - stable symptoms since last visit. Continue cilostazol, aspirin, and supervised exercise therapy recommendations (walking program). Discussed lifestyle modification including smoking cessation given ongoing tobacco use and its impact on PAD progression and cardiovascular risk; patient was counseled on the benefits of quitting but states he is not ready to quit at this time. Continue to offer resources including nicotine replacement therapy and cessation counseling at future visits as he becomes more open to change. Discussed lung cancer screening in general terms as part of overall risk discussion; no imaging ordered today.
+2. Tobacco use, current, 58 pack-year history per social history block above - counseled on cessation, patient not ready to quit; will continue to readdress at each visit.
+3. Marijuana use - patient reports recreational use a few times a month; advised regarding potential interactions with cardiovascular medications and driving safety; no further action at this time.
+4. Atrial fibrillation - stable, continue apixaban, follow with cardiology as scheduled.
+5. Hypertension - well-controlled on current regimen, continue amlodipine and lisinopril.
+6. Hyperlipidemia - lipid panel reviewed, LDL within reasonable target, continue atorvastatin.
+
+Follow-up: Return to clinic in 3 months for in-person vascular exam with pulse assessment and repeat ABI as needed sooner if symptoms worsen. Patient advised to call clinic or go to ED if he develops rest pain, non-healing wounds, or acute limb ischemia symptoms (sudden pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia).
+
+Electronically signed: Brian Okonkwo, MD, Vascular Surgery, 06/06/2024

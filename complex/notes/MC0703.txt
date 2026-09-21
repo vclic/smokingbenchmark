@@ -1,0 +1,50 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 08/15/2025
+Author: Hannah Weiss, NP
+
+Patient: Susan Novak, F, DOB 07/20/1945, Age: 80
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Novak is an 80-year-old female with history of hypothyroidism, HFrEF, COPD, and depression who presents today for evaluation of intermittent chest discomfort over the past 2 weeks. She describes the pain as a dull pressure sensation, non-radiating, occurring with exertion and relieved with rest. No associated diaphoresis or syncope. She denies orthopnea or PND worsening beyond baseline. Reviewed her smoking history in detail during visit - she reports a long and variable tobacco use pattern; further details below in social history. She still smokes and is not ready to quit at this time, despite ongoing counseling today regarding cardiopulmonary risks associated with continued use.
+
+*** COPY FORWARD FROM PRIOR VISIT NOTE DATED 03/02/2024 ***
+Pt seen for routine HF follow up. Denies edema, denies weight gain >3lbs. Lungs clear to auscultation bilaterally, no wheezes appreciated today. Cardiac exam reveals regular rate and rhythm, S3 present, no new murmurs. Extremities without edema. Labs reviewed - TSH within normal limits on current levothyroxine dose. BNP stable compared to prior. Continue current medication regimen: furosemide, carvedilol, lisinopril, levothyroxine, sertraline. Follow up in 3 months or sooner if symptoms worsen. Pt advised on low sodium diet, daily weights, and smoking cessation resources offered. Pt states will consider.
+*** END COPY FORWARD ***
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: variable, see note
+Years smoked: variable, see note
+Smoking cessation counseling given: Yes
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+Additional social history note (free text, added by NP): Patient's tobacco history is complex. She reports smoking approximately a quarter pack per day (about 5 cigarettes daily) for 29 years, then stopped completely for 6 years. She subsequently restarted smoking at a higher rate, approximately three-quarters of a pack per day (about 15 cigarettes daily), for the past 26 years, and she continues to smoke at this level currently. She has not attempted to quit again since restarting.
+
+REVIEW OF SYSTEMS: Positive for exertional chest discomfort and mild dyspnea on exertion, consistent with known COPD and HFrEF. Denies fever, cough productive of sputum today, hemoptysis, or unintentional weight loss. Denies suicidal ideation; mood reportedly stable on current sertraline dose per patient report, though she endorses some ongoing low mood which will be addressed separately with her PCP.
+
+MEDICATIONS: Furosemide 20mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Levothyroxine 75mcg daily, Sertraline 50mg daily.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 94% on room air, Temp 97.8F
+General: Alert, oriented, no acute distress
+Cardiac: RRR, S3 gallop present, no new murmurs
+Lungs: Diffusely diminished breath sounds, mild expiratory wheeze bilaterally, no crackles
+Extremities: Trace bilateral lower extremity edema
+Skin: Warm, dry, no cyanosis
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely multifactorial - possible anginal equivalent vs musculoskeletal vs COPD-related. Will obtain EKG, troponin, and BNP today. Consider stress testing if initial workup unremarkable.
+2. Heart failure with reduced ejection fraction - stable at this time, continue current GDMT, monitor for volume overload.
+3. COPD - continues to have ongoing tobacco exposure as noted above. Patient still smokes and is not ready to quit despite counseling today regarding cardiopulmonary risks. Will continue current inhaler regimen and consider pulmonary function testing if not recently done. Lung cancer screening was discussed with patient given her smoking history; she will consider and follow up with PCP regarding this.
+4. Hypothyroidism - continue levothyroxine, recheck TSH at next visit.
+5. Depression - stable per patient report, continue sertraline, will defer further management to PCP given ongoing low mood symptoms.
+
+Follow up in 2 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan. All questions answered today.
+
+Electronically signed: Hannah Weiss, NP

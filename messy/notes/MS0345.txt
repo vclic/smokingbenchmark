@@ -1,0 +1,43 @@
+Telehealth visit note - Pulmonology
+Date of service: 03/30/2026
+Author: Nadia Haddad, MD
+
+Patient: Nancy Wood, F, DOB 03/30/1956 (age 70)
+
+Reason for visit: Shared decision-making re: lung cancer screening, referred from PCP for discussion given age and risk profile.
+
+HPI: Pt seen via video visit today, connection stable, pt at home. Reports no new resp sx, occasional exertional dyspnea attributed to known HFrEF, stable on current regimen per pt report. No hemoptysis no wt loss. Pt asks about "the lung xray test" she heard about from a friend - discussed general concept of screening today, benefits/risks/limitations reviewed in general terms; no imaging order placed today.
+
+Social History (EHR template):
+Tobacco use status: Former/experimental - see note
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Alcohol use: occasional, denies excess
+Drug use: denies
+Living situation: lives w/ spouse
+Occupation: retired teacher
+
+Note re: tobacco - pt states she tried a few cigarettes as a teenager but never smoked regularly, denies ever being a daily or regular smoker at any point. No pack-year hx to calculate given lack of regular use.
+
+PMH/Problem List:
+- I10 Essential hypertension
+- I25.10 Coronary artery disease, native vessel
+- G47.33 Obstructive sleep apnea
+- I50.22 Chronic systolic (congestive) heart failure - reduced EF
+- M19.90 Osteoarthritis, unspecified site (outdated entry, likely knee per prior note)
+- (old) J45.909 Asthma - appears carried over, pt denies asthma hx, consider removing
+
+Meds: metoprolol succ, lisinopril, atorvastatin, furosemide, CPAP nightly for OSA
+
+Exam: limited via telehealth. Pt appears comfortable, speaking full sentences no resp distress noted on cam. No acute distress. Vitals per home cuff reported by pt: BP 128/76 HR 68.
+
+Assessment: 70 yo woman here for lung ca screening SDM visit. Given her tobacco history (experimental use only as teen, never a regular smoker), formal screening risk calculators largely not applicable in the way they would be for a pt w a significant pack-year hx. Discussed general screening concepts, pt understands, has no further questions today.
+
+Plan:
+- Continue routine cardiac and OSA management w PCP/cardiology
+- f/u with PCP for HTN, CAD, HFrEF management
+- Discussed screening in general terms today; no imaging ordered
+- Return to clinic PRN or as referred
+
+Electronically signed: Nadia Haddad, MD

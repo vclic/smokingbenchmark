@@ -1,0 +1,62 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: George Carter | DOB: 03/16/1956 | Age: 69 | Sex: M
+Date of Service: 03/16/2025
+Provider: Brian Okonkwo, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/84, HR 76, RR 16, Temp 97.8F, SpO2 94% RA, Wt 198 lb, Ht 5'10"
+Chief complaint: Here for annual wellness visit.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Smoking details: Pt reports smoked 1.5 packs/day for 17 years, then cut back to about a quarter pack (approx 5 cigarettes) per day for 32 years before quitting. No longer smokes.
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired - former machinist
+Living situation: Lives with spouse
+Exercise: Not on file
+
+PROBLEM LIST (per chart, some entries outdated):
+- E79.0 Gout - stable, not currently flaring
+- E03.9 Hypothyroidism - on levothyroxine
+- J44.9 COPD - moderate, on inhalers
+- I10 Essential hypertension
+- M17.9 Osteoarthritis knee (old dx, resolved per pt, kept for now)
+- Z87.891 Personal history of nicotine dependence
+
+[COPIED FORWARD FROM VISIT 09/12/2022 - left in chart, not updated]
+Pt here for f/u of COPD and HTN. Reports occasional SOB with exertion, denies chest pain. Lungs w/ mild expiratory wheeze bilat. Continue tiotropium and albuterol PRN. BP well controlled on lisinopril 20mg daily. Gout quiescent, last flare >1 yr ago, continues allopurinol 300mg daily. TSH last checked 6 mo ago, WNL on current levothyroxine dose. Discussed diet, exercise, fall precautions. RTC in 6 months or sooner if symptoms worsen. -B. Okonkwo, MD, 09/12/2022
+[END COPIED TEXT]
+
+--- PHYSICIAN PROGRESS NOTE (03/16/2025) ---
+HPI: Mr. Carter is a 69-year-old male, DOB 3/16/1956, presenting today for his annual wellness visit. He reports feeling generally well. No new complaints. Reviews of systems largely negative aside from occasional exertional dyspnea, chronic per his COPD. Denies fevers, chest pain, palpitations, hemoptysis, unintentional weight loss.
+
+Past medical history reviewed: gout, hypothyroidism, COPD, hypertension - all as above.
+
+Tobacco: Former smoker, no longer smokes. Smoking hx notable - pt describes smoking a pack and a half per day for 17 years earlier in life, later cutting down to roughly a quarter pack daily (about 5 cigs/day) for 32 years, then eventually stopped altogether. He did not provide, and I did not press for, an exact quit date at this visit - he was somewhat vague when asked about timing. Encouraged continued abstinence and praised his progress in cutting down and quitting over the years.
+
+Exam:
+Gen: well-appearing, NAD.
+HEENT: unremarkable.
+CV: RRR, no murmurs.
+Resp: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use.
+Abd: soft, nontender.
+Ext: no edema, no active gout tophi noted.
+
+Labs/Results (recent, on file):
+TSH 01/15/2025: 2.1 uIU/mL (WNL)
+Uric acid 02/03/2025: 5.8 mg/dL (WNL)
+CBC 02/03/2025: WNL
+BMP 02/03/2025: Cr 0.9, K 4.1, Na 140 - WNL
+Spirometry 11/2024: FEV1/FVC 62%, consistent with moderate COPD.
+
+Assessment/Plan:
+1. Gout - stable, continue allopurinol, no flare in some time.
+2. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 mo.
+3. COPD - stable on current inhaler regimen, continue tiotropium and albuterol PRN, reviewed inhaler technique.
+4. Hypertension - well controlled, continue lisinopril.
+5. Tobacco history - discussed his significant past smoking history including the extended period of heavier use followed by cutting back before quitting entirely; discussed general risks of prior tobacco use given his COPD and age; lung cancer screening was discussed in general terms as part of preventive care conversation appropriate for his history.
+6. Health maintenance - up to date on colonoscopy, will schedule vaccines (flu already given this season, discussed shingles vaccine).
+Return to clinic in 6 months or sooner as needed.
+
+Electronically signed: Brian Okonkwo, MD, 03/16/2025

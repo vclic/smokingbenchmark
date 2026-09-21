@@ -1,0 +1,49 @@
+PROGRESS NOTE
+Date of Service: 2/2/2024
+Patient: Paula Jenkins   DOB: 12/7/1950   MRN: 75889491
+
+S:
+CC: 3 month follow-up
+HPI: Ms. Jenkins is a 73-year-old female with a history of COPD, HTN, OA, and AFib who presents for routine follow-up of chronic conditions. Doing okay overall. Ran out of one medication last week.
+
+PMH:
+- HTN
+- Chronic obstructive pulmonary disease
+- Atrial fibrillation
+- Primary OA, bilateral knees
+PSH: Lumpectomy, benign; C-section x2 (2020)
+Meds: acetaminophen 500 mg 2 tabs TID PRN; rivaroxaban 20 mg daily; losartan 100 mg daily; diltiazem ER 120 mg daily; hydrochlorothiazide 25 mg daily; albuterol HFA 2 puffs q4-6h PRN; umeclidinium-vilanterol 62.5/25 1 inh daily
+Allergies: Shellfish
+Social History:
+- Lives in assisted living.
+- Retired postal worker.
+- She smokes half a pack a day.
+- Drinks a glass of wine with dinner.
+- No IVDU.
+FH: Mother - CHF, d. age 88.
+ROS: Skin neg, Neuro neg, Resp +, GI neg, MSK neg, GU neg
+
+O:
+Vitals: BP: 149/83  HR: 81  RR: 16  Temp: 98.0 F  SpO2: 92% on RA  Wt: 155 lbs  BMI: 23.6
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (1/5/24): Cr 0.92, K 4.8
+
+ASSESSMENT/PLAN:
+1. Chronic obstructive pulmonary disease
+   - No exacerbations since last visit. Continue maintenance inhaler.
+2. HTN: Elevated today; home BP log requested.
+3. Tobacco use disorder: Advised to quit; >4 min spent counseling. She is motivated to quit. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID. Meets USPSTF criteria for LCS - LDCT ordered.
+4. Atrial fibrillation: Rate controlled; continue anticoagulation.
+
+RTC 3 months.
+
+Anita Patel, MD

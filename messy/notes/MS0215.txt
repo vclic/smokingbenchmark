@@ -1,0 +1,59 @@
+NURSE INTAKE
+DOS: 09/12/2024
+Pt: Walter Kim, M, DOB 09/12/1946, age 78.
+Visit type: Lung ca screening SDM visit - Pulm.
+VS: BP 138/82, HR 76, RR 16, SpO2 94% RA, Wt 182 lb.
+CC: "They said I should come talk about a scan for my lungs."
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Current smoker
+Type: Cigarettes
+Years smoked: 58 years
+Packs/day: [blank]
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: Not on file
+Drug use: Not on file
+
+PMH: COPD, HTN.
+Meds: albuterol inh prn, tiotropium, lisinopril.
+Allergies: NKDA.
+
+---
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+DOS: 09/12/2024
+
+HPI: 78 yo M w/ hx COPD and HTN presents for shared decision-making visit re: lung cancer screening. Pt states, "I've smoked a long time, since I was a young man, I just never could quit." Denies hemoptysis, denies unintentional wt loss. Occasional dyspnea on exertion, stable per pt. No new cough. Referral placed by PCP after routine visit given his tobacco hx.
+
+Pt reports frustration trying to quit in past, "I've tried the patches, didn't do much for me." No current interest in cessation meds today but open to d/c further at next visit.
+
+COPIED FROM NOTE DATED 6/12/2021 (prior SH documentation, unchanged fields left as originally charted):
+"Tobacco: current smoker, cigarettes. No quantity documented in that note."
+This is retained here per templated copy-forward function; current visit reconfirms status below.
+
+ROS: Resp - occasional DOE, no wheeze today per pt. CV - no CP, no palpitations. Constit - no fevers, no wt loss. All other systems reviewed and negative.
+
+PE:
+Gen: NAD, comfortable, conversant.
+HEENT: nl.
+Neck: no LAD, no JVD.
+CV: RRR, no m/r/g.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+Abd: soft, NT/ND.
+Ext: no clubbing, no edema.
+Skin: no lesions.
+
+Assessment:
+1. Tobacco use disorder - pt currently smokes cigarettes, 58 yr smoking hx per pt report.
+2. COPD - stable, on dual inhaler regimen.
+3. HTN - controlled on current regimen.
+4. Lung cancer screening - general discussion held with pt today regarding purpose of screening, potential risks (false positives, incidental findings, radiation exposure, overdiagnosis) and potential benefits. No determination of eligibility made or discussed in this note; no imaging ordered today. Pt verbalizes understanding of discussion.
+
+Plan:
+- Continued SDM discussion regarding lung cancer screening; pt to consider info provided and follow up with PCP/pulm as needed.
+- Reinforced smoking cessation counseling; offered resources including quitline info and cessation clinic referral.
+- Continue current COPD and HTN regimen.
+- F/u pulm in 3 mo or sooner if worsening resp sx.
+- Pt given handout on tobacco cessation and screening decision aid.
+
+Electronically signed: Owen Fitzgerald, MD, 09/12/2024.

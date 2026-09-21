@@ -1,0 +1,41 @@
+Cardiology H&P — DOS 09/16/2024
+Author: Priya Raman, MD
+
+Pt: Gary Novak, M, DOB 6/7/1944, 80 y/o male, here for HF follow-up.
+
+HPI: Returns for routine CHF f/u. Reports mild DOE w/ 2 flights stairs, no PND/orthopnea. Wt stable per pt, no home scale. Compliant w/ meds per report. No CP, no palpitations. Cont's to use albuterol PRN for COPD flares - denies increased use.
+
+--- copied forward from visit 03/11/2019 ---
+Pt seen for routine f/u of HTN and CAD. EKG NSR, no ectopy. Lipid panel reviewed, LDL at goal on statin. BPH sx stable on tamsulosin, nocturia x1. Continue current regimen, RTC 6 mo. Pt counseled on low-salt diet. Immunizations UTD.
+--- end copied text ---
+
+Social Hx: Lives w/ spouse, retired machinist. Pt reports he is a current cigarette smoker. Denies EtOH, no illicit drug use.
+
+ROS: + occasional cough (chronic, COPD-related), denies hemoptysis, fevers, chills. Otherwise negative in detail.
+
+PMH/Problem List:
+- I50.22 Chronic systolic (congestive) heart failure
+- I25.10 Atherosclerotic heart disease of native coronary artery w/o angina
+- I10 Essential hypertension
+- N40.1 BPH w/ LUTS
+- J44.9 COPD, unspecified (dx 2015, outdated staging on file, needs update)
+- E78.5 Hyperlipidemia (per old chart, may be resolved - verify)
+
+Meds: carvedilol, lisinopril, furosemide, atorvastatin, tamsulosin, albuterol MDI PRN
+
+Exam: BP 128/76, HR 68, RR 16, SpO2 94% RA. Gen: NAD, appears stated age. CV: RRR, S3 present, no murmur. Lungs: distant breath sounds, mild exp wheeze bilat bases. Ext: trace pedal edema. No JVD noted today.
+
+Labs: BNP mildly elevated from baseline, Cr stable, K 4.2.
+
+Assessment/Plan:
+80 yo M w/ HFrEF, CAD, HTN, BPH, COPD - overall stable today, mild DOE.
+
+Smoking hx reviewed in detail: pt reports smoking half a pack (~10 cigarettes) per day for 17 years, then reduced to a quarter pack (~5 cigarettes) per day for 22 years, then increased to three-quarters of a pack (~15 cigarettes) per day for the past 17 years, which he continues currently. Counseled extensively on cessation given COPD and CV risk; general discussion of smoking-related health risks had with pt.
+
+1. HFrEF - cont carvedilol, lisinopril, furosemide; f/u echo in 6 mo.
+2. CAD - cont statin, ASA; risk factor modification incl smoking cessation d/c'd at length.
+3. HTN - well controlled, cont current regimen.
+4. BPH - stable, cont tamsulosin.
+5. COPD - cont albuterol PRN, consider pulm f/u given chronic cough.
+
+RTC 3 months or sooner if symptoms worsen.

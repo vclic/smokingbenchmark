@@ -1,0 +1,33 @@
+H&P - Pulmonology
+Patient: Paul Clark | DOB: 1/12/1965 | Age: 60 | Sex: M
+Date of Service: 01/12/2025
+Author: Brian Okonkwo, MD
+
+CC: Lung cancer screening shared decision-making visit.
+
+HPI: Mr Clark is a 60 yo male presenting for discusion of lung ca screening given smoking hx. He reports smoking 6 cigarettes per day for 43 years. He states he still smokes currently and is not ready to quit at this time, though he has agreed to set a quit date for 2/11/2025 (future date) to work toward cessation. Denies hemoptysis, unintentional weight loss. Reports occasional dyspnea on exertion, stable per his baseline COPD/asthma overlap.
+
+Problem List (partial, some outdated):
+- N18.3 CKD stage 3
+- I48.91 Atrial fibrillation
+- M81.0 Osteoporosis
+- J45.909 Asthma, unspecified
+- J44.9 COPD
+- E11.9 Type 2 DM (resolved per pt, remains on list - outdated)
+- I10 HTN
+
+Medications: apixaban 5mg BID, albuterol HFA PRN, tiotropium daily, fluticasone/salmeterol BID, alendronate 70mg weekly, calcium/vitamin D, atorvastatin 20mg daily, lisinopril 10mg daily, metoprolol succinate 50mg daily.
+
+ROS: Constitutional - no fever no chills. Eyes - no visual changes. ENT - no epistaxis. Cardiac - occasional palpitations, no chest pain. Resp - chronic cough, no hemoptysis, dyspnea on exertion as above. GI - no nausea vomiting diarhea. GU - no dysuria. MSK - no new joint pain. Neuro - no focal weakness. Skin - no rashes. Psych - mood stable.
+
+Physical Exam: Vitals stable, BP 128/76, HR 78 irregularly irregular, RR 16, SpO2 95% RA. General - well-appearing, NAD. HEENT - normocephalic atraumatic, oropharynx clear. Neck - no lymphadenopathy, no JVD. Cardiac - irregularly irregular rhythm, no murmurs. Lungs - mild expiratory wheeze bilaterally, no crackles. Abdomen - soft nontender nondistended. Extremities - no edema. Skin - warm dry intact. Neuro - alert oriented x3, no focal deficits.
+
+Assessment/Plan:
+1. Lung cancer screening SDM visit - risks/benefits of low-dose CT screening discussed with patient including false positives, incidental findings, radiation exposure. Patient verbalizes understanding.
+2. COPD/Asthma overlap - continue current inhalers, reviewed inhaler technique.
+3. Tobacco use - continues to smoke, not ready to quit today; counseled on cessation resources, nicotine replacement discussed, pt has set a tentative quit date for 2/11/2025.
+4. CKD stage 3 - stable, continue monitoring renal function.
+5. Atrial fibrillation - continue apixaban, rate controlled on metoprolol.
+6. Osteoporosis - continue alendronate, calcium/vit D.
+
+Follow up in 3 months or sooner if symptoms worsen.

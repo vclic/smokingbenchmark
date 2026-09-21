@@ -1,0 +1,77 @@
+Cardiology Office Visit
+
+Patient: CARTER, Yolanda    MRN: 14883762
+DOB: 11/24/1960    Age: 64 y.o.    Sex: Female
+Date of Service: 06/02/2025    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Yolanda Carter is a 64 y.o. female who presents for atrial fibrillation follow-up.
+Occasional palpitations lasting minutes. Taking apixaban BID reliably.
+
+Past Medical History:
+Diagnosis	Date
+• Persistent AF
+• Hypercholesterolemia	2008
+• Primary OA, bilateral knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (1998)
+• C-section x2 (2024)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 20 mg daily
+• metoprolol tartrate 25 mg BID
+• ezetimibe 10 mg daily
+• apixaban 5 mg BID
+• diclofenac 1% gel QID PRN
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband in a single-family home.
+  Retired, former bus driver.
+  Alcohol: rare.
+  No IVDU.
+
+Family History
+No family hx of colon cancer.
+
+Review of Systems
+ROS: Gen neg, Resp neg, MSK neg, CV neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 122/81 (BP Location: Left arm, Patient Position: Sitting) | Pulse 74 | Temp 98.7 °F (Oral) | Resp 12 | Ht 5' 5" | Wt 144 lb | SpO2 99% | BMI 24.00 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (4/30/2025): LDL 102, Cr 0.99, K 4.3
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 1. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+RTC 1 month.
+
+Electronically signed by Quentin Hale, PA-C on 06/02/2025

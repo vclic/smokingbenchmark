@@ -1,0 +1,79 @@
+Primary Care Office Visit
+
+Patient: ADAMS, Paula    MRN: 21043711
+DOB: 11/17/1949    Age: 74 y.o.    Sex: Female
+Date of Service: 01/29/2024    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Paula Adams is a 74 y.o. female who presents for routine preventive care.
+She smoked two packs daily for 24 years and quit smoking about 35 years ago. Feels well overall. Walks the dog daily. Trying to cut back on sweets.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia
+• Osteoarthritis
+• Acquired hypothyroidism
+• Essential hypertension
+• Osteopenia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• chlorthalidone 12.5 mg daily
+• rosuvastatin 20 mg daily
+• meloxicam 7.5 mg daily
+• ezetimibe 10 mg daily
+• alendronate 70 mg weekly
+• levothyroxine 50 mcg daily
+• lisinopril 40 mg daily
+• calcium + vitamin D daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired teacher.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+  Independent in ADLs.
+
+Family History
+Mother - breast cancer at 70.
+
+Review of Systems
+ROS: CV neg, GU neg, Skin neg, GI neg, Resp neg, Gen neg, Neuro neg, MSK neg
+
+Objective:
+Vitals:
+  BP 139/89 (BP Location: Right arm, Patient Position: Sitting) | Pulse 58 | Temp 97.6 °F (Oral) | Resp 14 | Ht 5' 4" | Wt 150 lb | SpO2 97% | BMI 25.70 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (12/28/2023): LDL 133, Cr 1.00, K 4.6, Hgb 11.6, TSH 1.51
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2018 - 2 tubular adenomas, repeat 5 yrs; Mammogram 12/29/2022 - BI-RADS 1; DEXA due - ordered; Declines Shingrix; Flu shot today.
+2. Former smoker
+   Congratulated on remaining smoke-free.
+
+Return in about 6 months (around 7/29/2024).
+
+Electronically signed by Kevin Osei, MD on 01/29/2024

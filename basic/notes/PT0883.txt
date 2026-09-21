@@ -1,0 +1,46 @@
+Internal Medicine Clinic Note
+Date of Service: 10/21/24
+Patient: Samuel Bennett   DOB: 12/26/1956   MRN: 12138728
+
+SUBJECTIVE:
+CC: Fatigue
+HPI: Mr. Bennett is a 67-year-old male with a history of HTN, CKD3, and BPH who presents for fatigue. Fatigue for 6 months. Sleeping 8 hrs but not refreshed. Lost 5 lbs unintentionally.
+
+PMH:
+- Chronic kidney disease stage 3a
+- Benign prostatic hyperplasia
+- Essential hypertension (dx 2023)
+PSH: Lumbar laminectomy; TURP (1992)
+Meds: lisinopril 20 mg daily; tamsulosin 0.4 mg nightly
+Allergies: NKDA
+SH: Lives with wife and adult son. He is a lifelong nonsmoker. No alcohol. Denies illicit drugs. Independent in ADLs.
+FH: Father - stroke.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 134/84  HR: 59  RR: 20  Temp: 97.7 F  SpO2: 99% on RA  Wt: 192 lbs  BMI: 26.7
+Exam:
+  General: Comfortable, conversant
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (10/06/2024): LDL 87, Cr 0.93, K 4.8, Hgb 15.7
+
+A/P:
+1. Fatigue: PHQ-9 9. Labs ordered.
+
+Return in about 6 months (around 4/21/2025).
+
+Electronically signed by Rachel Goldberg, MD on 10/22/2024 at 09:27

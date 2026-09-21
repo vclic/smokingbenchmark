@@ -1,0 +1,66 @@
+H&P - Pulmonology
+Patient: Mark Wilson (M), DOB 3/7/1949, age 74
+Date of Service: 03/07/2023
+Author: Nadia Haddad, MD
+
+CC: f/u incidental lung nodule noted on CT abd/pelvis obtained for unrelated w/u.
+
+HPI: 74 yo M w/ h/o AFib, PAD presents for f/u of 8mm RUL nodule found incidentally 12/2022. No hemoptysis, no wt loss, no fevers. Mild dyspnea on exertion, chronic, unchanged. Pt reports occasional palpitations, on anticoagulation per cardiology. Denies chest pain. c/o intermittent claudication in b/l calves, worse w prolonged ambulation, consistent w known PAD.
+
+PROBLEM LIST:
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral artery disease
+- R91.1 Solitary pulmonary nodule
+- I10 Essential hypertension (outdated - pt reports normotensive last several visits)
+- E78.5 Hyperlipidemia
+- Z87.891 Personal hx of nicotine dependence (outdated - see SH below, pt remains current smoker)
+
+SOCIAL HISTORY: Smoking - pt reports smoked 3/4 pack/day (~15 cigs/day) x29 yrs, then quit completely for 8 yrs, then restarted at 1/2 pack/day (~10 cigs/day) x22 yrs and continues to smoke to present day. Pt continues to smoke despite counseling given at multiple visits. Denies illicit drug use. Occasional etoh, ~1-2 drinks/wk. Lives w spouse, retired machinist.
+
+[Copied from note dated 1/7/2020, unchanged]: "Smoking status: current smoker." (no further detail documented at that time)
+
+FAMILY HISTORY: Father w/ CAD, mother w/ COPD. No known fam hx lung ca.
+
+MEDICATIONS:
+- Apixaban 5mg BID
+- Atorvastatin 40mg qhs
+- Metoprolol succinate 50mg daily
+- Cilostazol 100mg BID
+
+ALLERGIES: NKDA
+
+ROS: Otherwise negative except as above. Denies fevers, chills, night sweats. Denies new cough. Occasional wheeze per pt, unclear duration.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72 irreg irreg, RR 16, SpO2 95% RA, Wt 182 lb
+Gen: NAD, comfortable, conversing full sentences
+HEENT: Nl, no LAD
+CV: Irreg irreg rhythm, no m/r/g appreciated
+Resp: CTAB, no wheezes/crackles appreciated, mild decreased breath sounds at bases
+Ext: Cool distal extremities b/l, diminished DP/PT pulses b/l c/w known PAD, no ulcers, no edema
+Skin: Nl turgor, no lesions
+Neuro: A&Ox3, no focal deficits
+
+LABS/RESULTS:
+- CBC (02/20/2023): WBC 6.8, Hgb 13.9, Plt 210
+- BMP (02/20/2023): Na 140, K 4.2, Cr 1.1, eGFR 68
+- INR (03/06/2023): 2.3 (therapeutic on apixaban - N/A, not applicable to apixaban dosing but pt on periodic coag panel per cardiology protocol)
+- Lipid panel (01/15/2023): TC 168, LDL 92, HDL 42, TG 140
+- CT chest w/o contrast (12/28/2022): 8mm solid nodule RUL, unchanged morphology; no lymphadenopathy
+- CT chest f/u (03/01/2023): 8mm RUL nodule, stable in size compared to 12/2022 study
+
+ASSESSMENT:
+1. Solitary pulmonary nodule, RUL, stable x2 studies - low-moderate risk given smoking hx.
+2. Atrial fibrillation - rate controlled, on anticoagulation, stable.
+3. Peripheral artery disease - stable claudication sx, on cilostazol.
+4. Tobacco use, current - continues to smoke despite counseling.
+
+PLAN:
+1. Pulmonary nodule: repeat CT chest in 6 months to confirm stability; if stable, extend interval per guidelines. Screening for lung cancer discussed generally as part of ongoing risk assessment, will revisit at future visit.
+2. Counseled extensively re: smoking cessation - discussed nicotine patches, varenicline as options, pt declines meds at this time, agreeable to consider in future. Provided quitline info.
+3. AFib: continue apixaban, f/u w cardiology as scheduled, recheck INR/coag panel per cardiology protocol.
+4. PAD: continue cilostazol, ASA held per cardiology given anticoag, recommend supervised walking program.
+5. Return to clinic in 6 months or sooner if new sx (hemoptysis, unintentional wt loss, worsening dyspnea).
+6. Pt verbalizes understanding of plan, all questions answered.
+
+Electronically signed: Nadia Haddad, MD - Pulmonology - 03/07/2023

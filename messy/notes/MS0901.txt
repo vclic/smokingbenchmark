@@ -1,0 +1,36 @@
+RESIDENT NOTE - PULMONOLOGY
+Date of Service: 04/01/2026
+Author: Laura Castellano, FNP-C (resident); attending attestation below
+
+Patient: Donald Campbell | DOB: 04/01/1975 | Age: 51 | Sex: M
+
+CC: Lung cancer screening shared decision-making visit.
+
+HPI: Mr. Campbell is a 51-year-old male with hx of asthma, hypothyroidism, osteoporosis, and OSA who presents today for discussion regarding lung cancer screening options given his tobacco history. He reports doing fairly well overall, denies hemoptysis, denies unintentional weight loss, some occasional wheeze when he over exerts himself which he attributes to his asthma flaring in the spring pollen season, he says he uses his inhaler maybe twice a week and otherwise feels his breathing is stable, he sleeps with his CPAP most nights although he admits [inaudible] compliance has been spotty lately due to travel for work.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Packs/day: 3.00
+Years: 24.00
+Quit date: June 2021
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Blank
+Living situation: Not on file
+
+PMH: Asthma, hypothyroidism, osteoporosis, obstructive sleep apnea.
+Meds: Levothyroxine, albuterol PRN, alendronate weekly, CPAP nightly.
+Allergies: NKDA.
+
+LABS/RESULTS:
+03/28/2026 CBC: WBC 6.8, Hgb 14.9, Plt 245
+03/28/2026 TSH 2.1 (0.4-4.0)
+03/15/2026 Vitamin D 28 ng/mL
+PFT (03/20/2026): FEV1 82% predicted, FVC 88% predicted, FEV1/FVC 0.78
+
+Assessment/Plan:
+51 yo male, former smoker, quit smoking in June 2021, here today for shared decision-making regarding lung cancer screening given tobacco history. We discussed the potential benefits and harms of screening including false positives, incidental findings, and radiation exposure, patient verbalizes understanding and would like to think it over before proceeding, he will follow up with primary care to discuss further. Continue current asthma regimen, encourage CPAP compliance, continue calcium/vitamin D and alendronate for osteoporosis, TSH within normal range so continue current levothyroxine dose. Return to clinic in 6 months or sooner if symptoms worsen.
+
+Attending Attestation: I have reviewed and discussed this patient with the resident/NP and agree with the assessment and plan as documented above. - Dr. Aaron Whitfield, Attending Pulmonologist
+
+ADDENDUM (later same day, 04/01/2026, 16:42): Patient called clinic this afternoon to clarify that he no longer smokes and wanted to confirm his quit date of June 2021 was recorded correctly, this has been verified and no changes needed to chart, he was reassured. No new issues reported.

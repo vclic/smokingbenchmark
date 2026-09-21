@@ -1,0 +1,74 @@
+TELEHEALTH VISIT NOTE
+Patient: Yolanda Murphy | DOB: 3/10/1964 | Age: 62 | Sex: F
+Date of Service: 03/10/2026
+Provider: Teresa Alvarez, NP (Family Medicine)
+Visit Type: Telehealth - Medication Refills
+
+PROBLEM LIST (per chart, some entries not updated):
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence (outdated - see HPI)
+- M54.5 Low back pain (old, resolved per pt)
+
+HPI:
+Ms. Murphy is a 62-year-old woman seen via telehealth today, 03/10/2026, for routine follow-up and medication refills for DM2, asthma, and hyperlipidemia. She reports doing "pretty well overall, just tired of all these pills." No new complaints of chest pain, SOB at rest, or wheeze exacerbations recently. She uses her albuterol inhaler infrequently, about once weekly. Blood sugars per home log running 110-160 fasting. No polyuria/polydipsia. Regarding tobacco history, she reports she smoked about three-quarters of a pack per day (approximately 15 cigarettes/day) for 9 years, and then increased to 2 packs per day for 13 years before quitting altogether. She states, "I haven't touched a cigarette since 2007, and I don't plan to start again." She denies current use of e-cigarettes or vaping products. No current cough, hemoptysis, or unexplained weight loss. Lung cancer screening was discussed briefly; she had questions about the process which were addressed, and she will follow up with PCP regarding next steps at a future visit.
+
+REVIEW OF SYSTEMS (template, reviewed and updated):
+Constitutional: denies fever, chills, unintentional weight loss/gain.
+Eyes: denies vision changes.
+ENT: denies sore throat, congestion.
+Cardiovascular: denies chest pain, palpitations, orthopnea, edema.
+Respiratory: denies current cough, hemoptysis, dyspnea at rest; mild dyspnea on exertion at baseline per pt.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, hematuria.
+Musculoskeletal: denies acute joint pain; chronic low back pain, stable.
+Skin: denies rash, lesions.
+Neuro: denies headache, dizziness, numbness/tingling.
+Psych: denies depression, anxiety; mood stable.
+Endocrine: denies polyuria, polydipsia, heat/cold intolerance.
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use status: Former smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/week
+Drug use: Denies
+Occupation: Retired administrative assistant
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days
+Diet: Reports trying to follow low-carb diet
+Secondhand smoke exposure: None reported
+E-cigarette/vaping use: Not on file
+
+PHYSICAL EXAM (via telehealth, limited):
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+Vitals (per home cuff/pt report): BP 128/78, HR 74, temp not taken, weight 168 lbs (self-report).
+HEENT: Normocephalic atraumatic, no visible distress, no scleral icterus noted on camera.
+Neck: No visible jugular venous distension.
+Respiratory: No visible use of accessory muscles, speaking in full sentences, no audible wheeze via device mic.
+Cardiovascular: Unable to auscultate via telehealth; pt denies chest pain or palpitations.
+Abdomen: Deferred, telehealth visit.
+Extremities: No visible edema on camera.
+Skin: No obvious rashes visible.
+Neuro/Psych: Alert, oriented x3, mood/affect appropriate, speech fluent.
+
+CURRENT MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Atorvastatin 40mg PO QHS
+3. Albuterol HFA inhaler 90mcg, 2 puffs PRN wheeze/SOB
+4. Fluticasone/salmeterol 250/50 one puff BID
+5. Lisinopril 10mg PO daily
+6. Aspirin 81mg PO daily
+7. Vitamin D3 2000 IU daily
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus (E11.9) - stable control per home glucose log. Continue metformin, refill sent. Recheck A1c in 3 months.
+2. Asthma (J45.909) - well controlled, infrequent rescue inhaler use. Continue current regimen, refill inhalers.
+3. Hyperlipidemia (E78.5) - continue atorvastatin, will check lipid panel at next visit.
+4. Tobacco history - patient is a former smoker who quit smoking in 2007; she has not smoked since. No current tobacco or nicotine product use. Reinforced continued abstinence, praised her success in quitting given her prior heavy use. No current counseling indicated regarding cessation as she is not using tobacco.
+5. Health maintenance - discussed lung cancer screening briefly per patient's questions; will revisit topic and criteria discussion at next in-person visit.
+6. Follow-up in 3 months or sooner as needed; refills sent to pharmacy of record.
+
+Electronically signed: Teresa Alvarez, NP
+Date/Time of Note: 03/10/2026

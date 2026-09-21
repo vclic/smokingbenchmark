@@ -1,0 +1,56 @@
+TELEHEALTH VISIT NOTE
+Patient: Evelyn Bennett, F, DOB 07/17/1950 (age 75)
+DOS: 07/17/2025
+Provider: Quentin Hale, PA-C
+Dept: Internal Medicine - Pre-op Eval
+
+CC: Pre-op eval for L knee replacement (Ortho referral, Dr. Simmons)
+
+HPI: 75 y/o F c/o worsening L knee pain, OA per prior imaging, scheduled for TKA in 4 wks. Pt tolerating ambulation w/ cane, denies CP/SOB at rest. Reports mild claudication in b/l calves w/ ambulation >2 blocks, consistent w/ known PAD. No rest pain, no ulcers. GERD sx well-controlled on current regimen, occasional heartburn after spicy food. HTN reportedly stable on home readings, pt states BP log avg 128-134/78-82. Denies CP, palpitations, syncope. No recent falls.
+
+--- COPIED FORWARD FROM VISIT 01/09/2024 (Dr. R. Alvarez, IM) ---
+ROS: Constitutional: no fever, chills, wt loss. HEENT: no vision changes, no hearing loss. CV: no CP, no orthopnea, no PND, +known PAD hx. Resp: no cough, no hemoptysis, no wheeze. GI: occasional reflux, no N/V, no melena. GU: no dysuria, no hematuria. MSK: chronic b/l knee pain, worse L>R. Neuro: no focal weakness, no numbness. Psych: denies depression/anxiety. Skin: no rashes, no lesions. Endo: no polyuria/polydipsia. Heme: no easy bruising.
+PE: Gen: NAD, well-groomed elderly F. VS: BP 132/80, HR 74, RR 16, T 98.2F, SpO2 97% RA, Wt 156 lb. HEENT: NCAT, PERRLA, EOMI, oropharynx clear. Neck: no LAD, no thyromegaly. CV: RRR, no m/r/g. Lungs: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND, +BS. Ext: b/l knee crepitus, no effusion, DP pulses 1+ b/l, no edema. Neuro: A&Ox3, CN II-XII grossly intact, gait antalgic. Skin: warm, dry, intact.
+A/P at that visit: HTN - continue lisinopril. HLD - continue statin. GERD - continue omeprazole. PAD - continue ASA, cilostazol. Health maintenance d/w pt.
+--- END COPIED FORWARD SECTION ---
+
+SOCIAL HX: Lives w/ spouse, retired schoolteacher. Denies EtOH excess, occ glass of wine. Tobacco: extensive hx, smoked 1 pack per day for 18 years, then cut down to about 5 cigarettes per day for the next 39 years up to now, continues to smoke despite counseling given at multiple visits. Denies illicit drug use. Independent in ADLs, uses cane for ambulation.
+
+MEDICATIONS:
+1. Lisinopril 20mg PO daily
+2. Atorvastatin 40mg PO qhs
+3. Omeprazole 20mg PO daily
+4. Aspirin 81mg PO daily
+5. Cilostazol 100mg PO BID
+6. Acetaminophen 500mg PO PRN pain
+7. Vitamin D3 1000 IU PO daily
+8. Calcium carbonate 600mg PO daily
+
+PROBLEM LIST (per EHR, some outdated):
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- K21.9 GERD w/o esophagitis
+- I73.9 Peripheral artery disease, unspecified
+- M17.11 Unilateral primary OA, L knee
+- Z87.891 Personal hx of nicotine dependence (note: pt is current smoker, list may need update)
+- E11.9 Type 2 DM (resolved per pt report 2019, chart not updated - verify)
+
+EXAM (today, telehealth - limited):
+Gen: alert, conversant, no acute distress on video. Speaking in full sentences, no resp distress noted.
+VS (per home cuff/pulse ox reported by pt): BP 130/78, HR 76, SpO2 96% RA.
+CV: pt denies chest pain, no visible distress.
+Resp: no visible increased work of breathing, no audible wheeze via telehealth mic.
+Ext: pt able to move both legs, reports L knee pain w/ ROM demonstrated on camera.
+
+ASSESSMENT/PLAN:
+1. Pre-op clearance for TKA - pt is 75 y/o F w/ hx PAD, HTN, HLD, GERD. Cardiac risk assessed as low-moderate given functional capacity, RCRI reviewed. Will obtain routine pre-op labs (CBC, BMP, coags), EKG. Cleared pending labs/EKG unless abnormal.
+2. Peripheral artery disease (I73.9) - continue ASA + cilostazol, monitor claudication sx, no rest pain currently. D/w vascular surgery if worsening pre-op.
+3. Hypertension (I10) - well controlled per home readings, continue lisinopril.
+4. Hyperlipidemia (E78.5) - continue atorvastatin, lipid panel due at next visit.
+5. GERD (K21.9) - continue omeprazole, stable.
+6. Tobacco use - pt continues to smoke despite repeated counseling. Discussed importance of cessation esp. pre-op given PAD and wound healing risk, provided resources incl. quitline number and discussed pharmacotherapy options (varenicline, nicotine patch). Pt states she is 'thinking about it.' Will re-address at follow up.
+7. Health maintenance - up to date per chart review, will verify at PCP visit.
+
+F/u: Pre-op labs today, EKG this week, f/u telehealth or in-person visit prior to surgery date to review results. Pt to call if worsening leg pain, CP, SOB, or fever.
+
+Electronically signed: Quentin Hale, PA-C, 07/17/2025

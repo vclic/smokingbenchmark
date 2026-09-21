@@ -1,0 +1,42 @@
+Pulmonology Progress Note
+Patient: Kathleen Kowalski | DOB: 6/14/1972 | Age: 51
+Date of Service: 06/14/2023
+Author: Rachel Goldberg, MD (NP progress note, co-signed)
+
+Problem List (ICD-10):
+- E03.9 Hypothyroidism, unspecified
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral artery disease (dated 2019, may need update)
+- I10 Essential hypertension
+- F32.9 Major depressive disorder, single episode (outdated - pt now on maintenance therapy)
+- K21.9 GERD
+- J44.9 COPD, unspecified
+
+HPI: Patient is a 51-year-old female with history of COPD, hypothyroidism, afib, PAD, HTN, depression and GERD who presents today for COPD follow-up. She states, "I've been doing okay, just get a little more winded going up the stairs at work." She denies fever, chills, or increased sputum production. She reports occasional wheeze in the mornings, [inaudible] when asked about triggers she says it's mostly cold air and sometimes when she's cleaning the house with dust or when the cat, gets to close to her face and than she starts coughing uncontrollably for several minutes. No hemoptysis. She uses her albuterol inhaler maybe 2 times a week. Denies chest pain, palpitations feel stable on her current afib regimen per her cardiologist.
+
+Social History: Patient has a 6 pack-year smoking history; she is a former smoker. Denies current alcohol use, occasional glass of wine on weekends. No illicit drug use. Lives with husband and one cat, works part time as a receptionist at a dental office.
+
+Medications: Levothyroxine, apixaban, metoprolol succinate, lisinopril, sertraline, omeprazole, albuterol inhaler PRN, tiotropium inhaler daily.
+
+ROS: Otherwise negative except as noted above in HPI. Denies leg pain with ambulation today, states her PAD symptoms have been "pretty quiet lately."
+
+Physical Exam:
+Vitals: BP 128/78, HR 76 irregular, RR 16, SpO2 96% on room air, Wt 152 lbs
+General: Well-appearing, no acute distress
+Lungs: Mild expiratory wheeze bilaterally, no crackles, good air movement
+CV: Irregularly irregular rhythm, no murmurs
+Ext: No edema, PAD pulses 1+ bilaterally dorsalis pedis, no ulcers
+Psych: Mood euthymic, affect appropriate
+
+Assessment/Plan:
+1. COPD - stable, mild symptoms, continue tiotropium and albuterol PRN. Reviewed inhaler technique with pt. Given her history as a former smoker, we discussed general lung health measures and the importance of avoiding secondhand smoke exposure. Lung cancer screening was discussed in general terms during the visit.
+2. Atrial fibrillation - rate controlled, continue metoprolol and apixaban, f/u with cardiology as scheduled.
+3. PAD - asymptomatic today, continue current management, ABI to be repeated at next vascular visit.
+4. Hypertension - well controlled on current regimen.
+5. Hypothyroidism - stable, TSH to be rechecked in 6 months.
+6. Depression - stable on sertraline, denies SI/HI.
+7. GERD - well controlled on omeprazole, advised to avoid trigger foods.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Addendum (later same day): Pt called after visit to clarify that her albuterol use has actually been closer to 3-4 times a week recently, not 2. Will monitor and consider step-up therapy if symptoms progress. No other changes to plan discussed above.

@@ -1,0 +1,33 @@
+GERIATRICS HISTORY AND PHYSICAL
+Patient: Evelyn Wright (F), DOB 2/22/1945, Age: 79
+Date of Service: 10/01/2024
+Author: Gregory Tan, MD
+
+CC: Comprehensive geriatric assessment, follow-up of multiple chronic conditions.
+
+HPI: Ms. Wright is a 79-year-old woman with a history notable for gout, type 2 diabetes, BPH... wait, patient herself does not have BPH given female sex, this appears carried forward from template - see below, obesity, osteoporosis, and hypothyroidism who presents today for annual geriatric wellness visit and med reconciliation. She reports doing reasonably well, ambulates with cane, denies falls in the last six months, some joint discomfort in R great toe intermittently consistent with prior gout flares, denies acute flare today. Denies polyuria polydipsia today, blood sugars per home log running 110-160. No new urinary complaints. She feels her energy has been stable on current thyroid replacement.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Never Smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional wine, ~1 glass/week
+Other tobacco products: Cigar - patient reports she smokes a cigar a few times a year on holidays, denies cigarette use.
+Illicit drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives alone, daughter nearby
+
+ROS: Constitutional - denies fever chills weight loss. Eyes - denies visual changes. ENT - denies hearing loss although patient states "sometimes I cant here the phone ring" [inaudible] otherwise unremarkable. CV - denies chest pain palpitations edema. Resp - denies cough SOB wheeze. GI - denies nausea vomiting diarrhea constipation. GU - denies dysuria hematuria. MSK - as above chronic toe pain. Skin - denies rash. Neuro - denies weakness numbness. Psych - denies depression anxiety. All other systems reviewed and negative.
+
+MEDICATIONS: Allopurinol 300mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Alendronate 70mg weekly, Vitamin D3 2000 units daily, Calcium carbonate 600mg BID, Atorvastatin 20mg daily, Lisinopril 10mg daily, Tamsulosin 0.4mg daily (per old chart, though female - likely erroneous carryover, to reconcile), Acetaminophen PRN.
+
+PHYSICAL EXAM: Vitals stable, BP 132/78, HR 74, BMI 33.4. General - well-appearing elderly female in no acute distress. HEENT - normocephalic atraumatic. Neck - no LAD, thyroid nonpalpable enlargement. CV - RRR no murmur. Lungs - clear to auscultation bilaterally, no wheezes rales rhonchi. Abd - soft nontender obese. Ext - no edema, mild bunion deformity right first MTP. Skin - intact. Neuro - grossly nonfocal.
+
+ASSESSMENT/PLAN:
+1. Gout - stable, continue allopurinol.
+2. T2DM - reasonably controlled, continue metformin, recheck A1c.
+3. Obesity - discussed diet/exercise.
+4. Osteoporosis - continue bisphosphonate, DEXA due.
+5. Hypothyroidism - stable on current dose.
+6. Health maintenance - lung cancer screening discussed given age and history, will revisit at next visit.
+
+ADDENDUM (later same day): Discussed lab draw scheduling with patient by phone this afternoon, she will return Thursday for fasting labs. No other changes to plan. -Gregory Tan, MD

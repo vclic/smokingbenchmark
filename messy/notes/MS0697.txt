@@ -1,0 +1,46 @@
+Pulmonology NP Progress Note
+DOS: 04/19/2024
+Patient: Frank Garcia | DOB: 04/19/1950 | Age: 74 | M
+Provider: Owen Fitzgerald, MD (co-signed)
+
+CC: Lung cancer screening SDM visit
+
+HPI: Pt is a 74 y/o M presenting for shared decision-making d/w lung cancer screening. Pt has hx of osteoarthritis, asthma, GERD, and CAD, all followed by PCP/cardiology. He reports occasional dyspnea on exertion, attributed to underlying CAD/asthma, no acute change. No hemoptysis, no unintentional wt loss, no new cough.
+
+Pt states, "I still smoke about half a pack a day, doc, I know I should quit but it's hard." He denies vaping or other tobacco products. He was counseled extensively at prior visits regarding cessation but continues to smoke despite this counseling. Pt was again offered referral to tobacco cessation program and pharmacotherapy (varenicline, nicotine patch) but declined today, stating he "might think about it."
+
+ROS: Denies fevers, chills, night sweats. Positive for occasional exertional SOB. Denies chest pain today. GERD sx well controlled on current PPI. Joint pain in knees stable, uses OTC NSAIDs PRN.
+
+PMH: OA, asthma, GERD, CAD (s/p PCI 2019)
+PSH: none significant
+Meds: albuterol MDI PRN, omeprazole 20mg daily, atorvastatin, aspirin 81mg, metoprolol
+Allergies: NKDA
+Soc Hx: current smoker, ~10 cigs/day (half pack/day). Occasional EtOH. Retired construction worker.
+Fam Hx: noncontributory for lung ca; father w/ CAD.
+
+Vitals: BP 138/82, HR 76, RR 16, Temp 97.8F, SpO2 95% RA, BMI 27.4
+
+Physical Exam:
+Gen: NAD, well-appearing elderly male
+HEENT: unremarkable
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft, NT/ND
+Ext: no clubbing, no cyanosis, no edema
+Skin: no lesions
+
+Assessment/Plan:
+74 yo M current smoker, presenting for LDCT lung cancer screening SDM discussion given hx of tobacco use and comorbid CAD/asthma.
+1. Lung cancer screening - discussed risks/benefits of LDCT screening at length, including false positives, incidental findings, radiation exposure. Pt verbalizes understanding. Decision aid reviewed. Pt to follow up w/ decision after considering info discussed today.
+2. Tobacco use - continues to smoke despite repeated counseling. Re-offered cessation resources, declined today. Will continue to address at future visits. Provided cessation hotline info.
+3. Asthma - stable, continue albuterol PRN, reassess if worsening sx.
+4. CAD - stable, continue current cardiac meds, f/u w/ cardiology per their sched.
+5. GERD - stable on PPI, continue current regimen.
+6. OA - stable, continue NSAID PRN, consider PT referral if worsens.
+
+RTC in 3 months or sooner if symptoms worsen.
+
+___
+
+ADDENDUM (same day, later, added by Owen Fitzgerald, MD):
+Spoke further w/ patient by phone after clinic visit re: screening decision aid materials provided. Pt reiterates he continues to smoke approx half pack per day currently and understands ongoing risk. He will call back if he decides to pursue LDCT screening after further reflection. No changes to plan above. Pt tolerated visit well overall, no acute distress noted at end of encounter today, 04/19/2024.

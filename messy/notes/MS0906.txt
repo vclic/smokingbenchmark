@@ -1,0 +1,37 @@
+PULMONOLOGY CONSULT / LETTER TO REFERRING PHYSICIAN
+Patient: Carmen Sullivan, F, DOB 3/1/1967 (age 58)
+Date of Service: 09/20/2025
+Author: Rachel Goldberg, MD
+
+Dear Dr. Marsh,
+
+Thank you for referring Ms. Sullivan, a 58-year-old woman, for follow-up of an incidentally noted lung nodule identified on prior CT imaging performed for unrelated indications.
+
+HPI: Ms. Sullivan returns for interval follow-up. She reports no new chest pain, hemoptysis, fevers, or unintentional weight loss. She has mild dyspnea on exertion at baseline attributed to her known asthma and obesity. She denies recent respiratory infections.
+
+SOCIAL HISTORY: Patient smokes 2.5 packs per day for 37 years. She previously quit smoking in 2008 but relapsed in 2011. She remains a current smoker and states she is not ready to quit at this time. Denies alcohol or illicit drug use. Lives with husband, retired.
+
+[COPIED FORWARD FROM VISIT DATED 03/14/2023]
+Review of Systems: Constitutional: denies fever, chills, night sweats. HEENT: denies vision changes, hearing loss. Cardiovascular: denies chest pain, palpitations (though known history of atrial fibrillation, on anticoagulation). Respiratory: denies cough, wheeze at that time. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, hematuria. MSK: chronic joint pain, stable. Neuro: denies headache, dizziness, numbness. Psych: denies depression, anxiety. Skin: denies rash. [END COPIED TEXT]
+
+CURRENT ROS (09/20/2025): Constitutional: no fever, chills, night sweats, appetite good. Respiratory: mild DOE as above, no hemoptysis. Cardiovascular: no palpitations, no syncope, rate controlled on current regimen. GI: no abdominal pain. MSK: chronic OA pain in knees, stable, uses acetaminophen PRN. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 76 irregularly irregular, RR 16, SpO2 95% RA, BMI 34.2. General: obese woman, no acute distress. HEENT: normocephalic, atraumatic, no lymphadenopathy. Neck: no JVD, no thyromegaly. Lungs: mild expiratory wheeze bilaterally, no crackles, no rhonchi. Cardiac: irregularly irregular rhythm, no murmurs appreciated. Abdomen: obese, soft, non-tender, non-distended. Extremities: no clubbing, cyanosis, or edema; mild crepitus at knees bilaterally. Skin: no rashes or lesions.
+
+MEDICATIONS: Levothyroxine 100 mcg daily, Albuterol HFA inhaler PRN, Fluticasone/salmeterol inhaler BID, Apixaban 5 mg BID, Metoprolol succinate 50 mg daily, Acetaminophen 650 mg PRN for joint pain, Vitamin D3 2000 IU daily, Multivitamin daily.
+
+PROBLEM LIST:
+E03.9 Hypothyroidism, unspecified
+J45.909 Asthma, unspecified, uncomplicated
+I48.91 Atrial fibrillation, unspecified
+M19.90 Osteoarthritis, unspecified site (outdated entry, should specify knees)
+E66.9 Obesity, unspecified
+Z87.891 Personal history of nicotine dependence (outdated - patient is current smoker, not former)
+R91.1 Solitary pulmonary nodule
+
+ASSESSMENT/PLAN: Ms. Sullivan is a 58-year-old woman with an incidentally found pulmonary nodule, longstanding tobacco use, asthma, atrial fibrillation, hypothyroidism, osteoarthritis, and obesity. Nodule characteristics and follow-up interval imaging plan were reviewed with the patient. The role of continued tobacco cessation counseling was discussed at length, and she was again encouraged to consider quitting; she remains ambivalent and not ready to quit today. Options for pharmacologic cessation aids and counseling resources provided. Continue current asthma regimen and anticoagulation. Will obtain follow-up chest CT per standard nodule surveillance protocol and reassess at that time. Return to clinic in 3-6 months or sooner if symptoms develop.
+
+Thank you again for this referral. Please contact me with any questions.
+
+Sincerely,
+Rachel Goldberg, MD, Pulmonology

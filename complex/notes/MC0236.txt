@@ -1,0 +1,45 @@
+TELEHEALTH VISIT - Family Medicine
+DOS: 04/11/2023
+Author: Laura Castellano, FNP-C
+
+=== NURSE INTAKE ===
+Pt: William Lee, M, DOB 4/11/1949, age 74. Presenting for med refills via telehealth. Vitals per home cuff reported by pt: BP 132/78, HR 76, wt stable. No acute distress voiced on call.
+
+HPI (per pt, telegraphic): here for refill of insulin, ARB, inhalers. Denies CP/SOB today. Some fatigue, chronic. Appt scheduled after pharmacy called re: overdue refills.
+
+=== SOCIAL HISTORY / TOBACCO (EHR template) ===
+Tobacco use: Cigarettes.
+Smoking status: Former smoker.
+History: 1.5 packs/day x 7 years -> quit completely x 8 years -> restarted 2 packs/day x 6 years -> quit for good.
+Year quit: 1999.
+Current use: none. Pt confirms no relapse since.
+Alcohol: occasional. Illicit drugs: denies.
+
+[Copied from note dated 7/11/2019, unchanged]: "SOCIAL HX (carried fwd): Smoking status - former smoker." (no quantities documented in that prior note)
+
+=== PHYSICIAN PROGRESS NOTE ===
+Subjective: 74M w/ obesity, asthma, CKD stage 3, T2DM here via telehealth for refills. Reports adherence to metformin/insulin regimen, occasional missed doses per pt report. Asthma sx well-controlled, uses albuterol PRN, ~1x/wk. No recent ED visits or hospitalizations. Denies chest pain, hemoptysis, unintentional wt loss.
+
+ROS: Resp - occasional wheeze w/ exertion, no cough. CV - neg for CP/palpitations. GU - neg for dysuria/hematuria. Endo - polyuria intermittent, poor po intake noted at times. Denies fevers/chills.
+
+PMH: Obesity, Asthma, CKD stage 3 (baseline Cr ~1.6), T2DM dx ~15 yrs ago.
+Meds: Metformin 1000mg BID, insulin glargine 24u qhs, albuterol HFA PRN, losartan 50mg daily, atorvastatin 20mg qhs.
+Allergies: NKDA.
+
+Social: Lives w/ spouse. Retired machinist. Former smoker (see tobacco block above for detailed hx incl years/quit dates). No current tobacco use.
+
+Exam (limited, telehealth): Pt appears well, no acute distress on camera. Speaking full sentences, no accessory muscle use. Skin - no cyanosis noted. Gen - obese habitus.
+
+Labs reviewed (from 3/2023): A1c 7.4%, eGFR 52 (CKD3a), K 4.6, Cr 1.55. Lipid panel wnl on statin.
+
+Assessment/Plan:
+1. Type 2 DM - A1c improved from prior. Continue metformin/insulin, refill both. Recheck A1c in 3 mo.
+2. CKD stage 3 - stable, monitor Cr/eGFR q6mo, avoid nephrotoxic agents, continue losartan for renal protection.
+3. Asthma - well controlled, refill albuterol, no steroid burst needed. Reviewed inhaler technique verbally given telehealth format.
+4. Obesity - discussed diet/exercise, pt counseled on portion control given DM/CKD.
+5. Tobacco - pt quit smoking in 1999; hx notable per template above (1.5 ppd x7yr, quit x8yr, restarted 2ppd x6yr, quit for good in 1999). No current use, reinforced continued abstinence, praised long-term cessation.
+6. Health maintenance - due for flu/pneumococcal vaccine review, will address next visit.
+
+Refills sent to pharmacy per above. F/u telehealth or in-person in 3 months, sooner if issues.
+
+Electronically signed: Laura Castellano, FNP-C, 04/11/2023.

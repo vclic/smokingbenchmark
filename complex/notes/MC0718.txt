@@ -1,0 +1,36 @@
+H&P - New Patient to Establish Care
+Patient: Yolanda Martin (F), DOB 3/13/1967
+Date of Service: 03/13/2024
+Author: Teresa Alvarez, NP
+
+HPI: Pt is a 57 year old femal presenting to establish care with PCP, prior care per pt was at outside clinic records not on file. She reports hx of OSA, osteoarthritis, HFrEF, and COPD, all stable per pt report she says shes doing 'ok' overall but gets short of breath climbing stairs at home. Pt describes herself as a 'social smoker' for many years, states she only smokes when out with friends but has done this for a long time now. Denies chest pain, denies fevr, some occasional cough [inaudible] worse in am. She uses CPAP nightly per report compliance is variable she thinks maybe 4-5 nights a week but not sure exact.
+
+ROS: otherwise negative except as above, all other systems reviewed and negative.
+
+Social History (templated):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Alcohol use: occasional, pt reports
+Drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+
+PMH: OSA, osteoarthritis, HFrEF, COPD
+Meds: metoprolol succ, furosemide, sacubitril-valsartan, albuterol prn, tiotropium
+Allergies: NKDA
+
+Exam: Vitals stable, BP 128/76, HR 78, RR 18, SpO2 94% on RA. Gen: NAD, alert. CV: RRR no m/r/g. Lungs: mild expiratory wheeze bilat, no rales. Ext: trace edema b/l. MSK: crepitus b/l knees, no effusion.
+
+Assessment/Plan:
+1. HFrEF - continue current regimen, recheck BNP and BMP today, follow up in 4 wks.
+2. COPD - continue tiotropium and albuterol prn, pt currently smokes cigarettes, tobacco cessation counseling provided today, discussed nicotine replacement options, pt to consider.
+3. OSA - continue CPAP, encourage improved compliance, will send referral to sleep med if not improved.
+4. Osteoarthritis - continue conservative mgmt, PT referral offered.
+5. Health maintenance - updated vaccines discussed, mammogram due will schedule, general preventive care topics reviewed with pt.
+
+Plan reviewed with pt, all questions answered, follow up as above.
+
+---ADDENDUM (same day, later)---
+Addendum added by T. Alvarez, NP, later same date 03/13/2024: Pt called back after visit to clarify she is not interested in nicotine patches at this time, prefers to try cutting back on her own first, will readdress at next visit. No other changes to plan.

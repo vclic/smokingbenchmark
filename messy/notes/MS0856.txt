@@ -1,0 +1,49 @@
+PULMONOLOGY CONSULT / LETTER TO REFERRING PHYSICIAN
+Patient: Wayne Lee (M), DOB 8/18/1945, Age: 80
+Date of Service: 08/18/2025
+Author: Catherine Lindqvist, DO
+
+RE: Follow-up after recent ED visit / COPD exacerbation
+
+Dear Dr. Nolan,
+
+Thank you for referring Mr. Lee, an 80-year-old gentleman, for pulmonology follow-up after his recent COPD exacerbation which was managed in the ED with nebulizers and a course of prednisone. He presents today for outpatient follow-up, date of service 08/18/2025.
+
+HPI: Pt reports gradual improvement in dyspnea since the ED visit, though he notes he tires easily w/ exertion, especially climbing stairs at home. Denies fevers, denies hemoptysis, some residual cough productive of clear-to-white sputum. He states his inhalers are helping, thou he sometimes forgets the evening dose. No chest pain, no palpitations noted although he does carry a hx of atrial fibrillation (see below). Sleep has been fair, uses CPAP most nights per wife.
+
+PROBLEM LIST:
+1. COPD exacerbation, resolving - J44.1
+2. Hypothyroidism - E03.9
+3. Essential hypertension - I10
+4. Obstructive sleep apnea - G47.33
+5. Atrial fibrillation - I48.91
+6. Chronic kidney disease, stage 3 - N18.3
+7. Benign prostatic hyperplasia - N40.0
+8. Tobacco use disorder, former - Z87.891 (outdated entry, see SH below for updated status)
+
+SOCIAL HISTORY: Smoking - patient has a long-standing history of smoking 1 pack per day beginning at age 16 and continuing until he quit at age 79; he no longer smokes cigarettes; he reports his quit date was February 2025. He also endorses use of marijuana a few times a month, states it helps with appetite and sleep, denies other recreational drug use. Denies current alcohol use. Lives with wife, retired machinist.
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, unintentional weight loss. Eyes - no visual changes. ENT - no sore throat, no epistaxis. Cardiovascular - denies chest pain, denies orthopnea, does note occasional palpitations [inaudible] which he attributes to his known afib, on anticoagulation per cardiology. Respiratory - as above, chronic cough, improving dyspnea, denies wheeze at rest. GI - denies nausea, vomiting, diarrhea, constipation. GU - reports nocturia x2-3 which he attributes to his BPH, denies dysuria, denies hematuria. Musculoskeletal - mild low back pain, chronic, unchanged. Neuro - denies focal weakness, denies numbness. Skin - no rashes. Psych - denies depression, denies anxiety, sleep as noted above.
+
+PHYSICAL EXAM: Vitals - BP 138/82, HR 78 irregularly irregular, RR 18, SpO2 94% on room air, Temp 97.6F, Wt 182 lbs. General - well-developed, well-nourished male, appears stated age, in no acute distress. HEENT - normocephalic, atraumatic, oropharynx clear, no thrush. Neck - no JVD, no lymphadenopathy, thyroid nonpalpable. Cardiovascular - irregularly irregular rhythm consistent w/ known afib, no murmurs appreciated, no significant peripheral edema. Respiratory - mild expiratory wheeze bilaterally, diminished breath sounds at bases, no crackles, no accessory muscle use at rest. Abdomen - soft, nontender, nondistended, no organomegaly. Extremities - no clubbing, no cyanosis, trace edema bilat ankles. Neuro - alert and oriented x3, gait steady w/ cane. Skin - warm, dry, intact.
+
+MEDICATIONS: Levothyroxine 75 mcg daily, Lisinopril 20 mg daily, Metoprolol succinate 50 mg daily, Apixaban 5 mg BID, Tamsulosin 0.4 mg daily, Tiotropium inhaler daily, Albuterol/ipratropium nebulizer PRN, Fluticasone/salmeterol inhaler BID, Atorvastatin 20 mg daily, prednisone taper (currently on day 4 of taper from ED course).
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue current inhaler regimen, complete prednisone taper as directed, reinforce inhaler technique, given his improved symptoms will continue tiotropium and fluticasone/salmeterol combo, albuterol/ipratropium PRN for breakthrough. Pulmonary function testing to be scheduled once exacerbation fully resolved.
+2. Tobacco history - discussed his prior smoking history in detail; he is to be commended on cessation. Given his age and extensive smoking history lung cancer screening was discussed in general terms with patient and risks/benefits reviewed; no imaging ordered today, will readdress at future visit as appropriate.
+3. Marijuana use - counseled regarding pulmonary irritant effects of inhaled marijuana, encouraged to consider alternative routes if he continues use.
+4. Atrial fibrillation - continue apixaban and metoprolol, no changes, will defer to cardiology for further management.
+5. CKD stage 3 - stable, monitor renal function w/ labs at next visit, avoid nephrotoxic agents.
+6. HTN - well-controlled on current regimen.
+7. OSA - continue CPAP compliance, encourage nightly use.
+8. BPH - continue tamsulosin, no acute concerns today.
+9. Hypothyroidism - stable on current dose, TSH to be rechecked in 3 months.
+
+Follow-up in pulmonology clinic in 4-6 weeks or sooner if symptoms worsen. Patient educated on when to seek urgent care (worsening dyspnea, fever, chest pain). Return precautions reviewed and understood.
+
+Thank you again for this interesting referral. Please do not hesitate to contact our office w/ any questions.
+
+Sincerely,
+Catherine Lindqvist, DO
+Pulmonology

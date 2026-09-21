@@ -1,0 +1,64 @@
+Pulmonology Follow-up Visit
+Date of Service: 09/03/2025
+Author: Elena Markovic, MD
+
+Patient: George Brooks | DOB: 09/03/1975 | Age: 50 | Sex: M
+
+HPI:
+Mr Brooks is a 50 yo male with hx of T2DM, asthma, hypothyroidism, HFrEF, and BPH who presents for f/u after recent ED visit for COPD exacerbation. He reports gradual improvement in dyspnea since d/c but still c/o mild cough and some wheeze in am. Denies fever, chest pain, or lower extremity edema currently. Using rescue inhaler more than usual last week but tapering back down now. He was seen in ED 08/27/2025 tx w/ nebs, steroids, and short abx course, d/c home in stable condition.
+
+Past Medical Hx: T2DM, asthma, hypothyroidism, HFrEF (EF 35% on last echo 2024), BPH.
+
+Social History (EHR template):
+Tobacco use: Current every day smoker
+  - Smoking Hx: Pt smoked 1.5 packs per day for 13 years, then stopped completely for 5 years; subsequently restarted smoking at 2 packs per day for 11 years and continues to smoke at present.
+  - Previously quit in 2017 but relapsed in 2020.
+Alcohol use: Not on file
+Drug use: denies
+Occupation: retired warehouse supervisor
+Living situation: lives w/ spouse
+Exercise: Not on file
+
+ROS: Otherwise negative except as noted in HPI. No hemoptysis, no unintentional weight loss.
+
+Physical Exam:
+Vitals: BP 138/84, HR 88, RR 18, T 98.4F, SpO2 94% on RA
+Gen: NAD, comfortable appearing
+HEENT: unremarkable
+Neck: no JVD appreciated
+CV: RRR, S1S2, no m/r/g
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft NT ND
+Ext: no edema
+Skin: warm dry
+
+Labs/Results:
+CBC (08/27/2025): WBC 9.8, Hgb 14.1, Plt 232
+BMP (08/27/2025): Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 156
+HbA1c (08/15/2025): 7.4%
+TSH (07/01/2025): 2.1 (WNL)
+BNP (08/27/2025): 210 (mildy elevated, baseline for pt)
+CXR (08/27/2025): mild hyperinflation, no acute infiltrate
+
+Problem List:
+- J44.1 COPD with acute exacerbation (resolving)
+- E11.9 Type 2 diabetes mellitus
+- J45.909 Asthma, unspecified
+- E03.9 Hypothyroidism
+- I50.22 Chronic systolic (congestive) heart failure
+- N40.0 Benign prostatic hyperplasia w/o LUTS
+- Z87.891 personal hx of nicotine dependence (outdated entry, pt currently active smoker per updated hx below)
+
+Assessment/Plan:
+50 yo male w/ COPD exac improving s/p recent ED tx, multiple comorbid conditions.
+1. COPD exacerbation - continue prednisone taper, albuterol prn, f/u spirometry once stable. Pt counseled extensively regarding ongoing active tobacco use; strongly advised to quit given COPD and HFrEF. General discussion held regarding preventive health topics relevant to his smoking hx; pt to follow up w PCP on this.
+2. HFrEF - continue GDMT, monitor wt daily, BNP trending stable.
+3. T2DM - A1c 7.4, continue metformin, reinforce diet/exercise.
+4. Asthma - overlap w COPD sx, continue ICS/LABA.
+5. Hypothyroidism - TSH WNL, cont levothyroxine.
+6. BPH - stable, no acute issues, cont tamsulosin.
+
+Return to clinic in 4 weeks or sooner if worsening sx. Pt verbalizes understanding of plan.
+
+Elena Markovic, MD
+Pulmonology

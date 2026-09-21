@@ -1,0 +1,70 @@
+Primary Care Office Visit
+
+Patient: WRIGHT, Edward    MRN: 94984075
+DOB: 05/02/1956    Age: 67 y.o.    Sex: Male
+Date of Service: 05/03/2023    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Edward Wright is a 67 y.o. male who presents for pre-operative evaluation prior to cataract surgery.
+Scheduled for cataract surgery on 6/7/2023. Walks daily without limitation. No personal/family hx of anesthesia problems.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia
+• Benign prostatic hyperplasia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2004)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tamsulosin 0.4 mg nightly
+• finasteride 5 mg daily
+• rosuvastatin 10 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Worked as a bartender for ~20 years with heavy secondhand smoke exposure.
+  Drinks a glass of wine with dinner.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 116/79 (BP Location: Left arm, Patient Position: Sitting) | Pulse 96 | Temp 98.3 °F (Oral) | Resp 16 | Ht 5' 6" | Wt 139 lb | SpO2 97% | BMI 22.50 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 0. Low risk; no further testing needed. Hold ASA 5 days prior per surgeon.
+2. Health maintenance
+   LCS: N/A - never smoker.
+
+RTC 6 months.
+
+Electronically signed by Rachel Goldberg, MD on 05/03/2023

@@ -1,0 +1,53 @@
+URGENT CARE PROGRESS NOTE
+Patient: Mary Thompson (F), DOB 7/14/1948, age 76
+Date of Service: 07/14/2024
+Author: Daniel Reyes, MD (NP progress note)
+
+CC: cough x several days, worsening, pt states "cant catch my breathe" at times
+
+HPI: 76 yo F with h/o COPD and BPH presents to UC today 7/14/2024 for eval of cough. Pt reports cough began about a wk ago, non productive initially now occasionally productive of clear sputum. Denies fever, denies chest pain, endorses mild SOB with exertion which she says is her baseline COPD. No hemoptysis. No recent travel no sick contacts. Pt also reports occassional use of marijuana, a few times a month, for appetite/relaxation, denies other recreational drug use.
+
+***COPIED FORWARD FROM PRIOR VISIT 03/02/2023 - PLEASE DISREGARD OUTDATED INFO BUT LEFT IN CHART PER TEMPLATE***
+Pt seen for routine f/u of COPD and BPH. Pt reports doing well overall, using albuterol prn approx 1-2x/wk. Denies increased SOB, denies cough at that time. BPH sx stable on tamsulosin, nocturia 1x/night. Pt ambulatory without assistive device. Vitals stable, lungs clear to auscultation bilaterally at that visit, no wheezes rales or rhonchi noted. Plan at that time: continue current meds, f/u in 6 months, routine labs ordered including PSA and BMP.
+***END COPIED FORWARD SECTION***
+
+ROS: (+) cough, (+) mild dyspnea on exertion; (-) fever/chills, (-) chest pain, (-) hemoptysis, (-) GI sx, (-) urinary retention, nocturia stable per pt
+
+PMH:
+- COPD
+- BPH
+
+Problem List (ICD-10):
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- N40.1 Benign prostatic hyperplasia with lower urinary tract symptoms
+- I10 Essential hypertension (outdated, pt reports this resolved yrs ago per pt report, not on any BP meds currently)
+- Z87.891 Personal history of nicotine dependence
+
+Meds: albuterol HFA inhaler prn, tiotropium daily, tamsulosin 0.4mg qhs
+
+Allergies: NKDA
+
+Soc Hx: lives alone, ambulates independently, retired schoolteacher. Etoh occasional glass of wine. Uses marijuana a few times a month per pt report.
+
+Vitals: BP 132/78, HR 84, RR 18, Temp 98.4F, SpO2 94% on room air
+
+Physical Exam:
+Gen: NAD, alert oriented x3, appears stated age
+HEENT: PERRLA, oropharynx clear, no erythema
+Neck: no LAD, no JVD
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi, mild increased work of breathing noted but pt speaking in full sentances
+Abd: soft NT ND, +BS
+Ext: no edema, no cyanosis
+Skin: warm dry intact
+Neuro: grossly nonfocal
+
+Assessment/Plan:
+1. Cough, likely acute bronchitis vs COPD exacerbation (mild) - will start course of prednisone taper and continue albuterol prn, encourage fluids and rest, f/u if worsening sob or fever return to UC or ED. Pt is a former smoker, quit smoking at age 75. Pt has smoking hx notable for half a pack (about 10 cigarettes) per day for 57 years. Given extensive smoking history, lung cancer screening was discussed with pt including risks/benefits, pt to follow up with PCP re: same.
+2. COPD - stable-ish today, continue tiotropium, reinforce inhaler technique, discussed smoking cessation maintenance (pt already quit, reinforced importance of staying quit)
+3. BPH - stable, continue tamsulosin, no acute urinary complaints today
+4. Marijuana use - counseled re: use a few times a month, discussed potential resp irritant effects given COPD, pt verbalizes understanding
+
+Return precautions given, pt verbalizes understanding, will f/u with PCP within 1-2 wks or sooner if worsening sx. Rx sent to pharmacy. Total visit time spent 25 min, more than half spent on counseling/coordination of care.
+
+Daniel Reyes, MD

@@ -1,0 +1,77 @@
+OUTPATIENT H&P - NEW PATIENT VISIT TO ESTABLISH CARE
+Primary Care - Owen Fitzgerald, MD
+Date of Service: 06/21/2026
+
+Patient: Samuel Jackson
+DOB: 03/25/1967 (age 59)
+Sex: M
+
+CHIEF COMPLAINT: Establish care with new PCP.
+
+HPI: Mr. Jackson is a 59-year-old male who presents today to establish primary care, having recently relocated to the area. He reports a history of coronary artery disease, s/p [inaudible] intervention per patient report though records are pending, heart failure with reduced ejection fraction, depression, and gout. He denies chest pain, orthopnea, or PND today, though he does note occasional two-pillow sleeping habit which he attributes to reflux rather then cardiac symptoms. He states he feels his mood has been "stable" on current regimen. No recent gout flares. He is here today mainly to transfer care and refill medications.
+
+He mentions he quit smoking cigarettes in March 2011 and has not resumed since. He was previously a heavy smoker before quitting.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. I25.10 - Coronary artery disease, native vessel, without angina
+2. I50.22 - Chronic systolic (congestive) heart failure
+3. F33.1 - Major depressive disorder, recurrent, moderate
+4. M10.9 - Gout, unspecified
+5. E78.5 - Hyperlipidemia (outdated entry, last documented 2019, unclear if still active)
+6. J45.909 - Asthma, unspecified (outdated - patient denies any hx of asthma, likely carried over in error from prior EMR)
+
+MEDICATIONS:
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 10 mg PO daily
+- Spironolactone 25 mg PO daily
+- Furosemide 20 mg PO daily
+- Atorvastatin 40 mg PO qHS
+- Allopurinol 300 mg PO daily
+- Sertraline 100 mg PO daily
+- Aspirin 81 mg PO daily
+- Colchicine 0.6 mg PO PRN gout flare
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Patient lives with spouse, retired machinist. He has a 38 pack-year smoking history. He no longer smokes; he quit smoking cigarettes in March 2011, as noted above in the HPI. He denies any current alcohol use - he reports he quit drinking alcohol in 2005 and has remained abstinent since that time. No illicit drug use reported. He denies current or past use of e-cigarettes or vaping products. Lives in single-family home, denies safety concerns.
+
+FAMILY HISTORY: Father with MI at age 62, mother with type 2 diabetes. One brother, alive and well.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss or gain.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies hearing loss, denies sore throat, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, admits mild lower extremity edema which he says is his "baseline."
+Respiratory: Denies cough, denies hemoptysis, denies wheeze; does report occasional shortness of breath with exertion, stable and unchanged over past year.
+GI: Denies abdominal pain, denies nausea, denies vomiting, denies change in bowel habits, does report occasional reflux symptoms as noted above.
+GU: Denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: Positive for occasional joint pain in great toe c/w prior gout flares, denies current flare.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies headache, denies dizziness, denies focal weakness or numbness.
+Psychiatric: Endorses history of depression, currently stable on sertraline, denies SI/HI.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb, Ht 5'10"
+General: Well-appearing male, no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated, trace bilateral lower extremity edema noted.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no hepatosplenomegaly.
+Extremities: Trace edema as above, no clubbing or cyanosis, first MTP joints without active inflammation bilaterally.
+Skin: Warm and dry, no rashes or lesions noted.
+Neuro: Cranial nerves II-XII grossly intact, motor strength 5/5 throughout, no focal deficits.
+Psych: Mood euthymic, affect appropriate, normal speech pattern.
+
+ASSESSMENT AND PLAN:
+Samuel Jackson is a 59-year-old male establishing care today, date of service 06/21/2026, with history of coronary artery disease, heart failure with reduced ejection fraction, depression, and gout.
+
+1. Coronary artery disease - Stable, continue aspirin, statin, beta-blocker. Will obtain outside records to clarify prior interventions. Given his smoking history he is a former smoker, quit in 2011, this is reassuring, we will continue to reinforce abstinence at future visits.
+2. HFrEF - Clinically euvolemic today, continue GDMT as above, will check BNP and BMP today, follow up echo results if available from prior cardiologist.
+3. Depression - Stable on sertraline, continue current dose, screen with PHQ-9 today.
+4. Gout - No active flare, continue allopurinol, colchicine PRN, recheck uric acid level today.
+5. Health maintenance - Discussed age-appropriate cancer screening including colonoscopy and, given his prior smoking history, lung cancer screening was discussed as a topic for further conversation once records are obtained; discussed continued alcohol abstinence which patient has maintained since quitting drinking alcohol in 2005; discussed diet and exercise; immunizations reviewed and updated as needed.
+
+Follow up in 4-6 weeks or sooner if symptoms arise. Patient verbalized understanding and agreement with plan.
+
+Owen Fitzgerald, MD

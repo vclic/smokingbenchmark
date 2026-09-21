@@ -1,0 +1,52 @@
+PROGRESS NOTE
+Date of Service: 10/20/2025
+Patient: Larry Bryant   DOB: 5/18/1953   MRN: 94167147
+
+S:
+CC: BP check
+HPI: Mr. Bryant is a 72 year old male with a history of BPH, CKD3, HLD, and HTN who presents for follow-up of hypertension. Home BP readings mostly in the 120s/70s. Taking lisinopril 10 mg daily without missed doses. No HA, CP, SOB, or LE swelling.
+
+PMH:
+- Chronic kidney disease stage 3a
+- Type 2 diabetes mellitus
+- Essential hypertension
+- Mixed hyperlipidemia
+- Benign prostatic hyperplasia (dx 2020)
+PSH: Rotator cuff repair (2009); Lumbar laminectomy (2020)
+Meds: lisinopril 10 mg daily; simvastatin 20 mg nightly; amlodipine 5 mg daily; metformin 500 mg BID; glipizide 5 mg daily; tamsulosin 0.4 mg nightly; finasteride 5 mg daily
+Allergies: Penicillin (rash)
+SH: Married, lives with wife. Retired postal worker. Uses a nicotine vape daily; no combustible cigarettes since quitting. Occasional marijuana use. Social drinker. Exercise: walks daily.
+FH: No family hx of colon cancer.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 127/93  HR: 64  RR: 14  Temp: 98.2 F  SpO2: 98% on RA  Wt: 138 lbs  BMI: 21.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (11-Oct-2025): A1c 7.3%, LDL 95, Cr 1.22, K 4.4
+
+A/P:
+1. Hypertension: Above goal; increase lisinopril dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Former smoker
+   - 58 pk-yr. Congratulated on remaining smoke-free.
+3. Chronic kidney disease stage 3a
+   - Cr stable. Avoid NSAIDs.
+
+Follow up in 12 months or sooner PRN.
+
+-- SP (MD)

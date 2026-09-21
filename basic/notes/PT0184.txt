@@ -1,0 +1,73 @@
+Primary Care Clinic Note
+
+Patient: ANDERSON, Ronald    MRN: 27644845
+DOB: 10/04/1961    Age: 64 y.o.    Sex: Male
+Date of Service: 03/02/2026    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Cough x 17 days
+
+Subjective:
+Ronald Anderson is a 64 y.o. male who presents for cough and congestion.
+Cough for 17 days, dry. Low-grade fevers initially, now resolved. No sick contacts. No hemoptysis.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• HTN
+• Class I obesity
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 40 mg daily
+• ezetimibe 10 mg daily
+• multivitamin daily
+• rosuvastatin 20 mg daily
+• chlorthalidone 12.5 mg daily
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives alone in an apartment.
+  No alcohol.
+  No IVDU.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Gen neg, CV neg, MSK neg, GU neg
+
+Objective:
+Vitals:
+  BP 137/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 63 | Temp 97.8 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 216 lb | SpO2 99% | BMI 33.87 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Scattered rhonchi that clear with cough
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Acute bronchitis
+   Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+2. Class I obesity
+   Discussed diet and exercise.
+3. HTN
+   Well controlled on home log. No changes.
+4. Hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 6 months (around 9/2/2026).
+
+Electronically signed by Michael Dunn, DO on 03/02/2026

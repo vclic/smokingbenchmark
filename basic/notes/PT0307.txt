@@ -1,0 +1,42 @@
+General Medicine Clinic Clinic Note
+Date of Service: 06/26/2026
+Patient: Larry Alexander   DOB: 12/7/1951   MRN: 51898539
+
+S:
+CC: Fatigue
+HPI: Mr. Alexander is a 74-year-old man with a history of CKD3, HLD, T2DM, and HTN who presents for fatigue. Fatigue for 3 months. Sleeping 8 hrs but not refreshed. No weight change.
+
+PMH:
+- HTN (dx 2012)
+- T2DM without complication
+- Chronic kidney disease stage 3a
+- Hyperlipidemia
+Meds: rosuvastatin 10 mg dialy; insulin glargine 20 units nightly; metformin 1000 mg BID; losartan 50 mg daily; amlodipine 5 mg daily; vitamin D3 2000 IU daily
+Allergies: Sulfa drugs
+SH: Widowed; lives with son. He denys ever smoking cigarettes. Drinks a glass of wine with dinner. Drives.
+FH: Noncontributory.
+ROS: Gen neg, MSK neg, GI neg, CV neg
+
+OBJECTIVE:
+Vitals: BP: 131/94  HR: 87  RR: 16  Temp: 98.0 F  SpO2: 97% on RA  Wt: 162 lbs  BMI: 24.0
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+
+A/P:
+1. Fatigue
+   - CBC, CMP, TSH, B12, vitamin D ordered. Sleep study if unrevealing.
+2. HTN: Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Hyperlipidemia
+   - Tolerating statin; recheck lipids in 1 yr.
+
+Follow up in 6 months or sooner PRN.
+
+-- AP (MD)

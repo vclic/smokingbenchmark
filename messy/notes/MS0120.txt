@@ -1,0 +1,64 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Marilyn Hill (F), DOB: 3/7/1952 (age 73)
+Date of Service: 03/07/2025
+Author: Kevin Osei, MD
+
+REASON FOR VISIT: Pre-operative medical evaluation prior to right total knee replacement, ortho referral from Dr. Callahan's clinic.
+
+HPI: Pt is a 73-year-old woman with hx of BPH, CKD stage 3, and HTN who presents today for pre-op clearance ahead of elective TKA scheduled next month. She reports progressive right knee pain, worse w/ ambulation, minimal relief w/ NSAIDs (limited 2/2 renal fxn). No chest pain, no SOB at rest, denies orthopnea/PND. Functional status otherwise fair - able to do most ADLs, uses cane occasionally. No recent falls.
+
+PAST MEDICAL HISTORY: BPH, CKD stage 3 (baseline Cr ~1.6), HTN, osteoarthritis (knee, hip).
+
+SOCIAL HISTORY (EHR templated block):
+  Tobacco use: Former smoker
+  Pack-year history: 37 pack-years
+  Years since quit: 24 years
+  Alcohol use: Not on file
+  Drug use: Not on file
+  Occupation: Retired
+  Living situation: [blank]
+  Exercise: Not on file
+
+Pt confirms she no longer smokes; she quit smoking 24 years ago. No current tobacco use of any kind reported today.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 ----
+Pt seen for routine HTN follow up. BP well controlled on lisinopril 20mg daily. Denies headache, visual changes, chest pain. CKD stage 3 stable, last Cr 1.5, eGFR 38. Urinalysis w/o proteinuria. BPH - on tamsulosin 0.4mg qhs, nocturia improved from 3x to 1x nightly. Pt denies dysuria, hematuria. PSA last checked 2021, WNL. Continue current regimen. Social hx reviewed at that time, unchanged from prior. Pt lives alone, ambulates independently, uses walker occasionally for longer distances. Diet: low sodium, pt reports adherence. F/u in 6 months or PRN.
+---- END COPIED TEXT ----
+
+ROS: Constitutional - no fever, no wt loss. CV - no CP, no palpitations. Resp - no cough, no dyspnea. GU - nocturia stable, no hematuria. MSK - + right knee pain as above, no other joint c/o. All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Lisinopril 20mg daily
+2. Tamsulosin 0.4mg qhs
+3. Acetaminophen PRN knee pain
+4. Vitamin D supplement
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Wt 154 lb
+General: NAD, well-appearing elderly female
+HEENT: NC/AT, PERRL, no scleral icterus
+CV: RRR, no murmurs/gallops/rubs
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, no organomegaly
+Ext: right knee w/ crepitus, mild effusion, decreased ROM 2/2 pain; no calf tenderness; no edema
+Neuro: A&Ox3, no focal deficits
+
+LABS (reviewed today): BMP - Cr 1.6, eGFR 36, K 4.3, Na 140. CBC WNL. Coags WNL.
+EKG: NSR, no acute ST-T changes, rate 74.
+
+ASSESSMENT/PLAN:
+73F with BPH, CKD stage 3, HTN presenting for pre-op eval prior to TKA.
+
+1. Peri-operative risk: Low-to-moderate cardiac risk per RCRI, functional capacity adequate (>4 METs w/ some limitation 2/2 knee). Cleared for surgery from IM standpoint w/ standard precautions.
+2. CKD stage 3: Renal function stable, will need careful attn to periop fluids and avoid nephrotoxic agents (NSAIDs) postop. Recheck BMP post-op.
+3. HTN: Well controlled, continue lisinopril, hold morning of surgery per anesthesia protocol.
+4. BPH: Continue tamsulosin, counsel re: urinary retention risk post-anesthesia, may need foley periop.
+5. Tobacco history: Former smoker, 37 pack-year history, quit 24 years ago; counseled to continue abstinence from tobacco.
+6. Pre-op labs/EKG reviewed, unremarkable aside from known CKD.
+7. Pt educated on peri-op expectations, return precautions post-discharge from surgery given CKD and BPH.
+
+F/u after surgery or sooner if concerns. Case discussed w/ anesthesia colleagues re: renal dosing considerations.
+
+Electronically signed: Kevin Osei, MD

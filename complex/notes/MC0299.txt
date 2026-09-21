@@ -1,0 +1,25 @@
+Family Medicine Progress Note
+Patient: Thomas Washington | DOB: 1/4/1947 | Age: 78 | Date of Service: 01/04/2025
+Author: Farah Siddiqui, MD
+
+CC: Annual wellness visit.
+
+HPI: Mr Washington is a 78 year old male here for annual wellness exam he reports feeling generally well overall some increased fatigue in the afternoons no chest pain no SOB at rest, he notes occasional knee pain worse w/ weather changes. He continues on metformin for his diabetes and states blood sugars have been "okay-ish" per home glucometer readings. Denies new cough hemoptysis or weight loss. Pt states mood has been stable on current antidepressant regimen [inaudible] some days better than others but overall coping.
+
+Social History: Smokes cigarettes, currently smoking about half a pack (10 cigs) per day. He has set a quit date for 2/13/2025 and states he wants to try nicotine patches when he stops. No alcohol use reported. Lives alone, ambulates independently.
+
+ROS: Constitutional - fatigue as above, otherwise negative. Resp - occasional wheeze, no hemoptysis. CV - no chest pain no palpitations. GI - unremarkable. Msk - chronic knee pain. Psych - see HPI.
+
+Exam: Vitals stable, BP 138/82, HR 76, RR 16, SpO2 95% RA. Gen - well appearing elderly male NAD. Lungs - mild expiratory wheeze bilat no crackles. CV - RRR no m/r/g. Ext - no edema mild crepitus bilat knees. Skin - intact.
+
+Assessment/Plan:
+1. COPD (J44.9) - stable on current inhalers continue tiotropium and albuterol PRN, smoking cessation counseling provided again today, discussed nicotine replacement options and pt reiterated plan to quit per above target date.
+2. Type 2 diabetes mellitus (E11.9) - continue metformin, recheck A1c in 3 mo.
+3. Hyperlipidemia (E78.5) - continue statin, lipid panel due at next visit.
+4. Osteoarthritis (M19.90) - continue acetaminophen PRN, consider PT referral.
+5. Depression (F32.9) - stable, continue current med, follow up in 3 mo or sooner if worsening.
+6. Health maintenance - lung cancer screening was discussed with patient given smoking history, further discussion to occur at future visit.
+
+Return to clinic in 3 months or sooner as needed.
+
+Addendum (later same day, F. Siddiqui MD): Pt called clinic later this afternoon to clarify he understood the counseling provided and confirmed he plans to keep his quit date of 2/13/2025, no acute concerns reported no further action needed at this time.

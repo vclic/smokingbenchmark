@@ -1,0 +1,56 @@
+H&P - Pre-operative Evaluation
+Patient: Theresa Jackson
+DOB: 01/17/1967
+Age: 59
+Date of Service: 01/17/2026
+Provider: Owen Fitzgerald, MD
+
+CC: Pre-op eval for elective right total knee replacement.
+
+HPI: 59 y/o F w/ h/o GERD, HTN, HLD, osteoporosis, BPH (PSA followed by urology), obesity, presents for pre-op medical clearance prior to TKA. Knee pain worsening over past yr, failed conservative mgmt incl NSAIDs, PT, injections. No CP, no SOB at rest. Denies fevers/chills.
+
+---COPIED FORWARD FROM VISIT 03/12/2024---
+Pt seen for routine f/u HTN/HLD. BP well controlled on lisinopril. Lipid panel reviewed, LDL at goal on atorvastatin. GERD sx well controlled w/ omeprazole, advised continue low-fat diet, avoid late meals. Osteoporosis - last DEXA reviewed, on alendronate, calcium/vit D supplementation continued. BPH stable, tamsulosin tolerated well, no urinary retention. Obesity - discussed weight mgmt strategies, referred to nutrition. RTC 6 months for routine f/u.
+---END COPIED TEXT---
+
+ROS: Denies chest pain, palpitations, orthopnea, PND. Denies cough, hemoptysis, wheeze. GI: occasional heartburn, controlled. GU: nocturia x1, stable. MSK: R knee pain as above, limiting ambulation. Denies bleeding disorders.
+
+PMH: GERD, HTN, HLD, osteoporosis, BPH, obesity.
+PSH: Cholecystectomy 2010.
+Meds: Lisinopril, atorvastatin, omeprazole, alendronate, tamsulosin, calcium/vit D, ibuprofen prn.
+Allergies: NKDA.
+FH: Noncontributory.
+SH: Retired schoolteacher, lives w/ spouse, independent ADLs. Rare EtOH. No illicit drug use.
+
+Exam:
+Vitals: BP 128/78, HR 74, RR 16, Temp 98.4F, SpO2 97% RA, BMI 33.
+Gen: NAD, obese female, alert, cooperative.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, NT/ND, obese habitus.
+Ext: R knee w/ crepitus, decreased ROM, no effusion, no erythema. Pulses 2+ bilat.
+Skin: no lesions.
+
+Labs/Results:
+CBC (01/10/2026): WBC 6.8, Hgb 13.1, Hct 39.2, Plt 245.
+BMP (01/10/2026): Na 140, K 4.1, Cl 102, CO2 25, BUN 15, Cr 0.8, Glu 98.
+EKG (01/17/2026): NSR, no acute ST changes, rate 74.
+CXR (01/10/2026): No acute cardiopulmonary process.
+
+Assessment/Plan:
+59 y/o F, DOS 01/17/2026, pre-op eval for R TKA. Cardiopulmonary risk low, cleared for surgery from IM standpoint.
+
+1. Tobacco history: Former smoker. Patient quit smoking. Hx notable for smoking 2 packs per day for 11 years, followed by approx 15 cigarettes per day for the next 18 years, before quitting entirely. Patient quit smoking when her youngest grandchild was born; that grandchild is now 7 years old. No current tobacco use, no vaping. Continue to reinforce tobacco-free lifestyle at future visits.
+2. HTN - continue lisinopril, BP well controlled today.
+3. HLD - continue atorvastatin.
+4. GERD - continue omeprazole, avoid NSAIDs periop if possible given GERD hx, will use acetaminophen preferentially post-op.
+5. Osteoporosis - continue alendronate/calcium/vit D, hold alendronate day of surgery per routine protocol.
+6. BPH - continue tamsulosin, monitor urinary retention post-op given anesthesia/opioid use.
+7. Obesity - counseled re: weight, activity as tolerated post rehab.
+Cleared for TKA, no additional cardiac workup needed at this time. F/u post-op or sooner if issues arise.
+
+Owen Fitzgerald, MD
+
+---ADDENDUM 01/17/2026 16:45---
+Spoke with orthopedic surgery team re: clearance, confirmed no contraindications to proceed. Discussed anesthesia risk factors given obesity and BPH, low risk overall. Reiterated importance of smoking cessation maintenance, patient reports no interest in resuming tobacco use, remains abstinent. No further addenda needed at this time.
+Owen Fitzgerald, MD

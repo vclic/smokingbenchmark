@@ -1,0 +1,49 @@
+Pulmonology H&P — Lung Cancer Screening Shared Decision-Making Visit
+Date of Service: 07/22/2025
+Author: Isaac Moreno, PA-C
+
+Patient: George Mitchell, M, DOB 07/22/1971 (age 54)
+
+CC: SDM visit re: lung ca screening, referred by PCP.
+
+HPI: Pt here for discussion of lung cancer screening options. No cough, no hemoptysis, some occasional [inaudible] chest tightness pt attributes to cold air, denies weight loss. Hx of osteoarthritis, CKD stage 3, hyperlipidemia — all stable per pt, follows w PCP q6mo, labs pending review today the results of which we will discuss and I explained risks benefits of screening at length pt seemed to understand and asked good questions.
+
+Copied from note dated 07/22/2021 (Pulm, prior visit): "Smoking status: current smoker." — copied forward for reference, no further detail available from that note.
+
+ROS: Denies fever, chills, dyspnea at rest. Occasional joint pain c/w known OA. Denies edema. Otherwise neg 10-pt ROS reviewed and negative except as noted above.
+
+Meds: atorvastatin, lisinopril, acetaminophen prn, others per PCP list on file — reconciled today.
+
+Allergies: NKDA.
+
+PMH/Problem List (ICD-10):
+- M19.90 Osteoarthritis, unspecified site (active)
+- N18.30 Chronic kidney disease, stage 3 (unspecified) (active)
+- E78.5 Hyperlipidemia, unspecified (active)
+- J45.909 Asthma, unspecified (outdated — resolved per pt, likely miscoded years ago, will remove)
+- Z87.891 Personal history of nicotine dependence (see below, active smoker so this code may not be accurate currently — flag for correction)
+
+Social Hx: Pt is an active smoker, smokes daily. Lives w spouse, works in warehouse logistics, denies illicit drug use, occ EtOH.
+
+Exam:
+Vitals stable, BP 128/78, HR 76, RR 14, SpO2 97% RA, wt stable per flowsheet.
+Gen: NAD, well-appearing male, appropriate affect.
+HEENT: nl, no LAD.
+CV: RRR no m/r/g.
+Resp: CTAB no wheeze/rales/rhonchi, no accessory muscle use, good air movement bilat.
+Abd: soft NT/ND.
+Ext: no edema, mild crepitus bilateral knees c/w known OA.
+
+Assessment/Plan:
+1. Lung cancer screening SDM — pt has a 36 pack-year smoking history, active smoker at this time. Discussed screening guidelines, risks/benefits of imaging, discussed screening in detail with patient including false positive rates, incidental findings, and radiation exposure considerations. Pt to think it over, follow up to discuss further, will not schedule any imaging today. Counseled on smoking cessation, offered resources, pt states he is "thinking about it."
+2. CKD stage 3 — stable, recheck BMP w PCP, avoid nephrotoxic agents, continue current regimen.
+3. Hyperlipidemia — continue atorvastatin, recheck lipid panel at next visit.
+4. Osteoarthritis — continue acetaminophen prn, discussed activity modification, PT referral offered if worsens.
+5. Problem list reviewed, outdated asthma code flagged for removal at next encounter, will coordinate w PCP.
+
+F/u in pulm clinic in 3 months or sooner if symptoms arise, pt verbalized understanding of plan and agreed.
+
+---
+ADDENDUM (later same day, 07/22/2025, 4:15 PM):
+Pt called back after visit w additional question re: screening frequency once initiated, discussed briefly by phone, no change to plan above. Reiterated that this is a shared decision and no imaging has been ordered or scheduled at this time. Will readdress at f/u.
+— Isaac Moreno, PA-C

@@ -1,0 +1,46 @@
+RESIDENT NOTE - New Patient Visit to Establish Care
+Date of Service: 01/01/2025
+Author: Rachel Goldberg, MD (Resident), with attending attestation
+
+Patient: Paul Baker, M, DOB 01/01/1962 (age 63)
+
+CHIEF COMPLAINT: Establish care.
+
+HPI: Mr. Baker is a 63 y/o male with hx of hypothyroidism, CAD, OSA, and atrial fibrillation, presenting to establish primary care after moving to the area. He states, "I just need someone to keep an eye on my heart and my thyroid pills." He reports overall feeling well, denies chest pain at rest, occasional palpitations. He states, "I still smoke, probably always will, but I know I should cut down more." He denies alcohol or illicit drug use.
+
+--- COPIED FORWARD FROM VISIT 03/14/2022 (prior clinic, outside records) ---
+Pt seen for follow up of afib and OSA. On apixaban, tolerating well, no bleeding. CPAP compliance reportedly 5 hrs/night per home data. TSH last checked 11/2021 WNL on levothyroxine 75mcg. Denies syncope. Continue current meds. RTC 3 months.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Yes - active smoker
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Blank
+Exercise: Not on file
+
+PAST MEDICAL HISTORY: Hypothyroidism, CAD, OSA, Atrial fibrillation.
+
+MEDICATIONS: Levothyroxine 75 mcg daily, apixaban 5 mg BID, metoprolol succinate 50 mg daily, atorvastatin 40 mg daily.
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM: BP 132/84, HR 78 irregularly irregular, RR 16, SpO2 96% RA. Gen: NAD. CV: irregularly irregular rhythm, no murmurs. Lungs: clear bilaterally. Ext: no edema.
+
+LABS/RESULTS:
+- TSH (12/28/2024): 2.1 mIU/L (WNL)
+- Lipid panel (12/28/2024): LDL 88, HDL 42, TG 150
+- INR (not applicable, on apixaban)
+- EKG (01/01/2025): Atrial fibrillation, rate 76, no acute ST changes
+
+ASSESSMENT/PLAN:
+1. Tobacco use, active smoker - Patient reports he smoked one pack per day for 16 years, then cut back to about three-quarters of a pack (roughly 15 cigarettes) per day for 29 years and continues to smoke at that rate currently. Advised to quit, discussed cessation resources including counseling and pharmacotherapy options. Lung cancer screening discussed as a general topic for future consideration.
+2. Atrial fibrillation - continue apixaban and metoprolol, EKG today shows rate-controlled afib, will obtain echo.
+3. CAD - continue statin, reinforce lifestyle modification.
+4. OSA - continue CPAP, will request updated compliance data.
+5. Hypothyroidism - TSH within normal limits, continue current dose.
+
+RTC 3 months or sooner if concerns.
+
+Attending Attestation: I have reviewed and discussed this case with the resident and agree with the assessment and plan as documented. - Attending Physician

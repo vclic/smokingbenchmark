@@ -1,0 +1,37 @@
+NURSE INTAKE — Pulmonology Clinic
+DOS: 08/28/2025
+Patient: Carol Moore, F, DOB 08/28/1962 (age 63)
+Visit type: ED-to-clinic follow-up s/p COPD exacerbation
+
+Vitals: BP 132/78, HR 88, RR 18, SpO2 93% RA, Temp 98.4F, Wt 168 lb
+Allergies: NKDA
+
+TOBACCO/SUBSTANCE USE (EHR templated block):
+Smoking status: Former smoker
+History: 1.5 packs/day x 8 years; then 2 packs/day x 11 years; then 1 pack/day x 8 years before quitting.
+Alcohol: Patient quit drinking alcohol in 2010.
+Drug use: Denies.
+
+=== COPIED FORWARD FROM PRIOR VISIT (03/14/2023) ===
+HPI: Pt is a 61 y/o female here for routine f/u of COPD/GERD/OA. Reports occasional heartburn controlled on PPI. Joint pain stable, uses OTC NSAIDs sparingly. No new SOB at that time. Denies chest pain, denies hemoptysis. Continues home nebulizer prn. Plan was to continue current inhalers and follow up in 6 months.
+=== END COPIED TEXT ===
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no chills, mild fatigue. Resp: chronic cough, increased dyspnea on exertion, denies hemoptysis. CV: no chest pain, no palpitations, no edema. GI: occasional reflux, denies nausea/vomiting/diarrhea. MSK: chronic joint pain, denies swelling. Skin: no rash. Neuro: no HA, no dizziness. Psych: no depression, no anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Gen: NAD, well-appearing. HEENT: normocephalic, atraumatic, no scleral icterus. Neck: supple, no JVD, no lymphadenopathy. CV: RRR, no murmurs. Resp: mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles. Abd: soft, non-tender, non-distended, normal bowel sounds. Ext: no cyanosis, no clubbing, mild edema trace. Skin: warm, dry. Neuro: alert and oriented x3, no focal deficits.
+
+MEDICATIONS: Albuterol/ipratropium nebulizer PRN, Tiotropium inhaler daily, Fluticasone/salmeterol inhaler BID, Omeprazole 20mg daily, Acetaminophen 500mg PRN joint pain, Meloxicam 7.5mg daily, Vitamin D3 1000IU daily, Calcium carbonate daily, Montelukast 10mg daily, Azithromycin taper (recently completed post-exacerbation)
+
+PROBLEM LIST (ICD-10):
+J44.1 - COPD with acute exacerbation (resolving)
+K21.9 - GERD
+M19.90 - Osteoarthritis, unspecified
+Z87.891 - Personal history of nicotine dependence
+I10 - Essential hypertension (outdated, not currently active per pt)
+E78.5 - Hyperlipidemia, unspecified (outdated - patient reports lipids normal last check)
+
+ASSESSMENT/PLAN (Julia Brennan, MD):
+Ms. Moore is a 63-year-old former smoker being seen today, 08/28/2025, in follow-up after a recent ED visit for COPD exacerbation. She reports gradual improvement in dyspnea since completing steroid/antibiotic course. Exam notable for mild residual wheeze. Discussed continued smoking cessation maintenance (patient remains abstinent) and reviewed inhaler technique. She quit smoking when her grandson was born; that grandson is now 12 years old, and she has remained smoke-free since. Continue current inhaler regimen, add short pulmonary rehab referral, recheck spirometry in 4-6 weeks. GERD and OA stable on current regimen. Screening discussions regarding lung imaging were had in general terms; no imaging ordered today. Follow up in clinic in 6 weeks or sooner if symptoms worsen.
+
+--- ADDENDUM (later same day, 08/28/2025, 4:45pm, Dr. Brennan) ---
+Spoke with patient by phone after she reported mild lightheadedness post-visit; advised hydration and to monitor. No new symptoms of concern reported. Will proceed with plan as above; pulm rehab referral submitted.

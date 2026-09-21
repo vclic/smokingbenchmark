@@ -1,0 +1,33 @@
+TELEHEALTH F/U NOTE - Pulmonology
+Author: Nadia Haddad, MD
+DOS: 08/31/2025
+
+Pt: Maria Robinson, F, DOB 08/31/1950, age 75.
+
+HPI: 75 yo F w/ PAD, AFib, COPD, HTN, OA, T2DM seen via telehealth for f/u after recent ED visit for COPD exacerbation. Pt states "I'm breathing a lot better than last week, just still coughing up some junk in the mornings." Denies fever, chest pain. Using nebs prn. Reports adherence to inhalers though admits "I forget my evening dose sometimes." No new SOB at rest, ambulates without increased O2 requirement per pt report.
+
+ROS: Otherwise negative except as above.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+Type: Cigarettes
+Amount/frequency: currently ~1/4 pack/day (~5 cigs/day)
+Years smoked (current episode): 29 years, ongoing
+Prior smoking history: Pt reports smoked 3/4 pack/day (~15 cigs/day) for 24 years, then quit completely for 4 years, restarted afterward at ~1/4 pack/day (~5 cigs/day) x29 yrs, continues to date. Pt states she previously quit in 2018 but relapsed in 2021.
+Readiness to quit: Pt states she is not ready to quit at this time - "I've tried before, I'm not in the headspace for it right now."
+Alcohol use: Not on file
+Illicit drug use: Not on file
+Secondhand smoke exposure: Not on file
+
+Assessment/Plan:
+1. COPD, recent exacerbation, improving - continue current inhaler regimen, reviewed proper technique, f/u in pulm clinic 4 wks or sooner if worsening sx.
+2. Tobacco use, current - counseled re: health risks and benefits of cessation; discussed nicotine replacement options and cessation resources; pt declines at this time, will revisit at future visits. Lung cancer screening discussed in general terms.
+3. AFib - continue current anticoagulation per cardiology, no acute issues today.
+4. PAD - stable, continue antiplatelet therapy, no claudication changes reported.
+5. HTN - BP reported at home WNL, continue current regimen.
+6. T2DM - reports home glucose readings stable, continue metformin, will check A1c at next visit.
+7. OA - stable, using acetaminophen prn.
+
+RTC 4 wks, sooner if worsening resp sx. Pt educated on when to seek urgent care.
+
+/s/ Nadia Haddad, MD

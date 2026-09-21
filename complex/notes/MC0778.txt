@@ -1,0 +1,33 @@
+TELEHEALTH GERIATRIC ASSESSMENT
+Patient: Linda Lopez | DOB: 1/14/1959 | Age: 66 | Sex: F
+Date of Service: 01/14/2025
+Provider: Steven Park, MD
+
+HPI: Ms. Lopez seen via video visit for annual geriatric assessment. Reports stable mood on current regimen, some AM joint stiffness (OA) but no new falls. She has a longstanding smoking history - per patient, smoked about a quarter pack (approx 5 cigs/day) for 34 yrs, then increased to about 8 cigs/day for the following 18 yrs, continuing to the present. She notes she quit briefly in 2013 but relapsed in 2016 and has smoked since. No hemoptysis, no unintentional wt loss. DM2 reportedly stable on metformin, checks fingerstick sporadically.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Yes - active smoker
+ Type: Cigarettes
+ Quit attempts: Yes (see HPI)
+ Alcohol use: None - quit drinking in 2000
+ Drug use: Not on file
+ Occupation: Retired
+ Living situation: Not on file
+ Exercise: Not on file
+
+ROS: Denies chest pain, denies SOB at rest. + occasional cough, chronic. Denies fevers.
+
+LABS/RESULTS:
+ 01/02/2025 HbA1c 7.4%
+ 01/02/2025 CMP - unremarkable, Cr 0.9
+ 12/15/2024 Lipid panel - LDL 118
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder, active smoker - discussed health risks, counseled on cessation resources, offered pharmacotherapy (varenicline vs NRT), pt declined today, will readdress. Lung cancer screening options discussed in general terms; no imaging ordered today.
+2. Depression - stable, continue sertraline, follow up PHQ-9 next visit.
+3. Osteoarthritis - continue APAP/NSAID as needed, consider PT referral.
+4. Type 2 diabetes - A1c 7.4%, continue metformin, reinforce diet/exercise, recheck A1c in 3 months.
+
+Return to clinic/telehealth in 3 months or sooner if concerns. Time spent 25 min, mostly counseling re: tobacco cessation and diabetes management.
+
+Steven Park, MD - Geriatrics

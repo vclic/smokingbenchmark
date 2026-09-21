@@ -1,0 +1,70 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Roger Hill (M) DOB: 5/29/1973
+Date of Service: 05/29/2023
+Author: Elena Markovic, MD
+
+CC: Med refills - telehealth f/u
+
+HPI: Mr. Hill is a 50-year-old male seen today via video visit for routine medication refills. Reports doing reasonably well overall. No new chest pain, no palpitations reported today, though he notes occasional dyspnea on exertion that he attributes to cool weather. No hemoptysis, no unintentional weight loss. Continues home nebulizer PRN for COPD/asthma overlap. BPH sx stable on current regimen, nocturia x1. No GI complaints beyond intermittent reflux, controlled w/ PPI.
+
+PROBLEM LIST:
+- J44.9 COPD, unspecified
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- I48.91 Atrial fibrillation, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- N40.0 BPH without lower urinary tract symptoms (outdated - now with LUTS per pt report)
+- K21.9 GERD without esophagitis
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+  Pack-years: Not calculated in system
+  Smoking status detail: Patient smoked approximately 1 pack per day from 1987 until 2014, at which point he quit smoking. He has stated that he quit smoking 2 years after his wife passed away, which occurred in 2012.
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+ROS (templated, reviewed and updated):
+Constitutional: Denies fever, chills, weight loss.
+HEENT: No vision changes, no hearing changes.
+Cardiovascular: No chest pain today, occasional palpitations previously reported, stable.
+Respiratory: Chronic mild dyspnea on exertion, no acute change, no cough today.
+GI: Intermittent reflux, no nausea/vomiting/diarrhea.
+GU: Nocturia x1, no dysuria, no hematuria.
+Musculoskeletal: No new falls, no fractures.
+Neuro: No focal weakness, no numbness.
+Psych: Mood stable, denies SI/HI.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, telehealth - visual only):
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+Respiratory: No visible increased work of breathing, no use of accessory muscles observed.
+Cardiovascular: Unable to auscultate via telehealth; pt denies symptoms.
+Skin: No rashes or lesions visible on camera.
+(Formal exam deferred given telehealth format; in-person exam to be performed at next office visit.)
+
+CURRENT MEDICATIONS:
+1. Albuterol HFA inhaler PRN
+2. Tiotropium inhaler daily
+3. Fluticasone/salmeterol inhaler BID
+4. Apixaban 5mg BID
+5. Metoprolol succinate 50mg daily
+6. Alendronate 70mg weekly
+7. Tamsulosin 0.4mg daily
+8. Omeprazole 20mg daily
+9. Calcium/Vitamin D supplement daily
+
+ASSESSMENT/PLAN:
+1. COPD - stable, continue current inhalers, refill sent electronically.
+2. Osteoporosis - continue alendronate, weight-bearing exercise encouraged.
+3. Atrial fibrillation - rate controlled, continue metoprolol and apixaban, INR/labs not applicable (DOAC), refill sent.
+4. Asthma - overlap with COPD, stable, no exacerbations since last visit.
+5. BPH - continue tamsulosin, refill sent, will discuss urology f/u if worsening.
+6. GERD - continue omeprazole, dietary modification reviewed.
+7. Former tobacco use - counseled on maintaining abstinence, congratulated patient on quitting; general risks of prior smoking discussed with patient including need for ongoing pulmonary monitoring. Lung cancer screening options were discussed in general terms during the visit.
+
+Follow-up: RTC in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Elena Markovic, MD

@@ -1,0 +1,70 @@
+Adult Medicine Office Visit
+
+Patient: GONZALES, Lan    MRN: 18191135
+DOB: 08/25/1963    Age: 61 y.o.    Sex: Female
+Date of Service: 03/03/2025    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• SOB
+
+Subjective:
+Lan Gonzales is a 61 y.o. female who presents for follow-up of COPD.
+She is a former smoker; she started smoking at 20 and smoked half a pack a day until she quit at 49 and gave up cigarettes in 2013. Baseline dyspnea after walking 1-2 blocks. No exacerbations in the past year. Using albuterol daily lately. Morning cough with clear sputum.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity
+• Osteopenia
+• Gastroesophageal reflux disease
+• Emphysema	2012
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tiotropium 18 mcg inhaled daily
+• calcium + vitamin D daily
+• alendronate 70 mg weekly
+• omeprazole 20 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Works as a cashier.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Mother - HTN, DM2. Father - lung cancer (heavy smoker), deceased at 61.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 119/83 (BP Location: Right arm, Patient Position: Sitting) | Pulse 79 | Temp 97.9 °F (Oral) | Resp 12 | Ht 5' 1" | Wt 167 lb | SpO2 91% | BMI 31.55 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Obese, soft, nontender
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. COPD
+   Spirometry 11/3/2023: FEV1 43% predicted, FEV1/FVC 0.55. Continue current inhalers. Pulm rehab referral.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Kevin Osei, MD on 03/03/2025

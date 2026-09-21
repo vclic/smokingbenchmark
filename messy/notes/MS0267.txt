@@ -1,0 +1,37 @@
+TELEHEALTH FOLLOW-UP - Post-hospitalization for pneumonia
+DOS: 05/03/2026
+Provider: Brian Okonkwo, MD
+Patient: Dale O'Brien, M, DOB 1/25/1961, age 65
+
+HPI: Pt seen via video following recent d/c from hospital for pneumonia. States "I'm breathing better than last week but still get winded going up stairs." No fever, cough improving, decreased sputum production. Denies chest pain. Former smoker, 97 pack-year smoking history noted in chart, quit smoking at age 53. Reports taking abx as prescribed, tolerating well. Denies SOB at rest.
+
+ROS: Otherwise negative except as above. Denies hemoptysis, denies weight loss.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Blank
+Exercise: Not on file
+
+COPIED FROM NOTE DATED 10/3/2022 (smoking status as documented then): "Social history - tobacco: former smoker." No further quantities given in that prior note.
+
+PROBLEM LIST:
+- J18.9 Pneumonia, unspecified organism (resolving)
+- F32.9 Major depressive disorder, unspecified (chronic, stable on current regimen)
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms
+- I10 Essential hypertension (outdated entry, pt reports no longer on BP meds per last visit)
+
+EXAM: Telehealth, limited. Pt appears comfortable, speaking in full sentences, no visible respiratory distress. Vitals per home pulse ox: O2 sat 96% RA per pt report.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving s/p hospitalization - continue current abx course, f/u CXR in 4-6 wks to confirm resolution.
+2. Depression - continue current SSRI, screen stable today, no SI/HI.
+3. BPH - continue tamsulosin, no acute urinary complaints today.
+4. Tobacco history discussed - reinforced importance of continued abstinence from smoking given prior heavy exposure; general discussion of ongoing respiratory health monitoring.
+5. Return to clinic in 2 weeks or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 05/03/2026, B. Okonkwo, MD):
+Pt called back after visit to clarify meds list - confirmed no new prescriptions needed at this time, pharmacy already has refill on file for SSRI. No other changes to plan above.

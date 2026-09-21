@@ -1,0 +1,64 @@
+PULMONOLOGY CLINIC - COPD FOLLOW-UP
+Date of Service: 03/06/2024
+Patient: Karen Davis (F), DOB 03/06/1944, Age 80
+Provider: Laura Castellano, FNP-C
+
+--- NURSE INTAKE ---
+Vitals: BP 138/76, HR 78, RR 18, SpO2 93% RA, Temp 97.8F, Wt 162 lb
+Allergies: NKDA
+Chief complaint per pt "I still get winded walkin to the mailbox"
+Meds reviewed, reconciled - see med list. Pt denies chest pain today, reports occasional heartburn worse at night.
+
+TOBACCO USE - EHR TEMPLATE
+Current tobacco use: Yes
+Type: Cigarettes
+History: Pt smoked 3/4 pack per day (approx 15 cigs/day) x 30 yrs, then cut back to 1/4 pack per day (approx 5 cigs/day) x 31 yrs, continues at this rate currently.
+Readiness to quit: Pt states not currently interested in quitting
+Counseling provided: Yes, brief cessation counseling given today
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI:
+Ms Davis is an 80 yo female w/ hx COPD, CAD, GERD, BPH here for f/u of COPD. She c/o increasing SOB w exertion over past few wks, denies fevers chills or productive cough. Pt states "some days its fine and other days I can barely make it up the stairs". No recent hospitalizations, no ER visits since last seen. She continues to use albuterol inhaler prn, reports using it "probably 3-4 times a day now" which is more than baseline. Denies orthopnea or PND. GERD sx stable on current regimen, takes omeprazole qam. BPH sx stable, followed by urology, no urinary retention or hesitancy currently reported.
+
+Regarding tobacco, pt continues to smoke despite repeated counseling at prior visits and again today. She acknowledges she knows she "should probably quit" but has not been ready to set a quit date. Discussed risks of continued smoking in setting of COPD and CAD at length. She was again advised to quit smoking, and nicotine replacement options were discussed but pt declined at this time. Lung cancer screening was discussed as part of ongoing preventive care conversation.
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - + dyspnea on exertion, denies hemoptysis. CV - denies chest pain, palpitations, edema. GI - occasional reflux, denies abd pain, nausea, melena. GU - denies dysuria, hematuria, urinary retention. All other systems reviewed and negative.
+
+PMH: COPD (dx approx 10 yrs ago per pt), GERD, BPH, CAD s/p stent placement (per old records, pt unsure of exact date)
+PSH: Cholecystectomy years ago
+FH: Non contributory, mother had "lung problems" per pt, father CAD
+SH: Lives alone, widowed, ambulates independently w cane. Denies etoh use. Denies illicit drug use. (see tobacco template above for smoking hx)
+
+Meds: Albuterol HFA inhaler prn, Tiotropium inhaler daily, Omeprazole 20mg qam, Tamsulosin 0.4mg qhs, Atorvastatin 40mg qhs, Aspirin 81mg daily, Metoprolol succinate 25mg daily
+
+Physical Exam:
+Gen: Elderly female, NAD, sitting comfortably in chair
+HEENT: NC/AT, EOMI, oropharynx clear
+Neck: No JVD, no LAD
+Resp: Decreased breath sounds bilat bases, mild expiratory wheeze scattered, no crackles, no accessory muscle use at rest
+CV: RRR, no m/r/g appreciated, no peripheral edema
+Abd: Soft, NT/ND, +BS
+Ext: No cyanosis, clubbing noted mild in fingers bilat
+Skin: Warm dry intact
+Neuro: A&Ox3, grossly nonfocal
+
+Labs/Imaging reviewed: Recent PFTs from last visit c/w moderate obstructive pattern, unchanged from prior. CXR from 6 mos ago reviewed - no acute infiltrate, hyperinflation noted c/w COPD, stable compared to priors.
+
+Assessment:
+1. COPD, moderate, with worsening symptoms today - likely mild exacerbation vs progression. Will adjust inhaler regimen.
+2. Tobacco use disorder - continues to smoke despite counselling, discussed cessation resources again today, pt not ready to quit at this visit.
+3. GERD - stable
+4. BPH - stable, f/u w urology per their sched
+5. CAD - stable, no acute sx today, continue current cardiac meds
+
+Plan:
+- Increase albuterol prn use as needed, reassess in 2 wks if not improved consider short steroid burst
+- Continue tiotropium daily
+- Repeat PFTs in 6 months or sooner if worsening
+- Pulmonary rehab referral discussed, pt to consider
+- Cont omeprazole, tamsulosin, atorvastatin, ASA, metoprolol as prescribed
+- Smoking cessation counseling provided again today, pt encouraged to consider nicotine patch or gum, declined for now, will readdress at next visit
+- F/u in pulm clinic in 3 months, sooner if symptoms worsen
+- Pt given written instructions on when to seek urgent care (worsening SOB, fever, change in sputum color)
+
+Electronically signed: Laura Castellano, FNP-C 03/06/2024

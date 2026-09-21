@@ -1,0 +1,39 @@
+Pulmonology H&P — COPD f/u
+DOS: 04/14/2024
+Author: Daniel Reyes, MD
+
+Pt: Edward Sanchez, M, DOB 1/6/1950, age 74.
+
+HPI: 74M w/ COPD, BPH, OSA, CKD3 here for routine COPD f/u. Reports stable dyspnea on exertion, no acute exac since last visit. Denies fever, chills, incr sputum. Uses Spiriva daily, albuterol PRN. No hospitalizations x 6 mo. Sleeps w/ CPAP, compliance reportedly fair per pt report - will review download. Nocturia noted, ongoing per uro re: BPH.
+
+ROS: Neg for chest pain, hemoptysis, wt loss. Pos for occasional wheeze am.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker
+Pack-years: N/A
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: With spouse
+Exercise: Limited 2/2 dyspnea
+
+PMH: COPD (GOLD B), BPH, OSA on CPAP, CKD stage 3 (baseline Cr ~1.6).
+
+Meds: Tiotropium, albuterol PRN, tamsulosin, CPAP nightly.
+
+Exam: Vitals stable, afebrile, SpO2 94% RA. Lungs - diffuse exp wheeze, no crackles. CV - RRR, no m/r/g. Ext - no edema.
+
+Labs reviewed: Cr 1.7, eGFR ~38, stable from prior.
+
+A/P:
+1. COPD - stable, continue current regimen, f/u PFTs next visit. Pt is a lifelong non-smoker, so occupational/environmental exposures reviewed as alt etiology, none significant identified.
+2. BPH - stable on tamsulosin, uro f/u as scheduled.
+3. OSA - CPAP compliance to be reviewed, download requested.
+4. CKD3 - stable, renal panel q6mo, avoid nephrotoxic agents.
+
+Discussed general pulm health, vaccination status updated (pneumococcal, influenza current). Lung ca screening was discussed in general terms; not further addressed at this visit.
+
+RTC 6 months or sooner if worsening sx.
+
+---ADDENDUM (same day, 16:40)---
+Addendum by Dr. Reyes: Clarifying chart note - pt again confirmed no hx of smoking, lifelong non-smoker, per pt and spouse corroboration during visit today, 04/14/2024. No further changes to plan.

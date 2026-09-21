@@ -1,0 +1,59 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Jose Lee, M, DOB 2/8/1966 (age 58)
+DOS: 10/12/2024
+Author: Michael Dunn, DO (NP progress note, co-signed)
+
+CC: chest pain eval, referred from PCP for w/u of intermittent CP x2 wks.
+
+HPI: 58 y/o M w/ hx PAD, AFib, asthma presents c/o intermittent substernal CP, non-exertional at times, some assoc w/ exertion when walking > 2 blocks 2/2 claudication sx overlapping, pt states "it feels tight, like [inaudible] pressure" – denies radiation to jaw, does endorse mild SOB w/ exertion, no palpitations noted today though hx AFib on anticoag. Pt reports compliance w/ meds, denies missed doses. ROS otherwise negative for syncope, LE edema stable per pt.
+
+PMHx / Problem List:
+- I73.9 Peripheral artery disease, unspecified
+- I48.91 Atrial fibrillation, unspecified type
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia (outdated dx, last addressed 2019, may need review)
+- M54.5 Low back pain (outdated, resolved per pt, chart not updated)
+
+MEDS: Apixaban 5mg BID, Atorvastatin 40mg qhs, Albuterol HFA prn, Cilostazol 100mg BID
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never Smoker
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Other tobacco products: Cigar - occasional use, holidays only
+Drug use: Denies
+Occupation: retired machinist
+Living situation: lives w/ spouse
+Exercise: sedentary, limited by claudication
+
+NOTE re: tobacco - pt explicitly denies ever having used cigarettes, stated "never smoked a cigarette in my life," though does admit to occasional cigar, a few times per yr around holidays (Thanksgiving/New Year's), does not smoke cigarettes regularly or at all. No vaping reported.
+
+VS: BP 138/84, HR 78 irregularly irregular (known AFib), RR 16, SpO2 97% RA, Temp 98.2F, Wt 198 lb
+
+EXAM: Gen - NAD, A&Ox3. CV - irreg irreg rhythm, no m/r/g appreciated, no JVD. Resp - clear to auscult bilat, no wheez/rales/rhonchi currently. Ext - no edema, DP/PT pulses 1+ bilat feet, cool distally, no ulcers noted. Skin intact.
+
+LABS/RESULTS (reviewed today):
+- CBC (10/12/2024): WBC 6.8, Hgb 14.1, Hct 42.0, Plt 210
+- BMP (10/12/2024): Na 139, K 4.3, Cl 101, CO2 24, BUN 18, Cr 1.0, Glu 96
+- Troponin I (10/12/2024, 0800): <0.01 ng/mL (neg)
+- Troponin I (10/12/2024, 1100 repeat): <0.01 ng/mL (neg)
+- Lipid panel (9/15/2024): TC 178, LDL 92, HDL 44, TG 150
+- ABI (8/2024): Right 0.68, Left 0.71 (consistent w/ known PAD)
+- EKG (10/12/2024): AFib, ventricular rate 76, no acute ST changes
+
+ASSESSMENT: 58 y/o M w/ PAD, AFib, asthma presenting w/ CP, troponins neg x2, EKG w/o acute ischemic changes, sx likely musculoskeletal vs claudication-related discomfort though will pursue further w/u given cardiac risk factors.
+
+PLAN:
+1. CP - trend troponins (already neg x2), consider stress test outpt, cont home meds, f/u cardiology 2 wks or sooner if sx worsen/recur
+2. PAD - cont cilostazol, ABI already obtained showing mod disease, vascular surgery f/u to be scheduled, lifestyle modification (walking program) advised
+3. AFib - cont apixaban, rate appears controlled, no acute intervention needed today
+4. Asthma - stable, cont albuterol prn, no exac today
+5. Lung ca screening was discussed briefly given pt's age and med hx though not applicable given no cigarette smoking hx; general risk factor counseling given re: cardiovascular health
+6. Return to clinic in 2 wks or sooner PRN, pt educated on warning signs requiring ED eval (worsening CP, SOB, syncope)
+7. Labs/imaging reviewed and discussed w/ pt, pt verbalizes understanding
+
+Time spent w/ pt today approx 25 min, most spent on counseling/coordination of care.
+
+Electronically signed: Michael Dunn, DO

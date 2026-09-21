@@ -1,0 +1,72 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Dr. Catherine Lindqvist, DO
+Date of Service: 02/24/2023
+
+PATIENT: Perry, Roger
+DOB: 02/04/1973 | Age: 50 | Sex: M
+
+CHIEF COMPLAINT: Chest pain, video visit f/u given known HFrEF.
+
+HPI:
+Pt is a 50 y/o male with hx of HFrEF, OSA, asthma, GERD, BPH, osteoporosis calling in re: intermittent chest discomfort x 5 days. Describes as "a tightness, kind of like pressure, comes and goes." Denies radiation to arm/jaw. States "it's worse when I climb stairs, better when I sit down." No diaphoresis, no syncope. Denies recent fevers/chills. Reports med compliance overall - "I take everything like I'm supposed to, mostly." Denies missed diuretic doses. No recent weight gain per pt, though scale at home reportedly "acting weird."
+SOB - denies significant orthopnea beyond baseline 2-pillow. No PND. Some ankle swelling noted, chronic.
+Smoking hx: Pt is a lifelong non-smoker - never used tobacco products in any form. No vaping, no smokeless tobacco.
+Alcohol: occasional, denies illicit drug use.
+
+PMH:
+- Asthma
+- Osteoporosis
+- BPH
+- GERD
+- HFrEF (EF 35% per last echo)
+- OSA - on CPAP, variable compliance
+
+MEDS (per chart, telehealth so unable to verify bottles):
+- Carvedilol 12.5mg BID
+- Lisinopril 10mg daily
+- Furosemide 40mg daily
+- Spironolactone 25mg daily
+- Tamsulosin 0.4mg qHS
+- Omeprazole 20mg daily
+- Albuterol PRN
+- Alendronate 70mg weekly
+
+ALLERGIES: NKDA
+
+FAMILY HX: Father - MI age 62. Mother - osteoporosis, fractures.
+
+SOCIAL HX: Lives with spouse. Retired postal worker. Denies tobacco use as above (lifelong non-smoker). Occasional etoh. Denies illicit drugs.
+
+LABS/RESULTS (reviewed this visit):
+- BNP 02/20/2023: 410 pg/mL (elevated, baseline ~250-300 per prior)
+- BMP 02/20/2023: Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 98
+- Troponin I 02/20/2023: <0.01 ng/mL x2, negative
+- TSH 01/15/2023: 2.1 (WNL)
+- Echo 11/2022: EF 35%, mild MR, no significant valvular stenosis
+- Lipid panel 01/15/2023: TC 178, LDL 102, HDL 42, TG 170
+- HbA1c 01/15/2023: 5.6%
+
+VITALS (per home cuff/reported):
+BP 128/78, HR 76, unable to obtain O2 sat via telehealth, pt reports home pulse ox 95% RA.
+
+ASSESSMENT:
+50 y/o male, non-smoker, with HFrEF (EF 35%), presenting with atypical chest pain, possibly related to fluid status vs GERD given hx vs musculoskeletal. Troponins negative x2. BNP mildly above his baseline - may reflect early decompensation vs dietary indiscretion.
+Asthma - stable, no recent exacerbation reported.
+OSA - CPAP compliance suboptimal, will address.
+GERD - may be contributing to chest discomfort given positional/postprandial pattern reported by pt, though pattern not entirely classic.
+Osteoporosis, BPH - stable, continue current management.
+
+PLAN:
+1. Chest pain - given atypical features and negative troponins x2, low suspicion for ACS at this time. Will obtain in-office ECG and possibly stress test if symptoms persist. Pt instructed on when to seek ER care (crushing pain, radiation, diaphoresis, SOB at rest).
+2. HFrEF - continue current GDMT (carvedilol, lisinopril, spironolactone). Will increase furosemide slightly given mild BNP elevation and ankle edema - to 40mg BID x1 week then reassess. Daily weights reinforced. Low sodium diet reinforced.
+3. GERD - continue omeprazole, counseled on avoiding trigger foods, elevate head of bed.
+4. OSA - discussed CPAP compliance, pt to bring in usage data next visit. Non-smoker status noted as favorable re: pulmonary risk overall.
+5. Asthma - continue albuterol PRN, no changes.
+6. Osteoporosis - continue alendronate, reinforce proper administration (upright 30 min, empty stomach).
+7. BPH - continue tamsulosin, no urinary retention issues reported.
+8. Health maintenance - discussed general cardiovascular risk reduction, diet, exercise as tolerated. Screening discussions deferred to PCP as appropriate.
+9. F/u in 2 weeks or sooner if symptoms worsen, in-person visit preferred for ECG/labs.
+
+Time spent: 22 minutes, >50% counseling/coordination of care.
+
+Electronically signed: Catherine Lindqvist, DO

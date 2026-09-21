@@ -1,0 +1,28 @@
+New Patient Visit - Primary Care
+Patient: Mark Foster (M), DOB 4/14/1968, Age 58
+Date of Service: 04/14/2026
+Provider: Hannah Weiss, NP
+
+HPI: Mr. Foster presents to establish care with Primary Care after moving to the area, he reports overall doing okay but has felt more short of breath with exertion over past several months, denies chest pain, denies fevers, he reports mood has been stable on current meds but sleep is poor at times [inaudible] due to knee pain at night which limits activity and he says the knee pain is worse in mornings and improves somewhat with movement throughout the day, no recent falls, no new joint swelling noted by patient.
+
+Past Medical History / Problem List:
+1. F32.9 - Major depressive disorder, unspecified
+2. M19.90 - Osteoarthritis, unspecified site (outdated entry, likely bilateral knees per pt report)
+3. J44.9 - COPD, unspecified
+4. Z87.891 - Personal history of nicotine dependence
+
+Social History: Patient is a former smoker; he reports smoking about half a pack (roughly 10 cigarettes) per day for 22 years before quitting in January 2009. He notes he used to drink socially but quit alcohol entirely in 2013 and has not resumed since. He lives alone, works part time, denies illicit drug use.
+
+ROS: Otherwise negative except as noted in HPI, patient denies hemoptysis, denies unintentional weight loss, denies fevers/chills, endorses occasional wheeze with exertion per his report.
+
+Exam: Vitals stable, afebrile, RR 18, SpO2 95% on room air. Lungs with mild expiratory wheeze bilaterally, no crackles. Cardiac RRR no murmur. Knees with mild crepitus bilaterally, no effusion, ROM slightly limited. Mood congruent, affect appropriate, no acute distress.
+
+Assessment/Plan:
+1. COPD - stable, will continue current inhaler regimen, discussed pulmonary function testing if not done recently, discussed the importance of continued avoidance of smoking given his history, he has remained a former smoker which is great, lung cancer screening was discussed generally as part of preventive care conversation given his smoking history.
+2. Depression - stable on current regimen, continue, follow up with therapy as scheduled.
+3. Osteoarthritis, bilateral knees - recommend acetaminophen as needed, consider PT referral, weight-bearing exercise as tolerated.
+4. Health maintenance - routine labs ordered, discussed alcohol history, patient reaffirms he quit drinking in 2013 and has maintained sobriety since, no current concerns raised.
+
+Plan to follow up in 3 months or sooner if symptoms worsen, patient verbalized understanding and agreement with plan.
+
+Addendum (later same day): Patient called clinic in afternoon to clarify that he wanted his old pulmonary records sent to this office, staff advised he will need to sign release of information form, will fax to prior pulmonology office once received; no changes to today's assessment or plan, patient's smoking status remains as documented above (former smoker, quit January 2009).

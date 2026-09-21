@@ -1,0 +1,43 @@
+Primary Care Clinic Note
+Date of Service: April 8, 2026
+Patient: Lan Flores   DOB: 8/23/1973   MRN: 16422435
+
+S:
+CC: Follow-up diabetes
+HPI: 52yo F w/ T2DM, HLD here for diabetes follow-up. Most recent A1c 7.2% (previously 7.2% in October 2025). Rarely checks glucose at home. One episode of shakiness relieved w/ juice. Reports some tingling in feet at night.
+
+PMH: HLD, T2DM
+PSH: Lumpectomy, benign; Rotator cuff repair
+Meds: atorvastatin 40 mg daily; empagliflozin 10 mg daily; metformin 1000 mg BID
+Allergies: Shellfish
+SH: Married, lives w/ husband. Works as a postal worker. Smoking: Former (8 pk yrs; stopped 2023). EtOH: 1-2 beers/wk.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 133/62  HR: 92  RR: 18  Temp: 97.4 F  SpO2: 98% on RA  Wt: 127 lbs  BMI: 23.1
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 7.2% - above goal; start semaglutide 0.25 mg weekly. Foot exam today - monofilament intact.
+2. Hypercholesterolemia: Tolerating statin; recheck lipids in 1 yr.
+
+Follow up in 6 months or sooner PRN.
+
+-- FS (MD)

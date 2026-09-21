@@ -1,0 +1,62 @@
+URGENT CARE PROGRESS NOTE
+DOS: 01/26/2025
+Patient: Janet Lee   DOB: 1/26/1958   Age: 67 y/o F
+Provider: Owen Fitzgerald, MD (NP visit)
+
+CHIEF COMPLAINT: cough
+
+HPI: 67 y/o F w hx osteoarthritis, GERD, HLD p/w productive cough x5 days, worse at night, assoc w/ mild SOB on exertion. No fever. Denies hemoptysis, chest pain. Pt reports she has been an active smoker and this cough is 'similar to prior bronchitis episodes.' No sick contacts. Using OTC cough syrup w/ minimal relief. No recent travel. Appetite stable, no wt loss noted at this time.
+
+ROS: Constitutional: no fever/chills, no wt loss. HEENT: no sore throat, mild nasal congestion. Resp: + cough, + occasional wheeze, no hemoptysis. CV: no chest pain, no palpitations, no edema. GI: occasional heartburn (known GERD), no N/V/D. GU: no dysuria. MSK: chronic knee pain (OA), no acute swelling. Skin: no rash. Neuro: no HA, no dizziness. Psych: no SI/HI. Endo: no polyuria/polydipsia. Heme: no easy bruising.
+
+SOCIAL HISTORY / TOBACCO SCREENING (EHR templated block):
+Tobacco use: Current every day smoker
+Type: cigarettes
+Amt: 30 cigs/day (1.5 ppd)
+Duration: 3 years
+Quit interest: pt states "not ready to quit right now"
+Prior use hx: pt reports prior quit in 2015, relapsed 2018
+Alcohol: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired admin assistant
+
+PMH: osteoarthritis, GERD, hyperlipidemia
+PSH: cholecystectomy (per pt, remote)
+FH: noncontributory to current complaint
+
+MEDICATIONS (long list, pt reports compliance variable):
+1. Omeprazole 20mg daily
+2. Atorvastatin 40mg qhs
+3. Acetaminophen 500mg PRN pain
+4. Meloxicam 15mg daily for OA
+5. Calcium/Vit D supplement daily
+6. Fish oil OTC
+7. Occasional ibuprofen (pt states "only when knees are really bad")
+8. Multivitamin daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 82, BP 128/76, RR 16, SpO2 96% RA, Wt stable per chart
+General: NAD, alert, conversant, appears comfortable
+HEENT: PERRLA, EOMI, oropharynx mild erythema, no exudate, TMs clear bilat
+Neck: supple, no LAD, no thyromegaly
+Lungs: mild expiratory wheeze bilat bases, no rales, no rhonchi, good air movement, no accessory muscle use
+CV: RRR, no m/r/g, no JVD
+Abd: soft, NT/ND, +BS, no masses
+Ext: no edema, chronic knee crepitus noted (baseline OA), no acute erythema
+Skin: warm dry intact
+Neuro: grossly intact, no focal deficits
+Psych: mood/affect appropriate
+
+ASSESSMENT/PLAN:
+1. Acute cough/bronchitis-like sx, likely viral vs irritant related given active smoking hx - supportive care, guaifenesin, hydration, follow up if worsening/persist >2wks, return precautions given for SOB, high fever, hemoptysis.
+2. Tobacco use, active - counseled extensively on cigarette smoking cessation given active every day smoker status; discussed nicotine replacement options, pt ambivalent today; discussed lung cancer screening as a topic to revisit w/ PCP; provided cessation resources/quitline #. Pt encouraged to consider re-quit given prior successful quit period 2015-2018 before relapse.
+3. GERD - stable, continue omeprazole, reinforce dietary triggers avoidance.
+4. HLD - stable, continue atorvastatin, recheck lipid panel at next annual.
+5. OA - stable, continue meloxicam PRN, non-pharm measures d/c'd (typo, meant discussed) re: PT referral if worsens.
+
+F/u PRN or w PCP in 2-4 wks, sooner if worse.
+
+---ADDENDUM (same day, later)---
+Addendum by Dr. Fitzgerald: Pt called back after visit c/o continued cough, reassured this is consistent w/ exam findings above, no new red flag sx reported. Reinforced smoking cessation counseling per above note; pt again states not ready to quit at this time (30 cigs/day x3yrs, active smoker as documented). No changes to plan. Will defer further workup unless sx progress or fail to improve w/ supportive care over next 1-2 wks.

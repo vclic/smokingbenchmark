@@ -1,0 +1,53 @@
+VASCULAR SURGERY - RESIDENT NOTE (with attending attestation)
+Patient: Patricia Moore | DOB: 7/22/1966 | Age: 58 | DOS: 07/22/2024
+Author: Michael Dunn, DO / Attending: Dr. R. Alvarez
+
+CC: Follow-up for peripheral artery disease (PAD), c/o intermittent claudication L calf worse w/ ambulation >2 blocks, improves w/ rest.
+
+HPI: 58 yo F w/ hx PAD, OA, gout, GERD presents for routine vascular f/u. Pt reports claudication sx stable to slightly worse over past month, denies rest pain, denies non healing ulcers on ft, denies chest pain or [inaudible] episodes of dizziness that she said happen sometimes when she stands up to fast and then it goes away she thinks its nothing. Denies fevers chills. Compliant w/ cilostazol and ASA. Reports some right great toe pain c/w gout flare last wk, self-treated w/ NSAID some relief.
+
+SOCIAL HISTORY: Active smoker, currently smokes between 1 and 1.5 packs per day, per pt has smoked for 36 years. Pt reports she previously quit smoking in 2009 but relapsed in 2012 and has smoked continuously since. Denies EtOH, denies illicit drug use. Lives alone, ambulates independently.
+
+[Copied from note dated 11/22/2022 - NOT updated, retained for reference]: "Social Hx: Pt is a current smoker. Denies EtOH or illicit drug use." (See above for current details as of today's visit.)
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - denies chest pain, palpitations. Resp - denies cough, SOB. GI - reports occasional heartburn, worse after large meals, takes omeprazole. MSK - + right great toe pain as above, + chronic bilateral knee pain c/w known OA. All other systems reviewed and negative.
+
+MEDS: Cilostazol 100mg BID, Aspirin 81mg daily, Omeprazole 20mg daily, Allopurinol 300mg daily, Naproxen PRN for gout flares, Acetaminophen PRN.
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 172 lbs
+Gen: NAD, A&Ox3
+CV: RRR, no m/r/g
+Resp: CTAB
+Abd: soft, NT/ND, +BS
+Ext: B/L LE - dependent rubor noted, delayed cap refill approx 3 sec on L, no ulcers or gangrene appreciated, popliteal pulses palpable but diminished B/L, DP/PT pulses diminished L > R, warm to palpation
+MSK: right first MTP mildly erythematous, tender to palpation, no significant effusion
+Skin: no lesions, no rashes
+
+LABS (reviewed from 07/20/2024): CBC WNL, BMP WNL, uric acid 8.1 (elevated), lipid panel - LDL 138, HDL 42, TG 165
+
+RECENT IMAGING: ABI L 0.68, R 0.79 (from vascular lab study 06/2024)
+
+PROBLEM LIST (per EHR, some entries outdated):
+1. I73.9 - Peripheral vascular disease, unspecified
+2. M19.90 - Osteoarthritis, unspecified site (outdated - should specify bilateral knees)
+3. M10.9 - Gout, unspecified
+4. K21.9 - GERD
+5. Z87.891 - Personal history of nicotine dependence (outdated - pt is active smoker, not history)
+6. I10 - Essential hypertension (chart shows resolved per pt report, unclear if still applicable)
+
+ASSESSMENT/PLAN:
+58 yo F w/ PAD, OA, gout, GERD, active tobacco use.
+
+1. PAD - claudication sx stable-mildly worse. Continue cilostazol and ASA. D/c'd walking program discussed and encouraged, pt to continue supervised exercise as tolerated. Vascular labs to be repeated in 6 months or sooner if worsening sx. Smoking cessation counseling provided again today given significant impact on PAD progression; discussed risks of continued tobacco use on vascular disease and importance of quitting. Pt states she is aware and "thinking about it." Screening discussions regarding tobacco-related conditions were had, further work-up to be individualized.
+2. Tobacco use, active - counseled extensively on cessation, offered resources including nicotine replacement therapy and referral to cessation program, pt declined referral today but open to revisiting at next visit. Will continue to address at each visit.
+3. Gout flare, right first MTP - continue allopurinol, add short course naproxen, f/u w/ PCP or rheum if not improved in 1-2 wks. Uric acid elevated, will address at next visit.
+4. OA - stable, continue acetaminophen PRN, refer to ortho if worsening.
+5. GERD - stable on omeprazole, continue current regimen.
+6. HTN - unclear current status, will clarify w/ PCP records, hold on medication changes for now.
+
+Return to clinic in 3 months or sooner if worsening claudication, rest pain, or non healing wounds.
+
+ATTESTATION: I have personally seen and examined this patient and discussed the case with Dr. Dunn. I agree with the assessment and plan as documented above. - Dr. R. Alvarez, Attending Vascular Surgeon

@@ -1,0 +1,42 @@
+Pulmonology Clinic Progress Note
+DOS: 05/31/2026
+Author: Isaac Moreno, PA-C
+Patient: Donna Garcia | F | DOB 05/31/1946 | Age: 80
+
+Reason for visit: ED-to-clinic f/u s/p COPD exacerbation.
+
+HPI: Pt seen in ED 1 wk ago for COPD flare, tx w/ steroids + abx, now f/u. Reports improved dyspnea, still some cough w/ scant sputum. No fevers. Uses rescue inhaler more than usual last wk, tapering back to baseline. Denies chest pain. O2 sat stable on RA today.
+
+--- Social History (templated EHR block) ---
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ daughter
+Exercise: Not on file
+
+ROS: Otherwise neg except as above. Denies wt loss, hemoptysis.
+
+Meds: Lisinopril, sertraline, tamsulosin, albuterol MDI prn, tiotropium daily.
+
+Problem List (partial, some outdated):
+- J44.9 COPD, unspecified
+- I10 Essential hypertension
+- F32.9 Major depressive disorder, unspecified (may be outdated - pt reports improved mood, on stable sertraline x yrs)
+- N40.1 BPH w/ LUTS
+- Z87.891 Personal hx of nicotine dependence
+
+Exam: Elderly female, NAD, appears stated age. Lungs: mild exp wheeze bilat, no crackles. CV: RRR, no m/r/g. Abd: soft, NT. Ext: no edema.
+
+Assessment/Plan:
+1. COPD, recent exacerbation, now improving. Continue tiotropium, albuterol prn. Smoking hx significant: pt smoked half a pack (~10 cigs/day) for 29 yrs, then cut back to a quarter pack (~5 cigs/day) for 23 yrs before quitting; she is a former smoker who quit at age 69. Encouraged continued abstinence, reinforced at every visit. Pulm f/u in 4-6 wks, consider PFTs if not recently done.
+2. HTN - stable on lisinopril, BP today 128/76.
+3. Depression - stable, continue sertraline, reassess PHQ-9 next visit.
+4. BPH - stable on tamsulosin, no acute urinary complaints today.
+
+Discussed lung ca screening in general terms given smoking hx; no imaging ordered today, will revisit at next visit.
+
+RTC 4-6 wks or sooner if worsening sx. Pt verbalizes understanding.
+
+---ADDENDUM (later same day, 05/31/2026, 16:40)---
+Addendum by I. Moreno, PA-C: Spoke w/ pt by phone re: pharmacy issue - tiotropium not covered, switching to alternate LAMA per insurance formulary. Pt agreeable. No other changes to plan. Will monitor sx, RTC as above. Reiterated importance of continued smoking abstinence given former smoker status w/ substantial cumulative exposure.

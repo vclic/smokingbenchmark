@@ -1,0 +1,91 @@
+VASCULAR SURGERY CONSULTATION LETTER
+
+Date of Service: 02/21/2026
+Patient: Donna Mitchell
+DOB: 02/21/1958 (Age 68)
+Referring Physician: Dr. Ahmed Nasser, Internal Medicine
+Consulting Physician: Julia Brennan, MD, Vascular Surgery
+
+RE: Evaluation for peripheral artery disease (PAD)
+
+Dear Dr. Nasser,
+
+Thank you for referring Ms. Mitchell, a 68-year-old woman, for evaluation of claudication sx concerning for PAD. She was seen in clinic today, 02/21/2026.
+
+HPI:
+Pt reports several months of bilateral calf pain w/ ambulation, relieved w/ rest. She states, "It feels like a cramp that grabs my legs after about two blocks, and I have to stop and wait it out." She denies rest pain, non-healing ulcers, or gangrenous changes. She has noted some cold feet at night. No hx of claudication surgery. PMH significant for GERD, hyperlipidemia, T2DM, and osteoporosis, all followed by PCP. She was referred for further w/u given calf sx and multiple vascular risk factors (DM, hyperlipidemia, longstanding tobacco use as below).
+
+PMH:
+- GERD
+- Hyperlipidemia
+- Type 2 diabetes mellitus
+- Osteoporosis
+
+PSH: None significant per pt report.
+
+MEDICATIONS (per chart, reconciled today):
+- Omeprazole 20 mg daily
+- Atorvastatin 40 mg qhs
+- Metformin 1000 mg BID
+- Alendronate 70 mg weekly
+- Aspirin 81 mg daily (started today, see plan)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Smoking status: Never Smoker [NOTE: this templated field is INCORRECT/outdated and does not reflect pt's actual hx - see narrative below]
+Alcohol use: Occasional, 1-2 glasses wine/week
+Illicit drug use: Not on file
+Occupation: Retired, formerly worked in accounting
+Living situation: Lives with spouse
+Exercise: Limited 2/2 leg sx
+
+Smoking history (narrative, obtained directly from pt today given discrepancy noted above): Pt has an extensive and ongoing tobacco hx. She reports smoking 3 packs per day for 21 years, after which she cut back to 1.5 packs per day for 25 years and continues to smoke at that reduced rate to this day. She did have a period where she quit in 2021, but she relapsed in 2023 and has been smoking continuously since. She was counseled extensively today regarding smoking cessation; she is still smoking currently and states she is not ready to quit at this time - her words: "I know it's bad for me, but I'm not ready to give it up right now." She was provided information on cessation resources and encouraged to reconsider in future visits. She additionally reports smoking marijuana a few times a month, which she describes as being for sleep and relaxation; no other recreational drug use reported.
+
+FAMILY HISTORY: Mother - MI at age 70. Father - unknown, no contact. No known family hx of PAD or aneurysmal disease.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiac: Denies chest pain, palpitations, orthopnea.
+Vascular: + bilateral calf claudication as above, denies rest pain, denies ulcers.
+Skin: No non-healing wounds noted.
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, SpO2 97% RA, Wt 172 lb
+General: Well-appearing woman, NAD.
+Cardiac: RRR, no murmurs/rubs/gallops.
+Pulmonary: Clear to auscultation bilaterally, no wheezes/rales.
+Extremities: Bilateral lower extremities warm to touch proximally, cool distally at the feet. Femoral pulses 2+ bilaterally. Popliteal pulses diminished bilaterally, 1+. Dorsalis pedis and posterior tibial pulses faintly palpable bilaterally, 1+. No ulcerations, no gangrenous changes. Mild hair loss noted on lower legs bilaterally. Cap refill <3 sec.
+Skin: No skin breakdown.
+
+LABS/RESULTS:
+Labs drawn 02/21/2026:
+- HbA1c: 7.8% (elevated)
+- Lipid panel: Total cholesterol 210 mg/dL, LDL 132 mg/dL, HDL 42 mg/dL, TG 180 mg/dL
+- BMP: Glucose 168 mg/dL, Creatinine 0.9 mg/dL, eGFR >60
+- CBC: WNL
+
+Ankle-Brachial Index (ABI) performed in-office 02/21/2026:
+- Right ABI: 0.72 (abnormal, consistent w/ mild-moderate PAD)
+- Left ABI: 0.68 (abnormal, consistent w/ mild-moderate PAD)
+
+Prior imaging: None on file.
+
+ASSESSMENT:
+68 yo F w/ hx of T2DM, hyperlipidemia, and significant longstanding tobacco use presenting w/ bilateral calf claudication and abnormal ABIs bilaterally, consistent with peripheral artery disease, Rutherford class I-II. Multiple modifiable risk factors present including uncontrolled DM (A1c 7.8), hyperlipidemia, and ongoing active tobacco use.
+
+PLAN:
+1. PAD - Bilateral, confirmed by ABI. Will start Aspirin 81 mg daily and cilostazol 100 mg BID for claudication sx, pending no contraindications. Supervised exercise therapy program referral placed.
+2. Tobacco use - Extensive counseling provided today regarding cessation given ongoing smoking; pt not ready to quit at this visit. Offered nicotine replacement/pharmacotherapy options, declined for now. Will readdress at future visits. Lung cancer screening was discussed briefly given her tobacco history; further discussion deferred to PCP.
+3. Hyperlipidemia - Will increase atorvastatin to 80 mg qhs given LDL above goal in setting of PAD.
+4. T2DM - A1c above goal at 7.8%; recommend referral back to PCP/endocrinology for medication optimization.
+5. GERD, osteoporosis - Continue current management, defer to PCP.
+6. F/u in vascular surgery clinic in 3 months or sooner if worsening sx, rest pain, or non-healing wounds develop.
+
+Thank you for allowing me to participate in Ms. Mitchell's care. Please do not hesitate to contact me w/ questions.
+
+Sincerely,
+Julia Brennan, MD
+Vascular Surgery

@@ -1,0 +1,47 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Charles Wilson, M, DOB 5/18/1955 (age 68)
+Date of Service: 07/04/2023
+Author: Julia Brennan, MD
+
+CHIEF COMPLAINT: cough x several days
+
+HPI: 68 yo male w hx HFrEF and PAD p/w cough, worse at night, +/- some dyspnea on exertion baseline unchanged per pt. No fever no hemoptysis. denies chest pain. Reports some increase in fatigue but attributes to heat. Using home neb w/ minimal relief. No sick contacts. c/o mild wheeze. no travel hx.
+
+PMH: heart failure with reduced ejection fraction, peripheral artery disease
+PSH: none on file
+Meds: carvedilol, furosemide, aspirin, atorvastatin (see med list)
+Allergies: NKDA
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Former smoker
+ Cigarettes: started 1.5 packs per day at age 25, continued at that rate until quitting in 2011
+ Quit reason: pt states he quit smoking when his grandson was born; grandson now 12 yo
+ Current status: patient no longer smokes
+ Smokeless tobacco: Not on file
+ Alcohol: occasional, 1-2 drinks/wk
+ Drugs: denies
+ Occupation: retired
+ Living situation: Not on file
+
+ROS: otherwise negative except as above, denies weight loss night sweats
+
+EXAM:
+Vitals: T 98.4 HR 78 BP 128/76 RR 16 SpO2 95% RA
+Gen: NAD, comfortable
+HEENT: OP clear, no erythema
+CV: RRR, S3 present, no murmur noted, PAD-related decreased pulses DP/PT bilat, known chronic
+Resp: mild expiratory wheeze bilat bases, no crackles no rales
+Abd: soft NT ND
+Ext: no edema, cool distal extremities c/w known PAD
+
+ASSESSMENT/PLAN:
+68M with HFrEF, PAD here for cough, likely bronchitis vs mild HF exacerbation component given h/o S3.
+1. Cough - supportive care, guaifenesin, follow up if worsens, return precautions given
+2. HFrEF - continue current regimen, weight monitoring reviewed, will contact cardiology if worsening
+3. PAD - continue ASA statin, routine follow up
+4. Tobacco history - reviewed pt is a former smoker, previously started 1.5 packs per day at age 25 and quit in 2011 when grandson born (now 12 yo); no current tobacco use, counseling on relapse prevention given.
+5. Return to clinic or ED if worsening dyspnea, chest pain, or fevers
+
+Follow up with PCP in 1-2 wks, sooner if worse. Pt verbalized understanding of plan.
+
+-- Julia Brennan, MD, Urgent Care, 07/04/2023 --

@@ -1,0 +1,43 @@
+Pulmonology Clinic Note
+Date of Service: 2024-07-17
+Patient: Dale Rodriguez   DOB: 8/27/1973   MRN: 89807472
+
+SUBJECTIVE:
+CC: Pulmonary nodule f/u
+HPI: 50 yo M w/ BPH, GERD, HLD, CHF here for follow-up of a pulmonary nodule. Incidental 7 mm solid RUL nodule on CT 1/17/2024 (CT abdomen, lung bases). Asymptomatic.
+
+PMH: CHF, GERD, HLD, BPH
+PSH: Rotator cuff repair; Cataract extraction, bilateral
+Meds: metoprolol succinate 50 mg daily; tamsulosin 0.4 mg nightly; vitamin D3 2000 IU daily; ezetimibe 10 mg daily; rosuvastatin 20 mg daily; pantoprazole 40 mg daily; torsemide 20 mg daily
+Allergies: No known allergies
+Social History:
+- Divorced, lives alone.
+- Smoker - current.
+- Social drinker.
+FH: Parents deceased, causes unknown.
+ROS: Negative except as noted in HPI.
+
+OBJECTIVE:
+Vitals: BP: 115/78  HR: 86  RR: 18  Temp: 98.2 F  SpO2: 97% on RA  Wt: 175 lbs  BMI: 25.9
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: Trace bilateral ankle edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+Labs (6/10/2024): LDL 126, Cr 0.93, K 4.1, Hgb 13.0
+
+A/P:
+1. Pulmonary nodule: High-risk per Fleischner given smoking hx. Repeat CT chest in 12 months.
+2. Tobacco abuse
+   - Discussed cessation (8 min). He is motivated to quit. Start nicotine patch 21 mg/24h + gum 2 mg PRN.
+3. Gastroesophageal reflux disease: Trial PPI step-down.
+4. Benign prostatic hyperplasia: Nocturia x1-2; continue tamsulosin.
+
+Follow up in 3 months or sooner PRN.
+
+Hannah Weiss, NP

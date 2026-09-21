@@ -1,0 +1,63 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: Terrence Patel (M), DOB: 4/17/1947, Age: 79
+Date of Service: 4/17/2026
+Author: Teresa Alvarez, NP
+
+HPI:
+Mr. Patel presents for his annual wellness exam. He is a 79-year-old male with history of HTN, HLD, and OSA who reports feeling generally well. No new complaints of chest pain, dyspnea, orthopnea, or PND. He continues on his home CPAP nightly with reported good compliance. Regarding tobacco use, he reports he currently smokes about half a pack (approximately 10 cigarettes) per day, and has done so for 51 years. He is an active smoker at this visit. He states he had previously quit smoking in 2009 but relapsed in 2011 after a stressful period at work. He has now set a quit date for 5/4/2026 and is motivated to try again with counseling and possibly pharmacotherapy. He denies alcohol excess or illicit drug use.
+
+---- COPIED FORWARD FROM VISIT 3/12/2024 ----
+Patient seen for follow-up of hypertension and hyperlipidemia. BP well controlled on lisinopril 20mg daily. Lipid panel reviewed, LDL at goal on atorvastatin 40mg qhs. Denies myalgias. OSA — patient using CPAP nightly, machine download shows AHI 3.2, compliance 88%. Continue current regimen. Follow up in 6 months for BP check and annual labs. Immunizations up to date per registry. Patient counseled on diet, exercise, and weight management. No acute issues today. Return to clinic PRN or for scheduled follow-up.
+---- END COPIED TEXT ----
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: see HPI
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, hemoptysis; endorses occasional morning throat clearing.
+ENT: Denies hearing changes.
+GI: Denies abdominal pain, nausea, vomiting, changes in bowel habits.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Denies joint pain.
+Neuro: Denies headache, dizziness, focal weakness.
+Psych: Denies depression, anxiety.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb, Ht 5'10"
+General: Well-appearing, no acute distress, elderly male in no respiratory distress.
+HEENT: Normocephalic, atraumatic. Oropharynx clear.
+Neck: No JVD, no thyromegaly.
+CV: Regular rate and rhythm, no murmurs, gallops, or rubs.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: No edema, pulses 2+ bilaterally.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+CBC (4/10/2026): WBC 6.8, Hgb 14.2, Hct 42.1, Plt 210
+CMP (4/10/2026): Na 140, K 4.3, Cl 102, CO2 25, BUN 18, Cr 1.0, Glucose 96
+Lipid panel (4/10/2026): Total Chol 168, LDL 92, HDL 48, TG 140
+HbA1c (4/10/2026): 5.6%
+TSH (4/10/2026): 2.1
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled on current regimen, continue lisinopril 20mg daily, recheck BP at next visit.
+2. Hyperlipidemia - LDL at goal on atorvastatin 40mg qhs, continue current dose.
+3. Obstructive sleep apnea - continue CPAP therapy, will review download data at next visit.
+4. Tobacco use, active smoker - discussed health risks of continued smoking including cardiovascular and pulmonary disease. Advised to quit. Patient has set a quit date of 5/4/2026; provided counseling resources and discussed options for nicotine replacement therapy and/or pharmacotherapy (bupropion or varenicline) to assist with cessation. Lung cancer screening was discussed as part of general preventive health counseling. Will follow up on cessation progress at next visit.
+5. Health maintenance - immunizations reviewed and up to date, colorectal cancer screening up to date, routine labs reviewed as above, all within normal limits.
+
+Follow up in 6 months or sooner as needed.
+
+Addendum (4/17/2026, later same day) - Teresa Alvarez, NP:
+Patient called clinic after visit to clarify that he understands the plan for smoking cessation and confirmed his quit date of 5/4/2026 remains set. He was reassured and given nurse line number for questions regarding nicotine patches. No other changes to today's plan.

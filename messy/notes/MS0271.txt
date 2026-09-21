@@ -1,0 +1,66 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care - Gregory Tan, MD
+Date of Service: 05/03/2025
+
+Patient: Evelyn Kim (F)
+DOB: 04/04/1955 (Age 70)
+MRN: 88213-KIM
+
+Dear Dr. colleague,
+
+Thank u for referring Ms Kim, a 70-year-old woman, for eval of persistent cough. She was seen today in urgent care on 05/03/2025 c/o cough x 10 days, nonproductive, worse at night, no fevers, no hemoptysis. She denies chest pain at rest but does note mild dyspnea on exertion, which she attributes to deconditioning.
+
+PMHx per problem list (some entries outdated, retained for continuity):
+- E78.5 Hyperlipidemia
+- I25.10 Coronary artery disease, native vessel, w/o angina
+- M10.9 Gout, unspecified
+- E11.9 Type 2 diabetes mellitus w/o complications
+- F32.9 Major depressive disorder, single episode, unspecified (chart note: pt reports mood stable on current regimen)
+- J45.909 Asthma, unspecified (outdated - pt denies asthma dx per pt, likely carried over error, will remove)
+
+Meds: atorvastatin 40mg qhs, aspirin 81mg daily, metformin 1000mg BID, allopurinol 300mg daily, sertraline 100mg daily. No new meds started today.
+
+---SOCIAL HISTORY (EHR templated block, auto-populated)---
+Tobacco use: Current every day smoker
+Smoking hx: 48 pack-year smoking history
+Type: Cigarettes
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Occasional, per pt report
+Alcohol use: 
+Drug use: Not on file
+Occupation: retired
+Living situation: 
+Exercise: 
+---END TEMPLATE---
+
+HPI (cont'd): Pt states she is an active smoker, currently smoking cigarettes daily. When asked about vaping she states she also vapes occasionally, mostly on days she is trying to cut down on cigs but has not been able to quit. She denies any recent illness contacts, denies travel. No orthopnea, no PND, no LE edema. She reports occasional heartburn, unrelated per her.
+
+ROS: Constitutional - no fever/chills, no wt loss. Resp - cough as above, no wheeze reported by pt though exam below notes mild wheeze. CV - no chest pain, no palpitations. GI - occasional reflux sx. GU - non contributory. MSK - chronic gout flares intermittently, none currently active. Psych - depression stable on sertraline, denies SI/HI.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 165 lb
+Gen: NAD, alert, conversant, mildly hoarse voice
+HEENT: OP clear, no exudate, no lymphadenopathy
+Lungs: mild expiratory wheeze bilat bases, no rales, no rhonchi, good air movement
+CV: RRR, no m/r/g, PMI nondisplaced
+Abd: soft, NT/ND, +BS
+Ext: no edema, no clubbing, no cyanosis
+Skin: no rash
+
+Assessment: 70 yo F w/ hx CAD, T2DM, HLD, gout, depression presenting with subacute cough, likely bronchitis vs reactive airway component given wheeze on exam. Given her active smoking status and extensive 48 pack-year hx, smoking-related etiology is high on differential including chronic bronchitis. No red flag sx for malignancy currently (no hemoptysis, no wt loss) though will keep on ddx given risk profile.
+
+Plan:
+1. Cough - likely acute bronchitis, supportive care, guaifenesin PRN, return if worsening dyspnea, fever, or hemoptysis.
+2. Tobacco use - discussed at length. Pt counseled extensively on smoking cessation, offered nicotine replacement therapy and referral to cessation program; pt states she is 'thinking about it' but not ready today. Discussed that vaping is not a safe alternative and does not replace need for cessation. Screening for lung cancer was discussed conceptually as a topic relevant to her risk profile, but no imaging ordered today from this visit.
+3. CAD - stable, continue current regimen, no acute issues today.
+4. T2DM - continue metformin, recommend routine A1c recheck w/ PCP.
+5. HLD - continue atorvastatin.
+6. Gout - no active flare, continue allopurinol.
+7. Depression - stable, continue sertraline, no acute safety concerns.
+8. F/u with PCP in 1-2 wks or sooner if sx worsen. Return to urgent care or ED for chest pain, severe SOB, hemoptysis, high fever.
+
+Thank u again for the referral, happy to assist further as needed.
+
+Sincerely,
+Gregory Tan, MD
+Urgent Care Dept

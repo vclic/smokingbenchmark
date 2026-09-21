@@ -1,0 +1,46 @@
+CARDIOLOGY TELEHEALTH VISIT NOTE
+Patient: Thomas Butler MPatient DOB: 1/20/1968 (age 55)
+Date of Service: 10/28/2023
+Provider: Julia Brennan, MD
+Visit type: Telehealth, chest pain evaluation
+
+HPI:
+Mr Butler is a 55 yo male w hx type 2 diabetes, obesity, hypothyroidism, and COPD who presents for eval of intermittent chest tightness x 2 wks, non-exertional mostly, no radiation, assoc w mild SOB. Denies diaphoresis or syncope. Has 104 pack-year smoking history, noted here per patient report. He states episodes last 5-10 min and resolve spntaneously. No prior cardiac w/u on file. Denies fevers chills or cough productive of sputum. Reports occasional palpitations, no clear trigger identified.
+
+ROS: otherwise negative except as above. Appetite stable, no wt loss.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Former smoker
+Current use: No
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+
+Additional social hx note (free text, entered by MA): pt reports he quit smoking cigs back in 2014, has not resumed since. No vaping reported.
+
+PMH: T2DM, obesity, hypothyroidism, COPD (on inhalers)
+Meds: metformin, levothyroxine, tiotropium, albuterol PRN
+Allergies: NKDA
+
+Exam (limited, telehealth):
+Gen: NAD, conversing comfortably
+Vitals per home cuff: BP 138/84, HR 78, reports wt 210 lb
+Cardiac: unable to auscultate via telehealth, pt denies visible edema
+Resp: pt reports no increased work of breathing at rest
+
+Assessment/Plan:
+1. Chest pain, atypical features - given cardiac risk factors (T2DM, obesity) and extensive prior tobacco exposure, will pursue outpt stress testing and basic labs (lipid panel, HbA1c, TSH). EKG to be obtained at local lab given telehealth limitations.
+2. COPD - continue current inhaler regimen, reinforce inhaler technique at next in-person visit.
+3. T2DM - continue metformin, recheck HbA1c.
+4. Hypothyroidism - stable, continue levothyroxine, recheck TSH.
+5. Tobacco history discussed; patient counseled on cardiovascular risk reduction given his significant prior smoking exposure and encouraged to maintain abstinence.
+
+f/u in 2 wks or sooner if sx worsen. Pt verbalized understanding of plan.
+
+-- Julia Brennan, MD
+
+ADDENDUM (same day, later, 10/28/2023 4:45pm):
+Pt called back reporting one additional episode of chest tightness this afternoon lasting ~5 min, resolved w rest. Advised to go to ED if recurrent or worsening, otherwise continue as planned above. Will follow up via phone tomorrow AM to check status. No new meds started at this time.
+-- J. Brennan, MD

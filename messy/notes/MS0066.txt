@@ -1,0 +1,25 @@
+NP PROGRESS NOTE
+Author: Daniel Reyes, MD (dictated for NP Progress Note)
+Date of Service: 06/26/2025
+Patient: Walter Price, M, DOB 06/26/1971 (age 54)
+Visit: Hospital discharge follow-up after pneumonia
+
+HPI: Mr. Price is a 54-year-old male seen today for f/u after recent admission for community-acquired pneumonia, now s/p discharge, reports improved cough and energy, denies fever or chills, some residual fatigue, wife accompanies him to visit and states he 'still gets winded going up stairs' [inaudible] but overall doing better than last week.
+
+=== COPIED FORWARD FROM PRIOR VISIT (03/14/2024) ===
+Pt here for routine f/u of hypothyroidism, osteoporosis, HFrEF, HTN, and afib. Denies chest pain, denies palpitations, reports adherence to levothyroxine and anticoagulation. TSH stable. DEXA reviewed, continues alendronate. No falls. Denies SOB at rest. ROS otherwise negative x14 systems including constitutional, HEENT, cardiovascular, respiratory, GI, GU, musculoskeletal, skin, neuro, psych, endocrine, heme/lymph, allergic/immunologic. Exam: A/Ox3, NAD, lungs CTAB, RRR irregular rhythm consistent with known afib, no peripheral edema, abd soft NT/ND, no focal neuro deficits.
+=== END COPIED SECTION ===
+
+TOBACCO/SUBSTANCE USE (EHR templated block):
+Smoking status: Never Smoker [NOTE: this field is outdated/incorrect and does not reflect current history]
+Patient reports actual smoking history as follows: patient describes himself as a 'social smoker' for many years. Active smoker at this visit. Spouse also smokes; both were counseled on cessation resources and risks of secondhand exposure at home.
+
+ROS: Constitutional - fatigue improving, denies fever/chills/night sweats. Resp - improving cough, denies hemoptysis, denies pluretic pain [sic]. CV - denies chest pain, denies syncope. GI/GU - unremarkable. MSK - no new falls, back pain stable on current regimen. Skin/Neuro/Psych - noncontributory. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals stable, afebrile, BP 132/78, HR 74 irregular, RR 16, SpO2 96% RA. Gen: NAD. HEENT: PERRL, oropharynx clear. Neck: no JVD. Lungs: mild bibasilar crackles, improved from discharge, no wheeze. CV: irregularly irregular rhythm, no murmur appreciated. Abd: soft, NT/ND. Ext: no edema. Neuro: grossly intact.
+
+MEDICATIONS: Levothyroxine 100 mcg daily, Alendronate 70 mg weekly, Apixaban 5 mg BID, Metoprolol succinate 50 mg daily, Furosemide 20 mg daily, Sacubitril-valsartan 24/26 mg BID, Spironolactone 12.5 mg daily, Vitamin D3 2000 units daily, Calcium carbonate 500 mg BID.
+
+LABS/RESULTS: 06/26/2025 - CBC WNL, BNP 410 (down from 890 on 06/18/2025), BMP unremarkable, TSH 2.1 (03/2024 baseline 2.4). CXR 06/26/2025 showing resolving right lower lobe infiltrate.
+
+ASSESSMENT/PLAN: Resolving pneumonia, continue current cardiac regimen, discussed general risks of continued tobacco use and offered cessation counseling and resources; f/u in 4 weeks or sooner if worsening symptoms.

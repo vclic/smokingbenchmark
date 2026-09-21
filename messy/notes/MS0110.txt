@@ -1,0 +1,51 @@
+Cardiology Progress Note
+Patient: Carol King | DOB: 10/13/1956 | Age: 67
+Date of Service: 10/13/2023
+Author: Daniel Reyes, MD
+
+CC: Heart failure follow-up.
+
+HPI: Ms King is a 67 yo female w hx of HFrEF, HTN, afib, GERD, OA, CKD stage 3 who presents for routine f/u. Reports mild dyspnea on exertion, denies orthopnea/PND. Weight stable per home scale. Meds reviewed, taking metoprolol, lisinopril, furosemide, apixaban as prescribed. She notes occasional palpitations, no syncope. During visit discussion of risk factors, pt admits she still smokes cigarettes and is not ready to quit at this time despite repeated counseling. She has hx of quitting in 2019 but relapsed in 2021 after family stress; currently smoking again. Denies illicit drug use.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Amount: 1/2 pack per day (~10 cigarettes/day)
+Duration: 48 years
+Prior quit attempts: Yes - 2019, relapsed 2021
+Readiness to quit: Not ready
+Alcohol use: None - quit 2005
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+
+ROS: Denies chest pain, denies fevers, denies cough productve of sputum, occas heartburn worse after meals c/w GERD, joint stiffness in knees am, improved with activity.
+
+Exam:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, SpO2 96% RA, Wt 165 lb
+Gen: NAD, comfortable
+CV: irregularly irregular rhythm, no murmurs appreciated, JVP not elevated
+Resp: clear to auscultation bilat, no wheezes/rales
+Abd: soft, nontender, no organomegaly
+Ext: trace bilateral pedal edema, no clubbing
+MSK: mild crepitus bilateral knees, no effusion
+
+Labs/Results:
+10/13/2023 BNP 210 pg/mL (mildly elevated)
+10/13/2023 BMP: Na 138, K 4.3, Cl 101, CO2 24, BUN 28, Cr 1.4 (baseline for CKD3), eGFR 45
+10/13/2023 INR 2.3 (therapeutic on apixaban- wait, pt not on warfarin, INR obtained for baseline liver/coag panel, WNL)
+09/2023 Echo: EF 38%, mild LVH, mild MR
+CXR 10/13/2023: no acute infiltrate, mild cardiomegaly
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT, monitor wt daily, low Na diet reinforced.
+2. Atrial fibrillation - rate controlled, continue anticoagulation, no bleeding events.
+3. HTN - controlled on current regimen.
+4. CKD stage 3 - stable Cr, avoid nephrotoxic agents, recheck labs in 3 months.
+5. GERD - continue PPI, lifestyle modifications d/c'd (typo, means discussed).
+6. OA - continue acetaminophen prn, consider PT referral.
+7. Tobacco use - discussed extensively given 48 year hx of smoking half a pack (about 10 cigarettes) per day; pt continues to smoke and states she is not ready to quit despite prior quit attempt in 2019 and relapse in 2021. Counseled on cardiovascular risks, offered cessation resources including nicotine replacement and referral to quitline, pt declines at this time. Lung cancer screening discussed as an option to consider going forward.
+8. Alcohol - none, per pt quit in 2005, no concerns.
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Daniel Reyes, MD

@@ -1,0 +1,37 @@
+Telehealth f/u visit, Pulmonology - 03/28/2026
+Author: Priya Raman, MD
+
+Pt: Jose Green, M, 80 yo (DOB 2/11/1946)
+
+Reason for visit: f/u after ED visit for COPD exacerbation, doing better on prednisone taper and increased nebs.
+
+HPI: pt reports improved dyspnea since ED visit, cough less productive, sats stable per home pulse ox 92-94%. denies fever chills. continues albuterol/ipratropium nebs qid, tiotropium daily. sleeps with CPAP for OSA, reports fair compliance. no new orthopnea or edema noted, AFib rate controlled on metoprolol per pt report.
+
+PMH: gout, COPD, BPH, OSA, atrial fibrillation.
+
+Smoking status: Never Smoker [NOTE: this templated field is incorrect - pt is NOT a never smoker, see below for accurate hx]
+
+Accurate smoking hx: pt has a 13 pack-year smoking history, quit smoking in 2009, has remained smoke-free since. counseled on continued avoidance of tobacco and secondhand smoke given COPD dx.
+
+---- copied forward from prior visit note dated 11/14/2023 ----
+Pt seen in clinic for routine COPD f/u, stable. Reports using rescue inhaler 1-2x/week, no recent exacerbations at that time. Gout flare last month tx with colchicine, resolved. BPH sx stable on tamsulosin, nocturia x1-2. OSA - CPAP compliance reviewed, pt using device ~5 hrs/night, encouraged increased use. AFib - on anticoagulation, INR/labs stable if applicable, rate well controlled. Vaccines UTD at that time - flu given, pneumococcal series discussed. Plan at that time: continue current inhaler regimen, f/u in 6 months, labs ordered.
+----end copied text----
+
+ROS: otherwise negative except as above, denies chest pain, denies hemoptysis, denies unintentional weight loss.
+
+Exam (limited, telehealth - visual/verbal only): pt appears comfortable, no acute distress on camera. speaking in full sentences without noticeable dyspnea. no visible use of accessory muscles.
+
+Assessment: 80M with COPD, recent exacerbation, currently improving on outpt management. AFib stable, OSA on CPAP, gout and BPH stable.
+
+Plan:
+1. Continue current bronchodilator regimen, complete steroid taper as previously instructed
+2. Continue CPAP nightly, discuss adherence at next visit
+3. Continue metoprolol, cardiology to continue AFib management
+4. d/w pt lung cancer screening - discussed general risk given prior smoking hx, will revisit at future visit
+5. f/u in 4-6 weeks or sooner if worsening sx
+6. pt to call clinic if fevers, increased sob, or chest pain
+
+Pt verbalized understanding, agreeable to plan. questions answered telephonically.
+
+---ADDENDUM (later same day)---
+Pt's daughter called clinic this afternoon w additional question re: nebulizer dosing, advised per current regimen no change needed. Reiterated smoking status correction to front desk staff so chart reflects accurate hx (13 pack-year hx, quit 2009) rather than outdated 'never smoker' template field - will need updating in EHR problem list/social hx section by staff.

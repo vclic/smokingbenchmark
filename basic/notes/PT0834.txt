@@ -1,0 +1,84 @@
+Family Medicine Clinic Note
+
+Patient: RAMIREZ, Richard    MRN: 95446747
+DOB: 09/04/1968    Age: 55 y.o.    Sex: Male
+Date of Service: 01/05/2024    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Richard Ramirez is a 55 y.o. male who presents for diabetes follow-up.
+Most recent A1c 9.5% (previously 8.8% in September 2023). Rarely checks glucose at home. No hypoglycemic episodes. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension	2005
+• Mixed hyperlipidemia
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• insulin glargine 20 units nightly
+• ezetimibe 10 mg daily
+• rosuvastatin 20 mg daily
+• multivitamin daily
+• amlodipine 5 mg daily
+• metformin 1000 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Smoked 'a handful' of cigarettes in college; never a regular smoker.
+  Wife is a smoker (smokes outside).
+  Drinks a glass of wine with dinner.
+  No IVDU.
+
+Family History
+Son - type 1 diabetis. Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 156/91 (BP Location: Left arm, Patient Position: Sitting) | Pulse 84 | Temp 98.4 °F (Oral) | Resp 20 | Ht 5' 9" | Wt 174 lb | SpO2 99% | BMI 25.75 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.5% - above goal; start semaglutide 0.25 mg weekly. UACR ordered.
+2. Mixed hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 12 months (around 1/5/2025).
+
+Electronically signed by Farah Siddiqui, MD on 01/05/2024

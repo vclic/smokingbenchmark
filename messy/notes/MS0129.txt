@@ -1,0 +1,45 @@
+NEW PATIENT INTAKE - Isaac Moreno, PA-C
+DOS: 01/20/2025
+Patient: Rita Wilson (F), DOB 1/20/1972, age 53
+
+NURSE INTAKE:
+Pt presents to establish care w/ PCP. VS: BP 128/78, HR 82 irreg irreg (known AFib), RR 16, Temp 97.8, Wt 168 lb, Ht 5'5". Pt alert, oriented, no acute distress. Here for general checkup, med refills, and to review chronic conditions.
+CC: establish care, med refill (gout, afib)
+Allergies: NKDA
+Meds (per pt report): allopurinol, apixaban - doses to verify
+Templated field (auto-populated, carried fwd from registration system - INCORRECT, see below): Smoking status: Never Smoker
+
+PHYSICIAN PROGRESS NOTE:
+HPI: 53 yo F new to practice, established dx of atrial fibrillation and gout, here to establish care and review meds. Denies chest pain, palpitations currently, occasional joint pain in great toe c/w gout flares, last flare ~3 mo ago. No current SOB, no syncope. Reports fatigue intermittently, otherwise doing okay.
+
+PMH: Atrial fibrillation (dx per pt several yrs ago, on apixaban), Gout (recurrent flares, on allopurinol)
+PSH: none reported
+FH: noncontrib, mother w/ HTN, father unknown hx
+
+Social History: Pt reports former smoker - the templated 'Never Smoker' field above is incorrect and does not reflect her actual hx; correcting here. She smoked between 0.5 and 1 packs per day for 2 years, quit smoking in January 1991. No current tobacco use. Denies illicit drug use. Occasional etoh, ~1-2 drinks/wk. Lives w/ spouse, retired.
+
+ROS: Cardiac - denies palpitations today, known afib. Resp - no cough, no wheeze, no dyspnea at rest. GI - no n/v/d. MSK - occas great toe pain c/w gout hx, no acute swelling today. Const - no fever, no wt loss. All other systems reviewed and neg except as above.
+
+Exam:
+Gen: well-appearing, NAD
+HEENT: PERRL, EOMI, oropharynx clear
+Neck: no JVD, no LAD, no thyromegaly
+CV: irregularly irregular rhythm, no murmurs appreciated, no edema
+Resp: CTAB, no wheezes rales rhonchi
+Abd: soft NT ND, +BS
+Ext: no c/c/e, 1st MTP joint nontender today, no erythema
+Skin: no rash
+Neuro: grossly intact
+
+Assessment/Plan:
+1. Atrial fibrillation - stable, continue apixaban, will obtain EKG today, check CBC/BMP, refer cards if not already established locally.
+2. Gout - hx of recurrent flares, continue allopurinol, check uric acid level, counsel re: diet (limit purine-rich foods, etoh).
+3. Health maintenance - d/w pt re: age-appropriate screening incl colon ca screening, lipid panel, and lung cancer screening was discussed given smoking hx; further discussion re screening options planned at f/u. Immunizations reviewed, flu vax given today.
+4. Tobacco - former smoker, quit many yrs ago per hx above; reinforced healthy lifestyle, no current cessation counseling needed as pt not currently smoking.
+5. F/u in 3 mo or sooner if symptoms worsen. Pt verbalizes understanding of plan, all questions answered today.
+
+Labs ordered: CBC, BMP, uric acid, lipid panel, TSH
+EKG done in office, to be read by physician
+RTC 3 months, sooner PRN
+
+Electronically signed: Isaac Moreno, PA-C, 01/20/2025

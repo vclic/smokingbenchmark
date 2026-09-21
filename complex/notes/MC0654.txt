@@ -1,0 +1,46 @@
+TELEHEALTH VISIT NOTE
+DOS: 03/31/2023
+Patient: Sharon Nguyen | DOB: 03/31/1962 | Age: 61 | Sex: F
+Provider: Gregory Tan, MD (Vascular Surgery)
+
+CC: PAD f/u, worsening claudication
+
+HPI: Pt seen via video for eval of known PAD. Reports "my legs cramp up after like a block now, used to be two." Denies rest pain, denies new ulcers. c/o cold feet at night. Compliant w/ cilostazol per pt. Also carries dx of osteoporosis, COPD, hypothyroidism, gout - all stable per pt report.
+
+PMH:
+- PAD, b/l LE
+- Osteoporosis
+- COPD
+- Hypothyroidism
+- Gout
+- CABG x3 (2016)
+
+Social Hx: Pt states she "quit smoking right after my bypass surgery" and hasn't touched a cigarette since.
+
+Meds: Cilostazol 100mg BID, levothyroxine 88mcg qd, alendronate wkly, allopurinol 300mg qd, tiotropium inh qd, albuterol PRN.
+
+Allergies: NKDA
+
+ROS: + b/l calf cramping w/ ambulation. Denies CP, denies palpitations. Denies acute gout flare. + occasional cough, no hemoptysis. Otherwise neg per template.
+
+Vitals (per home BP cuff, reported): BP 138/82, HR 76, RR 16, SpO2 95% RA (pt reported via pulse ox at home)
+
+Labs/Imaging on file:
+- ABI 12/15/2022: Right 0.68, Left 0.71 (mild-mod PAD)
+- Lipid panel 01/10/2023: TC 198, LDL 122, HDL 44, TG 160
+- HbA1c 01/10/2023: 5.6%
+- TSH 02/02/2023: 2.1 (WNL on current levothyroxine dose)
+- Uric acid 02/02/2023: 6.8
+- CXR 11/2022: hyperinflation c/w COPD, no acute infiltrate
+
+Assessment/Plan:
+1. PAD, b/l LE, mild-mod by ABI - claudication sx progressing. Cont cilostazol, encourage supervised exercise program. Consider vascular referral for possible imaging if sx worsen. Smoking history reviewed in detail: pt smoked 1.5 packs per day for 15 years, then stopped completely for 4 years, then restarted at about a quarter pack (roughly 5 cigarettes) per day for 21 years before quitting for good. Current status: quit smoking, tobacco cessation reinforced and praised. Pt reiterates she quit smoking right after her bypass surgery in 2016 and has remained smoke-free since.
+2. COPD - stable, cont tiotropium + albuterol PRN. No exacerbation currently.
+3. Osteoporosis - cont alendronate, recheck DEXA per PCP schedule.
+4. Hypothyroidism - TSH WNL, cont current levothyroxine dose.
+5. Gout - uric acid mildly elevated, cont allopurinol, low purine diet reviewed.
+6. Cardiovascular risk reduction discussed given CAD hx (s/p CABG x3 2016) and PAD - lipid panel reviewed, statin adherence encouraged, lifestyle modification d/w pt.
+
+F/u: RTC 3 months or sooner if sx worsen, telehealth or in-person per pt preference. Pt verbalized understanding of plan.
+
+Electronically signed: Gregory Tan, MD

@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 4/23/2025
+Patient: Patricia Novak   DOB: 11/11/1950   MRN: 10669997
+
+S:
+CC: Claudication
+HPI: Mrs. Novak is a 74-year-old woman with a history of HLD, HTN, T2DM, and PAD who presents for evaluation of leg pain with walking. Calf pain with walking 100 yards, relieved by rest. No foot ulcers. ABI: R 0.61, L 0.84.
+
+PMH:
+- Essential hypertension
+- PAD (dx 2021)
+- OSA
+- Class I obesity
+- Type 2 diabetes
+- Hypercholesterolemia (dx 1988)
+- History of tobacco use (Z87.891)
+PSH: Appendectomy (2007); Carpal tunnel release
+Meds: losartan 50 mg daily; cilostazol 100 mg BID; simvastatin 20 mg nightly; sitagliptin 100 mg daily; aspirin 81 mg daily
+Allergies: Codeine (nausea)
+SH: Widowed; lives with son. Retired, former mechanic. Ex-smoker, a 76-pack-year smoking history. EtOH: 1-2 beers/wk. No IVDU.
+FH: Father - colon cancer at 68.
+ROS: as per HPI, otherwise neg.
+
+OBJECTIVE:
+Vitals: BP: 154/93  HR: 91  RR: 20  Temp: 97.9 F  SpO2: 100% on RA  Wt: 192 lbs  BMI: 34.1
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (4/18/2025): A1c 6.7%, LDL 138, Cr 0.76, K 4.0
+
+A/P:
+1. PAD with claudication
+   - Supervised exercise therapy referral; continue antiplatelet and statin.
+
+RTC 1 month.
+
+Steven Park, MD

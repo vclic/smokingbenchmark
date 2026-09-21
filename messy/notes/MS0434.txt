@@ -1,0 +1,76 @@
+PULMONOLOGY FOLLOW-UP - PROGRESS NOTE
+Patient: Raymond Alexander | DOB: 11/3/1953 | Age: 71 | Sex: M
+Date of Service: 11/09/2024
+Author: Quentin Hale, PA-C
+
+CC: Follow-up s/p ED visit for COPD exacerbation.
+
+HPI: Mr. Alexander is a 71-year-old male seen today in f/u after presenting to the ED last week with worsening dyspnea, increased sputum, and wheeze, treated with nebs, steroids, and a course of azithromycin, dischrged home. Reports some improvement in breathing but still gets short of breath climbing stairs, denies fever or chest pain currently. He states he continues to smoke cigarettes daily and has not been able to quit despite prior attempts, motivational interviewing performed today, advised to quit, offered pharmacotherapy resources and counseling referral. Patient acknowledges understanding but not ready to set a quit date at this time.
+
+***COPIED FORWARD FROM VISIT 06/14/2023 (Dr. M. Suarez) - left in chart by prior transcriptionist, some content may be outdated***
+Pt here for routine f/u of COPD, osteoarthritis, BPH. Doing fairly well, ambulates with cane, denies falls. Osteoarthritis pain managed with acetaminophen and occasional NSAID, tolerates well, no GI upset. BPH sx stable on tamsulosin, nocturia x1-2/night, no hematuria. Continues outpt PT for knee. Pt denies chest pain, denies hemoptysis, denies unintentional weight loss. Immunizations UTD per pt report. Plan: cont current meds, f/u 6 months, repeat spirometry at next visit.
+***END COPIED TEXT***
+
+PMH/Problem List:
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- M19.90 Osteoarthritis, unspecified site (chronic, stable)
+- N40.1 Benign prostatic hyperplasia with LUTS
+- I10 Essential hypertension (resolved per pt, may be outdated entry)
+- E78.5 Hyperlipidemia (outdated - pt reports d/c'd statin 2019 per pt)
+
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated - patient is an active smoker, see below]
+
+Social History: Patient reports a 19 pack-year smoking history and continues to smoke actively at this visit. Lives alone, retired machinist, denies alcohol excess, denies illicit drug use. Widowed x 4 yrs, daughter lives nearby and assists with appointments occasionally.
+
+Review of Systems (templated, reviewed with pt):
+Constitutional: Denies fever, chills, night sweats, unintentional wt loss/gain.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies sore throat, denies hearing loss, denies epistaxis.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, +occasional lower extremity edema per pt.
+Respiratory: +dyspnea on exertion, +chronic cough productive of white sputum, denies hemoptysis, denies pleuritic pain.
+GI: Denies nausea, vomiting, diarrhea, constipation, denies abdominal pain.
+GU: +nocturia as above, denies dysuria, denies hematuria.
+Musculoskeletal: +chronic knee pain b/l, denies acute injury, denies swelling currently.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies HA, denies dizziness, denies focal weakness.
+Psych: Denies depression, denies SI/HI, mood euthymic per pt.
+All other systems reviewed and negative.
+
+Medications:
+1. Tiotropium bromide inhaler 18mcg, one cap inhaled daily
+2. Albuterol HFA inhaler, 2 puffs q4-6h PRN wheeze/SOB
+3. Fluticasone/salmeterol 250/50 one puff BID
+4. Tamsulosin 0.4mg PO qHS
+5. Acetaminophen 650mg PO q6h PRN pain
+6. Meloxicam 7.5mg PO daily PRN OA flare
+7. Vitamin D3 1000 IU PO daily
+8. Prednisone taper (from ED course, completing this week)
+9. Azithromycin 250mg (completed course)
+10. Multivitamin daily
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: T 98.4F, HR 82, BP 138/78, RR 18, SpO2 93% on RA, Wt 191 lb, Ht 5'9"
+General: Alert, NAD, well-groomed, sitting comfortably in chair, speaks in full sentences [inaudible] occasional pause to catch breath.
+HEENT: NCAT, PERRLA, oropharynx clear, no exudate.
+Neck: Supple, no JVD, no LAD.
+Cardiovascular: RRR, no m/r/g, distal pulses 2+.
+Respiratory: Mild expiratory wheeze bilaterally, prolonged expiratory phase, decreased breath sounds at bases, no crackles, no accessory muscle use at rest.
+Abdomen: Soft, NT/ND, +BS, no HSM.
+Extremities: Trace bilateral pitting edema, no clubbing or cyanosis.
+MSK: Crepitus bilateral knees, ROM limited but functional, no effusion appreciated.
+Skin: Warm, dry, no rash.
+Neuro: Grossly intact, gait steady with cane.
+
+Assessment:
+71-year-old male with COPD, recent exacerbation, currently improving on outpatient regimen with continued active tobacco use (19 pack-year history), osteoarthritis stable, BPH stable.
+
+Plan:
+1. COPD: Continue tiotropium and combo inhaler, complete steroid taper, f/u spirometry in 4-6 wks once stable. Pulmonary rehab referral discussed with patient and accepted. Lung cancer screening discussed with patient as part of overall preventive care conversation given smoking history; further discussion to occur at next visit.
+2. Tobacco use: Counseled extensively re: smoking cessation given active smoking status, discussed nicotine replacement therapy and varenicline options, pt to consider and follow up. Encouraged quitline referral.
+3. Osteoarthritis: Continue current regimen, cont PT as tolerated.
+4. BPH: Stable on tamsulosin, no changes.
+5. Return to clinic in 4 weeks or sooner if worsening symptoms, review after hrs number given for urgent concerns.
+
+Electronically signed: Quentin Hale, PA-C, 11/09/2024

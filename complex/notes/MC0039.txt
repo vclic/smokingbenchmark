@@ -1,0 +1,61 @@
+TELEHEALTH VISIT NOTE
+Patient: Luis Torres  DOB: 08/09/1969  Age: 55  M
+Date of Service: 08/09/2024
+Provider: Daniel Reyes, MD - Family Medicine
+
+CHIEF COMPLAINT: medication refills, follow up chronic conditions
+
+HPI:
+Mr Torres calling in for refills, doing okay overall. States "I've been out of my allopurinol for about a week and my toe started acting up again." Denies fevers, denies acute joint swelling currently. Reports diet has been "not great, too much red meat lately." No new urinary sx, though continues to note some hesitancy and nocturia x1-2/night which he says is stable c/w baseline BPH. No hematuria no dysuria.
+
+Smoking hx reviewed today - pt quit smoking, quit in 2005. Hx notable for three distinct periods: 1 pack per day for 4 years, then increased to 2 packs per day for 6 years, then cut back to 1.5 packs per day for 4 years before quitting altogether in 2005. No vaping, no other tobacco products currently.
+
+---- copied forward from prior visit note dated 03/14/2022 (left in chart, not updated) ----
+HPI (03/14/2022): Pt here for f/u HTN, HLD, gout. Reports doing well, no chest pain no SOB. Gout flare last month resolved w colchicine. BPH sx stable on tamsulosin. Labs reviewed, LFTs wnl, lipid panel improved since last visit. Cont current regimen. Pt counseled on diet/exercise. RTC 3 months or sooner prn.
+ROS: constitutional negative, cardiac negative, GI negative except above, GU as above, musculoskeletal per HPI, skin negative, neuro negative.
+Physical exam (03/14/2022): BP 128/78, HR 72, wt 198 lb. Gen: NAD. CV: RRR no m/r/g. Lungs: CTAB. Abd: soft NT ND. Ext: no edema, no acute joint findings today.
+Assessment/Plan (03/14/2022): 1. HTN - stable, cont lisinopril. 2. HLD - improved, cont statin. 3. Gout - resolved flare, cont allopurinol. 4. BPH - stable, cont tamsulosin.
+---- end copied text ----
+
+PMH: hyperlipidemia, gout, benign prostatic hyperplasia, chronic kidney disease stage 3
+
+MEDS: atorvastatin, allopurinol, tamsulosin, occasional colchicine prn flares
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives w spouse. Retired warehouse worker. Denies current alcohol use, occasional beer socially. Smoking hx as above - quit 2005. Denies illicit drug use.
+
+ROS: Constitutional - no fever, no wt loss. HEENT - neg. CV - no CP no palpitations. Resp - no cough no dyspnea. GI - no n/v/d. GU - hesitancy/nocturia as above, no hematuria. MSK - right great toe intermittently sore, no active swelling today. Skin - neg. Neuro - neg. Psych - no depression/anxiety sx reported.
+
+VITALS (self-reported via home cuff, telehealth visit): BP 132/80, HR 76, wt 201 lb (per pt scale)
+
+EXAM (limited, video visit):
+Gen: alert, well-appearing, no acute distress, seated comfortably.
+HEENT: no visible distress, no facial asymmetry noted on cam.
+CV: unable to auscultate via telehealth; pt denies chest pain, edema not visible on lower extremities shown on camera.
+Resp: no visible respiratory distress, no accessory muscle use.
+MSK: pt able to move great toe without significant wincing today, no visible erythema noted on camera at toe.
+Skin: no rashes noted on visible areas.
+
+LABS (reviewed, drawn 07/28/2024):
+BMP: Na 139, K 4.6, Cl 101, CO2 24, BUN 22, Cr 1.5 (baseline for CKD3), eGFR 52
+Uric acid: 7.8
+Lipid panel: TC 178, LDL 96, HDL 42, TG 150
+
+ASSESSMENT:
+1. Hyperlipidemia - stable on statin, labs at goal-ish, cont current dose.
+2. Gout - hx of recurrent flares, ran out allopurinol, sx recurring in great toe. Restart allopurinol, refill sent.
+3. BPH - stable, cont tamsulosin, no new urinary retention sx.
+4. CKD stage 3 - stable Cr/eGFR near baseline, cont monitoring, avoid NSAIDs (relevant given gout mgmt - counseled to avoid ibuprofen/naproxen for flares given CKD).
+5. Tobacco use, former - quit smoking, quit 2005. Lung cancer screening was discussed with pt as part of preventive health discussion; further work-up and decision making to be addressed at future visit.
+
+PLAN:
+- Refill allopurinol 300mg daily, refill atorvastatin, refill tamsulosin
+- Recheck uric acid and BMP in 3 months
+- Counseled on gout dietary triggers, avoid excess red meat/etoh
+- Counseled on avoiding NSAIDs given CKD, use acetaminophen or colchicine per prior instructions for flares
+- Discussed lung cancer screening as part of general preventive care given tobacco hx; no imaging ordered today
+- f/u telehealth or in person in 3 months, sooner if gout flare worsens or urinary sx change
+- pt verbalized understanding, agrees with plan
+
+Electronically signed: Daniel Reyes, MD  08/09/2024

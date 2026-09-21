@@ -1,0 +1,44 @@
+PROGRESS NOTE - Hospital Discharge Follow-up
+Patient: Nancy Kim | DOB: 6/14/1956 | Age: 67 | Sex: F
+Date of Service: 12/06/2023
+Author: Rachel Goldberg, MD (Primary Care)
+
+HPI: Ms. Kim is a 67 y/o woman s/p recent hospitalization for pneumonia, seen today for f/u. She states "I feel a lot better than when I went in, just still get winded going up the stairs." She denies fever, chills, or chest pain currently. Reports cough improved but productive of small amounts of white sputum, no [inaudible] hemoptysis noted, she also mentions her appitite is back to normal and she's eatng regular meals now which her daughter confirmed durring the visit today we discussed her meds and she says she's takng them as perscribed.
+
+PMH: Atrial fibrillation, hyperlipidemia, gout, osteoporosis, coronary artery disease.
+
+=== COPIED FORWARD FROM VISIT 8/22/2023 ===
+Patient here for routine CAD/AFib follow-up. Reports stable exertional capacity, no palpitations, no syncope. On apixaban, atorvastatin, allopurinol, alendronate. Denies chest pain. Continues to follow with cardiology. Bone density scan reviewed, stable osteopenia. Discussed diet and exercise. RTC in 3 months or sooner if symptoms worsen.
+=== END COPIED TEXT ===
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Packs/day: 1.00
+Years: 53.00
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Occasional
+Marijuana use: Yes, a few times a month
+Other substances: Not on file
+Occupation: Retired
+Living situation: Lives with daughter
+
+Plan re: tobacco: Patient continues to smoke actively; she reports she has set a quit date of 1/15/2024 and would like support with cessation counseling and possibly pharmacotherapy closer to that date. Advised to quit smoking in the interim, discussed risks given her CAD and recent pneumonia. Lung cancer screening was discussed in general terms as an option to consider with her care team.
+
+LABS/RESULTS:
+CBC (12/01/2023): WBC 9.8, Hgb 12.1, Plt 245
+BMP (12/01/2023): Na 138, K 4.2, Cr 0.9, Glucose 101
+CXR (12/01/2023): Resolving right lower lobe infiltrate, improved from prior
+INR (12/05/2023): 2.3, therapeutic
+
+Assessment/Plan:
+1. Pneumonia, resolving - clinically improved, repeat CXR in 4-6 weeks.
+2. AFib - continue apixaban, INR/coag panel as above therapeutic.
+3. CAD - continue atorvastatin, stable.
+4. Gout - continue allopurinol.
+5. Osteoporosis - continue alendronate, recheck DEXA per schedule.
+6. Tobacco use - counseled, quit date set for 1/15/2024, follow up at next visit.
+
+RTC in 4 weeks or sooner as needed.
+
+Rachel Goldberg, MD

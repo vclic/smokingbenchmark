@@ -1,0 +1,93 @@
+Pulmonology Progress Note
+Patient: Leonard Kim (M) DOB: 5/7/1965 Age: 58
+DOS: 11/02/2023
+Author: Farah Siddiqui, MD
+Visit type: Lung Cancer Screening Shared Decision-Making Visit
+
+CC: LCS SDM visit, referred by PCP for discussion of lung cancer screening risks/benefits.
+
+HPI: Mr. Kim is a 58-year-old male with hx CAD, HFrEF, asthma, gout, BPH, and osteoporosis who presents today for shared decision-making discussion regarding lung cancer screening. Pt reports no new resp sx, no hemoptysis, no unintentional wt loss. He denies chest pain at rest, though notes occasional exertional dyspnea consistent with baseline HFrEF. No fevers/chills. He is aware of the purpose of today's visit and has questions about risks/benefits of screening which we discussed at length (see Plan below); no imaging ordered today.
+
+PMH/Problem List (ICD-10):
+- I25.10 CAD, native vessel, without angina
+- I50.22 Chronic systolic (congestive) heart failure
+- J45.909 Asthma, unspecified
+- M10.9 Gout, unspecified (last flare per pt >1 yr ago)
+- N40.1 BPH with LUTS
+- M81.0 Age-related osteoporosis without pathological fracture
+- E78.5 Hyperlipidemia (outdated - pt reports lipid panel WNL last visit, may need updating)
+- Z87.891 Personal history of nicotine dependence
+
+Medications:
+1. Aspirin 81 mg PO daily
+2. Atorvastatin 40 mg PO qhs
+3. Metoprolol succinate 50 mg PO daily
+4. Lisinopril 10 mg PO daily
+5. Furosemide 20 mg PO daily prn edema
+6. Spironolactone 25 mg PO daily
+7. Albuterol HFA MDI 90 mcg 2 puffs q4-6h prn wheeze
+8. Fluticasone/salmeterol 250/50 1 puff BID
+9. Allopurinol 300 mg PO daily
+10. Tamsulosin 0.4 mg PO qhs
+11. Alendronate 70 mg PO weekly
+12. Calcium/vitamin D combo tab daily
+13. Colchicine 0.6 mg PO prn gout flare
+
+Allergies: NKDA
+
+Social History (EHR-templated block):
+Tobacco use status: Former smoker
+Smoking hx: Pt reports smoking 1 pack per day (1 ppd) from age 28 until quitting at age 55. He states he quit smoking approx 3 yrs ago and has remained tobacco-free since.
+Secondhand smoke exposure: Not on file
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Walks 20 min daily
+Diet: Not on file
+
+Review of Systems (templated, 14-point):
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Endorses occasional exertional dyspnea, denies chest pain, palpitations, orthopnea unchanged from baseline.
+Respiratory: Denies cough, hemoptysis, wheeze today.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Endorses mild nocturia x2, known BPH, no dysuria, no hematuria.
+Musculoskeletal: Denies acute joint pain/swelling, no active gout flare.
+Skin: Denies rash, lesions.
+Neuro: Denies HA, dizziness, focal weakness.
+Psych: Denies depression, anxiety.
+Endo: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergy sx today.
+
+Physical Exam:
+Vitals: BP 128/78, HR 72, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb, Ht 5'10"
+General: Well-appearing, NAD, alert and oriented x3.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD appreciated, no thyromegaly, no lymphadenopathy.
+CV: RRR, no m/r/g, no peripheral edema noted today.
+Pulm: CTAB, no wheeze/rales/rhonchi appreciated, good air movement bilaterally.
+Abd: Soft, NT/ND, no HSM.
+Ext: No cyanosis/clubbing/edema.
+Skin: Warm, dry, intact.
+Neuro: CN II-XII grossly intact, motor/sensory intact, gait normal.
+Psych: Mood/affect appropriate.
+
+Assessment/Plan:
+58-year-old male former smoker (1 ppd from age 28 until quit at age 55, quit approx 3 yrs ago) presenting for lung cancer screening shared decision-making discussion.
+1. Lung cancer screening SDM - Discussed general benefits and risks of screening including false positives, incidental findings, radiation exposure, and overdiagnosis. Pt verbalizes understanding. No imaging ordered at this time; will continue discussion and revisit at future visit as appropriate. Provided educational handout.
+2. CAD - Stable, continue ASA, statin, beta-blocker. Will check lipid panel at next visit given outdated data on problem list.
+3. HFrEF - Euvolemic today, no lower extremity edema, continue GDMT as above. Repeat echo deferred, stable per pt.
+4. Asthma - Well controlled on current inhaler regimen, no exacerbations reported, continue current meds.
+5. Gout - No active flare, continue allopurinol, colchicine prn.
+6. BPH - Mild nocturia, continue tamsulosin, will follow with urology as needed.
+7. Osteoporosis - Continue alendronate, calcium/vitamin D, follow up DEXA per prior schedule.
+8. Tobacco - Counseled on continued avoidance of tobacco products; congratulated pt on smoking cessation, encouraged continued abstinence.
+
+Follow up: RTC in 6 months or sooner if new symptoms. Pt verbalizes understanding of plan and agrees.
+
+Farah Siddiqui, MD
+Pulmonology
+Electronically signed 11/02/2023

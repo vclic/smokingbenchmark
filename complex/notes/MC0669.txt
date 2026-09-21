@@ -1,0 +1,47 @@
+GERIATRICS RESIDENT NOTE (with attending attestation)
+Patient: Pamela Coleman | DOB: 3/14/1948 (age 77) | DOS: 05/29/2025
+Author: Rachel Goldberg, MD (resident); attending attestation below
+
+CC: Geriatric assessment, f/u chronic conditions.
+
+HPI: 77 yo F w/ h/o hyperlipidemia, afib, gout, GERD presents for comprehensive geriatric assessment. Reports stable mood, mild fatigue, no falls since last visit. Denies chest pain, palpitations acutely; occasional dyspnea on exertion. GERD sx well controlled on current regimen. Gout flares infrequent, last one ~6 mos ago. Independent in ADLs, uses cane for balance.
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Never smoker - lifelong non-smoker.
+ Pack-years: N/A
+ Vaping/e-cigs: Not on file
+ Alcohol: occasional, 1 glass wine/wk
+ Illicit drug use: Denies
+ Living situation: Lives alone, daughter nearby
+ Occupation: Retired schoolteacher
+ Exercise: Not on file
+
+ROS: Constitutional: no fever, no unintentional weight loss. HEENT: no vision changes, mild hearing loss chronic. CV: no chest pain, occasional palpitations (known afib). Resp: no cough, no hemoptysis. GI: occasional heartburn, controlled. GU: no dysuria. MSK: joint pain c/w gout, no active flare today. Neuro: no focal deficits. Psych: mood stable, no SI. Skin: no rashes. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 68 irreg irreg, RR 16, T 98.2F, SpO2 97% RA, Wt 145 lb.
+Gen: NAD, well-appearing elderly female.
+HEENT: PERRLA, EOMI, oropharynx clear.
+CV: irregularly irregular rhythm, no murmurs.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, 1st MTP w/o active inflammation today.
+Neuro: alert, oriented x3, gait steady with cane.
+Skin: no lesions.
+
+LABS (from 05/28/2025):
+ Lipid panel: Total chol 198, LDL 112, HDL 58, TG 140.
+ Chem panel: Na 140, K 4.2, Cr 0.9, BUN 18.
+ Uric acid: 6.8 mg/dL (WNL on current gout regimen).
+ INR (on anticoag for afib): 2.3 - therapeutic.
+
+MEDICATIONS: Atorvastatin 40mg qhs; Apixaban 5mg BID; Allopurinol 100mg daily; Omeprazole 20mg daily; Metoprolol succinate 50mg daily; Colchicine PRN flare; Calcium/Vit D supplement; Multivitamin daily.
+
+ASSESSMENT/PLAN:
+1. Hyperlipidemia - stable, continue statin, recheck lipids in 6 mo.
+2. Atrial fibrillation - rate controlled, INR therapeutic, continue apixaban.
+3. Gout - no active flare, continue allopurinol, uric acid at goal.
+4. GERD - well controlled on PPI, continue.
+5. Health maintenance - discussed age-appropriate screenings; lung cancer screening discussed in context of risk factors but not applicable given non-smoking history.
+F/u in 3-6 months or sooner PRN.
+
+Attending Attestation: I have personally seen and examined the patient with Dr. Goldberg and agree with the above assessment and plan. - Attending Geriatrician

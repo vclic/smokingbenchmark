@@ -1,0 +1,58 @@
+TELEHEALTH FOLLOW-UP NOTE
+Pulmonology - Post-Hospitalization Follow-up
+Patient: Loretta Mitchell (DOB: 6/13/1963), F, age 61
+Date of Service: 12/07/2024
+Author: Hannah Weiss, NP
+
+PROBLEM LIST:
+- I25.10 Coronary artery disease, native vessel
+- I48.91 Atrial fibrillation
+- I73.9 Peripheral artery disease
+- N40.0 Benign prostatic hyperplasia (copy-forward error, patient is female, flagged for correction)
+- E03.9 Hypothyroidism
+- J44.1 COPD with acute exacerbation (recent)
+
+HPI:
+Ms. Mitchell is a 61-year-old woman seen via telehealth for follow-up after an ED visit and short hospital stay for COPD exacerbation. She reports gradual improvement in dyspnea and cough since discharge, though still using her rescue inhaler more than baseline. No fevers, no hemoptysis. She denies chest pain; her known CAD and afib have been stable per her cardiologist. She was started on a prednisone taper and continues albuterol/ipratropium nebulizers at home per discharge instructions. She lives with her husband and reports adequate support at home. She notes she has smoked for 41 years total over her lifetime, though she does not smoke currently. She was able to walk to the mailbox yesterday without significant desaturation per pulse ox she has at home.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker, quit smoking. She shared today that she quit when her youngest grandchild was born, and that grandchild just turned 1 year old. She has remained smoke-free since then and denies any relapse. No vaping or other tobacco/nicotine products currently. Alcohol: rare, social only. No illicit drug use.
+
+ROS: Positive for mild residual cough and dyspnea on exertion. Denies orthopnea, PND, leg swelling beyond baseline PAD-related claudication. No palpitations beyond known afib. No urinary symptoms reported today (though prostate-related problem code above is a documentation artifact, as patient is female and this diagnosis does not apply to her - will correct in chart).
+
+MEDICATIONS (reviewed):
+- Apixaban 5 mg BID (afib)
+- Atorvastatin 40 mg daily
+- Levothyroxine 75 mcg daily
+- Albuterol/ipratropium nebulizer PRN
+- Prednisone taper (day 5 of 10)
+- Clopidogrel 75 mg daily (PAD)
+
+VITALS (per home reporting/telehealth):
+BP 128/76, HR 78 irregular (known afib), SpO2 94% on room air per home pulse ox, RR 16, denies fever.
+
+EXAM (limited via video):
+Alert, no acute distress, speaking in full sentences without pause. No visible use of accessory muscles. Skin color normal, no cyanosis noted on camera. No peripheral edema visualized.
+
+ASSESSMENT:
+1. COPD exacerbation, recently hospitalized - clinically improving on current taper and nebulizer regimen. Continue current management, follow up in 2 weeks or sooner if worsening.
+2. Tobacco use history - patient quit smoking after 41 years of smoking; she quit around the time her youngest grandchild was born, and that grandchild is now 1 year old. She has sustained abstinence since that time. Continued encouragement given for maintaining smoking cessation. General health maintenance and lung health discussed, including relevant screening considerations, which were discussed with patient though no imaging ordered today.
+3. Coronary artery disease - stable, continue statin and antiplatelet therapy.
+4. Atrial fibrillation - stable, continue anticoagulation, no new symptoms.
+5. Peripheral artery disease - stable, continue clopidogrel, encourage walking as tolerated.
+6. Hypothyroidism - stable on current levothyroxine dose, will recheck TSH at next visit.
+
+PLAN:
+- Continue prednisone taper as prescribed
+- Continue nebulizer treatments PRN, wean as symptoms improve
+- Pulmonary function testing to be scheduled once exacerbation fully resolved
+- Follow up in 2 weeks, sooner if symptoms worsen
+- Reinforce continued tobacco abstinence; patient states she has no plans to return to smoking
+- Correct problem list error regarding BPH diagnosis (patient is female, this appears to be a documentation carryover error)
+- Continue home pulse ox monitoring, call if SpO2 drops below 90%
+
+Time spent: 20 minutes, telehealth visit, counseling and coordination of care.
+
+---
+ADDENDUM (later same day, 12/07/2024, added by H. Weiss, NP):
+Patient's husband called clinic this afternoon with additional clarification regarding home nebulizer supply - they have enough ipratropium/albuterol vials to last through the end of the prednisone taper, so no urgent prescription refill needed at this time. Also confirmed patient does not currently use any nicotine replacement products or e-cigarettes; she has not smoked since quitting, consistent with what was documented above. BPH diagnosis code on problem list has been reviewed and will be removed at next in-person visit given it does not apply to this patient. No other changes to plan.

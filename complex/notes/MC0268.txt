@@ -1,0 +1,45 @@
+NURSE INTAKE - Hospital D/C Follow-up
+DOS: 11/20/2025
+Patient: George Rivera, M, DOB 11/20/1957 (age 68)
+Author: Anita Patel, MD
+
+Vitals: BP 138/82, HR 78, RR 16, T 98.4F, SpO2 95% RA, Wt 191 lb
+CC: f/u after recent hospitalization for pneumonia, discharged 11/13/2025.
+
+HPI (dictated, some recognition errors present): Patient is a 68 y/o male who was recently discharged form the hospital after being treated for community acquired pneumonia, he states he is feeling much better then he did on admission, cough has improved although he still has some productive sputum in the mornings, denies fever or chills, denies chest pain, he did have some [inaudible] shortness of breath yesterday when climbing stairs but this has resolved today, he is taking his antibiotics as prescribed and finishing the course this week, he says his appetite is returning and he is sleeping better, no new complaints today he does mention some fatigue which he attributes to being sick.
+
+=== COPIED FORWARD FROM PRIOR NOTE DATED 4/20/2023 (left in record, not updated) ===
+SOCIAL HISTORY (as documented 4/20/2023): Patient reports he is a current smoker. No further detail regarding quantity or duration documented at that visit. Alcohol: occasional. Denies illicit drug use. Lives alone, retired machinist. Diet: reports difficulty following renal/diabetic diet. Exercise: sedentary. Family history: father with MI at age 60, mother with T2DM. Review of systems otherwise negative at that time. Plan from 4/20/2023 visit: continue metformin, follow up CKD labs in 6 months, counsel on smoking cessation.
+=== END COPIED SECTION ===
+
+SOCIAL HISTORY (current, updated 11/20/2025): Tobacco use - patient has smoked a quarter pack (about 5 cigarettes) per day for 19 years, then stopped completely for 4 years, then restarted smoking at three-quarters of a pack (about 15 cigarettes) per day for 29 years and continues to smoke to this day. He continues to smoke despite counseling given today regarding cessation, risks reviewed including cardiovascular and pulmonary disease, he verbalizes understanding but states he is 'not ready' to quit at this time. Alcohol: occasional beer on weekends. No illicit drug use reported.
+
+PMH: Type 2 diabetes mellitus, Chronic kidney disease stage 3, Depression, Hyperlipidemia.
+
+MEDS: Metformin 500mg BID, Lisinopril 10mg daily, Atorvastatin 40mg qhs, Sertraline 50mg daily, recently completed course of amoxicillin-clavulanate for pneumonia (final dose due 11/22/2025).
+
+ALLERGIES: NKDA
+
+LABS/RESULTS:
+- CBC (11/13/2025, inpatient): WBC 11.2 (H), Hgb 13.1, Plt 245
+- BMP (11/13/2025): Na 138, K 4.6, Cl 101, CO2 24, BUN 28 (H), Cr 1.6 (H), Glucose 162 (H)
+- eGFR (11/13/2025): 46 mL/min/1.73m2
+- HbA1c (10/02/2025): 7.8%
+- Lipid panel (10/02/2025): TC 188, LDL 102, HDL 41, TG 175
+- CXR (11/13/2025): Right lower lobe infiltrate, improving compared to admission film.
+
+EXAM: General - well-appearing, no acute distress. Lungs - mild crackles at right base, improved from prior, no wheeze. CV - RRR, no murmur. Abd - soft, nontender. Ext - no edema. Neuro - grossly intact.
+
+ASSESSMENT/PLAN:
+1. Community-acquired pneumonia, resolving - continue current antibiotic course through completion, repeat CXR in 6 weeks to confirm resolution.
+2. Type 2 diabetes mellitus - A1c 7.8%, continue metformin, reinforce dietary counseling, recheck A1c in 3 months.
+3. CKD stage 3 - stable, eGFR 46, continue to avoid nephrotoxic agents, recheck BMP in 3 months.
+4. Depression - stable on sertraline, continue current dose, screen with PHQ-9 at next visit.
+5. Hyperlipidemia - continue atorvastatin, lipid panel reasonably controlled.
+6. Tobacco use - patient continues to smoke despite counseling, cessation options discussed including nicotine replacement and referral to quitline, patient declines at this time but agreeable to revisit at next visit, lung cancer screening was discussed in general terms as part of overall preventive care conversation.
+
+Follow-up in 4 weeks or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 11/20/2025, added by Dr. Patel):
+Spoke with patient by phone this afternoon regarding pharmacy question about antibiotic refill, clarified that no refill is needed as course completes as prescribed, patient verbalized understanding, no other changes to plan at this time.

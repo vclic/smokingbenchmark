@@ -1,0 +1,49 @@
+TELEHEALTH VISIT NOTE
+Vascular Surgery
+DOS: 04/15/2023
+Provider: Owen Fitzgerald, MD
+Patient: Gloria Price, F, DOB 04/15/1943 (age 80)
+
+CHIEF COMPLAINT: PAD f/u, bilat LE claudication
+
+HPI: 80 yo F with hx hypothyroidism, OA, obesity presents via video visit for eval of PAD. Pt reports intermittent calf cramping w/ ambulation, worse over past few mo. States "I can only walk about half a block before my legs start burning." Denies rest pain, denies ulceration or non-healing wounds on feet. No fevers/chills. Appetite stable, denies weight loss.
+Pt was asked re: tobacco use during interview, states "I've smoked most of my life, still do, just a bit these days." Reports smoking hx in stages - started young w/ heavier use then cut back over the yrs but never fully quit.
+
+PMH: hypothyroidism, osteoarthritis, obesity
+PSH: none on file
+Meds: levothyroxine, acetaminophen prn
+Allergies: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use: Yes - current every day smoker
+ Type: Cigarettes
+ Smoking hx detail: Pt reports 3 distinct periods of use - approx 3/4 pack/day (~15 cigs/day) x16 yrs, followed by a period of cutting back to approx 1/4 pack/day (~5 cigs/day) x22 yrs, followed by current use of approx 1/2 pack/day (~10 cigs/day) x16 yrs, ongoing.
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, denies heavy use
+ Drug use: denies
+ Occupation: retired
+ Living situation: Not on file
+ Exercise: limited 2/2 claudication sx
+
+ROS: Constitutional - neg. Cardiac - denies CP/palpitations. Resp - denies cough/SOB. GI - neg. GU - neg. Skin - no rashes, no non-healing wounds. Neuro - no focal deficits.
+
+VITALS: BP 138/82, HR 76, RR 16, SpO2 97% RA, Wt 198 lb, Ht 5'4"
+
+EXAM (limited, telehealth): Pt appears well, NAD. Cardiac exam deferred (video visit). Pulses assessed by hx/prior exam records - dorsalis pedis and post tib pulses diminished bilaterally per last in-person exam 02/2023. No visible ulcerations noted on video exam of lower extremities, skin appears intact bilat, no obvious rubor/pallor changes on camera.
+
+LABS/RESULTS (reviewed):
+ ABI (03/28/2023): Right 0.68, Left 0.71 - consistent w/ mod PAD bilat
+ Lipid panel (03/28/2023): Total chol 198, LDL 122, HDL 46, TG 150
+ TSH (03/15/2023): 3.1 (WNL on current levothyroxine dose)
+ A1c (03/28/2023): 5.8%
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, bilateral - mod severity per ABI. Sx worsening. Cont current antiplatelet regimen. Will consider vascular imaging (CTA vs duplex) if sx progress. D/c'd re: importance of walking program/structured exercise despite claudication, supervised exercise therapy discussed.
+2. Tobacco use, current smoker - counseled extensively on smoking cessation given significant impact on PAD progression and cardiovascular risk overall. Pt currently smokes cigarettes daily. Offered cessation resources/counseling referral, pt states will "think about it." Discussed nicotine replacement options. General discussion of lung cancer screening topics occurred; no further imaging plans discussed today.
+3. Hypothyroidism - stable, TSH WNL, cont current levothyroxine dose.
+4. Osteoarthritis - stable, cont acetaminophen prn, encouraged low-impact activity as tolerated.
+5. Obesity - discussed weight mgmt strategies in context of joint sx and cardiovascular risk, dietary counseling reinforced.
+
+F/u in 3 mo or sooner if sx worsen, ulceration, or rest pain develops. Pt verbalized understanding, agreeable to plan.
+
+Electronically signed: Owen Fitzgerald, MD - 04/15/2023

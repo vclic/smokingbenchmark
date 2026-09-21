@@ -1,0 +1,60 @@
+TELEHEALTH VISIT NOTE
+Family Medicine
+Date of Service: January 18, 2025
+Author: Isaac Moreno, PA-C (resident note; attending attestation below)
+
+PATIENT: Edward Taylor
+DOB: 1/18/1965 | Age: 60
+Sex: M
+
+CC: Med refills via telehealth (osteoporosis, CKD3, AFib, BPH, HTN)
+
+HPI:
+Pt is a 60-year-old male seen via video visit for routine med refills. He reports doing fairly well overall, no chest pain, no palpitations, no syncope. Denies hematuria, dysuria, or worsening urinary hesitancy beyond baseline. No new falls or fractures since last visit. He states he ran out of several meds and needs refills called in to his pharmacy. He continues to smoke cigarettes, and reports trying to cut back but has not been successful thus far. Denies use of e-cigs or other tobacco products currently. No cough, hemoptysis, or unintentional weight loss reported.
+
+ROS: Otherwise negative except as above. Denies fevers, chills, SOB at rest, edema.
+
+PMH: Osteoporosis, CKD stage 3, atrial fibrillation (on anticoagulation per prior records), BPH, HTN.
+
+Meds (per chart, to reconcile): alendronate, apixaban, tamsulosin, lisinopril, metoprolol succinate - pt requesting refills on all.
+
+Allergies: NKDA
+
+--- SOCIAL HISTORY (EHR template) ---
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Pack-year history: 21 pack-years
+Smokeless tobacco: Never
+Alcohol use: Occasional, denies heavy use
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Sedentary, ambulates independently
+--- END TEMPLATE ---
+
+VITALS (per remote device/pt report): BP 138/84, HR 78 irregular, wt stable
+
+EXAM (limited via video):
+Gen: NAD, conversant, appropriate affect
+CV: Irregularly irregular rhythm noted on report, no acute distress
+Resp: No visible respiratory distress, no cough during visit
+GU: Deferred (telehealth)
+MSK: No acute deformity visible, gait not formally assessed via video
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder - Pt continues to smoke cigarettes, current smoker, with a 21 pack-year smoking history. Counseled extensively on smoking cessation benefits including CV, bone, and renal health given his comorbidities. Offered nicotine replacement therapy and referral to tobacco quitline; pt declined pharmacotherapy today but will consider. Lung cancer screening was discussed as an option to consider with PCP going forward; further workup deferred to that discussion.
+2. Osteoporosis - continue alendronate, refilled x90 days. Counseled that continued smoking may worsen bone density outcomes.
+3. CKD stage 3 - stable per last labs, refill lisinopril, will recheck BMP at next visit.
+4. Atrial fibrillation - continue apixaban for stroke prevention, refilled. HR controlled on metoprolol succinate, refilled.
+5. BPH - continue tamsulosin, refilled, denies worsening obstructive symptoms.
+6. HTN - BP borderline elevated today, continue current regimen, recheck at next visit, reinforced low sodium diet.
+
+Return to clinic or telehealth in 3 months, sooner if symptoms worsen. Pt verbalized understanding and agreement with plan.
+
+Time spent: 20 minutes, >50% counseling/coordination of care.
+
+Electronically signed: Isaac Moreno, PA-C
+
+ATTESTATION: I have reviewed the resident's note and discussed the case with Mr. Moreno. I agree with the assessment and plan as documented above, including counseling regarding continued cigarette use and the patient's 21 pack-year smoking history. - Attending physician, Family Medicine, 1/18/2025.

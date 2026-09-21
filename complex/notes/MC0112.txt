@@ -1,0 +1,44 @@
+NURSE INTAKE - Pulm F/U Incidental Lung Nodule
+DOS: 02/02/2026
+Pt: Gregory Powell, M, DOB 02/02/1958 (age 68)
+Vitals: BP 138/82, HR 78 irreg (known AFib), Wt 245 lb, BMI 34.
+CC: f/u incidental RUL nodule seen on CT 12/2025.
+
+HPI (Teresa Alvarez, NP): Pt seen for f/u of incidentally noted lung nodule. Pt states "I feel fine, no cough, no chest pain, just here bc they told me to come back." No hemoptysis, no wt loss. Denies dyspnea at rest, mild exertional SOB c/w baseline obesity/AFib. Pt hx notable for MI in 2017 - reports "that scared me straight," pt states this prompted lifestyle changes over subsequent yrs.
+
+PMH: Atrial fibrillation (on anticoagulation), osteoporosis, obesity.
+
+SOCIAL HISTORY:
+Alcohol: quit EtOH 2010, denies current use.
+Tobacco (EHR template - Tobacco Use Screening):
+  Current status: Former smoker
+  Type: Cigarettes
+  Hx: 1.5 ppd x 18 yrs, then decreased to ~12 cigs/day x 29 yrs prior to cessation
+  Quit: Yes - quit 5 yrs after his 2017 MI
+  Interested in cessation counseling: N/A - already quit
+Other drug use: denies.
+
+--- COPIED FROM PRIOR NOTE DATED 10/02/2023 (unchanged, per prior documentation) ---
+Social Hx (as of 10/2/2023): Tobacco - former smoker. No further detail given in that note.
+--- END COPIED SECTION ---
+
+LABS/RESULTS:
+CT chest 12/15/2025: 8mm RUL nodule, solid, stable in appearance per report.
+CBC 01/28/2026: WBC 6.8, Hgb 13.9, Plt 240.
+BMP 01/28/2026: Cr 1.0, K 4.2, Gluc 101.
+Bone density (DEXA) 06/2025: T-score -2.6 lumbar spine, consistent with known osteoporosis.
+INR 01/30/2026: 2.3 (therapeutic, on warfarin for AFib).
+
+ASSESSMENT/PLAN (Physician progress note):
+68 yo M with AFib, osteoporosis, obesity, and significant remote tobacco use (1.5 ppd x18 yrs, then ~12 cigs/day x29 yrs before quitting, quit smoking 5 yrs after 2017 MI) presenting for f/u of incidental lung nodule found 12/2025.
+
+1. Incidental pulmonary nodule - stable per most recent CT, low current suspicion. Lung cancer screening guidelines discussed with pt given smoking hx; risks/benefits reviewed. F/u imaging recommended per radiology surveillance interval; will obtain repeat CT chest in 6-12 mo per protocol.
+2. Atrial fibrillation - continue warfarin, INR therapeutic today at 2.3. Continue rate control regimen.
+3. Osteoporosis - continue current bisphosphonate therapy, encourage wt-bearing exercise as tolerated given obesity.
+4. Obesity - counseled on diet/exercise, referred to nutrition.
+5. Tobacco - pt remains former smoker (quit as noted above); reinforced continued abstinence, no current cessation counseling needed as pt already quit.
+6. Alcohol - quit EtOH in 2010, no current use, no intervention needed.
+
+RTC in 6 mo or sooner if new symptoms (hemoptysis, wt loss, worsening dyspnea). Pt verbalized understanding of plan.
+
+Teresa Alvarez, NP

@@ -1,0 +1,82 @@
+Internal Medicine – Progress Note
+Patient: Curtis Nelson (M), DOB: 9/26/1968 (age 55)
+Date of Service: 09/30/2023
+Provider: Anita Patel, MD (NP progress note)
+
+CHIEF COMPLAINT: F/u HTN, T2DM.
+
+HPI: 55 yo M here for routine f/u of HTN and DM2. Pt states "I've been checking my sugars most mornings, they run in the 130s." Reports occasional knee pain, attributed to known OA, managed w/ APAP prn. Denies chest pain, SOB, orthopnea, edema. BP logs at home reportedly averaging 128-134/78-84. Diet adherence fair, exercise limited by knee discomfort.
+
+Regarding tobacco: pt is a FORMER SMOKER. He reports hx of smoking 1.5 packs per day. He states, "I quit smoking right after my bypass surgery and never looked back." No current tobacco use reported today.
+
+***Copied from note dated 6/30/2022*** (for reference only, not updated at this visit): "Social history: pt is a former smoker." [copied verbatim from prior encounter, no further detail available in that note]
+
+NOTE: The templated field below auto-populated incorrectly and should be disregarded — see corrected HPI/social history above.
+Smoking status: Never Smoker [ERRONEOUS AUTO-FILLED FIELD — pt is actually a former smoker per HPI, corrected this visit]
+
+PMH:
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Hyperlipidemia
+- Osteoarthritis
+- CABG x3 (2010)
+
+SOCIAL HISTORY:
+Tobacco: former smoker (see HPI for details on cessation timing relative to CABG in 2010). Alcohol: occasional, denies excess. Drugs: denies. Lives with spouse, retired mechanic.
+
+FAMILY HISTORY: Father - MI at 60s, Mother - DM2. Noncontributory otherwise.
+
+ALLERGIES: NKDA.
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Amlodipine 5 mg daily
+3. Metformin 1000 mg BID
+4. Atorvastatin 40 mg qHS
+5. Aspirin 81 mg daily
+6. Metoprolol succinate 50 mg daily
+7. Acetaminophen 500 mg prn knee pain
+8. Glipizide 5 mg daily
+9. Multivitamin daily
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, wt loss.
+Eyes: denies visual changes.
+ENT: denies sore throat, congestion.
+Cardio: denies chest pain, palpitations, orthopnea, PND, edema.
+Resp: denies cough, wheeze, dyspnea.
+GI: denies N/V/D, abd pain.
+GU: denies dysuria, hematuria.
+MSK: + knee pain, chronic, stable.
+Skin: denies rash, lesions.
+Neuro: denies HA, dizziness, numbness/tingling.
+Psych: denies depression, anxiety.
+Endo: + polyuria intermittently, otherwise denies polydipsia, polyphagia.
+Heme/Lymph: denies bruising, bleeding, adenopathy.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 130/82, HR 72, RR 16, Temp 98.4F, Wt 198 lb, BMI 29.8
+General: well-appearing, NAD, well-nourished.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear.
+Neck: supple, no JVD, no thyromegaly, no LAD.
+CV: RRR, no murmurs/rubs/gallops, well-healed median sternotomy scar noted.
+Lungs: CTAB, no wheezes/rales/rhonchi.
+Abdomen: soft, NT/ND, +BS, no HSM.
+Extremities: no edema, pulses 2+ throughout, mild crepitus bilat knees, no effusion.
+Skin: warm, dry, intact.
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady.
+Psych: mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Hypertension - stable on current regimen, BP well controlled today. Continue lisinopril, amlodipine. Recheck at next visit.
+2. Type 2 Diabetes Mellitus - reasonably controlled per home logs, will check A1c today. Continue metformin, glipizide. Reinforce diet/exercise counseling given knee-limited activity tolerance.
+3. Hyperlipidemia - continue atorvastatin, lipid panel due, will order.
+4. Osteoarthritis, bilateral knees - stable, continue acetaminophen prn, consider ortho referral if worsens.
+5. Tobacco use, former - pt confirmed former smoker status; quit smoking right after his bypass surgery per pt report. History of smoking 1.5 packs per day was reviewed and documented in HPI. Discussed general health maintenance benefits of continued abstinence and reviewed cardiovascular risk reduction strategies. Lung cancer screening discussed in general terms as part of preventive care discussion; no imaging ordered at this visit.
+6. S/p CABG x3 (2010) - stable, no anginal symptoms, continue aspirin/statin/beta-blocker regimen, cardiology f/u as scheduled.
+7. Health maintenance: age-appropriate screenings reviewed, immunizations UTD per chart.
+
+Return to clinic in 3 months or sooner if concerns. Pt verbalized understanding of plan.
+
+Electronically signed: Anita Patel, MD

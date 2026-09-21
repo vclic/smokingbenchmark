@@ -1,0 +1,31 @@
+NURSE INTAKE
+Patient: Thomas Alexander, M, DOB 08/17/1969 (age 55)
+DOS: 12/05/2024
+Provider: Owen Fitzgerald, MD - Geriatrics
+
+Vitals: BP 138/82, HR 76, RR 16, Temp 97.8F, Wt 189 lb, Ht 5'10"
+CC: geriatric assessment, routine f/u for hypothyroidism and BPH.
+
+Pt reports "I feel about the same, maybe a bit more tired in the afternoons." Denies chest pain, denies falls. Reports nocturia x2, states "I get up twice most nights, sometimes three times if I have tea before bed."
+
+--- COPIED FORWARD FROM VISIT 03/14/2023 ---
+HPI: Pt is a 53 yo male here for routine f/u of hypothyroidism, BPH, and general geriatric health maintenance, pt states he is doing well overall, denies new complaints, reports adherence to levothyroxine, denies dysuria, denies hematuria, reports urinary stream is "okay, not great", exam notable for prostate mildly enlarged on DRE, labs from that visit reviewed - TSH 3.1, PSA 1.8, CBC/CMP unremarkable, plan at that time was to continue levothyroxine 75mcg daily and tamsulosin 0.4mg qhs, f/u in 6-9 months or sooner if symptoms worsen, pt counseled on fall precautions and home safety [inaudible] discussion regarding advance directives deferred to future visit.
+--- END COPIED FORWARD ---
+
+SOCIAL HISTORY (updated 12/05/2024): Patient smokes 4 cigarettes per day for the past 18 years; he continues to smoke and states he is not ready to quit at this time. Denies alcohol use, denies illicit drug use. Lives alone, ambulates independently.
+
+ROS: Otherwise negative except as above, pt denies fevers, denies vision changes, denies hearing loss although he did say "sometimes I dont hear the TV so good" which family attributes to volume settings not hearing itself.
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+
+Assessment/Plan:
+Mr Alexander is a 55 year old male presenting today, 12/05/2024, for geriatric assessment with underlying hypothyroidism and BPH, overall he is stable per exam and interval history, exam today is largely unchanged from prior visit reviewed above, thyroid non-tender no nodules appreciated, abdomen soft non-tender no CVA tenderness, DRE deferred today given recent exam on file.
+
+1. Hypothyroidism - continue levothyroxine 75mcg daily, will recheck TSH at next visit.
+2. BPH - continue tamsulosin 0.4mg qhs, pt tolerating well, denies worsening urinary symptoms beyond baseline nocturia.
+3. Tobacco use - discussed ongoing cigarette use, patient continues to smoke and reports he is not ready to quit at this time, brief counseling provided on health risks and cessation resources offered, patient declined referral to cessation program today, will readdress at future visits, lung cancer screening was discussed as part of general health maintenance conversation.
+4. Health maintenance - vaccines reviewed and up to date, fall risk assessment reviewed, advance directive discussion deferred again to a future visit per patient preference.
+
+Return to clinic in 6 months or sooner if symptoms arise, staff to schedule f/u labs prior to next visit.
+
+Electronically signed, Owen Fitzgerald, MD

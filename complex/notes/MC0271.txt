@@ -1,0 +1,60 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+Author: Hannah Weiss, NP
+Date of Service: 08/28/2025
+
+Patient: William Coleman | DOB: 5/5/1961 | Age: 64 | Sex: M
+
+CC: PAD f/u, claudication sx being monitored.
+
+HPI: Pt presents for routine PAD eval, reports ongoing bilateral calf pain w/ ambulation, "about two blocks and then I gotta stop and rest." Denies rest pain, denies new ulcers or skin breakdown. States he's been "doing ok, just slower than i used to be." No recent hospitalizations. COPD stable per pt, uses inhalers occasionally, denies increased sob at rest. Afib - on anticoag, denies palpitations or syncope. BPH - urinary sx unchanged, no hematuria.
+
+Copied from note dated 11/28/2022 (for reference, historical status only, not current): "Tobacco use: current smoker." -- see updated tobacco block below for current details.
+
+PMH: BPH, Atrial fibrillation, COPD, PAD
+PSH: none significant
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco Use Status: Current every day smoker
+Comment: Pt reports smoking approx a quarter pack (about 5 cigarettes) per day, ongoing since 1976.
+Smokeless tobacco: never
+Alcohol Use: Former drinker, quit drinking alcohol in 2018.
+Illicit drug use: denies
+
+Readiness to Quit: Pt states he is not ready to quit smoking at this time, "I've cut down some but I'm not gonna quit right now." Counseled on benefits of cessation, offered resources/nicotine replacement therapy, pt declined today, will revisit at future visit. Smoking cessation counseling provided per standard protocol, discussed general health risks assoc w/ continued tobacco use given COPD and PAD dx. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - occasional cough, no hemoptysis. CV - no chest pain, no edema noted today. GI - denies. GU - nocturia x2, stable. MSK - bilat calf pain w exertion as above. Skin - no ulcers/lesions noted.
+
+VITALS: BP 138/84 | HR 78 irregular | RR 16 | Temp 97.8F | SpO2 95% RA | Wt 198 lbs
+
+PHYSICAL EXAM:
+Gen: NAD, appears stated age.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Resp: mild expiratory wheeze bilat bases, no acute distress.
+Extrem: bilat DP/PT pulses diminished but palpable, cap refill <3sec, no ulcers or gangrene, skin intact, mild hair loss noted on lower extrem c/w PAD.
+Abd: soft nontender.
+
+LABS/RESULTS:
+- ABI (08/20/2025): Right 0.68, Left 0.71 (consistent w mild-mod PAD)
+- CBC (08/20/2025): WBC 7.2, Hgb 14.1, Plt 233
+- BMP (08/20/2025): Na 139, K 4.3, Cr 1.0, Glucose 101
+- Lipid panel (08/20/2025): TC 198, LDL 122, HDL 41, TG 175
+- INR (08/27/2025): 2.4 (therapeutic on anticoag)
+
+ASSESSMENT:
+1. Peripheral artery disease - mild-mod by ABI, sx stable, no rest pain or tissue loss.
+2. Atrial fibrillation - rate controlled, INR therapeutic.
+3. COPD - stable, tobacco use ongoing, contributory.
+4. BPH - stable on current mgmt.
+5. Tobacco use disorder - current smoker, not ready to quit, counseled today.
+
+PLAN:
+- Continue current antiplatelet/anticoagulation regimen per cardiology.
+- Supervised exercise program d/c'd for claudication mgmt, encouraged daily walking.
+- Cont inhalers for COPD, f/u pulm as needed.
+- Continue tamsulosin for BPH sx.
+- Smoking cessation counseling given, pt not ready to quit, readdress at next visit, resources offered.
+- F/u vascular surgery in 6 months or sooner if worsening sx, rest pain, or non-healing wounds.
+- Pt to call if new ulceration, discoloration, or severe pain.
+
+Note reviewed and cosigned by supervising physician.

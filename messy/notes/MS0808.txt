@@ -1,0 +1,48 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: Rita Nelson (DOB 1/18/1959)
+Age: 64
+Date of Service: 11/14/2023
+Author: Daniel Reyes, MD
+
+CC: Follow-up of incidental lung nodule found on prior imaging.
+
+HPI: 64 yo woman presents for f/u of incidentally noted RUL nodule seen on CT chest done for unrelated indication. No hemoptysis, no fevers, no weight loss reported. Mild exertional dyspnea, stable per patient, attributed to known COPD. No chest pain. Denies recent infections. She reports occasional cough, nonproductive.
+
+PMH: OA, CKD stage 3, COPD, osteoporosis, gout, PAD.
+
+Social History: Former smoker. Quit smoking in 2008. Denies current alcohol use. Lives with spouse, retired schoolteacher.
+
+Medications: Tiotropium inhaler, alendronate, allopurinol, cilostazol, calcium/vit D.
+
+Allergies: NKDA.
+
+ROS: Otherwise negative except as above.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 95% RA, Wt 68 kg
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles
+CV: RRR, no murmurs, PAD-related diminished distal pulses noted bilat LE
+Ext: no edema, chronic skin changes c/w PAD
+
+Labs/Results:
+10/02/2023 CT chest: 7mm nodule RUL, stable in appearance compared to outside imaging.
+10/05/2023 CBC: WBC 6.8, Hgb 13.1, Plt 245
+10/05/2023 BMP: Cr 1.4 (baseline for CKD3), eGFR 46
+10/12/2023 PFTs: FEV1 61% predicted, FEV1/FVC 0.62, consistent with moderate COPD
+
+Assessment/Plan:
+1. Pulmonary nodule, incidental, RUL - stable on interval imaging. Lung cancer screening was discussed with patient in general terms as part of overall risk discussion. Recommend continued surveillance imaging per prior radiology recommendation, f/u in 6-12 months or per protocol.
+ Smoking history: patient smoked 10 cigarettes per day for 31 years, quit smoking in 2008 - former smoker status noted. Continue to encourage abstinence, no current tobacco use.
+2. COPD (J44.9) - moderate obstruction on recent PFTs, on tiotropium, stable symptoms today. Continue current inhaler regimen, reinforce inhaler technique.
+3. CKD stage 3 (N18.3) - stable, Cr at baseline, monitor renally-dosed meds.
+4. Osteoarthritis (M19.90) - stable, managed by PCP, no new complaints today.
+5. Osteoporosis (M81.0) - continue alendronate, calcium/vit D, DEXA per PCP schedule.
+6. Gout (M10.9) - stable on allopurinol, no recent flares reported.
+7. Peripheral artery disease (I73.9) - stable, on cilostazol, continue walking program, follow with vascular as needed.
+
+Old problem noted in chart from prior visit (2019): "tobacco use disorder" - outdated, superseded by current status as former smoker since 2008 quit date.
+
+Return to clinic in 6 months or sooner if symptoms change. Patient given verbal instructions and written after-visit summary. Questions answered, all in agreement with plan.
+
+-- Daniel Reyes, MD

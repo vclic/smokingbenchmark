@@ -1,0 +1,93 @@
+General Medicine Clinic Progress Note
+
+Patient: GARCIA, Yolanda    MRN: 40981273
+DOB: 05/30/1945    Age: 79 y.o.    Sex: Female
+Date of Service: 12/24/2024    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Yolanda Garcia is a 79 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 140s/80s. Taking amlodipine 5 mg daily without missed doses. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity
+• CAD
+• Mixed hyperlipidemia
+• Major depressive disorder, recurrent, in remission
+• PAD
+• Atrial fibrillation
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (1986)
+• Lumpectomy, benign (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pravastatin 40 mg nightly
+• multivitamin daily
+• aspirin 81 mg daily
+• escitalopram 10 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• amlodipine 5 mg daily
+• metoprolol succinate 25 mg daily
+• apixaban 5 mg BID
+• lisinopril 10 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Current Some Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: 1/2ppd x 60-65 yrs
+Social History Narrative
+  Widowed; lives with son.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Father - AAA repair. Father - prostate cancer. Father - lung cancer (heavy smoker), deceased at 65.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 134/80 (BP Location: Right arm, Patient Position: Sitting) | Pulse 82 | Temp 97.4 °F (Oral) | Resp 14 | Ht 5' 5" | Wt 214 lb | SpO2 97% | BMI 35.57 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   BP at goal in clinic and at home.
+2. Major depressive disorder, recurrent, in remission
+   Mood stable.
+3. Mixed hyperlipidemia
+   LDL at goal on last check; continue.
+
+Return in about 3 months (around 3/24/2025).
+
+Electronically signed by Daniel Reyes, MD on 12/24/2024

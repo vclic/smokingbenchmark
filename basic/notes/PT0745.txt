@@ -1,0 +1,49 @@
+Pulmonology Clinic Note
+Date of Service: 12/24/2024
+Patient: Rita Henderson   DOB: 7/10/1965   MRN: 90262995
+
+S:
+CC: Lung cancer screening
+HPI: Mrs. Henderson is a 59-year-old woman with a history of OA, OSA, GERD, and HLD who presents for lung cancer screening shared decision-making. Referred for shared decision-making regarding lung cancer screening. No hemoptysis, weight loss, or new cough.
+
+PMH:
+- OSA (dx 2022)
+- Primary OA, bilateral knees
+- Hypercholesterolemia
+- Gastroesophageal reflux disease
+- Peripheral artery disease
+Meds: vitamin D3 2000 IU daily; pravastatin 40 mg nightly; aspirin 81 mg daily; famotidine 20 mg BID; diclofenac 1% gel QID PRN
+Allergies: Lisinopril (cough)
+SH: Divorced, lives alone. She smoked a half pack per day for 6 years and quit in April 2000. EtOH: 2-3 drinks on weekends. Denies illicit drugs.
+FH: Mother - osteoporosis, hip fracture. Sister - hypothyroidism.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 118/69  HR: 69  RR: 18  Temp: 98.7 F  SpO2: 97% on RA  Wt: 186 lbs  BMI: 28.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: 1+ DP pulses bilaterally, no ulcers
+  Neuro: Nonfocal
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening: SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Does not meet USPSTF criteria; LDCT not ordered.
+2. Ex-smoker: Congratulated on remaining smoke-free.
+3. Hypercholesterolemia
+   - LDL at goal on last check; continue.
+
+Return in about 3 months (around 3/24/2025).
+
+Electronically signed by Anita Patel, MD on 12/27/2024 at 07:52

@@ -1,0 +1,49 @@
+Adult Medicine Clinic Note
+Date of Service: 4/18/2024
+Patient: Carol Rodriguez   DOB: 4/29/1973   MRN: 28230883
+
+SUBJECTIVE:
+CC: f/u DM2
+HPI: Ms. Rodriguez is a 50-year-old female with a history of T2DM, HLD, osteoporosis, and HTN who presents for diabetes follow-up. Most recent A1c 7.0% (previously 7.8% in December 2023). Current every-day smoker with roughly a 30-pack-year history. Rarely checks glucose at home. No hypoglycemic episodes. Reports some tingling in feet at night.
+
+PMH:
+- Mixed hyperlipidemia
+- Osteoporosis
+- HTN
+- T2DM without complication
+Meds: pravastatin 40 mg nightly; calcium + vitamin D daily; alendronate 70 mg weekly; sitagliptin 100 mg daily; lisinopril 20 mg daily
+Allergies: NKDA
+Social History:
+- Lives with husband in a single-family home.
+- Works as a cashier.
+- Quit for 3 yrs starting in 2009 but restarted in 2012.
+- EtOH: 1-2 beers/wk.
+- Denies illicit drugs.
+FH: Parents deceased, causes unknown.
+ROS: GI neg, Neuro neg, CV neg, MSK neg
+
+O:
+Vitals: BP: 151/89  HR: 80  RR: 18  Temp: 98.9 F  SpO2: 95% on RA  Wt: 126 lbs  BMI: 23.9
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Benign
+  Ext: Warm, well perfused, no edema. Yellow nicotine staining of R 2nd/3rd fingertips.
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (03/24/2024): A1c 7.0%, LDL 61, Cr 0.71, K 4.7
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 7.0% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. Osteoporosis
+   - Continue bisphosphonate; DEXA due.
+3. Tobacco abuse
+   - Counseled on cessation for 4 min. She is contemplating quitting. Start nicotine patch 21 mg/24h + gum 2 mg PRN.
+4. HTN: Elevated today; home BP log requested.
+
+RTC 1 month.
+
+Elena Markovic, MD

@@ -1,0 +1,35 @@
+TELEHEALTH FOLLOW-UP VISIT
+Date of Service: 05/30/2026
+Provider: Owen Fitzgerald, MD (Primary Care)
+Patient: Roger Roberts, M, DOB 02/16/1953, Age: 73
+
+CC: Discharge follow-up s/p pneumonia hospitalization.
+
+HPI: Mr. Roberts is a 73 y/o male, DOB 2/16/1953, seen via telehealth after recent hospital d/c for community-acquired pneumonia, doing [inaudible] better per pt, cough improving, no fever, some residual fatigue and he says he gets winded going up the stairs but thats about his baseline he thinks, denies chest pain, denies hemoptysis. Smoking hx obtained today - pt reports smoking half a pack (about 10 cigarettes) per day for 17 years, then increased to 1.5 packs per day for 23 years, then increased again to 2 packs per day for 17 years, which is his current use - he currently smokes cigarettes daily. Lung cancer screening was discussed briefly in general terms with pt. Advised smoking cessation resources, pt states he is 'not ready' at this time, will continue to offer support at future visits.
+
+ROS: Otherwise negative except as above, denies edema currently, denies palpitations today, appetite ok.
+
+PMH / Problem List (partially outdated, reviewed):
+- I25.10 Coronary artery disease, native vessel
+- M19.90 Osteoarthritis, unspecified site (old entry, likely knees per prior notes)
+- I50.22 Chronic systolic (congestive) heart failure, HFrEF
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- E78.5 Hyperlipidemia
+- I48.91 Atrial fibrillation, unspecified
+- J18.9 Pneumonia, unspecified organism (recent admission, resolving)
+
+Meds: Metoprolol succinate, apixaban, atorvastatin, furosemide, tiotropium inhaler, albuterol PRN - pt reports compliance overall, occasionally forgets evening dose he says.
+
+Exam (limited, via video): Pt appears comfortable, no acute distress noted on camera, speaking full sentences, no visible cyanosis, home pulse ox reported by pt as 94% RA today.
+
+Assessment: Recent pneumonia, improving clinically per telehealth interview. COPD and HFrEF stable-appearing today. AFib, on anticoagulation, no new palpitations reported. Continued active tobacco use, counseled.
+
+Plan:
+1. Continue current inhalers, reassess need for pulm function testing outpt.
+2. F/u labs - BMP, BNP in 1 wk.
+3. Cardiology f/u already scheduled per d/c summary.
+4. Reinforce smoking cessation counseling ongoing, offered pharmacotherapy again, pt declined for now.
+5. RTC or telehealth f/u in 2 weeks, sooner if worsening cough/fever/SOB.
+6. Pt to call if symptoms worsen [inaudible] or new chest pain develops.
+
+Electronically signed: Owen Fitzgerald, MD

@@ -1,0 +1,66 @@
+Adult Medicine Clinic Note
+
+Patient: HUGHES, Linda    MRN: 94987043
+DOB: 06/22/1961    Age: 61 y.o.    Sex: Female
+Date of Service: 04/11/2023    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Linda Hughes is a 61 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/70s. Reports good adherence to amlodipine 5 mg daily. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Class I obesity
+• Gastroesophageal reflux disease
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 5 mg daily
+• lisinopril 10 mg daily
+• pantoprazole 40 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives with husband and adult daughter.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Sister - hypothyroidism. Son - type 1 diabetes.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 138/84 (BP Location: Left arm, Patient Position: Sitting) | Pulse 90 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 3" | Wt 183 lb | SpO2 99% | BMI 32.43 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Obese, soft, nontender
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   At goal. Continue current regimen.
+2. Lung cancer screening
+   Not indicated - never smoker.
+3. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 6 mo
+
+Electronically signed by Brian Okonkwo, MD on 04/11/2023

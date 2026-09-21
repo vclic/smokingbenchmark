@@ -1,0 +1,74 @@
+HOSPITAL DISCHARGE F/U - PRIMARY CARE
+Patient: Luis Butler | DOB: 1/11/1965 (age 60) | Sex: M
+DOS: 12/29/2025
+Author: Priya Raman, MD (resident) - attending attestation below
+
+CC: F/u s/p recent hospitalization for pneumonia.
+
+HPI: Mr. Butler is a 60 yo male w/ hx obesity, asthma, HFrEF, hyperlipidemia, admitted last wk for CAP (community-aquired pneumonia), tx'd w/ IV abx, now d/c'd home on po levofloxacin, here for f/u. He reports feeling "about 80 percent back to normal," cough improved, still some mild dyspnea on exertion, denies fever/chills currently. Wife accompanies pt to visit, states he was more short of breath overnight two days ago but improved w/o intervention, [inaudible] she also notes he has been more tired then usual, which he attributes to being coooped up in the house. No chest pain, no orthopnea beyond baseline 2-pillow. No lower extremity edema increase per pt. Appetite fair, some nausea early in admission now resolved.
+
+Pt continues to smoke; he tells me today he smokes between 1 and 2 packs per day and has done so for 41 years. He is an active smoker currently and has not been able to cut down since discharge, states "it's the one thing keeping me sane right now" - counseled extensively on smoking cessation, benefits reviewed, offered nicotine replacement and referral to quitline, pt declined meds today but open to revisiting at next visit.
+
+--- COPIED FROM NOTE DATED 8/29/2023 (SOCIAL HX SECTION, NOT UPDATED THIS VISIT) ---
+Social History (as documented 8/29/2023): Pt is a current smoker. No quantities recorded in that note. Denies illicit drug use. Occasional etoh, denies excessive use.
+--- END COPIED SECTION ---
+
+ROS: Constitutional: + fatigue, denies fever/chills/night sweats. HEENT: denies sore throat, denies congestion. Resp: + mild dyspnea on exertion, cough improving, denies hemoptysis. CV: denies chest pain/palpitations, denies syncope. GI: denies abd pain, nausea resolved, denies vomiting/diarrhea. GU: denies dysuria/hematuria. MSK: denies myalgias/arthralgias. Neuro: denies HA/dizziness/focal weakness. Skin: denies rash. Psych: denies SI/HI, mood ok per pt. All other systems reviewed and negative except as noted above.
+
+PMH/Problem List:
+- E66.9 Obesity, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- I50.22 Chronic systolic (congestive) heart failure
+- E78.5 Hyperlipidemia, unspecified
+- J18.9 Pneumonia, unspecified organism (resolving, recent admission) - outdated entry, being resolved this visit
+- Z87.891 Personal hx of nicotine dependence - NOTE: this entry outdated/inaccurate, pt remains active smoker per today's discussion, will correct problem list
+
+Medications:
+1. Furosemide 40 mg po daily
+2. Metoprolol succinate 50 mg po daily
+3. Lisinopril 10 mg po daily
+4. Atorvastatin 40 mg po qHS
+5. Albuterol HFA MDI 90 mcg, 2 puffs q4-6h prn wheeze
+6. Fluticasone/salmeterol 250/50 1 puff BID
+7. Levofloxacin 750 mg po daily (day 5 of 7, from hospital d/c)
+8. Aspirin 81 mg po daily
+9. Spironolactone 25 mg po daily
+10. Multivitamin daily
+
+Allergies: NKDA
+
+Vitals: T 98.2F, HR 84, BP 132/78, RR 18, SpO2 95% RA, Wt 231 lb, BMI 34.2
+
+Physical Exam:
+Gen: well-appearing male, NAD, sitting comfortably in chair.
+HEENT: NC/AT, PERRL, oropharynx clear, no exudate.
+Neck: no JVD appreciated, no LAD.
+CV: RRR, nl S1/S2, no murmurs/rubs/gallops appreciated, +2 radial pulses bilat.
+Resp: mild bibasilar crackles L>R, improved from hospital exam, no wheeze appreciated today, no accessory muscle use, breathing comfortably.
+Abd: soft, nontender, nondistended, +BS, no organomegaly.
+Ext: no c/c/e, cap refill <2 sec.
+Skin: warm, dry, no rashes, no cyanosis.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits, gait not assessed today.
+Psych: mood/affect appropriate, cooperative w/ interview.
+
+Labs/Results:
+- CXR 12/22/2025 (inpt): RLL consolidation c/w PNA
+- CXR 12/29/2025 (today, repeat): improving RLL infiltrate, no effusion
+- WBC 12/22/2025: 14.2 -> 12/29/2025: 8.9
+- BNP 12/22/2025: 620 -> 12/29/2025: 410
+- BMP 12/29/2025: Na 138, K 4.1, Cl 101, CO2 25, BUN 18, Cr 1.0, Glu 102
+- LFTs 12/29/2025: WNL
+- Lipid panel 11/2025: TC 198, LDL 118, HDL 42, TG 190
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue levofloxacin to complete 7-day course, repeat CXR shows improvement, f/u in 2 wks or sooner if worsening sx.
+2. HFrEF - stable, continue current regimen, weight stable, monitor for fluid overload, cont daily wt checks at home.
+3. Asthma - stable, cont current inhalers.
+4. Obesity - discussed diet/exercise as tolerated post-pneumonia, defer aggressive counseling to next visit.
+5. Hyperlipidemia - cont atorvastatin, lipid panel reasonably controlled.
+6. Tobacco use, active - as above, extensive counseling given re: cessation given active smoking of 1-2 packs/day x41 years, benefits of quitting reviewed esp given HFrEF and recent pna, quitline info given, pt declined pharmacotherapy today, will readdress at f/u. Problem list to be updated to reflect active use rather than the outdated "personal hx" code.
+
+F/u: PCP in 2 weeks, sooner if fever, worsening cough, or increased dyspnea. Pt instructed to call or go to ED for any concerning sx.
+
+---
+Attestation: I have personally seen and examined the patient with Dr. Raman and discussed the case in detail. I agree with the history, exam, and assessment/plan as documented above, including counseling provided regarding active tobacco use. - Attending, PCP Clinic

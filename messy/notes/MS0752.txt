@@ -1,0 +1,78 @@
+PULMONOLOGY H&P — Lung Cancer Screening Shared Decision-Making Visit
+Patient: Dennis Martinez (M)
+DOB: 04/05/1953
+Date of Service: 04/05/2025
+Author: Farah Siddiqui, MD
+
+CHIEF COMPLAINT: Referral for lung cancer screening SDM visit; pt is 72 years old today (birthday coincides w/ visit date).
+
+HPI: Mr. Martinez is a 72 y/o male, DOB 4/5/1953, referred by PCP for shared decision-making discussion re: lung cancer screening given hx of COPD and PAD. Pt was brought in today by his daughter. He is noted to be largely nonverbal/aphasic at baseline per family, secondary to prior CVA per outside records (records not available today, [inaudible] transfer summary faxed but illegible). He is unable to answer most history questions directly, responds w/ gestures or single words, daughter present but reports she is unclear on many details of his history including his tobacco use, she states she 'never really saw him smoke but wasn't around him for years.' Tobacco history: unable to obtain, patient aphasic and poor historian, unable to confirm current or past use, pack-years, or quit status; this remains undocumented at this time and could not be clarified w/ daughter either. No further attempt made to characterize tobacco use during this visit given inability to obtain reliable history.
+
+He is accompanied today for further eval of chronic sob, which has been slowly worsening, daughter reports he uses cane for ambulation and gets short of breath after about half a flight of stairs, she also notes he snores loudly at night and has been observed to stop breathing for periods, consistent w/ known OSA dx, on CPAP per chart but adherence unclear, machine data not brought today.
+
+ROS: Cardiovascular - daughter reports no chest pain observed, pt has hx of afib, on anticoagulation. Respiratory - chronic cough occasionally productive of whitish sputum, no hemoptysis reported. GI - GERD sx reportedly controlled on PPI per daughter, though pt cannot confirm compliance. Musculoskeletal - decreased mobility, uses cane, hx PAD w/ claudication symptoms in calves per old notes. Sleep - loud snoring, witnessed apneas per daughter.
+
+PAST MEDICAL HISTORY:
+- Obstructive sleep apnea
+- Obesity
+- Peripheral artery disease
+- COPD
+- Atrial fibrillation
+- GERD
+- History of CVA w/ residual aphasia (per outside records, details not available)
+
+MEDICATIONS (per pharmacy fill hx, not confirmed by pt):
+- Apixaban 5mg BID
+- Albuterol inhaler PRN
+- Tiotropium inhaler daily
+- Omeprazole 40mg daily
+- Atorvastatin 40mg daily
+- Cilostazol 100mg BID
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Lives w/ daughter and son-in-law, uses cane, requires assistance w/ some ADLs. Former occupation unknown/[inaudible] per daughter, possibly worked in construction 'a long time ago.' Tobacco: see HPI above, unable to obtain. Alcohol: daughter unsure, denies knowledge of current use. Illicit drug use: none reported by family.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78 irregular, RR 18, SpO2 94% RA, Temp 98.1F, Wt 245 lb, Ht 5'9", BMI 36.2.
+General: Obese male, sitting comfortably in wheelchair, nonverbal at times, oriented to person only per daughter's report, appears in no acute distress.
+HEENT: PERRL, oropharynx crowded, mallampati class III appearance noted (relevant to OSA).
+Neck: No JVD, no palpable lymphadenopathy, thyroid nonenlarged.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, 1+ pitting edema bilateral lower extremities.
+Respiratory: Diminished breath sounds bilat bases, mild expiratory wheeze noted, no crackles, using accessory muscles mildly.
+Abdomen: Obese, soft, nontender, no organomegaly appreciated.
+Extremities: Cool distally, diminished pedal pulses bilaterally c/w known PAD, no ulcers noted today.
+Neuro: Expressive aphasia noted, comprehension appears intact for simple commands, moves all extremities, gait not assessed today given wheelchair use.
+
+LABS/RESULTS:
+- CBC (03/28/2025): WBC 7.8, Hgb 13.2, Hct 39.5, Plt 210
+- BMP (03/28/2025): Na 138, K 4.4, Cl 101, CO2 26, BUN 22, Cr 1.1, Glucose 104
+- INR (04/01/2025): 2.3 (checked per cardiology d/t recent afib event, may be outdated protocol)
+- BNP (03/28/2025): 142 pg/mL
+- Pulmonary function test (02/14/2025): FEV1 58% predicted, FVC 74% predicted, FEV1/FVC 0.61, consistent w/ moderate obstructive pattern
+- Chest CT (prior, 01/2025, outside facility): reportedly showed mild emphysematous changes, no dominant nodule described in available report summary
+
+PROBLEM LIST:
+1. J44.9 - Chronic obstructive pulmonary disease, unspecified
+2. G47.33 - Obstructive sleep apnea
+3. E66.9 - Obesity, unspecified
+4. I73.9 - Peripheral artery disease, unspecified (old dx, may need updated ABI)
+5. I48.91 - Atrial fibrillation, unspecified type
+6. K21.9 - GERD without esophagitis
+7. I69.398 - Other sequelae of cerebral infarction (aphasia) - added this visit
+8. Z87.891 - Personal history of nicotine dependence (OUTDATED ENTRY, carried forward from old chart, tobacco status could not actually be confirmed today, needs review/possible removal at next visit)
+
+ASSESSMENT/PLAN:
+72 y/o male here for lung cancer screening SDM visit today 04/05/2025. Tobacco history could not be obtained today due to pt's aphasia and lack of reliable collateral; daughter unable to clarify. Given inability to determine any tobacco use history, unable to complete standard screening risk discussion in a meaningful way today, this topic was only briefly mentioned to the daughter as something to revisit once history clarified. Will attempt to obtain outside records re: any prior tobacco documentation and re-contact family for additional history at next visit before any further discussion.
+
+1. COPD - continue current inhalers, reinforce inhaler technique w/ daughter's assistance, f/u PFTs in 6 months.
+2. OSA - encourage CPAP adherence, will request sleep study data/machine download at next visit.
+3. PAD - continue cilostazol, consider updated ABI given outdated problem list entry.
+4. Afib - continue apixaban, INR/coag panel reviewed, cardiology following.
+5. GERD - continue omeprazole, reinforce dietary measures.
+6. Aphasia/CVA sequelae - recommend speech therapy eval if not already established, will coordinate w/ PCP.
+7. Lung cancer screening topic - deferred entirely pending tobacco history clarification; no further action taken today.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Daughter given clinic contact information and educational materials.
+
+Farah Siddiqui, MD - Pulmonology

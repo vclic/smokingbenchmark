@@ -1,0 +1,55 @@
+NEW PATIENT VISIT - PRIMARY CARE
+DOS: 03/12/2023
+Patient: Thomas Ross, M, DOB 3/12/1965 (age 58)
+Author: Elena Markovic, MD (NP progress note)
+
+CC: establish care with new PCP
+
+HPI: Pt is a 58 y/o male, DOB 3/12/1965, presenting to establish care as new pt to this practice, previously followed elsewhere. Hx significant for CAD s/p DES to LAD 2018, HFrEF (last echo EF ~35%), BPH, and hypothyroidism on levothyroxine. Pt reports doing reasonably well overall, occasional DOE w/ stairs, denies orthopnea, PND, chest pain, palpitations. States he ran out of metoprolol about 2 wks ago and has not refilled, will address today. Denies edema. BPH sx described as mild frequency/nocturia x1, on tamsulosin, tolerating well. No new GI/GU complaints. Pt somewhat vague historian re: prior records, states "most of my old chart is probably still at the other clinic [inaudible] never got it transferred so we'll just start fresh here I guess." Denies fevers chills wt loss night sweats.
+
+SOCIAL HISTORY: Pt lives w/ spouse, retired machinist, denies illicit drug use, drinks etoh socially ~2-3 beers/wk. Tobacco: pt reports he tried a few cigarettes as a teenager but never smoked regularly, has not been a regular cigarette smoker at any point in his life. He does endorse current use of chewing tobacco. Denies vaping/e-cigs.
+
+---BEGIN COPY-FORWARD FROM PRIOR VISIT NOTE DTD 09/14/2021 (retained per old EHR export, review for accuracy)---
+CC f/u CHF, CAD
+HPI: pt c/o mild SOB w exertion, no PND orthopnea, compliant w meds, wt stable, EF 30% on TTE 2021, cont carvedilol lisinopril furosemide, BPH stable on tamsulosin, TSH wnl on synthroid, pt counseled re low salt diet and daily wts, f/u 3 mo
+ROS: negative except as above
+Exam: A/Ox3 NAD, RRR no m/r/g appreciated, lungs CTAB, no LE edema, abd soft NT/ND
+A/P: 1. HFrEF - stable cont current regimen 2. CAD - stable 3. BPH - stable 4. Hypothyroidism - stable
+---END COPY-FORWARD---
+
+ROS: Constitutional - denies fever, chills, unintentional wt loss. Cardiac - as above. Resp - denies cough, wheeze. GI - denies n/v/d, abd pain. GU - as above re BPH sx. Neuro - denies HA, dizziness, syncope. Psych - denies dep/anx sx today.
+
+PMH: CAD s/p PCI 2018, HFrEF, BPH, hypothyroidism, HLD
+PSH: none significant reported
+Meds: metoprolol succinate (ran out, needs refill), atorvastatin, tamsulosin, levothyroxine, aspirin 81mg
+Allergies: NKDA
+FH: father w/ MI age 60s, mother w/ DM2
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 reg, RR 16, Temp 98.2F, wt 202 lb, ht 5'10", BMI 29
+Gen: NAD, A/Ox3, well groomed male appearing stated age
+HEENT: PERRL, oropharynx clear, no thyromegaly appreciated on palp
+Neck: no JVD
+CV: RRR, S1S2 nl, no murmur/rub/gallop appreciated today
+Resp: lungs clear to auscultation bilat, no wheeze/rales/rhonchi
+Abd: soft, nontender, nondistended, +BS
+Ext: no c/c/e, pulses 2+ symmetric
+Skin: no rashes noted
+Neuro: grossly intact, no focal deficits
+
+A/P:
+1. HFrEF (EF ~35%) - stable per pt report, will obtain records from prior clinic, restart metoprolol succinate, reinforce low Na diet and daily wt monitoring, cont ASA
+2. CAD s/p DES 2018 - stable, cont statin, will check lipid panel today
+3. BPH - stable on tamsulosin, no acute urinary retention sx
+4. Hypothyroidism - cont levothyroxine, will check TSH
+5. Tobacco/chew use - discussed cessation resources for chewing tobacco use, provided counseling handout, pt states he is not interested in quitting at this time but will consider
+6. Health maintenance - d/w pt colon ca screening, will order colonoscopy referral, discussed flu/pneumococcal vaccination status
+Labs ordered: CMP, lipid panel, TSH, CBC
+F/u: 4-6 wks or sooner if sx worsen
+
+Elena Markovic, MD
+DOS 03/12/2023
+
+---ADDENDUM (later same day, 03/12/2023)---
+Spoke w pt again by phone re records release form, he agreed to sign and fax back. Also clarifying for the chart: pt again confirmed he tried cigarettes only briefly as a teen and never became a regular cigarette smoker, but continues to use chewing tobacco presently. Will re-address tobacco cessation at next visit. No other changes to plan above.
+Elena Markovic, MD

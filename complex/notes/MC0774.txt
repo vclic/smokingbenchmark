@@ -1,0 +1,70 @@
+Pulmonology Progress Note
+Patient: Linda Jenkins (F), DOB 3/20/1950, Age: 73
+Date of Service: 05/14/2023
+Author: Brian Okonkwo, MD
+
+CC: COPD f/u
+
+HPI: Pt is a 73 y/o female w/ hx of COPD, OSA, HTN [sic - actually not on prob list, disregard], hypothyroidism, obesity, T2DM, asthma, presenting for routine COPD follow up. Pt reports mild increase in dyspnea on exertion over past few wks, denies fever/chills, denies chest pain currently. She states she gets short of breath walking up her stairs at home, approx 1 flight, has to stop and rest. No incrased sputum production, no change in sputum color. Uses albuterol prn approx 2x/wk. Compliant with Symbicort BID per pt report, though pharmacy refill hx suggests possible gaps [inaudible] - will address. She denies orthopnea, denies PND, does endorse some bilateral ankle swelling which she attributes to heat and long car ride last wknd visiting daughter in [inaudible] with the grandkids and they had a nice time she said despite the drive being long and her feet swelling up somewhat which improved with elevation overnight so likely not cardiac in origin but will monitor.
+
+PMH: OSA (on CPAP, compliance per home device download reviewed today - avg use 5.2 hrs/night, below goal), hypothyroidism (on levothyroxine), obesity (BMI 34), T2DM (on metformin), asthma (childhood onset, persists into adulthood), COPD (GOLD stage II per last PFTs 2022), s/p MI in 2011 (managed by cardiology, on appropriate 2ndary prevention meds).
+
+SOCIAL HISTORY / TOBACCO:
+[Tobacco Use - EHR templated block]
+Smoking status: Former smoker
+Type: Cigarettes
+Pack-years/history: Pt reports smoking 1.5 packs per day for 16 years, then cut back to about half a pack (approx 10 cigarettes) per day for 26 years, subsequently quit entirely.
+Current use: None - pt confirms she no longer smokes.
+Quit timeline note: Per pt report, she quit smoking approximately 3 years after her MI (MI occurred 2011).
+Exposure to secondhand smoke: denies.
+Counseling: Tobacco cessation maintenance counseling reinforced; pt praised for continued abstinence.
+[End tobacco block]
+
+Alcohol: occasional glass of wine, denies drug use.
+
+MEDS: Symbicort 160/4.5 BID, albuterol HFA prn, levothyroxine 75mcg daily, metformin 1000mg BID, aspirin 81mg daily, atorvastatin 40mg daily, metoprolol succinate 50mg daily, CPAP nightly.
+
+ALLERGIES: NKDA
+
+ROS: Constitutional - denies fever, denies weight loss. Resp - as above, mild increased DOE, denies hemoptysis. CV - denies chest pain, +mild bilateral ankle edema as noted. GI - denies n/v/d. Endo - denies polyuria/polydipsia currently. All other systems reviewed and negative.
+
+VITALS: BP 138/82, HR 78, RR 18, Temp 98.2F, SpO2 94% RA, Wt 198 lbs, BMI 34.1
+
+PHYSICAL EXAM:
+Gen: well-appearing obese female, NAD
+HEENT: NC/AT, MMM, no JVD appreciated
+Lungs: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest
+CV: RRR, no m/r/g
+Abd: soft, NT/ND, obese habitus
+Ext: 1+ pitting edema bilat ankles, no calf tenderness, no cyanosis/clubbing
+Skin: no rashes
+
+LABS/RESULTS:
+CBC (05/10/2023): WBC 7.1, Hgb 13.2, Hct 39.5, Plt 245
+BMP (05/10/2023): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 0.9, Glucose 142
+HbA1c (04/28/2023): 7.4%
+TSH (04/28/2023): 2.1 (WNL)
+BNP (05/10/2023): 88 (nl)
+PFTs (from 09/2022, reviewed today): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ GOLD II obstruction
+CXR (05/14/2023): no acute infiltrate, mild hyperinflation c/w COPD, no effusion
+
+ASSESSMENT:
+1. COPD, GOLD stage II - mild sx worsening, will trial step-up inhaled therapy, repeat PFTs in 6 mo
+2. Former tobacco use - counseled on continued abstinence, appreciate pt's success remaining smoke-free
+3. OSA - suboptimal CPAP compliance, will refer back to sleep med for troubleshooting
+4. T2DM - A1c 7.4%, reasonably controlled, continue metformin, defer to PCP for further titration
+5. Hypothyroidism - TSH WNL, continue current dose
+6. Obesity - discussed lifestyle modification, weight loss referral offered again, pt declined at this time citing [inaudible] scheduling conflicts
+7. Bilateral ankle edema - likely dependent/positional given hx, will monitor, BNP reassuring, no acute CV w/u indicated today
+8. Lung cancer screening was discussed with pt including risks/benefits given her tobacco hx; she will consider and follow up with PCP regarding this.
+
+PLAN:
+- Step up Symbicort dose, add spacer device education
+- Continue albuterol prn
+- F/u PFTs in 6 months
+- Refer back to sleep medicine re: CPAP compliance
+- Cont home glucose monitoring, f/u w/ PCP for DM mgmt
+- RTC pulm in 3 months or sooner if sx worsen
+- Pt verbalized understanding of plan, all questions answered today
+
+Electronically signed: Brian Okonkwo, MD, Pulmonology, 05/14/2023

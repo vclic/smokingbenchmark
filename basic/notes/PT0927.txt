@@ -1,0 +1,48 @@
+Primary Care Clinic Note
+Date of Service: 6/24/2026
+Pt: David Wright   DOB: 10/12/1973   MRN: 57416974
+
+SUBJECTIVE:
+CC: Hospital follow-up
+HPI: 52M w/ HLD, HTN here for hospital follow-up after admission for cellulitis of the left leg. Admitted 6/14/2026-2026-06-20 for cellulitis of the left leg. Feeling much better. No new symptoms since discharge.
+
+PMH: HLD, HTN
+PSH: Right total knee arthroplasty (2012)
+Meds: atorvastatin 40 mg daily; multivitamin daily; amlodipine 10 mg daily
+Allergies: NKDA
+Social History:
+- Married, lives with wife.
+- Works as an office manager.
+- +tob, x 32 yrs.
+- Vapes occasionally in addition to cigs.
+- Drinks a glass of wine with dinner.
+- No IVDU.
+FH: Mother - dementia, d. 84. Son - type 1 diabetes.
+ROS: 10-point ROS otherwise negative.
+
+O:
+Vitals: BP: 131/84  HR: 96  RR: 20  Temp: 98.0 F  SpO2: 99% on RA  Wt: 140 lbs  BMI: 22.6
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (6/9/2026): LDL 137, Cr 0.79, K 4.3
+
+ASSESSMENT/PLAN:
+1. Cellulitis of the left leg
+   - Improving; reviewed discharge summary and meds. Repeat labs in 1 week.
+2. Tobacco use disorder
+   - Counseled on cessation for 10 min. Ambivalent about quitting. Referred to quitline (1-800-QUIT-NOW).
+3. Hypertension
+   - BP at goal; continue current regimen.
+4. Mixed hyperlipidemia: LDL at goal on last check; continue.
+
+Follow up in 3 mos or sooner PRN.
+
+Farah Siddiqui, MD

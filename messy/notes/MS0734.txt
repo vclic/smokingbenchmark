@@ -1,0 +1,71 @@
+PRIMARY CARE PROGRESS NOTE
+Patient: Pamela Williams (DOB 2/19/1953) | Age: 70 | Date of Service: 06/10/2023
+Provider: Rachel Goldberg, MD
+Visit Type: New patient visit to establish care
+
+CHIEF COMPLAINT: Establish care; multiple chronic conditions.
+
+HPI: Ms. Williams is a 70-year-old woman new to this practice, transferring care after her previous PCP retired. She reports her depression is "about the same, some days better than others," and states her mood has been "kinda flat lately, doc." She endorses fair adherence to her diabetes meds but admits "I forget the metformin sometimes when I'm running around." She reports occasional palpitations, noting "my heart does that flippy thing every now and then, [inaudible] maybe once a week or so." She denies chest pain, syncope, or dyspnea at rest, and she says her blood pressure readings at home have been "pretty good, mostly in the one-teens over seventies I think." She was asked about smoking and states she still smokes, and when counseled about cessation she replied, "I hear you doc but I'm just not ready to quit right now, maybe someday." No acute complaints today; she is here mainly to get established and refill medications.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Eyes: No visual changes.
+ENT: No hearing loss, no sore throat.
+Cardiovascular: Occasional palpitations as above, denies chest pain, orthopnea, PND, edema.
+Respiratory: Denies cough, hemoptysis, wheeze; mild occasional SOB with exertion per patient, attributed to deconditioning.
+GI: No nausea, vomiting, diarrhea, constipation.
+GU: No dysuria, no hematuria.
+Musculoskeletal: Chronic low back pain, stable.
+Neuro: No focal weakness, no numbness.
+Psych: Endorses low mood intermittently, denies SI/HI.
+Skin: No rashes.
+Endocrine: Denies polyuria, polydipsia currently.
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired (former retail clerk)
+Living situation: Lives alone in single-family home
+Exercise: Sedentary, per patient
+Diet: Not on file
+Marital status: Widowed
+
+PAST MEDICAL HISTORY: Depression, type 2 diabetes mellitus, atrial fibrillation, hypertension.
+
+MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Sertraline 100 mg PO daily
+3. Apixaban 5 mg PO BID
+4. Lisinopril 20 mg PO daily
+5. Metoprolol succinate 50 mg PO daily
+6. Atorvastatin 40 mg PO daily
+7. Aspirin 81 mg PO daily (hold given anticoagulation, to be reviewed)
+8. Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular, RR 16, Temp 98.2F, Wt 168 lb, Ht 5'4", BMI 28.8
+General: Well-appearing woman in no acute distress, alert, cooperative.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: No JVD, no thyromegaly, no lymphadenopathy.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no gallops or rubs, no peripheral edema, pulses 2+ throughout.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing.
+Skin: Warm, dry, intact, no lesions.
+Neuro: Alert and oriented x3, grossly nonfocal.
+Psych: Mood mildly dysphoric, affect appropriate, thought process linear.
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder - Patient reports a 45 pack-year smoking history and continues to smoke daily; she is not ready to quit at this time despite counseling offered today. Will readdress cessation resources including nicotine replacement and Chantix at future visits; benefits of quitting discussed at length, and lung cancer screening was discussed generally as a topic to revisit.
+2. Type 2 diabetes mellitus - Continue metformin, order HgbA1c, reinforce dietary adherence.
+3. Atrial fibrillation - Continue apixaban for anticoagulation, continue metoprolol for rate control, will obtain EKG today.
+4. Hypertension - Blood pressure well controlled on current regimen, continue lisinopril.
+5. Depression - Continue sertraline, screen with PHQ-9 today, consider counseling referral.
+
+FOLLOW-UP: Return to clinic in 3 months or sooner if symptoms worsen. Labs ordered today including CBC, CMP, HgbA1c, lipid panel, TSH.
+
+Electronically signed by Rachel Goldberg, MD

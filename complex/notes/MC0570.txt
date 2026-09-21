@@ -1,0 +1,42 @@
+Vascular Surgery Consult Note / Letter to Referring Physician
+Patient: Curtis Scott (M), DOB 6/13/1953, age 72
+Date of Service: 06/13/2025
+Author: Catherine Lindqvist, DO
+
+Dear Dr. Reyes,
+
+Thank you for referring Mr Scott, a 72 yo male, for evaluation of peripheral artery disease. He reports calf claudication with ambulation approx 2 blocks, relieved w rest. No rest pain or ulceration noted at this time.
+
+HPI: Pt notes progressive leg discomfort over past several months. denies chest pain, orthopnea worse than baseline. Known HFrEF followed by cardiology. Diabetes reasonably controlled per pt report, home glucose logs reviewed.
+
+Social History: Pt has smoked half a pack (about 10 cigarettes) per day for 15 years, then increased to 1 pack per day for 34 years and still smokes at that rate - active smoker. Counseled extensively on smoking cessation today, pt states he 'has thought about it' but not ready to quit. Spouse also smokes, which pt states makes quitting harder at home. No illicit drug use. Occasional etoh.
+
+PMH/Problem List (per EHR, some entries outdated):
+- F32.9 Major depressive disorder
+- E78.5 Hyperlipidemia
+- J45.909 Asthma, unspecified
+- G47.33 Obstructive sleep apnea
+- E11.9 Type 2 diabetes mellitus
+- I50.22 Chronic systolic (congestive) heart failure w reduced EF
+- I73.9 Peripheral vascular disease, unspecified (new)
+- I10 Essential hypertension (dc'd per pt, no longer on meds - keep for now)
+
+Meds: metformin, atorvastatin, sertraline, albuterol prn, furosemide, carvedilol, CPAP nightly.
+
+Exam: BP 138/82, HR 76, RR 16, spo2 96% RA. Alert, NAD. Cardiac: RRR, no m/r/g appreciated. Lungs: mild expiratory wheeze bilat. Extremities: bilat DP/PT pulses diminished, 1+ on right, trace on left. No ulcers, cap refill <3sec. Skin cool distally.
+
+Assessment: PAD, likely multifactorial - smoking major contributing risk factor along w DM2, HLD. Discussed vascular risk reduction strategies including smoking cessation, statin optimization, exercise therapy.
+
+Plan:
+1. ABI testing ordered to quantify severity
+2. Continue current cardiac/DM meds, no changes today
+3. Smoking cessation counseling given, offered nicotine replacement/pharmacotherapy - pt declined for now
+4. Lung cancer screening discussed given smoking hx, further workup per PCP
+5. F/u in vascular clinic 4-6 wks w ABI results
+6. Pt to call if rest pain, non-healing wound, or worsening claudication
+
+Thank you for allowing us to participate in this patient's care.
+
+Catherine Lindqvist, DO
+
+ADDENDUM (later same day): Spoke w pt by phone after visit, he confirms understanding of plan and will schedule ABI this week. Reiterated importance of smoking cessation given PAD dx. No new concerns voiced.

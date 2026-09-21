@@ -1,0 +1,47 @@
+GERIATRICS – RESIDENT NOTE
+Patient: Wayne Brooks (M), DOB 8/29/1945
+Date of Service: 09/23/2024
+Author: Rachel Goldberg, MD (resident); attending attestation below
+
+CC: Geriatric assessment, follow-up chronic conditions.
+
+HPI: 79 y/o male hx afib, depression, OA, CAD, asthma presents for routine geri assessment. Reports fatigue, some joint pain, mood stable on current regimen. No CP, no palpitations today. Denies dyspnea at rest.
+
+Smoking status: Never Smoker [outdated template field - INCORRECT, see below]. Note: this auto-populated field is wrong; pt has an active smoking hx. On direct questioning, pt states he has smoked for 60 years and continues to smoke; when asked about quitting he states he is not ready to quit at this time. Advised to quit, discussed risks re: CAD/asthma exacerbation. Lung cancer screening discussed in general terms; no imaging ordered today.
+
+ROS: + fatigue, + joint stiffness. Denies fevers, chest pain, hemoptysis, wt loss.
+
+PMH: Afib (on anticoagulation), depression, osteoarthritis, CAD s/p stent, asthma.
+Meds: apixaban, sertraline, albuterol PRN, atorvastatin.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76 irregular, RR 16, SpO2 95% RA, Wt 82kg.
+Gen: NAD, elderly male, appears stated age.
+CV: irregularly irregular rhythm, no murmurs.
+Resp: mild expiratory wheeze bilat.
+MSK: crepitus bilateral knees, no effusion.
+Psych: mood euthymic, affect appropriate.
+
+Labs/Results (reviewed today):
+09/20/2024 CBC: WBC 6.8, Hgb 13.9, Plt 210
+09/20/2024 BMP: Na 138, K 4.2, Cr 1.0, Glu 102
+09/20/2024 INR 2.3 (therapeutic on apixaban - actually pt not on warfarin, INR drawn for baseline)
+09/22/2024 BNP 145
+PFT (last on file 2023): mild obstructive pattern c/w asthma.
+
+Assessment/Plan:
+1. Afib - rate controlled, continue apixaban.
+2. Depression - stable, continue sertraline.
+3. OA - continue NSAID PRN, PT referral.
+4. CAD - stable, continue statin.
+5. Asthma - continue albuterol PRN, consider maintenance inhaler given wheeze on exam.
+6. Tobacco use - longstanding smoker (60 yrs), currently smoking, not ready to quit. Will continue to offer counseling/cessation resources at future visits. Corrected EHR smoking field flagged for update.
+
+Plan reviewed with attending.
+
+---
+ATTESTATION: I have seen and examined the patient with Dr. Goldberg and agree with the above assessment and plan. — Attending Geriatrics
+
+ADDENDUM (later same day, 09/23/2024, added by R. Goldberg, MD):
+Spoke again with patient by phone re: smoking; he reiterates he has smoked for 60 years and is still smoking, reaffirms he is not ready to quit at this time. Documenting correction to chart smoking status field which incorrectly lists 'Never Smoker' - will submit correction request to update template default.

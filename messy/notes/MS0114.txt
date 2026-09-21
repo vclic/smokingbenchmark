@@ -1,0 +1,33 @@
+Telehealth Pre-Op Eval - Internal Medicine
+Date of Service: 06/06/2025
+Patient: John Price, M, DOB 6/6/1950 (age 75)
+Provider: Farah Siddiqui, MD
+
+HPI: Pt is a 75 yo male seen via telehelath for pre-op medical clearance ahead of right total knee replacement scheduled with ortho. Reports chronic knee pain, worse w/ ambulation, now limiting mobility significantly. No new chest pain, SOB at rest, or fevers. Asthma reportedly stable on current inhalers, uses rescue albuterol maybe 1x/week. Gout flares infrequent, last one ~4 months ago per pt. Diabetes control fair, checks sugars intermittently.
+
+[Copy-forward from visit 11/14/2023, retained for reference - not all current]: Pt here for f/u dm2 and osteoporosis. Reports doing well overall, no fx's, no falls, taking calcium/vit d. Denies numbness/tingling in feet. Eyes exam due. Bone density scan reviewed, T-score stable. A1c 7.8 at that time. Continue metformin, follow up in 6 months. Pt counseled on diet and exercise. Discussed fall precautions given osteoporosis dx. No acute issues identified at that visit.
+
+Social History: Former smoker, quit smoking in 2022. Has a 28 pack-year smoking history. No current alcohol use reported, occasional glass of wine socially. Denies illicit drug use. Lives w/ spouse, independent in ADLs.
+
+ROS: Otherwise negative except as above, denies dizziness, denies bleeding issues.
+
+Exam (telehealth, limited): Pt appears well, no acute distress noted on video. Speech clear, breathing unlabored on camera. No visible edema.
+
+Labs/Results:
+- CBC 05/28/2025: WNL
+- BMP 05/28/2025: Cr 1.0, Glucose 142
+- HbA1c 05/28/2025: 7.4%
+- Uric acid 05/28/2025: 6.8
+- DEXA 02/2024: T-score -2.6 lumbar spine (osteoporosis, stable)
+
+Problem List:
+- E11.9 Type 2 diabetes mellitus w/o complications
+- M81.0 Age-related osteoporosis w/o current pathological fracture
+- J45.909 Asthma, unspecified
+- M10.9 Gout, unspecified (outdated entry, likely should specify site)
+- Z87.891 Personal history of nicotine dependence
+
+Assessment/Plan:
+75 yo male, quit smoking status confirmed, former smoker with 28 pack-year history, cleared from pulmonary standpoint for surgery given stable asthma control. Discussed general risks of surgery given age and comorbidities. DM2 - continue metformin, A1c acceptable for surgical clearance. Osteoporosis - continue calcium/vit d, no new fx concerns. Gout - continue allopurinol, avoid trigger foods pre-op. Cleared for right TKA from medicine standpoint pending anesthesia eval. Lung cancer screening was discussed generally given smoking hx; pt to follow up with PCP regarding this separately. Return to clinic or telehealth as needed, f/u post-op per ortho.
+
+Electronically signed: Farah Siddiqui, MD

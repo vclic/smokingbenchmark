@@ -1,0 +1,51 @@
+PULMONOLOGY - LUNG CANCER SCREENING SHARED DECISION-MAKING VISIT
+DOS: 02/20/2025
+Author: Quentin Hale, PA-C
+
+Pt: Linda Garcia, F, DOB 2/20/1975 (age 50)
+
+CC: LDCT lung cancer screening SDM visit, referred by PCP.
+
+HPI: 50 yo F presents for shared decision-making d/t lung ca screening referral. Pt reports "I just want to know what all my options are, doc." Denies hemoptysis, denies wt loss, denies fevers/chills. c/o occasional exertional dyspnea which she attributes to her weight and "bad knees." No new cough. States "I've been more tired lately but I think it's my thyroid acting up again." No chest pain currently, though has known CAD hx. Sleeps w/ CPAP nightly for OSA, reports fair compliance per device download reviewed today.
+
+PMH: hypothyroidism, osteoarthritis, obesity, CKD stage 3, CAD (s/p stent, per records), OSA on CPAP, COPD.
+
+Problem list reviewed and updated today - COPD remains active dx, no documentation of smoking hx on file for this pt.
+
+Meds (per EHR, reconciled): levothyroxine, atorvastatin, aspirin 81mg, metoprolol succinate, acetaminophen prn OA pain, vit D.
+
+Allergies: NKDA.
+
+Social Hx: noncontributory.
+
+Family Hx: mother - HTN, DM2; father - CAD, deceased age 71 MI. No fam hx lung ca reported.
+
+ROS: 10-point ROS reviewed, negative except as noted in HPI. Cardiac - denies palpitations, denies orthopnea/PND. Resp - denies wheeze today, denies hemoptysis. GU - denies dysuria. MSK - chronic knee pain, stable.
+
+Vitals: T 98.2, HR 76, BP 138/82, RR 16, SpO2 96% RA, Wt 212 lb, BMI 34.9.
+
+PE:
+Gen: NAD, obese habitus, comfortable.
+HEENT: EOMI, no LAD.
+CV: RRR, no m/r/g appreciated.
+Resp: CTAB, no wheeze/rales/rhonchi appreciated today, no accessory muscle use.
+Abd: soft, NT/ND, obese.
+Ext: no c/c/e, trace edema b/l ankles chronic.
+Skin: warm, dry.
+
+Labs reviewed: TSH wnl on current dose, Cr 1.4 stable (CKD3 baseline), eGFR ~45.
+
+Assessment/Plan:
+50 yo F referred for lung cancer screening shared decision-making discussion.
+1. LCS SDM - Discussed general concept of lung cancer screening, potential benefits, harms (false positives, incidental findings, radiation), and limitations of screening in detail using decision aid handout. Pt verbalizes understanding. Screening eligibility criteria and decision to proceed or not to proceed to be individualized; no imaging ordered today. Will readdress at f/u or PCP visit as appropriate.
+2. COPD - active on problem list; no smoking hx documented in chart. Will obtain PFTs if not already on file to characterize severity. Continue current inhaler regimen per PCP, reconcile at next visit.
+3. CAD - stable, continue home cardiac meds, no acute concerns today.
+4. OSA - continue CPAP, reports fair adherence; will pull compliance report formally next visit.
+5. CKD stage 3 - stable Cr, avoid nephrotoxic agents, recheck BMP in 3 mo.
+6. Hypothyroidism - TSH at goal, continue levothyroxine.
+7. Obesity/OA - counseled on wt mgmt, low-impact exercise given knee OA, refer to nutrition if pt agreeable.
+
+F/u 3 months or sooner PRN. Pt verbalized agreement w/ plan.
+
+---ADDENDUM (later same day, 02/20/2025, 16:40)---
+Addendum by Q. Hale, PA-C: Pt called back after visit to clarify CPAP settings question, advised to contact DME company directly for machine troubleshooting. Also clarifying documentation above - social hx section confirmed as noncontributory per chart review; no further smoking-related documentation to add. No change to plan otherwise.

@@ -1,0 +1,42 @@
+GERIATRIC ASSESSMENT CONSULT NOTE
+Date of Service: 01/11/2025
+Referring Provider: Dr. A. Nakamura, Internal Medicine
+Consulting Provider: Kevin Osei, MD, Geriatrics
+
+Patient: Theresa Lopez
+DOB: 01/11/1971 (Age 54)
+MRN: 88213-TL
+
+Reason for Consult: Comprehensive geriatric assessment for medically complex patient with heart failure, CKD, and depression, at request of PCP.
+
+HPI: Ms. Lopez is a 54-year-old woman with HFrEF, CAD, CKD stage 3, depression, obesity, and OA who presents today for geriatric assessment. She reports fatigue and intermittent lower extremity swelling. "I get winded just walking to the mailbox," she states. She also notes "my knees ache more when it's cold out," consistent with her known OA. She denies chest pain at rest. Mood is described as "okay, some days are harder than others," with ongoing management of depression. She lives alone but has a daughter nearby who assists with groceries and appointments.
+
+Social History: Lifelong non-smoker; denies any history of tobacco use. Drinks alcohol rarely, denies illicit drug use. Retired schoolteacher.
+
+Past Medical History / Problem List:
+- I50.22 Chronic systolic (congestive) heart failure
+- I25.10 Atherosclerotic heart disease of native coronary artery
+- N18.3 Chronic kidney disease, stage 3
+- F33.1 Major depressive disorder, recurrent, moderate
+- E66.9 Obesity, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- E78.5 Hyperlipidemia (outdated - resolved per prior note, lipids now WNL on statin)
+- J45.909 Asthma (outdated, unclear if still active, patient denies current symptoms)
+
+Medications: Furosemide, carvedilol, lisinopril, atorvastatin, sertraline, acetaminophen PRN.
+
+Exam: BP 128/76, HR 68, Wt 198 lb. Alert, pleasant, mild bilateral ankle edema. Lungs clear. Cardiac exam with regular rate, no acute distress. Knees with mild crepitus, no effusion.
+
+Assessment/Plan:
+1. HFrEF - stable, continue current regimen, weigh daily.
+2. CAD - continue statin, aspirin as prescribed by cardiology.
+3. CKD stage 3 - monitor renal function, avoid nephrotoxic agents.
+4. Depression - continue sertraline, reassess PHQ-9 at next visit.
+5. Obesity/OA - encourage low-impact exercise, weight management referral.
+6. Health maintenance discussed including age-appropriate cancer screening topics.
+
+Will follow up in 3 months or sooner as needed.
+
+Kevin Osei, MD
+
+ADDENDUM (same day, later): Spoke with patient's daughter by phone after visit regarding home safety and medication adherence; no new concerns raised. No changes to plan above.

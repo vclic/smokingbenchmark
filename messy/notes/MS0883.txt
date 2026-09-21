@@ -1,0 +1,41 @@
+URGENT CARE H&P — Farah Siddiqui, MD
+Date of Service: 04/06/2026
+Patient: Darnell Bennett | M | DOB 4/6/1967 | Age 59
+
+CC: cough x several days
+
+HPI: Pt is a 59 yo M w/ hx of hypothyroidism and COPD who presents c/o worsening cough, non-productive, worse at night, denies fever, denies hemoptysis, denies chest pain, does endorse some SOB w exertion which he says is 'about baseline for me' [inaudible] pt reports he has been taking his levothyroxine regularly and his inhalers when he remembers to, he thinks the cough started after he was around his grandkids who had 'some kind of bug goin around.' No sick contacts otherwise. No recent travel. He denies wheezing at rest.
+
+=== COPIED FROM PRIOR NOTE DATED 7/6/2023 (social hx, left in from prior visit, not updated) ===
+SOCIAL HISTORY (as of 7/6/2023): Pt is a former smoker. Lives w/ wife, retired mechanic, denies illicit drug use, occasional etoh use reported at that time. Pt states he walks daily for exercise. Review of systems otherwise unremarkable at that visit. Pt was counseled on diet and exercise at that time. F/u recommended in 6 months for routine COPD management, pt did not return until now.
+=== END COPIED SECTION ===
+
+SOCIAL HISTORY (current, updated 04/06/2026):
+TOBACCO: [EHR TEMPLATE - TOBACCO USE]
+  Smoking status: Former smoker
+  Duration smoked: 17 years
+  Current use: No, pt no longer smokes
+  Quit: pt reports he quit smoking in the late 2000s, does not recall exact yr
+  Counseling: N/A - not currently using
+[END TEMPLATE]
+ALCOHOL: pt reports he quit drinking alcohol in 2010, denies any current use.
+Other: no illicit drug use reported.
+
+ROS: Resp - cough, mild dyspnea on exertion as above. Denies chest pain, denies palpitations. Denies GI complaints. Denies dysuria. All other systems reviewed and negative except as noted in HPI.
+
+PE:
+Vitals: T 98.4, HR 78, BP 128/76, RR 16, SpO2 95% RA
+Gen: NAD, well-appearing male in no distress
+HEENT: no thyromegaly appreciated, oropharynx clear
+Lungs: mild expiratory wheeze bilat bases, no rales, no rhonchi, air movement adequate
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: no edema
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs COPD exacerbation, mild - will start short course of azithromycin, continue albuterol prn, consider short prednisone taper if not improved in 48-72h.
+2. COPD - stable currently, pt is a former smoker who quit in the late 2000s after smoking for 17 years, hx of tobacco use noted in EHR tobacco template above; will continue current inhaler regimen. General health maintenance topics briefly discussed with pt.
+3. Hypothyroidism - continue levothyroxine, check TSH at next routine visit.
+4. Return precautions given, f/u in 1-2 wks or sooner if worsening SOB, fever, or hemoptysis.
+
+Pt verbalized understanding of plan, all questions answered today.

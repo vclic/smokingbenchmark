@@ -1,0 +1,69 @@
+H&P - New Patient Visit to Establish Care
+Patient: Janet White | DOB: 07/19/1963 | Age: 60 | Sex: F
+Date of Service: 07/19/2023
+Provider: Michael Dunn, DO
+
+CC: Establish care with PCP, review of osteoporosis mgmt.
+
+HPI: Pt is a 60 yo F, new to practice, presents to establish care. Previously followed by Dr. Alvarez who has since retired. Pt states, "I just want someone to keep an eye on my bones and make sure everything else is ok too." Denies acute complaints today. Reports occasional mild lower back discomfort, no falls, no fractures since last DEXA. Takes calcium + vit D supplementation, reports fair adherence. Denies fevers, chills, wt loss, night sweats. Diet reviewed - adequate calcium intake per pt report. Exercise: walks 20 min daily, denies weight-bearing resistance training currently, will discuss w/ PT referral.
+
+Social Hx: Pt reports she has never smoked cigarettes in her life. No vaping hx. Occasional glass of wine w/ dinner, ~1-2x/week. Denies illicit drug use. Lives w/ spouse, retired schoolteacher. No occupational exposures of note.
+
+Family Hx: Mother - osteoporosis, hip fx at age 78. Father - HTN, deceased age 82 MI. No fam hx of lung dz or malignancy reported.
+
+PMH/Problem List (per chart review, some entries may be outdated):
+1. M81.0 - Osteoporosis w/o current pathologic fracture (active)
+2. E78.5 - Hyperlipidemia, unspecified (2019, may be resolved - pt reports d/c'd statin per prior PCP, needs verification)
+3. Z87.891 - Personal hx of nicotine dependence (NOTE: appears erroneously carried forward, pt denies any tobacco use hx - see SocHx above, will correct problem list)
+4. M54.5 - Low back pain, chronic, mild
+
+Medications (per pt report/pharmacy reconciliation):
+1. Calcium carbonate 600mg/Vit D3 800IU - 1 tab BID
+2. Vitamin D3 2000 IU daily
+3. Alendronate 70mg PO weekly (pt reports takes on empty stomach, remains upright 30 min)
+4. Multivitamin daily
+5. Occasional OTC ibuprofen prn back pain
+6. (Statin - listed on old chart, pt reports discontinued ~2019, will reconcile)
+
+Allergies: NKDA
+
+ROS: (Comprehensive 12-point ROS reviewed, all systems negative except as noted in HPI)
+Constitutional: Denies fever, chills, unintentional wt loss/gain. Denies fatigue.
+Eyes: Denies visual changes, no eye pain.
+ENT: Denies hearing loss, tinnitus, sore throat.
+Cardiovascular: Denies chest pain, palpitations, edema, orthopnea.
+Respiratory: Denies cough, dyspnea, wheeze, hemoptysis.
+GI: Denies nausea, vomiting, diarrhea, constipation, abd pain.
+GU: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Positive for mild chronic low back discomfort as above. Denies joint swelling, morning stiffness.
+Skin: Denies rash, lesions, easy bruising.
+Neuro: Denies headache, dizziness, numbness/tingling, weakness.
+Psych: Denies depression, anxiety, SI/HI.
+Endo: Denies polyuria, polydipsia, heat/cold intolerance.
+Heme/Lymph: Denies bleeding, easy bruising, lymphadenopathy.
+Allergic/Immuno: Denies seasonal allergies, recurrent infections.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, Wt 148 lbs, Ht 5'4", BMI 25.4
+Gen: Well-appearing, NAD, well-groomed, appropriate affect.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no thyromegaly.
+CV: RRR, no m/r/g, normal S1/S2, no JVD, no peripheral edema.
+Resp: CTAB, no wheeze/rales/rhonchi, normal effort.
+Abd: Soft, NT/ND, normoactive BS, no masses/organomegaly.
+MSK: Mild tenderness to palpation lumbar paraspinals, no midline tenderness, ROM intact, no kyphosis noted. Gait steady, no assistive device.
+Skin: Warm, dry, intact, no rashes/lesions.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 UE/LE, sensation intact.
+Psych: Mood/affect appropriate, normal thought process.
+
+Assessment/Plan:
+1. Osteoporosis (M81.0) - continue alendronate weekly, continue calcium/vit D, will order DEXA to compare to prior if records obtainable, referral to PT for wt-bearing exercise program, f/u labs incl. Ca, vit D level, renal fxn.
+2. Hyperlipidemia hx - needs verification of current status, will obtain lipid panel today, defer statin restart pending results.
+3. Chronic low back pain - conservative mgmt, PT referral as above, continue prn ibuprofen w/ caution given osteoporosis/GI risk, consider acetaminophen alternative.
+4. Health maintenance - d/w pt age-appropriate screening incl. mammography, colonoscopy, bone density.
+5. Problem list to be updated/reconciled at next visit - remove outdated nicotine dependence code as above given no tobacco use hx.
+
+RTC: 3 months or sooner if concerns.
+
+---
+ADDENDUM (same day, 3:45pm) - M. Dunn, DO:
+Spoke w/ pt by phone re: lab draw instructions (fasting lipid panel), pt confirms understanding, will go to lab fasting tomorrow AM. Also clarified w/ pt again regarding tobacco use given problem list discrepancy noted above - pt reiterated she has never smoked cigarettes, this appears to be a documentation error carried forward from a prior EHR migration. Problem list corrected in chart to remove Z87.891 code. No other changes to plan.

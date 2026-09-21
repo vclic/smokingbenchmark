@@ -1,0 +1,38 @@
+Geriatrics Progress Note
+Patient: Leonard White | DOB: 3/18/1962 | Age: 62 | Sex: M
+Date of Service: 03/18/2024
+Author: Quentin Hale, PA-C
+
+CC: Geriatric assessment, follow up of multiple chronic conditions.
+
+HPI: Mr White is a 62 y.o. male with hx of OSA, HTN, CAD, hypothyroidism and COPD here for routine geriatric assesment. He states "I've been more tired than usual but I think its just the weather changein" and denies chest pain, denies acute SOB at rest. He reports using his CPAP most nights, wife confirms compliance she says "he takes it off around 4am most nights" [inaudible] discussion continued regarding sleep hygeine. Pt reports occasional dizzness on standing, no falls. Reviewed med list - pt takes lisinopril, levothyroxine, atorvastatin, and albuterol PRN.
+
+PMH: OSA, HTN, CAD s/p stent 2015, hypothyroidism, COPD (on inhalers)
+
+SOCIAL HISTORY / TOBACCO (EHR templated block):
+Smoking status: Never Smoker [NOTE: this templated field is INCORRECT/outdated, see below for accurate history]
+Tobacco Use Details (updated 3/18/2024): Pt has significant smoking hx - per chart review and pt report: smoked 1 pack/day x 8 years, then cut back to half a pack (~10 cigarettes) per day x 14 years, then quit entirely. Pt states he quit smoking when his grandson was born, that grandson "just turned 20" this year. Current status: Former smoker, quit.
+Alcohol: occasional, denies illicit drug use.
+
+ROS: Otherwise negative except as noted in HPI, denies fevers chills night sweats weight loss hemoptysis.
+
+Exam:
+Vitals: BP 138/82, HR 74, RR 16, O2 sat 95% RA, wt stable from last visit
+Gen: NAD, alert oriented x3, appears stated age
+CV: RRR, no murmurs rubs or gallops appreciated
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft NT ND +BS
+Ext: no edema, pulses 2+ throughout
+Neuro: grossly nonfocal, gait steady with cane
+
+Assessment/Plan:
+1. COPD - stable on current inhaler regimen, continue albuterol PRN, discussed general pulmonary health maintenance and continued tobacco avoidance, will revisit at next visit
+2. OSA - continue CPAP, encourage compliance, will order repeat sleep study if symptoms worsen
+3. HTN - well controlled on lisinopril, continue current dose
+4. CAD - stable, no anginal symptoms today, continue atorvastatin, ASA 81mg daily, follow with cardiology per usual schedule
+5. Hypothyroidism - continue levothyroxine, recheck TSH in 6 months
+6. Health maintenance - updated smoking hx in chart today given prior template error noted above, pt counseled on continued avoidance of tobacco, immunizations reviewed and up to date, fall risk assessment reviewed given occasional dizziness, will consider PT referal
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered today.
+
+Electronically signed: Quentin Hale, PA-C

@@ -1,0 +1,54 @@
+Adult Medicine Clinic Note
+Date of Service: 04/17/2026
+Patient: Dennis Nguyen   DOB: 11/15/1967   MRN: 74237241
+
+S:
+CC: Right shoulder pain
+HPI: Mr. Nguyen is a 58 year old male with a history of HLD, HTN, and depression who presents for right shoulder pain. Right shoulder pain for 1 month, worse in the morning. No numbness or weakness. Nothing has helped.
+
+PMH:
+- Hypertension (dx 2018)
+- Depression
+- Mixed hyperlipidemia
+PSH: Left inguinal hernia repair (2023); Lumbar laminectomy
+Meds: sertraline 50 mg daily; lisinopril 10 mg daily; atorvastatin 20 mg daily; amlodipine 5 mg daily
+Allergies: No known allergies
+Social History:
+- Widowed; lives with son.
+- Retired machinist.
+- Social drinker.
+- No IVDU.
+FH: Father - stroke. Mother - dementia, d. 84.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 156/93  HR: 89  RR: 12  Temp: 98.6 F  SpO2: 98% on RA  Wt: 160 lbs  BMI: 25.8
+Exam:
+  General: Comfortable, conversant
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (3/13/2026): LDL 101, Cr 0.71, K 4.5, Hgb 15.3
+
+A/P:
+1. Right shoulder pain: Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Ex-smoker
+   - Hx: quit in 2006. Does not meet LCS criteria. Remains abstinent.
+
+f/u 6 mo
+
+Seen and discussed with resident Dr. Gonzales. I personally saw and examined the patient and agree with the findings and plan as documented.
+Julia Brennan, MD

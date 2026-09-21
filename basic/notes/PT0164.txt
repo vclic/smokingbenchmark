@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 10/24/2023
+Patient: Pamela Martinez   DOB: 9/12/1962   MRN: 14267694
+
+S:
+CC: Pulmonary nodule f/u
+HPI: Mrs. Martinez is a 61-year-old female with a history of HTN, obesity, HLD, and OA who presents for follow-up of a pulmonary nodule. Incidental 5 mm solid LUL nodule on CT 24-Jul-2023 (obtained in the ED for abdominal pain). No hemoptysis or weight loss.
+
+PMH:
+- Mixed hyperlipidemia
+- Primary OA, bilateral knees
+- Obesity
+- Hypertension
+PSH: Total abdominal hysterectomy (1997)
+Meds: vitamin D3 2000 IU daily; meloxicam 7.5 mg daily; atorvastatin 40 mg daily; amlodipine 10 mg daily
+Allergies: NKDA
+Social History:
+- Divorced, lives alone.
+- Works as a hairdresser.
+- Alcohol: rare.
+- Denies illicit drugs.
+FH: Father - AAA repair.
+ROS: Gen neg, GU neg, MSK neg, Resp neg, CV neg, GI neg
+
+O:
+Vitals: BP: 152/77  HR: 75  RR: 16  Temp: 97.7 F  SpO2: 99% on RA  Wt: 187 lbs  BMI: 35.4
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (10/12/2023): LDL 71, Cr 0.79, K 4.5, Hgb 14.0
+
+ASSESSMENT/PLAN:
+1. Pulmonary nodule: Fleischner risk category to be determined. Repeat CT chest in 3 months.
+
+Return in about 6 months (around 4/24/2024).
+
+-- EM (MD)

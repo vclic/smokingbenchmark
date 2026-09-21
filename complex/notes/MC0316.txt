@@ -1,0 +1,53 @@
+TELEHEALTH VISIT NOTE
+Patient: Brenda Powell | DOB: 1/7/1964 | Age: 60 | Sex: F
+Date of Service: 02/04/2024
+Provider: Brian Okonkwo, MD - Family Medicine
+Visit type: Annual Wellness Visit (video)
+
+CHIEF COMPLAINT: Annual wellness exam, review of chronic conditions.
+
+HPI:
+Ms. Powell is a 60-year-old female with history of HTN, osteoporosis, hyperlipidemia, PAD, GERD, and CAD, seen today via telehealth for her annual wellness visit. She reports feeling generally well, no chest pain, no claudication symptoms worsening, no new GI complaints. Reviewed BP log at home, mostly 128-136/78-84. She takes her meds as prescribed per report. Regarding tobacco use, she currently smokes cigarettes, about a quarter pack (roughly 5 cigarettes) per day, and states she has smoked at this rate since 1979. She had previously quit smoking in 2006 but relapsed in 2009 and has continued smoking since then. Advised to quit smoking again given cardiovascular and PAD risk; discussed nicotine replacement options and counseling resources. Patient states she is "thinking about it" but not ready to set a quit date today.
+
+ROS: Denies fevers, chills, weight loss. Denies hemoptysis. Occasional morning cough, chronic, unchanged. Denies dyspnea at rest. Denies leg pain with ambulation currently, though has had intermittent claudication in the past per PAD history. Denies heartburn today, controlled on PPI.
+
+PROBLEM LIST:
+1. Essential hypertension (I10) - stable, on lisinopril
+2. Osteoporosis, unspecified (M81.0) - last DEXA 2022, on alendronate
+3. Hyperlipidemia, unspecified (E78.5) - on atorvastatin
+4. Peripheral artery disease, unspecified extremity (I73.9) - stable, no rest pain
+5. GERD (K21.9) - on omeprazole
+6. Coronary artery disease, native vessel (I25.10) - s/p stent 2015 (chart note, may be outdated - confirm with cardiology records)
+7. Tobacco use disorder, cigarettes (Z72.0/F17.210) - active
+8. Vitamin D deficiency (E55.9) - old problem, resolved per pt report, left on list from prior note
+
+MEDICATIONS (per last reconciliation):
+- Lisinopril 20mg daily
+- Atorvastatin 40mg qhs
+- Alendronate 70mg weekly
+- Omeprazole 20mg daily
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily (per cardiology)
+
+LABS/RESULTS:
+- Lipid panel 01/15/2024: Total chol 178, LDL 92, HDL 48, TG 140
+- CMP 01/15/2024: Na 140, K 4.2, Cr 0.9, eGFR >60, glucose 98
+- HbA1c 01/15/2024: 5.6%
+- TSH 11/2023: 2.1 (WNL)
+- DEXA 2022: T-score -2.6 lumbar spine (osteoporosis range)
+
+ASSESSMENT/PLAN:
+1. HTN - stable, continue lisinopril, home BP log reviewed, goal <130/80
+2. Osteoporosis - continue alendronate, repeat DEXA due later this year
+3. Hyperlipidemia - LDL at goal on current statin, continue atorvastatin
+4. PAD - stable, no claudication currently, continue aspirin, encourage walking program
+5. GERD - well controlled, continue omeprazole
+6. CAD - continue dual antiplatelet per cardiology, no chest pain today
+7. Tobacco use - active smoker, counseled on cessation, discussed lung cancer risk given cardiovascular disease and smoking history; screening options discussed with patient but no imaging ordered today. Will readdress at next visit.
+8. Wellness - up to date on vaccines per record, mammogram due, will schedule.
+
+Follow-up: Return to clinic or telehealth in 6 months or sooner if symptoms arise.
+
+---
+ADDENDUM (later same day, 02/04/2024, 4:45pm):
+Patient called back after visit to clarify she does want information on smoking cessation programs sent to her portal. Staff advised patient handout on quitline and nicotine replacement therapy options sent via patient portal message. No other changes to plan. -Brian Okonkwo, MD

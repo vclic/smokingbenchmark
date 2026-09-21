@@ -1,0 +1,38 @@
+TELEHEALTH VISIT NOTE
+Patient: Pamela Thompson | DOB: 4/2/1952 (age 74) | Sex: F
+Date of Service: 04/02/2026
+Provider: Laura Castellano, FNP-C — Vascular Surgery
+
+CHIEF COMPLAINT: Follow-up peripheral artery disease, telehealth.
+
+HPI: Ms. Thompson reports intermittent claudication in bilateral calves, stable. No rest pain, no new ulcerations. Denies chest pain or SOB at rest, though COPD-related dyspnea on exertion persists. Reviewed home BP log, reasonably controlled.
+
+=== COPIED FORWARD FROM NOTE DATED 6/2/2023 ===
+HPI (as documented 6/2/2023): Patient presents for routine PAD follow up. Smoking status: former smoker, no acute complaints today. Ambulates without assistive device. Denies rest pain. ABI stable per prior vascular studies. Continue current antiplatelet regimen. Follow up in 6 months. Lipid panel reviewed, stable on statin therapy. No new ulcers or skin breakdown noted on exam. Pedal pulses diminished but palpable bilaterally.
+=== END COPIED SECTION ===
+
+PROBLEM LIST:
+- I73.9 Peripheral vascular disease, unspecified
+- E78.5 Hyperlipidemia, unspecified (active)
+- J44.9 COPD, unspecified (active)
+- N40.0 Benign prostatic hyperplasia without LUTS (outdated - patient is female, entry likely carried over in error)
+- Z87.891 Personal history of nicotine dependence
+
+LABS/RESULTS:
+- Lipid panel (03/15/2026): LDL 98 mg/dL, HDL 52 mg/dL, Triglycerides 140 mg/dL, Total Cholesterol 178 mg/dL
+- CBC (03/15/2026): WBC 6.8, Hgb 13.1, Plt 245
+- ABI bilateral (01/10/2026): Right 0.78, Left 0.81 (mild-moderate PAD)
+
+EXAM: Telehealth visit, exam limited. Patient appears comfortable, no acute distress via video. Reports no new skin changes on legs, no swelling noted on self-exam per patient report.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable claudication symptoms. Continue antiplatelet therapy, encourage walking program. Smoking history reviewed in detail: patient smoked half a pack (about 10 cigarettes) per day for 9 years, then increased to a pack a day for 14 years before quitting. She is a former smoker at this time. Discussed lung cancer screening in general terms as part of preventive care conversation; no imaging ordered today. Continue to monitor for progression of PAD symptoms.
+2. Hyperlipidemia - continue statin, recheck lipid panel in 6 months.
+3. COPD - stable, continue inhalers as prescribed, no exacerbation currently.
+4. BPH - stable, no urinary complaints today per patient (noted problem list discrepancy re: sex, will correct in chart).
+
+Plan discussed with patient via telehealth, she verbalized understanding and agreement with plan. Will follow up in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (later same day, 04/02/2026, 3:45pm) ---
+Patient called back after visit to clarify smoking history for the record. She confirmed she quit smoking when her youngest grandchild was born, and that grandchild is now 30 years old. This has been added to the chart for accuracy. No changes to plan of care at this time. Will continue to monitor PAD and COPD as outlined above.
+-- Laura Castellano, FNP-C

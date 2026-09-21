@@ -1,0 +1,78 @@
+Adult Medicine Office Visit
+
+Patient: WOOD, Margaret    MRN: 82563372
+DOB: 10/09/1971    Age: 51 y.o.    Sex: Female
+Date of Service: 04/13/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Margaret Wood is a 51 y.o. female who presents for diabetes follow-up.
+Most recent A1c 7.8% (previously 6.8% in October 2022). Checks fasting sugars most mornings, running 110s-160s. No hypoglycemic episodes. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• CKD 3b	2009
+• Osteoarthritis
+• T2DM without complication
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 1000 mg BID
+• meloxicam 7.5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Works as a postal worker.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+
+Family History
+Son - type 1 diabetes. Sister - hypothyroidism.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 114/76 (BP Location: Right arm, Patient Position: Sitting) | Pulse 71 | Temp 98.8 °F (Oral) | Resp 12 | Ht 5' 4" | Wt 158 lb | SpO2 98% | BMI 27.19 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (March 23, 2023): A1c 7.8%, Cr 1.30, K 3.8
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 7.8% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+3. CKD 3b
+   Monitor BMP q6 months.
+
+RTC 1 month.
+
+Electronically signed by Julia Brennan, MD on 04/13/2023

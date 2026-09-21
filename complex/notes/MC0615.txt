@@ -1,0 +1,70 @@
+TELEHEALTH VISIT NOTE
+Patient: Denise Ross | DOB: 02/11/1958 | Age: 67 | Sex: F
+Date of Service: 02/11/2025
+Provider: Quentin Hale, PA-C — Vascular Surgery
+
+CHIEF COMPLAINT: PAD follow up, bilateral calf claudication, visit conducted via telehealth
+
+HPI:
+Ms Ross is a 67 year old female (DOB 02/11/1958) with known PAD, OSA, depression, osteoporosis, asthma and COPD who presents via video visit on 02/11/2025 for routine follow up of peripheral arterial disease. She reports ongoing bilat calf cramping with ambulation, worse on inclines, improves w rest. No rest pain no new ulcers no gangrene changes per pt report. Denies chest pain, denies palpitations. Sleep somewhat improved on CPAP per pt, compliance ~5 nights/wk. Mood stable on current regimen. Home exercise program reportedly ongoing, walks ~15 min qd as tolerated.
+
+Regarding smoking hx pt gives a detailed history that is important for her vascular risk stratification. She smoked 2 packs per day for 4 years, then cut down to 1.5 packs per day for 6 years, then further down to 1 pack per day for 4 years before quitting entirely. She first quit in 1986, restarted in 1990, and then quit for good in 1994. She has not smoked since. She is a former smoker.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever chills wt loss
+HEENT: denies vision changes, denies hearing loss
+Cardiac: denies chest pain denise palpitations (typo, denies) denies syncope
+Resp: chronic cough stable, no hemoptysis, uses inhalers per COPD/asthma regimen
+GI: denies nausea vomiting diarrhea constipation
+GU: denies dysuria hematuria
+MSK: chronic low back pain stable, no new joint pain
+Skin: no rashes reported, pt states no new leg ulcers or discoloration
+Neuro: denies focal weakness numbness
+Psych: depression stable on meds, denies SI/HI
+Endo: no polyuria polydipsia
+Heme: no easy bruising
+All other systems reviewed and negative
+
+PHYSICAL EXAM (limited, telehealth):
+Gen: pt appears comfortable, well groomed, NAD
+Vitals per pt home cuff: BP 132/78, HR 74, unable to obtain O2 sat, wt stable per pt report
+CV: unable to auscultate via telehealth
+Resp: unable to auscultate, pt denies increased WOB
+Ext: pt visually shows both lower extremities on camera, no obvious ulceration noted on video, skin color appears normal on camera, pt denies numbness or new pain
+Note: limitations of telehealth exam discussed with pt, in person visit recommended if symptoms worsen
+
+SMOKING STATUS FIELD (auto-populated from old intake form): Smoking status: Never Smoker
+This auto-populated field is incorrect and should be disregarded — as documented above in HPI, pt has an extensive smoking history and is a former smoker, not a never smoker. Chart to be corrected.
+
+MEDICATIONS:
+1. Clopidogrel 75mg po qd
+2. Atorvastatin 40mg po qhs
+3. Cilostazol 100mg po bid
+4. Fluticasone/salmeterol inhaler 250/50 1 puff bid
+5. Albuterol HFA prn
+6. Sertraline 100mg po qd
+7. Alendronate 70mg po qweek
+8. Vitamin D3 2000 units po qd
+9. Calcium carbonate 600mg po bid
+10. Lisinopril 10mg po qd
+11. Aspirin 81mg po qd
+
+LABS/RESULTS:
+ABI (bilateral) dated 01/15/2025: Right 0.68, Left 0.71 — consistent with mild-moderate PAD
+Lipid panel 01/10/2025: LDL 98, HDL 42, TG 140, Total chol 168
+HbA1c 01/10/2025: 5.6%
+CBC 01/10/2025: WNL
+BMP 01/10/2025: Cr 0.9, eGFR >60, K 4.1, Na 139
+PFT (from pulm, on file 11/2024): FEV1/FVC consistent w mild obstructive pattern, reversible component noted
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, bilateral lower extremity, claudication — pt is a former smoker with a significant prior smoking history (as detailed above in HPI: 2 packs/day x4 yrs, 1.5 packs/day x6 yrs, 1 pack/day x4 yrs, quit for good in 1994 after a brief period of cessation in 1986-1990). Continue current antiplatelet/cilostazol regimen. Recommend continued supervised exercise program. Will recheck ABIs in 6 months. Lung cancer screening discussed given remote smoking history; further work up per PCP.
+2. COPD/Asthma — stable on current inhalers, no exacerbation currently, continue home regimen, f/u with pulm as scheduled.
+3. OSA — continue CPAP, encourage improved compliance.
+4. Depression — stable, continue sertraline, f/u with psych as needed.
+5. Osteoporosis — continue alendronate/calcium/vitamin D, DEXA due in 2026.
+6. Hyperlipidemia — LDL at goal, continue statin.
+
+Return to clinic in 6 months or sooner if worsening symptoms. Telehealth visit today 02/11/2025, total time spent 22 minutes including chart review, pt interview, and documentation.
+
+Quentin Hale, PA-C

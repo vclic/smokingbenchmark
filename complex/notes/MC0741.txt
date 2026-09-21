@@ -1,0 +1,49 @@
+URGENT CARE VISIT NOTE
+Patient: Mei Nelson (F), DOB 4/5/1950, age 75
+Date of Service: 06/09/2025
+Provider: Gregory Tan, MD
+
+CHIEF COMPLAINT: cough x 5 days
+
+HPI: 75 yo F presents c/o productive cough, worse at night, denies fever, mild SOB w exertion. no chest pain. hx significant for OSA, OA, T2DM. Smoking hx notable- pt reports smoked approx 1/4 pack (about 5 cigs/day) for 24 yrs, then quit completely for 5 yrs, then restarted at 2 packs/day for 29 yrs, continues to smoke currently. Denies hemoptysis. no recent travel. Uses CPAP nightly per prior records although compliance unclear this visit.
+
+ROS: Resp - cough, no wheeze noted by pt. Cardiac - neg. GI - neg. Endo - reports blood sugars running high past wk, home glucose log not brought in.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: current smoker - see HPI for details
+Smokeless tobacco: Not on file
+Alcohol use: quit drinking, per pt quit etoh in 2010
+Drug use: marijuana - reports use a few times a month
+Occupation: retired
+Living situation: 
+Exercise: 
+
+PMH / PROBLEM LIST (ICD-10, some outdated):
+- G47.33 Obstructive sleep apnea
+- M19.90 Osteoarthritis, unspecified site
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified (outdated dx, pt reports no asthma sx x years, likely resolved/miscoded)
+- I10 Essential hypertension (chart note from 2016, unclear if still active, pt denies HTN dx currently)
+
+MEDS: metformin 1000mg BID, CPAP, glucosamine prn, albuterol inhaler prn (rarely used per pt)
+
+EXAM:
+Vitals: T 98.6 HR 88 RR 18 BP 132/78 SpO2 95% RA
+Gen: NAD, conversant, mild cough noted during visit
+HEENT: oropharynx clear, no erythema
+Neck: no LAD
+Lungs: scattered rhonchi bilat, no wheeze, no crackles
+CV: RRR, no m/r/g
+Abd: soft, nontender
+Ext: no edema
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral - supportive care, hydration, OTC cough suppressant, f/u if worsens or fever develops
+2. Tobacco use disorder - patient continues to smoke despite counseling today regarding cessation resources and risks; provided quitline info; general discussion of pulmonary risk of ongoing smoking
+3. OSA - continue CPAP, reinforce adherence
+4. T2DM - recheck A1c at next visit, reviewed diet
+5. OA - continue current mgmt, refer PT if worsens
+
+f/u prn or in 2 wks if sx persist. pt verbalized understanding of plan.
+
+Gregory Tan, MD

@@ -1,0 +1,32 @@
+Vascular Surgery Progress Note
+Patient: Karen Bennett | DOB: 6/11/1951 | Age: 74 y/o F
+Date of Service: 09/19/2025
+Author: Elena Markovic, MD
+
+HPI: Ms. Bennett returns for follow-up of peripheral artery disease, reports intermittent claudication in the calfs bilaterally worse on the left, walks about 2 blocks before needing to rest which is [inaudible] slightly improved from last visit she states her feet feel cold in the evenings and she has notice some hair loss on her lower legs, no rest pain no ulcerations at this time, she denies chest pain or SOB, blood sugars have been reportedly running in the 140s-160s per home glucometer.
+
+Social History: Former smoker, quit smoking November 2024. She reports using marijuana a few times a month for appetite and sleep, denies other recreational drug use. Denies alcohol use. Lives alone, ambulates with cane.
+
+ROS: Otherwise negative except as noted above, all other systems reviewed and negative.
+
+Exam: BP 138/82, HR 76, BMI 33. Lower extremities with diminished dorsalis pedis and posterior tibial pulses bilaterally, cap refill 3 sec, no ulcers, skin cool and shiny, decreased hair growth noted.
+
+Problem List:
+I73.9 Peripheral vascular disease, unspecified
+E11.9 Type 2 diabetes mellitus without complications
+N18.3 Chronic kidney disease, stage 3
+K21.9 GERD
+E78.5 Hyperlipidemia
+E66.9 Obesity
+N40.0 Benign prostatic hyperplasia (outdated - patient is female, carried forward in error from prior template)
+
+Assessment/Plan:
+1. Peripheral artery disease - patient has a 49 pack-year smoking history, no longer smokes, quit November 2024. Continue cilostazol, encourage supervised walking program. Discussed general risks of vascular disease progression and importance of continued abstinence from tobacco.
+2. Type 2 DM - CKD stage 3, will check A1c and BMP today, continue metformin dose adjusted for renal function.
+3. GERD - stable on omeprazole.
+4. Hyperlipidemia - continue statin, lipid panel due at next visit.
+5. Obesity - discussed diet and exercise, referred to nutrition.
+6. BPH - not applicable, patient is female, will remove from problem list at next encounter.
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Addendum (later same day): Reviewed ABI results from earlier today, left ABI 0.68, right ABI 0.79 consistent with moderate PAD, results discussed with patient by phone, she verbalized understanding, no new orders at this time. - E. Markovic, MD

@@ -1,0 +1,40 @@
+NURSE INTAKE
+DOS: 12/31/2023
+Patient: Betty Flores, F, DOB 6/23/1954, age 69
+Visit: hospital discharge follow-up after pneumonia
+
+Vitals: BP 138/82, HR 88 irreg (known AFib), RR 18, SpO2 94% RA, Wt 215 lb, Temp 98.2F
+Pt seen in wheelchair, reports fatigue since discharge. "I still get outta breath walkin to the mailbox" pt states. Denies fever, chest pain today.
+
+--- copied forward from prior visit note dated 03/14/2022 (left in error, retained per original documentation) ---
+HPI: Pt here for routine f/u of hypothyroidism and OSA. Reports compliance with levothyroxine and CPAP use nightly x 6-7 hrs. No palpitations, no edema noted at that time. TSH last checked 11/2021 was 3.1. Denies chest pain, denies SOB at rest. Continues on CPAP with good tolerance, mask refitted 01/2022. Osteoarthritis stable, using acetaminophen PRN. Wt at that visit 208 lb. Plan: recheck TSH in 6 months, f/u sleep study if symptoms recur, continue current meds.
+--- end copied text ---
+
+SOCIAL HISTORY:
+Tobacco use ongoing. Pt states "I know I should quit but its hard, I'm just not ready right now." No alcohol use reported, denies illicit drug use. Lives alone, ambulates w/ cane.
+
+PHYSICIAN PROGRESS NOTE - Teresa Alvarez, NP
+
+HPI: Ms Flores is a 69 yo female with hx of HFrEF, AFib, OSA, hypothyroidism, obesity, and osteoarthritis, seen today for f/u after recent hospitalization for pneumonia (discharged 12/26/2023). She reports gradual improvement in energy but continues w/ mild dyspnea on exertion. No fevers, chills, or productive cough currently. Appetite improving. She is taking levothyroxine, metoprolol succinate, apixaban, furosemide, and spironolactone as prescribed. Reports adherence to CPAP most nights.
+
+LABS/RESULTS (from discharge, 12/26/2023):
+WBC 11.2 (12/24/2023) -> 7.8 (12/29/2023)
+BNP 890 pg/mL (12/24/2023)
+CXR 12/24/2023: RLL infiltrate c/w pneumonia
+CXR 12/29/2023: improving infiltrate
+TSH 12/29/2023: 2.4 (WNL)
+Cr 1.0, eGFR >60
+
+EXAM: Lungs w/ mild crackles at right base, improved from discharge exam. Cor: irregularly irregular rhythm, no murmur. Extrem: trace edema b/l. No acute distress.
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, resolving - continue current abx course, f/u CXR in 4-6 wks.
+2. HFrEF/AFib - continue GDMT, rate controlled today, INR/anticoag mgmt per apixaban, no dose change.
+3. Tobacco use - patient has smoked 1 pack per day since age 21; continues to smoke and reports she is not ready to quit at this time. Discussed health risks of continued smoking including cardiopulmonary impact given HFrEF and recent pneumonia. Lung cancer screening was discussed with patient in general terms. A quit date has been set for 1/20/2024 per patient request; she would like to try again after the new year. Continue to offer counseling and pharmacologic cessation aids at future visits.
+4. OSA - continue CPAP, reassess compliance data at next visit.
+5. Hypothyroidism - TSH WNL today, continue current levothyroxine dose.
+6. Obesity/OA - encourage gentle activity as tolerated, PT referral considered.
+
+F/u in 2 weeks or sooner if worsening symptoms. Pt verbalized understanding of plan.
+
+- Teresa Alvarez, NP

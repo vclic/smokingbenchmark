@@ -1,0 +1,33 @@
+TELEHEALTH VISIT NOTE
+DOS: 06/10/2024
+Patient: Gloria Smith DOB 6/10/1962 (age 62)
+Provider: Laura Castellano, FNP-C, Pulmonology
+
+Reason for visit: shared decision-making re lung cancer screening d/t hx of smoking, pt called in from home connection kept cutting out at times [inaudible] audio quality poor mid-call.
+
+HPI: Pt reports doing okay overall breathing wise no new sob no hemoptysis she has ckd stage 3 and htn both stable per pt cough occasionally in am denies fevr or weight loss discussed screening options with pt in detail, screening was discussed at length but no orders placed today pt wants to think it over.
+
+PROBLEM LIST:
+- N18.3 Chronic kidney disease stage 3
+- I10 Essential hypertension
+- Z87.891 Personal history of nicotine dependence (outdated entry, retained from prior chart)
+
+TEMPLATED FIELD (auto-populated, NOTE: THIS IS INCORRECT):
+Smoking status: Never Smoker
+*** Correction: the above templated field is wrong, pt is NOT a never smoker, see social history below for accurate history ***
+
+SOCIAL HISTORY (updated 06/10/2024): Pt smoked 2 packs per day for 11 years, then stopped completely for 6 years, then restarted smoking at 2 packs per day for 16 years, then quit for good after that. She quit smoking 5 years after she moved to this state, which was in 2014. Pt is a former smoker, quit smoking, denies current use, denies vaping, no other tobacco products.
+
+COPIED FROM PRIOR NOTE DATED 4/10/2021 (smoking status as documented then, for reference only, do not use for current status):
+"Smoking status: former smoker."
+(no quantities given in that older note entry)
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening SDM - risks/benefits discussed with pt including radiation false positives incidentaloma anxiety etc pt to call back with decision.
+2. CKD stage 3 - stable continue current mgmt recheck labs in 3 mo.
+3. HTN - stable on current regimen bp today 128/76 continue lisinopril.
+4. Encouraged pt to maintain smoke free status, reinforced benefits of continued abstinence.
+
+Follow up in 3 months or sooner if needed, pt verbalized understanding, all questions answered to pts satisfaction, telehealth visit ended without difficulty.
+
+-- Laura Castellano, FNP-C

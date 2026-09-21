@@ -1,0 +1,48 @@
+General Medicine Clinic Clinic Note
+Date of Service: 12-May-2026
+Patient: Terrence Coleman   DOB: 8/23/1952   MRN: 35587379
+
+SUBJECTIVE:
+CC: Follow-up diabetes
+HPI: Mr. Coleman is a 73-year-old male with a history of T2DM, BPH, and HLD who presents for diabetes follow-up. Most recent A1c 8.6% (previously 9.5% in December 2025). Fasting glucose 130-180 per log. Denies polyuria/polydipsia. No numbness or tingling.
+
+PMH:
+- BPH with LUTS (dx 2008)
+- Hypercholesterolemia
+- T2DM without complication
+Meds: sitagliptin 100 mg daily; tamsulosin 0.4 mg nightly; finasteride 5 mg daily; ezetimibe 10 mg daily; rosuvastatin 20 mg daily
+Allergies: No known allergies
+Social History:
+- Married, lives with wife.
+- He smokes 18 cigarettes a day and has for 58 years.
+- EtOH: 1-2 beers/wk.
+- No illicit drug use.
+- Independent in ADLs.
+FH: Father - MI at 74. Brother - smokes, had MI at 52.
+Review of systems negative except as above.
+
+OBJECTIVE:
+Vitals: BP: 126/67  HR: 98  RR: 16  Temp: 97.6 F  SpO2: 96% on RA  Wt: 178 lbs  BMI: 24.9
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+
+A/P:
+1. Type 2 diabetes mellitus: A1c 8.6% - above goal; add empagliflozin 10 mg daily. Foot exam today - monofilament intact.
+2. Hypercholesterolemia
+   - Continue statin. Lipid panel due.
+3. BPH with LUTS
+   - Nocturia x1-2; continue tamsulosin.
+4. Tobacco use
+   - Counseled on cessation for 10 min. He is in the precontemplation stage. Referred to quitline (1-800-QUIT-NOW). Eligible for annual LDCT; ordered.
+
+Return in about 3 months (around 8/12/2026).
+
+-- DR (MD)

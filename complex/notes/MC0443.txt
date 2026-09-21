@@ -1,0 +1,64 @@
+URGENT CARE - RESIDENT NOTE
+Date of Service: 02/16/2026
+Patient: Diane Walker | DOB: 02/16/1949 | Age: 77 y/o F
+Author: Steven Park, MD (Resident), attending attestation below
+
+CC: cough x5 days
+
+HPI: 77 y/o F, DOB 2/16/1949, p/w cough, nonproductive, worse at night, denies fever/CP/SOB at rest. Hx afib (on anticoag), HLD, depression, OSA (uses CPAP), hypothyroidism. No recent travel, no sick contacts on file. Reports mild post-nasal drip. No hemoptysis. No wt loss.
+
+ROS: Resp - cough as above, denies dyspnea on exertion beyond baseline. Cardiac - no palpitations, no chest pain. GI - unremarkable. Endo - denies cold intolerance change. Psych - stable mood per pt, on same meds.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: See narrative below.
+Smoking status: Former/experimental - see note
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: retired
+Living situation: lives w/ spouse
+
+Tobacco narrative (per pt report, this visit): Pt states she tried a few cigarettes as a teenager but never smoked regularly - denies any regular or current tobacco use, denies vaping, denies other nicotine products. No further hx of tobacco use elicited on review of chart.
+
+PMH: Afib (on apixaban), HLD (on statin), depression (on sertraline), OSA (CPAP compliant per pt), hypothyroidism (on levothyroxine).
+
+Meds: apixaban, atorvastatin, sertraline, levothyroxine, CPAP nightly.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: T 98.6F, HR 78 irreg irreg (known afib), BP 132/78, RR 16, SpO2 97% RA.
+Gen: NAD, comfortable, mild intermittent cough during visit.
+HEENT: OP clear, no erythema, nasal mucosa mildly edematous, no discharge noted at time of exam.
+Neck: no LAD, no thyromegaly.
+CV: irreg irreg rhythm, no murmurs appreciated, no JVD.
+Resp: CTAB, no wheezes/rales/rhonchi, good air movement bilat.
+Abd: soft, NT/ND, NABS.
+Ext: no edema, no clubbing.
+Neuro: A&Ox3, no focal deficits.
+Skin: warm, dry, no rash.
+
+Assessment: 77 y/o F w/ acute cough, likely viral URI vs post-nasal drip etiology given exam findings. Afib stable on current anticoag, rate controlled at baseline per hx. HLD, depression, OSA, hypothyroidism - all chronic, stable, no acute issues today.
+
+Discussion: Given pt's tobacco hx as noted, general lung health topics were briefly discussed as part of routine preventive care conversation; deferred any further discussion of screening to PCP.
+
+Plan:
+1. Sx viral URI - supportive care, fluids, rest, OTC antitussive PRN, return precautions given (worsening SOB, fever >101, hemoptysis, chest pain).
+2. Afib - continue apixaban, follow w/ cardiology as scheduled, no acute changes today.
+3. HLD - continue atorvastatin, no labs needed today, next lipid panel per PCP schedule.
+4. Depression - continue sertraline, pt reports mood stable, no SI/HI, will defer to PCP/psych for med mgmt.
+5. OSA - continue CPAP, encourage adherence, no acute issues.
+6. Hypothyroidism - continue levothyroxine, TSH per PCP schedule.
+7. Tobacco - reassured pt that no regular tobacco use noted; encouraged continued avoidance.
+8. F/u with PCP within 1-2 wks or sooner if worsening. Return to UC/ED for red flag sx.
+
+Pt verbalized understanding of plan, agreeable to f/u as above.
+
+---
+ATTENDING ATTESTATION:
+I have personally seen and examined the patient with resident Dr. Park. I discussed the case with the resident and agree with the documented findings, assessment, and plan as above. Pt's tobacco hx reviewed - notable only for brief experimental use as teenager, no regular smoking hx per pt report today. Afib, HLD, depression, OSA, and hypothyroidism remain stable chronic issues; no acute intervention required for these today beyond continuation of current mgmt. Cough most consistent with viral etiology; supportive tx recommended, safety-netting provided.
+- Attending, Internal Medicine/Urgent Care
+
+End of note.

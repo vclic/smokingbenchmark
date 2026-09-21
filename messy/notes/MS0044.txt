@@ -1,0 +1,71 @@
+VASCULAR SURGERY - NURSE INTAKE / PHYSICIAN PROGRESS NOTE
+Patient: Loretta Wright | DOB: 01/07/1972 | Age: 51 | Sex: F
+Date of Service: 01/07/2023
+Author: Quentin Hale, PA-C
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease (PAD) evaluation, claudication symptoms.
+
+NURSE INTAKE:
+VS: BP 138/86, HR 78 irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt 172 lb.
+Patient states "my legs still cramp up when I walk to the mailbox and back." Denies chest pain, denies acute SOB. Reports mood "okay, some good days some bad."
+
+HPI:
+Ms. Wright is a 51-year-old female with history of asthma, depression, atrial fibrillation, and peripheral artery disease who presents today for reevaluation of bilateral lower extremity claudication. She states, "it's the same aching in my calfs, maybe a little worse in the cold." She denies rest pain, denies non-healing ulcers, denies new numbness. She reports adherence to cilostazol and aspirin. She was seen in clinic in [inaudible] for similar complaints and the plan at that time, was to continue conservative management pending vascular studies, she says she has not had the studies done yet due to insurance issues and scheduling conflicts and work obligations.
+
+COPIED FROM PRIOR NOTE DATED 08/07/2021 (SOCIAL HISTORY, AS DOCUMENTED THEN): "Smoking status: former smoker." [No quantities given in this copied entry; retained for continuity of record.]
+
+SOCIAL HISTORY (CURRENT, 01/07/2023):
+Tobacco: 22 pack-year smoking history. Patient quit smoking in May 2005. Denies current tobacco use, denies vaping, denies illicit drug use. Rare alcohol use, denies IVDU.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies weight loss.
+Respiratory: intermittent wheeze, known asthma, uses albuterol PRN.
+Cardiovascular: palpitations intermittent, known afib, denies syncope.
+GI: denies nausea, denies vomiting, denies abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: bilateral calf cramping with ambulation as above, denies joint swelling.
+Neuro: denies focal weakness, denies numbness, denies headache.
+Psych: depressed mood chronic, denies SI, denies HI.
+Skin: denies rash, denies new lesions, denies non-healing wounds.
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Cilostazol 100 mg PO BID
+2. Aspirin 81 mg PO daily
+3. Apixaban 5 mg PO BID
+4. Metoprolol succinate 50 mg PO daily
+5. Albuterol HFA inhaler PRN
+6. Fluticasone/salmeterol inhaler BID
+7. Sertraline 100 mg PO daily
+8. Atorvastatin 40 mg PO daily
+9. Lisinopril 10 mg PO daily
+
+PROBLEM LIST (ICD-10):
+I73.9 Peripheral vascular disease, unspecified (active)
+I48.91 Atrial fibrillation, unspecified (active)
+J45.909 Asthma, unspecified (active)
+F32.9 Major depressive disorder, single episode, unspecified (active, outdated - pt now describes recurrent pattern per pt report)
+Z71.3 Dietary counseling, prior (inactive, outdated, no longer relevant)
+
+LABS/RESULTS:
+ABI (ankle-brachial index), dated 03/15/2022: Right 0.68, Left 0.71 (consistent with mild-moderate PAD)
+Lipid panel 12/20/2022: LDL 132 mg/dL, HDL 41 mg/dL, TG 158 mg/dL
+A1c 12/20/2022: 5.6%
+INR 01/05/2023: N/A - on apixaban, no monitoring required
+
+PHYSICAL EXAM:
+General: well-appearing, no acute distress.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Lungs: mild expiratory wheeze bilaterally, no crackles.
+Extremities: bilateral lower extremity with diminished but palpable dorsalis pedis pulses, no edema, no ulceration, cap refill <3 sec, skin warm.
+Neuro: grossly intact, ambulates without assistive device.
+
+ASSESSMENT/PLAN:
+1. PAD - continue cilostazol, encourage supervised walking program, reiterate importance of completing arterial duplex studies which were ordered previously.
+2. Afib - continue apixaban and metoprolol, INR/renal function monitoring not indicated given DOAC use, follow with cardiology.
+3. Asthma - stable, continue current inhalers.
+4. Depression - continue sertraline, follow with behavioral health.
+5. Tobacco history - discussed cardiovascular and vascular risk reduction, praised patient for sustained cessation since quitting in 2005, discussed general risk factor modification.
+6. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Quentin Hale, PA-C, 01/07/2023.

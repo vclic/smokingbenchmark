@@ -1,0 +1,93 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - Lung Cancer Screening Shared Decision-Making Visit
+Date of Service: 04/23/2026
+Author: Elena Markovic, MD
+
+Re: Donna Powell, DOB 04/23/1948 (age 78)
+
+Dear Dr. colleague,
+
+Thank you for referring Ms Powell for shared decision-making regarding lung cancer screening. Pt seen today, 04/23/2026, in clinic accompanied by daughter.
+
+HPI: 78 yo female w/ hx CAD, HFrEF, osteoporosis, and osteoarthritis presents for discussion regarding lung cancer screening. Pt reports mild dyspnea on exertion, stable, attributed to known cardiac dz. No hemoptysis, no wt loss, no fevers. Denies chest pain at rest. Ambulates w cane 2/2 knee OA. Reports occassional fatigue, otherwise feels at her baseline.
+
+PROBLEM LIST (per chart, some entries may be outdated):
+- I25.10 Coronary artery disease, native vessel
+- I50.22 Chronic systolic (congestive) heart failure
+- M81.0 Osteoporosis without current pathological fracture
+- M19.90 Osteoarthritis, unspecified site
+- E78.5 Hyperlipidemia (dz per old note, not addressed today)
+- I10 Essential hypertension (chart, unclear if still active)
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking status: Quit
+Cigarettes/day: Not on file
+Packs/day: 2.5 ppd (per pt report)
+Years smoked: [blank]
+Pack-years: [blank]
+Quit date: 1995
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with daughter
+Exercise: Limited 2/2 OA and cardiac status
+
+Discussion: Explained that Ms Powell no longer smokes, having quit in 1995, and prior to that reports smoking approximately 2.5 packs per day. Reviewed general benefits/risks of lung cancer screening in detail; discussed radiation exposure, false positives, incidental findings, and overall goals of care given her age and comorbidities. Pt and daughter had many questions, answered same. Screening was discussed at length; no imaging ordered at this visit.
+
+REVIEW OF SYSTEMS (templated, 10-point):
+Constitutional: denies fever, chills, unintentional wt loss
+Eyes: denies vision changes
+ENT: denies sore throat, denies epistaxis
+Cardiovascular: + occasional palpitations, denies chest pain at rest, see HPI
+Respiratory: + mild DOE, denies cough, denies wheeze, denies hemoptysis
+GI: denies nausea, denies vomiting, denies abd pain
+GU: denies dysuria, denies hematuria
+Musculoskeletal: + chronic knee pain, denies new joint swelling
+Skin: denies rash
+Neuro: denies HA, denies focal weakness
+Psych: denies depression, denies anxiety
+Endocrine: denies polyuria, denies polydipsia
+Heme/Lymph: denies easy bruising
+Allergic/Immunologic: denies seasonal allergies
+
+PHYSICAL EXAM:
+Vitals: BP 128/74, HR 72, RR 16, SpO2 95% RA, Wt 61 kg
+General: elderly female, NAD, uses cane
+HEENT: normocephalic, atraumatic, PERRLA
+Neck: no JVD, no lymphadenopathy
+Cardiovascular: RRR, S1 S2, soft systolic murmur unchanged from prior, no gallop appreciated today, trace ankle edema
+Respiratory: clear to auscultation bilaterally, no wheezes, no rales, no rhonchi, mild decreased breath sounds bibasilar
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds
+Extremities: no cyanosis, no clubbing, trace edema b/l
+Musculoskeletal: crepitus b/l knees, decreased ROM, no acute synovitis
+Skin: warm, dry, intact
+Neuro: alert and oriented x3, grossly nonfocal
+
+MEDICATIONS (per chart):
+1. Aspirin 81 mg PO daily
+2. Atorvastatin 40 mg PO qHS
+3. Metoprolol succinate 25 mg PO daily
+4. Furosemide 20 mg PO daily
+5. Lisinopril 5 mg PO daily
+6. Alendronate 70 mg PO weekly
+7. Calcium/Vitamin D supplement daily
+8. Acetaminophen 500 mg PO PRN for knee pain
+9. Sacubitril/valsartan 24/26 mg PO BID
+10. Spironolactone 12.5 mg PO daily
+
+ASSESSMENT/PLAN:
+78 yo F, former smoker (quit 1995, prior hx 2.5 ppd), h/o CAD, HFrEF, osteoporosis, OA, presents for lung cancer screening SDM visit.
+1. Lung cancer screening - risks/benefits discussed today in detail, pt to consider and follow up w PCP re: next steps.
+2. HFrEF - stable, continue current regimen, cont to monitor wts at home, f/u cardiology per routine.
+3. CAD - stable, no anginal symptoms today, continue statin and aspirin.
+4. Osteoporosis - continue alendronate, appropriate f/u DEXA per PCP.
+5. OA - continue conservative mgmt, PT referral discussed previously per chart.
+6. Return to clinic PRN or if new pulmonary sx develop.
+
+Thank you again for this interesting referral. Please do not hesitate to contact our office w any questions.
+
+Sincerely,
+Elena Markovic, MD
+Pulmonology

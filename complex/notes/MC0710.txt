@@ -1,0 +1,41 @@
+PRE-OPERATIVE EVALUATION - INTERNAL MEDICINE
+Patient: Carmen Foster (F), DOB 6/3/1958, Age: 66
+Date of Service: 11/01/2024
+Author: Rachel Goldberg, MD (Resident); attending attestation below
+
+REASON FOR VISIT: Pre-op medical clearance for right total knee replacement.
+
+HPI: 66 y/o female with h/o OA, HTN, hypothyroidism presents for pre-op eval prior to TKA. Reports progressive right knee pain limiting ambulation. No CP, SOB, orthopnea. No recent falls.
+
+PROBLEM LIST (ICD-10):
+- M17.11 Osteoarthritis, right knee (primary)
+- I10 Essential hypertension
+- E03.9 Hypothyroidism, unspecified
+- Z87.891 Personal history of nicotine dependence (outdated, see tobacco block)
+- E78.5 Hyperlipidemia (chart carried forward, unclear if active)
+
+TOBACCO/SUBSTANCE USE (EHR templated block):
+Smoking status: Current every day smoker.
+History: Patient reports smoking on and off for most of her adult life.
+Alcohol: Denies current use; patient quit drinking alcohol in 2022.
+Drug use: Denies.
+
+NOTE COPIED FROM PRIOR VISIT DATED 9/1/2022 (smoking status as documented then, left unedited): "Patient is a current smoker." [copied text ends]
+
+Smoking timeline per patient interview today: She had previously quit smoking in 2019 but relapsed in 2020. She continues to smoke despite counseling on cessation and cardiovascular/pulmonary risk. A quit date has been set for 11/24/2024, prior to surgery. Risks of continued smoking on wound healing and anesthesia were reviewed at length.
+
+MEDICATIONS: Lisinopril 20mg daily, Levothyroxine 75mcg daily, Atorvastatin 20mg daily (indication unclear, see problem list above), Acetaminophen 650mg PRN, Multivitamin daily.
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. Cardiac: no chest pain, no palpitations. Resp: no cough, no dyspnea. GI: no nausea, no changes in bowel habits. GU: no dysuria. MSK: chronic right knee pain as above, no other joint complaints. Neuro: no focal deficits. Skin: no rashes. Psych: no depression, no anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 76, RR 16, T 98.2F, SpO2 97% RA. General: well-appearing, NAD. HEENT: normocephalic, atraumatic. Cardiac: RRR, no murmurs. Lungs: clear to auscultation bilaterally, no wheezes/rales. Abd: soft, non-tender. Extremities: right knee with crepitus, mild effusion, decreased ROM; no edema. Skin: no lesions.
+
+LABS/RESULTS:
+- CBC (10/20/2024): WBC 6.8, Hgb 13.1, Plt 245
+- BMP (10/20/2024): Na 140, K 4.1, Cr 0.9, Glucose 102
+- TSH (9/15/2024): 2.1 mIU/L
+- EKG (11/01/2024): NSR, no acute changes
+
+ASSESSMENT/PLAN: Medically cleared for TKA pending final surgical scheduling. Continue current medications. Smoking cessation counseling provided; quit date set for 11/24/2024 as above. Discussed lung cancer screening in general terms; no imaging ordered today.
+
+ATTESTATION: I have reviewed and discussed this case with Dr. Goldberg and agree with the assessment and plan as documented above. - Attending Physician

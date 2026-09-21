@@ -1,0 +1,47 @@
+URGENT CARE - PROGRESS NOTE
+Patient: Leonard Robinson (M) DOB: 1/2/1965 (age 58)
+Date of Service: 03/16/2023
+Author: Teresa Alvarez, NP
+
+CC: cough x5 days.
+
+HPI: 58 yo male, hx obesity, HTN, presents w/ cough, worse at night, +some chest tightness, denies fever, denies SOB at rest. Cough productive small amt clear sputum. No hemoptysis. Pt states cough started after 'a cold that just wouldn't quit'. No sick contacts noted, though pt mentions coworker had 'the crud' [inaudible] for weeks. Denies travel. Reports using OTC cough drops without relief, and tried a friend's inhaler once, states 'kinda helped'. No chest pain, no palpitations. Appetite fine, sleep disrupted by cough.
+
+ROS: Constitutional: no fever/chills. Resp: cough, no wheeze reported by pt though wife says she 'hears whistling sometimes.' CV: no CP, no edema. GI: unremarkable. All other systems reviewed, negative.
+
+PMH: Obesity, Hypertension.
+PSH: none on file.
+Meds: lisinopril 20mg daily, otherwise not on file.
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file.
+E-cigarette/vaping: Yes - daily nicotine vape use.
+Alcohol use: occasional, pt reports 1-2 drinks/wk.
+Illicit drug use: denies.
+Occupation: warehouse supervisor.
+Exercise: sedentary, denies regular exercise.
+Living situation: lives with spouse.
+
+Comment re: tobacco - Pt was asked directly, denies ever having smoked cigarettes at any point in life; when asked further, he says he 'never even tried one.' He does note he vapes nicotine daily, has for some time, but reiterates this is not cigarette smoking and he has never smoked. Counseled on risks of nicotine vaping generally, pt says he is aware.
+
+Vitals: BP 148/92, HR 88, RR 18, T 98.4F, SpO2 96% RA, Wt 245 lb, BMI 36.
+
+Exam: Gen - NAD, mildly overweight appearing male, no acute distress. HEENT - oropharynx clear, no erythema. Neck - no LAD, no JVD. Lungs - mild expiratory wheeze bilat bases, no crackles, no accessory muscle use. Heart - RRR, no m/r/g. Abd - soft, obese, nontender. Ext - no edema.
+
+Assessment: Acute bronchitis, likely viral. HTN - stable, will recheck BP. Obesity - counseled diet/exercise.
+
+Plan:
+1. Supportive care, fluids, rest.
+2. Albuterol inhaler PRN wheeze/cough, sample given.
+3. Return precautions given re: fever, worsening SOB, chest pain.
+4. Continue lisinopril, recheck BP at PCP follow up.
+5. Counseled on nicotine vaping cessation resources given daily use; pt declined referral today, may revisit at future visit.
+6. Lung cancer screening was briefly discussed given age, pt has no cigarette smoking history so this was noted but not further pursued today.
+7. F/u with PCP in 2-4 wks or sooner if worse.
+
+Pt verbalized understanding of plan, all questions answered.
+
+---ADDENDUM (same day, later)---
+Addendum by T. Alvarez, NP, 03/16/2023 1730: Pt called back re: forgot to mention occasional nighttime sweats x2 nights, no fever recorded at home. Advised to monitor, use thermometer if recurs, return to UC or ER if fever >101F or worsening symptoms. Reiterated pt remains a never-smoker of cigarettes; vaping use unchanged, daily. No new orders at this time.

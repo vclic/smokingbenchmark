@@ -1,0 +1,74 @@
+Pulmonology Progress Note
+
+Patient: SULLIVAN, Frank    MRN: 46191435
+DOB: 05/06/1945    Age: 78 y.o.    Sex: Male
+Date of Service: 05/08/2023    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Lung nodule
+
+Subjective:
+Frank Sullivan is a 78 y.o. male who presents for follow-up of a pulmonary nodule.
+Incidental 8 mm ground-glass RML nodule on CT 11/8/2022 (CTA chest for dyspnea). He smoked for 53 years and stopped smoking 2 years ago. Pt anxious about result.
+
+Past Medical History:
+Diagnosis	Date
+• Generalized anxiety disorder	2019
+• Essential hypertension
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy
+• Right total knee arthroplasty (1998)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• trazodone 50 mg nightly PRN
+• simvastatin 20 mg nightly
+• sertraline 100 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with wife.
+  Quit drinking in 1997.
+  No illicit drug use.
+
+Family History
+Mother - rheumatoid arthritis. Father - MI at 74. Father smoked 2 ppd, died of emphysema at 59.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 149/85 (BP Location: Left arm, Patient Position: Sitting) | Pulse 83 | Temp 97.5 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 178 lb | SpO2 96% | BMI 27.81 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Pulmonary nodule
+   High-risk per Fleischner given smoking history. Repeat CT chest in 12 months.
+2. Hx tobacco use
+   No relapse.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Teresa Alvarez, NP on 05/08/2023

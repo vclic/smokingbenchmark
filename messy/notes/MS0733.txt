@@ -1,0 +1,102 @@
+NURSE INTAKE
+Date of Service: 04/25/2026
+Patient: Karen Wood | DOB: 02/17/1950 | Age: 76 | Sex: F
+Visit Type: Cardiology - Chest Pain Evaluation
+
+VITALS: BP 138/82, HR 78, RR 16, Temp 97.8F, SpO2 95% RA, Wt 168 lb, Ht 5'4"
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking hx: 23 pack-year
+Current use: No
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+CHIEF COMPLAINT: Chest pain
+
+HPI (per RN, reviewed by MD): Pt is a 76 y/o F w/ hx of COPD and OA who presents c/o intermittent chest tightness x 3 days. Pt states, "It feels like a pressure right in the middle of my chest, comes and goes." Denies radiation to arm/jaw currently but noted "a little tingling in my left arm yesterday." No assoc SOB at rest, but pt reports some dyspnea on exertion, baseline per COPD. Denies palpitations, syncope, diaphoresis. Pt reports taking OTC Tylenol w/o relief.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Author: Farah Siddiqui, MD
+Date of Service: 04/25/2026
+
+CC: Chest pain, eval for cardiac etiology.
+
+HPI: Ms. Wood is a pleasant 76-year-old female (DOB 2/17/1950) with a history of COPD and osteoarthritis who presents today for evaluation of intermittent chest tightness over the past 3 days. She describes the discomfort as a pressure sensation, non-exertional in nature, lasting several minutes at a time and resolving spontaneously. She endorses mild left arm tingling yesterday but denies this today. No jaw pain, no diaphoresis, no nausea. She states, "I've had this kind of ache before but never this many days in a row." She denies recent illness, fevers, or leg swelling. She has not had any recent falls or trauma. Review of prior chart notes smoking status.
+
+Copied Note from 01/25/2024 (Social History, for reference only): "Tobacco: Former smoker." No further quantities were documented in that note.
+
+PAST MEDICAL HISTORY: COPD, osteoarthritis, hyperlipidemia, hypertension.
+
+PAST SURGICAL HISTORY: Right knee arthroscopy 2015.
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN
+2. Tiotropium 18 mcg inhaled daily
+3. Atorvastatin 40 mg PO qHS
+4. Lisinopril 10 mg PO daily
+5. Acetaminophen 500 mg PO PRN pain
+6. Meloxicam 15 mg PO daily
+7. Vitamin D3 1000 IU PO daily
+8. Calcium carbonate 500 mg PO BID
+9. Aspirin 81 mg PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Tobacco - former smoker, 23 pack-year history (see templated intake above). Alcohol use not documented today. Denies illicit drug use. Retired, lives independently per prior charting.
+
+FAMILY HISTORY: Father - MI age 68. Mother - osteoarthritis, no cardiac hx. Sibling - none reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: No visual changes.
+ENT: No sore throat, no congestion.
+Cardiovascular: Positive for chest tightness as above; denies palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Positive for chronic exertional dyspnea (baseline COPD); denies cough, hemoptysis, wheeze acutely.
+GI: Denies nausea, vomiting, abdominal pain, changes in bowel habits.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic bilateral knee pain, stable, attributed to OA; denies new joint swelling.
+Skin: No rashes, no lesions.
+Neuro: Denies headache, dizziness, focal weakness, numbness (aside from transient arm tingling noted above).
+Psych: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, bleeding.
+Allergic/Immunologic: NKDA as above.
+
+PHYSICAL EXAM:
+General: Alert, oriented x3, NAD, appears stated age.
+HEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear.
+Neck: No JVD, no carotid bruits, no lymphadenopathy.
+Cardiovascular: RRR, no murmurs/rubs/gallops, no peripheral edema, pulses 2+ symmetric.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Musculoskeletal: Mild crepitus bilateral knees, no effusion, ROM limited but functional.
+Skin: Warm, dry, intact.
+Neuro: CN II-XII grossly intact, strength 5/5 all extremities, sensation intact bilaterally.
+Psych: Mood/affect appropriate.
+
+LABS/RESULTS:
+CBC (04/25/2026): WBC 6.8, Hgb 13.1, Hct 39.2%, Plt 245
+BMP (04/25/2026): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glu 102
+Troponin I (04/25/2026, 0800): <0.01 ng/mL (negative)
+Troponin I (04/25/2026, 1100): <0.01 ng/mL (negative)
+Lipid panel (03/12/2026): TC 188, LDL 102, HDL 52, TG 140
+EKG (04/25/2026): NSR, no acute ST-T changes, no significant Q waves.
+CXR (04/25/2026): Hyperinflated lungs c/w COPD, no acute infiltrate, no effusion.
+
+ASSESSMENT/PLAN:
+1. Chest pain, atypical, low suspicion for ACS given negative serial troponins and unremarkable EKG. Will obtain outpt stress test for further risk stratification. Continue ASA 81 mg daily.
+2. COPD - stable, continue current inhaler regimen, reinforced smoking cessation counseling given prior tobacco use history, encouraged pulmonary rehab referral.
+3. Osteoarthritis - stable on current regimen, continue meloxicam, monitor renal function given NSAID use.
+4. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 months.
+5. Hypertension - well controlled, continue lisinopril.
+6. Health maintenance - discussed general age-appropriate cancer screening topics; lung imaging discussed in context of pulmonary history.
+
+Follow-up in 2 weeks or sooner if symptoms worsen. Pt verbalizes understanding and agrees with plan.
+
+Farah Siddiqui, MD

@@ -1,0 +1,80 @@
+Primary Care Office Visit
+
+Patient: HUGHES, Karen    MRN: 54428688
+DOB: 02/03/1966    Age: 57 y.o.    Sex: Female
+Date of Service: 06/22/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Right knee pain
+
+Subjective:
+Karen Hughes is a 57 y.o. female who presents for right knee pain.
+Right knee pain for 1 month, worse with stairs. No trauma. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• Asthma
+• Type 2 diabetes mellitus
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• fluticasone 110 mcg 2 puffs BID
+• metformin 1000 mg BID
+• albuterol HFA PRN
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Current
+    Types: Chew
+Social History Narrative
+  Lives with husband and adult daughter.
+  Works as a hairdresser.
+  Uses chewing tobacco ~1 tin/wk.
+  Alcohol: rare.
+  No illicit drug use.
+  Independent in ADLs.
+
+Family History
+No family hx of colon cancer. Father - MI at 74.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 132/64 (BP Location: Right arm, Patient Position: Sitting) | Pulse 63 | Temp 97.8 °F (Oral) | Resp 14 | Ht 5' 5" | Wt 168 lb | SpO2 98% | BMI 27.90 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Right knee pain
+   Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+
+RTC 6 months.
+
+Electronically signed by Julia Brennan, MD on 06/22/2023

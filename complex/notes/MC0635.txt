@@ -1,0 +1,53 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Carol Washington | DOB: 2/19/1970 | Age: 53
+Date of Service: 03/12/2023
+Provider: Catherine Lindqvist, DO (Pulmonology)
+
+CC: F/u incidental lung nodule.
+
+HPI:
+53 yo F, referred after incidental 8mm RUL nodule seen on CT during ER visit for palpitations (AFib workup). Pt states, "I honestly forgot about it until your office called." No hemoptysis, no wt loss, no fevers. Occasional dry cough - "just a tickle, comes and goes." No dyspnea at rest, mild DOE with stairs. Denies chest pain. Reports overall feeling well, active, walks daily.
+
+PMH: BPH, HTN, atrial fibrillation (on anticoagulation, rate-controlled).
+
+Meds: metoprolol, apixaban, tamsulosin.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker. Lives with husband, retired schoolteacher. Denies illicit drug use. Rare EtOH, wine on holidays.
+
+TOBACCO USE - EHR TEMPLATED BLOCK:
+Smoking status: Former smoker
+Cigarettes: 3 packs/day x 7 years, then reduced to 2 packs/day x 4 years, then quit
+Current use: None
+Interest in quitting: N/A - already quit
+Counseling given: N/A
+
+Additional social hx note (from prior visit, carried forward): Pt has mentioned before quitting was tied to family milestone - "I quit the day my grandson was born, and he's 19 now, so that tells you how long it's been." No further detail elicited today.
+
+ROS: Otherwise negative except as above. No hemoptysis, no night sweats.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76 irregular, RR 16, SpO2 97% RA, wt stable.
+Gen: NAD, comfortable.
+CV: irregularly irregular rhythm, no murmurs.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, NT, prostate exam deferred (per urology f/u).
+Ext: no edema.
+
+DATA:
+CT chest (outside, reviewed): 8mm solid nodule RUL, no calcification, no prior comparison available.
+
+ASSESSMENT/PLAN:
+53F, former smoker (quit after grandson's birth, now 19 y/o - long-standing quit), incidentally found RUL pulmonary nodule.
+
+1. Pulmonary nodule - given size and pt's tobacco history (heavy prior use per templated tobacco block above), recommend repeat imaging in 6-12 months per Fleischner guidance. General discussion held regarding surveillance imaging approach and rationale. Will obtain old outside films if available for direct comparison.
+2. Atrial fibrillation - continue current rate control and anticoagulation, no acute issues today, cardiology following.
+3. Hypertension - well controlled on current regimen, continue metoprolol.
+4. BPH - stable on tamsulosin, urology following.
+
+RTC in 6 months or sooner with any new resp sx (hemoptysis, wt loss, worsening cough).
+
+Discussed plan with pt, she verbalized understanding, agreeable to f/u imaging schedule.
+
+Attending attestation: I have seen and examined the patient with Dr. Lindqvist and discussed the plan of care as above. I agree with the assessment and plan documented in this note.
+- Attending, Pulmonology

@@ -1,0 +1,48 @@
+Anderson, Kenneth | DOB 3/28/1974 | Age 50 y/o M | DOS: 03/28/2024
+Pulmonology F/U - Incidental Lung Nodule
+Author: Teresa Alvarez, NP
+
+HPI: Pt is a 50 yo male, kwn h/o COPD, T2DM, hypothyroidism and osteoarthritis, here for f/u of incidentally noted RUL pulmonary nodule found on CT abd/pelvis done at outside ER for unrelated flank pain back in Jan. Pt reports no new SOB, no hemoptysis, occasional productive cough which he attributes to his COPD, 'same as always doc.' He denies fevers, chills, unintentional weight loss - well he did say he lost like 4 lbs but thinks its from cutting out soda, so [inaudible] not clinically significant probably. He has been compliant w his Symbicort inhaler, uses albuterol prn maybe twice a wk. Denies chest pain, denies palpitations, and he did mention some knee pain which is being managed by ortho, not really relevant to this visit but pt wanted it noted.
+
+SOCIAL HISTORY:
+TOBACCO USE [templated field - EHR auto-populated, reviewed/updated this visit]:
+  Current status: Current every day smoker
+  Type: Cigarettes
+  Smoking Hx: Pt reports smoking approx 1/2 ppd (~10 cigs/day) x 13 years, then cut back to approx 1/4 ppd (~5 cigs/day) x 24 years, and continues to smoke at that reduced rate currently.
+  Readiness to quit: Not ready to quit at this time - states 'I know I should, just not there yet.'
+  Interest in cessation counseling: Declined today, may reconsider in future.
+Alcohol: occasional, ~2-3 beers/wk
+Illicit drugs: denies
+Occupation: retired machinist
+
+ROS: otherwise negative except as noted in HPI, all other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, T 98.2F, SpO2 95% RA, Wt 198 lbs, BMI 29.4
+Gen: NAD, well-appearing, conversant
+HEENT: nl, no LAD
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft, NT/ND
+Ext: no clubbing/cyanosis/edema, mild crepitus bilat knees
+Skin: no lesions
+
+LABS/IMAGING:
+CT chest w/o contrast 03/15/2024: 8mm solid nodule RUL, unchanged in appearance from prior outside imaging (comparison limited, prior study 01/09/2024 report reviewed, nodule measured approx 7mm at that time)
+CBC 03/28/2024: WBC 7.1, Hgb 14.2, Hct 42.1, Plt 245
+CMP 03/28/2024: Na 139, K 4.3, Cl 101, CO2 25, BUN 16, Cr 0.9, Glc 142
+HbA1c 03/10/2024: 7.4%
+TSH 02/14/2024: 2.1 (WNL on current levothyroxine dose)
+PFTs 01/22/2024: FEV1 68% predicted, FEV1/FVC 0.64, consistent w/ moderate obstructive defect
+
+ASSESSMENT/PLAN:
+1. Pulmonary nodule, RUL, 8mm - stable to mildly increased in size per outside comparison, likely benign given size/growth pattern but will continue surveillance. Recommend repeat chest imaging in 6 months, modality/timing TBD by radiology/pulm at that visit. Pt verbalizes understanding of plan for ongoing surveillance.
+2. Tobacco use, current, still smoking as above - pt counseled extensively today regarding health risks of continued smoking including risk of malignancy, progression of COPD, cardiovascular dz. Pt verbalizes understanding but is not ready to quit at this time. Offered nicotine replacement therapy and referral to tobacco cessation program, pt declined today but agreeable to revisit at future visit. Will continue to readdress at each visit.
+3. COPD, moderate, on Symbicort + prn albuterol, seems reasonably controlled, no exacerbations since last visit per pt report. Continue current regimen.
+4. T2DM - HbA1c 7.4%, above goal of <7%, will defer med adjustment to PCP/endo, recommend f/u with them re: possible metformin dose increase.
+5. Hypothyroidism - TSH WNL on current dose, continue levothyroxine.
+6. Osteoarthritis - stable, managed by ortho, no changes needed from pulm standpoint.
+
+RTC in 6 months for repeat imaging f/u, sooner if any new sx develop such as hemoptysis, worsening SOB, unintentional weight loss, or chest pain. Pt verbalizes understanding of plan and agrees. All questions answered today.
+
+Electronically signed by Teresa Alvarez, NP

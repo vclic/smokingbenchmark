@@ -1,0 +1,90 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - Dr. Gregory Tan, MD
+Date of Service: 03/26/2025
+Patient: Marilyn Ross, DOB 03/26/1953 (age 72)
+Referring Provider: Dr. S. Alvarez, Internal Medicine
+
+Dear Dr. Alvarez,
+
+Thank you for referring Ms. Ross, a 72-year-old woman, for pulmonology follow-up after a recent ED visit for COPD exacerbation. She was seen today, 03/26/2025, her actual date of birth as noted above.
+
+HPI:
+Ms. Ross reports she was taken to the ED about 10 days ago with worsening shortness of breath, increased sputum production, and wheeze, treated with nebulizers, IV steroids, and sent home on a prednisone taper plus azithromycin. She states she is feeling "mostly back to normal" though still gets winded going up the stares at home (sic - stairs). Denies fever now. She continues on her home inhalers, though admits she sometimes forgets the evening dose. No hemoptysis, no chest pain, no leg swelling that is new (she has chronic PAD-related claudication at baseline). She denies any recent falls.
+
+She also endorses ongoing reflux symptoms, worse when lying flat, and says her blood sugars have been "running high" per her home glucometer, in the 180s-220s range fasting. On atrial fibrillation she is on anticoagulation and reports no palpitations recently.
+
+PAST MEDICAL HISTORY:
+- Peripheral artery disease
+- Atrial fibrillation (on anticoagulation)
+- Osteoporosis
+- Type 2 diabetes mellitus
+- GERD
+- Asthma (longstanding, overlapping with COPD - asthma-COPD overlap suspected)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: See narrative below (assessment/plan)
+Alcohol use: Not on file
+Drug use: Marijuana - patient reports she smokes marijuana a few times a month, for appetite and sleep.
+Occupation: Retired (former retail employee)
+Living situation: Lives alone, daughter checks in weekly
+Exercise: Sedentary, limited by dyspnea and claudication
+
+[Copied forward from note dated 10/26/2022, Dr. Alvarez]:
+"Social History (as of 10/26/2022): Patient is a current smoker." - no further detail was given in that note, quantities not specified at that time.
+
+MEDICATIONS:
+- Apixaban
+- Metformin
+- Albuterol/budesonide inhaler
+- Omeprazole
+- Alendronate
+- Amlodipine
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, no chills, mild fatigue.
+Respiratory: Chronic cough, occasional wheeze, dyspnea on exertion as above.
+Cardiovascular: No chest pain, occasional palpitations reported by patient but not confirmed on exam today, lower extremity claudication chronic and unchanged.
+GI: Reflux symptoms as above, no melena, no hematemesis.
+Endocrine: Polyuria, polydipsia intermittent.
+Musculoskeletal: Chronic low back pain, stable.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregular, RR 18, SpO2 93% on room air, Temp 98.2F, Wt stable from last visit.
+General: Alert, oriented, mild use of accessory muscles, no acute distress.
+HEENT: Unremarkable.
+Neck: No JVD, no lymphadenopathy.
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated, [inaudible] on auscultation due to background noise during dictation.
+Lungs: Diffuse expiratory wheeze bilaterally, prolonged expiratory phase, no crackles.
+Extremities: Diminished pedal pulses bilaterally, no edema, skin intact.
+Neuro: Grossly nonfocal.
+
+LABS/IMAGING:
+CXR from ED visit reviewed - hyperinflated lungs, no infiltrate, no effusion.
+Basic metabolic panel from last week notable for glucose 210.
+Spirometry pending, to be scheduled.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, recently treated, now improving - continue current inhaler regimen, follow up spirometry when able, pulmonary rehab referral discussed. Regarding tobacco history: patient smoked a quarter pack (about 5 cigarettes) per day for 19 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for 35 years and continues to smoke at that current rate. She remains a current smoker and states she is not ready to quit at this time. Counseled on smoking cessation, offered resources including quitline and pharmacotherapy options (varenicline, nicotine replacement), she declines for now but is open to revisiting in future visits.
+2. Asthma-COPD overlap - continue combination inhaler, monitor symptoms.
+3. Peripheral artery disease - stable, continue current management, no acute changes.
+4. Atrial fibrillation - continue anticoagulation, will defer rate/rhythm management to cardiology.
+5. Osteoporosis - continue alendronate, encourage weight-bearing exercise as tolerated given dyspnea limitations.
+6. Type 2 diabetes mellitus - glucose control suboptimal per patient report, will loop in PCP/endocrine for medication adjustment.
+7. GERD - continue omeprazole, reinforce dietary modification, elevate head of bed.
+8. Marijuana use - noted, discussed potential interactions with respiratory symptoms, patient aware.
+
+Given her age and extensive tobacco exposure, lung cancer screening was discussed as a general topic of preventive care; no imaging study was ordered today as part of that discussion.
+
+Will see back in pulmonology clinic in 6-8 weeks or sooner if symptoms worsen. Please continue to coordinate diabetes and cardiac management on your end.
+
+Thank you for allowing me to participate in her care.
+
+Sincerely,
+Gregory Tan, MD
+Pulmonology
+
+---
+ADDENDUM (later same day, 03/26/2025):
+Patient's daughter called clinic this afternoon with additional history - states mother has been more short of breath at night over past week, using rescue inhaler more frequently than reported this morning. Advised daughter to have patient call if symptoms worsen further or if oxygen saturation drops per home pulse ox (family has one at home). No changes to plan at this time; will reassess at follow-up visit. Daughter also confirmed patient continues to smoke and has expressed reluctance to quit despite recent hospitalization, consistent with patient's own statement in clinic today.

@@ -1,0 +1,38 @@
+VASCULAR SURGERY RESIDENT NOTE
+Date of Service: 03/03/2024
+Patient: Carol Thompson, F, DOB 03/03/1957 (age 67 today)
+Attending: Julia Brennan, MD (attestation below)
+
+CC: Follow-up PAD, claudication evaluation.
+
+=== COPIED FORWARD FROM PRIOR VISIT (dated 09/15/2023) ===
+HPI: Ms. Thompson is a 66 yo F with PAD, asthma, COPD, HFrEF, depression, presenting for routine f/u. Reports intermittent claudication in bilateral calves after ~2 blocks, improved slightly with cilostazol. Denies rest pain, denies non-healing ulcers. ROS otherwise negative for chest pain, palpitations, orthopnea, PND. Continues counseling for depression, denies SI/HI. Exam at that time: Vascular exam - DP/PT pulses 1+ bilaterally, no ulcers, cap refill <3 sec. Lungs: mild expiratory wheeze, no acute distress. Cardiac: RRR, no murmurs. Plan from that visit: continue cilostazol, ABI ordered, f/u 6 months.
+=== END COPIED SECTION ===
+
+CURRENT HPI: Pt returns today, states claudication distance stable. No new ulcers, no rest pain. Continues home exercise program. Denies chest pain/SOB at rest.
+
+SOCIAL HISTORY: Smoked ~1/4 pack (about 5 cigarettes) per day for 13 years, then increased to 1 pack per day for 23 years; quit smoking and has not smoked since her 55th birthday. No current tobacco use. Denies EtOH, denies illicit drug use.
+
+PROBLEM LIST:
+- I73.9 Peripheral artery disease, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.9 COPD, unspecified (dx 2015, outdated entry - reassess)
+- I50.22 Chronic systolic heart failure, HFrEF
+- F32.9 Major depressive disorder, unspecified
+- E78.5 Hyperlipidemia (resolved per pt, still listed)
+
+MEDICATIONS: Cilostazol 100mg BID, Atorvastatin 40mg qHS, Aspirin 81mg qd, Furosemide 20mg qd, Carvedilol 12.5mg BID, Lisinopril 10mg qd, Albuterol/ipratropium inhaler PRN, Fluticasone/salmeterol inhaler BID, Sertraline 100mg qd, Vitamin D3 1000IU qd.
+
+LABS/RESULTS:
+- ABI (02/20/2024): Right 0.68, Left 0.71
+- CBC (02/20/2024): WNL
+- BNP (02/20/2024): 410 pg/mL
+- Lipid panel (11/2023): LDL 88, HDL 42, TG 130
+
+ROS: Constitutional - no fever/chills. CV - claudication as above, no chest pain. Resp - occasional wheeze, no hemoptysis. GI - unremarkable. GU - unremarkable. MSK - mild bilateral calf discomfort with ambulation. Psych - stable mood on sertraline.
+
+PHYSICAL EXAM: VS stable, afebrile. Gen: NAD. Lungs: mild expiratory wheeze bilaterally. CV: RRR, no murmurs, no JVD. Ext: no edema, DP/PT pulses 1+ bilaterally, no ulcers.
+
+ASSESSMENT/PLAN: PAD - stable, continue cilostazol, f/u ABI in 6 months. COPD/asthma - continue inhalers, monitor symptoms. HFrEF - continue GDMT, continue diuretic and beta-blocker. Depression - stable on current regimen, continue sertraline. Health maintenance - routine preventive care topics reviewed with patient.
+
+Attestation: I have seen and examined the patient with the resident and agree with the above assessment and plan. - Julia Brennan, MD

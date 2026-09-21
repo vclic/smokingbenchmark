@@ -1,0 +1,78 @@
+Internal Medicine Pre-Operative Evaluation
+Author: Priya Raman, MD
+Date of Service: August 28, 2024
+Patient: Carol Hernandez, F, DOB 8/12/1958, Age 66
+
+CHIEF COMPLAINT: Pre-op medical clearance for right total knee replacement.
+
+HPI: Ms Hernandez is a 66 yo female with PMH significant for osteoporosis, hypothyroidism, gout, atrial fibrillation, obesity, and peripheral artery disease who presnts today for pre-operative evaluation ahead of scheduled right knee replacement with Dr. Feldman ortho next month. She states "my knee has been bone-on-bone for at least two years now and I just cant wait any longer, the pain is unbearable getting up from a chair." She denies any recent chest pain, denies palpitations though she is known afib on anticoagulation, denies fevers or chills. She reports her gout has been quiet, last flare was "maybe six months ago in my big toe." She takes levothyroxine regularly and reports compliance c her osteoporosis regimen. Review of systems otherwise obtained and largely negative as below. She lives with her husband and is fairly independant with ADLs although stairs are difficult due to knee pain, she uses a cane occasionally, [inaudible] when walking longer distances outdoors.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- M81.0 Osteoporosis without current pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- M10.9 Gout, unspecified
+- I48.91 Atrial fibrillation, unspecified
+- E66.9 Obesity, unspecified (BMI 33)
+- I73.9 Peripheral artery disease, unspecified
+- I25.10 Coronary artery disease without angina (outdated, per pt this was ruled out on stress test 2019, chart not updated)
+- N39.0 UTI (resolved, 2021, listed for historical purposes)
+
+SOCIAL HISTORY: Patient reports she has never used tobacco in any form, no cigarettes, cigars, vaping or chew, at any point in her life. She drinks wine occasionally, about 1 glass with dinner few times a week. No illicit drug use. Retired schoolteacher, married, two adult children live nearby.
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg po daily
+2. Alendronate 70 mg po weekly
+3. Allopurinol 300 mg po daily
+4. Apixaban 5 mg po BID
+5. Metoprolol succinate 50 mg po daily
+6. Atorvastatin 20 mg po daily
+7. Calcium carbonate/vitamin D combo tablet po daily
+8. Omeprazole 20 mg po daily prn
+9. Acetaminophen 500 mg po prn pain
+10. Cilostazol 100 mg po BID for PAD
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+Eyes: denies visual changes
+ENT: denies sore throat, hearing loss
+Cardiovascular: denies chest pain, denies syncope, reports occasional mild ankle swelling stable at baseline
+Respiratory: denies cough denies dyspnea at rest, mild dyspnea on excertion attributed to deconditioning from knee pain
+GI: denies nausea vomiting diarrhea constipation
+GU: denies dysuria frequency hematuria
+Musculoskeletal: positive for right knee pain as above, denies other joint pain currently, no active gout flare
+Skin: denies rash denies new lesions
+Neuro: denies headache denies weakness numbness tingling
+Psych: denies depression denies anxiety, mood euthymic
+Endocrine: denies heat/cold intolerance on current thyroid replacement
+Heme/Lymph: no easy bruising beyond expected on anticoagulation, no lymphadenopathy
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 97% on room air, Wt 198 lbs, Ht 5'4", BMI 33.9
+General: well-appearing woman in no acute distress, pleasant and cooperative
+HEENT: normocephalic atraumatic, PERRL, oropharynx clear, no thyromegaly appreciated
+Neck: supple, no JVD, no lymphadenopathy
+Cardiovascular: irregularly irregular rhythm consistent w known afib, no murmurs rubs or gallops appreciated, 1+ pitting edema bilateral lower extremities
+Respiratory: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Abdomen: soft nontender nondistended, normoactive bowel sounds, obese habitus
+Extremities: right knee with crepitus and mild effusion, decreased range of motion, tender to palpation medial joint line, dorsalis pedis pulses diminished bilaterally consistent with known PAD, no ulcers or skin breakdown noted
+Skin: no rashes noted
+Neuro: alert and oriented x3, grossly nonfocal
+
+ASSESSMENT AND PLAN:
+66 yo female here for pre-operative clearance for total knee replacement, multiple comorbidities as above will need to be optimized peri-operatively.
+
+1. Atrial fibrillation - on apixaban, will need to coordinate w orthopedic surgery and anesthesia regarding peri-op anticoagulation management, hold apixaban per surgical protocol, bridging discussed with cardiology colleague Dr. Osei.
+2. Peripheral artery disease - continue cilostazol, ABI on file from last year stable, cleared from vascular standpoint per prior note.
+3. Osteoporosis - continue alendronate, will hold day of surgery per routine, continue calcium/vit D.
+4. Hypothyroidism - continue levothyroxine, TSH checked today pending result.
+5. Gout - continue allopurinol, no active flare, low risk for peri-op flare given stable disease.
+6. Obesity - counseled on weight and activity as tolerated post op, may improve once knee pain resolved.
+7. Cardiac risk stratification - RCRI calculated, low-moderate risk, no further stress testing indicated at this time given functional status and stable known CAD history (outdated diagnosis per above, will clarify with pt).
+8. Tobacco/lung risk - patient denies any smoking history whatsoever, lung cancer screening was briefly discussed given her age though not further pursued at this visit, no pulmonary contraindication to surgery identified.
+9. Medication reconciliation performed, list reviewed with patient and updated above.
+
+Patient verbalized understanding of plan, all questions answered, will proceed to surgery scheduling pending final labs and cardiology bridging plan. Follow up as needed, return sooner for any concerning symptoms prior to surgery date.
+
+Electronically signed, Priya Raman, MD

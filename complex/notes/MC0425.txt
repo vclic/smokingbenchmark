@@ -1,0 +1,44 @@
+INTERNAL MEDICINE - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Barbara Martinez | DOB: 2/26/1972 | Age: 53
+Date of Service: 07/26/2025
+Author: Teresa Alvarez, NP (resident); attending co-signature below
+
+CC: F/U hypertension, diabetes.
+
+HPI: Ms. Martinez is a 53 y/o female here for routine follow-up of HTN and T2DM, also with hx of hypothyroidism, GERD, asthma, and BPH. She states, "I've been doing pretty good, just tired some days." Blood sugars per home log running 130s-160s fasting, occasional spikes to [inaudible] after meals - she thinks its when she eats out with her sister-in-law who she says 'cooks with a ton of salt.' No chest pain, no SOB at rest, mild exertional dyspnea she attributes to asthma flaring in the heat. Regarding tobacco, she reports she smoked half a pack (about 10 cigarettes) per day for 15 years, then cut back to a quarter pack (about 5 cigarettes) per day for 18 years and continues to smoke at that reduced rate currently. She continues to smoke despite counseling on multiple prior visits. She also reports smoking marijuana a few times a month for appetite and sleep, denies other substance use.
+
+[Copied from note dated 12/26/2022 - SOCIAL HISTORY, NOT UPDATED THIS VISIT]: "Tobacco: current smoker." (No quantities given in that prior note.)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies binge
+Drug use: Marijuana, few times/month per patient report
+Occupation: Retail associate
+Living situation: Lives w/ spouse
+Exercise: Not on file
+
+ROS: Constitutional - denies fever, chills, wt change. HEENT - denies vision changes, denies sore throat. CV - denies chest pain, denies palpitations, denies edema. Resp - endorses mild dyspnea on exertion as above, denies hemoptysis, denies productive cough. GI - occasional heartburn, denies nausea/vomiting/diarrhea/constipation, denies blood in stool. GU - denies dysuria, endorses nocturia x2 (BPH). MSK - denies joint pain. Neuro - denies HA, denies numbness/tingling. Psych - denies depression, denies anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 172 lb, BMI 29.8. General: well-appearing, NAD. HEENT: PERRLA, oropharynx clear. Neck: no thyromegaly, no LAD. CV: RRR, no murmurs/rubs/gallops. Lungs: mild expiratory wheeze bilat bases, no rales, no rhonchi. Abd: soft, NT/ND, no organomegaly. Ext: no edema, pulses 2+. Skin: no rashes. Neuro: A&Ox3, CN II-XII grossly intact.
+
+PROBLEM LIST (ICD-10):
+E11.9 - Type 2 diabetes mellitus without complications
+I10 - Essential hypertension
+E03.9 - Hypothyroidism, unspecified
+K21.9 - GERD
+J45.909 - Asthma, unspecified, uncomplicated
+N40.0 - BPH without LUTS
+Z87.891 - Personal history of nicotine dependence (outdated entry, patient remains active smoker per current visit)
+
+MEDICATIONS: Metformin 1000mg BID, Lisinopril 20mg daily, Levothyroxine 75mcg daily, Omeprazole 20mg daily, Albuterol HFA PRN, Tamsulosin 0.4mg daily, Atorvastatin 20mg daily.
+
+ASSESSMENT/PLAN:
+1. T2DM - A1c pending, continue metformin, reinforce diet.
+2. HTN - stable on current regimen, continue lisinopril.
+3. Tobacco use - counseled again on cessation given continued smoking; discussed nicotine replacement options and lung cancer screening was discussed generally as a topic of ongoing preventive care conversation. Patient not ready to quit at this time per her statement, "I know I should stop."
+4. Asthma - mild wheeze on exam, continue albuterol PRN, reviewed inhaler technique.
+5. GERD, hypothyroidism, BPH - stable, continue current meds.
+F/u in 3 months or sooner PRN.
+
+Attending Attestation: I have reviewed and discussed this patient with the resident/NP and agree with the documented history, exam, and plan as above. - Attending Physician, Internal Medicine.

@@ -1,0 +1,79 @@
+Family Medicine Office Visit
+
+Patient: GARCIA, John    MRN: 99641890
+DOB: 07/03/1949    Age: 74 y.o.    Sex: Male
+Date of Service: 10/16/2023    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+John Garcia is a 74 y.o. male who presents for routine follow-up of chronic conditions.
+Feels about the same as last visit. Ran out of one medication last week.
+
+Past Medical History:
+Diagnosis	Date
+• Primary OA, bilateral knees
+• Essential hypertension
+• OSA
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2009)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• hydrochlorothiazide 25 mg daily
+• losartan 100 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives in assisted living.
+  Retired, former office manager.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+  Drives.
+
+Family History
+Father - AAA repair. Mother - breast cancer at 70.
+
+Review of Systems
+ROS: CV neg, GI neg, Gen neg, Skin neg
+
+Objective:
+Vitals:
+  BP 131/87 (BP Location: Right arm, Patient Position: Sitting) | Pulse 80 | Temp 98.4 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 147 lb | SpO2 99% | BMI 22.35 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (10/1/23): Cr 1.03, K 4.4
+
+Assessment & Plan
+1. Essential hypertension
+   Well controlled on home log. No changes.
+2. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+3. OSA
+   Using CPAP nightly.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 6 mo
+
+Electronically signed by Anita Patel, MD on 10/16/2023

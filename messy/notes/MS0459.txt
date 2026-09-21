@@ -1,0 +1,54 @@
+RESIDENT NOTE – Family Medicine (Telehealth)
+Date of Service: 06/21/2025
+Patient: Susan Kim, F, DOB 02/10/1965 (age 60)
+Author: Elena Markovic, MD (resident); attending attestation below (Dr. R. Alvarez)
+
+CHIEF COMPLAINT: Medication refills, follow-up telehealth visit.
+
+HPI: Ms. Kim is a 60-year-old woman with history of osteoporosis and atrial fibrillation who presents via telehealth today, date of service 06/21/2025, for routine medication refills. She reports feeling generally well overall. No palpitations, no chest pain, no syncope, no lightheadedness. Denies new falls or fragility fractures. Smoking hx notable for a 35 pack-year smoking history. She previously quit smoking in 2017 but relapsed in 2018 and has been smoking since. Denies hemoptysis, occasional morning cough noted, no significant sputum change. Sleep adequate though sometimes disrupted by neighbor's constriction work [inaudible] going on for weeks, not medically significant. Appetite good, denies fevers/chills/weight loss. Takes anticoagulant as prescribed without missed doses per pt report, denies bleeding or bruising.
+
+SOCIAL HISTORY: Lives alone, retired schoolteacher. Alcohol: occasional glass of wine, denies illicit drug use. Tobacco: continues to smoke despite counseling on cessation at prior visits; discussed nicotine replacement options today, pt states not ready to quit at this time. Exercise: walks daily weather permitting.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Osteoporosis (M81.0) - on bisphosphonate therapy.
+2. Atrial fibrillation (I48.91) - on anticoagulation, rate-controlled.
+3. Hyperlipidemia (E78.5) - stable, diet-controlled (outdated entry, pt reports no longer taking statin per prior note review, needs update).
+4. GERD (K21.9) - resolved per pt report, keeping on list per chart continuity, likely outdated.
+5. Tobacco use disorder (Z72.0).
+
+MEDICATIONS:
+- Alendronate 70mg PO weekly
+- Apixaban 5mg PO BID
+- Calcium/Vitamin D supplement daily
+- Metoprolol succinate 50mg daily
+
+ALLERGIES: NKDA
+
+VITALS (telehealth, pt reported home cuff): BP 128/76, HR 78 irregular, reports home weight stable at 142 lbs.
+
+LABS/RESULTS (reviewed today):
+- CBC 05/15/2025: WNL, Hgb 13.2
+- BMP 05/15/2025: Na 139, K 4.1, Cr 0.9, eGFR >60
+- TSH 04/02/2025: 2.1 (WNL)
+- DEXA scan 01/10/2025: T-score -2.6 lumbar spine, -2.3 femoral neck, consistent with osteoporosis, stable compared to prior.
+- INR/anticoag monitoring not applicable, pt on apixaban, no routine INR needed.
+- Lipid panel 11/2024: LDL 118, HDL 52, TG 140 (outdated, pt reports diet changes since).
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted above in HPI. Denies vision changes, denies dysuria, denies joint swelling, denies dizziness.
+
+PHYSICAL EXAM (limited via video, pt appeared comfortable, no acute distress noted, general survey only given telehealth format, patient sitting in well-lit room, cooperative with interview, speech clear, affect appropriate, no visible respiratory distress, skin without obvious lesions on camera):
+- General: NAD, appears stated age.
+- Cardiac: unable to auscultate via telehealth, pt denies symptoms of decompensation.
+- Resp: no visible increased work of breathing.
+- Musculoskeletal: gait not assessed today, pt ambulates independently at home per report.
+
+ASSESSMENT/PLAN:
+1. Osteoporosis (M81.0) - continue alendronate, refill sent, will recheck DEXA per usual interval, reinforced calcium/vit D and weight-bearing exercise.
+2. Atrial fibrillation (I48.91) - continue apixaban and metoprolol, refills sent, HR reported stable, will obtain EKG at next in-person visit.
+3. Tobacco use disorder (Z72.0) - patient continues to smoke despite counseling; discussed cessation resources including quitline and pharmacotherapy options (varenicline, NRT), pt declines starting today, will readdress at next visit.
+4. Hyperlipidemia (E78.5) - reconcile med list at next visit, consider updated lipid panel.
+5. GERD (K21.9) - reportedly resolved, consider removing from active problem list at next update.
+
+Return to clinic in 3 months or sooner if symptoms arise. Pt verbalized understanding and agreement with plan.
+
+ATTESTATION: I personally reviewed the history obtained by Dr. Markovic, discussed the case with her, and confirm the plan above. I concur with the assessment and plan as documented. — R. Alvarez, MD, Attending Physician, 06/21/2025.

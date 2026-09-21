@@ -1,0 +1,51 @@
+GERIATRICS PROGRESS NOTE
+Patient: Judith Simmons | DOB: 1/25/1960 | Age: 66 | Sex: F
+Date of Service: 01/25/2026
+Author: Owen Fitzgerald, MD
+
+CC: Geriatric assessment, comprehensive f/u for multiple chronic conditions.
+
+HPI: 66 yo F w/ hx afib, asthma, HLD, depression, COPD, osteoporosis here for annual geriatric assessment. Pt ambulates independently, lives alone, daughter checks in daily. Pt states "I feel about the same, some days my breathing is worse than others." Denies chest pain, syncope, palpitations currently on anticoagulation. Reports occasional low mood, denies SI. Appetite fair, sleep fair w/ some early waking. Reviewed fall risk - no falls since last visit. Smoking hx reviewed in detail (see below).
+
+Tobacco Hx: Pt reports smoking approx a quarter pack (about 5 cigarettes) per day for 21 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for 18 years and continues at that rate currently. Pt states "I know I should probably cut back but I'm not ready to quit right now." Counseled on smoking cessation resources, benefits of quitting given COPD/asthma, pt declined referral to quitline at this time, will revisit at future visit.
+
+ROS: Constitutional: denies fever, chills, wt loss. HEENT: denies vision changes, hearing loss. CV: denies chest pain, orthopnea, PND, occasional palpitations noted above. Resp: chronic cough, occasional wheeze, denies hemoptysis. GI: denies n/v/d, appetite fair as above. GU: denies dysuria, incontinence. MSK: mild low back pain, chronic, unchanged. Neuro: denies weakness, numbness, tingling, dizziness. Psych: mild depressive sx as above, denies SI/HI. Skin: denies rashes, lesions. Endo: denies polyuria, polydipsia. Heme: no easy bruising/bleeding beyond expected on anticoag.
+
+PMH/Problem List (ICD-10):
+- I48.91 Atrial fibrillation, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia, unspecified
+- F32.9 Major depressive disorder, single episode, unspecified (outdated - now recurrent per pt report)
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- M81.0 Osteoporosis, unspecified
+- Z79.01 Long term use of anticoagulants
+- I10 Essential hypertension (outdated - resolved per prior note, retained in error)
+
+Meds: Apixaban 5mg PO BID, Albuterol HFA inhaler prn, Fluticasone/Salmeterol 250/50 1 puff BID, Atorvastatin 40mg qhs, Sertraline 100mg qday, Alendronate 70mg PO weekly, Vitamin D3 2000 IU daily, Calcium carbonate 600mg BID, Tiotropium 18mcg inhaled daily, Montelukast 10mg qhs.
+
+Physical Exam:
+Vitals: BP 132/78, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 94% RA, Wt 158 lb, Ht 5'4"
+Gen: NAD, well-groomed, appears stated age.
+HEENT: NCAT, PERRL, oropharynx clear, no thrush.
+Neck: supple, no JVD, no lymphadenopathy.
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, pulses 2+ bilat.
+MSK: no joint swelling, mild tenderness lumbar paraspinal region.
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady w/o assistive device today.
+Skin: no rashes, no lesions.
+Psych: mood euthymic, affect appropriate, linear thought process.
+
+Assessment/Plan:
+1. Afib - stable on apixaban, continue, check CBC/renal fxn at next visit.
+2. Asthma/COPD overlap - stable, continue current inhalers, reviewed technique, tobacco use likely contributing to sx, discussed importance of cessation though pt not ready at this time, will discuss again at f/u.
+3. HLD - continue atorvastatin, lipid panel due in 3 mo.
+4. Depression - continue sertraline, mood stable per pt report, f/u w/ therapy ongoing.
+5. Osteoporosis - continue alendronate, ca/vit D, DEXA due for repeat.
+6. Health maintenance - discussed age-appropriate screening topics including lung cancer screening discussion given smoking hx, pt to consider and will readdress.
+
+RTC 3 months or sooner if concerns.
+
+---
+ADDENDUM (same day, later): Spoke further w/ pt by phone re: pulmonary function results pending from last PFT order, will review at next visit. Pt reiterated she is aware of health risks of continued smoking but reaffirmed she is "not ready to quit right now" - will continue to offer support and resources at each visit per usual practice. No other changes to plan above. - Owen Fitzgerald, MD

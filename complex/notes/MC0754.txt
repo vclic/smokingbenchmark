@@ -1,0 +1,54 @@
+FAMILY MEDICINE - TELEHEALTH VISIT
+DOS: 09/24/2023
+Pt: William Gonzales, M, DOB 8/4/1959 (age 64)
+Provider: Michael Dunn, DO
+
+CC: med refills, f/u chronic conditions
+
+HPI: 64yo M w/ T2DM, HFrEF, BPH, depression, HTN, PAD presents via telehealth for routine refill of meds. Pt reports doing fairly well overall, denies chest pain, orthopnea, or worsening claudication sx. Occasional lower extremity cramping w ambulation, unchanged from prior. Denies SOB at rest. Compliance w/ meds reportedly good, occasional missed doses when travelling. No new sx today. Pt requesting refills of metformin, carvedilol, tamsulosin, sertraline, lisinopril, and clopidogrel.
+
+ROS: Constitutional - neg for fever/chills. CV - neg CP, palpitations. Resp - neg cough/dyspnea. GI - neg n/v/d. GU - nocturia x1-2, stable. Psych - mood stable on current regimen, denies SI/HI. Neuro - neg focal deficits. All other systems reviewed and neg unless noted above.
+
+---SOCIAL HISTORY (templated EHR block)---
+Tobacco use status: Never used tobacco
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies excess
+Marijuana use: Pt smokes marijuana occasionally, recreational use, denies daily use
+Other substance use: Not on file
+Occupation: retired
+Living situation: lives w spouse
+Exercise: light, home-based
+---END SOCIAL HISTORY BLOCK---
+
+PMH: T2DM, HFrEF (last echo EF 35%), BPH, depression, HTN, PAD s/p prior claudication w/u
+PSH: none significant on file
+
+Meds (current, per chart):
+- Metformin 1000mg BID
+- Carvedilol 12.5mg BID
+- Tamsulosin 0.4mg qHS
+- Sertraline 100mg daily
+- Lisinopril 20mg daily
+- Clopidogrel 75mg daily
+
+Allergies: NKDA
+
+Vitals (per pt report/home cuff, telehealth visit): BP 128/76, HR 68, wt stable per pt, no home scale data uploaded
+
+Exam: Limited given telehealth format. Pt appears well, no acute distress noted on video. Speech clear, affect appropriate, no overt resp distress observed. Skin - no obvious ulcerations visible on lower extrem via video, pt denies new wounds.
+
+A/P:
+1. T2DM - stable, continue metformin, refill sent, recheck A1c at next labs
+2. HFrEF - stable on current regimen, continue carvedilol/lisinopril, refill sent, no signs decompensation today
+3. BPH - stable, continue tamsulosin, refill sent
+4. Depression - mood reportedly stable, continue sertraline, refill sent, will reassess PHQ9 next visit
+5. HTN - well controlled per home readings, continue lisinopril
+6. PAD - stable claudication sx, continue clopidogrel, refill sent, counseled on walking program and foot checks
+7. Tobacco/Substance - pt denies any hx of tobacco use (never smoker). Occasional marijuana use noted, discussed potential interactions/risks briefly, pt understands.
+8. Health maintenance - lung ca screening was briefly discussed in context of overall risk factors given age; not further addressed at this visit.
+
+Plan: refills sent to pharmacy as above, f/u in 3 months or sooner if sx worsen, labs ordered prior to next visit (BMP, A1c, lipid panel), pt to call if any acute sx develop (chest pain, worsening SOB, leg pain)
+
+Time spent: 18 min telehealth visit, >50% counseling/coordination of care
+
+Electronically signed: Michael Dunn, DO

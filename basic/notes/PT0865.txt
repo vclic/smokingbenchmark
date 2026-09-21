@@ -1,0 +1,75 @@
+Internal Medicine Office Visit
+
+Patient: JENKINS, Theresa    MRN: 68671637
+DOB: 01/19/1970    Age: 53 y.o.    Sex: Female
+Date of Service: 10/04/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Theresa Jenkins is a 53 y.o. female who presents for routine follow-up of chronic conditions.
+Feels about the same as last visit. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• PAD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy (2014)
+• Right total knee arthroplasty (2014)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 2.00
+    Years: 32.00
+    Pack years: 64.00
+    Types: Cigarettes
+    Quit date: 11/9/2019
+    Years since quitting: 3.9
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband and adult son.
+  Works as an engineer.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 116/84 (BP Location: Right arm, Patient Position: Sitting) | Pulse 76 | Temp 97.5 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 178 lb | SpO2 97% | BMI 27.94 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. PAD
+   Continue ASA/statin; walking program.
+2. Former smoker
+   Remains abstinent.
+
+Return in about 6 months (around 4/4/2024).
+
+Electronically signed by Julia Brennan, MD on 10/04/2023

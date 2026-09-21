@@ -1,0 +1,33 @@
+Telehealth Note - Pulmonology
+Date of Service: 04/24/2023
+Author: Steven Park, MD
+Patient: Kenneth Simmons, M, DOB 4/24/1962 (age 61)
+
+Visit type: Lung cancer screening shared decision-making
+
+HPI: Pt is a 61 yo male seen via telehealth for shared decision-making regarding lung cancer screening. Hx notable for COPD, T2DM, OSA, HFrEF, CKD stage 3. Pt states "I quit smoking back in 1993 and never looked back." He reports occasional dyspnea on exertion, stable on current inhaler regimen. Denies hemoptysis, weight loss, or chest pain. He notes his wife still smokes and this remains a source of household tension - pt says "I keep telling her to quit too but she wont listen."
+
+Smoking history: 35 pack-year smoking history. Pt is a former smoker, quit smoking in 1993, no longer smokes.
+
+--- Copied forward from note dated 07/24/2020 ---
+PULM CLINIC NOTE 7/24/2020
+Pt with COPD, HFrEF, CKD3, OSA. Smoking status: former smoker. Pt continues to deny current tobacco use. Lungs with mild expiratory wheeze bilaterally, no acute distress. Plan: continue bronchodilator therapy, f/u in 6 months, discussed pulmonary rehab referal.
+--- end copied section ---
+
+ROS: otherwise negative except as above.
+
+Exam (limited, telehealth): Pt appears comfortable, speaking full sentences, no visible distress. Vitals per home cuff: BP 128/76, HR 74, SpO2 94% RA (per pt report).
+
+Assessment/Plan:
+1. Lung cancer screening SDM - risks/benefits of low-dose CT screening discussed at length with pt including false positives, incidental findings, and radiation exposure. Pt verbalizes understanding. Screening was discussed; no further action taken today regarding imaging.
+2. COPD - continue current inhalers, reviewed proper technique.
+3. HFrEF - continue GDMT, will check BNP and BMP at next visit.
+4. CKD3 - stable, monitor renal fxn.
+5. T2DM - reviewed home glucose logs, adequate control.
+6. OSA - continues CPAP, reports good compliance.
+7. Counseled pt on avoidance of secondhand smoke exposure at home given spouse's continued tobacco use.
+
+f/u in 3-6 mnths or sooner if symptoms worsen.
+
+---ADDENDUM (later same day, 04/24/2023, 4:15pm)---
+Spoke with pt again by phone re: lab draw scheduling for BNP/BMP, pt agreeable to come to lab next week. No new concerns voiced. Reiterated importance of continued tobacco avoidance and reducing secondhand exposure at home.

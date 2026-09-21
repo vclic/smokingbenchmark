@@ -1,0 +1,39 @@
+Pulmonology Resident Note w/ Attending Attestation
+Author: Teresa Alvarez, NP
+Date of Service: 07/31/2023
+
+Patient: Yolanda Adams, F, DOB 1/8/1970 (age 53)
+
+Reason for visit: LCS shared decision-making, discussion re: lung cancer screening, risks/benefits reviewed w/ pt.
+
+HPI: 53 yo F w/ h/o PAD, T2DM, AFib, BPH, and COPD presents today for SDM visit r/t lung ca screening. Pt reports doing reasonably well overall, denies acute SOB today tho endorses baseline DOE c/w known COPD, denies hemoptysis, denies CP, denies fevers/chills, ambulates w/ mild claudication [inaudible] but says it's stable not worsening and her sugars have been running in the 120s-150s per home glucometer she brought a log book that honestly I could barely read the pt writes very small and some entries look crossed out and rewritten several times.
+
+Social Hx: Pt quit drinking alcohol in 2014, denies current EtOH use. Denies illicit drug use.
+
+TOBACCO USE (EHR template):
+  Smoking status: Former smoker
+  Pack-year history: 23 pack-years
+  Quit status: Quit smoking
+  Quit interval: Quit smoking 4 years ago
+  Interested in cessation resources: N/A (already quit)
+
+ROS: Otherwise negative except as above, 10-point ROS reviewed and negative in detail.
+
+Labs/Results reviewed today:
+  HbA1c (07/15/2023): 7.2%
+  Cr (07/15/2023): 1.0 mg/dL
+  K+ (07/15/2023): 4.3 mmol/L
+  INR (07/28/2023): 2.4 (pt on anticoag for AFib)
+  Lipid panel (06/02/2023): LDL 98, HDL 42, TG 150
+
+Exam: Well-appearing woman in NAD, A&Ox3. Lungs w/ mildly diminished breath sounds bilat, no wheezes appreciated today, no crackles. Cardiac: irregularly irregular rhythm noted c/w known AFib, no murmurs appreciated. Ext: mild edema, dorsalis pedis pulses diminished bilat c/w known PAD, no ulcers noted today.
+
+Assessment/Plan:
+1. Lung cancer screening SDM — discussed risks/benefits of screening at length w/ pt including false positives, incidental findings, radiation exposure; pt voiced understanding; will continue discussion at next visit, no imaging ordered today.
+2. COPD — stable, continue current inhaler regimen, reviewed proper technique.
+3. AFib — continue anticoagulation, INR therapeutic today, cont. current dose.
+4. T2DM — A1c slightly above goal, will discuss adjusting regimen w/ PCP.
+5. PAD — continue antiplatelet, cont. supervised walking program.
+6. BPH — stable, no new urinary sx today.
+
+Attending Attestation: I have reviewed and discussed this case with the resident/NP and agree with the assessment and plan as documented above. Dr. R. Chen, MD, Pulmonology.

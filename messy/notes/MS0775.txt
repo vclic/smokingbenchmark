@@ -1,0 +1,52 @@
+NURSE INTAKE
+DOS: 06/12/2025
+Pt: Carlos Gonzales, M, DOB 02/25/1950, age 75
+VS: BP 138/84 P 78 RR 16 T 97.9F SpO2 96% RA Wt 198 lb
+CC: annual wellness visit
+Allergies: NKDA
+Meds reviewed - see chart, no changes reported by pt
+
+SOCIAL HISTORY (per pt report):
+Tob: pt has smoked cigarettes for 55 years, continues to smoke, states he is not ready to quit at this time. Counseled re: cessation resources, pt declined referral today.
+Alc: quit ETOH in 2002, denies current use.
+Lives w/ spouse, retired machinist.
+
+PHYSICIAN PROGRESS NOTE - Elena Markovic, MD
+
+HPI:
+Mr Gonzales is a 75 yo M here for annual wellness visit 06/12/2025. Reports feeling generally well, no chest pain, no SOB at rest, some exertional dyspnea climbing stairs x several months, stable. Sleep reportedly improved on CPAP compliance per pt, wife notes less snoring. No hematuria, no dysuria, no edema noted. Appetite good, no wt loss. He continues to smoke cigarettes, longstanding habit of 55 yrs duration, and when asked about quitting states he is "not ready" at this visit - will revisit at future visits. No new complaints otherwise, ROS reviewed and negative except as noted above.
+
+PROBLEM LIST:
+- N18.30 CKD stage 3 (unspecified)
+- G47.33 Obstructive sleep apnea, on CPAP
+- I10 HTN (outdated - pt reports no longer on tx, needs review)
+- E78.5 Hyperlipidemia
+- Z87.891 personal hx of nicotine dependence (legacy entry, active use per current hx)
+
+PE:
+Gen: well-appearing elderly M, NAD
+HEENT: PERRL, oropharynx clear
+CV: RRR no m/r/g
+Resp: mild exp wheeze bilat bases, no rales
+Abd: soft NT/ND
+Ext: no edema, pulses 2+ symmetric
+Neuro: grossly intact
+
+LABS/RESULTS (reviewed today):
+CMP 06/01/2025: Cr 1.6 (H), eGFR 42, K 4.8, Na 139, BUN 28
+A1c 05/28/2025: 6.1%
+Lipid panel 05/28/2025: TC 178, LDL 96, HDL 42, TG 150
+Urinalysis 06/01/2025: trace protein, no blood
+CXR (last done 2023, per chart, not repeated today)
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 (N18.30) - stable, eGFR 42 similar to prior. Cont current mgmt, avoid nephrotoxic NSAIDs, recheck CMP in 6 mo.
+2. OSA (G47.33) - pt reports improved sleep on CPAP, encourage cont compliance, will d/l machine data next visit.
+3. Tobacco use - pt smokes, 55 yr hx per social hx above, counseled again re: health risks incl CV and renal, pt verbalized understanding but states he is not ready to quit at this time. Offered cessation counseling/pharmacotherapy, pt declined today, will readdress at future visits. Screening for lung cancer was discussed briefly with pt, no imaging ordered today.
+4. HTN (I10) - problem list entry appears outdated, pt denies current tx, will clarify at next visit, BP today 138/84 acceptable.
+5. Hyperlipidemia (E78.5) - lipids stable per above, cont current approach.
+6. Health maintenance - immunizations reviewed and updated per protocol, colon ca screening d/w pt, will follow up.
+
+RTC 6 mo or sooner if concerns. Pt agreeable to plan as discussed.
+
+Elena Markovic, MD

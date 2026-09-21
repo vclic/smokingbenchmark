@@ -1,0 +1,75 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - COPD Follow-up
+Date of Service: 03/11/2025
+Patient: Evelyn Long | DOB: 03/11/1955 | Age: 70 | Sex: F
+Provider: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: COPD f/u, telehealth visit per pt preference given mobility issues.
+
+HPI: Pt is a 70 yo F w/ hx COPD presenting for routine f/u via video visit on her 70th birthday, DOS 03/11/2025. Reports mild increase in dyspnea on exertion over past 2 wks, denies fever, denies increased sputum production, no hemoptysis. Uses albuterol inh prn, approx 1-2x/day. Sleeping ok, no orthopnea. No recent hospitalizations or ED visits. Pt states she has been doing home O2 sat checks, readings in low 90s at rest per pulse ox.
+
+FAMILY HISTORY: Notable for mother w/ COPD, described by pt as a lifelong smoker who was on home oxygen in her later years. No other significant family hx of lung disease reported.
+
+SOCIAL HISTORY: Noncontributory.
+
+PROBLEM LIST:
+1. COPD, unspecified, w/ (acute) exacerbation - J44.1 (active, primary reason for visit)
+2. Benign prostatic hyperplasia w/o LUTS - N40.0 (chronic, outdated entry - pt is female, likely copy-forward error, will need to correct in chart)
+3. GERD - K21.9 (chronic, stable on PPI)
+4. CKD stage 3, unspecified - N18.30 (chronic, stable, last eGFR reviewed below)
+5. Essential HTN - I10 (chronic, stable, listed from prior note, not addressed today)
+6. Vitamin D deficiency - E55.9 (resolved per pt report, outdated entry not removed from list)
+
+[Note: item #2 flagged for review - appears to be carried over in error from template/prior chart merge, will address at next in-person visit.]
+
+CURRENT MEDS (per pt report/pharmacy verification):
+- Albuterol HFA inh 90mcg, 2 puffs q4-6h prn SOB
+- Tiotropium 18mcg inh, 1 cap daily via handihaler
+- Omeprazole 20mg po daily
+- Tamsulosin 0.4mg po qhs (continued despite item #2 discrepancy noted above, pending clarification)
+- Losartan 50mg po daily
+
+ALLERGIES: NKDA
+
+ROS: Constitutional - no fever, no chills, mild fatigue. Resp - as above, mild increase DOE, no wheeze reported by pt at rest. CV - no chest pain, no palpitations, occ ankle swelling noted, stable per pt. GI - occasional reflux sx, controlled on PPI, denies dysphagia. GU - denies dysuria, denies urgency (relevant given item #2 flag above). Neuro - no focal deficits reported. Psych - mood stable, denies SI/HI.
+
+VITALS (per home report/telehealth):
+BP 132/78 (home cuff)
+HR 76
+RR 18
+Temp 97.8F (home therm)
+SpO2 91% RA (home pulse ox, per pt)
+Wt 152 lbs (self-reported, home scale)
+
+EXAM (limited, telehealth):
+Gen - pt appears comfortable, no acute distress, seated in her living room, appropriately engaged.
+Resp - pt able to speak in full sentences, no visible accessory muscle use noted on cam, occasional cough during visit, nonproductive.
+CV - unable to auscultate via telehealth, pt denies chest pain.
+Ext - no visible edema on cam, pt denies significant swelling today.
+
+LABS/RESULTS:
+- CBC (02/14/2025): WBC 7.2, Hgb 12.8, Hct 38.9, Plt 245
+- BMP (02/14/2025): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.4, eGFR 42 (consistent w/ CKD stage 3)
+- ABG not obtained this visit (telehealth, no point of care testing avail)
+- PFTs (last done 11/2024): FEV1 58% predicted, FEV1/FVC ratio 0.61, consistent w/ moderate obstructive pattern
+- CXR (11/2024): hyperinflation c/w COPD, no acute infiltrate, no effusion
+
+ASSESSMENT:
+70 yo F w/ COPD, GERD, CKD stage 3, presenting w/ mild sx worsening, home SpO2 readings borderline low. No signs acute infection or decompensation on this limited telehealth exam.
+
+PLAN:
+1. COPD - continue current inhaler regimen, reinforce proper technique via video demonstration today. Will obtain repeat PFTs at next in-person visit. D/c'd discussion re: possible pulm rehab referral, pt to consider. Low-dose CT lung screening discussed as topic in general terms given pt's age and hx, pt to discuss further w/ PCP for individualized recs; no imaging ordered at this time.
+2. CKD stage 3 - stable, recheck BMP in 3 months, avoid nephrotoxic agents, renal-dose meds reviewed, no changes needed today.
+3. GERD - continue omeprazole, no changes.
+4. BPH entry on problem list (#2) - flagged as likely erroneous/outdated, to be addressed/removed at next visit; tamsulosin use to be clarified w/ pt's PCP given inconsistency.
+5. F/u in-person visit scheduled in 6-8 wks or sooner if sx worsen. Pt educated on red flag sx (worsening SOB, fever, colored sputum, chest pain) to call clinic or seek ED care.
+6. Pt given advice re: home O2 sat monitoring, instructed to call if readings persistently <90%.
+
+Time spent on this telehealth visit: approx 20 min, more than half spent on counseling/coordination of care.
+
+Electronically signed: Owen Fitzgerald, MD
+
+---
+ADDENDUM (later same day, 03/11/2025, 4:47pm):
+Pt's daughter called clinic after visit to clarify home pulse ox readings, states mother's device may be malfunctioning (old unit, possibly inaccurate). Advised daughter to obtain new pulse ox device if possible and recheck readings, call back if persistent low readings <90% on new device. Also clarified w/ pharmacy re: item #2 on problem list (BPH dx) - confirmed this is a documentation error carried over from a prior EHR migration and does not apply to this pt; correction to be made in chart at next visit by care team. No changes to plan otherwise.
+- Owen Fitzgerald, MD

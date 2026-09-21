@@ -1,0 +1,66 @@
+HISTORY AND PHYSICAL - Hospital Discharge Follow-up
+Patient: Lan Wilson, F, DOB 10/31/1960 (age 65)
+Date of Service: 10/31/2025
+Author: Nadia Haddad, MD - Primary Care
+
+CC: f/u s/p hospitalization for pneumonia
+
+HPI: Ms Wilson is a 65 yo F w/ hx of HFrEF, PAD, and gout seen today for post-discharge f/u after admission for community acquired pneumonia. She reports feeling "a little better than in the hospital but still winded going up the stairs". Denies fever, chills, or worsening cough currently. She states "I finished the antibiotics they gave me but I still get short of breath doin chores." No chest pain, no lower extremity edema increase noted by pt. She has been compliant with her HF meds per report, though states she "forgets the water pill sometimes."
+
+Regarding tobacco use, pt was asked directly and stated "I know I should quit but I'm just not ready right now." She reports she quit smoking in 2012 but relapsed in 2014 and has smoked continuously since. Pt currently smokes about half a pack (10 cigarettes) per day, and has done so for 37 years. She remains an active smoker and is not ready to quit at this time; brief counseling provided and cessation resources offered, pt declined referral today.
+
+PMH: HFrEF (EF 30-35% per last echo 2024), PAD (claudication, s/p prior vascular consult), gout (last flare approx 6 mo ago).
+PSH: none significant on file
+Allergies: NKDA
+
+MEDS (per d/c summary):
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Sacubitril/valsartan 24/26mg BID
+- Spironolactone 25mg daily
+- Allopurinol 100mg daily
+- Aspirin 81mg daily
+- Atorvastatin 40mg qhs
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: ~10 cigs/day (half pack per day)
+Duration: 37 years
+Quit attempts: yes - quit 2012, relapsed 2014
+Readiness to quit: Not ready
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: retired, former retail worker
+Living situation: lives w/ husband, 2 story home
+Exercise: Not on file
+
+ROS: Constitutional - denies fever, chills, night sweats. Resp - reports mild dyspnea on exertion, denies hemoptysis. CV - denies chest pain, orthopnea stable per pt. GI - no nausea/vomiting. MSK - denies acute gout flare currently. All other systems reviewed and negative except as noted in HPI.
+
+VITALS: BP 128/76, HR 78, RR 18, Temp 98.2F, SpO2 95% RA, Wt 168 lbs
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing, comfortable
+HEENT: normocephalic, atraumatic, no scleral icterus
+Neck: no JVD appreciated
+CV: RRR, no murmurs/gallops/rubs, no peripheral edema
+Resp: mild bibasilar crackles, improved since discharge, no wheeze
+Abd: soft, nontender, nondistended, +BS
+Ext: PAD noted - dim distal pulses bilat, no ulcers, skin intact, cap refill <3sec
+Skin: no rash
+Neuro: alert & oriented x3, no focal deficits
+
+LABS (reviewed from discharge, no new labs today):
+WBC 8.1, Hgb 12.4, Cr 1.1, BNP 340 (down from 890 at admission)
+
+ASSESSMENT/PLAN:
+1. CAP, resolving - completed abx course, improved on exam, continue supportive care, f/u CXR in 6 wks to document resolution.
+2. HFrEF - euvolemic today, cont current GDMT, reinforce daily weights, low Na diet reviewed.
+3. PAD - stable, cont ASA, encourage walking program as tolerated.
+4. Gout - no active flare, cont allopurinol.
+5. Tobacco use - active smoker, half pack/day x37 yrs, hx of prior quit attempt (2012, relapse 2014). Counseled re: risks of continued smoking esp given HF and PAD; pt states not ready to quit at this visit. Lung cancer screening discussed in general terms given smoking hx; will revisit at future visit. Offered pharmacotherapy (varenicline/NRT) - pt declined today, will readdress.
+6. Routine health maintenance reviewed, pt due for influenza vaccine - administered today.
+
+F/u in 4 weeks or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+Electronically signed: Nadia Haddad, MD

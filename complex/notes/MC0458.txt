@@ -1,0 +1,63 @@
+VASCULAR SURGERY - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Anita Patel, MD (Resident); Attending attestation to follow
+Date of Service: 11/24/2024
+
+PATIENT: Gloria Nelson
+DOB: 10/5/1964 (age 60)
+MRN: 00458213
+Sex: F
+
+CC: F/u peripheral artery disease (PAD) eval, worsening claudication sx.
+
+HPI: Pt is a 60 yo female w/ hx PAD, GERD, HFrEF, BPH (dictation error carried in template - likely copy-forward from male pt template, disregard), HTN, and obesity, presenting today, 11/24/2024, for f/u vascular eval. She reports intermittent claudication in b/l calves, worse w/ ambulation >2 blocks, improves w/ rest. No rest pain, no non-healing ulcers noted today. She c/o some fatigue and mild SOB on exertion, consistent w/ known HFrEF. Denies chest pain, palpitations, or syncope. She endorses medication adherence though states she sometimes 4gets her evening dose of furosemide, will [inaudible] reeducate on regimen and importance of compliance she says her legs feel tight most nights and she elevates them for relief which she things helps somewhat.
+
+SOCIAL HISTORY: Pt is a lifelong non-smoker, denies any hx of tobacco use of any kind. She quit drinking alcohol in 2000 and has remained abstinent since. No illicit drug use reported. Lives at home w/ spouse, ambulates independently w/ occasional use of cane for longer distances.
+
+--- BEGIN COPY-FORWARD TEXT FROM PRIOR VISIT DATED 06/12/2023 (retained in error, not reflective of current encounter) ---
+Pt presents for routine PAD f/u. Denies rest pain, denies ulcers, denies gangrene. ABI performed in office today showed mild-moderate dz b/l. Pt counseled on risk factor modification including diet, exercise, and BP control. Pt was reeducated on importance of foot care given PAD dx, told to inspect feet daily for any breaks in skin integrity or discoloration. Pt verbalized understanding. Will continue cilostazol as tolerated, f/u in 6 months or sooner if worsening sx. Pt's HFrEF appears stable on current regimen, no e/o decompensation today, no lower extremity edema appreciated, lungs clear to auscultation bilaterally. GERD sx well controlled on PPI, pt denies reflux, denies dysphagia. BPH sx stable, pt denies urinary retention, denies hematuria, f/u w/ urology as scheduled. Pt's obesity addressed, counseled on weight loss strategies including low-impact exercise given PAD limitations, referred to nutrition. HTN well controlled on current antihypertensive regimen, BP today 128/76. Plan: continue current meds, f/u 6 months, ABI q1yr, pt to call if worsening claudication or new ulcers/wounds.
+--- END COPY-FORWARD TEXT ---
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss
+CV: + claudication as above, denies chest pain, denies orthopnea, denies PND
+Resp: denies cough, denies wheeze, mild exertional dyspnea as noted
+GI: denies n/v, denies abd pain, occasional heartburn well controlled on PPI
+GU: denies dysuria, denies hematuria, mild nocturia x1-2/night c/w BPH
+MSK: denies joint pain, denies swelling
+Skin: denies rashes, denies non-healing wounds
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, Wt 210 lb, BMI 34.2
+General: well-appearing female, NAD, obese habitus
+CV: RRR, no m/r/g appreciated, distal pulses diminished b/l dorsalis pedis and posterior tibial, 1+ b/l
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS, no HSM
+Ext: no edema, skin intact, no ulcers or breakdown noted, cap refill <3 sec b/l
+Skin: no discoloration, no lesions
+Neuro: grossly intact, sensation intact to light touch b/l LE
+
+PROBLEM LIST:
+1. Peripheral artery disease - I73.9
+2. GERD - K21.9
+3. Heart failure with reduced ejection fraction - I50.22 (outdated entry, EF last documented 2022, needs updated echo)
+4. Benign prostatic hyperplasia - N40.0 (retained on problem list in error - pt is female, likely from template import, to be removed by attending)
+5. Essential hypertension - I10
+6. Obesity - E66.9
+7. Alcohol use, in remission - Z86.34 (hx quit 2000)
+
+LABS/IMAGING REVIEWED:
+Recent CBC WNL, BMP WNL except mildly elevated Cr 1.2 (baseline), lipid panel showed LDL 118, HDL 42, TG 160. Prior ABI from 2023 showed mild-moderate PAD b/l, repeat ABI ordered today for updated staging given progression of sx.
+
+ASSESSMENT/PLAN:
+1. PAD - sx appear to be progressing based on pt report of decreased walking distance before onset of claudication. Will obtain updated ABI and consider vascular imaging (arterial duplex) if ABI shows worsening. Continue cilostazol, reinforce importance of supervised exercise program, risk factor modification reinforced today. Screening for lung malignancy was discussed given overall vascular risk profile and age, though pt's smoking status (lifelong non-smoker) makes this less of a priority discussion point; deferred further w/u at this time pending further risk stratification per PCP.
+2. GERD - stable, continue current PPI regimen, no changes today.
+3. HFrEF - clinically stable today, no signs of decompensation, will defer to cardiology for ongoing mgmt, recommend updated echo given outdated documentation on problem list.
+4. HTN - well controlled today at 132/78, continue current regimen.
+5. Obesity - counseled again on weight loss, dietary modification, referral to nutrition reiterated, low-impact exercise recommended given PAD limitations.
+6. Alcohol use, remote hx - pt quit drinking alcohol in 2000, remains abstinent, no current concerns, will continue to monitor.
+7. BPH entry on problem list to be corrected/removed - documentation error, pt is female, no BPH.
+
+F/u in vascular surgery clinic in 3 months or sooner if worsening sx, new ulcers, or rest pain. Pt verbalized understanding of plan and agreed to f/u.
+
+---
+ATTENDING ATTESTATION: I have personally seen and examined the patient with the resident, Dr. Patel, and discussed the assessment and plan as documented above. I concur with the findings and plan as written, with correction to problem list re: BPH entry to be removed as it does not apply to this patient. - Dr. R. Alvarez, Attending Vascular Surgery, 11/24/2024

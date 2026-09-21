@@ -1,0 +1,52 @@
+NURSE INTAKE / PULMONOLOGY FOLLOW-UP
+DOS: 09/22/2024
+Patient: Robert Taylor, M, DOB 09/22/1962 (age 62)
+Provider: Quentin Hale, PA-C
+
+CC: f/u after ED visit for COPD exacerbation
+
+VITALS: BP 138/86, HR 92, RR 20, SpO2 91% RA, Wt 248 lb, BMI 38.4
+
+NURSE NOTE: Pt seen in ED 09/15/2024 for acute dyspnea/wheeze, treated with nebs, steroids, azithromycin, d/c'd home, now here for f/u per pulm clinic protocol. Pt reports mild improvement in cough, still using albuterol inhaler qid prn. Denies fever/chills. c/o fatigue, poor sleep (known OSA, uses CPAP nightly per report though compliance unclear).
+
+===== COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/11/2022 (retained per dept template, not all current) =====
+HPI: Pt is a 60 y/o M with h/o CAD s/p stent 2015, HTN, hyperlipidemia, presenting for routine f/u. Pt denies CP, palpitations, or syncope. Reports occasional leg swelling. Gout flare last month resolved with colchicine. TSH last checked 2021 WNL on levothyroxine. Sleep study 2019 showed severe OSA, AHI 42, on CPAP. Denies ETOH use, denies illicit drug use. Reviewed med list, no changes. Plan: continue current regimen, f/u 1 yr, routine labs ordered.
+===== END COPIED TEXT =====
+
+SOCIAL HISTORY (updated today): Pt lives w/ wife, retired machinist. Previously quit smoking in 2008 but relapsed in 2010. Denies current ETOH. No illicit drugs.
+
+ROS: Resp - cough w/ some whitish sputum, mild dyspnea on exertion. CV - no CP, occ ankle edema. GI - unremarkable. GU - unremarkable. MSK - no active gout sx today. Endo - no polyuria/polydipsia.
+
+EXAM:
+Gen: obese male, NAD, mildly tachypneic
+HEENT: unremarkable
+Neck: no JVD, no LAD
+Lungs: diffuse expiratory wheeze, prolonged expiratory phase, decreased breath sounds bibasilar
+CV: RRR, no m/r/g, trace peripheral edema
+Abd: obese, soft, NT/ND
+Ext: no clubbing/cyanosis, trace pitting edema b/l
+
+LABS/RESULTS:
+09/16/2024 CBC: WBC 9.8, Hgb 14.1, Hct 42.3, Plt 245
+09/16/2024 BMP: Na 138, K 4.1, Cl 101, CO2 26, BUN 18, Cr 1.0, Gluc 104
+09/16/2024 BNP: 88 (nl)
+09/10/2024 TSH: 2.1 (on levothyroxine 75mcg)
+09/10/2024 Uric acid: 6.8
+CXR 09/15/2024 (ED): hyperinflation, no acute infiltrate, no effusion
+PFTs (from prior workup 06/2023): FEV1/FVC 0.58, consistent w/ moderate obstruction
+
+ASSESSMENT/PLAN (Quentin Hale, PA-C):
+62 y/o M with COPD (recent exacerbation, ED visit 09/15/2024), OSA on CPAP, CAD, obesity, gout, hypothyroidism, presenting for pulm f/u.
+
+1. COPD exacerbation, recovering - Pt reports he currently smokes cigarettes, and per detailed hx, smokes 2 packs per day for 48 years. This remains the primary driver of his disease burden. Counseled extensively on smoking cessation today, discussed nicotine replacement options and referral to tobacco cessation program; pt states he is "thinking about it." Continue albuterol/ipratropium neb prn, start tiotropium daily, complete steroid taper as started in ED, f/u in 4 wks or sooner if worsening sx. Discussed lung cancer screening as a topic to consider with PCP; will defer further workup discussion to that visit.
+2. OSA - continue CPAP, encourage compliance, download data at next sleep clinic visit.
+3. CAD - stable, continue ASA 81mg, atorvastatin, metoprolol succinate.
+4. Obesity - discussed weight mgmt, dietary referral offered, pt declined at this time.
+5. Gout - no active flare, continue allopurinol, uric acid 6.8 today, stable.
+6. Hypothyroidism - TSH 2.1, continue levothyroxine 75mcg daily.
+
+Return to clinic in 4 weeks, sooner if increased dyspnea, fever, or hemoptysis. Pt verbalized understanding of plan.
+
+---
+ADDENDUM (later same day, 09/22/2024, 16:40) - Q. Hale, PA-C:
+Pt called clinic nurse line this afternoon requesting clarification on inhaler instructions; reviewed proper technique with spacer over phone with pt and wife. Also confirmed pt does have albuterol refills available at pharmacy through end of month. No new complaints reported at this time. Will continue as planned above.

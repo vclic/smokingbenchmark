@@ -1,0 +1,24 @@
+Pulmonology Progress Note
+Patient: George Perez
+DOB: 07/14/1945 (Age: 79)
+Date of Service: 12/15/2024
+Author: Quentin Hale, PA-C
+Visit Type: Lung cancer screening shared decision-making visit
+
+HPI: Mr. Perez is a 79 year old male presenting today for discussion regarding lung cancer screening options as referred by his PCP the patient states "I just want to know what my options are doc" and reports no new respiratory complaints, denies hemoptysis, denies unintentional weight loss, he does note occasional wheeze with cold air exposure which he attributes to his known asthma, uses albuterol inhaler PRN with good relief, sleep and appetite reportedly stable, mood described as "okay, hanging in there" per patient, he was accompanied today by his daughter who assisted with history [inaudible] portion of conversation regarding prior imaging.
+
+Past Medical History: Asthma, hyperlipidemia, depression.
+
+Social History: Patient reports drinking alcohol socially, approximately 1-2 glasses of wine per week. He lives alone in a single-story home, has a daughter nearby who checks in regularly. Retired postal worker, worked for the postal service for over 30 years prior to retirement.
+
+Review of Systems: Constitutional: denies fever, chills, unintentional weight loss. HEENT: denies vision changes, denies hearing loss. Cardiovascular: denies chest pain, denies palpitations, denies orthopnea. Respiratory: reports occasional wheeze as above, denies cough, denies dyspnea at rest. GI: denies nausea, denies vomiting, denies abdominal pain. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies swelling. Neuro: denies headache, denies dizziness. Psych: denies SI/HI, mood stable per patient report. All other systems reviewed and negative.
+
+Physical Exam: Vitals: BP 132/78, HR 74, RR 16, SpO2 96% on room air, Temp 98.2F. General: well-appearing, no acute distress. Lungs: mild expiratory wheeze bilaterally, no rales, no rhonchi. CV: RRR, no murmurs. Abdomen: soft, non-tender, non-distended. Extremities: no edema. Skin: no lesions noted.
+
+Labs/Results: CBC (12/10/2024): WBC 6.8, Hgb 13.9, Plt 245. CMP (12/10/2024): Glucose 101, Creatinine 1.0, eGFR 72. Lipid panel (11/02/2024): LDL 132, HDL 44, Trig 150.
+
+Medications: Albuterol HFA inhaler PRN, Fluticasone/Salmeterol 250/50 one puff BID, Atorvastatin 40mg daily, Sertraline 100mg daily, Aspirin 81mg daily, Vitamin D3 2000 IU daily.
+
+Assessment/Plan: Shared decision-making discussion held today regarding lung cancer screening; risks and benefits reviewed with patient and daughter, further imaging discussed as appropriate, asthma appears well-controlled on current regimen, continue current inhalers, follow up in 6 months or sooner if symptoms worsen.
+
+Addendum (later same day, 12/15/2024, 4:47pm): Spoke with patient's daughter by phone after visit to clarify prior chest x-ray records from outside facility, records requested and pending review, no changes to plan at this time.

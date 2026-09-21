@@ -1,0 +1,44 @@
+GERIATRICS H&P
+Patient: Roger Wood | DOB: 5/12/1947 (age 76) | DOS: 07/05/2023
+Author: Julia Brennan, MD
+
+HPI: 76 yo M here for geriatric assessment, accompanied by daughter. Pt reports overall stable health, mild fatigue, no new falls. HTN and GERD both stable on current regimen. Pt notes he continues to smoke despite prior counseling at multiple visits; states he has tried to cut back without success.
+
+--- COPIED FORWARD FROM NOTE DATED 2/5/2020 ---
+SOCIAL HX (as documented 2/5/2020): Tobacco use: current smoker. Pt counseled extensively on cessation resources; declined referral to quit-line at that time. Alcohol: occasional. Housing: lives alone in single-story home, uses cane for ambulation. Diet: low-salt diet reviewed. [Note: this block reflects status as of 2/5/2020 visit and is retained per template copy-forward function.]
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (EHR TEMPLATE - CURRENT VISIT):
+Tobacco: Current smoker, 5 cigs/day x 51 years
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Alone
+Exercise: Not on file
+
+ROS: Denies chest pain, denies hemoptysis, denies unintentional weight loss. Occasional reflux sx, controlled with PPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 74, RR 16, SpO2 96% RA
+Gen: NAD, appears stated age
+CV: RRR, no murmurs
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND
+Ext: no edema
+Neuro: grossly intact, gait steady with cane
+
+PROBLEM LIST (w/ ICD-10):
+- Essential hypertension (I10) - active
+- GERD (K21.9) - active
+- Tobacco use disorder (Z72.0) - active
+- Osteoarthritis, knee (M17.9) - outdated, resolved per pt report
+- Vitamin D deficiency (E55.9) - outdated, last addressed 2019
+
+ASSESSMENT/PLAN:
+1. HTN - stable, continue lisinopril, BP well controlled today.
+2. GERD - stable on PPI, continue, no alarm sx.
+3. Tobacco use - pt continues to smoke despite counseling; discussed cessation strategies again today including nicotine replacement and referral to counseling; discussed lung cancer screening in general terms as part of preventive care discussion. Pt to consider options and follow up.
+4. Health maintenance - reviewed immunizations, updated as needed.
+5. Geriatric assessment - functional status stable, no acute concerns. F/u in 3 months or sooner if needed.
+
+Electronically signed: Julia Brennan, MD, Geriatrics, 07/05/2023

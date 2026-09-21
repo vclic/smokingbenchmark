@@ -1,0 +1,62 @@
+RESIDENT NOTE - Geriatrics
+DOS: 07/07/2024
+Patient: Raymond Patel M DOB 2/26/1973 (age 51)
+Author: Steven Park MD (resident); attending attestation below
+
+CC: geriatric assessment f/u multiple chronic conditions
+
+HPI: Pt presents for comprehensive geriatric assessment referral from PCP. Reports fatigue, occasional dizziness, joint pain c/w gout flares intermittently. No new falls no acute distress today. Meds reviewed pt states adherent mostly, occasional missed doses of BP med. BPH sx stable, nocturia x1-2. Afib dx known on anticoag, denies palpitations currently. Asthma sx well controlled uses rescue inhaler rarely.
+
+Social History: noncontributory.
+
+Family History: Mother had COPD, was a lifelong smoker; passed from resp failure. Father hx CAD.
+
+--- Copied forward from visit dated 11/14/2022 ---
+Pt seen for routine f/u gout BPH HTN afib asthma. Uric acid mgmt reviewed pt on allopurinol tolerating well no recent flares reported at that time. BPH: on tamsulosin nocturia improved. HTN: BP borderline elevated at that visit 138/86 continued lisinopril. Afib: on apixaban INR NA (DOAC) rate controlled with metoprolol. Asthma: albuterol PRN no ICS needed at that time, spirometry stable. Pt counseled on diet exercise weight mgmt. Labs from that date reviewed CBC WNL BMP WNL LFTs WNL uric acid 6.2. Plan at that time continue current meds f/u 6 months.
+--- end copied forward ---
+
+ROS: Constitutional: denies fever chills wt loss. HEENT: neg. Resp: no cough no wheeze today. CV: no chest pain no palpitations. GI: neg. GU: nocturia as above. MSK: occasional big toe pain resolved w NSAID. Neuro: no focal deficits. Psych: mood stable denies depression.
+
+PMH/Problem List:
+M10.9 Gout, unspecified
+N40.1 BPH with LUTS
+I10 Essential hypertension
+I48.91 Atrial fibrillation, unspecified
+J45.909 Asthma, unspecified, uncomplicated
+E78.5 Hyperlipidemia (outdated - resolved per pt report, not on statin currently)
+Z79.899 long term drug therapy (anticoag)
+
+Meds: Allopurinol, Tamsulosin, Lisinopril, Apixaban, Metoprolol, Albuterol PRN
+
+Allergies: NKDA
+
+Exam:
+Vitals: BP 132/84 HR 78 irregular RR 16 T 98.2 Wt 189 lb
+Gen: NAD alert oriented x3
+HEENT: PERRL, EOMI, oropharynx clear
+Neck: no JVD no lymphadenopathy
+CV: irregularly irregular rhythm no murmur
+Resp: clear to auscultation bilat no wheeze rales
+Abd: soft nontender nondistended
+Ext: no edema, no toe erythema today
+Neuro: CN II-XII grossly intact, gait steady
+Skin: no rash
+
+Geriatric Assessment:
+Functional status: independent ADLs IADLs
+Cognition: MMSE not formally done today, no c/o memory issues, pt oriented
+Fall risk: low, no recent falls
+Polypharmacy review: 5 meds currently, reviewed for interactions none significant found
+Nutrition: adequate appetite no wt loss
+Mood: PHQ2 negative
+
+Assessment/Plan:
+1. Gout - stable on allopurinol continue current dose f/u uric acid level in 3 mo
+2. BPH - stable sx continue tamsulosin
+3. HTN - well controlled today continue lisinopril reinforce adherence
+4. Afib - rate controlled continue apixaban metoprolol, no sx today, f/u cards as scheduled
+5. Asthma - well controlled continue albuterol PRN, no ICS indicated currently
+6. Health maintenance - lung cancer screening discussed as part of general preventive counseling, immunizations reviewed pt due for influenza vaccine will administer today
+7. Return to clinic in 3 months or sooner if concerns
+
+Attestation: I Steven Park MD have seen and examined patient with resident. Plan discussed and agreed upon. Attending: Dr. A. Whitfield reviewed and cosigned.

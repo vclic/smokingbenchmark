@@ -1,0 +1,58 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Rachel Goldberg, MD
+Date of Service: 06/10/2024
+Patient: William Jackson, M, DOB 06/10/1947 (age 77)
+
+CHIEF COMPLAINT: chest pain eval, telehealth f/u
+
+HPI: Pt is a 77 yo M with h/o afib, CKD3, hypothyroidism, osteoporosis, obesity, presenting via video visit for eval of intermittent chest discomfort x 2 wks. Pt states, "It feels like a tight band across my chest when I climb the stairs, then it goes away when I sit down." No radiation to arm reported today, though pt notes "sometimes my jaw feels funny too." Denies syncope. Reports occasional palpitations, consistent with known afib, states "I feel my heart flutter sometimes, especially at night." No fevers, chills, or recent illness. Pt on anticoagulation per record, adherence reportedly good per pt report ("I take my pills every morning without fail, doc"). No leg swelling noted by pt though says "my ankles do look a bit puffy by end of day."
+
+SOCIAL HISTORY: Pt smoked approx a quarter pack (about 5 cigarettes) per day for 33 years, then about 8 cigarettes per day for the next 25 years up to now. Pt continues to smoke despite counseling. Denies illicit drug use. Reports rare alcohol use, occasional beer on weekends.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats, unintentional weight loss. HEENT: denies vision changes, hearing loss, sore throat. CV: as above, positive for chest tightness and palpitations, denies orthopnea, denies PND. Resp: denies cough, denies hemoptysis, denies dyspnea at rest. GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain. GU: denies dysuria, hematuria. MSK: chronic low back pain, stable, no new joint pain. Skin: denies rash, denies new lesions. Neuro: denies headache, denies focal weakness, denies numbness/tingling. Psych: denies depression, denies anxiety. Endo: denies polyuria, polydipsia, heat/cold intolerance. Heme: denies easy bruising, denies bleeding.
+
+PHYSICAL EXAM (limited, via telehealth, self-reported vitals from home BP cuff):
+Vitals: BP 138/82 (home cuff), HR 78 irregular per pt report, RR 16, Temp 97.8F (oral, home thermometer), SpO2 96% RA (home pulse ox), Wt 224 lb.
+General: pt appears comfortable, no acute distress noted on video, conversant and appropriate.
+HEENT: no visible distress, no obvious JVD appreciated on camera.
+CV: unable to auscultate via telehealth; pt reports no current palpitations during visit.
+Resp: no visible respiratory distress, no accessory muscle use noted.
+Abd: not assessed (telehealth).
+Extremities: pt shows camera to lower legs, mild bilateral ankle edema noted on visual inspection, 1+ pitting reported by pt.
+Skin: no rashes visible on camera.
+Neuro: alert, oriented x3, speech clear, no facial droop noted.
+
+PROBLEM LIST (per chart, some entries outdated):
+1. I48.91 - Atrial fibrillation, unspecified
+2. N18.3 - Chronic kidney disease, stage 3
+3. E03.9 - Hypothyroidism, unspecified
+4. M81.0 - Osteoporosis without current pathological fracture
+5. E66.9 - Obesity, unspecified
+6. I10 - Essential hypertension (dc'd 2021, home BP monitoring only, kept for legacy billing purposes)
+7. M54.5 - Low back pain, chronic
+8. Z87.891 - Personal history of nicotine dependence (note: pt remains active smoker, dx to be updated)
+
+MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Levothyroxine 75 mcg PO daily
+4. Alendronate 70 mg PO weekly
+5. Atorvastatin 40 mg PO daily
+6. Vitamin D3 2000 IU PO daily
+7. Calcium carbonate 600 mg PO BID
+8. Furosemide 20 mg PO daily PRN edema
+9. Omeprazole 20 mg PO daily
+
+ASSESSMENT/PLAN:
+1. Chest pain, exertional, concerning for angina equivalent in setting of known afib - will obtain outpt stress test, continue current cardiac meds, pt advised to call/go to ER if worsening or at rest chest pain, jaw pain, or SOB.
+2. Atrial fibrillation - rate appears controlled per pt report, continue metoprolol and apixaban, will check EKG and TSH at next in-person visit.
+3. CKD stage 3 - stable per last labs on file, monitor renal function with routine labs, avoid nephrotoxic agents.
+4. Hypothyroidism - continue levothyroxine, recheck TSH at next visit.
+5. Osteoporosis - continue alendronate, calcium, vitamin D.
+6. Obesity - discussed diet and activity as tolerated given cardiac symptoms.
+7. Tobacco use - counseled extensively today on smoking cessation given ongoing cardiovascular risk; pt continues to smoke despite this counseling. Discussed nicotine replacement options and referral to cessation program; pt declined at this time. Lung cancer screening discussed as a general topic for future consideration with PCP.
+8. Peripheral edema - mild, likely multifactorial (CKD, obesity), will trial low-dose furosemide PRN, monitor.
+
+Follow-up: in-person visit in cardiology clinic in 4-6 weeks, sooner if symptoms worsen. Pt verbalized understanding of plan. Total time spent on this telehealth encounter today, including chart review, counseling, and documentation, was approximately 25 minutes.
+
+Electronically signed: Rachel Goldberg, MD, Cardiology, 06/10/2024

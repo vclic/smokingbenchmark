@@ -1,0 +1,80 @@
+Cardiology Progress Note
+
+Patient: GREEN, Curtis    MRN: 29638153
+DOB: 07/21/1961    Age: 62 y.o.    Sex: Male
+Date of Service: 08/23/2023    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Curtis Green is a 62 y.o. male who presents for atrial fibrillation follow-up.
+Occasional palpitations lasting minutes. No bleeding on anticoagulation.
+
+Past Medical History:
+Diagnosis	Date
+• Prior ischemic stroke
+• HTN
+• Atrial fibrillation
+• COPD, GOLD 2
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2014)
+• Appendectomy (2020)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diltiazem ER 120 mg daily
+• clopidogrel 75 mg daily
+• losartan 100 mg daily
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA 2 puffs q4-6h PRN
+• hydrochlorothiazide 25 mg daily
+• rivaroxaban 20 mg daily
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 1.5 PPD x34y
+Social History Narrative
+  Married, lives with wife.
+  Works as a farmer.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 157/69 (BP Location: Left arm, Patient Position: Sitting) | Pulse 99 | Temp 97.8 °F (Oral) | Resp 14 | Ht 5' 6" | Wt 162 lb | SpO2 92% | BMI 26.12 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 3. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. COPD, GOLD 2
+   No exacerbations since last visit. Continue maintenance inhaler.
+
+RTC 1 month.
+
+Electronically signed by Isaac Moreno, PA-C on 08/23/2023

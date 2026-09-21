@@ -1,0 +1,83 @@
+Adult Medicine Office Visit
+
+Patient: BUTLER, Jose    MRN: 38046960
+DOB: 07/11/1960    Age: 65 y.o.    Sex: Male
+Date of Service: 04/09/2026    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Jose Butler is a 65 y.o. male who presents for routine follow-up of chronic conditions.
+Doing okay overall. Asks about refills.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• BPH with LUTS
+• CAD	2011
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• rosuvastatin 20 mg daily
+• ezetimibe 10 mg daily
+• tamsulosin 0.4 mg nightly
+• metoprolol succinate 25 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Social drinker.
+  No IVDU.
+
+Family History
+Mother - dementia, d. 84. Father - prostate cancer.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 118/79 (BP Location: Right arm, Patient Position: Sitting) | Pulse 74 | Temp 98.5 °F (Oral) | Resp 14 | Ht 5' 9" | Wt 175 lb | SpO2 99% | BMI 25.88 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. CAD
+   Stable. Continue secondary prevention.
+2. Hyperlipidemia
+   Continue statin. Lipid panel due.
+3. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+
+f/u 12 mo
+
+Electronically signed by Quentin Hale, PA-C on 04/09/2026

@@ -1,0 +1,59 @@
+GERIATRIC ASSESSMENT NOTE
+Date of Service: 01/10/2025
+Author: Farah Siddiqui, MD (Resident) — attending attestation below
+
+PATIENT: William Barnes
+DOB: 01/10/1959 (66 yo M today, coincidentally his birthday)
+
+CC: Comprehensive geriatric assessment, f/u CKD3 and AFib.
+
+HPI: Pt seen today for annual geriatric eval. Lives independently, wife assists w/ meds. No new falls. Reports fatigue, stable. Denies chest pain, palpitations well-controlled on current rate control regimen. No dysuria, no edema currently.
+
+Social Hx:
+- Tobacco: Former smoker. Hx of 1 pack per day from age 21 until quitting at age 46. Denies current use, denies vaping.
+- Alcohol: Quit drinking alcohol in 2017; denies current use.
+- Lives w/ spouse, retired postal worker.
+
+PMH/Problem List (ICD-10):
+1. CKD stage 3 (N18.3) - stable, followed by nephrology.
+2. Atrial fibrillation (I48.91) - on anticoagulation, rate-controlled.
+3. Hyperlipidemia (E78.5) - outdated entry, pt reports resolved per PCP 2021, unclear if still active dx.
+4. GERD (K21.9) - old problem, not addressed today.
+5. s/p appendectomy (Z87.898) - historical.
+
+MEDICATIONS: Apixaban 5mg BID, metoprolol succinate 50mg daily, atorvastatin 20mg qhs, omeprazole 20mg daily.
+
+ALLERGIES: NKDA.
+
+ROS: Denies dyspnea, denies hematuria, denies leg swelling. + occasional fatigue. Otherwise neg per systems reviewed.
+
+EXAM:
+Vitals: BP 132/78, HR 68 irreg irreg, RR 16, Temp 97.8F, Wt 178 lb, BMI 27.2
+Gen: NAD, well-appearing elderly male.
+CV: Irregularly irregular rhythm, no murmurs appreciated.
+Resp: CTAB, no wheezes/rales.
+Abd: soft, NT/ND.
+Ext: no edema, pulses 2+ throughout.
+Neuro: A&Ox3, gait steady w/o assistive device.
+
+LABS/RESULTS (recent):
+- 12/28/2024: Cr 1.5 mg/dL (baseline), eGFR 48 mL/min/1.73m2
+- 12/28/2024: K 4.6 mmol/L
+- 12/28/2024: INR n/a (on DOAC)
+- 11/15/2024: TSH 2.1 mIU/L, WNL
+- 12/28/2024: Hgb 13.2 g/dL
+
+ASSESSMENT/PLAN:
+66M w/ CKD3, AFib, former smoker (quit at 46), former EtOH use (quit 2017), here for geriatric assessment.
+
+1. CKD3 - stable, continue current mgmt, recheck labs in 3 months, avoid nephrotoxic agents.
+2. AFib - continue apixaban, rate controlled on metoprolol, will obtain EKG today.
+3. Tobacco hx - counseled on continued abstinence, reinforced benefit of having quit; discussed general lung health screening topics in broad terms without specific recommendation today.
+4. Alcohol - abstinent since 2017, continue to encourage.
+5. Health maintenance - up to date per chart review, will verify immunizations.
+6. Functional status - independent in ADLs, no fall risk identified today.
+
+F/u in 3 months or sooner if symptoms change.
+
+ATTESTATION: I have personally seen and evaluated the patient with Dr. Siddiqui. I agree with the assessment and plan as documented above.
+— Attending Physician, Geriatrics

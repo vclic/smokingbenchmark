@@ -1,0 +1,92 @@
+NURSE INTAKE
+Date of Service: 03/04/2023
+Patient: Harold Jenkins  DOB: 03/04/1967  Age: 56 y/o male
+Visit type: Lung cancer screening shared decision-making visit, Pulmonology
+Vitals: BP 138/86  HR 78  RR 16  Temp 98.2F  SpO2 95% RA  Wt 194 lb  Ht 70in  BMI 27.8
+Chief complaint: here for LCS SDM visit per referral from PCP, pt reports occasional dyspnea on exertion, no chest pain, no hemoptysis today
+Allergies: NKDA
+Meds reviewed with patient (see full list below)
+
+PHYSICIAN PROGRESS NOTE - Laura Castellano, FNP-C
+
+HPI:
+Mr Jenkins is a 56 y/o male with hx of COPD, asthma, PAD, gout, GERD who presents today for shared decision making regarding lung cancer screening. He was referred by his PCP given his smoking hx (see SH below) and age. He denies new cough, denies weight loss, denies fevers/chills. Reports baseline dyspnea on exertion c/w known COPD, uses albuterol prn with some relief. No recent hospitalizations, last COPD exacerbation approx 8 months ago treated w/ prednisone taper and azithromycin as outpt. PAD stable, ambulates without claudication at usual pace, has f/u with vascular surgery separately. Gout last flare several months ago, currently asymptomatic. GERD sx well controlled on PPI, occasional breakthrough heartburn after spicy foods.
+
+Pt states he understands the purpose of todays visit is to discuss risks/benefits of low dose CT screening for lung cancer given his smoking history, and screening options were discussed at length including potential for false positives, incidental findings, and radiation exposure. He had several questions which were addressed.
+
+Social History:
+Tobacco: Patient smoked about half a pack (approx 10 cigarettes) per day for 17 years, then cut back to about a quarter pack (approx 5 cigarettes) per day for 16 years and continues to smoke at that reduced rate currently. He states he still smokes and is not ready to quit at this time, though he is aware of cessation resources. Denies vaping/e-cigs. Alcohol: occasional beer on weekends, denies heavy use. Denies illicit drug use. Lives with spouse, retired machinist, prior occupational exposure to metal dust noted in old chart but not verified today.
+
+Review of Systems:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+Eyes: denies vision changes
+ENT: denies sore throat, denies nasal congestion
+Cardiovascular: denies chest pain, denies palpitations, + occasional leg cramping with ambulation (known PAD)
+Respiratory: + chronic cough occasionally productive of clear sputum, + DOE as above, denies hemoptysis, denies wheeze at rest
+GI: + occasional heartburn, denies nausea, denies vomiting, denies blood in stool
+GU: denies dysuria, denies hematuria
+Musculoskeletal: + intermittent joint pain c/w gout hx, currently asymptomatic
+Skin: denies rash
+Neuro: denies headache, denies dizziness, denies numbness/tingling
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative
+
+Physical Exam:
+General: well-developed, well-nourished male, NAD, alert and oriented x3
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear
+Neck: supple, no JVD, no lymphadenopathy, no thyromegaly
+Cardiovascular: RRR, no murmurs/rubs/gallops, distal pulses diminished bilaterally in lower extremities c/w known PAD
+Respiratory: mild expiratory wheeze bilaterally, no rales, no rhonchi, no accessory muscle use, symmetric chest expansion
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds
+Extremities: no edema, mild cool distal extremities bilaterally, no ulceration
+Skin: warm and dry except distal LE as noted, no rashes or lesions
+Neuro: cranial nerves II-XII grossly intact, motor strength 5/5 throughout
+Psych: mood and affect appropriate
+
+Labs/Results:
+CBC (02/20/2023): WBC 7.1, Hgb 14.2, Hct 42.1, Plt 238
+BMP (02/20/2023): Na 139, K 4.3, Cl 101, CO2 25, BUN 16, Cr 0.9, Glu 98
+Uric acid (01/15/2023): 7.8 mg/dL (mildly elevated, gout hx)
+Spirometry (11/2022): FEV1 68% predicted, FEV1/FVC 0.64, consistent with moderate obstructive pattern, improved w/ bronchodilator
+ABI (10/2022): right 0.72, left 0.78, consistent with mild-moderate PAD
+
+Medication List (reviewed and reconciled today):
+1. Albuterol HFA inhaler 90mcg, 2 puffs q4-6h prn SOB/wheeze
+2. Tiotropium 18mcg inhaler, 1 puff daily
+3. Fluticasone/salmeterol 250/50 disc, 1 puff BID
+4. Omeprazole 20mg PO daily
+5. Allopurinol 300mg PO daily
+6. Colchicine 0.6mg PO PRN gout flare
+7. Clopidogrel 75mg PO daily (PAD)
+8. Atorvastatin 40mg PO qhs
+9. Aspirin 81mg PO daily
+10. Cilostazol 100mg PO BID (PAD claudication)
+11. Multivitamin daily
+
+Problem List:
+- J44.9 COPD, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- I73.9 Peripheral artery disease
+- M10.9 Gout, unspecified
+- K21.9 GERD without esophagitis
+- Z87.891 Personal history of nicotine dependence (outdated entry - pt is current smoker, to be updated)
+- E78.5 Hyperlipidemia (chart carried forward, chronic)
+
+Assessment/Plan:
+56 y/o male w/ COPD, asthma, PAD, gout, GERD presenting for lung cancer screening SDM visit.
+
+1. Tobacco use/lung ca screening: Extensive shared decision-making discussion held today regarding low-dose CT lung screening given significant smoking hx as detailed in social history above. Discussed benefits of early detection versus risks including false positives, unnecessary procedures, incidental findings, and cumulative radiation exposure. Patient verbalizes understanding. He continues to smoke currently and has stated he is not ready to quit at this time; counseled on cessation resources including nicotine replacement therapy, varenicline, and tobacco quitline, pt declined referral today but open to revisiting in future. Will readdress at next visit.
+
+2. COPD: stable on current inhaler regimen, continue tiotropium and fluticasone/salmeterol, albuterol prn. F/u spirometry in 6-12 months.
+
+3. Asthma: overlap with COPD, monitor, continue current regimen.
+
+4. PAD: stable, continue clopidogrel, cilostazol, aspirin, statin. F/u with vascular surgery as scheduled.
+
+5. Gout: currently quiescent, continue allopurinol, colchicine prn, monitor uric acid.
+
+6. GERD: well controlled on omeprazole, continue current dose.
+
+Return to clinic in 6 months or sooner if symptoms worsen. Discussed above plan in detail with patient, all questions answered, patient verbalizes agreement with plan.
+
+Electronically signed: Laura Castellano, FNP-C, 03/04/2023

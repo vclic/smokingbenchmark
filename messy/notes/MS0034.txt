@@ -1,0 +1,46 @@
+Progress Note - Pulmonology
+Date of Service: 09/04/2023
+Author: Steven Park, MD (NP visit co-signed)
+
+Patient: William Alexander MPI#88213221 DOB 04/13/1965 Sex M Age 58
+
+CC: Lung cancer screening shared decision-making visit
+
+HPI: Mr Alexander is a 58 y/o male referred by PCP for discussion of lung cancer screening given family hx of lung ca in an uncle. He reports no cough hemoptysis dyspnea or unexplained weight loss. He denies occupational exposures to asbestos or radon. Reviewed benefits and limitations of low-dose CT screening including false positives radiation exposure and incidental findings; screening may be discussed further at PCP follow up. Patient voiced understanding.
+
+PMH: BPH, hypertension, type 2 diabetes mellitus, atrial fibrillation (on anticoagulation)
+
+PSH: None reported
+
+SOCIAL HISTORY (templated fields):
+Tobacco use status: Never smoker
+Smoking history: Patient is a lifelong non-smoker; denies ever using cigarettes cigars pipe or vape products
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: retired accountant
+Living situation: lives w/ spouse
+Exercise: walks 30 min most days
+
+Allergies: NKDA
+
+Medications: metformin 1000mg BID, lisinopril 20mg daily, amlodipine 5mg daily, tamsulosin 0.4mg qhs, apixaban 5mg BID, atorvastatin 40mg daily, metoprolol succinate 50mg daily, multivitamin daily
+
+ROS: Constitutional - denies fever chills weight loss. Eyes - denies visual changes. ENT - denies sore throat epistaxis. Cardiovascular - denies chest pain palpitations (known afib, rate controlled). Respiratory - denies cough wheeze hemoptysis dyspnea on exertion. GI - denies nausea vomiting diarrhea constipation abd pain. GU - reports nocturia x2 stable, known BPH, denies dysuria hematuria. MSK - denies joint pain swelling. Skin - denies rash lesions. Neuro - denies HA dizziness numbness tingling. Psych - denies depression anxiety. Endocrine - reports blood glucose well controlled on current regimen. Heme/Lymph - denies easy bruising bleeding (on apixaban, INR N/A DOAC). All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/78 HR 68 irreg irreg RR 16 T 98.2F SpO2 97% RA Wt 198 lb Ht 5'10
+General: well-appearing, NAD, appropriate for stated age of 58
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear
+Neck: no JVD no lymphadenopathy
+Cardiovascular: irregularly irregular rhythm no murmurs rubs or gallops, consistent w known afib
+Respiratory: clear to auscultation bilaterally no wheezes rales rhonchi, good air movement, no accessory muscle use
+Abdomen: soft nontender nondistended, normoactive bowel sounds
+Extremities: no edema no cyanosis no clubbing
+Skin: warm dry intact
+Neuro: alert oriented x3 CN II-XII grossly intact
+
+Assessment/Plan:
+58 y/o male here for lung cancer screening SDM visit dated 09/04/2023, established lifelong non-smoker per history obtained today so tobacco-related risk factor for screening not applicable in his case. Discussed general principles of screening guidelines with patient; will defer further screening decision to PCP given non-smoking status. Continue current management of HTN, T2DM, BPH, and afib per PCP/cardiology. Follow up with PCP in 3 months or sooner as needed. Patient verbalized understanding of plan and had no further questions today.
+
+Electronically signed: Steven Park, MD

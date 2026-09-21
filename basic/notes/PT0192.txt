@@ -1,0 +1,76 @@
+Adult Medicine Progress Note
+
+Patient: PEREZ, William    MRN: 18204232
+DOB: 04/16/1974    Age: 51 y.o.    Sex: Male
+Date of Service: 03/30/2026    Provider: Priya Raman, MD
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+William Perez is a 51 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/90s. Taking amlodipine 10 mg daily without missed doses. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia	2010
+• HTN	2011
+• Current smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair
+• Carpal tunnel release (2016)
+• TURP
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• atorvastatin 40 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Packs/day: 1.50
+    Years: 33.00
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with wife and adult daughter.
+  No alcohol.
+
+Family History
+Father - MI at 74. Mother - CHF, d. age 88.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 154/90 (BP Location: Right arm, Patient Position: Sitting) | Pulse 81 | Temp 98.1 °F (Oral) | Resp 20 | Ht 5' 10" | Wt 204 lb | SpO2 99% | BMI 29.23 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (March 1, 2026): LDL 84, Cr 1.08, K 4.5
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase amlodipine dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Tobacco dependence
+   Counseled on cessation for 3 min. He is contemplating quitting. Rx bupropion SR 150 mg daily x3d then BID.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Priya Raman, MD on 03/30/2026

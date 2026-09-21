@@ -1,0 +1,73 @@
+TELEHEALTH VISIT NOTE
+Patient: Gwendolyn Clark
+DOB: 03/31/1960 (Age 63)
+Date of Service: 03/31/2023
+Provider: Rachel Goldberg, MD
+Visit Type: Telehealth - Medication Refills, Family Medicine
+
+CHIEF COMPLAINT: Medication refill visit, telehealth.
+
+HPI:
+Ms. Clark is a 63-year-old female presenting via telehealth today, 03/31/2023, for routine medication refills. She reports overall stability of her chronic conditions. She notes some ongoing joint stiffness in the mornings, worse in her knees, but denies any new falls or significant functional decline. Mood has been "okay," she states, though she admits to occasional low energy and difficulty concentrating, which she attributes to poor sleep. She denies palpitations, chest pain, or shortness of breath at this time. She reports urinary frequency and mild nocturia, consistent with her known BPH, but no dysuria or hematuria. She is requesting refills of her home medications as she is running low.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Benign prostatic hyperplasia - N40.1 (chronic, stable on medication - note: this diagnosis is retained from prior documentation and may be outdated depending on updated urology records)
+2. Major depressive disorder, recurrent, moderate - F33.1
+3. Atrial fibrillation, chronic - I48.2
+4. Osteoarthritis, unspecified site - M19.90
+5. Hypertension - I10 (per old chart note, may need reconciliation - unclear if still active)
+
+MEDICATIONS (per last reconciliation, refills requested today):
+- Tamsulosin 0.4mg daily
+- Sertraline 100mg daily
+- Apixaban 5mg twice daily
+- Metoprolol succinate 50mg daily
+- Acetaminophen 500mg as needed for joint pain
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Patient lives alone, reports good social support from nearby family. Denies alcohol use. When asked about tobacco use history, patient declined to discuss the topic and the conversation was redirected by the patient to her medication needs; smoking status could not be determined at this visit. No further details obtained. Employment status: retired.
+
+FAMILY HISTORY: Noncontributory changes since last visit; mother with history of hypertension, father with history of diabetes (per prior documentation).
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight change.
+Cardiovascular: denies chest pain, denies palpitations today (known afib, on anticoagulation).
+Respiratory: denies cough, denies dyspnea.
+GU: mild urinary frequency, nocturia x1-2, no dysuria.
+Musculoskeletal: chronic joint stiffness, worse AM, improves with activity.
+Psych: reports low mood intermittently, denies SI/HI.
+
+PHYSICAL EXAM (Telehealth - limited):
+General: Patient appears well, no acute distress, seated comfortably at home.
+Mental status: Alert, oriented, appropriate affect, cooperative though guarded when discussing certain history.
+Cardiovascular exam not performed via telehealth; last in-office exam noted irregular rhythm consistent with known afib.
+No other physical exam performed given telehealth format.
+
+VITALS (patient-reported home readings):
+BP: 128/76
+HR: 72, irregular (self-reported via home monitor)
+Weight: stable per patient report
+
+ASSESSMENT AND PLAN:
+
+1. Benign prostatic hyperplasia (N40.1) - stable on tamsulosin. Continue current dose, refill sent. Recommend follow-up with urology if symptoms worsen.
+
+2. Major depressive disorder (F33.1) - patient reports mood is "okay" though some symptoms of low energy/concentration persist. Continue sertraline 100mg daily, refill sent. Discussed importance of continued engagement in therapy if applicable. Will reassess at next visit; if worsening, may consider dose adjustment or referral to psychiatry.
+
+3. Atrial fibrillation (I48.2) - chronic, on apixaban and metoprolol succinate, both refilled today. No new symptoms reported. Will continue current regimen; INR/labs not applicable given DOAC therapy. Recommend routine renal function monitoring given anticoagulation, to be arranged at next in-person visit.
+
+4. Osteoarthritis (M19.90) - chronic joint stiffness, using acetaminophen PRN with adequate relief per patient report. Continue conservative management, discussed gentle stretching and activity as tolerated.
+
+5. Social history / tobacco use - attempted to obtain updated tobacco use history during this visit; patient declined to discuss the topic. Status remains undetermined at this time. Will attempt to readdress at next visit, ideally in-person, to allow for more complete assessment and any indicated counseling or discussion of screening options as appropriate to be revisited at that time.
+
+6. Health maintenance - due for age-appropriate screenings, to be discussed further at next in-person visit given limitations of telehealth format today.
+
+Refills sent electronically to patient's pharmacy of record for all above medications. Patient verbalized understanding of plan. Return to clinic or telehealth in 3 months, sooner if symptoms worsen or new concerns arise. Patient given instructions to contact clinic with any questions.
+
+Electronically signed: Rachel Goldberg, MD
+
+---ADDENDUM (same day, 03/31/2023, later entry)---
+Addendum by Rachel Goldberg, MD:
+Following initial telehealth encounter dated 03/31/2023, reviewed chart again after visit to confirm medication list accuracy prior to finalizing refill orders. No additional history obtained from patient after visit concluded. Tobacco use history remains undetermined as patient declined to discuss this topic during the encounter; this will need to be revisited at a future visit, preferably in person, to obtain a complete social history. No changes to assessment or plan as documented above. Pharmacy confirmed receipt of all electronic prescriptions sent today, 03/31/2023.

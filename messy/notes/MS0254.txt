@@ -1,0 +1,68 @@
+PHYSICIAN PROGRESS NOTE - Hospital Discharge Follow-up
+Patient: Thomas Davis | DOB: 8/16/1953 | Age: 70 | Sex: M
+Date of Service: 10/19/2023
+Author: Teresa Alvarez, NP (dictated, reviewed and signed)
+
+CHIEF COMPLAINT: F/u after recent hospitalization for pneumonia.
+
+HPI: Mr. Davis is a 70 year old male seen today for follow-up s/p discharge from Memorial Hospital where he was admitted for community acquired pneumonia. He states 'I'm feeling a lot better than I was, my cough is maybe half of what it was.' He denies fever, chills, or hemoptysis currently. He reports mild fatigue, states 'I get tired walkin up the stairs still but its improving day by day.' No chest pain, no palpitations. He continues to use his CPAP nightly for his OSA, reports good compliance, 'I wear it every night, doesn't bother me none.' Denies orthopnea. He is followed for CAD and PAD and reports no claudication symptoms currently, no rest pain. GERD sx controlled on current regimen, occasional heartburn if he eats late at night. No new bone pain, no falls, osteoporosis stable per last DEXA (per chart, 2022).
+
+Social history: Patient is a former smoker with a 56 pack-year smoking history; he quit smoking in the late 2000s. He also reports he quit drinking alcohol in 2011 and has remained abstinent since. Lives with spouse, retired machinist.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats, unintentional weight loss. Eyes: denies visual changes. ENT: denies sore throat, denies rhinorrhea. Cardiovascular: denies chest pain, denies palpitations, denies syncope, positive for known CAD as above. Respiratory: positive for recent pneumonia, improving cough, denies hemoptysis, denies current dyspnea at rest. GI: denies nausea, denies vomiting, denies diarrhea, positive for occasional heartburn as noted. GU: denies dysuria, denies hematuria. Musculoskeletal: denies acute joint pain, denies new fractures. Skin: denies rash. Neuro: denies focal weakness, denies numbness. Psych: denies depression, denies anxiety. All other systems reviewed and negative except as noted above in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 97.8F, SpO2 95% on room air, Wt 182 lb.
+General: Alert, well-appearing, NAD, in no [inaudible] distress.
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: no JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: RRR, no murmurs, rubs, or gallops, normal S1/S2, no lower extremity edema, distal pulses palpable but diminished bilaterally consistent with known PAD.
+Respiratory: Lungs clear to auscultation bilaterally, mild bibasilar crackles resolving compared to hospital exam, no wheezes, no rhonchi, good air movement.
+Abdomen: soft, nontender, nondistended, normal bowel sounds, no hepatosplenomegaly.
+Extremities: no cyanosis, no clubbing, trace edema.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, gait steady.
+
+LABS/RESULTS:
+CBC (10/18/2023): WBC 8.9, Hgb 13.1, Hct 39.4, Plt 244.
+BMP (10/18/2023): Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102.
+CRP (10/18/2023): 12 (down from 88 on admission 10/12/2023).
+Procalcitonin (10/12/2023): 1.8, trending down.
+CXR (10/17/2023, prior to discharge): Improving right lower lobe infiltrate, no effusion.
+BNP (10/18/2023): 142.
+DEXA scan (5/2022, on file): T-score -2.6 lumbar spine, consistent with osteoporosis, on treatment.
+
+CURRENT MEDICATIONS:
+1. Atorvastatin 40mg PO qhs
+2. Aspirin 81mg PO daily
+3. Clopidogrel 75mg PO daily
+4. Metoprolol succinate 50mg PO daily
+5. Omeprazole 20mg PO daily
+6. Alendronate 70mg PO weekly
+7. Calcium carbonate/Vitamin D3 combo tablet daily
+8. Cilostazol 100mg PO BID (for PAD)
+9. Amoxicillin-clavulanate 875mg PO BID (completing 7-day course for pneumonia, day 5 of 7 today)
+10. Albuterol HFA inhaler PRN (started during hospitalization, continue PRN)
+
+PROBLEM LIST:
+- J18.9 Pneumonia, unspecified organism (recent hospitalization, resolving)
+- G47.33 Obstructive sleep apnea, on CPAP
+- I25.10 Coronary artery disease without angina
+- M81.0 Age-related osteoporosis without current pathological fracture
+- I73.9 Peripheral artery disease, unspecified
+- K21.9 GERD without esophagitis
+- Z87.891 Personal history of nicotine dependence (outdated entry, carried forward from prior chart, provider notes patient quit smoking years ago)
+- E66.9 Obesity, unspecified (outdated, patient's BMI currently in overweight range per today's vitals, entry not updated)
+
+ASSESSMENT AND PLAN:
+1. Pneumonia, resolving - Mr. Davis appears clinically improved s/p recent hospitalization. Inflammatory markers trending down, CXR improving. Will continue to complete his course of amoxicillin-clavulanate as prescribed, follow up in 1-2 weeks or sooner if worsening symptoms. Given his 56 pack-year smoking history, ongoing surveillance for pulmonary complications is warranted; patient is a former smoker who quit in the late 2000s, which is reassuring, though we discussed that lung cancer screening options can be revisited with his pulmonologist as appropriate.
+2. OSA - continues CPAP compliance, doing well, no changes at this time.
+3. CAD - stable, continue current cardiac regimen, no anginal symptoms today.
+4. Osteoporosis - stable per last DEXA, continue alendronate and calcium/vitamin D.
+5. PAD - no claudication currently, continue cilostazol, monitor pulses.
+6. GERD - well controlled on omeprazole, advised to avoid late meals.
+7. Health maintenance/social - reinforced importance of remaining smoke-free; patient quit drinking alcohol in 2011 and has maintained sobriety, which was acknowledged and encouraged. Discussed vaccination status, up to date per prior records.
+
+Follow-up in 2 weeks or sooner as needed. Patient verbalized understanding of the plan and agreed with above.
+
+-- Teresa Alvarez, NP

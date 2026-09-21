@@ -1,0 +1,62 @@
+VASCULAR SURGERY - PHYSICIAN PROGRESS NOTE
+Patient: Gregory Clark (M) DOB: 06/29/1951 (Age 72)
+Date of Service: 06/29/2023
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: PAD follow-up, worsening claudication distance
+
+HPI: Mr. Clark is a 72 y/o male with h/o PAD, COPD, OSA, asthma, obesity, and depression presenting for routine vascular f/u. He reports "my legs cramp up after about a block now, it didn't used to be that bad." He denies rest pain, ulceration, or new skin changes. Pt states "I've been trying to walk more like you said, but it's hard when my calves start burning." No recent hospitalizations. He continues on ASA 81mg and cilostazol. Reports compliance w/ CPAP most nights though admits "I don't always put it on if I fall asleep on the couch." Denies chest pain, denies SOB at rest, occasional wheeze managed w/ albuterol PRN.
+
+ROS: Constitutional - denies fever/chills. Resp - chronic cough, stable, no hemoptysis. CV - denies orthopnea/PND. GI - unremarkable. Psych - mood "okay," continues sertraline.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I73.9 Peripheral artery disease
+- J44.9 COPD, unspecified
+- G47.33 Obstructive sleep apnea
+- J45.909 Asthma, unspecified, uncomplicated
+- F32.9 Major depressive disorder, unspecified (outdated - now on maintenance tx, stable)
+- E66.9 Obesity
+- I10 Essential HTN (outdated, not currently active per pt report)
+
+SOCIAL HISTORY (EHR-templated block):
+Tobacco use status: Former smoker
+Cigarettes: Not on file
+Pack-years: 26 pack-years
+Years smoked: Not on file
+Quit date: Not on file
+Smokeless tobacco: Denies
+E-cigarette/vape use: Occasional use reported
+Alcohol use: Social, 1-2 drinks/wk
+Illicit drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+
+Social hx notes: Pt confirms he no longer smokes cigarettes; does note he still vapes occasionally, described as "just once in a while when I'm stressed." Encouraged full cessation of all nicotine products including vaping.
+
+MEDICATIONS: Aspirin 81mg daily, Cilostazol 100mg BID, Sertraline 50mg daily, Albuterol HFA PRN, Fluticasone/salmeterol inhaler BID, Tiotropium daily, CPAP nightly.
+
+ALLERGIES: NKDA
+
+VITALS: BP 138/82, HR 76, RR 16, SpO2 94% RA, Wt 231 lb, BMI 34.2
+
+PHYSICAL EXAM:
+General: obese male, NAD, conversant
+CV: RRR, no murmurs, distal pulses diminished bilaterally (DP/PT 1+ b/l)
+Resp: mild expiratory wheeze bilaterally, no accessory muscle use
+Extremities: no edema, no ulceration, cap refill <3 sec, skin cool distally, hair loss noted on lower legs
+Skin: intact, no lesions
+
+LABS/IMAGING REVIEWED: ABI from last visit 0.68 right, 0.71 left, consistent with mild-moderate PAD. Lipid panel reviewed, LDL 98.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - symptoms mildly progressed per pt report. Continue cilostazol, ASA. Reinforce supervised exercise/walking program. Recheck ABIs in 6 months if worsening.
+2. COPD - stable on current inhaler regimen, continue tiotropium and combo inhaler.
+3. OSA - encourage improved CPAP compliance nightly, will refer back to sleep medicine if adherence issues persist.
+4. Asthma - well controlled, continue albuterol PRN.
+5. Tobacco/nicotine use - patient has a 26 pack-year smoking history per EHR tobacco block; he is a former cigarette smoker and no longer smokes cigarettes. However he reports occasional vaping and was counseled extensively on complete cessation of all nicotine/tobacco products, including vape. Discussed general risk reduction strategies for vascular and pulmonary disease related to prior tobacco exposure; lung cancer screening was discussed in general terms as part of routine preventive care conversation.
+6. Depression - stable on sertraline, continue current dose, no acute SI/HI.
+7. Obesity - counseled on diet/exercise, discussed weight management resources.
+
+FOLLOW UP: Return to vascular surgery clinic in 3 months or sooner if symptoms worsen. Continue current medication regimen. Pt verbalized understanding of plan.
+
+Electronically signed: Teresa Alvarez, NP 06/29/2023

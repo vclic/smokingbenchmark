@@ -1,0 +1,47 @@
+Pulmonology H&P
+Patient: Marilyn Hill (DOB 10/29/1953, age 71)
+Date of Service: 10/29/2024
+Author: Elena Markovic, MD
+
+CC: F/u incidental lung nodule found on ED CT for rib fx eval.
+
+HPI: 71 yo female w/ hx COPD, afib, obesity here for f/u of RUL nodule 8mm noted incidentally 6 wks ago. Pt states "I feel about the same, still a bit short of breath climbing stairs." Denies hemoptysis, wt loss, fevers. Smokes 1 pack per day for 50 years, continues to smoke despite counseling given multiple times in past visits. Pt states "I've tried patches before, didn't help much." No prior lung ca hx. Quit drinking alcohol in 2009, denies current etoh use. Reports occasional wheeze, uses albuterol prn. No chest pain. Family hx notable for father w lung ca dx age 70s.
+
+ROS: Constitutional: no fever, chills, +fatigue. HEENT: neg. Resp: +dyspnea on exertion, chronic cough stable, no hemoptysis. CV: +palpitations occasionally, no chest pain, no edema. GI: no n/v/d, appetite normal. GU: nocturia x2 (known BPH). MSK: chronic joint pain c/w gout, no acute flare. Neuro: no focal deficits. Skin: no rashes. Psych: mood stable.
+
+PMH/Problem List:
+N40.1 BPH
+E66.9 Obesity
+M81.0 Osteoporosis
+I48.91 Atrial fibrillation
+J44.9 COPD
+M10.9 Gout
+(Note: some entries outdated, pt reports gout flare resolved >1 yr ago, may need removal at next visit)
+
+Meds: Tamsulosin 0.4mg qhs, Apixaban 5mg BID, Alendronate 70mg weekly, Metoprolol succinate 50mg daily, Tiotropium inh daily, Albuterol inh prn, Allopurinol 100mg daily, Calcium/Vit D supplement daily, Multivitamin daily.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, SpO2 94% RA, Wt 198 lb, BMI 33.
+Gen: obese female, NAD, alert.
+HEENT: PERRLA, EOMI, oropharynx clear.
+Neck: no LAD, no JVD.
+Resp: decreased breath sounds bilat bases, mild expiratory wheeze, no crackles, no accessory muscle use.
+CV: irregularly irregular rhythm, no murmur appreciated, no edema.
+Abd: soft, obese, nontender, nl bowel sounds.
+MSK: no active joint swelling, mild crepitus knees b/l.
+Skin: intact, no rash.
+Neuro: grossly intact.
+
+Assessment/Plan:
+71 yo F w/ incidental RUL nodule 8mm, hx heavy tobacco use (1 ppd x 50 yrs), COPD, afib on anticoag.
+- Nodule: recommend surveillance imaging per Fleischner guidelines, will coordinate w radiology, low-dose CT screening discussed w pt as option for future workup separate from nodule surveillance.
+- Continue counseling on smoking cessation; pt continues to smoke despite counseling, referred to tobacco cessation program again, discussed varenicline as option.
+- COPD: continue tiotropium/albuterol, stable currently.
+- Afib: continue apixaban, metoprolol, HR controlled today.
+- BPH: continue tamsulosin, stable.
+- Osteoporosis: continue alendronate, calcium/vit D.
+- Gout: no active flare, continue allopurinol.
+- Alcohol: pt reports quit drinking etoh in 2009, no current use, no further intervention needed.
+- F/u in 3 months or sooner if symptoms worsen.
+
+Elena Markovic, MD

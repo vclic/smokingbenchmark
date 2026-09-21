@@ -1,0 +1,42 @@
+NURSE INTAKE
+Patient: Garcia, Evelyn | DOB: 04/30/1972 | Age: 53 | Sex: F
+Date of Service: 04/30/2025
+Dept: Vascular Surgery — PAD eval
+
+Vitals: BP 142/86, HR 78 irreg (known AFib), RR 16, Temp 98.4F, Wt 172 lb, SpO2 97% RA
+
+SOCIAL HISTORY (templated):
+Tobacco use: Never smoker
+Pack-years: N/A
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 glasses wine/wk
+Drug use: denies
+Occupation: retired admin asst
+Living situation: Not on file
+Exercise: sedentary, c/o claudication w/ ambulation
+
+CC: b/l calf pain w/ walking, worse over past few mo. Referred for PAD w/u.
+
+ROS: + intermittent claudication R>L, denies rest pain, denies non-healing wounds. Denies CP, SOB. +occ palpitations (known AFib). GERD sx well-controlled on PPI. Denies urinary retention sx (hx BPH — pt is female, per chart may be miscoded, flagged for correction). Mood stable on current antidepressant, PHQ-9 not repeated today.
+
+PHYSICIAN PROGRESS NOTE — Julia Brennan, MD
+DOS: 04/30/2025
+
+HPI: 53 y/o female, DOB 4/30/1972, presents for eval of PAD given claudication sx x several mo, now w/ decreased walking distance. Hx of HTN, hyperlipidemia, AFib (on anticoag), GERD, depression, and BPH (chart flag noted, likely documentation error given pt sex — will address separately). No known prior vascular w/u.
+
+SHx reviewed — pt reports never smoker; no tobacco use hx of any kind. This is notable given typical PAD risk factor profile; other risk factors (HTN, hyperlipidemia) likely contributory.
+
+Exam: A&O x3, NAD. CV: irreg irreg rhythm, no m/r/g. Pulses: fem 2+ b/l, popliteal 1+ b/l, DP/PT diminished b/l, R slightly weaker than L. Skin: no ulceration, mild hair loss b/l LE, cap refill <3sec. No edema.
+
+Assessment: PAD, likely early-mod, c/w claudication pattern. Risk factors HTN/HLD predominant given no smoking hx. AFib stable on current regimen, HTN suboptimally controlled today.
+
+Plan:
+1. ABI testing ordered bilat LE.
+2. Cont current antihypertensive, consider titration pending ABI results/f/u BP checks.
+3. Statin optimization d/w PCP.
+4. Cont anticoag per cardiology for AFib.
+5. Lifestyle counseling re: walking program, diet.
+6. GERD, depression, BPH (flagged) — defer to PCP, stable per pt report.
+7. RTC 4 wk w/ ABI results.
+
+Electronically signed: Julia Brennan, MD

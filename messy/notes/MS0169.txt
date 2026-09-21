@@ -1,0 +1,33 @@
+CONSULT / NEW PATIENT LETTER TO REFERRING PHYSICIAN
+Patient: John Bennett | DOB: 2/23/1962 | Age: 64 | Sex: M
+Date of Service: 02/23/2026
+Author: Hannah Weiss, NP — Primary Care
+
+Dear Dr. Alvarez,
+
+Thank you for referring John Bennett, a 64-year-old male, to establish primary care with our practice. He presents today for an initial visit to review his history of osteoarthritis, CKD stage 3, and BPH.
+
+HPI: Mr. Bennett reports doing 'okay overall' but notes worsening knee pain, particularly with stairs. He states, "Some days it's fine, other days I can barely get out of a chair." He denies chest pain, hematuria, or urinary retention. He reports occasional nocturia x2. He denies dysuria.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 09/14/2023 (outside records) ----
+Pt seen for f/u of CKD stage 3 and BPH. Labs reviewed, Cr stable. Continue current meds. BPH sx mild, managed conservatively. Pt tolerating tamsulosin well. Will recheck BMP in 6 months. RTC PRN. (Dr. R. Ortiz)
+----------------------------------------------------------------
+
+Social History: Patient has a smoking history of 2 packs per day for 5 years; he quit smoking on 7/9/1989. He also quit drinking alcohol in 2001 and has remained abstinent since. No illicit drug use reported.
+
+Review of Systems: Constitutional - denies fever, chills, weight loss. HEENT - denies vision changes, hearing loss. Cardiovascular - denies chest pain, palpitations, edema. Respiratory - denies cough, dyspnea, wheeze. GI - denies nausea, vomiting, diarrhea, constipation. GU - as above. Musculoskeletal - positive for joint pain as noted. Skin - denies rash. Neuro - denies numbness, tingling, weakness. Psych - denies depression, anxiety.
+
+Physical Exam: Vitals: BP 132/78, HR 72, RR 16, Temp 98.4F, Wt 198 lb. General - well-appearing, NAD. HEENT - normocephalic, atraumatic, PERRL. Neck - supple, no JVD. Lungs - clear to auscultation bilaterally, no wheeze/rales/rhonchi. Cardiac - RRR, no murmurs. Abdomen - soft, nontender, nondistended. Extremities - mild crepitus bilateral knees, no edema. Skin - no lesions. Neuro - grossly intact.
+
+Medications: Lisinopril 10mg daily, Tamsulosin 0.4mg qhs, Acetaminophen 650mg PRN, Atorvastatin 20mg daily, Vitamin D3 1000IU daily, Calcium carbonate 600mg BID.
+
+Assessment/Plan:
+1. Osteoarthritis - continue acetaminophen, consider PT referral.
+2. CKD stage 3 - recheck BMP and eGFR today, monitor.
+3. BPH - continue tamsulosin, symptoms stable.
+4. Health maintenance - discussed age-appropriate screenings including lung cancer screening discussion given remote smoking history; will follow up.
+
+Will see back in 3 months or sooner as needed.
+
+Sincerely,
+Hannah Weiss, NP

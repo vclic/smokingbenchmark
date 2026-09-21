@@ -1,0 +1,54 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Elizabeth Okafor | DOB: 08/16/1968 | Age: 56 | Sex: F
+Date of Service: 12/25/2024
+Provider: Gregory Tan, MD (Resident); Attending co-signature below
+Visit Type: New Patient Visit - Establish Care, Primary Care
+
+CHIEF COMPLAINT: New patient visit to establish primary care.
+
+HPI: Ms. Okafor is a 56 y.o. female who presents today, 12/25/2024, to establish care with our practice after relocating to the area. She reports she was previously followed by a nephrologist for chronic kidney disease and has a history of BPH-like urinary symptoms that were being monitored - patient states this dx was carried over from prior records, unclear if still active, will clarify. She denies any acute complaints today, no dysuria no hematuria no flank pain, some mild urinary frequency at knight [sic - night] but nothing new. She states her overall health has been stable, she walks for exercise most days and tries to watch her diet given the kidney issue. She was seen by a urologist approx two years ago per patient report, records not on file, will attempt to obtain outside records for review. Patient denies chest pain, denies SOB, denies edema. She endorses occasional joint aches which she attributes to age, no swelling noted. Review of systems otherwise largely negative, patient is a good historian although some parts of the history were [inaudible] due to background noise during dictation and will need to be clarified at follow up.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. N18.30 - Chronic kidney disease, stage 3 (unspecified) - active, being monitored
+2. N40.1 - Benign prostatic hyperplasia with lower urinary tract symptoms - NOTE: this diagnosis appears on problem list from outside records, likely entered in error or carried forward incorrectly, will need to reconcile given patient's sex; may reflect a documentation error from a prior EHR migration.
+3. E78.5 - Hyperlipidemia, unspecified - inactive per old note, unclear current status
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Never smoker
+Smoking status: Never used tobacco
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Lives with spouse
+Exercise: Reports regular walking
+
+MEDICATIONS: Per patient report, taking a statin for cholesterol, name not recalled, will need to reconcile with pharmacy records. No other medications reported at this time.
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, Wt stable per patient report
+General: Well-appearing female in no acute distress, pleasant and cooperative
+HEENT: Normocephalic, atraumatic, no scleral icterus
+CV: Regular rate and rhythm, no murmurs rubs or gallops appreciated
+Resp: Clear to auscultation bilaterally, no wheezes no rales no rhonchi
+Abd: Soft, nontender, nondistended, bowel sounds normal
+Ext: No edema, pulses intact bilaterally
+Neuro: Alert and oriented, grossly nonfocal
+
+ASSESSMENT AND PLAN:
+Ms. Okafor is a 56-year-old female establishing care today, 12/25/2024, with history notable for CKD stage 3 and a problem list entry for BPH which appears to be an error given patient's sex and will be reviewed/removed pending clarification.
+
+1. CKD stage 3: Will order updated BMP, CBC, urinalysis, and urine albumin/creatinine ratio to reassess renal function. Will request outside nephrology records. Counseled on renal-friendly diet, adequate hydration, avoidance of NSAIDs.
+2. Problem list discrepancy (BPH): Discussed with patient, she confirms no history of prostate issues (expected given sex); will remove this diagnosis from active problem list after attending review, appears to be a documentation carryover error, possibly from a prior chart merge or transcription mix-up - the resident acknowledges some sections of this note were affected by speech recognition software errors and homophone substitutions during dictation, corrected where identified but attending should re-review for accuracy.
+3. Hyperlipidemia: Will obtain updated lipid panel, continue statin pending medication reconciliation with pharmacy.
+4. Social history: Tobacco - patient has never used tobacco, no counseling needed regarding smoking cessation at this time. Screening topics such as lung cancer screening were briefly discussed in general terms given age, though not indicated here given never-smoker status; no imaging ordered today.
+5. Health maintenance: Discussed age-appropriate screenings, will order mammogram and colonoscopy referral as due. Immunizations reviewed, patient due for updated Tdap.
+6. Follow-up: Return to clinic in 4-6 weeks with labs, sooner if symptoms worsen. Patient verbalized understanding and agreed with plan.
+
+Total time spent on visit including chart review and documentation: approximately 35 minutes.
+
+ATTESTATION: I, the attending physician, have reviewed the resident's note and personally examined the patient. I agree with the history, exam, assessment, and plan as documented above, with the exception of the noted problem list discrepancy which will be corrected. - Attending signature on file.

@@ -1,0 +1,32 @@
+TELEHEALTH URGENT CARE VISIT
+DOS: 01/09/2024
+Pt: Curtis Wright, M, age 52 (DOB 1/9/1972)
+Author: Isaac Moreno, PA-C
+
+CC: cough x5d
+
+HPI: 52yo M c/o cough, worse at night, +/- wheeze. Pt states "it feels like it's coming from my chest, not my throat." Denies fever, denies hemoptysis. Reports mild SOB w/ exertion, baseline asthma stable per pt "usually I only need my inhaler once a week, this week it's like 3x/day." No sick contacts reported. No recent travel. Pt also notes "I smoke a little weed here and there, nothing crazy, maybe once a week when I'm stressed" - occasional marijuana use, non-daily. Denies any tobacco/cigarette use - pt states "never smoked a cigarette in my life" - lifelong non-smoker confirmed. Denies vaping.
+
+PMH: HLD, osteoporosis, asthma, HTN, T2DM
+
+Meds: atorvastatin 20mg qhs, alendronate 70mg qweek, albuterol HFA MDI prn, fluticasone/salmeterol 250/50 BID, lisinopril 20mg daily, metformin 1000mg BID, aspirin 81mg daily, vitamin D3 2000IU daily, calcium carbonate 600mg BID
+
+Allergies: NKDA
+
+ROS: Constitutional - denies fever/chills/night sweats/weight loss. HEENT - denies sore throat, denies nasal congestion. Resp - +cough, +mild wheeze, denies hemoptysis, denies pleuritic pain. CV - denies chest pain, denies palpitations, denies edema. GI - denies N/V/D, denies abd pain. GU - denies dysuria. MSK - denies new joint pain. Neuro - denies HA, denies dizziness. Psych - denies SI/HI. Skin - denies rash. All other systems reviewed and negative per pt report.
+
+Exam (via video, limited): Gen - well-appearing, NAD, seated comfortably at home. Resp - mild expiratory wheeze noted on auscultation-simulated exam per pt self-report of breath sounds/pt placed phone near chest, pt able to speak in full sentences, no accessory muscle use visible, no cyanosis. CV - no visible distress. Skin - no rash visible on video. Pt cooperative throughout visit.
+
+Assessment: Asthma exacerbation, mild, likely triggered by URI vs environmental. R05 cough.
+
+Plan:
+- Continue fluticasone/salmeterol BID
+- Albuterol prn, may increase frequency short-term
+- Consider short PO steroid burst if not improved in 48h
+- Return to clinic or in-person eval if worsening SOB, fever, or hemoptysis
+- Counseled re: occasional marijuana use and potential resp irritant effect, advised to consider reducing
+- Discussed general lung health; declined further discussion of imaging at this time
+- F/u PRN or in 1 week if not improved
+- Reviewed home BP/glucose logs briefly, both stable, continue current regimen for HTN/T2DM/HLD/osteoporosis
+
+Pt verbalized understanding of plan. All questions answered. Telehealth visit ended without further concerns voiced by patient.

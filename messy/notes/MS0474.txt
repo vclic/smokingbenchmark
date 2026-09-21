@@ -1,0 +1,97 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Family Medicine - Telehealth Visit
+Date of Service: 08/22/2024
+Author: Brian Okonkwo, MD
+
+RE: Janet Green, DOB 07/16/1967 (age 57 y F)
+
+Dear Colleague,
+
+Thank u for the opportunity to see Ms Green today via telehealth for medication refills and interval f/u of her multiple chronic conditions. Pt tolerated video visit well, no technical issues.
+
+HPI: Ms Green is a 57 yo female w/ hx of HFrEF, HLD, OSA, T2DM, depression, and hypothyroidism who presents for routine refill visit. She reports feeling generally stable, denies chest pain, orthopnea, PND, or lower extremity edema. No episodes of acute decompensation since last visit. She c/o mild fatigue but attributes this to poor sleep - states CPAP compliance has been intermittant. No new SOB. Mood reportedly stable on current antidepressant regimen, denies SI/HI. Denies polyuria/polydipsia; checks fingerstick glucose 1x/day, readings mostly 110-160. No new symptoms of hypothyroidism, denies cold intolerance or constipation.
+
+PMHX (copied fwd, reviewed):
+- Heart failure w/ reduced EF (last echo EF 35%)
+- Hyperlipidemia
+- Obstructive sleep apnea, on CPAP
+- Type 2 diabetes mellitus
+- Depression
+- Hypothyroidism
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco: Current every day smoker
+  Pack-years: 18 pack-years
+  Type: Cigarettes
+  Quit date: 09/10/2024 (planned)
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Not on file
+
+[Note: pt has verbalized intent to quit smoking, has set a target quit date of 9/10/2024, encouraged and supported this plan, offered nicotine replacement therapy and counseling resources.]
+
+COPIED FROM PRIOR NOTE DATED 02/22/2023 (social hx as documented at that time, unchanged fields left as-is per EHR carryforward):
+"Tobacco use: current smoker. Pt counseled on cessation at that visit." (No specific quantities were recorded in that note.)
+
+Current visit smoking status update: pt continues to smoke cigarettes at this time, has not yet quit as of today's visit, but has a plan in place as above.
+
+ROS: (templated, reviewed and updated)
+Constitutional: denies fever, chills, wt loss
+Cardiac: denies chest pain, palpitations, orthopnea; + occasional fatigue as above
+Resp: denies cough, wheeze, hemoptysis
+GI: denies n/v/d, abd pain
+GU: denies dysuria, hematuria
+Endo: denies polyuria/polydipsia, denies heat/cold intolerance
+Neuro: denies HA, dizziness, focal weakness
+Psych: mood stable, denies SI/HI, sleep poor 2/2 OSA sx
+MSK: denies joint pain
+Skin: no rashes
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (telehealth, limited):
+Gen: well-appearing, NAD, conversant, appropriate affect
+Vitals (per pt home cuff, reported): BP 128/78, HR 76, wt 182 lb (self-reported, no home scale calibration data)
+CV: unable to auscultate via telehealth; pt denies visible edema on self-exam
+Resp: no visible distress, breathing comfortably per video
+Skin: no rashes noted on visible areas
+Affect: euthymic, appropriate
+(Limitations of telehealth exam discussed with pt and documented.)
+
+LABS/RESULTS (reviewed today):
+- HbA1c 08/15/2024: 7.2%
+- Lipid panel 08/15/2024: LDL 98 mg/dL, HDL 42 mg/dL, TG 150 mg/dL
+- TSH 08/15/2024: 2.1 uIU/mL (WNL)
+- BNP 06/10/2024: 210 pg/mL
+- BMP 08/15/2024: Na 139, K 4.3, Cr 0.9, eGFR >60
+- Echo 05/2024: EF 35%, mild MR, no significant valvular disease otherwise
+
+MEDICATIONS (reviewed and reconciled today):
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Furosemide 20 mg PO daily prn edema
+5. Atorvastatin 40 mg PO qHS
+6. Metformin 1000 mg PO BID
+7. Empagliflozin 10 mg PO daily
+8. Sertraline 100 mg PO daily
+9. Levothyroxine 75 mcg PO daily (AM, empty stomach)
+10. Aspirin 81 mg PO daily
+All refilled x90 days today, pt counseled on adherence and to call if any new sx.
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable on GDMT, continue current regimen, recheck BNP in 3 mo, consider repeat echo in 6 mo
+2. HLD - LDL at goal, continue atorvastatin
+3. OSA - encourage improved CPAP compliance, will refer back to sleep med if no improvement
+4. T2DM - A1c improved from prior, continue current regimen, recheck A1c in 3 mo
+5. Depression - stable on sertraline, continue, f/u prn
+6. Hypothyroidism - TSH WNL, continue current dose
+7. Tobacco use - pt currently smokes cigarettes with an 18 pack-year smoking history per today's visit documentation; has set quit date of 9/10/2024; counseled on cessation resources, offered NRT, discussed importance of cessation given cardiac and pulmonary risk factors; screening options were discussed in general terms with the pt.
+
+F/u in 3 months or sooner prn. Pt to call office w/ any concerns in interim. Thank u again for allowing me to participate in this patient's care.
+
+Sincerely,
+Brian Okonkwo, MD
+Family Medicine
+Electronically signed 08/22/2024

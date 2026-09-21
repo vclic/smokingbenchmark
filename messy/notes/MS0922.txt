@@ -1,0 +1,55 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Date of Service: 10/10/2023
+Patient: Kenneth Wright, M, DOB 2/25/1958 (age 65)
+Author: Priya Raman, MD - Internal Medicine
+
+Re: Follow-up eval, referred for ongoing management of HTN/DM2 and multiple chronic conditions.
+
+HPI:
+65 yo M here for f/u of HTN, T2DM, CKD3, gout, depression, GERD. Pt reports doing fairly well, some fatigue, no chest pain, no SOB at rest. Denies polyuria/polydipsia currently. c/o occasional joint pain c/w gout flares, last flare ~2 mo ago, resolved w/ colchicine. Mood stable on current antidepressant regimen, sleep ok. No new GI complaints, GERD controlled on PPI.
+
+Soc Hx: Former smoker - quit smoking (no further detail on quit date documented). ETOH - quit drinking in 2003, denies current use. No illicit drug use. Lives w/ spouse, retired.
+
+ROS: Otherwise negative in detail, 10-pt system reviewed, no acute complaints beyond above.
+
+PMH/Problem List (ICD-10):
+- E11.9 Type 2 diabetes mellitus w/o complications
+- N18.3 CKD stage 3
+- M10.9 Gout, unspecified
+- M81.0 Osteoporosis (age-related, w/o current pathological fracture) - noted as outdated dx entry, needs update per DEXA below
+- F32.9 Major depressive disorder, unspecified (may be outdated - pt reports improved mood x many months, consider MDD in partial remission)
+- K21.9 GERD w/o esophagitis
+- I10 Essential hypertension
+
+Meds: Metformin 1000mg BID, Lisinopril 20mg daily, Allopurinol 300mg daily, Alendronate 70mg weekly, Sertraline 100mg daily, Omeprazole 40mg daily.
+
+Allergies: NKDA.
+
+Vitals: BP 138/84, HR 72, RR 16, Temp 98.4F, Wt 198 lb, BMI 29.4.
+
+Exam: Gen - NAD, A&Ox3. CV - RRR, no m/r/g. Resp - CTAB. Abd - soft, NT/ND. Ext - no edema, no active gout tophi visualized. Neuro - grossly intact.
+
+Labs/Results:
+- 09/28/2023 HbA1c: 7.4%
+- 09/28/2023 Uric acid: 6.8 mg/dL
+- 09/28/2023 Cr: 1.6 mg/dL, eGFR 42
+- 09/28/2023 BMP otherwise wnl, K 4.5
+- 08/15/2023 DEXA: T-score -2.6 lumbar spine (osteoporosis confirmed, on treatment)
+- 09/28/2023 Lipid panel: LDL 98, HDL 44, TG 150
+
+Assessment/Plan:
+1. T2DM - A1c 7.4%, reasonably controlled. Continue metformin, reinforce diet/exercise. F/u labs in 3 mo.
+2. HTN - BP slightly above goal today, continue lisinopril, recheck next visit, consider titration if persistently elevated.
+3. CKD stage 3 - stable eGFR, avoid nephrotoxic agents, renal panel q3-6mo.
+4. Gout - uric acid improved on allopurinol, continue current dose, f/u if flares recur.
+5. Osteoporosis - continue alendronate, encourage calcium/vit D, repeat DEXA in 2 yrs.
+6. Depression - stable on sertraline, will continue, reassess at next visit.
+7. GERD - controlled on omeprazole, continue.
+8. Tobacco use history - pt is a former smoker w/ a 24 pack-year smoking history; quit smoking (date of cessation not specified in chart). Continue to reinforce abstinence and continued avoidance of tobacco exposure.
+9. ETOH - pt quit drinking in 2003, no current use, no further intervention needed at this time.
+
+F/u: RTC in 3 months or sooner if issues arise. Will copy referring physician on this note per usual practice.
+
+Priya Raman, MD
+Internal Medicine
+Electronically signed 10/10/2023

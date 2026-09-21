@@ -1,0 +1,46 @@
+PULMONOLOGY - LUNG CA SCREENING SDM VISIT
+DOS: 03/20/2025
+Author: Hannah Weiss, NP (resident note; attending attestation below)
+Pt: Deborah Long, F, DOB 3/20/1953 (age 72)
+
+CC: LDCT lung cancer screening shared decision-making d/s
+
+HPI: Pt presents for SDM d/s re: lung ca screening. No new resp sx today, denies hemoptysis, wt loss, or chest pain. Hx GERD and HLD, both stable on current regimen. Pt asks about screening guidelines, risks/benefits reviewed incl radiation exposure, false positives, incidentalomas, overdiagnosis. Screening discussed at length today.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 ---
+Pt seen in f/u for GERD mgmt, doing well on PPI, no dysphagia, no odynophagia. HLD stable, LDL at goal per last lipid panel. Denies chest pain, palpitations. ROS otherwise negative. Plan: cont omeprazole 20mg daily, cont atorvastatin 40mg qhs, f/u 6 mo, routine labs ordered.
+--- END COPIED TEXT ---
+
+TOBACCO USE (templated field):
+Smoking status: Former smoker
+Hx: Pt started smoking approx 3/4 pack/day (~15 cigs/day) at age 16, continued at that rate until quitting smoking in 2005.
+Current use: none
+Quit status: quit
+Note: pt has not smoked since her 52th birthday.
+Counseling: tobacco cessation maintenance encouraged, relapse prevention d/s.
+
+ROS: Constitutional - no fever, chills, wt change. Resp - no cough, no SOB, no wheeze. CV - no CP, no palpitations, no edema. GI - occasional reflux sx, controlled on PPI. GU - neg. MSK - no jt pain. Neuro - no HA, no dizziness. Psych - no depression/anxiety sx. Skin - no rash. All other systems reviewed and negative.
+
+PE: Vitals: BP 128/78, HR 74, RR 16, T 98.2F, SpO2 97% RA, Wt 152 lb
+Gen: NAD, well-appearing female, A&Ox3
+HEENT: NCAT, PERRLA, oropharynx clear
+Neck: supple, no LAD, no thyromegaly
+Lungs: CTAB, no wheeze/rales/rhonchi, symmetric expansion
+CV: RRR, no m/r/g
+Abd: soft, NT/ND, +BS
+Ext: no c/c/e
+Skin: no lesions
+Neuro: CN II-XII grossly intact
+
+Meds: Omeprazole 20mg daily, Atorvastatin 40mg qhs, Calcium/Vit D supplement daily, Aspirin 81mg daily, Multivitamin daily
+
+Assessment/Plan:
+72F w/ hx GERD, HLD here for LCS SDM visit.
+1. Lung cancer screening - risks/benefits/limitations of LDCT screening d/s in detail, pt verbalizes understanding, decision deferred, pt to think it over, will readdress topic at future visit.
+2. GERD - stable, cont omeprazole.
+3. HLD - stable, cont atorvastatin, repeat lipid panel at next visit.
+4. Former smoker - reinforced no return to tobacco use, resources offered.
+RTC 3-6 mo or sooner PRN.
+
+Attending attestation: I have reviewed and discussed this case with Ms. Weiss, NP. I agree with the documented history, exam, and plan as written above.
+-- Dr. R. Castillo, Attending Pulmonology

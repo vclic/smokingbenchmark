@@ -1,0 +1,39 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: George Schmidt | DOB: 7/9/1955 | Age: 70 | Sex: M
+Date of Service: 08/23/2025
+Provider/Author: Rachel Goldberg, MD (NP progress note)
+Visit Type: COPD follow-up
+
+HPI:
+Mr. Schmidt is a 70-year-old male with hx of asthma, obesity, T2DM, hyperlipidemia, depression, and hypothyroidism, presenting for routine COPD follow-up. He reports his breathing has been "about the same, maybe a little worse when it's humid out." He denies fevers, chills, or hemoptysis. He states, "I still get short of breath walking up the stairs at home, but my inhaler helps." No recent ED visits or hospitalizations. He is compliant with his medications per report. He denies chest pain. Sleep is fair; mood stable on current antidepressant regimen.
+
+ROS: Otherwise negative except as above. Denies leg swelling, orthopnea, or PND.
+
+SOCIAL HISTORY (EHR templated block):
+Smoking status: Never Smoker [NOTE: this field is outdated/incorrect - see narrative below for accurate smoking history]
+Alcohol use: Not on file
+Drug use: 
+Occupation: Not on file
+Living situation: Not on file
+
+Narrative correction to social history: The templated "Never Smoker" field above is inaccurate and should be disregarded; patient does in fact have a significant smoking history as detailed in the assessment/plan below. Regarding alcohol, patient reports he quit drinking alcohol in 2013 and has remained abstinent since.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78, RR 16, SpO2 94% on room air, BMI 33.
+General: Obese male, no acute distress.
+Lungs: Mild expiratory wheeze bilaterally, no crackles.
+CV: RRR, no murmurs.
+Ext: No edema.
+
+ASSESSMENT/PLAN:
+1. COPD/Asthma overlap - stable, mild wheeze on exam. Continue current inhaler regimen (fluticasone/salmeterol, albuterol PRN). Smoking history reviewed in detail with patient today: he reports smoking 1 pack per day for 12 years, followed by 2 packs per day for 16 years, followed by half a pack (about 10 cigarettes) per day for 12 years, and has since quit smoking entirely. This corrects the outdated "Never Smoker" designation in the chart, which will be updated. Discussed lung cancer screening in general terms as part of preventive care discussion; no imaging ordered today.
+2. Obesity - continue lifestyle counseling, discussed diet and activity.
+3. Type 2 diabetes - stable, continue metformin, will check A1c prior to next visit.
+4. Hyperlipidemia - continue statin therapy.
+5. Depression - stable on current regimen, no acute concerns voiced today.
+6. Hypothyroidism - continue levothyroxine, TSH to be rechecked.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Patient given handouts on pulmonary rehab and asked to continue tracking peak flow at home.
+
+---ADDENDUM (same day, later)---
+Addendum by Rachel Goldberg, MD, 08/23/2025 4:45 PM: Spoke with patient by phone after visit regarding pharmacy question about his fluticasone/salmeterol refill; issue resolved, prior authorization submitted. No changes to today's assessment or plan. Smoking history as documented above remains accurate and should be reflected in the updated social history template going forward.

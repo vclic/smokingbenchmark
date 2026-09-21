@@ -1,0 +1,75 @@
+Geriatrics Progress Note
+
+Patient: CLARK, Joseph    MRN: 82666177
+DOB: 09/14/1945    Age: 78 y.o.    Sex: Male
+Date of Service: 12/06/2023    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Dizziness
+
+Subjective:
+Joseph Clark is a 78 y.o. male who presents for dizziness.
+Room-spinning vertigo with head turns x 1 week. No focal weakness. He has never used tobacco.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (1992)
+• Cataract extraction, bilateral (1989)
+• Vasectomy (2003)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pravastatin 40 mg nightly
+
+Allergies
+• Sulfa drugs
+
+Social History
+Social History Narrative
+  Widowed; lives with daughter.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 128/79 (BP Location: Left arm, Patient Position: Sitting) | Pulse 64 | Temp 98.7 °F (Oral) | Resp 18 | Ht 5' 11" | Wt 169 lb | SpO2 96% | BMI 23.52 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Dizziness
+   Likely BPPV; Epley performed. Vestibular PT.
+2. Mixed hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+3. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+Return in about 3 months (around 3/6/2024).
+
+Electronically signed by Teresa Alvarez, NP on 12/06/2023

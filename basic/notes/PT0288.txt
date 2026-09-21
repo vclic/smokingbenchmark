@@ -1,0 +1,44 @@
+Adult Medicine Clinic Note
+Date of Service: 04/09/2024
+Patient: Susan Hill   DOB: 3/3/1970   MRN: 84279389
+
+S:
+CC: f/u DM2
+HPI: Ms. Hill is a 54-year-old woman with a history of CKD3, T2DM, and hypothyroidism who presents for diabetes follow-up. Most recent A1c 9.5% (previously 9.9% in December 2023). Fasting glucose 130-180 per log. Denies polyuria/polydipsia. Trying to walk 20 minutes daily.
+
+PMH: Type 2 diabetes mellitus, Chronic kidney disease stage 3a, Hypothyroidism (dx 2014)
+PSH: Left inguinal hernia repair (2014); Appendectomy (2019); Carpal tunnel release
+Meds: metformin 500 mg BID; levothyroxine 50 mcg daily
+Allergies: No known allergies
+Social History:
+- Divorced, lives alone.
+- Works as a construction worker.
+- She smoked one and a half packs daily for 32 years and quit in 2022.
+- EtOH: 2-3 drinks on weekends.
+FH: Mother - HTN, DM2.
+ROS: 10-point ROS otherwise negative.
+
+O:
+Vitals: BP: 112/67  HR: 82  RR: 12  Temp: 97.7 F  SpO2: 97% on RA  Wt: 160 lbs  BMI: 25.0
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+Labs (03/08/2024): A1c 9.5%, Cr 1.19, K 3.6, TSH 1.69
+
+A/P:
+1. Type 2 diabetes mellitus
+   - A1c 9.5% - above goal; increase metformin to 1000 mg BID. UACR ordered.
+2. Hypothyroidism: Recheck TSH.
+3. Chronic kidney disease stage 3a
+   - Monitor BMP q6 months.
+
+Return in about 6 months (around 10/9/2024).
+
+Electronically signed by Owen Fitzgerald, MD on 4/9/2024 at 11:27

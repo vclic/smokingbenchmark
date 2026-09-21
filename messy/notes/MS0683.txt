@@ -1,0 +1,40 @@
+RESIDENT NOTE - Family Medicine Telehealth
+DOS: 10/30/2023
+Patient: Rosa Hill, F, DOB 5/20/1964 (age 59)
+Author: Owen Fitzgerald, MD (resident), attending attestation below
+
+CC: Medication refills, telehealth f/u
+
+HPI: Ms Hill is a 59 yo woman w/ hx gout, HFrEF, OA, CAD, PAD, GERD calling in for refill of her chronic meds. She reports doing 'about the same, maybe a little more short of breath walkin up the stairs.' Denies chest pain, orthopnea worse than baseline. She states 'I havent missed any doses, just running low.' No new leg pain, no gout flares recently. She reports gerd sx controlled on current regimen mostly, occasional heartburn after spicy food.
+
+Re: tobacco - patient continues to smoke, she is an active smoker currently. She previously quit smoking in 2018 but relapsed in 2021 and has been smoking since. Advised to quit again, discussed risks re: CAD/PAD and HF, pt verbalizes understanding but not ready to set quit date today.
+
+Tobacco use (EHR template, auto-populated):
+Packs/day: 0.50
+Years: 44.00
+
+---- COPIED FORWARD FROM PRIOR VISIT (05/14/2021) ----
+HPI: Pt here for routine f/u of CAD/PAD/HFrEF. Reports stable exertional dyspnea, no chest pain at rest. Gout last flare approx 3 months ago, resolved w colchicine. OA affecting knees bilaterally, uses acetaminophen prn. GERD sx well controlled on omeprazole. Cardiac exam: RRR, no murmurs appreciated, mild bilateral LE edema trace. Pulses diminished bilat DP/PT c/w known PAD. Plan at that time: continue carvedilol, lisinopril, spironolactone, atorvastatin, allopurinol, omeprazole; f/u vascular surgery for PAD surveillance; recheck BMP given diuretic.
+---- END COPIED SECTION ----
+
+ROS: Otherwise negative except as above. No fevers, no hemoptysis, no unintentional weight loss reported today.
+
+Meds: Carvedilol, Lisinopril, Spironolactone, Atorvastatin, Allopurinol, Omeprazole, Aspirin 81mg
+
+Assessment/Plan:
+1. HFrEF - stable per pt report, continue GDMT, refill carvedilol/lisinopril/spironolactone, reinforce low sodium diet.
+2. CAD/PAD - continue atorvastatin, aspirin; f/u vascular surgery as previously scheduled; smoking cessation discussed again given vascular disease, offered nicotine replacement, pt declined at this time.
+3. Gout - continue allopurinol, no acute flare today.
+4. OA - continue conservative mgmt, acetaminophen prn.
+5. GERD - continue omeprazole, sx reasonably controlled.
+6. Tobacco use - active smoker, counseled extensively on cessation given cardiopulm comorbidities. General conversation about lung health monitoring was had; no specific imaging plan discussed today.
+7. Refills sent electronically to pharmacy of record.
+
+F/u in 3 months or sooner if worsening sx.
+
+Electronically signed: Owen Fitzgerald, MD (Resident)
+
+Attending Attestation: I have reviewed and discussed this case with Dr. Fitzgerald. I agree with the assessment and plan as documented above. - A. Kowalski, MD, Attending
+
+---- ADDENDUM (later same day, 10/30/2023, 4:47pm) ----
+Addendum by Dr. Fitzgerald: Patient called back after visit to clarify pharmacy address for refill delivery, correct pharmacy updated in system. No other changes to plan. Tobacco counseling info sheet sent to patient portal as discussed.

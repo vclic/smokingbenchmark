@@ -1,0 +1,62 @@
+INTERNAL MEDICINE - FOLLOW UP VISIT
+Patient: Carol King (F) DOB 7/8/1973 Age 52
+Date of Service: 07/26/2025
+Provider: Farah Siddiqui, MD
+
+CHIEF COMPLAINT: f/u DM2, HTN, CKD3
+
+HPI: Ms King presents for routine f/u of htn, dm2 and ckd stage 3. She reports gluc logs mostly 130-160 fasting states she has 'been trying to watch what i eat but its hard with work schedule.' Denies chest pain, sob at rest, orthopnea. Some ankle swelling toward end of day, no PND. She takes lisinopril and metformin as directed, occasionally misses evening metformin dose. Mood reportedly stable on current antidepressant regimen although she notes 'some days are still tough.' No new fx, no back pain currently, continues calcium/vit D.
+
+Re tobacco use, when asked about cigs she stated 'I know i should stop, ive tried before but it doesnt stick.' Advised again re: smoking cessation resources, offered referral to quitline and discussion of pharmacologic aids (varenicline, NRT); px declined meds today, open to revisiting at next visit. Continues to smoke despite repeated counseling over multiple visits.
+
+ROS: otherwise negative except as above. + fatigue mild, denies fevers, chills, hematuria, dysuria, vision changes.
+
+PMH: T2DM, CKD stage 3, obesity, depression, osteoporosis
+PSH: none significant
+Meds: lisinopril 20mg daily, metformin 1000mg bid, sertraline 100mg daily, calcium/vit D supplement, atorvastatin 20mg qhs
+Allergies: NKDA
+
+SOCIAL HISTORY:
+Tobacco: (per EHR templated block, auto-populated at intake)
+ Smoking status: Current every day smoker
+ Packs/day: 0.50
+ Years: 29.00
+ Type: cigarettes
+Alcohol: occasional glass of wine, denies daily use
+Drugs: denies
+Occupation: office administrator
+Lives with: husband, one teenage son
+
+VITALS: BP 138/86 HR 78 RR 16 Temp 98.1F Wt 212 lb Ht 5'4" BMI 36.4
+
+EXAM:
+Gen: NAD, obese habitus, conversant
+HEENT: nc/at, no scleral icterus
+CV: RRR no m/r/g, trace bilateral ankle edema
+Resp: CTAB no wheeze/crackle
+Abd: soft nt/nd +bs
+Ext: trace edema b/l as noted, no clubbing/cyanosis
+Skin: intact, no rashes
+Neuro: A&Ox3, grossly nonfocal
+Psych: mood euthymic affect appropriate
+
+LABS/RESULTS (reviewed today):
+07/20/2025 - A1c 7.8% (prior 7.6% on 04/15/2025)
+07/20/2025 - Cr 1.4 mg/dL, eGFR 46 mL/min/1.73m2 (baseline stable, prior 47 on 01/10/2025)
+07/20/2025 - UACR 65 mg/g
+07/20/2025 - Lipid panel: TC 168, LDL 92, HDL 46, TG 150
+07/20/2025 - CBC wnl
+DEXA (12/2024): T-score -2.3 lumbar spine, on tx
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - A1c slightly worse from prior visit, cont metformin, reinforce diet/exercise, recheck a1c in 3 mo, consider adding additional agent if not improved given ckd (SGLT2 inhibitor discussed given renal-protective benefit, will consider at next visit pending renal fxn recheck)
+2. Hypertension - bp today mildly elevated but improved from last visit reading 144/90, cont lisinopril, reinforce low sodium diet, recheck in office
+3. CKD stage 3 - stable, egfr and uacr reviewed above, avoid nephrotoxic agents, f/u nephro as scheduled
+4. Obesity - BMI 36.4, discussed lifestyle modification, nutrition referral offered again, pt to consider
+5. Depression - stable on sertraline, continue, f/u psych prn
+6. Osteoporosis - continue calcium/vit d and current tx per DEXA, f/u dexa per schedule
+7. Tobacco use - continues to smoke despite counseling today; discussed cessation resources and pharmacotherapy options, pt declined meds at this time, will readdress next visit. Lung cancer screening discussed in general terms as part of preventive care conversation.
+
+f/u 3 months or sooner if needed, pt verbalizes understanding of plan
+
+Farah Siddiqui, MD

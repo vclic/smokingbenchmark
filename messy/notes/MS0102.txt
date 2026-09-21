@@ -1,0 +1,53 @@
+CARDIOLOGY PROGRESS NOTE
+DOS: 01/27/2025
+Author: Isaac Moreno, PA-C
+
+Pt: Rodriguez, Susan. F. DOB 1/27/1973 (age 52). Referred/f/u CAD, PAD, HTN for chest pain eval.
+
+CC: chest pain x several days, intermittent, exertional +/- rest pain, assoc SOB.
+
+HPI: 52yo F w/ PMH asthma, T2DM, CAD, HTN, PAD, depression p/w intermittent CP. Denies radiation to jaw/arm today, some diaphoresis noted last episode. No syncope. Home BP logs elevated per pt. Compliant meds per report but occasionally misses metformin.
+
+--- copied forward from 08/14/2024 visit note (Dr. Whitfield, Cardiology) ---
+52 y/o (at that time noted as 51) f w hx CAD s/p PCI, PAD claudication sx stable, HTN well controlled on lisinopril/amlodipine, DM2 on metformin, asthma using albuterol prn, depression on sertraline. Denies CP/SOB/palp at that visit. Exam: RRR, no m/r/g, lungs CTAB, no edema, distal pulses 1+ bilat feet. A1c 7.1 in chart. Lipid panel reviewed, LDL at goal on statin. Plan at that time: cont current regimen, f/u 6 mo, ABI stable, no change in PAD mgmt, refill meds.
+--- end copied section ---
+
+ROS: + CP, + mild dyspnea on exertion. Denies fever, cough, leg swelling change, vision changes. Mood stable-ish per pt, on sertraline.
+
+SOCIAL HX / TOBACCO (EHR templated block):
+Tobacco use: Current every day smoker
+Packs/day: 1.00
+Years: 36.00
+Type: cigarettes
+Counseling given: Yes
+Readiness to quit: Not ready to quit at this time
+Alcohol: occasional
+Illicit drug use: denies
+
+Assessment/Plan note re: tobacco - pt states she still smokes, aware of risks, has heard it before, "not ready" today. Brief cessation counseling provided again, offered NRT/varenicline, pt declined for now, will revisit at next visit. General discussion of smoking-related health risks had; no further imaging plan discussed today.
+
+MEDS: lisinopril, amlodipine, metformin, ASA 81, atorvastatin, albuterol prn, sertraline, clopidogrel.
+
+EXAM:
+Vitals: BP 148/88, HR 84, RR 16, SpO2 96% RA, wt stable.
+Gen: NAD, appears stated age.
+CV: RRR, no m/r/g appreciated today, no JVD.
+Resp: mild exp wheeze bilat, no distress.
+Ext: PAD - dec distal pulses b/l feet, no ulceration, no acute ischemia signs, cap refill nl.
+Neuro: grossly nonfocal.
+Psych: mood congruent, no SI/HI.
+
+A/P:
+1. Chest pain, r/o ACS - EKG done, no acute STEMI changes, trop pending. Will obtain repeat trop, consider stress test if neg. Cont ASA/statin/clopidogrel.
+2. CAD - stable currently, cont current meds.
+3. HTN - suboptimal control today, will uptitrate amlodipine.
+4. T2DM - cont metformin, recheck A1c.
+5. PAD - stable claudication, cont current mgmt, ABI to be repeated at f/u.
+6. Asthma - mild wheeze today, cont albuterol prn, consider controller if worsens.
+7. Depression - stable on sertraline, screen neg for SI today.
+8. Tobacco use - as above, still smoking 1ppd x36 yrs per template, not ready to quit, counseled.
+
+F/u 2-4 wks or sooner if sx worsen. Pt educated on return precautions for chest pain (call 911 if worsening/unrelenting).
+
+---ADDENDUM (later same day, 01/27/2025, 16:40)---
+Trop #1 resulted, within normal limits. Pt tolerated visit well, no acute distress on discharge from clinic. Reiterated smoking cessation resources available whenever pt ready; pt again states not ready to quit currently. Will cont plan as above, f/u as scheduled. -- Isaac Moreno, PA-C

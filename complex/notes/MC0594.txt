@@ -1,0 +1,44 @@
+Internal Medicine Progress Note
+Author: Elena Markovic, MD (NP visit)
+Date of Service: 08/05/2025
+Patient: Wayne Okafor, M, DOB 04/17/1948, Age: 77
+
+CC: F/u HTN, DM2.
+
+=== COPIED FORWARD FROM VISIT 02/12/2024 ===
+Pt c/o mild nocturia, uses CPAP nightly per report, compliance variable. Denies chest pain. BPH stable on tamsulosin. GERD well controlled on omeprazole. COPD stable, no recent exacerbations, uses albuterol PRN. Reviewed home glucose log, ranges 110-160. BP log reviewed, home readings 130s/80s. Continue current regimen, RTC 3 months.
+=== END COPIED FORWARD ===
+
+HPI: Pt here today for routine f/u of HTN and DM2. Reports doing well overall. No new sx. Occasional dyspnea on exertion, attributed to COPD, stable per pt. Adherent to meds.
+
+Problem List:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- N40.1 Benign prostatic hyperplasia with LUTS
+- G47.33 Obstructive sleep apnea
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- K21.9 GERD (outdated dx, may resolve)
+- Z87.891 Personal history of nicotine dependence
+
+Tobacco Use Template:
+Smoking status: Former smoker.
+Pack-years: 24.
+Years smoked: not specified in this field.
+Quit status: Quit.
+Quit date/notes: Pt reports not smoked since his 43rd birthday. Encouraged continued abstinence; counseled on relapse prevention resources available.
+
+ROS: Constitutional - no fever, no weight loss. Cardiac - no CP, no palpitations. Resp - occasional DOE, no cough, no hemoptysis. GI - no reflux sx today, no abd pain. GU - nocturia x1-2, no dysuria. Musculoskeletal - no new joint pain. Neuro - no focal deficits. Skin - no rashes. All other systems reviewed and negative.
+
+Physical Exam: Gen - well-appearing elderly male, NAD. Vitals: BP 128/76, HR 72, RR 16, T 98.2F, SpO2 96% RA, Wt stable. HEENT - NC/AT, PERRLA. Neck - no JVD, no thyromegaly. CV - RRR, no m/r/g. Lungs - mild expiratory wheeze bilat bases, no rales. Abd - soft, NT/ND, +BS. Ext - no edema. Neuro - grossly intact.
+
+Medications: Lisinopril 20mg daily, Metformin 1000mg BID, Tamsulosin 0.4mg qHS, Omeprazole 20mg daily, Albuterol HFA PRN, Atorvastatin 40mg daily, ASA 81mg daily.
+
+Assessment/Plan:
+1. HTN - stable, continue lisinopril.
+2. DM2 - stable, continue metformin, recheck A1c.
+3. COPD - stable, continue albuterol PRN, reinforced smoking cessation maintenance given prior tobacco history.
+4. BPH - stable, continue tamsulosin.
+5. GERD - stable, continue omeprazole.
+6. OSA - continue CPAP, reinforce compliance.
+Discussed lung health screening options in general terms; no imaging ordered today.
+RTC 3 months or sooner if concerns.

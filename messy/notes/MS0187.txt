@@ -1,0 +1,48 @@
+CARDIOLOGY H&P - HEART FAILURE FOLLOW-UP
+Patient: Larry Jones (M), DOB 1/19/1963, Age: 62
+Date of Service: 07/27/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: F/u CAD, HFrEF, CKD3, HTN.
+
+HPI: Mr. Jones is a 62 yo male with hx of CAD s/p PCI, HFrEF (EF 35% on last echo), CKD stage 3, and HTN, presenting for routine f/u. He reports doing 'about the same, maybe a little more winded going up the stairs.' No PND, no orthopnea beyond baseline 2-pillow. Denies chest pain, palpitations. Weight stable per pt, no significant edema noted. Says 'I've been taking my pills, I think, most days.' Diet non-compliance admitted - 'I had some chinese food last week, probably too salty.'
+
+Re: tobacco use, when asked pt stated "Yeah I still smoke, I know I should probably stop but I'm just not there yet."
+
+ROS: Otherwise negative except as above. No fevers, no cough, no hemoptysis.
+
+--- COPIED FROM NOTE DATED 02/27/2022 ---
+Social History (copied forward from 2/27/2022 note): Tobacco use: current smoker. No further detail available from that encounter.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (current, updated 07/27/2025):
+Alcohol: occasional, denies excess.
+Illicit drugs: denies.
+Lives with spouse, retired factory worker.
+
+TOBACCO HISTORY (EHR templated block):
+ Smoking status: Current every day smoker
+ Pack-years: 12 pack-years
+ Types used: cigarettes
+ Interest in quitting: Not ready to quit at this time
+ Counseling provided: Yes - advised to quit, discussed risks of continued tobacco use given cardiac/renal disease
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 96% RA, Wt 91 kg
+Gen: NAD, comfortable
+CV: RRR, S3 present, no significant murmur, JVP ~8cm
+Lungs: CTAB, no crackles
+Abd: soft, NT, no hepatomegaly
+Ext: trace bilateral pitting edema
+
+LABS (reviewed today): BNP 410 (up slightly from 350), Cr 1.6 (baseline), K 4.3, Na 138
+
+ASSESSMENT/PLAN:
+1. HFrEF (EF 35%) - stable, mild BNP increase likely dietary indiscretion. Continue GDMT (metoprolol succinate, sacubitril/valsartan, spironolactone, empagliflozin). Reinforce low-sodium diet.
+2. CAD - stable, continue atorvastatin, aspirin.
+3. CKD stage 3 - stable Cr, monitor K given spironolactone/ARNI combo, recheck BMP in 2 weeks.
+4. HTN - reasonably controlled, no med changes today.
+5. Tobacco use - current smoker, 12 pack-year history, not ready to quit; counseled on smoking cessation and cardiovascular/renal risk; discussed lung cancer screening as an option to consider in future; encouraged to think about quit date, offered resources including nicotine replacement/cessation counseling referral if interested down the road.
+6. F/u in 3 months or sooner if worsening symptoms; pt given return precautions re: weight gain >3lbs, increasing SOB, edema.
+
+Electronically signed: Owen Fitzgerald, MD

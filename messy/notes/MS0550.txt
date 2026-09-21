@@ -1,0 +1,87 @@
+TELEHEALTH VISIT NOTE
+Patient: Darnell Bennett (M), DOB 05/18/1963, Age: 60
+Date of Service: 10/04/2023
+Provider: Owen Fitzgerald, MD - Family Medicine
+Visit Type: Telehealth, Medication Refills
+
+CHIEF COMPLAINT: Medication refill visit / chronic disease follow-up (osteoarthritis, asthma, HFrEF, CAD, T2DM, osteoporosis).
+
+HPI:
+Mr. Bennett is a 60-year-old male seen today via telehealth for routine medication refills. He reports doing 'about the same' overall. Knees continue to bother him with prolonged standing, managed with acetaminophen and topical diclofenac. Asthma symptoms stable, using albuterol PRN maybe twice a week. He denies chest pain, orthopnea, or PND currently, though he does note some mild ankle swelling by end of day, unchanged from prior visits. Blood sugars per home log running 110-160 fasting. He is adherent to his osteoporosis regimen and takes calcium/vitamin D as directed.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Smoking amount: 20 cigarettes/day
+Smoking duration: 16 years
+Smokeless tobacco: Not on file
+Alcohol use: Former drinker
+Alcohol details: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+[Copied forward from visit dated 03/14/2022 - PCP Annual Exam Note, Dr. Fitzgerald]:
+"Patient presents for annual physical. Reports history of tobacco use, previously quit smoking in 2007 but relapsed in 2009 and has continued to smoke since. He has been counseled extensively on smoking cessation at prior visits including discussion of nicotine replacement therapy and varenicline, both of which he declined at that time. Patient also reports he quit drinking alcohol in 2004 and has remained sober from alcohol since. Cardiovascular exam at that time notable for regular rate and rhythm, no murmurs appreciated, trace bilateral lower extremity edema. Musculoskeletal exam with crepitus of bilateral knees, no effusion. Labs from that visit: HbA1c 7.4%, LDL 98 mg/dL, BNP 210 pg/mL. Plan at that time included continuation of current medication regimen, follow up in 6 months, and reinforcement of cardiac and diabetic diets."
+[End copied forward text]
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, denies palpitations; endorses mild ankle swelling as above.
+Respiratory: Denies hemoptysis; occasional wheeze with exertion, no acute distress.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic bilateral knee pain, stable.
+Skin: Denies rashes, lesions.
+Neurological: Denies weakness, numbness, tingling.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic: Denies easy bruising or bleeding.
+Allergic/Immunologic: Denies seasonal allergy symptoms.
+
+PHYSICAL EXAM (telehealth, limited):
+General: Alert, well-appearing, no acute distress, appropriate for telehealth encounter.
+Vital signs (patient reported/home cuff): BP 132/78, HR 76, home glucose log reviewed, weight per home scale 210 lbs.
+Cardiovascular: Unable to auscultate via telehealth; patient denies chest pain or palpitations.
+Respiratory: Speaking in full sentences, no visible respiratory distress on camera.
+Extremities: Patient reports mild bilateral ankle swelling by end of day, no redness or warmth noted by patient.
+Skin: No rashes visualized on camera.
+Mental status: Alert, oriented, cooperative, appropriate affect.
+
+LABS/RESULTS (reviewed today):
+09/28/2023 - Basic Metabolic Panel: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Creatinine 1.0, Glucose 142
+09/28/2023 - HbA1c: 7.6%
+09/28/2023 - Lipid Panel: Total Cholesterol 172, LDL 101, HDL 42, Triglycerides 145
+09/28/2023 - BNP: 245 pg/mL
+08/15/2023 - DEXA scan: T-score -2.6 lumbar spine, stable from prior study
+07/2023 - Echocardiogram: EF 35%, unchanged from prior, mild to moderate mitral regurgitation
+
+CURRENT MEDICATIONS:
+1. Metoprolol succinate 50 mg daily
+2. Lisinopril 10 mg daily
+3. Furosemide 20 mg daily
+4. Atorvastatin 40 mg daily
+5. Aspirin 81 mg daily
+6. Metformin 1000 mg twice daily
+7. Empagliflozin 10 mg daily
+8. Albuterol HFA inhaler PRN
+9. Fluticasone/salmeterol inhaler twice daily
+10. Alendronate 70 mg weekly
+11. Calcium carbonate/vitamin D3 daily
+12. Acetaminophen 650 mg PRN knee pain
+13. Diclofenac gel topical PRN
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder - Patient continues to smoke 20 cigarettes per day, with a 16-year smoking history. He remains a current smoker and states he is not ready to quit at this time despite prior counseling and past attempts, including a quit period in 2007 with relapse in 2009. Discussed ongoing cardiovascular and pulmonary risks of continued smoking in setting of known CAD, HFrEF, and asthma. Lung cancer screening was discussed conceptually as part of general risk counseling. Patient again declined pharmacotherapy for cessation today but agreed to think about it. Will continue to offer support and revisit at next visit.
+2. Heart failure with reduced EF - Stable on current regimen, BNP essentially unchanged from prior, continue current diuretic and GDMT, follow up echo in 6-12 months.
+3. Coronary artery disease - Continue aspirin, statin, beta-blocker; LDL at goal.
+4. Type 2 diabetes mellitus - HbA1c 7.6%, slightly above goal; continue metformin and empagliflozin, reinforce dietary counseling.
+5. Osteoarthritis - Continue acetaminophen and topical diclofenac as needed, discussed weight management and low-impact exercise.
+6. Osteoporosis - Continue alendronate, calcium/vitamin D; DEXA stable, repeat in 2 years.
+7. Alcohol use - Patient reports he quit drinking alcohol in 2004 and remains abstinent; no current concerns.
+
+All refills sent to pharmacy of record. Follow up in 3 months or sooner if symptoms worsen. Telehealth visit concluded, patient verbalized understanding of plan.
+
+Owen Fitzgerald, MD

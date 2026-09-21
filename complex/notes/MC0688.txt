@@ -1,0 +1,69 @@
+CLINIC NOTE - PULMONOLOGY
+Patient: Gloria Martinez | DOB: 04/30/1955 | Age: 69 | Sex: F
+Date of Service: 04/30/2024
+Author: Daniel Reyes, MD
+
+=== NURSE INTAKE ===
+Vitals: BP 138/82, HR 84 irreg (known AF), RR 18, SpO2 94% RA, Temp 98.1F, Wt 176 lb
+CC: f/u incidental lung nodule found on CT chest 2 mos ago during CHF w/u.
+
+SOCIAL HISTORY (EHR TEMPLATE)
+---------------------------------
+Tobacco Use Status: Current Every Day Smoker
+Type: Cigarettes
+Packs/day (current): 1/4 ppd (~5 cigs/day) x 26 yrs, ongoing
+Packs/day (prior): 1/2 ppd (~10 cigs/day) x 22 yrs, then cut back
+Smokeless tobacco: Not on file
+Secondhand smoke exposure: Not on file
+Alcohol Use: Denies
+Drug Use: Not on file
+Occupation: Retired seamstress
+Living Situation: Lives w/ daughter
+---------------------------------
+
+Pt seen for f/u appt, brought to exam room, chart reviewed. Pulse ox and weight obtained as above. Pt reports occasional dyspnea on exertion, no fevers/chills, no hemoptysis.
+
+=== PHYSICIAN PROGRESS NOTE ===
+
+PROBLEM LIST:
+- I50.22 Chronic systolic (congestive) heart failure
+- J45.909 Asthma, unspecified
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Atrial fibrillation, unspecified
+- R91.1 Solitary pulmonary nodule (incidental finding, 4/2024)
+- Z87.891 Personal history of nicotine dependence (outdated - pt still smoking, see below)
+
+HPI:
+Ms. Martinez is a 69 yo F w/ PMHx of HFrEF, asthma, HTN, T2DM, and AFib who presents today for f/u of an incidentally noted lung nodule seen on CT chest obtained during a recent CHF exacerbation eval. She states, "I feel about the same, maybe a little more short of breath when I climb stairs." Denies chest pain, hemoptysis, fevers, night sweats, or unintentional weight loss. She reports med compliance overall though admits occasionally missing her evening diuretic dose. No recent hospitalizations since d/c in Feb.
+
+Regarding smoking, she is an active smoker as noted in the tobacco block above - she has cut down over the years but continues to smoke daily. When asked about quitting, she states, "I've tried a few times but it's hard, especially with everything else going on." She was counseled again today on smoking cessation, offered referral to the tobacco quitline, and nicotine replacement options were discussed. She was receptive but not ready to set a quit date today.
+
+ROS: Otherwise negative in detail except as above. Cardiac: no palpitations today, occasional ankle swelling improved w/ current diuretic dose. Resp: mild DOE as above, no cough, no wheeze currently. Endo: BG logs reviewed, mostly 120-160 fasting.
+
+EXAM:
+Gen: NAD, comfortable, sitting in chair
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD, trace pedal edema b/l
+Resp: mild bibasilar crackles, no wheezes, no accessory muscle use
+Abd: soft, NT/ND
+Ext: trace edema as above, no clubbing/cyanosis
+
+DATA REVIEWED:
+CT chest (4/2024, outside imaging reviewed): 8mm noncalcified nodule RUL, incidental, no other concerning findings, mediastinum unremarkable.
+Echo (2/2024): EF 35%, mild MR.
+A1c (3/2024): 7.2%
+
+ASSESSMENT/PLAN:
+1. Solitary pulmonary nodule, RUL, incidental - given nodule characteristics, will obtain repeat low-dose imaging per standard nodule f/u protocol in several months for interval comparison. Risks/benefits of ongoing surveillance discussed with patient, including her ongoing tobacco use as a relevant risk factor. Lung cancer screening was discussed in general terms with the patient; further imaging decisions will be individualized.
+2. Tobacco use, active - counseled extensively today, discussed cessation resources including quitline (1-800-QUIT-NOW) and nicotine patch/gum. Pt not ready to quit today but open to revisiting at next visit. Will continue to address at each encounter.
+3. HFrEF - stable on current regimen, continue metoprolol succinate, lisinopril, spironolactone, and furosemide. Reinforce daily weight checks and low-Na diet.
+4. Asthma - well controlled, continue albuterol PRN and low-dose ICS.
+5. HTN - at goal today, continue current antihypertensives.
+6. T2DM - A1c 7.2%, continue metformin, reinforce diet/exercise.
+7. AFib - rate controlled on metoprolol, continue apixaban for anticoagulation, INR/renal fxn N/A (on DOAC), will check renal panel at next visit.
+
+F/u in pulm clinic per nodule protocol; f/u with cardiology and PCP as previously scheduled. Pt verbalized understanding of plan and agreed with above.
+
+---
+ADDENDUM (later same day, 04/30/2024, 4:15 PM) - D. Reyes, MD:
+Spoke further with patient by phone after she called clinic with a question about her nodule f/u imaging timing. Reassured her that interval imaging will be scheduled per standard protocol and that she will be contacted with details. Reiterated importance of smoking cessation given her multiple comorbidities. She verbalized understanding. No changes to plan above.

@@ -1,0 +1,71 @@
+NURSE INTAKE
+DOS: 07/29/2023
+Pt: Wei Wright, M, DOB 05/18/1959, age 64
+Visit: Vascular Surg - PAD eval, Dr. Owen Fitzgerald
+
+VS: BP 148/86, HR 78, RR 16, Wt 198 lb, SpO2 96% RA
+CC: b/l calf pain c/ ambulation, worse over past few mo, ? claudication
+
+PMH: asthma, HLD, CKD stage 3, HTN, GERD
+
+SOCIAL HX / TOBACCO USE (EHR TEMPLATE):
+---
+Tobacco use: Yes
+Type: cigarettes
+Amt: 1.5 packs/day
+Duration: 46 years
+Quit date: N/A
+Counseling given: Yes - advised to quit, discussed cessation resources
+---
+
+ROS: pos for leg pain/cramping w/ walking, denies chest pain, denies SOB at rest, occas wheeze (asthma stable per pt)
+
+=== COPIED FORWARD FROM PRIOR NOTE 03/29/2020 (Vascular Surg f/u) ===
+Pt seen for routine f/u, PAD sx stable at that time. Soc hx reviewed: current smoker, continues to use tobacco, counseled on cessation, pt not ready to quit at that visit. Meds reviewed, no changes made. Labs reviewed - lipid panel stable. Pt to f/u in 6 mo or sooner if worsening sx.
+=== END COPIED SECTION ===
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+DOS: 07/29/2023
+
+HPI: 64M w/ PAD, HTN, HLD, CKD3, asthma, GERD presents for eval of b/l calf claudication, worsening. Pt reports pain onset after ~2 blocks walking, relieved w/ rest. No rest pain, no ulcers noted on exam. Continues to smoke despite counseling given at prior visits - pt states he is aware of risks but has not been able to quit. Denies chest pain, palpitations, syncope.
+
+PMH: asthma (stable, uses albuterol prn), HLD (on statin), CKD stage 3 (baseline Cr ~1.6), HTN (on lisinopril), GERD (on omeprazole)
+
+Meds: atorvastatin 40mg qd, lisinopril 20mg qd, omeprazole 20mg qd, albuterol HFA prn
+
+Allergies: NKDA
+
+Exam:
+Gen: NAD, well-appearing male
+CV: RRR, no m/r/g
+Resp: CTAB, mild exp wheeze
+Ext: b/l LE cool to touch distally, dim DP/PT pulses b/l, no ulcers, no edema, cap refill ~3 sec
+Skin: no rubor/dependent changes noted
+
+Labs (reviewed, from today): BMP - Cr 1.7, eGFR ~42, K 4.3, Na 138; Lipid panel - LDL 118, HDL 38, TG 210
+
+Imaging: ABI ordered, pending. Prior duplex from outside facility reportedly showed b/l femoral disease, records requested.
+
+Assessment:
+1. PAD, symptomatic - claudication worsening, tobacco use ongoing major risk factor
+2. Tobacco use disorder - pt continues to smoke 1.5 ppd x46 yrs despite counseling given at multiple visits; strongly re-counseled today re: smoking cessation given direct impact on PAD progression, offered referral to cessation program, pt declined at this time but will consider
+3. HTN - reasonably controlled today
+4. HLD - LDL above goal, will continue statin, consider dose increase
+5. CKD stage 3 - stable, monitor Cr
+6. Asthma - stable
+7. GERD - stable on current regimen
+
+Plan:
+- ABI today, f/u results
+- Consider CTA lower extremities if ABI abnormal
+- Cessation counseling reiterated; pt given written materials, discussed nicotine patch/varenicline options, pt to think about it
+- General discussion of smoking's broad health risks including vascular and pulmonary disease; general topic of lung cancer screening briefly mentioned as something to discuss further with PCP, deferred to primary care for further work-up
+- Continue atorvastatin, consider increasing dose next visit if LDL remains elevated
+- Continue lisinopril, monitor BP
+- Renal panel recheck in 3 mo
+- f/u Vascular Surg in 4-6 wks w/ ABI results, sooner if worsening sx (rest pain, non-healing wound, etc - pt educated on red flags)
+- Pt verbalizes understanding of plan
+
+Time spent: 25 min, >50% counseling/coordination of care
+
+Electronically signed: Owen Fitzgerald, MD, Vascular Surgery, 07/29/2023

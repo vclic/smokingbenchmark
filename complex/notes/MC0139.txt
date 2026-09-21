@@ -1,0 +1,27 @@
+Cardiology Progress Note
+Date of Service: 08/03/2024
+Author: Julia Brennan, MD (NP visit co-signed)
+Patient: Leonard Henderson, M, DOB 02/28/1973, Age: 51
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Mr. Henderson is a 51-year-old male with history of CAD, hyperlipidemia, hypothyroidism, BPH, and osteoarthritis, presenting for routine follow-up of his heart failure management. He states, "I've been feeling pretty good, no real shortness of breath lately." He denies orthopnea, PND, or lower extremity edema. He reports mild fatigue after climbing stairs but attributes this to his knee arthritis limiting activity. He has been compliant with his diuretic and beta-blocker. No chest pain, palpitations, or syncope reported. Denies recent weight gain. Diet has been "mostly low salt, but I cheat on weekends."
+
+SOCIAL HISTORY: Never used tobacco in any form (never smoker). Denies alcohol or illicit drug use. Lives with spouse, retired postal worker.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiovascular: as above, denies chest pain. Respiratory: denies cough, wheeze, dyspnea at rest. GI: denies nausea, vomiting, diarrhea, constipation. GU: reports nocturia x2, known BPH. Musculoskeletal: chronic knee pain, stable. Endocrine: denies heat/cold intolerance, on levothyroxine. Neuro: denies dizziness, syncope. Skin: no rashes. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 128/78, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Weight 198 lbs (stable from last visit). General: well-appearing, no acute distress. HEENT: normocephalic, atraumatic, no JVD. Cardiovascular: RRR, no murmurs/gallops/rubs. Lungs: clear to auscultation bilaterally, no crackles or wheezes. Abdomen: soft, non-tender, non-distended. Extremities: no edema, pulses 2+ bilaterally. Skin: warm, dry, intact. Neuro: alert and oriented x3, no focal deficits.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- I25.10 Coronary artery disease without angina
+- E78.5 Hyperlipidemia
+- E03.9 Hypothyroidism
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms
+- M17.0 Osteoarthritis, bilateral knees (chronic, stable)
+- I10 Essential hypertension (resolved per prior note, retained for continuity)
+
+MEDICATIONS: Metoprolol succinate 50mg daily, Furosemide 20mg daily, Atorvastatin 40mg nightly, Levothyroxine 75mcg daily, Tamsulosin 0.4mg daily, Aspirin 81mg daily, Acetaminophen PRN knee pain, Vitamin D3 2000 IU daily.
+
+ASSESSMENT/PLAN: 51-year-old male with stable HFrEF/CAD, doing well on current regimen. Continue current medications. Recheck BMP and BNP prior to next visit. Encourage low sodium diet. Follow up in 3 months or sooner if symptoms worsen. Screening discussions deferred to PCP as appropriate.

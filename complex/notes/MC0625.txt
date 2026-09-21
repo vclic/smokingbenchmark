@@ -1,0 +1,77 @@
+VASCULAR SURGERY - RESIDENT NOTE with ATTENDING ATTESTATION
+DOS: 06/04/2025
+Author: Isaac Moreno, PA-C
+
+Patient: Betty Schmidt, F, DOB 6/4/1966 (age 59)
+
+CC: PAD eval, claudication sx worsening x several mo
+
+HPI: 59 yo F w/ hx obesity, gout, GERD, OSA, HFrEF presents for f/u re: peripheral artery disease. Pt reports bilat calf pain w/ ambulation, relieved w/ rest. No rest pain, no ulceration noted. Pt states she quit smoking right after her heart attack and has not smoked since. Denies chest pain today, denies SOB at rest.
+
+PMH:
+- Obesity
+- Gout
+- GERD
+- OSA (on CPAP)
+- HFrEF (EF ~35% on last echo)
+- NSTEMI with stent (2018)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+  - Pk/yr calc: Not on file
+  - Detail: pt reports smoked 1.5 packs per day for 11 years, then decreased to about 8 cigarettes per day for the next 18 years before quitting
+Alcohol use: quit drinking etoh in 2013
+Drug use: denies
+Occupation: retired
+Living situation: lives w/ spouse
+Exercise: limited 2/2 claudication
+
+ROS: (templated, 14-pt system review)
+Constitutional: denies fever, chills, wt loss
+Cardiovascular: + claudication as above, denies palpitations
+Respiratory: denies cough, denies hemoptysis
+GI: + occasional reflux sx, on PPI
+GU: denies dysuria
+MSK: + gout flares intermittently, denies acute flare today
+Skin: denies rash, denies non-healing wounds
+Neuro: denies numbness/tingling
+Psych: denies depression/anxiety
+Endo: denies polyuria/polydipsia
+Heme/Lymph: denies easy bruising
+Allergy/Immun: NKDA
+All other systems reviewed and negative.
+
+MEDS:
+1. Furosemide 40mg daily
+2. Metoprolol succinate 50mg daily
+3. Sacubitril-valsartan 24-26mg BID
+4. Atorvastatin 40mg qhs
+5. Allopurinol 100mg daily
+6. Omeprazole 20mg daily
+7. Aspirin 81mg daily
+8. Clopidogrel 75mg daily
+9. Multivitamin daily
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 96% RA, wt 215 lb
+Gen: obese female, NAD
+CV: RRR, no m/r/g appreciated, 2+ pitting edema b/l LE
+Resp: CTAB
+Abd: soft, obese, NT/ND
+Ext: b/l LE w/ dimished dorsalis pedis and posterior tibial pulses, no ulcers, no gangrene, cap refill <3sec
+Skin: no lesions
+Neuro: grossly intact
+
+ASSESSMENT/PLAN:
+59F w/ PAD, HFrEF, h/o NSTEMI s/p stent 2018, former smoker as above.
+1. PAD - will obtain ABI, consider further imaging depending on results. Counseled on walking program, foot care education given.
+2. Tobacco - pt is former smoker, quit after her heart attack; reinforced importance of continued abstinence. Screening for lung cancer was discussed with patient.
+3. HFrEF - continue GDMT as above, stable on current regimen.
+4. Gout - stable, continue allopurinol.
+5. GERD - stable on PPI.
+6. OSA - continue CPAP compliance.
+7. Obesity - counseled on diet/exercise as tolerated given claudication limits.
+
+F/u in 4-6 wks or sooner if sx worsen.
+
+Electronically attested by supervising attending, Dr. R. Alvarez, Vascular Surgery.

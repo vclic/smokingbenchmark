@@ -1,0 +1,48 @@
+URGENT CARE VISIT NOTE
+Patient: Betty King (F), DOB 3/5/1951, Age 72
+Date of Service: October 3, 2023
+Author: Isaac Moreno, PA-C
+Location: Urgent Care
+
+CHIEF COMPLAINT: Cough
+
+HPI: Ms. King is a 72 year old female with history of obesity and coronary artery disease who presents today, October 3, 2023, with a cough for approximately 5 days. Patient states "it's this dry hacking cough that just won't quit, keeps me up at night." She denies fever but reports some chest tightness that she says is "different from my usual angina, more up in my throat." She denies hemoptysis, denies significant dyspnea at rest, though she notes she gets a little winded going up the stairs at home, which she says is "about the same as always for me." No recent travel, no sick contacts that she recalls, though she mentions her grandson had "some kind of cold" a week or so ago when he visited.
+
+She was seen for similar cough about two years back and it resolved with supportive care per her report, though records of that visit are not available in this system.
+
+Social history: The patient is a former smoker. She has a 30 pack-year smoking history and quit smoking in 1989. She denies current tobacco use, denies vaping, denies illicit drug use. Reports rare alcohol use, "maybe a glass of wine on holidays." Lives with husband, retired from clerical work.
+
+[COPIED FORWARD FROM VISIT DATED 04/12/2021 - PRIMARY CARE NOTE, DR. ANITA SUAREZ]
+PMH: Obesity (BMI 33), Coronary artery disease s/p PCI to LAD 2015, hyperlipidemia, hypertension, GERD. Meds: atorvastatin 40mg daily, metoprolol succinate 50mg daily, aspirin 81mg daily, omeprazole 20mg daily, lisinopril 10mg daily. Allergies: NKDA. FH: mother with breast cancer, father with MI at age 60. Social: lives with husband, non smoker currently in home, denies illicit drug use, exercises occasionally per pt report, works on her feet most of the day she says which she feels helps keeps her weight down although the doctor and her discussed further dietary modification and she was refered to nutrtion for further counsleing and she was ecouraged to follow up with cardiology as scheduled and continue her home medications as prescribed the patient verbalized understanding and agreed with the plan. ROS: positive for occasional joint pain in knees, otherwise negative in detail per prior note. Exam at that time notable for regular rate and rhythm, lungs clear, no edema, BMI 33 obese habitus noted. Plan at that time: continue statin, follow up with cardiology, recheck lipids in 6 months, discussed weight managment strategies including refferal to dietician as above.
+[END COPIED SECTION]
+
+REVIEW OF SYSTEMS (today): Constitutional - denies fever, denies chills, reports mild fatigue. Respiratory - positive for cough as above, denies wheeze, denies hemoptysis. Cardiovascular - denies palpitations, denies syncope, reports occasional chest tightness as noted above. GI - denies nausea, denies vomiting, reports occasional heartburn managed with omeprazole. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.4 F, SpO2 96% on room air, Weight 198 lbs, BMI 32.9
+General: Well-developed, well-nourished female in no acute distress, alert and oriented x3
+HEENT: Oropharynx mildly erythematous, no exudate, nares patent, TMs clear bilaterally
+Neck: Supple, no lymphadenopathy, no jvd noted
+Cardiovascular: Regular rate and rhythm, no murmurs rubs or gallops appreciated, 2+ peripheral pulses
+Respiratory: Mild expiratory wheeze bilateral bases, no rales, no rhonchi, good air movement, patient coughed several times during exam [inaudible] sounded productive
+Abdomen: Soft, obese, non-tender, non-distended, bowel sounds normal
+Extremities: No edema, no cyanosis, no clubbing
+Skin: Warm, dry, intact
+
+LABS/RESULTS (today, 10/03/2023):
+Rapid COVID-19 antigen: Negative
+Rapid Strep: Negative
+CXR (PA/Lateral), 10/03/2023: No acute infiltrate, no consolidation, mild hyperinflation, heart size within normal limits, no effusion noted, impression - no acute cardiopulmonary process
+CBC (10/03/2023): WBC 7.2, Hgb 13.1, Hct 39.4, Plt 245
+BMP (10/03/2023): Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Creatinine 0.9, Glucose 104
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral etiology given CXR findings and negative rapid testing
+2. Coronary artery disease, stable, chest tightness likely musculoskeletal or related to cough given exam findings
+3. Obesity
+4. History of tobacco use, remote
+
+PLAN:
+Discussed supportive care for bronchitis including hydration, rest, over the counter cough suppressant as needed, and use of honey/tea for symptomatic relief. Advised to return or seek care sooner if fever develops, worsening shortness of breath, or chest pain that is concerning for cardiac etiology given her CAD history. Given her age and smoking history we discussed lung cancer screening in general terms and she will follow up with her primary care provider, Dr. Suarez, to discuss further as an outpatient. Continue home cardiac medications as prescribed. Follow up with cardiology as previously scheduled. Return to urgent care or ED for any red flag symptoms. Patient verbalized understanding of plan and agreed to follow up as directed. Will fax note to PCP office.
+
+Electronically signed: Isaac Moreno, PA-C, 10/03/2023

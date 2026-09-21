@@ -1,0 +1,90 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 04/04/2023
+Author: Isaac Moreno, PA-C
+
+Patient: Dorothy Martin
+DOB: 04/04/1950 (age 73)
+MRN: on file
+
+CHIEF COMPLAINT: Establish care.
+
+HPI: Ms Martin is a 73 y/o female presenting today to establish primary care after relocating to the area last month. She reports her CKD stage 3, PAD, asthma, HTN, osteoarthritis, and GERD are all longstanding and previously managed by outside providers whose records are pending transfer. She states "I just want someone local who knows my whole history now." She denies chest pain, denies hemoptysis, and denies unexplained weight loss. She endorses mild bilateral knee pain worse with stairs, and intermittent claudication in her calves after walking about 2 blocks, which is stable compared to prior. Asthma is well controlled on her current inhaler regimen with no recent exacerbations. GERD symptoms occur occasionally at night, improved with head-of-bed elevation. She has not had recent bloodwork since moving and requests routine labs today.
+
+She reports "I've never touched a cigarette in my life, not even one." She adds that her father was a heavy smoker for most of his adult life and unfortunately died of lung cancer, which she says is part of why she has always avoided tobacco herself.
+
+PAST MEDICAL HISTORY:
+- Chronic kidney disease stage 3
+- Peripheral artery disease
+- Asthma
+- Hypertension
+- Osteoarthritis
+- GERD
+
+PAST SURGICAL HISTORY: Cholecystectomy, remote, year unknown.
+
+MEDICATIONS (per patient report, to be reconciled):
+- Lisinopril 10mg daily
+- Albuterol MDI PRN
+- Omeprazole 20mg daily
+- Acetaminophen PRN for joint pain
+- Aspirin 81mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Never used
+Smoking pack-years: N/A
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives alone, daughter nearby
+Exercise: Walks short distances, limited by claudication
+Diet: Reports low-sodium diet attempt
+Family smoking exposure: Father - heavy smoker, deceased, lung cancer
+
+FAMILY HISTORY: Father - heavy smoker, died of lung cancer. Mother - hypertension, deceased age 81. No siblings with known malignancy.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies weightloss
+Respiratory: denies cough, denies dyspnea at rest, mild exertional dyspnea stable
+Cardiovascular: denies chest pain, positive for calf claudication as above
+GI: occasional reflux, denies melena, denies hematochezia
+GU: denies dysuria, denies hematuria
+Musculoskeletal: chronic knee pain, denies acute swelling
+Neuro: denies focal weakness, denies numbness
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 168 lb, Ht 5'4"
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: no JVD, no thyromegaly
+Cardiovascular: RRR, no murmurs, distal pulses diminished bilaterally in feet, no edema
+Respiratory: clear to auscultation bilaterally, no wheezes, no crackles
+Abdomen: soft, nontender, nondistended, no organomegaly
+Extremities: mild cool distal extremities, no ulcers noted today, chronic venous changes absent
+Musculoskeletal: bilateral knee crepitus, no effusion, ROM preserved
+Skin: no rashes, no lesions
+
+LABS/RESULTS (drawn today 04/04/2023, results pending except point-of-care):
+POC Glucose: 104 mg/dL
+Urine dipstick: trace protein, no blood, no leukocytes
+
+Pending labs to follow up: BMP, CBC, lipid panel, HbA1c, urine microalbumin/creatinine ratio
+
+Prior outside labs (per patient report, not verified, approx 6 months ago):
+Creatinine: 1.4 mg/dL
+eGFR: 45 mL/min/1.73m2
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable per patient report, will obtain updated BMP and urine microalbumin today, continue ACE inhibitor, renal diet counseling given.
+2. Peripheral artery disease - stable claudication symptoms, continue aspirin, encourage supervised walking program, will consider ABI if records unavailable.
+3. Asthma - well controlled, continue albuterol PRN, reviewed inhaler technique.
+4. Hypertension - BP slightly elevated today at 138/82, continue lisinopril, recheck at next visit, home BP log requested.
+5. Osteoarthritis - continue acetaminophen PRN, discussed weight-bearing exercise as tolerated given PAD limitations.
+6. GERD - continue omeprazole, reinforced lifestyle measures.
+7. Health maintenance - discussed age-appropriate cancer screening in general terms. Reassured patient that continued tobacco avoidance remains appropriate given she has never smoked; no tobacco-related counseling needed beyond this. Pneumococcal and influenza vaccination status to be reviewed at next visit. Records request faxed to prior PCP office.
+
+Return to clinic in 4-6 weeks or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Electronically signed by Isaac Moreno, PA-C

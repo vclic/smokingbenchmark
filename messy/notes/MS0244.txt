@@ -1,0 +1,70 @@
+CARDIOLOGY RESIDENT NOTE
+Date of Service: 11/16/2023
+Author: Elena Markovic, MD (resident), with attending attestation
+
+Patient: Gwendolyn Adams | DOB: 1/18/1952 | Age: 71 | Sex: F
+
+CC: Chest pain evaluation.
+
+HPI: 71-year-old female with hx of GERD, BPH, hypothyroidism presenting with intermittent chest discomfort x several days. Pt describes pressure-like sensation, non-radiating, not clearly exertional. Denies SOB at rest. No syncope. Has had similar episodes in past attributed to reflux. Reports episodes worse after large meals. No fevers, no palpitations. Was seen in ED 2 days ago, troponin negative, EKG NSR w/o acute ischemic changes.
+
+ROS: Constitutional - denies fever, chills, weight loss. Cardiac - as above, denies orthopnea, PND, LE edema. Resp - denies cough, wheeze, hemoptysis. GI - reports occasional heartburn, denies hematemesis, melena. GU - reports nocturia, frequency, consistent w/ known BPH. Endo - denies cold intolerance, denies palpitations (on levothyroxine). Neuro - denies HA, dizziness, focal weakness. MSK - denies chest wall tenderness on exam. Skin - no rashes. Psych - denies depression, anxiety symptoms currently. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated):
+- Tobacco use: Former smoker.
+- Smoking history: 10 pack-year smoking history.
+- Quit smoking: Approximately 3 years ago.
+- Alcohol use: Former drinker; quit drinking alcohol in 2017.
+- Drug use: Not on file.
+- Occupation: Retired.
+- Living situation: Lives with spouse.
+- Exercise: Not on file.
+
+PMH: GERD, BPH, hypothyroidism.
+PSH: Cholecystectomy (remote).
+FH: Not on file.
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg PO daily
+2. Omeprazole 20 mg PO daily
+3. Tamsulosin 0.4 mg PO qhs
+4. Finasteride 5 mg PO daily
+5. Aspirin 81 mg PO daily
+6. Atorvastatin 20 mg PO qhs
+7. Metoprolol succinate 25 mg PO daily
+8. Calcium carbonate PRN
+9. Multivitamin daily
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 98% RA.
+General: Well-appearing, NAD, alert and oriented x3.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear.
+Neck: Supple, no JVD, no carotid bruits.
+CV: RRR, no murmurs/rubs/gallops appreciated, no lower extremity edema.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Abd: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No cyanosis/clubbing/edema, pulses 2+ throughout.
+Skin: Warm, dry, intact.
+Neuro: CN II-XII grossly intact, motor/sensory intact, gait not assessed today.
+
+LABS/STUDIES REVIEWED: Troponin (ED) negative x1. EKG NSR, no acute ST changes. Lipid panel reviewed from prior visit, stable. TSH within normal limits on current dose.
+
+ASSESSMENT:
+71 y/o F with hx GERD, BPH, hypothyroidism p/w atypical chest pain, likely reflux-related given symptom pattern and negative cardiac workup so far. History notable for prior tobacco use (former smoker, 10 pack-year history, quit approx 3 years ago) and history of alcohol use, quit 2017 - reviewed for cardiovascular risk stratification purposes.
+
+PLAN:
+1. Chest pain - likely GERD-related given symptom pattern; will continue PPI, consider dose adjustment if symptoms persist. Cardiac etiology felt less likely given negative troponin and unremarkable EKG, but will obtain outpatient stress test for further risk stratification given age and cardiovascular risk factors.
+2. Continue home aspirin, statin, beta-blocker.
+3. GERD - continue omeprazole, counsel on dietary modification (avoid large meals, reduce caffeine/spicy foods), avoid lying down after meals.
+4. BPH - continue tamsulosin/finasteride, urology follow-up as scheduled.
+5. Hypothyroidism - TSH stable on current levothyroxine dose, continue same, recheck in 6 months.
+6. Tobacco - discussed relevance of prior smoking history to cardiovascular risk; encouraged continued abstinence.
+7. Alcohol - reinforced continued abstinence given prior history, no current concerns.
+8. Follow-up in cardiology clinic in 4 weeks or sooner if symptoms worsen; return to ED for chest pain with associated diaphoresis, radiation, or SOB.
+
+Attending attestation: I have reviewed the resident's note, examined the patient, and agree with the assessment and plan as documented above. Discussed case in detail with Dr. Markovic.
+
+/s/ Elena Markovic, MD (Resident)
+Attending: Dr. R. Whitfield, MD, Cardiology

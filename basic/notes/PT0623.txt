@@ -1,0 +1,47 @@
+Pulmonology Clinic Note
+Date of Service: January 20, 2025
+Pt: Sandra Butler   DOB: 3/16/1957   MRN: 67469095
+
+S:
+CC: Pulmonary nodule f/u
+HPI: 67F w/ HTN here for follow-up of a pulmonary nodule. Incidental 5 mm part-solid RUL nodule on CT March 20, 2024 (CT abdomen, lung bases). Asymptomatic.
+
+PMH: HTN
+Meds: losartan 50 mg daily
+Allergies: Penicillin (rash)
+SH: Lives with husband in a single-family home. Never used tobacco. EtOH: none since 1999 (hx AUD). No IVDU.
+FH: Father - colon cancer at 68. Mother - rheumatoid arthritis.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 143/94  HR: 85  RR: 16  Temp: 98.1 F  SpO2: 97% on RA  Wt: 135 lbs  BMI: 21.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (12/27/2024): Cr 0.85, K 4.2
+
+A/P:
+1. Pulmonary nodule: Low-risk patient per Fleischner. Repeat CT chest in 3 mos.
+2. Hypertension
+   - Elevated today; home BP log requested.
+3. Health maintenance
+   - Lung cancer screening: not indicated (never smoker).
+
+RTC 3 mos.
+
+Seen and discussed with resident Dr. Carter. I personally saw and examined the patient and agree with the findings and plan as documented.
+Catherine Lindqvist, DO

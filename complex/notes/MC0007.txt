@@ -1,0 +1,31 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Diane Russell (F), DOB 4/21/1955, age 70
+Date of Service: 04/21/2025
+Author: Teresa Alvarez, NP
+
+HPI: Patient presents for pre-op medical clearance ahead of right total knee replacement scheduled with Dr. Kim's orthopedic group. She reports progressive knee pain limiting ambulation, worse with stairs. No chest pain, no syncope. She has been compliant with diuretic regimen for her known heart failure with reduced EF. GERD symptoms are well controlled on PPI. She denies recent asthma exacerbations, uses albuterol PRN only rarely.
+
+Social History: Patient reports that as a teenager she tried a few cigarettes but never smoked regularly and has not smoked cigarettes since. She does note that she smokes a cigar a few times a year on holidays, typically Thanksgiving and New Year's, but denies any regular tobacco use. No alcohol use reported. Lives with spouse, retired schoolteacher.
+
+Review of Systems: Constitutional: no fever, no chills, mild fatigue with exertion. HEENT: no vision changes, no hearing loss. Cardiovascular: no chest pain, occasional mild ankle swelling. Respiratory: no cough, no wheeze currently. GI: occasional reflux, controlled. GU: no dysuria. MSK: chronic right knee pain, decreased ROM. Neuro: no weakness, no numbness. Skin: no rashes. Psych: no depression, no anxiety reported.
+
+Physical Exam: Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, BMI 34. General: obese, well-appearing, in no acute distress. Cardiac: RRR, S3 gallop noted, no murmurs. Lungs: mild bibasilar crackles, no wheeze. Abdomen: soft, nontender, obese habitus. Extremities: trace bilateral edema, right knee with crepitus and decreased flexion. Skin: intact.
+
+Labs/Results:
+- BNP 04/15/2025: 310 pg/mL (elevated)
+- Creatinine 04/15/2025: 0.9 mg/dL
+- Potassium 04/15/2025: 4.2 mmol/L
+- EKG 04/21/2025: sinus rhythm, LVH pattern, no acute ischemic changes
+- Echo (prior, 01/2025): EF 35%
+
+Medications: Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Omeprazole 20mg daily, Albuterol HFA PRN, Fluticasone/salmeterol 250/50 BID, Atorvastatin 40mg daily, Aspirin 81mg daily.
+
+Assessment/Plan:
+1. Pre-op clearance for TKR - cardiac risk assessed as moderate given HFrEF; recommend continued optimization of heart failure regimen, cardiology co-management peri-operatively.
+2. GERD - continue PPI.
+3. Obesity - counseled on weight management, activity as tolerated pending surgery.
+4. Asthma - stable, continue current inhalers.
+5. Hypertension - well controlled, continue current regimen.
+6. Social history noted; no tobacco cessation counseling indicated given no cigarette use, though occasional cigar use discussed briefly with patient regarding cardiovascular risk.
+
+Follow-up in 2 weeks or sooner if symptoms worsen.

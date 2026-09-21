@@ -1,0 +1,69 @@
+CONSULTATION NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine Pre-Operative Evaluation
+Date of Service: 05/28/2024
+Author: Anita Patel, MD
+
+Dear Dr. Reyes,
+
+Thank you for referring Mr. Luis Gonzales, a 66 year-old male (DOB 1/17/1958), for pre-operative medical clearance in anticipation of right total knee replacement. I had the pleasure of seeing him in clinic today, date of service May 28, 2024.
+
+HPI: The patient is a 66 year-old man with history of atrial fibrillation, peripheral artery disease, and obesity who presents for pre-op eval prior too his scheduled knee arthroplasty. He reports chronic right knee pain, worse with wait bearing, now limiting ambulation to about a block. He denies chest pain, denies syncope, [inaudible] some intermittent claudication in the calf's bilaterally which he attributes to his known PAD, he says it's stable and not worsening recently, he also endorses some occasional palpitations but no near-syncopal episodes and he is compliant with his anticoagulation, he thinks, although he sometimes forgets a dose he tells me and then doubles up the next day which I counseled against.
+
+PAST MEDICAL HISTORY:
+1. Atrial fibrillation - on anticoagulation
+2. Peripheral artery disease
+3. Obesity
+
+PAST SURGICAL HISTORY: None on file.
+
+MEDICATIONS: Apixaban 5 mg BID, metoprolol succinate 50 mg daily, atorvastatin 40 mg daily, cilostazol 100 mg BID.
+
+ALLERGIES: NKDA.
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use: Former smoker
+Smoking status detail: Patient smoked approximately a quarter pack (about 5 cigarettes) per day for 23 years; he then increased to roughly 10 cigarettes per day for the following 12 years. He quit smoking in 2012 and has not smoked since.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/week per patient report
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Limited due to knee pain
+--- END SOCIAL HISTORY BLOCK ---
+
+FAMILY HISTORY: Father with MI at age 70, mother with type 2 diabetes.
+
+REVIEW OF SYSTEMS: As per HPI, otherwise negative in detail including no fever, no chills, no shortness of breath at rest, no orthopnea, no PND, no hemoptysis, positive for occasional lower extremity cramping as above, negative for rash, negative for joint swelling other than the effected knee, the rest of the review of systems was reviewed and is negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, SpO2 96% on room air, Wt 231 lb, BMI 34.2
+General: obese male, no acute distress
+Cardiovascular: irregularly irregular rhythm, no murmurs appreciated, no jugular venous distension
+Pulmonary: clear to auscultation bilaterally, no wheezes rales or ronchi
+Extremities: right knee with mild effusion, decreased range of motion secondary to pain, distal pulses diminished bilaterally but symmetric, no ulcerations noted, trace edema
+Skin: no rashes or lesions noted
+
+LABS/RESULTS:
+CBC (05/20/2024): WBC 6.8, Hgb 13.9, Hct 41.2%, Plt 224
+BMP (05/20/2024): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.02, Glucose 101
+INR (05/27/2024): 1.1
+Lipid panel (03/15/2024): Total chol 178, LDL 96, HDL 44, TG 190
+EKG (05/28/2024): Atrial fibrillation, ventricular rate 76, no acute ST changes
+Echo (02/2024, reviewed): LVEF 55%, mild LA enlargement, no significant valvular disease
+ABI (04/2024): Right 0.68, Left 0.72, consistent with known peripheral artery disease
+
+ASSESSMENT AND PLAN:
+Mr. Gonzales is a 66 year-old male with atrial fibrillation, peripheral artery disease, and obesity presenting for pre-operative evaluation prior to right total knee replacement.
+
+1. Atrial fibrillation - Rate controlled on metoprolol, will need peri-operative anticoagulation bridging discussion with orthopedic surgery and anesthesia given apixaban use, hold per standard protocol pre-op, resume post-op per surgeon's direction.
+2. Peripheral artery disease - Stable claudication symptoms, continue cilostazol, distal pulses diminished but symmetric, no evidence of critical limb ischemia at this time.
+3. Obesity - Counseled on weight management, dietary referral offered, patient agreeable to consider.
+4. Tobacco history - Former smoker, quit in 2012, no longer smokes; encouraged to maintain abstinence and to continue routine preventive care discussions with his primary care provider.
+5. Cardiac risk stratification - RCRI intermediate given PAD and possibly poorly controlled rate at baseline, EKG today shows controlled rate, no acute changes, cleared from cardiac standpoint for proceeding with surgery pending anesthesia clearance.
+6. Peri-operative medication management - Hold apixaban per bridging protocol, continue beta blocker and statin through peri-operative period, hold cilostazol day of surgery.
+
+I believe the patient is an acceptable candidate for surgery from an internal medicine standpoint provided the above recommendations are followed. Please do not hesitate to contact me with questions, and thank you again for this interesting referral, the patient he was seen and eczamined in detail today and all of the above was discussed with him at length in the office.
+
+Sincerely,
+Anita Patel, MD
+Internal Medicine

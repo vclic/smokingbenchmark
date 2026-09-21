@@ -1,0 +1,49 @@
+RESIDENT NOTE - PULMONOLOGY
+Patient: Robert Anderson (M), DOB 2/9/1968, Age 55
+Date of Service: 02/09/2023
+Author: Kevin Osei, MD (resident); attending attestation below
+
+CC: COPD follow-up
+
+HPI: Mr. Anderson is a 55 y/o male, DOB 2/9/1968, presenting today 02/09/2023 for routine COPD follow up. He reports dyspnea on exertion, denies fevers, chils, or hemoptysis, states his inhaler use has been 'on and off' due to cost, sats at home reportedly fine per pt but he doesn't check regularly, symptoms worse in cold weather and with exertion up stairs, denies chest pain today, has hx of CAD and PAD so we discussed cardiac symptoms as well and he denies any anginal equivalents at this time, [inaudible] mentions some knee pain related to gout flare last month that resolved with colchicine.
+
+=== COPIED FORWARD FROM VISIT 11/03/2022 ===
+Pt seen for COPD exac, treated with prednisone taper and azithromycin, CXR at that time showed hyperinflation without acute infiltrate, PFTs pending at that visit, pt counseled on inhaler technique, spacer provided, pt also has CKD stage 3 followed by nephrology, PAD followed by vascular surgery s/p prior claudication workup, gout managed with allopurinol, CAD s/p stress test 2021 reportedly normal per pt report though records not available in this system.
+=== END COPIED TEXT ===
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Never smoker
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Blank
+
+ROS: Otherwise negative except as above, denies weight loss, denies night sweats.
+
+EXAM:
+Vitals: BP 138/86, HR 78, RR 18, SpO2 94% RA
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilaterally, no crackles
+CV: RRR, no m/r/g, PAD-related decreased pulses in bilateral DP/PT as chronic finding
+Ext: no edema, gouty changes noted at right first MTP, non-tender today
+
+LABS/RESULTS:
+- CBC (02/08/2023): WBC 7.1, Hgb 14.2, Plt 230
+- BMP (02/08/2023): Creatinine 1.6 (baseline, consistent with CKD3), eGFR 45
+- Uric acid (01/15/2023): 6.8
+- PFTs (11/2022): FEV1/FVC reduced, consistent with moderate obstruction
+
+ASSESSMENT/PLAN:
+1. COPD - moderate, continue LABA/LAMA combo inhaler, reviewed technique, discussed pulmonary rehab referral.
+2. CAD - stable, continue home meds, no acute issues today.
+3. PAD - stable, continue cilostazol, f/u vascular surgery as scheduled.
+4. Gout - resolved flare, continue allopurinol, uric acid trending appropriately.
+5. CKD stage 3 - stable, monitor labs with nephrology.
+
+Attending Attestation: I have seen and examined the patient with Dr. Osei and agree with the above assessment and plan as documented. - Attending Pulmonology
+
+=== ADDENDUM (later same day, 02/09/2023) ===
+Addendum: Patient called back after visit to clarify he does not currently use any tobacco products and reiterated he has never smoked cigarettes in his life, this is being added to clarify documentation accuracy given multiple copied-forward notes in chart from other specialties.

@@ -1,0 +1,54 @@
+Family Medicine Progress Note
+DOS: 01/10/2026
+Author: Teresa Alvarez, NP
+
+Pt: Brenda Schmidt   DOB: 1/10/1959   Age: 67   Sex: F
+
+CC: annual wellness visit
+
+HPI: 67 yo F here for AWV, pmh GERD and CAD. Pt states "I feel pretty good, just the usual heartburn now and then." Denies CP, SOB, palpitations. Reports adherent to meds. Denies any new sx. Pt states "I've never smoked a day in my life, never even tried it." No wt changes, appetite stable. Sleep ok. Denies falls.
+
+ROS: Constitutional - neg for fever/chills. CV - neg for CP/palpitations, + hx CAD stable. Resp - denies cough/dyspnea. GI - occasional reflux sx, controlled w/ PPI. All other systems reviewed, neg.
+
+PMH: GERD, CAD (s/p stent 2018 per pt report)
+PSH: none reported
+Meds: omeprazole 20mg daily, atorvastatin 40mg qhs, aspirin 81mg daily, metoprolol succinate 25mg daily
+Allergies: NKDA
+
+Social History (EHR templated block):
+ Tobacco use: Never smoker
+ Smoking status: Lifelong non-smoker, pt denies any hx of cigarette, cigar, or pipe use
+ Smokeless tobacco: Not on file
+ Vaping/e-cig: Denies
+ Alcohol use: occasional, 1-2 glasses wine/wk
+ Drug use: denies
+ Occupation: retired schoolteacher
+ Exercise: walks 30 min most days
+ Living situation: lives w/ spouse
+ Secondhand smoke exposure: Not on file
+
+FH: mother - HTN, father - MI at age 70. No fam hx lung ca reported.
+
+Physical Exam:
+Vitals: BP 128/78, HR 66, RR 14, Temp 98.2F, Wt 162 lb, Ht 5'4", BMI 27.8
+Gen: well-appearing, NAD
+HEENT: nl, no LAD
+CV: RRR, no m/r/g
+Resp: CTAB, no wheeze/rales
+Abd: soft, NT/ND, +BS
+Ext: no edema
+Skin: no lesions
+Neuro: A&Ox3, nonfocal
+
+Assessment/Plan:
+1. GERD - stable on omeprazole, continue current dose, reinforce dietary modif (avoid late meals, caffeine, spicy foods)
+2. CAD - stable, continue statin/ASA/beta-blocker, f/u lipid panel today, EKG reviewed nl sinus rhythm no acute changes
+3. Health maintenance - AWV completed, discussed age-appropriate cancer screenings (mammo, colonoscopy up to date per record), bone density due this yr, flu/pneumococcal vax status reviewed and UTD
+4. Given pt is lifelong non-smoker, lung cancer screening not indicated based on smoking hx; general lung health maintained, no further tobacco-related counseling needed at this time.
+5. Return to clinic in 1 yr for next AWV or sooner if concerns
+
+Pt verbalized understanding of plan, all questions answered. Pt to f/u w/ cardiology per usual schedule. Labs ordered: CMP, lipid panel, HbA1c.
+
+Time spent: 25 min, >50% counseling/coordination of care.
+
+Electronically signed: Teresa Alvarez, NP 01/10/2026

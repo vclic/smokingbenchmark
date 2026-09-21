@@ -1,0 +1,44 @@
+NURSE INTAKE
+DOS: 05/18/2026
+Pt: Hung Wood, M, DOB 05/18/1950, age 76.
+CC: LCS shared decision-making visit, pulm f/u.
+VS: BP 138/82, HR 76, RR 16, SpO2 94% RA, Wt stable.
+Allergies: NKDA.
+ROS: denies chest pain, mild DOE, chronic cough unchanged.
+
+PROBLEM LIST:
+- J44.9 COPD
+- I73.9 PAD
+- I10 HTN
+- E78.5 Hyperlipidemia (outdated, not on statin currently per pt)
+- F17.210 Nicotine dependence, former (hx)
+
+PHYSICIAN PROGRESS NOTE - Isaac Moreno, PA-C
+
+HPI: 76 yo M w/ COPD, PAD, HTN presenting for LCS shared decision-making d/w pulm. 54 pack-year smoking history noted. Pt reports he no longer smokes - quit smoking when his youngest grandchild was born; that grandchild now 17 y/o. No current tobacco use, no vaping. Denies other substance use. EtOH - quit drinking alcohol in 2005, denies any current use. Pt c/o mild dyspnea on exertion, stable from prior visits, uses albuterol PRN. No hemoptysis, no unintentional wt loss, no fevers/chills. PAD hx - intermittent claudication, stable, followed by vascular. HTN well controlled on current regimen per pt report.
+
+PMH: COPD dx several yrs ago, PAD, HTN. Prior CXR reportedly unremarkable per pt recollection (records not available today).
+
+Meds: albuterol HFA PRN, tiotropium daily, lisinopril, aspirin 81mg, cilostazol.
+
+Soc Hx: former smoker as above, quit EtOH 2005, lives w/ spouse, retired machinist, ambulates w/ cane 2/2 claudication.
+
+Exam:
+Gen: NAD, comfortable, appropriate for age.
+HEENT: unremarkable.
+CV: RRR, no m/r/g, distal pulses diminished bilat LE c/w known PAD.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+Ext: no edema, skin intact, no ulceration noted today.
+Neuro: grossly nonfocal.
+
+A/P:
+1. LCS shared decision-making - discussed benefits/risks/limitations of lung cancer screening given significant smoking hx above; discussed false positives, incidental findings, radiation exposure, need for adherence to annual screening if pursued. Pt given decision aid handout, verbalizes understanding. Discussion documented per CMS SDM requirement. Pt to follow up w/ PCP re: further steps.
+2. COPD - stable, continue current inhalers, reviewed inhaler technique, flu/pneumococcal vaccines UTD per pt report.
+3. PAD - stable claudication sx, continue cilostazol, f/u vascular as scheduled.
+4. HTN - well controlled, continue lisinopril, recheck BP next visit.
+5. Tobacco - reinforced congratulations on cessation, encouraged continued avoidance, no current counseling needed given quit status.
+6. EtOH - abstinent since 2005 per pt, no intervention needed.
+
+Return to clinic in 3 months or sooner if worsening sx. Pt verbalizes agreement w/ plan.
+
+-- Isaac Moreno, PA-C

@@ -1,0 +1,73 @@
+Cardiology Clinic Note
+
+Patient: PEREZ, Theresa    MRN: 71079820
+DOB: 09/02/1973    Age: 51 y.o.    Sex: Female
+Date of Service: 12/20/2024    Provider: Elena Markovic, MD
+
+Chief Complaint
+Patient presents with
+• Chest pain
+
+Subjective:
+Theresa Perez is a 51 y.o. female who presents for evaluation of chest pain.
+Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. No radiation. No orthopnea or PND. Former smoker (a 6-pack-year history); she quit on 12/20/1996. CV risk factors: HTN, HLD, remote tobacco.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• Hypertension
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• pravastatin 40 mg nightly
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+    Quit date: 12/20/1996
+    Years since quitting: 28.0
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with husband.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+
+Family History
+Mother - HTN, DM2. Son - type 1 diabetes.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 148/79 (BP Location: Left arm, Patient Position: Sitting) | Pulse 95 | Temp 98.6 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 138 lb | SpO2 97% | BMI 21.64 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Assessment & Plan
+1. Chest pain
+   Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+
+f/u 1 mo
+
+Electronically signed by Elena Markovic, MD on 12/20/2024

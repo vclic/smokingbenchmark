@@ -1,0 +1,58 @@
+TELEHEALTH VISIT NOTE
+DOS: 11/12/2025
+Provider: Anita Patel, MD (Internal Medicine)
+Patient: Yolanda Hall, F, DOB 7/14/1968 (age 57)
+
+Reason for visit: Pre-op eval for L knee replacement, ortho referral.
+
+HPI: Pt seen via video for pre-surgical clearance ahead of scheduled TKA. Pt states "my knee's bone on bone, doc, I just want to walk without pain again." She reports gradual worsening of L knee pain over past 2 yrs, worse w/ stairs, improved somewhat w/ NSAIDs. No chest pain, no SOB at rest. Denies recent falls. Hx of CAD s/p CABG, states "I feel pretty good since the surgery, better than before." Denies orthopnea/PND. Diabetes fairly controlled per pt, checks sugars "most days, not always though." No polyuria/polydipsia currently. BPH sx stable, nocturia x1-2, on tamsulosin. No hematuria.
+
+PMH:
+- CAD
+- CABG x3 (2016)
+- Osteoarthritis, bilateral knees, L worse than R
+- Type 2 DM
+- CKD stage 3
+- BPH
+
+Meds: metoprolol, atorvastatin, metformin, tamsulosin, aspirin 81mg, occasional ibuprofen (to review re: CKD)
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: retired
+Living situation: [blank]
+Exercise: limited 2/2 knee pain
+
+ROS: 10-point ROS reviewed, otherwise negative except as noted in HPI. Pt reports occ. dizziness on standing, denies syncope. [inaudible] portion of audio re: sleep habits, pt repeats she "sleeps ok, maybe 6 hrs."
+
+VITALS (per home cuff/reported): BP 128/76, HR 68, wt stable per pt, no home scale available today.
+
+EXAM: Limited via telehealth. Pt appears comfortable, NAD. Speaking full sentences. No visible distress. Gait not assessed (telehealth). Skin: no obvious lesions on cam. Affect appropriate.
+
+LABS (reviewed from recent draw 11/2025): Cr 1.4, eGFR ~45, HbA1c 7.1%, K 4.3, Hgb 13.1. Lipid panel at goal on statin.
+
+EKG on file from cardiology 6 mos ago: NSR, no acute changes, old inferior changes c/w prior CABG.
+
+ASSESSMENT/PLAN:
+57F w/ CAD s/p CABG (2016), OA (planned L TKA), T2DM, CKD3, BPH presenting for pre-op medical clearance via telehealth.
+
+1. Pre-op cardiac risk: Hx CABG x3 (2016), currently asymptomatic from cardiac standpoint per pt report and telehealth exam limited by nature of visit. RCRI low given stable exercise tolerance (though limited by knee). Continue home cardiac meds through peri-op period, hold ASA per surgeon's instruction, continue statin/beta blocker. Cleared from cardiac standpoint pending surgeon's final review, recommend no additional cardiac testing at this time given recent EKG on file.
+
+2. Tobacco/smoking history: Former smoker. Smoking hx notable for a quarter pack (about 5 cigarettes) per day for 12 years, then increased to 1 pack per day for 14 years, after which she quit smoking. She quit smoking right after her 2016 bypass surgery. Counseled on continued abstinence, importance of staying smoke-free peri-operatively for wound healing and pulmonary risk reduction. Lung cancer screening was discussed briefly given smoking hx; will address further at future visit, not addressed further today given focus on ortho clearance.
+
+3. T2DM: A1c 7.1%, reasonably controlled. Continue metformin. Will hold metformin morning of surgery per standard protocol, resume once renal function stable post-op given CKD.
+
+4. CKD stage 3: eGFR ~45, stable. Avoid NSAIDs peri-operatively, avoid nephrotoxic agents. Ensure adequate peri-op hydration per anesthesia protocol.
+
+5. BPH: stable on tamsulosin, continue, watch for post-op urinary retention given anesthesia/surgery risk, may need foley peri-operatively per surgical team.
+
+6. OA/pre-op: cleared from medicine standpoint for L TKA pending final cardiac/anesthesia sign off. Pt to follow up w/ ortho for surgical scheduling logistics, and w/ this office post-op or sooner if any new sx.
+
+Discussed plan with pt at length via telehealth, she verbalizes understanding, agrees w/ above, no further questions at this time. Will communicate clearance note to ortho/surgical team directly. RTC prn or per post-op protocol.
+
+Time spent: approx 25 min telehealth encounter, most spent on counseling/coordination of care as above.
+
+Electronically signed: Anita Patel, MD, 11/12/2025.

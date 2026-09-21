@@ -1,0 +1,45 @@
+General Medicine Clinic Clinic Note
+Date of Service: 10/29/2025
+Patient: Luis Adams   DOB: 1/25/1974   MRN: 64976155
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Mr. Adams is a 51 y.o. male with a history of no significant past medical history who presents for pre-operative evaluation prior to right total knee arthroplasty. Scheduled for right total knee arthroplasty on 12/8/2025. Walks daily without limitation. Had PONV with prior surgery.
+
+PMH:
+- None
+Meds: fish oil 1 g daily
+Allergies: NKDA
+SH: Divorced, lives alone. Works as a construction worker. No history of tobacco use. Social drinker.
+FH: Mother - breast cancer at 70.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 116/75  HR: 78  RR: 16  Temp: 98.7 F  SpO2: 100% on RA  Wt: 160 lbs  BMI: 24.3
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation: RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Health maintenance
+   - LCS: N/A - never smoker.
+
+RTC 3 months.
+
+Seen and discussed with resident Dr. Wilson. I personally saw and examined the patient and agree with the findings and plan as documented.
+Farah Siddiqui, MD

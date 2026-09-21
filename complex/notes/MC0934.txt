@@ -1,0 +1,62 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: John Schmidt (M), DOB 10/30/1967, Age 57
+Date of Service: 10/30/2024
+Author: Daniel Reyes, MD
+Visit Type: Lung Cancer Screening Shared Decision-Making Visit
+
+HPI:
+Pt is a 57 y/o male presenting today for lung cancer screening SDM visit, referred by PCP given family hx and age. Pt states, "I just want to know if I need one of those CT scans." He denies current respiratory sx, no hemoptysis, no unintentional weight loss. Hx notable for asthma (uses albuterol PRN), osteoarthritis (bilateral knees, worse with weather changes), osteoporosis (on alendronate), PAD (s/p claudication workup 2022), and CKD stage 3 (baseline Cr ~1.6). Pt reports baseline exercise tolerance limited by knee pain more than by dyspnea. He notes, "My mom had bad lungs, she was on oxygen the last few years." Further review reveals mother had COPD and was a lifelong smoker per pt report. No current cough, no chest pain. Pt otherwise feels well, adherent to meds.
+
+ROS:
+Constitutional: no fever, no wt loss.
+Resp: no cough, no wheeze today (though known asthma hx).
+Cardiac: no chest pain, no palpitations.
+MSK: chronic knee pain, stable.
+GU/Renal: no dysuria, f/u with nephrology for CKD3.
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Pack-years: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Limited 2/2 knee OA
+
+Family History:
+Mother - COPD, lifelong smoker, deceased at 78.
+Father - HTN, deceased at 82.
+
+Medications:
+Alendronate 70mg weekly
+Albuterol HFA PRN
+Meloxicam 7.5mg daily
+Clopidogrel 75mg daily
+Lisinopril 10mg daily
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, SpO2 97% RA, Wt 198 lb
+Gen: NAD, well-appearing male
+Lungs: CTAB, no wheeze/rales/rhonchi appreciated
+CV: RRR, no m/r/g
+Ext: no edema, dorsalis pedis pulses diminished bilaterally c/w known PAD
+MSK: mild crepitus bilateral knees, no effusion
+
+Assessment/Plan:
+57 y/o male here for lung cancer screening shared decision-making discussion on 10/30/2024.
+1. Lung cancer screening SDM - Discussed benefits/risks/limitations of low-dose CT screening in general terms, including false positives, incidental findings, and radiation exposure. Smoking status could not be determined from available records (templated field: "Smoking status: Unknown if ever smoked"); pt was unable to provide clear history during visit and records show nothing on file. Given inability to establish smoking hx, unable to fully risk-stratify at this time. Will attempt to clarify further at next visit or via chart review from outside records. Discussed general screening principles without asserting eligibility.
+2. Asthma - stable, continue albuterol PRN, no rescue inhaler overuse reported.
+3. Osteoporosis - continue alendronate, f/u DEXA in 1 yr.
+4. Osteoarthritis - continue meloxicam, ortho f/u as needed.
+5. PAD - continue clopidogrel, vascular surgery following.
+6. CKD stage 3 - stable, nephrology following, renally dose meds as appropriate.
+Return to clinic in 6 months or sooner if concerns.
+
+---
+ADDENDUM (later same day, 10/30/2024, 4:47pm):
+Spoke again briefly with pt by phone after he called back re: paperwork question. Reiterated that we were unable to determine smoking status from his history or available records today, and this remains documented as unknown. Pt did not offer additional clarifying info during this call; conversation focused mainly on scheduling for nephrology f/u. No change to plan above. Family hx of maternal COPD/lifelong smoking again noted for context but does not change pt's own smoking status being unknown.
+-Daniel Reyes, MD

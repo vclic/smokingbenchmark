@@ -1,0 +1,31 @@
+TELEHEALTH VISIT NOTE
+Patient: Gregory Jones (M), DOB: 04/21/1968 (age 55)
+Date of Service: 06/14/2023
+Provider: Quentin Hale, PA-C, Family Medicine
+
+CHIEF COMPLAINT: Medication refills.
+
+HPI: Mr. Jones is a 55-year-old male presenting via telehealth for routine refill of chronic medications. He reports stable joint pain in bilateral knees, managed conservatively, and continues levothyroxine for hypothyroidism with no new symptoms of fatigue, cold intolerance, or palpitations. He notes some difficulty with weight management but denies chest pain, shortness of breath, or dizziness. No new complaints today. He has been compliant with his medication regimen and denies missed doses.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. HEENT: no vision changes, no hearing changes. Cardiovascular: denies chest pain, palpitations, orthopnea. Respiratory: denies cough, dyspnea, wheeze. GI: denies nausea, vomiting, diarrhea, constipation. Musculoskeletal: chronic knee pain, no new swelling or redness. Endocrine: no polyuria, polydipsia. Neuro: no headaches, no focal weakness. Psych: denies depression, anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Not performed in detail given telehealth format. General: patient appears well, in no acute distress, appropriate historian. Vital signs per patient report: BP 128/78, HR 76, unable to obtain weight today. Affect appropriate. Speech clear. No visible distress noted on camera.
+
+CURRENT MEDICATIONS: Levothyroxine 75 mcg daily, Meloxicam 15 mg daily as needed for joint pain, Metformin 500 mg twice daily, Atorvastatin 20 mg daily, Multivitamin daily, Acetaminophen 500 mg as needed.
+
+ASSESSMENT/PLAN:
+1. Hypothyroidism - stable, continue levothyroxine 75 mcg daily, recheck TSH at next visit.
+2. Osteoarthritis - stable, continue meloxicam as needed, discussed weight-bearing exercise and physical therapy referral if symptoms worsen.
+3. Obesity - counseled on diet and exercise, discussed possible dietitian referral.
+4. Health maintenance - preventive screenings discussed including age-appropriate cancer screening; smoking status remains unknown per chart, will update social history at next in-person visit.
+Return to clinic in 3 months or sooner if symptoms worsen. Refills sent to pharmacy as requested.
+
+Electronically signed: Quentin Hale, PA-C

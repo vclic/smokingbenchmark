@@ -1,0 +1,76 @@
+Vascular Surgery Telehealth Note
+Patient: Curtis Davis (M), DOB 4/6/1948, Age: 75
+Date of Service: 05/19/2023
+Provider: Farah Siddiqui, MD
+
+Visit Type: Telehealth (video), follow-up for PAD eval
+
+CHIEF COMPLAINT: Follow-up peripheral artery disease, claudication symptoms
+
+HPI:
+75 yo M w/ h/o CKD stage 3, AFib, CAD presents via telehealth for PAD follow-up. Pt reports intermittent bilateral calf claudication, worse w/ ambulation >2 blocks, relieved w/ rest. No rest pain, no ulcers/wounds noted on self-exam per pt report. ABI results reviewed from last in-person visit c/w moderate PAD. Pt tolerating current antiplatelet regimen without issue. No new chest pain, no palpitations reported today though hx of AFib on anticoagulation.
+
+*** NOTE: Templated field below is outdated/incorrect, see corrected narrative ***
+Smoking status: Never Smoker [FIELD ERROR - see below, this is a copy-forward template default and does NOT reflect actual history]
+
+SMOKING HISTORY (corrected, current visit): Pt is a former smoker. He smoked between 1 and 1.5 packs per day for 40 years, quit smoking in 2010. This has been re-verified with pt today via telehealth.
+
+--- COPIED FORWARD FROM PRIOR NOTE DATED 3/19/2020 (Vascular Surgery) ---
+[Begin copy-forward block]
+SOCIAL HISTORY: Former smoker. Denies current tobacco use. Alcohol use social, denies illicit drug use. Lives with spouse, retired.
+ROS: Constitutional: no fever, chills, unintentional weight loss. Cardiovascular: no chest pain, no orthopnea, no PND, +hx AFib. Respiratory: no cough, no dyspnea at rest. GI: no abd pain, no nausea/vomiting. GU: no dysuria, no hematuria. MSK: no acute joint swelling. Neuro: no focal weakness, no numbness. Skin: no rashes, no non-healing wounds. Psych: no depression, no anxiety reported.
+PHYSICAL EXAM (3/19/2020): Vitals stable, BP 132/78, HR 68 irregular, RR 16, Temp 98.2F. Gen: NAD, A&Ox3. CV: irregularly irregular rhythm, no murmurs appreciated. Lungs: CTAB. Abd: soft, NT/ND. Ext: no edema, pulses 1+ bilat DP/PT, no ulcers.
+[End copy-forward block]
+--- END COPIED FORWARD SECTION ---
+
+REVIEW OF SYSTEMS (today, 05/19/2023):
+Constitutional: Denies fever, chills, night sweats, wt loss/gain.
+Eyes: No visual changes.
+ENT: No hearing loss, no sore throat.
+Cardiovascular: Denies chest pain, denies palpitations today, +hx AFib, no syncope.
+Respiratory: Denies cough, denies SOB at rest, mild DOE stable from baseline.
+GI: Denies abd pain, nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria, urinary frequency.
+MSK: Denies new joint pain, swelling.
+Skin: Denies rashes, denies non-healing wounds or ulcers on legs.
+Neuro: Denies focal weakness, numbness, tingling.
+Psych: Denies depression, anxiety.
+Heme/Lymph: No easy bruising, no lymphadenopathy reported.
+Allergic/Immunologic: No seasonal allergy complaints today.
+
+PHYSICAL EXAM (limited, telehealth - visual only, no palpation possible):
+Gen: Pt appears well, seated comfortably, no acute distress, appropriate affect.
+Skin: No visible rashes or lesions on face/hands visible on camera.
+CV: Unable to auscultate via telehealth; pt denies palpitations.
+Resp: No visible respiratory distress, no use of accessory muscles.
+Ext: Pt able to show bilateral lower extremities on camera, no visible ulcers, no visible edema, skin color appears normal, no obvious discoloration.
+Neuro: Pt ambulatory in home per report, gait not formally assessed via video.
+
+CURRENT MEDICATIONS:
+1. Apixaban 5mg PO BID
+2. Atorvastatin 40mg PO QHS
+3. Metoprolol succinate 50mg PO daily
+4. Aspirin 81mg PO daily
+5. Cilostazol 100mg PO BID
+6. Lisinopril 10mg PO daily
+7. Furosemide 20mg PO daily PRN edema
+8. Metformin 500mg PO BID
+9. Sodium bicarbonate 650mg PO BID (for CKD)
+10. Multivitamin PO daily
+11. Vitamin D3 2000 IU PO daily
+12. Calcium carbonate 500mg PO daily
+13. Omeprazole 20mg PO daily
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, moderate, bilateral LE claudication - continue cilostazol, encourage supervised walking program, f/u ABI in 6 months. Lung cancer screening discussed given significant smoking hx, pt to discuss further w/ PCP re: appropriate imaging follow up.
+2. Atrial fibrillation - continue apixaban, HR well controlled on metoprolol, no palpitations today.
+3. CAD - continue statin, aspirin, BP well controlled today per pt report of home readings.
+4. CKD stage 3 - stable, continue current renal-friendly regimen, recheck BMP at next visit.
+5. Tobacco history - corrected in chart today (see above), counseled on maintaining cessation, reinforced cardiovascular benefit of continued abstinence since quitting.
+
+F/u in 6 months or sooner if worsening symptoms. Pt educated on when to seek urgent care (rest pain, non-healing wounds, acute limb ischemia symptoms).
+
+Electronically signed: Farah Siddiqui, MD
+
+--- ADDENDUM (later same day, 05/19/2023) ---
+Addendum by Dr. Siddiqui: Spoke again briefly with pt's spouse who called back to clarify home BP log - readings averaging 128/76 over past week, no concerning trends. Also confirmed with pt directly again that the 'Never Smoker' field in the chart was a template error carried over from registration and does not apply; his actual history (former smoker, quit 2010, 1-1.5 packs/day x40 years) has been documented correctly above and flagged for records to correct the demographic template going forward. No other changes to plan.

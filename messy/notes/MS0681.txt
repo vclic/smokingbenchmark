@@ -1,0 +1,43 @@
+H&P - Pre-operative Evaluation, Internal Medicine
+Date of Service: 06/15/2026
+Author: Teresa Alvarez, NP
+
+Patient: Dale Coleman, M, DOB 6/15/1964 (age 62)
+
+CC: Pre-op eval for right total knee replacement, ortho surgery planned in coming weeks
+
+HPI: Mr Coleman is a 62 y/o male here for pre-surgical medical clearance ahead of TKA. He states "my knee's been bone-on-bone for two years now, i just want to get it fixed already." No CP, no SOB at rest, ambulates w cane 2 blocks before pain limits him he denies fevers chills or recent illness. Reviewed meds and pt reports good adherence, occasionally forgets levothyroxine dose per his own report "i skip it maybe once a week." He was seen by cardiology last month for his afib, rate controlled per pt on current regimen [inaudible] discussion re: anticoagulation continuing through peri-op period will defer to cardiology/ortho re: bridging.
+
+PMH: Hypothyroidism, Atrial fibrillation (on anticoagulation), Osteoporosis, Peripheral artery disease
+
+Social History (templated EHR block):
+Tobacco use: Never smoker
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Yes - daily nicotine vape
+Alcohol use: occasional, 1-2 drinks/wk
+Illicit drug use: Denies
+Occupation: retired electrician
+Living situation: lives w spouse
+
+ROS: Otherwise negative except as above, denies calf pain at rest c/w known PAD, denies claudication has worsened recently
+
+Exam:
+Vitals: BP 138/82, HR 78 irreg irreg, RR 16, SpO2 97% RA, Wt 198 lb
+Gen: NAD, pleasant
+CV: irregularly irregular rhythm no murmurs
+Resp: CTAB
+Ext: trace edema b/l, distal pulses diminished but palpable consistent w known PAD, surgical knee w crepitus and reduced ROM as expected
+Skin: no ulcers noted
+
+Labs reviewed: TSH wnl on current levothyroxine dose, INR therapeutic, CBC unremarkable
+
+Assessment/Plan:
+62 yo male, DOS 6/15/2026, pre-op clearance for TKA.
+1. Atrial fibrillation - rate controlled, coordinate anticoag plan w cardiology and ortho prior to surgery
+2. Hypothyroidism - continue levothyroxine, reinforce adherence, recheck TSH in 3 months
+3. Osteoporosis - continue current therapy, no changes at this time
+4. Peripheral artery disease - stable exam today, continue current regimen, f/u vascular surgery as previously scheduled
+5. Tobacco - patient has never used cigarettes; he does vape nicotine daily, counseled on cessation of vaping given cardiac history, discussed risks and resources
+6. Cleared for surgery from medicine standpoint pending final cardiology sign off
+
+Follow up as needed, pt verbalized understanding of above plan.

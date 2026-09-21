@@ -1,0 +1,43 @@
+PROGRESS NOTE
+Date of Service: 7/29/2024
+Patient: Terrence Miller   DOB: 7/23/1963   MRN: 73149475
+
+S:
+CC: Fatigue
+HPI: Mr. Miller is a 61 year old male with a history of COPD, OA, gout, and depression who presents for fatigue. Fatigue for 5 months. Mood low. No bleeding.
+
+PMH:
+- Major depressive disorder, recurrent, in remission
+- COPD, GOLD 2
+- Gout (dx 2005)
+- Hypertension
+- Osteoarthritis
+PSH: Right total knee arthroplasty (2005); Lumbar laminectomy
+Meds: fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily; trazodone 50 mg nightly PRN; sertraline 100 mg daily; lisinopril 20 mg daily; allopurinol 300 mg daily; vitamin D3 2000 IU daily; albuterol HFA 2 puffs q4-6h PRN; diclofenac 1% gel QID PRN
+Allergies: Latex
+SH: Married, lives with wife. EtOH: 1-2 beers/wk. Denies illicit drugs.
+FH: Mother - osteoporosis, hip fracture.
+ROS: GI neg, MSK neg, Neuro neg, Skin neg, CV neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 150/84  HR: 96  RR: 14  Temp: 97.6 F  SpO2: 90% on RA  Wt: 208 lbs  BMI: 29.0
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. Fatigue: CBC, CMP, TSH, B12, vitamin D ordered. Sleep study if unrevealing.
+2. Major depressive disorder, recurrent, in remission
+   - Mood stable.
+3. Osteoarthritis: Continue PRN analgesics; home exercises.
+
+Return in about 3 months (around 10/29/2024).
+
+-- DR (MD)

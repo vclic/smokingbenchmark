@@ -1,0 +1,44 @@
+Pulmonology Follow-Up – Incidental Lung Nodule
+Patient: Samuel Foster, M, DOB 3/31/1975 (age 51)
+Date of Service: 03/31/2026
+Provider: Michael Dunn, DO
+
+--- NURSE INTAKE ---
+VS: BP 138/86, HR 78, RR 16, Temp 98.2F, SpO2 97% RA. Wt 244 lb, Ht 5'10", BMI 35.
+CC: f/u incidental pulm nodule found on prior imaging.
+Pt here w/ wife. Denies CP, SOB at rest, hemoptysis. Denies fevers/chills. Reports mild exertional dyspnea climbing stairs.
+Meds reviewed - see chart. Allergies NKDA.
+Pt appears comfortable, NAD.
+
+--- PHYSICIAN PROGRESS NOTE ---
+CC: Incidental lung nodule f/u.
+
+HPI: 51 yo M, DOB 3/31/1975, seen today for date of service 03/31/2026 for f/u of incidentally noted lung nodule found on CT abd/pelvis done for unrelated workup last month. Pt asymptomatic from pulm standpoint aside from mild dyspnea on exertion which he attributes to weight/deconditioning. No cough, no wt loss, no night sweats. Tobacco hx reviewed in detail: pt smoked 1 pack per day from age 17 until he quit smoking at age 32. He has not smoked since. No vape/e-cig use reported.
+
+ROS: Constitutional - neg for fever/chills/wt loss. Resp - mild DOE as above, no cough/wheeze/hemoptysis. CV - neg. GI - neg. Endo - reports blood sugars grossly at goal per home log.
+
+Social History: Former smoker; quit smoking at age 32. Denies current tobacco use. Denies illicit drug use. Occasional EtOH. Works as an accountant, lives w/ wife.
+
+PMH: Obesity, T2DM (on metformin).
+PSH: none significant.
+Family Hx: father w/ CAD, mother w/ T2DM.
+
+Problem List (ICD-10):
+- E66.9 Obesity, unspecified
+- E11.9 Type 2 diabetes mellitus without complications
+- R91.1 Solitary pulmonary nodule
+- I10 Essential hypertension (outdated - pt reports resolved per PCP, still listed from prior visit)
+- J45.909 Unspecified asthma (outdated - no longer active per pt, carried over from old chart)
+
+Exam: Gen - NAD, obese habitus. Lungs - CTAB, no wheeze/rales/rhonchi. CV - RRR, no m/r/g. Abd - soft, obese, NT/ND. Ext - no edema.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable per report, characteristics reviewed. Given pt's age of 51 and remote smoking hx (quit at age 32 after smoking 1 ppd from age 17), general risk factors were discussed with patient. Will obtain f/u imaging per radiology recs and reassess at next visit.
+2. Obesity - counseled on diet/exercise, referred to nutrition.
+3. T2DM - continue metformin, recheck A1c at next PCP visit.
+4. Tobacco use - patient is a former smoker who quit smoking; reinforced importance of continued abstinence, no current counseling needed given quit status.
+
+RTC in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (same day, 4:45 PM) ---
+Addendum by Dr. Dunn: Clarifying HPI note - confirmed with patient again by phone that smoking history is accurate as documented: 1 pack per day from age 17 until quitting at age 32, date of service today 03/31/2026, patient is 51 years old. No additional history to add. Plan unchanged.

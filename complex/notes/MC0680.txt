@@ -1,0 +1,76 @@
+NEW PATIENT VISIT - ESTABLISH CARE
+Patient: Roger Barnes (M), DOB 10/15/1972, Age 52
+Date of Service: 12/05/2024
+Provider: Isaac Moreno, PA-C
+
+CC: establish care, med refills
+
+HPI: Pt here to establish w/ PCP, moved to area recently. Hx GERD, HTN, CKD stage 3, BPH, gout. States overall doing ok, no acute complaints today. Denies CP, SOB, dysuria. Gout flares infrequent, last one ~6mo ago. Reflux controlled on current regimen mostly, occas heartburn after spicy food. Wants labs checked given CKD, hasnt had bloodwork in over a year.
+
+PMH: GERD, HTN, CKD3, BPH, gout
+PSH: none reported
+Allergies: NKDA
+
+Meds (per pt report, to reconcile): omeprazole, lisinopril, tamsulosin, allopurinol
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE]
+  Status: Former smoker
+  Type: cigarettes
+  Pack/day: 1.5 ppd
+  Years used: 1997-2020
+  Quit: yes
+[END TEMPLATE]
+Pt confirms he no longer smokes at all, hasnt touched a cigarette in yrs.
+Alcohol: quit drinking in 2016, denies current use.
+Drug use: denies illicit drug use.
+
+ROS: otherwise negative except as above, telegraphic - no fevers, no chills, no wt loss, no vision changes, no chest pain, no palpitations, GI - occas reflux as above, GU - some urinary hesitancy/nocturia x1-2, MSK - joint pain (gout hx), skin - nl, neuro - nl
+
+VITALS: BP 142/88, HR 76, RR 16, Temp 98.2F, Wt 198lb, BMI 29.4
+
+EXAM:
+Gen: NAD, well-appearing
+HEENT: nl, no thyromegaly
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheeze/rales
+Abd: soft NT/ND, +BS
+Ext: no edema
+Skin: nl
+Neuro: grossly intact
+
+PROBLEM LIST:
+1. Essential hypertension - I10
+2. CKD stage 3 - N18.3
+3. GERD - K21.9
+4. BPH - N40.0
+5. Gout, unspecified - M10.9
+6. Tobacco use disorder, in remission - Z87.891 (outdated entry, pt no longer smokes per hx below)
+7. Hyperlipidemia - E78.5 (dz historical, unclear if still active, needs review)
+
+ASSESSMENT/PLAN:
+52 yo M establishing care, multiple chronic conditions.
+
+1. HTN - BP elevated today at 142/88. Continue lisinopril, reinforce low-Na diet, recheck BP next visit. R/o white coat given new pt anxiety.
+
+2. CKD stage 3 - due for labs, get BMP, CMP, urine microalbumin. Avoid nephrotoxic agents (NSAIDs). Counsel re: hydration, renal-friendly diet.
+
+3. GERD - stable on omeprazole, cont current dose, avoid trigger foods.
+
+4. BPH - cont tamsulosin, ask re: urinary sx at each visit, consider PSA discussion.
+
+5. Gout - cont allopurinol, encourage low purine diet, f/u if flare.
+
+6. Tobacco - pt has significant hx of smoking, smoked 1.5 packs per day from 1997 until 2020 per hx obtained today. Quit smoking at age 48 and has remained smoke-free since. Praised pt for successful quit, reinforced no relapse. Lung cancer screening discussed as an option given smoking hx, pt to think it over and discuss further at next visit.
+
+7. Alcohol - hx of use, pt quit drinking in 2016, no current use, no further intervention needed at this time.
+
+8. Health maintenance - due for age-appropriate screening incl colon ca screening, will discuss at f/u. Immunizations UTD per pt report, will verify.
+
+Labs ordered: BMP, CMP, urine microalbumin, lipid panel, HbA1c
+
+F/u: 3 months or sooner if issues, RTC for lab review.
+
+Pt educated re: above plan, verbalized understanding, all questions answered today.
+
+Electronically signed: Isaac Moreno, PA-C

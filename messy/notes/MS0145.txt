@@ -1,0 +1,45 @@
+PULMONOLOGY PROGRESS NOTE
+DOS: 09/03/2025
+Author: Teresa Alvarez, NP
+
+Patient: Janet Perry, F, DOB 09/03/1963 (age 62 today - happy bday to pt).
+
+CC: Lung cancer screening SDM visit.
+
+HPI: Pt seen for shared decision-making d/w LDCT lung ca screening. Hx COPD, gout. No new resp complaints today - occasional dyspnea on exertion, stable. No hemoptysis, no wt loss.
+
+Smoking hx: Former smoker, 1.5 packs/day x 28 years. Quit smoking at age 46. Denies current tobacco use, denies vaping. ETOH: quit drinking alcohol in 2009, denies current use.
+
+Discussed benefits/risks/limitations of LDCT screening including false positives, incidental findings, radiation exposure. Pt verbalizes understanding. Screening eligibility criteria discussed in general terms; decision-making shared, no imaging order placed at this visit.
+
+---- COPIED FORWARD FROM VISIT 03/14/2022 (Dr. R. Nguyen) ----
+Pt here for f/u COPD. Reports occasional wheeze, uses albuterol PRN. Denies fevers/chills. Gout flare last documented 2021, on allopurinol, tolerating well. Spirometry from 2021 reviewed - FEV1/FVC reduced c/w obstructive pattern. Pt counseled on smoking cessation (pt was smoking at that time per this old note - see updated status above). Plan at that visit: continue inhalers, f/u 6 months, consider pulm rehab referral.
+---- END COPIED TEXT ----
+
+ROS: Constitutional - no fever, no wt loss. Resp - mild DOE, no cough change. CV - no chest pain, no palpitations. GI - no abd pain. MSK - no active gout flare currently. Skin - unremarkable.
+
+PE:
+Vitals: BP 128/78, HR 74, RR 16, SpO2 95% RA, Wt stable.
+Gen: NAD, well-appearing female.
+Lungs: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+CV: RRR, no murmurs.
+Ext: no edema, no active joint swelling.
+
+Problem List (ICD-10):
+1. COPD, unspecified - J44.9 (active)
+2. Gout, unspecified - M10.9 (active, controlled)
+3. Tobacco use disorder - Z87.891 (personal hx, former smoker) - note: some older records list F17.210 nicotine dependence, cigarettes - outdated, pt no longer smokes.
+4. Alcohol use, historical - Z86.410 (personal hx, remote, quit 2009)
+5. Essential HTN - I10 (per problem list, not addressed today, likely outdated/needs review)
+
+Assessment: 62F, former heavy smoker (1.5 ppd x 28 yrs, quit age 46), COPD stable, gout controlled. Here for LCS shared decision-making discussion.
+
+Plan:
+- Continue current COPD regimen, reassess symptoms at next visit.
+- Continue allopurinol for gout, no active flare.
+- LCS discussed at length; pt to consider and follow up with PCP re: further workup/imaging as appropriate.
+- Reinforce continued abstinence from tobacco and alcohol.
+- Return to clinic in 6 months or sooner if symptoms worsen.
+- Pt verbalized agreement with plan.
+
+Electronically signed: Teresa Alvarez, NP

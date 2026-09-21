@@ -1,0 +1,53 @@
+Family Medicine - Annual Wellness Visit
+DOS: 07/17/2024
+Patient: Larry Hall (M), DOB: 07/17/1947, Age: 77
+Provider: Quentin Hale, PA-C
+
+--- NURSE INTAKE ---
+VS: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 198 lb
+Pt here for annual wellness visit, no acute complaints today. reports doing okay overall, some fatigue in afternoons.
+
+TOBACCO USE (templated block):
+ Current smoker: YES
+ Type: Cigarettes
+ Amt/day: 10 cigarettes/day
+ Duration: 9 years
+ Quit interest: discussed, pt not ready
+
+--- COPIED FORWARD FROM VISIT 03/12/2021 (retained in error, not reviewed this visit) ---
+CC: f/u DM2, CKD, CAD
+HPI: pt c/o occasional dizziness, denies chest pain, denies SOB. Meds reviewed and reconciled. Pt states compliant w/ metoprolol and lisinopril. A1c last drawn 7.1%. Denies foot ulcers, denies vision changes. Discussed diet and exercise, pt states walks 20 min daily. Will recheck labs in 3 months.
+PHYSICAL EXAM (2021): Gen: NAD. CV: RRR no m/r/g. Lungs: CTAB. Abd: soft NT/ND. Ext: no edema.
+ASSESSMENT/PLAN (2021): Continue current meds, f/u in 3 mo, labs ordered.
+--- END COPIED SECTION ---
+
+PROBLEM LIST (ICD-10):
+- E11.9 Type 2 diabetes mellitus without complications
+- I25.10 Atherosclerotic heart disease of native coronary artery w/o angina
+- N18.3 Chronic kidney disease, stage 3
+- K21.9 GERD
+- F32.9 Major depressive disorder, unspecified (outdated - pt now on maintenance tx, stable per pt report)
+- Z71.6 Tobacco use counseling (added this visit)
+
+--- PHYSICIAN PROGRESS NOTE (current, 07/17/2024) ---
+HPI: Mr Hall is a 77 yo male, DOB 7/17/1947, presenting for his annual wellness exam. He denies chest pain, denies new SOB, denies edema. GERD sx well-controlled on current regimen, occasional heartburn after spicy foods. Mood reportedly stable, sleep adequate. Denies polyuria/polydipsia. No new complaints regarding CKD; denies dysuria, denies hematuria.
+
+Tobacco: reviewed intake tobacco block above; pt continues to smoke despite counseling on multiple prior visits regarding cessation. Discussed risks of continued smoking on cardiovascular and renal disease progression, pt verbalizes understanding but not ready to quit at this time. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+ROS: otherwise negative except as noted above. Reviewed 10-point systems, all other systems negative per pt report.
+
+Exam: Gen: well-appearing, NAD, appropriate affect. HEENT: unremarkable. CV: RRR, no murmurs appreciated. Lungs: clear to auscultation bilat, no wheezes/rales. Abd: soft, nontender, nondistended, no organomegaly. Ext: no edema, pulses 2+ bilat. Skin: no lesions concerning for malignancy noted.
+
+Labs reviewed: recent BMP shows eGFR consistent w/ known CKD stage3, K+ wnl. A1c pending, ordered today. Lipid panel due, will order.
+
+Assessment:
+1. Type 2 DM - stable, continue metformin, recheck A1c
+2. CAD - stable, continue statin/asa, no new sx
+3. CKD stage 3 - stable, monitor labs q6mo
+4. GERD - stable on PPI
+5. Depression - stable, continue current regimen
+6. Tobacco use - ongoing, counseled again today re: cessation resources, offered nicotine replacement, pt declined at this time
+
+Plan: routine labs ordered, f/u 6 months or sooner prn, continue current meds, encouraged smoking cessation, return precautions reviewed.
+
+Signed: Quentin Hale, PA-C

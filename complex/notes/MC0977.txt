@@ -1,0 +1,45 @@
+GERIATRICS PROGRESS NOTE
+DOS: 04/16/2026
+Author: Michael Dunn, DO (NP progress note)
+
+Pt: Hung Ross, M, DOB 4/16/1951, age 75. Here for geriatric assessment f/u osteoarthritis and asthma.
+
+HPI: Pt c/o chronic b/l knee pain, worse w/ cold weather, uses acetaminophen prn w/ mod relief. Asthma stable, uses albuterol inh prn, denies nocturnal sx, no recent exac or ED visits. Ambulates w/ cane, no falls since last visit. Appetite fair, sleep ok.
+
+--- copied forward from visit 09/12/2025 ---
+Pt seen for routine geri f/u. Reports occasional dizziness on standing, advised hydration and slow position changes. Osteoarthritis of knees managed conservatively, PT referral discussed but pt declined due to transportation issues. Asthma well controlled on albuterol prn, no ICS needed at this time. Immunizations UTD per record. Pt lives alone, daughter checks in wkly. Cognitive screen (MMSE) 27/30, no significant decline noted. Advised f/u in 6 mo or sooner if sx worsen.
+--- end copied text ---
+
+ROS: otherwise negative except as above. No chest pain, no SOB at rest, no fevers/chills.
+
+PMH: Osteoarthritis, Asthma
+Meds: Acetaminophen prn, Albuterol MDI prn, Vit D supplement
+Allergies: NKDA
+
+Social Hx:
+Smoking status: Unknown if ever smoked
+Alcohol: denies
+Lives alone, daughter provides support
+
+Exam:
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.4F, SpO2 96% RA
+Gen: NAD, well-groomed, appropriate affect
+CV: RRR no m/r/g
+Resp: mild exp wheeze b/l, no accessory muscle use
+MSK: crepitus b/l knees, mild joint line tenderness, no effusion, ROM limited by pain
+Neuro: grossly intact, gait steady w/ cane
+
+Labs/Results:
+03/28/2026 CBC: WBC 6.8, Hgb 13.9, Plt 245
+03/28/2026 BMP: Na 140, K 4.2, Cr 0.9, Glu 102
+03/28/2026 Vit D 28 ng/mL (low-normal)
+01/15/2026 PFT: FEV1 78% predicted, mild obstructive pattern
+
+Assessment/Plan:
+1. Osteoarthritis - continue acetaminophen, reconsider PT referal, consider topical NSAID
+2. Asthma - continue albuterol prn, reinforce inhaler technique, f/u if worsening sx
+3. Geriatric assessment - cognitive screen stable, fall risk low, encourage continued mobility and social engagement
+4. Routine health maintenance discussed including age-appropriate screenings
+5. RTC in 6 months or sooner prn
+
+Electronically signed: Michael Dunn, DO

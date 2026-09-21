@@ -1,0 +1,45 @@
+URGENT CARE - History and Physical
+Patient: Larry Davis (M), DOB 2/22/1961, Age: 64
+Date of Service: 02/22/2025
+Provider: Laura Castellano, FNP-C
+
+CC: Cough x 5 days.
+
+HPI: 64 yo M w/ hx COPD, asthma, presents w/ productive cough, worse at night. Denies fever. No hemoptysis. No chest pain. Some mild SOB w/ exertion, baseline per pt. Uses albuterol inhaler PRN, states using more frequently past week. Smoking hx notable: pt smoked about half a pack (approx 10 cigs/day) for 15 years, then cut back to a quarter pack (approx 5 cigs/day) for 27 years, before ultimately quitting altogether. Quit smoking 1 year after moving to this state, which occurred in 2017. No current tobacco use. Denies illicit drug use.
+
+ROS: Otherwise negative except as above. No wt loss, no night sweats.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker - see HPI for details
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Not on file
+
+PMH: COPD, asthma.
+Meds: Albuterol MDI PRN, tiotropium daily, fluticasone/salmeterol.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: T 98.4, HR 88, RR 18, BP 132/78, SpO2 95% RA.
+Gen: NAD, comfortable.
+Lungs: Mild expiratory wheeze bilat, no rales, no rhonchi.
+CV: RRR, no m/r/g.
+Ext: No edema.
+
+Labs/Results:
+02/22/2025 - CXR: No acute infiltrate, mild hyperinflation c/w COPD, no effusion.
+02/22/2025 - SpO2 95% RA (noted above).
+02/22/2025 - Rapid flu/COVID panel: Negative x2.
+
+Assessment: COPD exacerbation, mild, likely triggered by URI. Asthma stable.
+
+Plan:
+- Prednisone taper x5 days.
+- Continue current inhalers, add short-acting rescue as needed.
+- Encourage hydration, rest.
+- Discussed general pulmonary health maintenance; f/u PCP in 1-2 wks or sooner if worsening.
+- Return precautions given re: worsening SOB, fever, chest pain.
+
+Electronically signed: Laura Castellano, FNP-C 02/22/2025

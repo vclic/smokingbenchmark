@@ -1,0 +1,84 @@
+TELEHEALTH VISIT NOTE
+Geriatrics – Dr. Rachel Goldberg, MD
+Date of Service: 08/07/2024
+Patient: Evelyn Ross | DOB: 02/13/1957 | Age: 67 | Sex: F
+Encounter type: Video visit, geriatric assessment
+
+CHIEF COMPLAINT: Follow-up for multiple chronic conditions, geriatric assessment.
+
+HPI: Ms. Ross is a 67-year-old woman with history of osteoarthritis, heart failure with reduced ejection fraction, obstructive sleep apnea, hypothyroidism, hyperlipidemia, and obesity who presents via telehealth for routine geriatric assessment. She reports stable mood, occasional joint pain in the knees managed with acetaminophen, and mild dyspnea on exertion consistent with baseline HFrEF. She denies chest pain, orthopnea, or PND today. She uses her CPAP most nights and reports good adherence. She has noticed some fatigue in the afternoons but attributes this to poor sleep quality on nights she skips CPAP. No recent falls. She lives with her daughter who assists with medication management and grocery shopping.
+
+PAST MEDICAL HISTORY: Osteoarthritis (bilateral knees), heart failure with reduced ejection fraction (EF ~35% per last echo), obstructive sleep apnea (on CPAP), hypothyroidism, hyperlipidemia, obesity (BMI 33).
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Never smoker; lifelong non-smoker.
+ Smoking pack-years: N/A
+ Smokeless tobacco: Not on file
+ Alcohol use: Occasional, 1 glass of wine on weekends
+ Drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with daughter
+ Exercise: Light walking, limited by knee pain
+ Marital status: Widowed
+ Caffeine: 1 cup coffee daily
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: Denies vision changes, hearing changes, sore throat.
+Cardiovascular: Denies chest pain, palpitations; mild exertional dyspnea as above.
+Respiratory: Denies cough, wheeze, hemoptysis.
+Gastrointestinal: Denies nausea, vomiting, abdominal pain, changes in bowel habits.
+Genitourinary: Denies dysuria, hematuria, urinary incontinence.
+Musculoskeletal: Chronic bilateral knee pain, no new joint swelling.
+Skin: Denies rashes, lesions.
+Neurological: Denies headache, dizziness, numbness, tingling.
+Psychiatric: Denies depression, anxiety, suicidal ideation.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Hematologic/Lymphatic: Denies easy bruising, bleeding, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM (limited, via video):
+General: Alert, well-appearing, in no acute distress, seated comfortably.
+HEENT: Normocephalic, atraumatic (visual only).
+Cardiovascular: Unable to auscultate via telehealth; patient denies edema, reports no recent weight gain.
+Respiratory: No visible respiratory distress, no use of accessory muscles.
+Musculoskeletal: Mild difficulty rising from chair, uses armrests; no visible joint deformity.
+Skin: No visible rashes or lesions on exposed areas.
+Affect: Appropriate, engaged throughout visit.
+
+MEDICATIONS:
+1. Carvedilol 12.5 mg PO BID
+2. Furosemide 20 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Levothyroxine 75 mcg PO daily
+6. Atorvastatin 40 mg PO daily
+7. Acetaminophen 500 mg PO PRN for joint pain
+8. Vitamin D3 1000 IU PO daily
+9. Calcium carbonate 500 mg PO BID
+10. Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+LABS/RESULTS:
+- TSH (07/15/2024): 2.1 mIU/L (within normal limits)
+- BNP (07/15/2024): 210 pg/mL (mildly elevated, stable from prior)
+- Basic metabolic panel (07/15/2024): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 0.9, Glucose 98
+- Lipid panel (06/01/2024): Total cholesterol 178, LDL 92, HDL 52, Triglycerides 130
+- Echocardiogram (05/20/2024): EF 35%, mild mitral regurgitation, no significant change from prior study
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced EF – stable, continue current regimen, recheck BNP in 3 months.
+2. Osteoarthritis – continue acetaminophen PRN, consider PT referral for strengthening exercises.
+3. Obstructive sleep apnea – continue CPAP, encourage nightly adherence, discussed importance of consistent use.
+4. Hypothyroidism – TSH within normal limits, continue current dose of levothyroxine.
+5. Hyperlipidemia – lipid panel at goal, continue atorvastatin.
+6. Obesity – discussed weight management strategies, referral to nutrition considered.
+7. Health maintenance – discussed age-appropriate cancer screening including general discussion of lung cancer screening guidelines; no imaging ordered at this time given her non-smoking status. Discussed influenza and pneumococcal vaccination status, up to date per record.
+
+Follow-up in 3 months or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+---
+ADDENDUM (08/07/2024, later same day): Patient's daughter called clinic after visit to clarify medication refill process for furosemide; instructed to use pharmacy portal for refill requests going forward. No changes to plan. Reiterated for the chart: patient remains a lifelong non-smoker, no history of tobacco use of any kind. Daughter confirmed no falls or new symptoms since visit ended. No further action needed at this time.
+
+Rachel Goldberg, MD

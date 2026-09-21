@@ -1,0 +1,51 @@
+Family Medicine Clinic Note
+Date of Service: 9/24/2025
+Patient: Donald Campbell   DOB: 5/11/1975   MRN: 41804899
+
+S:
+CC: Follow-up diabetes
+HPI: Mr. Campbell is a 50-year-old man with a history of HLD, HTN, OSA, and T2DM; tobacco: 4 pack-years; he presents for diabetes follow-up. Most recent A1c 9.3% (previously 10.2% in June 2025). Fasting glucose 130-180 per log. No hypoglycemic episodes. Trying to walk 20 minutes daily.
+
+PMH:
+- Obstructive sleep apnea on CPAP
+- Mixed hyperlipidemia
+- Essential hypertension (dx 2014)
+- Type 2 diabetes mellitus
+- Former smoker
+Meds: chlorthalidone 12.5 mg daily; rosuvastatin 10 mg daily; lisinopril 40 mg daily; insulin glargine 20 units nightly; metformin 1000 mg BID
+Allergies: NKDA
+SH: Married, lives with wife. Works as an accountant. Smoking: former smoker. No alcohol. No illicit drug use.
+FH: Mother - breast cancer at 70.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 128/81  HR: 63  RR: 12  Temp: 97.9 F  SpO2: 99% on RA  Wt: 189 lbs  BMI: 24.9
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (9/1/2025): A1c 9.3%, LDL 133, Cr 0.99, K 3.6, Hgb 11.9
+
+A/P:
+1. Type 2 diabetes mellitus: A1c 9.3% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. Mixed hyperlipidemia: Tolerating statin; recheck lipids in 1 yr.
+3. History of tobacco use (Z87.891): Quit in the mid-2000s. No relapse.
+4. Essential hypertension
+   - BP at goal; continue current regimen.
+
+Return in about 3 months (around 12/24/2025).
+
+Gregory Tan, MD

@@ -1,0 +1,73 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Urgent Care Clinic
+Date of Service: 02/10/2026
+Author: Anita Patel, MD
+
+Re: Denise Roberts, DOB 02/10/1964 (age 62)
+
+Dear Dr. Colleague,
+
+Thank you for the opportunity to evaluate Ms. Roberts, a 62-year-old woman with osteoarthritis, COPD, gout, and asthma, who presented to urgent care today, 02/10/2026, with a persistent cough.
+
+HPI:
+Pt reports cough x several days, nonproductive, worse at night. Denies fever, hemoptysis. Some mild dyspnea on exertion, baseline per COPD. No chest pain. No recent travel or sick contacts. Notably, pt has a long history of heavy smoking, which is relevant given her underlying COPD and asthma; this was discussed as part of her respiratory risk profile. She reports she no longer smokes. Uses albuterol inhaler PRN, says it helps somewhat with cough. No new environmental exposures reported. Denies weight loss, night sweats.
+
+ROS: Otherwise negative except as above. GI, GU, MSK reviewed - gout stable, no flares recently, knees achy but chronic per osteoarthritis hx.
+
+PMH:
+- COPD
+- Asthma
+- Osteoarthritis
+- Gout
+
+Meds: albuterol inhaler PRN, tiotropium daily, allopurinol, occasional NSAID for joint pain (pt states uses sparingly given hx COPD/asthma - counseled re: NSAID caution).
+
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker (per report)
+Pack-years: Not on file
+Quit date: Not on file
+Alcohol use: Occasional, social
+Substance use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to joint pain
+Diet: Reg
+
+[Note: some SH fields above copy-forwarded from prior chart; pt confirms no longer smokes as of today's visit, no further detail elicited in this encounter.]
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, T 98.4F, SpO2 95% RA
+Gen: NAD, appears stated age
+HEENT: OP clear, no erythema
+Neck: supple, no LAD
+Lungs: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: mild knee joint tenderness bilat, no acute swelling, no edema
+Skin: no rash
+
+ASSESSMENT / PROBLEM LIST (ICD-10):
+1. Acute cough - R05 (new, likely viral vs COPD exac)
+2. COPD - J44.9 (stable per pt report, on maintenance tx)
+3. Asthma - J45.909 (old dx, listed since 2012 chart note - may need reassessment, unclear if still accurate)
+4. Osteoarthritis, unspecified - M19.90 (chronic)
+5. Gout, unspecified - M10.9 (last flare documented years ago, outdated entry, pt denies recent flare)
+6. Tobacco use - Z87.891 (personal history, former use)
+
+PLAN:
+- Cough likely viral URI vs mild COPD exacerbation; will treat conservatively
+- Continue albuterol PRN, tiotropium daily
+- Short course of guaifenesin OTC for symptomatic relief
+- Encouraged hydration, rest
+- Discussed general respiratory health given hx of heavy smoking and underlying lung disease; screening options discussed in general terms, no imaging ordered today
+- Continue current gout and OA management, no changes
+- F/u with PCP within 1-2 wks if cough persists or worsens, sooner if fever, hemoptysis, or worsening SOB
+- Return to urgent care or ED for red flag symptoms
+
+Thank you for allowing us to participate in Ms. Roberts' care. Please do not hesitate to reach out with questions.
+
+Sincerely,
+Anita Patel, MD
+Urgent Care Clinic

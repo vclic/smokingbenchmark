@@ -1,0 +1,31 @@
+TELEHEALTH VISIT NOTE
+DOS: 08/05/2024
+Patient: Steven Lewis, M, DOB 8/4/1958 (age 66)
+Provider: Laura Castellano, FNP-C
+Dept: Cardiology - CHF f/u
+
+HPI: Pt seen via video for routine HF f/u. Denies acute SOB, orthopnea, PND. "I've been feeling pretty stable, just tired some days." Wt stable per home scale, no significant edema noted by pt. Med compliance reportedly good. Smoking hx: pt reports smoked 1.5 ppd from age 16 until quitting at age 44 - longstanding hx, relevant given COPD. Pt currently quit smoking, denies any relapse or vaping. "I haven't touched a cigarette in years, doc." Quit date per pt: Nov 2002.
+
+--- copied forward from prior note dtd 02/14/2023 ---
+CC: HF f/u, COPD stable
+HPI: 66M (then 64) here for routine CHF and COPD mgmt. Denies chest pain, denies syncope. Reports occasional wheeze with exertion, uses albuterol prn. No recent hospitalizations. Euthyroid on levothyroxine per last TSH. Diet: watching sodium intake, admits occasional lapses w/ fast food. Exercise: short walks as tolerated. ROS otherwise negative except mild fatigue.
+PMH: HFrEF (EF 35% on last echo 2022), COPD (GOLD II), hypothyroidism.
+Meds: carvedilol, lisinopril, furosemide, spironolactone, levothyroxine, albuterol MDI prn.
+Exam: A&Ox3, NAD. Lungs: mild exp wheeze bilat. CV: RRR, no S3/S4 appreciated. Ext: trace edema.
+Assessment/Plan: Continue current regimen, recheck BMP/BNP, f/u 3 mo.
+--- end copied text ---
+
+ROS today: Constitutional - fatigue as above. Resp - no increased cough, stable dyspnea on exertion baseline per COPD. CV - no palpitations, no chest pain. Endo - no heat/cold intolerance sx.
+
+PMH: HFrEF, COPD, hypothyroidism.
+Soc hx: quit smoking, no current tobacco use. No EtOH. No illicit drugs.
+Meds: carvedilol 12.5mg BID, lisinopril 10mg daily, furosemide 40mg daily, spironolactone 25mg daily, levothyroxine 75mcg daily, albuterol MDI prn.
+
+Exam (limited via telehealth): Pt appears comfortable, no acute distress. Resp effort normal on cam. Speaking full sentences without difficulty.
+
+A/P:
+1. HFrEF - stable, cont current regimen, will check BNP/BMP at next in-person visit.
+2. COPD - stable, cont albuterol prn, reinforced smoking cessation maintenance (pt long-term quit, praised continued abstinence).
+3. Hypothyroidism - cont levothyroxine, TSH due for recheck.
+Discussed lung cancer screening in general terms given hx of tobacco use; will revisit at next visit.
+RTC 3 months or sooner if worsening sx.

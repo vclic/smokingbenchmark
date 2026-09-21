@@ -1,0 +1,67 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: James Long (M)  DOB: 02/23/1964  Age: 61
+Date of Service: 02/23/2025
+Provider: Owen Fitzgerald, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: Follow-up hypertension and diabetes.
+
+HPI: Mr. Long is a 61-year-old male presenting today, 02/23/2025, for routine follow-up of hypertension and type 2 diabetes. He reports doing reasonably well since last visit, no chest pain, no shortness of breath. He states his home BP readings have been averaging in the 130s/80s. Blood sugars per home glucometer log range 110-160 fasting. He denies polyuria, polydipsia, or blurred vision. No new joint symptoms; his gout has been quiescent since last flare over a year ago. He is compliant with meds, occasionally forgets evening dose of metformin. No recent ER visits or hospitalizations.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+- Essential hypertension, I10 (ongoing, controlled)
+- Type 2 diabetes mellitus without complications, E11.9 (ongoing)
+- Gout, unspecified, M10.9 (last flare 2023, outdated entry not updated)
+- Hyperlipidemia, E78.5 (per old chart, pt reports lipids improved on statin)
+- GERD, K21.9 (resolved per pt, still listed)
+
+SOCIAL HISTORY: Lives with spouse, retired postal worker. Denies current alcohol use beyond occasional glass of wine. Tobacco: patient tried a few cigarettes as a teenager but never smoked regularly; denies any current or past regular tobacco use. No illicit drug use. Exercises intermittently, walks dog daily.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss.
+Eyes: denies vision changes.
+ENT: denies sore throat, congestion.
+Cardiovascular: denies chest pain, palpitations, edema.
+Respiratory: denies cough, wheeze, dyspnea.
+GI: denies nausea, vomiting, diarrhea, constipation, reflux symptoms currently.
+GU: denies dysuria, frequency.
+Musculoskeletal: denies acute joint pain, denies swelling.
+Skin: denies rash, denies lesions.
+Neuro: denies headache, denies numbness/tingling.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/84, HR 72, RR 16, Temp 98.4F, Wt 198 lbs, Ht 5'10"
+General: well-appearing, no acute distress.
+HEENT: normocephalic, atraumatic, no thyromegaly.
+CV: regular rate and rhythm, no murmurs.
+Lungs: clear to auscultation bilaterally.
+Abdomen: soft, nontender, nondistended.
+Extremities: no edema, first MTP joints without erythema or swelling bilaterally.
+Skin: no rash.
+Neuro: alert and oriented x3, no focal deficits.
+
+LABS/RESULTS:
+- HbA1c 02/10/2025: 7.1%
+- Basic metabolic panel 02/10/2025: Na 140, K 4.2, Cr 0.9, eGFR >60
+- Lipid panel 02/10/2025: LDL 92, HDL 45, Triglycerides 130
+- Uric acid 02/10/2025: 6.8 mg/dL
+- Urine microalbumin/creatinine ratio 02/10/2025: 18 mg/g (normal)
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Amlodipine 5 mg daily
+3. Metformin 1000 mg twice daily
+4. Atorvastatin 20 mg daily
+5. Allopurinol 100 mg daily
+6. Aspirin 81 mg daily
+7. Omeprazole 20 mg daily (as needed)
+
+ASSESSMENT AND PLAN:
+1. Essential hypertension (I10) - well controlled on current regimen, continue lisinopril and amlodipine, recheck BP at next visit.
+2. Type 2 diabetes mellitus (E11.9) - A1c 7.1%, improved from prior, continue metformin, reinforce dietary counseling, recheck A1c in 3 months.
+3. Gout (M10.9) - asymptomatic currently, continue allopurinol, uric acid at goal.
+4. Hyperlipidemia (E78.5) - lipids at goal on atorvastatin, continue current dose.
+5. Health maintenance - discussed age-appropriate cancer screening topics; patient counseled on diet, exercise, and continued avoidance of tobacco use given his history of only trying a few cigarettes as a teenager with no regular use since. Follow-up in 3 months or sooner if concerns arise.
+
+Electronically signed: Owen Fitzgerald, MD, 02/23/2025.

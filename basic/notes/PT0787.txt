@@ -1,0 +1,43 @@
+Cardiology Clinic Note
+Date of Service: March 15, 2023
+Patient: Patricia Lewis   DOB: 12/26/1968   MRN: 66326343
+
+S:
+CC: Chest pain
+HPI: Mrs. Lewis is a 54-year-old woman with a history of HTN and CHF who presents for evaluation of chest pain. Episodes of chest tightness when walking uphill, no rest symptoms. Associated mild dyspnea. No orthopnea or PND. CV risk factors: HTN, never smoker, FHx premature CAD.
+
+PMH:
+- HTN
+- HFrEF (dx 2009)
+PSH: Right total knee arthroplasty; Cholecystectomy
+Meds: spironolactone 25 mg daily; chlorthalidone 12.5 mg daily; furosemide 20 mg daily; lisinopril 40 mg daily
+Allergies: Shellfish
+Social History:
+- Lives with husband in a single-family home.
+- She has never used tobacco.
+- Social drinker.
+FH: No family hx of colon cancer.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 141/94  HR: 62  RR: 14  Temp: 97.9 F  SpO2: 95% on RA  Wt: 127 lbs  BMI: 21.1
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Fine bibasilar crackles
+  Abd: Benign
+  Ext: 1+ pitting edema bilateral LE to mid-shin
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Chest pain: ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. HFrEF: Stable; continue GDMT.
+3. HTN: Elevated today; home BP log requested.
+4. Health maintenance: LCS: N/A - never smoker.
+
+Return in about 3 months (around 6/15/2023).
+
+-- PR (MD)

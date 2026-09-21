@@ -1,0 +1,83 @@
+TELEHEALTH PROGRESS NOTE
+Patient: George Wilson | DOB: 04/18/1949 | Age: 76 | Sex: M
+Date of Service: 04/26/2025
+Provider: Elena Markovic, MD (Family Medicine)
+Visit type: Telehealth - medication refill visit
+
+CHIEF COMPLAINT: Medication refills, routine follow-up for atrial fibrillation and osteoporosis.
+
+HPI: Mr. Wilson is a 76-year-old male seen today via telehealth for refills of his chronic medications. He reports his atrial fibrillation has been stable, no palpitations, no syncope, no chest pain. He denies dyspnea on exertion beyond his baseline. Regarding osteoporosis, he reports no new fractures or falls since last visit. He is due for his DEXA scan reassessment per prior plan. He states he is compliant with his medications, though occasionally misses his evening dose of metoprolol. No new complaints today. He is interested in refilling his apixaban, metoprolol, and alendronate.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation, on chronic anticoagulation
+- Osteoporosis
+- Hyperlipidemia
+- Hypertension
+
+SOCIAL HISTORY: Patient continues to smoke cigarettes, currently about three-quarters of a pack (approximately 15 cigarettes) per day, with a 57-year smoking history. He states he is not ready to quit at this time despite prior counseling. He was advised again today of the benefits of smoking cessation and offered resources including nicotine replacement therapy and referral to a quitline, which he declined at this time. Alcohol use: occasional, denies illicit drug use. Lives with spouse, retired.
+
+[NOTE: The templated field below auto-populated from an old chart entry and is INCORRECT - it should be disregarded. Correct smoking history is documented above in the narrative.]
+Smoking status: Never Smoker
+
+FAMILY HISTORY: Father with history of coronary artery disease, mother with osteoporosis.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, fatigue.
+HEENT: Denies vision changes, hearing loss, sore throat, nasal congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Denies cough, shortness of breath, wheezing, hemoptysis.
+Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, abdominal pain, blood in stool.
+Genitourinary: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Denies joint pain, swelling, back pain, new falls.
+Neurological: Denies headache, dizziness, weakness, numbness, tingling.
+Skin: Denies rash, lesions, bruising.
+Psychiatric: Denies depression, anxiety, sleep disturbance.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Hematologic/Lymphatic: Denies easy bruising beyond baseline, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies, recurrent infections.
+
+PHYSICAL EXAM (limited via telehealth, patient self-reported vitals from home BP cuff):
+Vitals: BP 128/76, HR 68 (irregular per patient report), RR 16, Temp 97.8F (reported), Weight 182 lbs (reported)
+General: Alert, well-appearing, no acute distress, appropriate for telehealth setting.
+Cardiovascular: Unable to auscultate via telehealth; patient reports no palpitations. Rhythm reported as irregular by patient's home pulse check, consistent with known atrial fibrillation.
+Respiratory: No visible respiratory distress on camera, no use of accessory muscles observed.
+Skin: No visible rashes or lesions on face/hands via camera.
+Neurological: Alert and oriented x3, speech clear, no facial droop noted on camera.
+Psychiatric: Mood and affect appropriate, cooperative with interview.
+
+LABS/RESULTS (reviewed today):
+- CBC (04/10/2025): WBC 6.8, Hgb 13.9, Hct 41.2%, Platelets 210
+- BMP (04/10/2025): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Creatinine 1.1, Glucose 98
+- INR/PT: N/A (patient on apixaban, no routine INR monitoring required)
+- Lipid panel (03/15/2025): Total cholesterol 172, LDL 98, HDL 48, Triglycerides 130
+- TSH (03/15/2025): 2.1 (normal)
+- DEXA scan (01/12/2024): T-score -2.6 lumbar spine, -2.3 femoral neck, consistent with osteoporosis
+- Vitamin D, 25-OH (03/15/2025): 32 ng/mL (sufficient)
+
+CURRENT MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate ER 50 mg PO daily
+3. Alendronate 70 mg PO weekly
+4. Atorvastatin 20 mg PO daily
+5. Lisinopril 10 mg PO daily
+6. Vitamin D3 2000 IU PO daily
+7. Calcium carbonate 600 mg PO daily
+8. Aspirin - discontinued per cardiology given anticoagulation
+9. Multivitamin PO daily
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - stable on apixaban and metoprolol, continue current regimen, refill both medications for 90 days. Continue to monitor heart rate and rhythm at home. Follow-up with cardiology as previously scheduled.
+2. Osteoporosis - continue alendronate, calcium, and vitamin D3. Repeat DEXA scan to be scheduled for reassessment given time interval since last study.
+3. Tobacco use - discussed ongoing cigarette use in detail today. Patient counseled extensively on cardiovascular and pulmonary risks of continued smoking, particularly given his atrial fibrillation. He remains ambivalent and not ready to quit at this visit. Cessation resources offered and declined; will continue to readdress at future visits. Lung cancer screening was discussed in general terms as part of overall risk discussion, no further action taken today.
+4. Hyperlipidemia/Hypertension - stable, continue current medications, refill atorvastatin and lisinopril.
+5. Health maintenance - up to date on routine vaccinations per prior chart review; will verify at next in-person visit.
+
+Follow-up: Return to clinic or telehealth in 3 months, sooner if symptoms arise.
+
+Elena Markovic, MD
+Family Medicine
+
+---
+ADDENDUM (04/26/2025, later same day):
+Patient's spouse called clinic this afternoon to clarify refill quantities for apixaban - confirmed 90-day supply sent to pharmacy as documented above. No changes to plan. Also noted for the record: the EHR problem list smoking status field displaying "Never Smoker" is an outdated auto-populated entry and does not reflect the patient's actual history; this has been flagged to clinic staff for correction in the chart's structured data fields. The narrative documentation above remains the accurate source: patient smokes approximately three-quarters of a pack per day, 57-year history, currently still smoking and not ready to quit.
+- Elena Markovic, MD

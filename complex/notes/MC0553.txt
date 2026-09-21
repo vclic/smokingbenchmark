@@ -1,0 +1,47 @@
+URGENT CARE PROGRESS NOTE
+Patient: Mei Sullivan (F), DOB 4/7/1948
+Date of Service: 05/21/2025
+Author: Farah Siddiqui, MD
+
+CC: Cough x several days.
+
+HPI: Ms. Sullivan is a 77-year-old woman with known hx of hypertension, COPD, osteoporosis, and HFrEF who presents to urgent care with a productive cough for the past 4-5 days, associated with mild dyspnea on exertion beyond her baseline. She denies fevers but notes some chills overnight. No chest pain. She has been using her albuterol inhaler more frequently over the past week without much relief. No hemoptysis. No recent travel or sick contacts reported. She reports her home O2 sat monitor (she has one from prior COPD exacerbations) has been reading in the low 90s.
+
+ROS: Constitutional - no weight loss, mild fatigue. HEENT - no sore throat, mild nasal congestion. Cardiovascular - no chest pain, occasional palpitations, stable orthopnea per baseline. Respiratory - cough, dyspnea as above, no wheeze noted by patient though family reports audible wheeze. GI - no nausea, vomiting, diarrhea, appetite stable. GU - no dysuria. Musculoskeletal - chronic low back pain stable, no new fractures. Skin - no rashes. Neuro - no focal weakness, no headache. Psych - mood stable, denies SI/HI. All other systems reviewed and negative except as noted above.
+
+Social History: Patient lives with her daughter in a single-story home. She has a long smoking history: she smoked about three-quarters of a pack (roughly 15 cigarettes) per day for 18 years, then quit completely for 7 years, but later restarted smoking at a higher rate of 1.5 packs per day for the past 25 years and continues to smoke to this day. When asked about cessation today, she states she is not ready to quit at this time, though she is aware of the risks given her COPD. She was counseled again on smoking cessation resources including nicotine replacement therapy and counseling referral, and this was documented as discussed. She denies alcohol use and denies any illicit drug use. She is a retired seamstress.
+
+Physical Exam:
+Vitals: T 99.1F, HR 92, BP 148/86, RR 20, SpO2 91% on room air, improved to 95% on 2L NC.
+General: Elderly woman, mild respiratory distress, sitting upright, using accessory muscles slightly.
+HEENT: NCAT, PERRLA, mucous membranes slightly dry, oropharynx clear.
+Neck: No JVD noted at this visit, no lymphadenopathy.
+Cardiovascular: Irregularly irregular rhythm at times noted, no murmurs appreciated, distal pulses intact, trace bilateral lower extremity edema.
+Respiratory: Diffuse expiratory wheezes bilaterally, prolonged expiratory phase, scattered rhonchi at bases, no rales appreciated today.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: Trace edema as above, no cyanosis, no clubbing.
+Skin: Warm, dry, no rashes.
+Neuro: Alert and oriented x3, no focal deficits.
+Psych: Mood/affect appropriate.
+
+Medications: Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Spironolactone 25mg daily, Tiotropium inhaler daily, Albuterol MDI PRN, Fluticasone/salmeterol combo inhaler BID, Alendronate 70mg weekly, Calcium/vitamin D supplement daily, Atorvastatin 20mg daily, Aspirin 81mg daily.
+
+Problem List:
+I50.9 Heart failure with reduced ejection fraction
+J44.9 COPD, unspecified
+I10 Essential hypertension
+M81.0 Osteoporosis without pathological fracture
+J20.9 Acute bronchitis (old entry, resolved 2022)
+E78.5 Hyperlipidemia (outdated, not on current problem list per cardiology but not removed)
+
+Assessment/Plan:
+77-year-old woman with COPD, HFrEF, HTN, osteoporosis presenting with acute cough, likely COPD exacerbation possibly triggered by viral URI vs early bronchitis, with hypoxia improved on supplemental O2.
+1. COPD exacerbation - Start prednisone taper, continue current inhalers, add short course of azithromycin given purulent sputum. Recommend home pulse ox monitoring, return precautions given for worsening hypoxia, increased work of breathing.
+2. Chronic tobacco use - Ongoing smoking as detailed in social history above; patient continues to smoke and is not ready to quit at this visit. Cessation counseling provided again, discussed risks with COPD and cardiac disease; lung cancer screening options were discussed in general terms. She was encouraged to consider nicotine replacement therapy in the future when ready.
+3. HFrEF - appears stable at baseline exam today, continue current heart failure regimen, monitor weight daily, will follow with cardiology as scheduled.
+4. HTN - BP mildly elevated today likely in setting of acute illness, continue current antihypertensives, recheck at follow up.
+5. Osteoporosis - continue alendronate and calcium/vitamin D, no acute issues today.
+
+Follow up in 3-5 days or sooner if worsening symptoms. Discussed all of above with patient who verbalized understanding and agreement with plan.
+
+Farah Siddiqui, MD

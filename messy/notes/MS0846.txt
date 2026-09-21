@@ -1,0 +1,76 @@
+Cardiology Progress Note – Nurse Practitioner
+Patient: Raymond Okafor
+DOB: 02/01/1954 (age 71)
+Date of Service: 02/01/2025
+Author: Laura Castellano, FNP-C
+
+CHIEF COMPLAINT: Heart failure follow up
+
+HPI:
+Mr. Okafor is a 71 y/o male with hx of CAD and HFrEF presenting for routine cardiology follow up. He reports doing "pretty good, not as winded as before" over the past month. Denies orthopnea, PND, or significant lower extremity edema. He notes occasional palpitations "maybe once a week, lasts a few seconds" but no chest pain, syncope, or presyncope. Weight has been stable per home scale readings, he brought log with him. States he is compliant with meds, though admits he "sometimes forget the water pill on weekends." No recent ER visits or hospitalizations since last seen.
+
+He denies fevers, chills, cough, or recent URI sx. Diet has been "okay, tryin to watch the salt" per pt. He is ambulating without issue, uses cane occasionally for balance due to osteoarthritis in the knees.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, no weight loss
+Cardiac: as per HPI, no chest pain
+Resp: no cough, no SOB at rest
+GI: reports occasional heartburn, consistent with known GERD, controlled on PPI
+MSK: chronic knee pain, stable, managed conservatively
+All other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker, 17 pack-year smoking history. No current cigarette use.
+Alcohol: occasional, denies heavy use
+Substance use: patient reports he smokes marijuana a few times a month, states its for "relaxation and sleep," denies other recreational drug use
+Occupation: retired postal worker
+Lives with: spouse
+
+PAST MEDICAL/PROBLEM LIST (ICD-10):
+1. I50.22 - Chronic systolic (congestive) heart failure
+2. I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris
+3. E66.9 - Obesity, unspecified
+4. K21.9 - Gastro-esophageal reflux disease without esophagitis
+5. M17.0 - Bilateral primary osteoarthritis of knee
+6. I10 - Essential hypertension (dc'd 2019, kept for hx purposes, not currently active per pt report - may need reconciliation)
+7. E78.5 - Hyperlipidemia, unspecified
+
+MEDICATIONS:
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Atorvastatin 40mg qhs
+- Omeprazole 20mg daily
+- Aspirin 81mg daily
+- Lisinopril 10mg daily (held x1 wk 2 mo ago for AKI, restarted since, tolerating well)
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68 reg, RR 16, SpO2 96% RA, Wt 214 lbs, BMI 33.1
+General: well-appearing, NAD, obese habitus
+CV: RRR, no m/r/g appreciated, JVP not elevated, no S3
+Lungs: CTAB, no crackles or wheeze
+Abdomen: soft, nontender, obese, no organomegaly appreciated
+Extremities: no edema, no clubbing or cyanosis, chronic knee changes noted b/l
+Neuro: grossly intact
+
+LABS (reviewed today, drawn 1/28/25):
+BNP 210 (improved from 340 prior visit)
+BMP wnl, Cr 1.1
+K+ 4.2
+
+ASSESSMENT/PLAN:
+1. HFrEF - clinically stable, improved BNP, continue current regimen. Reinforce low-sodium diet. F/u echo in 6 mo.
+2. CAD - stable, continue statin and aspirin, no anginal sx today.
+3. Tobacco history - former smoker with 17 pack-year history noted for risk stratification; lung cancer screening discussed with patient today, will revisit at future visit given his history.
+4. Marijuana use - counseled on potential interactions with cardiac meds and sleep hygiene alternatives, pt understands.
+5. Obesity - encouraged continued dietary modification, discussed referral to nutrition if pt interested, pt declined at this time.
+6. GERD - stable on current PPI dose.
+7. OA knees - stable, managing with OTC analgesics, pt declines further workup at this time.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+___________________________
+Laura Castellano, FNP-C
+
+ADDENDUM (same day, 3:45pm):
+Spoke with patient by phone after visit re: lab results pending at time of note, BNP result now added above. Patient calling to clarify furosemide dosing instructions, re-educated on taking medication in am to avoid nocturia, pt verbalizes understanding. No new complaints reported at this time. Will continue to monitor per plan above.
+-LC, FNP-C

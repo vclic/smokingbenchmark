@@ -1,0 +1,86 @@
+Family Medicine Office Visit
+
+Patient: WALKER, Sharon    MRN: 59766255
+DOB: 10/31/1971    Age: 54 y.o.    Sex: Female
+Date of Service: 01/19/2026    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Heartburn
+
+Subjective:
+Sharon Walker is a 54 y.o. female who presents for heartburn.
+Heartburn after meals, worse lying down. Taking OTC antacids.
+
+Past Medical History:
+Diagnosis	Date
+• CKD stage 3	2025
+• GERD
+• Hypothyroidism
+• Current smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2021)
+• Rotator cuff repair (2017)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 100 mcg daily
+• vitamin D3 2000 IU daily
+• omeprazole 20 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: 18 pkyr
+Social History Narrative
+  Lives alone in an apartment.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 108/85 (BP Location: Left arm, Patient Position: Sitting) | Pulse 69 | Temp 98.8 °F (Oral) | Resp 18 | Ht 5' 5" | Wt 178 lb | SpO2 99% | BMI 29.65 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema. Yellow nicotine staining of R 2nd/3rd fingertips.
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. GERD / dyspepsia
+   H. pylori stool antigen. PPI trial 8 weeks.
+2. Hypothyroidism
+   Recheck TSH.
+3. CKD stage 3
+   Monitor BMP q6 months.
+4. Tobacco dependence
+   Discussed cessation (4 min). Ambivalent about quitting. Referred to quitline (1-800-QUIT-NOW).
+
+RTC 12 months.
+
+Electronically signed by Owen Fitzgerald, MD on 01/19/2026

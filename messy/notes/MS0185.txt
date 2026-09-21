@@ -1,0 +1,40 @@
+Pulmonology H&P
+Patient: James Nelson (M), DOB 3/13/1946
+DOS: 03/13/2025
+Author: Owen Fitzgerald, MD
+
+CC: Lung cancer screening SDM visit
+
+HPI: Pt is a 79 y/o male referred for shared decision-making d/w LDCT screening given hx of tobacco use. He reports occasional dyspnea on exertion, stable, attributed to known COPD/asthma. No hemoptysis, no wt loss, no chest pain. Denies fevers/chills. Reviewed CXR from last yr, unremarkable. Pt has multiple comorbidities including DM2, HTN, HLD, COPD, asthma - all followed by PCP, meds unchanged.
+
+PMH: T2DM, asthma, HLD, HTN, COPD
+PSH: none significant
+Meds: metformin, atorvastatin, lisinopril, albuterol PRN, tiotropium
+Allergies: NKDA
+
+Social Hx: Former smoker. Quit smoking in 2001, at the time he had a stroke which prompted cessation. Lives w/ spouse, retired machinist. No EtOH, no illicit drug use. Denies vaping.
+
+ROS: Otherwise negative except as above.
+
+Exam:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 95% RA, BMI 27
+Gen: NAD, alert, appropriate
+HEENT: nml
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+Abd: soft, NT/ND
+Ext: no edema
+Neuro: grossly intact, no focal deficits appreciated today
+
+Assessment/Plan:
+79 y/o M, DOS 3/13/2025, former smoker (quit 2001 after CVA), tobacco hx notable for smoking half a pack/day (~10 cigs/day), here for LDCT lung ca screening SDM discussion.
+1. Discussed benefits/risks/limitations of LDCT screening including false positives, incidental findings, radiation exposure. Pt verbalizes understanding. Screening eligibility criteria and decision to proceed will be discussed further, no imaging ordered today.
+2. COPD/Asthma - continue current inhalers, reviewed technique, f/u PFTs prior review stable.
+3. HTN - well controlled, continue lisinopril.
+4. T2DM - continue metformin, A1c due for recheck.
+5. HLD - continue atorvastatin, lipid panel due.
+6. Counseled on continued avoidance of tobacco products, reinforced healthy lifestyle.
+RTC 3 months or sooner if symptoms worsen.
+
+--- Addendum 3/13/2025 1600 ---
+Addendum: Pt called back to clarify he has remained abstinent from smoking since quitting in 2001 and has not resumed use of any tobacco or nicotine products since. No other changes to plan above.

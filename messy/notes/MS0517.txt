@@ -1,0 +1,77 @@
+Cardiology Resident Note (Attestation by Attending Physician)
+Author: Laura Castellano, FNP-C
+Date of Service: 06/19/2026
+
+Patient: Dorothy Mitchell (F), DOB 04/23/1957, Age 69
+
+CHIEF COMPLAINT: Chest pain, evaluation requested by PCP.
+
+HPI:
+Ms Mitchell is a 69 year old femal referred to cardiology for eval of intermitent chest pain over the past 3 weeks. She describes the pain as a dull pressure sensation located substernally, non-radiating, lasting 5-10 min, occuring with exertion (climbing stairs, carrying groceries) and relieved with rest. No associated diaphoresis, nausea, or syncope. She denies palpitations though has known history of atrial fibrillation (on anticoagulation). No recent fevers, cough, or weight loss. She reports mild dyspnea on exertion which she attributes to "getting older." No orthopnea or PND.
+
+She continues to smoke cigarettes, between half a pack and a full pack per day, for the past 54 years total. She states she still smokes currently and is not ready to quit at this time despite repeated counseling from PCP. She was again advised today regarding smoking cessation resources including nicotine replacement and counseling referral, and the risks of continued tobacco use in setting of cardiac disaese were reviewed with her. Cancer screening options were discussed in general terms per guidelines.
+
+Past Medical History:
+- Osteoporosis, on bisphosphonate therapy
+- Gout, hx of recurrent flares, on allopurinol
+- Atrial fibrillation, on apixaban
+
+Social History:
+Lives alone, widowed, retired postal worker. Denies alcohol use. Denies illicit drug use. Smoking history as above. No occupational exposures reported.
+
+Family History:
+Father died of MI at age 61. Mother with history of osteoporosis and hip fracture.
+
+Review of Systems:
+General: denies fever, chills, unintentional weight loss
+Cardiac: as per HPI, denies syncope, denies leg swelling
+Resp: denies hemoptysis, mild dyspnea on exertion as noted
+GI: denies abdominal pain, denies GI bleeding
+MSK: occasional great toe pain c/w gout, currently quiescent
+All other systems reviewd and negative
+
+Physical Exam:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, Temp 97.8F, SpO2 96% RA, Wt 152 lbs
+General: alert, oriented, no acute distress
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no JVD
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abd: soft, non-tender, non-distended
+Ext: no edema, no clubbing or cyanosis
+Skin: no rashes
+
+Labs/Results (from chart, most recent):
+- 06/18/2026 CBC: WBC 6.8, Hgb 12.9, Hct 38.2, Plt 244
+- 06/18/2026 BMP: Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glu 98
+- 06/18/2026 Troponin I: <0.01 ng/mL (negative x1)
+- 06/18/2026 BNP: 112 pg/mL
+- 05/02/2026 Lipid panel: Total chol 198, LDL 121, HDL 46, Trig 155
+- 04/15/2026 Uric acid: 6.2 mg/dL
+- 06/19/2026 EKG: atrial fibrillation, rate 78, no acute ST changes
+
+Problem List (ICD-10):
+1. Atrial fibrillation, I48.91
+2. Osteoporosis without current pathological fracture, M81.0
+3. Gout, unspecified, M10.9
+4. Chest pain, unspecified, R07.9
+5. Tobacco use disorder, cigarettes, Z72.0 (outdated entry, still active per today's visit)
+6. GERD, K21.9 (per old chart, pt denies current sx, may be resolved)
+7. Essential hypertension, I10 (outdated - pt reports normotensive off meds x 2 yrs, needs review)
+
+Assessment/Plan:
+69 yo F w/ hx afib, osteoporosis, gout presenting with exertional chest discomfort, concerning for possible stable angina given cardiac risk factors incl longstanding tobacco use.
+1. Chest pain - obtain stress echo, continue home meds, follow up in 2 weeks or sooner if symptoms worsen
+2. Atrial fibrillation - continue apixaban, rate well controlled, no changes today
+3. Tobacco use - continue counseling, discussed cessation resources, pt not ready to quit at this visit, will readdress at future visits
+4. Osteoporosis - continue current therapy, no changes
+5. Gout - stable, continue allopurinol, uric acid wnl
+6. Hypertension - reassess at next visit, consider d/c from problem list if remains resolved
+
+Patient verbalized understanding of plan. All questions answered. Return to clinic in 2 weeks or sooner as needed.
+
+___________________________
+Laura Castellano, FNP-C
+
+Attending Attestation: I have reviewed and discussed this patient with the resident/NP author. I agree with the history, exam, and plan as documented above.
+
+ADDENDUM (later same day, 06/19/2026, 4:45pm):
+Patient called clinic after visit to clarify med list, confirms she is taking apixaban 5mg BID and allopurinol 100mg daily as prescribed, no new medication issues reported. No changes to plan above. Smoking status unchanged from earlier documentation today.

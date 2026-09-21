@@ -1,0 +1,64 @@
+TELEHEALTH VISIT NOTE
+Family Medicine - Laura Castellano, FNP-C
+Date of Service: 08/27/2023
+
+Patient: Rosa Johnson (F), DOB: 01/04/1962, Age: 61
+
+CHIEF COMPLAINT: Medication refills
+
+HPI: Pt is a 61 yo female presenting via telehealth for refill of her chronic meds. She states, "I'm out of my gout pills and my inhaler is almost done too." She reports occasional palpitations, less frequent since last afib med adjustment, denies chest pain or syncope. Gout flares controlled, last flare ~2 months ago. Asthma sx well controlled on current regimen, uses rescue inhaler <1x/week. BPH sx stable, nocturia x1 nightly, no urinary retention. Pt denies any acute complaints today. States "I feel pretty good overall, just need my refills."
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation
+- Gout
+- Asthma
+- BPH
+
+MEDICATIONS:
+1. Apixaban 5mg PO BID
+2. Metoprolol succinate 50mg PO daily
+3. Allopurinol 300mg PO daily
+4. Colchicine 0.6mg PO PRN flare
+5. Albuterol HFA inhaler 2 puffs PRN
+6. Fluticasone/salmeterol 250/50 1 puff BID
+7. Tamsulosin 0.4mg PO qHS
+8. Finasteride 5mg PO daily
+9. Atorvastatin 20mg PO daily
+10. Multivitamin daily
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Cigar/pipe use: Smokes a cigar a few times a year on holidays
+Illicit drug use: Denies
+Caffeine: 1 cup coffee/day
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days
+
+Review of systems reviewed and negative except as noted in HPI. Constitutional: no fever, no chills, no unintended weight loss. Eyes: no visual changes. ENT: no sore throat, no congestion. Cardiovascular: occasional palpitations as above, no chest pain, no edema. Respiratory: no cough, no wheeze today, no dyspnea at rest. GI: no nausea, no vomiting, no abdominal pain, no changes in bowel habits. GU: nocturia as above, no dysuria, no hematuria. Musculoskeletal: no active joint swelling today, mild stiffness in great toe occasionally. Skin: no rashes, no lesions. Neuro: no headache, no dizziness, no focal weakness. Psych: no depression, no anxiety reported. Endocrine: no polyuria, no polydipsia. Heme/Lymph: no easy bruising, no bleeding. Allergic/Immunologic: no seasonal allergy complaints today.
+
+PHYSICAL EXAM (limited, via telehealth, patient self-reported vitals from home BP cuff):
+Vitals: BP 128/78, HR 72 irregular, Wt 165 lbs (self-reported)
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+HEENT: Normocephalic atraumatic, no visible distress, no facial droop noted on camera.
+Neck: No visible jugular venous distension appreciated on video.
+Cardiovascular: Irregularly irregular rhythm noted by patient report of pulse check, no visible peripheral edema on camera.
+Respiratory: No visible increased work of breathing, speaking in full sentences without difficulty.
+Abdomen: Deferred, limited exam via video, pt denies tenderness on self-palpation.
+Extremities: No visible swelling or redness noted on camera exam of hands/feet.
+Skin: No rashes visible on camera.
+Neuro: Alert and oriented x3, speech clear, no obvious focal deficits noted.
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - stable on current anticoagulation and rate control, continue apixaban and metoprolol succinate, refill as requested, recheck INR/renal fxn not needed given DOAC, will obtain BMP at next in person visit.
+2. Gout - well controlled, continue allopurinol, refill colchicine for PRN flares, encouraged continued hydration and low purine diet.
+3. Asthma - well controlled, continue combination inhaler and albuterol PRN, refill both, reviewed inhaler technique verbally given telehealth format.
+4. BPH - stable on tamsulosin/finasteride, continue current regimen, refill both, will check PSA at next visit.
+5. Health maintenance - discussed age appropriate screenings including colon ca screening (pt states colonoscopy up to date), lung cancer screening was discussed briefly given her history however given she reports never having smoked cigarettes this was not pursued further at this time; occasional cigar use on holidays noted but not felt to be significant risk exposure for this discussion. Pt encouraged to continue routine preventive care.
+6. Return to clinic in 3 months or sooner if symptoms worsen, will plan in person follow up for labs and BP check.
+
+Patient verbalized understanding and agreement with plan, all questions answered, will send refills to pharmacy of choice today.
+
+Electronically signed: Laura Castellano, FNP-C

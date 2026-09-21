@@ -1,0 +1,38 @@
+Geriatrics Clinic Note
+Date of Service: 8/12/2024
+Patient: Evelyn Lopez   DOB: 5/17/1949   MRN: 87971594
+
+SUBJECTIVE:
+CC: f/u DM2
+HPI: 75F w/ T2DM, OA, hypothyroidism here for diabetes follow-up. Most recent A1c 7.0% (previously 6.8% in May 2024). Fasting glucose 130-180 per log. No hypoglycemic episodes. Trying to walk 20 minutes daily.
+
+PMH: OA, T2DM, hypothyroidism
+Meds: metformin 1000 mg BID; levothyroxine 50 mcg daily; meloxicam 7.5 mg daily; nicotine polacrilex gum 2 mg PRN; empagliflozin 10 mg daily
+Allergies: Codeine (nausea)
+SH: Lives with husband in a single-family home. Retired mechanic. Former; 30 cigs/d x60y; quit 1/2024. Still chewing nicotine gum occasionally for cravings. EtOH: 1-2 beers/wk. No IVDU.
+FH: Father - stroke. Father - AAA repair.
+ROS: 10-point ROS otherwise negative.
+
+O:
+Vitals: BP: 113/85  HR: 70  RR: 16  Temp: 98.6 F  SpO2: 96% on RA  Wt: 175 lbs  BMI: 27.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+A/P:
+1. Type 2 diabetes mellitus
+   - A1c 7.0% - above goal; start semaglutide 0.25 mg weekly. Diabetic eye exam referral.
+2. Osteoarthritis
+   - Continue PRN analgesics; home exercises.
+3. Hypothyroidism: TSH normal on last check; continue.
+
+RTC 6 months.
+
+-- JB (MD)

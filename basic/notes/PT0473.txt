@@ -1,0 +1,71 @@
+Internal Medicine Clinic Note
+
+Patient: LEWIS, Curtis    MRN: 44832912
+DOB: 06/19/1964    Age: 61 y.o.    Sex: Male
+Date of Service: 10/03/2025    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• 3 month follow-up
+
+Subjective:
+Curtis Lewis is a 61 y.o. male who presents for routine follow-up of chronic conditions.
+Doing okay overall. Ran out of one medication last week.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia	2001
+• Major depressive disorder, recurrent, in remission
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2013)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• trazodone 50 mg nightly PRN
+• sertraline 100 mg daily
+• atorvastatin 20 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with son.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+  Independent in ADLs.
+
+Family History
+Parents deceased, causes unknown. Mother - dementia, d. 84.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 138/73 (BP Location: Right arm, Patient Position: Sitting) | Pulse 93 | Temp 98.2 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 153 lb | SpO2 95% | BMI 24.01 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Major depressive disorder, recurrent, in remission
+   PHQ-9 stable; continue current regimen.
+2. Mixed hyperlipidemia
+   LDL at goal on last check; continue.
+
+RTC 12 months.
+
+Electronically signed by Kevin Osei, MD on 10/03/2025

@@ -1,0 +1,39 @@
+TELEHEALTH URGENT CARE NOTE
+Date of Service: 11/22/2025
+Patient: Rita Coleman | DOB: 09/08/1947 | Age: 78 | Sex: F
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: cough x 5 days
+
+HPI: Pt is a 78 y/o female with hx of depression and hypertension who presents via video visit for cough, states it started about 5 days ago, worse at night, denies fever, denies hemoptysis, has some post nasal drip she thinks, took robitussin without much relief, pt reports she also has some fatigue but attributes this to poor sleep, [inaudible] states she has not traveled recently and no known sick contacts her daughter had a cold two weeks ago though so possible viral etiology, no chest pain no SOB at rest but c/o mild dyspnea on exertion when climbing stairs which is new for her.
+
+PAST MEDICAL HISTORY: depression, hypertension
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use: Former smoker
+ Smoking history detail: Pt reports smoking approx a quarter pack (about 5 cigarettes) per day for 15 years, then increased to 2 packs per day for 20 years, then decreased to 1 pack per day for 15 years before quitting entirely. She quit smoking at age 67 and has not smoked since.
+ Alcohol use: occasional, 1-2 glasses wine/week
+ Drug use: denies
+ Occupation: Not on file
+ Living situation: lives alone, daughter nearby
+ Exercise: Not on file
+
+REVIEW OF SYSTEMS: Constitutional - denies fever chills, Resp - cough, mild DOE, denies hemoptysis, CV - denies chest pain palpitations, GI - unremarkable, all other systems reviewed and negative except as noted above.
+
+VITALS (per home device relay): BP 138/84, HR 78, RR 18, SpO2 96% RA, Temp 98.4F
+
+LABS/RESULTS:
+ CBC (10/15/2025): WBC 6.8, Hgb 13.2, Hct 39.5, Plt 245
+ BMP (10/15/2025): Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glu 102
+ TSH (09/02/2025): 2.1 (WNL)
+ No chest imaging on file this visit given telehealth format.
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs post nasal drip. Recommend supportive care, increase fluids, OTC antihistamine/decongestant trial, saline nasal spray. Return to clinic or ED if worsening dyspnea, fever, or hemoptysis.
+2. Former tobacco use - counseled on continued avoidance of smoking and general pulmonary health, no further tobacco-related workup addressed at this telehealth visit.
+3. Hypertension - stable, continue current antihypertensive regimen, will recheck BP at next visit.
+4. Depression - stable on current management per pt report, denies SI/HI, continue current plan, follow up with behavioral health as scheduled.
+
+Follow-up: in-person visit recommended within 1-2 weeks or sooner if symptoms worsen, telehealth visit concluded, pt verbalized understanding of plan.
+
+-- Hannah Weiss, NP

@@ -1,0 +1,106 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Sandra Wilson (DOB: 04/07/1959) — Age 67
+Date of Service: 04/07/2026
+Author: Teresa Alvarez, NP — Family Medicine
+
+RE: Annual Wellness Visit
+
+Dear Dr. Chen,
+
+Thank you for referring Ms. Wilson for her annual wellness visit. She is a 67-year-old woman with a history of BPH and COPD who presents today for routine health maintenance.
+
+HPI:
+Ms. Wilson reports feeling generally well. No acute complaints today. She notes occasional nocturia, stable on current BPH management. Her COPD is reportedly stable with no recent exacerbations, no ED visits, no hospitalizations in the past year. She denies fevers, chest pain, hemoptysis, or unintentional weight loss. She reports mild exertional dyspnea consistent with baseline. Uses albuterol PRN, roughly 1-2x/week.
+
+SOCIAL HISTORY / TOBACCO USE (EHR TEMPLATE BLOCK):
+Tobacco Use Screening:
+ Smoking status: Former smoker
+ Type: Cigarettes
+ Started smoking: age 15
+ Amount: 1/4 pack per day (approx. 5 cigarettes/day)
+ Quit year: 2013
+ Current use: None
+ Counseling provided: N/A - not currently using
+[End of template block]
+
+Past Medical History:
+1. Benign prostatic hyperplasia
+2. Chronic obstructive pulmonary disease
+
+Past Surgical History: None on file.
+
+Medications:
+1. Tamsulosin 0.4 mg PO qHS
+2. Finasteride 5 mg PO daily
+3. Tiotropium bromide inhaler 18 mcg, 1 puff daily
+4. Albuterol sulfate HFA inhaler, 2 puffs q4-6h PRN
+5. Fluticasone/salmeterol 250/50 mcg, 1 puff BID
+6. Atorvastatin 20 mg PO daily
+7. Lisinopril 10 mg PO daily
+8. Vitamin D3 2000 IU PO daily
+9. Multivitamin daily
+
+Allergies: NKDA
+
+Family History: Father - COPD, deceased age 78. Mother - hypertension, deceased age 84. No family history of lung cancer reported.
+
+Social History (additional):
+Lives alone in single-story home. Retired schoolteacher. No alcohol use. No illicit drug use. Exercises with light walking 3x/week as tolerated.
+
+Review of Systems:
+Constitutional: Denies fever, chills, night sweats, weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, hearing loss.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, edema.
+Respiratory: Reports mild chronic dyspnea on exertion, baseline per patient. Denies hemoptysis, wheezing at rest, acute cough.
+GI: Denies abdominal pain, nausea, vomiting, diarrhea, constipation, blood in stool.
+GU: Reports nocturia x1-2/night, stable. Denies dysuria, hematuria.
+Musculoskeletal: Denies joint pain, swelling, back pain.
+Skin: Denies rashes, lesions, non-healing wounds.
+Neurological: Denies headache, dizziness, weakness, numbness.
+Psychiatric: Denies depression, anxiety, sleep disturbance beyond nocturia-related awakenings.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Hematologic/Lymphatic: Denies easy bruising, bleeding, swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies, recurrent infections.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, SpO2 96% on room air, Wt 152 lbs, Ht 5'4", BMI 26.1
+General: Alert, well-nourished, no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear. No lymphadenopathy.
+Neck: Supple, no JVD, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. No peripheral edema.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, no increased work of breathing at rest.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds. No suprapubic tenderness.
+GU: Deferred, prior GU exam on file with urology.
+Musculoskeletal: Normal gait, full ROM in all extremities.
+Skin: Warm, dry, intact, no rashes or lesions.
+Neurological: Alert and oriented x3, cranial nerves II-XII grossly intact, no focal deficits.
+Psychiatric: Mood and affect appropriate.
+
+Labs/Results:
+ CBC (03/28/2026): WBC 6.8, Hgb 13.9, Hct 41.2%, Plt 245 - within normal limits.
+ CMP (03/28/2026): Na 140, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.9, Glucose 94, Ca 9.4 - unremarkable.
+ Lipid panel (03/28/2026): Total chol 178, LDL 98, HDL 52, Trig 140.
+ PSA (03/28/2026): 1.8 ng/mL - stable from prior 1.7 (01/2025).
+ Spirometry (02/15/2026): FEV1 62% predicted, FEV1/FVC 0.64 - consistent with moderate COPD, stable from prior study 08/2024.
+ TSH (03/28/2026): 2.1 mIU/L - normal.
+
+Assessment:
+1. BPH - stable on tamsulosin/finasteride, PSA stable, no urinary retention symptoms.
+2. COPD - stable, moderate obstruction on spirometry, no recent exacerbations, continues on dual inhaler therapy.
+3. Health maintenance - up to date discussion today, including age-appropriate screening topics.
+
+Plan:
+1. Continue current BPH regimen, follow up PSA in 1 year or sooner if symptoms change.
+2. Continue COPD management with tiotropium and fluticasone/salmeterol combination inhaler; continue albuterol PRN. Reinforced inhaler technique.
+3. Continue statin therapy, lipid panel reasonable per above.
+4. Encouraged continued physical activity as tolerated.
+5. Routine age-appropriate health maintenance discussed including colorectal cancer screening status, bone density screening, and immunizations - patient up to date per records.
+6. Return to clinic in 12 months or sooner if new symptoms arise.
+7. Will fax copy of this note to Dr. Chen's office for continuity of care.
+
+Thank you again for the opportunity to participate in Ms. Wilson's care. Please do not hesitate to contact our office with any questions.
+
+Sincerely,
+Teresa Alvarez, NP
+Family Medicine Associates

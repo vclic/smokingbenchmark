@@ -1,0 +1,61 @@
+CONSULT LETTER / URGENT CARE
+Patient: Rosa Nguyen | DOB: 1/19/1963 | Age: 63
+Date of Service: 04/30/2026
+Referring Provider: Dr. Amit Shah, Internal Medicine
+Author: Catherine Lindqvist, DO
+
+Dear Dr Shah,
+
+Thank you for referring Ms Nguyen, a 63 year old woman, for evaluation of a persistent cough she has had x 3 weeks, seen today in urgent care. She reports the cough is mostly dry, worse at night, occassionally productive of small amounts of clear sputum. No fevers, no hemoptysis, mild exertional dyspnea noted over the last week. She denies chest pain. She has a hx of depression and osteoporosis, both stable per her records.
+
+SOCIAL HISTORY (EHR TEMPLATE)
+Tobacco use: Former smoker
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Not on file
+Caffeine: Not on file
+
+ROS: Constitutional: no fever, no chills, no unintentional weight loss. Eyes: no visual changes. ENT: no sore throat, mild nasal congestion reported. Cardiovascular: no chest pain, no palpitations, no edema. Respiratory: cough as above, mild dyspnea on exertion, no wheeze noted by patient. GI: no nausea, no vomiting, no abdominal pain, appetite normal. GU: no dysuria, no hematuria. Musculoskeletal: mild low back stiffness, chronic, unchanged. Skin: no rashes, no lesions. Neuro: no headache, no focal weakness, no numbness. Psychiatric: history of depression, currently stable on medication, denies SI/HI. Endocrine: no polyuria, no polydipsia. Heme/Lymph: no easy bruising, no lymphadenopathy. Allergic/Immunologic: no seasonal allergy flare currently.
+
+MEDICATIONS
+1. Sertraline 100mg daily
+2. Alendronate 70mg weekly
+3. Calcium carbonate 600mg with vitamin D BID
+4. Vitamin D3 2000 IU daily
+5. Multivitamin daily
+6. Albuterol inhaler PRN (new, given today)
+7. Acetaminophen PRN for back discomfort
+
+PHYSICAL EXAM
+Vitals: T 98.4F, HR 78, BP 122/76, RR 16, SpO2 97% RA
+General: well appearing woman, no acute distress, cooperative and pleasant
+HEENT: oropharynx clear, no erythema, TMs clear bilaterally, nares patent with mild mucosal edema
+Neck: supple, no lymphadenopathy, no JVD
+Cardiovascular: RRR, no murmurs, rubs, or gallops, normal S1 S2
+Respiratory: mild end-expiratory wheeze bilateral bases, no rales, no rhonchi, good air movement, no accessory muscle use
+Abdomen: soft, nontender, nondistended, normal bowel sounds
+Extremities: no edema, no cyanosis, no clubbing
+Skin: warm and dry, no rash
+Neuro: alert and oriented x3, cranial nerves grossly intact, gait steady
+Psychiatric: mood euthymic, affect appropriate, speech normal rate/rhythm
+
+ASSESSMENT AND PLAN
+Rosa Nguyen is a 63 year old woman presenting with a 3 week history of dry cough with mild wheeze on exam, likely reflecting a post-viral airway hyperreactivity vs mild reactive airway component; will trial albuterol PRN and reassess in 1-2 weeks, return sooner if worsening dyspnea, fever or hemoptysis.
+
+Regarding tobacco history: patient reports she smoked 1 pack per day for 16 years, then cut down to about 12 cigarettes per day for the next 17 years, before ultimately quitting entirely. She is a former smoker at this time. She recalls she stopped smoking about 2 years after her first grandchild was born, which she says happened in 2013 - this timeline was helpful in establishing quit interval for records.
+
+Given her age and prior tobacco exposure we discussed lung cancer screening guidelines in general terms as part of preventive care counseling; this will be further addressed with her PCP Dr Shah. No imaging ordered today related to screening.
+
+1. Cough / possible reactive airway process - albuterol inhaler PRN, follow up with PCP if not improved in 2 wks, chest xray may be considered if persistent
+2. Depression - stable, continue sertraline, no changes today
+3. Osteoporosis - stable, continue alendronate and calcium/vit D, follow up with PCP for routine DEXA per her usual schedule
+4. Tobacco history - counseled on maintaining smoking cessation, praised for having quit, encouraged continued avoidance of secondhand smoke exposure
+5. Return precautions discussed - pt to return or seek ER care for worsening SOB, chest pain, hemoptysis, or high fever
+
+Thank you again for this referral, please let me know if you have any questions regarding todays visit.
+
+Sincerely,
+Catherine Lindqvist, DO
+Urgent Care

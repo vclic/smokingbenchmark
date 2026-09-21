@@ -1,0 +1,73 @@
+RESIDENT NOTE - Family Medicine Telehealth
+DOS: 06/18/2025
+Pt: Samuel Rivera, M, DOB 6/18/1964, Age 61
+Author: Daniel Reyes, MD (resident); attending attestation below
+
+CC: med refills, gout/COPD/obesity f/u via telehealth
+
+HPI: 61 yo M w/ gout, COPD, obesity presents via telehealth on 06/18/2025 req refills for allopurinol, tiotropium, and multivitamin. Reports occ joint pain in great toe, no acute flares recently. Denies fever chills n/v. COPD sx stable, uses inhaler prn, no recent exacerbation or ER visits. Wt stable per pt, trying to inc activity. No chest pain no hemoptysis, no new SOB at rest. Pt states doing overall ok, some fatigue but attributes to poor sleep. No new cough, sputum unchanged clear-ish.
+
+Social Hx: Former smoker, 26 pack-year smoking history. No current tobacco use. No vaping. Occasional EtOH, denies illicit drug use. Lives w/ wife, retired machinist.
+
+ROS: (per template, reviewed and updated)
+Constitutional: denies fever, chills, wt loss
+Eyes: no visual changes
+ENT: no sore throat, no congestion
+CV: no chest pain, no palpitations, no edema
+Resp: chronic cough stable, no hemoptysis, no acute dyspnea
+GI: no abd pain, no n/v/d, appetite stable
+GU: no dysuria, no hematuria
+MSK: intermittent great toe pain c/w gout, no other joint c/o
+Skin: no rashes no lesions
+Neuro: no HA no focal weakness
+Psych: mood stable, denies SI/HI
+All other systems reviewed and negative except as noted above.
+
+PMH: gout, COPD, obesity, HTN (per chart, stable on current regimen)
+PSH: appendectomy remote
+FH: father w/ CAD, mother w/ DM2
+SH: as above, former smoker w/ 26 pack-yr hx, no current tobacco use, occ EtOH, denies illicits, retired machinist, lives w/ wife
+
+Meds (current, reviewed for refill):
+1. Allopurinol 300mg daily
+2. Tiotropium 18mcg inhaled daily
+3. Albuterol HFA prn
+4. Lisinopril 20mg daily
+5. Atorvastatin 40mg daily
+6. Metformin 500mg BID (per old note, verify still needed - pt denies DM hx, will clarify)
+7. Multivitamin daily
+8. Colchicine prn gout flare
+
+Allergies: NKDA
+
+Physical Exam (limited, via telehealth video):
+Gen: well-appearing, NAD, sitting comfortably at home
+Vitals per home cuff reported by pt: BP 128/78, HR 76, notes wt approx 245 lbs (up slightly from last visit per pt report)
+HEENT: atraumatic, no obvious distress
+Neck: no visible JVD
+Resp: no visible increased work of breathing, no accessory muscle use noted on cam
+CV: unable to auscultate via telehealth, pt denies palpitations or chest pain
+Abd: not examined, pt denies tenderness
+Ext: no visible edema, pt reports mild first MTP tenderness on exam by self-palpation per pt description
+Skin: no rashes visible
+
+Labs: last uric acid 7.2 (3 mos ago), last CBC/CMP wnl per chart, spirometry from last yr showed moderate obstruction c/w COPD dx
+
+Assessment/Plan:
+1. Gout - stable, continue allopurinol 300mg daily, refill colchicine for prn flares, recheck uric acid at next in-person visit, counsel on diet (limit purine-rich foods, ETOH)
+2. COPD - stable, continue tiotropium and albuterol prn, no signs of exacerbation today, reviewed inhaler technique verbally, counseled on importance of avoiding smoke exposure and irritants; screening for lung cancer was discussed generally as part of preventive care conversation
+3. Obesity - wt up slightly, discussed diet and exercise, referred to nutrition if interested, pt declined for now
+4. Tobacco - former smoker, 26 pack-year smoking history, currently not smoking, reinforced importance of continued abstinence, no info needed on cessation counseling given current non-use
+5. HTN - stable on lisinopril, continue
+6. Medication list reconciliation - will clarify metformin indication at next visit, pt unclear why prescribed, no documented DM in problem list
+7. F/u in 3 months or sooner if sx worsen, in-person visit recommended for physical exam and labs
+8. Refills sent as above via pharmacy
+
+Pt verbalized understanding of plan, agreeable, no further questions at this time. Telehealth visit ended without technical issues.
+
+Time spent: approx 20 min, majority spent on counseling/coordination of care
+
+---
+Attending Attestation: I have reviewed and discussed this case with Dr. Reyes. I agree with the history, assessment, and plan as documented above. Patient was seen via telehealth on 06/18/2025. I personally confirmed key history including 61 yo male with gout, COPD, obesity, and former smoking history of 26 pack-years, currently no tobacco use. Plan as above is appropriate and I concur with refills and follow-up recommendations.
+
+/s/ Attending Physician, Family Medicine

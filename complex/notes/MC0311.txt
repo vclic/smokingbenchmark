@@ -1,0 +1,26 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+DOS: 08/24/2023
+Author: Anita Patel, MD (NP progress note)
+Pt: Marilyn Foster, F, DOB 08/24/1953, age 70 y/o
+
+CC: med refill visit, f/u chronic conditions (AFib, PAD, hypothyroidism, GERD)
+
+HPI: 70 y/o F c/o no new sx today, calls in for refills of home meds. Denies CP, palpitations, SOB at rest, claudication worse than baseline. States legs feel "same as usual," ambulates w/o assistive device. No new GI complaints, GERD well controlled on current regimen. Denies fevers, chills, wt loss. Pt reports good adherence to meds, occasional missed dose of levothyroxine 2/2 forgetfulness.
+
+Social Hx: Former smoker - quit approx 18 yrs ago. Smoking hx notable in 3 stages: 2 ppd x10 yrs, then 3/4 pack/day (~15 cigs/day) x13 yrs, then 1/4 pack/day (~5 cigs/day) x10 yrs before cessation. No current tobacco use. Denies EtOH excess, denies illicit drug use. Lives alone, independent in ADLs, retired schoolteacher.
+
+ROS: (per template) Constitutional: neg for fever/chills/wt loss. HEENT: neg. CV: neg for CP/palpitations except known AFib hx, well controlled. Resp: neg for cough/dyspnea. GI: reports occasional heartburn, improved w/ PPI. GU: neg. MSK: mild bilat calf discomfort w/ ambulation, chronic, stable. Skin: neg. Neuro: neg. Psych: neg for depression/anxiety. All other systems reviewed and negative.
+
+PE (telehealth, limited): Gen: A&Ox3, NAD, conversing appropriately via video. Vitals per home cuff reported by pt: BP 128/76, HR 72 irregular, wt stable. Skin: no obvious lesions visible on cam. CV: unable to auscultate (telehealth). Resp: no visible distress. Ext: no visible edema.
+
+Meds: Apixaban 5mg BID, Levothyroxine 75mcg qd, Omeprazole 20mg qd, Cilostazol 100mg BID, Atorvastatin 40mg qd, Metoprolol succinate 50mg qd, Aspirin 81mg qd (per cardiology), MVI qd.
+
+Assessment/Plan:
+1. AFib - stable on apixaban, HR controlled, continue metoprolol, refill apixaban, f/u INR N/A (DOAC), cont current regimen.
+2. PAD - stable, cont cilostazol, refill, reinforce walking program, foot checks.
+3. Hypothyroidism - refill levothyroxine, will check TSH at next in-person visit.
+4. GERD - well controlled on omeprazole, refill.
+5. Tobacco - former smoker, quit smoking approx 18 yrs ago per social hx; extensive prior smoking hx as above. Counseled on avoidance of relapse. Lung cancer screening discussed briefly with pt given hx; will revisit at next in-person visit.
+6. Health maintenance - due for labs, will schedule in-person f/u in 3-6 mo or sooner if issues arise.
+
+Refills sent electronically to pt's pharmacy. Pt verbalized understanding, no further questions today. RTC 3-6 months or PRN.

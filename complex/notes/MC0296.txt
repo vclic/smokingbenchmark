@@ -1,0 +1,64 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 02/28/2026
+Patient: Priya Gonzales, F, DOB 02/28/1961 (age 65)
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Chest pain eval, follow-up.
+
+HPI: 65 yo F with hx GERD, HLD, HTN, obesity, COPD, OA presents for eval of intermittent chest pain x several wks. Describes pressure-like sensation, non-exertional at times, some episodes with exertion. Denies radiation to arm, assoc diaphoresis minimal. Pt reports smoking has been ongoing despite multiple prior discussions re: cessation; continues to smoke despite counseling. No new SOB at rest, mild dyspnea on exertion attributed partly to COPD. Denies syncope, palpitations. GERD sx stable on current PPI.
+
+ROS: Otherwise negative except as above. + occasional heartburn.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Smoking hx detail: Pt reports 3 distinct stretches of use - approx a quarter pack (about 5 cigarettes) per day for 14 years, followed by three-quarters of a pack (about 15 cigarettes) per day for 18 years, followed by current use of 1.5 packs per day for the past 14 years.
+Quit attempts: Pt states she previously quit smoking in 2014 but relapsed in 2016.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Sedentary, limited by knee pain (OA)
+
+PMH: GERD, hyperlipidemia, HTN, obesity, COPD, osteoarthritis.
+
+MEDS: Omeprazole 40mg daily, atorvastatin 40mg qhs, lisinopril 20mg daily, albuterol inh prn, tiotropium daily, acetaminophen prn for OA pain.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 148/92, HR 88, RR 18, SpO2 94% RA, Wt 96 kg, BMI 34.2, Temp 98.2F.
+
+EXAM:
+Gen: obese female, NAD, mildly anxious appearance.
+CV: RRR, no m/r/g appreciated, no JVD.
+Pulm: mild expiratory wheeze bilat bases, no crackles.
+Abd: soft, NT, ND, obese habitus.
+Ext: no edema, 2+ pulses distal.
+MSK: crepitus b/l knees, no acute swelling.
+
+LABS/RESULTS:
+- CBC (02/25/2026): WBC 7.1, Hgb 13.2, Plt 245 - WNL
+- BMP (02/25/2026): Na 139, K 4.1, Cr 0.9, Glucose 102
+- Lipid panel (01/15/2026): TC 218, LDL 138, HDL 42, TG 190
+- Troponin (02/28/2026, in-office POC): <0.01 - neg x1
+- ECG (02/28/2026): NSR, no acute ST changes, nonspecific T wave flattening inferior leads
+- BNP (02/25/2026): 68 - WNL
+
+ASSESSMENT:
+1. Atypical chest pain - low suspicion ACS given neg troponin, benign ECG, likely multifactorial incl GERD and musculoskeletal component from OA. Will pursue stress test outpt.
+2. COPD - stable, continues to have exertional dyspnea; pt is a 65-year-old current smoker who continues to smoke despite counseling at every visit; general risks of continued tobacco use reviewed with pt as part of preventive health discussion.
+3. HTN - suboptimally controlled today, will adjust regimen.
+4. HLD - on statin, will recheck lipids in 3 months.
+5. GERD - stable on PPI.
+6. Obesity/OA - counseled on weight-bearing exercise limitations, referred to PT.
+
+PLAN:
+- Obtain outpatient stress echo
+- Repeat lipid panel in 3 months
+- Continue current cardiac/pulm meds, adjust lisinopril if BP remains elevated on recheck
+- Reinforced smoking cessation counseling; pt again declined pharmacotherapy today, discussed nicotine patch/varenicline options which she may reconsider
+- Noted hx that she had previously quit smoking in 2014 but relapsed in 2016, discussed prior relapse as part of counseling context
+- F/u in cardiology clinic in 4-6 wks or sooner if sx worsen
+- Pt educated on when to seek emergent care (worsening chest pain, SOB, diaphoresis)
+
+Electronically signed: Teresa Alvarez, NP, 02/28/2026

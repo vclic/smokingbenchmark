@@ -1,0 +1,80 @@
+VASCULAR SURGERY CONSULTATION NOTE
+Date of Service: 10/29/2023
+Author: Farah Siddiqui, MD
+Referring Provider: Dr. J. Whitfield, Internal Medicine
+
+PATIENT: Elizabeth Davis
+DOB: 05/02/1966 (Age: 57)
+MRN: 774213-EL
+
+REASON FOR CONSULTATION: Evaluation of peripheral artery disease, claudication symptoms.
+
+HPI:
+Ms. Davis is a 57-year-old woman with history of heart failure with reduced ejection fraction and type 2 diabetes, referred for evaluation of bilateral lower extremity claudication. She reports, "My calves start cramping up after about a block and a half of walking, and I have to stop and rest." She states the discomfort resolves with rest within a few minutes. No rest pain reported. No non-healing ulcers or gangrene noted on exam today. She denies recent trauma to the legs.
+
+She notes symptoms have been progressively worsening over the past several months. "It's gotten to where I can't even walk to the mailbox without my legs hurting," she said. She has not tried any formal exercise program. She denies chest pain, but does endorse mild exertional dyspnea, which she attributes to her known heart failure.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per chart, some entries outdated):
+1. Heart failure with reduced ejection fraction (I50.22) - active
+2. Type 2 diabetes mellitus (E11.9) - active
+3. Peripheral artery disease, bilateral lower extremities (I73.9) - active, new diagnosis pending workup
+4. Hyperlipidemia (E78.5) - active
+5. Hypertension (I10) - active
+6. GERD (K21.9) - resolved 2019, retained on list
+7. Right shoulder impingement syndrome (M75.41) - inactive, s/p PT 2017
+
+MEDICATIONS (per current med rec):
+- Metoprolol succinate 50 mg daily
+- Lisinopril 10 mg daily
+- Furosemide 20 mg daily
+- Metformin 1000 mg BID
+- Atorvastatin 40 mg qHS
+- Aspirin 81 mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, reports 1-2 glasses of wine per week
+Drug use: Denies
+Occupation: Administrative assistant, retired
+Living situation: Lives with spouse
+Exercise: Limited by claudication symptoms
+Diet: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Positive for exertional dyspnea, denies chest pain, denies palpitations.
+Respiratory: Denies cough, denies hemoptysis.
+Gastrointestinal: Denies abdominal pain, denies nausea.
+Musculoskeletal: Positive for bilateral calf claudication as above.
+Skin: No ulcers, no discoloration noted by patient.
+Neurological: Denies numbness, denies focal weakness.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/84, HR 72, RR 16, Temp 98.2F, SpO2 96% on room air, Weight 168 lbs
+General: Well-appearing woman, no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated, no significant JVD.
+Pulmonary: Clear to auscultation bilaterally.
+Extremities: Bilateral lower extremities with diminished dorsalis pedis and posterior tibial pulses, 1+ bilaterally. No edema. Skin intact, no ulcerations. Capillary refill slightly delayed, approximately 3 seconds bilaterally. Hair loss noted on distal lower extremities.
+Abdomen: Soft, non-tender, no bruits auscultated.
+
+DIAGNOSTIC DATA:
+Ankle-brachial index ordered today, pending results.
+Recent labs (09/2023): HbA1c 7.4%, LDL 88 mg/dL, Creatinine 1.0 mg/dL.
+
+ASSESSMENT AND PLAN:
+Elizabeth Davis is a 57-year-old woman with heart failure with reduced ejection fraction and type 2 diabetes presenting with bilateral lower extremity claudication, exam findings consistent with peripheral artery disease. She is an active smoker with a 6 pack-year smoking history, which is a significant modifiable risk factor contributing to her vascular disease and should be addressed as part of comprehensive risk reduction.
+
+1. Peripheral artery disease - Obtain ankle-brachial index with segmental pressures today. Consider CT angiography of lower extremities if ABI abnormal or symptoms progress. Started on cilostazol 100 mg BID if no contraindication after review of heart failure status - will confirm with cardiology given reduced EF given relative caution with this medication class. Supervised exercise therapy referral discussed with patient.
+2. Tobacco use - Counseled patient extensively on smoking cessation given active smoking status and its contribution to progression of peripheral vascular disease. Discussed nicotine replacement therapy and referral to cessation counseling program. Patient states she is "thinking about it" but not ready to quit at this visit. Lung cancer screening was discussed in general terms as part of preventive health counseling.
+3. Heart failure with reduced EF - Continue current cardiology management, no changes made today from vascular standpoint.
+4. Type 2 diabetes - Continue metformin, reinforce glycemic control given relevance to vascular disease progression; last HbA1c 7.4%.
+5. Hyperlipidemia - Continue atorvastatin, LDL at goal.
+6. Follow-up in vascular surgery clinic in 4 weeks with ABI results to determine further need for imaging or intervention.
+
+Thank you for allowing me to participate in the care of this patient. Please do not hesitate to contact me with questions.
+
+Farah Siddiqui, MD
+Vascular Surgery

@@ -1,0 +1,56 @@
+VASCULAR SURGERY PROGRESS NOTE
+Patient: Robert Williams | DOB: 6/15/1953 | Age: 72
+Date of Service: 06/15/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease (PAD), claudication symptoms.
+
+HPI:
+Mr. Williams is a 72 year old male with hx of afib, COPD, BPH, and GERD who presents today for reevaluation of his PAD. He states "my legs still cramp up after about a block of walking" and notes the pain resolves w rest. He denies rest pain or non healing ulcers currently. Reports compliance with cilostazol and antiplatelet therapy. He says "I get short of breath sometimes but that's my lungs I think" referring to his known COPD.
+
+Regarding tobacco use, patient reports a 40 pack-year smoking history and continues to smoke at present - he is an active smoker. He mentions he had previously quit smoking in 2017 but relapsed in 2020 after a stressful family event. He was counseled again today regarding smoking cessation and offered resources including nicotine replacement and referral to cessation program he declined referral at this time but will consider.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Smoking amt: see HPI
+Alcohol use: None - quit drinking alcohol in 2000
+Drug use: Not on file
+Occupation: Retired
+Living situation: 
+Exercise: Not on file
+
+PAST MEDICAL HISTORY: Atrial fibrillation (on anticoagulation), COPD, BPH, GERD, PAD.
+
+MEDICATIONS: Apixaban 5mg BID, cilostazol 100mg BID, tiotropium inhaler daily, tamsulosin 0.4mg qhs, omeprazole 20mg daily.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Positive for intermittent claudication and occasional dyspnea on exertion. Negative for chest pain rest pain, fevers, or hemoptysis. Otherwise negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, SpO2 94% RA, Temp 98.2F
+General: NAD, well nourished male
+CV: Irregularly irregular rhythm, no murmurs
+Resp: Mild expiratory wheeze bilaterally, no acute distress
+Abd: Soft, nontender
+Extremities: Bilateral lower extremity with diminished but palpable dorsalis pedis pulses, no ulcers, no edema, hair loss noted on lower legs c/w PAD
+Neuro: Grossly intact
+
+LABS/RESULTS:
+ABI (05/28/2025): Right 0.68, Left 0.71
+Duplex US LE arterial (05/28/2025): Moderate stenosis SFA bilaterally
+Lipid panel (06/01/2025): LDL 132 mg/dL, HDL 38 mg/dL, TG 210 mg/dL
+HbA1c (06/01/2025): 5.8%
+INR (06/14/2025): N/A - on apixaban, no monitoring required
+CXR (06/10/2025): Hyperinflation c/w COPD, no acute infiltrate
+
+ASSESSMENT/PLAN:
+1. PAD with claudication - continue cilostazol, supervised exercise program discussed, reinforce risk factor modification.
+2. Active tobacco use with 40 pack-year hx - counseled extensively on cessation given impact on PAD progression and COPD, low-dose CT lung imaging was discussed as a general concept for at risk smokers but no specific plan made today.
+3. Atrial fibrillation - continue apixaban, rate appears controlled today, will obtain EKG.
+4. COPD - continue tiotropium, mild wheeze on exam, consider pulm referral if worsens.
+5. BPH - stable on tamsulosin.
+6. GERD - stable on omeprazole continue.
+f/u in 3 months or sooner if symptoms worsen pt verbalized understanding of plan.
+
+Addendum 06/15/2025 1600: Spoke with pt again by phone this afternoon after he called with question about his labs. Reassured him lipid panel will be addressed at next visit and no immediate changes to meds needed. He reiterated that he remains a current smoker and reports no interest in cessation program referral today. Will continue to readdress at future visits. No other changes to plan. - Owen Fitzgerald, MD

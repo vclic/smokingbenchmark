@@ -1,0 +1,45 @@
+Pulmonology Clinic - Progress Note
+Patient: Evelyn Schmidt (F), DOB 1/17/1958, Age: 66
+Date of Service: 07/21/2024
+Author: Julia Brennan, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% RA, Wt 172 lb
+Pt here for lung cancer screening shared decision-making visit. Pt states "I know I should probably quit but its hard, I've smoked most of my life." Denies chest pain, denies hemoptysis. Reports mild dyspnea on exertion, attributes to her heart and knees.
+
+TOBACCO USE HISTORY (EHR TEMPLATE):
+  Current tobacco use: Yes - cigarettes
+  Smoking hx detail: Pt reports smoked approx 1/4 pack/day (about 5 cigs/day) x 29 years, then increased to 1 pack/day x 18 years, continues to smoke at 1 pack/day currently.
+  Smokeless tobacco: No
+  E-cigarette use: No
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/21/2021 (retained for reference, not updated) ---
+HPI (11/21/2021): Pt presents for f/u of HFrEF and PAD. Tobacco: current smoker, counseled on cessation, provided pamphlet. ROS largely unchanged from prior. Cont statin, ACEi, diuretic. Pt tolerating meds well, no peripheral edema noted today. F/u in 6 mo.
+[END COPIED SECTION]
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms Schmidt is a 66 yo female w hx of osteoarthritis, HFrEF, BPH, hyperlipidemia, PAD, and CKD stage 3 who presents today 07/21/2024 for lung cancer screening shared decision-making discussion given her extensive smoking hx. She states "I get a little winded going up stairs but I think thats just my heart." No cough, no weight loss, no fevers. Discussed benefits/risks/limitations of low-dose CT screening at length; pt verbalizes understanding, will consider and follow up.
+
+ROS: Constitutional: no fever, no chills. HEENT: no vision changes, no hearing loss. CV: no chest pain, occasional DOE as above. Resp: no wheeze, no hemoptysis. GI: no nausea, no abd pain. GU: nocturia x2 (BPH). MSK: chronic knee pain, stable. Neuro: no focal deficits. Skin: no rash. All other systems reviewed and negative.
+
+Physical Exam: Gen: NAD, well-appearing. HEENT: PERRL, EOMI, oropharynx clear. Neck: no JVD. CV: RRR, S3 present, no murmur. Lungs: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND, +BS. Ext: trace edema b/l, PAD-related skin changes noted on lower extremities, pulses diminished but palpable. Neuro: grossly intact.
+
+Labs/Results:
+  07/15/2024 BMP: Creatinine 1.6 mg/dL, eGFR 42 mL/min/1.73m2, K 4.4 mmol/L
+  07/15/2024 Lipid panel: LDL 118 mg/dL, HDL 42 mg/dL, TG 160 mg/dL
+  07/15/2024 BNP: 410 pg/mL
+  06/01/2024 Echo: EF 35%
+
+Medication List: Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Atorvastatin 40mg qhs, Tamsulosin 0.4mg qhs, Aspirin 81mg daily, Clopidogrel 75mg daily, Acetaminophen 500mg PRN knee pain, Vitamin D3 1000IU daily
+
+Assessment/Plan:
+1. Lung ca screening SDM - discussed thoroughly today, pt to consider; no imaging ordered at this visit.
+2. HFrEF - stable, cont current regimen, monitor BNP.
+3. PAD - cont ASA/Plavix, f/u vascular surg.
+4. CKD stage 3 - stable, recheck BMP in 3 mo.
+5. Tobacco use - advised to quit, offered cessation resources and counseling; pt declined pharmacotherapy today.
+6. BPH - stable on tamsulosin.
+7. Hyperlipidemia - LDL above goal, cont statin, recheck lipids in 6 mo.
+F/u in 3 months or sooner if symptoms worsen.
+
+[sig] Julia Brennan, MD

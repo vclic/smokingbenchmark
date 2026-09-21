@@ -1,0 +1,54 @@
+NURSE INTAKE
+DOS: 05/01/2024
+Pt: Rita Perez, F, DOB 05/01/1964 (age 60)
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, Wt 182 lb, Ht 5'4", BMI 31.2, SpO2 96% RA
+CC: f/u HTN, DM2
+Meds reconciled - see MAR. Pt denies CP/SOB today. Reports mild B/L LE swelling, stable.
+
+PHYSICIAN PROGRESS NOTE - Daniel Reyes, MD
+Date of Service: 05/01/2024
+
+HPI:
+Rita Perez is a 60 yo F w/ hx HFrEF, CKD stage 3, PAD, hypothyroidism, HTN, and T2DM presenting for routine f/u. Pt reports doing reasonably well, no acute chest pain, no orthopnea, no PND. Some mild fatigue w/ exertion, consistent w/ baseline. LE claudication sx stable, ambulates ~2 blocks before onset of calf pain, resolves w/ rest. Compliant w/ meds per report. Diet has been inconsistent 2/2 family gathering last wk.
+
+ROS: Negative except as noted in HPI. Denies fevers, chills, cough, dysuria, hematuria. Denies chest pain, palpitations. Denies visual changes.
+
+Social History:
+Lives w/ spouse, retired admin assistant. Denies illicit drug use. Occasional EtOH (1-2 glasses wine/wk). Pt describes herself as a "social smoker" for many years. She is a former smoker; quit smoking in 1998. No current tobacco use reported.
+
+Family Hx: Mother - T2DM, HTN. Father - CAD, deceased age 71.
+
+Physical Exam:
+Gen: NAD, well-appearing, seated comfortably
+HEENT: NCAT, EOMI, no JVD appreciated
+CV: RRR, S1/S2 nl, no murmurs/rubs/gallops appreciated today (baseline S3 per prior notes not clearly heard)
+Lungs: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: 1+ pitting edema B/L ankles, PT pulses 1+ B/L, no ulcers, skin intact, cool to touch distally
+Neuro: A&Ox3, no focal deficits
+
+Labs/Results (reviewed today):
+- CBC (04/29/2024): WBC 6.8, Hgb 12.1, Hct 36.4, Plt 245
+- BMP (04/29/2024): Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline ~1.5-1.7), eGFR 34, Glucose 162
+- HbA1c (04/29/2024): 7.8%
+- TSH (03/15/2024): 3.1 (WNL on current levothyroxine dose)
+- BNP (04/29/2024): 410 (stable from prior 395 on 01/15/2024)
+- Lipid panel (01/15/2024): TC 168, LDL 92, HDL 42, TG 170
+
+Assessment/Plan:
+1. HFrEF (I50.22) - stable, BNP stable from prior, no signs of acute decompensation today. Continue carvedilol, sacubitril/valsartan, spironolactone. Daily wt monitoring reviewed. F/u cardiology per their sched.
+2. CKD stage 3 (N18.3) - Cr/eGFR stable at baseline. Avoid nephrotoxic agents/NSAIDs. Recheck BMP in 3 mo.
+3. PAD (I73.9) - claudication sx stable per pt report. Continue cilostazol, ASA 81mg. Counseled on supervised exercise program, smoking status reviewed (see SH above; pt is former smoker, quit 1998).
+4. Hypothyroidism (E03.9) - TSH WNL, continue current levothyroxine dose.
+5. HTN (I10) - BP mildly elevated today at 148/86. Will increase amlodipine, reinforce low Na diet.
+6. T2DM (E11.9) - A1c 7.8%, above goal. Discuss adherence, reinforce diet. Consider adjusting metformin dose vs adding agent, will discuss further w/ pt at next visit or via portal.
+7. Hyperlipidemia (E78.5) - old problem, lipid panel from Jan reasonably controlled on statin, no changes.
+8. Osteoarthritis (M19.90) - stable, chronic, no acute issues today; likely outdated/copy-forward from prior visit, pt does not endorse jt pain today.
+
+Health maintenance: Discussed age-appropriate cancer screening. Lung cancer screening was discussed in general terms given social/former smoking hx; further discussion planned as appropriate.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizes understanding, agrees w/ plan.
+
+---
+ADDENDUM (later same day, 05/01/2024, 16:42):
+Spoke with pt via phone after she called back w/ additional question re: new BP med. Clarified dosing instructions for amlodipine increase (take in AM, may cause mild ankle swelling, call if worsens). Also confirmed pharmacy has correct refill on file for metformin. No new complaints voiced. Will continue to monitor per plan above. - Daniel Reyes, MD

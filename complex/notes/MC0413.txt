@@ -1,0 +1,76 @@
+TELEHEALTH URGENT CARE VISIT NOTE
+Patient: Donald Campbell (M), DOB: 1/14/1974, Age: 52
+Date of Service: 01/14/2026
+Provider: Steven Park, MD
+Visit Type: Telehealth, Urgent Care - Cough
+
+CHIEF COMPLAINT: Cough x several days, worsening.
+
+HPI: Mr. Campbell is a 52 y.o. male with history of hyperlipidemia, COPD, depression, gout, osteoporosis, and hypertension who presents via telehealth today, 01/14/2026, for evaluation of cough. Patient states, "I've had this cough for about a week now, and its getting worse, especially at night." He denies fever but reports some [inaudible] chest tightness that comes and goes, he also says he feels more short of breath then usual when walking up the stairs at his house, which he attributes to his COPD acting up, patient reports using his albuterol inhaler more frequently over the past several days with only partial relief and he denies hemoptysis, denies chest pain, denies recent travel, denies sick contacts although he mentions his grandson had a cold last week. Patient reports sputum production, described as "yellowish, kinda thick," no blood noted. He denies orthopnea, denies leg swelling, denies fevers or chills though he "felt warm" one night. Review of systems otherwise obtained and negative except as noted below.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies unintentional weight loss, endorses fatigue.
+Eyes: denies visual changes.
+ENT: denies sore throat, denies congestion, mild post nasal drip reported.
+Cardiovascular: denies chest pain, denies palpitations, denies edema.
+Respiratory: endorses cough, endorses increased sputum, endorses dyspnea on exertion, denies hemoptysis.
+GI: denies nausea, denies vomiting, denies diarrhea, denies abdominal pain.
+GU: denies dysuria, denies frequency.
+Musculoskeletal: reports chronic gout related joint discomfort, stable.
+Skin: denies rash.
+Neuro: denies headache, denies dizziness.
+Psychiatric: reports depression, stable on current regimen, denies SI/HI.
+Endocrine: denies polyuria, denies polydipsia.
+Heme/Lymph: denies bruising, denies bleeding.
+Allergic/Immunologic: denies hives.
+
+SOCIAL HISTORY:
+TOBACCO USE (templated block, EHR auto-fill with provider edits):
+ Tobacco Type: Cigarettes
+ Current Status: Current every day smoker
+ Smoking History: Patient reports he smoked 2 packs per day for 11 years, then increased to 3 packs per day for 17 years and continues to smoke at that rate presently.
+ Readiness to Quit: Patient states he still smokes and is not ready to quit at this time.
+ Counseling Provided: Yes, advised to quit, discussed general health risks associated with continued tobacco use, discussed available cessation resources.
+Alcohol: occasional, denies heavy use.
+Illicit drug use: denies.
+Occupation: retired warehouse supervisor.
+Living situation: lives with spouse.
+
+MEDICATIONS:
+1. Atorvastatin 40 mg PO qhs
+2. Tiotropium bromide inhalation 18 mcg one cap inhaled daily
+3. Albuterol sulfate HFA inhaler 90 mcg, 2 puffs q4-6h prn
+4. Sertraline 100 mg PO daily
+5. Allopurinol 300 mg PO daily
+6. Colchicine 0.6 mg PO prn gout flare
+7. Alendronate 70 mg PO weekly
+8. Lisinopril 20 mg PO daily
+9. Hydrochlorothiazide 12.5 mg PO daily
+10. Vitamin D3 2000 units PO daily
+11. Calcium carbonate 600 mg PO daily
+
+PHYSICAL EXAM:
+Vitals (per home device/pt report, telehealth): Temp 99.1F, HR 88, RR 18, BP 138/84, SpO2 94% on room air per patient's pulse ox.
+General: Alert, cooperative, mild intermittent coughing noted during call, no acute distress.
+HEENT: Normocephalic atraumatic per visual inspection, oropharynx not well visualized on camera.
+Neck: No visible jugular venous distension appreciated on camera, though limited exam via telehealth.
+Cardiovascular: Unable to auscultate via telehealth, patient denies chest pain or palpitations.
+Respiratory: Visible increased work of breathing mild, patient coughing several times during call, productive sounding cough noted, unable to auscultate lungs directly.
+Abdomen: Deferred, not visualized well.
+Extremities: No visible edema on camera, patient reports no swelling.
+Skin: No visible rash on face/neck.
+Neuro/Psych: Alert, oriented, mood appropriate, speech normal rate and rhythm.
+
+ASSESSMENT AND PLAN:
+52 y.o. male with COPD, HTN, hyperlipidemia, depression, gout, osteoporosis presenting today 01/14/2026 with acute cough concerning for acute bronchitis versus COPD exacerbation.
+1. Cough / possible COPD exacerbation: Will start prednisone taper given increased sputum and dyspnea, continue albuterol and tiotropium, encouraged increased fluid intake, return to clinic or ER if worsening dyspnea, chest pain, or hypoxia. Discussed that in-person visit may be warranted if not improving in 48-72 hours for possible chest imaging and in person auscultation.
+2. Tobacco use: As documented above, patient continues to smoke and is not ready to quit, counseling provided today regarding health risks, cessation resources including quitline information given, will readdress at future visits. Lung cancer screening was discussed in general terms as part of ongoing preventive care conversation.
+3. COPD: Stable baseline per patient report aside from current exacerbation, continue current inhaler regimen.
+4. Hypertension: Well controlled today, continue lisinopril and HCTZ.
+5. Hyperlipidemia: Continue atorvastatin, will check lipid panel at next in-person visit.
+6. Depression: Stable on sertraline, denies SI/HI, continue current dose.
+7. Gout: Stable, continue allopurinol, colchicine prn.
+8. Osteoporosis: Continue alendronate, calcium, vitamin D.
+Follow up in 1 week or sooner if symptoms worsen, patient verbalized understanding and agreement with plan.
+
+Electronically signed by Steven Park, MD

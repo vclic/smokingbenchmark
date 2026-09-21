@@ -1,0 +1,49 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 06/19/2026
+Author: Daniel Reyes, MD
+
+Patient: Rajesh Ross, M, DOB 06/19/1956 (age 70)
+Reason: COPD follow-up
+
+SOCIAL HISTORY (EHR TEMPLATE)
+Tobacco use: Current every day smoker
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Blank
+Smoking history notes: Pt describes himself as a "social smoker" for many years, states he never smoked heavily but has continued socially. Pt reports he had previously quit in 2021 but relapsed in 2022 after a stressful family event. Quit date set for 7/31/2026 per pt's own goal, discussed at length today.
+
+--- COPIED FORWARD FROM VISIT 11/03/2023 (NOTE: outdated info retained per EHR carryover) ---
+HPI: 67 yo M with COPD, HTN, HLD, OSA on CPAP, CAD s/p stent 2019, depression on sertraline, presents for routine follow-up. Denies chest pain, denies hemoptysis. Reports occasional dyspnea on exertion, stable from prior visit. Continues albuterol PRN. Sleep apnea well controlled on CPAP per pt report, compliance good. Mood stable on current antidepressant regimen. No new complaints at that time. Plan was to continue current regimen and follow up in 6 months, obtain PFTs.
+--- END COPIED SECTION ---
+
+CURRENT HPI: Mr. Ross returns today for COPD follow-up. Reports mild increase in cough, occasional wheeze, no fevers. No recent hospitalizations or ED visits. Continues to use tiotropium daily and albuterol PRN. Sleep reportedly improved with CPAP use, though compliance data not reviewed today. Mood reportedly stable, continues sertraline. Cardiac history stable, no chest pain or palpitations.
+
+ROS: Denies hemoptysis, denies unintentional weight loss, denies fevers/chills. Positive for occasional dyspnea on exertion.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, SpO2 94% RA, Temp 98.2F
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles
+CV: RRR, no murmurs
+Ext: no edema
+
+LABS/RESULTS:
+CBC (06/10/2026): WBC 7.1, Hgb 14.2, Plt 230
+BMP (06/10/2026): Na 139, K 4.2, Cr 1.0, Glucose 102
+Lipid panel (05/15/2026): TC 190, LDL 110, HDL 45, TG 150
+PFTs (04/22/2026): FEV1 62% predicted, FEV1/FVC 0.65 - consistent with moderate obstruction
+
+ASSESSMENT/PLAN:
+1. COPD, moderate (J44.9) - continue tiotropium, albuterol PRN. Discussed importance of smoking cessation. Lung cancer screening discussed with patient as part of overall risk reduction conversation.
+2. Tobacco use disorder (Z72.0) - active smoker, described as "social smoker" pattern for many years. Encouraged cessation, provided resources. Pt reiterated quit date goal of 7/31/2026.
+3. Hypertension (I10) - stable, continue current antihypertensive.
+4. Hyperlipidemia (E78.5) - stable on statin, recheck lipids in 6 months.
+5. Obstructive sleep apnea (G47.33) - continue CPAP, reassess compliance data next visit.
+6. Coronary artery disease (I25.10) - stable, no anginal symptoms, continue current regimen.
+7. Depression (F32.9) - stable on sertraline, continue.
+8. Old note: Asthma (J45.909) - outdated dx, likely miscoded from prior COPD diagnosis, to be removed from problem list.
+
+Follow-up in 3 months or sooner if symptoms worsen. Pt advised to call if increased dyspnea, fever, or hemoptysis.
+
+Daniel Reyes, MD

@@ -1,0 +1,42 @@
+Cardiology Clinic Note
+Date of Service: 7/25/23
+Patient: Pamela Brooks   DOB: 11/30/1965   MRN: 74623138
+
+S:
+CC: AFib follow-up
+HPI: Ms. Brooks is a 57 year old female with a history of obesity, AFib, PAD, and HLD who presents for atrial fibrillation follow-up. No palpitations. No bleeding on anticoagulation.
+
+PMH:
+- Peripheral vascular disease
+- HTN
+- Atrial fibrillation
+- Hypercholesterolemia
+- Class I obesity
+Meds: amlodipine 5 mg daily; losartan 50 mg daily; apixaban 5 mg BID; rosuvastatin 10 mg daily; aspirin 81 mg daily; metoprolol tartrate 25 mg BID
+Allergies: Sulfa drugs
+SH: Lives alone in an apartment. Works as a postal worker. She currently smokes; she has smoked 2 packs per day sicne she was 15. EtOH: 1-2 beers/wk. No illicit drug use.
+FH: Father - AAA repair.
+ROS: GI neg, MSK neg, Gen neg, Neuro neg, Resp neg
+
+O:
+Vitals: BP: 148/92  HR: 89  RR: 16  Temp: 98.1 F  SpO2: 95% on RA  Wt: 219 lbs  BMI: 37.6
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (7/6/23): LDL 131, Cr 0.90, K 3.9, Hgb 11.7
+
+A/P:
+1. Atrial fibrillation
+   - CHA2DS2-VASc 3. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+
+Follow up in 3 months or sooner PRN.
+
+Seen and discussed with resident Dr. Hill. I personally saw and examined the patient and agree with the findings and plan as documented.
+Anita Patel, MD

@@ -1,0 +1,79 @@
+HISTORY AND PHYSICAL
+Patient: Linda Schmidt (F), DOB 5/18/1947 (age 76)
+Date of Service: 06/22/2023
+Author: Nadia Haddad, MD - Pulmonology
+
+CHIEF COMPLAINT: Follow-up after ED visit/COPD exacerbation
+
+HPI:
+Ms. Schmidt is a 76 year old woman seen in follow-up after presenting to the ED last week with a COPD exacerbation, treated with steroids and nebs, now improved. She states "I still feel a bit winded going up the stairs but its way better than last week." She denies fevers or chest pain currently. She reports ongoing dyspnea on exertion at baseline, consistent with prior visits.
+
+She was asked directly about tobacco use today; she states "I know I should quit, I've tried before." She reports she has smoked for 53 years total, with periods of cessation. She previously quit smoking in 2015 but relapsed in 2017 and has continued smoking since. She continues to smoke despite counseling on cessation today. She also endorses use of marijuana a few times a month, which she says helps with appetite and sleep.
+
+=== COPIED FORWARD FROM VISIT 11/03/2021 (Dr. R. Alvarez, Pulmonology) ===
+Pt is a pleasant elederly female with h/o COPD, OSA on CPAP, HFrEF, gout, BPH, osteoarthritis presenting for routine f/u. She reports doing reasonably well, no acute distress. Lungs w/ scattered wheezes, no crackles. Cardiac exam RRR no m/r/g. Extremities no edema at that time. Pt was continued on current inhaler regimen (albuterol PRN, tiotropium daily). Discussed pneumococcal and influenza vaccination status, pt states up to date. Recommended continued use of CPAP nightly per sleep medicine. Gout flare last documented 2020, none since. BPH stable on tamsulosin. Will f/u in 6 months or sooner if symptoms worsen. [Note: this text may not reflect current status and is retained per template]
+=== END COPIED TEXT ===
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: Not on file
+Years smoked: 53 years
+Quit attempts: Yes (2015-2017 period of abstinence, relapsed)
+Alcohol use: Occasional, denies excess
+Drug use: Marijuana, a few times a month
+Living situation: Lives with daughter
+Occupation: Retired
+Exercise: Limited due to dyspnea
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Obstructive sleep apnea (G47.33) - on CPAP
+2. Osteoarthritis (M19.90) - multiple joints
+3. Gout (M10.9) - last flare 2020, outdated entry, no recent flares reported
+4. Heart failure with reduced ejection fraction (I50.22)
+5. Benign prostatic hyperplasia (N40.0) - N/A, entry carried over in error, patient is female, to be corrected
+6. COPD with acute exacerbation (J44.1)
+
+[Note: Problem #5 appears to be an error carried over from template merge; flagged for correction but left as-is per current chart audit]
+
+MEDICATIONS:
+- Albuterol inhaler PRN
+- Tiotropium daily
+- Furosemide 20mg daily
+- Metoprolol succinate 25mg daily
+- Allopurinol 100mg daily
+- Tamsulosin 0.4mg daily (per old chart, clinically not indicated, to review)
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+Respiratory: cough productive of white sputum, improved from ED visit, dyspnea on exertion
+Cardiovascular: denies chest pain, mild lower extremity edema noted by patient
+GI: denies nausea, vomiting, constipation
+GU: nocturia x2, stable
+Musculoskeletal: chronic joint pain, stable
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 93% on room air, Temp 98.2F, Wt 165 lbs
+General: Elderly woman in no acute distress, alert and oriented x3
+HEENT: Normocephalic, atraumatic, no JVD
+Lungs: Mild expiratory wheezing bilaterally, decreased breath sounds at bases, no crackles
+Cardiac: RRR, no murmurs, S1/S2 normal, no S3/S4
+Abdomen: Soft, non-tender, non-distended
+Extremities: Trace bilateral lower extremity edema, no clubbing or cyanosis
+Skin: Warm, dry, intact
+
+ASSESSMENT/PLAN:
+76 year old woman with COPD s/p recent exacerbation, now improved, along with OSA, HFrEF, gout, osteoarthritis.
+1. COPD exacerbation, resolving - continue current inhalers, short course prednisone taper as previously prescribed, follow up PFTs in 4-6 weeks
+2. Tobacco use - discussed smoking cessation extensively today; patient continues to smoke despite counseling; offered nicotine replacement and referral to cessation program, patient declined referral at this time but will consider; lung cancer screening was discussed as an option to consider with primary care
+3. OSA - continue CPAP, reinforce adherence
+4. HFrEF - continue current cardiac meds, monitor weights, follow up with cardiology
+5. Gout - stable, continue allopurinol
+6. Osteoarthritis - stable, continue conservative management
+7. Marijuana use - noted, counseled on risks, patient aware
+
+Return to clinic in 4-6 weeks or sooner if symptoms worsen.
+
+Nadia Haddad, MD
+Pulmonology
+Electronically signed 06/22/2023

@@ -1,0 +1,72 @@
+Nurse Intake Note
+DOS: 03/15/2023
+Patient: Margaret Garcia, DOB 02/10/1957, Age: 66 y/o F
+Visit type: Pre-operative evaluation, Internal Medicine, for planned R total knee replacement
+
+Vitals: BP 138/82, HR 76, RR 16, Temp 97.8F, SpO2 96% RA, Wt 178 lb, Ht 64 in
+Allergies: NKDA
+Social Hx: Pt reports she tried a few cigarettes as a teenager but never smoked regularly; denies current tobacco use. Denies illicit drug use. Occasional glass of wine, social.
+
+Meds reconciled today (long list, per pharmacy):
+- Metformin 1000 mg PO BID
+- Insulin glargine 24 units qHS
+- Atorvastatin 40 mg qHS
+- Lisinopril 10 mg daily
+- Carvedilol 12.5 mg BID
+- Furosemide 20 mg daily
+- Omeprazole 20 mg daily
+- Alendronate 70 mg weekly
+- Clopidogrel 75 mg daily
+- Aspirin 81 mg daily
+- Calcium/Vit D supplement daily
+
+ROS: Constitutional - denies fever, chills, weight loss. Cardiac - denies chest pain, some occasional dyspnea on exertion, orthopnea denied, no PND. Resp - denies cough, wheeze. GI - occasional reflux, controlled with omeprazole, denies nausea/vomiting/diarrhea. GU - denies dysuria/hematuria. MSK - chronic R knee pain, limiting ambulation, positive for morning stiffness. Neuro - denies focal weakness, numbness [inaudible] tingling in feet noted intermittently. Skin - denies rash. Psych - denies depression/anxiety. All other systems reviewed and negative.
+
+Physician Progress Note - Quentin Hale, PA-C
+
+CC: Pre-op eval for R TKA, DOS 03/15/2023.
+
+HPI: Ms Garcia is a 66-year-old female w/ PMH of PAD, HLD, GERD, osteoporosis, HFrEF, and T2DM presenting for pre-operative medical clearance ahead of scheduled right total knee arthroplasty next month. She has had progressive R knee pain over several years, failed conservative tx including NSAIDs (limited due to renal/CV risk) and PT, now planned for surgical intervention by ortho. She ambulates w/ cane, denies falls recently. Reviewed home glucose logs, fasting readings running 110-160, no hypoglycemia reported. Cardiac status stable per pt, no recent CHF exacerbation, last echo reportedly showed reduced EF, follow up w/ cardiology ongoing.
+
+Social history reviewed again with patient directly: she stated she tried a few cigarettes as a teenager but never smoked regularly, and has not used tobacco products since. No vaping history elicited. No occupational exposures of note.
+
+Physical Exam:
+Gen: well-appearing, NAD, alert, cooperative.
+HEENT: normocephalic, atraumatic, no scleral icterus.
+Neck: no JVD, no thyromegaly.
+CV: RRR, no murmur appreciated, trace pedal edema b/l.
+Resp: CTAB, no wheeze/rales/rhonchi.
+Abd: soft, nontender, nondistended, +BS.
+Ext: R knee w/ crepitus, decreased ROM, no effusion appreciated today; DP pulses diminished bilaterally consistent w/ known PAD.
+Skin: warm, dry, intact.
+Neuro: grossly intact, decreased sensation distal feet b/l c/w mild peripheral neuropathy.
+
+Labs (reviewed 03/14/2023):
+HbA1c 7.4% (03/14/2023)
+Cr 1.1 mg/dL, eGFR 58 (03/14/2023)
+BNP 210 pg/mL (03/14/2023)
+CBC WNL
+Lipid panel: LDL 88 mg/dL, HDL 42, TG 150 (drawn 01/2023)
+
+Problem List:
+- I73.9 Peripheral artery disease
+- E78.5 Hyperlipidemia
+- K21.9 GERD
+- M81.0 Osteoporosis
+- I50.22 Chronic systolic (HFrEF) heart failure
+- E11.9 Type 2 diabetes mellitus
+- M17.11 Unilateral primary osteoarthritis, right knee
+- Z79.4 Long term insulin use (outdated entry, verify)
+
+Assessment/Plan:
+66 y/o F, DOS 03/15/2023, pre-op eval for R TKA.
+1. PAD - stable, continue clopidogrel/ASA, no active claudication changes.
+2. HLD - continue atorvastatin, repeat lipids in 6 mo.
+3. GERD - continue omeprazole.
+4. Osteoporosis - continue alendronate, hold day of surgery per protocol.
+5. HFrEF - stable, cardiology to provide clearance, continue carvedilol/lisinopril/furosemide, monitor volume status peri-op.
+6. T2DM - HbA1c 7.4%, continue metformin/insulin, hold metformin day before/of surgery, sliding scale insulin peri-op.
+7. Tobacco - no significant smoking history; counseling not indicated beyond routine health maintenance.
+8. Surgical clearance - overall low-moderate risk, cardiology and anesthesia consults recommended prior to OR date.
+
+Follow up post-op or sooner if symptoms change. Discussed general health screenings appropriate for age with patient today; screening options discussed but no further testing ordered at this visit.

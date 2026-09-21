@@ -1,0 +1,66 @@
+NURSE INTAKE
+Date of Service: 02/15/2024
+Patient: Walter Ramirez  DOB: 02/15/1971 (Age 53)
+Provider: Steven Park, MD (Pulmonology)
+
+VITALS: BP 138/86, HR 88, RR 20, SpO2 92% RA, Temp 98.2F, Wt 198 lb
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco Use: Current every day smoker
+Type: Cigarettes
+Alcohol Use: Former drinker, quit 2011
+Drug Use: Not on file
+Occupation: [blank]
+Living Situation: Not on file
+Exercise: Not on file
+
+CC: f/u after ED visit for COPD exacerbation.
+
+HPI (nurse note): Pt is a 53 yo male here for follow up s/p COPD exacerbation tx'd in ED last wk with steroids and nebs, reports "I'm breathin a little better but still get winded going up the stairs at my place, its like [inaudible] some days worse than others" and denies fever chills chest pain today, he did miss his last pulm appt due to work so this is a bit overdue and he says he wants to "get back on track" with his COPD meds, he also endorses occasional cough productive of clear-to-white sputum in am, no hemoptysis, uses albuterol inhaler prn which he says helps "some but not a ton."
+
+MEDICATIONS: Albuterol HFA prn, Tiotropium daily, Lisinopril 10mg daily, Allopurinol 100mg daily, Acetaminophen prn for OA pain
+
+ALLERGIES: NKDA
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Steven Park, MD - Pulmonology
+Date of Service: 02/15/2024
+
+CC: COPD exacerbation follow-up
+
+HPI: Mr. Ramirez is a 53-year-old male with history of HTN, gout, OA, and COPD who presents for follow-up after a COPD exacerbation managed in the ED approx one week ago. He states, "I feel like I'm gettin back to my baseline but I still cant walk as far as I used to without stoppin to catch my breath." He reports adherence to the prednisone taper and completed the course as directed, no residual GI upset noted, he denies any new fevers, chills, hemoptysis, or chest pain, sputum has improved from thick yellow to clear/white in color, he continues to use albuterol inhaler as needed with some symptom relief, tiotropium daily is being continued.
+
+ROS: Denies chest pain, denies palpitations, denies lower extremity edema, positive for occasional morning cough, denies weight loss, denies fevers/chills, positive for exertional dyspnea, denies hemoptysis, denies wheezing at rest.
+
+PMH: Hypertension, gout, osteoarthritis, COPD (GOLD stage to be reassessed with updated spirometry)
+
+PSH: None reported
+
+FAMILY HISTORY: Father w/ CAD, mother w/ T2DM, noncontributory to current visit otherwise.
+
+SOCIAL HISTORY: Patient quit drinking alcohol in 2011 per patient report, denies current alcohol use. Denies illicit drug use. Lives locally, works in construction (per prior note, occupation field otherwise not updated in system today).
+
+PHYSICAL EXAM:
+General: Alert, in no acute distress, speaking in full sentences today
+Vitals: as above, reviewed
+HEENT: Normocephalic, atraumatic, no jugular venous distention
+Lungs: Diminished breath sounds bilaterally with scattered expiratory wheezes, no crackles, no accessory muscle use at rest
+CV: RRR, no murmurs rubs or gallops
+Abd: Soft, nontender, nondistended
+Ext: No cyanosis clubbing or edema, mild bunion deformity noted at right great toe consistent w/ known gout hx
+Skin: Warm, dry, no rashes
+
+LABS/STUDIES REVIEWED: CXR from ED visit shows hyperinflation, no acute infiltrate. CBC unremarkable. BMP wnl. No spirometry on file today, will schedule.
+
+ASSESSMENT/PLAN:
+1. COPD, recent exacerbation, currently improving - continue tiotropium daily and albuterol prn, will obtain updated spirometry at next visit, reviewed inhaler technique with pt today, discussed importance of adherence.
+2. Tobacco use, current - patient has smoked half a pack (about 10 cigarettes) per day since age 17. Discussed smoking cessation resources including counseling and pharmacotherapy options (nicotine replacement, varenicline), pt states he is "thinkin about it" but not ready to quit at this time, will readdress at next visit, discussed the general importance of smoking cessation for COPD management, screening was discussed conceptually but no imaging ordered today.
+3. Hypertension - stable on lisinopril, BP today 138/86, continue current regimen.
+4. Gout - stable, continue allopurinol, no active flare on exam today.
+5. Osteoarthritis - stable, continue acetaminophen prn.
+
+RTC in 4-6 weeks or sooner if worsening symptoms, pt verbalized understanding of plan, all questions answered today.
+
+Steven Park, MD

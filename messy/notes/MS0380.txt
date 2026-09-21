@@ -1,0 +1,47 @@
+HISTORY AND PHYSICAL
+Patient: Priya Murphy (DOB 11/24/1948)
+DOS: 12/01/2025
+Author: Steven Park, MD
+Visit type: Annual Wellness Visit, Family Medicine
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI: Ms. Murphy is a 77-year-old woman presenting for her annual wellness visit. She reports feeling generally well, with stable gout and osteoarthritis symptoms. She states, "My knees ache more in the cold, but I'm managing with the meds you gave me." No new complaints of chest pain, cough, or shortness of breath. She mentions, "I finally quit smoking this year, doc, best thing I've done in decades." She denies alcohol use and states her diet has improved somewhat, though she continues to struggle with weight management related to her obesity.
+
+PAST MEDICAL HISTORY:
+- Gout
+- Osteoarthritis
+- Obesity
+
+SOCIAL HISTORY: Tobacco use status: Former smoker. Patient quit smoking in 2025. EHR tobacco use template (last updated this visit): Packs/day: 1.00, Years: 58.00. No current alcohol or illicit drug use reported. Lives alone, independent with ADLs.
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. Respiratory: no cough, no dyspnea. Musculoskeletal: chronic joint pain as above. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, Wt 198 lb, BMI 34.2
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic
+Lungs: clear to auscultation bilaterally, no wheezes/rales
+Cardiac: regular rate and rhythm, no murmurs
+Abdomen: soft, non-tender, obese habitus
+Extremities: mild bony enlargement of first MTP joints bilaterally consistent with chronic gout changes; no acute erythema or swelling today
+Skin: no rashes or lesions
+
+PROBLEM LIST:
+- M10.9 Gout, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- E66.9 Obesity, unspecified
+- Z87.891 Personal history of nicotine dependence (updated 12/01/2025)
+- I10 Essential hypertension (outdated, not currently active per patient report)
+- J45.909 Asthma, unspecified (outdated, no history of asthma per current review)
+
+ASSESSMENT AND PLAN:
+1. Tobacco use, former: Patient successfully quit smoking in 2025 after a long smoking history. Congratulated on cessation; reviewed relapse prevention strategies. No pharmacologic cessation aids needed at this time given she has already stopped. Discussed general age-appropriate cancer screening topics; will consider referral for lung imaging discussion at future visit if indicated.
+2. Gout: Stable, continue allopurinol as prescribed, monitor uric acid levels at next labs.
+3. Osteoarthritis: Continue acetaminophen as needed, recommend low-impact exercise, refer to PT if symptoms worsen.
+4. Obesity: Discussed dietary modification and increased physical activity; referred to nutrition counseling.
+5. Health maintenance: Updated immunizations reviewed, mammogram and colonoscopy status verified as up to date per chart review.
+
+Return to clinic in 12 months or sooner if new symptoms arise.
+
+Steven Park, MD

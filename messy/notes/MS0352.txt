@@ -1,0 +1,45 @@
+GERIATRIC ASSESSMENT
+Patient: Jose Novak | DOB: 1/24/1963 | Age: 60 | Sex: M
+Date of Service: 12/11/2023
+Provider: Kevin Osei, MD - Geriatrics
+
+HPI:
+Mr. Novak presents for routine geriatric assessment. He is accompanied by his spouse. Patient reports "I feel about the same, doc, just a little more tired climbing stairs." He denies chest pain but endorses occasional exertional dyspnea consistent with known HFrEF. Sleep is reportedly disrupted; he uses CPAP for OSA "most nights, maybe not every night." He states "I quit drinking back in 2008 and never looked back." No new falls, no cognitive complaints per patient and spouse.
+
+ROS: Positive for fatigue and mild dyspnea on exertion. Negative for syncope, edema flare, fevers, chills.
+
+PMH/Problem List (ICD-10):
+- Heart failure with reduced ejection fraction (I50.20)
+- Obstructive sleep apnea (G47.33)
+- Obesity (E66.9)
+- Hyperlipidemia (E78.5)
+- Hypertension (I10) - resolved per prior note, patient states no longer has this diagnosis, list not updated
+- GERD (K21.9) - old entry, outdated, not addressed today
+
+Medications: Furosemide, carvedilol, atorvastatin, CPAP therapy nightly (as tolerated).
+
+Social History: Patient's spouse also smokes cigarettes. Alcohol use: quit in 2008. No illicit drug use reported.
+
+Physical Exam:
+Vitals: BP 128/78, HR 68, RR 16, Wt 245 lb, BMI 36.
+General: Obese male, no acute distress.
+CV: Regular rate and rhythm, no S3 appreciated today, no significant JVD.
+Resp: Clear to auscultation bilaterally, no wheezes.
+Ext: Trace bilateral pedal edema.
+Neuro: Alert, oriented x3, gait steady with assistive device not required.
+
+Assessment/Plan:
+60-year-old male here for geriatric assessment with multiple chronic conditions including HFrEF, OSA, obesity, and hyperlipidemia.
+
+Smoking history: Patient has a substantial smoking history, having smoked 2.5 packs per day from age 16 until quitting at age 32. He quit smoking 29 years ago and has remained a nonsmoker since. Given his cardiopulmonary comorbidities, continued counseling on avoidance of secondhand smoke exposure is advised, particularly given that his spouse continues to smoke in the home.
+
+1. HFrEF - continue current regimen, monitor weight daily, follow up with cardiology.
+2. OSA - reinforce CPAP compliance, discuss barriers to nightly use.
+3. Obesity - discuss weight management strategies, dietary counseling referral.
+4. Hyperlipidemia - continue statin, recheck lipid panel in 6 months.
+5. Health maintenance - general lung health and remote smoking history were discussed with the patient; no further imaging discussion documented today.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+---ADDENDUM (later same day, 12/11/2023, K. Osei, MD)---
+After further review, clarifying that patient's secondhand smoke exposure at home (spouse smokes) was discussed at length; patient verbalized understanding of risks and agreed to encourage spouse toward cessation resources. No other changes to plan above.

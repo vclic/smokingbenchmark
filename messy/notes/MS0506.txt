@@ -1,0 +1,43 @@
+TELEHEALTH VISIT - PRIMARY CARE FOLLOW-UP
+Pt: George Henderson, M, DOB 2/7/1958 (age 65)
+DOS: 02/07/2023
+Provider: Isaac Moreno, PA-C
+
+Visit type: video call, phone-audio backup used x1 due to connection drop.
+
+CC: f/u HTN, T2DM, gout, AFib, PAD.
+
+HPI: Pt c/o no new sx. Denies CP, palpitations, claudication worsening. BG logs reviewed, fasting range 110-150. BP home readings avg 138/82. No gout flares since last visit. On apixaban for AFib, tolerating well, no bleeding issues. PAD stable, walks ~1/2 mile before calf pain, unchanged.
+
+ROS: Neg for SOB, edema, chest pain, dizziness, vision changes. + occasional foot numbness (known PAD/DM neuropathy, chronic).
+
+Meds: metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 40mg qhs, allopurinol 100mg daily, apixaban 5mg BID, cilostazol 100mg BID.
+
+Allergies: NKDA.
+
+Soc hx: lives w/ spouse, retired machinist. Denies EtOH excess, denies illicit drug use.
+Smoking: former smoker, quit smoking August 2017. No vaping.
+
+Exam: (limited, telehealth) Pt appears well, no acute distress. Speech clear. No visible edema noted on cam. Skin color WNL per pt report. Vitals per home cuff: BP 138/82, HR 78 irregular (known AFib), wt 198 lb (pt reported, home scale).
+
+LABS/RESULTS (reviewed today):
+A1c 01/30/2023: 7.4%
+CMP 01/30/2023: Na 139, K 4.6, Cr 1.1, eGFR 68, glucose 142
+Lipid panel 01/15/2023: TC 165, LDL 88, HDL 42, TG 150
+INR n/a (on DOAC, not monitored)
+Uric acid 01/30/2023: 5.8
+
+Assessment/Plan:
+1. Type 2 DM - A1c 7.4%, improved from prior. Continue metformin. Reinforce diet, home glucose monitoring. RTC labs in 3 mo.
+2. HTN - controlled on current regimen, continue lisinopril, home BP logs reviewed and acceptable.
+3. Gout - no flares, continue allopurinol, uric acid at goal.
+4. AFib - rate controlled, continue apixaban for stroke prophylaxis, no bleeding sx.
+5. PAD - stable claudication distance, continue cilostazol, walking program encouraged.
+6. Tobacco use - Pt is a former smoker; smoking hx notable for 1 to 1.5 packs per day for 38 years, quit August 2017. Counseled on continued avoidance of tobacco, congratulated on sustained cessation. Lung cancer screening discussed briefly given smoking hx; will revisit at next in-person visit for further discussion.
+7. Health maintenance - due for eye exam (diabetic), foot exam recommended given PAD/DM overlap, will schedule in-office visit.
+
+F/u: 3 months, sooner if sx worsen. Pt verbalized understanding, agreeable to plan.
+
+---
+ADDENDUM (same day, later):
+Pt called back re: home BP log discrepancy - clarified log was in mmHg as expected, no change to plan. Also confirmed pharmacy refill for cilostazol sent electronically today, pt to pick up by end of week. No other changes. -- Isaac Moreno, PA-C

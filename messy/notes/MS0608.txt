@@ -1,0 +1,61 @@
+CARDIOLOGY FOLLOW-UP - HEART FAILURE
+Date of Service: 10/18/2025
+Author: Anita Patel, MD (Resident); Attending attestation below
+
+Patient: Mark Perez, M, DOB 2/6/1968, Age: 57
+
+CC: HF follow up, routine
+
+HPI: Pt is a 57 yo male w hx HFrEF here for routine f/u. Reports doing ok overall, some mild dyspnea on exertion, no orthopnea, no PND currently. Weighs self daily per report, no significant gain. Compliant w meds mostly, occasionally forgets evening dose. Denies chest pain palpitations syncope. Diet sodium intake variable, admits to eating out frequently.
+
+--- COPIED FROM PRIOR NOTE DATED 5/18/2024 (left in for reference, not updated) ---
+HPI (5/18/2024): Pt presents for HF follow up, reports stable symptoms, denies edema. Smoking status: current smoker. Continues to follow w PCP for other issues. Meds reviewed, no changes made at that visit. Pt counseled re: low sodium diet and fluid restriction. Plan was to continue current regimen and repeat echo in 6 months. Pt tolerating lisinopril without issue at that time, no cough noted. Labs reviewed at that visit were stable, BNP mildly elevated but improved from prior. Pt educated on daily weights and when to call clinic.
+--- END COPIED SECTION ---
+
+ROS: otherwise negative except as above. Occasional heartburn, known GERD. No new mood sx, depression stable on current tx. No cold intolerance or other thyroid c/o.
+
+PMH/Problem List:
+- I50.9 Heart failure, unspecified
+- K21.9 GERD
+- F33.1 Major depressive disorder, recurrent, moderate
+- E03.9 Hypothyroidism
+- I10 Essential hypertension (outdated - pt reports normotensive last 3 visits, may resolve from list)
+- E78.5 Hyperlipidemia (outdated, last lipid panel unremarkable, consider removing)
+
+SOCIAL HISTORY / TOBACCO TEMPLATED BLOCK:
+Smoking status: Never Smoker [this field is outdated/incorrect - see narrative below]
+Tobacco Use Assessment (current, updated this visit):
+  Cigarettes: 10 cigs/day
+  Duration: 40 years
+  Current status: Active smoker
+  Counseled on cessation resources, pt declined referral to quit line today, will readdress next visit.
+Note: the templated 'Never Smoker' field above is incorrect and does not reflect actual history; correct info is the 10 cigs/day x 40 yrs active smoking noted above. Pt's spouse also smokes, pt reports they smoke together most evenings, makes quitting harder per pt.
+
+Alcohol: occasional, denies illicit drug use.
+
+Meds: Lisinopril, Metoprolol succinate, Spironolactone, Furosemide prn, Levothyroxine, Omeprazole, Sertraline.
+
+Exam: BP 128/78, HR 74, RR 16, SpO2 97% RA, Wt stable from last visit.
+Gen: NAD, comfortable.
+CV: RRR, no S3 appreciated today, no significant murmur.
+Lungs: CTAB, no crackles.
+Ext: trace edema b/l, no significant change.
+
+Labs reviewed: BMP wnl, BNP stable, TSH wnl on current levothyroxine dose.
+
+Assessment: 57 yo male w HFrEF, clinically stable today. GERD, depression, hypothyroidism all stable. Active tobacco use remains a concern given cardiopulm risk, continued counseling re cessation encouraged.
+
+Plan:
+1. Continue current HF regimen, no changes today
+2. Reinforce low sodium diet, daily weights
+3. Continue counseling re smoking cessation, offered resources again, pt not ready to quit at this time
+4. Continue levothyroxine, recheck TSH in 6 mo
+5. Continue sertraline for depression, pt reports mood stable
+6. Continue omeprazole for GERD sx control
+7. F/u in 3 months or sooner if worsening sx
+8. Repeat echo prior to next visit
+
+Attending Attestation: I saw and examined the patient with Dr. Patel, discussed the case, and agree with the assessment and plan as documented above. Reviewed tobacco history personally with patient, confirmed active smoking history as noted in updated tobacco block. - Dr. R. Alvarez
+
+--- ADDENDUM (added later same day, 10/18/2025) ---
+Addendum by A. Patel MD: Correcting note above - templated 'Never Smoker' field was an EHR default that did not autoupdate, please disregard that line entirely. Confirmed with patient directly today, he is an active smoker, 10 cigarettes per day, has smoked for 40 years total. No changes to plan otherwise. Pt's wife also smokes per patient report, discussed household cessation resources as well. Will continue to monitor.

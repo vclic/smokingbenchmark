@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Date of Service: September 4, 2023
+Patient: Patricia Martin   DOB: 11/18/1966   MRN: 27053064
+
+SUBJECTIVE:
+CC: CHF follow-up
+HPI: Mrs. Martin is a 56 year old female with a history of CHF, HTN, HLD, and depression who presents for heart failure follow-up. Weight stable on home scale. Mild orthopnea, 2 pillows. No LE edema. Last echo 2023-03-04: EF 31%.
+
+PMH:
+- Hypertension (dx 2005)
+- Generalized anxiety disorder
+- Chronic systolic heart failure (dx 2020)
+- Mixed hyperlipidemia
+Meds: simvastatin 20 mg nightly; metoprolol succinate 50 mg daily; escitalopram 10 mg daily; torsemide 20 mg daily; amlodipine 10 mg daily; fish oil 1 g daily
+Allergies: Latex
+Social History:
+- Lives with husband in a single-family home.
+- Never smoker.
+- No alcohol.
+FH: Sister - hypothyroidism.
+ROS: CV neg, GU neg, MSK neg, GI neg, Skin neg
+
+O:
+Vitals: BP: 152/88  HR: 86  RR: 12  Temp: 98.3 F  SpO2: 97% on RA  Wt: 123 lbs  BMI: 22.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: Trace bilateral ankle edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (8/13/2023): LDL 128, Cr 1.00, K 4.0, Hgb 14.2
+
+A/P:
+1. Heart failure: Stable; continue current regimen, daily weights.
+2. Mixed hyperlipidemia
+   - Continue statin. Lipid panel due.
+3. Generalized anxiety disorder: PHQ-9 stable; continue current regimen.
+4. Hypertension
+   - Above goal today; recheck at next visit, reinforce low-sodium diet.
+5. Health maintenance: LCS: N/A - never smoker.
+
+f/u 1 mo
+
+Julia Brennan, MD

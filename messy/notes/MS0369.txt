@@ -1,0 +1,85 @@
+NURSE INTAKE NOTE
+Date of Service: 02/04/2025
+Patient: Rajesh Kim   DOB: 02/04/1957 (age 68)
+Provider: Daniel Reyes, MD - Pulmonology
+
+CC: Lung cancer screening shared decision-making visit.
+
+Vitals: BP 138/86, HR 76, RR 16, Temp 97.8F, SpO2 97% RA, Wt 198 lb, Ht 5'10"
+
+Tobacco/substance use history (per pt): Pt reports he tried a few cigarettes as a teenager but never smoked regularly. Denies current cigarette use. Pt notes he uses chewing tobacco. Alcohol - pt states he quit drinking alcohol in 2001, denies current use. No illicit drug use reported.
+
+ROS (per template, all systems reviewed and negative except as noted in HPI):
+Constitutional: no fever, no chills, no unintentional weight loss.
+Eyes: no visual changes.
+ENT: no hearing loss, no sore throat.
+Cardiovascular: no chest pain, no palpitations, no edema.
+Respiratory: no cough, no hemoptysis, no dyspnea at rest; occasional exertional dyspnea per HPI.
+GI: no nausea, no vomiting, no abdominal pain.
+GU: no dysuria, no hematuria.
+Musculoskeletal: chronic gout flares, currently quiescent.
+Skin: no rashes, no lesions.
+Neuro: no focal weakness, no numbness.
+Psychiatric: history of depression, stable on current regimen, denies SI/HI.
+Endocrine: no polyuria, no polydipsia.
+Heme/Lymph: no easy bruising.
+Allergic/Immunologic: NKDA.
+
+Medication list (reconciled today):
+- Lisinopril 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Atorvastatin 40 mg PO qhs
+- Allopurinol 300 mg PO daily
+- Colchicine 0.6 mg PO PRN gout flare
+- Sertraline 100 mg PO daily
+- Aspirin 81 mg PO daily
+- Omeprazole 20 mg PO daily
+- Multivitamin PO daily
+
+Problem List (ICD-10):
+- F32.9 Major depressive disorder, unspecified (outdated - pt now reports mood stable, may need update to remission code)
+- I10 Essential hypertension
+- M10.9 Gout, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence (carried forward from prior chart, see note below)
+
+Vitals and intake completed by RN Susan Alvarez.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Daniel Reyes, MD - Pulmonology
+DOS: 02/04/2025
+
+HPI: Mr. Kim is a 68-year-old male (DOB 02/04/1957) referred for shared decision-making visit regarding lung cancer screening. He was flagged by his PCP given his age and questions about tobacco history documented in prior charts. On detailed review with the patient today, he clarifies that he tried a few cigarettes as a teenager but never smoked regularly - he denies ever being a regular cigarette smoker and denies any current cigarette use. He does acknowledge use of chewing tobacco, which he has used intermittently for a number of years; specific quantities not further quantified today. He reports occasional exertional dyspnea when climbing stairs, no chest pain, no hemoptysis, no weight loss. He denies alcohol use currently, noting he quit drinking alcohol in 2001 and has remained abstinent since.
+
+Past Medical History: Depression, hypertension, gout, hyperlipidemia (see problem list above).
+
+Social History: Retired postal worker. Lives with spouse. No illicit drug use. Tobacco/alcohol as above.
+
+Physical Exam:
+General: Well-appearing, no acute distress, appropriately dressed and groomed.
+HEENT: Normocephalic, atraumatic, oropharynx clear, no oral lesions noted (chewing tobacco use documented but no leukoplakia seen on exam today).
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Normal respiratory effort.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No clubbing, cyanosis, or edema. Mild tophi noted at right first MTP consistent with known gout history.
+Skin: No suspicious lesions.
+Neuro: Alert and oriented x3, no focal deficits.
+Psychiatric: Mood euthymic, affect appropriate.
+
+Assessment/Plan:
+1. Lung cancer screening shared decision-making - Discussed benefits/risks/limitations of low-dose CT screening with patient today given his age and past tobacco-related questions raised by PCP. Discussed the significance of clarifying that his cigarette exposure was limited to a few cigarettes tried as a teenager, without regular use, and separately discussed his chewing tobacco use. Provided educational materials. Patient will consider and follow up with PCP to discuss further.
+2. Chewing tobacco use - Counseled on risks of oral cancer and cardiovascular disease; encouraged cessation; provided cessation resources.
+3. Depression - stable, continue sertraline, no changes today.
+4. Hypertension - well controlled on current regimen.
+5. Gout - quiescent, continue allopurinol, colchicine PRN.
+6. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next PCP visit.
+7. Alcohol history - noted quit in 2001, no current concerns, no further intervention needed today.
+
+Return to clinic PRN or as directed by PCP.
+
+---
+ADDENDUM (same day, 4:45 PM) - Daniel Reyes, MD:
+After clinic, spoke further with patient by phone regarding today's visit; he had additional questions about the screening discussion. Reassured him that no imaging has been scheduled at this time and that the decision regarding screening remains under discussion with his PCP. Reiterated that his history is notable for having tried a few cigarettes as a teenager without ever becoming a regular smoker, and that his chewing tobacco use was also discussed. No changes to today's plan. Will defer further workup to PCP as outlined above.

@@ -1,0 +1,56 @@
+URGENT CARE VISIT NOTE
+DOS: 08/19/2024
+Pt: Mark Price DOB 6/9/1944 (age 80) M
+Provider: Brian Okonkwo, MD
+
+--- NURSE INTAKE ---
+CC: cough x several days, no fever reported
+Vitals: BP 138/82 HR 78 RR 18 SpO2 96% RA Temp 98.2F Wt 214 lb
+Allergies: NKDA
+
+SOCIAL HISTORY (templated):
+Tobacco use: Never
+Smoking status: Never Smoker
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: retired
+Living situation: 
+Exercise: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr Price is an 80 yo M with hx HTN, OA, asthma, obesity, BPH, GERD who presents for eval of cough, onset ~5 days ago, described as dry, worse at night, assoc w/ mild SOB on exertion. Denies fevers, chills, hemoptysis, chest pain. Uses albuterol inhaler PRN w some relief. No sick contacts reported. No recent travel.
+
+ROS: Positive for cough, mild dyspnea on exertion. Negative for fever, chills, wt loss, night sweats, hemoptysis, GI sx (aside from occasional reflux), urinary sx well-controlled on current meds.
+
+[Copied forward from prior visit note dated 03/02/2023]:
+Pt seen for f/u HTN and OA. BP well controlled on lisinopril. Reports occasional knee pain managed w/ acetaminophen and topical NSAID. Denies chest pain, palpitations, edema. GERD sx improved with omeprazole. BPH sx stable on tamsulosin, nocturia 1x/night. Asthma well controlled, uses albuterol rarely. Pt counseled re: weight management, diet, exercise. Pt states he has never smoked and denies any tobacco use in his lifetime. F/u in 6 months or sooner if needed.
+[end copied text]
+
+PMH: HTN, OA, asthma, obesity, BPH, GERD
+Meds: lisinopril, amlodipine, tamsulosin, omeprazole, albuterol inhaler PRN, acetaminophen prn
+
+Exam:
+Gen: NAD, comfortable, breathing unlabored at rest
+HEENT: OP clear, no erythema
+Neck: no LAD, no JVD
+Lungs: mild expiratory wheeze bilat bases, no crackles, no rhonci
+CV: RRR, no m/r/g
+Abd: soft NT ND
+Ext: no edema
+
+Assessment/Plan:
+1. Acute cough, likely viral bronchitis vs asthma exacerbation - will start short course of prednisone taper, continue albuterol, encourage fluids/rest, f/u if worsens or fevers develop.
+2. Asthma - stable overall, reinforce inhaler technique, provided rescue inhaler refill.
+3. HTN - continue current regimen, BP at goal today.
+4. OA - continue current mgmt, refer ortho if worsens.
+5. GERD - continue omeprazole.
+6. BPH - continue tamsulosin, stable.
+7. Obesity - counseled diet/exercise again, pt states trying to walk more.
+Social hx confirmed w pt during visit - pt reiterated he has never used tobacco products, no vaping hx either.
+Since pt has never smoked, no need for further tobacco cessation counseling; lung cancer screening not discussed further given no smoking hx.
+Return precautions given, f/u PRN or in 2 wks if sx persist.
+
+Electronically signed: Brian Okonkwo, MD 08/19/2024

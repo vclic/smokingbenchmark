@@ -1,0 +1,37 @@
+Internal Medicine Clinic Note
+Date of Service: 6/2/2025
+Patient: Kenneth Green   DOB: 1/29/1965   MRN: 44673030
+
+SUBJECTIVE:
+CC: HTN follow-up
+HPI: 60M w/ HLD, HTN, BPH here for follow-up of hypertension. Home BP readings mostly in the 120s/80s. Admits to missing losartan 100 mg daily a few times a week. Denies headaches, chest pain, dyspnea, or vision changes.
+
+PMH: BPH, HLD, HTN
+PSH: Right total knee arthroplasty (2019)
+Meds: losartan 100 mg daily; pravastatin 40 mg nightly; tamsulosin 0.4 mg nightly; hydrochlorothiazide 25 mg daily
+Allergies: NKDA
+SH: Lives w/ wife in a single-family home. +tob, 40 pack-yr. EtOH: 2-3 drinks on weekends. Denies illicit drugs.
+FH: Mother - breast cancer at 70. Both parents were smokers.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 123/78  HR: 102  RR: 12  Temp: 97.8 F  SpO2: 100% on RA  Wt: 167 lbs  BMI: 26.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: CTAB
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+A/P:
+1. Hypertension
+   - Controlled on losartan 100 mg daily; no changes.
+2. Current smoker: Counseled on cessation for 10 min. Not ready to quit at this time. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID. LDCT for lung cancer screening ordered after SDM.
+
+f/u 1 mo
+
+-- HW (NP)

@@ -1,0 +1,87 @@
+URGENT CARE VISIT NOTE
+Patient: Paula Smith
+DOB: 05/03/1960 (Age 64)
+Date of Service: 05/03/2024
+Author: Brian Okonkwo, MD (Resident) with Attending Attestation
+
+CHIEF COMPLAINT: Cough x 5 days
+
+HPI: Ms Smith is a 64 y/o female presenting to urgent care today, 5/3/2024, with c/o persistent cough for approx 5 days, described as dry, occasionally productive of clear sputum. Denies fevers at home though reports subjective chills last night. No hemoptysis. No chest pain, mild dyspnea on exertion which she attributes to her PAD-related decreased mobility. No sick contacts identified. She has tried OTC cough drops without much relief. She reports her cough is worse at night, interfering w sleep.
+
+Past Medical History:
+- Hypertension
+- GERD
+- Peripheral artery disease
+- Type 2 diabetes mellitus
+- Atrial fibrillation
+- Chronic kidney disease stage 3
+- COPD
+
+Social History: Tobacco use history was discussed with pt; she declined to discuss her tobacco use at this time. Will attempt to readdress at future visit. No other social history obtained today due to time constraints in urgent care setting.
+
+Medications (per chart, not independently verified today):
+- Lisinopril 20mg daily
+- Omeprazole 40mg daily
+- Metformin 1000mg BID
+- Apixaban 5mg BID
+- Atorvastatin 40mg daily
+- Albuterol inhaler PRN (per problem list for COPD, no smoking hx documented in chart)
+
+Allergies: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: + chills, denies fever, denies weight loss
+Respiratory: + cough, mild dyspnea on exertion, denies wheeze at rest, denies hemoptysis
+Cardiovascular: denies chest pain, denies palpitations (though known Afib, states feels at baseline)
+GI: occasional reflux sx, consistent w known GERD, no change
+GU: no dysuria
+MSK: chronic bilateral leg cramping/claudication c/w known PAD, no change
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 78 irregularly irregular (known Afib), BP 138/84, RR 16, SpO2 96% on room air, Wt 172 lbs
+General: Alert, NAD, mild cough noted during interview
+HEENT: Oropharynx clear, no erythema, TMs clear bilat
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated
+Respiratory: Mild expiratory wheeze bilateral bases, no crackles, no accessory muscle use, good air movement
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds
+Extremities: Cool distal extremities bilat lower, diminished pedal pulses c/w known PAD, no edema
+Skin: no rash
+
+LABS/RESULTS (reviewed today, some pending from PCP visit 4/28/2024):
+- CBC (04/28/2024): WBC 8.2, Hgb 12.9, Hct 38.4, Plt 244
+- BMP (04/28/2024): Na 138, K 4.6, Cl 101, CO2 24, BUN 22, Cr 1.4 (baseline per CKD stage 3), Glucose 142
+- HbA1c (03/15/2024): 7.4%
+- Chest X-ray (today, 05/03/2024): No acute infiltrate, no consolidation, mild hyperinflation c/w COPD, no effusion, no pneumothorax
+- Rapid flu/COVID panel (today): Negative x both
+
+ASSESSMENT:
+1. Acute cough, likely viral bronchitis vs COPD exacerbation, mild
+2. COPD - stable, on problem list, no smoking history documented in chart
+3. Hypertension - at goal today
+4. GERD - stable
+5. Peripheral artery disease - stable, chronic findings on exam
+6. Type 2 diabetes mellitus - reasonably controlled per recent A1c
+7. Atrial fibrillation - rate controlled, on anticoagulation
+8. Chronic kidney disease stage 3 - stable, baseline Cr
+
+PLAN:
+1. Supportive care for cough - recommend guaifenesin PRN, increase fluids, rest
+2. Consider short course of albuterol nebs if wheeze worsens; continue home inhaler PRN
+3. If symptoms worsen or fever develops, pt instructed to return to ED/urgent care
+4. Tobacco use discussion attempted; pt declined to discuss further today, will revisit at f/u
+5. Continue home meds as above, no changes
+6. F/u with PCP in 1-2 weeks or sooner if worsening
+7. Discussed general lifestyle measures for PAD, DM, HTN management
+8. Screening topics such as lung imaging can be discussed with PCP as appropriate at future visit
+
+Pt verbalized understanding of plan, all questions answered today.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Okonkwo and agree with the above documented history, exam findings, and plan as written. Discussed case in detail with resident.
+- Dr. Angela Ferreira, Attending Physician
+
+---
+ADDENDUM (later same day, 05/03/2024, added by Brian Okonkwo, MD):
+Patient called back to clinic approx 3 hours after visit reporting mild improvement in cough since taking guaifenesin. No new fevers, no worsening dyspnea reported. Advised to continue current plan, follow up as previously instructed if symptoms worsen. No further changes to assessment or plan at this time. Addendum reviewed with attending Dr Ferreira who concurs.

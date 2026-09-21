@@ -1,0 +1,83 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine - Follow-up Visit
+Patient: Cheryl Davis (F), DOB: 02/19/1948 (age 78)
+Date of Service: 02/19/2026
+Author: Isaac Moreno, PA-C
+
+Dear Dr. Reyes,
+
+Thank you for continuing to co-manage this pleasant 78-year-old woman with hypertension, type 2 diabetes, COPD, osteoarthritis, and BPH. She returns today for routine follow-up.
+
+HPI: Ms. Davis reports she has been 'doing about the same' since her last visit, with occasional knee pain limiting her ability to walk long distances. She denies chest pain, but notes intermittent shortness of breath with exertion, which she attributes to her COPD. She states, "I get winded going up the stairs, but I've always been that way." She continues to smoke and reports she has smoked for 60 years. When asked about quitting, she stated, "I've tried before, doesn't stick, I'm not ready to quit right now." She is not currently using any nicotine replacement or cessation medication. Blood sugars have been fairly stable per home glucometer log, though she admits to occasional dietary indiscretion around holidays.
+
+[Copied forward from note dated 08/14/2023 - retained in record]
+PATIENT continues to follow up for chronic disease management. BP well controlled on current regimen. Denies polyuria, polydipsia, or blurred vision. No new falls. Feet checked, no ulcers noted. Discussed importance of annual eye exam and podiatry follow-up. Patient tolerating metformin without GI upset. A1c last checked at 7.1%. Continue current medications, follow up in 3 months. Immunizations reviewed and updated per protocol. Patient denies any new joint swelling or morning stiffness beyond baseline OA symptoms. BPH symptoms stable on tamsulosin, no nocturia complaints beyond baseline 1-2x/night.
+[End copied text]
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Packs per day: Not on file
+Years smoked: 60 years (per patient report)
+Quit interest: Not ready to quit
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired seamstress
+Living situation: Lives alone, daughter nearby
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: Denies vision changes, hearing loss, sore throat.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, edema.
+Respiratory: Reports chronic mild dyspnea on exertion, denies hemoptysis, denies acute cough.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Reports mild nocturia, denies dysuria, hematuria.
+Musculoskeletal: Reports chronic bilateral knee pain, denies acute swelling.
+Skin: Denies rashes, lesions, non-healing wounds.
+Neurologic: Denies numbness, tingling, weakness, dizziness.
+Psychiatric: Denies depression, anxiety, sleep disturbance beyond baseline.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, SpO2 94% on room air, Weight 168 lbs, Height 5'4"
+General: Well-appearing, no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mildly diminished breath sounds bilaterally, no wheezes or crackles appreciated today, mild prolongation of expiratory phase noted.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, pulses 2+ bilaterally, mild crepitus in bilateral knees on range of motion.
+Skin: Warm, dry, intact, no lesions.
+Neurologic: Cranial nerves II-XII grossly intact, sensation intact to light touch bilaterally.
+
+MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Lisinopril 20mg PO daily
+3. Amlodipine 5mg PO daily
+4. Tamsulosin 0.4mg PO daily
+5. Tiotropium inhaler daily
+6. Albuterol inhaler PRN
+7. Atorvastatin 40mg PO daily
+8. Acetaminophen 500mg PRN for knee pain
+9. Aspirin 81mg PO daily
+10. Vitamin D3 1000 IU daily
+
+PROBLEM LIST (ICD-10):
+E11.9 - Type 2 diabetes mellitus without complications
+I10 - Essential hypertension
+J44.9 - Chronic obstructive pulmonary disease, unspecified
+M17.0 - Bilateral primary osteoarthritis of knee
+N40.1 - Benign prostatic hyperplasia with lower urinary tract symptoms (outdated - patient is female, entry retained from template error, to be corrected)
+Z71.6 - Tobacco use counseling
+
+ASSESSMENT AND PLAN:
+1. Type 2 diabetes - stable, continue metformin, recheck A1c in 3 months.
+2. Hypertension - well controlled on current regimen, continue lisinopril and amlodipine.
+3. COPD - stable, continue tiotropium and albuterol PRN. Ongoing tobacco use discussed at length; patient continues to smoke and has stated she is not ready to quit at this time. Advised to quit smoking given COPD diagnosis and cardiovascular risk; smoking cessation resources offered, declined today. Lung cancer screening discussed as an option for future consideration.
+4. Osteoarthritis - continue acetaminophen PRN, consider PT referral if symptoms worsen.
+5. BPH - stable on tamsulosin, will correct erroneous ICD-10 entry in problem list.
+
+Follow up in 3 months or sooner if symptoms worsen.
+
+Sincerely,
+Isaac Moreno, PA-C

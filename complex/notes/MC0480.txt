@@ -1,0 +1,45 @@
+URGENT CARE - Encounter Note
+DOS: 01/04/2024
+Patient: Terrence Allen, M, DOB 1/4/1973 (age 51)
+Provider: Gregory Tan, MD
+
+--- NURSE INTAKE ---
+CC: cough x5 days, worse at night, no fever
+Vitals: T 98.6 HR 88 BP 128/82 RR 18 SpO2 96% RA
+Pt reports intermittent nonproductive cough, denies chest pain, some wheeze noted per pt. Hx of asthma - uses albuterol prn, states inhaler almost empty.
+Social hx reviewed w/ pt: Pt states he tried a few cigarettes as a teenager but never smoked regularly. Pt does vape nicotine daily, reports he has never smoked cigarettes as an adult. Denies current alcohol use - pt states he quit drinking alcohol in 2010. Lives w/ spouse, works as an electrician.
+Allergies: NKDA
+Meds: albuterol MDI prn, alendronate weekly, apixaban, sertraline
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 51M w/ h/o asthma, osteoporosis, afib, depression p/w cough x5 days. Cough worse @ night, assoc mild wheeze, no fever/chills, no hemoptysis. Pt denies sick contacts. No recent travel. Using albuterol more freq past wk w/ some relief. No CP, no palpitations noted although pt has known afib on apixaban.
+
+ROS: + cough, +wheeze, denies fever, denies SOB at rest, denies hemoptysis, denies weight loss, denies night sweats
+
+PMH/Problem List (ICD-10):
+J45.909 Asthma, unspecified - active, uses albuterol prn
+M81.0 Osteoporosis - on alendronate
+I48.91 Atrial fibrillation - on apixaban, last INR n/a (DOAC)
+F32.9 Major depressive disorder - on sertraline, stable
+E78.5 Hyperlipidemia - outdated, pt states resolved per PCP, not on statin currently
+Z71.3 Dietary counseling - outdated entry, unclear relevance
+
+Social Hx: Tobacco - pt tried a few cigs as teen, never smoked regularly since. Does vape nicotine daily, denies ever smoking cigarettes. EtOH - quit drinking alcohol in 2010, denies current use. No illicit drug use reported.
+
+PE: Gen - NAD, comfortable. HEENT wnl. Neck supple no LAD. Lungs - mild exp wheeze bilat, no crackles, good air movement. CV - irreg irreg rhythm c/w known afib, no murmur. Abd soft NT/ND. Ext no edema.
+
+Assessment: Cough, likely asthma exacerbation trigger vs viral URI. Afib stable on apixaban. Osteoporosis stable. Depression stable on current regimen.
+
+Plan:
+1. Increase albuterol use, provide new inhaler script
+2. Consider short steroid burst if sx worsen, hold for now
+3. Recommended OTC cough suppressant PRN
+4. Continue apixaban, alendronate, sertraline as prescribed
+5. D/c nicotine vape use discussed at length, offered resources for cessation given daily use
+6. General health maintenance topics briefly touched on, deferred further discussion to PCP
+7. F/u PCP in 2 wks or sooner if worse, return to UC/ED if SOB, chest pain, or hemoptysis
+
+Signed electronically, Gregory Tan, MD
+
+--- ADDENDUM (same day, later) ---
+Addendum 01/04/2024 1745: Pt called back re: inhaler refill, pharmacy needed clarification on dosing instructions. Advised MDI 2 puffs q4-6h prn wheeze/cough, max 8 puffs/day. Pt verbalized understanding. No new concerns voiced. Reiterated return precautions. -G. Tan, MD

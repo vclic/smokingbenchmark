@@ -1,0 +1,38 @@
+TELEHEALTH VISIT - Pre-Operative Medical Evaluation
+Patient: Judith Perry | DOB: 02/11/1949 (age 76) | Sex: F
+Date of Service: 02/11/2025
+Provider: Owen Fitzgerald, MD - Internal Medicine
+
+CHIEF COMPLAINT: Pre-op clearance for right total knee replacement (Orthopedics - Dr. Whitfield).
+
+HPI: Ms. Perry is a 76-year-old woman with history of BPH, hypothyroidism, hyperlipidemia, and atrial fibrillation who presents via telehealth for pre-operative risk assessment prior to scheduled TKA. She reports her knee pain has progressively worsened over the past two years, now limiting ambulation to <1 block. No chest pain, no palpitations at rest, no syncope. She denies recent falls. Reviewed anticoagulation plan with orthopedic team given AF history; will coordinate bridging as needed.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Tried a few cigarettes as a teenager but never smoked regularly.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/week
+Marijuana use: Uses marijuana occasionally, per patient report, for sleep
+Illicit drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Limited due to knee pain
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Cardiovascular: denies chest pain, orthopnea, PND, lower extremity edema. Respiratory: denies cough, dyspnea, wheezing, hemoptysis. GI: denies nausea, vomiting, abdominal pain, changes in bowel habits. GU: reports mild nocturia consistent with known BPH, denies dysuria, hematuria. Endocrine: denies heat/cold intolerance, tremor. Musculoskeletal: positive for right knee pain and stiffness, denies other joint complaints. Neuro: denies weakness, numbness, dizziness. Psych: denies depression, anxiety. Skin: denies rash, lesions. All other systems reviewed and negative.
+
+PHYSICAL EXAM (via video, limited): General: well-appearing, no acute distress, seated comfortably. Vitals per home cuff reported by patient: BP 128/76, HR 78 irregularly irregular (known AF), reports home pulse ox 97% RA. HEENT: atraumatic, no visible distress. Neck: no JVD appreciated on camera. Cardiovascular: unable to auscultate via telehealth; rhythm reported irregular by patient's home monitor, consistent with known AF. Respiratory: no visible increased work of breathing, no use of accessory muscles. Abdomen: not examined. Extremities: right knee with visible mild swelling, patient reports tenderness to palpation; no calf tenderness reported. Skin: no rashes visualized. Neuro: alert, oriented x3, speech fluent.
+
+MEDICATIONS: Apixaban 5 mg BID, Levothyroxine 88 mcg daily, Atorvastatin 20 mg daily, Tamsulosin 0.4 mg daily, Finasteride 5 mg daily, Metoprolol succinate 50 mg daily, Vitamin D3 2000 IU daily, Calcium carbonate 500 mg daily, Multivitamin daily, Acetaminophen 650 mg PRN pain.
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - on apixaban, rate-controlled on metoprolol; will coordinate anticoagulation bridging with orthopedic and anesthesia teams prior to surgery.
+2. Hypothyroidism - stable, continue levothyroxine, check TSH pre-op.
+3. Hyperlipidemia - continue atorvastatin.
+4. BPH - stable on tamsulosin/finasteride, continue.
+5. Pre-operative clearance - cardiac risk assessed as low-moderate; recommend proceeding with surgery pending labs, EKG, and cardiology sign-off given AF.
+6. Tobacco/substance use - counseled regarding marijuana use and potential interactions with anesthesia; advised to inform anesthesiology team.
+
+Will follow up post pre-op labs and EKG results. Patient verbalized understanding of plan.
+
+---ADDENDUM (same day, 3:45 PM)---
+Spoke with patient by phone after review of morning labs (CBC, BMP, coags all within normal limits, TSH pending). EKG from cardiology office reviewed showing atrial fibrillation, rate ~76, no acute ST changes. No additional changes to plan. Cleared from internal medicine standpoint pending final anesthesia and cardiology input. Patient again confirmed she has never been a regular smoker, aside from trying a few cigarettes as a teenager many decades ago, and continues occasional marijuana use for sleep. No new concerns voiced.
+- Owen Fitzgerald, MD

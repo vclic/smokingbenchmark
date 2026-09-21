@@ -1,0 +1,86 @@
+Internal Medicine Clinic Note
+
+Patient: FOSTER, Barbara    MRN: 26888795
+DOB: 01/05/1959    Age: 64 y.o.    Sex: Female
+Date of Service: 12/04/2023    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Cough and congestion
+
+Subjective:
+Barbara Foster is a 64 y.o. female who presents for cough and congestion.
+Cough for 17 days, dry. Subjective fever and chills. No sick contacts. Denies hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Acquired hypothyroidism
+• Hypercholesterolemia
+• Primary OA, bilateral knees
+• CKD 3b
+• T2DM without complication	2006
+• Tobacco use disorder
+
+Current Outpatient Medicatons on File Prior to Visit
+Medication	Sig
+• levothyroxine 75 mcg daily
+• rosuvastatin 10 mg daily
+• meloxicam 7.5 mg daily
+• metformin 1000 mg BID
+• semaglutide 0.5 mg weekly
+• vitamin D3 2000 IU daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 0.75ppd x 46 years
+Social History Narrative
+  Married, lives with husband.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+
+Family History
+Parents deceased, causes unknown.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 119/77 (BP Location: Right arm, Patient Position: Sitting) | Pulse 87 | Temp 98.8 °F (Oral) | Resp 20 | Ht 5' 4" | Wt 130 lb | SpO2 95% | BMI 22.24 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Scattered rhonchi that clear with cough
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (11/24/2023): A1c 8.2%, LDL 69, Cr 1.15, K 4.7, Hgb 14.6, TSH 3.98
+
+Assessment & Plan
+1. Acute bronchitis
+   Post-viral cough. Honey, fluids. If persists >8 wks, CXR.
+2. Tobacco use
+   Counseled on cessation for 10 min. Ambivalent about quitting. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+3. Hypercholesterolemia
+   LDL at goal on last check; continue.
+
+Return in about 3 months (around 3/4/2024).
+
+Electronically signed by Steven Park, MD on 12/04/2023

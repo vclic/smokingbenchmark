@@ -1,0 +1,56 @@
+PULMONOLOGY RESIDENT NOTE - COPD FOLLOW-UP
+DOS: 04/26/2026
+Author: Kevin Osei, MD (resident), with attending attestation to follow
+Patient: John Ramirez, M, DOB 04/26/1970, age 56
+
+CC: COPD f/u
+
+HPI: Mr. Ramirez is a 56 y.o. male w/ PMH obesity, depression, and COPD who presents for routine f/u. Pt states 'I've been doin ok, just get winded goin up the stairs at work, its been like that for a few months now'. Denies fevers, chills, hemoptysis. He reports occasional wheeze in AM, uses albuterol PRN maybe 2x/wk. Sleep has been poor per pt 'I toss and turn, my mind just races [inaudible] about work stuff' - screening for depression sx today given hx, pt denies SI/HI. Appetite stable, no wt loss, actually c/o some wt gain which he attributes to decreased activity 2/2 dyspnea and mood. No chest pain, no lower extremity edema. Pt reports he quit smoking 32 years ago and has remained smoke-free since, denies any relapse or occasional use, denies vaping or e-cig use, denies other tobacco products currently.
+
+ROS: otherwise negative except as above, 10 point ROS reviewed and negative except HPI.
+
+PFT/TOBACCO EHR TEMPLATE (auto-populated, reviewed w/ pt today):
+Tobacco Use: Former smoker
+Packs/day: 1.50
+Years: 2.00
+Current status: Quit
+
+PMH: Obesity, Depression, COPD (GOLD stage unspecified, on maintenance inhaler)
+PSH: none significant
+Meds: Tiotropium daily, albuterol PRN, sertraline 50mg daily, metformin (not diabetic per chart, verify), atorvastatin
+Allergies: NKDA
+Social Hx: Lives w/ spouse, works in warehouse, denies EtOH excess, denies illicit drugs. Tobacco: see template above - pt quit smoking, confirmed verbally in room today, quit approx 32 yrs prior to this visit.
+Family Hx: non-contributory, father w/ HTN, mother w/ T2DM
+
+Vitals: BP 138/86, HR 82, RR 18, Temp 98.4F, SpO2 94% RA, Wt 245 lb, BMI 36.2
+
+Physical Exam:
+Gen: obese male, NAD, conversant
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: no JVD, no LAD
+CV: RRR, no m/r/g
+Resp: decreased breath sounds bilat bases, mild expiratory wheeze, no crackles, no accessory muscle use at rest
+Abd: obese, soft, NT/ND, +BS
+Ext: no c/c/e
+Psych: mood euthymic, affect appropriate, judgment/insight intact
+
+Labs/Results (reviewed today):
+CBC (04/20/2026): WBC 7.2, Hgb 14.1, Hct 42.3, Plt 260
+BMP (04/20/2026): Na 139, K 4.1, Cl 101, CO2 25, BUN 16, Cr 0.9, Glc 102
+PFTs (03/15/2026): FEV1 68% predicted, FVC 82% predicted, FEV1/FVC ratio 0.64, consistent w/ moderate obstruction
+CXR (03/15/2026): hyperinflated lungs, no acute infiltrate, no effusion
+BNP not obtained this visit, not clinically indicated
+
+Assessment: 56 y.o. male w/ COPD (moderate obstruction per recent PFTs), obesity, and depression, presenting for routine pulm f/u. Sx reasonably controlled on current regimen though some increase in dyspnea on exertion noted, possibly multifactorial given wt gain and deconditioning. Tobacco use hx reviewed - pt is a former smoker who quit smoking, quit date approx 32 yrs ago per pt report, no current tobacco use of any kind.
+
+Plan:
+1. COPD: continue tiotropium, continue albuterol PRN, reinforce inhaler technique, discussed pulm rehab referral
+2. General risk-reduction strategies given hx of prior tobacco use were discussed with pt in broad terms
+3. Obesity: counseled on diet/exercise, discussed referral to nutrition
+4. Depression: continue sertraline, screening today reassuring, no SI/HI, f/u w/ PCP or psych as needed
+5. Repeat PFTs in 6 months, f/u in pulm clinic 3 months, sooner if worsening sx
+6. Pt educated on red flag sx (hemoptysis, unintentional wt loss, worsening dyspnea) to prompt earlier return
+
+Attending Attestation: I have reviewed and discussed this case with Dr. Osei. I concur with the history, exam findings, and plan as documented above. Pt's tobacco history was verified directly with patient during visit - quit smoking, approx 32 years ago relative to today's visit 04/26/2026.
+
+-- End of note --

@@ -1,0 +1,61 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 10/20/2025
+Author: Farah Siddiqui, MD
+
+Patient: Paula Brown, F, DOB 10/20/1970 (age 55 today - happy birthday, Ms. Brown)
+
+CC: COPD f/u
+
+HPI: 55 yo F w/ COPD, HTN, OA, gout, PAD, HFrEF here for routine pulm f/u. Reports stable dyspnea on exertion, no acute exacerbations since last visit, no fevers/chills. Uses albuterol PRN, tolerating maintenance inhaler well. No hemoptysis, no new chest pain. Denies increased sputum production or purulence.
+
+ROS: Constitutional - no fever, no wt loss. HEENT - no sinus congestion, no sore throat. CV - no chest pain, occasional lower extremity edema (chronic, PAD/HFrEF related). Resp - chronic cough stable, no new SOB at rest. GI - no n/v/d, no abd pain. GU - no dysuria. MSK - chronic joint pain c/w OA, no new swelling. Skin - no rashes. Neuro - no focal deficits. Psych - denies depression/anxiety. Endo - no polyuria/polydipsia. Heme - no easy bruising. All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Not on file
+Smoking status: Never Smoker [NOTE: This templated field is incorrect/outdated and does not reflect actual history - see narrative below]
+Alcohol use: occasional, denies excess
+Drug use: denies
+Occupation: retired
+Living situation: Not on file
+
+Narrative smoking history (documented directly by Dr. Siddiqui, as EHR field above is inaccurate): Patient has an extensive smoking history that was never properly captured in the discrete EHR field above. She reports smoking 1.5 packs per day for 11 years, then stopped completely for a 2-year period, after which she restarted smoking at an increased rate of 2 packs per day for 14 years before quitting for good. She has not smoked since her 47th birthday and remains a former smoker, not a never smoker as the outdated field suggests. She currently does not smoke. Discussed lung cancer screening guidelines in general terms with patient; will revisit at future visit.
+
+MEDICATIONS:
+1. Tiotropium inhaler 18mcg 1 cap inhaled daily
+2. Albuterol HFA 90mcg 2 puffs q4-6h PRN
+3. Lisinopril 20mg daily
+4. Metoprolol succinate 50mg daily
+5. Furosemide 40mg daily
+6. Spironolactone 25mg daily
+7. Allopurinol 300mg daily
+8. Colchicine 0.6mg PRN gout flare
+9. Meloxicam 7.5mg daily PRN OA pain
+10. Clopidogrel 75mg daily (PAD)
+11. Atorvastatin 40mg qhs
+12. Aspirin 81mg daily
+13. Sacubitril-valsartan 24-26mg BID
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72, RR 16, T 98.4F, SpO2 94% RA, Wt 168 lb, Ht 5'4"
+General: well-appearing, NAD, in no respiratory distress
+HEENT: NCAT, PERRLA, oropharynx clear, no JVD
+CV: RRR, no murmurs/rubs/gallops appreciated today, trace bilateral LE edema
+Resp: mild expiratory wheeze bilaterally, no crackles, symmetric chest expansion, no accessory muscle use
+Abd: soft, NT/ND, normal bowel sounds
+Extremities: trace edema b/l, distal pulses diminished but palpable (c/w PAD), no cyanosis
+Skin: warm, dry, no rashes
+Neuro: A&Ox3, no focal deficits
+MSK: mild crepitus bilateral knees, no active synovitis
+
+ASSESSMENT/PLAN:
+1. COPD - stable on current regimen. Continue tiotropium, albuterol PRN. Reinforce inhaler technique. Pulm function tests reviewed, stable from prior. Former smoker as detailed above; no current tobacco use.
+2. HFrEF - stable, continue GDMT as above, follow with cardiology.
+3. HTN - well controlled on current regimen.
+4. PAD - stable, continue clopidogrel and statin, monitor.
+5. Gout - no active flare, continue allopurinol, colchicine PRN.
+6. OA - stable, meloxicam PRN, consider PT referral if worsens.
+
+Return to clinic in 6 months or sooner if symptoms worsen. Discussed general health maintenance including immunizations (flu, pneumococcal, COVID up to date per chart). Lung cancer screening discussed in general terms per above; will continue to address.
+
+Farah Siddiqui, MD
+Pulmonology

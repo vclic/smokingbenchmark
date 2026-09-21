@@ -1,0 +1,54 @@
+CARDIOLOGY H&P
+Patient: Donna Jones (F)
+DOB: 03/28/1964 (age 61)
+Date of Service: 03/28/2025
+Author: Gregory Tan, MD
+
+CC: HF follow-up.
+
+HPI: 61 yo F w/ hx HFrEF, BPH, gout, obesity, OSA, COPD, OA, here for routine f/u. Reports mild dyspnea on exertion, stable over past 4-6 wks. Denies orthopnea, PND. Denies chest pain. Weight stable per home scale. Compliant w/ diuretic, occasional missed doses of home meds per pt report. Uses CPAP nightly for OSA, tolerates well most nights. Gout flares intermittent, last flare ~2 mos ago, resolved w/ colchicine. OA affecting knees more than hips, uses acetaminophen PRN.
+
+ROS: Constitutional - no fever, no chills. Cardiac - no palpitations, no syncope. Resp - occasional cough, no hemoptysis, uses home O2 PRN per COPD action plan. GI - no nausea, no vomiting, appetite stable. GU - nocturia x2, known BPH, stable. MSK - joint pain as above. Neuro - no focal deficits. Skin - no rashes. Psych - mood stable.
+
+Social History: Alcohol - reports occasional glass of wine, ~1-2x/month, no binge pattern. Lives alone in single-story home, has home health aide visit 2x/week for assistance w/ ADLs. Previously worked as an administrative assistant, now retired.
+
+Family Hx: Mother - HTN, DM2. Father - CAD, deceased age 78. Sibling - no known cardiac disease.
+
+Meds: Furosemide 40mg daily, lisinopril 10mg daily, metoprolol succinate 50mg daily, allopurinol 300mg daily, colchicine PRN gout flare, CPAP nightly, albuterol inhaler PRN, acetaminophen PRN, tiotropium inhaler daily.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 128/78, HR 72, RR 16, SpO2 94% RA, Temp 36.7C, Wt 96 kg, BMI 34.
+General: Obese female, NAD, alert, cooperative.
+HEENT: Normocephalic, atraumatic, no JVD appreciated at 30 deg.
+CV: RRR, no murmurs, no gallops, no rubs. PMI non-displaced.
+Resp: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest.
+Abd: Obese, soft, non-tender, non-distended, normal bowel sounds.
+Ext: Trace bilateral pedal edema, no calf tenderness, pulses 2+ symmetric.
+MSK: Mild crepitus bilateral knees, no active synovitis today.
+Skin: Warm, dry, no lesions.
+Neuro: Grossly intact, alert and oriented x3.
+
+Labs/Results:
+- BNP (03/28/2025): 210 pg/mL (mildly elevated, improved from prior)
+- BMP (03/28/2025): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 102
+- CBC (03/28/2025): WBC 6.8, Hgb 13.1, Hct 39.2, Plt 245
+- Uric acid (03/15/2025): 6.8 mg/dL
+- TSH (01/10/2025): 2.1 mIU/L (WNL)
+- Echo (02/2025): EF 40%, mild LVH, mild diastolic dysfunction, no significant valvulopathy.
+- CXR (03/28/2025): Mild cardiomegaly, no acute infiltrate, COPD-related hyperinflation noted.
+- PFTs (11/2024): Obstructive pattern consistent w/ COPD, FEV1/FVC reduced.
+
+Assessment/Plan:
+1. HFrEF (EF 40%) - clinically stable, euvolemic on exam. Continue current diuretic and GDMT. Will trend BNP, weight logs reviewed. F/u in 3 months or sooner if symptoms worsen.
+2. COPD - stable, continue tiotropium and albuterol PRN. Reviewed inhaler technique. Lung cancer screening was discussed but deferred until smoking history can be obtained; will address at next visit.
+3. OSA - continue CPAP, adherence reportedly good. Consider repeat sleep study if symptoms change.
+4. BPH - stable, urology f/u as scheduled.
+5. Gout - intermittent flares, continue allopurinol, colchicine PRN. Uric acid checked, will recheck at next visit.
+6. Obesity - counseled on diet/exercise, referral to nutrition offered.
+7. OA - continue acetaminophen PRN, consider PT referral if worsening.
+
+Return to clinic in 3 months, sooner if symptoms of decompensation (weight gain >3 lbs in 2 days, increased SOB, edema).
+
+Electronically signed: Gregory Tan, MD.

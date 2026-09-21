@@ -1,0 +1,78 @@
+VASCULAR SURGERY - NURSE INTAKE & PHYSICIAN PROGRESS NOTE
+DOS: 06/21/2023
+Patient: Janet Miller, F, DOB 06/21/1953 (Age 70 today - happy bday note per nurse)
+Author: Isaac Moreno, PA-C
+
+=== NURSE INTAKE (RN: T. Alvarez) ===
+VS: BP 138/82, HR 76, RR 16, T 97.8F, SpO2 95% RA, Wt 168 lb
+CC: "my legs cramp up when I walk to the mailbox now"
+Pt ambulates c cane. Denies CP/SOB at rest. c/o bilat calf pain w/ exertion x several months, relieved w/ rest.
+Allergies: NKDA
+Meds reviewed - see MAR.
+
+SOCIAL HISTORY:
+Tobacco: FORMER smoker, quit 1984. Pt states "I gave it up after my son was born, never looked back." Husband still smokes per pt report - "he never quit though."
+Etoh: quit drinking in 2021, denies current use.
+Lives w/ spouse, independent in ADLs.
+
+TOBACCO HX (EHR TEMPLATE - AUTO-POPULATED):
+Status: Former smoker
+Packs/day: 3.00
+Years: 10.00
+Quit date: 1984
+
+=== COPIED FORWARD FROM PRIOR VISIT (02/14/2022) - NOT UPDATED THIS VISIT ===
+[Begin copy-forward block]
+HPI (02/14/22): 69 yo F w/ PAD, HFrEF, osteoporosis, OSA, BPH here for f/u claudication sx. Pt reports intermittent claudication L>R, walks approx 1 block before pain onset. Denies rest pain, denies non-healing ulcers. On ASA 81mg, cilostazol 100mg BID. ABI last checked 0.68 L, 0.74 R.
+PMH: PAD, HFrEF (EF 35% on last echo 2021), osteoporosis (on alendronate), OSA (uses CPAP nightly, compliant), BPH (on tamsulosin).
+SOCIAL: former smoker, lives w/ husband, denies illicit drug use.
+EXAM (02/14/22): B/L LE pulses diminished, femoral 2+, popliteal 1+, DP/PT nonpalpable bilat. Skin cool distally, no ulcers, no rubor. Cap refill 3 sec.
+A/P (02/14/22): PAD sx stable, continue cilostazol, f/u ABI in 6 mo, cont statin, lifestyle mod counseling given.
+[End copy-forward block]
+
+=== TODAY'S HPI (06/21/2023) ===
+70 yo F c hx PAD, HFrEF, osteoporosis, OSA, BPH presents for routine vasc surg f/u. Pt reports claudication sx slightly worse - now onset after ~half block walking, previously tolerated full block per prior note. Denies rest pain. Denies new ulcers/wounds on feet. Denies fevers/chills. Cont's CPAP nightly for OSA, reports good compliance "I use it every night, my husband says I don't snore anymore." No new chest pain, no orthopnea, no PND. Mild bilat ankle edema, stable per pt.
+Denies tobacco use currently - reiterates quit in 1984, long-standing former smoker. Husband continues to smoke in the home; pt asked to have him smoke outside, states he mostly complies.
+Denies EtOH since 2021 cessation.
+
+ROS:
+Constitutional: no fever, no wt loss
+CV: no CP, mild edema as above
+Resp: no cough, no hemoptysis, uses CPAP
+GI: no abd pain
+GU: nocturia x2 (BPH, stable per pt), on tamsulosin
+MSK: chronic low back pain stable, on alendronate for osteoporosis
+Skin: no ulcers
+
+PMH: PAD, HFrEF (EF 35% 2021 echo), osteoporosis, OSA on CPAP, BPH
+PSH: none significant
+Meds: ASA 81mg daily, cilostazol 100mg BID, carvedilol, alendronate weekly, tamsulosin, atorvastatin
+Allergies: NKDA
+
+PHYSICAL EXAM:
+Gen: NAD, alert, cooperative, ambulates c cane
+CV: RRR, no m/r/g, mild 1+ pitting edema bilat ankles
+Resp: CTAB
+Vasc: fem pulses 2+ bilat, popliteal 1+ bilat, DP/PT nonpalpable bilat (unchanged), skin cool to touch distally, no ulcers, hair loss noted on lower legs, no rubor/dependent color change today
+Skin: intact, no breakdown
+
+LABS (reviewed today): Lipid panel from 05/2023 - LDL 88, HDL 52, TG 130. BNP wnl. Cr 0.9, eGFR >60.
+
+ASSESSMENT:
+1. Peripheral artery disease - claudication sx mildly progressed since last visit, will obtain repeat ABI + consider vascular imaging. Continue cilostazol, ASA.
+2. HFrEF - clinically stable, no signs decompensation today, cont carvedilol.
+3. Osteoporosis - cont alendronate, DEXA due for repeat next yr.
+4. OSA - compliant w/ CPAP, doing well.
+5. BPH - stable on tamsulosin, nocturia unchanged.
+6. Former tobacco use (quit 1984) - counseled on continued avoidance of tobacco exposure, encouraged pt to support spouse's smoking cessation given ongoing home exposure; general health maintenance and risk-reduction strategies reviewed with pt.
+7. EtOH cessation (2021) - continues to abstain, no concerns.
+
+PLAN:
+- Repeat bilat LE ABI in 4-6 wks
+- Consider arterial duplex if sx continue to progress
+- Cont current med regimen
+- F/u vascular surgery clinic in 6-8 wks or sooner if worsening sx, new ulcers, or rest pain
+- Pt educated on foot care given PAD, importance of daily inspection
+- RTC prn
+
+Electronically signed: Isaac Moreno, PA-C, 06/21/2023

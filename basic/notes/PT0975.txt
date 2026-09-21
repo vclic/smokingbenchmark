@@ -1,0 +1,53 @@
+PROGRESS NOTE
+Date of Service: 2025-06-27
+Patient: Walter Price   DOB: 1/26/1949   MRN: 23777992
+
+SUBJECTIVE:
+CC: Chronic disease f/u
+HPI: Mr. Price is a 76-year-old male with a history of CKD3, CHF, OA, and HLD who presents for routine follow-up of chronic conditions. Feels about the same as last visit. Asks about refills.
+
+PMH:
+- Mixed hyperlipidemia
+- CKD stage 3
+- Chronic systolic heart failure
+- GERD
+- Osteoarthritis
+PSH: TURP
+Meds: atorvastatin 40 mg daily; famotidine 20 mg BID; acetaminophen 500 mg 2 tabs TID PRN; metoprolol succinate 50 mg daily; torsemide 20 mg daily
+Allergies: Codeine (nausea)
+Social History:
+- Lives with wife and adult daughter.
+- He has never used tobacco.
+- EtOH: 1-2 beers/wk.
+FH: Father - AAA repair.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 128/79  HR: 69  RR: 16  Temp: 97.9 F  SpO2: 98% on RA  Wt: 188 lbs  BMI: 25.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Benign
+  Ext: Trace bilateral ankle edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (06/22/2025): LDL 137, Cr 1.24, K 4.0, Hgb 15.3
+
+ASSESSMENT/PLAN:
+1. Chronic systolic heart failure: Weight stable. Continue diuretic.
+2. GERD: Trial PPI step-down.
+3. Osteoarthritis: Continue PRN analgesics; home exercises.
+
+RTC 1 month.
+
+Farah Siddiqui, MD

@@ -1,0 +1,38 @@
+NEW PATIENT VISIT - Establish Care, Primary Care
+Date of Service: 11/04/2025
+Author: Laura Castellano, FNP-C
+
+Patient: Frank Thomas, M, DOB 5/31/1948 (age 77)
+
+CC: Establish care, med refills.
+
+HPI: 77 y/o male here to establish w/ new PCP after prior doc retired. Hx T2DM and GERD. Says sugars 'ok-ish', doesnt check often. Denies chest pain, SOB. C/o occasional heartburn at night, worse lying down after meals. Pt speech slightly rapid, dictation picked up some [inaudible] segments during review of meds - clarified verbally.
+
+PAST MEDICAL HISTORY: Type 2 diabetes mellitus, GERD.
+
+COPIED FROM NOTE DATED 12/4/2022 (prior clinic, per records received): "Smoking status: current smoker." - no further detail available from that note.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Vaping/e-cig: Occasional use reported
+Smokeless tobacco: Not on file
+Alcohol use: None - quit drinking in 2004
+Drug use: Not on file
+Occupation: Retired
+Living situation: 
+Exercise: 
+
+ROS: Constitutional - denies fever, chills, wt loss. Eyes - no change vision. ENT - denies. Cardiovascular - denies chest pain palpitations edema. Respiratory - denies cough hemoptysis, admits occasional morning cough (chronic). GI - reports heartburn as above, denies nausea vomiting blood in stool. GU - denies dysuria. MSK - occasional knee ache. Neuro - denies weakness numbness. Psych - denies depression anxiety. Skin - denies rash. All other systems reviewed and negative.
+
+MEDICATIONS: Metformin 1000mg BID, Omeprazole 20mg daily, Atorvastatin 40mg qhs, Lisinopril 10mg daily, Aspirin 81mg daily, Multivitamin daily, occasional Tums prn.
+
+PHYSICAL EXAM: Vitals - BP 138/82, HR 76, RR 16, T 98.2F, Wt 190lb. General - well nourished, NAD, alert. HEENT - PERRL, EOMI, oropharynx clear, no thrush. Neck - supple no LAD no thyromegaly. Lungs - clear to auscultation bilaterally, no wheeze rales rhonchi, mild decrease breath sounds bases. Cardiac - RRR no m/r/g. Abd - soft nontender nondistended, +BS. Extrem - no edema, pulses 2+. Skin - no lesions. Neuro - grossly intact.
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - continue metformin, order A1c, CMP, lipid panel. Counsel diet/exercise.
+2. GERD - continue omeprazole, counsel on avoiding late meals, elevate head of bed.
+3. Tobacco use disorder - patient currently smokes cigarettes; 105 pack-year smoking history noted in chart. Counseled strongly to quit, offered pharmacotherapy options (varenicline, nicotine patch), pt states will 'think about it'. Also vapes occasionally per pt report, discussed risks of dual use. Lung cancer screening discussed generally as a topic to revisit at future visit. Return visit in 3 months or sooner if issues arise.
+4. Health maintenance - due for colonoscopy screening, will schedule. Immunizations updated today per protocol.
+
+Pt verbalized understanding of plan, all questions answered, follow-up scheduled.

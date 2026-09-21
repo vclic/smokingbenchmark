@@ -1,0 +1,44 @@
+GERIATRICS PROGRESS NOTE
+DOS: 03/10/2026
+Author: Steven Park, MD (NP progress note)
+Patient: Luis Ross, M, DOB 03/10/1947, age 79
+
+CC: Geriatric assessment, f/u chronic conditions.
+
+PROBLEM LIST (ICD-10):
+- N40.0 BPH
+- I10 Essential hypertension
+- I73.9 Peripheral artery disease
+- M19.90 Osteoarthritis, unspecified site
+- Z87.891 Personal history of nicotine dependence (outdated - pt still active smoker, see below)
+- E78.5 Hyperlipidemia (old, last documented 2021, not addressed today)
+
+HPI: Pt here w/ daughter for annual geriatric assessment. Reports fair energy, some AM stiffness in knees c/w OA. No new falls. Ambulates c cane. PAD sx stable, denies rest pain, claudication distance unchanged. Voiding: nocturia x2, no acute urinary retention sx.
+
+***Copied forward from visit 08/14/2023***
+Pt seen for f/u HTN and PAD. BP 138/82. Denies chest pain, SOB. Continues on lisinopril, cilostazol. Feet exam WNL, pulses diminished bilat DP/PT but palpable. Discussed exercise program for claudication. Pt agreeable to walking program. Will recheck lipids at next visit. RTC 3 months.
+***End copied text***
+
+SOCIAL HX: Lives with spouse. Retired mechanic. Tobacco: pt smokes 10 cigarettes per day, has done so for 39 years. States he is not ready to quit at this time despite ongoing counseling. Denies illicit drug use. Occasional ETOH.
+
+ROS: Otherwise negative except as above. No hemoptysis, no unintentional weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 142/84, HR 76, RR 16, T 98.2F, wt 178 lb.
+Gen: NAD, appears stated age.
+CV: RRR, no m/r/g.
+Resp: CTAB.
+Ext: PAD changes noted - decreased hair growth b/l LE, pulses 1+ DP/PT bilat, no ulcers.
+MSK: crepitus b/l knees, no effusion, ROM limited by pain.
+GU: prostate not examined today, prior exam benign per urology note.
+
+ASSESSMENT/PLAN:
+1. HTN - stable on current regimen, cont lisinopril, recheck BP next visit.
+2. PAD - stable, cont cilostazol, encourage walking program, f/u vascular surgery annual.
+3. BPH - stable on tamsulosin, monitor nocturia.
+4. OA knees - cont acetaminophen PRN, consider PT referral.
+5. Tobacco use - discussed lung cancer screening in general terms; pt continues to smoke, not ready to quit today; will readdress at future visits, offered cessation resources/counseling which pt declined.
+
+RTC 6 months or sooner if needed.
+
+/s/ Steven Park, MD

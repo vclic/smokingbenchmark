@@ -1,0 +1,79 @@
+General Medicine Clinic Clinic Note
+
+Patient: BENNETT, Brenda    MRN: 77480254
+DOB: 09/06/1968    Age: 54 y.o.    Sex: Female
+Date of Service: 04/10/2023    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Brenda Bennett is a 54 y.o. female who presents for diabetes follow-up.
+Most recent A1c 7.5% (previously 7.5% in December 2022). Rarely checks glucose at home. Former smoker (4 pack-years); she quit in July 2005. No hypoglycemic episodes. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• T2DM without complication
+• GERD
+• Hypertension
+• Former smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumpectomy, benign
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• omeprazole 20 mg daily
+• sitagliptin 100 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Widowed; lives with son.
+  Works as a bus driver.
+  No alcohol.
+  No IVDU.
+
+Family History
+No family hx of colon cancer.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 135/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 60 | Temp 97.6 °F (Oral) | Resp 16 | Ht 5' 1" | Wt 150 lb | SpO2 96% | BMI 28.33 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 7.5% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. GERD
+   Symptoms controlled.
+3. Hypertension
+   BP at goal; continue current regimen.
+
+RTC 3 months.
+
+Electronically signed by Daniel Reyes, MD on 04/10/2023

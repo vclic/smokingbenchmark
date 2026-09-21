@@ -1,0 +1,42 @@
+PROGRESS NOTE
+Date of Service: 08-Aug-2024
+Patient: Diane Brooks   DOB: 11/1/1958   MRN: 93795918
+
+S:
+CC: Lung nodule
+HPI: 65F w/ T2DM, obesity, HLD here for follow-up of a pulmonary nodule. Incidental 6 mm part-solid RLL nodule on CT 11/8/2023 (CT abdomen, lung bases). Asymptomatic.
+
+PMH: HLD, obesity, T2DM, Tobacco use disorder
+Meds: sitagliptin 100 mg daily; multivitamin daily; pravastatin 40 mg nightly
+Allergies: Sulfa drugs
+SH: Lives alone in an apartment. Smoker - current. EtOH: 1-2 beers/wk. No IVDU.
+FH: Father - AAA repair. Mother - rheumatoid arthritis.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 120/79  HR: 104  RR: 12  Temp: 97.6 F  SpO2: 100% on RA  Wt: 237 lbs  BMI: 37.2
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+A/P:
+1. Pulmonary nodule: High-risk per Fleischner given smoking history. Repeat CT chest in 6 months.
+2. Current somker: Discussed cessation (8 min). Not ready to quit at this time. Rx bupropion SR 150 mg daily x3d then BID. LDCT for lung cancer screening ordered after SDM.
+
+RTC 3 months.
+
+Elena Markovic, MD

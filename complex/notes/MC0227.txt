@@ -1,0 +1,32 @@
+GERIATRICS CONSULT / LETTER TO REFERRING PHYSICIAN
+Pt: Karen Lopez, F, DOB 5/7/1957 (age 67)
+DOS: 05/07/2024
+Author: Farah Siddiqui, MD
+
+Dear Dr. referring physician, thank u for referral of this pleasant 67 yo woman for geriatric assessment, seen today 5/7/2024, her actual birthday - she notes she is now officially 67.
+
+HPI: Pt c/o mild fatigue, some joint achiness (h/o gout), and generalized slowing. She lives alone, daughter helps c meds. HTN denied, HLD present, CKD stage 3 followed by nephro. Denies chest pain, denies SOB, denies [inaudible] episodes of dizziness that daughter describes as more like unsteadiness when she stands up quick, and she says it's been going on for a coupla months now not really sure.
+
+PMH: hyperlipidemia, CKD stage 3, obesity, gout, depression.
+Meds: statin, allopurinol, sertraline, others per PCP list.
+
+SOCIAL HX: Lives independently, prior office worker, now retired. Smoking status: Never Smoker [NOTE: this templated EHR field is INCORRECT and does not reflect actual hx - see below]. Occasional EtOH, denies illicit drug use. Has supportive family nearby.
+
+EXAM: Vitals stable, BP 128/76, HR 72, wt reflecting obesity, gen appearance well-nourished, alert, oriented x3. Gait slightly slow but steady with use of cane. Heart RRR no m/r/g. Lungs CTAB. Abd soft NT/ND. Ext no edema, mild tophi noted at 1st MTP consistent c gout hx.
+
+LABS reviewed: Cr stable at baseline per CKD stage 3, lipid panel pending, A1c wnl.
+
+ASSESSMENT/PLAN:
+1. Geriatric assessment - overall pt doing reasonably well, some fall risk given unsteadiness noted above, will refer to PT for gait/balance eval.
+2. Tobacco history - correcting inaccurate template above: pt actually has significant smoking hx. She started smoking 1 pack per day at age 15 and continued at that rate until she quit in 2008. She currently does not smoke and has not smoked since her 51st birthday. Counseled on continued abstinence, congratulated on quitting; lung cancer screening was discussed in general terms with pt.
+3. Hyperlipidemia - continue statin, f/u lipids.
+4. CKD stage 3 - stable, continue nephro f/u.
+5. Obesity - discussed diet/exercise as tolerated given joint issues.
+6. Gout - continue allopurinol, f/u rheum prn.
+7. Depression - continue sertraline, screen today PHQ-9 stable/improved from prior.
+
+Will see back in 6 mo or sooner prn. Thank u again for this interesting referral.
+
+-- Farah Siddiqui, MD
+
+ADDENDUM (later same day): Spoke further w/ pt's daughter by phone after visit, she confirms mother's report of smoking hx as above and denies any current use, reassures pt has been consistent on this since quitting; no further changes to plan. Also clarifying the EHR "Never Smoker" field will be updated to reflect former smoker status accurately.

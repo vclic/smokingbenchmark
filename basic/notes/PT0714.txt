@@ -1,0 +1,45 @@
+Family Medicine Clinic Note
+Date of Service: 2024-10-23
+Patient: Frank Lewis   DOB: 8/19/1971   MRN: 16451451
+
+SUBJECTIVE:
+CC: 3 month follow-up
+HPI: Mr. Lewis is a 53-year-old male with a history of PAD, depression, OA, and CAD who presents for routine follow-up of chronic conditions. No new concerns. Ran out of one medication last week. He is a current smoker and smokes one and a half packs daily and has done so for 37 years.
+
+PMH: Osteoarthritis of knees (dx 2017), ASCVD, HTN, Major depressive disorder, recurrent, in remission (dx 2017), Hyperlipidemia, PAD
+Meds: pravastatin 40 mg nightly; clopidogrel 75 mg daily; aspirin 81 mg daily; escitalopram 10 mg daily; losartan 50 mg daily; acetaminophen 500 mg 2 tabs TID PRN
+Allergies: Sulfa drugs
+SH: Divorced, lives alone. Works as a teacher. Prior quit attempt 2018 (lasted ~3 yr), relapsed. Drinks a glass of wine with dinner. Denies illicit drugs.
+FH: Brother - T2DM.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 123/94  HR: 74  RR: 16  Temp: 98.3 F  SpO2: 100% on RA  Wt: 186 lbs  BMI: 27.5
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: Clear, good air movement
+  Abd: Soft, NT/ND, +BS
+  Ext: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (10/19/24): LDL 81, Cr 1.02, K 4.6, Hgb 13.5
+
+A/P:
+1. Hyperlipidemia: Tolerating statin; recheck lipids in 1 yr.
+2. PAD: Stable claudication distance.
+3. Osteoarthritis of knees: Continue PRN analgesics; home exercises.
+4. Nicotine dependence, cigarettes, uncomplicated (F17.210): Advised to quit; >5 min spent counseling. He is in the precontemplation stage. Declines pharmacotherapy. LDCT for lung cancer screening ordered after SDM.
+
+Return in about 3 months (around 1/23/2025).
+
+Laura Castellano, FNP-C

@@ -1,0 +1,43 @@
+Pulmonology H&P - Shared Decision-Making Visit for Lung Cancer Screening
+Patient: Cheryl Lewis DOB 8/8/1966 (age 59)
+Date of service: 08/08/2025
+Author: Anita Patel MD
+
+CC: referral for LCS shared decision-making discussion
+
+HPI: Pt is a 59 y.o. female w hx a fib and gout presenting for discusion re lung cancer screening SDM visit, sent by PCP after routine chest xray incidentaly noted a small nodule per pt report she brought disk but images not loaded yet in system will review at next visit. Pt states "I don't smoke, never have, not even once" and denies any tobacco use of any kind throughout her life, no cigars no vaping no chew. She reports she is a lifelong non smoker. Pt denies cough hemoptysis wt loss or dyspnea at rest, does note occassional exertional SOB which she attribues to her a fib, currently rate controlled on metoprolol per cardiology. She also carries dx of gout, last flare approx 6 mo ago, managed w allopurinol, denies acute joint pain today.
+
+Social hx: pt reports she quit drinking alcohol in 2004 and has remained abstinent since, she says "I haven't had a drink in over twenty years, best decision I ever made" - denies any current or past illicit drug use. Lives w husband, retired schoolteacher, walks daily for exercise [inaudible] says she does about thirty minutes most days when weather permits.
+
+ROS: otherwise negative except as above, no fevers chills night sweats, no palpitations today, appetite good, sleep fair.
+
+PMH: atrial fibrillation (on anticoagulation, see meds), gout
+PSH: cholecystectomy remote year uncertain
+Meds: metoprolol succinate, apixaban, allopurinol, colchicine PRN
+Allergies: NKDA
+Family hx: mother w breast ca, father w CAD, no known lung ca in family per pt
+
+Social: retired, lives with spouse, denies occupational exposure to asbestos or other known carcinogens, home is a single family house no wood burning stove.
+
+Physical Exam:
+Vitals: BP 128/78 HR 72 irreg irreg (known a fib) RR 16 Temp 98.2 SpO2 98% RA Wt stable
+Gen: well appearing NAD alert oriented x3
+HEENT: PERRL, oropharynx clear, no lymphadenopathy cervical or supraclavicular
+CV: irregularly irregular rhythm no murmur
+Resp: clear to auscultation bilat, no wheeze rales or rhonchi, good air movement
+Abd: soft nontender nondistended
+Ext: no clubbing cyanosis or edema, no active gouty tophi noted today
+Skin: no concerning lesions
+
+Assessment/Plan:
+59 y.o. female referred for lung cancer screening SDM visit in setting of incidental nodule found on prior imaging. Reviewed risks and benefits of low dose CT screening in detail with patient including false positives, overdiagnosis, radiation exposure and downstream biopsy risk versus potential benefit of early detection discussed at length, pt asked several question re what would happen if nodule grows will address at f/u. Screening options discussed with patient today, decision making shared, pt to think it over and follow up.
+1. Pulmonary nodule - await prior imaging upload for direct comparison, will obtain records from outside facility, recommend repeat dedicated CT chest for characterization once records available, no biopsy indicated at this time.
+2. Non-smoking status - patient reports lifelong non-smoker, this is documented for risk stratification purposes though does not preclude further nodule workup given incidental finding.
+3. Atrial fibrillation - stable, rate controlled, continue metoprolol and apixaban, defer to cardiology for further management, will coordinate given planned imaging and any procedural considerations.
+4. Gout - stable on current regimen, continue allopurinol and colchicine PRN, no acute flare today.
+5. Alcohol history - notable for longstanding abstinence since 2004 per patient report, no current use, reinforced healthy lifestyle choices.
+6. Return to clinic after outside imaging obtained and reviewed, sooner if new symptoms develop such as hemoptysis, unexplained weight loss, or worsening dyspnea.
+
+Time spent in visit largely counseling and coordination of care given complexity of shared decision making discussion, total face to face time approx 35 minutes.
+
+Electronically signed: Anita Patel, MD - Pulmonology - 08/08/2025

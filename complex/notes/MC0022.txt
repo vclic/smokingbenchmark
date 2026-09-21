@@ -1,0 +1,34 @@
+CARDIOLOGY RESIDENT NOTE - DOS: 10/27/2025
+Author: Julia Brennan, MD (resident); attending attestation appended below
+
+PT: Harold Wright, M, DOB 09/29/1974 (age 51)
+
+CC: chest pain eval
+
+HPI: 51 yo M w/ hx HFrEF, afib, CKD3, osteoporosis, BPH, OA presents for f/u eval of intermittent chest pain x several days. Pt states "it feels like a pressure right in the middle, comes and goes, worse when I climb stairs." Denies radiaton to jaw/arm today though has had this b4. No assoc diaphoresis per pt, some SOB w exertion noted, [inaudible] re: timing of episodes this AM. Pt reports compliance w meds, denies missed doses of anticoagulation. No recent weight gain, mild ankle edema chronic per pt.
+
+ROS: otherwise negative except as above, denies fever chills n/v
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Never smoker - lifelong non-smoker per pt report
+Smokeless tobacco: Not on file
+Alcohol use: Pt quit drinking alcohol in 2020, denies current use
+Other substances: Occasional marijuana use, pt reports smokes marijuana occasionally, denies daily use
+Occupation: ___
+Living situation: Not on file
+
+PMH: HFrEF, osteoporosis, BPH, afib (on anticoag), CKD stage 3, OA
+
+Meds: metoprolol succ, apixaban, furosemide, alendronate, tamsulosin, atorvastatin (pt unsure of exact doses, will reconcile)
+
+PE: Vitals - BP 138/84, HR 78 irreg irreg, RR 16, SpO2 97% RA, wt stable per flowsheet. Gen: NAD, comfortable. CV: irregularly irregular rhythm, no murmurs appreciated, JVP mildly elevated ~8cm. Lungs: CTAB no crackles. Ext: trace bilat ankle edema. no acute distress otherwise.
+
+Labs reviewed: BMP shows Cr consistent w known CKD3, K wnl, BNP mildly elevated from baseline per prior. Trop pending at this time.
+
+EKG: afib rate controlled, no acute ST changes, unchanged from prior on file.
+
+A/P: 51 yo M w/ HFrEF, afib, CKD3 presenting w chest pain, likely demand-related given exertional pattern vs early ACS not fully excluded - will trend troponins, cont tele monitoring. Lung ca screening was discussed w pt today as part of general preventive care conversation, no imaging ordered at this visit related to that discussion. Continue current cardiac regimen, holdparameters reviewed for metoprolol given HR. F/u CKD mgmt w nephro as scheduled. Osteoporosis - continue alendronate, ortho aware. BPH stable on tamsulosin sx wise. Return precautions given, pt verbalizes understanding.
+
+Plan: trend trops, repeat EKG in AM, cont home meds, f/u in clinic 2 wks or sooner if sx worsen.
+
+Attestation: I have personally examined the patient and reviewed/discussed this note with Dr. Brennan; agree w assessment and plan as above. - Attending Cardiology

@@ -1,0 +1,46 @@
+Progress Note - Primary Care Follow-up (Post-Hospitalization)
+Date of Service: 03/21/2026
+Author: Anita Patel, MD
+
+Patient: Wayne Price, M, DOB 03/21/1962 (age 64)
+
+CC: F/u after recent hospital admission for pneumonia.
+
+HPI: Mr Price is a 64 y.o. male seen today for follow up after discharge from Memorial Hospital where he was tx'd for community-acquired pneumonia. He states "I feel a lot better than I did last week, still get winded going up the stairs though." Denies fever, chills, chest pain currently. Cough improving, productive of small amounts of clear sputum. He reports adherence to the completion of his antibiotic course (amoxicillin-clavulanate) and states he has been using his rescue inhaler more frequently than usual, maybe 2-3x/day, since discharge. No hemoptysis, no SOB at rest. Wife accompanies him today and confirms he has been resting appropriately at home.
+
+Social Hx: Never smoker - patient has never used tobacco in any form, no vaping history reported. Denies alcohol or recreational drug use.
+
+[Copied forward from visit 11/14/2025 - endocrinology/PCP combined note, left in chart by prior transcription error, retained here for continuity per office policy]:
+"...patient continues on metformin 1000mg BID and levothyroxine 88mcg daily for hypothyroidism, TSH last checked was within normal limits, A1c trending down from prior visit now at [inaudible] percent, patient reports improved dietary compliance although still struggling with weight loss goals given sedentary job, discussed increasing physical activity as tolerated, will recheck lipid panel and renal function at next visit, patient also endorses occasional nocturnal wheezing related too his asthma, using albuterol PRN maybe once a week at that time, continues on fluticasone inhaler daily, no ED visits since last seen, follow up in 3 months or sooner if needed..."
+
+[End copied text]
+
+ROS: Otherwise negative except as noted in HPI. Denies weight loss, night sweats, hemoptysis.
+
+PMH/Problem List:
+1. J45.909 - Asthma, unspecified, uncomplicated
+2. E11.9 - Type 2 diabetes mellitus without complications
+3. E66.9 - Obesity, unspecified (BMI last documented 33.4, outdated - needs updating)
+4. E03.9 - Hypothyroidism, unspecified
+5. J18.9 - Pneumonia, organism unspecified (recent hospitalization, resolving)
+6. I10 - Essential hypertension (this appears on old problem list, unclear if still active, pt denies HTN diagnosis today, will verify with prior records)
+
+Meds: Metformin 1000mg BID, Levothyroxine 88mcg daily, Fluticasone inhaler daily, Albuterol PRN, recently completed amoxicillin-clavulanate course.
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 82, RR 16, Temp 98.2F, SpO2 96% on room air, Wt 224 lb
+
+Physical Exam: General - well-appearing male, no acute distress. Lungs - mild expiratory wheeze bilaterally, no crackles or rhonchi appreciated, air movement adequate. CV - RRR, no m/r/g. Abd - soft, nontender, obese habitus. Ext - no edema.
+
+Assessment/Plan:
+1. Pneumonia, resolving - clinically improved, will not repeat CXR unless symptoms worsen or fail to continue improving.
+2. Asthma - slight increase in rescue inhaler use post-pneumonia, likely reactive airway component, will continue current regimen and reassess in 2 weeks, discussed proper inhaler technique.
+3. Type 2 diabetes - continue metformin, recheck A1c at next visit.
+4. Obesity - discussed diet and exercise as tolerated, reviewed nutrition referral options.
+5. Hypothyroidism - continue levothyroxine, recheck TSH in 6 months.
+6. Health maintenance - immunization status reviewed, pneumococcal vaccine status confirmed up to date, discussed general lung health given recent pneumonia hospitalization, discussed screening options in general terms appropriate for age, no specific imaging ordered today.
+
+F/u in 2 weeks or sooner if symptoms worsen.
+
+Anita Patel, MD

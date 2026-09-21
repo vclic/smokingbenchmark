@@ -1,0 +1,68 @@
+PULMONOLOGY CLINIC - HISTORY AND PHYSICAL
+Date of Service: 03/31/2023
+Author: Catherine Lindqvist, DO
+
+Patient: Terrence Barnes | M | DOB: 03/31/1952 | Age: 71
+
+CC: Follow-up s/p COPD exacerbation, recent ED visit
+
+HPI: Mr Barnes is a 71 yo male seen today in f/u after an ED visit last wk for acute COPD exacerbation, treated w/ prednisone taper and albuterol nebs, now improved. He reports mild residual dyspnea on exertion but denies fever chills chest pain. He has a hx of asthma and COPD overlap. Cough productive of clear sputum, no hemoptysis. He states he feels back to his baseline activity level, ambulates around the house w/o significant SOB.
+
+Smoking hx: Patient has a long-standing smoking history. He smoked approximately half a pack (about 10 cigarettes) per day for 28 years, then cut back to about 5 cigarettes per day for the following 16 years before ultimately quitting entirely. He is now a former smoker. Notably he quit smoking 5 years after his wife passed away, which occurred in 2008. He denies any current tobacco use, denies vaping or e-cigarettes. No illicit drug use reported. Occasional alcohol, denies excess.
+
+PMH: Hyperlipidemia, coronary artery disease s/p stent (per pt, records pending), heart failure with reduced ejection fraction, asthma.
+
+PSH: none significant per pt.
+
+Meds: atorvastatin 40mg qhs, aspirin 81mg daily, metoprolol succinate 50mg daily, lisinopril 10mg daily, furosemide 20mg daily prn, albuterol MDI prn, fluticasone/salmeterol inhaler BID.
+
+Allergies: NKDA
+
+Social Hx: Widowed, lives alone, daughter checks in weekly. Retired machinist. Former smoker as above. No current alcohol or drug use of note.
+
+Family Hx: Father - MI at 60s, mother - unknown cause of death.
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - chronic cough, mild dyspnea on exertion, denies hemoptysis. CV - denies chest pain, orthopnea improved w diuretic. GI - unremarkable. All other systems reviewed and negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 18, Temp 98.2F, SpO2 94% on room air, Wt 182 lb
+Gen: NAD, well-appearing elderly male in no acute distress
+HEENT: PERRLA, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+Lungs: mild expiratory wheeze bilat bases, no crackles, decreased breath sounds at bases
+CV: RRR, S1 S2 nl, no murmur appreciated, no S3/S4 today
+Abd: soft nontender nondistended, +BS
+Ext: trace bilateral ankle edema, no cyanosis or clubbing
+Neuro: alert oriented x3, no focal deficits
+
+Labs/Results:
+03/24/2023 CBC: WBC 9.8, Hgb 13.9, Hct 41.2, Plt 233
+03/24/2023 BMP: Na 138, K 4.1, Cl 101, CO2 25, BUN 22, Cr 1.1, Glucose 104
+03/24/2023 BNP: 410 (elevated, baseline per chart ~350)
+03/24/2023 CXR: hyperinflation, no acute infiltrate, stable cardiomegaly
+03/15/2023 Lipid panel: TC 168, LDL 92, HDL 44, TG 160
+PFTs (from 2021, on file): FEV1/FVC ratio reduced consistent w obstructive pattern, moderate severity
+
+Problem List:
+J44.9 - Chronic obstructive pulmonary disease, unspecified
+J45.909 - Asthma, unspecified, uncomplicated
+I25.10 - Atherosclerotic heart disease of native coronary artery w/o angina
+I50.22 - Chronic systolic (congestive) heart failure
+E78.5 - Hyperlipidemia
+Z87.891 - Personal history of nicotine dependence
+I10 - Essential hypertension (outdated, not currently active per pt report, retained on list)
+M17.9 - Osteoarthritis of knee, unspecified (outdated, from old encounter, no current complaints)
+
+Assessment: 71 yo male former smoker with COPD/asthma overlap, CAD, and HFrEF presenting for f/u after recent exacerbation, currently improved on steroid taper. Lung fields improved on exam though still w mild wheeze. BNP mildly elevated above his baseline, likely contributory to recent presentation, will optimize diuresis.
+
+Plan:
+1. Continue current inhaler regimen, complete steroid taper as prescribed
+2. Pulmonary rehab referral to be discussed
+3. Increase furosemide slightly given trace edema and BNP trend, recheck BMP in 1-2 wks
+4. Continue statin, ASA, beta blocker, ACEI as above
+5. Counseled again on avoidance of any tobacco/smoke exposure given hx, reinforced importance of continued abstinence
+6. Lung cancer screening discussed with patient, will revisit at future visit
+7. Follow up in pulm clinic in 4-6 wks, sooner if worsening symptoms
+8. Pt educated on when to seek ED care - worsening dyspnea, chest pain, syncope
+
+Electronically signed: Catherine Lindqvist, DO

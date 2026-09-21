@@ -1,0 +1,41 @@
+Pulmonology Progress Note
+Patient: Harold Lewis | DOB: 4/10/1965 | Age: 60
+Date of Service: 06/16/2025
+Author: Nadia Haddad, MD (NP visit, co-signed)
+
+CC: COPD follow-up.
+
+HPI: Mr. Lewis is a 60-year-old male with history of COPD, CAD, HFrEF, T2DM, and osteoarthritis who returns today for routine follow-up of his lung disease. He reports his breathing has been 'about the same, maybe a little worse when it's humid out,' he denies fevers or chills, he has had some increased knee pain related to his osteoarthritis which he attributes to the weather and he says his sugars have been running in the low 100s to 130s per home glucometer readings which he brings in on a sheet of paper that is [inaudible] partly smudged. He notes he did try to quit smoking a while back — quit around 2012 — but he relapsed in 2014 and has been smoking since then, he says he knows he should try again and is 'thinking about it.' No hemoptysis, no unintentional weight loss, no orthopnea or PND currently, though he did have a CHF exacerbation last winter requiring diuretic adjustment.
+
+PMH: COPD, HFrEF, CAD s/p prior stent, T2DM, osteoarthritis (bilateral knees).
+
+Social History: Tobacco use as above; relapsed to smoking in 2014 after a prior quit attempt in 2012. Denies illicit drug use. Rare alcohol, maybe a beer on weekends he says, though he's not always consistent with reporting this.
+
+Tobacco Use (EHR Template):
+ Smoking status: Current every day smoker
+ Type: Cigarettes
+ Amount: 8 cigarettes/day
+ Duration: 39 years
+ Quit interest: Yes, contemplative
+
+Medications: Tiotropium inhaler, albuterol PRN, metformin, empagliflozin, carvedilol, lisinopril, atorvastatin, aspirin.
+
+ROS: Otherwise negative except as noted above, positive for occasional dyspnea on exertion, denies chest pain today.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 94% RA, Wt stable.
+General: NAD, comfortable.
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use.
+CV: RRR, no S3 appreciated today, trace pedal edema.
+Ext: No clubbing, mild knee crepitus bilaterally.
+
+Assessment/Plan:
+1. COPD - stable on current regimen, continue tiotropium and albuterol PRN, reviewed inhaler technique. Continued cigarette smoking is a major contributor to disease progression; counseled extensively on cessation today, discussed nicotine replacement options and referral to tobacco quitline, patient agreeable to think it over. Lung cancer screening was discussed in general terms as part of routine health maintenance conversation.
+2. HFrEF - euvolemic today, continue carvedilol/lisinopril, will recheck BNP at next visit.
+3. CAD - continue aspirin/atorvastatin, no anginal symptoms.
+4. T2DM - reasonable control per home readings, continue current regimen, follow with PCP for A1c.
+5. Osteoarthritis - conservative management, consider PT referral if worsening.
+RTC in 3 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (same day, later): Patient called back after visit to clarify that he did in fact stop smoking for a period around 2012 before restarting in 2014; this has been added to the social history above for clarity. No other changes to plan. -Nadia Haddad, MD

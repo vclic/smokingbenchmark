@@ -1,0 +1,61 @@
+HISTORY AND PHYSICAL - Geriatrics
+Patient: Kathleen Simmons, F, DOB 3/10/1947 (age 76)
+Date of Service: 07/20/2023
+Author: Priya Raman, MD
+
+=== COPIED FORWARD FROM PRIOR VISIT (04/12/2022) - left in chart, not all current ===
+Geriatric assessment note 04/12/2022: Pt presents w/ daughter for f/u. Gout flares intermittent, last flare knee ~2 mos ago, on allopurinol. Hyperlipidemia stable on statin. Denies chest pain, SOB. Appetite fair. Sleep fragmented. Gait steady w/ cane. MOCA 26/30. Meds reconciled. Vision - cataracts f/u w/ ophtho. Hearing aids bilat, functioning. Continues to live alone, daughter checks in daily. No falls since last visit. Plan: cont current meds, f/u 3 mo, labs (BMP, uric acid, lipid panel) prior to next visit.
+=== END COPIED TEXT ===
+
+HPI (current, 07/20/2023):
+76 yo F here today for annual geriatric assessment. Kathleen Simmons DOB 3/10/1947, brought in by daughter again. Overall doing reasonably well since last seen. Gout - no flares x several months, tolerating allopurinol fine. Hyperlipidemia - no new sx, no chest pain/palpitations. Some mild fatigue, otherwise ROS negative. Denies falls, denies new memory concerns per pt and daughter. Appetite improved from prior note.
+
+Social Hx:
+Lives alone in single-story home, daughter nearby and assists w/ groceries/appts. Retired schoolteacher. Never married - widowed 15 yrs ago. Non-drinker. Never smoker - lifelong non-smoker, confirmed again today. No illicit drug use. Independent w/ ADLs, needs some help w/ IADLs (driving at night d/c'd 2 yrs ago).
+
+PMH/Problem List (ICD-10):
+- Gout (M10.9) - active, on allopurinol
+- Hyperlipidemia (E78.5) - active, on statin
+- Cataracts (H25.9) - outdated entry, s/p surgery per daughter, needs updating
+- GERD (K21.9) - outdated, pt states resolved yrs ago, no longer takes PPI
+- Osteoarthritis (M19.90) - active, knees
+
+Medications:
+- Allopurinol 300mg daily
+- Atorvastatin 20mg qhs
+- Calcium/vit D supplement
+- Occasional acetaminophen for OA pain
+
+Allergies: NKDA
+
+Family Hx: Father - MI age 70s. Mother - no significant hx known. One sibling, brother, alive, hx of gout as well.
+
+Physical Exam:
+Vitals: BP 132/76, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Wt 148 lb, Ht 5'3"
+General: Well-appearing elderly female, NAD, appropriately groomed.
+HEENT: PERRLA, EOMI, mild lens opacity noted (known cataract hx). Oropharynx clear.
+Neck: Supple, no LAD, no thyromegaly.
+CV: RRR, no m/r/g.
+Resp: Clear to auscultation bilaterally, no wheezes/crackles.
+Abd: Soft, NT/ND, +BS.
+Ext: 1st MTP joints without acute swelling today, mild bony changes c/w chronic gout/OA. No edema.
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady with cane, no focal deficits.
+Skin: Thin, no lesions.
+
+Cognitive screen: Mini-Cog performed today, patient scored well, no significant decline noted from prior MOCA documented in 2022 note above.
+
+Labs reviewed (from recent draw): Uric acid within target range on current allopurinol dose. Lipid panel improved from prior, LDL at goal.
+
+Assessment/Plan:
+1. Gout (M10.9) - well controlled, continue allopurinol 300mg daily, recheck uric acid in 6 mo.
+2. Hyperlipidemia (E78.5) - controlled on atorvastatin, continue current dose, repeat lipid panel in 6-12 mo.
+3. Health maintenance / geriatric assessment - age 76, functional status reviewed, independent w/ ADLs, some IADL assistance from daughter. Fall risk low today. Immunizations reviewed and updated as needed (pneumococcal, shingles, influenza discussed).
+4. Social history - lifelong non-smoker as noted above; no tobacco cessation counseling needed given never-smoker status. Alcohol use - none. 
+5. Cataracts (H25.9) - problem list entry outdated per today's discussion with patient and daughter; will update chart, pt reports surgery already completed, no current visual complaints.
+6. GERD (K21.9) - outdated, resolved per pt, will remove from active problem list.
+7. Osteoarthritis (M19.90) - stable, using acetaminophen PRN, discussed activity modification and PT referral if worsens.
+8. Cognitive status - grossly intact today, will continue routine monitoring at future visits.
+
+Return to clinic in 6 months or sooner if new concerns. Daughter given clinic contact info. All questions answered today. Total visit time approx 45 minutes including counseling and coordination of care.
+
+Electronically signed: Priya Raman, MD, Geriatrics, 07/20/2023.

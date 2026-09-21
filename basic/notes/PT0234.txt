@@ -1,0 +1,86 @@
+Pulmonology Office Visit
+
+Patient: TAYLOR, Darnell    MRN: 98215866
+DOB: 03/21/1968    Age: 57 y.o.    Sex: Male
+Date of Service: 08/27/2025    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• SOB
+
+Subjective:
+Darnell Taylor is a 57 y.o. male who presents for follow-up of COPD.
+Baseline dyspnea after walking 1-2 blocks. 1 exacerbation in the past year, most recently in May treated with prednisone and azithromycin. Rarely needs albuterol. Cough productive of white sputum.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic obstructive pulmonary disease	2022
+• Hypertension
+• Generalized anxiety disorder
+• ASCVD
+• T2DM without complication
+• GERD	2023
+• OSA
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release
+• Left inguinal hernia repair (2010)
+• Rotator cuff repair
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 10 mg daily
+• famotidine 20 mg BID
+• bupropion XL 150 mg daily
+• metformin 1000 mg BID
+• albuterol HFA 2 puffs q4-6h PRN
+• umeclidinium-vilanterol 62.5/25 1 inh daily
+• aspirin 81 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Social History Narrative
+  Married, lives with wife.
+  Works as an electrician.
+  No alcohol.
+  No IVDU.
+  Sedentary.
+
+Family History
+Mother - breast cancer at 70.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 125/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 100 | Temp 97.6 °F (Oral) | Resp 16 | Ht 6' 1" | Wt 182 lb | SpO2 92% | BMI 23.98 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (7/25/2025): A1c 8.0%, LDL 110, Cr 0.75, K 4.3
+
+Assessment & Plan
+1. COPD
+   Stable. Continue maintenance inhaler; rescue albuterol PRN. Pneumococcal and RSV vaccines reviewed.
+2. ASCVD
+   No angina. Continue current cardiac regimen.
+3. Current smoker
+   Pt continues to smoke, x39y. Counseled on cessation for 8 min. Ambivalent about quitting. Referred to quitline (1-800-QUIT-NOW).
+4. GERD
+   Symptoms controlled.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Catherine Lindqvist, DO on 08/27/2025

@@ -1,0 +1,53 @@
+CARDIOLOGY PROGRESS NOTE
+DOS: 02/20/2026
+Author: Isaac Moreno, PA-C
+
+PT: Mary Rodriguez, F, DOB 02/14/1950 (age 76)
+
+CC: chest pain eval
+
+HPI: 76 yo F w/ hx OA, gout, osteoporosis, COPD p/w intermittent CP x 2 wks. Pt states, "It feels like a tight band across my chest when I climb stairs." Denies radiation to arm, assoc'd w/ mild SOB. No N/V, no diaphoresis. States, "It goes away after I sit down for a few minutes." No prior cardiac hx. Reports meds compliance c allopurinol, alendronate, tiotropium inhaler.
+
+ROS: + occasional exertional dyspnea (baseline COPD), denies orthopnea, PND, LE edema. Denies palpitations, syncope. GI/GU neg. MSK: chronic joint pain c/w OA, stable.
+
+----- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 06/20/2024 -----
+PULM: Pt continues to endorse cough, occasional wheeze. Smoking status as of 06/20/2024: current smoker. Pt counseled extensively re: smoking cessation resources, offered nicotine patch/gum, declined at that time. Will continue to monitor COPD sx, consider PFTs if worsening. Gout well-controlled on allopurinol, uric acid last check WNL. Osteoporosis stable on alendronate, next DEXA due in 2 yrs.
+----- END COPIED SECTION -----
+
+PMH: OA, gout, osteoporosis, COPD
+PSH: none significant
+Meds: allopurinol, alendronate, tiotropium inhaler, PRN NSAIDs
+Allergies: NKDA
+
+Soc Hx: Lives alone, independent w/ ADLs. Denies EtOH, denies illicit drug use. Active smoker currently.
+
+Fam Hx: Mother - CAD, Father - unknown
+
+VITALS (02/20/2026): BP 138/84, HR 78, RR 16, T 36.7C, SpO2 94% RA, Wt 68 kg
+
+EXAM:
+Gen: NAD, comfortable at rest
+CV: RRR, no m/r/g, no JVD
+Resp: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+Ext: no edema, no clubbing/cyanosis
+MSK: mild crepitus b/l knees, no active synovitis
+
+LABS/RESULTS:
+- CBC (02/20/2026): WBC 7.2, Hgb 13.1, Plt 245
+- BMP (02/20/2026): Na 139, K 4.2, Cr 0.9, Glc 102
+- Troponin (02/20/2026, 0800): <0.01 ng/mL
+- Troponin (02/20/2026, 1100): <0.01 ng/mL
+- Lipid panel (02/15/2026): TC 198, LDL 118, HDL 52, TG 140
+- EKG (02/20/2026): NSR, no acute ST-T changes, no prior EKG avail for comparison
+- CXR (02/20/2026): hyperinflated lungs c/w COPD, no acute infiltrate
+
+ASSESSMENT/PLAN:
+1. Chest pain, atypical - low suspicion ACS given neg serial troponins and unremarkable EKG. Pt has 25 pack-year smoking history, which is a relevant cardiovascular risk factor along with age. Will obtain outpt stress echo to further risk stratify. Continue to monitor sx, return to ED if worsening/at rest pain.
+2. COPD - stable, continue tiotropium, reinforce inhaler technique. Active smoker; smoking cessation discussed again today, pt remains ambivalent but agreeable to consider counseling referral.
+3. Osteoarthritis - stable, continue PRN NSAIDs as tolerated given renal fxn WNL.
+4. Gout - well-controlled on allopurinol, no acute flare currently.
+5. Osteoporosis - continue alendronate, DEXA per prior schedule.
+
+Discussed overall CV risk reduction incl BP control, lipid mgmt, and lung health; general lung health topics discussed with pt today. F/u in cardiology clinic 4 wks or sooner if sx worsen.
+
+Electronically signed: Isaac Moreno, PA-C

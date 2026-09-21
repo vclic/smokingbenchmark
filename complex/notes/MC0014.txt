@@ -1,0 +1,75 @@
+GERIATRICS PROGRESS NOTE
+Patient: Samuel Sanchez (M) DOB 11/23/1947 Age 76
+DOS: 12/27/2023
+Author: Brian Okonkwo, MD
+
+CC: Geriatric assessment f/u, med recon, functional status review
+
+HPI:
+Pt is a 76 y/o M w/ h/o HTN, AFib, T2DM, CKD stage 3 presenting for routine geriatric assessment. Pt accompanied by daughter today, ambulates w/ cane. Pt states "I feel about the same, maybe a bit more tired in the afternoons." Denies CP, palpitations, SOB at rest. Reports occasional dizziness on standing, no falls since last visit. Daughter notes "he forgets to take his evening pills sometimes." Appetite fair, sleep fragmented 2/2 nocturia x2-3/night. No new GI sx, no melena/hematochezia. Pt denies depressive sx, PHQ-2 neg today.
+
+ROS: Cardiac - occ palpitations self-resolved, no syncope. Renal - stable, no edema change. Endo - reports home glucose readings 110-160 fasting. Musculoskeletal - chronic low back pain, stable on APAP prn. All other systems reviewed and neg except as noted above.
+
+PMH:
+- Hypertension
+- Atrial fibrillation (on anticoagulation)
+- Type 2 diabetes mellitus
+- CKD stage 3
+
+Meds (reviewed today, reconciled w/ pt/daughter):
+- Metoprolol succ 50mg daily
+- Apixaban 5mg BID
+- Metformin 500mg BID
+- Lisinopril 10mg daily
+- Atorvastatin 20mg qhs
+
+Allergies: NKDA
+
+Social Hx:
+Lives w/ daughter, retired machinist. Denies current EtOH use. Denies illicit drug use.
+
+TOBACCO USE HISTORY (EHR templated block):
+ Smoking status: Former smoker
+ Type: Cigarettes
+ Pack-years/history detail: Smoked 2 packs per day for 14 years, then reduced to approx 15 cigarettes per day for the following 25 years, before quitting.
+ Current use: None
+ Counseling: N/A - pt no longer using tobacco products
+
+Assessment/Plan discussion continues below re: this hx - pt's chart reviewd, tobacco section updated per above template, no further quantites documented beyond what is in block.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78 irreg irreg, RR 16, Temp 98.2F, SpO2 97% RA, Wt 172 lbs
+Gen: NAD, appears stated age, cooperative
+CV: irregularly irregular rhythm, no m/r/g appreciated
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: trace bilateral pedal edema, no cyanosis
+Neuro: A&Ox3, gait slow but steady w/ cane, no focal deficits
+Skin: no lesions
+
+Labs (reviewed from 12/20/2023):
+Cr 1.6 (baseline), eGFR 42
+A1c 7.1%
+K 4.4
+INR n/a (on apixaban)
+CBC WNL
+
+Assessment:
+1. HTN - well controlled on current regimen, cont lisinopril
+2. AFib - rate controlled, cont metoprolol and apixaban, no dose adjustment needed
+3. T2DM - A1c 7.1%, reasonable goal for age/comorbidities, cont metformin
+4. CKD stage 3 - stable, cont to avoid nephrotoxic agents, renal panel q3-6mo
+5. Fall risk/orthostasis - will check orthostatic vitals at next visit, PT referral discussed
+6. Former tobacco use - see templated block above; general health maintenance/preventive care discussed with pt, screening options discussed conceptually as part of overall preventive health conversation, no specific imaging ordered today
+7. Nocturia - will trend, consider urology referral if worsens
+
+Plan:
+- Cont current meds as above, reviewed adherence issues w/ daughter, will set up pill organizer
+- F/u labs in 3 mo (BMP, A1c)
+- PT referral for gait/balance training
+- Recommended pneumococcal and influenza vaccination status review at front desk
+- Pt educated re: fall precautions, home safety eval discussed
+- RTC 3 months or sooner if concerns
+- Total time spent on visit/counseling today: 35 min, >50% counseling/coordination of care
+
+Electronically signed: Brian Okonkwo, MD 12/27/2023

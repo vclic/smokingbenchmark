@@ -1,0 +1,57 @@
+PULMONOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: James Walker (M), DOB 3/7/1951 (age 73)
+Date of Service: 03/07/2024
+Author: Farah Siddiqui, MD
+
+RE: Follow-up of incidental lung nodule
+
+Dear Colleague,
+
+Thank you for referring Mr Walker, a 73 yo male, for evaluation of an incidental pulmonary nodule noted on CT chest performed for unrelated indication. He was seen in clinic today, 03/07/2024, for follow up.
+
+HPI: Pt states "I feel about the same, no cough, no chest pain" today. He denies hemoptysis, fevers, night sweats or unintentional weight loss. He does note occasional dyspnea on exertion which he attributes to his known heart failure. No new orthopnea or PND. He reports adherence to his diuretic though admits "I forget my water pill sometimes." No hospitalizations since last visit.
+
+[Copied forward from prior visit note dated 11/14/2023 — left in record inadvertently]:
+73M with HFrEF (EF 35% on last echo), T2DM, obesity, osteoarthritis, hypothyroidism, osteoporosis p/w routine f/u. Pt reports doing well overall. Denies chest pain, palpitations, syncope. Lower extremities without edema today. Weight stable. Labs reviewed - TSH wnl on current levothyroxine dose. A1c 7.2. Continue metformin, insulin glargine, carvedilol, lisinopril, furosemide, atorvastatin, calcium/vitamin D, alendronate. RTC 3 months for recheck labs and weight. Pt educated on low salt diet, fluid restriction 2L/day, daily weights. Denies SOB at rest. Discussed fall precautions given osteoporosis dx.
+[End copied text]
+
+Social History: Longstanding tobacco use — pt reports smoking for 54 years. He has smoked continuously for that time, with one notable exception: pt quit in 2013 but relapsed in 2015 after a stressful family event. He currently continues to smoke and, when asked about quitting today, stated "I'm not ready to quit right now, maybe later." Counseled extensively regarding tobacco cessation resources including nicotine replacement, varenicline, and quitline referral; pt declined at this time but agreed to reconsider. No alcohol, no illicit drug use reported. Lives with spouse, retired factory worker.
+
+ROS: Otherwise negative except as above. Positive for occasional joint pain (knees) c/w known OA.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% RA, Wt 210 lb, BMI 32
+Gen: NAD, obese habitus, comfortable
+HEENT: unremarkable
+CV: RRR, no m/r/g, no JVD
+Resp: mild bibasilar crackles, no wheeze, no accessory muscle use
+Ext: no edema, no clubbing or cyanosis
+Skin: no lesions
+
+Imaging Review: CT chest without contrast (12/2023) demonstrates a 7mm solid nodule in the right upper lobe, stable in size and morphology compared to prior imaging when available. No suspicious lymphadenopathy. No effusion.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, right upper lobe — given size and stability, plan for surveillance imaging per Fleischner guidelines, repeat CT chest in 6-12 months. Given his tobacco history, lung cancer screening was discussed with the patient as a general concept for future consideration; risks and benefits reviewed.
+2. Tobacco use disorder — active smoker, not ready to quit today. Continued counseling provided, cessation resources offered and declined for now. Will readdress at future visits.
+3. HFrEF — stable, continue current cardiac regimen, defer to cardiology for titration.
+4. T2DM — reasonably controlled, continue current regimen, defer to PCP/endo.
+5. Osteoarthritis — stable, conservative management, activity as tolerated.
+6. Hypothyroidism — euthyroid on current dose per prior labs.
+7. Osteoporosis — continue current therapy, fall precautions reviewed.
+8. Obesity — counseled on diet and exercise as tolerated given cardiac and joint limitations.
+
+Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- M17.9 Osteoarthritis of knee, unspecified (old entry, laterality not updated)
+- E03.9 Hypothyroidism, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- E11.9 Type 2 diabetes mellitus without complications
+- E66.9 Obesity, unspecified
+- Z87.891 Personal history of nicotine dependence (outdated entry — pt remains active smoker, not history only)
+- R91.1 Solitary pulmonary nodule
+
+Follow up in pulmonology clinic in 6 months, sooner if new symptoms develop such as hemoptysis, worsening cough, unintentional weight loss, or increasing dyspnea. Will fax copy of this note to PCP and cardiology. Thank you again for this interesting referral.
+
+Sincerely,
+Farah Siddiqui, MD
+Pulmonology

@@ -1,0 +1,44 @@
+Family Medicine Clinic Note
+Date of Service: 2/2/23
+Patient: Karen Allen   DOB: 12/9/1952   MRN: 65917733
+
+S:
+CC: Hospital follow-up
+HPI: Mrs. Allen is a 70-year-old female with a history of CKD3 and HTN who presents for hospital follow-up after admission for symptomatic anemia. Admitted 24-Jan-2023-1/27/2023 for symptomatic anemia. Feeling much better. Appetite returning. She stopped smoking in 2022; prior to that she started smoking at 17 and smoked two packs daily until she quit at 69.
+
+PMH:
+- Hypertension
+- CKD stage 3
+PSH: Right total knee arthroplasty (2005)
+Meds: amlodipine 5 mg daily; losartan 50 mg daily
+Allergies: No known allergies
+Social History:
+- Lives with husband in a single-family home.
+- Retired mechanic.
+- Drinks a glass of wine with dinner.
+FH: Son - type 1 diabetes.
+ROS: GI neg, Neuro neg, GU neg, Resp neg, Gen neg, MSK neg, CV neg, Skin neg
+
+OBJECTIVE:
+Vitals: BP: 150/92  HR: 70  RR: 16  Temp: 98.9 F  SpO2: 95% on RA  Wt: 177 lbs  BMI: 28.6
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+A/P:
+1. Symptomatic anemia: Clinically improved. Follow-up CXR in 6 weeks.
+2. CKD stage 3
+   - Monitor BMP q6 months.
+3. History of tobacco use (Z87.891)
+   - Congratulated on remaining smoke-free.
+
+Return in about 3 months (around 5/2/2023).
+
+Electronically signed by Hannah Weiss, NP on 2/4/2023 at 17:03

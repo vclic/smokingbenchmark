@@ -1,0 +1,49 @@
+CARDIOLOGY RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Lan Smith, F, DOB 5/7/1957 (age 68)
+Date of Service: 09/08/2025
+Author: Isaac Moreno, PA-C
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Smith is a 68 year old woman who presents today for evaluation of intermittent chest discomfort. She states, "It feels like a tight band across my chest, mostly when I climb stairs." She denies radiation to the arm but endorses some shortness of breath with exertion. Patient reports symptoms started about two weeks ago and have not worsened, she also notes some heartburn which she attributes to her known GERD, and she has been taking her omeprazole regular she thinks, the discomfort is intermittent lasting a few minutes than resolving with rest per patient report, she denies diaphoresis or nausea although at one point she said "I felt a little sweaty but that might of been the heat [inaudible]."
+
+--- Copied forward from prior visit note dated 03/14/2024 ---
+PATIENT reports doing well overall, follows up for routine HTN and hyperlipidemia management, denies chest pain at that time, gout flare resolved with colchicine, GERD symptoms controlled on PPI, blood pressure well controlled on current regimen, will continue current meds and follow up in 6 months, labs reviewed and stable, no acute issues addressed at that visit, patient tolerating medications well without side effects noted.
+--- end copied forward text ---
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Essential hypertension (I10)
+2. Hyperlipidemia (E78.5)
+3. GERD (K21.9)
+4. Gout (M10.9)
+5. NSTEMI with stent (2020) (I21.4) - outdated entry, still listed as active
+6. Osteoarthritis (M19.90) - outdated, resolved per patient, no longer symptomatic
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use: Former smoker. Patient reports she smoked on and off for most of her adult life. She no longer smokes at this time. Alcohol use: occasional. Illicit drug use: denies.
+
+Patient states she quit smoking right after her heart attack, and has not picked it back up since. She was counseled in the past regarding cessation and has maintained abstinence.
+
+REVIEW OF SYSTEMS: Positive for exertional chest tightness and mild dyspnea. Negative for palpitations, syncope, lower extremity edema. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, SpO2 97% RA, Wt stable.
+General: Well-appearing, no acute distress.
+CV: Regular rate and rhythm, no murmurs/rubs/gallops appreciated, no JVD.
+Lungs: Clear to auscultation bilaterally.
+Abd: Soft, non-tender.
+Ext: No edema.
+
+LABS/STUDIES: EKG today shows normal sinus rhythm, no acute ST changes compared to prior. Troponin pending. Lipid panel from last month reviewed, LDL mildly elevated.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely multifactorial - possible GERD component vs. exertional angina, will obtain troponin and consider stress test given prior cardiac history.
+2. Hypertension - continue current antihypertensive regimen, BP reasonably controlled today.
+3. Hyperlipidemia - continue statin, will recheck lipid panel in 3 months.
+4. GERD - continue PPI, reinforce dietary modification.
+5. Gout - stable, no active flare, continue allopurinol.
+6. History of NSTEMI with stent (2020) - stable, continue aspirin and cardiology follow-up.
+
+Plan discussed with attending, Dr. Feldstein, who agrees with above assessment and plan. Patient verbalized understanding and agreed to follow up in 4-6 weeks or sooner if symptoms worsen.
+
+Electronically signed by Isaac Moreno, PA-C, with attestation by supervising attending Dr. R. Feldstein.

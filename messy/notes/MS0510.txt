@@ -1,0 +1,61 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: Deborah Murphy (F), DOB: 06/19/1955
+Age: 71
+Date of Service: 06/19/2026
+Author: Teresa Alvarez, NP
+
+HPI:
+Ms. Murphy presents for her annual wellness visit, accompanied by daughter. She reports doing 'pretty well overall, just the usual creaky knees.' No acute complaints today. She denies chest pain, denies significant SOB at rest, though notes some exertional dyspnea with stairs which she attributes to her COPD/asthma. States, 'I use my inhaler maybe once or twice a week, mostly when it's cold out.' No fevers, no cough productive of sputum currently. Reports good adherence to levothyroxine. Denies joint swelling but notes chronic bilateral knee stiffness, worse in AM, improved with activity - consistent with known osteoarthritis. Family history notable per patient: mother had COPD and was a lifelong smoker, patient states 'my mom smoked her whole life and ended up on oxygen because of it.'
+
+PMH reviewed and updated as below.
+
+SOCIAL HISTORY (EHR-templated block):
+Tobacco use: Noncontributory
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired (former administrative assistant)
+Living situation: Lives alone, daughter nearby
+Exercise: Walks short distances daily, limited by knee pain
+Diet: Not on file
+
+ROS: Constitutional - no fever, no weight loss. Resp - mild exertional dyspnea, no wheeze today. Cardiac - no chest pain, no palpitations. MSK - chronic knee pain, no new trauma. Endocrine - no heat/cold intolerance currently. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb, Ht 5'4"
+General: Well-appearing, NAD, pleasant, cooperative.
+HEENT: Normocephalic, atraumatic. No thyromegaly appreciated on palpation.
+Lungs: Mild expiratory wheeze bilateral bases, no crackles, no accessory muscle use, air movement adequate.
+CV: RRR, no murmurs/rubs/gallops.
+Abd: Soft, NT/ND, normoactive bowel sounds.
+MSK: Bilateral knee crepitus with ROM, mild tenderness medial joint line, no effusion, no erythema.
+Skin: Warm, dry, intact, no rashes.
+Neuro: A&Ox3, gait steady with slight antalgic component.
+
+LABS/RESULTS:
+TSH (05/28/2026): 3.1 mIU/L (WNL on current levothyroxine dose)
+Free T4 (05/28/2026): 1.2 ng/dL (WNL)
+CBC (05/28/2026): WNL, Hgb 13.2, WBC 6.8, Plt 245
+CMP (05/28/2026): Glucose 94, Creatinine 0.8, eGFR >60, LFTs WNL
+Spirometry (03/15/2026, pulm clinic): FEV1/FVC reduced, consistent with known COPD, mild obstruction, partially reversible with bronchodilator
+Lipid panel (01/2026): TC 188, LDL 102, HDL 58, TG 140
+
+PROBLEM LIST (ICD-10):
+- E03.9 Hypothyroidism, unspecified - stable on levothyroxine
+- J45.909 Asthma, unspecified, uncomplicated - stable, using rescue inhaler intermittently
+- J44.9 COPD, unspecified - stable, followed by pulmonology, spirometry above
+- M19.90 Osteoarthritis, unspecified site - chronic, managed conservatively
+- Z79.899 Long term drug therapy (other) - copy-forward, may be outdated, review at next visit
+- I10 Essential hypertension - copy-forward entry, patient reports this was resolved years ago, needs verification
+
+ASSESSMENT/PLAN:
+1. Hypothyroidism - stable, continue levothyroxine at current dose, recheck TSH in 6 months.
+2. Asthma/COPD - stable, continue current inhaler regimen, reviewed proper technique today, discussed avoidance of triggers. Discussed general lung health maintenance during visit; no further imaging ordered today.
+3. Osteoarthritis - continue acetaminophen PRN, discussed weight-bearing exercise as tolerated, PT referral offered but declined at this time.
+4. Health maintenance - immunizations reviewed and UTD per records, mammogram due, colonoscopy last done 2020 per records, will schedule.
+5. Family history of COPD noted (mother, lifelong smoker) - discussed with patient, no additional action needed at this time beyond routine surveillance of her own pulmonary status.
+6. Follow up in 1 year for next annual wellness visit, or sooner as needed.
+
+Patient verbalized understanding and agreement with plan. All questions answered. Visit time: approximately 30 minutes, more than half spent on counseling/coordination of care.
+
+Electronically signed: Teresa Alvarez, NP
+06/19/2026

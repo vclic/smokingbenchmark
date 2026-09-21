@@ -1,0 +1,44 @@
+ANNUAL WELLNESS VISIT - FAMILY MEDICINE
+Patient: Judith Wood, F, DOB 5/10/1964 (age 59)
+Date of Service: 07/09/2023
+Author: Julia Brennan, MD
+
+HPI: Patient presents for annual wellness exam. She reports feeling generally well, denies chest pain, denies shortness of breath, denies new joint swelling, reports gout flares have been minimal since last visit, and states her mood is stable. She has some [inaudible] discomfort in the left great toe intermittently but no acute flare today. She takes levothyroxine and reports good adherence, weight has been stable, she is trying to increase her physical activity by walking approximately three to for times a week she says its been going well overall despite the heat this summer.
+
+---COPY-FORWARD FROM PRIOR VISIT NOTE DATED 02/14/2022---
+Patient here for follow up of obesity, gout, osteoporosis, and hypothyroidism. Reports diet compliance fair, denies acute gout flare currently, bone density scan reviewed and stable, TSH within normal range on current dose. Continue current medications. Discussed weight management strategies including referral to nutrition, patient declined at this time. Return in 6 months or sooner if symptoms worsen. Labs reviewed and unremarkable aside from mild vitamin D insufficiency, recommend supplementation. Follow up DEXA in 2 years per standard interval.
+---END COPY-FORWARD---
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Retired
+Living situation: 
+Exercise: Regular, per HPI above
+
+Note: There is an outdated templated field elsewhere in the chart reading 'Smoking status: Never Smoker' - this is incorrect and should be disregarded; the accurate history per patient interview today is that she smoked 20 cigarettes per day for 15 years, and she is a former smoker who quit in 2004.
+
+ROS: Otherwise negative except as noted in HPI. No fevers, no cough, no hemoptysis.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, Wt 198 lb, BMI 33.4
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic
+Neck: no thyromegaly
+CV: RRR, no murmurs
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Extremities: no edema, first MTP joint left foot with mild bony changes, no active erythema today
+MSK: no acute joint swelling
+
+ASSESSMENT/PLAN:
+1. Obesity - continue lifestyle counseling, discussed diet and exercise, reviewed nutrition referral options again, patient will consider.
+2. Gout - stable, continue allopurinol, avoid dietary triggers discussed.
+3. Osteoporosis - continue calcium/vitamin D, weight-bearing exercise encouraged, DEXA per standard interval.
+4. Hypothyroidism - continue levothyroxine, TSH to be rechecked at next visit.
+5. Tobacco history - former smoker who quit in 2004; general preventive counseling reinforced regarding tobacco-related health risks.
+6. Health maintenance - mammogram and colonoscopy status reviewed, up to date. Immunizations reviewed and updated as needed.
+
+Return to clinic in 12 months or sooner as needed.
+
+Electronically signed: Julia Brennan, MD

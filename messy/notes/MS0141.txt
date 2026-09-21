@@ -1,0 +1,93 @@
+H&P — Hospital Discharge Follow-up
+Patient: James Nelson (M), DOB: 1/16/1954 (age 70)
+Date of Service: 01/16/2024
+Author: Brian Okonkwo, MD — Primary Care
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Mr. Nelson is a 70-year-old male, recently discharged after a 4-day admission for community-acquired pneumonia, presenting today for post-discharge follow-up. He reports gradually improving energy, decreased cough, and no fevers since discharge. He denies chest pain, hemoptysis, or worsening dyspnea. He continues to take antibiotics as prescribed (day 6 of 7 of amoxicillin-clavulanate). He reports mild residual fatigue but is ambulating without issue. No new GI symptoms. Reviewed discharge summary from Memorial Hospital, admitted 01/10/2024, discharged 01/13/2024.
+
+PAST MEDICAL HISTORY: Hyperlipidemia, benign prostatic hyperplasia, type 2 diabetes mellitus, atrial fibrillation (on anticoagulation), chronic kidney disease stage 3, depression.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Packs/day: 1.50
+Years: 37.00
+Quit date: Not on file
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Sedentary, low activity per patient report
+
+He quit smoking 15 years ago, per his report during today's visit, and has remained abstinent since that time. Tobacco cessation reinforced given recent pulmonary illness.
+
+FAMILY HISTORY: Father with coronary artery disease, mother with type 2 diabetes. No known family history of lung cancer.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats. Reports mild fatigue.
+HEENT: No headache, no visual changes, no sore throat.
+Cardiovascular: No chest pain, no palpitations noted today (known history of atrial fibrillation, currently rate-controlled).
+Respiratory: Reports improving cough, denies shortness of breath at rest, denies hemoptysis.
+GI: No nausea, vomiting, diarrhea, constipation, or abdominal pain.
+GU: Reports nocturia x2, consistent with known BPH, no dysuria, no hematuria.
+Musculoskeletal: No joint pain, no swelling.
+Skin: No rashes, no lesions.
+Neurological: No focal weakness, no numbness, no tingling.
+Psychiatric: Reports stable mood, denies SI/HI, on treatment for depression.
+Endocrine: No polyuria, no polydipsia, blood glucose reportedly well-controlled per home log.
+Hematologic: No easy bruising, no bleeding.
+Allergic/Immunologic: No known drug allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78 irregularly irregular, RR 16, Temp 97.8F, SpO2 96% on room air, Weight 198 lbs, Height 5'9".
+General: Alert, well-appearing male, no acute distress.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear, mucous membranes moist.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Irregularly irregular rhythm consistent with known atrial fibrillation, no murmurs, no gallops, no rubs.
+Respiratory: Mild bibasilar crackles, improved from prior exam, no wheezes, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, pulses 2+ bilaterally.
+Skin: Warm, dry, intact, no rashes.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout.
+Psychiatric: Mood euthymic, affect appropriate.
+
+LABS/RESULTS (recent):
+CBC (01/13/2024): WBC 7.8, Hgb 13.1, Hct 39.2, Plt 210
+BMP (01/13/2024): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.5 (baseline for CKD stage 3), Glucose 142
+HbA1c (12/28/2023): 7.2%
+Lipid panel (11/15/2023): Total cholesterol 178, LDL 96, HDL 42, Triglycerides 150
+Chest X-ray (01/10/2024): Right lower lobe infiltrate consistent with pneumonia
+Chest X-ray (01/13/2024, repeat prior to discharge): Improving infiltrate
+INR (01/15/2024): 2.4 (therapeutic on warfarin)
+
+MEDICATIONS:
+1. Amoxicillin-clavulanate 875mg PO BID (day 6 of 7)
+2. Atorvastatin 40mg PO daily
+3. Tamsulosin 0.4mg PO daily
+4. Metformin 1000mg PO BID
+5. Glipizide 5mg PO daily
+6. Warfarin 5mg PO daily (dose adjusted per INR)
+7. Metoprolol succinate 50mg PO daily
+8. Sertraline 100mg PO daily
+9. Furosemide 20mg PO daily
+10. Vitamin D3 1000 IU PO daily
+11. Albuterol inhaler PRN
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving — continue current antibiotic course, complete full 7-day regimen. Repeat exam supports clinical improvement. Follow-up chest imaging in 6 weeks to confirm resolution.
+2. Atrial fibrillation — continue warfarin, INR therapeutic today. Continue metoprolol for rate control.
+3. Type 2 diabetes mellitus — A1c at goal, continue metformin and glipizide, encourage dietary adherence.
+4. Chronic kidney disease stage 3 — stable creatinine near baseline, continue monitoring renal function with routine labs.
+5. Hyperlipidemia — continue atorvastatin, lipid panel to be repeated at next visit.
+6. BPH — continue tamsulosin, no new urinary symptoms of concern.
+7. Depression — mood stable on sertraline, continue current dose, follow up as needed.
+8. Tobacco history — discussed prior smoking history in context of recent pulmonary illness; lung cancer screening was discussed in general terms with patient. Reinforced continued abstinence.
+
+Follow-up in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Brian Okonkwo, MD
+
+ADDENDUM (later same day, 01/16/2024, 4:45 PM):
+Patient called clinic nursing line this afternoon to report mild dizziness after standing, likely related to blood pressure medication timing versus antibiotic dosing. Advised patient to take medications with food and to monitor blood pressure at home. Will review home BP log at next visit. No changes made to medication regimen at this time. Patient instructed to call back or go to ED if symptoms worsen, chest pain develops, or syncope occurs. — Brian Okonkwo, MD

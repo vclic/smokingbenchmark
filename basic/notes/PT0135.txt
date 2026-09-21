@@ -1,0 +1,78 @@
+Primary Care Office Visit
+
+Patient: LOPEZ, Gwendolyn    MRN: 80094638
+DOB: 10/14/1958    Age: 65 y.o.    Sex: Female
+Date of Service: 08/12/2024    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Gwendolyn Lopez is a 65 y.o. female who presents for routine follow-up of chronic conditions.
+Doing okay overall. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Hyperlipidemia
+• ASCVD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2004)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• clopidogrel 75 mg daily
+• atorvastatin 20 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband in a single-family home.
+  Retired nurse.
+  Drinks a glass of wine with dinner.
+  Drives.
+
+Family History
+Mother - osteoporosis, hip fracture. Father - AAA repair.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 136/68 (BP Location: Left arm, Patient Position: Sitting) | Pulse 83 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 159 lb | SpO2 96% | BMI 24.87 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (7/5/2024): LDL 123, Cr 1.07, K 3.7, Hgb 15.6
+
+Assessment & Plan
+1. ASCVD
+   Stable. Continue secondary prevention.
+2. HTN
+   Well controlled on home log. No changes.
+3. Hyperlipidemia
+   Continue statin. Lipid panel due.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Daniel Reyes, MD on 08/12/2024

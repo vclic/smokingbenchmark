@@ -1,0 +1,88 @@
+Pulmonology Clinic Note
+
+Patient: BROWN, Luis    MRN: 28640592
+DOB: 02/08/1957    Age: 67 y.o.    Sex: Male
+Date of Service: 12/06/2024    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Lung nodule
+
+Subjective:
+Luis Brown is a 67 y.o. male who presents for follow-up of a pulmonary nodule.
+Incidental 9 mm ground-glass RML nodule on CT 06-Feb-2024 (obtained in the ED for abdominal pain). Pt anxious about result.
+
+Past Medical History:
+Diagnosis	Date
+• Primary OA, bilateral knees
+• Benign prostatic hyperplasia
+• Hyperlipidemia
+• HTN
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• finasteride 5 mg daily
+• multivitamin daily
+• lisinopril 40 mg daily
+• tamsulosin 0.4 mg nightly
+• chlorthalidone 12.5 mg daily
+• atorvastatin 40 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Retired nurse.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Father - stroke.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 142/79 (BP Location: Right arm, Patient Position: Sitting) | Pulse 68 | Temp 98.3 °F (Oral) | Resp 12 | Ht 6' 1" | Wt 168 lb | SpO2 99% | BMI 22.10 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (11/23/2024): LDL 86, Cr 1.08, K 4.8
+
+Assessment & Plan
+1. Pulmonary nodule
+   Low-risk patient per Fleischner. Repeat CT chest in 3 months.
+2. Benign prostatic hyperplasia
+   Nocturia x1-2; continue tamsulosin.
+3. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+4. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+5. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 3 mo
+
+Electronically signed by Laura Castellano, FNP-C on 12/06/2024

@@ -1,0 +1,28 @@
+Geriatrics Progress Note
+Patient: Larry Mitchell (DOB 10/15/1957)
+Date of Service: 11/06/2023
+Author: Brian Okonkwo, MD
+
+CC: Geriatric assessment, follow-up chronic conditions.
+
+HPI: Mr. Mitchell is a 66-year-old male presenting for routine geriatric assessment. He reports doing reasonably well overall, though states his knees are 'stiffer in the mourning' [sic, morning] and he has had some [inaudible] episodes of dizziness that resolve on their own with rest, no clear pattern, denies chest pain syncope or near-syncope. He is a former smoker, having smoked 2 packs per day for 6 years, then cut down to about 15 cigarettes per day for the next 10 years before quitting entirely; he quit smoking at age 36 and has not smoked since. He continues to monitor his gout symptoms and reports no flares since last visit. Diet remains high in processed foods per patient report, wife assists with meal prep.
+
+--- Copied forward from visit dated 04/12/2022 ---
+Patient seen for routine follow up of CKD stage 3, atrial fibrillation, obesity, hypothyroidism, gout, and hyperlipidemia. Renal function stable, eGFR around 52. On anticoagulation for AF, INR therapeutic. TSH within normal limits on current levothyroxine dose. Weight stable, discussed diet and exercise. No gout flares reported. Lipid panel reviewed, LDL at goal. Continue current meds, follow up in 6 months.
+--- End copied text ---
+
+Problem List:
+1. N18.3 - Chronic kidney disease, stage 3
+2. I48.91 - Atrial fibrillation
+3. E66.9 - Obesity
+4. E03.9 - Hypothyroidism
+5. M10.9 - Gout
+6. E78.5 - Hyperlipidemia
+7. Z87.891 - Personal history of nicotine dependence (former smoker)
+8. I10 - Essential hypertension (outdated, patient normotensive last 3 visits, consider removing)
+
+Exam: Alert, oriented x3, appears stated age. Cardiac: irregularly irregular rhythm, no murmurs appreciated. Lungs clear to auscultation bilaterally. Extremities: no edema, mild tenderness first MTP joint left foot.
+
+Assessment/Plan: 66M with CKD3, AF, obesity, hypothyroidism, gout, hyperlipidemia here for geriatric assessment dated 11/06/2023. Former smoker as above, quit smoking history reviewed and documented. Lung cancer screening was discussed with patient given smoking history. Continue current medication regimen, recheck labs in 3 months, f/u in clinic.
+
+Addendum (later same day): Patient called back to clinic after visit to clarify he has been tolerating current gout medication well, no new symptoms since this morning's visit. No changes to plan.

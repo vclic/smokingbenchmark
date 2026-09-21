@@ -1,0 +1,42 @@
+TELEHEALTH VISIT NOTE — Family Medicine
+Resident: Quentin Hale, PA-C
+Attending attestation: Dr. R. Sandoval (reviewed and agree with resident's assessment/plan as documented)
+Date of service: 06/12/2023
+
+Patient: Mark Butler M DOB 6/12/1973 (age 50)
+Visit type: Telehealth, medication refill visit
+
+CC: 'I just need my refills, doc, I'm running low on everything.'
+
+HPI: 50 yo M with hx of gout and depression c/o no new complaints today, here via video for routine refills of his home meds. Pt states 'my joints have been fine since the last flare, no swelling or redness lately.' He notes mood has been 'okay, not great, but manageable' and denies SI/HI. He was supposed to f/u in person last month but rescheduled due to work conflict — states he works construction and 'can't always get away mid-shift.' No new GI sx, no chest pain, no SOB. Pt reports adherence to allopurinol and sertraline, though admits he 'forgets a dose here and there when things get busy.' [inaudible] portion of call re: diet changes, pt seemed to be describing recent BBQ intake and beer consumption over the weekend, unclear if related to gout flare risk given static-y connection, he'll call back if sx worsen.
+
+PMH: Gout (M10.9), Depression (F32.9), Hypertension (I10) — dc'd home BP log per pt, HTN dx appears in old note from 2019 but not addressed since, unclear if still active problem, will review at next visit.
+
+Meds: Allopurinol 300mg daily, Sertraline 100mg daily, Naproxen PRN for flares.
+Allergies: NKDA
+
+SOCIAL HISTORY (templated):
+Tobacco/Smoking status: Unknown if ever smoked
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Construction worker
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: 
+
+ROS: Constitutional - negative for fever, chills, wt loss. Musculoskeletal - negative for active joint swelling. Psychiatric - positive for depressed mood, stable. All other systems reviewed and negative.
+
+Vitals (per home cuff, self-reported): BP 128/82, HR 76, wt 210 lbs (pt states, unable to verify via video)
+
+Exam: Telehealth visit, limited exam performed. Pt appears well, no acute distress noted on video, affect appropriate, speech clear and linear. No focal exam findings assessed given modality.
+
+Assessment/Plan:
+1. Gout (M10.9) - stable, no active flare reported. Continue allopurinol 300mg daily. Refill naproxen PRN. Recheck uric acid at next in-person visit.
+2. Depression (F32.9) - stable on current regimen, denies SI/HI. Continue sertraline 100mg daily. Encouraged consistent med adherence, discussed setting phone reminders given pt report of missed doses.
+3. Hypertension (I10) - old problem, not addressed today, will reassess at f/u given lack of recent BP data outside home readings.
+4. Health maintenance - counseled generally on healthy lifestyle including diet and exercise; pt encouraged to schedule in-person visit for labs and BP check within next 4-6 wks.
+
+Refills sent to pharmacy of record as above. Pt verbalized understanding of plan. RTC 4-6 wks or sooner if sx worsen. Telehealth visit concluded without difficulty aside from brief connection issue noted above.
+
+Electronically signed: Quentin Hale, PA-C
+Attestation: I have reviewed this resident's note and discussed the case; I agree with the assessment and plan as written. — Dr. R. Sandoval, Attending

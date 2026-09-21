@@ -1,0 +1,46 @@
+RESIDENT NOTE – Hospital Discharge Follow-up
+Patient: Michael Ramirez | DOB: 5/11/1949 (age 75) | DOS: 08/11/2024
+Attending: Anita Patel, MD (attestation below)
+
+CC: F/u s/p hospitalization for pneumonia.
+
+HPI: Pt is a 75 yo M recently discharged after admission for community-acquired pneumonia, here for f/u. States "I feel a lot better than when I went in, but I still get winded going up the stairs." No fevers, chills currently. Cough improving, productive of small amounts white sputum. Denies chest pain. Reports taking antibiotics as prescribed, finished course two days ago. Wife states he's "back to his normal self mostly, just tired." No SOB at rest. Appetite improving.
+
+PROBLEM LIST (per chart, some entries outdated):
+- E03.9 Hypothyroidism
+- I25.10 Coronary artery disease, native vessel, without angina
+- E78.5 Hyperlipidemia
+- N40.0 BPH without LUTS
+- J18.9 Pneumonia, unspecified organism (resolving, treated)
+- Z87.891 Personal history of nicotine dependence (copy-forward, see below)
+
+TOBACCO/SUBSTANCE USE (templated block):
+Smoking status: Current every day smoker
+Pack-year history: 23 pack-years
+Quit attempts: Yes - patient previously quit smoking in 2017, relapsed in 2019.
+Current use: continues to smoke despite counseling given today re: cessation, risks reiterated in context of recent pneumonia.
+Counseling provided: Advised to quit, cessation resources discussed, pt states "I know I should stop, it's just hard."
+
+ROS: Otherwise negative except as above. [inaudible] denies hemoptysis, denies weight loss.
+
+PE:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 96% RA, Temp 98.2F
+Gen: NAD, comfortable
+Lungs: mild crackles L base, improved from prior, no wheeze
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: no edema
+
+Labs (reviewed): CBC WNL, BMP unremarkable, TSH pending recheck given hypothyroidism.
+
+A/P:
+1. Pneumonia, resolving - clinically improved, continue supportive care, f/u CXR in 6 wks to confirm resolution.
+2. Tobacco use, current smoker, 23 pack-year hx - continues to smoke despite counseling; cessation strongly encouraged again today; discussed lung cancer screening as a topic for future discussion with PCP.
+3. CAD - stable, continue statin and aspirin.
+4. Hyperlipidemia - continue atorvastatin, lipid panel at next visit.
+5. Hypothyroidism - continue levothyroxine, recheck TSH in 6 wks.
+6. BPH - stable on tamsulosin, no new urinary sx.
+
+Follow up in 4 weeks or sooner if worsening symptoms.
+
+ATTESTATION: I have seen and examined the patient, discussed the case with the resident, and agree with the assessment and plan as documented above. - Anita Patel, MD

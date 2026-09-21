@@ -1,0 +1,29 @@
+Hospital Discharge Follow-up - Primary Care
+Patient: Margaret Thompson (DOB 2/8/1950), 75 yo F
+DOS: 02/10/2025
+Author: Catherine Lindqvist, DO
+
+HPI: Pt seen for f/u s/p recent hosp for pneumonia, doing better resp wise, cough improving, no fever. Reports fatigue, appetite ok. Smoking hx notable - pt smokes about a quarter pack (5 cigs) per day, continues to smoke despite counseling given at multiple visits regarding cessation. Pt states she previously quit smoking in 2013 but relapsed in 2015 after stressful family event. Quit date has now been set for 3/9/2025, pt motivated to try again w/ nicotine patch this time.
+
+---copied forward from visit 11/14/2023---
+PMH: CAD s/p stent 2019, HTN, COPD (on tiotropium), OSA (uses CPAP nightly, compliance variable), osteoarthritis affecting knees bilat. ROS otherwise negative for chest pain, palpitations, edema. Pt lives alone, uses walker occasionally for OA knee pain. Denies SOB at rest. Meds reviewed and unchanged from last visit, pt tolerating well no new complaints today, follow up in 6 months or sooner if needed. Vaccines UTD per pt report.
+---end copied text---
+
+Exam: Vitals stable, afebrile T 98.4, BP 138/82, HR 76, RR 18, SpO2 94% RA. Gen - NAD, alert. Lungs - scattered exp wheezes, no crackles today, improved from discharge. CV - RRR no m/r/g. Ext - trace edema, no c/c. 
+
+Labs/results:
+- CBC (02/09/2025): WBC 8.9, Hgb 12.1, Plt 240
+- BMP (02/09/2025): Na 138, K 4.1, Cr 0.9, Glu 102
+- CXR (02/08/2025): improving infiltrate LLL, no effusion
+- BNP (02/09/2025): 145
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue current abx course, f/u CXR in 4-6 wks.
+2. COPD - continue tiotropium, consider albuterol prn, smoking cessation counseling given again today, discussed lung cancer screening in general terms with pt.
+3. CAD/HTN - stable, continue current regimen.
+4. OSA - encourage CPAP use nightly.
+5. OA knees - continue prn NSAID, PT referral discussed.
+
+RTC in 2 wks or sooner if worsening sx.
+
+ADDENDUM (later same day): Pt called office after visit asking about nicotine patch dosing, advised to start low dose and titrate per pharmacist guidance, reinforced quit date plan of 3/9/2025.

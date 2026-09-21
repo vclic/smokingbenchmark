@@ -1,0 +1,50 @@
+TELEHEALTH VISIT NOTE
+DOS: 12/08/2023
+Provider: Michael Dunn, DO (Cardiology)
+Patient: Rajesh King, M, DOB 09/18/1949, age 74
+
+CHIEF COMPLAINT: HF follow-up, video visit.
+
+HPI: Pt seen via telehealth for routine CHF follow-up. Denies acute SOB, orthopnea, PND. Mild ankle edema, stable per pt report. Weight per home scale unchanged. No chest pain. Compliant w/ meds per pt.
+
+--- COPIED FORWARD FROM VISIT 03/14/2022 (retained in chart, not reviewed/updated this visit) ---
+Patient presents for follow-up of CHF, EF 35% on last echo (2021). Reports fatigue with exertion, denies PND/orthopnea today. Lower extremity edema trace bilaterally. Lungs clear to auscultation, no wheeze noted at that time. Cardiac exam: RRR, S3 gallop appreciated. JVP 8cm. Labs reviewed: BNP 450, Cr 1.1, K 4.2. Plan at that visit: continue carvedilol 12.5mg BID, furosemide 40mg daily, lisinopril 10mg daily. F/u echo ordered. Pt counseled re: low sodium diet, daily weights. RTC 3 months.
+--- END COPIED TEXT ---
+
+ROS (current, 12/08/2023): Resp - mild wheeze reported occ, uses albuterol PRN. GU - nocturia x2-3, known BPH, no dysuria. Cardiac - no palpitations. Denies fevers, chills.
+
+PHYSICAL EXAM (telehealth, limited):
+Gen: NAD, comfortable, seated in home setting.
+Vitals per pt device: BP 128/76, HR 68, home O2 sat 96% RA.
+Resp: no visible distress, no accessory muscle use.
+CV: unable to auscultate via telehealth.
+Ext: pt reports trace edema, no redness.
+
+PROBLEM LIST:
+1. Heart failure with reduced ejection fraction - I50.22 (active)
+2. Asthma - J45.909 (active)
+3. Benign prostatic hyperplasia - N40.0 (active)
+4. Essential hypertension - I10 (active, outdated entry - pt reports BP well controlled now)
+5. Tobacco use disorder - Z87.891 (former use, outdated code, see note below)
+6. GERD - K21.9 (inactive, resolved per pt, kept on list from old chart)
+
+ASSESSMENT/PLAN:
+74M with HFrEF, asthma, BPH, here for telehealth f/u.
+
+1. HFrEF - stable per pt report, no decompensation signs today. Continue carvedilol, furosemide, lisinopril as previously dosed (see above copied plan, doses unchanged per pt). Will obtain repeat BNP, BMP at upcoming in-person visit. Daily weights reinforced. RTC 3 months or sooner if symptoms worsen.
+
+2. Asthma - occ wheeze, using albuterol PRN, no recent exacerbation requiring steroids/ED visit. Continue current inhaler regimen.
+
+3. BPH - nocturia stable, no acute urinary retention. Continue tamsulosin, urology f/u as scheduled.
+
+4. Tobacco history - former smoker. Pt started smoking about half a pack (roughly 10 cigarettes) per day at age 17 and continued at that rate until quitting in 2018. No current tobacco use. Encouraged continued abstinence; benefits reinforced re: cardiopulmonary health. Lung cancer screening discussed in general terms with pt; further discussion deferred to PCP.
+
+5. HTN - well controlled per pt report, continue current regimen, reassess at next visit.
+
+6. GERD - reportedly resolved, will remove from active problem list at next chart review.
+
+Disposition: Telehealth visit concluded, follow-up as above. Pt verbalized understanding, no further questions at this time. Will contact office w/ any acute concerns.
+
+Time spent: 18 minutes, majority counseling/coordination of care.
+
+Electronically signed: Michael Dunn, DO

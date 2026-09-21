@@ -1,0 +1,47 @@
+PULMONOLOGY - LUNG CANCER SCREENING SDM VISIT
+DOS: 06/07/2023
+Author: Gregory Tan, MD (NP progress note)
+Patient: Jose Robinson, M, DOB 4/6/1943 (age 80)
+
+CC: Shared decision-making visit re: lung ca screening d/t smoking hx.
+
+HPI: Pt is an 80 y/o M with PMH of gout, OSA, HTN, and COPD presenting today for SDM discussion regarding low-dose CT screening for lung cancer. Pt reports baseline dyspnea on exertion c/w known COPD, no acute change. Denies hemoptysis, unintentional wt loss, fevers, or chest pain. Uses albuterol PRN, reports fair compliance. OSA on CPAP nightly per pt report, tolerates well. HTN well controlled on current regimen. Gout quiescent, last flare >1 yr ago.
+
+ROS: Constitutional - neg for fever/chills/wt loss. Resp - chronic cough stable, +occasional wheeze. CV - no chest pain/palpitations. All other systems reviewed and negative except as noted in HPI.
+
+---SOCIAL HISTORY (templated EHR block)---
+Tobacco use: Current every day smoker
+  Type: Cigarettes
+  Amount: 1/4 pack/day (~5 cigs/day)
+  Duration: 60 years
+  Quit date: N/A - continues to smoke
+Alcohol use: Former drinker; pt quit ETOH in 2012.
+Illicit drug use: Not on file
+Living situation: Not on file
+Occupation: Retired
+Exercise: Not on file
+---END SOCIAL HISTORY---
+
+Assessment/Plan discussion: Discussed benefits/risks/limitations of lung cancer screening w/ pt and reviewed USPSTF-based framework in general terms. Pt continues to smoke despite prior counseling at multiple visits; today reinforced smoking cessation counseling again, discussed nicotine replacement options and cessation resources (quitline, pharmacotherapy). Pt verbalizes understanding but states he is 'not ready' to quit at this time. Screening was discussed in detail including potential for false positives, incidental findings, and need for annual f/u if screening pursued.
+
+Exam:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 94% RA, Wt stable per flowsheet.
+Gen: NAD, comfortable, conversant.
+Resp: mild expiratory wheeze bilat bases, no accessory muscle use, no cyanosis.
+CV: RRR, no m/r/g.
+Ext: no clubbing/edema. Gouty tophi noted at 1st MTP L foot, non-tender today.
+
+Labs/Imaging: No new imaging obtained today per plan (screening CT deferred pending pt readiness/decision). Prior PFTs on file c/w moderate obstructive pattern, unchanged.
+
+A/P:
+1. COPD - stable, continue current inhaler regimen, reinforce technique, f/u PFTs in 6-12 mo.
+2. Tobacco use disorder - ongoing daily use as above; continued counseling given, pt declines cessation aids today, will readdress next visit.
+3. HTN - well controlled, continue current antihypertensives.
+4. OSA - continue CPAP, reassess compliance data at next visit.
+5. Gout - asymptomatic, continue current management, uric acid to be rechecked at next labs.
+6. Lung cancer screening - discussed thoroughly with pt today; pt to consider and follow up to discuss further; no imaging ordered at this time.
+
+RTC in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered.
+
+--- ADDENDUM (same day, later) ---
+Addendum by Gregory Tan, MD, 06/07/2023 (added later same day): Spoke again briefly with pt by phone after visit re: cessation resources requested by pt's daughter. Reiterated quitline number and reviewed that pt remains a current smoker, continuing to smoke roughly 1/4 pack/day, despite counseling provided today. No change to plan above. Pt's daughter to assist with follow-through on cessation resources as tolerated.

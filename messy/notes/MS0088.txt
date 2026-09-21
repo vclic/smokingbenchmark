@@ -1,0 +1,84 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Gregory Tan, MD (PGY-3, Internal Medicine) / Attending co-sign pending
+Date of Service: 07/25/2023
+Patient: Nancy Flores | DOB: 07/25/1952 (Age 71) | F
+Encounter: Hospital d/c follow-up, Primary Care Clinic
+
+CC: f/u s/p hospitalization for pneumonia
+
+HPI:
+71 yo F w/ PMH HTN dx'd (o/w hx below) presents for post-hospitalization f/u. Pt was admitted 07/17-07/22/2023 for CAP, treated w/ IV abx (ceftriaxone/azithro), transitioned to PO levofloxacin at d/c, course to complete 07/27. Pt reports improved energy, decreased cough, no fevers/chills since d/c. Still has mild dyspnea on exertion which she attributes to her known COPD, baseline per pt. No hemoptysis, no chest pain, no orthopnea/PND. Appetite improving, tolerating POs. She lives alone, ambulates w/ cane, has home health aide 2x/wk. Pt notes she continued to smoke cigarettes even during the hospitalization (had passes to go outside per pt report) and again since discharge - see SHx below for detail. When counseled regarding cessation today, she reiterated that she still smokes and is not ready to quit at this time; declined referral to tobacco quitline again.
+
+ROS: Const: no fever, +fatigue improving. Resp: +mild DOE, denies cough currently, denies wheeze today. CV: no palpitations, no chest pain. GI: no n/v/d. GU: no dysuria. Neuro: no focal deficits. Skin: no rashes. All other systems reviewed and negative.
+
+PMH/Problem List (per chart, some entries outdated):
+1. E03.9 Hypothyroidism, unspecified - on levothyroxine, last TSH 3.1 (03/2023)
+2. N18.3 CKD stage 3 - baseline Cr ~1.4
+3. I48.91 Atrial fibrillation, unspecified type - on apixaban, rate-controlled on metoprolol
+4. E78.5 Hyperlipidemia, unspecified - on atorvastatin
+5. J44.9 COPD, unspecified - uses albuterol PRN, not on home O2
+6. J18.9 Pneumonia, organism unspecified - acute, recent admission 07/2023 (resolving)
+7. I10 Essential HTN (dup entry, see above in HPI - copied fwd from old note, appears twice in list, not addressed today)
+
+MEDS (reconciled at d/c, reviewed today):
+- Levothyroxine 75 mcg daily
+- Apixaban 5 mg BID
+- Metoprolol succinate 50 mg daily
+- Atorvastatin 40 mg qHS
+- Albuterol HFA MDI 2 puffs q4-6h PRN SOB/wheeze
+- Levofloxacin 750 mg daily (d/c 07/27, day 10 total)
+
+SOCIAL HISTORY:
+Tobacco Use [EHR TEMPLATE - AUTO-POPULATED, verified w/ pt]:
+  Current Status: Current every day smoker
+  Type: Cigarettes
+  Amt/day: 12 cigs/day
+  Duration: 41 years
+  Quit interest: Not ready to quit
+  Counseling given: Yes, brief cessation counseling offered, pt declined quitline referral, advised to quit given COPD and recent pneumonia
+Alcohol: denies
+Illicits: denies
+Lives: alone, home health aide assists 2x/wk
+Occupation: retired (former administrative assistant)
+
+PHYSICAL EXAM:
+Vitals: T 97.8F, HR 78 irregularly irregular, BP 128/76, RR 16, SpO2 95% RA
+Gen: NAD, comfortable, conversant
+HEENT: NCAT, PERRL
+Neck: no JVD, no LAD
+CV: irregularly irregular rhythm, no m/r/g
+Lungs: mild bibasilar crackles, improved from d/c exam, no wheeze appreciated today
+Abd: soft, NT/ND, +BS
+Ext: no edema
+Skin: no rash
+Neuro: A&Ox3, no focal deficits
+
+LABS (reviewed, from d/c and today's draw):
+BMP: Na 139, K 4.2, Cl 101, CO2 24, BUN 22, Cr 1.4 (baseline for pt), Glucose 98
+CBC: WBC 7.8 (down from 14.2 on admission), Hgb 12.1, Plt 240
+TSH 3.1 (03/2023, stable)
+
+ASSESSMENT/PLAN:
+71 yo F w/ PMH hypothyroidism, CKD stage 3, AFib, hyperlipidemia, COPD, presenting for f/u s/p hospitalization for CAP.
+
+1. Pneumonia, resolving (J18.9) - clinically improved, CXR at d/c showed improving infiltrate. Continue levofloxacin through 07/27 to complete 10-day course. F/u CXR in 6 wks to document resolution given tobacco use history noted above (12 cigs/day x 41 yrs, current smoker) which raises concern for underlying chronic lung dz and warrants imaging follow through. Return precautions reviewed.
+
+2. COPD (J44.9) - baseline DOE reported stable/improving. Continue albuterol PRN. Tobacco cessation counseling provided again today; pt continues to smoke and reports she is not ready to quit at this visit. Discussed impact of continued smoking on COPD progression and infection risk. Discussed lung cancer screening in general terms as part of preventive care discussion; no imaging ordered today for that purpose. Encouraged pt to reconsider quitline referral at future visit.
+
+3. Atrial fibrillation (I48.91) - rate well controlled today, continue apixaban and metoprolol, no changes.
+
+4. CKD stage 3 (N18.3) - Cr stable at baseline 1.4, continue to monitor, avoid nephrotoxic agents, renally dose meds as needed.
+
+5. Hypothyroidism (E03.9) - TSH stable 03/2023, continue current levothyroxine dose, recheck TSH in 6 months.
+
+6. Hyperlipidemia (E78.5) - continue atorvastatin, no acute issues.
+
+7. Health maintenance - reviewed immunization status, pneumococcal and influenza vaccines up to date per record. Discussed importance of routine preventive care given multiple chronic conditions.
+
+F/u: Return to clinic in 2 weeks or sooner if worsening symptoms (fever, increasing cough, SOB). Pt verbalized understanding of plan.
+
+Time spent: 30 min, >50% counseling/coordination of care.
+
+---
+ATTESTATION: I have personally seen and evaluated the patient with Dr. Tan. I concur with the history, exam findings, assessment, and plan as documented above, with modifications discussed in person.
+-- Attending signature pending co-sign

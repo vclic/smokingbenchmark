@@ -1,0 +1,68 @@
+CARDIOLOGY HISTORY AND PHYSICAL
+Patient: Elizabeth Hughes | DOB: 05/15/1967 | Age: 58 | Sex: F
+Date of Service: 05/15/2025
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: Chest pain, evaluation for cardiac etiology.
+
+HPI: Ms. Hughes is a 58-year-old female with history of hypertension and COPD who presents today, 5/15/2025, for evaluation of intermittent chest pain over the past two weeks, described as a pressure-like sensation across the sternum, occasionally radiating to the left shoulder, lasting several minutes at a time, not clearly related to exertion though she notes it does seem worse when climbing stairs at her home which has, she says, like a thousand steps or [inaudible] flights she has to go up every day just to get to her apartment and back down again for the mailbox so its hard to say if its exertional or not. No associated diaphoresis, no nausea, no syncope. She denies any prior history of MI or known coronary artery disease. She smokes one pack of cigarettes per day and has done so for 42 years; she continues to smoke currently and when asked about quitting she stated plainly she is not ready to quit at this time, though she is aware of the risks given her COPD and cardiac symptoms. She was counseled today regarding smoking cessation resources including nicotine replacement and behavioral counseling but she declined further discussion today. She denies alcohol or illicit drug use. She reports occasional use of albuterol inhaler for her COPD with, she feels, adequate symptom control most days.
+
+PAST MEDICAL HISTORY:
+1. Hypertension, diagnosed approx 10 years ago, on medication.
+2. COPD, followed by pulmonology, on inhalers.
+3. No history of diabetes, no known CAD.
+
+PAST SURGICAL HISTORY: Cholecystectomy, year unknown.
+
+MEDICATIONS:
+- Lisinopril 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN
+- Tiotropium inhaler daily
+- Fluticasone/salmeterol 250/50 one puff BID
+- Atorvastatin 20 mg PO qhs
+- Aspirin 81 mg PO daily
+- Multivitamin daily
+- Vitamin D3 1000 IU daily
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: 1 ppd (see HPI for duration)
+Years smoked: 42 years (see HPI)
+Readiness to quit: Not ready to quit
+Smokeless tobacco: Not on file
+Alcohol use: Denies
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone, apartment
+Exercise: Not on file
+Diet: Not on file
+
+FAMILY HISTORY: Father with MI at age 62, mother with hypertension. No family history of lung cancer on file.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss, endorses mild fatigue. Eyes: denies visual changes. ENT: denies sore throat, denies hearing loss. Cardiovascular: endorses chest pain as above, denies palpitations, denies lower extremity edema, denies orthopnea, denies PND. Respiratory: endorses chronic cough productive of small amounts of clear sputum, endorses occasional wheeze, denies hemoptysis, denies frank dyspnea at rest. GI: denies abdominal pain, denies nausea, denies vomiting, denies diarrhea, denies constipation. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies myalgias. Skin: denies rash, denies pruritus. Neuro: denies headache, denies dizziness, denies focal weakness, denies numbness. Psych: denies depression, denies anxiety, though patient admits stress at home is elevated lately due to family issues she'd rather not get into today. Endocrine: denies polyuria, denies polydipsia. Heme/Lymph: denies easy bruising, denies lymphadenopathy. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 148/92, HR 88, RR 18, Temp 98.4F, SpO2 94% on room air, Weight 172 lbs, Height 5'4".
+General: Alert, oriented, no acute distress, well-nourished female sitting comfortably on exam table.
+HEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thrush, no lesions.
+Neck: Supple, no JVD, no thyromegaly, no carotid bruits appreciated bilaterally.
+Cardiovascular: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, or gallops appreciated, no peripheral edema, pulses 2+ symmetric throughout.
+Respiratory: Mildly diminished breath sounds bilaterally with scattered expiratory wheezes, no rales, no rhonchi, prolonged expiratory phase noted, no accessory muscle use at rest.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No cyanosis, no clubbing, no edema.
+Skin: Warm, dry, intact, no rashes noted.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact, no focal deficits.
+Psych: Mood and affect appropriate to situation.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely musculoskeletal versus atypical, cannot fully rule out cardiac etiology given risk factors including hypertension and long smoking history. EKG obtained today, pending formal read, will trend troponins. Consider stress testing if symptoms persist or recur.
+2. Hypertension, not optimally controlled today at 148/92, will increase lisinopril dose and follow up BP log.
+3. COPD, stable per patient report, continue current inhaler regimen, reinforced correct inhaler technique today.
+4. Tobacco use, ongoing, discussed cessation resources and risks, patient not ready to quit at this visit, will readdress at future visits. Lung cancer screening was discussed briefly with the patient as a topic to revisit.
+5. Follow up in cardiology clinic in 2-4 weeks or sooner if symptoms worsen, return precautions given regarding worsening chest pain, shortness of breath, or syncope.
+
+Electronically signed by Hannah Weiss, NP, 05/15/2025.

@@ -1,0 +1,46 @@
+NEW PT VISIT - PRIMARY CARE
+Pt: Susan Chen, F, DOB 3/10/1951 (age 73)
+DOS: 03/10/2024
+Author: Gregory Tan, MD
+
+CC: establish care, general checkup
+
+HPI: 73 yo F here to establish w/ PCP after moving to area, prior care records requested but not yet recvd. Reports doing fairly well overall. Hx of obesity and asthma, uses albuterol prn, denies recent exac. No chest pain, no SOB at rest, occ SOB w exertion. Wt stable per pt. Denies fevers, chills, night sweats. Some fatigue but attributes to poor sleep. No cough currently.
+
+--- copied forward from visit 11/14/2022 (outside records, prior clinic) ---
+Pt seen for f/u asthma and wt mgmt. Peak flow improved since last visit. Continues montelukast and albuterol prn. Discussed dietary modification, referred to nutrition. BP 138/84, HR 78, wt 210 lb. Lungs clear to auscult bilat, mild exp wheeze noted. Plan: continue current meds, f/u 3 mo, recheck lipid panel. A1c wnl. Pt counseled on exercise, home BP monitoring recommended. No acute distress. Return visit scheduled per pt convenience.
+--- end copied section ---
+
+Social Hx: Lives alone in single-family home, independent w ADLs. Retired schoolteacher, previously tought elementary for >30 yrs. Drinks wine occasionally, ~1-2 glasses/wk, denies heavy use. No mention of illicit drug use. Supportive family nearby, daughter visits weekly.
+
+ROS: Constitutional - fatigue as above, no wt loss. Resp - occ exertional SOB, no hemoptysis. CV - no chest pain, no palpitations. GI - no n/v/d. GU - no dysuria. MSK - occ knee pain, chronic. Skin - no rashes. Neuro - no headaches, no focal deficits. Psych - mood stable, no SI/HI.
+
+PMH: Obesity (BMI ~34), asthma (dx in 40s), HTN borderline, osteoarthritis knees.
+PSH: none significant, tonsillectomy as child.
+Meds: albuterol HFA prn, montelukast 10mg qhs, occ ibuprofen for knee pain.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 132/80, HR 76, RR 16, Temp 98.2F, SpO2 96% RA, Wt 208 lb, Ht 5'4"
+Gen: well-appearing, NAD, obese habitus
+HEENT: PERRLA, oropharynx clear
+Neck: no LAD, no thyromegaly
+Lungs: mild exp wheeze bilat bases, no rales/rhonchi, good air movement
+CV: RRR, no m/r/g
+Abd: soft, obese, NT/ND, +BS
+Ext: no edema, knees w mild crepitus b/l, no effusion
+Skin: intact, no lesions
+Neuro: A&Ox3, no focal deficits
+
+Assessment/Plan:
+1. Establish care - new pt, records requested from prior PCP.
+2. Asthma - stable on current regimen, continue albuterol prn and montelukast, reinforce inhaler technique next visit.
+3. Obesity - discussed wt mgmt strategies, refer to nutrition again given prior referral lapsed, encourage low-impact exercise given knee OA.
+4. Osteoarthritis knees - conservative mgmt, ibuprofen prn, consider PT referral if worsens.
+5. Health maintenance - due for mammogram, colonoscopy hx to verify, immunizations to review at next visit (pneumococcal, shingles, flu).
+6. Labs ordered: CBC, CMP, lipid panel, TSH, A1c.
+f/u in 4-6 wks or sooner if concerns.
+
+Time spent: 30 min, >50% counseling/coordination of care.
+
+Electronically signed: Gregory Tan, MD

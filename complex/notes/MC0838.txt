@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Follow-up: Incidental Lung Nodule
+Date of Service: 08/15/2024
+Provider: Daniel Reyes, MD
+Patient: Thomas Ross, M, DOB 04/19/1958 (age 66)
+
+CC: Follow-up incidental pulmonary nodule found on CT chest performed for pre-op cardiac workup.
+
+HPI: Mr. Ross is a 66-year-old male with history of atrial fibrillation, coronary artery disease, hyperlipidemia, and GERD who is seen today via telehealth for follow-up of a nodule noted incidentally on prior imaging. He reports feeling generally well, denies fevers, chills, night sweats, or hemoptysis. He notes some occasional dry cough which he attributes to reflux, worse when [inaudible] lying flat after meals, he says its been going on and off for months and months so its hard to say if its new or old or just the same as always. Denies chest pain at rest, denies palpitations though he does have known Afib on anticoagulation. He denies significant dyspnea on exertion beyond his baseline. Denies unintentional weight loss.
+
+Social History: Never used tobacco. Never smoked cigarettes at any point in his life. He does report vaping nicotine on a daily basis, states he uses an e-cigarette device most days, has never smoked cigarettes but continues the vape habit. Denies alcohol excess, denies illicit drug use. Lives with spouse, retired postal worker.
+
+--- COPIED FORWARD FROM VISIT 02/03/2023 (Dr. Reyes) ---
+Review of Systems: Constitutional: denies fever, chills, weight loss, fatigue. Eyes: denies visual changes. ENT: denies sore throat, denies nasal congestion. Cardiovascular: reports known Afib, denies chest pain, denies orthopnea, denies PND, denies lower extremity edema. Respiratory: denies wheeze, denies hemoptysis, reports occasional cough. GI: reports reflux symptoms, denies nausea, denies vomiting, denies diarrhea, denies constipation, denies melena. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies myalgia. Skin: denies rash. Neuro: denies headache, denies focal weakness, denies numbness. Psych: denies depression, denies anxiety. All other systems reviewed and negative.
+
+Physical Exam (from 02/03/2023, may not reflect current status): Vitals: BP 128/78, HR 72 irregularly irregular, RR 16, Temp 98.2F, SpO2 97% RA. General: well-appearing, no acute distress. HEENT: normocephalic, atraumatic, oropharynx clear. Neck: no JVD, no lymphadenopathy. Cardiovascular: irregularly irregular rhythm, no murmurs, rubs, or gallops. Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Abdomen: soft, nontender, nondistended, normoactive bowel sounds. Extremities: no edema, no cyanosis, no clubbing. Skin: no rashes or lesions noted. Neuro: alert and oriented x3, no focal deficits.
+--- END COPIED FORWARD ---
+
+Current Vitals (08/15/2024, per home monitor reported by patient): BP 132/80, HR 68, SpO2 96% RA (self-reported, no in-person exam performed given telehealth format).
+
+Medications: Apixaban 5 mg BID, Atorvastatin 40 mg qHS, Omeprazole 20 mg daily, Metoprolol succinate 50 mg daily, Aspirin 81 mg daily (held per cardiology given anticoagulation, to confirm), Amlodipine 5 mg daily, Fish oil OTC, Multivitamin daily.
+
+Labs/Imaging:
+- CT Chest (07/10/2024): 8 mm solid nodule right upper lobe, unchanged in density from prior, no calcification noted.
+- CT Chest PRIOR (01/15/2024): same nodule measured 7 mm.
+- CBC (08/01/2024): WBC 6.2, Hgb 14.1, Plt 210.
+- BMP (08/01/2024): Na 139, K 4.2, Cr 1.0, eGFR >60.
+- Lipid panel (06/20/2024): LDL 88, HDL 45, TG 130.
+- INR (08/10/2024): 2.3 (therapeutic, patient on apixaban so this is somewhat of a moot/carried-over lab, disregard).
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, right upper lobe, stable to minimally increased in size (7mm to 8mm) over roughly 6 months. Given minimal interval growth, will obtain repeat CT chest in 3 months for further characterization. Discussed lung cancer screening guidelines and general risk factors in general terms with patient during visit today.
+2. Atrial fibrillation - continues on apixaban, rate well controlled on metoprolol, will continue current regimen, no changes today.
+3. Coronary artery disease - stable, continue atorvastatin and amlodipine, no anginal symptoms reported.
+4. GERD - continue omeprazole, counseled on dietary modification, avoid lying flat after meals.
+5. Hyperlipidemia - lipid panel reviewed above at goal, continue statin.
+
+Return to clinic or telehealth follow-up in 3 months with repeat CT chest, sooner if new symptoms develop such as hemoptysis, unexplained weight loss, or worsening cough. Patient verbalized understanding of plan, all questions answered today.
+
+Daniel Reyes, MD

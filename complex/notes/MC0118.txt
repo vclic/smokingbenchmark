@@ -1,0 +1,51 @@
+Progress Note - Primary Care
+Patient: Denise Henderson (F), DOB 3/4/1962 (age 62)
+Date of Service: 07/17/2024
+Provider: Farah Siddiqui, MD (NP note co-signed)
+
+CC: new patient visit to establish care
+
+HPI: Pt is a 62 yo female presenting to establish care w/ PCP after recent move, states prior doc retired. Reports hx of gout w/ flares affecting L great toe, last flare ~3 mo ago, managed w/ colchicine PRN. Also carries dx of hyperlipidemia, depression, obesity, PAD, and COPD, all per pt report and outside records reviewed today. C/o intermittent claudication in b/l calves w/ ambulation ~2 blocks, improves w/ rest. Denies chest pain, denies SOB at rest but does note exertional dyspnea, ongoing use of albuterol inhaler PRN per pt (records pending from prior clinic). Mood reportedly stable on current antidepressant, no SI/HI. No new complaints today otherwise.
+
+***COPIED FORWARD FROM VISIT 11/02/2022 (outside record, unclear if updated)***
+Pt seen for follow up of PAD and gout, ABI performed showing mild-mod dz b/l, referred to vascular surgery for further eval, colchicine refilled, lipid panel reviewed LDL 142, statin dose increased, pt counseled on diet and exercise, f/u in 3 months, pt tolerting meds well no adverse effects noted, weight stable, BP 138/84, pulse 76 reg, pt educated on gout triggers incl alcohol and red meat, return precautions given, pt verbalized understanding.
+***END COPIED SECTION***
+
+PMH/Problem List:
+- M10.9 Gout, unspecified
+- E78.5 Hyperlipidemia
+- F32.9 Major depressive disorder, unspecified (outdated - pt reports now recurrent, F33.9 more accurate per today's hx)
+- E66.9 Obesity, unspecified
+- I73.9 Peripheral artery disease
+- J44.9 COPD, unspecified
+- (old entry, likely resolved) M79.1 Myalgia - unclear if still active, carried over from prior chart
+
+Social History: noncontributory.
+
+FH: mother w/ CAD, father w/ DM2, no other significant fhx obtained today [inaudible] pt unsure of further details.
+
+Meds: colchicine PRN, atorvastatin, sertraline, albuterol inhaler PRN, occasional NSAID for gout flares
+
+Allergies: NKDA
+
+ROS: constitutional - denies fever chills, denies weight loss; resp - + exertional dyspnea as above, denies cough; CV - + claudication as above denies chest pain palpitations; psych - mood stable denies SI; all other systems reviewed and negative.
+
+Exam:
+Vitals: BP 142/86, HR 78, RR 16, Temp 98.2F, Wt 212 lb, BMI 34.6
+Gen: well-appearing female NAD
+CV: RRR no m/r/g, distal pulses diminished b/l LE (DP/PT 1+)
+Resp: mild expiratory wheeze b/l bases, no accessory muscle use
+Ext: no edema, no ulcers noted, skin intact, gout not currently flaring, L 1st MTP nontender today
+Psych: mood euthymic, affect appropriate
+
+Assessment/Plan:
+1. Gout - stable, continue colchicine PRN, counsel diet
+2. Hyperlipidemia - recheck lipid panel, continue statin
+3. Depression - stable on sertraline, cont current dose, f/u prn
+4. Obesity - discussed diet/exercise, referral to nutrition offered
+5. PAD - will obtain updated ABI, refer vascular surgery if worsening, ASA started
+6. COPD - continue albuterol PRN, spirometry ordered to confirm severity, pulm referral considered
+
+Pt agreeable w plan, all questions answered, f/u in 4 wks or sooner if worsening sx, return precautions reviewed and pt verbalized understanding today.
+
+Electronically signed: Farah Siddiqui, MD

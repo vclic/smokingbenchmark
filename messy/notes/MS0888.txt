@@ -1,0 +1,47 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 12/07/2024
+Author: Quentin Hale, PA-C
+
+Patient: Denise Russell (F), DOB 11/14/1954, Age 70
+
+CC: Lung cancer screening shared decision-making visit
+
+HPI: Ms Russell is a 70 yo woman here today for discussion regarding lung cancer screening. She has no current respiratory complaints, denies hemoptysis, chest pain, or unintentional weight loss. Pt states "I feel fine, I just came in cause my primary doc told me I should talk to someone about the scan." She reports occasional dyspnea on exertion which she attributes to her PAD and obesity, says "I get winded going up stairs but that's nothing new." No fevers, no night sweats.
+
+Smoking Hx: Pt smoked 20 cigarettes per day for 16 years. She reports she no longer smokes and quit smoking in 1999. She denies any other tobacco or nicotine product use currently. Discussed risks/benefits of lung cancer screening at length, pros and cons reviewed, pt verbalizd understanding.
+
+PMH/Problem List:
+- I48.91 Atrial fibrillation (on anticoagulation, stable)
+- M10.9 Gout (last flare >1 yr ago)
+- I73.9 Peripheral artery disease
+- E11.9 Type 2 diabetes mellitus
+- J45.909 Asthma, unspecified (outdated - pt reports no wheeze/inhaler use in years, may need reclassification)
+- E66.9 Obesity
+
+Meds: Apixaban, metformin, allopurinol, albuterol PRN (rarely used per pt), atorvastatin.
+
+Allergies: NKDA
+
+ROS: Otherwise negative except as above. Denies orthopnea, PND, claudication at rest.
+
+Exam:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 16, SpO2 96% RA, Wt reflects BMI in obese range
+Gen: well appearing, NAD
+HEENT: unremarkable
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Ext: trace edema, PAD-related skin changes noted on lower extremities, pulses diminished but palpable
+
+Assessment: 70 yo female former smoker (20 cig/day x16 yrs, quit 1999) presenting for LCS shared decision making discussion. Multiple comorbidities including afib, PAD, T2DM, obesity as above, all stable per pt report today.
+
+Plan:
+1. Lung cancer screening - discussed risks and benefits of screening with pt in detail today, questions answered, decision aid reviewd with pt.
+2. Continue current management of afib - cont apixaban, f/u with cardiology as scheduled
+3. PAD - continue current regimen, reinforce foot care ed, f/u vascular surgery per their sched
+4. T2DM - continue metformin, recheck A1c at next visit
+5. Asthma - appears inactive clinically, will readdress at future visit, may deprescribe albuterol if remains asymptomatic
+6. Obesity - discussed diet/exercise, pt open to referral to nutrition
+7. Gout - stable, cont allopurinol
+8. RTC in 3 months or sooner if symptoms arise
+
+Electronically signed by Quentin Hale, PA-C

@@ -1,0 +1,39 @@
+TELEHEALTH ANNUAL WELLNESS VISIT
+Patient: Deborah Rivera, F, DOB 4/20/1971 (age 52)
+Date of Service: 05/14/2023
+Provider: Owen Fitzgerald, MD
+Visit type: telehealth, video/audio, patient consented to virtual visit.
+
+HPI: Ms. Rivera is a 52 y/o female here for annual wellness exam via telehealth. She states "I've been feeling pretty good, just tired sometimes with my sleep apnea mask." She reports good compliance with CPAP, denies chest pain, denies palpitations though notes occasional "flutter feeling" which she has had before with her known afib. Reports reflux symptoms are controlled on current meds, occasional heartburn at night if she eats late [inaudible] she says "maybe once a week." Blood pressure logs at home reportedly averaging around 130s/80s she thinks, she will bring log to next in person visit.
+
+=== COPIED FORWARD FROM VISIT 11/02/2021 ===
+ROS: Constitutional: denies fever, chills, weight loss. Eyes: no visual changes. ENT: no sore throat. Cardiovascular: denies chest pain, denies edema. Respiratory: denies cough, denies dyspnea on exertion. GI: reports occasional reflux, denies nausea/vomiting. GU: denies dysuria. MSK: denies joint pain. Neuro: denies headache, denies dizziness. Psych: denies depression, denies anxiety. Skin: no rashes.
+Physical Exam (11/02/2021): Vitals stable, BP 128/78, HR 76 irregularly irregular, Wt 168 lb. General: NAD. HEENT: normocephalic, atraumatic. Neck: no JVD, no thyromegaly. Lungs: clear to auscultation bilaterally. Heart: irregularly irregular rhythm, no murmurs. Abd: soft, nontender, nondistended. Ext: no edema. Neuro: alert and oriented x3.
+Medications (11/02/2021): Lisinopril 20mg daily, Omeprazole 20mg daily, Metoprolol succinate 50mg daily, Apixaban 5mg BID, Atorvastatin 20mg daily.
+=== END COPIED FORWARD ===
+
+Problem List (current, some outdated):
+1. Essential hypertension - I10
+2. GERD - K21.9
+3. Obstructive sleep apnea - G47.33
+4. Atrial fibrillation - I48.91
+5. Seasonal allergic rhinitis - J30.2 (resolved, remains listed)
+6. Vitamin D deficiency - E55.9 (last noted 2019, unclear current status)
+
+Current Medications: Lisinopril 20mg daily, Omeprazole 20mg daily, Metoprolol succinate 50mg daily, Apixaban 5mg twice daily, Atorvastatin 20mg daily, CPAP nightly.
+
+Today's ROS (updated): Denies new symptoms, all systems otherwise reviewed and negative as above except as noted in HPI.
+
+Physical Exam (today, limited via telehealth, patient self-reported vitals): BP 132/82 (home cuff), HR 78 by patient palpation reported irregular, no acute distress noted on video, speech clear, affect appropriate, no visible respiratory distress.
+
+Assessment/Plan:
+1. Hypertension - stable, continue lisinopril, recheck BP log at next visit.
+2. GERD - stable on omeprazole, continue, advised avoid late meals.
+3. Obstructive sleep apnea - continue CPAP, review compliance data at next in-person visit.
+4. Atrial fibrillation - stable, continue metoprolol and apixaban, no new symptoms.
+5. Tobacco history - patient has a significant past smoking history. She reports smoking 2 packs per day for 2 years, then stopped completely for 2 years, then restarted at 2 packs per day for another 2 years before quitting for good. She is a former smoker and no longer smokes. She quit smoking for good around the time her grandson was born; that grandson is now 31 years old. Discussed screening topics generally as part of preventive care conversation, no imaging ordered today.
+6. Health maintenance - mammogram, colonoscopy status reviewed, up to date per patient report.
+
+Follow-up: Return in person in 3 months or sooner if symptoms worsen. Patient verbalized understanding, agreeable to plan.
+
+Electronically signed: Owen Fitzgerald, MD

@@ -1,0 +1,54 @@
+Cardiology Progress Note
+Patient: Mark Okafor (M), DOB 6/24/1972
+Date of Service: 07/13/2025
+Author: Elena Markovic, MD
+
+CC: chest pain evaluation.
+
+HPI: Mr. Okafor is a 53 year old male, referred by PCP for evaluation of intermittent chest discomfort over the past several weeks. He describes it as a pressure-like sensation, substernal, occasionally radiating to the left arm, lasting several minutes at a time. Sometimes it seems to occur with exertion, other times at rest or after meals, and pt admits he is not entirely sure of the pattern - could be related to his GERD, could be cardiac, [inaudible] he says it's hard to pin down exactly when it starts. No clear syncope. He does note occasional palpitations, denies orthopnea currently though has had PND in the past per prior notes copied forward. Denies fevers, chills, hemoptysis.
+
+His wife (sleep partner) reports loud snoring and witnessed apneic episodes, consistent with his known dx of obstructive sleep apnea; he is on CPAP but compliance has been described as variable, he says the mask is uncomfortable and he doesn't wear it every night which we discussed at length.
+
+Cardiac history notable for heart failure with reduced ejection fraction, followed in this clinic, on GDMT. GERD managed with PPI, occasional breakthrough symptoms especially after spicy or fatty meals per patient report, he thinks the chest pressure could just be reflux but wanted it checked out given his heart history.
+
+Smoking/Tobacco: Patient is a lifelong non-smoker, denies ever having smoked cigarettes, cigars, or using other tobacco products. No vaping history elicited either. General pulmonary risk factors were briefly touched on given his OSA.
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Cardiac - as above, chest pressure, occasional palpitations, denies true syncope. Resp - denies cough, denies hemoptysis, denies significant dyspnea at rest though notes some exertional breathlessness which he attributes to deconditioning. GI - reflux sx as above. All other systems reviewed and negative except as noted in HPI.
+
+PMH: Obstructive sleep apnea (on CPAP, variable adherence), heart failure with reduced ejection fraction (EF last documented 35% per echo 2024), GERD.
+
+PSH: Denies significant surgical history, appendectomy as a teenager per pt.
+
+Meds: Carvedilol, lisinopril, spironolactone, furosemide prn, omeprazole, CPAP (nightly, variable use).
+
+Allergies: NKDA.
+
+Social Hx: Lives with wife, works as an accountant, denies illicit drug use, occasional alcohol (1-2 drinks/week per pt). Denies any tobacco use as above. Exercise minimal per pt due to fatigue.
+
+Family Hx: Father with MI at age 61, mother with hypertension. No family hx of lung disease reported.
+
+Vitals: BP 138/86, HR 78 reg, RR 16, Temp 98.4F, SpO2 96% RA, Wt 210 lb, BMI 31.4.
+
+Exam: General - well-appearing, no acute distress, pleasant and cooperative. HEENT - unremarkable, no JVD appreciated at 30 degrees. CV - RRR, S1 S2 nl, no murmurs/rubs/gallops appreciated today (though pt notes prior echo showed reduced EF). Lungs - clear to auscultation bilaterally, no wheezes/rales/rhonchi. Abd - soft, nontender, nondistended, +BS. Ext - trace bilateral pitting edema, no calf tenderness. Neuro - grossly intact.
+
+Labs/Results:
+- CBC (07/13/2025): WBC 6.8, Hgb 14.2, Hct 42.1%, Plt 231 - all wnl.
+- BMP (07/13/2025): Na 138, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 96 - unremarkable.
+- BNP (07/13/2025): 210 pg/mL (mildly elevated, stable compared to prior 195 pg/mL on 03/02/2025).
+- Troponin I (07/13/2025, single draw): <0.01 ng/mL, negative.
+- Lipid panel (06/28/2025, outside lab): Total chol 188, LDL 112, HDL 42, Trig 170.
+- EKG (07/13/2025): NSR, rate 76, nonspecific ST-T changes, unchanged from prior tracing dated 01/2025.
+- Echo (04/2024, reviewed today): LVEF 35%, mild to mod LV dilation, mild MR.
+
+Assessment: 53 y/o male, lifelong non-smoker, with hx OSA (variable CPAP adherence), HFrEF, GERD, presenting w/ intermittent chest pressure of uncertain etiology - differential includes GERD-related discomfort, possible cardiac ischemia (though negative troponin today and unremarkable EKG), and possible musculoskeletal component given variable pattern of symptoms not clearly tied to exertion.
+
+Plan:
+1. Chest pain - will obtain outpatient stress echo to further eval for inducible ischemia given hx of HFrEF and atypical features; pt counseled to seek ED eval immediately if pain worsens, becomes crushing, or is assoc with diaphoresis/SOB/radiation not previously experienced.
+2. HFrEF - continue current GDMT, will recheck BNP and BMP at next visit, encourage daily weights, low sodium diet reviewed again today (pt states he understands but admits noncompliance at times, esp when eating out).
+3. OSA - strongly encouraged improved CPAP compliance, referred back to sleep medicine for mask refitting given comfort issues, discussed cardiovascular risks of untreated OSA in setting of HFrEF.
+4. GERD - continue PPI, reinforced dietary modification, avoid late meals, elevate head of bed.
+5. Lipids - mildly elevated triglycerides noted, will discuss statin optimization at next visit pending stress echo results.
+6. Return to clinic in 4-6 weeks or sooner if symptoms worsen; pt verbalized understanding of plan and agreed with above.
+
+Elena Markovic, MD
+Cardiology

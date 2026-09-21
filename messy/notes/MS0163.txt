@@ -1,0 +1,66 @@
+GERIATRIC ASSESSMENT H&P
+Patient: Mei Murphy, F, DOB 2/11/1959 (age 64)
+DOS: 06/16/2023
+Author: Julia Brennan, MD
+
+CC: Comprehensive geriatric assessment, referred by PCP.
+
+HPI: 64F with osteoporosis, hypothyroidism, CAD, OSA, depression, HTN presents for annual geri assessment. Pt reports doing 'okay overall, just some knee pain when I walk to the mailbox.' Denies falls, denies new CP/SOB. Sleeps with CPAP nightly, tolerates well per pt: 'I don't even notice it anymore.' Mood stable on current antidepressant, denies SI/HI. Appetite fair, some mild constipation. Bone density scan pending renewal.
+
+ROS: Constitutional - no fever/chills/weight loss. CV - no chest pain, no palpitations. Resp - no cough, no wheeze. GI - mild constipation as above. Neuro - no focal deficits. Psych - mood stable, no SI.
+
+PMH:
+- Osteoporosis
+- Hypothyroidism
+- CAD s/p stent 2016
+- OSA on CPAP
+- Depression
+- HTN
+
+Meds: Levothyroxine 75mcg qd, alendronate 70mg qwk, lisinopril 10mg qd, sertraline 50mg qd, ASA 81mg qd, atorvastatin 40mg qd
+
+Soc Hx: Lives w/ husband, independent in ADLs/IADLs. Former smoker - quit smoking in 2014. Occasional ETOH. No illicit drug use.
+
+PE:
+Vitals: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 96% RA, Wt 142lb
+Gen: NAD, well-groomed, appears stated age
+CV: RRR, no m/r/g
+Resp: CTAB, no wheezes/rales
+MSK: mild crepitus b/l knees, no effusion
+Neuro: A&Ox3, gait steady, no focal deficits
+Psych: euthymic affect, appropriate
+
+Labs (recent):
+- TSH 06/10/2023: 2.1 (WNL)
+- CBC 06/10/2023: WNL, Hgb 13.1
+- BMP 06/10/2023: Na 140, K 4.2, Cr 0.9, eGFR >60
+- Lipid panel 06/10/2023: LDL 88, HDL 52, TG 110
+- Vit D 25-OH 05/15/2023: 32 (sufficient)
+
+Problem List (ICD-10):
+- M81.0 Osteoporosis without pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- I25.10 CAD without angina
+- G47.33 OSA
+- F32.9 MDD, unspecified (outdated - now on maintenance tx, consider updating to F33.1)
+- I10 Essential HTN
+- Z87.891 Personal history of nicotine dependence
+- M17.9 OA of knee, unspecified (old dx, chart carried forward, not addressed today)
+
+Assessment/Plan:
+64F with multiple chronic conditions here for geriatric assessment.
+
+1. Tobacco use history - patient has a 42-year history of smoking but no longer smokes; quit in 2014. Reinforced benefits of continued abstinence, no further cessation counseling needed at this visit given long-term quit status. Lung cancer screening was discussed with patient given smoking history; will revisit at future visit.
+2. Osteoporosis - continue alendronate, DEXA due for renewal, will order.
+3. Hypothyroidism - TSH within normal limits, continue current dose.
+4. CAD - stable, continue ASA/statin, no anginal sx.
+5. OSA - continues CPAP, tolerating well.
+6. Depression - stable on sertraline, mood euthymic, will continue.
+7. HTN - well controlled on current regimen.
+8. Knee pain - likely OA, will consider PT referral if persists.
+
+RTC in 6 months or sooner if needed.
+
+---
+ADDENDUM (later same day, 06/16/2023, 3:45pm) - J. Brennan, MD:
+Spoke with pt by phone after visit re: DEXA scheduling, appt made for 06/30/2023. Pt also asked about knee pain mgmt, advised APAP prn and ice, will reassess at next visit. No changes to overall plan above. Reiterated to pt that quitting smoking back in 2014 has had lasting benefit for her cardiovascular and pulmonary health.

@@ -1,0 +1,39 @@
+NURSE INTAKE
+Pt: Susan Wood DOB 6/16/1974 Age 50
+DOS 06/16/2024
+Visit type: Lung CA screening SDM visit - Pulm
+
+Vitals: BP 132/78 HR 76 RR 16 SpO2 97% RA
+CC: here for shared decision-making re lung ca screening d/t smoking hx.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Type: cigarettes
+Pack/day: Not on file
+Years smoked: 25 years
+Quit date: N/A
+Alcohol: occasional
+Drug use: denies
+Occupation: retail
+
+HPI: Ms Wood is a 50 yo woman referred for lung cancer screening SDM visit. she reports she is an active smoker, continues to smoke daily and has not attempted to quit recently. she endorses occasional dyspnea on exertion, denies hemoptysis, denies wt loss. Hx of osteoporosis and CAD, stable on current meds, no new chest pain or anginal equivalents today.
+
+ROS: otherwise negative except as above. no fevers no night sweats.
+
+PMH: osteoporosis, coronary artery disease s/p stent per pt report
+Meds: alendronate, aspirin, atorvastatin, metoprolol (per chart, not reconciled today)
+Allergies: NKDA
+
+Exam: Gen - NAD, well appearing woman. Lungs - CTAB no wheezes rales rhonchi. CV - RRR no m/r/g. Ext - no edema.
+
+ASSESSMENT/PLAN
+Susan Wood, 50F, seen 6/16/2024 for lung cancer screening shared decision-making discussion.
+1. Tobacco use - active smoker, smoking history of 25 years. discussed risks/benefits of screening, discussed smoking cessation resources, counseled to quit, pt states she is not ready to quit at this time. will provide cessation counseling materials.
+2. Coronary artery disease - stable, continue current cardiac regimen, f/u w cardiology as scheduled.
+3. Osteoporosis - continue alendronate, recheck DEXA per prior schedule.
+4. Screening discussion - risks and benefits of low dose imaging reviewed in detail with pt, questions answered, pt to think it over and follow up.
+
+RTC 3 months or sooner if new sx.
+
+Julia Brennan, MD
+Pulmonology

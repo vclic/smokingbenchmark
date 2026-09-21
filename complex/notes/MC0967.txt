@@ -1,0 +1,60 @@
+GERIATRIC ASSESSMENT PROGRESS NOTE
+Date of Service: 02/01/2024
+Author: Julia Brennan, MD (Geriatrics)
+Patient: Larry Smith, M, DOB 02/01/1962 (age 62)
+
+HPI:
+Pt presents for annual geriatric assessment. Pt states "I feel about the same, doc, maybe a bit more tired." No new complaints of chest pain, SOB, or urinary retention. Reports mood stable on current regimen, denies SI/HI. He notes "I sleep ok most nights but wake up to pee twice." BPH sx stable per pt report, no hesitancy worsening. Depression screening reviewed, PHQ-9 stable from last visit (score not repeated today - see prior note).
+
+---COPIED FORWARD FROM VISIT DATED 06/15/2022---
+Pt is a pleasant gentleman living alone, ambulates independently, uses cane occasionally outdoors. Denies falls in past year. Nutrition adequate per pt report, appetite good. Denies significant memory concerns, MoCA deferred this visit due to time. Family hx notable for HTN and DM2 in siblings. Pt continues to attend senior center activities twice weekly, reports enjoys cards and socializing there. No acute distress noted. Skin exam wnl, no lesions. Gait steady, no assistive device required at that time.
+---END COPIED TEXT---
+
+SOCIAL HISTORY (EHR templated block):
+Marital status: Widowed
+Living situation: Lives alone
+Occupation: Retired
+Alcohol use: Quit drinking alcohol in 2004
+Illicit drug use: Not on file
+Tobacco use: Former smoker
+  - Cigarettes: 3 packs/day x 6 years, then cut back to approx 1/4 pack (about 5 cigarettes)/day x 10 years, then quit
+  - Current status: No longer smokes
+  - E-cigarettes/vaping: Occasional vaping reported
+  - Smokeless tobacco: Not on file
+Exercise: 
+Diet: Not on file
+
+Assessment/Plan discussion (tobacco):
+Pt reports he quit smoking 4 years after his wife passed away, which was in 2001; he became tobacco free thereafter per his report today. Pt continues to vape occasionally, encouraged to discuss cessation of vaping as well given no safe level established. Lung cancer screening was discussed in general terms as part of preventive health counseling appropriate for his age and smoking history; no further action taken on that topic today.
+
+ROS: Constitutional - fatigue as above, denies fever/chills/weight loss. Cardiac - denies CP/palpitations. Resp - denies cough/wheeze/hemoptysis. GU - nocturia x2 as above, denies dysuria/hematuria. Psych - mood stable, denies anhedonia currently, sleep fair.
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, Temp 97.8F, Wt 178 lb
+General: NAD, well-groomed elderly male
+CV: RRR, no m/r/g
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND, no CVA tenderness
+GU: deferred, prior DRE wnl per chart
+Neuro: grossly intact, no focal deficits
+Psych: affect appropriate, euthymic today
+
+Labs reviewed: PSA stable from last check, CMP wnl, lipid panel reviewed - LDL borderline
+
+Assessment:
+1. Depression - stable, continue current SSRI, follow up in 3 months
+2. BPH - stable sx, continue tamsulosin, monitor PSA
+3. Tobacco use, former - counseled re: vaping cessation, reinforced no combustible tobacco use currently
+4. Alcohol use, remote - abstinent since 2004 per report, no concerns today
+5. Health maintenance - preventive screenings reviewed including discussion of age-appropriate cancer screenings; pt to follow up with PCP for further coordination
+
+Plan:
+- Continue sertraline as prescribed
+- Continue tamsulosin
+- Recheck PSA in 6 months
+- Counsel on vaping cessation, provided handout
+- f/u geriatrics in 6 months, sooner if needed
+- pt verbalized understanding, agreeable to plan
+
+Signed electronically,
+Julia Brennan, MD

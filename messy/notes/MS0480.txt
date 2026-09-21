@@ -1,0 +1,66 @@
+Telehealth Follow-up Note - Pulmonology
+Author: Owen Fitzgerald, MD
+Date of Service: 02/11/2025
+
+Patient: Evelyn Gonzales, F, DOB 1/28/1961 (age 64)
+
+CHIEF COMPLAINT: Follow-up after recent ED visit/COPD exacerbation.
+
+HPI: Ms. Gonzales is a 64-year-old woman with a history of COPD, CAD, hyperlipidemia, and hypothyroidism who presented to the ED approximately 1 week ago with worsening dyspnea and productive cough, treated with nebulizers, prednisone taper, and antibiotics. She reports gradual improvement in breathing since discharge. She continues to use her home inhalers as prescribed. No fevers, chest pain, or hemoptysis currently. She is being seen today via telehealth for close follow-up given recent exacerbation.
+
+--- COPIED FORWARD FROM PRIOR VISIT (10/03/2023) ---
+HPI (historical): Patient presents for routine COPD management. Reports stable symptoms on current inhaler regimen. Denies acute distress. Continues to follow with cardiology for CAD management, last stress test unremarkable. Hypothyroidism stable on levothyroxine, TSH within normal limits at last check. Lipid panel reviewed, LDL at goal on statin therapy. Discussed importance of pneumococcal and influenza vaccination; patient states she is up to date. Reviewed inhaler technique, no issues noted. Plan: continue current regimen, follow up in 6 months, routine labs at next visit.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY:
+TOBACCO USE (templated block):
+ Current smoker: Yes
+ Type: Cigarettes
+ Amount: 1/2 pack per day (approx 10 cigarettes/day)
+ Duration: 43 years
+ Readiness to quit: Not ready to quit at this time
+ Counseling provided: Yes, advised to quit, discussed risks of continued tobacco use in setting of COPD/CAD
+
+Additional social history note: Patient lives with spouse, denies alcohol or illicit drug use. Works part-time as a retail associate.
+
+A quit date has been set for 2/27/2025, per patient request, though she voiced ambivalence about follow-through given ongoing stress at home.
+
+MEDICATIONS:
+- Levothyroxine 75 mcg daily
+- Atorvastatin 40 mg daily
+- Aspirin 81 mg daily
+- Tiotropium inhaler daily
+- Albuterol inhaler PRN
+- Fluticasone/salmeterol inhaler BID
+
+PHYSICAL EXAM (telehealth, limited):
+General: Alert, no acute distress, speaking in full sentences.
+Respiratory: Reports mild wheeze on exertion, no visible use of accessory muscles observed on camera.
+Cardiovascular: Denies chest pain, palpitations.
+Otherwise limited due to virtual format.
+
+PROBLEM LIST (with ICD-10 codes):
+1. COPD with acute exacerbation (resolving) - J44.1
+2. Coronary artery disease - I25.10
+3. Hyperlipidemia - E78.5
+4. Hypothyroidism - E03.9
+5. Tobacco use disorder - Z72.0
+6. Essential hypertension - I10 (outdated, patient reports this was resolved after weight loss per prior note, not currently treated)
+7. GERD - K21.9 (outdated, no longer symptomatic per patient, carried forward from old problem list)
+
+ASSESSMENT AND PLAN:
+64-year-old woman, DOB 1/28/1961, seen today 02/11/2025 via telehealth for follow-up after recent COPD exacerbation.
+
+1. COPD exacerbation - improving on current regimen. Continue tiotropium and fluticasone/salmeterol. Completed steroid taper as prescribed at discharge. Continue albuterol PRN. Reinforce inhaler technique. Follow up in 4 weeks or sooner if symptoms worsen.
+
+2. Tobacco use - patient continues to smoke approximately half a pack per day, longstanding 43-year history. She is not ready to quit but has agreed to a tentative quit date of 2/27/2025. Discussed smoking cessation resources including nicotine replacement therapy and counseling referral. Discussed general health risks of continued smoking in context of COPD and CAD. Lung cancer screening was discussed in general terms as part of overall risk counseling.
+
+3. Coronary artery disease - stable, continue aspirin and statin, no new symptoms reported.
+
+4. Hyperlipidemia - continue atorvastatin, will check lipid panel at next visit.
+
+5. Hypothyroidism - continue levothyroxine, will check TSH at next visit.
+
+Return to clinic or telehealth follow-up in 4 weeks, sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Electronically signed: Owen Fitzgerald, MD

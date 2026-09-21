@@ -1,0 +1,42 @@
+TELEHEALTH VISIT NOTE
+DOS: 05/26/2023
+Provider: Nadia Haddad, MD - Cardiology
+
+Patient: Marilyn King, F, DOB 05/26/1969 (age 54 today)
+
+CC: HFrEF follow-up via telehealth.
+
+HPI: 54 yo F w/ HFrEF, gout, CKD stage 3, asthma, obesity presents for routine f/u. Reports mild dyspnea on exertion, stable from last visit, no PND/orthopnea. Denies chest pain, palpitations, syncope. Compliant w/ meds, watching salt intake. No recent hospitalizations.
+
+ROS: Constitutional - no fever/chills, wt stable. CV - as above, no edema. Resp - no cough, occasional wheeze w/ exertion, uses albuterol PRN. GI - no N/V/D, no abd pain. GU - no dysuria. MSK - no active gout flare, last flare 3 mo ago. Neuro - no focal deficits. Skin - no rash. All other systems reviewed and negative per template.
+
+PMH: HFrEF (EF 35% on last echo 2/2023), gout, CKD stage 3 (baseline Cr ~1.6), asthma, obesity (BMI 34).
+
+Meds: Carvedilol 25mg BID, Sacubitril/valsartan 97/103mg BID, Spironolactone 25mg daily, Furosemide 40mg daily, Allopurinol 300mg daily, Colchicine 0.6mg PRN flare, Albuterol HFA PRN, Atorvastatin 40mg qhs, Vitamin D 1000IU daily.
+
+Physical Exam (limited, via video):
+Gen: NAD, well-appearing, no acute distress.
+CV: Reg rate/rhythm per pt report, no visible JVD assessment possible via video.
+Resp: No visible respiratory distress, no accessory muscle use.
+Ext: Pt reports no swelling, denies calf pain.
+Skin: No rashes visualized.
+(Note: physical exam limited due to telehealth format; pt able to demonstrate no peripheral edema on exam of ankles via camera.)
+
+Labs/Results:
+- BNP 5/20/2023: 210 pg/mL (down from 340 on 2/15/2023)
+- BMP 5/20/2023: Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.7, eGFR 38
+- Uric acid 5/20/2023: 6.8 mg/dL
+- Lipid panel 3/2023: LDL 88, HDL 42, TG 150
+
+Assessment/Plan:
+1. HFrEF - clinically stable, BNP improved. Continue GDMT as above, monitor renal fxn given CKD.
+2. Social hx: Smoking - pt has significant smoking hx, smoked half a pack (about 10 cigarettes) per day for 33 years; quit smoking 2 years ago. Counseled on continued avoidance of tobacco given cardiopulmonary comorbidities; reinforced positive reinforcement for cessation success.
+3. CKD stage 3 - stable, Cr 1.7, eGFR 38, continue to monitor, avoid nephrotoxins.
+4. Gout - no active flare, continue allopurinol, uric acid at goal.
+5. Asthma - stable on PRN albuterol, no recent exacerbations.
+6. Obesity - discussed diet/exercise, referred to nutrition.
+7. Lung cancer screening discussed given smoking history; further discussion to occur at PCP visit.
+
+F/u: Cardiology in 3 months, sooner if worsening symptoms. Labs to be repeated prior to next visit.
+
+Electronically signed: Nadia Haddad, MD

@@ -1,0 +1,33 @@
+H&P - Pulmonology
+Patient: Richard Rivera M DOB 11/10/1971 Age 52
+DOS: 11/10/2023
+Provider: Brian Okonkwo MD
+
+Visit type: Lung cancer screening shared decision-making
+
+HPI: Mr Rivera presents today for discussion re lung cancer screening options he reports chronic cough occasionally productive no hemoptysis no wt loss he has hx of OSA GERD HFrEF CAD and T2DM and states he feels his breathing has been stable per home O2 sat checks the pt is a active smoker and continues to smoke daily he denies chest pain currently, denies fevers, [inaudible] regarding recent sleep study results per pt he is compliant with CPAP most nights.
+
+Social History: Tobacco use - see assessment for detailed pack history. Pt reports he previously quit smoking in 2009 but relapsed in 2012 and has smoked since. A quit date has been set for 12/11/2023 (pt states motivated to quit again per discussion today re: screening and health risks).
+
+--- Copied from note dated 9/10/2020 (unchanged, historical) ---
+Social Hx as documented 9/10/2020: Current smoker, discussed cessation resources, pt not ready to quit at that time.
+--- end copied section ---
+
+ROS: otherwise negative except as above, denies dyspnea at rest, occasional orthopnea managed w/ meds, GERD sx well controlled on PPI.
+
+PMH / Problem List:
+- G47.33 Obstructive sleep apnea
+- K21.9 GERD
+- I50.22 Chronic systolic (congestive) heart failure
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina pectoris
+- E11.9 Type 2 diabetes mellitus without complications
+- Z87.891 Personal history of nicotine dependence (outdated entry, pt remains active smoker per today's visit)
+
+Meds: metoprolol succinate, lisinopril, furosemide, empagliflozin, omeprazole, atorvastatin
+
+Exam: Vitals stable BP 128/78 HR 76 RR16 SpO2 95% RA. Gen: NAD alert oriented x3. Lungs: mild expiratory wheeze bilat bases clear otherwise. CV: RRR no m/r/g, mild LE edema trace. Abd: soft nontender. Ext: no clubbing cyanosis.
+
+Assessment/Plan:
+52 yo male here for LCS shared decision making visit. Smoking hx notable he smoked 2 packs per day for 9 years then increased to 3 packs per day for 15 years and he still smokes at that rate today, he remains a active smoker despite prior counseling. Discussed risks/benefits of lung cancer screening in detail with pt including radiation exposure, false positives, incidental findings, he verbalized understanding. Screening was discussed at length though no imaging order placed today. Continue current cardiac and pulm meds. Counseled extensively on smoking cessation offered nicotine replacement and referral to tobacco cessation program pt open to discussion given his quit date set for 12/11/2023. Will f/u OSA management with sleep medicine, continue CPAP. Cont current management of HFrEF/CAD/DM2 per cardiology and endocrinology. RTC 3 months or sooner if symptoms worsen.
+
+Electronically signed: Brian Okonkwo MD

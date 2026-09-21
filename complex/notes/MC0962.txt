@@ -1,0 +1,48 @@
+NURSE INTAKE
+Pt: Roger Jenkins  DOB: 3/7/1965  Age: 58  Sex: M
+DOS: 03/07/2023
+Visit type: Pulm SDM visit re: lung ca screening
+Vitals: BP 128/80 HR 76 RR 16 Temp 98.2 SpO2 97% RA Wt 198lb
+
+CC: "here to talk about the lung cancer scan thing my PCP mentioned"
+
+HPI (per pt): Pt states he feels generally well, denies cough, hemoptysis, wt loss. c/o some fatigue which he attributes to poor sleep "my machine keeps beeping at night." He was referred by PCP for shared decision-making visit regarding lung cancer screening given his smoking hx. Pt states "I quit for good back in 19, before that I'd quit and start again a few times." No current resp complaints, no chest pain. Denies fevers/chills. Reports adherence to CPAP inconsistent.
+
+ROS: Constitutional - neg for fever, +fatigue. Resp - no cough/SOB. CV - no cp/palp. Psych - hx depression, stable on current tx, denies SI.
+
+PROBLEM LIST (per EMR, some outdated):
+- F33.1 Major depressive disorder, recurrent, moderate
+- G47.33 Obstructive sleep apnea
+- M19.90 Osteoarthritis, unspecified site
+- I10 Hypertension (dc'd 2015 per chart review, pt not on antihypertensives - outdated entry)
+- Z87.891 Personal hx of nicotine dependence
+
+SOCIAL HISTORY:
+Tobacco: Pt smoked 1 pack per day for 15 years, then cut back to about half a pack (~10 cigs/day) for 20 years before quitting. Pt is a former smoker - quit. He first quit in 2011, restarted in 2013, then quit for good in 2019.
+Etoh: pt quit drinking alcohol in 2014, denies current use.
+Drug use: denies illicit drug use.
+Lives w/ spouse, retired machinist.
+
+MEDS: sertraline 100mg qd, meloxicam 15mg qd prn, CPAP nightly (adherence variable)
+
+ALLERGIES: NKDA
+
+---
+PHYSICIAN PROGRESS NOTE - Laura Castellano, FNP-C
+
+S: 58 yo M here for pulm SDM visit re: LCS d/t former smoking hx. As above pt endorses long smoking hx, now former smoker - quit. Discussed the general concept of lung cancer screening including potential benefits (early detection) and risks/harms (false positives, incidentalomas, radiation, overdiagnosis, downstream procedures). Pt has questions re: how often scan wld be needed and expressed some anxiety re: possible findings, consistent w/ his underlying depression hx. Reassured and provided educational handout.
+
+Also reviewed OSA - pt reports CPAP use inconsistent, will encourage improved adherence, may need repeat sleep study if sx persist. OA - stable, managed w/ meloxicam prn, no new joint complaints today.
+
+O: Pt appears well, NAD. Lungs CTAB, no wheeze/rales/rhonchi. Heart RRR no m/r/g. No digital clubbing. No lymphadenopathy appreciated.
+
+A/P:
+1. Hx of tobacco use, now former smoker (quit) - reviewed detailed smoking hx as documented in SH above. Lung cancer screening shared decision-making conversation completed today per above; discussed benefits/risks/harms of screening, pt to think it over and follow up w/ decision. Screening was discussed; no imaging ordered today.
+2. OSA - encourage CPAP compliance, f/u sleep med if needed.
+3. MDD - stable, continue sertraline, f/u psych as scheduled.
+4. OA - stable, continue meloxicam prn, f/u ortho if worsening.
+5. Etoh use hx - pt reports quit drinking alcohol in 2014, doing well, no current concerns.
+
+RTC 3 months or sooner if concerns. Pt verbalized understanding of above plan.
+
+-Laura Castellano, FNP-C

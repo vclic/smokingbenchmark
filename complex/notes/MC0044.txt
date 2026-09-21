@@ -1,0 +1,66 @@
+Progress Note - Pulmonology Clinic
+Date of Service: 02/01/2024
+Author: Priya Raman, MD (NP-authored, co-signed)
+Patient: Kenneth Butler, M, DOB 02/01/1945 (age 79)
+
+CC: Follow-up after recent ED visit/COPD exacerbation.
+
+HPI: Mr. Butler is a 79-year-old male seen today in follow-up after presenting to the ED 5 days ago with worsening dyspnea and productive cough, treated with nebulizers, prednisone burst, and azithromycin, discharged home. He reports feeling "a lot better than last week, but still winded going up the stairs." He denies fever, chest pain, or hemoptysis. He states, "I've been using my inhalers like you told me, just still get short of breath when I overdo it." No recent hospitalizations prior to this ED visit. He reports adherence to home O2 as needed with exertion.
+
+Smoking history: Patient has a substantial remote smoking history - he smoked for 50 years in total. He first quit smoking in 2005, restarted in 2009, and then quit again for good in 2013; he has not smoked since. He denies current tobacco use of any kind, including vaping or e-cigarettes. No current secondhand smoke exposure reported at home.
+
+ROS: Positive for chronic cough, occasional wheeze, exertional dyspnea. Negative for fevers, chills, night sweats, weight loss, hemoptysis, leg swelling, orthopnea, PND.
+
+PMH/Problem List (per chart, some entries outdated):
+- J44.1 COPD with acute exacerbation (resolving)
+- E78.5 Hyperlipidemia
+- E66.9 Obesity
+- E11.9 Type 2 diabetes mellitus without complications
+- I25.10 Coronary artery disease, native vessel, without angina
+- E03.9 Hypothyroidism, unspecified
+- Z87.891 Personal history of nicotine dependence (carried forward from prior note)
+- I10 Essential hypertension (older entry, unclear if still active - pt reports BP has been fine, may be resolved/reclassified, to review)
+
+Medications (reviewed, reconciled today):
+- Tiotropium inhaler daily
+- Albuterol MDI PRN
+- Atorvastatin 40mg daily
+- Metformin 1000mg BID
+- Levothyroxine 75mcg daily
+- Aspirin 81mg daily
+- Metoprolol succinate 25mg daily
+
+Allergies: NKDA
+
+Social History: Retired machinist. Lives with spouse. Denies current alcohol use. As above, no current tobacco use; extensive remote history as detailed. Denies illicit drug use.
+
+Physical Exam:
+Vitals: BP 128/76, HR 78, RR 18, SpO2 94% on room air, Temp 98.2F, Wt 210 lb, BMI 33.9
+General: Alert, no acute distress, comfortable at rest
+HEENT: No JVD, no cervical lymphadenopathy
+Lungs: Diffuse expiratory wheeze, prolonged expiratory phase, no crackles, no accessory muscle use at rest
+CV: Regular rate and rhythm, no murmurs, no peripheral edema
+Abd: Soft, non-tender, obese habitus
+Ext: No clubbing, cyanosis, or edema
+Skin: Warm, dry, no rashes
+
+Labs (from ED visit, reviewed):
+CBC WNL, BMP WNL except glucose 168
+BNP mildly elevated at 145
+
+Assessment/Plan:
+79-year-old male with COPD exacerbation, now improving, in setting of remote 50-year smoking history, smoking cessation achieved (quit history complex - first quit 2005, relapsed 2009, quit for good 2013). Also with CAD, T2DM, hyperlipidemia, obesity, hypothyroidism.
+
+1. COPD exacerbation, resolving - continue tiotropium, albuterol PRN, complete prednisone taper as prescribed. Pulmonary function testing to be scheduled once acute episode fully resolved. General discussion held regarding ongoing pulmonary risk given remote smoking history; will continue monitoring at future visits.
+2. Tobacco history - reinforced continued abstinence; patient has remained smoke-free since 2013 quit date. Congratulated patient on sustained cessation.
+3. CAD - continue aspirin, statin, beta-blocker. Stable.
+4. T2DM - glucose mildly elevated today, likely steroid effect from recent prednisone course; continue metformin, recheck A1c at next visit.
+5. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+6. Hypothyroidism - continue levothyroxine, TSH due for recheck.
+7. Obesity - counseled on diet and activity as tolerated.
+
+Follow-up in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+---
+ADDENDUM (same day, 3:45 PM):
+Patient called back to clinic after visit to clarify home O2 equipment questions; spoke with RN, advised to continue current settings and follow up with DME company for equipment check. No changes to plan above. Reiterated smoking cessation congratulations given his sustained quit since 2013 after the earlier relapse in 2009 (initial quit had been in 2005). Total smoking duration remains as documented, 50 years. No new symptoms reported. Addendum reviewed and co-signed by Dr. Raman.

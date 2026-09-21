@@ -1,0 +1,79 @@
+CARDIOLOGY H&P
+Patient: Gloria Murphy | DOB: 07/19/1962 | Age: 61 | Sex: F
+Date of Service: 07/19/2023
+Attending: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. Murphy is a 61 year old woman with history of obstructive sleep apnea and hypertension who presents today, 07/19/2023, for evaluation of intermittent chest discomfort. She states, "It feels like a tight band across my chest, comes and goes, worse when I climb stairs." She denies any radiation to jaw but endorses some left arm heaviness, quote, "my arm just feels heavy, like dead weight, for a few minutes." No syncope, no [inaudible] palpitations noted although she says her heart "kinda flutters sometimes." Symptoms began roughly two weeks ago and have been occurring maybe three times per week, she things its stress related because her daughter just moved cross country and shes been anxious. She has not tried nitro or any other medication for this at home. She denies fevers chills or recent illness the pain is not associated with meals per patient report.
+
+Regarding tobacco use: patient is an active smoker with an 86 pack-year smoking history. She was counseled today regarding smoking cessation resources and offered referral to the quitline; risks of continued tobacco use in setting of cardiovascular disease were reviewed with her at length.
+
+PAST MEDICAL HISTORY:
+- Obstructive sleep apnea, uses CPAP nightly per patient (compliance reportedly "most nights")
+- Hypertension, diagnosed approx 10 years ago
+
+PAST SURGICAL HISTORY: Tonsillectomy as child. No other surgeries.
+
+FAMILY HISTORY: Father deceased, MI at age 58. Mother living, hypertension and diabetes.
+
+SOCIAL HISTORY: Lives with husband, retired schoolteacher. Denies alcohol use more than occasional glass of wine. Denies illicit drug use. Tobacco use as above.
+
+MEDICATIONS:
+1. Lisinopril 20 mg PO daily
+2. Hydrochlorothiazide 12.5 mg PO daily
+3. Amlodipine 5 mg PO daily
+4. Atorvastatin 40 mg PO qHS
+5. Aspirin 81 mg PO daily
+6. Multivitamin PO daily
+7. Melatonin 3 mg PO qHS PRN
+8. Fish oil 1000 mg PO daily
+9. Vitamin D3 2000 units PO daily
+10. Albuterol MDI PRN (rarely used per patient)
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, denies night sweats.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies sore throat, denies nasal congestion, denies hearing loss.
+Cardiovascular: Positive for chest discomfort as above, denies orthopnea, denies PND, denies lower extremity edema.
+Respiratory: Positive for occasional shortness of breath with exertion, denies hemoptysis, denies wheeze at rest.
+GI: Denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits.
+GU: Denies dysuria, denies hematuria.
+Musculoskeletal: Denies joint pain, denies muscle weakness.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies headache, denies dizziness, denies numbness or tingling except as noted in left arm above.
+Psych: Endorses some anxiety related to family stressors, denies depression, denies suicidal ideation.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 148/92, HR 88, RR 16, Temp 98.4F, SpO2 96% on room air, Wt 176 lbs, Ht 5'5"
+General: Alert, oriented x3, no acute distress, mildly anxious appearing.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear, no JVD noted.
+Cardiovascular: Regular rate and rhythm, no murmurs rubs or gallops appreciated, no S3 or S4, distal pulses 2+ bilaterally.
+Respiratory: Clear to auscultation bilaterally, no wheezes rales or rhonchi, mild [inaudible] noted on deep inspiration possibly artifact.
+Abdomen: Soft, non-tender, non-distended, bowel sounds normal.
+Extremities: No edema, no cyanosis, no clubbing.
+Skin: Warm and dry, no rashes.
+Neuro: Cranial nerves II-XII grossly intact, no focal deficits.
+Psych: Mood appropriate, affect congruent.
+
+LABS/RESULTS:
+CBC (07/19/2023): WBC 6.8, Hgb 13.2, Hct 39.4, Plt 245
+BMP (07/19/2023): Na 139, K 4.1, Cl 101, CO2 25, BUN 16, Cr 0.9, Glucose 102
+Lipid panel (07/19/2023): Total chol 198, LDL 122, HDL 48, Trig 140
+Troponin I (07/19/2023): <0.01 ng/mL (negative x1)
+EKG (07/19/2023): Normal sinus rhythm, no acute ST changes, rate 86 bpm
+BNP (07/19/2023): 42 pg/mL
+
+ASSESSMENT/PLAN:
+61 year old female with HTN, OSA, and active tobacco use presenting with atypical chest pain.
+1. Chest pain - EKG and initial troponin unremarkable. Will trend troponin, consider stress test outpatient. Continue aspirin.
+2. Hypertension - BP elevated today at 148/92, will increase amlodipine to 10 mg daily, follow up BP log.
+3. OSA - continue CPAP, reinforce compliance, discuss with sleep medicine if symptoms persist despite use.
+4. Tobacco use - discussed smoking cessation counseling and resources today, patient states she is not ready to quit at this time but agreed to consider nicotine replacement therapy. Lung cancer screening was discussed as a general topic of conversation appropriate for her age and smoking history, further workup to be individualized.
+5. Anxiety - will monitor, consider referral to counseling if symptoms persist.
+Follow up in cardiology clinic in 2-4 weeks or sooner if symptoms worsen, return to ED for chest pain with radiation, diaphoresis, or shortness of breath at rest.
+
+Electronically signed: Brian Okonkwo, MD

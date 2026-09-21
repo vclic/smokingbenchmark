@@ -1,0 +1,59 @@
+Pulmonology Follow-Up Note - COPD
+Date of Service: 01/02/2026
+Author: Laura Castellano, FNP-C (resident note; attending attestation below)
+
+Patient: Dale Alexander, M, DOB 1/2/1964 (age 62)
+
+CC: COPD follow up.
+
+HPI: Pt is a 62 y/o male here for routine COPD f/u. Reports stable breathing, no new sob, no fevers. denies chest pain. Sleeps with CPAP for known OSA, compliance reportedly fair. No recent hospitalizations. Pt notes family hx significant for lung cancer - his father was a heavy smoker and died of lung cancer, pt often brings this up given his own pulm issues though he himself has never smoked. Continues to deny any personal tobacco use hx, pt reiterated today he has never used tobacco in any form (cigs, cigars, vape, chew).
+
+---- COPIED FORWARD FROM VISIT 07/14/2025 (left in chart, not fully reconciled) ----
+Pt seen for COPD/OSA combined f/u. Spirometry reviewed, FEV1 stable from prior. CPAP settings unchanged, pt tolerating fairly well though c/o occasional mask leak. Discussed weight and exercise. Osteoporosis - on vit D/calcium, no new fx. CKD stage 3 - stable labs, cr wnl for baseline. Afib - rate controlled, on anticoag, no bleeding events. Depression - pt reports mood stable on current regimen, denies si/hi. Plan: cont current meds, f/u 6 months, repeat PFTs at next visit.
+---- END COPIED TEXT ----
+
+ROS: Otherwise negative except as above. No hemoptysis. No unintentional weight loss.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Never
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Not on file
+Diet: Not on file
+
+Family History: Father - heavy smoker, deceased, lung cancer. Mother - HTN, DM2. No other significant fam hx documented today.
+
+PMH: OSA, CKD stage 3, osteoporosis, depression, atrial fibrillation, COPD.
+
+Meds (reviewed, no changes made today): albuterol prn, tiotropium daily, apixaban, sertraline, vit D3/calcium supplement.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 128/78, HR 74 irregular (known afib), RR 16, SpO2 95% RA, wt stable from last visit.
+Gen: NAD, comfortable, appropriate affect.
+HEENT: nl, no JVD.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+Abd: soft nontender.
+Ext: no edema.
+Neuro: grossly intact.
+
+Labs (reviewed from recent draw): Cr 1.4 (baseline for CKD3), K 4.3, INR therapeutic range on apixaban monitoring not required per protocl.
+
+Assessment/Plan:
+1. COPD - stable, continue current inhaler regimen, reinforced technique. Given pt's significant family hx of lung cancer (father, heavy smoker, deceased) and his own COPD, general risk factors for lung disease were discussed today, though pt himself has never used tobacco - a never-smoker per his report and per chart. Will continue routine pulm surveillance given COPD dx.
+2. OSA - cont CPAP, encourage compliance, consider repeat sleep study if symptoms worsen.
+3. CKD stage 3 - stable, monitor labs q6mo, avoid nephrotoxic agents.
+4. Osteoporosis - cont supplementation, DEXA due next yr.
+5. Depression - stable on sertraline, pt denies si/hi today, will continue current dose.
+6. Atrial fibrillation - rate controlled, cont apixaban, no bleeding concerns voiced.
+
+f/u in 6 months or sooner if symptoms worsen. Pt verbalized understanding, no questions at this time.
+
+Attending Attestation: I have reviewed and discussed this patient with Ms. Castellano, FNP-C. I agree with the assessment and plan as documented above. Pt's tobacco history clarified as never-smoker despite strong family hx of tobacco-related lung cancer (father). - Dr. R. Okafor, Attending Pulmonology, 01/02/2026.

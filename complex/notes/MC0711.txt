@@ -1,0 +1,51 @@
+Encounter Date: 05/25/2026
+Patient: Lan Walker | DOB: 05/25/1976 | Age: 50 | Sex: F
+Provider: Laura Castellano, FNP-C
+Visit Type: Hospital Discharge Follow-Up (Primary Care)
+
+--- NURSE INTAKE ---
+Vitals: BP 128/76, HR 82, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb
+Chief Complaint: f/u after recent hospitalization for pneumonia.
+Allergies: NKDA
+Medications: omeprazole 20mg daily, atorvastatin 20mg qhs, CPAP nightly for OSA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco Use: Never Smoker
+Packs/Day: N/A
+Years Smoked: N/A
+Alcohol Use: Not on file
+Drug Use: Not on file
+Occupation: (blank)
+Living Situation: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms. Walker is a 50 year old female, DOB 5/25/1976, seen today 05/25/2026 for follow up after recent admission for community-acquired pneumonia. She states "I still get a little short of breath walking up the stairs but its way better than last week." She denies fever, chills, or worsening cough. She reports using her CPAP nightly, per her sleep apnea regimen, and states "I feel like Im sleeping better since I got out of the hospital, honestly." She continues to take omeprazole for her GERD with good control of reflux symptoms, and reports no chest pain, no hemoptysis, no [inaudible] episodes of dizziness she had mentioned before but that seems to have resolved now she says its probably just from being weak after being sick and not eating much the past week or so.
+
+[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2025 — retained in error, left as documented]
+HPI (11/14/2025): Pt presents for routine follow up of GERD, OSA, and hyperlipidemia. Reports doing well on current regimen. Denies chest pain, denies dysphagia. CPAP compliance reviewed, pt reports good adherence with machine, download shows average use >6 hrs/night. Lipid panel reviewed, LDL improved from prior. Continue current meds. Return to clinic in 6 months or sooner if symptoms worsen. Discussed weight loss and dietary modification given hyperlipidemia. Pt agreeable to follow up with nutrition.
+[END COPIED TEXT]
+
+Review of Systems: Otherwise negative except as noted above.
+
+Physical Exam:
+General: Well-appearing, no acute distress.
+Lungs: Clear to auscultation bilaterally, no wheezes, no crackles, mild decrease in breath sounds at right base compared to prior but improving.
+CV: RRR, no murmurs.
+Abd: Soft, non-tender.
+Ext: No edema.
+
+Social History (narrative): Patient has never used tobacco in any form; she denies ever smoking cigarettes, cigars, or using e-cigarettes. She works part time and lives with her husband.
+
+Assessment/Plan:
+1. Resolving pneumonia — clinically improved since discharge, continue supportive care, f/u CXR in 6 weeks to confirm resolution.
+2. GERD — stable, continue omeprazole.
+3. OSA — continue CPAP, good adherence reported.
+4. Hyperlipidemia — continue atorvastatin, recheck lipid panel at next visit.
+Discussed general pulmonary health and lung cancer screening guidelines were discussed briefly in context of her recent pneumonia hospitalization, though given her never-smoker status this was informational only, no further imaging planned at this time beyond the CXR above.
+Return to clinic in 6 weeks or sooner if symptoms recur.
+
+Electronically signed: Laura Castellano, FNP-C
+
+--- ADDENDUM (same day, later) ---
+Addendum 05/25/2026 1630: Patient called clinic this afternoon to clarify instructions regarding CXR scheduling; advised to schedule with radiology at front desk, appointment made for 6 weeks out as planned. No new complaints reported at this time. No changes to plan above.
+-- Laura Castellano, FNP-C

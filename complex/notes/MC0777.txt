@@ -1,0 +1,30 @@
+TELEHEALTH VISIT - Family Medicine
+DOS: 03/17/2025
+Patient: Dale Gonzales, M, DOB 3/6/1965, Age 60
+Author: Julia Brennan, MD (resident), attending attestation below
+
+HPI:
+Pt presents via video for routine medication refills. He reports stable urinary symptoms on current BPH regimen, no dysuria or hematuria noted. COPD sx reportedly stable, occasional AM cough w/ clear sputum, denies increased dyspnea or use of rescue inhaler more than usual. No fevers, no chest pain. Pt states he is due for refills of tamsulosin and tiotropium.
+
+Social History:
+Smoking status field below in chart pulls forward incorrectly - Smoking status: Never Smoker - this is inacurate, pt has an active smoking hx and this shoudl be disregarded. Pt reports he has smoked for 37 years and continues to smoke currently; when asked about cessation today he states he is not ready to quit at this time. No alcohol use reported, denies illicit drug use.
+
+ROS: otherwise negative except as above.
+
+Labs/Results (reviewed today):
+- CBC 03/10/2025: WBC 7.1, Hgb 14.2, Hct 42.1, Plt 230
+- BMP 03/10/2025: Na 139, K 4.3, Cl 101, CO2 25, BUN 16, Cr 0.9, Glc 94
+- PSA 02/28/2025: 1.8 (stable from prior 1.7)
+- Spirometry 01/15/2025: FEV1/FVC 0.62, consistent w/ moderate obstruction, similar to prior study
+
+Exam (limited, via video):
+Pt appears comfortable, no acute distress, speaking in full sentances without difficulty. No visible use of accessory muscles.
+
+Assessment/Plan:
+1. BPH - stable on tamsulosin, refill sent, will recheck PSA in 6 mo.
+2. COPD - stable, continue tiotropium, refill sent. Given ongoing active smoking hx (37 yrs) pt counseled again on benefits of cessation; discussed nicotine replacement options and referral to quitline, pt declined at this time stating he is not ready to quit. Lung cancer screening was discussed in general terms with pt.
+3. Smoking status field in chart to be corrected by nursing staff at next in person visit - currently misslabeled as never smoker which does not reflect pt's actual history.
+4. Follow up in 3 months or sooner if symptoms worsen.
+
+Attending Attestation: I have reviewed and discussed this case with Dr. Brennan and agree with the assessment and plan as documented above. Pt's smoking history and non-readiness to quit were confirmed directly with patient during visit.
+- Attending physician co-signature on file.

@@ -1,0 +1,83 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 05/27/2025
+Provider: Steven Park, MD (NP progress note)
+Patient: Ronald Chen, M, DOB 05/27/1967 (age 58)
+
+CC: Establish care / general medical exam.
+
+HPI:
+Pt is a 58 yo M with PMH significant for CKD stage 3, asthma, and COPD, presenting to establish care. Pt states, "I just moved to the area and need a new doctor, my old one retired." Denies acute complaints today. Reports occasional SOB with exertion, uses albuterol inhaler PRN. Denies chest pain, fevers, hemoptysis. States, "I don't smoke anymore, haven't in years." Reports good appetite, no wt loss. Denies edema. Pt also notes, "I stopped drinking alcohol back in 2000 and never looked back."
+
+PAST MEDICAL HISTORY:
+- CKD stage 3
+- Asthma
+- COPD
+
+SOCIAL HISTORY:
+Alcohol: pt reports quit drinking alcohol in 2000, denies current use.
+Tobacco: [SEE TOBACCO USE BLOCK BELOW]. Note - the templated field below auto-populated incorrectly; correcting per pt interview.
+Illicit drug use: denies.
+Occupation: retired.
+Lives alone.
+
+[TOBACCO USE - EHR TEMPLATE]
+Smoking status: Never Smoker
+*** NOTE: Above templated field is INCORRECT/outdated and does not reflect actual history - see below ***
+Corrected history per pt: Pt smoked approx 1/2 pack per day (about 10 cigarettes/day) from 1990 until 2017, at which point pt quit smoking entirely. Current status: former smoker, quit 2017.
+Secondhand smoke exposure: denies.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, unintentional wt loss/gain.
+Eyes: denies visual changes.
+ENT: denies sore throat, congestion.
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND.
+Respiratory: reports occasional dyspnea on exertion as above, denies wheeze at rest, denies productive cough today.
+GI: denies abd pain, N/V/D, denies hematochezia.
+GU: denies dysuria, hematuria, denies change in urinary freq.
+Musculoskeletal: denies joint pain, swelling.
+Skin: denies rash, lesions.
+Neuro: denies HA, dizziness, numbness/tingling.
+Psych: denies depression, anxiety, SI/HI.
+Endocrine: denies polyuria, polydipsia.
+Heme/Lymph: denies easy bruising, bleeding, lymphadenopathy.
+Allergic/Immunologic: denies seasonal allergies flare.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.4F, SpO2 95% RA, Wt 198 lb, Ht 5'10", BMI 28.4
+General: well-appearing, NAD, A&Ox3.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no erythema.
+Neck: supple, no LAD, no JVD, no thyromegaly.
+Cardiovascular: RRR, no m/r/g, normal S1/S2, no peripheral edema.
+Respiratory: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, breathing comfortably at rest.
+Abdomen: soft, NT/ND, +BS x4, no HSM, no rebound/guarding.
+Extremities: no edema, no clubbing, no cyanosis, pulses 2+ bilat.
+Skin: warm, dry, no rashes noted.
+Neuro: CN II-XII grossly intact, motor 5/5 all extremities, sensation intact.
+Psych: mood/affect appropriate.
+
+LABS/RESULTS (reviewed today, drawn 05/20/2025):
+BMP: Na 139, K 4.6, Cl 101, CO2 24, BUN 22, Cr 1.5 (eGFR 52 mL/min/1.73m2), Glucose 96
+CBC: WBC 6.8, Hgb 14.1, Hct 42.0%, Plt 231
+A1c: 5.7%
+Lipid panel: TC 178, LDL 102, HDL 45, TG 155
+Urinalysis (05/20/2025): trace protein, no blood, no leuk esterase, no nitrites
+Spirometry (from prior records, dated 03/2024): FEV1/FVC 0.62, FEV1 65% predicted - consistent with COPD, moderate obstruction
+
+CURRENT MEDICATIONS:
+1. Albuterol HFA inhaler 90 mcg, 2 puffs q4-6h PRN SOB/wheeze
+2. Tiotropium (Spiriva) 18 mcg inhaled daily
+3. Fluticasone/salmeterol (Advair) 250/50 1 puff BID
+4. Lisinopril 10 mg PO daily
+5. Atorvastatin 20 mg PO qHS
+6. Vitamin D3 1000 IU PO daily
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable, eGFR 52 today. Continue lisinopril for renal/BP protection, monitor labs. Avoid nephrotoxic agents (NSAIDs). F/u renal panel in 3 months.
+2. Asthma/COPD - pt with hx of significant tobacco exposure per corrected social hx (former smoker, quit 2017, previously ~1/2 ppd from 1990-2017). Spirometry from 2024 shows moderate obstruction. Continue current inhaler regimen, reviewed proper inhaler technique. Discussed ongoing importance of smoking abstinence, pt reports no relapse since quitting. Lung cancer screening options were discussed in general terms as part of preventive care counseling for pts with significant smoking history.
+3. Hyperlipidemia - LDL at goal on current statin, continue atorvastatin.
+4. Health maintenance - UTD on age-appropriate screenings to be reviewed further; will order colonoscopy referral, discussed immunizations (pneumococcal, influenza, Tdap).
+5. Alcohol use - pt reports quit drinking alcohol in 2000, no current concerns, continue to monitor.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalized understanding and agreement with plan.
+
+Steven Park, MD

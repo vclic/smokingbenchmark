@@ -1,0 +1,62 @@
+CATHERINE LINDQVIST, DO - Progress Note
+Date of Service: 11/20/2024
+Patient: Brenda Lopez | DOB: 11/20/1951 | Age: 73 | Sex: F
+Visit type: Hospital discharge follow-up (pneumonia) - Primary Care
+
+CC: f/u after recent hospitalization for pneumonia, d/c'd 11/13/2024.
+
+HPI: 73 yo F w/ hx CKD stage 3, afib, CAD, admitted for CAP tx w/ IV abx, now s/p discharge doing reasonably well. Pt reports cough improving, decreased sputum, no fevers, appetite returning slowly. Denies chest pain, denies significant SOB at rest, some exertional dyspnea persists but improving day over day. Smoking hx notable - pt reports smoking a quarter pack (about 5 cigarettes) per day since 1968, still smoking currently and states she is not ready to quit at this time; discussed risks extensively incl. impact on lung recovery post-pneumonia and cardiac disease, pt understands but declines cessation attempt today, will revisit at future visit. Denies alcohol use, denies illicit drug use. Pt lives w/ daughter, ambulates w/ cane at baseline.
+
+Note re: templated field below - chart auto-populated 'Smoking status: Never Smoker' from an old intake form; this is INCORRECT and does not reflect current or past history - see HPI above for accurate smoking history.
+
+ROS: Constitutional - mild fatigue, no fever/chills. Resp - productive cough improving. CV - no palpitations today though pt has known afib, no chest pain. GI - appetite improving, no nausea/vomiting/diarrhea. GU - no dysuria. MSK - chronic low back pain stable. Neuro - no focal deficits. Skin - no rashes. All other systems reviewed and negative except as noted, pt somewhat tangential today so some ROS elements obtained via daughter who accompanied to visit [inaudible] portions of conversation regarding home meds reconciled with pharmacy list afterward.
+
+PMH: CKD stage 3 (baseline creatinine ~1.6), atrial fibrillation (on anticoagulation), coronary artery disease s/p stent 2015, hyperlipidemia, hypertension.
+
+Meds (reconciled at d/c): Apixaban 5mg BID, Metoprolol succinate 50mg daily, Atorvastatin 40mg qhs, Amlodipine 5mg daily, recently completed course amoxicillin-clavulanate for pneumonia (last dose 11/18/24).
+
+Allergies: NKDA.
+
+Social Hx: Lives with daughter, retired seamstress. Smoking status: Never Smoker [outdated/incorrect field - see HPI]. Denies EtOH, denies illicit drugs. Widowed x 6 yrs.
+
+Family Hx: Mother - CAD, Father - unknown, one sibling w/ COPD (not applicable to pt).
+
+Vitals (11/20/2024): BP 138/82, HR 78 irregular (known afib), RR 16, Temp 97.8F, SpO2 95% RA, Wt 142 lbs.
+
+Physical Exam:
+Gen - Elderly female, NAD, alert, oriented x3, conversant though occasionally tangential.
+HEENT - Normocephalic, atraumatic, oropharynx clear.
+Neck - No JVD, no lymphadenopathy.
+CV - Irregularly irregular rhythm, no murmurs appreciated, no peripheral edema.
+Resp - Decreased breath sounds right base w/ mild crackles, improved from hospital exam, no wheeze.
+Abd - Soft, non-tender, non-distended, normoactive bowel sounds.
+Extrem - No cyanosis, no clubbing, trace edema b/l ankles.
+Skin - Warm, dry, intact.
+Neuro - CN II-XII grossly intact, no focal deficits.
+
+Labs/Results:
+11/13/2024 (admission): WBC 14.2, Hgb 11.8, Plt 245, Creatinine 1.7, eGFR 32, BUN 28, CRP 96.
+11/18/2024 (pre-discharge): WBC 9.1, Hgb 11.9, Plt 260, Creatinine 1.6, eGFR 34, BUN 24.
+11/20/2024 (today, repeat BMP): Na 138, K 4.4, Cl 101, CO2 24, Creatinine 1.6, eGFR 34, Glucose 104.
+INR (on apixaban, not routinely monitored) - not applicable.
+Chest x-ray 11/18/24: Improving right lower lobe infiltrate, no effusion.
+
+Assessment:
+1. Recent community-acquired pneumonia, resolving clinically and radiographically.
+2. CKD stage 3, stable, creatinine trending toward baseline.
+3. Atrial fibrillation, rate-controlled, on anticoagulation, no acute events.
+4. CAD, stable, no anginal symptoms today.
+5. Tobacco use - ongoing, patient not ready to quit despite counseling; discussed benefits of cessation particularly given recent pulmonary infection and cardiac disease, pt declines at this time. Screening options for lung health were discussed in general terms with patient.
+
+Plan:
+1. Continue current abx course complete, no further antibiotics needed, f/u CXR in 6 wks to confirm resolution.
+2. Recheck BMP in 2 wks to trend renal function, avoid nephrotoxic agents, renal dosing reviewed for all current meds.
+3. Continue apixaban, INR/anticoag monitoring per cardiology, f/u w/ cardiology in 1 month.
+4. Continue statin, BP meds, monitor.
+5. Tobacco use - counseled again today regarding cessation resources incl. quitline, nicotine replacement offered, pt declined at this time, will readdress at next visit; correct smoking history documented above given inaccurate template field found in chart.
+6. Pt to call clinic w/ any worsening cough, fever, chest pain, or SOB.
+7. Return to clinic in 4 wks or sooner if needed, daughter to assist w/ scheduling.
+
+Time spent with patient/family today >25 minutes, more than half spent on counseling and coordination of care given complexity of discharge follow-up, medication reconciliation, and extended discussion re: tobacco use and cessation resources.
+
+Electronically signed: Catherine Lindqvist, DO

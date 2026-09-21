@@ -1,0 +1,45 @@
+GERIATRIC ASSESSMENT PROGRESS NOTE
+Patient: Kenneth Robinson
+DOB: 5/17/1964 (Age: 60 y.o. male)
+Date of Service: 08/23/2024
+Author: Daniel Reyes, MD (Geriatrics)
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, follow-up hypertension/asthma/BPH.
+
+HPI: Mr. Robinson is a 60-year-old male who presents today, 08/23/2024, for his annual geriatric assessment. He states, "I've been feeling pretty good overall, just some knee stiffness in the mornings." He reports adherence to his medications and denies chest pain, SOB at rest, or urinary retention. He notes, "My asthma has been quiet lately, maybe one or two puffs a week of the rescue inhaler." Denies falls, denies memory concerns per patient, though daughter reports mild forgetfulness with appointments. He also states, "I've never smoked a cigarette in my life, never saw the appeal."
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Essential hypertension (I10) - stable on current regimen
+2. Asthma, mild persistent (J45.30) - well controlled
+3. Benign prostatic hyperplasia (N40.0) - on tamsulosin
+4. GERD (K21.9) - outdated, resolved per patient, no longer symptomatic x 2 years
+5. Seasonal allergic rhinitis (J30.2) - outdated entry, carried forward from prior visit
+
+SOCIAL HISTORY: Tobacco: never used tobacco products in any form (cigarettes, cigars, vaping, chewing tobacco). Alcohol: occasional glass of wine with dinner. Lives with spouse, retired postal worker, ambulates independently without assistive device.
+
+MEDICATIONS:
+1. Lisinopril 20 mg PO daily
+2. Amlodipine 5 mg PO daily
+3. Albuterol HFA inhaler PRN
+4. Fluticasone/salmeterol 250/50 inhaler BID
+5. Tamsulosin 0.4 mg PO qHS
+6. Finasteride 5 mg PO daily
+7. Atorvastatin 20 mg PO daily
+8. Vitamin D3 2000 IU PO daily
+9. Multivitamin PO daily
+10. Aspirin 81 mg PO daily
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Eyes: denies vision changes. ENT: denies hearing loss, denies sinus congestion. Cardiovascular: denies chest pain, palpitations, orthopnea, edema. Respiratory: denies cough, wheeze, dyspnea on exertion beyond baseline. GI: denies nausea, vomiting, diarrhea, constipation, hematochezia. GU: reports mild nocturia x1-2 nightly, stable, denies dysuria, hematuria. Musculoskeletal: reports mild bilateral knee stiffness, denies acute injury. Neuro: denies focal weakness, numbness, tingling. Psych: denies depression, anxiety. Skin: denies rashes, lesions. Endocrine: denies polyuria, polydipsia. Heme/Lymph: denies easy bruising, lymphadenopathy.
+
+PHYSICAL EXAM: General: well-appearing, no acute distress, ambulates steadily. Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, Wt 190 lb, BMI 27.4. HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear. Neck: supple, no lymphadenopathy, no JVD. Cardiovascular: RRR, no murmurs, gallops, or rubs. Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Abdomen: soft, non-tender, non-distended, normoactive bowel sounds. GU: deferred, prostate exam WNL per last urology note. Extremities: no edema, pulses 2+ bilaterally. Musculoskeletal: mild crepitus bilateral knees, full ROM. Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, gait steady. Skin: warm, dry, intact.
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled, continue current regimen, recheck BP at next visit.
+2. Asthma - well controlled, continue current inhalers, reinforce technique.
+3. BPH - stable on tamsulosin/finasteride, continue monitoring symptoms.
+4. Health maintenance - discussed age-appropriate cancer screenings including colon cancer screening; general lung health and tobacco avoidance reinforced.
+5. Geriatric assessment - cognitive screen to be scheduled, fall risk assessment negative today.
+
+Follow-up in 6 months or sooner as needed.
+
+Electronically signed: Daniel Reyes, MD

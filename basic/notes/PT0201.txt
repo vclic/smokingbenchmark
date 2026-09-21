@@ -1,0 +1,46 @@
+Family Medicine Clinic Note
+Date of Service: 8/25/2025
+Patient: Sharon Brown   DOB: 5/22/1948   MRN: 70306288
+
+SUBJECTIVE:
+CC: Fatigue
+HPI: Ms. Brown is a 77 y.o. female with a history of HTN, osteoporosis, HLD, and depression who presents for fatigue. Fatigue for 4 months. Mood low. No weight change.
+
+PMH:
+- Osteoporosis
+- Major depressive disorder, recurrent, in remission
+- Hypertension
+- Mixed hyperlipidemia
+PSH: C-section x2 (1997); Cataract extraction, bilateral
+Meds: simvastatin 20 mg nightly; escitalopram 10 mg daily; losartan 50 mg daily; calcium + vitamin D daily
+Allergies: NKDA
+Social History:
+- Lives with husband in a single-family home.
+- Retired, former teacher.
+- She has somewhere between 50 and 60 pack-years but has quit.
+- Quit drinking in 2004.
+- Denies illicit drugs.
+FH: Father - prostate cancer. Mother - CHF, d. age 88.
+ROS: Neuro neg, Gen neg, GU neg, Skin neg, Resp neg
+
+O:
+Vitals: BP: 123/68  HR: 67  RR: 16  Temp: 98.8 F  SpO2: 96% on RA  Wt: 132 lbs  BMI: 24.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Fatigue: Check ferritin, CBC.
+2. Hx tobacco use: Congratulated on remaining smoke-free.
+3. Mixed hyperlipidemia: Tolerating statin; recheck lipids in 1 yr.
+
+RTC 1 month.
+
+-- TA (NP)

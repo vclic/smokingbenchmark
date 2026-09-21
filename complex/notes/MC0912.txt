@@ -1,0 +1,60 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Curtis Mitchell (M), DOB: 11/10/1973 (age 50)
+Date of Service: 11/10/2023
+Provider: Teresa Alvarez, NP - Primary Care
+Visit type: New patient visit to establish care
+
+Dear Dr. Nguyen,
+
+Thank you for referring Mr. Mitchell, a 50-year-old male, to establish primary care. He presents today, 11/10/2023, for a new patient visit given his history of hypothyroidism, osteoarthritis, and obstructive sleep apnea.
+
+HPI:
+Mr. Mitchell reports feeling generally well, though he notes some ongoing joint stiffness in his knees, worse in the AM, improved with activity. He is compliant with his levothyroxine per his report, though he is due for updated labs. He uses his CPAP most nights, per his report, though compliance data is not on file at this facility. He denies chest pain, hemoptysis, or unintentional weight loss. He does endorse a chronic morning cough, which he attributes to his longstanding smoking history (see Social History below).
+
+PMH copied forward from prior note dated 03/14/2019 (outside records, unedited, retained here for reference):
+"Pt is a 45 yo male with hx of hypothyroidism dx 2015, on levothyroxine 75mcg daily, last TSH WNL. Osteoarthritis, bilateral knees, managed conservatively with NSAIDs and PT. Pt reports snoring and daytime somnolence, sleep study pending at that time. No known drug allergies. Family history notable for father with MI at 60, mother with hypothyroidism. Pt works as a warehouse supervisor, denies excessive EtOH use, denies illicit drug use. Recommend f/u in 6 months for repeat TSH and reassessment of OSA symptoms." [end of copied text]
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Smoking history detail: Patient reports a three-part smoking history. He smoked three-quarters of a pack (about 15 cigarettes) per day for 10 years, then transitioned to half a pack (about 10 cigarettes) per day for the next 13 years, and has more recently cut back to a quarter pack (about 5 cigarettes) per day for the past 10 years, which is his current level of use.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, reports 1-2 drinks per week
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Warehouse supervisor (per prior note; not re-verified today)
+Exercise: Not on file
+Diet: Not on file
+
+ROS: Constitutional - negative for fevers, chills, weight loss. Respiratory - positive for chronic morning cough as above, denies wheezing or dyspnea at rest. Musculoskeletal - positive for bilateral knee pain. Endocrine - denies heat/cold intolerance. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/84, HR 78, RR 16, SpO2 97% RA, Wt 210 lb, Ht 5'10", BMI 30.1
+General: Well-appearing, NAD
+HEENT: No thyromegaly appreciated
+Cardiovascular: RRR, no murmurs
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales/rhonchi
+MSK: Mild crepitus bilateral knees, no effusion, ROM intact
+Skin: No lesions
+
+Problem List (per EHR, some entries outdated):
+E03.9 - Hypothyroidism, unspecified (active)
+M19.90 - Osteoarthritis, unspecified site (active)
+G47.33 - Obstructive sleep apnea (active)
+Z72.0 - Tobacco use (active)
+J45.909 - Asthma, unspecified (outdated - not confirmed at this visit, per old chart entry from 2016, no current evidence of asthma)
+I10 - Essential hypertension (outdated - not currently on antihypertensive, BP normal today, retained on list in error)
+
+Assessment and Plan:
+1. Hypothyroidism - continue levothyroxine, order updated TSH and free T4 today.
+2. Osteoarthritis, bilateral knees - continue conservative management, NSAIDs PRN, consider PT referral if symptoms worsen.
+3. Obstructive sleep apnea - continue CPAP, will request updated compliance download from DME company.
+4. Tobacco use - patient currently smokes cigarettes. Discussed health risks of continued smoking in detail, including cardiovascular and pulmonary risks. Advised to quit; offered counseling resources and discussed pharmacologic cessation aids (varenicline, nicotine replacement). Patient states he is contemplating cessation but not ready to set a quit date today. Lung cancer screening was discussed in general terms as part of preventive care counseling appropriate for his risk factors.
+5. Health maintenance - due for age-appropriate preventive screenings, will discuss colon cancer screening and lipid panel at next visit.
+
+Plan to follow up in 3 months, sooner if symptoms arise. Will send updated labs to patient portal.
+
+Thank you again for this referral. Please let me know if you have any questions.
+
+Sincerely,
+Teresa Alvarez, NP

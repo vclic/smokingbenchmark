@@ -1,0 +1,86 @@
+Primary Care Clinic Note
+
+Patient: ANDERSON, Pamela    MRN: 59178443
+DOB: 10/24/1972    Age: 51 y.o.    Sex: Female
+Date of Service: 04/15/2024    Provider: Gregory Tan, MD
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Pamela Anderson is a 51 y.o. female who presents for right shoulder pain.
+Right shoulder pain for 4 months, worse with stairs. No trauma. Tylenol helps somewhat.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia
+• Type 2 diabetes	2014
+
+Past Surgical History:
+Procedure	Laterality	Date
+• C-section x2 (2019)
+• Tonsillectomy (childhood)
+• Total abdominal hysterectomy (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• atorvastatin 20 mg daily
+• vitamin D3 2000 IU daily
+• glipizide 5 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  EtOH: 2-3 drinks on weekends.
+  Denies illicit drugs.
+  Independent in ADLs.
+
+Family History
+Mother - osteoporosis, hip fracture. No family hx of colon cancer.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 109/62 (BP Location: Right arm, Patient Position: Sitting) | Pulse 63 | Temp 97.9 °F (Oral) | Resp 16 | Ht 5' 6" | Wt 143 lb | SpO2 100% | BMI 23.01 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Mixed hyperlipidemia
+   Continue statin. Lipid panel due.
+3. Type 2 diabetes
+   Repeat A1c in 3 months. Annual eye exam reminder.
+4. Health maintenance
+   LCS: N/A - never smoker.
+
+RTC 3 months.
+
+Electronically signed by Gregory Tan, MD on 04/15/2024

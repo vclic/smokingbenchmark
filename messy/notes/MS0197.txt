@@ -1,0 +1,48 @@
+URGENT CARE PROGRESS NOTE
+Patient: Gary Perry (M) DOB: 08/17/1972 Age: 52
+Date of Service: 10/28/2024
+Author: Steven Park, MD
+
+CC: cough x5 days
+
+HPI: 52 yo male presents w/ productive cough, denies fever, mild dyspnea on exertion, no hemoptysis. Pt reports similar episodes in past treated conservatively. No sick contacts. Reports some chest tightness w/ exertion, hx of CAD noted below.
+
+SOCIAL HISTORY (templated block - EHR auto-populated):
+ Alcohol use: Not on file
+ Tobacco use: Current every day smoker
+ Packs/day: 1.00
+ Years: 34.00
+ Type: cigarettes
+ Quit date: 11/28/2024 (planned/future)
+ Smokeless tobacco: Not on file
+ Drug use: denies
+ Readiness to quit: pt states not ready to quit at this time, continues to smoke daily despite counseling
+
+ROS: otherwise negative except as above.
+
+PMH/Problem List (ICD-10):
+- G47.33 Obstructive sleep apnea (dx 2018, on CPAP, compliance unclear)
+- I73.9 Peripheral artery disease
+- I25.10 Coronary artery disease w/o angina
+- J44.9 COPD - unspecified (outdated entry, unclear if active dx, may need review)
+
+Meds: aspirin 81mg daily, atorvastatin 40mg qhs, clopidogrel 75mg daily, CPAP nightly (per report)
+
+Allergies: NKDA
+
+Vitals: BP 138/86 HR 78 RR 16 SpO2 95% RA Temp 98.4F
+
+Exam: Gen - NAD, mild cough noted during visit. Lungs - scattered rhonchi bilat, no wheeze, no crackles. CV - RRR, no m/r/g, pulses 2+ bilat radial, diminished DP pulses bilat (consistent w known PAD). Ext - no edema, no ulcers noted today.
+
+Assessment: Acute bronchitis, likely viral vs early bacterial. Pt w/ multiple comorbidities incl CAD and PAD, both tobacco-related; continues active daily smoking as above.
+
+Plan:
+1. Supportive care - fluids, rest, OTC cough suppressant PRN
+2. Albuterol inhaler PRN for cough/wheeze
+3. Counseled extensively re: smoking cessation given established CAD/PAD; pt verbalizes understanding but states he is not ready to quit at this time. Reviewed pt's tobacco block, packs/day 1.00, years 34.00 documented in chart. Quit date entered as 11/28/2024 per pt request, though pt currently continues to smoke daily.
+4. Lung cancer screening discussion deferred to PCP given time constraints today, will address at next visit
+5. F/u w/ cardiology re: CAD/PAD management, continue current cardiac meds
+6. Return if worsening SOB, fever, or hemoptysis
+7. F/u w PCP in 2 wks or sooner prn
+
+Note dictated and reviewed by Steven Park, MD. Pt verbalized understanding of plan, all questions answered today. Copy-forward note: pt's OSA and CPAP compliance to be addressed at PCP f/u, not fully assessed today given acute visit nature.

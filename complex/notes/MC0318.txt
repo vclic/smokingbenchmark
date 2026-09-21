@@ -1,0 +1,76 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Shared Decision Making for Lung Cancer Screening
+Date of Service: 01/10/2026
+Author: Julia Brennan, MD
+
+PATIENT: Wei Hughes
+DOB: 01/10/1952 (Age: 74)
+Sex: M
+
+CHIEF COMPLAINT: Telehealth visit for lung cancer screening discussion, referred from primary care.
+
+HPI:
+Mr. Hughes is a 74-year-old male with history of hypertension, obstructive sleep apnea, peripheral artery disease, and depression, seen today via video visit for shared decision-making regarding lung cancer screening. He was connected with good audio/video quality throughout. When asked about tobacco use history, he stated, "I'd rather not get into that today, if that's okay." I explained the purpose of the screening discussion and again attempted to clarify smoking history, but he reiterated, "Let's just talk about something else, please." Given this, tobacco use history could not be determined at this visit. He was reassured this was fine and that we could revisit the topic at a future visit if he was comfortable. He denies current cough, hemoptysis, unintentional weight loss, or chest pain. He reports occasional exertional dyspnea which he attributes to his known PAD and deconditioning. No fevers or night sweats.
+
+He did share some family history, noting that his mother had COPD and was a lifelong smoker. He appeared visibly affected discussing this, stating "She struggled to breathe for years before she passed." This was acknowledged empathetically, and I noted his hesitancy to discuss his own tobacco history may be related to this family experience, though I did not press further.
+
+PAST MEDICAL HISTORY:
+1. Hypertension
+2. Obstructive sleep apnea (on CPAP, per prior records)
+3. Peripheral artery disease
+4. Depression
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco Use Status: Declined to discuss
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Secondhand smoke exposure: Not on file
+Alcohol Use: Not on file
+Illicit Drug Use: Not on file
+Occupation: Retired (field last updated 2019)
+Living Situation: Blank
+Exercise: Blank
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 03/15/2023 - PCP OFFICE VISIT - Dr. R. Alvarez]
+---begin copied text---
+HPI: Mr. Hughes presents for routine follow-up of hypertension and PAD. He reports intermittent claudication in bilateral lower extremities, worse with ambulation >2 blocks, improved with rest. Blood pressure has been well controlled on current regimen. He denies chest pain, palpitations, or syncope. Sleep apnea symptoms stable on CPAP, though he admits inconsistent nightly use. Mood has been fair, continues on sertraline for depression with some benefit. Denies SI/HI. Discussed importance of medication adherence and follow-up with vascular surgery for PAD monitoring. Labs reviewed: lipid panel, HbA1c within acceptable limits. Will continue current management plan.
+ASSESSMENT/PLAN (03/15/2023):
+1. HTN - continue lisinopril, recheck BP at next visit
+2. PAD - continue cilostazol, vascular surgery f/u
+3. OSA - encourage CPAP compliance
+4. Depression - continue sertraline, reassess in 3 months
+---end copied text---
+
+[Note: above section appears to have been carried forward inadvertently from a prior encounter and is retained here per original documentation; content above is not reflective of today's visit findings.]
+
+REVIEW OF SYSTEMS (today, 01/10/2026):
+Constitutional: No fever, no unintentional weight loss.
+Respiratory: No cough, no hemoptysis, mild exertional dyspnea as above.
+Cardiovascular: No chest pain, no palpitations.
+Psychiatric: Reports mood as "okay, some good days and bad days."
+All other systems reviewed and negative except as noted in HPI.
+
+VITALS (via home cuff, patient-reported):
+BP: 132/78
+HR: 74
+Weight: 178 lbs
+
+PHYSICAL EXAM:
+Limited via telehealth. Patient appears well, in no acute distress. Speaking in full sentences without noted respiratory distress. Skin color normal, no cyanosis noted on camera. No gross tremor.
+
+ASSESSMENT:
+74-year-old male with HTN, OSA, PAD, and depression, presenting for shared decision-making visit regarding lung cancer screening. Tobacco use history could not be obtained today as patient declined to discuss this topic.
+
+PLAN:
+1. Lung cancer screening: Discussed general purpose and process of screening with low-dose CT scan in general terms. Patient was not able/willing to discuss his smoking history today. Plan to revisit this conversation at next visit, in person if possible, when patient may feel more comfortable. Provided educational handout on lung cancer screening.
+2. Hypertension: Continue home BP monitoring, current readings well controlled. Continue current antihypertensive regimen per PCP.
+3. OSA: Encouraged continued CPAP use; will defer to sleep medicine for further titration if needed.
+4. PAD: Continue current management; follow up with vascular surgery as previously arranged.
+5. Depression: Mood reportedly stable; continue current psychiatric management, follow up with treating provider.
+6. Family history of COPD in mother (lifelong smoker) noted; discussed general risk factors for lung disease, patient was receptive to this portion of discussion.
+7. Follow-up: Return visit in 3 months, or sooner if respiratory symptoms worsen. Encouraged patient to reach out with any questions in the interim.
+
+Time spent: 20 minutes, telehealth visit, predominantly counseling and coordination of care.
+
+Electronically signed by Julia Brennan, MD - Pulmonology - 01/10/2026

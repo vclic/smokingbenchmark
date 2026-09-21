@@ -1,0 +1,95 @@
+HISTORY AND PHYSICAL
+Patient: Lan Mitchell (F), DOB 04/17/1948, Age: 77
+Date of Service: 06/18/2025
+Provider: Anita Patel, MD
+Visit Type: New Patient - Establish Care, Primary Care
+
+CHIEF COMPLAINT: Establish care, med refills, general checkup.
+
+HPI: Ms Mitchell is a 77 yo woman new to clinic, moving from out of state, here to establish primary care and review her multiple chronic conditions incl BPH, asthma, hypothyroidism, CKD stage 3, CAD, and OSA. Pt reports feeling generally well, denies chest pain today, occasional dyspnea on exertion which she attributes to asthma flares. Uses albuterol inhaler prn, states she runs out often bc "forgets refills." No recent ED visits. Sleep partner-reports snoring, pt uses CPAP nightly per report though adherence data not available today. Urinary sx - frequency, nocturia x2, no dysuria no hematuria. No recent falls. Appetite fair, wt stable per pt.
+
+PAST MEDICAL HISTORY:
+- BPH
+- Asthma (adult onset)
+- Hypothyroidism
+- CKD stage 3
+- CAD (s/p stent per pt report, records pending)
+- OSA on CPAP
+
+PAST SURGICAL HISTORY: cholecystectomy (year unknown), cataract surgery bilateral
+
+MEDICATIONS (per pt report, to reconcile):
+- Levothyroxine 75mcg qd
+- Tamsulosin 0.4mg qhs
+- Albuterol HFA prn
+- Atorvastatin 40mg qd
+- Aspirin 81mg qd
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+Tobacco/Nicotine Use (EHR templated block):
+  Smoking status: Current every day smoker
+  Pack-year history: 15 pack-years
+  Type: cigarettes
+  Interest in quitting: discussed briefly, pt ambivalent today
+Alcohol: occasional glass of wine, denies heavy use
+Illicit drugs: denies
+Lives: with daughter, uses cane for ambulation
+
+FAMILY HISTORY: Mother - HTN, died age 89. Father - MI, died age 70. No known lung cancer in family per pt (unsure of extended family hx).
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever chills wt loss
+HEENT: denies vision changes, hearing aids bilat
+Cardiac: denies chest pain palpitations, + occasional DOE
+Resp: + occasional wheeze, denies hemoptysis, chronic cough present intermittently
+GI: denies nausea vomiting diarrhea constipation
+GU: + nocturia x2, urgency, denies hematuria
+MSK: chronic knee pain bilat, denies acute injury
+Neuro: denies focal weakness numbness
+Psych: denies depression anxiety, mood stable
+Skin: no rashes lesions noted by pt
+
+PHYSICAL EXAM:
+Vitals: BP 138/78, HR 74, RR 16, Temp 98.2F, SpO2 95% RA, Wt 152 lb, Ht 5'3"
+General: well-developed elderly female, NAD, appears stated age
+HEENT: PERRLA, EOMI, oropharynx clear, no thyromegaly appreciated
+Neck: supple, no JVD, no carotid bruit auscultated
+Cardiac: RRR, no murmur rub gallop appreciated, distal pulses 2+
+Resp: mild expiratory wheeze bilateral bases, no crackles no rhonchi
+Abd: soft NT ND, +BS, no HSM
+Extremities: no edema, no cyanosis clubbing
+Skin: warm dry intact
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady w cane
+
+LABS/RESULTS (reviewed today, drawn 06/17/2025 at outside lab prior to visit):
+CMP:
+  Na 139, K 4.4, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline per outside records), Glucose 101
+eGFR: 34 mL/min/1.73m2 (consistent w known CKD stage 3)
+CBC: WBC 6.8, Hgb 12.9, Hct 38.4, Plt 244
+TSH: 3.1 (WNL on current levothyroxine dose)
+Lipid panel: TC 178, LDL 92, HDL 48, TG 140
+UA: trace protein, no blood, no leukocyte esterase
+
+EKG (in office 06/18/2025): NSR, rate 76, nonspecific ST-T wave changes, no acute ischemic changes, unchanged compared to no prior available for comparison.
+
+ASSESSMENT:
+1. BPH - stable on tamsulosin, will continue
+2. Asthma - intermittent-mild, will refill albuterol, consider adding controller if flares persist
+3. Hypothyroidism - euthyroid on current dose per TSH today
+4. CKD stage 3 - stable Cr, will trend renally, avoid nephrotoxic agents, nephrology referral if worsens
+5. CAD - stable, continue statin and ASA, will obtain records from prior cardiologist
+6. OSA - on CPAP, will request sleep study records and titration data
+7. Tobacco use - current smoker, 15 pack-year history noted in chart; counseled on cessation resources, discussed nicotine replacement options and lung cancer screening topic in general terms, pt to consider and follow up
+
+PLAN:
+- Labs reviewed as above, stable overall
+- Refill albuterol HFA, tamsulosin, levothyroxine, atorvastatin, ASA
+- Recheck CMP/TSH in 3 months
+- Obtain outside records for CAD and OSA workup
+- Counseled on smoking cessation, pt given pamphlet and quitline number
+- F/u in 3 months or sooner if sx worsen
+- Pt verbalized understanding of plan, all questions answered today
+
+Electronically signed: Anita Patel, MD 06/18/2025

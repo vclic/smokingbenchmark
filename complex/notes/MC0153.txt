@@ -1,0 +1,47 @@
+CARDIOLOGY VISIT NOTE
+Date of Service: 04/15/2025
+Patient: Wei Jenkins, M, DOB 04/15/1974 (age 51)
+Provider: Brian Okonkwo, MD
+
+NURSE INTAKE:
+Pt presents today, 04/15/2025, for eval of chest pain. Pt states pain started 2 days ago, intermittent, sub sternal, non-radiating, wrst w exertion. denies SOB at rest. VS: BP 138/86, HR 78, RR 16, T 98.4F, SpO2 97% RA. Wt 210 lb. Pt is a 51 y/o male, DOB 4/15/1974, here w/ his wife.
+Allergies: NKDA
+Smoking status: pt reports he has never smoked cigarettes, no tobacco use of any kind reported.
+Alcohol: occasional, denies illicit drug use
+
+--- COPIED FORWARD FROM VISIT 11/02/2023 (retained per system carryover, may not reflect current status) ---
+Pt seen for routine f/u of DM2 and CKD stage 3. A1c 7.8, Cr 1.6. Pt reports doing well on current regimen, denies chest pain, SOB, orthopnea, edema. Continue metformin, lisinopril. RTC 6 months. Pt counseled on diet and exercise. Depression screening PHQ-9 score 6, stable on sertraline. GERD symptoms controlled on omeprazole, denies heartburn or reflux sx at that time.
+--- END COPIED SECTION ---
+
+PHYSICIAN PROGRESS NOTE:
+HPI: Mr Jenkins is a 51 yo male w/ hx GERD, CKD stage 3, depression, and T2DM who presents today 4/15/2025 with 2 days of intermittent substernal chest pain, worse w exertion, improves w rest. No prior cardiac hx. No diaphoresis, no nausea. Pt denies any tobacco use, states he has never smoked cigarettes in his life. Reviewed intake data, consistent w prior charting.
+
+ROS: Constitutional: denies fever, chills, wt loss. CV: + chest pain as above, denies palpitations, denies syncope. Resp: denies cough, denies wheeze, denies hemoptysis. GI: occasional reflux, denies nausea/vomiting/diarrhea. GU: denies dysuria, denies hematuria. Neuro: denies HA, denies focal weakness. Psych: denies SI/HI, mood stable on current tx. Endocrine: denies polyuria/polydipsia. All other systems reviewed and negative.
+
+Physical Exam: Gen: NAD, well appearing. HEENT: normocephalic, atraumatic, PERRL. Neck: no JVD, no bruits. CV: RRR, no m/r/g. Lungs: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND, +BS. Ext: no edema, pulses 2+ symmetric. Skin: no rash. Neuro: A&Ox3, no focal deficits.
+
+Labs/Results:
+04/15/2025 Troponin I: <0.01 ng/mL (neg)
+04/15/2025 BMP: Na 138, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.5, Glu 142
+04/15/2025 A1c: 7.6%
+04/15/2025 ECG: NSR, no ST changes, no acute ischemic changes
+03/10/2025 Lipid panel: TC 190, LDL 112, HDL 42, TG 180
+
+Assessment/Plan:
+1. Chest pain, likely non-cardiac given neg troponin and unremarkable ECG, will consider stress test outpt if sx persist. GERD may be contributing- continue omeprazole, discussed dietary triggers.
+2. Never-smoker per hx, tobacco cessation counseling not indicated but general risk factor education given regarding CV health.
+3. T2DM- A1c 7.6, cont metformin, reinforce diet/exercise.
+4. CKD stage 3- stable Cr 1.5, cont lisinopril, monitor renal fxn.
+5. Depression- stable on sertraline, PHQ-9 to be reassessed at next visit.
+
+Medications:
+Metformin 1000mg BID
+Lisinopril 10mg daily
+Sertraline 100mg daily
+Omeprazole 20mg daily
+Atorvastatin 20mg daily
+Aspirin 81mg daily
+
+Discussed lung cancer screening guidelines in general terms given age; not specifically addressed further today given never-smoker status. RTC 3 months or sooner if sx worsen. Pt verbalized understanding, agree w plan.
+
+Brian Okonkwo, MD

@@ -1,0 +1,28 @@
+RESIDENT NOTE - Hospital Discharge Follow-up
+Patient: Maria Young, F, DOB 2/9/1947 (age 78)
+Date of Service: 2025-02-09
+Author: Anita Patel, MD (resident); attending attestation below
+
+HPI: Patient seen today for f/u after recent hospitalization for pneumonia. She states "I feel about 80% back to normal, just a little short of breath climbing stairs." She denies fever, chills, or productive cough currently. Reports appetite improving, sleeping ok with CPAP. Asked re: tobacco use as part of standard intake; patient declined to discuss tobacco use, redirected conversation to her breathing and asked not to revisit topic. No further smoking history obtained this visit.
+
+[Copied forward from prior visit note dated 11/14/2024 - left in for reference, not all data current]: 78 yo F with asthma, CAD s/p stent 2019, OSA on CPAP, BPH, osteoporosis on alendronate. Home meds unchanged: albuterol prn, ASA 81mg, atorvastatin 40mg, tamsulosin 0.4mg, alendronate 70mg weekly, calcium/vit D. Vitals stable, lungs clear bilat, no wheeze appreciated, cardiac exam RRR no m/r/g. Pt denies chest pain, denies dyspnea at rest. Continue current regimen, f/u in 3 months, recheck lipid panel and renal fxn at next visit. (End copied section.)
+
+Exam (today): Temp 98.2F, HR 76, BP 128/72, RR 16, SpO2 95% RA. Gen: NAD, comfortable. Lungs: mild bibasilar crackles, improved from discharge, no wheezes. CV: RRR, no murmurs. Abd: soft, nontender. Ext: no edema.
+
+Labs/Results:
+- CBC (2/9/2025): WBC 8.9, Hgb 12.1, Plt 245
+- BMP (2/9/2025): Na 138, K 4.1, Cr 0.9, BUN 18
+- CRP (2/9/2025): 1.2 (down from 6.8 at discharge 2/5/2025)
+- CXR (2/9/2025): improving infiltrate LLL compared to prior film, no effusion
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue supportive care, f/u CXR in 4-6 wks to confirm resolution.
+2. Asthma - stable, continue albuterol prn.
+3. CAD - stable, continue ASA/statin.
+4. OSA - continue CPAP compliance.
+5. BPH/osteoporosis - continue current meds.
+Tobacco use status could not be assessed as patient declined discussion; will revisit at next visit if appropriate.
+
+Attending Attestation: I saw and examined the patient with Dr. Patel and agree with the above assessment and plan. - Dr. R. Elmore
+
+ADDENDUM (later same day, 2/9/2025, 4:45pm): Patient's daughter called clinic requesting copy of discharge summary; records released per patient consent on file. No change to plan above. Pt reiterated she did not wish to discuss smoking during today's visit; status remains undetermined.

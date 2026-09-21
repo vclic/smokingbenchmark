@@ -1,0 +1,68 @@
+TELEHEALTH VISIT NOTE
+Vascular Surgery
+Date of Service: 09/11/2024
+Author: Priya Raman, MD
+
+Patient: Frank Hill (M), DOB 08/11/1949, Age: 75
+
+CHIEF COMPLAINT: Follow-up peripheral artery disease (PAD) evaluation via video visit.
+
+HPI: Mr. Hill is a 75-year-old male with PAD, gout, CKD stage 3, and depression, seen today via telehealth for reassessment of claudication symptoms. He reports intermittent calf pain with ambulation, distance roughly stable since last visit. No rest pain, no new ulcerations reported by patient on visual self-exam via camera. He continues to take cilostazol and aspirin as prescribed. Mood is stable on current antidepressant regimen per patient report.
+
+=== COPY-FORWARD FROM PRIOR VISIT (03/14/2023) ===
+[The following text was carried forward from a previous note and left largely unedited]
+Patient presents for PAD follow up. Ankle-brachial index last checked was borderline abnormal on the right. Patient denies chest pain, denies shortness of breath. Gout flares have been infrequent, last flare approx 6 months prior to that visit, managed with colchicine. CKD stage 3 stable, nephrology following q6 months. Depression screening PHQ-9 was mild range at that time. Social history reviewed, tobacco use discussed at length, patient counseled on cessation resources including nicotine replacement and referral to quitline. Patient was not ready to quit at that time. Plan was to continue current medical management and reassess in 6 months.
+=== END COPY-FORWARD ===
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Pack-years: 96
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to claudication
+
+TOBACCO HISTORY NOTE: Patient has a 96 pack-year smoking history. He previously quit smoking in 2008 but relapsed in 2011 and has smoked continuously since. He continues to smoke despite counseling at multiple visits, including today's discussion of cessation strategies and risks of continued PAD progression. A quit date has been set for 10/18/2024, at which time he plans to begin using a nicotine patch with support from the quitline. General health risks of continued tobacco use, including cardiovascular and pulmonary risks, were discussed with the patient.
+
+MEDICATIONS:
+- Cilostazol 100mg BID
+- Aspirin 81mg daily
+- Allopurinol 100mg daily
+- Sertraline 50mg daily
+- Atorvastatin 40mg daily
+
+ALLERGIES: NKDA
+
+RESULTS/LABS:
+08/28/2024 - BMP: Creatinine 1.6 mg/dL, eGFR 42 mL/min/1.73m2, Potassium 4.3 mmol/L, Sodium 139 mmol/L
+08/28/2024 - Lipid panel: LDL 88 mg/dL, HDL 42 mg/dL, Triglycerides 150 mg/dL
+08/28/2024 - Uric acid: 6.8 mg/dL
+07/15/2024 - Ankle-brachial index: Right 0.68, Left 0.72 (consistent with mild-moderate PAD)
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, cooperative, no acute distress noted on video.
+Extremities: Patient demonstrates skin of bilateral lower extremities via camera; no visible ulcers or discoloration reported. Cannot palpate pulses via telehealth; deferred to next in-person visit.
+Affect: Euthymic, appropriate.
+
+ASSESSMENT:
+1. Peripheral artery disease, mild-moderate, stable symptoms.
+2. Gout, currently well controlled.
+3. CKD stage 3, stable.
+4. Depression, stable on current therapy.
+5. Tobacco use disorder, continued despite counseling.
+
+PLAN:
+- Continue cilostazol and aspirin.
+- Reinforce smoking cessation counseling; patient has set quit date of 10/18/2024 with plan to start nicotine patch and quitline support at that time.
+- Continue allopurinol for gout prophylaxis; recheck uric acid in 3 months.
+- Continue nephrology follow-up for CKD.
+- Continue sertraline; reassess PHQ-9 at next visit.
+- Schedule in-person visit in 6-8 weeks for repeat vascular exam and pulse assessment.
+- Discussed general risks of continued smoking including cardiovascular and pulmonary risk.
+
+RTC: 6-8 weeks or sooner if symptoms worsen.
+
+Electronically signed: Priya Raman, MD, Vascular Surgery, 09/11/2024.

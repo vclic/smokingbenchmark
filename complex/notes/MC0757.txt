@@ -1,0 +1,78 @@
+PRE-OPERATIVE EVALUATION - INTERNAL MEDICINE
+Patient: Rita Hernandez, F, DOB 4/12/1962 (age 64)
+Date of Service: 06/30/2026
+Author: Rachel Goldberg, MD (Resident), Attestation by Attending below
+
+CC: Pre-op eval for L TKA, ortho surgery scheduled with Dr. Feld's service.
+
+HPI: 64 yo F w/ hx obesity, HFrEF, hypothyroidism p/w for pre-operative medical clearance prior to L total knee arthroplasty. Pt reports progressive knee pain, OA-related, limiting ambulation, now s/p failed conservative tx (PT, NSAIDs, intra-articular inj x2). No CP, no acute SOB at rest, but does note DOE at baseline c/w known HFrEF. Denies orthopnea change, no PND, stable weight per pt report (though not formally wt-checked today by pt at home).
+
+Smoking hx reviewed in detail: pt smoked approx half pack (~10 cigs/day) for 26 yrs, then escalated to 2 packs per day for the past 17 yrs and continues to smoke at that rate currently. She endorses ongoing daily use, states she is not ready to quit at this time despite counseling. She previously quit smoking in 2012 but relapsed in 2015. She also reports vaping occasionally, in addition to combustible cigarette use. Advised to quit again today, offered resources (QuitLine info given), pt declined further cessation aids at this visit.
+
+[Copied forward from prior visit note dated 11/14/2025 - retained for continuity, some info may be outdated]:
+"64 yo F (NOTE: age at that visit was 63) f/u HFrEF, EF 35% on last TTE 2024, NYHA class II sx. Cont's carvedilol, lisinopril, spironolactone, furosemide prn. Denies syncope, denies recent CHF exac. Thyroid: on levothyroxine, TSH wnl 6 mo ago. Wt stable. Diet reviewed - low Na counseled. Pt continues to smoke, counseled extensively, declined referral to cessation program at that time. Repeat echo deferred, will reassess at next cardiology f/u."
+[End copied section]
+
+PMH/Problem List (ICD-10):
+- Obesity, unspecified (E66.9)
+- Heart failure w/ reduced ejection fraction (I50.22) - last EF 35% (2024, may be outdated, repeat echo not yet obtained)
+- Hypothyroidism, unspecified (E03.9)
+- Osteoarthritis, knee, bilateral (M17.0) - primary reason for surgical referral
+- Tobacco use disorder, cigarettes (Z72.0)
+- GERD (K21.9) - old dx, unclear if still active, not mentioned by pt today
+
+Medications:
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Furosemide 20 mg PO PRN for edema
+5. Levothyroxine 88 mcg PO daily
+6. Atorvastatin 20 mg PO qHS
+7. Vitamin D3 1000 IU PO daily
+8. Acetaminophen 650 mg PO PRN pain
+9. Omeprazole 20 mg PO daily (old rx, unclear if still taking)
+
+Allergies: NKDA
+
+ROS (30-point templated review, largely negative except as noted):
+Constitutional: denies fever, chills, night sweats, wt loss/gain
+Eyes: denies vision change
+ENT: denies sore throat, denies epistaxis
+CV: + DOE at baseline, denies CP, denies palpitations, denies syncope
+Resp: denies cough, denies hemoptysis, denies wheeze
+GI: denies N/V, denies abd pain, denies change in bowel habits
+GU: denies dysuria, denies hematuria
+MSK: + b/l knee pain, worse L>R, denies back pain
+Skin: denies rash, denies new lesions
+Neuro: denies HA, denies focal weakness, denies numbness/tingling
+Psych: denies depression, denies anxiety
+Endo: denies polyuria, denies polydipsia
+Heme: denies easy bruising, denies bleeding
+Allergic/Immuno: NKDA as above, denies recurrent infection
+
+Physical Exam:
+Vitals: BP 138/82, HR 78 reg, RR 16, T 98.2F, SpO2 96% RA, Wt 212 lb, BMI 38.4
+Gen: obese female, NAD, A&Ox3, cooperative w/ exam
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no thyromegaly appreciated
+Neck: supple, no JVD appreciated at 30 deg
+CV: RRR, no m/r/g, S1/S2 nl, no S3/S4 appreciated today
+Resp: CTAB, no wheeze/rales/rhonchi, mild dyspnea w/ exertion during ambulation to exam table
+Abd: soft, obese, NT/ND, +BS, no HSM
+Ext: trace b/l LE edema, b/l knee w/ crepitus and decreased ROM, no effusion, no erythema, no warmth
+Skin: no rash, no ulceration
+Neuro: grossly nonfocal, CN II-XII intact, strength 5/5 all extremities
+
+Assessment/Plan:
+64 yo F w/ HFrEF (EF 35% per 2024 TTE), obesity, hypothyroidism, active tobacco use disorder presenting for pre-op clearance prior to L TKA.
+
+1. Cardiac risk stratification: RCRI reviewed. Will request updated TTE given last echo dated 2024, prior to proceeding to OR given HFrEF hx. Cont home cardiac meds, hold ACEi/diuretic per anesthesia protocol morning of surgery per standard instructions.
+2. Tobacco use disorder: pt continues to smoke ~2 packs/day currently (up from prior ~1/2 pack/day x 26 yrs), also uses vape occasionally. Counseled extensively re: perioperative risks incl. wound healing, pulmonary complications, cardiac risk. Pt states not ready to quit at this time. Declined nicotine replacement/pharmacotherapy today. Screening for lung malignancy was discussed in general terms; no imaging ordered at this visit. Will re-address at future visits.
+3. HFrEF: stable per pt report today, no acute decompensation signs on exam, cont current regimen, cardiology f/u recommended prior to surgery.
+4. Hypothyroidism: appears clinically euthyroid, will check TSH prior to surgery for completeness.
+5. Obesity: BMI 38.4, counseled re: weight mgmt, referred to nutrition as appropriate.
+6. Peri-op plan: cleared for surgery from medicine standpoint pending updated TTE and labs; anesthesia consult to follow.
+
+Disposition: f/u with cardiology prior to surgery date, return to clinic PRN.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Goldberg, reviewed the history, exam, and plan as documented above, and agree with the assessment and plan as written. - Attending physician, Internal Medicine, 06/30/2026.

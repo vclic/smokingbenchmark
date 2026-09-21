@@ -1,0 +1,74 @@
+Mei Johnson Clinic Note - Pulmonology Follow-up
+Date of Service: 02/13/2026
+DOB: 02/13/1971 (age 55)
+Provider: Michael Dunn, DO
+
+=== NURSE INTAKE ===
+Chief complaint: Follow-up after ED visit for COPD exacerbation.
+Vitals: BP 138/86, HR 92, RR 20, SpO2 91% on RA, Temp 98.2F, Wt 214 lb, Ht 5'4"
+
+SOCIAL HISTORY (templated EHR block)
+Tobacco use: Yes
+Smoking status: Never Smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+=== PHYSICIAN PROGRESS NOTE (Michael Dunn, DO) ===
+HPI: Ms. Johnson is a 55-year-old woman with a history of osteoporosis, obesity, CKD stage 3, peripheral artery disease, hyperlipidemia, and gout who presents for follow-up after a recent COPD exacerbation requiring an ED visit. She reports ongoing dyspnea on exertion, mild productive cough with white sputum, and intermittent wheeze, improved since starting the burst of oral steroids and increasing her rescue inhaler use. She denies fevers or chest pain. She has smoked 1.5 packs per day since 1990. She continues to smoke and states she is not ready to quit at this time despite ongoing respiratory symptoms.
+
+Note: The templated smoking status field above ("Never Smoker") is inaccurate/outdated and does not reflect the patient's actual history as documented in this visit; the correct history is an active smoker as detailed above.
+
+Past Medical History: Osteoporosis (on bisphosphonate therapy), obesity, CKD stage 3, peripheral artery disease with prior claudication symptoms, hyperlipidemia (on statin), gout (last flare 6 months ago).
+
+Medications: Alendronate 70mg weekly, atorvastatin 40mg daily, allopurinol 100mg daily, albuterol MDI PRN, tiotropium inhaler daily, lisinopril 10mg daily.
+
+Allergies: NKDA
+
+Review of Systems: Positive for dyspnea, cough, fatigue. Negative for chest pain, palpitations, hemoptysis, fever, chills, leg swelling changes beyond baseline PAD symptoms.
+
+Physical Exam:
+General: Obese woman, mild respiratory distress at rest, speaking in full sentences.
+HEENT: No JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs. Distal pulses diminished bilaterally, consistent with known PAD.
+Respiratory: Diffuse expiratory wheezes bilaterally, prolonged expiratory phase, no crackles.
+Abdomen: Obese, soft, nontender.
+Extremities: No edema, mild pallor of toes bilaterally, no ulcers.
+Skin: No rashes.
+MSK: No active joint swelling noted today; prior gout tophi on right first MTP noted, stable.
+
+Labs/Results (from recent ED visit and today):
+02/12/2026 CBC: WBC 9.8, Hgb 12.9, Hct 38.5, Plt 245
+02/12/2026 BMP: Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.4 (baseline for CKD3), eGFR 42
+02/12/2026 ABG (ED): pH 7.36, pCO2 46, pO2 62, HCO3 26
+02/13/2026 Uric acid: 6.8 mg/dL
+02/13/2026 Lipid panel: Total chol 188, LDL 102, HDL 44, TG 210
+02/13/2026 DEXA (from 11/2025, reviewed today): T-score -2.6 lumbar spine
+02/13/2026 Chest X-ray (from ED): Hyperinflated lungs, no acute infiltrate, no effusion.
+
+Assessment:
+1. COPD exacerbation, resolving - continue current inhaler regimen, taper steroid course as previously prescribed.
+2. Active tobacco use - counseled extensively on risks of continued smoking including worsening COPD, cardiovascular disease progression given known PAD, and impact on bone health/osteoporosis. Discussed smoking cessation resources including nicotine replacement therapy, varenicline, and counseling programs. Patient acknowledges risks but states she is not ready to quit at this time; will continue to offer support at future visits. Lung cancer screening was discussed in general terms as part of overall risk counseling.
+3. Osteoporosis - continue alendronate, encourage weight-bearing exercise as tolerated.
+4. CKD stage 3 - stable, continue monitoring renal function, avoid nephrotoxic agents.
+5. Peripheral artery disease - continue current management, reinforce importance of smoking cessation for vascular health.
+6. Hyperlipidemia - LDL at goal on current statin, continue atorvastatin.
+7. Gout - no active flare, continue allopurinol.
+8. Obesity - discussed dietary modification and low-impact exercise given PAD limitations.
+
+Plan:
+- Continue tiotropium daily, albuterol PRN
+- Complete steroid taper
+- Pulmonary function testing to be scheduled once exacerbation fully resolved
+- Follow-up in pulmonology clinic in 4-6 weeks
+- Continue home meds as above
+- Smoking cessation counseling offered again today; patient declined referral at this time but agreeable to revisit at next visit
+- Return to ED for worsening dyspnea, chest pain, or hypoxia
+
+Electronically signed: Michael Dunn, DO
+
+=== ADDENDUM (same day, later) ===
+Addendum by Michael Dunn, DO, 02/13/2026 16:45:
+Spoke further with patient by phone after she called with a question about her steroid taper schedule. Clarified dosing instructions - continue prednisone 20mg daily x3 more days then discontinue per original taper plan given to her at ED discharge. She reiterated understanding of taper. No new complaints. She again mentioned she is not currently interested in smoking cessation aids but will keep them in mind. No changes to overall plan. Will continue to reassess at each visit.

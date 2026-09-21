@@ -1,0 +1,72 @@
+Internal Medicine Progress Note
+
+Patient: WILSON, Donald    MRN: 38829413
+DOB: 07/01/1966    Age: 59 y.o.    Sex: Male
+Date of Service: 06/30/2026    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Donald Wilson is a 59 y.o. male who presents for hospital follow-up after admission for cellulitis of the left leg.
+Admitted 6/12/2026-2026-06-18 for cellulitis of the left leg. Completed antibiotics. No new symptoms since discharge. He quit smoking in May of 2023; prior to that he smoked 18 cigarettes a day for 35 years.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia	2016
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2006)
+• TURP (2011)
+
+Current Outpatient Medicatons on File Prior to Visit
+Medication	Sig
+• simvastatin 20 mg nightly
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Retired accountant.
+  Smokes marijuana occasionally (1-2x/wk).
+  No alcohol.
+
+Family History
+Father - AAA repair. Mother - CHF, d. age 88. Both parents were smokers.
+
+Review of Systems
+ROS: CV neg, Neuro neg, Skin neg, GI neg
+
+Objective:
+Vitals:
+  BP 113/79 (BP Location: Left arm, Patient Position: Sitting) | Pulse 59 | Temp 98.2 °F (Oral) | Resp 18 | Ht 6' 1" | Wt 197 lb | SpO2 98% | BMI 25.97 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Cellulitis of the left leg
+   Clinically improved. Follow-up CXR in 6 weeks.
+2. Hypercholesterolemia
+   Continue statin. Lipid panel due.
+3. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+f/u 3 mo
+
+Electronically signed by Michael Dunn, DO on 06/30/2026

@@ -1,0 +1,47 @@
+GERIATRICS H&P
+Patient: Ronald Jones (M) DOB 1/5/1949, 77 years old
+DOS: 1/5/2026
+Author: Julia Brennan, MD
+
+CC: Geriatric assessment, f/u chronic conditions.
+
+HPI: Mr. Jones is a 77-year-old male referred for comprehensive geriatric assessment. Reports fatigue, occasional heartburn worse at night, no dysphagia. No falls since last visit. Denies chest pain, denies hemoptysis. Appetite fair. Sleep fragmented, uses extra pillows for reflux sx. Wife accompanies, notes some forgetfulness w/ meds - uses pillbox now, helps.
+
+PMH: GERD, osteoporosis (last DEXA reviewed prior visit), CKD stage 3.
+Meds: omeprazole 20mg daily, alendronate 70mg weekly, calcium/vit D, lisinopril held due to renal fxn.
+Allergies: NKDA.
+
+Social History: Lives w/ spouse, retired machinist. Denies EtOH excess, occasional beer. Currently smokes - pt states he still smokes daily, has not quit. No illicit drug use.
+
+Family Hx: Father - MI age 70s. Mother - osteoporosis, hip fx.
+
+ROS: Constitutional - fatigue as above, no fever/chills. Resp - no cough, no dyspnea at rest. GI - reflux sx as noted. GU - nocturia x2. MSK - mild low back pain chronic. Neuro - no focal deficits reported.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb.
+Gen: NAD, well-groomed elderly male.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, NT/ND, no organomegaly.
+MSK: kyphotic posture, no acute tenderness.
+Skin: no lesions.
+Neuro: A&Ox3, gait steady w/ cane.
+
+Labs (drawn 1/2/2026):
+Cr 1.6 mg/dL (baseline ~1.5-1.7), eGFR 42 mL/min/1.73m2
+BUN 28 mg/dL
+Na 139, K 4.6, HCO3 24
+Ca 9.4 mg/dL, Vit D 32 ng/mL
+CBC WNL, Hgb 13.1 g/dL
+
+Assessment/Plan:
+1. GERD - stable on omeprazole, continue current dose, reinforce lifestyle modifications (elevate HOB, avoid late meals).
+2. Osteoporosis - continue alendronate, ensure adequate Ca/vit D intake, f/u DEXA per schedule.
+3. CKD stage 3 - stable renal function per labs above, avoid nephrotoxic agents, monitor Cr/eGFR q6mo.
+4. Tobacco use - patient is an active smoker, smokes between half a pack and one pack per day for the past 50 years. Counseled extensively on smoking cessation, discussed resources including quitline and pharmacologic aids (varenicline, nicotine replacement). Lung cancer screening discussed as a general topic during visit; no imaging ordered today.
+5. Geriatric assessment - overall functional status fair, cane use for gait stability, will arrange PT eval. Cognitive screen deferred to next visit given time constraints, wife to monitor med adherence.
+6. Return to clinic in 3 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 1/5/2026, 4:45pm):
+Spoke with patient again by phone after he called clinic regarding reflux meds - clarified to continue omeprazole as prescribed, no change. Also reiterated smoking cessation counseling; patient verbalized understanding but states not ready to quit at this time. No new acute issues reported. Will continue plan as above. -J. Brennan, MD

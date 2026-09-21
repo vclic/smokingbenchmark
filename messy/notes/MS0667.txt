@@ -1,0 +1,40 @@
+Geriatrics Progress Note
+DOS: 05/31/2025
+Author: Elena Markovic, MD
+
+Pt: Mary Johnson, F, age 58 (DOB 1/28/1967), presents for geriatric assessment.
+
+HPI: Pt here w/ complaints of increasing fatigue and joint pain, hx of COPD w/ occasional dyspnea on exertion, GERD sx well-controlled on PPI. No new cardiac sx, AFib currently rate-controlled. Reports occasional nocturia related to BPH. No hematuria noted. Pt denies chest pain, denies palpitations today.
+
+SOCIAL HISTORY: Former smoker - quit in 2006. Smoked 1 pack per day for 21 years prior to quitting. Denies current tobacco use, denies vaping. No illicit drug use. Occasional ETOH use, ~1 glass wine/wk. Lives w/ spouse, independent in ADLs.
+
+[Copied from note dated 3/31/2024]: "Pt reports former smoker status." (No further detail provided in that entry.)
+
+PROBLEM LIST:
+1. N18.30 - CKD stage 3 - stable, last eGFR 52 (3/2025)
+2. J44.9 - COPD - stable, uses albuterol PRN
+3. M19.90 - Osteoarthritis - chronic, managed conservatively
+4. K21.9 - GERD - controlled on omeprazole
+5. N40.0 - BPH - stable on tamsulosin (outdated entry, pt reports improved urinary flow since last visit)
+6. I48.91 - Atrial fibrillation - on apixaban, rate-controlled
+
+LABS/RESULTS:
+- CBC (5/28/25): WNL
+- BMP (5/28/25): Na 138, K 4.2, Cr 1.3, eGFR 52
+- INR not applicable (on DOAC)
+- Lipid panel (3/2025): LDL 98, HDL 45, TG 130
+
+EXAM: Pt alert, oriented x3, NAD. Lungs w/ mild expiratory wheeze bilat, no crackles. Heart irregular rhythm, no murmurs appreciated. Abd soft, nontender. Extremities w/ mild crepitus at knees, no edema.
+
+ASSESSMENT/PLAN:
+- CKD stage 3: continue current regimen, recheck BMP in 3 mo
+- COPD: continue albuterol PRN, discussed pulmonary function testing at next visit; general discussion of lung health had w/ pt given prior tobacco use, no imaging ordered
+- OA: continue NSAIDs PRN, PT referral considered
+- GERD: continue omeprazole
+- BPH: continue tamsulosin, monitor sx
+- AFib: continue apixaban, f/u w/ cardiology in 6 mo
+- Social: reinforced tobacco cessation success, encouraged continued abstinence
+
+F/u in 3 months or sooner if sx worsen.
+
+Elena Markovic, MD

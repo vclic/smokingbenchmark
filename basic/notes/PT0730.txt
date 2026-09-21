@@ -1,0 +1,80 @@
+General Medicine Clinic Progress Note
+
+Patient: MILLER, Maria    MRN: 55510765
+DOB: 11/28/1969    Age: 55 y.o.    Sex: Female
+Date of Service: 08/26/2025    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Maria Miller is a 55 y.o. female who presents for hospital follow-up after admission for symptomatic anemia.
+Admitted 8/10/2025-August 16, 2025 for symptomatic anemia. Completed antibiotics. Using walker at home.
+
+Past Medical History:
+Diagnosis	Date
+• CAD s/p CABG x3 (2023)
+
+Past Surgical History:
+Procedure	Laterality	Date
+• C-section x2 (2013)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• nitroglycerin 0.4 mg SL PRN
+• metoprolol succinate 25 mg daily
+• aspirin 81 mg daily
+• fish oil 1 g daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 1.00
+    Years: 38.00
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: quit after CABG
+Social History Narrative
+  Divorced, lives alone.
+  Works as a nurse.
+  Social drinker.
+  No IVDU.
+  Drives.
+
+Family History
+Mother - breast cancer at 70.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 108/73 (BP Location: Left arm, Patient Position: Sitting) | Pulse 87 | Temp 97.5 °F (Oral) | Resp 12 | Ht 5' 7" | Wt 175 lb | SpO2 97% | BMI 27.37 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (8/22/2025): Cr 0.81, K 4.8, Hgb 13.6
+
+Assessment & Plan
+1. Symptomatic anemia
+   Resolved. Med rec completed.
+2. CAD
+   Stable. Continue secondary prevention.
+3. Former smoker
+   Congratulated on remaining smoke-free.
+
+Return in about 1 month (around 9/26/2025).
+
+Electronically signed by Nadia Haddad, MD on 08/26/2025

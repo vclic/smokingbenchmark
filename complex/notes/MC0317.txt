@@ -1,0 +1,48 @@
+TELEHEALTH FOLLOW-UP NOTE
+Patient: William Hernandez
+DOB: 6/16/1971 (Age 54)
+Date of Service: 06/16/2025
+Provider: Hannah Weiss, NP
+Visit Type: Telehealth, post-hospital discharge follow-up (pneumonia)
+
+CHIEF COMPLAINT: Follow-up after hospitalization for pneumonia.
+
+HPI: Mr. Hernandez is a 54-year-old male, DOB 6/16/1971, seen via telehealth today, date of service June 16, 2025, for follow-up after recent hospital discharge for community-acquired pneumonia. He states, "I'm breathing a lot better than I was, but I still get tired walking up the stairs." He reports he completed most of his antibiotic course, with two days remaining. He denies fever, chills, or hemoptysis currently. He states "my chest still feels a little tight in the mornings, but it's improving each day, I think, maybe [inaudible] a bit worse at night though." He reports his home pulse oximeter readings have been in the 94-97% range. Denies chest pain radiating to arm, denies palpitations. He notes some fatigue which he attributes to being deconditioned after the hospital stay and not being able to excersize like he used to before he got sick, and he says his appetite is returning to normal now that he is off the stronger antibiotics they had him on in the hospital which made him nauseous per his report.
+
+Smoking status: Unknown if ever smoked.
+
+---BEGIN COPY-FORWARD TEXT FROM PRIOR VISIT (ORIGINAL NOTE DATED 11/14/2024)---
+CC: Routine follow up for DM2, CAD, OSA, gout.
+HPI: Patient here today for routine chronic disease management. Reports blood sugars have been running in the 130s-160s fasting per home glucometer log, he denies hypoglycemic episodes. He reports compliance with CPAP most nights, though he admits to "forgetting it when I travel." No gout flares since last visit, uric acid last checked was within normal limits. Cardiovascular review of systems negative for chest pain, orthopnea, or PND at that time.
+PROBLEM LIST (from 11/14/2024, some entries outdated):
+- E11.9 Type 2 diabetes mellitus without complications
+- I25.10 Coronary artery disease of native coronary artery without angina pectoris
+- G47.33 Obstructive sleep apnea
+- M10.9 Gout, unspecified
+- J18.9 Pneumonia, unspecified organism (added post-hospitalization, current visit)
+---END COPY-FORWARD TEXT---
+
+REVIEW OF SYSTEMS (current visit): Positive for mild fatigue and residual chest tightness as above. Negative for fever, chills, night sweats, weight loss, hemoptysis, lower extremity edema, or dysuria. Denies joint pain currently.
+
+VITALS (per home telehealth kit, patient-reported): BP 132/78, HR 78, Temp 98.1F, SpO2 96% RA.
+
+PHYSICAL EXAM (limited, via video): Patient appears well, in no acute distress, breathing comfortably at rest, no visible use of accessory muscles. Speech clear and full sentences. Skin color normal, no cyanosis noted on camera.
+
+ASSESSMENT:
+1. Pneumonia, resolving, post-hospitalization - clinically improving.
+2. Type 2 diabetes mellitus - stable, will continue current regimen, recheck A1c at next visit.
+3. Coronary artery disease - stable, no anginal symptoms.
+4. Obstructive sleep apnea - continue CPAP, encourage adherence.
+5. Gout - quiescent.
+
+PLAN:
+- Complete remaining antibiotic course as prescribed at discharge.
+- Incentive spirometry encouraged, gradual increase in activity as tolerated.
+- Continue home glucose monitoring; follow up labs including CBC, BMP, A1c in 4-6 weeks.
+- Continue CPAP nightly; discussed importance of consistent use, including during travel.
+- Follow up with cardiology as previously scheduled for CAD management.
+- Discussed general pulmonary health and preventive care; screening was discussed but no imaging ordered today.
+- Return to clinic or ER for worsening shortness of breath, fever, or chest pain.
+- Follow-up telehealth or in-person visit in 2 weeks to reassess respiratory status.
+
+Electronically signed: Hannah Weiss, NP, 06/16/2025.

@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+DOS: 11/28/2024
+Provider: Catherine Lindqvist, DO (Cardiology)
+Patient: Joseph Kowalski, M, DOB 07/23/1966, Age: 58
+
+CHIEF COMPLAINT: HF follow-up, telehealth visit.
+
+HPI: Pt reports doing fairly well, denies orthopnea, denies significant weight gain, some mild ankle swelling noted this a.m., pt states he has been compliant with meds, denies chest pain, denies palpitations, reports occasional fatigue with exertion but overall stable, pt states "I feel about the same as last visit" per [inaudible] and family confirms no acute distress noted at home.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified (active)
+- N18.3 CKD stage 3 (active)
+- M19.90 Osteoarthritis, unspecified site (active)
+- E66.9 Obesity, unspecified (resolved - outdated entry, pt reports weight loss x2 yrs)
+- I10 Essential hypertension (active)
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no chills, no weight loss. Cardiac: no chest pain, mild edema as above. Resp: no cough, no dyspnea at rest. GI: no nausea, no vomiting, no abd pain. GU: no dysuria. MSK: chronic joint pain stable. Neuro: no focal deficits. Skin: no rashes. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco Use Status: Former smoker
+Smoking Pack-Years: Not on file
+Smoking History: Pt smoked between 2 and 3 packs per day for 28 years; quit smoking in 2015 and reports he no longer smokes.
+Alcohol Use: Former drinker, pt quit drinking alcohol in 2002.
+Drug Use: Denies
+Occupation: Retired
+Living Situation: Not on file
+
+PHYSICAL EXAM: Telehealth visual exam only, pt appears well, no acute distress, speaking in full sentences without dyspnea, skin color normal, no visible edema on camera though pt reports mild swelling, affect appropriate, alert and oriented x3.
+
+MEDICATIONS: Lisinopril 10mg daily, Carvedilol 12.5mg BID, Furosemide 40mg daily, Spironolactone 25mg daily, Atorvastatin 20mg daily, Aspirin 81mg daily, Acetaminophen 500mg PRN for joint pain.
+
+LABS/RESULTS:
+- BNP 11/20/2024: 310 pg/mL (elevated)
+- Creatinine 11/20/2024: 1.4 mg/dL
+- eGFR 11/20/2024: 52 mL/min
+- Potassium 11/20/2024: 4.3 mmol/L
+
+ASSESSMENT/PLAN: HF stable on current regimen, continue diuretic, monitor lytes given CKD stage 3, f/u labs in 3 months, discussed lung cancer screening options given tobacco history, encouraged continued abstinence from smoking, OA managed conservatively with acetaminophen, RTC in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Catherine Lindqvist, DO

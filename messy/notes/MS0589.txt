@@ -1,0 +1,63 @@
+HOSPITAL DISCHARGE FOLLOW-UP - HISTORY AND PHYSICAL
+Patient: Joyce Clark (F) DOB 2/10/1944, age 80 y/o
+Date of Service: 02/10/2024
+Author: Rachel Goldberg, MD (Primary Care)
+
+CC: f/u s/p hospitalization for pneumonia
+
+HPI: Pt is an 80 y/o female w/ hx asthma, afib, HTN, HFrEF who presents for f/u after recent admit for pneumonia, discharged 5 days ago. Pt states "I feel like I'm breathing a little better but I still get tired walkin to the mailbox." No fevers or chills since d/c. Cough improving, productive of scant white sputum. Denies chest pain, denies hemoptysis. She reports taking abx as prescribed, completed course yesterday. Pt's daughter accompanies her today, reports pt has been compliant w meds at home. Pt states "I don't want to go back to the hospital again, that was scary." No new SOB at rest, some DOE unchanged from baseline per pt. Denies orthopnea beyond her usual 2-pillow baseline. Weight stable per pt, no increase in LE edema noted by pt or daughter. Reviewed d/c summary - was treated w IV abx for CAP, transitioned to oral prior to d/c, O2 sat wnl on RA at discharge.
+
+ROS: Constitutional - denies fever, chills, night sweats. Resp - + cough improving, denies hemoptysis, denies pleuritic pain. CV - denies palpitations acutely, denies syncope, +chronic bilateral LE edema stable. GI - denies nausea/vomiting/diarreha. All other systems reviewed and negative except as noted in HPI.
+
+PMH: Asthma (dx many yrs ago, uses albuterol PRN), Atrial fibrillation (on anticoagulation), Hypertension, Heart failure w reduced EF (last echo EF 35%, [inaudible] date not on file in current system)
+
+PSH: cholecystectomy remote
+
+MEDS: Apixaban 5mg BID, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Furosemide 20mg daily, Albuterol HFA PRN, Fluticasone/salmeterol inhaler BID, recently completed amoxicillin-clavulanate for CAP
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco Use: Former smoker
+Pack-Year History: 18 pack-years
+Current Cigarette Use: No
+Years Since Quit: quit in 2017
+Smokeless Tobacco: Not on file
+Alcohol Use: occasional, 1 glass wine/wk
+Illicit Drug Use: denies
+Living Situation: lives with daughter
+Occupation: retired, former seamstress
+Exercise: limited d/t dyspnea on exertion
+
+She was again counseled on the importance of remaining smoke-free, and she reports she has not returned to smoking since quitting in 2017 and has no plans to resume, stating "I quit for good back then and I'm not going back."
+
+VITALS: BP 128/76, HR 78 irregular, RR 18, Temp 98.2F, SpO2 95% on RA, Wt 142 lbs
+
+PHYSICAL EXAM:
+General: elderly female, NAD, appears comfortable
+HEENT: PERRLA, oropharynx clear, no LAD
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD
+Resp: mild bibasilar crackles, no wheezes currently, no accessory muscle use
+Abd: soft, nontender, nondistended, normal bowel sounds
+Extrem: 1+ pitting edema b/l LE, no calf tenderness
+Skin: warm, dry, no rashes
+Neuro: alert and oriented x3, no focal deficits
+
+LABS (reviewed from recent d/c): WBC 8.9, Hgb 11.8, Cr 0.9, BNP 620 (baseline elevated per chart)
+
+ASSESSMENT:
+1. CAP, resolving, s/p abx course - clinically improved today
+2. Atrial fibrillation - rate controlled, continue current anticoagulation
+3. HFrEF - euvolemic appearing today, continue diuretic
+4. Asthma - stable, continue current inhalers
+5. HTN - well controlled today
+
+PLAN:
+- Continue current cardiac and pulmonary meds as above
+- f/u CXR in 4-6 wks to document resolution of infiltrate
+- Encourage ambulation as tolerated, pulmonary rehab discussion deferred to next visit
+- Return precautions reviewed re: fever, worsening SOB, chest pain - pt verbalizes understanding
+- RTC in 2 wks or sooner if symptoms worsen
+- Continue to reinforce smoke-free status at future visits
+
+Electronically signed: Rachel Goldberg, MD

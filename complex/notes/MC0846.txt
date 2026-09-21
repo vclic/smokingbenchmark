@@ -1,0 +1,56 @@
+Pulmonology Clinic – Resident Note with Attending Attestation
+Date of Service: 06/23/2025
+Author: Quentin Hale, PA-C
+Patient: Luis Coleman | DOB: 06/23/1969 | Age: 56 | Sex: M
+
+CHIEF COMPLAINT: Follow-up after recent ED visit for COPD exacerbation.
+
+HPI: Mr. Coleman is a 56-year-old male (DOB 6/23/1969) with history of COPD, hyperlipidemia, BPH, and osteoarthritis, who presents today, 06/23/2025, for follow-up after being seen in the ED last week for a COPD exacerbation with increased dyspnea and productive cough. He reports symptoms have improved on the course of prednisone and azithromycin given at discharge. He denies fevers, chest pain, or hemoptysis. He is using his albuterol inhaler PRN with good relief. He reports sleeping better and ambulating without significant desaturation per his home pulse ox readings.
+
+PAST MEDICAL HISTORY: COPD, BPH, osteoarthritis (knees, bilateral), hyperlipidemia.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Former smoker
+ Smoking history: 25 pack-year smoking history
+ Cigarettes per day (current): N/A - quit
+ Vaping/e-cigarette use: Not on file
+ Alcohol use: Occasional, denies excess
+ Drug use: Denies
+ Occupation: Retired machinist
+ Living situation: Lives with spouse
+ Exercise: Not on file
+
+Patient states he quit smoking when his grandson was born; that grandson is now 2 years old, and he has remained smoke-free since. He was congratulated on this accomplishment and encouraged to continue avoiding tobacco products. Given his COPD and prior smoking history, discussion of lung cancer screening options was had, though no specific recommendation was documented today.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 02/14/2025 — RETAINED PER TEMPLATE]
+HPI (02/14/2025): Patient presents for routine COPD follow-up, reports stable dyspnea on exertion, denies cough or sputum production at that time. He was noted to be adherent with tiotropium inhaler. Spirometry was reviewed showing FEV1 58% predicted, consistent with moderate COPD. Patient was counseled on pulmonary rehabilitation referral, which he declined at that time due to transportation issues. Vaccination status reviewed - pneumococcal and influenza vaccines up to date. Continue current regimen, follow up in 3 months or sooner if worsening symptoms. [END COPY-FORWARD]
+
+REVIEW OF SYSTEMS: Positive for occasional cough. Negative for fever, chills, chest pain, palpitations, hemoptysis, leg swelling, weight loss.
+
+PHYSICAL EXAM:
+ Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Temp 98.2F
+ General: Well-appearing, no acute distress
+ Lungs: Mild expiratory wheeze bilaterally, no crackles
+ CV: RRR, no murmurs
+ Ext: No edema
+
+LABS/RESULTS:
+ CBC (06/20/2025): WBC 7.8, Hgb 14.2, Hct 42.1, Plt 245
+ BMP (06/20/2025): Na 139, K 4.1, Cl 101, CO2 25, BUN 15, Cr 0.9, Glucose 98
+ Lipid panel (05/02/2025): Total chol 198, LDL 122, HDL 44, Trig 160
+ PSA (03/10/2025): 1.8 (stable, monitored for BPH)
+ Chest X-ray (06/16/2025, ED): No acute infiltrate, hyperinflation consistent with COPD
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue current inhaler regimen (tiotropium, albuterol PRN), completed steroid taper, finish antibiotics as prescribed. Reinforce smoking cessation maintenance given his 25 pack-year history and successful quit; he remains smoke-free since quitting around the time of his grandson's birth (grandson now 2 years old). Discussed lung cancer screening as a topic for shared decision-making; no imaging ordered today.
+2. BPH - stable, PSA within acceptable range, continue tamsulosin.
+3. Osteoarthritis - stable, continue NSAIDs PRN, discussed weight-bearing exercise as tolerated.
+4. Hyperlipteridemia - lipid panel reviewed, continue atorvastatin, recheck in 6 months.
+
+Return to clinic in 6-8 weeks or sooner if symptoms worsen.
+
+Attending Attestation: I have reviewed the resident's note, personally examined the patient, and discussed the plan of care. I agree with the assessment and plan as documented above. - Dr. Priya Anand, Attending Pulmonologist.
+
+---
+ADDENDUM (later same day, 06/23/2025, 4:45 PM):
+Patient called clinic nurse line to clarify inhaler instructions after leaving today's visit. Instructions were reiterated: continue tiotropium once daily, albuterol PRN for breakthrough symptoms. No new concerns reported. Patient advised to call back or return to ED for worsening dyspnea, chest pain, or fever. Addendum added by Quentin Hale, PA-C.

@@ -1,0 +1,37 @@
+CARDIOLOGY FOLLOW-UP NOTE
+Date of Service: 03/15/2023
+Author: Teresa Alvarez, NP (resident note; attending attestation below)
+
+Patient: Deborah Rodriguez, F, DOB 03/15/1945 (age 78)
+
+CC: Heart failure follow up
+
+HPI: Ms Rodriguez is a 78 year old woman with history of HFpEF who presents for routine f/u. She reports mild dyspnea on exertion, denies orthopnea, denies PND. Weight stable per home scale. She continues on diuretic regimen, tolerating well, no lower extremity edema noted today. She endorses good adherence to low sodium diet, occassional lapses with restaurant meals.
+
+---- copied forward from visit 11/02/2022 ----
+Pt is a 78 yo (at that time 77 yo) female with hx of GERD, depression, and obstructive sleep apnea on CPAP, followed in cardiology for HFpEF. She was seen for routine follow up, reproted no chest pain, no syncope, no palpitations. Meds reviewed and reconciled, no changes made at that visit. She was counseled regarding diet and fluid restriction. Sleep study data reviewed, CPAP compliance reportd as good per download. GERD sx well controlled on current PPI dose, no dysphagia or odynophagia reported. Depression screening (PHQ-9) administered, score stable, pt denies SI/HI. Pt lives alone, has supportive daughter nearby who assists w/ groceries and appointments.
+----- end copied forward text -----
+
+Social History: Patient is a lifelong non-smoker. No alcohol use reported. Lives independently, ambulates without assistive device.
+
+ROS: Otherwise negative except as noted in HPI.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, SpO2 96% RA, Wt stable from last visit
+Gen: NAD, well appearing
+CV: RRR, no murmurs appreciated, JVP not elevated
+Resp: CTAB
+Ext: no edema
+
+Labs: BNP mildly elevated but improved from prior, BMP wnl, no significant electrolyte abnormality
+
+Assessment/Plan:
+1. HFpEF - stable, continue current diuretic, f/u in 3 months
+2. GERD - continue PPI
+3. Depression - stable on current regimen, continue monitoring
+4. OSA - continue CPAP, encourage compliance
+Return to clinic in 3 months or sooner if symptoms worsen
+
+Attending Attestation: I have reviewed and discussed this patient with the resident/NP and agree with the assessment and plan as documented above. Dr. R. Hastings, MD
+
+ADDENDUM (later same day): Pt called clinic re: question about diuretic dosing, advised to continue current dose and monitor weight daily, call if weight increases more than 3 lbs in 2 days. No other changes.

@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - PRE-OPERATIVE EVALUATION (INTERNAL MEDICINE)
+Patient: Donald White | DOB: 1/3/1969 | Age: 57 | Sex: M
+Date of Service: 01/03/2026
+Author: Michael Dunn, DO
+
+CHIEF COMPLAINT: Pre-op eval for R total knee replacement.
+
+HPI: 57 yo M c/o progressive R knee pain, seen via telehealth for pre-op clearance ahead of TKA. Hx gout, BPH, hypothyroidism, OSA. Denies CP, no acute SOB on questioning. Uses CPAP nightly per report, compliance data not on file today. Gout flares intermittent, last flare ~3 mo ago per pt, tx w/ colchicine PRN. BPH sx stable on tamsulosin, nocturia x1-2. Hypothyroid on levothyroxine, last TSH wnl per pt report (chart not available this visit).
+
+ROS: Constitutional - no fever/chills. CV - no CP/palpitations. Resp - no cough, no hemoptysis. GU - nocturia as above. MSK - R knee pain, chronic, worsening w/ ambulation. Endo - no polyuria/polydipsia. Denies wt loss.
+
+--- SOCIAL HISTORY (EHR TEMPLATE) ---
+Tobacco Use: Current every day smoker
+ Cigarettes: Yes
+ Packs/day: 2-3 ppd
+ Years smoked: 39 years
+ Type: Cigarettes
+ Quit date: N/A
+ Counseling given: Yes - advised to quit, discussed cessation resources
+Alcohol Use: Not on file
+Recreational Drug Use: Denies
+Living situation: Not on file
+Occupation: Retired
+--- END TEMPLATE ---
+
+MEDS: Levothyroxine, tamsulosin, colchicine PRN, allopurinol.
+ALLERGIES: NKDA.
+
+EXAM (telehealth, limited): Pt appears comfortable, no acute distress on video. Speech clear, no resp distress noted on cam. Gait not formally assessed via telehealth. Skin - no rashes visualized. Affect appropriate.
+
+VITALS (per home cuff/self-report): BP 138/84, HR 78, wt 210 lb (self-reported), O2 sat not obtained (no pulse ox available at home).
+
+ASSESSMENT/PLAN:
+1. Pre-op eval for R TKA - overall stable for surgical planning pending labs/EKG in office; will need in-person pre-op labs (CBC, BMP, coag panel), EKG given age and OSA hx.
+2. Tobacco use, current, heavy - counseled extensively on cessation given upcoming surgery; risks of periop pulmonary/wound complications reviewed; declined pharmacotherapy today, will readdress at in-person visit. Screening discussion deferred to future visit if pt interested.
+3. OSA - continue CPAP; will need anesthesia to review OSA status pre-op; consider repeat sleep study if not recent (not on file).
+4. Gout - stable, continue allopurinol/colchicine PRN, avoid NSAIDs periop per ortho protocol.
+5. BPH - stable on tamsulosin, no urinary retention issues reported.
+6. Hypothyroidism - continue levothyroxine, recheck TSH prior to surgery if not done in past 6 mo.
+
+F/u in office in 1-2 wks for pre-op labs/EKG and final clearance. Pt to call if any acute cardiopulm sx prior to that.
+
+---ADDENDUM (same day, later)---
+Addendum 01/03/2026 1615: Spoke again briefly w/ pt by phone re: pre-op instructions - clarified NPO guidelines night before surgery and med hold instructions (hold NSAIDs, continue levothyroxine morning of surgery w/ sip of water). Pt verbalized understanding. Also re-reviewed tobacco cessation resources given heavy smoking hx (2-3 ppd x 39 yrs, current smoker); pt states will "think about it" but not ready to quit at this time. No new issues. Plan unchanged. - M. Dunn, DO

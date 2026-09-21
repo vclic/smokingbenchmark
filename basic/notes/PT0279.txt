@@ -1,0 +1,38 @@
+PROGRESS NOTE
+Date of Service: January 9, 2025
+Patient: Judith Nguyen   DOB: 2/5/1957   MRN: 25945156
+
+S:
+CC: Follow-up
+HPI: Ms. Nguyen is a 67 y.o. female with a history of HTN and HLD who presents for routine follow-up of chronic conditions. Feels about the same as last visit. Asks about refills.
+
+PMH:
+- HTN
+- Hyperlipidemia
+PSH: Left inguinal hernia repair (2005); Cataract extraction, bilateral (2013)
+Meds: atorvastatin 40 mg daily; amlodipine 10 mg daily
+Allergies: Latex
+SH: Widowed; lives with son. Retired, former teacher. She has never smoked. Alcohol: rare. No illicit drug use.
+FH: Sister - breast cancer at 59.
+ROS: Negative except as noted in HPI.
+
+O:
+Vitals: BP: 147/71  HR: 65  RR: 16  Temp: 98.2 F  SpO2: 100% on RA  Wt: 155 lbs  BMI: 25.8
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+
+A/P:
+1. Hyperlipidemia: Continue statin. Lipid panel due.
+2. HTN: Elevated today; home BP log requested.
+
+Return in about 6 months (around 7/9/2025).
+
+-- JB (MD)

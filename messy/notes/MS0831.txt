@@ -1,0 +1,47 @@
+PULMONOLOGY PROGRESS NOTE
+DOS: 05/05/2023
+Author: Priya Raman, MD
+
+Patient: Donald Jenkins, M, DOB 04/13/1961 (age 62)
+
+CHIEF COMPLAINT: F/u after ED visit for COPD exacerbation.
+
+HPI: Pt seen in ED 1 wk ago for worsening dyspnea, increased sputum, wheeze. Tx w/ nebs, prednisone taper, azithromycin. Reports "I'm breathing a little better but still get winded going up stairs." Denies fever, chest pain. No hemoptysis. Home O2 sat checks reported WNL by pt. Also carries dx of HFrEF, states weight stable, no increased edema. Compliant w/ inhalers per report, occasionally misses evening dose.
+
+ROS: Otherwise negative except as above. No new orthopnea.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+  - Cigarettes: 1/2 pack per day (~10 cigs/day) x 28 years
+  - Quit year: 2012
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Limited 2/2 dyspnea
+
+MEDICATIONS: Albuterol/ipratropium neb PRN, tiotropium inhaler daily, carvedilol, lisinopril, furosemide, spironolactone, atorvastatin. Completed prednisone taper 3 days ago.
+
+LABS/RESULTS:
+- 04/28/2023 CBC: WBC 9.8, Hgb 13.9, Plt 244
+- 04/28/2023 BMP: Na 138, K 4.2, Cr 1.0, BUN 18, Glucose 101
+- 04/28/2023 BNP: 410 pg/mL (baseline ~350)
+- 04/28/2023 CXR: hyperinflation, no acute infiltrate
+- 05/01/2023 Spirometry: FEV1 58% predicted, FEV1/FVC 0.61
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 18, SpO2 94% RA, Wt 84 kg.
+Gen: NAD, comfortable.
+Lungs: Diffuse expiratory wheeze, prolonged expiratory phase, no crackles.
+CV: RRR, S3 present, no significant murmur, no JVD.
+Ext: Trace bilateral ankle edema, no significant change from prior.
+
+ASSESSMENT/PLAN:
+62 y.o. male, DOB 4/13/1961, with COPD and HFrEF, seen today 05/05/2023 for post-exacerbation follow-up.
+
+1. COPD, recent exacerbation, improving. Former smoker (quit 2012), tobacco history noted above in social hx block (1/2 ppd x28 yrs). Continue tiotropium, albuterol/ipratropium PRN. Reinforce inhaler technique. Pulmonary rehab referral discussed. General counseling regarding avoidance of secondhand smoke exposure reinforced, though pt states he has not smoked since quitting.
+2. HFrEF - stable, BNP slightly above baseline but no overt decompensation. Continue GDMT as above, monitor weights.
+3. Health maintenance - lung cancer screening discussed as an option given smoking history; further decision-making deferred to shared discussion at next visit.
+4. F/u in pulmonology clinic in 4-6 weeks, sooner if worsening symptoms. Pt advised to seek care for fever, increased sputum purulence, or worsening dyspnea.
+
+Electronically signed: Priya Raman, MD

@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE
+Patient: Richard Flores (M) DOB: 8/7/1967 (age 58)
+Date of Service: 11/26/2025
+Provider: Teresa Alvarez, NP - Pulmonology
+Visit type: Telehealth follow-up, COPD
+
+CHIEF COMPLAINT: COPD follow-up, mild increase in exertional dyspnea over past 2 weeks per patient report, no fevers no chest pain
+
+HPI: Mr Flores is a 58 y/o male with hx COPD, HFrEF, gout, OA, osteoporosis, HLD, and BPH who presents via video visit for routine COPD f/u. He reports overall stable symptoms though notes slight increase in AM cough productive of clear sputum, denies hemoptysis denies fevers/chills. Uses albuterol PRN roughly 2x/wk. Denies recent hospitalizations or ED visits since last seen. He reports adherence to home O2 as needed with exertion (uses portable concentrator occasionally). No new edema reported, weight stable per home scale (pt reports weighing self daily d/t HF hx). Reviewed pulm rehab progress - pt states he has been going 2x/week and tolerating well without desats.
+
+PMH: COPD, gout, osteoarthritis, heart failure w/ reduced EF (~35% on last echo), osteoporosis, hyperlipidemia, BPH
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking history: Patient smoked approximately half a pack (about 10 cigarettes) per day for 43 years; quit smoking.
+Quit date: 1/14/2025
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: ______ (blank)
+Living situation: lives w/ spouse
+Secondhand smoke exposure: Not on file
+Vaping/e-cigarette use: None reported
+
+Smoking cessation congratulated pt on quit date of 1/14/2025, encouraged continued abstinence, discussed relapse prevention strategies briefly given stress at home per pt report. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+ROS: Denies chest pain, denies orthopnea/PND, denies leg swelling, occasional joint pain c/w known gout/OA, denies dysuria denies urinary retention sx although BPH stable on tamsulosin. Denies bone pain, no recent fractures.
+
+MEDICATIONS (reviewed):
+- Tiotropium inhaler daily
+- Albuterol PRN
+- Furosemide 20mg daily
+- Carvedilol 12.5mg BID
+- Atorvastatin 40mg qHS
+- Allopurinol 100mg daily
+- Alendronate 70mg weekly
+- Tamsulosin 0.4mg daily
+- Calcium/Vit D supplement daily
+
+VITALS (via home cuff/reported): BP 128/76, HR 74, SpO2 94% RA at rest per home pulse ox, Wt 189 lbs (stable)
+
+LABS/RESULTS reviewed today:
+- CBC 11/10/2025: WBC 6.8, Hgb 14.1, Hct 42.3, Plt 233
+- BMP 11/10/2025: Na 139, K 4.2, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 96
+- BNP 11/10/2025: 145 (mildly elevated, stable from prior)
+- Lipid panel 9/2/2025: TC 168, LDL 88, HDL 42, TG 150
+- Uric acid 9/2/2025: 6.1
+- Echo 8/15/2025: LVEF 35%, mild mitral regurg, no significant change from prior study
+- Spirometry 7/2025: FEV1 58% predicted, FEV1/FVC 0.61 c/w moderate obstruction, similar to prior testing
+
+ASSESSMENT/PLAN:
+1. COPD, moderate - stable overall, slight increase in cough could be early bronchitis vs seasonal; continue tiotropium, albuterol PRN; f/u if worsening dyspnea fever or colored sputum; consider antibiotics if sx progress; continue pulm rehab
+2. Former tobacco use - quit 1/14/2025, congratulated pt, continued encouragement and relapse prevention d/c'd today, no pharmacotherapy currently needed per pt report
+3. HFrEF - stable on current regimen, BNP stable, continue carvedilol and furosemide, f/u with cardiology per their own schedule
+4. Gout - stable on allopurinol, uric acid within acceptable range
+5. Osteoarthritis - stable, managing w/ APAP PRN and PT exercises
+6. Osteoporosis - continue alendronate and calcium/vit D, DEXA due for repeat next year
+7. Hyperlipidemia - lipids at goal on atorvastatin, continue
+8. BPH - stable on tamsulosin, no urinary retention sx
+
+Return to clinic in 3 months or sooner if worsening symptoms. Pt verbalized understanding and agreement w plan. Telehealth visit ended without difficulty, total time spent 22 min mostly counseling/coordination of care.
+
+Teresa Alvarez, NP

@@ -1,0 +1,36 @@
+Telehealth Visit Note – Pulmonology
+Patient: Gregory Johnson (M) DOB 5/30/1958
+DOS 5/30/2026
+Author Gregory Tan MD
+
+CC: LCS shared decision-making visit
+
+HPI: Pt is a 68 yo M seen via telehealth for discussion re lung cancer screening. States no new resp sx cough denies hemoptysis. Hx of depression and hyperlipidemia stable per pt. Wants to discuss whether screening CT is right for him, benefits/risks reviewed including false positives, incidental findings, radiation exposure. Screening was discussed w pt; no imaging orderd today.
+
+ROS: Const - no fever no wt loss. Resp - no SOB no cough no wheeze. CV - no CP no palpitations. GI - unremarkable. GU - unremarkable. MSK - no joint pain. Neuro - no focal deficits. Psych - reports mood stable on current tx, denies SI. All other systems reviewed and negative unless noted above.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: current every day smoker
+ Cigs/day: 10 (1/2 ppd)
+ Yrs smoked: 49 yrs
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, pt reports
+ Drug use: denies
+ Occupation: retired
+ Living situation: 
+ Exercise: Not on file
+
+Meds: sertraline 100mg daily, atorvastatin 40mg qhs, aspirin 81mg daily, multivitamin daily, occasional ibuprofen prn
+
+Physical Exam: Telehealth visual exam only. Gen - well appearing, NAD. Resp - no visible distress, breathing comfortable, no accessory muscle use noted on camera. CV - not auscultated (telehealth). Skin - no obvious lesions on visible areas. Affect - euthymic, appropriate.
+
+Assessment/Plan:
+1. Tobacco use - counseled on cessation resources, quitline info given, advised to quit smoking, will consider pharmacotherapy options at next visit.
+2. Lung cancer screening discussed in general terms including potential harms/benefits of screening programs; pt to think it over, no decision made re next steps today.
+3. Depression - continue sertraline, stable, no changes.
+4. Hyperlipidemia - continue atorvastatin, recheck lipids at next annual visit.
+
+f/u prn or as scheduled
+
+---ADDENDUM (same day, later)---
+Addendum 5/30/2026 1600: Pt called back after visit to clarify he understands screening discussion and will call back if he has questions. No changes to plan above. Reiterated tobacco cessation counseling briefly, pt verbalized understanding.

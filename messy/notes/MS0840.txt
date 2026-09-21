@@ -1,0 +1,53 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 04/05/2025
+Provider: Catherine Lindqvist, DO (Family Medicine)
+Patient: Loretta White, F, DOB 4/5/1946 (age 79 today, happy birthday)
+
+Visit type: telehealth, phone/video for med refills.
+
+CC: "need refills, ran out of everything"
+
+HPI: 79F w/ hx CAD, PAD, T2DM, depression, osteoporosis calling in for routine refills. Pt states doing "about the same," denies chest pain, denies SOB at rest, some claudication w/ walking >2 blocks stable from prior. No new falls. Mood fair, sleeping ok. Reports occasional missed doses of metformin d/t running out. Denies new numbness/tingling in feet, checks BS occasionally at home, log not w/ her today. No vision changes. No leg wounds or ulcers noted per pt report (unable to visually assess fully via telehealth, will need in-office f/u for foot exam).
+
+Soc hx: Pt continues to smoke - active smoker, ~53 pack-year hx per chart. Counseled again re: smoking cessation benefits esp given CAD/PAD, pt states "I've tried before, just cant seem to quit." Offered referral to cessation program/quitline, declined today but open to revisiting. Lung cancer screening was discussed briefly given smoking hx; pt to think about it, no imaging ordered today.
+
+ROS: otherwise negative except as above. Denies fevers, denies palpitations, denies visual changes, denies GI complaints.
+
+PMH/Problem list (per chart, some may be outdated):
+- I25.10 CAD, native vessel, no angina
+- I73.9 PAD, unspecified
+- E11.9 T2DM w/o complications
+- F32.9 MDD, unspecified (dx many yrs ago, may be more chronic now - consider F33.x update)
+- M81.0 Osteoporosis, postmenopausal
+- I10 HTN (old dx, unclear if still active per problem list, pt not on antiHTN currently??)
+- J45.909 Asthma unspecified (old entry, pt denies ever having asthma, likely error, will review)
+
+Meds (per pt report, reconcile at next visit):
+- Metformin 1000mg BID
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily
+- Sertraline 50mg daily
+- Alendronate 70mg weekly
+- Vitamin D3 1000 IU daily
+
+Allergies: NKDA
+
+Vitals: not obtained today (telehealth), pt reports BP cuff at home reading "around 130s/70s" this wk, no glucometer readings brought to call.
+
+Exam: Limited d/t telehealth format. Pt appears comfortable, conversant, no acute distress noted on video. Speech clear, affect appropriate. No obvious resp distress, no visible edema on camera (limited view). Unable to auscultate heart/lungs, unable to palpate pulses, unable to do monofilament foot exam - all deferred to in-person visit.
+
+A/P:
+1. CAD - stable per pt report, continue ASA 81mg, atorvastatin 40, clopidogrel 75. No chest pain today. Will need in-office visit for exam/EKG at some point, overdue.
+2. PAD - claudication stable, continue antiplt regimen, strongly re-counseled smoking cessation given vascular dz, pt aware of risks, declines program referral today.
+3. T2DM - reports occasional missed metformin doses, will refill, discussed importance of adherence, needs A1c check - order placed for labs at next in person visit or LabCorp today if pt agreeable (pt agreeable, will go this wk).
+4. Depression - stable on sertraline, mood fair, no SI/HI voiced, will continue current dose, f/u prn.
+5. Osteoporosis - continue alendronate weekly + vit D, due for DEXA recheck per chart (overdue >2yrs), will schedule.
+6. Tobacco use - active smoker, 53 pack-year history noted in chart, counseling given re: cessation resources, pt declines referral today, will re-address next visit. Lung ca screening discussed, deferred for now, no imaging ordered.
+7. HTN/Asthma problem list entries - need clarification at next in-person visit, may be outdated, will review old records.
+
+Refills sent: metformin, atorvastatin, aspirin (OTC advised), clopidogrel, sertraline, alendronate, vit D3.
+
+Plan: f/u in office within 4-6 wks for full exam incl feet, EKG, DEXA scheduling, labs (A1c, lipid panel, BMP) to be drawn this wk at LabCorp. Pt to call sooner if CP, worsening claudication, SOB, or other concerns. Telehealth visit ended, total time approx 18 min spent on chart review/counseling/documentation.
+
+Electronically signed: Catherine Lindqvist, DO

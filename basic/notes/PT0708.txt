@@ -1,0 +1,75 @@
+General Medicine Clinic Clinic Note
+
+Patient: MARTIN, Hung    MRN: 28961319
+DOB: 12/19/1972    Age: 50 y.o.    Sex: Male
+Date of Service: 06/05/2023    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Hung Martin is a 50 y.o. male who presents for right shoulder pain.
+Right shoulder pain for 8 months, worse in the morning. Twisted it stepping off a curb. Tylenol helps somewhat.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• Major depressive disorder, recurrent, in remission
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2011)
+• Appendectomy (2021)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• ezetimibe 10 mg daily
+• sertraline 100 mg daily
+• trazodone 50 mg nightly PRN
+• rosuvastatin 20 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Married, lives with wife.
+  Works as a construction worker.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Brother - T2DM. Son - type 1 diabetes.
+
+Review of Systems
+ROS: Skin neg, GU neg, MSK +, Gen neg
+
+Objective:
+Vitals:
+  BP 133/62 (BP Location: Right arm, Patient Position: Sitting) | Pulse 85 | Temp 97.5 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 151 lb | SpO2 100% | BMI 22.95 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Major depressive disorder, recurrent, in remission
+   Mood stable.
+3. Lung cancer screening
+   Never smoker; LCS not indicated.
+4. Hyperlipidemia
+   Continue statin. Lipid panel due.
+
+f/u 6 mo
+
+Electronically signed by Teresa Alvarez, NP on 06/05/2023

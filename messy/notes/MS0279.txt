@@ -1,0 +1,62 @@
+Pulmonology Clinic - COPD Follow-up
+Date of Service: 06/28/2025
+Patient: Edward Carter | DOB: 05/17/1950 | Age: 75 | Sex: M
+Provider: Kevin Osei, MD
+
+NURSE INTAKE:
+Vitals: BP 138/82, HR 78 irreg irreg, RR 18, SpO2 93% RA, Temp 97.8F, Wt 182 lb
+Pt ambulatory, uses cane. Denies acute distress. c/o mild dyspnea on exertion, no chest pain today.
+Meds reconciled - see below.
+
+HPI:
+Mr Carter is a 75 y/o male here for routine COPD f/u. He states "I get winded going up the stairs at home, more than a few months ago." He denies fevers, chills, hemoptysis. He reports occasional productive cough, whitish sputum. States "my inhaler helps some days more than others." No recent hospitalizations. Reports good adherance to meds mostly, missed a few HTN pill doses last wk.
+
+SOCIAL HISTORY:
+Former smoker; smoked for 15 years, quit in 1993. Denies current tobacco use. No vaping. Occasional ETOH, denies illicit drug use. Lives w/ spouse, retired machinist.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+HEENT: denies vision changes, hearing loss, sore throat
+CV: reports occasional palpitations, denies syncope
+Resp: + dyspnea on exertion, + productive cough, denies hemoptysis
+GI: denies nausea, vomiting, diarrhea, constipation
+GU: denies dysuria, hematuria
+MSK: reports mild bilateral leg cramping w/ walking (known PAD)
+Skin: denies rash, lesions
+Neuro: denies HA, dizziness, focal weakness
+Psych: denies depression, anxiety
+Endo: denies polyuria, polydipsia (T2DM stable per pt)
+
+PHYSICAL EXAM:
+General: well-nourished, NAD
+HEENT: NCAT, PERRLA, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+CV: irregularly irregular rhythm, no murmurs
+Resp: decreased breath sounds bilat bases, mild expiratory wheeze, no rales
+Abd: soft, NT/ND, +BS
+Ext: 1+ pitting edema b/l, cool distal extremities, diminished pedal pulses (PAD)
+Skin: warm, dry, no lesions
+Neuro: A&Ox3, grossly intact
+
+PROBLEM LIST:
+1. COPD - J44.9
+2. Atrial fibrillation - I48.91
+3. Hypertension - I10
+4. Hypothyroidism - E03.9
+5. Peripheral artery disease - I73.9
+6. Type 2 diabetes mellitus - E11.9
+7. Osteoarthritis - M19.90 (outdated, resolved per prior note)
+
+MEDICATIONS:
+Tiotropium inhaler daily, Albuterol PRN, Metoprolol succinate 50mg daily, Apixaban 5mg BID, Lisinopril 20mg daily, Levothyroxine 75mcg daily, Metformin 1000mg BID, Cilostazol 100mg BID, Atorvastatin 40mg daily
+
+ASSESSMENT/PLAN:
+75 yo M with COPD, AFib, HTN, hypothyroidism, PAD, T2DM presenting for COPD f/u.
+- COPD: continue current inhalers, reinforce smoking cessation counseling not applicable given former smoker status; d/w pt lung ca screening discussion, no CT ordered today
+- AFib: continue apixaban, rate controlled on metoprolol
+- HTN: adjust dosing, recheck in 4 wks
+- PAD: continue cilostazol, ABI stable
+- T2DM: A1c pending
+RTC 3 months or sooner if worsening symptoms.
+
+Kevin Osei, MD

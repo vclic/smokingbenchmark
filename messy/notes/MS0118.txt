@@ -1,0 +1,78 @@
+CC Hale, PA-C – Pulmonology Progress Note
+DOS: 06/16/2025
+Patient: Joyce Brown | DOB: 02/13/1950 | Age: 75 | Sex: F
+Referring/PCP: Dr. Nnamdi Osei
+
+CHIEF COMPLAINT: COPD f/u
+
+HPI:
+75 yo F w/ hx COPD, CKD stage 3, CAD, BPH-adjacent (spouse hx, N/A to pt), HTN presents for routine pulm f/u. Pt reports mild increase in dyspnea on exertion over past several wks. Denies fevers, chills, hemoptysis. Denies chest pain at rest. Pt states, "I get short of breath walking up the stairs to my apartment, but I've been managing okay with my inhalers." Also states, "I've never smoked a cigarette in my life, not even one puff." Pt notes she is a lifelong non-smoker. She does report a strong FHx of smoking-related illness: "My father smoked like a chimney his whole life and ended up dying of lung cancer." Pt denies occupational exposures, denies significant dust/fume exposure. No recent travel, no sick contacts.
+
+ROS: Cardiac - denies palpitations, orthopnea, edema. GI - denies nausea, vomiting, abd pain. GU - denies dysuria, hematuria; hx BPH followed by urology (per chart, though pt is female - see addendum below re: documentation error). Neuro - denies HA, dizziness. Skin - no rashes.
+
+PMHx:
+- COPD (GOLD stage II per last PFTs)
+- CKD stage 3 (baseline Cr ~1.4)
+- CAD s/p stent to LAD 2018
+- HTN, well controlled
+- BPH (chart carried dx from prior EHR migration - to be reconciled, see addendum)
+
+Medications:
+- Tiotropium inhaler daily
+- Albuterol PRN
+- Lisinopril 10mg daily
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Metoprolol succinate 25mg daily
+
+Allergies: NKDA
+
+Social Hx: Retired schoolteacher. Lives alone in senior apartment complex, ambulates independently. Denies EtOH excess, denies illicit drug use. Tobacco: lifelong non-smoker, never smoker. Pt reiterates no personal tobacco use hx whatsoever; family hx of tobacco-related dz as noted above (father, heavy smoker, deceased from lung CA).
+
+Family Hx:
+- Father: heavy smoker, died of lung cancer
+- Mother: HTN, DM2
+- Siblings: brother w/ CAD
+
+Vitals:
+BP 132/78 | HR 68 | RR 16 | SpO2 95% RA | Temp 98.2F | Wt 152 lb
+
+Physical Exam:
+Gen: NAD, comfortable, well-groomed elderly female
+HEENT: NCAT, no JVD
+Lungs: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+CV: RRR, no murmurs/rubs/gallops
+Abd: soft, NT/ND, no organomegaly
+Ext: no edema, pulses 2+ bilat
+Skin: intact, no lesions
+
+Labs/Results reviewed today:
+- CBC (06/10/2025): WBC 6.8, Hgb 12.9, Plt 245
+- BMP (06/10/2025): Na 139, K 4.3, Cr 1.42, eGFR 41, Glucose 98
+- BNP (06/10/2025): 88 pg/mL
+- Last PFTs (03/2025): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ moderate obstructive pattern
+- CXR (03/2025): hyperinflated lungs, no acute infiltrate, no suspicious nodule
+
+Assessment:
+1. COPD, GOLD II - stable to mildly worsened sx, likely seasonal allergen component. Will adjust inhaler regimen.
+2. CKD stage 3 - stable, monitor Cr/eGFR, avoid nephrotoxic agents.
+3. CAD - stable, continue current cardiac regimen, f/u w/ cardiology per their sched.
+4. HTN - well controlled on current regimen.
+5. Tobacco use - none; lifelong non-smoker. Discussed general risk factors for lung disease given strong paternal smoking hx and lung cancer death; explained that screening decisions are individualized and would be addressed further with PCP as appropriate. No further tobacco cessation counseling indicated given never-smoker status.
+
+Plan:
+- Add fluticasone/salmeterol combo inhaler BID
+- Continue tiotropium, albuterol PRN
+- Recheck BMP in 3 mos, monitor renal fxn
+- Cont current CV meds, f/u cardiology as scheduled
+- Pulm f/u in 3 months or sooner if worsening sx
+- Pt educated on COPD action plan, when to seek urgent care
+- Reviewed importance of avoiding secondhand smoke exposure/environmental irritants
+
+Quentin Hale, PA-C
+Signed 06/16/2025 14:32
+
+---ADDENDUM (same day, added 06/16/2025 17:05)---
+Addendum by Q. Hale, PA-C:
+Upon further chart review, noted that dx of "BPH" was carried over erroneously from a prior EHR migration and does not apply to this patient (male-specific diagnosis mistakenly linked to pt's chart). Will submit correction request to HIM/coding to remove BPH from problem list. All other elements of today's note stand as documented. Reiterating for clarity: pt (75F, DOB 2/13/1950) seen today 06/16/2025 for COPD f/u; confirmed lifelong non-smoker status during visit, distinct from strong paternal smoking hx (father heavy smoker, died of lung cancer) noted in FHx section above. No changes to plan.
+-Q. Hale, PA-C

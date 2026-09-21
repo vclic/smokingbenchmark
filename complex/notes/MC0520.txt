@@ -1,0 +1,33 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Lung Cancer Screening Shared Decision-Making
+Date of Service: 03/26/2025
+Provider: Elena Markovic, MD
+
+Patient: Linda Nelson, F, DOB 3/26/1973 (age 52)
+
+HPI:
+Pt is a 52 yo woman referred for SDM visit re: lung ca screening given family hx discussed at prior PCP visit. She reports no cough, no hemoptysis, no wt loss. Denies dyspnea at rest, though notes mild exertional SOB which she attirbutes to deconditioning. Hx significant for afib (on anticoag), CKD stage 3, BPH, and OSA (uses CPAP nightly, reports good compliance per download data). No new resp complaints today. Pt was initially confused re: why she was referred given she has never smoked, but agreeable to discuss screening guidelines regardless.
+
+Social History:
+Lifelong non-smoker - never used tobacco products of any kind, no vaping hx, denies occupational exposures (worked as an accountant). Lives w/ husband, no household smokers. Occasional etoh, denies illicit drug use.
+
+PMH: Atrial fibrillation (on apixaban), CKD stage 3 (baseline creatinine ~1.4), BPH (on tamsulosin), OSA on CPAP.
+
+Labs/Results:
+- BMP 03/20/2025: Creatinine 1.45 (baseline), eGFR 45, K 4.3, Na 138
+- CBC 03/20/2025: WBC 6.1, Hgb 13.2, Plt 240
+- INR 03/24/2025: 2.3 (therapeutic on apixaban - note apixaban does not require routine INR monitoring, value obtained incidentally from outside lab draw)
+- CXR (outside facility, 01/2025): no acute findings, no nodules identified
+
+Assessment/Plan:
+52 yo F referred for lung cancer screening shared decision-making. On detailed review, pt has no smoking hx whatsoever - she is and has always been a non-smoker, so USPSTF criteria based on pack-year smoking hx do not apply to her case in the way that prompted the referal. Discussed general risk factors for lung cancer including radon, occupational exposure, and family hx. Reviewed that low-dose CT screening guidelines are specifically for pts w significant smoking history, and this doesnt describe her situaton. Discussed she may still wish to review radon testing at home given some family hx concerns, and discussed general lung health.
+
+1. Lung cancer screening - not indicated based on smoking hx (never smoker); reviewed guidelines w/ pt, she verbalized understanding.
+2. Afib - continue apixaban, stable, INR incidentally therapeutic
+3. CKD stage 3 - stable, monitor renal fxn, f/u with nephrology as scheduled
+4. BPH - continue tamsulosin, no new urinary sx
+5. OSA - continue CPAP, good compliance
+
+RTC prn or as needed for pulm concerns. Pt verbalized understanding of plan, all questions answered.
+
+Elena Markovic, MD

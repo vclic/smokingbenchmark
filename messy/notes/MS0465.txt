@@ -1,0 +1,68 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Priya Adams | DOB: 03/14/1960 | Age: 63 | Sex: F
+Date of Service: 07/08/2023
+Author: Daniel Reyes, MD (Primary Care)
+
+RE: Hospital discharge follow-up after pneumonia
+
+Dear Colleague,
+
+I had the pleasure of seeing Ms. Priya Adams, a 63-year-old woman (DOB 3/14/1960), in follow-up today, 07/08/2023, after her recent hospitalization for community-acquired pneumonia. She was discharged approximately one week ago and reports gradual improvement in her cough, though she still notes some mild dyspnea with exertion and occasional low-grade fatigue. No fevers, chills, or chest pain currently. She denies hemoptysis. She has been taking the completed course of antibiotics as prescribed and has an incentive spirometer at home which she uses intermittently.
+
+PROBLEM LIST (ICD-10):
+1. Essential hypertension (I10) - ongoing
+2. Chronic obstructive pulmonary disease, unspecified (J44.9) - ongoing
+3. Gastroesophageal reflux disease (K21.9) - ongoing
+4. Pneumonia, organism unspecified (J18.9) - resolving, hospitalization 06/2023
+5. Vitamin D deficiency (E55.9) - noted on old chart, unclear if still active
+6. Seasonal allergic rhinitis (J30.2) - outdated entry, patient reports no longer bothered by this in years
+
+--- BEGIN COPIED FORWARD TEXT FROM VISIT DATED 11/14/2021 ---
+Pt presents for routine follow-up of HTN and COPD. Reports doing well overall, no acute complaints today. Vitals stable, BP 128/78, HR 76, RR 16, SpO2 96% on room air. Lungs with mild expiratory wheeze bilaterally, no crackles. Heart RRR, no murmurs. Abdomen soft, nontender. Extremities without edema. Continue current medications, follow up in 6 months or sooner as needed. Pt counseled on diet, exercise, and medication adherence. Refilled albuterol inhaler and lisinopril. Pt denies chest pain, denies palpitations, denies syncope. Reviewed labs from prior visit, all within normal limits except mild hyperlipidemia, discussed statin therapy, pt declined at this time citing concerns about side effects. Will readdress at next visit.
+--- END COPIED FORWARD TEXT ---
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use: Current every day smoker
+ Pack-years: 23 pack-years
+ Type: Cigarettes
+ Readiness to quit: Not ready to quit at this time
+Alcohol Use: Not on file
+Illicit Drug Use: Denies
+Occupation: Retired
+Living Situation: 
+Exercise: 
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, denies chills, mild fatigue.
+Respiratory: Cough improving, mild exertional dyspnea, denies hemoptysis, denies pleuritic chest pain.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea.
+GI: Occasional heartburn, consistent with known GERD, denies dysphagia.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/80, HR 82, RR 18, SpO2 94% on room air, Temp 98.4F, Weight 71 kg.
+General: Alert, no acute distress, mildly fatigued appearing.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No lymphadenopathy, no JVD.
+Lungs: Decreased breath sounds at right base, mild expiratory wheeze diffusely, no rales appreciated today, improved from hospitalization.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Abdomen: Soft, nontender, nondistended, normal bowel sounds.
+Extremities: No edema, no cyanosis.
+Skin: Warm, dry, no rashes.
+
+ASSESSMENT AND PLAN:
+1. Pneumonia, resolving (J18.9) - Clinically improving. Continue supportive care, incentive spirometry, encourage hydration. Repeat chest imaging in 6 weeks to confirm resolution.
+2. COPD (J44.9) - Stable today, continue current inhaler regimen. Discussed the ongoing impact of continued cigarette smoking on her lung disease and recovery from pneumonia.
+3. Tobacco use - She continues to smoke cigarettes daily and reports she is not ready to quit smoking at this time despite recent hospitalization. Advised to quit, discussed risks in detail including impact on COPD and cardiovascular health, offered nicotine replacement therapy and counseling referral, which she declined today but agreed to reconsider. Lung cancer screening was discussed in general terms as part of preventive care counseling.
+4. Hypertension (I10) - Well controlled today, continue lisinopril.
+5. GERD (K21.9) - Stable, continue omeprazole, reinforced dietary modifications.
+
+Follow-up in 4-6 weeks or sooner if symptoms worsen. Return precautions reviewed regarding fever, worsening shortness of breath, or chest pain.
+
+Thank you for allowing me to participate in the care of this patient.
+
+Sincerely,
+Daniel Reyes, MD
+
+--- ADDENDUM (later same day, 07/08/2023) ---
+Addendum by Daniel Reyes, MD: Patient called office this afternoon to clarify that she has not had any fevers since discharge, contrary to a slightly ambiguous note in the chart. Also wanted to confirm she will pick up refill of albuterol inhaler at pharmacy today. No other changes to plan. Reiterated recommendation to quit smoking and reminded her that resources are available whenever she feels ready.

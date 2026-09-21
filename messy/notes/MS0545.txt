@@ -1,0 +1,30 @@
+Cardiology NP Progress Note
+Author: Daniel Reyes, MD
+Date of Service: 01/24/2025
+Patient: Marilyn Coleman, F, DOB 1/24/1946 (age 79)
+
+HPI: Ms Coleman is a 79 y/o female here for heart failure f/u, reports she's been "feeling a bit more short of breath going up the stairs at home" over past two weeks, denies chest pain, denies PND, states "I sleep with two pillows now instead of one." Pt also c/o some fatique and swelling in ankles by end of day. She is followed for HTN, COPD, OSA (on CPAP, compliance variable per pt report), and BPH. Weight stable per pt scale at home. Pt reports meds taken as directed, some missed doses over holidays due to travel [inaudible] to see family and she ran out of furosemide for a few days.
+
+--- Copied from note dated 12/24/2022 ---
+Social History (as documented 12/24/2022): Patient is a current smoker, continues to use tobacco, no quantities specified in that note.
+--- End copied section ---
+
+Social History (today, 01/24/2025): Patient quit drinking alcohol in 2000, denies any current alcohol use. Denies illicit drug use. Lives with daughter.
+
+ROS: otherwise negative except as above, remainder reviewed and negative.
+
+Exam: BP 138/82, HR 76 reg, RR 18, SpO2 94% RA. Lungs with scattered exp wheezes, decreased breath sounds bilat bases. Cardiac RRR, no murmur appreciated, trace bilateral LE edema. Abdomen soft nontender. No JVD noted today.
+
+Labs reviewed: BNP mildly elevated from prior, renal function stable, potassium wnl.
+
+Assessment/Plan:
+1. Heart failure, stable, mild decompensation likely due to missed diuretic doses - resume furosemide as prescribed, f/u in 4 weeks, weigh daily.
+2. HTN - continue current regimen, BP at goal today.
+3. COPD - continue inhalers, discussed pulmonary rehab referral.
+4. OSA - encourage CPAP compliance, will send usage report request.
+5. BPH - stable, continue tamsulosin.
+6. Tobacco use - patient describes herself as a "social smoker" for many years, continues to smoke despite counseling on cessation and cardiopulmonary risks; discussed lung cancer screening in general terms, declined further discussion today. Encouraged to consider nicotine replacement, provided quitline info.
+
+Return to clinic in 4 weeks or sooner if worsening symptoms.
+
+Addendum (later same day, D. Reyes MD): Pt called clinic this afternoon stating she felt better after resuming furosemide dose this morning, no new SOB, advised to continue plan as above and call if symptoms worsen or weight increases by more than 3 lbs in 2 days.

@@ -1,0 +1,81 @@
+CONSULT LETTER / FAMILY MEDICINE
+Date of Service: 12/22/2025
+
+Re: Ronald Nelson, DOB 07/07/1951 (age 74)
+Referring Physician: [see chart]
+Author: Michael Dunn, DO
+
+Dear Doctor,
+
+Thank you for referring Mr. Nelson, a 74-year-old male (DOB 7/7/1951), for annual wellness evaluation and ongoing management of his multiple chronic conditions including depression, heart failure with reduced ejection fraction, coronary artery disease, and gout. He was seen today, 12/22/2025, in clinic and the following is a summary of our encounter.
+
+HPI:
+Mr. Nelson presents for his annual wellness visit today. He reports feeling generally stable, though he notes intermittent lower extremity swelling that comes and goes, worse toward evening, no [inaudible] chest pain at rest currently. He denies orthopnea beyond his usual two-pillow baseline, denies PND. He states his energy level is 'about the same as last year, maybe a bit worse some days.' Mood has been fairly stable on current regimen though he admits to some anhedonia off and on, he says its manageable and he does not feel he needs a med change at this time. He has a longstanding smoking history — he smoked for 43 years — and he no longer smokes; per his report he quit smoking 13 years ago and has remained abstinent since. He denies alcohol use, denies illicit drug use. He continues to follow with cardiology for his CAD and HFrEF and reports no recent ED visits or hospitalizations since last seen. Gout has been quiet, last flare several months ago, resolved with colchicine per his report.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss/gain.
+Eyes: denies visual changes.
+ENT: denies hearing loss, denies sore throat.
+Cardiovascular: as above, intermittent lower extremity edema, denies palpitations.
+Respiratory: denies cough, denies hemoptysis, denies current dyspnea at rest, mild exertional dyspnea unchanged.
+GI: denies nausea, vomiting, diarrhea, constipation, denies abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: chronic joint discomfort c/w gout hx, denies acute flare today.
+Skin: denies rash, denies new lesions.
+Neuro: denies focal weakness, denies numbness/tingling.
+Psychiatric: as above re: mood, denies SI/HI.
+Endocrine: denies polyuria, polydipsia.
+Heme/Lymph: denies easy bruising, denies bleeding.
+Allergic/Immunologic: denies seasonal allergy symptoms.
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking status: Not currently using
+Smokeless tobacco: Not on file
+Alcohol use: Denies
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+E-cigarette/vaping use: Not on file
+
+Medications:
+1. Carvedilol 25 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Spironolactone 25 mg PO daily
+4. Furosemide 40 mg PO daily
+5. Atorvastatin 80 mg PO daily
+6. Aspirin 81 mg PO daily
+7. Sertraline 100 mg PO daily
+8. Allopurinol 300 mg PO daily
+9. Colchicine 0.6 mg PO PRN gout flare
+10. Metoprolol succinate — discontinued, switched to carvedilol per cardiology
+11. Multivitamin PO daily
+
+Physical Exam:
+Vitals: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 96% RA, Wt stable from last visit.
+General: well-appearing, no acute distress, pleasant and cooperative.
+HEENT: normocephalic, atraumatic, EOMI, oropharynx clear.
+Neck: no JVD appreciated today, no thyromegaly.
+Cardiovascular: RRR, no murmur appreciated, no S3/S4 today, +trace bilateral LE edema.
+Respiratory: lungs clear to auscultation bilaterally, no wheezes rales or ronchi.
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: trace edema as noted, no calf tenderness, pulses palpable.
+Skin: no rash, no ulceration noted.
+Neuro: alert and oriented x3, grossly nonfocal.
+Psych: mood euthymic, affect appropriate, thought process linear.
+
+Assessment/Plan:
+1. Heart failure with reduced ejection fraction — stable, continue current GDMT, monitor for volume overload, patient to weigh daily and report gains >3 lbs.
+2. Coronary artery disease — stable, continue aspirin and statin, no anginal symptoms reported today.
+3. Depression — stable on sertraline, will continue current dose, reassess at next visit, no acute safety concerns.
+4. Gout — quiescent, continue allopurinol, colchicine PRN for flares.
+5. Tobacco history — patient is a former smoker who quit smoking 13 years ago after a 43-year smoking history; he no longer smokes. Discussed general health maintenance including continued abstinence; lung cancer screening was discussed in general terms as part of preventive care conversation today.
+6. Health maintenance — up to date on age-appropriate screenings per prior records, labs to be drawn today including lipid panel, BMP, and BNP given HF history.
+
+Plan to follow up in 6 months or sooner if symptoms worsen. Will copy referring physician on results. Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Michael Dunn, DO

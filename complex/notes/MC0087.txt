@@ -1,0 +1,53 @@
+RESIDENT NOTE - New Patient Visit, Primary Care
+DOS: 02/16/2023
+Author: Gregory Tan, MD (resident) with attending attestation
+
+Patient: Mark Johnson, M, DOB 2/16/1943 (age 80)
+
+CC: Establish care.
+
+HPI: 80 yo M new to clinic, transferring records from prior practice, here to establish primary care. Reports fatigue, occasional palpitations. Hx notable for afib, asthma, osteoporosis, depression - all stable per pt report. No acute complaints today. Denies chest pain, SOB at rest. Former smoker per pt, quit smoking in 2006, no other tobacco use since.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE (dated 11/03/2019, outside record) ---
+Pt is a pleasant elderly gentleman, well-known to prior PCP office x many yrs. Hx CAD ruled out on prior stress test. Continues on ASA 81mg daily. Osteoporosis dx per DEXA, on calcium/vit D. Depression stable on sertraline, no SI/HI. Asthma - uses albuterol prn, no ER visits in past yr. Afib - on anticoagulation, INR checks monthly (pt now on DOAC per current med list, see below). Pt lives alone, ambulates independently, uses cane occasionally.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+  Cigarettes: Hx of smoking 1.5 packs/day x 24 years, then cut back to 3/4 pack/day (~15 cigs/day) x 21 years, quit in 2006
+  Current status: Does not currently smoke
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+ROS: Constitutional - fatigue as above. Resp - no cough, no wheeze today. Cardiac - occasional palpitations, no syncope. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 78 irregularly irregular, RR 16, SpO2 97% RA, Wt 168 lb
+Gen: NAD, well-appearing elderly male
+CV: irregularly irregular rhythm, no murmurs
+Resp: clear to auscultation bilaterally, no wheeze
+MSK: no deformity, gait steady with cane
+Psych: mood euthymic, affect appropriate
+
+PROBLEM LIST (ICD-10):
+- F33.1 Major depressive disorder, recurrent, moderate
+- J45.909 Asthma, unspecified, uncomplicated
+- I48.91 Atrial fibrillation, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- I25.10 CAD (outdated entry, ruled out per 2019 note - to reconcile)
+
+ASSESSMENT/PLAN:
+80 yo M establishing care, hx significant for afib, asthma, osteoporosis, depression. Former smoker, quit in 2006, no longer smokes - reinforced importance of continued abstinence.
+1. Afib - continue current anticoagulation, will obtain EKG today, cardiology f/u to be scheduled.
+2. Asthma - continue albuterol prn, reassess control at next visit.
+3. Osteoporosis - continue calcium/vit D, review most recent DEXA results, consider repeat.
+4. Depression - continue sertraline, screen with PHQ-9 today.
+5. Health maintenance - discussed age-appropriate screenings; lung cancer screening discussed as part of general risk discussion given prior tobacco history, further discussion planned.
+6. Labs ordered: CBC, CMP, lipid panel, TSH.
+
+F/u in 4-6 weeks or sooner if needed.
+
+Attending attestation: I have seen and examined the patient with Dr. Tan and agree with the above assessment and plan. - A. Whitfield, MD

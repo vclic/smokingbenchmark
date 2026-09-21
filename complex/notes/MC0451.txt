@@ -1,0 +1,88 @@
+URGENT CARE VISIT NOTE
+Patient: George Mitchell (M), DOB: 02/05/1967, Age: 56
+Date of Service: 07/14/2023
+Provider: Brian Okonkwo, MD
+Facility: Riverside Urgent Care
+
+--- NURSE INTAKE ---
+CC: cough x5 days, occasional wheeze, no fever per pt.
+Vitals: T 98.4F, HR 82, BP 138/84, RR 16, SpO2 97% RA, Wt 198 lb, Ht 5'10"
+Allergies: NKDA
+Social Hx: Pt reports never used tobacco. Denies vaping. Occasional EtOH, 1-2 drinks/wk. Denies illicit drug use.
+PMH per chart: PAD, HLD, CAD, BPH, hypothyroidism.
+Meds reconciled at window - see below.
+
+--- MEDICATION LIST (reconciled) ---
+1. Atorvastatin 40mg PO QHS
+2. Aspirin 81mg PO daily
+3. Clopidogrel 75mg PO daily
+4. Levothyroxine 75mcg PO daily, AM, empty stomach
+5. Tamsulosin 0.4mg PO QHS
+6. Cilostazol 100mg PO BID
+7. Metoprolol succinate 25mg PO daily
+8. Multivitamin daily
+
+--- COPIED FORWARD FROM PRIOR VISIT (dated 03/02/2022, PCP office - Dr. Nguyen) ---
+[Begin copy-forward block]
+Pt here for routine PAD/CAD follow up. Denies claudication at this time, states can walk 2 blocks without significant pain. Denies chest pain, palpitations, syncope. BPH sx stable on tamsulosin, nocturia x1. Hypothyroid sx controlled, denies cold intolerance, fatigue. ROS otherwise negative in detail as below. Plan: continue current meds, f/u labs in 6 mo, ABI recheck if sx worsen. Pt counseled on diet/exercise for HLD. RTC 6 months or PRN.
+[End copy-forward block]
+
+--- REVIEW OF SYSTEMS (today, 07/14/2023) ---
+Constitutional: denies fever, chills, night sweats, unintentional wt loss.
+HEENT: denies sore throat, ear pain, nasal congestion; + mild post-nasal drip.
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND, LE edema.
+Respiratory: + cough, nonproductive, worse at night; denies hemoptysis, dyspnea at rest; mild exertional SOB new since cough onset.
+GI: denies nausea, vomiting, diarrhea, abd pain.
+GU: nocturia x1-2, stable, no dysuria, no hematuria.
+Musculoskeletal: denies myalgia, arthralgia.
+Skin: no rash.
+Neuro: denies HA, dizziness, weakness.
+Psych: denies depression, anxiety.
+Endocrine: denies polyuria, polydipsia, heat/cold intolerance.
+Heme/Lymph: denies easy bruising, bleeding, lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+--- PHYSICAL EXAM ---
+General: well-developed, well-nourished male, NAD, appears stated age.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, mild erythema posterior pharynx, no exudate.
+Neck: supple, no LAD, no JVD, no thyromegaly.
+CV: RRR, normal S1/S2, no murmurs/rubs/gallops, distal pulses 2+ bilat radial, 1+ DP/PT bilat (chronic per PAD hx).
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi, good air movement, no accessory muscle use.
+Abd: soft, NT/ND, +BS, no organomegaly.
+Ext: no edema, no cyanosis, no clubbing; skin intact, no ulcers.
+Skin: warm, dry, no rash.
+Neuro: A&Ox3, CN II-XII grossly intact, gait normal.
+Psych: mood/affect appropriate.
+
+--- LABS/RESULTS ---
+CBC (07/14/2023): WBC 8.9 (nl 4.0-11.0), Hgb 14.8, Hct 43.1, Plt 232
+BMP (07/14/2023): Na 139, K 4.2, Cl 101, CO2 26, BUN 16, Cr 0.95, Glu 101
+TSH (03/01/2023, from PCP office): 2.1 (nl 0.4-4.0)
+Lipid panel (01/15/2023): TC 168, LDL 92, HDL 44, TG 160
+CXR (07/14/2023, portable): No acute infiltrate or effusion; no focal consolidation; heart size normal; mild bronchial wall thickening c/w bronchitis.
+Rapid strep: negative. Flu/COVID PCR: negative x2.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Mitchell is a 56-year-old male with hx of PAD, CAD, HLD, BPH, hypothyroidism, presenting today, 07/14/2023, with a 5-day history of nonproductive cough, mild wheeze, and new mild exertional dyspnea. No fever, no hemoptysis, no chest pain. He denies any tobacco use, states he has never smoked cigarettes or used any tobacco products in his life. No recent travel, no sick contacts reported, though wife had URI sx last wk. He works as an accountant, denies significant occupational dust/fume exposure.
+
+Given his CAD/PAD hx, discussed general lung health and risk factors in passing; however, as he has never used tobacco, formal lung cancer screening discussion was not pursued as it is not indicated by history.
+
+Assessment:
+1. Acute bronchitis, likely viral vs early reactive airway component given wheeze on exam.
+2. CAD - stable, continue current antiplatelet/statin regimen.
+3. PAD - stable, no claudication changes reported.
+4. HLD - lipid panel from 01/15/2023 at goal on atorvastatin.
+5. BPH - stable on tamsulosin.
+6. Hypothyroidism - TSH within normal limits 03/01/2023, continue levothyroxine.
+
+Plan:
+- Supportive care for bronchitis: increase fluids, rest, OTC guaifenesin PRN cough, albuterol inhaler PRN wheeze/dyspnea, 2 puffs q4-6h PRN.
+- Hold off on antibiotics given viral picture and negative rapid strep/flu/COVID.
+- Continue home meds as listed above without change.
+- Return to urgent care or PCP if sx worsen, fever develops, or dyspnea progresses.
+- Routine f/u with PCP (Dr. Nguyen) for chronic disease management per prior schedule.
+- Pt educated on red flag sx warranting ED visit (worsening SOB, chest pain, hemoptysis).
+
+Pt verbalized understanding, agreeable with plan. Total visit time 22 minutes, >50% spent in counseling/coordination of care.
+
+Electronically signed: Brian Okonkwo, MD, 07/14/2023.

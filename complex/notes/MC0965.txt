@@ -1,0 +1,67 @@
+TELEHEALTH VISIT NOTE
+Geriatrics Department
+Date of Service: 01/31/2026
+
+Patient: Pamela Thompson
+DOB: 01/31/1973 (Age 53)
+Provider: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: Geriatric assessment / comprehensive follow up via video visit
+
+HPI:
+Ms Thompson is a 53 y.o. female with hx of hyperlipidemia, asthma, osteoarthritis, GERD and peripheral artery disease presenting for scheduled telehealth geriatric assessment. She notes today "I feel like my knees are worse in the cold" and reports intermittent claudication in her calves with longer walks, "I have to stop after about two blocks now." She denies chest pain, palpitations, or syncope. Asthma has been stable on current inhaler regimen, uses rescue albuterol maybe 1-2x/week. Reflux sx well controlled with omeprazole, occasional breakthrough after spicy food. No new falls, no cognitive complaints per pt or family. She lives alone, independent in ADLs/iADLs, drives short distances.
+
+Social history reviewed in detail today given geriatric assessment format. Pt states, "I've never smoked a single cigarette in my life, not even in college." She is a lifelong non-smoker. No vaping or other tobacco/nicotine product use reported. Alcohol: occasional glass of wine on weekends. No illicit drug use. Lives in single level home, uses cane occasionally for longer distances due to knee pain.
+
+ROS: Constitutional - no fevers, no unintentional weight loss. Cardiac - as above, claudication, no orthopnea/PND. Resp - stable asthma, no cough/wheeze today. GI - reflux controlled. MSK - bilateral knee pain, worse AM stiffness ~15 min. All other systems reviewed and negative.
+
+PMH / PROBLEM LIST (reviewed, some entries may be outdated):
+1. Hyperlipidemia - E78.5
+2. Asthma, mild persistent - J45.30 (dx many yrs ago, likely outdated severity classification but pt reports stable sx)
+3. Osteoarthritis, bilateral knees - M17.0
+4. GERD - K21.9
+5. Peripheral artery disease, bilateral lower extremities - I73.9
+6. Vitamin D deficiency - E55.9 (last checked 2023, may be resolved, needs recheck)
+7. Seasonal allergic rhinitis - J30.2 (old entry, pt says not bothered in years)
+
+MEDICATIONS:
+- Atorvastatin 40mg qhs
+- Albuterol HFA inhaler prn
+- Fluticasone/salmeterol inhaler BID
+- Omeprazole 20mg daily
+- Aspirin 81mg daily
+- Cilostazol 100mg BID
+- Acetaminophen prn knee pain
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Mother - hypertension, CAD. Father - type 2 diabetes. No family hx of lung dz noted.
+
+EXAM (limited, telehealth):
+General: well-appearing woman, no acute distress, appropriate affect
+Vitals per home cuff reported by pt: BP 128/76, HR 72, wt 158 lbs (stable)
+Skin: no lesions visualized on camera
+Cardiac: unable to auscultate via telehealth; pt denies edema on self-exam
+Resp: no visible respiratory distress, speaking in full sentences
+MSK: pt demonstrates limited knee flexion bilat on camera, no visible effusion
+Cognition: MOCA not performed today (deferred to in person visit), Mini-Cog screen via phone- 3/3 recall, clock draw described verbally as intact
+
+ASSESSMENT:
+53 yo female here for geriatric wellness assessment via telehealth, multiple chronic conditions overall stable. PAD symptoms slightly progressed will discuss vascular referral. Knee OA sx worsening in cold weather, conservative management to continue. Social history notable for lifelong non-smoker status, no tobacco exposure history to account for in risk stratification today.
+
+PLAN:
+1. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next labs, discussed diet/exercise
+2. Asthma - continue current inhalers, provided refill for albuterol, discussed proper technique again over video
+3. Osteoarthritis - continue acetaminophen, refer to PT for home exercise program, consider topical NSAID if no improvement, d/c d if GERD worsens with oral NSAID use so avoiding those
+4. GERD - continue omeprazole, reinforce lifestyle measures (avoid late meals, elevate head of bed)
+5. PAD - claudication seems slightly worse, will order ABI testing, continue cilostazol and aspirin, vascular surgery referral placed, discussed importance of walking program as tolerated
+6. Vitamin D - recheck level given last check 2023
+7. Health maintenance - screening discussions reviewed including age appropriate cancer screenings; lung cancer screening topic briefly discussed given overall risk factor review though not applicable given no smoking history
+8. Follow up in person in 3 months or sooner if symptoms worsen
+9. Pt given portal message instructions for any urgent concerns, telehealth visit concluded without issue
+
+Time spent on visit: 28 minutes, more than half spent on counseling/coordination of care.
+
+Electronically signed by Catherine Lindqvist, DO
+Geriatrics
+01/31/2026

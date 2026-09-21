@@ -1,0 +1,44 @@
+INTERNAL MEDICINE - NP PROGRESS NOTE
+Patient: Maria Hernandez | DOB: 05/17/1964 | Age: 60 | Sex: F
+DOS: 05/17/2024
+Author: Rachel Goldberg, MD
+
+CC: F/u HTN, DM2
+
+PROBLEM LIST:
+- I10 Essential HTN
+- E11.9 Type 2 DM w/o complications
+- I48.91 A fib, unspecified
+- I73.9 PAD, unspecified
+- M81.0 Osteoporosis, postmenopausal (age-related noted, dating from prior visit, may be outdated - recheck DEXA)
+- Z87.891 Personal hx of nicotine dependence (per hx below)
+
+HPI: Pt is a 60 yo F, DOB 5/17/1964, here for routine f/u of HTN and DM2. Reports overall doing well, no chest pain, no palpitations though she is on anticoag for A fib. Denies claudication sx today, PAD stable per vascular last seen 6 mo ago. No new falls, no fx, continues on antiresorptive tx for osteoporosis. BP log reviewed, mostly in 130s/70s at home. Denies polyuria/polydipsia. Diet review done, pt states she has been more compliant with low-Na diet.
+
+SOCIAL HISTORY: Former smoker. Smoked 1 pack per day x9 yrs, then quit completely for 3 yrs, then restarted at 1.5 packs/day x7 yrs before quitting for good. First quit in 1995, restarted 1997, quit for good in 2007. No current tobacco use. No EtOH abuse. Lives w/ husband, retired, independent in ADLs.
+
+ROS: Otherwise negative except as above. No cough, no hemoptysis, no wt loss.
+
+EXAM:
+Vitals: BP 128/74, HR 68 irreg irreg (known Afib), RR 16, Wt 168 lb, BMI 27.9
+Gen: NAD, well-appearing
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: CTAB
+Ext: no edema, distal pulses diminished bilat (known PAD), no ulcers
+Skin: no lesions
+
+LABS (reviewed today): A1c 7.1%, Cr 0.9, K 4.2, INR 2.3 (on warfarin for Afib)
+
+ASSESSMENT/PLAN:
+1. HTN - well controlled, continue lisinopril 20mg daily
+2. DM2 - A1c 7.1%, cont metformin 1000mg BID, reinforced diet/exercise
+3. A fib - rate controlled, INR therapeutic today on warfarin, cont current dose
+4. PAD - stable, cont cilostazol, f/u vascular surgery as scheduled
+5. Osteoporosis - cont alendronate, DEXA due for recheck (last one >2 yrs ago per outdated chart note)
+6. Tobacco - pt is a former smoker who quit smoking for good in 2007; discussed general health maintenance and continued avoidance of tobacco. Lung cancer screening was discussed with pt as part of preventive care conversation.
+
+RTC 3 months, sooner if needed. Pt verbalizes understanding of plan.
+
+---
+ADDENDUM (later same day, 05/17/2024, R. Goldberg, MD):
+Spoke further w/ pt by phone re: pharmacy question on warfarin dosing, clarified no changes needed to current regimen. Also confirmed with pt her smoking history for documentation accuracy: she reiterated she smoked 1 pack/day for 9 years, quit completely for 3 years, restarted at 1.5 packs/day for 7 years, then quit for good in 2007 (first quit 1995, restarted 1997). No further changes to plan. Will continue routine monitoring.

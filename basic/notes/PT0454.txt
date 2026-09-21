@@ -1,0 +1,53 @@
+General Medicine Clinic Clinic Note
+Date of Service: 2024-02-19
+Patient: George Hall   DOB: 6/11/1948   MRN: 58366235
+
+S:
+CC: Cough
+HPI: Mr. Hall is a 75-year-old man with a history of CAD, COPD, depression, and BPH who presents for cough and congestion. Cough for 20 days, worse at night. No fevers. Tried OTC dextromethorphan without relief. No hemoptysis.
+
+PMH: Osteoarthritis of knees, BPH with LUTS, ASCVD, Generalized anxiety disorder, COPD (dx 2013)
+PSH: Vasectomy (1986)
+Meds: metoprolol succinate 25 mg daily; tamsulosin 0.4 mg nightly; sertraline 100 mg daily; umeclidinium-vilanterol 62.5/25 1 inh daily; aspirin 81 mg daily; nitroglycerin 0.4 mg SL PRN; meloxicam 7.5 mg daily; albuterol HFA 2 puffs q4-6h PRN; trazodone 50 mg nightly PRN
+Allergies: No known allergies
+Social History:
+- Lives in assisted living.
+- Retired, former cashier.
+- EtOH: 2-3 drinks on weekends.
+- Denies illicit drugs.
+FH: No family hx of colon cancer. Sister - breast cancer at 59.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 130/85  HR: 59  RR: 16  Temp: 98.4 F  SpO2: 92% on RA  Wt: 159 lbs  BMI: 23.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: Diminished BS throughout, no crackles
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+Labs (1/10/24): Cr 0.90, K 4.8
+
+A/P:
+1. Cough
+   - CXR ordered given duration. Supportive care.
+2. COPD
+   - No exacerbations since last visit. Continue maintenance inhaler.
+3. ASCVD
+   - Stable. Continue secondary prevention.
+4. Generalized anxiety disorder: PHQ-9 stable; continue current regimen.
+
+f/u 1 mo
+
+Gregory Tan, MD

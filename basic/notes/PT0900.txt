@@ -1,0 +1,86 @@
+Cardiology Clinic Note
+
+Patient: BENNETT, Larry    MRN: 96122375
+DOB: 01/13/1973    Age: 50 y.o.    Sex: Male
+Date of Service: 11/02/2023    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Larry Bennett is a 50 y.o. male who presents for atrial fibrillation follow-up.
+Occasional palpitations lasting minutes. Taking apixaban BID reliably.
+
+Past Medical History:
+Diagnosis	Date
+• Persistent AF	2021
+• Peripheral vascular disease
+• Benign prostatic hyperplasia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2012)
+• Lumbar laminectomy
+• Appendectomy (2008)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+• tamsulosin 0.4 mg nightly
+• cilostazol 100 mg BID
+• apixaban 5 mg BID
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 20 cigs/d x35y
+Social History Narrative
+  Lives with wife in a single-family home.
+  Works as a truck driver.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+
+Family History
+Father - stroke.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 116/83 (BP Location: Left arm, Patient Position: Sitting) | Pulse 100 | Temp 98.9 °F (Oral) | Resp 14 | Ht 5' 10" | Wt 180 lb | SpO2 98% | BMI 25.85 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 1. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. Tobacco abuse
+   Brief cessation counseling provided (10 min). He is motivated to quit. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+3. Peripheral vascular disease
+   Stable claudication distance.
+
+RTC 1 month.
+
+Electronically signed by Brian Okonkwo, MD on 11/02/2023

@@ -1,0 +1,73 @@
+Cardiology Clinic Note
+
+Patient: SCOTT, Deborah    MRN: 88176401
+DOB: 09/02/1951    Age: 74 y.o.    Sex: Female
+Date of Service: 09/29/2025    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Chest pain
+
+Subjective:
+Deborah Scott is a 74 y.o. female who presents for evaluation of chest pain.
+Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. No radiation. No orthopnea or PND. CV risk factors: HTN, never smoker.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Coronary artery disease
+• Osteoarthritis	1991
+• Gastroesophageal reflux disease
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• chlorthalidone 12.5 mg daily
+• meloxicam 7.5 mg daily
+• lisinopril 40 mg daily
+• aspirin 81 mg daily
+• famotidine 20 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Retired machinist.
+  EtOH: 2-3 drinks on weekends.
+  Denies illicit drugs.
+
+Family History
+Father - MI at 74. Father - prostate cancer.
+
+Review of Systems
+ROS: Neuro neg, GU neg, CV +, MSK neg, Resp neg, GI neg
+
+Objective:
+Vitals:
+  BP 148/73 (BP Location: Right arm, Patient Position: Sitting) | Pulse 81 | Temp 98.2 °F (Oral) | Resp 12 | Ht 5' 3" | Wt 166 lb | SpO2 95% | BMI 29.43 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Chest pain
+   Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+2. Gastroesophageal reflux disease
+   Symptoms controlled.
+3. Coronary artery disease
+   No angina. Continue current cardiac regimen.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Farah Siddiqui, MD on 09/29/2025

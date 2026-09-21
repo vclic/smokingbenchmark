@@ -1,0 +1,71 @@
+Pulmonology Consult / Letter to Referring Physician
+Patient: Raymond Rodriguez
+DOB: 05/23/1970 (age 54)
+Date of Service: 05/24/2024
+Author: Michael Dunn, DO
+
+RE: COPD follow-up
+
+Dear Dr. colleague,
+
+Thank you for referring Mr. Rodriguez, a 54-year-old male, for follow-up of his chronic obstructive pulmonary disease. He was seen today, 05/24/2024, in clinic for reassessment of symptoms and management.
+
+HPI: Mr. Rodriguez reports his breathing has been "about the same, maybe a little worse when the pollen count is up" — he notes increased use of his rescue inhaler over the past two weeks, roughly 2-3 times daily versus his baseline of once daily. He denies fever, chills, or hemoptysis. He does note some [inaudible] chest tightness in the mornings that resolves after his nebulizer treatment, he thinks its worse when he sleeps flat so he's been using extra pillows the patient states he sleeps propped up on to on three pillows now which seems to help some. No new peripheral edema. He continues to ambulate for exercise, limited by claudication in his legs more so then his breathing per his report. Denies orthopnea beyond what's noted. He was recently started on a new inhaler by his PCP, name not recalled by patient, he believes it is a "purple one."
+
+Past Medical History (problem list, per chart):
+- E66.9 Obesity, unspecified — active
+- E03.9 Hypothyroidism, unspecified — active, on levothyroxine
+- I73.9 Peripheral artery disease, unspecified — active
+- J44.9 Chronic obstructive pulmonary disease, unspecified — active
+- J45.909 Asthma, unspecified, uncomplicated — outdated entry, per patient he was told years ago he might have "some asthma component" but this has not been re-evaluated
+- I10 Essential hypertension — outdated, patient reports BP has been normal off medication for over a year, to be reconciled
+
+Social History (EHR template):
+Tobacco use status: Never smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, socially
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Limited by claudication, per HPI
+Secondhand smoke exposure: Not on file
+
+Family History: Notable for the patient's father, who was a heavy smoker for most of his adult life and ultimately died of lung cancer. Patient becomes visibly uncomfortable discussing this and states he has always been careful to avoid tobacco himself given this family history, he has never used tobacco in any form, no cigarettes no cigars no vaping no chew. He asked whether his own risk of lung cancer is increased because of his father's history, this was discussed at length.
+
+Review of Systems: Positive for exertional dyspnea and occasional wheeze. Negative for chest pain, syncope, weight loss, night sweats. Peripheral vascular symptoms as above (claudication), stable per patient report, followed separately by vascular surgery.
+
+Physical Exam:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 94% on room air, Wt 231 lb, BMI 34.2
+General: Well-appearing, no acute distress, mildly obese habitus
+HEENT: unremarkable
+Neck: no JVD, no lymphadenopathy
+Lungs: mild expiratory wheeze bilaterally, no crackles, prolonged expiratory phase noted
+CV: RRR, no murmurs, distal pulses diminished bilaterally in lower extremities consistent with known PAD
+Ext: no edema, skin intact, no ulcerations
+Neuro: grossly intact
+
+Labs/Imaging reviewed: Recent PFTs (from referring office, dated 03/2024) show FEV1/FVC ratio consistent with moderate obstructive pattern, partially reversible with bronchodilator. TSH within normal range on current levothyroxine dose. No new chest imaging on file since 2022; findings at that time reportedly unremarkable aside from mild hyperinflation.
+
+Assessment:
+1. COPD, moderate, stable to slightly worse per subjective report, likely related to seasonal allergen exposure given timing.
+2. Possible asthma-COPD overlap — outdated diagnosis in chart, will reassess with updated spirometry and consider allergy referral if symptoms persist.
+3. Obesity — contributing to overall dyspnea burden, weight management discussed.
+4. Hypothyroidism — stable, continue current dose.
+5. Peripheral artery disease — stable per vascular surgery follow-up, claudication symptoms unchanged.
+6. Never-smoker status noted; given strong family history of lung cancer (father, heavy smoker, deceased from lung cancer), the topic of lung cancer risk and general screening guidelines was discussed with the patient at length, though as a lifelong never-smoker his risk profile and screening candidacy differ substantially from that of smokers; no imaging for cancer screening purposes was ordered today.
+
+Plan:
+- Continue current inhaler regimen; will obtain updated PFTs prior to next visit
+- Increase rescue inhaler education, review technique with patient
+- Weight management counseling provided; referral to nutrition offered, patient declined for now
+- Continue levothyroxine at current dose, follow with PCP for routine TSH monitoring
+- Continue follow-up with vascular surgery for PAD/claudication
+- Discussed general lung health and family history implications; reassured regarding never-smoker status
+- Follow-up in pulmonology clinic in 3 months, sooner if symptoms worsen
+- Patient given education materials on COPD action plan
+
+Thank you again for allowing me to participate in this patient's care. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Michael Dunn, DO
+Pulmonology

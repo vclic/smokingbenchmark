@@ -1,0 +1,55 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Diane Price | DOB: 2/25/1946 | Age: 77 | Sex: F
+Date of Service: 09/04/2023
+Author: Nadia Haddad, MD (Resident) with Attending Attestation
+
+CC: Medication refills, telehealth visit.
+
+HPI: 77 y/o female with hx asthma, T2DM, HFrEF presents via video for routine med refills. Reports doing fairly well, no acute SOB, no chest pain. Occasional wheeze w/ exertion, uses albuterol PRN ~1-2x/wk. Denies orthopnea, PND, leg edema worse than baseline. Diabetes well controlled per pt report, checks fingersticks intermittently. No new sx today.
+
+ROS: Constitutional - no fever, no weight loss. HEENT - no vision change, no hearing loss. Resp - occasional wheeze, no hemoptysis, no cough. CV - no chest pain, no palpitations, mild ankle swelling stable. GI - no n/v/d, no abd pain. GU - no dysuria. MSK - mild joint stiffness, chronic. Neuro - no focal deficits. Skin - no rash. Psych - mood stable. All other systems reviewed and negative per template.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco: Former smoker. 21 pack-year smoking history. Quit year: 2022. Current status: does not smoke.
+Alcohol: Not on file.
+Drug use: Denies.
+Occupation: Retired.
+Living situation: Lives with spouse.
+Exercise: Not on file.
+
+PHYSICAL EXAM (telehealth, limited):
+Gen: well-appearing, no acute distress, seated comfortably at home.
+HEENT: atraumatic, no visible distress.
+Resp: no visible increased work of breathing, no audible wheeze on this call.
+CV: unable to auscultate via telehealth; pt denies chest pain.
+Ext: no visible edema on camera.
+Skin: no rashes noted on visible areas.
+Note: exam limited due to virtual format; vitals per home cuff reported by pt: BP 128/76, HR 78, unable to obtain O2 sat.
+
+MEDICATIONS (reviewed, refills requested):
+1. Albuterol HFA inhaler PRN
+2. Fluticasone/salmeterol inhaler BID
+3. Metformin 1000mg BID
+4. Empagliflozin 10mg daily
+5. Insulin glargine 20 units qHS
+6. Carvedilol 12.5mg BID
+7. Lisinopril 10mg daily
+8. Spironolactone 25mg daily
+9. Furosemide 20mg daily
+10. Atorvastatin 40mg daily
+11. Aspirin 81mg daily
+
+PRIOR NOTE EXCERPT (copied forward from note dated 7/4/2021, unedited):
+"7/4/2021 - Social history: patient is a current smoker, advised on cessation resources and encouraged to quit."
+[Above copied verbatim from note dated 7/4/2021 for reference; tobacco status has since changed per updated interview today.]
+
+A/P:
+1. Asthma - stable, continue current inhalers, refills sent.
+2. T2DM - stable, continue metformin, empagliflozin, insulin glargine, refills sent, will recheck A1c at next visit.
+3. HFrEF - stable on GDMT, continue carvedilol, lisinopril, spironolactone, furosemide, refills sent.
+4. Tobacco cessation - counseled on continued abstinence, congratulated on quitting; screening for lung cancer discussed generally with patient, no imaging ordered today.
+
+Plan: f/u in 3 months or sooner if symptoms worsen, labs prior to next visit.
+
+--- ADDENDUM (later same day, 09/04/2023) ---
+Attending Dr. Haddad reviewed with resident. Discussed tobacco history in more detail with patient by phone after visit; confirmed patient quit smoking in 2022 and has not resumed. Plan unchanged. Attestation: I have reviewed and discussed this encounter with the resident and agree with the documented plan.

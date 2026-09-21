@@ -1,0 +1,41 @@
+Family Medicine Clinic Note
+Date of Service: 4/6/2026
+Patient: Terrence Price   DOB: 4/9/1948   MRN: 74784683
+
+S:
+CC: 3 month follow-up
+HPI: Mr. Price is a 77 y.o. male former tob use (30 cigs/d x 34yrs, quit '10) with OA, depression, CAD, and obesity who presents for routine follow-up of chronic conditions. No new concerns. Ran out of one medication last week.
+
+PMH:
+- Major depressive disorder, recurrent, in remission
+- Coronary artery disease
+- Primary OA, bilateral knees
+- Obesity
+- History of tobacco use (Z87.891)
+Meds: diclofenac 1% gel QID PRN; aspirin 81 mg daily; sertraline 50 mg daily
+Allergies: Codeine (nausea)
+SH: Divorced, lives alone. Retired, former truck driver. Drinks a glass of wine with dinner. Denies illicit drugs.
+FH: Noncontributory.
+ROS: CV neg, MSK neg, Neuro neg, Skin neg
+
+O:
+Vitals: BP: 114/62  HR: 65  RR: 18  Temp: 98.4 F  SpO2: 96% on RA  Wt: 290 lbs  BMI: 37.2
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. Major depressive disorder, recurrent, in remission: Mood stable.
+2. Primary OA, bilateral knees: Continue PRN analgesics; home exercises.
+3. Obesity: Discussed diet and exercise.
+
+f/u 1 mo
+
+-- TA (NP)

@@ -1,0 +1,64 @@
+Pulmonology Progress Note
+Date of Service: 02/14/2024
+Author: Hannah Weiss, NP
+
+Patient: Yolanda Barnes | DOB: 02/14/1954 | Age: 70 | Sex: F
+
+CC: Follow-up of incidental lung nodule identified on prior chest imaging.
+
+HPI: Ms. Barnes is a 70-year-old female (DOB 2/14/1954, today's visit falling on her birthday) who returns to clinic for interval follow-up of a small pulmonary nodule found incidentally on CT imaging performed for unrelated indication. She denies hemoptysis, unintentional weight loss, fevers, or night sweats. She reports mild exertional dyspnea which she attributes to her known heart failure with reduced EF, unchanged from baseline. No new chest pain. She continues to follow with cardiology for HFrEF and vascular medicine for peripheral artery disease.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: See narrative below
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Alcohol use: Occasional, social
+Illicit drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Limited due to PAD claudication
+
+Tobacco narrative: Patient states she tried a few cigarettes as a teenager but never smoked regularly and has not used tobacco products since. No current or past regular cigarette use, no vaping, no other tobacco products.
+
+ROS: Constitutional: no fever, no chills, no weight loss. HEENT: no dysphagia, no hoarseness. Cardiovascular: chronic exertional dyspnea, no orthopnea, no PND, stable lower extremity edema. Respiratory: no cough, no wheeze, no hemoptysis. GI: reports occasional heartburn, controlled on medication. GU: nocturia x1-2, stable, known BPH. Musculoskeletal: mild bilateral calf claudication with ambulation. Neuro: no focal deficits. Skin: no rashes. Psych: no depression, no anxiety reported.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, SpO2 96% RA, Temp 98.2F, Wt 168 lb
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic, no lymphadenopathy
+CV: regular rate and rhythm, no murmurs, trace bilateral lower extremity edema
+Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+Abdomen: soft, non-tender, non-distended
+Extremities: diminished dorsalis pedis pulses bilaterally, no cyanosis
+Skin: warm, dry
+
+Labs/Results:
+01/15/2024 CBC: WBC 6.8, Hgb 12.9, Plt 245
+01/15/2024 CMP: Na 138, K 4.2, Cr 1.0, Glucose 102
+01/15/2024 Lipid panel: LDL 118, HDL 48, TG 150
+02/01/2024 BNP: 310 pg/mL (stable from prior)
+01/10/2024 Chest CT: 6 mm ground-glass nodule right upper lobe, unchanged from prior study 6 months ago.
+
+Medications:
+- Atorvastatin 40 mg daily
+- Omeprazole 20 mg daily
+- Tamsulosin 0.4 mg daily
+- Carvedilol 12.5 mg BID
+- Furosemide 20 mg daily
+- Lisinopril 10 mg daily
+- Spironolactone 25 mg daily
+- Clopidogrel 75 mg daily
+- Aspirin 81 mg daily
+
+Assessment/Plan:
+1. Pulmonary nodule, stable on follow-up imaging - continue surveillance per prior recommendations.
+2. HFrEF - stable, continue current regimen, follow with cardiology.
+3. Peripheral artery disease - continue antiplatelet therapy, encourage supervised walking program as tolerated.
+4. GERD - well controlled on omeprazole.
+5. BPH - stable on tamsulosin, no urinary retention symptoms.
+6. Hyperlipidemia - continue statin, recheck lipid panel in 6 months.
+
+Return to clinic in 6 months or sooner if symptoms arise. Patient verbalizes understanding of plan.
+
+- Hannah Weiss, NP

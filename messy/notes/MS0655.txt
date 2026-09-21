@@ -1,0 +1,53 @@
+Pulmonology Clinic - COPD Follow-up
+Date of Service: 07/25/2023
+Patient: Carlos Roberts, M, DOB: 07/25/1949 (age 74)
+Provider/Author: Laura Castellano, FNP-C
+
+--- NURSE INTAKE ---
+VS: BP 138/82, HR 88, RR 20, SpO2 91% RA, Temp 97.8F, Wt 198 lb
+CC: COPD f/u, increased dyspnea x 2 wks
+
+Tobacco History (EHR template):
+Smoking status: Current every day smoker
+Packs/day: 0.75
+Years: 44.00
+Type: Cigarettes
+Other tobacco: Vapes occasionally (e-cigarette use, non-daily)
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Roberts is a 74 yo M w/ hx COPD, HFrEF, OA here for routine pulm f/u. Pt states, "I've been more short of breath walking to the mailbox, doc." He denies fever, chest pain, or increased sputum purulence. He reports occasional wheeze at night, uses albuterol inhaler PRN w/ some relief. He continues to smoke cigarettes daily and admits to vaping "once in a while" when he runs out of cigarettes, though he denies daily vape use. He was counseled again on smoking cessation resources including nicotine replacement and quitline referral; pt states he is "not ready yet" but will consider it.
+
+[Copied forward from visit 03/14/2022 - unedited]:
+Pt seen in f/u for COPD exacerbation. Reports doing well on current regimen of Spiriva and Symbicort. No recent hospitalizations. O2 sat 94% on RA at that visit. Pt reports compliance with meds, denies orthopnea/PND at that time. Cardiac exam: RRR, no m/r/g. Lungs: diminished breath sounds bilat bases, no wheezes noted at that visit. Extremities: trace edema. Pt was counseled on pulmonary rehab referral, which he declined at that time stating he would "think about it." Plan from that visit: continue current inhalers, f/u in 6 months, consider PFTs if worsening symptoms. [End copied text]
+
+ROS: Otherwise negative except as above. No hemoptysis, no unexplained weight loss reported today.
+
+PMH/Problem List (ICD-10):
+- COPD, unspecified (J44.9)
+- Heart failure with reduced ejection fraction (I50.22) - outdated entry, EF now improved per last echo
+- Osteoarthritis, unspecified site (M19.90)
+- Tobacco use disorder, cigarettes (Z72.0) - outdated entry, see current tobacco block above
+- GERD (K21.9) - resolved per pt, kept for hx
+
+Meds: Spiriva Respimat, Symbicort 160/4.5 BID, albuterol HFA PRN, furosemide 20mg daily, metoprolol succinate 25mg daily, atorvastatin 40mg qhs
+
+Exam:
+Gen: NAD, sitting comfortably, mild use of accessory muscles
+HEENT: unremarkable
+CV: RRR, no m/r/g, no JVD
+Resp: decreased breath sounds bilat bases, scattered expiratory wheezes
+Ext: 1+ pitting edema bilat LE
+Skin: no clubbing/cyanosis
+
+Assessment/Plan:
+1. COPD - mild exacerbation vs baseline dyspnea. Continue current inhalers, add short prednisone taper 40mg x5 days. Recheck in 2 wks or sooner if worse.
+2. HFrEF - stable, continue metoprolol/furosemide, monitor wt daily.
+3. OA - stable, continue PRN NSAIDs as tolerated given renal fxn.
+4. Tobacco use - discussed cessation again; pt currently smokes cigarettes daily and vapes occasionally. Discussed risks of continued smoking on COPD/HF. Discussed lung cancer screening in general terms; pt to think about it. Offered nicotine patch, pt declined today.
+5. F/u pulm clinic in 2-4 weeks, sooner if worsening.
+
+Electronically signed: Laura Castellano, FNP-C, 07/25/2023
+
+--- ADDENDUM (later same day) ---
+Addendum by L. Castellano, FNP-C, 07/25/2023 1645:
+Pt called clinic later this afternoon to clarify he is willing to try the nicotine patch after all after discussing w/ his wife. Rx sent to pharmacy. Reiterated importance of cessation given COPD/HFrEF. No other changes to plan.

@@ -1,0 +1,82 @@
+Pulmonology Clinic Note
+
+Patient: RODRIGUEZ, Gwendolyn    MRN: 17567898
+DOB: 11/24/1952    Age: 71 y.o.    Sex: Female
+Date of Service: 01/09/2024    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• f/u COPD
+
+Subjective:
+Gwendolyn Rodriguez is a 71 y.o. female who presents for follow-up of COPD.
+Dyspnea with moderate exertion, mMRC 2. 3 exacerbations in the past year, most recently in May treated with prednisone and azithromycin. Using albuterol daily lately. Morning cough with clear sputum.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoporosis
+• COPD, GOLD 2
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2017)
+• Lumbar laminectomy
+• Left inguinal hernia repair
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• alendronate 70 mg weekly
+• tiotropium 18 mcg inhaled daily
+• calcium + vitamin D daily
+• albuterol HFA 2 puffs q4-6h PRN
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Packs/day: 1.00
+    Years: 47.00
+    Pack years: 47.00
+    Types: Cigarettes
+    Quit date: 2/17/2023
+    Years since quitting: 0.9
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with husband.
+  Current e-cig user (no cigarettes).
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS: GU neg, CV neg, MSK neg, Gen neg, GI neg, Neuro neg, Skin neg
+
+Objective:
+Vitals:
+  BP 119/62 (BP Location: Left arm, Patient Position: Sitting) | Pulse 80 | Temp 98.3 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 161 lb | SpO2 92% | BMI 25.23 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. COPD
+   Spirometry 2023-06-09: FEV1 68% predicted, FEV1/FVC 0.61. Step up to triple therapy given exacerbations. Action plan provided.
+2. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+3. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+Return in about 12 months (around 1/9/2025).
+
+Electronically signed by Kevin Osei, MD on 01/09/2024

@@ -1,0 +1,59 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 07/05/2024
+Author: Kevin Osei, MD (NP progress note)
+Patient: Judith Green, F, DOB 02/28/1949 (age 75)
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Ms. Green is a 75-year-old woman with COPD, asthma, HTN, CAD, GERD, CKD stage 3, presenting for routine follow-up. She reports mild increase in dyspnea on exertion over past month, denies fevers/chills. States "I get short of breath walking up the stairs to my apartment, but it's not much worse than before." No increase in sputum production, no hemoptysis. Uses albuterol inhaler PRN, reports using it 2-3x/week. Denies chest pain, denies orthopnea/PND. Continues home O2 as needed per prior recs (pt reports rarely uses it).
+
+Regarding tobacco use, pt states "I've smoked for a long time, doc, I know I should quit but it's hard." Further details captured in social history below.
+
+ROS: Otherwise negative except as above. Denies weight loss, denies leg swelling.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+Type: Cigarettes
+Smoking details: Pt reports smoking a quarter pack (about 5 cigarettes) per day for 34 years, then increased to half a pack (about 10 cigarettes) per day for the past 17 years; continues at this rate currently.
+Smokeless tobacco: Not on file
+Alcohol use: Former drinker - quit drinking alcohol in 2002
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone, apartment
+Exercise: Not on file
+
+PMH: HTN, CAD (s/p stent 2015), GERD, CKD stage 3 (baseline Cr ~1.6), asthma, COPD (dx 2018).
+
+MEDS: Albuterol HFA PRN, tiotropium daily, lisinopril, atorvastatin, omeprazole, ASA 81mg.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 138/82, HR 78, RR 18, SpO2 94% RA, Wt 152 lb, Ht 5'4".
+
+EXAM:
+Gen: NAD, comfortable, conversing in full sentences.
+HEENT: unremarkable.
+Neck: no JVD, no LAD.
+Lungs: mild expiratory wheeze bilaterally, no rales, no rhonchi, prolonged expiratory phase.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND.
+Ext: no edema, no clubbing.
+
+LABS (reviewed, from 06/2024): BMP - Cr 1.7, eGFR 34, K 4.3. CBC WNL. BNP 110.
+
+PFTs (on file, 03/2024): FEV1/FVC reduced, consistent with moderate obstructive pattern, no significant improvement post-bronchodilator.
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable-to-mildly worse per pt report. Continue tiotropium, albuterol PRN. Reviewed inhaler technique with pt today.
+2. Tobacco use disorder - patient continues to smoke despite counseling; discussed health risks again today including cardiopulmonary risk given underlying COPD/CAD; encouraged cessation, offered nicotine replacement therapy and referral to tobacco cessation program, pt declined at this time but will reconsider. Lung cancer screening was discussed with the patient as an option to consider with her PCP.
+3. Asthma - overlap with COPD, well-controlled currently on above regimen.
+4. HTN - well controlled on current regimen, continue lisinopril.
+5. CAD - stable, continue ASA/statin, no anginal symptoms today.
+6. GERD - stable on omeprazole.
+7. CKD stage 3 - stable, will recheck BMP at next visit, avoid nephrotoxic agents.
+8. Alcohol use - former drinker, quit in 2002, no current concerns.
+
+Follow-up in 3 months or sooner if symptoms worsen. Pt given written instructions re: COPD action plan.
+
+Kevin Osei, MD
+Pulmonology

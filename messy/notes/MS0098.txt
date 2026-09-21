@@ -1,0 +1,67 @@
+PULMONOLOGY - LUNG CANCER SCREENING SDM VISIT
+DOS: 05/12/2025
+Patient: William Williams | DOB: 05/12/1961 | Age: 64 | Sex: M
+Provider: Priya Raman, MD
+
+=== NURSE INTAKE (E. Nakamura, RN) ===
+CC: LCS shared decision-making d/t family hx.
+Vitals: BP 138/84, HR 78, RR 16, SpO2 97% RA, Wt 191 lb, Ht 5'10"
+Allergies: NKDA
+Meds reviewed - see MAR.
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Never smoker
+  - Cigarettes: Never
+  - Cigars: Not on file
+  - Vaping/e-cig: Not on file
+ Alcohol use: Occasional, pt reports
+ Drug use: Denies
+ Occupation: Retired machinist
+ Living situation: Not on file
+ Exercise: Limited 2/2 OA knee pain
+
+Pt here today at request of PCP given strong FHx of lung ca - pt states father was a heavy smoker, died of lung cancer in his 70s. Pt anxious, asking about screening.
+
+=== PHYSICIAN PROGRESS NOTE (Priya Raman, MD) ===
+HPI: 64M w/ PMHx OA, PAD, CKD3 presents for SDM visit re: lung cancer screening. Referred by PCP 2/2 significant family hx - father heavy smoker, died of lung ca. Pt himself reports he has never smoked cigarettes, not even experimentally. No hx of cigar or pipe use volunteered; no vaping hx elicited.
+
+Pt reports occasional exertional leg pain c/w known PAD, stable. No hemoptysis, no unexplained wt loss, no chronic cough. Denies dyspnea at rest. OA affecting b/l knees, managed conservatively w/ NSAIDs prn (renal fn limits chronic use given CKD3).
+
+ROS: Neg for fevers, chills, night sweats, chest pain, hemoptysis. Pos for occasional dyspnea on exertion attributed to deconditioning/OA-limited activity.
+
+PMHx:
+ - Osteoarthritis, bilateral knees
+ - Peripheral artery disease
+ - CKD stage 3 (baseline Cr ~1.6, eGFR ~42 per last labs)
+
+PSHx: None significant.
+
+FHx:
+ - Father: lung cancer, deceased, heavy smoker per pt report
+ - Mother: HTN, alive
+ - No other significant fam hx of malignancy per pt
+
+SHx: See intake block above. Never smoker (cigarettes). Occasional EtOH. No illicit drugs. Retired machinist - possible occupational exposures (metal dust, fumes) not further quantified today.
+
+Meds: Atorvastatin, clopidogrel, lisinopril (renally dosed), acetaminophen prn, topical diclofenac.
+
+Exam:
+Gen: NAD, comfortable, appropriately anxious re: family hx discussion.
+CV: RRR, no m/r/g. Distal pulses diminished b/l LE, known PAD.
+Resp: CTAB, no wheezes/rales/rhonchi. Nl work of breathing.
+Ext: No edema. Mild crepitus b/l knees on exam, no effusion.
+Skin: No lesions concerning for malignancy.
+
+Assessment/Plan:
+64 yo M, never-smoker, presenting for lung cancer screening SDM in setting of strong paternal FHx of lung cancer (father heavy smoker, deceased 2/2 lung ca).
+
+1. Lung cancer screening - discussed at length w/ pt. Reviewed USPSTF framework generally, risks/benefits of low-dose CT discussed conceptually (radiation exposure, false positives, incidental findings, overdiagnosis). Given pt's never-smoker status, screening guidelines are primarily driven by smoking hx/pack-year exposure; explained this to pt in context of his personal risk profile vs population-based criteria. No imaging ordered at this visit. Pt understands rationale, verbalizes questions answered.
+2. PAD - stable, continue clopidogrel + statin, f/u vascular surgery per their sched.
+3. CKD stage 3 - monitor renal fn, avoid nephrotoxic NSAIDs chronically, recheck BMP in 3 mo.
+4. OA knees - continue conservative mgmt, topical NSAID preferred given renal issue, consider PT referral.
+5. Return to clinic prn or if new resp sx develop (cough, hemoptysis, unexplained wt loss, dyspnea).
+
+Time spent: ~25 min, >50% counseling/coordination of care.
+
+---ADDENDUM (later same day, 05/12/2025, 4:47pm, P. Raman, MD)---
+Spoke further w/ pt by phone after chart review - clarifying he has never used any tobacco product to his knowledge, incl. cigarettes, cigars, or e-cigarettes; family hx of paternal lung cancer secondary to heavy smoking remains as documented above. Pt reassured. No changes to plan.

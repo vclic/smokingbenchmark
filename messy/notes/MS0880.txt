@@ -1,0 +1,51 @@
+RESIDENT NOTE - PULMONOLOGY
+Patient: Raymond Powell (M), DOB 4/7/1954, age 71
+DOS: 10/30/2025
+Author: Farah Siddiqui, MD (resident); attending attestation below
+
+CC: COPD follow-up
+
+HPI: Mr. Powell returns for routine f/u of COPD. Reports stable dyspnea on exertion, no increase in sputum, no fevers. Uses albuterol PRN, tiotropium daily. Denies chest pain. c/o occasional morning cough, unchanged. He notes some fatigue but attributes it to poor sleep. No hemoptysis, no unintentional weight loss.
+
+PMH/Problem list (ICD-10):
+- J44.9 COPD, unspecified
+- E11.9 Type 2 diabetes mellitus
+- E78.5 Hyperlipidemia
+- I10 Essential hypertension
+- M81.0 Osteoporosis (postmenopausal- note: pt is male, outdated dx carried fwd from prior template, needs review)
+
+Social History: Smoking status: Never Smoker [NOTE: this templated field is incorrect and outdated - pt in fact has a smoking history, see below]. Pt quit drinking alcohol in 2011, denies current use. Lives w/ spouse, retired machinist.
+
+Meds: Tiotropium inh daily, albuterol INH PRN, metformin 1000mg BID, atorvastatin 40mg qhs, lisinopril 20mg daily, alendronate 70mg weekly.
+
+ROS: otherwise negative except as above.
+
+Exam:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 94% RA, Temp 98.2F, Wt 190 lb
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles, prolonged expiratory phase
+CV: RRR no m/r/g
+Ext: no edema
+
+Labs/Results:
+- CBC (10/28/2025): WBC 7.1, Hgb 14.2, Plt 245
+- CMP (10/28/2025): Glucose 132, Cr 0.9, eGFR >60
+- HbA1c (10/28/2025): 7.1%
+- Spirometry (10/15/2025): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ moderate obstruction, similar to prior study
+- Lipid panel (09/2025): LDL 88, HDL 42, TG 150
+
+Assessment/Plan:
+1. COPD - moderate, stable. Correcting social hx: patient actually smoked for 8 years total before quitting; the 'never smoker' field above is inaccurate and should be updated in chart. Continue current inhalers, reinforce technique. Discussed pulmonary rehab referral. Lung cancer screening was discussed with patient as part of general risk conversation.
+2. T2DM - A1c improved from prior, continue metformin, recheck in 3 months.
+3. HTN - well controlled on current regimen, continue lisinopril.
+4. Hyperlipidemia - LDL at goal, continue statin.
+5. Osteoporosis - outdated dx in problem list, will clarify with pt's PCP given male sex, likely miscoded; continue alendronate per prior documentation pending clarification.
+
+F/u in 3 months or sooner if symptoms worsen.
+
+---Attending Attestation---
+I have personally seen and examined the patient along with Dr. Siddiqui and agree with the above assessment and plan as documented. Discussed COPD management and smoking history correction with resident.
+- Attending co-signature on file
+
+ADDENDUM (later same day, 10/30/2025, added by Dr. Siddiqui):
+Spoke further with patient to clarify smoking history for accurate documentation given discrepancy noted in chart. Patient confirms he quit smoking on 10/25/1990 and has not smoked since that date. Total duration of smoking prior to quitting was 8 years (no pack quantity or cigarette count obtained/documented this visit). Chart smoking status field to be corrected by clinic staff to reflect former smoker, quit 10/25/1990. No further changes to plan.

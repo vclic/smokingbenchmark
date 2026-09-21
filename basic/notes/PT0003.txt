@@ -1,0 +1,74 @@
+General Medicine Clinic Office Visit
+
+Patient: JENKINS, Richard    MRN: 70303248
+DOB: 04/05/1969    Age: 53 y.o.    Sex: Male
+Date of Service: 02/06/2023    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Richard Jenkins is a 53 y.o. male who presents for routine preventive care.
+Feels well overall. Swims twice a week. Sleeping well.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Hypercholesterolemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy
+• Left inguinal hernia repair (2008)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 20 mg daily
+• multivitamin daily
+• ezetimibe 10 mg daily
+• lisinopril 10 mg daily
+• amlodipine 5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Works as a nurse.
+  EtOH: 1-2 beers/wk.
+  No illicit drug use.
+
+Family History
+Mother - HTN, DM2. No family hx of colon cancer.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 154/82 (BP Location: Left arm, Patient Position: Sitting) | Pulse 63 | Temp 97.5 °F (Oral) | Resp 16 | Ht 5' 10" | Wt 208 lb | SpO2 97% | BMI 29.81 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2021 - 2 tubular adenomas, repeat 5 yrs; Declines Shingrix; PCV20 given.
+2. HTN
+   Elevated today; home BP log requested.
+
+RTC 6 months.
+
+Electronically signed by Daniel Reyes, MD on 02/06/2023

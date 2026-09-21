@@ -1,0 +1,61 @@
+NURSE INTAKE NOTE
+Patient: George Torres (M) DOB: 06/18/1966 Age: 60
+Date of Service: 06/18/2026
+Visit type: New patient visit to establish care - Primary Care
+Vitals: BP 138/86 HR 78 RR 16 Temp 98.4F SpO2 94% RA Wt 198 lb Ht 5'10"
+Allergies: NKDA
+
+SOCIAL HISTORY (templated EHR block)
+Tobacco use: Current every day smoker
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: retired machinist
+Living situation: lives w/ spouse
+Exercise: Not on file
+Diet: Not on file
+
+HPI:
+Mr Torres is a 60 yo male presenting today to establish care w/ Dr Markovic. He reports chronic R knee pain and occassional SOB with exertion. No chest pain no fevers. He states he has been managing his COPD w/ albuterol inhaler as needed, refills needed today. Denies recent hospitalizations. Reports overall stable health, wants to review meds and get labs done.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/03/2019 (outside record, scanned) ----
+Pt seen for knee pain, xray obtained showed mild degenerative changes. Pt counseled re: weight loss and PT referral given. Pt reports occasional use of OTC NSAIDs for pain control, tolerates well no GI upset noted. Pt was advised to follow up with orthopedics if pain worsens. Social hx at that time notable for tobacco use, unchanged. Med list reviewed - lisinopril, atorvastatin. Pt denied SOB at that visit (different from current presentation, note discrepancy).
+---- END COPIED FORWARD TEXT ----
+
+ROS: Constitutional - denies fever chills wt loss. Resp - + occasional dyspnea on exertion, denies cough hemoptysis. Cardiac - denies chest pain palpitations edema. MSK - + R knee pain, denies swelling redness. All other systems reviewed and negative.
+
+PMH:
+Problem List:
+1. Osteoarthritis, unspecified site - M19.90
+2. Chronic obstructive pulmonary disease, unspecified - J44.9
+3. Essential hypertension - I10 (outdated entry, pt reports normal home readings now, may need reconciliation)
+4. Tobacco use disorder - Z72.0
+
+Medications:
+- Albuterol HFA inhaler 90mcg 2 puffs q4-6h prn
+- Lisinopril 10mg daily
+- Atorvastatin 20mg daily
+- Acetaminophen 500mg prn knee pain
+
+Physical Exam:
+General: well appearing, NAD
+HEENT: nl
+CV: RRR no m/r/g
+Resp: mild expiratory wheeze bilat, no accessory muscle use, no crackles
+MSK: R knee w/ crepitus, mild tenderness medial joint line, no effusion, ROM limited by pain
+Skin: nl
+Neuro: grossly intact
+
+Labs ordered: CBC, CMP, lipid panel, HbA1c
+
+ASSESSMENT/PLAN (Dr Elena Markovic):
+60 yo male new to practice, established care today, date of service 06/18/2026.
+1. COPD - pt has smoked for 45 years and continues to smoke despite counseling on multiple occasions including today. Discussed tobacco cessation resources, nicotine replacement options, and referral to quitline. Will continue albuterol prn, consider adding maintenance inhaler pending spirometry results. Ordered spirometry to further characterize severity. Lung cancer screening was discussed with patient as part of overall risk reduction conversation.
+2. Osteoarthritis, right knee - continue acetaminophen, recommend PT referral, follow up in 4-6 wks or sooner if worsening.
+3. HTN - appears controlled per pt report of home readings, will recheck BP today's reading 138/86, continue current lisinopril dose, recheck at next visit.
+4. Health maintenance - labs ordered as above, UTD on immunizations per pt report, will verify.
+5. Tobacco use disorder - counseled extensively regarding cessation, pt verbalizes understanding but not ready to quit at this time, will continue to address at future visits.
+
+Return to clinic in 4-6 weeks or sooner if symptoms worsen. Pt verbalizes understanding of plan and agrees to follow up.
+
+Elena Markovic, MD

@@ -1,0 +1,42 @@
+Cardiology Clinic Note
+Date of Service: 10/19/23
+Patient: Evelyn Carter   DOB: 5/1/1948   MRN: 69999096
+
+SUBJECTIVE:
+CC: CHF follow-up
+HPI: Ms. Carter is a 75 y.o. female with a history of CAD, depression, CHF, and CKD3 who presents for heart failure follow-up. Weight down 2 lbs. Mild orthopnea, 2 pillows. No LE edema. Last echo July 19, 2023: EF 26%.
+
+PMH:
+- Depression
+- HFrEF
+- Coronary artery disease
+- CKD stage 3
+Meds: carvedilol 12.5 mg BID; furosemide 40 mg daily; sacubitril-valsartan 49/51 mg BID; sertraline 50 mg daily; metoprolol succinate 50 mg daily; aspirin 81 mg daily
+Allergies: Penicillin (rash)
+SH: Lives in assisted living. She continues to smoke and has a 30-pack-year smoking history. EtOH: 2-3 drinks on weekends.
+FH: Mother - breast cancer at 70.
+ROS: CV neg, Gen neg, Resp neg, Skin neg, Neuro neg, GU neg, MSK neg
+
+OBJECTIVE:
+Vitals: BP: 137/73  HR: 81  RR: 12  Temp: 98.7 F  SpO2: 95% on RA  Wt: 137 lbs  BMI: 25.1
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Fine bibasilar crackles
+  Abd: Soft, NT/ND, +BS
+  Ext: Trace bilateral ankle edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Heart failure
+   - Stable; continue current regimen, daily weights.
+2. CKD stage 3: Monitor BMP q6 months.
+3. Tobacco use: Counseled on cessation for 5 min. She is in the precontemplation stage. Referred to quitline (1-800-QUIT-NOW).
+
+RTC 1 month.
+
+Seen and discussed with resident Dr. Wilson. I personally saw and examined the patient and agree with the findings and plan as documented.
+Farah Siddiqui, MD

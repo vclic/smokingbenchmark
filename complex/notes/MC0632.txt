@@ -1,0 +1,41 @@
+TELEHEALTH ENCOUNTER - Urgent Care
+Author: Kevin Osei, MD
+DOS: 12/08/2023
+
+Patient: Luis Baker, M, DOB 11/15/1965, age 58 y/o
+
+CC: cough x5 days, no fever, some SOB w exertion, denies chest pain per pt (audio choppy at times, [inaudible] portion re: sputum color).
+
+HPI: 58 y/o M w hx T2DM, OSA, BPH, HFrEF presents via video visit c/o productive cough, worse at nite, using CPAP nightly per report although compliance data not avail today. No fevers/chills. Denies travel. Pt states he 'just cant shake this cough doc' - reviewed home O2 sat readings pt provided verbally, 94-96% RA.
+
+ROS: Constitutional: no fever, no weight loss. Resp: + cough, denies hemoptysis. CV: no chest pain, + occasional palpitations old baseline per pt. GI: no n/v/d. GU: nocturia stable, followed by urology for BPH. MSK: no jt pain. Neuro: no focal deficits. Psych: mood stable. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+  - Pack-year history: 22 pack-years
+  - Type: cigarettes
+  - Counseling provided: Yes, advised to quit today
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+
+[Copied forward from note dated 11/8/2020]: "Tobacco: current smoker, continues to use tobacco." (no quantities documented in that prior note)
+
+Assessment: Pt continues to smoke despite counseling on multiple visits including today's visit.
+
+PHYSICAL EXAM (templated): Gen: NAD, sitting comfortably per video. HEENT: unable to fully assess via telehealth. Neck: no JVD appreciated on cam. Lungs: pt reports mild wheeze, auscultation limited by tele format. CV: reg rate per pt report, no edema noted on visualized lower extrem. Abd: soft nontender per pt. Ext: no edema visualized. Skin: no rash noted.
+
+MEDICATIONS: Metformin 1000mg BID, Empagliflozin 10mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Furosemide 20mg daily, Tamsulosin 0.4mg qhs, Atorvastatin 40mg qhs, Aspirin 81mg daily, CPAP nightly.
+
+LABS/RESULTS: BNP 11/02/2023: 410 (elevated, baseline). HbA1c 10/15/2023: 7.4%. BMP 11/02/2023 WNL except K 4.9. CXR ordered today, pending.
+
+A/P:
+1. Acute cough - likely bronchitis vs early CHF exac, will monitor, f/u if worsens or fever develops.
+2. Tobacco use disorder - continues to smoke despite counseling; discussed cessation resources, lung cancer screening was discussed generally with pt.
+3. HFrEF - stable, continue current regimen.
+4. T2DM - stable on current meds.
+5. OSA - continue CPAP.
+6. BPH - stable, f/u urology as scheduled.
+
+RTC prn or sooner if symptoms worsen. Pt verbalized understanding.

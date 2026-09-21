@@ -1,0 +1,67 @@
+TELEHEALTH VISIT NOTE
+Patient: Linda Smith
+DOB: 08/15/1970 (age 53)
+Date of Service: 11/17/2023
+Provider: Hannah Weiss, NP - Internal Medicine
+Visit type: Pre-op eval for R total knee arthroplasty, telehealth
+
+CC: Pre-op clearance eval for knee replacement, ortho referral (Dr. Patel)
+
+HPI: Pt is a 53 yo F w/ hx OSA, HTN, BPH here for pre-op eval prior to TKA scheduled next mo. Reports chronic R knee pain, worsening over past yr, limiting ambulation. No CP, no SOB at rest. Uses CPAP nightly, compliance per home report ~6hrs/night. BP well controlled on current regimen. No new urinary sx.
+
+PMHX / PROBLEM LIST (ICD-10):
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension
+- N40.0 BPH w/o LUTS
+- M17.11 Unilateral primary OA, right knee
+- E78.5 Hyperlipidemia (dc'd 2019, incl for hx)
+- J45.909 Asthma (outdated - pt states resolved since childhood, kept on list from old chart)
+
+Social Hx: Denies EtOH excess, no illicit drug use. Tobacco - pt tried a few cigarettes as a teenager but never smoked regularly since; denies current use, denies vaping. Lives w/ spouse, retired schoolteacher.
+
+ROS: (per template, all systems reviewed)
+Constitutional: no fever, chills, wt loss
+HEENT: no vision changes, no hearing loss
+CV: no CP, no palpitations, no edema
+Resp: no cough, no dyspnea, no wheeze
+GI: no N/V/D, no abd pain
+GU: nocturia x1, no dysuria, no hematuria
+MSK: R knee pain as above, no other joint c/o
+Neuro: no HA, no focal weakness, no numbness
+Skin: no rash
+Psych: no depression/anxiety sx endorsed
+
+Meds:
+Lisinopril 20mg qd
+HCTZ 12.5mg qd
+Tamsulosin 0.4mg qhs
+Finasteride 5mg qd
+Atorvastatin 20mg qd (may d/c per pcp d/t hx above)
+Melatonin 3mg qhs prn
+Ibuprofen 400mg prn knee pain
+Calcium/Vit D supplement daily
+
+Allergies: NKDA
+
+Physical Exam (per virtual limitations, self-reported vitals via home cuff):
+Vitals: BP 128/78, HR 72, RR 14, Wt 168lb, home pulse ox 97% RA
+Gen: well-appearing, NAD, conversing normally via video
+HEENT: atraumatic, no jvd noted on cam
+CV: reports no palpable irregularities, denies chest discomfort on exertion
+Resp: no visible increased WOB, denies cough during call
+Ext: pt demonstrates R knee w/ visible mild effusion on cam, ambulates w/ antalgic gait per pt report, no calf tenderness reported
+Skin: no obvious lesions visualized
+
+Assessment/Plan:
+1. Pre-op eval for TKA - cardiopulm risk appears low based on hx, no smoking hx of significance (see soc hx above), OSA controlled on CPAP - recommend continue CPAP peri-op, consider anesthesia consult given OSA dx. Cleared from IM standpoint pending labs/EKG.
+2. HTN - well controlled, cont current regimen, recheck BP day of surgery.
+3. BPH - stable on tamsulosin/finasteride, no urinary retention concerns currently, continue meds through peri-op period per urology guidance.
+4. OSA - reinforce CPAP compliance, bring machine to hospital day of surgery.
+5. Labs ordered: CBC, BMP, coag panel, EKG prior to surgical date.
+6. F/u after labs resulted, RTC or telehealth prn.
+
+Discussed general health maintenance incl age-appropriate cancer screening topics briefly during visit; pt to follow up w/ PCP for routine screening discussions as applicable.
+
+Time spent: 20 min telehealth encounter, counseling >50% of visit time re: peri-op planning and CPAP use.
+
+Electronically signed: Hannah Weiss, NP 11/17/2023

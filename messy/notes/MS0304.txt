@@ -1,0 +1,51 @@
+FAMILY MEDICINE PROGRESS NOTE
+Date of Service: 05/06/2026
+Patient: Wayne Chen, M, DOB 05/06/1956 (age 70)
+Provider: Michael Dunn, DO
+
+HPI:
+Pt presents for annual wellness visit. He is 70 y.o male with hx of CKD stage 3, obesity, depression and osteoarthritis, here for routine follow-up. No acute complaints today. He reports mood stable on current regimen, denies chest pain, dyspnea, hematuria or edema. Reviewed prior labs, CKD stable per pt. He notes he quit smoking cigarettes years ago and has not resumed; also mentions he quit drinking alcohol in 2008 and has remained sober since.
+
+---- COPIED FORWARD FROM VISIT 04/12/2019 ----
+Pt seen for f/u of HTN and OA. Reports knee pain worse w/ stairs, using acetaminophen PRN. Denies fall's. Wt stable. Diet reviewed, advised low salt intake. Social hx reviewed at that time - pt reported occasional alcohol use, tobacco status noted as former smoker. Plan: continue current meds, f/u 6 mo, recheck BMP. (Note: this block retained in chart from prior encounter and may not reflect current status.)
+---- END COPIED BLOCK ----
+
+SOCIAL HISTORY:
+Tobacco: Former smoker. Tobacco EHR template auto-populated as follows -
+Packs/day: 0.25
+Years: 32.00
+Pt confirms he quit smoking at age 47 and has not restarted since that time.
+Alcohol: quit drinking alcohol in 2008, denies current use.
+Drug use: denies illicit drug use.
+Occupation: retired.
+
+ROS: Constitutional - no fever, no weight loss. Cardiac - no CP/palp. Resp - no cough, no SOB. GU - no dysuria. Psych - mood stable, sleep adequate. MSK - chronic knee pain, unchanged.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Wt 224 lb, BMI 34.2
+Gen: well-appearing, NAD
+CV: RRR, no m/r/g
+Resp: CTAB
+Abd: soft, NT/ND
+Ext: no edema, OA changes noted in bilateral knees, crepitus present
+Psych: appropriate affect, mood euthymic
+
+LABS REVIEWED:
+Cr 1.4, eGFR 52, K 4.5, HbA1c 5.9%
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable, continue current management, recheck BMP in 6 mo.
+2. Obesity - counseled on diet/exercise, discussed weight management resources.
+3. Depression - stable on current tx, continue monitoring, no meds changes today.
+4. Osteoarthritis - continue acetaminophen PRN, consider PT referral if worsens.
+5. Tobacco use - patient has quit smoking; reviewed tobacco history per template (Packs/day: 0.25, Years: 32.00) documneted in chart; continue to reinforce abstinence.
+6. Alcohol - quit in 2008, no current concerns.
+7. Health maintenance - immunizations reviewed, colon cancer screening up to date.
+
+Follow up in 6 months or sooner if needed.
+
+Michael Dunn, DO
+
+--- ADDENDUM 05/06/2026 16:42 ---
+Addendum: Clarifying social hx documentation - pt again confirms he is a former smoker, quit smoking at age 47, and has remained abstinent since. Tobacco use template values unchanged (Packs/day: 0.25, Years: 32.00). No other changes to today's note. Alcohol history unchanged, quit 2008.
+Michael Dunn, DO

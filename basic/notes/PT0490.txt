@@ -1,0 +1,84 @@
+Adult Medicine Clinic Note
+
+Patient: RIVERA, Donald    MRN: 17336776
+DOB: 12/30/1943    Age: 79 y.o.    Sex: Male
+Date of Service: 08/31/2023    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Donald Rivera is a 79 y.o. male who presents for diabetes follow-up.
+Most recent A1c 8.0% (previously 8.5% in February 2023). Rarely checks glucose at home. One episode of shakiness relieved with juice. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis
+• Type 2 diabetes mellitus	1981
+• CAD	2016
+• Hypercholesterolemia
+• Paroxysmal atrial fibrillation
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (1982)
+• Lumbar laminectomy (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diltiazem ER 120 mg daily
+• empagliflozin 10 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• ezetimibe 10 mg daily
+• clopidogrel 75 mg daily
+• rosuvastatin 20 mg daily
+• rivaroxaban 20 mg daily
+• metformin 1000 mg BID
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives in assisted living.
+  Retired, former teacher.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+No family hx of colon cancer. Father - stroke.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 137/69 (BP Location: Left arm, Patient Position: Sitting) | Pulse 63 | Temp 97.8 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 148 lb | SpO2 98% | BMI 23.24 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (8/1/2023): A1c 8.0%, LDL 90, Cr 1.03, K 4.2
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.0% - above goal; start semaglutide 0.25 mg weekly. Foot exam today - monofilament intact.
+2. CAD
+   Stable. Continue secondary prevention.
+3. Hypercholesterolemia
+   LDL at goal on last check; continue.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Quentin Hale, PA-C on 08/31/2023

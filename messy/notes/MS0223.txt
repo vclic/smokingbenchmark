@@ -1,0 +1,96 @@
+TELEHEALTH VISIT NOTE
+Patient: Nancy Scott (F) DOB: 2/11/1953 (Age: 71)
+Date of Service: 02/11/2024
+Provider: Teresa Alvarez, NP - Geriatrics
+Visit Type: Telehealth geriatric assessment
+
+CHIEF COMPLAINT: Annual geriatric wellness check, medication review.
+
+HPI:
+Ms. Scott is a 71-year-old woman with h/o hyperlipidemia and depression seen today via video for routine geriatric assessment. She states, "I've been feeling pretty good, just tired some days." She reports mood is stable on current regimen, denies SI/HI. She notes, "I sleep okay, maybe six hours a night." No new complaints of chest pain, dyspnea, or cough today. She lives independently, ambulates without assistive device, and reports no falls.
+
+---COPIED FORWARD FROM PRIOR VISIT 08/14/2023---
+Pt seen for follow up of hyperlipidemia and depression. Pt reports doing well overall. Denies chest pain, SOB, palpitations. Appetite good, sleep fair. Continues sertraline 100mg daily with good effect. Denies suicidal ideation. Exercise: short walks around neighborhood 3x/week. Diet: reports trying to reduce fried foods. Labs reviewed from 07/2023, stable. Plan: continue current meds, follow up in 6 months, recheck lipid panel at next visit.
+---END COPIED TEXT---
+
+SOCIAL HISTORY / TOBACCO:
+TOBACCO USE ASSESSMENT (templated):
+ Current smoker: No
+ Former smoker: Yes
+ Smoking status: Former smoker, quit
+ Amount: 2-3 packs per day
+ Duration: 38 years
+ Type: Cigarettes
+ Counseling provided: Tobacco cessation maintenance counseling given, encouraged continued abstinence.
+Alcohol: denies. Drug use: denies. Lives with spouse.
+
+PAST MEDICAL HISTORY:
+- Hyperlipidemia
+- Depression
+- Osteoarthritis (knees)
+- GERD
+
+MEDICATIONS:
+1. Atorvastatin 20mg PO qHS
+2. Sertraline 100mg PO daily
+3. Omeprazole 20mg PO daily
+4. Acetaminophen 500mg PO PRN pain
+5. Calcium/Vitamin D supplement daily
+6. Multivitamin daily
+7. Docusate sodium 100mg PO daily PRN constipation
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS (templated, all systems reviewed):
+Constitutional: denies fever, chills, weight loss.
+Eyes: denies vision changes.
+ENT: denies hearing loss, sore throat.
+Cardiovascular: denies chest pain, palpitations, edema.
+Respiratory: denies cough, wheeze, dyspnea on exertion.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, frequency, incontinence.
+Musculoskeletal: chronic knee discomfort, stable, no new joint pain.
+Skin: denies rash, lesions.
+Neuro: denies headache, dizziness, numbness, tingling.
+Psychiatric: mood stable, denies SI/HI, denies anxiety symptoms beyond baseline.
+Endocrine: denies polyuria, polydipsia.
+Heme/Lymph: denies easy bruising, bleeding.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM (limited via telehealth, patient self-reported vitals from home device):
+Vitals: BP 128/76, HR 72, Temp 98.4F (reported), Wt 152 lbs (reported)
+General: Alert, well-appearing, no acute distress, appropriate historian.
+HEENT: Normocephalic, atraumatic per visual inspection.
+CV: Unable to auscultate via telehealth; patient denies symptoms.
+Resp: No visible respiratory distress, no use of accessory muscles observed.
+MSK: Able to move all extremities, gait not formally assessed via video.
+Skin: No visible rashes or lesions on exposed areas.
+Psych: Mood congruent affect, cooperative, appropriate.
+
+LABS/RESULTS:
+Lipid panel 01/22/2024:
+ Total cholesterol: 178 mg/dL
+ LDL: 96 mg/dL
+ HDL: 52 mg/dL
+ Triglycerides: 140 mg/dL
+CMP 01/22/2024: within normal limits, Cr 0.9, eGFR >60
+TSH 01/22/2024: 2.1 uIU/mL (WNL)
+HbA1c 01/22/2024: 5.6%
+
+ASSESSMENT:
+1. Hyperlipidemia - controlled on atorvastatin, lipid panel stable.
+2. Depression - stable on sertraline, no acute concerns today.
+3. Tobacco use, former - counseled on continued abstinence; discussed general age-appropriate cancer screening topics including lung imaging discussion deferred to PCP.
+4. Age-related health maintenance.
+
+PLAN:
+- Continue atorvastatin 20mg qHS.
+- Continue sertraline 100mg daily, reassess mood at next visit.
+- Encouraged continued smoking abstinence, provided resources for support if needed.
+- Recheck lipid panel in 6 months.
+- Continue routine health maintenance, vaccines up to date per chart.
+- Follow up in 3 months or sooner if concerns.
+- Pt verbalized understanding and agreement with plan.
+
+Electronically signed: Teresa Alvarez, NP
+Date/time of note: 02/11/2024

@@ -1,0 +1,55 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Paula Clark  DOB: 3/13/1973 (age 51)
+Date of Service: 09/23/2024
+Author: Steven Park, MD
+
+RE: Ongoing management of heart failure
+
+Dear Dr. Referring Physician,
+
+Thank u for referring Ms Clark, a 51 year old woman, for follow up of her heart failure. I saw her today, 09/23/2024, in clinic for reassessment of symptoms and medication titration.
+
+HPI: Ms Clark reports she has been feeling generally stable since her last visit, w/ occasional dyspnea on exertion when climbing more then one flight of stairs, no orthopnea, no PND. She denies chest pain, palpitations, or syncope. She continues to smoke 2.5 packs per day of cigarettes and states she has not attempted to cut back recently; she was counseled again today on the importance of smoking cessation given her cardiovascular and peripheral artery disease risk. She takes her lasix most days but admits to occasionally forgetting the evening dose [inaudible] when her schedule is busy. Diet has been reasonably low sodium per her report, though she admits to eating out several times a week and not always checking sodium content. She also endorses fatigue that she attributes to poor sleep, and her mood has been "up and down" which she attributes to ongoing depression, currently followed by her PCP.
+
+---- Copied forward from visit dated 03/11/2024 ----
+Patient is a pleasant woman with history of type 2 diabetes, GERD, depression, BPH, and peripheral artery disease who presents for routine follow up. At that time she reported mild claudication symptoms in her calves with ambulation of approximately two blocks, relieved with rest. ABI was ordered and pending at that visit. She was continued on her home regimen of metformin, omeprazole, sertraline, tamsulosin, and aspirin. Blood pressure was 138/84, heart rate 78 and regular. Lungs were clear to auscultation bilaterally, no lower extremity edema noted. Labs at that time showed A1c of 7.4%, creatinine 1.1, potassium 4.2. Plan at that visit was to continue current medications, recheck labs in 3 months, and follow up with vascular surgery regarding claudication symptoms. Patient was again counseled regarding smoking cessation at that visit as well and reported ongoing tobacco use.
+----------------------------------------------------
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary, limited by claudication
+
+Review of Systems: Positive for fatigue, dyspnea on exertion, occasional lower extremity cramping with walking. Negative for fever, chills, chest pain, syncope, hemoptysis, hematuria.
+
+Medications: Furosemide 40mg daily, metoprolol succinate 50mg daily, lisinopril 10mg daily, metformin 1000mg twice daily, omeprazole 20mg daily, sertraline 100mg daily, tamsulosin 0.4mg daily, aspirin 81mg daily.
+
+Physical Exam:
+Vitals: BP 136/82, HR 74 regular, RR 16, SpO2 97% on room air, weight stable from last visit.
+General: Well-appearing woman in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs or gallops appreciated, JVP not elevated.
+Pulmonary: Lungs clear to auscultation bilaterally, no wheezes, rales or rhonchi.
+Extremities: No lower extremity edema, distal pulses diminished bilaterally consistent with known PAD, no ulcerations noted.
+Skin: Warm and dry, no cyanosis.
+
+Labs reviewed today: BNP mildly elevated at 210, potassium 4.1, creatinine 1.0, A1c pending.
+
+Assessment and Plan:
+1. Heart failure - clinically stable today, continue current diuretic and beta-blocker regimen, will trend BNP.
+2. Peripheral artery disease - continued smoking is a significant risk factor for progression of PAD and for cardiovascular events in general; the patient currently smokes cigarettes and was again strongly encouraged to consider cessation, nicotine replacement or referral to a tobacco cessation program was discussed with the patient, she was not interested in pharmacologic cessation aids today but agreed to think about it.
+3. Type 2 diabetes - continue metformin, will follow up with endocrinology as scheduled, A1c pending from today's labs.
+4. GERD - continue omeprazole, no new symptoms reported today.
+5. Depression - stable per patient report, continue sertraline, followed by PCP.
+6. BPH - continue tamsulosin, no new urinary symptoms.
+
+We discussed lung cancer screening in general terms given her smoking history, though this is best coordinated with her primary care physician going forward.
+
+Will see back in 3 months or sooner if symptoms worsen. Thank you again for this interesting referral, please do not hesitate to reach out with any questions.
+
+Sincerely,
+Steven Park, MD
+Cardiology

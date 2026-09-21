@@ -1,0 +1,51 @@
+Cardiology Progress Note
+DOS: 05/16/2026
+Author: Daniel Reyes, MD
+
+Pt: David Flores, M, DOB 05/16/1955 (age 71)
+
+CC: HF follow up
+
+HPI: 71 yo M w/ hx HTN, OA presents for routine HF f/u. Reports doing fairly well, no new orthopnea, PND neg, mild ankle edema noted by pt end of day. Denies chest pain, palpitations. Compliant w/ meds per pt report. Diet mod ongoing, still working on Na restriction, admits occasional slip w takeout food. No recent hospitalizations since last visit. Wt stable per pt, will confirm on scale today.
+
+ROS: + fatigue mild, - fevers, - cough, - PND, - syncope. Otherwise neg per template.
+
+SOCIAL HX / TOBACCO BLOCK (EHR templated):
+Tobacco use status: Former smoker
+Pack-year history: 13 pack-years
+Quit status: Quit smoking
+Quit interval: Quit smoking approx 15 years ago (relative to today's visit)
+Alcohol: occasional, denies illicit drug use
+
+PMH: Hypertension, Osteoarthritis, Heart failure (HFrEF per prior echo)
+
+Meds: Lisinopril 20mg daily, Carvedilol 12.5mg BID, Furosemide 40mg daily, Spironolactone 25mg daily, acetaminophen prn for OA pain
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 72 reg, RR 16, Wt 84.2kg (up 0.6kg from last visit 03/20/2026), SpO2 97% RA
+
+Exam: Gen - NAD, well appearing elderly male. CV: RRR, no murmur appreciated, JVP mildly elevated ~8cm. Lungs: bibasilar crackles trace, no wheeze. Ext: 1+ pitting edema b/l ankles. MSK: mild crepitus b/l knees c/w known OA, no acute synovitis.
+
+Labs/Results:
+- BNP 05/14/2026: 310 pg/mL (prior 04/10/2026: 275 pg/mL)
+- BMP 05/14/2026: Na 138, K 4.3, Cr 1.1, eGFR 68
+- Echo 02/2026: EF 38%, mild LV dilation, no significant valvular disease
+- Lipid panel 01/2026: LDL 92, HDL 44, TG 150
+
+Assessment: 71 yo M with chronic HFrEF, HTN, OA, presenting for routine f/u. Mild volume overload noted on exam today (slight wt gain, trace edema, mildly elevated BNP trend). Overall stable but will adjust diuretic slightly.
+
+Tobacco: Former smoker, 13 pack-year hx, quit smoking approx 15 yrs ago per pt report—counseled on continued avoidance and importance of maintaining smoke free status given underlying cardiac dz. General discussion had w pt re past tobacco use and its relevance to overall health; deferred further conversation to PCP as appropriate.
+
+Plan:
+1. Increase furosemide to 40mg daily plus extra 20mg PRN wt gain >1kg over 2 days, pt educated re daily weights
+2. Continue lisinopril, carvedilol, spironolactone at current doses
+3. Recheck BMP in 1-2 wks given diuretic adjustment
+4. Na restriction reinforced, referred to nutrition again
+5. Continue OA mgmt w acetaminophen, consider topical NSAID if needed, ortho f/u prn
+6. F/u in cardiology clinic 8-10 wks or sooner if sx worsen
+7. Reinforce tobacco free status, congratulated pt on maintaining cessation
+
+Pt verbalizes understanding, agreeable w plan. Will call if wt increases or sx worsen. Time spent w pt 25 min, >50% counseling/coordination of care.
+
+Daniel Reyes, MD

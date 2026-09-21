@@ -1,0 +1,71 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 03/02/2024
+Author: Michael Dunn, DO (NP progress note co-signed)
+
+Patient: Mary Powell | DOB: 03/02/1969 | Age: 55 | Sex: F
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Ms. Powell presents today, on her 55th birthday, for routine follow-up of her heart failure. She reports mild dyspnea on exertion, unchanged from prior visit, denies orthopnea or PND. No recent weight gain, no lower extremity edema noted this visit. She continues to follow low-sodium diet with variable adherence. She denies chest pain, palpitations resolved on current rate control regimen for atrial fibrillation. Mood has been stable, continues with psychiatry for depression management.
+
+--- COPIED FORWARD FROM VISIT 09/14/2023 ---
+Patient with history of NYHA class II HF, EF 40% on last echo, PAD s/p claudication workup, on antiplatelet therapy. Denies rest pain, denies non-healing ulcers. ROS otherwise negative for fevers, chills, night sweats. Denies hemoptysis. Continues aspirin, atorvastatin, metoprolol succinate, apixaban, sertraline, furosemide as needed. Follow-up in 6 months or sooner if symptoms worsen. Vitals at that visit: BP 128/78, HR 72, RR 16, SpO2 97% RA, Wt 168 lb.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY: Lives with husband, retired schoolteacher. Denies alcohol use. Never smoked cigarettes; no tobacco use history of any kind. No illicit drug use. Exercise tolerance limited by fatigue but attempts short daily walks.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Reports occasional palpitations, no syncope.
+Respiratory: Denies cough, wheeze, hemoptysis.
+GI: Denies nausea, vomiting, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Denies joint pain, swelling.
+Neuro: Denies headache, dizziness, focal weakness.
+Psych: Reports mood stable, denies SI/HI.
+Skin: Denies rashes, non-healing wounds.
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate ER 50 mg PO daily
+3. Furosemide 20 mg PO daily PRN edema
+4. Atorvastatin 40 mg PO qHS
+5. Aspirin 81 mg PO daily
+6. Sertraline 100 mg PO daily
+7. Cilostazol 100 mg PO BID
+8. Multivitamin daily
+
+PHYSICAL EXAM:
+Vitals: BP 122/76, HR 68, RR 16, SpO2 98% RA, Wt 165 lb, Ht 5'5"
+General: Well-appearing, no acute distress.
+Cardiovascular: Irregularly irregular rhythm, no murmurs/gallops/rubs. No JVD.
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales.
+Extremities: No edema, pulses diminished bilaterally in lower extremities but symmetric, no ulcers.
+Skin: Warm, dry, intact.
+Psych: Mood euthymic, affect appropriate.
+
+PROBLEM LIST:
+- I50.22 Chronic systolic (congestive) heart failure
+- I48.91 Atrial fibrillation, unspecified
+- I73.9 Peripheral vascular disease, unspecified (PAD)
+- F32.9 Major depressive disorder, single episode, unspecified (outdated coding, on maintenance sertraline)
+- E78.5 Hyperlipidemia (outdated, no active statin titration needed)
+- I10 Essential hypertension (outdated, well-controlled)
+
+ASSESSMENT/PLAN:
+55-year-old female, DOB 3/2/1969, with history of systolic heart failure, atrial fibrillation, PAD, and depression, presenting for HF follow-up on 03/02/2024.
+
+1. Heart failure: Clinically stable, euvolemic on exam. Continue current diuretic and beta-blocker regimen. Will obtain BNP and BMP today. Reinforce sodium restriction.
+2. Atrial fibrillation: Rate controlled, continue apixaban for anticoagulation, continue metoprolol.
+3. PAD: Stable, continue cilostazol and aspirin, reinforce smoking cessation counseling not applicable as patient has never smoked cigarettes; encourage supervised walking program.
+4. Depression: Stable on sertraline, continue current dose, follow with psychiatry.
+5. Health maintenance: Discussed general lung health and screening topics given cardiovascular risk profile discussion; no imaging ordered today. Immunizations up to date per chart review.
+
+Return to clinic in 3 months or sooner as needed. Patient verbalizes understanding of plan.
+
+Michael Dunn, DO
+
+--- ADDENDUM (same day, later) ---
+Addendum 03/02/2024 1620: Labs resulted - BNP mildly elevated at 210, BMP unremarkable, potassium 4.1. No medication changes at this time given clinical stability. Patient reiterated she never smoked cigarettes when asked to confirm social history during phone call regarding lab results. Will discuss further at next visit if symptoms change.
+-Michael Dunn, DO

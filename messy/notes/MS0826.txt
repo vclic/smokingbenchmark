@@ -1,0 +1,52 @@
+NURSE INTAKE NOTE
+DOS: 09/26/2025
+Patient: Terrence White DOB 5/2/1947 Age: 78 M
+
+CC: New patient visit to establish care.
+
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 191 lb, Ht 5'10", SpO2 94% RA.
+
+Pt seen for intake, hx obtained from pt and chart forward from prior clinic (records incomplete, some fields not on file). Pt reports he 'wanted to get set up with a regular doctor now that I'm retired and got more time to worry about my health, ha.' Speech at times run-on, some words unclear on dictation playback [inaudible].
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Cigarettes: 2.5 packs per day, started around age 19, quit at age 58
+Current status: Denies current use
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired (former machinist)
+Living situation: Lives alone
+Exercise: Not on file
+
+PMH reviewed with pt: osteoporosis, type 2 diabetes, gout, peripheral artery disease, COPD.
+
+PROGRESS NOTE - Laura Castellano, FNP-C
+
+HPI: Mr. White is a 78 y/o male here today too establish primary care, no regular doctor for several years per report. He describes intermittent joint pain c/w known gout, occasional leg cramping with walking c/w known PAD, and some shortness of breath on exertion which he attributes to his COPD - he says 'I get winded going up the stairs, more than I used too.' No chest pain, no hemoptysis, no fevers. He denies any new cough or sputum change. Diabetes reportedly managed with metformin, he thinks his sugars have been 'okay, not great' - will need recent labs, none on file in this system.
+
+Regarding tobacco: patient confirms he no longer smokes, he quit smoking approximately 20 years ago. Prior to quitting he had a long smoking history - he smoked 2.5 packs per day from age 19 until he quit at age 58. He states he has not touched a cigarette since and denies any e-cigarette or vaping use, denies chewing tobacco. He was congratulated on the quit and encouraged to remain smoke free given his COPD and PAD.
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Resp - as above, chronic dyspnea on exertion, denies acute change. CV - denies chest pain, denies palpitations, does note claudication-type leg pain with ambulation (known PAD). GI - denies nausea, vomiting, diarrhea. GU - denies dysuria. MSK - joint pain as above, worse in the great toe intermittently c/w gout flares. Neuro - denies focal weakness, denies numbness. Skin - denies rash.
+
+Exam:
+General: Well-appearing elderly male, NAD, conversant, appropriate affect.
+HEENT: NC/AT, PERRL, oropharynx clear.
+Neck: no JVD, no thyromegaly.
+Lungs: Diminished breath sounds bilat bases, mild expiratory wheeze, no crackles, no accessory muscle use at rest.
+CV: RRR, no murmur appreciated, distal pulses diminished bilaterally in feet (consistent w/ known PAD), no edema.
+Abd: soft, NT, ND, nl bowel sounds.
+Ext: no acute joint swelling today, old bunion deformity noted at right first MTP, skin intact, no ulceration.
+Neuro: grossly intact, ambulates independently, steady gait today.
+
+Assessment/Plan:
+1. New patient establishing care, age 78 (DOB 5/2/1947), seen this DOS 09/26/2025 for intake and initial workup.
+2. COPD - stable by report today, on exam has mild wheeze; continue current inhalers (will reconcile - pt to bring bottles next visit), pulm function testing to be scheduled. Given significant remote tobacco history (2.5 packs/day x many years, quit at 58, now 20 yrs smoke-free) we discussed general lung health, and lung cancer screening was discussed as a topic to revisit once further history/records obtained; no imaging ordered today.
+3. Type 2 diabetes - will obtain A1c, BMP, lipid panel; continue metformin pending labs.
+4. Gout - reports intermittent flares, will check uric acid, continue prn NSAID as previously prescribed if renal function allows.
+5. Peripheral artery disease - exam c/w reduced distal pulses; ABI to be scheduled; continue antiplatelet if previously on one (pt unsure of current med list, to reconcile).
+6. Osteoporosis - will need DEXA if none recent, review calcium/vit D intake.
+7. Health maintenance - immunizations to be reviewed next visit, records requested from prior clinic.
+
+Pt verbalized understanding of plan, agreeable to f/u in 4 weeks or sooner if symptoms worsen. Return precautions given re: chest pain, worsening SOB, leg pain at rest.
+
+-- Laura Castellano, FNP-C

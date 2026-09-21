@@ -1,0 +1,39 @@
+Pulmonology H&P - Shared Decision Making Visit
+Date of Service: 12/13/2023
+Author: Isaac Moreno, PA-C
+
+Patient: Judith Walker, F, DOB 4/5/1958 (age 65)
+
+CC: Lung cancer screening discussion referred by PCP.
+
+HPI: Ms Walker is a pleasant 65 yo woman here today to discuss lung cancer screening options. She states "I just want to know if there's something I should be doing" regarding her lung health. Smoking hx reviewed in detail - pt started smoking 2 packs per day at age 16 and continued at that rate until quitting in 2006. She reports she moved to this state in 2004 and quit smoking 2 years after that move. She is a former smoker and denies any current tobacco use. She also notes "I haven't had a drink since I quit alcohol back in 2014." No current dyspnea at rest, occasional exertional SOB noted which she attributes to OA of the knees limiting activity. Denies hemoptysis, denies unintentional weight loss. Sleep reportedly improved on CPAP for OSA.
+
+ROS: Otherwise negative except as above; denies chest pain, fevers, chills.
+
+PMH/Problem List:
+- Osteoarthritis (M19.90)
+- Osteoporosis (M81.0)
+- Obstructive sleep apnea (G47.33) - on CPAP
+- Hypertension (I10)
+- Tobacco use disorder, former (Z87.891) - outdated entry, pt is former smoker not current, needs update
+
+Meds: Lisinopril 20mg daily, Alendronate 70mg weekly, Calcium/Vit D supplement, CPAP nightly
+
+Allergies: NKDA
+
+Social Hx: Former smoker as above. Denies current alcohol use, quit in 2014. Lives with spouse, retired schoolteacher.
+
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 158 lb, Ht 5'4"
+
+Exam: Gen - well appearing, NAD. Lungs - CTAB, no wheezes/rales/rhonchi. CV - RRR no m/r/g. Ext - no clubbing/cyanosis/edema, mild joint enlargement at bilateral knees consistent with known OA.
+
+Labs/Results:
+- CBC 11/28/2023: WNL
+- BMP 11/28/2023: Cr 0.8, eGFR >60
+- Lipid panel 09/15/2023: TC 190, LDL 110, HDL 55, TG 125
+- DEXA scan 06/2023: T-score -2.6 lumbar spine, consistent w known osteoporosis dx
+
+Assessment/Plan:
+65 yo former smoker here for SDM visit regarding lung cancer screening. Discussed risks/benefits of screening including false positives, incidental findings, radiation exposure. Pt verbalizes understanding. Screening eligibility criteria and options discussed at length; pt to think it over and follow up with PCP. Continue current management of OSA, HTN, osteoporosis, and OA per existing plans. F/u in 1 yr or sooner as needed.
+
+Electronically signed: Isaac Moreno, PA-C

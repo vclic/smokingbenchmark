@@ -1,0 +1,50 @@
+PROGRESS NOTE
+Date of Service: 01/23/2026
+Patient: Richard Wood   DOB: 9/22/1958   MRN: 62774892
+
+S:
+CC: Right shoulder pain
+HPI: Mr. Wood is a 67-year-old man with a history of HLD and depression who presents for right shoulder pain. Right shoulder pain for 7 months, worse with activity. No trauma. Ibuprofen with partial relief.
+
+PMH:
+- Major depressive disorder, recurrent, in remission
+- Hyperlipidemia
+PSH: Left inguinal hernia repair (2004)
+Meds: vitamin D3 2000 IU daily; simvastatin 20 mg nightly; sertraline 50 mg daily
+Allergies: Lisinopril (cough)
+Social History:
+- Lives with wife and adult son.
+- He is an ex-smoker with 48 pack-years of exposure; he quit cold turkey in 2023.
+- Social drinker.
+- No illicit drug use.
+FH: Sister - hypothyroidism. Father - MI at 74.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 135/63  HR: 92  RR: 18  Temp: 98.1 F  SpO2: 97% on RA  Wt: 222 lbs  BMI: 29.2
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+Labs (2026-01-06): LDL 108, Cr 0.81, K 4.6, Hgb 13.3
+
+ASSESSMENT/PLAN:
+1. Right shoulder pain: Rotator cuff tendinopathy. PT; subacromial injection offered.
+
+f/u 12 mo
+
+Owen Fitzgerald, MD

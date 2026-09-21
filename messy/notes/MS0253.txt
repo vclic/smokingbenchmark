@@ -1,0 +1,46 @@
+URGENT CARE - RACHEL GOLDBERG, MD
+Date of Service: 09/12/2024
+
+NURSE INTAKE:
+Pt: Wei O'Brien, M, DOB 9/5/1948 (age 76)
+CC: cough x5 days
+VS: T 98.2, HR 84, BP 138/82, RR 18, SpO2 94% RA
+Allergies: NKDA
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current every day smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: ___ (blank)
+Exercise: Not on file
+
+HPI (Dr. Goldberg):
+Mr. O'Brien is a 76-year-old man with history of coronary artery disease, CKD stage 3, and OSA who presents to urgent care today, 09/12/2024, with a 5-day history of nonproductive cough, mild dyspnea on exertion, and low-grade subjective fevers at home. He denies chest pain, hemoptysis, or significant weight loss. He reports a 41 pack-year smoking history. He continues to smoke despite repeated counseling at prior visits. No recent sick contacts. He has been taking his usual home medications including aspirin, atorvastatin, and lisinopril.
+
+---COPIED FORWARD FROM PRIOR VISIT 03/14/2023 (retained in chart, not updated)---
+Pt seen for routine follow-up of CAD/CKD. Denies chest pain, orthopnea, PND. Lower extremities without edema. Labs from that visit: Cr 1.4, eGFR 52, K 4.3, Hgb 13.9. Sleep study reviewed, CPAP compliance reported at 6 hrs/night average. Continue current meds, follow up in 6 months. Pt counseled extensively on cardiovascular risk reduction including diet, exercise, and tobacco cessation at that time. Pt reported he had previously quit smoking in 2009 but relapsed in 2011 and has continued smoking since. Plan discussed including statin optimization and renal diet referral. RTC PRN.
+---END COPIED TEXT---
+
+EXAM:
+General: NAD, mild cough noted during visit
+Lungs: scattered rhonchi bilaterally, no wheeze, no accessory muscle use
+CV: RRR, no m/r/g
+Ext: no edema
+
+LABS/RESULTS (today, 09/12/2024):
+CBC: WBC 9.8, Hgb 13.2, Plt 245
+BMP: Na 138, K 4.5, Cl 101, CO2 24, BUN 28, Cr 1.6, eGFR 45
+CXR (09/12/2024): No acute infiltrate, mild hyperinflation, no effusion
+Rapid flu/COVID: Negative
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis, likely viral - supportive care, hydration, antitussive PRN.
+2. CAD - stable, continue current regimen.
+3. CKD stage 3 - eGFR stable at 45 relative to baseline; continue monitoring.
+4. OSA - continue CPAP use, reinforce adherence.
+5. Tobacco use - continued smoking despite counseling; discussed cessation resources again today, including nicotine replacement options. Lung cancer screening was discussed in general terms.
+Follow up with PCP in 1-2 weeks or sooner if symptoms worsen.
+
+ADDENDUM (later same day, 09/12/2024, Dr. Goldberg):
+Spoke with patient by phone after CXR finalized by radiology; results reviewed with patient, no acute findings, reassured. Advised to continue supportive care and to seek care if fevers develop or dyspnea worsens. Prescription for guaifenesin called in to pharmacy per patient request.

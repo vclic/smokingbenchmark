@@ -1,0 +1,40 @@
+NURSE INTAKE
+DOS: 12/28/2024
+Patient: Robert Alexander, M, DOB 6/13/1962 (age 62)
+Visit type: Lung CA screening SDM visit, Pulm clinic
+
+VS: BP 128/78, HR 76, RR 16, SpO2 97% RA, Wt 198 lb
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: See note
+Smoking status: See HPI
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Alcohol use: occasional, pt reports 1-2 beers/wk
+Drug use: denies
+Occupation: retired electrician
+Living situation: lives w/ spouse
+
+---COPY-FORWARD FROM PRIOR VISIT 03/14/2022 (Cardiology f/u note, left in chart by error)---
+Pt here for routine HFrEF f/u. EF 35% on last echo, on carvedilol, lisinopril, spironolactone, furosemide prn. Denies chest pain, orthopnea improved since last visit. Denies edema. Continues sertraline for depression, reports mood stable, sleep fair. No SI/HI. Wt stable. Labs reviewed: BMP wnl, BNP improved from prior. Plan: cont current regimen, f/u 6 mo, echo in 1 yr.
+---END COPY-FORWARD---
+
+PHYSICIAN PROGRESS NOTE - F. Siddiqui, MD
+
+HPI: Mr. Alexander is a 62 yo M w/ hx HFrEF and depression referred for shared decision-making visit re: lung cancer screening. Pt states he is generally doing well, no new resp sx, no hemoptysis, no unintentional wt loss. He was asked directly about tobacco hx - he reports he tried a few cigarettes as a teenager but never smoked regularly, no sustained daily use at any point in his life. He denies any current or past significant smoking hx beyond that experimentation. No occupational exposures reported beyond electrician work (denies asbestos exposure specifically). No FHx lung cancer.
+
+ROS: Otherwise negative except as above. Cardiac and psych ROS deferred to respective specialists, pt reports stable on current regimens per his report today.
+
+Exam: Well-appearing, NAD. Lungs CTAB, no wheezes/rales/rhonchi. CV: RRR, no S3/S4 appreciated today. Ext: no edema. Affect appropriate, mood euthymic.
+
+Assessment/Plan:
+1. Lung cancer screening SDM - Given pt's reported smoking hx (only brief experimentation as a teen, never a regular smoker), discussed general risk factors for lung cancer and screening considerations in broad terms; pt appreciates the counseling. Further discussion deferred to future visits as needed.
+2. HFrEF - stable per pt report, continue cardiology-directed management, defer to cardiology for titration.
+3. Depression - stable on current psych regimen per pt report, continue as directed by psychiatry, will screen mood at each visit.
+4. Health maintenance - reviewed immunization status, encouraged continued physical activity as tolerated per cardiology clearance.
+
+RTC in 12 months or PRN.
+
+---ADDENDUM (same day, later, F. Siddiqui, MD)---
+Addendum 12/28/2024 1645: Spoke again w/ pt by phone after he called clinic w/ additional question re: today's discussion. Reiterated that he never smoked regularly (only a few cigarettes as a teenager), consistent with what was documented in today's visit dated 12/28/2024. No changes to plan above. Pt verbalized understanding.

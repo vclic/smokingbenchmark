@@ -1,0 +1,72 @@
+CARDIOLOGY H&P
+Patient: Frank Long | DOB: 01/28/1953 | Age: 71 | Sex: M
+Date of Service: 01/28/2024
+Author: Michael Dunn, DO
+
+CC: chest pain eval.
+
+HPI: 71 yo M w/ hx CAD, obesity, OSA, asthma, hypothyroidism p/w intermittent chest tightness x 2 wks. Pt states "it feels like pressure right in the middle of my chest, comes and goes, maybe 5-10 min at a time." Denies radiation to jaw, some mild L arm heaviness noted w/ exertion. No assoc diaphoresis, no N/V. Pt reports episodes worse w/ exertion (e.g., climbing stairs, walking to mailbox), improved w/ rest. Denies palpitations, syncope, presyncope. Reports some baseline dyspnea on exertion, attributed to obesity/OSA per pt. Uses CPAP nightly, states compliance is "pretty good, maybe I miss a night here or there." No fevers, chills, cough, orthopnea, or PND. No LE edema.
+
+Cardiac risk factors reviewed: HTN (well controlled per pt), hyperlipidemia, obesity, known CAD s/p PCI 2019 per records, FHx significant for father w/ MI at age 58.
+
+ROS: Otherwise negative except as above. Asthma sx stable, uses albuterol PRN maybe 1x/wk. Denies recent asthma exacerbation. No wheeze currently per pt.
+
+PMHx:
+- CAD, s/p PCI to LAD 2019
+- Obesity (BMI 34)
+- OSA on CPAP
+- Asthma, mild intermittent
+- Hypothyroidism, on levothyroxine
+
+PSHx: PCI 2019, appendectomy remote (childhood).
+
+Meds: Aspirin 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 50mg daily, lisinopril 10mg daily, levothyroxine 75mcg daily, albuterol HFA PRN, fish oil OTC.
+
+Allergies: NKDA.
+
+Social History: Married, lives with wife in single-story home in the suburbs, denies stairs as significant barrier at home. Retired postal worker, worked for USPS over 30 years prior to retirement 6 yrs ago, describes job as physically active. Alcohol use occasional, reports 1-2 drinks per week, denies binge pattern. Denies illicit drug use. Exercise limited by symptoms currently but at baseline tries to walk daily per pt.
+
+Family Hx: Father - MI at 58, deceased age 71 from cardiac causes. Mother - T2DM, HTN, deceased age 82. One sibling (brother) - HTN, alive.
+
+Vitals: BP 138/82, HR 68 reg, RR 16, Temp 98.2F, SpO2 96% RA, Wt 224 lb, Ht 5'9", BMI 33.1.
+
+Exam:
+Gen: NAD, obese habitus, conversant, appropriate.
+HEENT: NC/AT, no JVD appreciated.
+CV: RRR, no m/r/g, PMI not displaced, no heaves/thrills.
+Resp: CTAB, no wheeze/rales/rhonchi currently, breathing comfortably.
+Abd: obese, soft, NT/ND, +BS.
+Ext: no edema, pulses 2+ symmetric throughout, no cyanosis/clubbing.
+Skin: warm, dry, no rash.
+Neuro: A&Ox3, no focal deficits grossly.
+
+Labs/Results:
+01/28/2024 CBC: WBC 6.8, Hgb 14.2, Hct 42.1, Plt 210.
+01/28/2024 BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 104.
+01/28/2024 Troponin I: <0.01 ng/mL (neg).
+01/28/2024 TSH: 2.1 mIU/L (WNL, on levothyroxine).
+01/28/2024 Lipid panel: Total chol 158, LDL 82, HDL 44, Trig 160.
+01/28/2024 EKG: NSR, rate 68, no acute ST changes, unchanged from prior 2022 tracing on file.
+01/28/2024 CXR (portable): no acute cardiopulmonary process, lungs clear, no infiltrate/effusion, heart size top normal.
+Echo (last on file 2022): EF 55%, no significant valvular disease, mild diastolic dysfunction grade I.
+
+Assessment/Plan:
+71 yo M w/ known CAD s/p PCI 2019, obesity, OSA on CPAP, asthma, hypothyroidism, presenting w/ exertional chest tightness concerning for possible angina equivalent vs anginal recurrence.
+
+1. Chest pain / possible unstable angina vs stable angina pattern - troponin neg x1, EKG unremarkable, no acute changes. Will obtain repeat troponin in 3-6 hrs to complete r/o. Cardiology to consider stress testing outpatient (nuclear or echo stress) given exertional pattern of sx. Continue ASA 81mg, statin, beta blocker, ACEI as above. Pt counseled re: return precautions - if pain worsens, prolonged >20 min, assoc w/ diaphoresis/SOB/radiation, instructed to call 911 / go to ED immediately.
+
+2. CAD - continue current regimen, lipid panel reasonable at goal, will continue atorvastatin 40mg. F/u in cardiology clinic in 4-6 wks or sooner if sx recur/worsen.
+
+3. Obesity - BMI 33.1, discussed weight management, dietary counseling referral offered, pt reports interest.
+
+4. OSA - continue CPAP, encourage nightly compliance, will obtain updated sleep study data if available from pulm.
+
+5. Asthma - stable, continue albuterol PRN, no change at this time.
+
+6. Hypothyroidism - TSH WNL on current levothyroxine dose, continue.
+
+7. Health maintenance - lung cancer screening was discussed as a general preventive topic; further discussion deferred to PCP for individualized assessment. Immunizations reviewed and updated per PCP records. Pt encouraged re: routine age-appropriate cancer screenings with PCP.
+
+Disposition: Pt discharged home in stable condition after repeat troponin obtained and resulted neg. Instructed on return precautions as above. F/u scheduled with cardiology in 4-6 wks, sooner PRN. Will coordinate with PCP re: stress test scheduling and further risk stratification.
+
+Electronically signed: Michael Dunn, DO, Cardiology, 01/28/2024.

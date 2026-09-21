@@ -1,0 +1,80 @@
+GERIATRICS RESIDENT NOTE
+Date of Service: 01/31/2025
+Author: Michael Dunn, DO (resident); attending attestation follows
+
+Patient: Samuel Flores, M, DOB 01/31/1959 (age 66 today - visit falls on patient's birthday)
+
+CHIEF COMPLAINT: Geriatric assessment / annual comprehensive visit
+
+HPI:
+Mr. Flores is a 66-year-old male with history of gout, asthma, hypertension, and BPH who presents today for his annual geriatric assessment. He reports feeling generally well. He states, "I get around fine, just my knee acts up when it rains." He denies falls, denies new chest pain, denies dyspnea at rest. He states, "My breathing is better since I started using that inhaler regularly." No new urinary symptoms beyond his baseline nocturia x1. He reports good appetite and stable weight.
+
+***COPIED FORWARD FROM VISIT DATED 06/14/2023 (Dr. Anita Reyes, Internal Medicine) - left in chart for reference, not reviewed/updated this visit***
+Pt reports doing well overall. Gout flare last month involving left great toe, resolved with colchicine. Asthma well controlled on albuterol PRN, no rescue inhaler use in past month. BP at goal on current regimen. BPH symptoms stable, on tamsulosin, denies urinary retention. Pt ambulates independently, no assistive device. Vaccinations UTD per last review. Pt lives alone, daughter checks in weekly. No acute issues today. Plan: continue current meds, follow up in 6 months, labs ordered including BMP, lipid panel, PSA.
+***END COPIED TEXT***
+
+Today, on reassessment, Mr. Flores says his gout has been quiet with no flares in several months. He continues on allopurinol. Asthma remains well controlled with only occasional albuterol use, no nighttime awakenings. Blood pressure has been running slightly elevated at home per his log. BPH symptoms are stable per his report, nocturia unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (with ICD-10 codes):
+1. Gout - M10.9 (active)
+2. Asthma, unspecified - J45.909 (active)
+3. Essential hypertension - I10 (active)
+4. Benign prostatic hyperplasia - N40.0 (active)
+5. Osteoarthritis, unspecified site - M19.90 (outdated entry, no longer followed)
+6. GERD - K21.9 (outdated, resolved per patient, remains on list)
+
+MEDICATIONS:
+- Allopurinol 300mg daily
+- Albuterol HFA inhaler PRN
+- Lisinopril 20mg daily
+- Tamsulosin 0.4mg daily
+- Colchicine PRN for flares
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Alcohol use: Former use - quit drinking alcohol in 2012
+Illicit drug use: Not on file
+Occupation: Retired
+Living situation: Lives alone
+Exercise: 
+Marital status: Widowed
+Caffeine use: Not on file
+
+REVIEW OF SYSTEMS: As per HPI, otherwise negative in 10-point ROS including no fevers, no chest pain, no cough, no dysuria, no vision changes, no hearing changes, no falls, no cognitive complaints per patient and daughter.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 72, RR 16, Temp 97.8F, Wt 182 lb, Ht 5'9"
+General: Well-appearing, no acute distress, appropriate for stated age
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear
+Neck: No JVD, no lymphadenopathy
+Cardiovascular: Regular rate and rhythm, no murmurs/rubs/gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes, no crackles
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+Extremities: No edema, first MTP joints without active inflammation bilaterally
+Neuro: Alert and oriented x3, gait steady, no focal deficits
+Skin: Warm, dry, intact, no lesions
+
+FUNCTIONAL ASSESSMENT:
+ADLs: Independent
+IADLs: Independent, manages own medications and finances
+Mini-Cog: 4/5, unremarkable
+Fall risk screen: Negative, no falls in past year
+Depression screen (PHQ-2): Negative
+
+ASSESSMENT AND PLAN:
+Samuel Flores is a 66-year-old male here for annual geriatric assessment on 01/31/2025, doing generally well with stable chronic conditions.
+
+1. Tobacco history: Patient has a significant smoking history, having smoked for 36 years, but he no longer smokes and quit smoking 11 years ago. Continue to reinforce benefits of remaining smoke-free. Lung cancer screening was discussed with the patient given his smoking history; risks and benefits reviewed.
+2. Gout (M10.9) - stable, no flares in recent months, continue allopurinol, continue colchicine PRN for breakthrough flares.
+3. Asthma (J45.909) - well controlled, continue albuterol PRN, reviewed inhaler technique, no rescue inhaler overuse noted.
+4. Hypertension (I10) - BP mildly elevated today at 138/84, home readings also slightly elevated per patient log; will continue lisinopril at current dose, recheck BP at next visit, consider titration if persistently elevated.
+5. BPH (N40.0) - stable symptoms, continue tamsulosin, PSA to be rechecked with routine labs.
+6. Health maintenance: Vaccinations reviewed and updated as needed. Alcohol history noted - patient quit drinking alcohol in 2012 and has remained abstinent since. Continue routine geriatric screening including fall risk, cognitive screening, and depression screening, all negative today.
+7. Follow-up in 6 months or sooner if issues arise.
+
+Plan discussed with and reviewed by attending.
+
+ATTESTATION: I have personally reviewed and examined the patient with Dr. Dunn and agree with the assessment and plan as documented above.
+- Attending physician signature on file
+
+Electronically signed: Michael Dunn, DO, Resident, Geriatrics, 01/31/2025

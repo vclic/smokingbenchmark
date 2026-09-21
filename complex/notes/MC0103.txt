@@ -1,0 +1,55 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Theresa Schmidt (F), DOB 8/15/1974, Age 51
+Date of Service: 08/15/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: Medication refills - gout, asthma
+
+HPI: Patient calls in via video visit for refills of her usual meds. Reports gout flares have been mild, no acute attacks since last visit. Asthma stable, uses albuterol prn, not more than 1-2x/week. No new sx today. She confirms she is due for refills of allopurinol and albuterol/fluticasone inhaler.
+
+--- BEGIN TEXT COPIED FORWARD FROM PRIOR NOTE DATED 9/15/2022 (left in chart, not updated) ---
+SOCIAL HISTORY (as documented 9/15/2022): Patient is a current smoker. Lives with husband, works part time as a bookkeeper. Denies alcohol use, denies illicit drug use. Exercise minimal due to joint pain. Diet reviewed, low purine diet encouraged for gout. Pt counseled extensively on smoking cessation at that visit, declined referral to quitline at that time.
+ROS (9/15/2022): denies chest pain, denies hemoptysis, denies unexplained wt loss, denies fevers/chills.
+PLAN (9/15/2022): continue allopurinol, refill albuterol, f/u in 3 months, recheck uric acid level.
+--- END COPIED TEXT ---
+
+Current social history update (08/15/2025): Ms. Schmidt reports she is still smoking cigarettes and states she is not ready to quit at this time. She has a variable smoking history: she smoked half a pack (about 10 cigarettes) per day for 10 years, then cut back to a quarter pack (about 5 cigarettes) per day for 14 years, then increased to three-quarters of a pack (about 15 cigarettes) per day for the past 10 years, which is her current level. She notes she had quit smoking in 2019 but relapsed in 2021 during a stressful period after a family illness. She was counseled again today on the risks of continued smoking and the benefits of quitting; she verbalized understanding but reiterated she is not interested in cessation aids or a quit date at this visit.
+
+PAST MEDICAL HISTORY: Gout (dx ~2015), Asthma (dx childhood, adult persistence)
+
+MEDICATIONS:
+- Allopurinol 300mg daily
+- Albuterol HFA inhaler prn
+- Fluticasone/salmeterol inhaler BID
+- Colchicine prn for gout flares
+
+ALLERGIES: NKDA
+
+VITALS (telehealth, self-reported): BP 128/82, HR 76, Wt 168 lbs (pt reported home scale)
+
+EXAM: Limited due to telehealth format. Patient appears well, no acute distress noted on video. Speech clear, no increased work of breathing noted, no cough during call.
+
+LABS/RESULTS:
+- Uric acid, drawn 07/28/2025: 6.8 mg/dL (improved from 8.9 mg/dL on 02/10/2025)
+- CMP 07/28/2025: WNL, creatinine 0.9
+- CBC 07/28/2025: WNL
+- Spirometry from 03/2024: FEV1 82% predicted, mild obstructive pattern consistent with asthma
+
+ASSESSMENT:
+1. Gout - well controlled on allopurinol, uric acid improved
+2. Asthma - stable on current regimen
+3. Tobacco use, current smoker - counseled, not ready to quit
+
+PLAN:
+1. Refill allopurinol 300mg daily x90 days
+2. Refill albuterol and fluticasone/salmeterol inhalers
+3. Continue to encourage smoking cessation at future visits, offer resources when pt ready
+4. Recheck uric acid in 6 months
+5. F/u in 3-4 months or sooner if symptoms worsen
+6. Pt to call if gout flare or asthma exacerbation
+
+Electronically signed: Owen Fitzgerald, MD
+
+---ADDENDUM (later same day, 08/15/2025, 4:47pm)---
+Addendum: Spoke again briefly with patient by phone after morning visit to clarify medication refill pharmacy - she requested inhaler refills be sent to CVS on Main St instead of Walgreens as originally entered. Order updated accordingly. No other changes to plan. Smoking status and counseling as documented above remains accurate for todays visit.
+-Owen Fitzgerald, MD

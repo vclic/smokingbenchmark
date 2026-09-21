@@ -1,0 +1,82 @@
+Internal Medicine Office Visit
+
+Patient: GARCIA, Nancy    MRN: 20709647
+DOB: 04/17/1954    Age: 69 y.o.    Sex: Female
+Date of Service: 10/09/2023    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• Cough
+
+Subjective:
+Nancy Garcia is a 69 y.o. female who presents for cough and congestion.
+Cough for 22 days, dry. Subjective fever and chills. Grandchild was sick last week. Denies hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• T2DM without complication
+• CAD	2001
+• Class I obesity	1997
+• Hypertension
+• Osteoporosis
+• Former smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (1995)
+• Carpal tunnel release (2015)
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• nitroglycerin 0.4 mg SL PRN
+• multivitamin daily
+• metformin 1000 mg BID
+• alendronate 70 mg weekly
+• aspirin 81 mg daily
+• calcium + vitamin D daily
+• losartan 100 mg daily
+• metoprolol succinate 25 mg daily
+• hydrochlorothiazide 25 mg daily
+
+Allergies
+• Latex
+
+Social History
+Social History Narrative
+  Lives with husband in a single-family home.
+  EtOH: 2-3 drinks on weekends.
+  Denies illicit drugs.
+  Independent in ADLs.
+
+Family History
+Sister - breast cancer at 59. Mother - breast cancer at 70.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 155/90 (BP Location: Left arm, Patient Position: Sitting) | Pulse 82 | Temp 98.1 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 201 lb | SpO2 97% | BMI 31.43 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Scattered rhonchi that clear with cough
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Acute bronchitis
+   Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+2. Class I obesity
+   Discussed diet and exercise.
+3. History of tobacco use (Z87.891)
+   2.5 packs/day x 45yrs, quit Apr 2019. Continue annual LDCT. No relapse.
+
+RTC 1 month.
+
+Electronically signed by Quentin Hale, PA-C on 10/09/2023

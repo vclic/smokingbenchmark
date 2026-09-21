@@ -1,0 +1,69 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: Joyce Lewis (F), DOB: 3/10/1975 (age 50)
+Date of Service: 05/14/2025
+Provider/Author: Steven Park, MD (NP progress note)
+
+CHIEF COMPLAINT: Annual wellness visit / chronic disease follow-up.
+
+HPI: Ms. Lewis presents for her scheduled annual wellness exam. She reports feeling generally well overall, with stable energy and no new complaints today. She continues to monitor her blood sugars at home with fingerstick glucose checks, generally in the 110-150 range fasting. Blood pressure has been variable per home cuff readings, occasionally elevated to 150s/90s. Her asthma has been well-controlled, using albuterol PRN only about once a month. Mood has been stable on current antidepressant regimen; she denies SI/HI. She reports intermittent leg cramping with ambulation, consistent with known PAD, but denies rest pain or non-healing wounds.
+
+SOCIAL HISTORY:
+- Tobacco: Patient has never smoked cigarettes. Denies any history of vaping or other tobacco/nicotine product use.
+- Alcohol: Patient quit drinking alcohol in 2003; denies current alcohol use.
+- Illicit drug use: denies.
+- Lives with spouse, works part-time as administrative assistant.
+- Exercise: reports walking 15-20 minutes most days as tolerated.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. Type 2 diabetes mellitus without complications - E11.9 (ongoing, on metformin)
+2. Essential hypertension - I10 (ongoing)
+3. Asthma, mild persistent - J45.30 (ongoing, on albuterol PRN and low-dose ICS)
+4. Major depressive disorder, recurrent, mild - F33.0 (ongoing, on sertraline)
+5. Peripheral artery disease, unspecified extremity - I73.9 (ongoing)
+6. GERD - K21.9 (noted from 2018 visit, likely resolved/outdated - pt reports no symptoms in years, not on PPI currently)
+7. Iron deficiency anemia - D50.9 (from 2016 labs, resolved per subsequent normal CBCs; kept on list for historical reference)
+
+MEDICATIONS:
+- Metformin 1000mg PO BID
+- Lisinopril 20mg PO daily
+- Albuterol HFA inhaler PRN
+- Fluticasone inhaler 1 puff BID
+- Sertraline 100mg PO daily
+- Aspirin 81mg PO daily
+- Atorvastatin 40mg PO daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. Denies chest pain, palpitations, vision changes, dysuria, joint swelling. Positive for occasional leg cramping with exertion (known PAD).
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 76, RR 16, Temp 98.4F, Wt 172 lbs, Ht 5'5", BMI 28.6
+General: well-appearing, no acute distress
+Cardiovascular: RRR, no murmurs; distal pulses diminished bilaterally in feet (consistent with known PAD), no edema
+Respiratory: clear to auscultation bilaterally, no wheeze today
+Abdomen: soft, nontender, nondistended
+Extremities: no ulcers, no cyanosis, mild hair loss on lower legs bilaterally
+Skin: no rashes or lesions noted
+Psych: mood euthymic, affect appropriate
+
+LABS/RESULTS (reviewed today):
+- HbA1c (05/10/2025): 7.2%
+- Comprehensive metabolic panel (05/10/2025): glucose 128, creatinine 0.9, eGFR >60, sodium 139, potassium 4.2
+- Lipid panel (05/10/2025): total cholesterol 168, LDL 92, HDL 48, triglycerides 140
+- Urine microalbumin/creatinine ratio (05/10/2025): 22 mg/g (mildly elevated)
+- ABI (ankle-brachial index) from 02/2025: 0.78 bilaterally, consistent with mild PAD
+
+ASSESSMENT/PLAN:
+1. Type 2 DM - A1c 7.2%, improved from prior. Continue metformin, reinforce diet/exercise. Recheck A1c in 3 months.
+2. HTN - BP slightly elevated today at 138/86. Continue lisinopril, encourage home monitoring, reinforce low-sodium diet.
+3. Asthma - well controlled currently. Continue current regimen, reviewed inhaler technique.
+4. Depression - stable on sertraline, continue current dose, follow up with counseling as needed.
+5. PAD - stable symptoms, continue aspirin and statin, discuss supervised exercise program. Counseled on foot care given diabetes and PAD.
+6. Health maintenance - discussed age-appropriate cancer screenings including mammogram and colonoscopy status; both up to date per records. Tobacco use discussed and confirmed as never-smoker, no counseling needed regarding cessation given no history of use. Discussed general lung health given family history questions, screening eligibility not addressed in today's visit.
+7. Return to clinic in 3 months or sooner if concerns.
+
+Steven Park, MD
+Electronically signed 05/14/2025 14:32
+
+---ADDENDUM (added later same day, 05/14/2025 17:10)---
+Addendum by Steven Park, MD: Patient called back after visit to clarify home BP log - reports readings have been more consistently in 130s/80s range over the past week, somewhat lower than clinic reading today which may reflect white coat effect. No changes to plan at this time. Will continue to monitor at home and reassess at next visit. Reiterated importance of medication adherence and lifestyle modifications discussed during today's encounter. No new issues identified in this addendum; all other documentation from today's visit remains accurate, including confirmation that patient has never smoked cigarettes and quit alcohol use back in 2003.

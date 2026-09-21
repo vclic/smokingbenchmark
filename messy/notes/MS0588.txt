@@ -1,0 +1,56 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Gloria Anderson (F), DOB: 1/2/1963
+Date of Service: 1/2/2025
+Age: 62 y/o F
+Author: Anita Patel, MD (resident); attending co-signature below
+
+CC: COPD follow-up, Pulmonology clinic
+
+HPI: Ms Anderson returns for routine follow up of COPD. She reports occasional dyspnea on exertion, denies fever or hemoptysis. She notes increased sputum production over past week, no change in color. She continues on her home regimen and reports adherence to inhalers, though admits missing doses occasionally. No recent hospitalizations or ER visits since last seen. She denies chest pain. Reports mild fatigue, otherwise stable.
+
+PMH/Problem List (ICD-10):
+- COPD, unspecified (J44.9)
+- Osteoarthritis, unspecified site (M19.90)
+- Osteoporosis without current pathological fracture (M81.0)
+- GERD (K21.9) - outdated, resolved per pt, remains on list
+- Hypertension (I10) - dated entry, pt reports normotensive off meds x2 yrs, list not updated
+
+Medications: Tiotropium inhaler daily, albuterol PRN, calcium/vitamin D supplement, alendronate weekly
+
+Social History / Tobacco Use (EHR templated block):
+Packs/day: 0.25
+Years: 47.00
+Type: Cigarettes
+Smoking status: Current every day smoker
+
+Discussion: Pt continues to smoke despite counseling at every visit; she states she has tried patches in past without success. Extensive counseling provided again today regarding risks of continued tobacco use with COPD, including accelerated decline in lung fxn. Pt was recptive to discussion and expresses desire to cut back. A quit date has been set for 1/21/2025, pt plans to use nicotine gum starting that day. Lung cancer screening was discussed with pt as part of overall risk reduction counseling; no imaging ordered today as part of this visit.
+
+ROS: Denies weight loss, denies night sweats, denies hemoptysis, +occasional cough, +mild dyspnea on exertion. Musculoskeletal: chronic low back pain attributed to osteoarthritis, stable. No new fx sx.
+
+Physical Exam:
+Vitals: BP 128/76, HR 78, RR 16, T 98.4F, SpO2 94% RA
+Gen: NAD, comfortable appearing
+Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: RRR, no murmurs
+MSK: no acute joint swelling, mild tenderness bilateral knees c/w known OA
+Ext: no edema
+
+Labs/Results:
+- CBC (12/20/2024): WBC 7.1, Hgb 13.2, Hct 39.8, Plt 250
+- BMP (12/20/2024): Na 139, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.8, Glu 96
+- Spirometry (11/15/2024): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstruction, no significant change from prior
+- DEXA (9/2024): T-score -2.6 lumbar spine, consistent w known osteoporosis dx
+- CXR (11/15/2024): hyperinflated lungs, no acute infiltrate or effusion
+
+Assessment: 62 yo F with COPD, continues to smoke despite counseling, also with osteoarthritis and osteoporosis. Spirometry stable from prior. Sputum increase may reflect mild exacerbation vs chronic bronchitis component; will treat conservatively for now.
+
+Plan:
+1. COPD - continue tiotropium and albuterol PRN, consider short course of azithromycin if sx worsen, f/u in 3 months or sooner if worse
+2. Tobacco use - continued counseling, quit date set as above, will provide nicotine gum rx, f/u smoking status at next visit
+3. Osteoporosis - continue alendronate and calcium/vit D, DEXA in 2 yrs
+4. Osteoarthritis - continue supportive care, PT referral if sx worsen
+5. Return to clinic in 3 months, sooner if symptoms worsen
+
+Note drafted by Anita Patel, MD (resident). Reviewed and discussed with attending; attending agrees with above assessment and plan as documented, addendum to follow if any changes.
+
+Attending Attestation: I have personally seen and evaluated the patient and reviewed the resident's documentation. I agree with the findings and plan as outlined above.

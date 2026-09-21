@@ -1,0 +1,45 @@
+VASCULAR SURGERY - HISTORY AND PHYSICAL
+Patient: Yolanda Campbell (F), DOB 1/9/1958
+Date of Service: 03/31/2025
+Author: Kevin Osei, MD
+
+CC: Evaluation of peripheral artery disease, leg claudication.
+
+HPI: Ms Campbell is a 67 year old woman referred for evaluation of PAD with intermittent claudication in bilat calves, worse with ambulation, relieved w rest. She reports pain after approx 2 blocks of walking. Smoking history is notable- she smoked half a pack (about 10 cigarettes) per day for 17 years, then increased to about 15 cigarettes per day for the next 10 years before quitting. She quit smoking at age 52 and has remained smoke free since. She denies chest pain, denies rest pain, no non healing ulcers currently.
+
+--- Copied forward from prior visit note dated 11/14/2023 ---
+Pt with hx GERD, on PPI, reports occasional heartburn worse w/ spicy foods, denies dysphagia. BPH stable on tamsulosin, nocturia x1-2/night, no hematuria. Denies hx of DVT/PE. Family hx notable for CAD in father. Review of systems otherwise negative for fevers chills wt loss. Pt lives independently, ambulates w/o assistive device. Vaccinations up to date per pt report.
+--- end copied text ---
+
+PMH: GERD, BPH
+PSH: none significant
+Meds: omeprazole 20mg daily, tamsulosin 0.4mg qhs
+Allergies: NKDA
+
+Social Hx: Quit smoking (see HPI for details). Denies current alcohol use, denies illicit drug use. Lives w spouse.
+
+ROS: Otherwise negative except as above.
+
+Physical Exam:
+Vitals: BP 138/82, HR 76, RR 16, T 98.2F, wt stable
+Gen: NAD, well appearing
+CV: RRR no m/r/g
+Pulses: fem 2+ bilat, popliteal 1+ bilat, DP/PT diminished bilat, ~1+
+Ext: no ulcers, mild hair loss noted b/l lower extremities, skin cool to touch distally
+Abd: soft NT ND
+
+Labs/Results (recent):
+- 03/28/2025 CBC: WNL
+- 03/28/2025 Lipid panel: Total chol 210, LDL 138, HDL 42, TG 150
+- 03/28/2025 HbA1c: 5.7%
+- 03/15/2025 ABI: right 0.68, left 0.71 (consistent w mild-mod PAD)
+
+Assessment: PAD w claudication, likely atherosclerotic etiology. GERD stable BPH stable.
+
+Plan:
+1. Start cilostazol, discuss supervised exercise program
+2. Continue statin optimization given lipid panel above
+3. Continue omeprazole and tamsulosin as prescribed
+4. Counseled on cardiovascular risk reduction; lung cancer screening was discussed generally
+5. F/u vascular surgery in 3 months, repeat ABI as needed
+6. Pt to call if worsening rest pain, non-healing wounds, or discoloration of toes

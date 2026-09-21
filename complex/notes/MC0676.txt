@@ -1,0 +1,54 @@
+CARDIOLOGY - NP PROGRESS NOTE
+Patient: Thomas Hall (M), DOB: 09/16/1953, Age: 72
+Date of Service: 09/16/2025
+Author: Teresa Alvarez, NP
+
+CC: Chest pain eval, referred from PCP for further w/u given hx of CAD.
+
+HPI: Pt is a 72 yo M w/ PMHx significant for CAD, COPD, CKD stage 3, GERD, osteoporosis, and depression who presents today for eval of intermittent chest discomfort over past 2 wks. Pt states "it feels like a tight band across my chest, comes on when I climb the stairs at home." Denies radiation to arm/jaw. No assoc diaphoresis or N/V. Pt reports discomfort resolves w/ rest after approx 5 min. No recent fevers, chills. Pt states "I get more short of breath than I used to, but I figured that's just my lungs." Denies palpitations, syncope, orthopnea, or PND. Reports med compliance is good, takes ASA 81 mg daily, atorvastatin, and metoprolol as prescribed. No new meds started recently. Pt lives at home w/ spouse, ambulates independently w/ cane for balance (osteoporosis).
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - + exertional CP as above, denies palpitations. Resp - + mild dyspnea on exertion, denies cough, hemoptysis. GI - occasional heartburn, known GERD, on PPI. GU - denies dysuria, hematuria. MSK - chronic low back pain, stable. Psych - depression, stable on current regimen per pt report, denies SI/HI.
+
+PMHx: Depression, CKD stage 3, osteoporosis, CAD (s/p prior stent per records), COPD, GERD.
+
+PSHx: None significant reported.
+
+Meds: ASA 81mg daily, Atorvastatin 40mg qhs, Metoprolol succinate 50mg daily, Omeprazole 20mg daily, Alendronate 70mg weekly, Sertraline 100mg daily, Tiotropium inhaler daily, Albuterol PRN.
+
+Allergies: NKDA.
+
+Social History: Former smoker. Pt has extensive tobacco hx - smoked approx 3/4 pack per day (~15 cigs/day) for 11 yrs, then cut back to 1/4 pack per day (~5 cigs/day) for 21 yrs before quitting entirely. Pt reports he has not smoked since his 46th birthday and has remained tobacco-free since. Denies current smoking, denies e-cigs/vaping. Denies illicit drug use. Reports occasional EtOH, 1-2 glasses wine per wk. Lives w/ spouse in single-story home. Retired postal worker.
+
+Fam Hx: Father - MI at age 60s, deceased. Mother - HTN, deceased. No known fam hx of lung ca reported.
+
+Physical Exam:
+Vitals: BP 138/82, HR 68, RR 16, Temp 97.8F, SpO2 95% RA, Wt 178 lbs
+Gen: NAD, A&Ox3, comfortable appearing
+CV: RRR, no m/r/g appreciated, no JVD, no peripheral edema
+Resp: Mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest
+Abd: Soft, NT/ND, +BS
+Ext: No cyanosis/clubbing, 2+ pulses bilat
+Skin: Warm, dry, intact
+Psych: Mood euthymic, affect appropriate
+
+Labs/Results (reviewed today):
+- Troponin I (09/16/2025, 0800): 0.02 ng/mL (WNL, <0.04)
+- BMP (09/16/2025): Na 139, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.4 (baseline for CKD3), eGFR 48
+- Lipid panel (09/10/2025): Total chol 162, LDL 88, HDL 42, TG 150
+- BNP (09/16/2025): 95 pg/mL (WNL)
+- EKG (09/16/2025): NSR, rate 68, no acute ST-T changes, unchanged from prior 2024 tracing
+- CBC (09/16/2025): WNL, Hgb 13.8
+
+A/P:
+1. Chest pain, likely stable angina given hx of CAD - Troponin neg x1, EKG unremarkable. Will trend troponin, obtain repeat in 3-6 hrs per protocol. Consider stress test as outpatient given exertional pattern of sx. Continue current cardiac meds. Pt counseled to call 911 or return to ED if sx worsen, prolonged, or occur at rest.
+2. COPD - mild wheeze on exam today, appears stable, continue tiotropium and albuterol PRN. Reinforced importance of avoiding respiratory irritants and continued pulmonary follow-up.
+3. CKD stage 3 - Cr/eGFR stable compared to prior labs, continue to avoid nephrotoxic agents, renal-dose meds as needed.
+4. GERD - well controlled on omeprazole, no changes.
+5. Osteoporosis - continue alendronate, pt due for DEXA recheck next yr per records.
+6. Depression - pt reports stable mood on sertraline, continue current dose, will defer to psych/PCP for further mgmt if needed.
+
+Plan: F/u in cardiology clinic in 2 wks or sooner if sx worsen. Repeat troponin later today per protocol. Outpatient stress test to be scheduled. Continue home meds. Pt educated on when to seek emergent care.
+
+---
+ADDENDUM (later same day, 09/16/2025, added by T. Alvarez, NP):
+Repeat troponin obtained at 1330 today - result 0.02 ng/mL, unchanged, remains WNL. Pt was called and informed of stable results. Advised to continue as planned, f/u appt confirmed for 2 wks. Pt denies any worsening sx since this AM visit, states "I feel about the same, no new chest pain." No further changes to plan at this time.

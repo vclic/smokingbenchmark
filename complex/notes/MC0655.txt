@@ -1,0 +1,39 @@
+CARDIOLOGY FOLLOW-UP NOTE
+Date of Service: 04/15/2023
+Author: Elena Markovic, MD (resident); attending attestation below
+
+Patient: Thomas Hall, M, DOB 02/14/1943 (age 80)
+
+HPI: Mr. Hall is an 80-year-old male with history of heart failure, type 2 diabetes, BPH, and hypothyroidism, here for routine HF follow-up. He states, "I've been feeling pretty good, maybe a little more short of breath climbing stairs." Denies orthopnea, PND, chest pain. Weight stable per home scale. He reports adherence to low-sodium diet with occasional lapses [inaudible] during family gatherings, and he says his energy has been "about the same as last visit." No leg swelling noted today by patient, though spouse reports mild ankle puffiness in evenings.
+
+SOCIAL HISTORY (templated block):
+- Tobacco use: See assessment/plan for details
+- Alcohol use: Occasional, denies excess
+- Illicit drug use: Denies
+- Occupation: Retired
+- Living situation: Lives with spouse
+- Exercise: Not on file
+- Diet: Low sodium, reports variable adherence
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiovascular: as above, denies chest pain, denies palpitations, denies syncope. Respiratory: denies cough, denies hemoptysis, mild exertional dyspnea as noted. GI: denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits. GU: nocturia x2, known BPH, denies dysuria, denies hematuria. Endocrine: denies polyuria, denies polydipsia, on levothyroxine for hypothyroidism. Musculoskeletal: denies joint pain, denies swelling. Neuro: denies headache, denies dizziness, denies focal weakness. Skin: denies rash. Psych: denies depression, denies anxiety. All other systems reviewed and negative except as noted above in HPI.
+
+PHYSICAL EXAM: Vitals: BP 128/76, HR 68, RR 16, SpO2 96% RA, Wt 84 kg. General: well-appearing elderly male in no acute distress. HEENT: normocephalic, atraumatic, PERRLA. Neck: no JVD appreciated today. Cardiovascular: regular rate and rhythm, S1 S2 normal, no murmurs, rubs, or gallops appreciated. Lungs: clear to auscultation bilaterally, no crackles, no wheezes. Abdomen: soft, non-tender, non-distended, no hepatosplenomegaly. Extremities: trace bilateral ankle edema, no calf tenderness. Neuro: alert and oriented x3, grossly non-focal.
+
+MEDICATIONS: Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Furosemide 20mg daily, Spironolactone 25mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Tamsulosin 0.4mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- E11.9 Type 2 diabetes mellitus without complications
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms (outdated - now with mild LUTS)
+- E03.9 Hypothyroidism, unspecified
+- I10 Essential hypertension (outdated, resolved per prior note but remains on list)
+
+ASSESSMENT AND PLAN:
+1. Heart failure - stable, euvolemic on exam, continue current regimen, recheck BMP and BNP today.
+ Tobacco history: Former smoker. Patient smoked about three-quarters of a pack (approximately 15 cigarettes) per day for 30 years, then cut back to a quarter pack (about 5 cigarettes) per day for an additional 19 years before quitting entirely. He quit smoking when his granddaughter was born; she is now 11 years old. Continue to reinforce benefits of remaining smoke-free.
+2. Type 2 diabetes - continue metformin, A1c pending.
+3. BPH - continue tamsulosin, follow with urology as needed.
+4. Hypothyroidism - continue levothyroxine, TSH to be rechecked.
+Follow up in 3 months or sooner if symptoms worsen.
+
+Attending Attestation: I have personally seen and examined the patient along with the resident and agree with the assessment and plan as documented above. -Attending Cardiologist

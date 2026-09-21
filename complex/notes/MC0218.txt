@@ -1,0 +1,48 @@
+HOSPITAL D/C F/U - PRIMARY CARE
+Patient: Denise Hall | DOB: 1/4/1965 | Age: 61 F
+DOS: 01/04/2026
+Author: Priya Raman, MD (NP progress note)
+
+CC: F/u s/p hosp for pneumonia, d/c'd 3 days ago.
+
+HPI: 61 yo F w/ COPD, HTN, OSA, obesity, presents for f/u after recent admission for CAP tx w/ IV abx, now on PO cont'g. Reports improved cough, still some dyspnea on exertion, using rescue inhaler more than usual. No fevers, no chest pain. Denies hemoptysis. Pt has smoked 1 pack per day since 1985; continues to have chronic productive cough at baseline per pt report. Appetite ok, sleeping poorly 2/2 cough at night, uses CPAP intermittently.
+
+ROS: Resp - cough, dyspnea as above. CV - no palpitations, mild ankle edema chronic. GU - nocturia x2-3, known BPH. MSK - no new fx, hx osteoporosis. Otherwise neg per template.
+
+PMH / Problem List (per EHR, some outdated):
+- E66.9 Obesity
+- J44.9 COPD, unspecified
+- M81.0 Osteoporosis w/o current pathologic fx
+- I10 Essential hypertension
+- N40.0 BPH w/o LUTS
+- G47.33 Obstructive sleep apnea
+- J18.9 Pneumonia, unspecified organism (resolving, recent hosp)
+- E78.5 Hyperlipidemia (old entry, not on current med list, unclear still active)
+- M54.5 Low back pain (chronic, not addressed today)
+
+Meds: Tiotropium inh daily, albuterol HFA prn, lisinopril 20mg daily, tamsulosin 0.4mg qhs, alendronate 70mg weekly, amoxicillin-clavulanate cont per d/c instructions (day 5 of 7).
+
+Social Hx: Lives alone, retired postal worker. Denies EtOH. Current smoker, remains not ready to quit despite prior counseling attempts. No illicit drug use. Uses CPAP for OSA, compliance variable.
+
+Vitals: BP 138/84, HR 88, RR 18, T 98.2F, SpO2 93% RA, Wt 212 lb, BMI 36.4
+
+Exam: Gen - NAD, mild resp distress w/ exertion. Lungs - diffuse expiratory wheeze, decreased breath sounds bases, no crackles today (improved from admission). CV - RRR, 1+ bilat LE edema. Abd - obese, soft, NT/ND. Ext - no clubbing/cyanosis.
+
+Labs/Results:
+12/29/2025 (during admission): WBC 13.2, CRP 84, Cr 0.9
+01/02/2026 (pre-discharge): WBC 8.6, CRP 22
+01/04/2026 (today, POC): SpO2 93% RA as above; no new labs drawn today.
+CXR 12/29/2025: RLL infiltrate, improving on repeat 1/2/26.
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue abx course as prescribed, f/u CXR in 4-6 wks to confirm resolution.
+2. COPD - likely contributing to slower recovery; continue tiotropium, albuterol prn. Reinforced smoking cessation counseling; pt states she still smokes and is not ready to quit at this time, will revisit at next visit. Discussed lung cancer screening in general terms as part of preventive care conversation.
+3. HTN - stable on current regimen, continue lisinopril.
+4. OSA - encourage more consistent CPAP use, will consider repeat sleep study if symptoms persist.
+5. Osteoporosis, BPH, obesity - stable, no changes today.
+
+RTC 2 wks or sooner if worsening sx, F/U CXR ordered.
+
+---
+ADDENDUM (later same day, 01/04/2026, P. Raman MD):
+Pt called back after visit w/ question re: inhaler technique, spent additional time on phone reviewing proper use of tiotropium handihaler. No new concerns voiced. Will continue plan as above.

@@ -1,0 +1,40 @@
+Primary Care Clinic Note
+Date of Service: 11/6/2023
+Patient: Kenneth Novak   DOB: 11/12/1947   MRN: 93014619
+
+S:
+CC: Hospital follow-up
+HPI: 75 y/o male w/ HLD, depression, OA, HTN here for hospital follow-up after admission for symptomatic anemia. Admitted 10/19/2023-2023-10-24 for symptomatic anemia. Completed antibiotics. No new symptoms since discharge.
+
+PMH: CAD, depression, OA, HLD, HTN
+PSH: Appendectomy; Lumbar laminectomy (1989)
+Meds: vitamin D3 2000 IU daily; atorvastatin 20 mg daily; metoprolol succinate 50 mg daily; escitalopram 10 mg daily; meloxicam 7.5 mg daily; aspirin 81 mg daily; losartan 50 mg daily
+Allergies: NKDA
+SH: Widowed; lives with son. Retired nurse. 0 PY (never smoker). Social drinker. No IVDU.
+FH: Mother - breast cancer at 70. Sister - hypothyroidism.
+ROS: GI neg, Gen neg, GU neg, MSK neg, Resp neg
+
+OBJECTIVE:
+Vitals: BP: 134/91  HR: 78  RR: 12  Temp: 97.6 F  SpO2: 97% on RA  Wt: 197 lbs  BMI: 29.1
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+
+A/P:
+1. Symptomatic anemia: Improving; reviewed discharge summary and meds. Repeat labs in 1 week.
+2. Primary OA, b/l knees: Continue PRN analgesics; home exercises.
+3. Mixed hyperlipidemia: LDL at goal on last check; continue.
+4. Hypertension
+   - Above goal today; recheck at next visit, reinforce low-sodium diet.
+5. Health maintenance: LCS: N/A - never smoker.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Michael Dunn, DO on 11/6/2023 at 07:09

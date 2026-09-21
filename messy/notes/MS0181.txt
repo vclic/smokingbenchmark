@@ -1,0 +1,46 @@
+CARDIOLOGY FOLLOW-UP NOTE
+Date of Service: 07/12/2025
+Author: Quentin Hale, PA-C (resident note; attending attestation below)
+
+Patient: Diane Brown, F, DOB 5/6/1955 (age 70)
+Visit type: Heart Failure Follow-up
+
+CC: f/u CHF, doing okay, some mild ankle swelling
+
+HPI: Ms. Brown is a 70 year old woman with history of heart failure hypothyroidism and BPH who returns today for routine cardiology follow up. She reports she has been compliant with her diruetics and lisinopril, denies orthopnea or PND, occassional lower extremity edema noted worse by end of day. She states her energy level is okay, sleeping ok, denies chest pain. Denies fevers chills or cough. She lives with her daughter and is otherwise independant with ADLs. Tobacco: patient has never used tobacco, denies any history of cigarette or e-cig use. No illicit drug use, rare EtOH.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 02/14/2025 - retained in chart, not updated]
+HPI (02/14/2025): Ms Brown here for HF f/u, reports mild dyspnea on exertion climbing stairs, denies chest pain, weight stable at 142 lbs, BP well controlled on current regimen, discussed low sodium diet extensively, patient states she understands and will try to comply, [inaudible] discussion regarding fluid restriction occurred and patient nodded in agreement, she was also counseled on daily weights and to call if gain more than 3 lbs in 2 days or 5 lbs in a week, medication reconciliation performed no changes made at that time, follow up in 5 months or sooner if symptoms worsen, patient verbalized understanding and agreement with plan discussed at length regarding prognosis and goals of care which she deferred to family for further discussion at a later date.
+[END COPY-FORWARD]
+
+PMH: Heart failure (HFrEF), hypothyroidism, BPH
+Meds: Furosemide, Lisinopril, Metoprolol succinate, Levothyroxine, Tamsulosin
+Allergies: NKDA
+
+ROS: otherwise negative except as above, positive for nocturia which she attributes to her BPH not her cardiac status
+
+Exam:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Wt 140 lbs
+Gen: NAD, well appearing woman in no acute distress
+CV: RRR, no murmurs rubs or gallops, JVP not elevated
+Lungs: clear to auscultation bilaterally no crackles or wheezes
+Ext: trace bilateral pitting edema, no calf tenderness
+
+Labs (reviewed today):
+06/28/2025 BNP 210 pg/mL (prior 06/2024 was 340)
+06/28/2025 BMP: Na 138, K 4.2, Cr 0.9, eGFR >60
+06/28/2025 TSH 2.1 (WNL on current levothyroxine dose)
+07/01/2025 CBC unremarkable, Hgb 12.8
+
+Assessment: 70F with HFrEF, currently compensated, mild residual lower extremity edema, hypothyroidism euthyroid on current dose, BPH stable on tamsulosin.
+
+Plan:
+1. Continue current HF regimen, no changes to diuretic dose at this time
+2. Continue daily weights, low sodium diet reinforced
+3. Continue levothyroxine at current dose given TSH within normal limits
+4. Continue tamsulosin for BPH symptoms, urology f/u as needed
+5. Return to clinic in 4 months or sooner if symptoms worsen, call with any weight gain >3lbs in 2 days
+6. Pt to continue monitoring for edema and dyspnea, will contact office with any concerns
+
+Attestation: I have personally seen and examined the patient along with Mr. Hale, PA-C, and discussed the assessment and plan as documented above. I agree with the findings and recommendations.
+- Dr. Priya Anand, Attending Cardiology

@@ -1,0 +1,62 @@
+CARDIOLOGY CONSULT NOTE / Letter to Referring Physician
+Patient: Brenda Wright | DOB: 12/15/1972 | Age: 52 | Sex: F
+Date of Service: 12/15/2024
+Author: Hannah Weiss, NP
+
+Dear Dr. Patel,
+
+Thank you for referring Ms. Wright, a 52-year-old woman, for evaluation of chest pain.
+
+HPI:
+Pt presents c/o intermittent chest discomfort x 2 weeks, exertional, non-radiating. Denies SOB at rest. No syncope. Reports occasional palpitations. Pt states discomfort improves with rest. No recent illness. No fevers/chills.
+
+PMH/Problem List (ICD-10):
+- M10.9 Gout, unspecified site
+- N40.1 BPH with LUTS (chart carried forward, likely outdated dx - pt is female, flagged for review)
+- M19.90 Osteoarthritis, unspecified site
+- Z87.891 Personal history of nicotine dependence
+
+Social History:
+Alcohol - quit drinking in 2008, denies current use.
+Tobacco - see EHR tobacco use block below.
+Lives alone, retired schoolteacher.
+
+=== TOBACCO USE (EHR TEMPLATE) ===
+Smoking status: Former smoker
+Started smoking at age 17, 1.5 packs per day (ppd)
+Continued at 1.5 ppd until quitting in 2004
+Current use: none
+===================================
+
+Quit history: Pt reports she has not smoked since her 32nd birthday; confirms no relapse since that date. Denies any current tobacco, vaping, or nicotine replacement use.
+
+ROS: Otherwise negative except as above. No hemoptysis, no unexplained weight loss.
+
+Exam:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 98% RA
+Gen: NAD, comfortable
+CV: RRR, no m/r/g
+Lungs: CTAB
+Ext: no edema
+
+Labs/Results:
+12/15/2024 - Troponin I: <0.01 ng/mL (nl)
+12/15/2024 - BNP: 42 pg/mL (nl)
+12/15/2024 - Lipid panel: Total chol 198, LDL 122, HDL 48, TG 140
+12/01/2024 - EKG (outside): sinus rhythm, no acute ST changes
+
+Assessment/Plan:
+52 y/o F, former smoker (quit 2004, prior use 1.5 ppd starting at age 17), presenting w/ exertional chest discomfort, low-risk labs today.
+1. Chest pain - likely atypical, will obtain stress echo to further risk stratify. Reviewed cardiac risk factors including remote smoking history.
+2. Gout - stable, continue current mgmt per PCP.
+3. Osteoarthritis - stable, conservative mgmt continued.
+4. BPH dx flagged as likely chart error given pt sex; will remove from active problem list pending review.
+5. Tobacco - former smoker, quit smoking; counseled on cardiovascular benefits of continued abstinence. No current tobacco use requiring intervention.
+6. Lung cancer screening was discussed briefly given remote smoking history; further discussion deferred to PCP.
+
+Will f/u after stress echo results.
+
+---ADDENDUM (same day, later)---
+Pt called back re: scheduling for stress echo, appt set for next week. Reiterated importance of med compliance for gout flares in interim. No new complaints reported at this time. Alcohol history reconfirmed - pt quit drinking in 2008, no interval relapse reported. No changes to tobacco history from above; pt again confirmed no smoking since age 32.
+
+Hannah Weiss, NP

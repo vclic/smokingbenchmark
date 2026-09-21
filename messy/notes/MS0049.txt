@@ -1,0 +1,78 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: David Chen (M) DOB: 03/23/1969 (age 57)
+Date of Service: 03/23/2026
+Author: Laura Castellano, FNP-C
+
+CHIEF COMPLAINT: Follow-up, hypertension and type 2 diabetes.
+
+HPI: Mr. Chen presents today accompanied by his daughter for routine follow-up. He is a 57-year-old male with history of HTN, T2DM, depression, and hypothyroidism. Patient has significant expressive aphasia post-CVA (per outside records) and is a poor historian today; most of the interview history was obtained from his daughter and prior chart notes. Daughter reports he has been taking his medications as prescribed, though she is unsure about dietary adherence. No chest pain, no shortness of breath reported by family. Blood sugars at home reportedly range 110-160 per glucometer log brought in today. Denies (via daughter) any recent falls, headaches, or vision changes.
+
+PROBLEM LIST:
+1. Essential hypertension, I10 (active)
+2. Type 2 diabetes mellitus without complications, E11.9 (active)
+3. Major depressive disorder, recurrent, moderate, F33.1 (active)
+4. Hypothyroidism, unspecified, E03.9 (active)
+5. Aphasia following cerebral infarction, I69.320 (active)
+6. Hyperlipidemia, E78.5 (outdated - resolved per lipid panel 2024, left on list)
+7. GERD, K21.9 (outdated entry, not addressed in years)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Unable to obtain - patient aphasic/poor historian, unable to reliably report smoking history at this visit.
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with daughter
+Exercise: Not on file
+Diet: Not on file
+
+REVIEW OF SYSTEMS: (Obtained partially from daughter, patient limited verbal output)
+Constitutional: Denies fever, chills, weight loss.
+Eyes: Denies vision changes.
+ENT: No hearing changes reported.
+Cardiovascular: No chest pain, no palpitations reported by family.
+Respiratory: No cough, no dyspnea reported.
+GI: No nausea, vomiting, diarrhea, constipation.
+GU: No dysuria per daughter.
+Musculoskeletal: No new joint pain reported.
+Skin: No rashes noted.
+Neurologic: Known expressive aphasia, stable per daughter, no new focal deficits reported.
+Psychiatric: Daughter reports mood stable on current regimen, no recent suicidal ideation reported.
+Endocrine: No polyuria/polydipsia reported.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, Wt 198 lb, BMI 29.8
+General: Alert, cooperative, pleasant, expressive aphasia noted, able to follow simple commands.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: No JVD, no thyromegaly, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, pulses 2+ bilaterally.
+Neurologic: Expressive aphasia noted, otherwise grossly nonfocal; strength 5/5 in all extremities.
+Skin: Warm, dry, intact, no rashes or lesions.
+Psychiatric: Cooperative, affect appropriate given communication limitations.
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Metformin 1000 mg twice daily
+3. Levothyroxine 75 mcg daily
+4. Sertraline 100 mg daily
+5. Atorvastatin 20 mg daily
+6. Aspirin 81 mg daily
+7. Amlodipine 5 mg daily
+8. Omeprazole 20 mg daily (as needed)
+
+LABS (reviewed today): HbA1c 7.2%, fasting glucose 132, TSH 2.1, lipid panel within normal limits on current statin therapy, BMP unremarkable aside from mild elevation in glucose.
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled today at 138/84. Continue current regimen (lisinopril, amlodipine). Recheck at next visit.
+2. Type 2 diabetes mellitus - A1c 7.2%, at goal. Continue metformin, reinforce dietary counseling with daughter given patient's communication limitations. Continue home glucose monitoring.
+3. Depression - mood reportedly stable per daughter on sertraline. Continue current dose, will reassess at next visit or sooner if concerns arise.
+4. Hypothyroidism - TSH within normal range, continue levothyroxine at current dose.
+5. Aphasia/history of CVA - stable per daughter, no new deficits noted on exam today. Continue outpatient speech therapy as previously arranged. Tobacco history remains unable to obtain given communication limitations; will attempt to clarify further with family or prior records as available.
+6. Health maintenance - routine age-appropriate screening discussed with daughter, including general cancer screening topics; will revisit at future visit given time constraints today.
+
+Return to clinic in 3 months, sooner if concerns. All questions answered. Daughter given clinic contact information.
+
+Laura Castellano, FNP-C

@@ -1,0 +1,55 @@
+General Medicine Clinic Clinic Note
+Date of Service: 2026-01-05
+Patient: Hung Bryant   DOB: 8/6/1957   MRN: 70760586
+
+SUBJECTIVE:
+CC: Hospital follow-up
+HPI: Mr. Bryant is a 68 y.o. male with a history of CAD s/p NSTEMI with DES to LAD (2002), OSA, depression, and HTN who presents for hospital follow-up after admission for cellulitis of the left leg. Admitted 12/29/2025-12/31/25 for cellulitis of the left leg. Feeling much better. No new symptoms since discharge. He smoked 20 cigarettes daily for 30 years and quit after his heart attack.
+
+PMH:
+- CAD s/p NSTEMI with DES to LAD (2002)
+- Hypertension
+- Major depressive disorder, recurrent, in remission
+- Type 2 diabetes mellitus
+- Class I obesity
+- Obstructive sleep apnea on CPAP
+PSH: Appendectomy; TURP (2011)
+Meds: metformin 1000 mg BID; semaglutide 0.5 mg weekly; losartan 50 mg daily; sertraline 50 mg daily; clopidogrel 75 mg daily; multivitamin daily
+Allergies: NKDA
+Social History:
+- Widowed; lives with son.
+- EtOH: 2-3 drinks on weekends.
+- No IVDU.
+- Sedentary.
+FH: Sister - breast cancer at 59.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 151/86  HR: 91  RR: 12  Temp: 97.7 F  SpO2: 96% on RA  Wt: 192 lbs  BMI: 30.1
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Obese, soft, nontender
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (12/19/2025): A1c 7.5%, Cr 1.03, K 4.1, Hgb 12.5
+
+A/P:
+1. Cellulitis of the left leg: Clinically improved. Follow-up CXR in 6 weeks.
+2. CAD: No angina. Continue current cardiac regimen.
+3. Hypertension: Elevated today; home BP log requested.
+
+Follow up in 12 months or sooner PRN.
+
+Brian Okonkwo, MD

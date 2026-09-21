@@ -1,0 +1,82 @@
+Family Medicine Office Visit
+
+Patient: SULLIVAN, Joyce    MRN: 95447462
+DOB: 02/11/1963    Age: 63 y.o.    Sex: Female
+Date of Service: 06/25/2026    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• f/u DM2
+
+Subjective:
+Joyce Sullivan is a 63 y.o. female who presents for diabetes follow-up.
+Smoking history clarified today (previously documented as never smoker): She currently smokes; she has smoked half a pack daily since age 20. Most recent A1c 9.4% (previously 10.5% in March 2026). Rarely checks glucose at home. One episode of shakiness relieved with juice. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Hypercholesterolemia
+• Emphysema
+• T2DM without complication
+• Depression
+• Paroxysmal atrial fibrillation
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2012)
+• Rotator cuff repair (2012)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• losartan 50 mg daily
+• bupropion XL 150 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• rosuvastatin 10 mg daily
+• apixaban 5 mg BID
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with husband.
+  Works as a machinist.
+  EtOH: 2-3 drinks on weekends.
+  Independent in ADLs.
+
+Family History
+Mother - dementia, d. 84. Both parents were smokers.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 143/76 (BP Location: Left arm, Patient Position: Sitting) | Pulse 89 | Temp 97.8 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 166 lb | SpO2 89% | BMI 25.93 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.4% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. Hypercholesterolemia
+   Continue statin. Lipid panel due.
+3. Essential hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+
+Return in about 6 months (around 12/25/2026).
+
+Electronically signed by Julia Brennan, MD on 06/25/2026

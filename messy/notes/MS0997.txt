@@ -1,0 +1,58 @@
+PROGRESS NOTE – Hospital Discharge Follow-up
+Patient: James Nelson
+DOB: 4/30/1949 (age 75)
+Date of Service: 4/30/2024
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: Follow-up s/p hospitalization for pneumonia.
+
+HPI: 75 y/o male seen today for post-discharge follow-up after recent admission for community-acquired pneumonia, now day 6 post-discharge, reports improved cough and energy though still fatigues easily w/ exertion. No fevers, no chills, no hemoptysis. Denies chest pain, denies SOB at rest. Appetite improving. Sleeping better. Pt states he still smokes about half a pack (approx. 10 cigarettes) per day, has done so for 52 years; when asked about cessation he states he is not ready to quit at this time. Advised strongly re: smoking cessation resources, benefits given recent pulmonary infection, pt verbalizes understanding but declines referral to quitline today. Will continue to offer counseling at future visits.
+
+PMH: BPH, CKD stage 3, s/p recent pneumonia hospitalization 4/2024.
+Social: Quit alcohol use in 2013, denies current ETOH use. Lives alone, independent in ADLs.
+
+---[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 – left in chart for reference, may be outdated]---
+74 y/o M here for routine f/u BPH and CKD. Pt reports nocturia x2, denies dysuria, denies hematuria. On tamsulosin, tolerating well. CKD stage 3 stable, no e/o progression on recent labs. Denies edema, denies SOB. Denies chest pain. Continues to smoke, discussed cessation, pt not interested at this visit. ROS otherwise negative. Exam: NAD, lungs CTA bilat, heart RRR no m/r/g, abd soft NT/ND, no CVA tenderness, ext no edema. A/P: 1. BPH – continue tamsulosin 2. CKD3 – recheck labs in 6 mo 3. Tobacco use – counseled, pt declines cessation aids at this time. RTC 6 months or PRN.
+---[END COPIED TEXT]---
+
+ROS (current visit): Constitutional: mild fatigue, denies fever. Resp: improving cough, denies hemoptysis, denies dyspnea at rest. CV: denies chest pain, denies palpitations. GU: nocturia x1-2, denies dysuria. GI: denies nausea, denies abd pain. Neuro: denies HA, denies dizziness. Psych: denies depressed mood.
+
+PHYSICAL EXAM:
+Vitals: T 97.8F, BP 132/78, HR 76, RR 16, SpO2 95% RA, Wt 178 lb.
+General: Alert, NAD, appears fatigued but comfortable.
+HEENT: NC/AT, oropharynx clear.
+Neck: No JVD, no lymphadenopathy.
+Lungs: Mild bibasilar crackles, improved from discharge exam, no wheeze, no rhonchi.
+CV: RRR, no murmurs/rubs/gallops.
+Abd: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, no cyanosis, no clubbing.
+Skin: Warm, dry, intact.
+Neuro: Grossly intact, A&Ox3.
+
+LABS/RESULTS:
+CBC (4/28/2024): WBC 8.9 (down from 14.2 on admission 4/20/2024), Hgb 13.1, Hct 39.2, Plt 245.
+BMP (4/28/2024): Na 138, K 4.3, Cl 101, CO2 24, BUN 28, Creatinine 1.6 (baseline 1.5-1.7 per CKD3), eGFR 42.
+CXR (4/22/2024, inpatient): RLL infiltrate, improving compared to admission film 4/20/2024.
+CRP (4/28/2024): 12 (down from 88 on admission).
+Urinalysis (4/28/2024): unremarkable, no signs of UTI.
+
+PROBLEM LIST (per chart, some entries not recently updated):
+1. J18.9 – Pneumonia, unspecified organism (acute, resolving)
+2. N40.1 – Benign prostatic hyperplasia with LUTS
+3. N18.3 – Chronic kidney disease, stage 3
+4. Z87.891 – Personal history of nicotine dependence (NOTE: outdated, pt is current smoker, not history – needs correction)
+5. F10.10 – Alcohol use disorder, mild, in remission (last use 2013 per pt report)
+6. I10 – Essential hypertension (dx 2015, stable per prior notes)
+7. E78.5 – Hyperlipidemia (chart entry from 2019, not addressed today)
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving – clinically improved, CXR improving, CRP trending down. Continue current abx course (day 6/7 of amoxicillin-clavulanate), f/u CXR in 4-6 wks to confirm resolution.
+2. Tobacco use, ongoing – pt continues to smoke ~1/2 ppd, 52-yr hx, states not ready to quit despite recent pulmonary illness. Counseled again on cessation benefits, risks. Will readdress at each visit, offered nicotine replacement/quitline info, declined today. Lung cancer screening discussed in general terms; no imaging ordered today related to screening.
+3. BPH – continue tamsulosin, stable symptoms.
+4. CKD stage 3 – Cr 1.6 near baseline, eGFR 42, stable. Avoid nephrotoxic agents, recheck BMP in 3 months.
+5. Alcohol use – pt reports abstinence since 2013, no current concerns, will update problem list to reflect remission status accurately.
+6. Correct problem list – update tobacco entry to reflect current use rather than history.
+
+Return to clinic in 2 weeks or sooner if worsening symptoms. Pt verbalizes understanding of plan, agrees to follow-up.
+
+Anita Patel, MD

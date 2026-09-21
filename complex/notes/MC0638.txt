@@ -1,0 +1,35 @@
+TELEHEALTH F/U VISIT - Primary Care
+Patient: Rosa Nguyen, F, DOB 2/21/1951 (age 72)
+DOS: 02/21/2023
+Author: Michael Dunn, DO
+
+CC: Post-hospitalization f/u s/p pneumonia
+
+HPI: 72 yo F recently d/c'd from hospital after tx for community-acquired pneumonia, seen via telehealth today for f/u. Pt reports improving cough, less SOB, appetite returning to normal. Denies fever/chills. c/o mild fatigue still, otherwise doing ok. Hx of GERD and OSA, both stable per pt, using CPAP nightly w/ good compliance. No new cardiac or resp sx today. Pt lives alone, has home health aide 2x/wk for assistance.
+
+ROS: Resp - improving cough, no hemoptysis. GI - occ heartburn, controlled w/ PPI. Sleep - uses CPAP, feels rested. All other systems negative per pt report.
+
+Social Hx: Retired schoolteacher. Lives independently. Denies etoh use. Tried a few cigarettes as a teenager but never smoked regularly - no current or hx of regular tobacco use. No illicit drug use.
+
+Meds: Omeprazole 20mg daily, amoxicillin-clavulanate (course completing 2/24/23), albuterol PRN
+
+Allergies: NKDA
+
+Vitals (telehealth, pt reported/home cuff): BP 128/76, HR 78, Temp 98.2F, O2 sat 96% RA (home pulse ox)
+
+Labs/Results (from recent hospitalization, reviewed today):
+CBC 2/17/23: WBC 11.2 (elevated, downtrending from 14.8 on admission), Hgb 12.9, Plt 245
+BMP 2/17/23: Na 138, K 4.1, Cl 102, CO2 24, BUN 18, Cr 0.9, Glucose 102
+CXR 2/16/23: RLL infiltrate, improved from admission film 2/14/23
+Procalcitonin 2/14/23: 0.6 (elevated)
+
+Assessment/Plan:
+1. Pneumonia, resolving - pt clinically improved, will complete abx course as prescribed. F/u CXR in 6 wks to confirm resolution given age. No significant smoking hx of note; pt tried a few cigs as teen but never smoked regularly.
+2. GERD - stable on current PPI dose, cont omeprazole
+3. OSA - stable, cont CPAP, good compliance reported
+4. Health maintenance - reviewed vaccination status, pt up to date on pneumococcal and influenza vaccines. General lung health discussed given recent pneumonia episode.
+
+F/u: Return to clinic or telehealth in 2 wks, sooner if worsening sx. Pt verbalized understanding, no further questions today.
+
+---ADDENDUM (later same day, 02/21/2023, 4:45pm)---
+Addendum by Dr. Dunn: Spoke again briefly w/ pt by phone this afternoon re: home health aide scheduling conflict, resolved with agency directly, no changes to medical plan above. Pt confirmed she remains afebrile and stable since our earlier visit today. No further action needed at this time. Will still f/u CXR in 6 wks per plan above.

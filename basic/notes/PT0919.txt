@@ -1,0 +1,86 @@
+General Medicine Clinic Office Visit
+
+Patient: BROWN, Gregory    MRN: 99852501
+DOB: 02/22/1966    Age: 59 y.o.    Sex: Male
+Date of Service: 01/30/2026    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Lung cancer screening
+
+Subjective:
+Gregory Brown is a 59 y.o. male who presents for lung cancer screening shared decision-making.
+Here to discuss lung cancer screening. He smoked one pack per day for 35 years and quit in 6/2021. Asymptomatic from a respiratory standpoint.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity
+• Hyperlipidemia
+• BPH with LUTS	2023
+• Essential hypertension
+• Chronic obstructive pulmonary disease
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2012)
+• TURP (2012)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• budesonide-formoterol 160/4.5 2 puffs BID
+• losartan 50 mg daily
+• tamsulosin 0.4 mg nightly
+• amlodipine 5 mg daily
+• atorvastatin 20 mg daily
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA PRN
+• finasteride 5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives with wife and adult son.
+  Retired cashier.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 134/80 (BP Location: Left arm, Patient Position: Sitting) | Pulse 61 | Temp 98.3 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 205 lb | SpO2 93% | BMI 33.01 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (01/05/2026): LDL 72, Cr 1.04, K 4.9
+
+Assessment & Plan
+1. Lung cancer screening
+   SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+Return in about 1 month (around 2/28/2026).
+
+Electronically signed by Farah Siddiqui, MD on 01/30/2026

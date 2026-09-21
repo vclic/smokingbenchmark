@@ -1,0 +1,87 @@
+GERIATRICS H&P
+Patient: Lan Rivera (F) DOB: 4/18/1959 (age 66)
+Date of Service: 05/01/2025
+Author: Daniel Reyes, MD
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, med reconciliation, and follow-up of chronic conditions.
+
+HPI:
+Ms. Rivera is a 66-year-old woman with history of osteoporosis, hyperlipidemia, depression, and gout who presents for annual geriatric wellness visit. She reports feeling "about the same as last year, maybe a little more tired in the afternoons." She denies falls, denies new joint pain, but states "my knees ache more when it rains." She is independent in all ADLs and IADLs, still drives locally, and manages her own medications with a weekly pillbox. She lives alone; her daughter checks in daily by phone. She reports good appetite and states "I eat pretty well, maybe too much rice." No new bowel or bladder complaints. Mood is stable on current regimen; she denies SI/HI. She continues to attend a weekly social group at her church, which she says "keeps me sane."
+
+--- Copied forward from visit dated 11/14/2023 (Dr. Reyes) ---
+Patient continues on alendronate weekly for osteoporosis, tolerating without GI upset. Hyperlipidemia stable on atorvastatin 20mg qhs, last lipid panel reviewed and discussed. Depression: patient reports mood "okay," continues sertraline 50mg daily, denies SI/HI, sleep adequate. Gout: last flare approximately 8 months ago, managed with colchicine PRN, uric acid to be rechecked. Recommend continued weight-bearing exercise, calcium/vitamin D supplementation, fall precautions reviewed with patient. Follow up in 6 months or sooner if symptoms worsen. Immunizations reviewed and updated per schedule. Patient counseled regarding diet, exercise, and safety measures in home.
+--- end copied text ---
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. M81.0 - Age-related osteoporosis without current pathological fracture
+2. E78.5 - Hyperlipidemia, unspecified
+3. F33.1 - Major depressive disorder, recurrent, moderate
+4. M10.9 - Gout, unspecified
+5. M19.90 - Osteoarthritis, unspecified site (outdated entry, not addressed today, patient denies significant symptoms currently)
+6. Z87.891 - Personal history of nicotine dependence
+
+SOCIAL HISTORY:
+TOBACCO USE [EHR-templated block]:
+ Smoking status: Former smoker
+ Pack-year history: Patient smoked 1 pack per day for 19 years, then transitioned to approximately 15 cigarettes per day for the following 9 years before quitting entirely.
+ Current use: None. Patient no longer smokes.
+ Quit context: Patient reports she quit smoking when her youngest grandchild was born; that grandchild is now 19 years old.
+ Secondhand smoke exposure: Denies.
+ Smokeless tobacco: Denies.
+ E-cigarette/vaping: Denies.
+
+Alcohol: Occasional glass of wine with dinner, denies excess use.
+Living situation: Lives alone in single-story home, daughter nearby.
+Exercise: Reports walking most days, attends chair yoga class weekly.
+
+MEDICATIONS:
+- Alendronate 70mg PO weekly
+- Atorvastatin 20mg PO qhs
+- Sertraline 50mg PO daily
+- Colchicine 0.6mg PRN gout flare
+- Calcium carbonate/Vitamin D3 supplement daily
+- Allopurinol 100mg PO daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Musculoskeletal: Mild bilateral knee discomfort, no swelling or redness today.
+Psychiatric: Mood stable, denies SI/HI, sleep adequate.
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.4F, Wt 142 lbs, Ht 5'3", BMI 25.1
+General: Well-appearing, well-nourished woman in no acute distress.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Cardiovascular: RRR, no murmurs/gallops/rubs.
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, mild crepitus in bilateral knees, no active gout flare noted, first MTP joints without erythema or swelling.
+Skin: No rashes or lesions.
+Neuro: Alert and oriented x3, gait steady, no focal deficits.
+Psych: Mood euthymic, affect appropriate, cooperative.
+
+LABS/RESULTS:
+- CBC (04/22/2025): WBC 6.1, Hgb 13.2, Hct 39.5, Plt 245 - within normal limits
+- CMP (04/22/2025): Na 140, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.8, Glucose 94 - within normal limits
+- Lipid panel (04/22/2025): Total cholesterol 178, LDL 96, HDL 58, Triglycerides 120 - improved from prior
+- Uric acid (04/22/2025): 6.8 mg/dL - within target range
+- DEXA scan (01/15/2025): T-score -2.3 at lumbar spine, -2.1 at femoral neck - stable osteoporosis, no new compression fractures
+- Vitamin D, 25-OH (04/22/2025): 34 ng/mL - sufficient
+
+ASSESSMENT:
+66-year-old woman with osteoporosis, hyperlipidemia, depression, and gout, presenting for annual geriatric assessment. Overall stable. Former smoker, no current tobacco use.
+
+PLAN:
+1. Osteoporosis - Continue alendronate weekly, continue calcium/vitamin D, encourage weight-bearing exercise, repeat DEXA in 2 years.
+2. Hyperlipidemia - Continue atorvastatin, lipid panel improved, recheck in 6 months.
+3. Depression - Continue sertraline, mood stable, continue to monitor, follow up sooner if worsening.
+4. Gout - Continue allopurinol, uric acid within target, colchicine PRN for flares, recheck uric acid in 6 months.
+5. Tobacco history - Patient is a former smoker; reinforced importance of continued abstinence. Lung cancer screening discussed as part of general health maintenance conversation; no further imaging ordered today.
+6. Health maintenance - Immunizations reviewed, up to date. Fall risk assessment performed, low risk. Advance directive on file, reviewed with patient.
+7. Follow up in 6 months or sooner as needed.
+
+Time spent with patient: 35 minutes, greater than half spent on counseling and coordination of care.
+
+Electronically signed: Daniel Reyes, MD, Geriatrics, 05/01/2025

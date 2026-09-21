@@ -1,0 +1,40 @@
+CEDAR VALLEY PULMONOLOGY
+Date of Service: 04/21/2025
+Patient: Gloria Okafor DOB: 04/21/1968 (Age 57) Sex: F
+Provider: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 128/78, HR 76, RR 16, SpO2 97% RA, Temp 98.2F, Wt 154 lb
+CC: f/u incidental lung nodule found on ER CT for rib pain last month.
+Allergies: NKDA
+Meds reviewed: alendronate weekly, albuterol PRN, tamsulosin daily (pt states "I only miss the alendronate sometimes").
+Pt denies fever, hemoptysis, wt loss. Reports occasional dry cough, states "it's been like that for years, nothing new."
+
+Problem List:
+- M81.0 Osteoporosis, age-related, without pathological fracture
+- J45.909 Asthma, unspecified, uncomplicated
+- N40.1 BPH with LUTS
+- R91.1 Solitary pulmonary nodule (new)
+- Z87.891 Personal history of nicotine dependence (old entry, outdated - see note below)
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 57F here today for follow up of an incidentally-noted lung nodule seen on chest CT done in the ED 3/2025 for rib pain after a fall. Pt says "I wasn't even thinking about my lungs, I was worried about my ribs." She denies dyspnea at rest, denies chest pain, denies fevers/chills. She does note occasional dry cough which she attributes to her asthma, [inaudible] when climbing stairs but improves with albuterol she says her asthma has been "pretty stable" overall and she uses her inhaler maybe once a week and she also mentions her osteoporosis is followed by her PCP and she just had a DEXA in Jan which she thinks was "about the same as last time."
+ROS: otherwise negative except as above.
+
+Exam: Well-appearing woman in NAD. Lungs CTA bilaterally, no wheezes/rales/rhonchi. CV RRR no m/r/g. No clubbing/cyanosis/edema.
+
+Imaging: CT chest 3/2025 - 7mm solid nodule RUL, no prior imaging for comparison. No adenopathy.
+
+Assessment/Plan:
+1. Solitary pulmonary nodule, RUL, 7mm - given smoking history (see below), recommend follow-up low-dose CT chest per Fleischner guidelines in 6-12 months rather than immediate biopsy given low-risk size. Discussed findings and general risk factors with patient; screening eligibility discussed conceptually but no imaging ordered today beyond routine follow up interval.
+   Smoking history: patient is a former smoker. She smoked approximately half a pack (about 10 cigarettes) per day for 18 years, then increased to 1 pack per day for 17 years before quitting. She quit smoking 3 years ago. Congratulated pt on cessation, encouraged continued abstinence.
+2. Asthma - stable on current regimen, continue albuterol PRN, reassess at next visit.
+3. Osteoporosis - continue alendronate, defer to PCP for DEXA follow-up.
+4. BPH - stable on tamsulosin, no new urinary symptoms.
+
+Return to clinic per above interval or sooner if new symptoms develop.
+
+Daniel Reyes, MD
+
+--- ADDENDUM (later same day) ---
+Addendum 04/21/2025 1615: Spoke with patient by phone after she called clinic with question about her nodule follow-up interval; clarified that repeat CT will be scheduled closer to the target window and she does not need to do anything further at this time. Reiterated importance of not smoking going forward given her former smoking history as above. Also updated problem list - Z87.891 (hx nicotine dependence) is accurate and should remain given her former smoker status; will remove other outdated entries at next visit. No other changes to plan. -DR

@@ -1,0 +1,33 @@
+Telehealth Visit Note
+Patient: Ronald Perry (M), DOB 1/23/1963
+Date of Service: 01/23/2025
+Provider: Rachel Goldberg, MD - Cardiology
+
+HPI:
+62 yo male with hx of PAD, GERD, HLD, COPD, HTN, CAD presenting via video visit for eval of chest pain. Pt states pain started 2 days ago, intermittent, substernal, non-exertional, denies radiating to jaw or [inaudible] left arm although he did note some pressure with exertion mowing the lawn last weekend and now feels a bit better but still gets occassional twinges especially after meals which may be related to his GERD given timing after eating spicy food. No SOB at rest, some dyspnea on exertion which he attributes to his COPD, no LE edema noted, PAD stable per pt with no new claudication sx.
+
+Social History:
+Current smoker, tobacco use ongoing. Denies alcohol excess. Lives alone, retired mechanic.
+
+ROS: Otherwise negative except as above, denies fevers, denies syncope, denies palpitations.
+
+Exam:
+Vitals per home cuff reported by pt today - BP 138/84, HR 78, unable to obtain O2 sat via telehealth.
+Gen: NAD, conversing in full sentences.
+CV: RRR, no m/r/g appreciated (limited by telehealth format, no auscultation performed).
+Resp: no visible increased work of breathing.
+Ext: no edema visualized on camera.
+
+Assessment/Plan:
+62 yo male, DOS 01/23/2025, with CAD, HTN, HLD, COPD, PAD presenting with atypical chest pain, likely GERD-related given post-prandial pattern, though cardiac etiology cannot be fully excluded given CAD history.
+Smoking history notable and reviewed in detail with patient: 1 pack per day for 13 years, then increased to 2 packs per day for 18 years, then cut down to about a quarter pack (approx 5 cigarettes) per day for the past 13 years, which he continues currently. Patient remains an active smoker at this time. Counseled extensively on smoking cessation, offered resources, pt states he is 'thinking about it.' Lung cancer screening was discussed with patient in general terms.
+1. Chest pain - likely GERD component, will optimize PPI dosing, obtain outpt stress test to r/o cardiac cause given CAD hx.
+2. CAD - continue statin, ASA, follow up in 3 months or sooner if sx worsen.
+3. COPD - continue current inhalers, reinforce smoking cessation counseling as above.
+4. HTN - well controlled today, continue current regimen.
+5. PAD - stable, continue antiplatelet, f/u vascular surgery per prior schedule.
+
+RTC 3 months, sooner if symptoms worsen or new red flag sx develop such as syncope or worsening dyspnea.
+
+Addendum (later same day):
+Spoke with patient again by phone re: stress test scheduling, pt agreeable, will call scheduling dept tomorrow AM. Also clarified with pt that he has not had any syncopal episodes, reassured. No other changes to plan above.

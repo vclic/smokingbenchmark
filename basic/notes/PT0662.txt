@@ -1,0 +1,44 @@
+Adult Medicine Clinic Note
+Date of Service: 3/17/2025
+Patient: Maria Carter   DOB: 7/23/1965   MRN: 70263749
+
+S:
+CC: Annual physical
+HPI: Ms. Carter is a 59-year-old female with a history of HTN, hypothyroidism, and GERD; tobacco: 12 cigs/d x24y; she presents for an annual physical. No acute complaints today. Swims twice a week. Sleeping well.
+
+PMH:
+- Acquired hypothyroidism
+- Hypertension
+- GERD
+PSH: Cholecystectomy; Lumpectomy, benign (2010)
+Meds: levothyroxine 100 mcg daily; losartan 50 mg daily; omeprazole 20 mg daily
+Allergies: NKDA
+SH: Widowed; lives with son. Works as a mechanic. Tob: Former smoker. Switched to vaping when she quit cigarettes; currently vapes daily. EtOH: 2-3 drinks on weekends. No illicit drug use.
+FH: Mother - dementia, d. 84.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 158/70  HR: 85  RR: 16  Temp: 98.3 F  SpO2: 100% on RA  Wt: 151 lbs  BMI: 25.2
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+A/P:
+1. Health maintenance
+   - Colonoscopy 2020 - normal; Mammogram August 17, 2024 - BI-RADS 1; Shingrix series complete; PCV20 given.
+2. Hypertension: Elevated today; home BP log requested.
+3. Acquired hypothyroidism: Recheck TSH.
+4. Hx tobacco use: Remains abstinent.
+5. GERD
+   - Trial PPI step-down.
+
+RTC 3 months.
+
+Electronically signed by Steven Park, MD on 3/18/2025 at 13:27

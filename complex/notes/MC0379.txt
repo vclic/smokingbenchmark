@@ -1,0 +1,42 @@
+NEW PATIENT VISIT - ESTABLISH CARE
+Date of Service: 12/12/2023
+Author: Daniel Reyes, MD (NP progress note)
+
+Patient: Judith Patel, F, DOB 10/18/1948, age 75.
+
+CC: Establish care with PCP. Pt new to area, prior records requested.
+
+HPI: 75 y/o F here to establish care. Reports hx of OSA, on CPAP per outside records - compliance unclear, will review download. Also hyperlipidemia, on statin per pt report, unsure of dose/name at this visit. No acute complaints today. Denies chest pain, SOB, palpitations. Sleep quality fair, snoring per husband. Denies daytime somnolence significant. Diet reviewed, low fat encouraged.
+
+Social History: Never smoker - never smoked cigarettes. Occasional glass of wine, denies illicit drug use. Lives with husband, retired schoolteacher.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2019 (outside clinic, imported into chart) ----
+CC: follow up hyperlipidemia. HPI: pt doing well, no new complaints. Labs reviewed, LDL improved on current regimen. Continue current med. ROS otherwise negative. Exam: NAD, lungs CTA, heart RRR, abd benign. A/P: hyperlipidemia stable, continue statin, recheck lipids in 1 year. Return visit 6 months or PRN. -- end of imported note --
+----------------------------------------------------------------------
+
+ROS: Constitutional - denies fever, chills, weight loss. Eyes - denies visual changes. ENT - denies sore throat, denies epistaxis. CV - denies chest pain, denies edema. Resp - denies cough, denies wheeze. GI - denies nausea, denies vomiting, denies abd pain. GU - denies dysuria, denies hematuria. MSK - denies joint pain, denies swelling. Skin - denies rash. Neuro - denies HA, denies dizziness, denies focal weakness. Psych - denies depression, denies anxiety. Endo - denies polyuria, denies polydipsia. Heme/Lymph - denies bruising, denies lymphadenopathy. Allergy/Immune - denies hives.
+
+Physical Exam: Vitals stable, BP 128/76, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, BMI 26.
+General: well-appearing, NAD.
+HEENT: normocephalic, atraumatic, oropharynx clear, mallampati class II noted (relevant to OSA).
+Neck: no LAD, no thyromegaly.
+CV: RRR, no murmurs/rubs/gallops.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Abd: soft, NT/ND, normoactive bowel sounds.
+Extremities: no edema, pulses 2+ throughout.
+Skin: no rash, no lesions.
+Neuro: alert, oriented x3, CN II-XII grossly intact.
+Psych: mood/affect appropriate.
+
+Medications (per pt report, to reconcile): Atorvastatin 20mg qhs; CPAP therapy nightly; Vitamin D3 1000IU daily; Calcium carbonate 500mg BID; Multivitamin daily; Omega-3 fish oil 1000mg daily; occasional OTC melatonin.
+
+Assessment/Plan:
+1. OSA - continue CPAP, review compliance data at next visit, consider repeat sleep study if symptoms worsen.
+2. Hyperlipidemia - continue atorvastatin, recheck fasting lipid panel, reinforce diet/exercise.
+3. Health maintenance - age-appropriate screening discussed, immunizations reviewed, will update as needed.
+4. Return to clinic in 3 months or sooner if concerns.
+
+Electronically signed: Daniel Reyes, MD
+
+---ADDENDUM (later same day, 12/12/2023)---
+Spoke with patient by phone re: pharmacy question, clarified atorvastatin dose is 20mg as documented. No other changes to plan. Pt confirmed again she has never smoked cigarettes, for clarification in chart. -- D. Reyes, MD

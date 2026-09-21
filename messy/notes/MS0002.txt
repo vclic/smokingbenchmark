@@ -1,0 +1,61 @@
+Pulmonology COPD Follow-Up - Resident Note with Attending Attestation
+Patient: Theresa Adams | DOB: 05/29/1969 | Age: 56 | Sex: F
+Date of Service: 05/29/2025
+Author: Laura Castellano, FNP-C
+Attending: Dr. R. Nkemdirim (attestation below)
+
+CC: COPD f/u
+
+HPI:
+56 yo F w/ hx COPD, HTN, HLD, OSA (on CPAP), GERD presents to pulm clinic for routine COPD follow-up, DOS 05/29/2025. Pt states "I still get winded going up the stairs at home, but it's not much worse than last visit." Denies fever, chest pain, hemoptysis, or unintentional wt loss. Uses albuterol PRN, reports using it "maybe 3-4 times a week." No ER visits or steroid/abx courses since last seen 3 mo ago. Sleep reportedly improved on CPAP per pt report, though she admits inconsistent nightly use, "I forget to put it on some nights." Pt continues to endorse chronic cough productive of small amts of clear sputum, worse in AM. No wheeze reported at home currently. GERD sx controlled on PPI, no recent flares. HTN and HLD stable per pt, taking meds as prescribed, no missed doses reported.
+
+ROS: Constitutional - neg for fever/chills/wt loss. Resp - chronic cough, dyspnea on exertion as above, denies hemoptysis. CV - denies CP/palpitations/edema. GI - occasional reflux, controlled. Neuro - denies HA/dizziness. Psych - denies depression/anxiety sx today.
+
+PMH: COPD (GOLD B), HTN, HLD, OSA on CPAP, GERD.
+PSH: none on file.
+Meds: albuterol HFA PRN, tiotropium daily, lisinopril, atorvastatin, omeprazole.
+Allergies: NKDA.
+
+Social History (templated EHR block):
+Tobacco use: Current every day smoker
+  Packs/day: 0.50
+  Years: 37.00
+  Type: cigarettes
+  Quit date: Not on file
+  Pack-years: (field not calculated)
+Alcohol use: occasional, denies to excess
+Drug use: denies
+Occupation: retail associate
+Living situation: lives w/ spouse
+Exercise: sedentary, limited by dyspnea
+
+Pt continues to smoke despite counseling at prior visits regarding cessation; discussed again today. Pt states she is "not ready to quit right now" but will consider nicotine patches. Provided cessation resources/handout, encouraged to call quitline. Discussed general importance of smoking cessation for COPD progression and cardiovascular risk reduction.
+
+Physical Exam:
+Vitals: BP 132/84, HR 78, RR 16, SpO2 94% RA, Temp 98.2F, BMI 29.4
+Gen: NAD, comfortable, conversant.
+HEENT: no JVD, no LAD.
+Resp: mildly prolonged expiratory phase, no wheeze/rales/rhonchi appreciated today, no accessory muscle use.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND, +BS.
+Ext: no c/c/e.
+Skin: no rash.
+
+Labs/Imaging: CXR from prior visit (03/2025) reviewed - hyperinflation, no acute infiltrate. Spirometry from same date reviewed, FEV1/FVC consistent with moderate obstruction, no significant change from prior.
+
+Assessment/Plan:
+1. COPD, GOLD B - stable sx today, continue current inhaler regimen (albuterol PRN + tiotropium daily). Reinforced proper inhaler technique. Reviewed action plan for exacerbation.
+2. Tobacco use disorder - pt continues to smoke despite ongoing counseling; discussed cessation options incl nicotine patches and quitline referral today. Screening for lung cancer was discussed in general terms with pt; no imaging ordered today.
+3. HTN - well controlled, continue lisinopril.
+4. HLD - continue atorvastatin, recheck lipid panel at next visit.
+5. OSA - continue CPAP, encourage more consistent nightly use, may benefit from repeat sleep study if sx persist.
+6. GERD - continue omeprazole, sx controlled.
+RTC 3 months or sooner if worsening sx.
+
+Attending Attestation:
+I saw and examined the patient with Ms. Castellano, FNP-C, and discussed the assessment and plan as above. I agree with the history, exam findings, and plan documented, including continued tobacco use despite counseling and the plan for cessation support. Reviewed spirometry and CXR personally.
+- Dr. R. Nkemdirim, Pulmonology Attending
+
+ADDENDUM (later same day, 05/29/2025, 16:40):
+Pt called clinic nursing line this afternoon requesting clarification on nicotine patch dosing discussed at visit. Advised to start with 21mg patch daily per prior discussion and follow up with PCP or pulm clinic if side effects occur. Reiterated encouragement to quit smoking given COPD diagnosis and combination with HTN/HLD as cardiovascular risk factors. No new complaints reported. Pt verbalized understanding.
+- Laura Castellano, FNP-C

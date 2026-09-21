@@ -1,0 +1,48 @@
+Internal Medicine – History & Physical
+Patient: Luis Carter, M, DOB 2/21/1964 (age 62)
+DOS: 02/21/2026
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Follow-up, hypertension and type 2 diabetes.
+
+HPI: Mr. Carter is a 62-year-old male presenting for routine follow-up of hypertension, diabetes, OSA, CAD, and obesity. He reports, "I've been checking my sugars most mornings, they run in the 130s." He also states, "My blood pressure has been fine at home, around 128/78." No chest pain, no dyspnea on exertion today. He uses his CPAP nightly per his report. Diet and exercise reviewed; he continues to work on weight loss with moderate success.
+
+PAST MEDICAL/SURGICAL HISTORY (problem list, ICD-10):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- G47.33 Obstructive sleep apnea
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina
+- E66.9 Obesity
+- CABG x3 (2002)
+- Z95.1 Presence of aortocoronary bypass graft (copied forward, outdated entry, retained per prior note)
+- M54.5 Low back pain (2014, resolved, kept in list per legacy chart)
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+ Tobacco use status: Former smoker
+ Type: Cigarettes
+ History: Smoked 2 packs per day for 5 years; then reduced to 1.5 packs per day for 7 years; then 1 pack per day for 5 years before cessation.
+ Current use: None
+ Years quit: not specified in this field
+ Counseling: Tobacco cessation maintenance discussed; reinforced benefits of continued abstinence.
+
+He reports quitting smoking right after his bypass surgery and has not smoked since.
+
+MEDICATIONS: Metformin 1000 mg BID, lisinopril 20 mg daily, atorvastatin 40 mg qhs, aspirin 81 mg daily, CPAP therapy.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 130/80, HR 72, BMI 33.
+
+PHYSICAL EXAM: Alert, no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear bilaterally. Extremities: no edema.
+
+ASSESSMENT/PLAN:
+1. Hypertension – well controlled, continue current regimen.
+2. Type 2 diabetes – A1c pending, continue metformin, reinforce diet.
+3. OSA – continue CPAP, reassess adherence data at next visit.
+4. CAD s/p CABG x3 (2002) – stable, continue statin and aspirin.
+5. Obesity – encourage continued lifestyle modification, consider referral to nutrition.
+6. Tobacco – former smoker, no current use; lung cancer screening discussed with patient as part of preventive care conversation.
+
+Follow-up in 3 months or sooner as needed.
+
+ADDENDUM (same day, 3:45 PM, Steven Park, MD): Patient called after visit to clarify that his home glucose log shows fasting values consistently 125-140; will forward to nursing for review and possible medication adjustment pending A1c results. No changes to smoking history or other documentation above.

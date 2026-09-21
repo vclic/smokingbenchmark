@@ -1,0 +1,88 @@
+Internal Medicine Office Visit
+
+Patient: CAMPBELL, Pamela    MRN: 33162778
+DOB: 01/25/1955    Age: 70 y.o.    Sex: Female
+Date of Service: 09/01/2025    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Pamela Campbell is a 70 y.o. female who presents for diabetes follow-up.
+Most recent A1c 7.9% (previously 7.8% in May 2025). Rarely checks glucose at home. Denies polyuria/polydipsia. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis
+• Coronary artery disease
+• Type 2 diabetes mellitus
+• Prior ischemic stroke
+• HTN
+• GERD
+• Hyperlipidemia	2003
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• sitagliptin 100 mg daily
+• famotidine 20 mg BID
+• ezetimibe 10 mg daily
+• rosuvastatin 20 mg daily
+• amlodipine 5 mg daily
+• losartan 50 mg daily
+• metoprolol succinate 50 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Drinks a glass of wine with dinner.
+  No IVDU.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 122/94 (BP Location: Left arm, Patient Position: Sitting) | Pulse 63 | Temp 97.9 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 167 lb | SpO2 100% | BMI 26.12 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (2025-08-10): A1c 7.9%, LDL 112, Cr 0.71, K 3.9
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 7.9% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. HTN
+   Elevated today; home BP log requested.
+3. Health maintenance
+   LCS: N/A - never smoker.
+
+Return in about 3 months (around 12/1/2025).
+
+Electronically signed by Isaac Moreno, PA-C on 09/01/2025

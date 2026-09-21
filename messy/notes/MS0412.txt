@@ -1,0 +1,37 @@
+Hospital Discharge Follow-Up – History and Physical
+Patient: Steven Flores (M), DOB 2/21/1946, Age: 80
+Date of Service: 06/02/2026
+Author: Kevin Osei, MD (Primary Care)
+
+HPI:
+Mr. Flores is an 80-year-old male seen today for follow-up after recent hospitalization for pneumonia. He reports improving cough and energy since discharge, no fevers, mild residual dyspnea on exertion. He is being followed for OSA, gout, asthma, HFrEF, BPH, and hypothyroidism. He denies chest pain, orthopnea has improved with diuretic adjustment.
+
+--- Copied forward from visit 11/14/2024 ---
+Pt with hx of intermittent gout flares, last managed with colchicine taper. OSA on CPAP, reports variable compliance, machine due for resupply. Asthma stable on albuterol PRN, no rescue inhaler use in past month per pt report. HFrEF followed by cardiology, echo showed EF 35% at that time, on GDMT including carvedilol, sacubitril/valsartan, spironolactone. BPH stable on tamsulosin, no urinary retention episodes. Hypothyroidism on levothyroxine 75 mcg daily, TSH within range. Pt lives alone, ambulates with cane, son involved in care. Continue current regimen, f/u in 6 months.
+--- end copied text ---
+
+Social History (EHR Template):
+Tobacco Use: Former smoker
+  - Cigarettes: 1 pack per day x 51 years
+  - Quit Date/Year: 2013
+  - Other tobacco: Not on file
+Alcohol Use: Not on file
+Illicit Drug Use: Denies
+Occupation: Retired
+Living Situation: Lives alone, son nearby
+
+Assessment/Plan:
+1. Recent pneumonia, resolving - continue supportive care, repeat CXR in 4-6 weeks to confirm resolution.
+2. HFrEF - continue GDMT, monitor weights daily, follow up with cardiology.
+3. OSA - encourage CPAP compliance, order resupply.
+4. Asthma - continue albuterol PRN, reassess control at next visit.
+5. Gout - continue current management, monitor uric acid.
+6. BPH - continue tamsulosin.
+7. Hypothyroidism - continue levothyroxine, recheck TSH in 3 months.
+8. Discussed general health maintenance including age-appropriate screenings; lung cancer screening was discussed as a topic for further conversation.
+9. Tobacco: patient quit smoking in 2013, counseled to continue abstinence, congratulated on cessation.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen.
+
+--- ADDENDUM (same day, later) ---
+Addendum by Dr. Osei, 06/02/2026 16:45: Patient called nursing line after visit reporting mild lightheadedness at home; advised to check BP at home and log values, will review at next visit. No new medication changes made. If symptoms worsen or he experiences syncope, advised to go to ED.

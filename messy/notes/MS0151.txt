@@ -1,0 +1,48 @@
+GERIATRIC ASSESSMENT - Nurse Intake / Physician Progress Note
+DOS: 05/07/2023
+Provider: Owen Fitzgerald, MD
+Patient: Linda Davis, F, DOB 05/07/1943 (age 80 today)
+
+--- NURSE INTAKE ---
+Vitals: BP 138/76, HR 72, Wt 142 lb, Ht 5'3", O2 sat 97% RA.
+Pt here for annual geriatric assessment, accompanied by daughter.
+
+HPI: Ms. Davis is an 80-year-old woman with history of hypertension and osteoporosis presenting for routine geriatric wellness visit. She reports feeling generally well. "I get a little short of breath climbing the stairs at home, but otherwise I'm doing fine, Doctor," she states. Denies chest pain, dizziness, or falls in past 6 months. She reports taking her meds regularly and has a home health aide who assists twice weekly. "I don't smoke anymore, haven't in years," she adds when asked about tobacco use during intake.
+
+Review of systems otherwise negative except for occasional joint stiffness in AM, consistent with known osteoporosis/mild OA.
+
+--- SOCIAL HISTORY (EHR TEMPLATE) ---
+Tobacco use: Former smoker
+Smoking history: Smoked approximately half a pack (about 10 cigarettes) per day for 35 years; quit smoking in January 1997.
+Alcohol use: Not on file
+Drug use: Denies
+Living situation: Lives alone, daughter nearby
+Occupation: Retired schoolteacher
+Exercise: Not on file
+Secondhand smoke exposure: [blank]
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 10/07/2019 (Dr. Fitzgerald) ---
+[Begin copied text]
+Patient is a 76-year-old woman here for follow-up of hypertension and osteoporosis. As of the 10/07/2019 visit, social history notes patient is a former smoker. Continues on lisinopril and alendronate with good tolerance. Bone density scan reviewed, stable. Advised continued calcium/vitamin D supplementation and weight-bearing exercise. Blood pressure well controlled today. Follow up in 6 months or sooner if needed.
+[End copied text]
+(Note: above paragraph appears to have been carried forward inadvertently from 2019 encounter and left in chart template; content reflects status as of that date only.)
+
+--- LABS/RESULTS ---
+04/28/2023 CBC: WBC 6.1, Hgb 13.2, Hct 39.8, Plt 245
+04/28/2023 BMP: Na 140, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.9, Glucose 98
+03/15/2023 DEXA scan: T-score -2.6 lumbar spine, -2.3 femoral neck (consistent with known osteoporosis)
+Lipid panel 04/28/2023: Total chol 188, LDL 102, HDL 58, TG 140
+
+--- ASSESSMENT & PLAN ---
+80-year-old woman with hypertension and osteoporosis, here for geriatric assessment on 05/07/2023.
+
+1. Hypertension - well controlled on current regimen, BP 138/76 today. Continue lisinopril, recheck at next visit.
+2. Osteoporosis - stable per DEXA 03/15/2023. Continue alendronate, calcium/vitamin D. Encourage weight-bearing exercise, fall precautions reviewed.
+3. Tobacco history - former smoker, quit January 1997; no current tobacco use. Reinforced continued abstinence, no further intervention needed at this time.
+4. Health maintenance - age-appropriate cancer screening discussed with patient; will review options at follow-up.
+5. General geriatric wellness - functional status good, no falls, cognitive screen WNL today (MoCA 27/30). Continue home health aide support.
+
+Return to clinic in 6 months, sooner if concerns arise.
+
+Owen Fitzgerald, MD
+Geriatrics

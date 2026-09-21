@@ -1,0 +1,73 @@
+Adult Medicine Office Visit
+
+Patient: BROOKS, Theresa    MRN: 63643249
+DOB: 12/29/1952    Age: 72 y.o.    Sex: Female
+Date of Service: 04/08/2025    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Theresa Brooks is a 72 y.o. female who presents for pre-operative evaluation prior to laparoscopic cholecystectomy.
+Scheduled for laparoscopic cholecystectomy on 5/9/2025. Functional capacity limited by pain, estimated 4 METs. No prior anesthesia complications.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• CKD 3b
+• Hypertension
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• hydrochlorothiazide 25 mg daily
+• losartan 100 mg daily
+• diclofenac 1% gel QID PRN
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: quit in 2016
+Social History Narrative
+  Lives alone in an apartment.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+
+Family History
+Father - MI at 74.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 132/70 (BP Location: Left arm, Patient Position: Sitting) | Pulse 95 | Temp 97.9 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 170 lb | SpO2 97% | BMI 25.77 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (03/10/2025): Cr 0.76, K 3.9
+
+Assessment & Plan
+1. Pre-operative evaluation
+   Low risk. CBC, BMP ordered.
+2. Hypertension
+   BP at goal; continue current regimen.
+3. Health maintenance
+   LCS: annual LDCT due - ordered.
+
+Return in about 3 months (around 7/8/2025).
+
+Electronically signed by Michael Dunn, DO on 04/08/2025

@@ -1,0 +1,85 @@
+URGENT CARE - NURSE INTAKE
+Patient: Richard Baker, M, DOB 08/05/1946 (age 78)
+Date of Service: 08/05/2024
+Provider: Kevin Osei, MD
+
+CHIEF COMPLAINT: cough x 5 days
+
+VITALS: BP 148/86 HR 88 RR 18 T 98.4F SpO2 95% RA Wt 189 lb
+
+NURSE NOTE: pt walked in c/o productive cough, denies fever chills. Reports mild SOB w exertion. states he has been coughing more at night. no chest pain currently. Hx HTN and T2DM noted on chart, meds reviewed pt states compliant mostly. tobacco use reviewed with pt - see below.
+
+SOCIAL HISTORY: Patient currently smokes cigarettes he reports smoking about a quarter pack (approx 5 cigarettes) per day and has done so for 59 years. Denies illicit drug use, occasional etoh use per pt report.
+
+---- COPIED FORWARD FROM VISIT 03/14/2022 (Dr. A. Nguyen, Primary Care) ----
+REVIEW OF SYSTEMS (comprehensive, templated):
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+Eyes: denies visual changes, denies eye pain
+ENT: denies sore throat, denies nasal congestion at that time, denies ear pain
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND
+Respiratory: reports chronic cough at baseline, denies hemoptysis at that visit
+GI: denies nausea, vomiting, diarrhea, constipation, abd pain
+GU: denies dysuria, denies hematuria, denies frequency
+MSK: reports chronic low back pain, denies new joint swelling
+Skin: denies rash, denies new lesions
+Neuro: denies headache, denies weakness, denies numbness/tingling
+Psych: denies depression, denies anxiety at that visit
+Endocrine: reports polyuria intermittently, denies polydipsia
+Heme/Lymph: denies easy bruising, denies swollen lymph nodes
+Allergic/Immunologic: denies seasonal allergy sx
+
+PHYSICAL EXAM (2022, templated, for reference only):
+General: well-developed well-nourished male, NAD
+HEENT: normocephalic atraumatic, PERRLA, EOMI, oropharynx clear, no exudate
+Neck: supple, no LAD, no thyromegaly
+CV: RRR, no murmur rub or gallop, normal S1 S2
+Lungs: CTAB, no wheeze rales rhonchi at that time
+Abdomen: soft nontender nondistended, normoactive bowel sounds
+Extremities: no edema, no cyanosis, no clubbing
+Skin: warm dry intact
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficit
+Psych: mood/affect appropriate
+---- END COPIED FORWARD SECTION ----
+
+PHYSICIAN PROGRESS NOTE - 08/05/2024
+HPI: Mr Baker is a 78 yo male w/ PMH HTN, T2DM presenting today for eval of cough. Cough started approx 5 days ago, productive of yellowish sputum, worse at night. He denies fever but feels fatigued. No known sick contacts. He continues to smoke cigarettes as noted above (quarter pack/day, 59 yrs). We discussed smoking cessation resources again today; he states he is 'not ready' to quit at this time but will consider nicotine patches.
+
+PROBLEM LIST (ICD-10):
+- Essential hypertension I10 (active)
+- Type 2 diabetes mellitus without complications E11.9 (active)
+- Acute bronchitis J20.9 (new, this visit, presumptive)
+- Tobacco use disorder, cigarettes Z72.0 (active)
+- Chronic low back pain M54.5 (outdated - resolved per pt, still listed from prior chart)
+- Seasonal allergic rhinitis J30.2 (outdated, not addressed in years)
+
+CURRENT MEDICATIONS:
+1. Lisinopril 20mg PO daily
+2. Metformin 1000mg PO BID
+3. Amlodipine 5mg PO daily
+4. Atorvastatin 40mg PO qhs
+5. Aspirin 81mg PO daily
+6. Metoprolol succinate 25mg PO daily
+7. Multivitamin PO daily
+8. Occasional ibuprofen 200mg PRN back pain (old, may not be taking)
+9. Albuterol inhaler PRN (new script given today)
+
+EXAM TODAY:
+General: alert, mildly fatigued appearing, NAD
+HEENT: oropharynx mildly erythematous, no exudate, TMs clear bilat
+Neck: supple no LAD
+CV: RRR nl S1 S2 no murmur
+Lungs: scattered rhonchi bilat bases, no wheeze, no crackles, good air movement
+Abd: soft NT ND
+Ext: no edema
+Skin: warm dry
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis - likely viral vs early bacterial, supportive care, encourage fluids, guaifenesin, albuterol inhaler PRN given wheeze/cough. Return if worsening dyspnea fever or chest pain.
+2. Tobacco use disorder - pt counseled again today regarding health risks of continued smoking given his tobacco history noted above; discussed cessation options including nicotine patches and counseling referral; screening for lung cancer was discussed in general terms as an option to consider with his PCP.
+3. HTN - stable on current regimen, BP slightly elevated today possibly due to acute illness, recheck at next visit
+4. T2DM - continue metformin, recheck A1c at next PCP visit, pt reports home glucose readings generally 120-160
+5. Follow up with PCP Dr Nguyen in 1-2 weeks or sooner if symptoms worsen
+
+Pt verbalizes understanding of plan. All questions answered. Time spent with pt approx 20 min, more than half spent counseling re: smoking cessation and chronic disease management.
+
+Electronically signed: Kevin Osei, MD 08/05/2024

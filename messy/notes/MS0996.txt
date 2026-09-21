@@ -1,0 +1,55 @@
+TELEHEALTH VISIT NOTE
+Patient: Sandra Garcia | DOB: 4/6/1956 | Age: 69
+Date of Service: 04/06/2025
+Provider: Owen Fitzgerald, MD (Cardiology)
+Visit Type: Video telehealth, heart failure f/u
+
+HPI:
+Pt is a 69 y/o female w/ hx of HFpEF, BPH, OA, OSA presenting via video for routine CHF f/u. Pt states "I've been doing okay, maybe a little more short of breath when I go up the stairs at my daughter's house." Denies orthopnea, denies PND, denies chest pain. Wt stable per home scale, she reports "I weigh myself every morning like you told me to." No lower extremity edema noted by pt on self-exam via camera, though [inaudible] lighting made visualization difficult so will have her son take photo and send thru portal. She continutes on her home diuretic regiman and reports good adherance, taking it every morning with breakfast, she says "I never miss a dose doctor." No recent hospitalizations, no ED visits since last seen. OSA — uses CPAP nightly, reports compliance per machine download c/w >85% usage, feels rested most mornings. BPH sx stable on tamsulosin, nocturia x1-2/night unchanged. OA — chronic knee pain, using acetaminophen prn, denies acute flare.
+
+SOCIAL HISTORY / TOBACCO:
+Tobacco Use Screening (EHR templated block):
+ Smoking status: Former smoker
+ Pack-years: 14 pack-year smoking history
+ Quit date: 03/11/2008
+ Type: Cigarettes
+ Counseling given: N/A (former smoker, congratulated on cessation, reinforced continued abstinence)
+Alcohol: denies. Illicit drugs: denies.
+
+PMH: HFpEF, HTN, BPH, OA, OSA
+PSH: none significant
+Meds: furosemide, lisinopril, tamsulosin, acetaminophen prn, atorvastatin
+Allergies: NKDA
+
+ROS: Otherwise negative except as above in HPI, 10 point ROS reviewed and negative for fever chills n/v/d chest pain palpitations syncope, pt denies any new neuro sx.
+
+VITALS (per home BP cuff/pulse ox reported by pt):
+ BP 128/76, HR 74, SpO2 97% on RA, Wt 168 lbs (down 1 lb from last visit 02/14/2025 wt 169 lbs)
+
+EXAM (limited via telehealth):
+Gen: well-appearing, NAD, seated comfortably at home
+Cardiac: unable to auscultate via video, pt denies palpitations
+Resp: no visible increased work of breathing, speaking in full sentences
+Ext: no obvious edema visualized on camera, poor lighting limits full assessment
+
+LABS/RESULTS:
+ BNP 02/10/2025: 210 pg/mL (mildly elevated, improved from 340 pg/mL on 11/2024)
+ BMP 02/10/2025: Na 139, K 4.2, Cr 0.9, eGFR >60
+ Echo 01/15/2025: EF 55%, diastolic dysfunction grade I, no significant valvular disease
+ A1c 12/2024: 5.6%
+
+ASSESSMENT/PLAN:
+1. HFpEF - stable, euvolemic by exam and pt report, cont current diuretic dose, recheck BNP/BMP at next visit
+2. HTN - well controlled, cont lisinopril
+3. OSA - compliant w/ CPAP, cont current settings, f/u sleep med as scheduled
+4. BPH - stable sx, cont tamsulosin
+5. OA - cont acetaminophen prn, discussed non-pharm measures incl wt-bearing exercise as tolerated
+6. Health maintenance - lung cancer screening was discussed with pt given smoking hx, she will follow up with PCP regarding this
+RTC in 3 months or sooner if sx worsen, pt to send portal msg w/ photo of lower extremities for edema check
+
+Time spent: 18 min, >50% counseling/coordination of care
+
+---
+ADDENDUM (later same day, 04/06/2025, 4:15 PM):
+Pt's son called after visit stating mother had bilateral ankle swelling noted this afternoon that was not appreciated on earlier video call due to lighting issues as documented above, he sent photo via portal which does show mild 1+ pitting edema bilat ankles. Advised increase in diuretic per protocol, will call pt directly to review, and will see back in clinic in person within 1 wk instead of telehealth given this finding. Pt's daughter also on the phone stated "she seemed more tired than usual today" per family report. Plan updated accordingly, in-person visit scheduled.
+-Owen Fitzgerald, MD

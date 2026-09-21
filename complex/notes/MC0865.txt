@@ -1,0 +1,40 @@
+NURSE INTAKE
+Pt: Torres, Barbara DOB 6/14/1968 Age 55
+DOS 11/24/2023
+Visit type: New pt to establish care w PA Moreno, PCP
+
+Vitals: BP 138/84 HR 78 RR 16 Temp 97.8 SpO2 98% RA Wt 172lb Ht 5'4"
+
+SOCIAL HISTORY (templated EHR block)
+Tobacco use status: Never smoker
+Smokeless tobacco: Not on file
+Alcohol: occasional glass of wine
+Drug use: denies
+Occupation: retired admin asst
+Living situation: lives w spouse
+
+HPI
+55 yo F here today to establish care, new to area, prior records requested but not yet recd. Pt reports hx of CAD s/p stent 2019 per pt report and T2DM dx approx 8 yrs ago. C/o occasional exertional chest tightness, denies rest pain. Med list per pt incl metformin, atorvastatin, aspirin, metoprolol - will confirm doses once records arrive. No SOB at rest. No orthopnea/PND. Diet fair, exercise limited due to knee pain.
+
+ROS: + fatigue, otherwise neg per 10-pt system except as above
+
+PE
+Gen: NAD, well-appearing
+CV: RRR no m/r/g
+Resp: CTAB
+Ext: no edema
+
+LABS (per pt-provided outside records, dates as noted)
+HbA1c 08/2023: 7.4%
+LDL 08/2023: 96 mg/dL
+Cr 08/2023: 0.9
+
+ASSESSMENT/PLAN (physician progress note, I. Moreno PA-C)
+1. CAD - stable by hx, continue statin/asa/metoprolol pending record confirmation, EKG today reviewed, no acute changes. Will obtain outside cardiology notes.
+2. T2DM - A1c 7.4 reasonably controlled, continue metformin, recheck A1c in 3 mo, diabetic foot exam done today wnl.
+3. Health maintenance - pt states she has never smoked cigarettes, so no tobacco cessation counseling indicated this visit. Colonoscopy due, referral placed. Mammo due, order placed. Immunizations updated per schedule.
+4. Chest tightness - likely stable angina equivalent, will obtain records before further workup, pt instructed to call or go to ER if worsening sx.
+
+RTC 3 months or sooner prn. Pt verbalizes understanding of plan, all questions answered today 11/24/2023.
+
+-- I Moreno PA-C

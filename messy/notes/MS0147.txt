@@ -1,0 +1,72 @@
+URGENT CARE TELEHEALTH NOTE
+Patient: Paula Walker (F), DOB 06/26/1947, Age: 77
+Date of Service: 10/03/2024
+Provider: Laura Castellano, FNP-C
+Visit Type: Telehealth, Urgent Care - Cough
+
+CHIEF COMPLAINT: Cough x 5 days
+
+HPI: Ms. Walker is a 77-year-old woman with hx of GERD, HTN, and OA who presents via telehealth today, 10/03/2024, with complaint of persistent cough for about 5 days, nonproductive, worse at night, no fever, no chest pain, mild sob w exertion but baseline. She denies hemoptysis. Smoking history reviewed with pt: she smoked 2.5 packs per day from age 21 until quitting at age 48; she is a former smoker and quit smoking in 1995. She reports no other tobacco or nicotine product use currently. No sick contacts identified. She has tried OTC cough drops without relief. Denies recent travel.
+
+REVIEW OF SYSTEMS (templated, reviewed with patient):
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+Eyes: denies visual changes
+ENT: denies sore throat, denies nasal congestion, denies ear pain
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea
+Respiratory: positive for cough as above, denies wheeze, denies hemoptysis, denies pleuritic pain
+GI: reports occasional heartburn (known GERD), denies nausea, denies vomiting, denies abdominal pain
+GU: denies dysuria, denies frequency
+Musculoskeletal: reports chronic knee pain (known OA), denies new joint swelling
+Skin: denies rash
+Neuro: denies headache, denies dizziness, denies focal weakness
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (templated):
+Vitals: Temp 98.4F, HR 78, BP 132/78, RR 16, SpO2 97% on room air (self-reported via home pulse ox)
+General: alert, no acute distress, appears stated age
+HEENT: normocephalic, atraumatic, oropharynx clear on visual inspection via video
+Neck: no visible JVD, no gross lymphadenopathy appreciated on video
+Cardiovascular: unable to auscultate via telehealth, pt denies chest pain or palpitations
+Respiratory: pt coughs intermittently during visit, nonproductive, no visible respiratory distress, no use of accessory muscles noted on camera
+Abdomen: unable to palpate via telehealth, pt denies tenderness
+Extremities: no edema visible
+Skin: no rash visible
+Neuro: grossly intact, speech clear, no focal deficits noted
+
+=== COPIED FORWARD FROM PRIOR VISIT 03/14/2023 (Annual Wellness Visit) ===
+PATIENT SEEN FOR ANNUAL WELLNESS EXAM. Vitals stable. Ms Walker reports doing well overall, ambulates independently, no falls. HTN well controlled on current regimen, GERD symptoms intermittent managed with diet and PPI, OA of bilateral knees stable, using topical NSAID prn. Discussed importance of maintaining physical activity, fall prevention, home safety. Colonoscopy up to date per pt report. Mammogram due, pt to schedule. Bone density scan reviewed, osteopenia noted, continue calcium/vit D. Immunizations reviewed, pt due for flu vaccine, administered today. Pt counseled on diet, exercise, medication adherence. Return to clinic in 1 year or sooner if concerns.
+=== END COPIED FORWARD SECTION ===
+
+PROBLEM LIST:
+1. GERD - K21.9
+2. Essential hypertension - I10
+3. Osteoarthritis, unspecified site - M19.90
+4. Osteopenia - M85.80 (from 2023, outdated, may have changed since last DEXA)
+5. Personal history of nicotine dependence - Z87.891
+6. Acute cough - R05.9 (today's visit)
+
+CURRENT MEDICATIONS:
+1. Lisinopril 20mg PO daily
+2. Omeprazole 20mg PO daily
+3. Amlodipine 5mg PO daily
+4. Acetaminophen 500mg PO PRN for joint pain
+5. Calcium carbonate/Vitamin D 600mg/400IU PO BID
+6. Topical diclofenac gel applied to knees BID PRN
+7. Multivitamin PO daily
+8. Hydrochlorothiazide 12.5mg PO daily (pt reports sometimes skips this, unclear if still taking- reconcile at next visit)
+9. Aspirin 81mg PO daily
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs postnasal drip given GERD hx - supportive care, increase fluids, honey/lemon tea, consider guaifenesin OTC. Return to clinic or seek in person eval if fever develops, sob worsens, or symptoms persist beyond 10-14 days.
+2. GERD - continue omeprazole, reinforce dietary modifications, avoid trigger foods esp late meals
+3. Hypertension - BP well controlled today, continue current regimen, recheck HTN meds adherence at next visit including HCTZ
+4. Osteoarthritis - continue topical NSAID and acetaminophen prn, discussed weight-bearing exercise as tolerated
+5. Tobacco history - former smoker, quit in 1995, no current use, continued abstinence encouraged, reinforced healthy lifestyle habits.
+6. Health maintenance - flu vaccine status reviewed, pt states received this season already. Mammogram/colonoscopy status to be verified at next in-person visit.
+
+Pt verbalized understanding of plan, all questions answered, telehealth visit concluded.
+
+---
+ADDENDUM (later same day, 10/03/2024, 4:45pm):
+Pt called back to clinic nursing line reporting cough slightly improved this afternoon, no new symptoms, no fever, tolerating oral intake well. Advised to continue current supportive measures as discussed, follow up if worsening. No changes to plan at this time. -Laura Castellano, FNP-C

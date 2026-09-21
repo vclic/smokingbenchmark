@@ -1,0 +1,49 @@
+RESIDENT NOTE - CARDIOLOGY
+DOS: 05/17/2026
+Patient: Dennis Chen, M, DOB 05/17/1974, age 52
+Author: Gregory Tan, MD (resident); attending attestation below
+
+CC: chest pain eval
+
+HPI: Mr Chen is a 52 y/o male w/ hx afib, hypothyroidism, depression, gout who presents for eval of intermittent chest pain over past 2 wks. Pain described as pressure-like, substernal, non-radiating, occurs w exertion, resolves w rest. No assoc SOB, diaphoresis, or syncope. Denies recent illness. Reports med compliance overall good.
+
+---COPIED FORWARD FROM PRIOR VISIT 11/03/2025---
+Pt seen in f/u for afib mgmt. Reports palpitations occasionally, denies CP/SOB at that time. On Eliquis, well tolerated. TSH wnl on current levothyroxine dose. Mood stable per pt, continues sertraline. Gout flare last in 08/2025, uric acid controlled on allopurinol. Pt counseled re: diet, exercise, alcohol moderation. Will f/u in 6 mo or sooner if symptoms.
+---END COPY FORWARD---
+
+PMH: afib (dx 2018), hypothyroidism, depression, gout
+PSH: none
+
+Soc Hx: Pt has significant smoking hx. Per pt report, smoked 1 pack per day for 8 years, then increased to 2 packs per day for 10 years, then decreased to 1.5 packs per day for 8 years before quitting entirely. Pt states he moved to this state in 2013 and quit smoking about 4 yrs after that move. Pt currently denies any tobacco use - he no longer smokes. No illicit drug use. Occasional etoh, denies excessive use.
+
+Meds: Eliquis 5mg BID, levothyroxine 88mcg daily, sertraline 100mg daily, allopurinol 300mg daily, occasional acetaminophen prn
+
+ROS: Constitutional: no fever, chills, wt loss. CV: + intermittent CP as above, no palpitations today, no edema. Resp: no cough, no SOB, no wheeze. GI: no n/v/d, no abd pain. GU: no dysuria. MSK: no acute jt pain today, hx gout. Neuro: no HA, no focal weakness. Psych: mood stable, no SI/HI. Skin: no rash. Endo: no polyuria/polydipsia. Heme: no easy bruising. All other systems reviewed and negative.
+
+PE: Vitals: BP 128/78, HR 76 irreg irreg, RR 16, Temp 98.4F, SpO2 98% RA, wt 190lb
+Gen: NAD, comfortable
+CV: irreg irreg rhythm, nl S1/S2, no m/r/g appreciated
+Resp: CTAB, no wheeze/rales/rhonchi
+Abd: soft, NT/ND, +BS
+Ext: no edema, pulses 2+ symmetric
+Skin: warm dry intact
+Neuro: A&Ox3, no focal deficit
+
+Labs/Results:
+- TSH 05/15/2026: 2.1 (nl)
+- BMP 05/15/2026: Na 140, K 4.2, Cr 0.9, Glucose 95
+- Uric acid 05/15/2026: 5.8
+- Troponin 05/17/2026 (x1): <0.01
+- EKG 05/17/2026: afib, vent rate 78, no acute ST changes
+
+Assessment/Plan:
+52M w/ afib, hypothyroidism, depression, gout p/w exertional chest pain, low suspicion ACS given neg troponin, stable EKG. Will obtain stress test outpt for further eval given exertional component of sx.
+1. CP - r/o ischemic etiology, stress test ordered, cont current cardiac meds
+2. Afib - rate controlled, cont Eliquis for anticoagulation
+3. Hypothyroidism - TSH wnl, cont current dose levothyroxine
+4. Depression - stable, cont sertraline
+5. Gout - uric acid controlled, cont allopurinol
+6. Tobacco hx - discussed pt's smoking history and importance of continued abstinence; lung cancer screening was discussed with pt in general terms.
+F/u in 2-4 wks or sooner if sx worsen.
+
+Attending Attestation: I have seen and examined the pt, discussed the case w Dr Tan, and agree w the above assessment and plan. - Attending Cardiology

@@ -1,0 +1,56 @@
+Pulmonology Progress Note
+Patient: Nancy Lewis | DOB: 09/28/1959 | Age: 66
+Date of Service: 09/28/2025
+Author: Hannah Weiss, NP
+
+CC: Follow-up incidental lung nodule found on CT chest performed for evaluation of dyspnea.
+
+HPI: Ms Lewis is a 66 year old femal presenting today 09/28/2025 for follow up of an incidentally noted right upper lobe pulmonary nodule identified on prior imaging. She reports she is doing reasonably well since last visit, denies hemoptysis, denies new chest pain, some intermittant dyspnea on exertion which she attributes to her known COPD and obesity, states she has been compliant with her inhalers although admits occasionally forgetting evening dose. She denies fevers chills or night sweats. She has not had any weight loss noted, in fact she reports weight has been stable. Cardiac history notable for atrial fibrillation on anticoagulation, hypertension, and coronary artery disease s/p stent placement several years ago per patient report [inaudible] date of procedure not entirely clear in record. Diabetes reportedly well controlled on metformin, she checks fingersticks occasionally, denies hypoglycemic episodes. She lives with her husband and reports good family support she is accompanied today by her daughter who assists with some questions.
+
+Family History: Notable for mother who had COPD and was a lifelong smoker, patient states her mother required home oxygen in her later years and passed away from respiratory complications. No known family history of lung cancer per patient report though she is uncertain about extended family.
+
+Past Medical History:
+- Atrial fibrillation, on anticoagulation
+- Hypertension
+- COPD
+- Coronary artery disease
+- Type 2 diabetes mellitus
+- Obesity
+
+Social History (EHR templated block):
+ Alcohol use: occasional, reports 1-2 glasses of wine per week
+ Living situation: lives with spouse in single family home, daughter lives nearby
+ Occupation: retired, formerly worked as a school administrator
+ Tobacco use: 
+ Drug use: Not on file
+ Exercise: Not on file
+
+Medications: Apixaban, lisinopril, metoprolol succinate, metformin, atorvastatin, tiotropium inhaler, albuterol PRN
+
+Allergies: NKDA
+
+Review of Systems: Otherwise negative except as noted in HPI, denies orthopnea, denies palpitations today, denies syncope, positive for occasional dependent edema which she says is her baseline.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, SpO2 95% on room air, BMI 34
+General: well appearing woman in no acute distress, appears stated age
+HEENT: normocephalic atraumatic, no JVD appreciated
+Cardiovascular: irregularly irregular rhythm, no murmurs appreciated, trace bilateral lower extremity edema
+Pulmonary: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, breathing comfortable at rest
+Abdomen: obese, soft nontender nondistended
+Extremities: trace edema as above, no cyanosis or clubbing
+
+Imaging Review: Prior CT chest reviewed showing 8mm right upper lobe nodule, stable in size compared to comparison study, no new nodules identified, mild emphysematous changes consistent with known COPD.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable on imaging, will continue surveillance per radiology recommendations, repeat CT chest in interval per protocol, risks and benefits of ongoing surveillance discussed with patient and daughter, screening guidelines discussed in general terms with patient.
+2. COPD - continue tiotropium and albuterol PRN, reviewed inhaler technique today, encouraged pulmonary rehab referral which she declined at this time.
+3. Atrial fibrillation - continue apixaban, rate appears controlled on current metoprolol dose, will defer further management to cardiology.
+4. Hypertension - blood pressure today at goal, continue current regimen.
+5. Coronary artery disease - continue statin and antiplatlet/anticoagulant therapy as above, no anginal symptoms reported today.
+6. Type 2 diabetes - continue metformin, recommend follow up with primary care for routine labs including hemoglobin A1c.
+7. Obesity - discussed weight management strategies, patient open to nutrition referral.
+
+Return to clinic in 6 months or sooner if symptoms worsen, patient verbalizes understanding of plan, all questions answered today, daughter also present for discussion and had no additional questions at this time.
+
+Electronically signed by Hannah Weiss, NP on 09/28/2025

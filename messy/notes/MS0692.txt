@@ -1,0 +1,51 @@
+RESIDENT NOTE - Pulmonology Follow-up
+Date of Service: 05/08/2023
+Author: Brian Okonkwo, MD (resident); attending attestation below
+
+Patient: Deborah Allen, F, DOB 02/24/1951 (age 72)
+
+CC: COPD follow-up
+
+HPI:
+Ms Allen is a 72yo woman with hx of COPD, atrial fibrillation, and asthma who presents for routine f/u. She reports her breathing is 'about the same as last visit, maybe a little better with the warm weather.' Denies fever, chest pain, hemoptysis. She states 'I havent touched a cigarette in years, doc, and I dont plan to start again.' No increase in sputum production, occasional wheeze noted with exertion. She continues her inhalers as prescribed, though admits occassionally forgetting evening dose. No recent hospitalizations or ED visits for COPD exacerbation.
+
+ROS: Denies orthopnea, PND, palpitations (on anticoagulation for AF), denies leg swelling. Asthma sx stable, no recent triggers identified.
+
+PMH: COPD, atrial fibrillation (on anticoagulation), asthma
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use status: Former smoker
+Pack-years: 13
+Cigarettes per day: Not on file
+Years smoked: Not on file
+Quit date/age: 2006
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Occupation: Retired
+---------------------------------------------
+
+[Copied forward from note dated 11/08/2020]:
+"Tobacco: former smoker, no current use reported."
+[End copied section]
+
+Physical Exam:
+Vitals: BP 128/78, HR 76 irreg irreg, RR 16, SpO2 96% RA
+General: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+CV: irregularly irregular rhythm, no murmur
+Ext: no edema
+
+Labs/Imaging: PFTs reviewed from last visit, showing mild obstructive pattern; no new imaging today.
+
+Assessment/Plan:
+72 yo F with COPD, atrial fibrillation, asthma presenting for routine pulm follow up on 05/08/2023.
+
+1. COPD - stable, continue current inhaler regimen, reviewed technique with patient. Pt is a former smoker (quit 2006) with a 13 pack-year history, which was again confirmed today given her prior tobacco use as documented in the social history above; she reports no current tobacco use. Continue routine monitoring; lung cancer screening was discussed with the patient as part of general preventive care conversation.
+2. Atrial fibrillation - rate controlled, continue anticoagulation per cardiology, no acute issues today.
+3. Asthma - stable, continue as-needed rescue inhaler, reinforce avoidance of triggers.
+4. Health maintenance - vaccines reviewed and updated per protocol.
+
+F/u in 6 months or sooner if worsening symptoms.
+
+Attestation: I have seen and examined the patient with the resident. I discussed the case and agree with the assessment and plan as documented above.
+- Attending Pulmonologist

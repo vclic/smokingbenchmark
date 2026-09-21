@@ -1,0 +1,55 @@
+Internal Medicine Telehealth Follow-up
+Patient: Mary Schmidt | DOB: 1/3/1969 | Age: 55
+DOS: 01/03/2024
+Provider: Quentin Hale, PA-C
+
+CC: f/u HTN, T2DM, chk-in for HFrEF/COPD mgmt
+
+HPI:
+Pt is a 55 yo female w/ h/o T2DM, HFrEF, COPD, presenting via telehealth for routine f/u. Pt states "I'm feeling about the same, maybe a lil more short of breath climbing stairs." Denies chest pain, orthopnea worse than baseline, denies fevers/chills. Reports home glucose logs runnin 140-180 fasting, occasionally higher after meals. Says she has been compliant w meds "mostly, i forget the evening dose sometimes." No new edema per pt report, no recent ED visits or hosp.
+
+Smoking hx reviewed in detail today - pt reports a long smoking hx w multiple different levels of use over yrs. She smoked 2 packs per day for 10 years, then cut down somewhat to 1.5 packs per day for 14 years, then further down to 1 pack per day for 10 years, which is her current level. She continues to smoke currently and when asked about quitting she stated "I'm just not ready to quit right now, maybe later." Counseled extensively on smoking cessation benefits esp given COPD/HFrEF, offered resources (quitline, pharmacotherapy options - varenicline, NRT patch/gum) - pt declined at this time but agreeable to revisit at next visit.
+
+ROS: Constitutional - no fever, no wt loss. Resp - chronic cough stable, no hemoptysis, mild DOE as above. CV - no chest pain, no palpitations. GI - no n/v/d. Endo - reports polyuria intermittently. Skin - no rashes. Neuro - no focal deficits reported.
+
+Meds (per last reconciliation, pt to confirm):
+- Metformin 1000mg BID
+- Lisinopril 20mg daily
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Atorvastatin 40mg qhs
+- Albuterol inhaler PRN
+- Tiotropium inhaler daily
+
+Allergies: NKDA
+
+Physical exam: Limited d/t telehealth format. Pt appears comfortable, no acute distress noted on video. Speaking in full sentences, no visible resp distress. Skin color WNL on camera. Pt able to demonstrate ankle for edema check - reports no pitting noted by pt self-exam.
+
+Vitals (per pt home monitor, reported):
+BP 138/82
+HR 78
+Wt 182 lbs (pt reported, home scale)
+Home glucose log reviewed as above
+
+Problem List (ICD-10):
+- E11.9 Type 2 diabetes mellitus without complications
+- I50.22 Chronic systolic (congestive) heart failure
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- I10 Essential hypertension
+- Z87.891 Personal hx of nicotine dependence (outdated entry - pt still active smoker, to update)
+- E78.5 Hyperlipidemia, unspecified
+- N18.3 CKD stage 3 (dz per old chart review, may not be current - needs verification next visit)
+
+Assessment/Plan:
+1. T2DM - suboptimal control per home readings. Will incr metformin if A1c elevated on next labs. Ordered A1c, CMP.
+2. HFrEF - stable per pt report, continue current regimen, monitor wt daily, call if gain >3lbs in 2 days.
+3. COPD - stable, continue tiotropium + albuterol PRN. Strongly encouraged smoking cessation again today given active COPD dx, pt not ready at this time, will readdress.
+4. HTN - BP reasonably controlled today, continue current antihypertensives.
+5. Tobacco use - active smoker, counseled today re: cessation, declined pharmacotherapy at this visit, agreeable to discuss again at future visit. Updated problem list to reflect active use (see addendum below re: correction).
+6. F/u in 3 months or sooner if sx worsen. Pt to obtain labs prior to next visit.
+
+Time spent: approx 20 min telehealth visit, more than half spent on counseling/coordination of care re: chronic dz mgmt and smoking cessation discussion.
+
+---
+ADDENDUM (later same day, 01/03/2024, Q. Hale PA-C):
+Noted on chart review after visit that problem list still had Z87.891 (personal hx nicotine dependence) listed as active/outdated - this has been flagged for correction to reflect current active tobacco use (F17.210 to be added at next update). Also wanted to clarify for the record: pt's smoking hx as discussed today includes 2 packs per day for 10 years, then 1.5 packs per day for 14 years, then 1 pack per day for 10 years, and she remains a current smoker not ready to quit as of this visit dated 01/03/2024. No further changes to plan at this time.

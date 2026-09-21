@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 04/12/2023
+Provider: Rachel Goldberg, MD (Cardiology)
+Patient: Wayne Patel, M, DOB 1/4/1961 (age 62)
+
+CHIEF COMPLAINT: Heart failure follow-up, telehealth
+
+HPI:
+Mr Patel is a 62 yo male with hx of HFrEF, T2DM, OSA, obesity, and OA seen today via video visit for routine f/u. He reports doing 'about the same, maybe a little more short of breath climbing stairs.' Denies orthopnea or PND. Weighs himself daily, says weight has been stable +/- 1 lb. Takes meds as prescrbed, no missed doses per pt. Denies chest pain, palpitations, or syncope. He states 'I feel pretty good most days, just get winded sometimes.'
+
+[Copied forward from visit 11/02/2022 - please disregard outdated portions]:
+HPI: Pt here for HF f/u, reports doing well on current regimen, no acute complaints. Denies chest pain, SOB at rest, LE edema. Weight stable. Continues on lisinopril, carvedilol, spironolactone, furosemide. A1c last checked 7.2%. CPAP compliance reportedly good per pt report, uses machine nightly. Osteoarthritis stable, managed with acetaminophen prn. No new falls. Diet reviewed, low sodium encouraged. Follow up in 4-6 months or sooner if symptoms worsen.
+[End copied text]
+
+SOCIAL HISTORY (EHR template):
+Alcohol use: Quit drinking alcohol in 2003.
+Tobacco use: Current smoker, see assessment/plan for details
+Illicit drug use: Not on file
+Occupation: Not on file
+Living situation: 
+Exercise: 
+
+REVIEW OF SYSTEMS: Positive for mild dyspnea on exertion. Negative for chest pain, syncope, LE swelling, fevers, cough. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals per home device upload: BP 128/78, HR 76, wt 224 lb (unchanged)
+General: well-appearing, no acute distress, appears comfortable on camera
+Cardiac exam deferred (telehealth) - pt reports no palpable edema when self-examined per instruction
+Lungs: pt reports no increased work of breathing at rest
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced ejection fraction - stable per pt report, continue current GDMT (lisinopril, carvedilol, spironolactone, furosemide). Will check BMP/BNP at next in-person visit.
+2. Tobacco use - patient has an extensive smoking hx. He reports smoking three-quarters of a pack (about 15 cigarettes) per day for 13 years, then increasing to 2 packs per day for 18 years, then decreasing to 1.5 packs per day for 13 years, which he continues currently. He is still smoking cigarettes at this time. Counseled extensively on smoking cessation given cardiovascular and pulmonary risk; discussed nicotine replacement options and referral to cessation program. Lung cancer screening was discussed in general terms.
+3. Type 2 diabetes mellitus - stable, continue metformin, recheck A1c at PCP visit.
+4. Obstructive sleep apnea - reports good CPAP compliance, continue current settings.
+5. Obesity - discussed weight management, dietary counseling reinforced.
+6. Osteoarthritis - stable, continue acetaminophen prn, no new joint complaints today.
+
+Alcohol use: reiterated patient quit drinking alcohol in 2003, no current use.
+
+Follow up in 4 months, sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+Electronically signed: Rachel Goldberg, MD

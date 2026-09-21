@@ -1,0 +1,32 @@
+VASCULAR SURGERY - RESIDENT NOTE with attending attestation
+Author: Hannah Weiss, NP
+Date of Service: 12/08/2025
+
+Patient: Larry Mitchell, M, DOB 4/26/1969 (age 56)
+
+HPI: Mr Mitchell is a 56 yo male referred for eval of peripheral artery disease, presenting with bilateral calf claudication worsening over past several months. He is accompanied by daughter today as historian given pt is aphasic and unable to reliably answer questions this visit; per daughter he has had increasing difficulty ambulating distances >1 block. No rest pain reported, no ulcers noted on exam today. Pt has hx of depression, type 2 diabetes, hypertension, all followed by PCP.
+
+---COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2024---
+Pt seen for routine diabetic foot check, A1c 7.8, on metformin 1000mg BID and glargine 20u qhs. Feet w/o breakdown, monofilament intact bilat. BP well controlled on lisinopril. Pt reports mood stable on sertraline, denies SI/HI. Continue current regimen, f/u 6 months. Dietary counseling reviewed re: carb intake and reinforced importance of foot inspection daily.
+---END COPIED TEXT---
+
+Social History: Tobacco use history unable to be obtained this visit due to pt's aphasia/poor historian status; daughter present unsure of details, deferring to prior records which are not available today. Alcohol/drug use also not assessed given communication barrier. Will attempt to clarify at next visit or via collateral records.
+
+ROS: Limited due to communication difficulty; pertinent positives per daughter include bilat leg cramping w exertion, denies chest pain, denies SOB at rest.
+
+Exam: Vitals - BP 148/86, HR 78, RR 16, T 98.2F, SpO2 97% RA. Pulses: femoral 2+ bilat, popliteal 1+ bilat, dorsalis pedis nonpalpable bilat, posterior tibial faintly palpable on right, absent on left. Skin: mild pallor of feet, no ulcers, no gangrene. Neuro: expressive aphasia noted, comprehension appears intact, follows simple commands.
+
+Labs/Imaging:
+- ABI (11/20/2025): Right 0.62, Left 0.58 - consistent w moderate PAD
+- A1c (11/20/2025): 8.1%
+- Lipid panel (11/20/2025): LDL 122, HDL 38, TG 210
+- Cr (11/20/2025): 1.1
+
+Assessment/Plan:
+1. Peripheral artery disease, bilateral lower extremity, moderate per ABI - will obtain arterial duplex for further characterization, continue cilostazol, supervised exercise program referral.
+2. Type 2 diabetes - A1c above goal, will adjust insulin regimen, endo referral placed.
+3. Hypertension - uptitrate lisinopril.
+4. Depression - continue sertraline, screen for mood sx next visit once communication barrier addressed.
+5. Tobacco history remains unable to obtain due to pt's aphasia; will readdress with collateral history or records at future visit.
+
+Attending Attestation: I have reviewed and discussed this patient with Dr. Nguyen and agree with the above assessment and plan as documented by NP Weiss.

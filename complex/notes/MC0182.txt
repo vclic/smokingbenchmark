@@ -1,0 +1,45 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Curtis King | DOB: 4/28/1949 | Age: 76 | Sex: M
+Date of Service: 04/28/2025
+Authoring Provider: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: Cough
+
+HPI: Mr. King is a 76-year-old male who presents today, 4/28/2025, with a cough that has been present for about ten days, described as mostly dry with occasional whitish sputum, no hemoptysis. He denies fever but notes some fatigue and mild chest tightness with coughing spells. He states he has not traveled recently and has not had sick contacts, uh, [inaudible] at home per patient. Denies significant dyspnea at rest although he does note some exertional shortness of breath which he attributes to his known peripheral artery disease limiting his walking distance anyway. He has been taking over the counter cough syrup with minimal relief. No chest pain, no palpitations, no leg swelling changes from baseline.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I73.9 Peripheral artery disease, unspecified
+- M10.9 Gout, unspecified (outdated - resolved per pt, no flares in 2 years)
+- I25.10 Coronary artery disease without angina
+- E03.9 Hypothyroidism, unspecified
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- J45.909 Asthma, unspecified (outdated, per chart review this appears to be an old entry, patient denies asthma diagnosis)
+
+MEDICATIONS: Levothyroxine, atorvastatin, lisinopril, allopurinol, aspirin, clopidogrel.
+
+SOCIAL HISTORY: Patient reports drinking alcohol socially, approximately 2-3 beers on weekends. He lives alone in a single-story home, states he manages independently with activities of daily living. Retired machinist, worked over 30 years in that field before retiring. No mention of recreational drug use.
+
+REVIEW OF SYSTEMS: As per HPI, otherwise negative for weight loss, night sweats, hemoptysis, or lymphadenopathy per patient report.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.4F, SpO2 96% on room air.
+General: Alert, no acute distress, well-nourished elderly male.
+HEENT: Oropharynx clear, no erythema.
+Neck: No lymphadenopathy, no JVD.
+Lungs: Mild scattered rhonchi bilaterally, no wheezes, no crackles, good air movement.
+CV: Regular rate and rhythm, no murmurs, distal pulses diminished bilaterally consistent with known PAD.
+Extremities: No edema, no ulcers noted today.
+
+ASSESSMENT AND PLAN:
+1. Acute cough, likely viral bronchitis versus post-nasal drip - will treat symptomatically with guaifenesin, encourage fluids, follow up if worsening or if fever develops.
+2. Peripheral artery disease - stable, continue current antiplatelet regimen, follow with vascular surgery as scheduled.
+3. Coronary artery disease - stable, continue aspirin and clopidogrel, no chest pain today.
+4. Hypertension - well controlled today at 138/82, continue lisinopril.
+5. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+6. Hypothyroidism - continue levothyroxine, TSH due for recheck.
+7. Gout - no active flare, continue allopurinol.
+
+Lung cancer screening was discussed with the patient today, however this was deferred until his smoking history can be clarified and obtained, as this was not documented today's visit. Patient advised to follow up with primary care to establish this history so screening candidacy can be assessed appropriately.
+
+Return to clinic or urgent care if symptoms worsen, if he develops fever, hemoptysis, or worsening shortness of breath. Follow up with PCP within 2 weeks for chronic disease management and to address the smoking history question raised above.

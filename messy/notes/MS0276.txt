@@ -1,0 +1,37 @@
+Telehealth Note - Cardiology (Heart Failure Follow-up)
+Date of Service: 02/17/2024
+Author: Hannah Weiss, NP
+
+Patient: Elizabeth Schmidt, F, DOB 02/17/1964 (age 60)
+
+HPI:
+Pt seen via video visit for HF follow up. Daughter present on call assisting w communication as pt has known expressive aphasia s/p prior CVA (per chart). Pt attempts to answer questions but responses are largely non-verbal/gestural today, daughter states "she's having a harder time getting words out this week." Pt nods when asked about swelling in legs, denies chest pain by shaking head no. No overt distress noted on camera. Wt reportedly stable per home scale, daughter reports "no big changes." Meds reviewed w daughter, adherence appears ok.
+Other PMH incl BPH, depression, T2DM, PAD reviewed - no acute concerns voiced by daughter today.
+
+Social History (EHR templated block):
+Tobacco use: Unable to obtain - pt aphasic, poor historian, unable to reliably answer y/n questions re: smoking hx
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives w daughter
+
+ROS: Limited due to communication barrier, otherwise reviewed per systems and negative except as above.
+
+Exam (limited, telehealth):
+Gen: pt alert, seated in chair, no acute distress
+CV: unable to auscultate via video, pt denies chest pain per gesture
+Ext: daughter reports trace bilateral edema, improved from last visit per her report
+Neuro: expressive aphasia noted, comprehension appears grossly intact
+
+Assessment/Plan:
+1. Heart Failure - clinically stable per collateral hx from daughter, continue current regimen, recheck BMP next visit
+2. BPH - stable, no new urinary complaints per daughter
+3. Depression - daughter reports pt "seems about the same," will defer to PCP for further eval
+4. T2DM - continue current mgmt, A1c due
+5. PAD - stable, no new claudication sx reported
+Tobacco history remains unable to obtain given pt's aphasia; will attempt reassessment at future visit when able, possibly with speech-language pathology input.
+f/u in 3 months or sooner if needed
+
+Addendum (same day, later):
+Spoke again briefly w daughter by phone after visit re: med refill question for furosemide, clarified dosing instructions. No other changes to plan above. Tobacco status remains unable to obtain as documented above; will not pursue further today given communication limitations.
+- H. Weiss, NP

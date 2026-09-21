@@ -1,0 +1,45 @@
+TELEHEALTH VISIT NOTE
+Urgent Care - Telehealth
+Date of Service: 08/19/2023
+Author: Gregory Tan, MD
+
+Patient: Leonard Young
+DOB: 08/19/1944 (age 79)
+Sex: M
+
+CHIEF COMPLAINT: cough x several days
+
+HPI: 79 y/o male with hx of HFrEF, OA, CKD stage 3 calling in for cough, no fever noted, denies chest pain, some increase in dyspnea on exertion baseline unchanged per pt report. No hemoptysis. No recent travel or sick contacts. Pt states cough worse at night, mild, nonproductive mostly. Denies wt loss.
+
+--- COPIED FORWARD FROM PRIOR VISIT 03/02/2022 (retained for reference, not all current) ---
+ROS: Constitutional: denies fever chills wt loss. Cardiac: denies chest pain palpitations, has known HFrEF followed by cardiology. Resp: denies wheeze, chronic dyspnea stable. GI: denies nausea vomiting diarrhea constipation. GU: denies dysuria hematuria. MSK: chronic knee pain c/w OA, uses cane. Neuro: denies focal weakness numbness. Skin: no rashes. Psych: denies depression/anxiety.
+PHYSICAL EXAM (03/02/2022): Vitals stable, BP 128/76 HR 72 RR 16 T 97.8 SpO2 96% RA. Gen: NAD. HEENT: nml. Neck: no JVD appreciated. CV: RRR, S3 present, no murmur. Lungs: bibasilar crackles trace. Abd: soft NT ND. Ext: trace edema. Neuro: grossly intact.
+MEDS (as of 03/02/2022): Furosemide 40mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Spironolactone 25mg daily, Atorvastatin 40mg daily, Acetaminophen PRN, Calcium/vitamin D supplement, Aspirin 81mg daily
+--- END COPIED SECTION ---
+
+CURRENT VISIT ROS: Constitutional: no fever, no chills. Resp: cough present, no SOB worse than baseline, denies hemoptysis. Cardiac: no chest pain, no palpitations, no new edema. GI: unremarkable. GU: unremarkable. MSK: chronic knee pain stable. Neuro: no focal deficits. Skin: no rash. Psych: mood stable.
+
+SOCIAL HISTORY: Tobacco - pt reports he tried a few cigarettes as a teenager but never smoked regularly, denies any regular cigarette use since. He does smoke a cigar a few times a year on holidays, not cigarettes. Denies illicit drug use. Occasional alcohol, denies excessive use.
+
+CURRENT PHYSICAL EXAM (telehealth, limited): Pt appears comfortable on video, no acute distress noted, speaking in full sentences without difficulty. Skin color normal, no cyanosis noted on camera. Resp effort appears normal, no visible accessory muscle use. Vitals per home cuff/pulse ox reported by pt: BP 130/78, HR 76, SpO2 95% RA. Temp not obtained.
+
+ASSESSMENT:
+1. Acute cough, likely viral URI vs mild bronchitis, low suspicion for pneumonia given no fever/hypoxia.
+2. HFrEF - stable, no signs of decompensation on this visit.
+3. CKD stage 3 - stable, monitor renal function.
+4. OA - chronic, stable, managed conservatively.
+
+PLAN:
+- Supportive care for cough: fluids, rest, OTC cough suppressant as needed given renal fx caution with dosing.
+- Advised to monitor for fever, worsening SOB, chest pain, or swelling and to seek in-person eval if these occur given cardiac hx.
+- Reviewed weight monitoring for HF, pt to call if wt gain >3 lbs in 2 days.
+- Briefly discussed tobacco/cigar use and general health impact of smoking history; pt educated on smoking cessation resources for the occasional cigar use.
+- Continue current medication regimen: Furosemide 40mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Spironolactone 25mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily, Acetaminophen PRN, Calcium/vitamin D supplement.
+- F/u with PCP in 1-2 wks or sooner if worsening, cardiology f/u per prior schedule.
+- Labs: BMP to recheck renal fx at next in-person visit given CKD stage 3, not urgent today.
+
+Pt verbalized understanding of plan, agreeable, no further questions at this time. Telehealth visit ended without technical issues.
+
+Gregory Tan, MD
+Urgent Care - Telehealth
+Encounter date 08/19/2023

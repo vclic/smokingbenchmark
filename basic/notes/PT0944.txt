@@ -1,0 +1,72 @@
+General Medicine Clinic Progress Note
+
+Patient: RODRIGUEZ, Richard    MRN: 37737986
+DOB: 01/20/1974    Age: 51 y.o.    Sex: Male
+Date of Service: 04/09/2025    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Cough
+
+Subjective:
+Richard Rodriguez is a 51 y.o. male who presents for cough and congestion.
+Cough for 9 days, productive of yellow sputum. He denies ever smoking cigarettes. Low-grade fevers initially, now resolved. Grandchild was sick last week. Denies hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Gout
+• HTN
+• Gastroesophageal reflux disease
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• allopurinol 100 mg daily
+• colchicine 0.6 mg PRN flare
+• lisinopril 10 mg daily
+• amlodipine 5 mg daily
+• famotidine 20 mg BID
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Social History Narrative
+  Married, lives with wife.
+  No alcohol.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: GU neg, Neuro neg, GI neg, MSK neg, Skin neg, Resp +
+
+Objective:
+Vitals:
+  BP 149/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 75 | Temp 98.7 °F (Oral) | Resp 18 | Ht 5' 9" | Wt 183 lb | SpO2 95% | BMI 27.08 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Scattered rhonchi that clear with cough
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Cough
+   Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+2. Gout
+   No flares; continue allopurinol.
+3. Gastroesophageal reflux disease
+   Symptoms controlled.
+4. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+5. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+RTC 12 months.
+
+Electronically signed by Owen Fitzgerald, MD on 04/09/2025

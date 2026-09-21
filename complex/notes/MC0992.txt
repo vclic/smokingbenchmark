@@ -1,0 +1,80 @@
+CARDIOLOGY H&P
+Patient: Carlos Moore | DOB: 4/6/1955 (age 71) | Sex: M
+Date of Service: 04/06/2026
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: chest pain eval
+
+HPI: Mr Moore is a 71 y/o male presenting w/ intermittent substernal chest discomfort x 2 wks, non-exertional at times, occ radiating to left arm. Denies SOB at rest. Hx of NSTEMI w stent placement makes this concerning, referred for further w/u. No fevers no diaphoresis. Reports occasional heartburn, longstanding GERD hx.
+
+PROBLEM LIST (ICD-10):
+- I25.10 Coronary artery disease (status post stent)
+- I21.4 NSTEMI with stent (2023)
+- K21.9 GERD
+- F32.9 Major depressive disorder
+- M19.90 Osteoarthritis, unspecified site
+- E66.9 Obesity
+- E03.9 Hypothyroidism
+- Z87.891 Personal hx of tobacco use (outdated entry, dz status may have changed since last review)
+
+PAST MEDICAL HISTORY:
+- NSTEMI with stent (2023)
+- GERD
+- Depression
+- Osteoarthritis
+- Obesity
+- Hypothyroidism
+
+SOCIAL HISTORY: 25 pack-year smoking history; pt quit smoking. Denies current EtOH use, no illicit drugs. Lives with spouse, retired machinist.
+
+[Note: Pt states he quit smoking right after his NSTEMI with stent (2023), has not smoked since.]
+
+----- BEGIN TEXT COPIED FORWARD FROM PRIOR NOTE DATED 6/6/2023 -----
+Pt seen for routine f/u on 6/6/2023. At that time pt was a current smoker. Advised regarding smoking cessation resources, discussed risks of continued tobacco use in setting of known CAD. Pt states he is aware but not ready to quit at this time. Will continue to encourage cessation at future visits. Also reviewed GERD sx, currently controlled on PPI. Osteoarthritis stable, using acetaminophen prn. Depression screening PHQ-9 done, score stable. Thyroid labs reviewed, TSH wnl on current levothyroxine dose. Pt counseled on weight loss, discussed diet and exercise. Return to clinic in 6 months or sooner if symptoms worsen.
+----- END COPIED TEXT -----
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no weight loss. CV: chest discomfort as above, no palpitations. Resp: no cough no wheeze. GI: occasional reflux. MSK: chronic joint pain, stable. Psych: mood stable on current meds. Endo: no heat/cold intolerance.
+
+MEDICATIONS:
+- Aspirin 81mg daily
+- Atorvastatin 40mg daily
+- Metoprolol succinate 50mg daily
+- Omeprazole 20mg daily
+- Levothyroxine 75mcg daily
+- Sertraline 100mg daily
+- Acetaminophen prn joint pain
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, T 98.4F, SpO2 97% RA, BMI 33
+Gen: obese male, NAD
+HEENT: PERRLA, no JVD
+CV: RRR, no murmurs rubs gallops
+Resp: CTAB
+Abd: obese, soft, NT/ND
+Ext: no edema, pulses 2+ bilaterally
+MSK: mild crepitus bilateral knees, no acute swelling
+Skin: warm dry intact
+
+LABS/RESULTS:
+- CBC (04/06/2026): WBC 6.8, Hgb 14.1, Plt 230
+- BMP (04/06/2026): Na 139, K 4.2, Cr 1.0, Glu 102
+- Troponin (04/06/2026): <0.01 ng/mL x1, repeat pending
+- Lipid panel (03/15/2026): LDL 98, HDL 42, TG 150
+- TSH (02/01/2026): 2.1 mIU/L (WNL)
+- EKG (04/06/2026): NSR, no acute ST changes, old inferior Q waves noted
+
+ASSESSMENT/PLAN:
+1. Chest pain, r/o ACS - trend troponins, cardiology to admit for obs, stress test if troponins neg.
+2. CAD s/p NSTEMI w stent (2023) - continue current cardiac meds, lipid panel reviewed goal LDL <70.
+3. GERD - continue omeprazole, dietary modifications reviewed.
+4. Depression - stable on sertraline, cont current dose, f/u w PCP.
+5. Osteoarthritis - cont acetaminophen prn, ortho f/u as needed.
+6. Obesity - counseled diet/exercise, discussed weight mgmt referral.
+7. Hypothyroidism - TSH wnl, cont levothyroxine.
+8. Tobacco use, prior - cessation maintained, continue supportive counseling, lung cancer risk factors discussed in general terms.
+
+Pt understands plan verbalizes agreement. Will follow up per cardiology recs. Discussed w pt and spouse present in room. All questions answered. Time spent w pt 35 min, >50% counseling/coordination of care.
+
+Electronically signed: Kevin Osei, MD

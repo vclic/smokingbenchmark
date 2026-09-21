@@ -1,0 +1,42 @@
+GERIATRIC ASSESSMENT - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Edward Hernandez, M, DOB 3/19/1953 (age 72)
+Date of Service: 10/29/2025
+Author: Isaac Moreno, PA-C; Attending co-signature pending
+
+PROBLEM LIST (ICD-10):
+- N40.1 BPH with LUTS
+- I50.22 Chronic systolic (congestive) heart failure, HFrEF
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia (outdated, last addressed 2019, may resolve)
+
+HPI: Pt is a 72 y/o male here for geriatric assessment referred by cardiology for functional decline over past several months he reports increased fatigue and occassional dyspnea on exertion, denies chest pain, denies syncope, family at bedside states he has had more trouble with stairs then last year the patient states he feels his memory is "about the same" and denise any falls, he reports nocturia x3 which is chronic per BPH history, [inaudible] regarding recent hospitalization details but daughter clarifies he was seen in ER for med adjustment only not admitted, pt continues on diuretic regimen with variable adherence per report.
+
+TOBACCO/ALCOHOL/SUBSTANCE USE (EHR template):
+Tobacco: Current smoker. 30 pack-year smoking history. Patient states he is not ready to quit at this time; counseling provided regarding cessation resources, patient declines referral today.
+Alcohol: Denies current use; patient reports he quit drinking alcohol in 2004.
+Illicit drugs: Denies.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, denies chills, reports fatigue as above. Eyes: denies vision changes. ENT: denies hearing loss, denies tinnitus. Cardiovascular: denies chest pain, positive for occasional DOE as noted, denies orthopnea currently, denies PND. Respiratory: denies hemoptysis, reports occasional wheeze consistent with known asthma. GI: denies nausea, denies vomiting, denies abdominal pain. GU: nocturia as above, denies dysuria, denies hematuria. Musculoskeletal: reports generalized weakness, denies focal joint pain. Neuro: denies numbness, denies tingling, denies tremor. Psych: denies depression, denies anxiety, mood euthymic per pt and daughter. Skin: no rashes reported. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 78 irregular, RR 16, SpO2 94% RA, Wt 81 kg, Ht 170 cm, Temp 36.6C. General: elderly male, no acute distress, sitting comfortably in chair. HEENT: normocephalic atraumatic, mucous membranes moist. Neck: no JVD appreciated at 30 degrees, no thyromegaly. Cardiovascular: irregularly irregular rhythm, no murmurs appreciated, 1+ bilateral lower extremity edema. Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use. Abdomen: soft, nontender, nondistended, normoactive bowel sounds. Extremities: no cyanosis, edema as noted above. Neuro: alert and oriented x3, cranial nerves grossly intact, gait assessed with steady cane use. Skin: warm and dry, no lesions.
+
+LABS/RESULTS:
+- 10/22/2025 BNP: 410 pg/mL (elevated)
+- 10/22/2025 Creatinine: 1.3 mg/dL
+- 10/22/2025 HbA1c: 7.4%
+- 10/15/2025 CBC: WNL
+- 10/15/2025 Potassium: 4.2 mmol/L
+
+MEDICATIONS: Furosemide 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Metformin 1000mg BID, Tamsulosin 0.4mg daily, Albuterol HFA PRN, Fluticasone/Salmeterol 250/50 BID, Atorvastatin 40mg daily, Aspirin 81mg daily, Vitamin D3 1000IU daily.
+
+ASSESSMENT/PLAN:
+72 y/o male w/ HFrEF, T2DM, BPH, asthma, presenting for geriatric assessment given functional decline.
+1. HFrEF - continue current regimen, recheck BNP in 4 weeks, encourage low sodium diet.
+2. T2DM - A1c 7.4%, continue metformin, reinforce dietary counseling.
+3. BPH - stable on tamsulosin, continue.
+4. Asthma - stable, continue inhalers as prescribed.
+5. Tobacco use - discussed lung cancer risk in general terms and cessation options, patient not ready to quit today, will readdress at future visits, screening options may be discussed at a later date.
+6. Functional decline - referral to PT for gait/balance eval, home safety eval recommended.
+
+Attending attestation: I have reviewed and discussed this case with Mr. Moreno, PA-C, and agree with the assessment and plan as documented above.

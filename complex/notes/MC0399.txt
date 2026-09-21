@@ -1,0 +1,68 @@
+Family Medicine Progress Note
+Patient: Karen Anderson (F)
+DOB: 01/13/1975 (age 50)
+Date of Service: 08/05/2025
+Author: Farah Siddiqui, MD
+
+Reason for Visit: Annual wellness visit
+
+HPI: Ms Anderson is a 50 y.o female presenting for her annual wellness exam. She reports feeling generally well, no new complaints today. She has been managing her type 2 diabetes with metformin, states blood sugars have been "pretty stable" per home glucose log. Osteoarthritis in bilateral knees continues to cause intermittent stiffness, worse in am, improved with activity. No new joint swelling or redness noted. Coronary artery disease history reviewed, patient denies chest pain, palpitations, or exertional dyspnea. She has known peripheral artery disease and reports no claudication symptoms currently, ambulates without difficulty. Gout well controlled on allopurinol, no flares since last visit.
+
+She was seen last for follow up approx 6 months ago and labs were reviewed at that time. Pt states she is compliant with meds, occassionally misses evening dose of metformin but overall adherent.
+
+Social History (EHR templated block):
+ Tobacco use status: Former/Never - see note
+ Smoking status detail: Patient tried a few cigarettes as a teenager but never smoked regularly.
+ Smokeless tobacco: Not on file
+ Alcohol use: occasional, 1-2 glasses wine/week
+ Drug use: denies
+ Occupation: retired administrative assistant
+ Living situation: lives with spouse
+ Exercise: walks 20 min most days
+ E-cigarette/vape use: Not on file
+
+ROS: Constitutional - denies fever, chills, weight loss. Cardiovascular - denies chest pain, denies orthopnea. Musculoskeletal - chronic knee pain as above. Endocrine - denies polyuria, polydipsia. Vascular - denies rest pain, denies non healing wounds. All other systems reviewed and negative except as noted in HPI.
+
+Physical Exam:
+ Vitals: BP 138/82, HR 76, RR 16, Temp 98.2F, Wt 172 lb, Ht 5'5", BMI 28.6
+ General: well appearing, no acute distress
+ HEENT: normocephalic, atraumatic, PERRLA
+ CV: RRR, no murmurs rubs or gallops
+ Lungs: CTAB, no wheezes rales or rhonchi
+ Abdomen: soft, non-tender, non-distended, bowel sounds normal
+ Extremities: 1+ pitting edema bilateral ankles, dorsalis pedis pulses 1+ bilaterally diminished, no ulcerations noted
+ MSK: bilateral knee crepitus with ROM, no effusion, no erythema
+ Skin: warm, dry, no rashes
+ Neuro: grossly intact, alert and oriented x3
+
+Labs/Results (reviewed today):
+ 08/01/2025 HbA1c: 7.2%
+ 08/01/2025 Fasting glucose: 138 mg/dL
+ 08/01/2025 LDL: 96 mg/dL
+ 08/01/2025 HDL: 42 mg/dL
+ 08/01/2025 Triglycerides: 165 mg/dL
+ 08/01/2025 Creatinine: 0.9 mg/dL
+ 08/01/2025 eGFR: 78 mL/min/1.73m2
+ 08/01/2025 Uric acid: 5.8 mg/dL
+ 07/2024 Ankle-brachial index: 0.72 (right), 0.75 (left) - consistent with known PAD
+
+Assessment:
+1. Type 2 diabetes mellitus - reasonably controlled, HbA1c 7.2%, will continue current regimen
+2. Osteoarthritis, bilateral knees - stable, continue conservative management
+3. Coronary artery disease - stable, no anginal symptoms today
+4. Gout - well controlled on allopurinol
+5. Peripheral artery disease - stable, ABI reviewed from prior year, no claudication
+6. Health maintenance/tobacco - counseled regarding tobacco history; patient reports she tried a few cigarettes as a teenager but never smoked regularly, no current tobacco use, no need for cessation counseling at this time
+
+Plan:
+- Continue metformin, allopurinol, aspirin, statin, and antihypertensive as previously prescribed
+- Recheck HbA1c in 3 months
+- Lipid panel recheck in 6 months
+- Continue home glucose monitoring, review log at next visit
+- Podiatry referral for PAD foot check annually - due this year
+- Discussed general vascular risk reduction strategies including diet, exercise, and blood pressure control
+- Discussed lung cancer screening guidelines generally as part of preventive care discussion; no imaging ordered today
+- Follow up in 6 months or sooner if symptoms arise
+- Pt verbalizes understanding and agrees with plan
+
+Encounter closed, note reviewed and signed electronically by Farah Siddiqui, MD on 08/05/2025.

@@ -1,0 +1,75 @@
+Vascular Medicine Progress Note
+
+Patient: OKAFOR, Wei    MRN: 33862826
+DOB: 11/14/1964    Age: 58 y.o.    Sex: Male
+Date of Service: 09/26/2023    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Leg pain with walking
+
+Subjective:
+Wei Okafor is a 58 y.o. male who presents for evaluation of leg pain with walking.
+Calf pain with walking 1 block, relieved by rest. He is a former smoker with a 39-pack-year smoking history and quit on 7/27/2022. Occasional night cramps. ABI: R 0.78, L 0.83.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension	2018
+• Peripheral vascular disease
+• BPH with LUTS
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+• tamsulosin 0.4 mg nightly
+• amlodipine 5 mg daily
+• losartan 50 mg daily
+• cilostazol 100 mg BID
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Lives with wife and adult daughter.
+  Retired engineer.
+  EtOH: 2-3 drinks on weekends.
+
+Family History
+Sister - breast cancer at 59. Son - type 1 diabetes.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 140/74 (BP Location: Right arm, Patient Position: Sitting) | Pulse 83 | Temp 98.8 °F (Oral) | Resp 20 | Ht 5' 6" | Wt 157 lb | SpO2 100% | BMI 25.39 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Assessment & Plan
+1. PAD with claudication
+   Supervised exercise therapy referral; continue antiplatelet and statin.
+2. Essential hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+
+f/u 1 mo
+
+Electronically signed by Julia Brennan, MD on 09/26/2023

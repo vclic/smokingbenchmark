@@ -1,0 +1,80 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Cardiology Follow-up - Heart Failure
+Date of Service: 09/05/2024
+Author: Daniel Reyes, MD (Resident); Attending attestation below
+
+Patient: Roger Lewis
+DOB: 08/05/1957 (age 67)
+MRN: [redacted]
+
+CC: HF follow-up
+
+HPI:
+Mr. Lewis is a 67 yo M w/ hx of HFrEF, T2DM, BPH, HLD, OSA presenting for routine f/u. Pt reports doing reasonably well since last visit. He states, "I've been watching my salt intake and I haven't had any swelling in my legs." No PND, no orthopnea beyond baseline (sleeps on 2 pillows, unchanged). Denies chest pain, denies syncope/presyncope. He does note occasional fatigue with exertion, "I get a little winded going up the stairs at home, but it's not new."
+
+Regarding tobacco use, pt has an extensive smoking hx. He reports he smoked about a quarter pack (approx 5 cigs/day) for 13 years, then increased to about 12 cigarettes per day for the following 29 years. He is a former smoker. He states he has not smoked since his 63rd birthday. He was congratulated on his continued abstinence. Interestingly, he mentioned, "My wife still smokes, though - I keep telling her to quit too." Pt denies current or past use of e-cigarettes or vaping products. No current alcohol use reported. Denies illicit drug use.
+
+He reports adherence to his HF meds, and denies missed doses. He checks his weight daily per home log, no significant fluctuations noted (+/- 1 lb). No recent hospitalizations. Denies palpitations. Reviewed diet - pt endorses occasional dietary indiscretion around holidays but otherwise compliant w/ low Na diet.
+
+ROS: Otherwise negative except as above. Denies fevers, chills, cough, hemoptysis. Denies dysuria (BPH stable per pt, nocturia x1 unchanged). Denies visual changes. Denies numbness/tingling in extremities.
+
+PMH/Problem List (ICD-10):
+1. Heart failure with reduced ejection fraction, I50.22 (chronic) - active
+2. Type 2 diabetes mellitus without complications, E11.9 - active
+3. Benign prostatic hyperplasia, N40.0 - active
+4. Hyperlipidemia, E78.5 - active
+5. Obstructive sleep apnea, G47.33 - active
+6. Hx of tobacco use, Z87.891 - active (former smoker)
+7. Essential hypertension, I10 - active (chart carried forward, unclear if still applicable, not addressed today)
+8. GERD, K21.9 - inactive, per old note from 2019, pt denies sx currently
+
+Meds (reviewed and reconciled):
+- Carvedilol 12.5 mg BID
+- Lisinopril 10 mg daily
+- Spironolactone 25 mg daily
+- Empagliflozin 10 mg daily
+- Atorvastatin 40 mg qHS
+- Tamsulosin 0.4 mg qHS
+- CPAP nightly for OSA (pt reports good compliance, >6hrs/night per machine download)
+
+Allergies: NKDA
+
+Social Hx: Lives with spouse. Spouse is also a smoker per pt report (see above). Retired machinist. Denies illicit drug use. Occasional EtOH (see above, currently none).
+
+Family Hx: Father w/ MI at age 70, mother w/ T2DM. Non-contributory otherwise.
+
+Vitals:
+BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb (stable from last visit), BMI 29.4
+
+Physical Exam:
+Gen: NAD, well-appearing, comfortable
+CV: RRR, S1/S2 nl, no S3/S4 appreciated today, no murmurs/rubs/gallops
+Pulm: CTAB, no crackles, no wheezes
+Abd: soft, NT/ND, no HSM
+Ext: no lower extremity edema, warm and well-perfused, 2+ distal pulses
+Neuro: grossly intact, alert and oriented x3
+Skin: no rashes or lesions noted
+
+Labs (reviewed from this AM):
+BMP: Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 118
+BNP: 210 (down from 340 three months ago)
+A1c: 6.9% (last checked 3 mo ago)
+Lipid panel: TC 162, LDL 88, HDL 42, TG 160
+
+Assessment/Plan:
+1. HFrEF - clinically euvolemic today, BNP trending down, pt doing well on current GDMT. Continue current regimen. Will obtain repeat TTE in 6 months to reassess EF. Continue daily weights, low Na diet reinforced.
+2. T2DM - reasonably controlled on empagliflozin, which also benefits HF. Continue current mgmt, defer further titration to PCP/endo.
+3. BPH - stable on tamsulosin, no urinary retention sx, defer to urology as needed.
+4. HLD - LDL at goal on atorvastatin 40, continue current dose.
+5. OSA - good CPAP compliance per pt report and machine download, continue current settings.
+6. Tobacco use, former - counseled on continued avoidance of tobacco products, praised for quitting and maintaining abstinence. Encouraged pt to continue supporting spouse in her own efforts to quit given her ongoing smoking.
+7. HTN - noted on problem list but not actively addressed today per pt report of normal home readings; will reassess at next visit.
+
+RTC in 3 months, sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+----
+ATTESTATION: I have seen and examined the patient with Dr. Reyes and discussed the plan of care as above. I agree with the assessment and plan as documented. - Attending signature on file.
+
+----
+ADDENDUM (later same day, 09/05/2024, added by Dr. Reyes):
+Pt called back to clinic nursing line this afternoon to clarify a question about his empagliflozin dosing schedule; advised to continue as prescribed, no changes made. No new complaints reported at that time. Will follow up as scheduled in 3 months. No further changes to plan.

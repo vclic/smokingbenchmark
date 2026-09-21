@@ -1,0 +1,79 @@
+Primary Care Progress Note
+
+Patient: GONZALES, Carol    MRN: 33117816
+DOB: 01/05/1967    Age: 56 y.o.    Sex: Female
+Date of Service: 03/10/2023    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Carol Gonzales is a 56 y.o. female who presents for routine follow-up of chronic conditions.
+Doing okay overall. Asks about refills.
+
+Past Medical History:
+Diagnosis	Date
+• COPD, GOLD 2	2005
+• HTN
+• Hyperlipidemia
+• Obesity
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy (2021)
+• Cataract extraction, bilateral
+• Carpal tunnel release
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• simvastatin 20 mg nightly
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA 2 puffs q4-6h PRN
+• hydrochlorothiazide 25 mg daily
+• losartan 100 mg daily
+• multivitamin daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Lives with husband and adult son.
+  Works as a cashier.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS: GU neg, CV neg, Skin neg, MSK neg, Resp +, Gen neg, GI neg, Neuro neg
+
+Objective:
+Vitals:
+  BP 127/83 (BP Location: Right arm, Patient Position: Sitting) | Pulse 95 | Temp 98.0 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 222 lb | SpO2 94% | BMI 34.69 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+2. HTN
+   BP at goal; continue current regimen.
+3. COPD, GOLD 2
+   No exacerbations since last visit. Continue maintenance inhaler.
+4. Personal history of nicotine dependence
+   Hx: 15 cig/day x29y, quit 1/6/2012. Continue annual LDCT. Encouraged continued abstinence.
+
+f/u 3 mo
+
+Electronically signed by Anita Patel, MD on 03/10/2023

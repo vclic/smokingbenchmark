@@ -1,0 +1,51 @@
+Pulmonology Clinic Note
+Date of Service: 03/06/2023
+Patient: Deborah Patel   DOB: 9/7/1962   MRN: 75563837
+
+S:
+CC: COPD follow-up
+HPI: Mrs. Patel is a 60 year old female with a history of COPD, HTN, and HLD who presents for follow-up of COPD. Baseline dyspnea after walking 1-2 blocks. 1 exacerbation in the past year, most recently in August treated with prednisone and azithromycin. Using albuterol daily lately. No change in sputum.
+
+PMH:
+- Hypercholesterolemia
+- HTN
+- COPD, GOLD 2
+Meds: amlodipine 10 mg daily; simvastatin 20 mg nightly; tiotropium 18 mcg inhaled daily; albuterol HFA PRN; budesonide-formoterol 160/4.5 2 puffs BID
+Allergies: Codeine (nausea)
+Social History:
+- Lives with husband in a single-family home.
+- She is an active smoker, approximately 40 pack-years.
+- Occasional marijuana use.
+- EtOH: 1-2 beers/wk.
+- Independent in ADLs.
+FH: Mother - CHF, d. age 88.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 147/88  HR: 73  RR: 20  Temp: 98.0 F  SpO2: 93% on RA  Wt: 164 lbs  BMI: 29.1
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (February 6, 2023): LDL 108, Cr 0.80, K 4.1
+
+ASSESSMENT/PLAN:
+1. COPD: Spirometry 3/6/2022: FEV1 76% predicted, FEV1/FVC 0.65. Continue current inhalers. Pulm rehab referral.
+
+Follow up in 12 months or sooner PRN.
+
+Seen and discussed with resident Dr. Washington. I personally saw and examined the patient and agree with the findings and plan as documented.
+Daniel Reyes, MD

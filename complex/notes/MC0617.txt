@@ -1,0 +1,42 @@
+TELEHEALTH FOLLOW-UP - PULMONOLOGY
+DOS: 06/01/2024
+Provider: Gregory Tan, MD
+
+Patient: Hung O'Brien, M, DOB 02/25/1969, Age: 55
+
+CC: COPD follow-up via video visit.
+
+HPI: Pt reports mild increase in dyspnea on exertion over past month, no fevers, no hemoptysis. Cough stable, occasional wheeze. Uses rescue inhaler ~2x/week. No recent hospitalizations. OSA and AFib stable per pt, compliant with CPAP most nights per report.
+
+PROBLEM LIST (ICD-10):
+- J44.9 COPD, unspecified
+- G47.33 Obstructive sleep apnea
+- I48.91 Atrial fibrillation, unspecified
+- E78.5 Hyperlipidemia (outdated, resolved per pt report 2021)
+- M54.5 Low back pain (outdated)
+
+MEDICATIONS: Albuterol HFA prn, Tiotropium daily, Apixaban 5mg BID, Metoprolol succinate 50mg daily, Atorvastatin 20mg qhs, Multivitamin daily.
+
+SOCIAL HISTORY (templated block):
+Alcohol use: Occasional
+Drug use: Not on file
+Smoking status: Never Smoker
+Occupation: Not on file
+Exercise: Not on file
+Living situation: Not on file
+
+[Note: the 'Never Smoker' field above is outdated/incorrect - see assessment for accurate smoking history.]
+
+ROS: Constitutional - no fever/chills/weight loss. Resp - dyspnea as above, denies chest pain. Cardiac - denies palpitations beyond known AFib, no syncope. GI - unremarkable. GU - unremarkable. MSK - unremarkable. Neuro - unremarkable. Psych - denies depression/anxiety. All other systems reviewed and negative except as noted.
+
+PHYSICAL EXAM (limited via telehealth, visual only): Pt appears comfortable, no acute distress. Speaking in full sentences. No visible increased work of breathing. Skin - no cyanosis noted on camera. No other exam performed given telehealth format.
+
+ASSESSMENT/PLAN:
+55-year-old male seen 06/01/2024 for COPD follow-up. Smoking history clarified today (templated field above incorrectly lists 'Never Smoker' - this is inaccurate). Actual history per patient: smoked 1 pack per day for 10 years, then reduced to a quarter pack (about 5 cigarettes) per day for 14 years, then increased to half a pack (about 10 cigarettes) per day for the last 10 years, which he continues currently. He is an active/current smoker.
+
+1. COPD - continue current inhaler regimen, discussed smoking cessation resources including counseling and pharmacotherapy options; pt not ready to quit at this time.
+2. OSA - continue CPAP, reassess compliance download at next visit.
+3. AFib - continue apixaban and metoprolol, no acute concerns today.
+4. Follow-up in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Gregory Tan, MD

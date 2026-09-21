@@ -1,0 +1,56 @@
+Pulmonology Progress Note
+Patient: Sandra Harris
+DOB: 01/25/1965 (Age 58)
+Date of Service: 01/25/2023
+Provider: Laura Castellano, FNP-C
+Visit Type: COPD Follow-up
+
+CHIEF COMPLAINT: Follow-up for COPD, ongoing management with comorbid CKD stage 3, CAD, and asthma.
+
+HPI: Ms. Harris is a 58-year-old female, DOB 1/25/1965, presenting today, date of service January 25, 2023, for routine COPD follow-up. She reports "I've been doing okay, just some wheezing when I climb the stairs at home," and notes occasional nighttime cough that wakes her up "maybe once or twice a week." She denies fevers, chills, or hemoptysis. She states her energy has been "about the same as last visit," and she continues to use her albuterol inhaler PRN with good relief. She denies any recent hospitalizations or ED visits since last seen in clinic in October. She reports adherence to her home medications and denies missed doses. Regarding tobacco use: patient is a lifelong non-smoker, with no history of cigarette, cigar, or pipe use, consistently documented across multiple prior visits. She denies any personal history of tobacco use of any kind. She does note her husband occasionally smokes outdoors, though she herself has never smoked.
+
+ROS: Constitutional: denies fever, chills, weight loss. Eyes: denies visual changes. ENT: denies sore throat, denies epistaxis. Cardiovascular: denies chest pain, denies palpitations, occasional mild dyspnea on exertion as above. Respiratory: positive for intermittent wheeze, positive for nocturnal cough as above, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies swelling. Skin: denies rash. Neuro: denies headache, denies dizziness, denies syncope. Psych: denies depression, denies anxiety, sleep somewhat disrupted by cough as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, Temp 98.2F, SpO2 95% on room air, Wt 168 lbs, Ht 5'4"
+General: Well-developed, well-nourished female in no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, pupils equal round reactive to light, oropharynx clear, mucous membranes moist.
+Neck: Supple, no lymphadenopathy, no jugular venous distension, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops appreciated, [inaudible] no peripheral edema noted bilaterally.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no rhonchi, good air movement, breathing is nonlabored at rest, she was able to complete sentences without difficulty during the encounter which the patient states is her, quote, "normal for me these days."
+Abdomen: Soft, nontender, nondistended, normal bowel sounds, no hepatosplenomegaly.
+Extremities: No clubbing, cyanosis, or edema, pulses 2+ bilaterally.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neuro: Grossly intact, cranial nerves II-XII intact, no focal deficits.
+
+LABS/RESULTS:
+CBC (01/20/2023): WBC 6.8, Hgb 13.1, Hct 39.4%, Plt 245
+BMP (01/20/2023): Na 138, K 4.2, Cl 101, CO2 25, BUN 22, Creatinine 1.4 (baseline for CKD stage 3), eGFR 44
+Lipid panel (01/20/2023): Total chol 182, LDL 98, HDL 52, Trig 160
+Spirometry (01/18/2023): FEV1 62% predicted, FVC 78% predicted, FEV1/FVC ratio 0.65, consistent with moderate obstructive pattern, mild improvement post-bronchodilator.
+Chest x-ray (10/15/2022, on file): No acute infiltrate, mild hyperinflation, stable compared to prior.
+
+CURRENT MEDICATIONS:
+1. Tiotropium bromide inhaler 18 mcg, one inhalation daily
+2. Albuterol sulfate HFA inhaler, 2 puffs q4-6h PRN wheeze/SOB
+3. Fluticasone/salmeterol 250/50 mcg, one inhalation twice daily
+4. Montelukast 10 mg PO nightly
+5. Aspirin 81 mg PO daily
+6. Atorvastatin 40 mg PO nightly
+7. Metoprolol succinate 50 mg PO daily
+8. Lisinopril 10 mg PO daily (monitored given CKD stage 3)
+9. Vitamin D3 1000 IU PO daily
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable on current regimen — continue tiotropium and combination inhaler, reinforce inhaler technique, discussed pulmonary rehabilitation referral, patient to continue PRN albuterol as needed. Lung cancer screening was discussed with the patient in general terms as part of preventive care counseling.
+2. Asthma-COPD overlap — continue montelukast, monitor symptoms, follow up if worsening.
+3. CKD stage 3 — stable, continue to monitor renal function with labs, avoid nephrotoxic agents, follow with nephrology as scheduled.
+4. CAD — stable, continue aspirin, statin, beta blocker, follow with cardiology as scheduled.
+5. Health maintenance — up to date on vaccinations per chart, encouraged continued avoidance of secondhand smoke exposure at home given husband's outdoor smoking habit, discussed general home air quality measures.
+Return to clinic in 3 months or sooner if symptoms worsen, patient verbalized understanding of plan and agreed with above, all questions answered today.
+
+Laura Castellano, FNP-C
+Electronically signed 01/25/2023 14:32
+
+ADDENDUM (01/25/2023, 16:10): Addendum added later same day — patient's spouse called clinic this afternoon with additional question regarding refill of albuterol inhaler, staff advised prescription was sent to pharmacy as discussed at visit, no changes to plan otherwise, patient remains a lifelong non-smoker per chart review confirmed again during this call, no further action needed at this time.
+Laura Castellano, FNP-C

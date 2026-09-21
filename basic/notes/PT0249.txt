@@ -1,0 +1,80 @@
+Vascular Medicine Progress Note
+
+Patient: NELSON, Wayne    MRN: 86826499
+DOB: 11/04/1973    Age: 50 y.o.    Sex: Male
+Date of Service: 10/09/2024    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• Leg pain with walking
+
+Subjective:
+Wayne Nelson is a 50 y.o. male who presents for evaluation of leg pain with walking.
+Calf pain with walking 2 blocks, relieved by rest. No rest pain. ABI: R 0.89, L 0.79.
+
+Past Medical History:
+Diagnosis	Date
+• Depression
+• GERD
+• PAD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy
+• Cataract extraction, bilateral (2015)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• aspirin 81 mg daily
+• pantoprazole 40 mg daily
+• bupropion XL 150 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Packs/day: 0.75
+    Years: 31.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with son.
+  Works as a postal worker.
+  Previously quit in 2017; relapsed in 2021.
+  Drinks a glass of wine with dinner.
+
+Family History
+Sister - breast cancer at 59.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 110/68 (BP Location: Left arm, Patient Position: Sitting) | Pulse 84 | Temp 98.0 °F (Oral) | Resp 18 | Ht 5' 10" | Wt 165 lb | SpO2 100% | BMI 23.64 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. PAD with claudication
+   Supervised exercise therapy referral; continue antiplatelet and statin. Cilostazol trial. Smoking cessation is the most important intervention - discussed.
+2. GERD
+   Trial PPI step-down.
+3. Depression
+   Mood stable.
+4. Current smoker
+   Advised to quit; >3 min spent counseling. Not ready to quit at this time. Start nicotine patch 21 mg/24h + gum 2 mg PRN. LDCT for lung cancer screening ordered after SDM.
+
+RTC 3 months.
+
+Electronically signed by Catherine Lindqvist, DO on 10/09/2024

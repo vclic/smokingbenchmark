@@ -1,0 +1,50 @@
+TELEHEALTH F/U NOTE - Pulmonology
+Patient: John Martin, M, DOB 1/22/1954 (age 69)
+DOS: 03/10/2023
+Author: Farah Siddiqui, MD
+
+=== COPIED FORWARD FROM PRIOR VISIT (ORIGINAL NOTE DATED 11/02/2022) ===
+CC: f/u COPD, AFib, HTN, obesity
+HPI: Pt is a 68 yo M w/ PMH sig for AFib (on anticoagulation), obesity, HTN who presents for routine pulm f/u. Reports doing fairly well, no acute SOB at rest, occasional dyspnea on exertion climbing >1 flight stairs. Denies fevers, chills, hemoptysis. Cough productive of scant clear sputum most mornings, chronic. Uses albuterol PRN, reports mild relief. No recent hospitalizations at that time. Denies chest pain. Sleeps supine, denies orthopnea/PND at that visit.
+ROS: otherwise negative except as above.
+PE (11/02/2022): Vitals stable, afebrile. Lungs w/ mild expiratory wheeze bilat bases, no crackles. Cor: irreg irreg rhythm, no m/r/g. Ext: no edema.
+A/P (11/02/2022): 1. COPD - stable, cont current regimen. 2. AFib - rate controlled, cont anticoag. 3. HTN - cont current antihypertensives. 4. Obesity - counseled diet/exercise.
+=== END COPIED FORWARD TEXT ===
+
+CURRENT VISIT NOTE (03/10/2023):
+CC: F/u after recent ED visit for COPD exacerbation, telehealth d/t transportation issues.
+
+HPI: Mr. Martin is a 69 yo M (DOB 1/22/1954) w/ PMH AFib, obesity, HTN, presenting via telehealth for f/u after ED visit ~1 wk ago for acute COPD exac. Per ED d/c summary, he was tx'd w/ nebs, steroids (prednisone taper), and abx (azithromycin) for presumed bacterial trigger. Pt reports significant improvement in dyspnea and cough since ED visit, though states he still gets SOB w/ minimal exertion (e.g., walking to mailbox). Denies fevers, chest pain, palpitations currently. Says he has been compliant w/ prednisone taper and finished abx course 2 days ago. Uses albuterol inhaler PRN, ~3-4x/day currently, more than his baseline.
+
+On further questioning re: exposures, pt endorses ongoing tobacco use - he is an active smoker. Also reports use of marijuana a few times a month, states it's for "relaxation," denies use of other recreational substances. No vaping/e-cig use reported.
+
+PMH: AFib (on anticoag, apixaban per chart), HTN, obesity, COPD (dx several yrs ago per chart review, no recent PFTs on file this visit).
+
+Meds (per pharmacy reconciliation, telehealth limits verification): apixaban, metoprolol succinate, lisinopril, albuterol HFA PRN, fluticasone/salmeterol DPI, atorvastatin. Recently completed azithromycin + prednisone taper per ED d/c instructions.
+
+Allergies: NKDA.
+
+Soc Hx: Lives w/ spouse, retired machinist. Tobacco use as above. EtOH - occasional, denies heavy use. Marijuana use as noted above, a few times monthly. No illicit drug use reported.
+
+Fam Hx: non-contributory, unremarkable per chart.
+
+ROS: Constitutional - denies fever/chills, reports fatigue. Resp - + dyspnea on exertion, + chronic AM cough, denies hemoptysis. CV - denies chest pain, occasional palpitations noted intermittently (baseline per pt, unchanged). GI - denies n/v/d. All other systems reviewed and negative.
+
+Exam (telehealth, limited):
+Gen: pt appears comfortable, no acute distress on video, speaking in full sentences.
+Vitals (pt reported via home pulse ox/BP cuff): O2 sat 94% RA, HR 78 irregularly irregular per pt palpation, BP 138/82.
+Resp: pt reports mild wheeze audible to him, no visible increased work of breathing on camera.
+CV: unable to auscultate via telehealth; pt denies edema on self-exam, denies calf tenderness.
+Skin: no cyanosis noted on video.
+
+Assessment/Plan:
+1. COPD, s/p recent exacerbation - clinically improved since ED visit, though pt reports smokes between 2 and 3 packs per day for 51 years; he remains an active smoker. Discussed importance of smoking cessation given ongoing symptoms and risk of future exacerbations; offered referral to cessation counseling and pharmacotherapy (varenicline vs NRT), pt states he will "think about it." Also discussed marijuana use a few times a month and its potential impact on pulm sx; advised reducing/avoiding inhaled substances generally. Lung cancer screening was discussed in general terms as part of counseling regarding tobacco use; no imaging ordered today via this visit. Cont fluticasone/salmeterol DPI, cont albuterol PRN but advised to call if using >4x/day. Will obtain in-person PFTs at next f/u once transportation arranged. F/u in 2-4 wks or sooner if worsening sx.
+2. AFib - rate appears controlled per pt report of HR, cont apixaban and metoprolol, no changes today, will defer full cardiac exam to in-person visit or cardiology.
+3. HTN - BP reasonably controlled today, cont current regimen.
+4. Obesity - counseled diet/exercise as tolerated given resp limitations, encouraged pulm rehab referral discussion at next visit.
+
+Return to clinic or call sooner if worsening dyspnea, fever, chest pain, or hemoptysis. Pt verbalized understanding of plan via telehealth, agreeable to f/u.
+
+---
+ADDENDUM (later same day, 03/10/2023, F. Siddiqui MD):
+Spoke again briefly w/ pt by phone this afternoon - he called w/ additional question re: inhaler technique. Reviewed proper spacer use for albuterol HFA. Reiterated smoking cessation resources; pt again confirmed he remains an active smoker and will consider cessation counseling referral. No other changes to plan above. Will send cessation program info via patient portal.

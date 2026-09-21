@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Patient: Priya Hernandez, F, DOB 9/11/1946 (age 78)
+Date of Service: 11/18/2024
+Provider: Catherine Lindqvist, DO - Family Medicine
+Visit type: Telehealth, medication refills
+
+HPI:
+Pt calling in for refills, osteoporosis, OSA, gout meds all due. States she's doing 'ok overall,' denies new fx, no gout flares recent, uses CPAP nightly per husband 'she snors less now' [inaudible] some static on call so had to repeat parts of conversation twice. Reports occasional low back ache, chronic, unchanged. No new falls. Denies chest pain, denies hemoptysis, denies unintentional weight loss. During review of home meds she mentioned she 'still smokes a little, always has' - asked to clarify further, see social hx below.
+
+EHR TEMPLATED SOCIAL HISTORY BLOCK:
+Smoking status: Never Smoker
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+
+[Note: the 'Never Smoker' field above is incorrect/outdated and does not reflect actual history — see below.]
+
+Social History (updated, dictated):
+Patient actually has significant tobacco history not reflected in the templated field above. She reports she smoked half a pack, about ten cigarettes a day, for twenty-seven years, then cut back to a quarter pack, about five cigarettes a day, for thirty-one years and continues smoking at that reduced amount currently. She is a current smoker. Advised to quit, discussed risks of continued tobacco use given her age and history, she states she 'has thought about it' but not ready today. No e-cigarette or vape use reported. Lives with husband, denies illicit drug use, rare EtOH per patient (pt states 'maybe a glass of wine on holidays' - unclear if accurate, husband in background said 'more than that' - [inaudible], did not pursue further today given time constraints of visit).
+
+PMH: Osteoporosis (on bisphosphonate), OSA (CPAP compliant per report), gout (on allopurinol, last flare several months ago per pt).
+
+Medications reviewed/refilled:
+- Alendronate weekly - refilled
+- Allopurinol daily - refilled
+- Calcium/Vit D - refilled
+- CPAP supplies - referred to DME per usual
+
+ROS: Denies fevers, chills, denies cough (though smoker, no productive cough today), denies dyspnea at rest, denies dysuria, denies joint swelling currently, denies new rash.
+
+Exam: Deferred, telehealth visit, pt appears comfortable on camera, speaking full sentences without distress, no visible respiratory distress noted on video.
+
+Assessment/Plan:
+1. Osteoporosis - stable, continue alendronate, refilled today, DEXA due for repeat in future per standing protocol, will schedule separately.
+2. OSA - continue CPAP, compliant per patient report, refer again to DME for supply refill (mask cushions, tubing).
+3. Gout - stable, no active flare, continue allopurinol, refilled, recheck uric acid at next visit.
+4. Tobacco use, current smoker - despite outdated 'Never Smoker' field in chart (corrected today), patient has longstanding smoking history as above and continues to smoke currently. Cessation counseling provided again today, discussed general health risks of continued smoking including cardiopulmonary risks given her age. She was not interested in cessation aids today, agreeable to revisit topic at future visit. Lung cancer screening was discussed in general terms with patient as part of counseling conversation; no imaging ordered today.
+5. Health maintenance - up to date per chart review, will address at next in-person visit.
+
+Plan to follow up in 3 months or sooner if issues arise. Pt verbalized understanding, agreeable with plan. Telehealth visit concluded without difficulty, total call time approx twenty minutes minus [inaudible] technical interruption noted above.
+
+Electronically signed: Catherine Lindqvist, DO

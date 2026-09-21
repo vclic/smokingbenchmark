@@ -1,0 +1,52 @@
+PROGRESS NOTE
+Date of Service: January 16, 2024
+Patient: Harold Rodriguez   DOB: 10/23/1960   MRN: 54378454
+
+SUBJECTIVE:
+CC: Leg pain with walking
+HPI: Mr. Rodriguez is a 63-year-old man with a history of CHF, HLD, BPH, and PAD who presents for evaluation of leg pain with walking. Calf pain with walking 2 blocks, relieved by rest. No foot ulcers. ABI: R 0.55, L 0.95.
+
+PMH:
+- Chronic systolic heart failure
+- Gout (dx 1998)
+- Benign prostatic hyperplasia
+- Hyperlipidemia
+- PAD
+Meds: sacubitril-valsartan 49/51 mg BID; finasteride 5 mg daily; carvedilol 12.5 mg BID; tamsulosin 0.4 mg nightly; aspirin 81 mg daily; atorvastatin 40 mg daily; allopurinol 300 mg daily; furosemide 40 mg daily
+Allergies: Lisinopril (cough)
+SH: Lives with wife in a single-family home. Works as a construction worker. He is a current smoker; he smoked half a pack daily for 22 years, then increased to a pack and a half a day, which he has smoked for the last 26 years. Social drinker. No illicit drug use.
+FH: Mother - HTN, DM2.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 119/70  HR: 76  RR: 18  Temp: 98.0 F  SpO2: 100% on RA  Wt: 207 lbs  BMI: 28.9
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: 1+ pitting edema bilateral LE to mid-shin
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. PAD with claudication
+   - Supervised exercise therapy referral; continue antiplatelet and statin. Cilostazol trial. Smoking cessation is the most important intervention - discussed.
+2. Benign prostatic hyperplasia
+   - Nocturia x1-2; continue tamsulosin.
+3. Chronic systolic heart failure: Weight stable. Continue diuretic.
+4. Hyperlipidemia: LDL at goal on last check; continue.
+5. Tobacco use: Discussed cessation (4 min). He is in the precontemplation stage. Rx bupropion SR 150 mg daily x3d then BID.
+
+Follow up in 3 months or sooner PRN.
+
+Quentin Hale, PA-C

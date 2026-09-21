@@ -1,0 +1,44 @@
+Pulmonology Progress Note
+Date of Service: 08/02/2024
+Author: Kevin Osei, MD
+
+Patient: Sharon Gonzales, F, DOB 8/2/1965 (age 59)
+
+CHIEF COMPLAINT: Follow-up incidental lung nodule.
+
+HPI: Ms. Gonzales is a 59-year-old woman seen today for f/u of an incidentally noted pulmonary nodule found on CT during ER work-up for rib pain last spring. She states "I feel about the same, no cough, no chest pain, just tired all the time." Denies hemoptysis, fevers, night sweats. She reports her COPD sx stable on current inhalers, occasional wheeze w exertion but no recent exacerbation requiring steroids or antibx. Pt also c/o ongoing knee pain from osteoarthritis, worse w weather changes, and mood "okay, not great" per her depression hx - continues sertraline. She denies SI/HI. CKD stage 3 stable per last labs, nephrology following q6mo. HTN and obesity also part of her problem list, discussed diet and exercise limitations given joint pain.
+
+Speech-to-text note (dictated, some errors uncorrected): Patient states she has been trying to loose way but her knees make it hard to get to they're usual walking routine, and she sometimes feels like her breathing is worse when its humid out [inaudible] she also mentioned her daughter recently had a baby so she's been watching grandkids more which has increased fatigue.
+
+===COPIED FORWARD FROM PRIOR VISIT (05/14/2024)===
+PULMONARY: Pt with h/o COPD, GOLD stage unspecified, on tiotropium and albuterol PRN. CT chest showed 6mm nodule RUL, stable compared to prior imaging per radiology read. Plan at that time was repeat CT in 6 months. PFTs reviewed showing mild obstruction, FEV1 68% predicted. ROS otherwise negative for chest pain, syncope, DOE beyond baseline. Pt reports adherence to inhalers reasonable but occasionally forgets evening dose. Discussed pulmonary rehab referral, pt declined at that time citing transportation issues. Vaccination status reviewed - pneumococcal and influenza up to date. Continue monitoring nodule, f/u in 3 months for interval imaging review.
+===END COPIED FORWARD===
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Years smoked: 2 years
+Current use: No
+Alcohol use: Not on file
+Substance use: Not on file
+Occupation: Retired retail
+Living situation: Lives with husband
+Exercise: Limited due to joint pain
+
+Additional narrative smoking history: Ms. Gonzales quit smoking approximately 3 years after the birth of her first grandchild, which occurred in 1990; she has not smoked since. She reports feeling proud of having quit and denies any interest in resuming.
+
+Discussed lung nodule surveillance and general risk factors for lung disease, including her past tobacco history, though her smoking history was brief. Reviewed her most recent chest imaging report available in the system, again showing the nodule stable in size and morphology compared to prior study. Screening guidelines for lung cancer were discussed in general terms, and patient's questions were answered; no specific determination about further screening eligibility was made during this visit.
+
+EXAM: Vitals: BP 138/84, HR 78, RR 16, SpO2 95% RA, BMI 34. General: obese woman, no acute distress. Lungs: mild expiratory wheeze bilaterally, no crackles. CV: RRR, no murmurs. Extremities: no edema, mild crepitus at knees bilaterally on exam c/w known OA. Psych: mood euthymic, affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Pulmonary nodule, RUL - stable per prior imaging comparison, continue surveillance per pulmonology protocol, repeat CT in several months, will coordinate with radiology for scheduling.
+2. COPD - stable, continue tiotropium and albuterol PRN, reinforced inhaler technique, discussed pulmonary rehab again, pt open to reconsidering given grandchild care duties easier to arrange transport now.
+3. Osteoarthritis - continue acetaminophen and topical NSAID, ortho f/u as needed, consider PT referral.
+4. Depression - continue sertraline, stable mood, no acute issues, f/u with PCP for med management.
+5. CKD stage 3 - stable, continue nephrology f/u, monitor renal function labs at next visit.
+6. Obesity/HTN - counseled on lifestyle modifications within limits of joint pain, continue current antihypertensive regimen, BP reasonably controlled today.
+
+Return to clinic per above plan or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Kevin Osei, MD
+Pulmonology

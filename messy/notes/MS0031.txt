@@ -1,0 +1,44 @@
+CARDIOLOGY FOLLOW-UP - HEART FAILURE
+Date of Service: 04/12/2024
+Patient: Rosa White, DOB 04/12/1949 (age 75)
+Author: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 78 reg, RR 16, SpO2 94% RA, Wt 176 lb (up 2 lb from last visit), Temp 97.8F
+Allergies: NKDA
+Meds reviewed with pt, see full list below.
+Pt ambulates independently, uses CPAP nightly per report for OSA.
+Here for routine f/u of CHF, denies acute cp/sob today but c/o some ankle swelling by end of day.
+
+Problem List:
+- I50.9 Heart failure, unspecified
+- M81.0 Osteoporosis w/o current pathological fracture
+- G47.33 Obstructive sleep apnea
+- M19.90 Osteoarthritis, unspecified site
+- M10.9 Gout, unspecified (outdated- pt reports no flares x 2 yrs, may resolve)
+- I10 Essential hypertension (outdated entry, carried from prior note)
+
+--- PHYSICIAN PROGRESS NOTE ---
+Date of service: April 12, 2024.
+HPI: Ms White is a 75 year old female with hx of HFrEF, OSA, osteoporosis, OA and gout who presents today for routine f/u. She reports mild increase in bilateral LE edema over past week, no orthopnea, no PND.
+
+SOCIAL HISTORY: Tobacco- pt has a 31 pack-year smoking history. She reports smoking marijuana a few times a month, denies other illicit drug use. Alcohol- pt quit drinking alcohol in 2012, none since.
+
+ROS: Constitutional- no fever, chills, wt loss. CV- as above, +mild LE edema, denies cp/palpitations. Resp- denies cough, denies dyspnea at rest. GI- denies n/v/d, appetite stable. GU- denies dysuria. MSK- chronic joint pain stable, no acute gout flare. Neuro- no focal deficits. Skin- no rashes. Psych- mood stable, denies SI/HI.
+
+PHYSICAL EXAM: Gen- NAD, well-appearing elderly female. HEENT- nc/at, no JVD appreciated at 30deg. CV- RRR, no m/r/g, S1S2 nl. Lungs- CTAB, no crackles/wheezes. Abd- soft, nt/nd, +BS. Ext- 1+ pitting edema b/l ankles, no calf tenderness. Skin- warm, dry, intact. Neuro- grossly intact, AAOx3.
+
+MEDICATIONS: Furosemide 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Spironolactone 25mg daily, Alendronate 70mg weekly, Calcium/Vit D supplement, Allopurinol 100mg daily, Acetaminophen PRN for OA pain, Atorvastatin 20mg daily.
+
+LABS: BMP wnl, BNP mildly elevated from baseline, consistent w mild decompensation.
+
+ASSESSMENT/PLAN:
+1. Heart failure, HFrEF- mild worsening edema, will increase diuretic slightly, f/u in 4 wks, daily weights reviewed.
+2. Tobacco use- patient continues to smoke despite counseling; discussed cessation resources again today, declined pharmacotherapy at this time, will readdress next visit. Discussed lung cancer screening in general terms as part of preventive health discussion.
+3. OSA- stable on CPAP, continue current settings.
+4. Osteoporosis- continue alendronate and calcium/vit D, DEXA due next year.
+5. OA/Gout- stable, no flares, continue current regimen.
+6. Alcohol use- pt reports abstinence since 2012, no concerns at this time.
+
+RTC 4 weeks or sooner if symptoms worsen.
+Daniel Reyes, MD

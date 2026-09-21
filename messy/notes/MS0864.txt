@@ -1,0 +1,27 @@
+Pulmonology Follow-up Visit
+Date of Service: 04/07/2023
+Patient: Theresa Smith  DOB: 02/07/1967  Age: 56
+Provider: Nadia Haddad, MD
+
+NURSE INTAKE:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 96% RA, Wt 172 lb, Ht 5'4"
+Allergies: NKDA
+Medications reviewed with pt (see below), reconciled by RN.
+CC: f/u incidental lung nodule found on CT for CHF workup.
+
+PHYSICIAN PROGRESS NOTE:
+HPI: Ms Smith is a 56 yo woman here today, 4/7/2023, for f/u of an incidental pulmonary nodule noted on prior imaging. She states "I feel about the same, no cough, no chest pain, maybe a little more tired lately." Denies hemoptysis, fevers, night sweats, or unintentional weight loss. She reports adherence to her heart failure and diabetes meds. No new orthopnea or PND. Social history reviewed - when asked about tobacco use she says "I only tried a few cigarettes back in high school, never smoked regularly after that." No vaping, no other tobacco products. No occupational exposures to asbestos reported. Family hx notable for father with COPD (non-contributory to smoking hx).
+
+ROS: Constitutional - denies fevers, chills, wt loss. Resp - denies cough, dyspnea, wheeze. CV - denies chest pain, palpitations, worsening edema. GI - denies nausea, vomiting, abd pain. GU - reports nocturia x2, known BPH. MSK - chronic knee pain, stable. Endo - denies polyuria, polydipsia. All other systems reviewed and negative.
+
+PE: Gen - well-appearing, NAD. HEENT - unremarkable. Neck - no LAD, no JVD. CV - RRR, S3 gallop present (known), no new murmurs. Resp - CTAB, no wheezes/rales/rhonchi. Abd - soft, NT/ND. Ext - trace bilateral edema, no clubbing/cyanosis. Skin - intact. Neuro - grossly intact.
+
+Meds: Metformin 1000mg BID, empagliflozin 10mg daily, carvedilol 25mg BID, sacubitril-valsartan 49/51mg BID, spirochet... spironolactone 25mg daily, atorvastatin 40mg daily, aspirin 81mg daily, alendronate 70mg weekly, tamsulosin 0.4mg daily, acetaminophen PRN.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable per radiology comparison to prior study, will continue routine surveillance imaging per nodule follow-up protocol timeline. Given her minimal tobacco history, this nodule is not thought to be related to smoking exposure.
+2. Type 2 diabetes - continue current regimen, A1c pending.
+3. HFrEF/CAD - continue GDMT, stable exam.
+4. Osteoporosis - continue alendronate, DEXA due next yr.
+5. OA/BPH - stable, no changes.
+f/u in pulm clinic per nodule protocol, sooner if symptoms develop.

@@ -1,0 +1,49 @@
+TELEHEALTH F/U VISIT - Internal Medicine
+Pt: Patricia Green | DOB: 7/28/1948 (age 77) | DOS: 07/30/2025
+Provider: Priya Raman, MD
+
+HPI: 77 yo F c/o stable BP control on current regimen, no CP/SOB today, checking in re: DM2 and HTN mgmt via video visit. Denies chest pain, orthopnea, PND. Pt reports mood stable on current antidepressant. No new asthma exac. States she quit smoking right after her heart attack and has felt better able to exercise since.
+
+PMH/Problem List:
+- E11.9 Type 2 DM
+- I10 HTN
+- I50.22 Chronic systolic (congestive) HF
+- F32.9 Depression, unspecified
+- J45.909 Asthma, unspecified
+- N40.0 BPH w/o LUTS
+- NSTEMI with stent (2024)
+- (old/outdated) K21.9 GERD - resolved per pt, kept on list from prior EHR migration
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+  Smoking status details: Pt smoked 3/4 pack/day (~15 cigs/day) x 28 yrs, then stopped completely for 8 yrs, then restarted at 1/4 pack/day (~5 cigs/day) x 21 yrs, then quit for good. Pt no longer smokes.
+Smokeless tobacco: Not on file
+Alcohol use: Quit drinking etoh in 2017
+Drug use: Not on file
+Living situation: Lives w/ daughter
+Occupation: Retired
+Exercise: Not on file
+
+ROS: Otherwise negative except as above.
+
+Vitals: BP 128/76, HR 74, RR 16, T 97.8F, SpO2 96% RA, Wt 168 lb
+
+Labs/Results (reviewed today):
+- HbA1c 07/22/2025: 7.1%
+- BMP 07/22/2025: Na 138, K 4.3, Cr 1.0, eGFR 62
+- BNP 06/15/2025: 210 pg/mL
+- Lipid panel 04/10/2025: LDL 98, HDL 52, TG 130
+
+Exam: NAD, lungs CTAB, no wheeze, RRR no S3/S4 appreciated (limited by telehealth, no direct auscultation), no peripheral edema noted on visual inspection by pt/caregiver.
+
+A/P:
+1. HTN - well controlled, cont current ACEi.
+2. DM2 - A1c improved, cont metformin, reinforce diet.
+3. HFrEF - stable, cont GDMT, no decompensation signs; pt's tobacco history reviewed, she is a former smoker who no longer smokes, quit smoking following her NSTEMI; encouraged continued abstinence.
+4. Depression - stable on current tx.
+5. Asthma - well controlled, continue current inhalers.
+6. BPH - stable, no new urinary sx.
+Lung cancer screening was discussed with the patient given her smoking history.
+RTC in 3 months or sooner if needed.
+
+Electronically signed: Priya Raman, MD

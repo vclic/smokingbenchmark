@@ -1,0 +1,63 @@
+CARDIOLOGY CONSULTATION / HISTORY AND PHYSICAL
+Date of Service: 03/10/2026
+Author: Michael Dunn, DO
+Patient: Mary Chen (F)
+DOB: 03/10/1956 (Age: 70)
+MRN: 004471-CH
+
+CHIEF COMPLAINT: Chest pain, evaluation.
+
+HPI: Ms. Chen is a 70-year-old woman with history of atrial fibrillation, HFrEF, T2DM, gout, and BPH who presents today, 03/10/2026, for evaluation of intermittent chest tightness over the past 2 weeks. She describes episodes lasting 5-10 minutes, occurring with exertion (climbing stairs), relieved by rest. No radiation to arm/jaw. Denies diaphoresis, nausea, or syncope. She notes mild orthopnea, using 2 pillows, and occasional bilateral ankle swelling by end of day. She reports adherence to her rate-control regimen and diuretic. No recent illness. She denies palpitations at rest but occasionally feels her heart 'flutter' with exertion.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation (I48.91) - on anticoagulation
+- Heart failure with reduced ejection fraction (I50.22) - EF 35% on last echo
+- Type 2 diabetes mellitus (E11.9) - on metformin
+- Gout (M10.9) - intermittent flares
+- Benign prostatic hyperplasia (N40.0) - [NOTE: this diagnosis is on the problem list from a prior male patient record error; flagged for correction, retained here as copied forward from chart, patient is female, likely outdated/incorrect entry not removed]
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never used tobacco.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies heavy use
+Illicit drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Reports walking 20 minutes most days
+Diet: Not on file
+
+[COPIED FORWARD FROM VISIT DATED 11/14/2023 - PLEASE DISREGARD OUTDATED VITALS/LABS BELOW, RETAINED FOR CONTINUITY]
+Vitals (11/14/2023): BP 138/82, HR 78 irregular, RR 16, Temp 98.2F, Wt 165 lb
+Labs (11/14/2023): A1c 7.4%, Cr 1.0, K 4.2, INR 2.3 (on warfarin at that time)
+Assessment (11/14/2023): AFib rate well controlled on metoprolol, continue warfarin, gout flare resolved with colchicine, BPH noted in error on problem list, diabetes stable.
+Plan (11/14/2023): Follow up in 6 months, continue current meds, repeat echo in 1 year.
+[END COPIED FORWARD SECTION]
+
+CURRENT MEDICATIONS: Metoprolol succinate 50mg daily, Apixaban 5mg BID, Metformin 1000mg BID, Furosemide 20mg daily, Allopurinol 100mg daily, Lisinopril 10mg daily.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Positive for exertional chest tightness, mild dyspnea on exertion, ankle edema. Negative for fever, cough, hemoptysis, weight loss, syncope, or palpitations at rest. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals today (03/10/2026): BP 132/78, HR 82 irregularly irregular, RR 16, Temp 98.4F, SpO2 97% RA, Wt 162 lb
+General: Alert, no acute distress, well-nourished.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no JVD at 30 degrees, trace bilateral ankle edema.
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Trace edema bilaterally, no calf tenderness.
+Neuro: Grossly intact.
+
+EKG: Atrial fibrillation, ventricular rate 80s, no acute ST changes.
+
+ASSESSMENT AND PLAN:
+1. Atrial fibrillation - rate appears controlled, continue metoprolol and apixaban. Will obtain repeat echo given symptoms of exertional chest tightness and mild volume overload.
+2. Chest pain, likely related to demand ischemia vs deconditioning given HFrEF - will order stress echo to further evaluate. General preventive health topics were discussed with the patient as appropriate for her age.
+3. HFrEF - continue lisinopril and furosemide, monitor weight and symptoms, reinforce low sodium diet.
+4. Type 2 diabetes - continue metformin, follow up A1c at next visit.
+5. Gout - stable, continue allopurinol, no active flare.
+6. BPH - noted as erroneous entry on problem list for this female patient; will submit correction request to remove from active problem list.
+
+Patient counseled on symptoms warranting return to ED (worsening chest pain, syncope, severe dyspnea). Return to clinic in 4 weeks or sooner if symptoms worsen. Given the patient's history of never using tobacco, no tobacco cessation counseling was indicated today.
+
+Electronically signed: Michael Dunn, DO - 03/10/2026

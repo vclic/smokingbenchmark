@@ -1,0 +1,87 @@
+Telehealth Follow-Up Note – Pulmonology
+Author: Steven Park, MD
+Date of Service: 11/08/2024
+
+Patient: Cheryl Kowalski
+DOB: 01/09/1964 (age 60)
+MRN: 552019-CK
+
+Visit Type: Video telehealth, follow-up incidental pulmonary nodule
+
+CHIEF COMPLAINT: Follow-up of incidentally noted right upper lobe nodule found on CT abdomen/pelvis performed for unrelated indication.
+
+HPI:
+Ms. Kowalski is a 60-year-old woman with history of depression, asthma, OSA on CPAP, BPH, and CKD stage 3 who presents via telehealth for discussion of a small pulmonary nodule identified incidentally on a recent CT scan. She states, "I feel fine, I haven't noticed anything different breathing-wise." She denies hemoptysis, unintentional weight loss, fevers, or night sweats. She reports her asthma has been stable on her current inhaler regimen, using her rescue inhaler perhaps once every couple of weeks with exertion. She denies chest pain. When asked about tobacco use history, the patient declined to discuss the topic and the conversation moved on; smoking status could not be determined at this visit.
+
+She notes ongoing fatigue which she attributes to poor sleep despite CPAP use, and reports she has been compliant with her CPAP most nights. She denies any new urinary symptoms related to her BPH. She reports her mood has been "a little up and down" but she is engaged in therapy and taking her antidepressant as prescribed.
+
+[Copied forward from visit dated 06/14/2023 — retained per prior note, not updated this visit]
+REVIEW OF SYSTEMS (from 06/14/2023 encounter, carried forward in error, left for continuity):
+Constitutional: Denies fevers, chills, night sweats, weight loss.
+Eyes: No visual changes.
+ENT: No sore throat, no epistaxis.
+Cardiovascular: No chest pain, no palpitations, no orthopnea, no PND.
+Respiratory: No hemoptysis, occasional wheeze reported at that visit, no dyspnea at rest.
+GI: No nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Reports nocturia x2, known BPH, followed by urology.
+Musculoskeletal: No joint swelling, mild low back pain chronic.
+Skin: No rashes, no new lesions.
+Neuro: No focal weakness, no numbness, occasional headaches.
+Psych: Depression, stable at that time on sertraline, denies SI/HI.
+Endocrine: No polyuria, polydipsia.
+Heme/Lymph: No easy bruising, no lymphadenopathy.
+Allergic/Immunologic: No known drug allergies documented at that time.
+
+CURRENT REVIEW OF SYSTEMS (11/08/2024, per patient report via telehealth):
+General: No fevers, chills, night sweats, or unintentional weight loss.
+Respiratory: No hemoptysis, no significant dyspnea, occasional exertional wheeze.
+Cardiovascular: No chest pain, palpitations, edema.
+GI: No nausea, vomiting, abdominal pain, change in bowel habits.
+GU: Nocturia x1-2, stable, followed by urology for BPH.
+Musculoskeletal: Chronic mild low back pain, unchanged.
+Psych: Mood fluctuating, engaged in counseling.
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM (limited, via telehealth video):
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+HEENT: No visible distress, no accessory muscle use noted on camera.
+Respiratory: Unable to auscultate via telehealth; patient denies increased work of breathing on observation.
+Cardiovascular: Unable to auscultate; no visible edema on camera view of lower extremities.
+Skin: No rashes visible on camera.
+Psych: Mood appropriate, affect congruent, cooperative throughout visit.
+
+MEDICATIONS (reconciled at this visit):
+1. Sertraline 100 mg PO daily
+2. Albuterol HFA inhaler, 2 puffs Q4-6H PRN wheeze/dyspnea
+3. Fluticasone/salmeterol 250/50 one inhalation BID
+4. Tamsulosin 0.4 mg PO nightly
+5. Losartan 50 mg PO daily
+6. Atorvastatin 20 mg PO daily
+7. Vitamin D3 2000 IU PO daily
+8. Melatonin 5 mg PO qhs PRN
+9. CPAP therapy nightly for OSA
+
+LABS/RESULTS:
+CT chest without contrast, 10/22/2024: 7mm solid nodule right upper lobe, non-calcified, previously not visualized. Recommend follow-up imaging per Fleischner criteria.
+BMP 10/25/2024: Creatinine 1.4 mg/dL (baseline), eGFR 52 mL/min/1.73m2, potassium 4.3 mmol/L, sodium 139 mmol/L.
+CBC 10/25/2024: WBC 6.8 K/uL, Hgb 13.2 g/dL, Platelets 245 K/uL.
+Urinalysis 10/25/2024: unremarkable, no hematuria, no proteinuria.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, right upper lobe, 7mm — discussed findings with patient in detail via telehealth. Nodule characteristics and follow-up recommendations reviewed. Lung cancer screening topic was discussed in general terms; no imaging ordered today as part of that discussion. Will obtain follow-up CT chest per standard interval per Fleischner Society guidelines, to be scheduled separately.
+2. Asthma — stable, continue current inhaler regimen, reviewed proper inhaler technique.
+3. OSA on CPAP — continue CPAP, encourage nightly compliance, will consider CPAP download review at next in-person visit.
+4. Depression — stable on sertraline, continue current dose, continue therapy.
+5. BPH — stable on tamsulosin, no new urinary symptoms, continue current management with urology.
+6. CKD stage 3 — stable, monitor renal function, continue losartan, avoid nephrotoxic agents.
+
+Follow-up: Telehealth or in-person visit in 3 months, or sooner if symptoms arise. Patient given instructions to call with any new respiratory symptoms, hemoptysis, or weight loss.
+
+Steven Park, MD
+Pulmonology
+
+---
+ADDENDUM (same day, 11/08/2024, 4:45 PM):
+After the visit, patient's daughter called on her behalf to clarify follow-up scheduling logistics for the recommended chest CT. No new clinical information was provided regarding tobacco use or other history during this call; smoking status remains undetermined as patient again did not wish to discuss it when briefly asked. Scheduling coordinated with radiology department for imaging follow-up per plan above. No changes to assessment or plan.
+
+Steven Park, MD

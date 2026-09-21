@@ -1,0 +1,68 @@
+CARDIOLOGY RESIDENT NOTE — ATTESTED BY ATTENDING
+Patient: Gwendolyn Novak (F), DOB 2/22/1947, Age 76
+Date of Service: 09/03/2023
+Author: Steven Park, MD (Resident), attending attestation below
+
+CC: chest pain
+
+HPI: 76 yo woman w/ hx HTN, CAD, obesity, PAD, HFrEF presents for eval of chest pain x 3 days, described as "kinda squeezing, like someone's sittin on my chest" per patient, intermittent, worse w exertion (walking to mailbox), relieved partially w rest, no radiation to jaw today but pt reports "sometimes it goes into my left arm." No assoc n/v, some SOB noted, pt states "I get outta breath jus doin dishes now." Denies fever, chills, [inaudible] palpitations she thinks maybe once but not sure timing, denies syncope. Pt lives alone, uses cane for ambulation d/t PAD claudication, states her legs "cramp up something fierce" after half a block. Home meds reportedly include lisinopril, carvedilol, furosemide, atorvastatin though pt unsure of doses says "the little white one twice a day I think." Reviewed old records extensively, echo from 2021 showed EF 35%, no recent updated echo on file will need to order.
+
+ROS: as above otherwise negative in detail, pt endorses chronic bilateral leg pain, denies chest pain at rest currently, denies current fevers denies cough denies hemoptysis.
+
+PMH/Problem List (per chart, some entries outdated):
+- I10 Essential hypertension
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina pectoris
+- E66.9 Obesity, unspecified
+- I73.9 Peripheral vascular disease, unspecified
+- I50.22 Chronic systolic (congestive) heart failure
+- E11.9 Type 2 diabetes mellitus without complications (pt reports this was resolved per PCP note 2019, unclear if still active, will clarify)
+- J45.909 Asthma, unspecified (unclear, no recent inhaler use per pt, possibly outdated dx)
+
+Social Hx: Patient currently smokes cigarettes. Lives alone, widowed, has one daughter who helps w groceries. Denies alcohol use, denies illicit drug use. Former occupation seamstress, retired.
+
+Meds (reconciled at visit, per pt report and pharmacy fill hx):
+- Lisinopril 20mg daily
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily
+
+Allergies: NKDA
+
+Vitals: BP 148/86, HR 78, RR 18, Temp 98.2F, SpO2 95% RA, Wt 210lb, BMI 36
+
+Physical Exam:
+Gen: obese female, NAD, sitting comfortably in chair
+CV: RRR, S1S2 nl, no murmur appreciated today, +bilat lower extremity edema 1+
+Pulm: CTAB, no wheezes no crackles
+Ext: cool distal extremities bilat, diminished dorsalis pedis pulses bilat, no ulcers noted today
+Skin: no rashes
+Neuro: grossly intact
+
+Labs (from this AM):
+Troponin: 0.02 (nl)
+BNP: 610 (elevated, baseline per prior records ~500s)
+BMP: Na 138, K 4.2, Cr 1.1, Glucose 118
+Lipid panel pending
+
+EKG: NSR, no acute ST changes, old LBBB unchanged from prior.
+
+Assessment/Plan:
+76 yo F w hx HTN, CAD, obesity, PAD, HFrEF presenting w exertional chest pain, differential includes stable angina vs musculoskeletal vs deconditioning, low suspicion ACS given trop negative and unchanged EKG but will trend troponin given ongoing sx.
+
+1. Chest pain — trend troponin x1 more in 3hrs, repeat EKG if sx recur, continue home antianginal regimen, will obtain updated TTE given prior EF 35% and current BNP elevation.
+2. CAD — continue ASA/statin/clopidogrel, consider stress test as outpt if trop remains negative.
+3. HFrEF — appears euvolemic-ish today, +1 edema, will increase furosemide slightly, weigh daily, low Na diet reinforced.
+4. PAD — continue current regimen, vascular surgery f/u recommended given worsening claudication distance, ABI ordered.
+5. HTN — BP borderline controlled today, will adjust lisinopril if repeat reading elevated.
+6. Obesity — counseled on dietary modification, referral to nutrition offered.
+7. Tobacco use — Patient has a 22 pack-year smoking history and continues to smoke; counseled extensively on cessation given CAD/PAD/HFrEF, offered nicotine replacement and referral to cessation program, patient states "I know I should quit doc, it's just hard," will readdress at f/u. General discussion of lung health and screening options was had with patient; no further action regarding that topic today.
+8. DM2 — status unclear, will clarify w PCP whether still active dx.
+
+F/u in cardiology clinic 4 weeks or sooner if sx worsen, return to ED for chest pain at rest, diaphoresis, or syncope.
+
+---
+Attending Attestation: I have seen and examined the patient with Dr. Park, discussed the case in detail, and agree with the above assessment and plan as documented. — Attending Cardiologist
+
+ADDENDUM (later same day, 09/03/2023, 16:45): Repeat troponin at 3hrs 0.03, remains negative x2. Patient tolerated well, no recurrent chest pain in dept while observed. BNP result discussed w patient, reassured. Plan unchanged from above, will proceed w outpt workup as noted. Discharged home in stable condition w daughter, instructions reviewed, teach-back performed regarding when to return to ED.

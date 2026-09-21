@@ -1,0 +1,53 @@
+Vascular Surgery Progress Note
+Patient: Sharon White (F), DOB 6/2/1949, Age 76
+Date of Service: 08/30/2025
+Author: Steven Park, MD (NP progress note dictated)
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease, claudication symptoms.
+
+HPI: Ms. White is a 76-year-old woman with history of afib and HFrEF who presents for reevaluation of PAD. She states, "My legs cramp up something awful after two blocks now, doctor, it's worse than last time." She denies rest pain or non-healing ulcers currently. She reports adherence to cilostazol and states she walks "as much as I can stand it." Regarding tobacco use, patient has an extensive smoking history in three stretches: she smoked about three-quarters of a pack (approximately 15 cigarettes) per day for 14 years, then reduced to about half a pack (approximately 10 cigarettes) per day for 18 years, then further cut down to a quarter pack (about 5 cigarettes) per day for 14 years before quitting entirely. She quit smoking at age 63 and reports she no longer smokes at all, has been smoke-free since then. She denies any e-cigarette or vaping use. Patient also endorses some [inaudible] fatigue with exertion that she attributes to her heart failure, and she says her breathing gets "tight" when she overdoes it, though she denies orthopnea currently, sleeping on to pillows without difficulty she reports, um, no PND.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (partially outdated, reviewed today):
+1. I48.91 - Atrial fibrillation, unspecified
+2. I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+3. I73.9 - Peripheral vascular disease, unspecified (active, being followed)
+4. E11.9 - Type 2 diabetes mellitus without complications (per old chart, patient reports this was resolved after weight loss years ago, needs verification)
+5. I10 - Essential hypertension
+6. M17.9 - Osteoarthritis, knee, bilateral (chronic, stable)
+7. Z95.0 - Presence of cardiac pacemaker (question - unclear if still accurate, chart says implanted 2015, will confirm with cardiology)
+
+MEDICATIONS: Apixaban 5mg BID, Metoprolol succinate 50mg daily, Furosemide 20mg daily, Cilostazol 100mg BID, Atorvastatin 40mg qhs, Lisinopril 10mg daily.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Lives with daughter, denies alcohol use, denies illicit drug use. Tobacco history as detailed above in HPI. No current occupational exposures.
+
+REVIEW OF SYSTEMS: Positive for bilateral calf claudication, mild dyspnea on exertion. Negative for chest pain, syncope, fevers, chills, hemoptysis. All other systems reviewed and negative except as noted above, patient a good historian today although at times her speech was a little, uh, rambling but redirectable.
+
+PHYSICAL EXAM:
+Vitals: BP 138/78, HR 82 irregularly irregular, RR 16, SpO2 95% on room air, Wt 165 lbs.
+General: Alert, in no acute distress, pleasant elderly woman.
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated, no JVD.
+Lungs: Clear to auscultation bilaterally, no wheezes or crackles.
+Extremities: Bilateral lower extremity with decreased hair growth, cool to touch distally, 1+ dorsalis pedis pulses bilaterally, no ulcerations noted, trace edema bilateral ankles.
+Skin: No lesions, no rashes.
+
+LABS/RESULTS:
+CBC (08/28/2025): WBC 6.8, Hgb 12.1, Hct 37.2, Plt 210
+BMP (08/28/2025): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 104
+BNP (08/28/2025): 410 pg/mL (elevated, stable compared to prior 398 pg/mL from 06/2025)
+Lipid panel (07/15/2025): Total chol 165, LDL 88, HDL 45, Trig 160
+ABI (08/29/2025): Right 0.68, Left 0.71 - consistent with moderate PAD, unchanged from prior study 03/2025
+INR (08/30/2025): 2.3, therapeutic on apixaban - wait, patient is on apixaban not warfarin, INR not typically monitored, will disregard this value, likely erroneous from lab draw for another patient, to be clarified with lab.
+
+ASSESSMENT AND PLAN:
+1. Peripheral artery disease - moderate, stable per ABI. Continue cilostazol, reinforce walking program/supervised exercise therapy discussed. Tobacco cessation history reviewed; patient has already quit and should be commended, no current counseling needed regarding active use. Screening for lung malignancy in former smokers was discussed with patient in general terms.
+2. Atrial fibrillation - rate controlled today, continue metoprolol and apixaban for anticoagulation.
+3. HFrEF - stable, continue current regimen, follow with cardiology.
+4. Osteoarthritis - stable, continue conservative management.
+5. Hypertension - well controlled today.
+
+Return to clinic in 3 months or sooner if worsening symptoms. Vascular labs to be repeated in 6 months.
+
+---
+ADDENDUM (08/30/2025, later same day): Spoke with patient by phone after she called clinic regarding INR result noted above; confirmed with lab this was a specimen mislabeling error from another patient's sample, corrected in chart, no action needed on patient's anticoagulation regimen. Patient reassured. No changes to plan. - Steven Park, MD

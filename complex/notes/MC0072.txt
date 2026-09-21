@@ -1,0 +1,77 @@
+Vascular Surgery Progress Note
+Patient: Karen Walker (F)
+DOB: 01/18/1969 (age 54)
+Date of Service: 02/28/2023
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease (PAD), evaluation of claudication symptoms.
+
+HPI: Ms. Walker is a 54-year-old woman with history of hyperlipidemia, BPH (managed by urology), osteoarthritis, and peripheral artery disease who presents today for routine follow-up. She reports bilateral calf discomfort with ambulation, now occurring after approximately 3 blocks, similar to prior visit. She denies rest pain, non-healing ulcers, or color changes in the extremities at this time. She has been compliant with her home walking program and antiplatelet therapy. No new chest pain, palpitations, or shortness of breath. She continues to see her PCP for routine care and states her cholesterol panel is stable on current statin dose.
+
+On further questioning regarding cardiovascular risk factors, patient states she tried a few cigarettes as a teenager but never smoked regularly since. She denies any other tobacco or nicotine product use, including vaping, chew, or cigars.
+
+PAST MEDICAL HISTORY: BPH, hyperlipidemia, osteoarthritis, peripheral artery disease.
+
+PAST SURGICAL HISTORY: None on file.
+
+MEDICATIONS:
+1. Atorvastatin 40 mg PO nightly
+2. Aspirin 81 mg PO daily
+3. Cilostazol 100 mg PO BID
+4. Tamsulosin 0.4 mg PO daily
+5. Acetaminophen 500 mg PO PRN for joint pain
+6. Multivitamin PO daily
+7. Vitamin D3 1000 IU PO daily
+
+ALLERGIES: No known drug allergies.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: See HPI - tried cigarettes as teen, never a regular smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/week
+Illicit drug use: Denies
+Caffeine use: Not on file
+Occupation: Retired administrative assistant
+Exercise: Walks daily as tolerated per PAD program
+Living situation: Lives with spouse
+Marital status: Married
+
+FAMILY HISTORY: Father with coronary artery disease, mother with hyperlipidemia. No family history of lung disease documented.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, fatigue.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, hearing loss.
+Cardiovascular: Denies chest pain, orthopnea, PND, palpitations. Positive for intermittent claudication as noted in HPI.
+Respiratory: Denies cough, wheezing, dyspnea at rest.
+Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+Genitourinary: Reports mild urinary hesitancy, stable, followed by urology for BPH.
+Musculoskeletal: Reports chronic knee pain attributed to osteoarthritis, stable on acetaminophen.
+Skin: Denies rashes, ulcers, non-healing wounds.
+Neurological: Denies numbness, tingling, weakness.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic/Lymphatic: Denies easy bruising or bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 98% on room air, weight 168 lbs, height 5'5".
+General: Well-developed, well-nourished female in no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: Supple, no lymphadenopathy, no carotid bruits appreciated.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Distal pulses diminished bilaterally at dorsalis pedis and posterior tibial, palpable but weak.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no bruits.
+Extremities: No edema. Mild pallor on elevation of bilateral lower extremities. No ulcers or skin breakdown noted. Capillary refill slightly delayed at toes.
+Skin: Warm, dry, intact, no lesions.
+Neurological: Alert and oriented x3, cranial nerves grossly intact, sensation intact to light touch in lower extremities.
+
+ASSESSMENT AND PLAN:
+1. Peripheral artery disease, bilateral lower extremities, with intermittent claudication - stable on cilostazol and supervised walking program. Continue current regimen, reinforce importance of daily exercise. Ankle-brachial index to be repeated at next visit to monitor progression. Given her cardiovascular risk factor profile, we again reviewed her tobacco history; she reiterated that her only tobacco exposure was trying a few cigarettes as a teenager, with no regular smoking history since, which is reassuring from a vascular risk standpoint though her PAD is likely multifactorial given her lipid profile and age.
+2. Hyperlipidemia - continue atorvastatin, will obtain repeat lipid panel in 3 months.
+3. BPH - stable, continue tamsulosin, deferring to urology for further management.
+4. Osteoarthritis - continue acetaminophen PRN, discussed weight-bearing exercise modifications given PAD limitations.
+
+Patient verbalized understanding of the plan and agreed with recommendations. Follow-up in vascular surgery clinic in 3 months, sooner if symptoms worsen or if she develops rest pain, ulceration, or color changes concerning for critical limb ischemia. She was advised to call the office or seek urgent care with any acute changes.
+
+Electronically signed: Anita Patel, MD, Vascular Surgery, 02/28/2023.

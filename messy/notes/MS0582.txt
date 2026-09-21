@@ -1,0 +1,33 @@
+TELEHEALTH VISIT NOTE
+Patient: Sharon Patel, F, DOB 7/13/1955 (age 68)
+Date of Service: 10/02/2023
+Provider: Catherine Lindqvist, DO
+Visit Type: Telehealth - Medication Refills
+
+CHIEF COMPLAINT: Medication refill visit, follow up chronic conditions.
+
+HPI: Patient is a 68 year old woman with history of obesity, hypertension, GERD, asthma, depression, and hyperlipidemia calling in today for refill of her routine meds, states she is doing 'ok overall' and has no new complaints, denies chest pain, denies shortness of breath at rest, some occasional reflux symptoms after eating late at nite which she is managing with diet changes and her current PPI, mood has been 'stable' per pt on current antidepressant regimen, sleep is fair.
+
+[Copied forward from visit 3/14/2022]: Pt here for f/u htn and asthma, BP well controlled on current regimen, lungs clear to auscultation bilaterally no wheezes rales or rhonchi, pt reports using albuterol inhaler PRN maybe 1x/week, GERD sx improved with omeprazole, continues weight loss efforts with nutrition referral, will recheck lipid panel in 6 months, pt tolerating simvastatin without myalgias, return to clinic in 3 months or sooner if symptoms worsen. [end copied text]
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. HEENT: denies vision changes, denies hearing changes. Cardiovascular: denies chest pain, denies palpitations, denies edema. Respiratory: denies cough, denies hemoptysis, mild occasional dyspnea on exertion stable from baseline. GI: occasional reflux as above, denies nausea, denies vomiting, denies blood in stool. GU: denies dysuria, denies frequency. Musculoskeletal: denies joint pain. Psychiatric: mood stable, denies SI/HI. All other systems reviewed and negative.
+
+SOCIAL HISTORY: Noncontributory.
+
+PHYSICAL EXAM (per pt report/visual, limited telehealth exam): General: well appearing, no acute distress, seated comfortably at home. HEENT: atraumatic. Neck: no JVD appreciated on camera. Cardiac: unable to auscultate via telehealth. Lungs: unable to auscultate via telehealth, pt denies increased work of breathing on visual inspection. Abdomen: soft per pt report. Extremities: no visible edema. Skin: no rashes noted on camera.
+
+LABS/RESULTS:
+- Lipid panel 9/15/2023: Total chol 198, LDL 112, HDL 48, TG 190
+- BMP 9/15/2023: Na 139, K 4.2, Cr 0.9, glucose 101
+- HbA1c 9/15/2023: 5.6%
+
+ASSESSMENT/PLAN:
+1. Obesity - continue lifestyle counseling, discussed diet and exercise, [inaudible] discussion regarding referral to weight management program continued.
+2. Hypertension - stable, continue lisinopril, refill sent.
+3. GERD - continue omeprazole, refill sent.
+4. Asthma - stable, continue albuterol PRN, refill sent.
+5. Depression - stable on current regimen, continue sertraline.
+6. Hyperlipidemia - continue simvastatin, recheck lipids per above already done, will review trend at next visit.
+RTC in 3 months or sooner PRN.
+
+ADDENDUM (later same day, 10/02/2023): Pt called back after visit to confirm pharmacy for refills, records updated, no other changes to plan, all refills sent electronically as above. - C. Lindqvist, DO

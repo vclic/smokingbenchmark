@@ -1,0 +1,78 @@
+Family Medicine Clinic Note
+
+Patient: CAMPBELL, William    MRN: 25549308
+DOB: 07/04/1959    Age: 66 y.o.    Sex: Male
+Date of Service: 10/09/2025    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Diabetes follow-up
+
+Subjective:
+William Campbell is a 66 y.o. male who presents for diabetes follow-up.
+Most recent A1c 9.1% (previously 8.1% in May 2025). Fasting glucose 130-180 per log. No hypoglycemic episodes. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic obstructive pulmonary disease
+• Depression
+• Mild persistent asthma
+• Type 2 diabetes
+• BPH with LUTS
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• budesonide-formoterol 160/4.5 2 puffs BID
+• glipizide 5 mg daily
+• tamsulosin 0.4 mg nightly
+• albuterol HFA 2 puffs q4-6h PRN
+• sertraline 50 mg daily
+• vitamin D3 2000 IU daily
+• finasteride 5 mg daily
+• metformin 500 mg BID
+• tiotropium 18 mcg inhaled daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Social History Narrative
+  Lives alone in an apartment.
+  Retired, former engineer.
+  Quit drinking in 2023.
+  Denies illicit drugs.
+  Independent in ADLs.
+
+Family History
+Father - colon cancer at 68.
+
+Review of Systems
+ROS: Gen neg, GI neg, Skin neg, CV neg, MSK neg, Resp +
+
+Objective:
+Vitals:
+  BP 113/67 (BP Location: Right arm, Patient Position: Sitting) | Pulse 85 | Temp 98.4 °F (Oral) | Resp 20 | Ht 5' 11" | Wt 212 lb | SpO2 94% | BMI 29.61 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.1% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. Cigarette smoker
+   Pt continues to smoke. Counseled on cessation for 8 min. He is in the precontemplation stage. Rx bupropion SR 150 mg daily x3d then BID.
+
+Return in about 6 months (around 4/9/2026).
+
+Electronically signed by Laura Castellano, FNP-C on 10/09/2025

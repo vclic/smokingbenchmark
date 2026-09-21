@@ -1,0 +1,56 @@
+INTERNAL MEDICINE RESIDENT NOTE
+Patient: Diane Roberts | DOB: 5/4/1950 | Age: 74
+Date of Service: 12/04/2024
+Author: Catherine Lindqvist, DO (resident); attending attestation below
+
+CC: Follow-up hypertension and diabetes.
+
+HPI: Ms. Roberts returns for routine f/u. Reports home glucose logs fairly stable, occ readings 160s AM. Denies chest pain, palpitations increased freq though notes occasional flutter sensation. No dyspnea at rest. Continues CPAP nightly per report, tolerates well. Mood stable on current antidepressant regimen. No new complaints today.
+
+PROBLEM LIST:
+- E11.9 Type 2 diabetes mellitus
+- I10 Essential hypertension
+- F32.9 Major depressive disorder (outdated - pt now describes as resolved/in remission, needs update)
+- I48.91 Atrial fibrillation
+- G47.33 Obstructive sleep apnea
+- E78.5 Hyperlipidemia
+- J45.909 Asthma, unspecified
+
+SOCIAL HISTORY: Former smoker, 11 pack-year smoking history. Lives alone, independent with ADLs. Occasional alcohol use, denies illicit drug use.
+
+----- COPIED FORWARD FROM VISIT DATED 12/04/2022 -----
+Subjective: Patient here for routine chronic disease management. Reports doing well overall. Social history as documented on 12/04/2022: patient is a former smoker. No new symptoms. Diabetes control reviewed, A1c stable. Blood pressure well controlled on current regimen. Continues to deny chest pain or dyspnea. Sleep apnea managed with CPAP, adherence reportedly good. Mood described as stable. Plan at that time: continue current medications, routine labs, follow up in 6 months.
+----- END COPIED SECTION -----
+
+MEDICATIONS: Metformin 1000mg BID, Lisinopril 20mg daily, Apixaban 5mg BID, Atorvastatin 40mg qhs, Sertraline 100mg daily, Albuterol PRN.
+
+LABS/RESULTS:
+- 11/28/2024 A1c: 7.4%
+- 11/28/2024 Fasting glucose: 142 mg/dL
+- 11/28/2024 LDL: 88 mg/dL, HDL: 52 mg/dL, Triglycerides: 130 mg/dL
+- 11/20/2024 TSH: 2.1 mIU/L
+- 11/20/2024 BMP: Na 139, K 4.2, Cr 0.9, eGFR >60
+
+EXAM: BP 132/78, HR 76 irregular, RR 16, SpO2 96% RA, Wt 168 lbs.
+General: NAD, well-appearing.
+CV: Irregularly irregular rhythm, no murmurs.
+Lungs: Clear bilaterally, mild expiratory wheeze.
+Ext: No edema.
+
+ASSESSMENT/PLAN:
+1. T2DM - A1c improved from prior, continue metformin, reinforce diet.
+2. HTN - well controlled, continue lisinopril.
+3. AFib - on apixaban, rate controlled, continue monitoring.
+4. OSA - continue CPAP, reassess adherence data at next visit.
+5. Hyperlipidemia - LDL at goal, continue atorvastatin.
+6. Asthma - mild wheeze on exam, continue albuterol PRN, consider controller if symptoms increase.
+7. Health maintenance - lung cancer screening discussed per guidelines given smoking history; general counseling regarding tobacco avoidance provided.
+
+Plan discussed with patient, questions answered, follow up in 3 months or sooner if needed.
+
+--- ATTESTATION ---
+I have seen and examined the patient with Dr. Lindqvist and agree with the above assessment and plan.
+- Dr. Robert Ashworth, MD
+
+--- ADDENDUM (later same day, 12/04/2024, 4:15 PM) ---
+Addendum by Dr. Lindqvist: Patient called after visit to clarify medication refill instructions for atorvastatin; instructed to continue current dose, refill sent to pharmacy. No other changes to plan. Smoking history reviewed again in chart for accuracy - confirmed former smoker, 11 pack-year history as documented above.

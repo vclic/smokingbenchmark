@@ -1,0 +1,74 @@
+Primary Care Clinic Note
+
+Patient: NOVAK, Diane    MRN: 14122603
+DOB: 08/12/1957    Age: 65 y.o.    Sex: Female
+Date of Service: 02/06/2023    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Pateint presents with
+• Low back pain
+
+Subjective:
+Diane Novak is a 65 y.o. female who presents for low back pain.
+Low back pain for 7 months, worse with activity. Twisted it stepping off a curb. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• Obstructive sleep apnea on CPAP	2009
+• Nicotine dependence, cigarettes (F17.210)
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2004)
+• Total abdominal hysterectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• (none)
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 20 cigarettes/day x47y
+Social History Narrative
+  Divorced, lives alone.
+  Works as a nurse.
+  Social drinker.
+  Denies illicit drugs.
+  Exercise: walks daily.
+
+Family History
+Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: Resp neg, GU neg, Neuro neg, GI neg, MSK +
+
+Objective:
+Vitals:
+  BP 115/67 (BP Location: Left arm, Patient Position: Sitting) | Pulse 85 | Temp 98.6 °F (Oral) | Resp 12 | Ht 5' 5" | Wt 167 lb | SpO2 99% | BMI 27.83 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. Tobacco dependence
+   Advised to quit; >5 min spent counseling. Ambivalent about quitting. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID.
+
+Return in about 3 months (around 5/6/2023).
+
+Electronically signed by Farah Siddiqui, MD on 02/06/2023

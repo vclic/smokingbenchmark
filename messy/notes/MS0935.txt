@@ -1,0 +1,52 @@
+Telehealth Follow-up Note
+Patient: Diane Sanchez (DOB 2/17/1972, age 51)
+Date of Service: 05/26/2023
+Provider: Priya Raman, MD
+Visit Type: Telehealth, Internal Medicine
+
+CC: Follow-up for hypertension and type 2 diabetes.
+
+HPI: Ms. Sanchez, a 51-year-old female, is seen via video visit for routine follow-up of her chronic conditions. She reports fair adherence to her medications, denies chest pain, and notes mild ankle swelling in the evenings. No recent hospitalizations. She continues to work on dietary modifications for her diabetes.
+
+Problem List:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- I50.22 Chronic systolic (congestive) heart failure
+- M81.0 Age-related osteoporosis without current pathological fracture
+- Z87.891 Personal history of nicotine dependence (outdated - active use, see below)
+
+Social History (EHR Template):
+ Tobacco Use: Current every day smoker
+ Type: Cigarettes
+ Amount: 1 pack per day
+ Duration: Not on file
+ Start Age: Not on file
+ Quit Attempts: Yes - see below
+ Alcohol Use: Denies
+ Substance Use: Not on file
+
+Discussion: Patient continues to smoke despite counseling at prior visits. We again discussed the risks of continued tobacco use in the setting of her heart failure and diabetes. She has expressed interest in quitting and has set a quit date for 6/24/2023. Nicotine replacement therapy options were reviewed. General smoking-related health risks were discussed with the patient.
+
+Labs/Results:
+- HbA1c (05/15/2023): 7.8%
+- BNP (05/15/2023): 410 pg/mL
+- BMP (05/15/2023): Na 138, K 4.2, Cr 0.9, eGFR >60
+- Lipid panel (05/15/2023): LDL 102, HDL 48, TG 150
+
+Medications:
+- Lisinopril 20 mg daily
+- Metformin 1000 mg BID
+- Carvedilol 12.5 mg BID
+- Alendronate 70 mg weekly
+- Furosemide 20 mg daily PRN edema
+
+Assessment/Plan:
+1. Hypertension - stable, continue current regimen, recheck BP at next visit.
+2. Type 2 diabetes - A1c slightly elevated, reinforce dietary counseling, continue metformin.
+3. Heart failure with reduced EF - stable on current regimen, monitor weight daily, follow up with cardiology.
+4. Osteoporosis - continue alendronate, encourage calcium/vitamin D intake.
+5. Tobacco use - continues to smoke despite counseling; supportive of quit date set for 6/24/2023; will provide resources for cessation support.
+
+Follow-up: Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed by Priya Raman, MD

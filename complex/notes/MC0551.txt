@@ -1,0 +1,56 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Patient: Judith Thomas, F, DOB 3/13/1961 (age 63)
+Date of Service: 03/13/2024
+Provider: Rachel Goldberg, MD (NP progress note)
+
+CHIEF COMPLAINT: Annual wellness visit.
+
+HPI: Ms. Thomas is a 63 y/o female here for her annual exam, reports feeling generally well, some mild fatigue with exertion which she attributes to the cold weather, denies chest pain, denies orthopnea, has occasional palpitations noted on her home monitor which she says are [inaudible] but resolve on their own, she is compliant with her meds and follows up with cardiology regularly for her afib and heart failure, she also notes her hip has been achy lately but no falls.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Osteoporosis - M81.0 (last DEXA 2022, on bisphosphonate)
+2. Benign prostatic hyperplasia - N40.0 (note: erroneous carryover dx, pt is female, to be removed from list)
+3. Heart failure with reduced ejection fraction - I50.22
+4. Atrial fibrillation - I48.91
+5. Coronary artery disease - I25.10
+6. GERD - K21.9 (outdated, pt reports resolved years ago, remains on list)
+
+SOCIAL HISTORY:
+Tobacco: Former smoker, quit in 2022. Patient reports she smoked about three-quarters of a pack (approx. 15 cigarettes) per day for 16 years, then cut back to about a quarter pack (approx. 5 cigarettes) per day for 26 years before quitting entirely in 2022.
+Alcohol: Patient reports she quit drinking alcohol in 2012, denies current use.
+Other: lives with husband, denies illicit drug use.
+
+[COPIED FROM NOTE DATED 10/13/2020]: Tobacco use: Patient is a current smoker, no quantities documented at that time.
+[END COPIED SECTION]
+
+REVIEW OF SYSTEMS: Constitutional - mild fatigue as above, denies fever/chills. Cardiac - occasional palpitations as above, denies syncope. Musculoskeletal - hip discomfort, denies acute injury. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72 irregularly irregular, RR 16, Temp 98.2F, Wt 154 lbs, Ht 5'4"
+General: well-appearing, no acute distress
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD, trace pedal edema
+Lungs: clear to auscultation bilaterally, no wheezes/rales
+Abd: soft, non-tender, non-distended
+MSK: mild tenderness over left greater trochanter, no swelling, full ROM
+Skin: no rashes or lesions
+
+LABS/RESULTS:
+- CBC (02/28/2024): WBC 6.1, Hgb 13.2, Plt 240 - within normal limits
+- BMP (02/28/2024): Na 139, K 4.2, Cr 0.9, BUN 18, Glucose 94
+- INR (03/10/2024): 2.4, therapeutic range for anticoagulation
+- BNP (01/15/2024): 310 pg/mL, stable compared to prior
+- Lipid panel (11/2023): Total chol 172, LDL 98, HDL 52, Trig 110
+- DEXA (2022): T-score -2.6 lumbar spine, consistent with osteoporosis
+
+ASSESSMENT/PLAN:
+1. Osteoporosis - continue bisphosphonate therapy, encourage weight-bearing exercise, follow up DEXA in 1-2 years.
+2. HFrEF - stable, continue current regimen including beta blocker and ACE inhibitor, monitor BNP, follow up with cardiology.
+3. Atrial fibrillation - INR therapeutic today, continue warfarin, no dose adjustment needed.
+4. Coronary artery disease - continue statin and antiplatelet therapy as prescribed by cardiology.
+5. Tobacco history - counseled on the importance of maintaining smoking cessation, discussed general lung health, patient encouraged to continue avoiding tobacco products, lung cancer screening was discussed in general terms with patient.
+6. Hip pain - likely trochanteric bursitis given exam findings, recommend NSAID as tolerated given cardiac history will discuss with cardiology first, consider PT referral if not improved.
+7. Health maintenance - mammogram due, colonoscopy up to date per pt report, will order labs for next visit.
+
+Patient verbalized understanding of plan, all questions answered, will follow up in 6 months or sooner if concerns arise.
+
+Electronically signed by Rachel Goldberg, MD

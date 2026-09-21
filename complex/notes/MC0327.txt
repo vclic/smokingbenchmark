@@ -1,0 +1,43 @@
+Internal Medicine - Progress Note
+Patient: Carol King (F) DOB: 2/4/1951 Age: 73
+Date of Service: 02/04/2024
+Author: Isaac Moreno, PA-C
+
+CC: f/u HTN, DM2
+
+HPI: Pt returns for routine f/u of hypertension and type 2 diabetes. Reports mild fatigue, denies chest pain, denies orthopnea worsening. States "I feel about the same as last time doc." Compliant w meds per pt report. Denies new SOB, denies leg swelling change. c/o occasional nocturia, attributed to BPH.
+
+PMH: BPH, HFrEF, T2DM, OSA (on CPAP), osteoporosis.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Patient declined to discuss tobacco use, status could not be determined this visit.
+ Alcohol use: Not on file
+ Illicit drug use: denies
+ Occupation: retired
+ Living situation: ___
+ Exercise: sedentary, per pt
+
+ROS: otherwise negative except as above, 10 pt system reviewed and negative except HPI.
+
+Vitals: BP 138/82 HR 76 RR 16 Temp 98.1F SpO2 96% RA Wt 168 lb
+
+Exam: Gen - NAD, alert. CV - RRR, no m/r/g appreciated, trace bilateral LE edema. Lungs - CTAB, no wheeze/rales. Abd - soft NT ND. Ext - no cyanosis.
+
+Labs/Results (recent):
+ 01/28/2024 A1c 7.4%
+ 01/28/2024 BNP 210 pg/mL
+ 01/28/2024 Creatinine 1.1 mg/dL
+ 01/15/2024 DEXA T-score -2.6 lumbar spine
+
+Assessment/Plan:
+1. Hypertension - stable, cont current regimen, recheck BP next visit.
+2. Type 2 DM - A1c 7.4%, cont metformin, reinforce diet/exercise counseling.
+3. HFrEF - stable, cont GDMT, monitor wt and edema, BNP stable from prior.
+4. OSA - continue CPAP compliance monitoring.
+5. Osteoporosis - continue calcium/vit D and bisphosphonate, f/u DEXA in 2 yrs.
+6. Preventive: Lung cancer screening was discussed but deferred until smoking history can be obtained; tobacco status unclear given pt declined discussion today, will re-attempt at next visit.
+7. BPH - continue tamsulosin, monitor nocturia sx.
+
+f/u in 3 months or sooner if worsening sx. Pt verbalized understanding of plan, questions answered.
+
+-- Isaac Moreno, PA-C, signed 02/04/2024

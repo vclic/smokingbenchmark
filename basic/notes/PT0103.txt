@@ -1,0 +1,66 @@
+Adult Medicine Progress Note
+
+Patient: BROOKS, Carol    MRN: 88248845
+DOB: 05/16/1966    Age: 57 y.o.    Sex: Female
+Date of Service: 05/29/2023    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Chest pain
+
+Subjective:
+Carol Brooks is a 57 y.o. female who presents for evaluation of chest pain.
+Intermittent substernal chest pressure x 3 weeks, occurs with exertion and resolves with rest within 5 min. Associated mild dyspnea. No syncope or palpitations. CV risk factors: HTN, never smoker.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension	2014
+• CKD stage 3
+
+Past Surgical Hsitory:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy (2008)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• fish oil 1 g daily
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Married, lives with husband.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Sister - hypothyroidism. Father - MI at 74.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 131/68 (BP Location: Right arm, Patient Position: Sitting) | Pulse 59 | Temp 98.0 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 145 lb | SpO2 96% | BMI 22.74 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Chest pain
+   ECG today NSR, no ischemic changes. Coronary CTA ordered. Start ASA 81 mg. ED if rest pain.
+2. Lung cancer screening
+   Not indicated - never smoker.
+
+RTC 12 months.
+
+Electronically signed by Steven Park, MD on 05/29/2023

@@ -1,0 +1,46 @@
+Internal Medicine Clinic Note
+Date of Service: 4/25/2025
+Patient: Margaret Lopez   DOB: 1/15/1968   MRN: 83836484
+
+SUBJECTIVE:
+CC: Lung cancer screening
+HPI: Ms. Lopez is a 57-year-old woman with a history of GERD, OA, asthma, and COPD; tobacco: 1 pack/day x24y; she presents for lung cancer screening shared decision-making. Here to discuss lung cancer screening. Chronic mild cough unchanged.
+
+PMH:
+- Osteoarthritis
+- GERD
+- COPD
+- Mild persistent asthma (dx 2004)
+PSH: Carpal tunnel release (2009)
+Meds: pantoprazole 40 mg daily; tiotropium 18 mcg inhaled daily; albuterol HFA PRN; meloxicam 7.5 mg daily; budesonide-formoterol 160/4.5 2 puffs BID
+Allergies: NKDA
+Social History:
+- Lives alone in an apartment.
+- Tobacco: Former smoker.
+- No alcohol.
+- No illicit drug use.
+FH: Father - colon cancer at 68. No family hx of colon cancer.
+ROS: 10-point ROS otherwise negative.
+
+O:
+Vitals: BP: 116/79  HR: 75  RR: 14  Temp: 98.6 F  SpO2: 93% on RA  Wt: 171 lbs  BMI: 26.7
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening: SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Does not meet USPSTF criteria; LDCT not ordered.
+2. Former smoker: Quit Aug '07. No relapse.
+3. Osteoarthritis
+   - Continue PRN analgesics; home exercises.
+
+Return in about 1 month (around 5/25/2025).
+
+Nadia Haddad, MD

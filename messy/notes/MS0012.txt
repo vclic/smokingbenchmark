@@ -1,0 +1,57 @@
+PULMONOLOGY H&P - Lung Cancer Screening SDM Visit
+Date of Service: 03/24/2026
+Author: Teresa Alvarez, NP
+
+Patient: Thomas Barnes, M, DOB 03/24/1974 (age 52)
+
+CHIEF COMPLAINT: SDM visit re: lung cancer screening d/t smoking hx.
+
+HPI: Mr. Barnes is a 52 yo male w/ hx of asthma, COPD, depression, and HFrEF who presents today, 03/24/2026, for shared decision-making discussion regarding low-dose CT screening for lung cancer. Pt reports baseline dyspnea on exertion, states he is 'about the same' as prior visits, denies hemoptysis, denies unintentional weight loss. He notes occasional wheeze, worse with cold air exposure, uses albuterol inhaler PRN with mild relief he says 'helps some, not a ton, [inaudible] mostly at night'. He c/o chronic cough productive of small amounts of clear-to-white sputum, no hemoptysis, no fevers/chills. He denies chest pain at rest, endorses some lower extremity edema which he attributes to his heart failure, says he's been more compliant with his diuretic lately although he ran out over the weekend and there was some confusion about refill timing at the pharmacy that we'll sort out today.
+
+PMH/Problem List (ICD-10):
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.9 Chronic obstructive pulmonary disease, unspecified (dx 2019, per old chart - may need updating)
+- F32.9 Major depressive disorder, unspecified episode
+- I50.22 Chronic systolic (congestive) heart failure
+- I10 Essential hypertension (copied fwd, unclear if still active dx, pt states BP well controlled now)
+- E78.5 Hyperlipidemia, unspecified (old problem, no recent lipid panel on file)
+
+[COPY FORWARD FROM VISIT DATED 11/14/2023]
+Pt is a pleasant gentleman who presents for routine f/u of COPD and HFrEF. He reports doing fairly well, ambulates without assistive device, denies orthopnea, denies PND. Lungs w/ scattered expiratory wheezes, no crackles. Heart RRR, no murmurs appreciated. Extremities without edema at that time. Plan was to continue current inhaler regimen and follow up with cardiology re: EF, consider optimization of GDMT. Pt counseled extensively on medication adherence and diet, low sodium diet reviewed. Pt verbalized understanding. RTC 3 months or PRN.
+[END COPY FORWARD]
+
+SOCIAL HISTORY: Pt smokes 5 cigarettes per day for 35 years, current smoker. He previously quit in 2015 but relapsed in 2018. He denies current alcohol use, denies illicit drug use. Lives with spouse, retired factory worker. No occupational asbestos exposure reported, though pt was 'not real sure' about exposures decades ago at his old job [inaudible].
+
+ROS: Constitutional - denies fever, denies chills, some fatigue noted. Resp - chronic cough as above, wheeze as above. Cardiac - LE edema as above, denies palpitations. GI - denies nausea/vomiting/diarrhea. Psych - reports mood 'okay,' continues on sertraline, denies SI/HI.
+
+MEDS: albuterol HFA inhaler PRN, tiotropium daily, sertraline 100mg daily, furosemide 40mg daily, carvedilol, lisinopril.
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 94% on RA, Wt 198 lb, Temp 98.2F
+General: well-appearing, no acute distress, sitting comfortably
+HEENT: normocephalic, atraumatic, no JVD noted at 30 degrees
+Lungs: mild expiratory wheeze bilat bases, no crackles, no rhonchi, good air movement bilaterally
+CV: RRR, S1/S2 normal, no S3/S4 appreciated today, no significant murmur
+Abdomen: soft, non-tender, non-distended, +BS
+Extremities: trace bilateral pitting edema, no calf tenderness
+Neuro: alert and oriented x3, grossly non-focal
+
+ASSESSMENT/PLAN:
+52 yo male with asthma, COPD, depression, HFrEF, and significant smoking history presenting for lung cancer screening SDM discussion.
+
+1. Lung cancer screening - Discussed risks/benefits of low-dose CT screening at length with pt including radiation exposure, false positives, incidental findings, need for potential further workup. Pt given informational handout. Pt verbalizes understanding, has questions he will bring to next visit after discussing w/ spouse. Discussed smoking cessation resources again today; pt states he is 'thinking about it' but not ready to quit at this time - advised to quit, offered nicotine replacement/pharmacotherapy, pt declined for now but will reconsider.
+
+2. COPD - stable currently on tiotropium, continue current regimen, reviewed inhaler technique today which was adequate.
+
+3. Asthma - well controlled currently, continue albuterol PRN.
+
+4. HFrEF - appears reasonably compensated today though trace edema noted; will have pt f/u w/ cardiology re: med refill mix-up and possible GDMT optimization; continue current heart failure regimen.
+
+5. Depression - stable on sertraline, denies SI/HI, will continue current dose.
+
+RTC in 3 months or sooner if symptoms worsen. Pt educated on when to seek urgent care (worsening SOB, chest pain, syncope).
+
+___
+Teresa Alvarez, NP

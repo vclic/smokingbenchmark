@@ -1,0 +1,35 @@
+HISTORY AND PHYSICAL - Hospital Discharge Follow-up
+Patient: David Johnson (M), DOB 5/8/1949, Age 74
+Date of Service: 07/05/2023
+Author: Steven Park, MD - Primary Care
+
+HPI:
+Mr. Johnson is a 74-year-old male seen today in f/u after recent hospitalization for pneumonia, now s/p discharge, presenting for post-hospital follow-up visit dated 7/5/2023. He reports improved energy since d/c though still c/o mild productive cough, denies fever chills or [inaudible] chest pain, sats have been stable on home O2 per wife who accompanies him today and states he seems to be breathing easier compared to two weeks ago when he was hospitalized initially the cough started after a viral like illness and progressed over several days with increasing shortness of breath prompting ER visit. He has smoked for 57 years and continues to smoke currently; when counseled on cessation today he states he is not ready to quit at this time, discussed risks including COPD exacerbation and cardiac strain but pt declines referral to quitline today, will readdress at next visit. He denies alcohol use. Reports adherence to nebulizer treatments and CPAP use most nights though admits to occasional non-compliance with CPAP mask due to discomfort.
+
+[COPIED FORWARD FROM VISIT 11/14/2022 - PRIMARY CARE NOTE]
+PMH: COPD (on home O2 2L NC), OSA on CPAP, osteoporosis (last DEXA showed T-score -2.8 lumbar spine), T2DM diet and metformin controlled, CAD s/p PCI to LAD 2018, HFrEF (EF 35% on last echo 2021) followed by cardiology Dr. Reyes. Meds: metformin 500mg BID, atorvastatin 40mg qhs, lisinopril 10mg daily, carvedilol 12.5mg BID, furosemide 20mg daily, tiotropium inhaler daily, albuterol PRN, alendronate 70mg weekly, vitamin D3 2000 units daily, calcium carbonate 600mg BID. Allergies: NKDA. Social: widower, lives alone, daughter checks in daily, former factory worker. Family history: father died MI age 68, mother with osteoporosis and hip fracture. ROS otherwise negative for chest pain, palpitations, edema, dysuria, or joint pain, all systems reviewed and negative except as noted above in HPI.
+[END COPIED SECTION]
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 18, Temp 98.2F, SpO2 94% on 2L NC
+Gen: NAD, alert, oriented x3, conversing appropriately despite some word-finding pauses attributed to fatigue
+HEENT: PERRL, oropharynx clear
+CV: RRR, S1 S2 normal, no murmurs appreciated, no JVD
+Resp: mild bibasilar crackles, improved from hospital exam, no wheeze currently, using accessory muscles minimally
+Abd: soft, nontender, nondistended
+Ext: trace bilateral edema, no calf tenderness
+Skin: warm, dry, intact
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue current antibiotic course to complete as prescribed at discharge, f/u CXR in 6 weeks
+2. COPD - continue tiotropium and albuterol PRN, home O2 continued, discussed smoking cessation as above, pt not ready at this time
+3. HFrEF - continue GDMT, weight monitoring at home, follow with cardiology
+4. OSA - encourage CPAP compliance
+5. T2DM - continue metformin, HbA1c due at next visit
+6. Osteoporosis - continue alendronate/calcium/vitD
+Return to clinic in 4 weeks or sooner if worsening symptoms.
+
+Steven Park, MD
+
+---ADDENDUM (later same day, 7/5/2023, 4:45pm)---
+Patient's daughter called clinic this afternoon with additional history not obtained during visit, states father has had increasing fatigue over past week which she attributes to poor sleep from CPAP intolerance, will discuss further sleep study repeat at next visit. No new acute concerns reported. Discussed lung cancer screening options in general terms with patient earlier in visit; no imaging ordered today. -Dr. Park

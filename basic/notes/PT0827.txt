@@ -1,0 +1,40 @@
+PROGRESS NOTE
+Date of Service: 12/07/2023
+Patient: Walter White   DOB: 2/12/1955   MRN: 25423058
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Mr. White is a 68-year-old male with a history of CKD3, CAD, HTN, and HLD who presents for pre-operative evaluation prior to inguinal hernia repair. Scheduled for inguinal hernia repair on 12/31/2023. Functional capacity limited by pain, estimated 4 METs. No prior anesthesia complications.
+
+PMH:
+- HTN
+- Chronic kidney disease stage 3a
+- Mixed hyperlipidemia
+- CAD (dx 2009)
+PSH: Carpal tunnel release (2003)
+Meds: losartan 50 mg daily; aspirin 81 mg daily; rosuvastatin 20 mg daily; vitamin D3 2000 IU daily; ezetimibe 10 mg daily
+Allergies: NKDA
+SH: Lives with wife in a single-family home. He has never used tobacco. No alcohol.
+FH: Father - prostate cancer. Both parents were smokers.
+ROS: Resp neg, Gen neg, CV neg, Skin neg, GI neg
+
+O:
+Vitals: BP: 124/89  HR: 64  RR: 18  Temp: 98.1 F  SpO2: 96% on RA  Wt: 157 lbs  BMI: 24.6
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+A/P:
+1. Pre-operative evaluation: RCRI 0. Low risk; no further testing needed. Hold ASA 5 days prior per surgeon.
+2. Health maintenance: LCS: N/A - never smoker.
+
+f/u 12 mo
+
+-- MD (DO)

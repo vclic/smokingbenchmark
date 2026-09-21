@@ -1,0 +1,62 @@
+RESIDENT NOTE - CARDIOLOGY F/U (HFrEF)
+DOS: 12/03/2024
+Author: Rachel Goldberg, MD (resident); attending attestation below
+
+Pt: Frank Thomas, M, DOB 9/3/1969 (age 55)
+
+CC: HF follow-up.
+
+HPI: 55M w/ hx HFrEF, obesity, OSA, T2DM, asthma, PAD here for routine f/u. Reports stable dyspnea on exertion, no PND/orthopnea, mild B/L LE edema unchanged. Compliant w/ meds per pt report. No chest pain, no palpitations.
+
+SOCIAL HX:
+Tobacco: Former smoker. Hx notable - smoked 2 packs per day for 2 years, then stopped completely for 8 years, then restarted at 2 packs per day for 2 years before quitting for good. Pt moved to this state in 1992 and quit smoking 2 years after that move. Denies current use, denies vaping.
+Alcohol: Quit drinking alcohol in 2010, denies current use.
+Drugs: denies illicit use.
+
+PROBLEM LIST:
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.01 Morbid obesity due to excess calories
+- G47.33 Obstructive sleep apnea
+- E11.9 Type 2 diabetes mellitus w/o complications
+- J45.909 Asthma, unspecified
+- I73.9 Peripheral artery disease, unspecified
+- I10 Essential HTN (outdated - resolved per pt, on no BP meds x 2 yrs)
+- Z87.891 Personal hx of nicotine dependence
+
+ROS: Constitutional: no fever/chills, wt stable. CV: as above, no chest pain. Resp: no cough, mild DOE. GI: no N/V/D. GU: nl. MSK: no acute jt pain. Neuro: no focal deficits. Psych: no SI/HI, mood stable. Skin: no rash. All other systems reviewed and negative.
+
+PE: VSS, BP 128/76, HR 74, RR 16, SpO2 96% RA, wt 245 lb, BMI 38.
+Gen: NAD, obese habitus.
+HEENT: NC/AT, no JVD appreciated.
+CV: RRR, no m/r/g, +S3 faint.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, NT/ND, obese.
+Ext: 1+ pitting edema b/l, dorsalis pedis pulses diminished bilaterally, no ulcers.
+Skin: warm, dry.
+Neuro: A&Ox3, no focal deficit.
+
+LABS/RESULTS:
+- BNP 11/20/24: 210 pg/mL
+- BMP 11/20/24: Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.1, Glc 142
+- HbA1c 11/20/24: 7.4%
+- Lipid panel 11/20/24: TC 172, LDL 98, HDL 39, TG 175
+- TSH 11/20/24: 2.1
+- Echo 09/2024: EF 35%, mild LVH, mild MR
+- ABI (PAD) 08/2024: 0.72 right, 0.75 left
+
+MEDS: Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Spironolactone 25mg daily, Furosemide 20mg daily, Empagliflozin 10mg daily, Metformin 1000mg BID, Atorvastatin 40mg qhs, Albuterol HFA PRN, Fluticasone/salmeterol 250/50 BID, Aspirin 81mg daily, Clopidogrel 75mg daily.
+
+ASSESSMENT/PLAN:
+1. HFrEF (EF 35%) - stable, continue GDMT, cont diuretic, f/u echo in 6 mo.
+2. Obesity - counseled diet/exercise, consider referral to weight mgmt.
+3. OSA - cont CPAP, review compliance data next visit.
+4. T2DM - A1c 7.4%, cont current regimen, f/u endo.
+5. Asthma - well controlled, cont current inhalers.
+6. PAD - cont ASA/Plavix, supervised exercise program discussed, no current claudication limiting.
+7. Tobacco - former smoker, quit smoking status reinforced, screening for lung ca discussed generally, no imaging ordered today.
+8. Alcohol - quit in 2010, no current use.
+
+F/u 3 months or sooner PRN.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Goldberg and discussed the plan of care above. I agree with the assessment and plan as documented. - Attending Cardiology.

@@ -1,0 +1,58 @@
+PULMONOLOGY CLINIC - NURSE INTAKE & PHYSICIAN PROGRESS NOTE
+Patient: Paul Novak | DOB: 3/19/1956 | Age: 69 | Sex: M
+Date of Service: 06/14/2025
+Author: Teresa Alvarez, NP
+
+=== NURSE INTAKE ===
+Vitals: BP 138/86, HR 88, RR 20, SpO2 93% RA, Temp 98.2F, Wt 231 lb, BMI 34.9
+Chief complaint per pt: "I get winded just walking to the mailbox now, it's worse than last month."
+Allergies: NKDA
+Meds reconciled: albuterol HFA, tiotropium, atorvastatin, aspirin 81mg, metoprolol succinate
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Alcohol use: Occasional
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Not on file
+Exercise: Sedentary
+
+=== HPI ===
+Mr. Novak is a 69-year-old male with history of COPD, asthma, CAD, hyperlipidemia, and obesity who presents for scheduled COPD follow-up on 06/14/2025. He states, "I feel like my chest is tighter in the mornings, and I'm coughing up more yellowish stuff than usual." He denies fever but reports increased fatigue over the past two weeks and says, "my inhaler doesn't seem to be cutting it anymore." He denies chest pain at rest but notes some pressure with exertion that resolves with rest, quote: "it's like a squeezing, goes away if I sit down for a minute." Sleep is reportedly poor secondary to nocturnal cough, per patient "I'm up coughing like two, three times a night, [inaudible] and then I can't fall back asleep." He reports adherence to his inhalers but admits occasional missed doses of tiotropium, run-on: he said he sometimes forgets it in the mornign because he's rushing to get his coffee and out the door too his sisters house for breakfast and then he just forgets it til later in the day and by then he figures whats the use.
+
+Review of systems otherwise negative for hemoptysis, unintentional weight loss, or lower extremity edema. He does note occasional dizziness which he attributes to "probably just gettin old."
+
+=== PROBLEM LIST (ICD-10) ===
+1. J44.9 - Chronic obstructive pulmonary disease, unspecified
+2. J45.909 - Asthma, unspecified, uncomplicated
+3. I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris
+4. E78.5 - Hyperlipidemia, unspecified
+5. E66.9 - Obesity, unspecified (outdated entry, wt now reflects further increase, BMI updated above)
+6. Z87.891 - Personal history of nicotine dependence (outdated - pt remains active smoker, see below)
+
+=== PHYSICAL EXAM ===
+General: obese male, no acute distress, mild expiratory wheeze audible without stethoscope
+HEENT: unremarkable
+CV: RRR, no murmurs appreciated, no JVD
+Resp: diffuse expiratory wheezes bilaterally, prolonged expiratory phase, no crackles
+Abd: soft, obese, nontender
+Ext: no edema, pulses intact
+
+=== ASSESSMENT & PLAN ===
+69-year-old male, DOB 3/19/1956, seen today 06/14/2025 for COPD follow-up with worsening dyspnea and increased sputum production, concerning for mild COPD exacerbation versus poor inhaler technique/adherence.
+
+Smoking: Patient has a 3 pack-year smoking history and continues to smoke despite counseling on multiple prior visits regarding cessation. Discussed nicotine replacement options and referral to tobacco cessation program again today; patient states he is "not ready yet." General discussion held regarding the importance of ongoing pulmonary risk monitoring given smoking history, no further detail documented here.
+
+1. COPD - likely mild exacerbation. Will start prednisone taper 40mg x5 days, continue albuterol PRN, reinforce tiotropium adherence, review inhaler technique with RT at next visit.
+2. Asthma - stable, continue current regimen, no rescue changes needed at this time.
+3. CAD - stable, continue aspirin, atorvastatin, metoprolol; no anginal equivalent symptoms warranting urgent workup today though will keep an eye on exertional pressure symptoms.
+4. Hyperlipidemia - lipid panel due, will order at next visit.
+5. Obesity - discussed weight management, dietary counseling referral offered, pt declined at this time.
+6. Tobacco use - counseled again on cessation, discussed nicotine patch/gum, pt ambivalent, will readdress next visit.
+
+Follow-up: Pulmonology in 4-6 weeks or sooner if symptoms worsen. Pt instructed to call clinic if increased SOB, fever, or hemoptysis.
+
+Electronically signed: Teresa Alvarez, NP

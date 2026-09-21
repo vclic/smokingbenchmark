@@ -1,0 +1,67 @@
+Pulmonology Progress Note
+Patient: Karen Patel (DOB 4/19/1946), Age: 78
+Date of Service: 11/08/2024
+Author: Owen Fitzgerald, MD
+
+CC: COPD follow-up.
+
+HPI: Ms. Patel is a 78-year-old woman with COPD, T2DM, AFib, BPH, hyperlipidemia, and GERD who returns for routine follow-up of her COPD. She reports "still get winded going up the stairs, but no worse than last time." Denies fevers, chills, hemoptysis. She states "I use my inhaler most mornings, sometimes I forget the evening dose." No recent hospitalizations or ED visits since last seen. She reports occasional wheeze at night, worse in cold air. No new chest pain. Denies significant weight loss. Says "I've been trying to walk a little more, but the cough kind of holds me back."
+
+ROS: Cardiac - reports occasional palpitations, known AFib on anticoagulation. GI - occasional heartburn, controlled with omeprazole. GU - nocturia x2, stable, followed for BPH. Endocrine - checks fingersticks intermittently, denies hypoglycemic episodes. All other systems reviewed and negative except as noted in HPI.
+
+PMH: Type 2 diabetes mellitus, atrial fibrillation (on anticoagulation), benign prostatic hyperplasia, hyperlipidemia, GERD, COPD (moderate, GOLD stage per prior PFTs).
+
+Medications: Metformin 1000mg BID, apixaban 5mg BID, tamsulosin 0.4mg qHS, atorvastatin 40mg qHS, omeprazole 20mg daily, tiotropium inhaler daily, albuterol PRN.
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Tobacco Use Assessment:
+  - Current tobacco user: YES
+  - Type: Cigarettes
+  - History (per patient report, reviewed and updated this visit):
+       Period 1: 1 pack per day x 17 years
+       Period 2: 1.5 packs per day x 23 years
+       Period 3: 2 packs per day x 17 years (current use)
+  - Cessation counseling offered: Yes, patient counseled on quitting, declined referral to tobacco cessation program at this time.
+  - Interest in quitting: minimal per patient report, states "I've tried before and it never sticks."
+Alcohol: occasional glass of wine, denies drug use.
+
+FAMILY HISTORY: Mother - hypertension, died age 81. Father - MI at age 70. No family hx of lung cancer reported.
+
+VITALS: BP 138/82, HR 88 irregularly irregular, RR 18, SpO2 91% on room air, Temp 98.2F, Weight 165 lb, BMI 28.4.
+
+EXAM:
+General: Alert, oriented, mild respiratory distress with conversation.
+HEENT: No JVD.
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated.
+Pulm: Diffuse expiratory wheezes bilaterally, prolonged expiratory phase, no crackles.
+Abdomen: Soft, non-tender.
+Extremities: No edema.
+
+LABS/RESULTS:
+  - CBC (10/29/2024): WBC 7.8, Hgb 12.9, Plt 245.
+  - BMP (10/29/2024): Na 138, K 4.2, Cr 0.9, Glucose 142.
+  - HbA1c (10/29/2024): 7.4%.
+  - PFTs (09/15/2024): FEV1 58% predicted, FEV1/FVC ratio 0.61, consistent with moderate obstruction, mild improvement post-bronchodilator.
+  - CXR (09/15/2024): Hyperinflated lungs, no acute infiltrate, no effusion.
+  - INR (11/01/2024): 2.3, therapeutic on apixaban (note: apixaban does not require routine INR monitoring, value obtained incidentally, no action needed).
+
+ASSESSMENT:
+1. COPD, moderate, with continued active tobacco use. Patient remains an active smoker as detailed in tobacco use section above; this is a major contributor to ongoing symptom burden and risk of exacerbation. Continues to have exertional dyspnea and nocturnal wheeze despite current inhaler regimen.
+2. Type 2 diabetes mellitus - reasonably controlled, HbA1c 7.4%.
+3. Atrial fibrillation - rate controlled, INR incidentally therapeutic though not routinely monitored on apixaban.
+4. BPH - stable on tamsulosin.
+5. Hyperlipidemia - stable on atorvastatin.
+6. GERD - stable on omeprazole.
+
+PLAN:
+1. COPD: Continue tiotropium daily and albuterol PRN. Consider stepping up to combination LAMA/LABA inhaler if symptoms persist - will discuss at next visit. Reinforce smoking cessation counseling; patient again declined formal cessation program referral today but was encouraged to reconsider. Given her age, extensive smoking history, and COPD, lung cancer screening was discussed in general terms as part of preventive care conversation; no imaging ordered today. Pulmonary rehab referral discussed - patient to consider.
+2. Diabetes: Continue metformin, recheck A1c in 3 months.
+3. AFib: Continue apixaban, no dose change; cardiology co-managing.
+4. BPH: Continue tamsulosin, no new urinary symptoms.
+5. Hyperlipidemia: Continue atorvastatin, lipid panel due at next visit.
+6. GERD: Continue omeprazole, no change.
+7. Follow up in pulmonology clinic in 3 months, sooner if symptoms worsen. Reviewed red flag symptoms warranting earlier return (worsening dyspnea, hemoptysis, fever).
+
+Time spent: 25 minutes, majority in counseling and coordination of care.
+
+Electronically signed: Owen Fitzgerald, MD, 11/08/2024.

@@ -1,0 +1,55 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Chest Pain Evaluation
+Date of Service: 04/22/2026
+Author: Laura Castellano, FNP-C
+
+Patient: Kathleen Price, F, DOB 04/22/1964 (age 62 today)
+
+CHIEF COMPLAINT: Chest pain, intermittent, evaluated via telehealth per pt preference (transportation issues).
+
+HPI: 62 yo female with h/o CAD, OSA, hypothyroidism, obesity, CKD stage 3 presenting w/ intermittent chest discomfort x 2 wks. Describes as pressure-like, substernal, non-radiating, worse w exertion, improves w rest. No assoc SOB at rest. Denies palpitations, syncope. Reports adherence to statin and low-dose ASA. Pt notes ongoing fatigue, attributes to poor sleep - reports variable CPAP compliance.
+
+SMOKING HISTORY: Long history of heavy smoking. Pt reports she currently smokes cigarettes. Hx notable - pt states she had quit in 2014 but relapsed in 2016 and has smoked since. Advised to quit again today, discussed resources incl. quitline and pharmacotherapy options. Lung cancer screening discussed as topic for further conversation with PCP.
+
+---- BEGIN COPY-FORWARD TEXT FROM PRIOR VISIT (ORIGINAL NOTE DATED 11/03/2025) ----
+HPI: Pt is a 61 yo female here for f/u of CAD and CKD. Reports stable angina class II, no recent ER visits. Denies orthopnea, PND, LE edema. OSA - uses CPAP nightly per pt report (though prior notes indicate variable compliance). Hypothyroidism - on levothyroxine, last TSH wnl. Obesity - BMI 34, discussed weight mgmt referral, pt declined at that time. CKD3 - stable Cr, nephrology f/u q6mo. Denies dysuria, hematuria. ROS otherwise negative.
+PHYSICAL EXAM (11/03/2025): BP 138/86, HR 78, RR 16, SpO2 97% RA, Wt 205 lb. Gen: NAD. CV: RRR, no m/r/g. Lungs: CTAB. Ext: no edema. 
+ASSESSMENT/PLAN (11/03/2025): 1) CAD - continue statin, ASA, f/u lipid panel. 2) OSA - continue CPAP, reinforce compliance. 3) Hypothyroidism - continue levothyroxine, recheck TSH in 6 mo. 4) Obesity - counseled diet/exercise. 5) CKD3 - continue nephrology f/u, avoid nephrotoxic agents.
+---- END COPY-FORWARD TEXT ----
+
+REVIEW OF SYSTEMS (today, 04/22/2026): Constitutional: fatigue, denies fever/chills. CV: chest pressure as above, denies palpitations. Resp: denies cough, denies hemoptysis, mild dyspnea on exertion. GI: denies n/v/abd pain. GU: denies dysuria. Neuro: denies syncope/near-syncope. Psych: denies depression/anxiety sx.
+
+PHYSICAL EXAM (telehealth - limited): Pt appears comfortable, no acute distress noted on video. Speaking in full sentences. Skin: no cyanosis noted. Unable to auscultate heart/lungs via telehealth. Vitals per home cuff/pulse ox reported by pt: BP 142/88, HR 82, SpO2 96% RA.
+
+PROBLEM LIST:
+1. I25.10 - Atherosclerotic heart disease of native coronary artery without angina (CAD)
+2. G47.33 - Obstructive sleep apnea
+3. E03.9 - Hypothyroidism, unspecified
+4. E66.9 - Obesity, unspecified
+5. N18.3 - Chronic kidney disease, stage 3
+6. Z87.891 - Personal history of nicotine dependence (outdated entry - pt currently smoking, see note)
+7. I10 - Essential hypertension (outdated, per pt now normotensive off meds per report)
+
+LABS/RESULTS:
+- Lipid panel 03/15/2026: LDL 98, HDL 42, TG 150, Total chol 170
+- TSH 02/10/2026: 2.1 (wnl)
+- Cr 03/01/2026: 1.4 (baseline for CKD3)
+- eGFR 03/01/2026: 48
+- EKG today: NSR, no acute ST changes, unchanged from prior 09/2025 tracing
+- Troponin: not obtained via telehealth, will need in-person draw if sx worsen
+
+ASSESSMENT: 62 yo F w/ CAD, OSA, hypothyroidism, obesity, CKD3 presenting w/ intermittent chest pain, exertional pattern concerning though EKG reassuring today. Current smoker w/ long hx of heavy smoking, ongoing cardiac risk factor. Prior quit attempt (2014) with relapse (2016) noted, indicates need for renewed cessation support.
+
+PLAN:
+1. Chest pain - recommend in-person visit w/ cardiology for exam, possible stress test given exertional pattern. Continue ASA, statin. Pt to call or go to ED if pain worsens, radiates, or assoc w/ diaphoresis/SOB.
+2. Smoking - strongly advised cessation, discussed nicotine replacement, bupropion as options, referred to quitline. Will discuss further at next visit, encourage PCP involvement.
+3. CAD - continue current meds, f/u lipid panel in 3 mo.
+4. OSA - reinforce CPAP compliance, refer back to sleep medicine if needed.
+5. Hypothyroidism - continue levothyroxine, recheck TSH in 6 mo.
+6. Obesity - reiterate diet/exercise counseling.
+7. CKD3 - continue nephrology f/u, monitor Cr/eGFR, avoid NSAIDs/contrast when possible.
+8. Telehealth limitations discussed w/ pt, in-person f/u arranged.
+
+RTC: 2 wks or sooner if sx worsen.
+
+Electronically signed: Laura Castellano, FNP-C, 04/22/2026

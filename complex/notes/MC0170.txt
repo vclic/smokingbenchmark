@@ -1,0 +1,51 @@
+TELEHEALTH VISIT NOTE
+Patient: Paul Rivera | DOB: 5/13/1970 | Age: 54 | Sex: M
+Date of Service: 05/13/2024
+Provider: Teresa Alvarez, NP (Pulmonology)
+Visit type: Telehealth - Lung cancer screening shared decision-making (SDM)
+
+CC: LCS discussion, f/u a-fib and BPH.
+
+HPI: Pt is a 54 yo M with h/o afib (on anticoagulation) and BPH, calling in via video for lung ca screening SDM visit as referred by PCP. Pt states "I know I probably should quit but I'm just not there yet." Denies hemoptysis, denies unintentional weight loss, denies new cough. Reports occasional dyspnea on exertion which he attributes to being "out of shape." No chest pain. States afib sx well controlled currently, no palpitations. BPH sx stable, nocturia x1/night, on tamsulosin.
+
+Pt was asked about tobacco use in detail as part of the SDM conversation; pt was cooperative and forthcoming, though somewhat vague on exact dates.
+
+ROS: Constitutional - neg for fever, chills, wt loss. Resp - neg for cough, wheeze, hemoptysis. CV - neg for chest pain, palpitations currently. GU - nocturia as above. All else reviewed and neg per pt.
+
+--- SOCIAL HISTORY (EHR TEMPLATE) ---
+Tobacco Use Status: Current every day smoker
+Type: Cigarettes
+Smoking Hx Detail (free text field): Pt reports smoked approx 1/4 pack/day (~5 cigs/day) x 16 years, then quit completely x 3 years, then restarted at 1 pack/day x 18 years, continues to smoke at this time.
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Denies
+Alcohol use: Occasional, 1-2 drinks/wk per pt report
+Illicit drug use: Denies
+Readiness to quit: Not ready to quit at this time
+Previous quit attempts: Not on file
+Secondhand smoke exposure at home: 
+Occupation: Retired
+--- END TEMPLATE ---
+
+PMH: Atrial fibrillation, BPH.
+PSH: None reported.
+Meds: Apixaban, tamsulosin.
+Allergies: NKDA.
+Family Hx: Not on file this visit.
+
+Exam (limited, telehealth):
+Gen: NAD, conversant, appears stated age.
+Resp: no visible distress, no increased WOB observed on cam, no cough during visit.
+CV: pt reports no palpitations today; unable to auscultate via telehealth.
+Skin: no cyanosis noted on cam.
+
+Assessment/Plan:
+54 yo M current smoker (see tobacco block above), afib, BPH, presenting for LCS SDM discussion.
+1. Lung cancer screening - reviewed general risks/benefits of low-dose CT screening, including radiation exposure, false positives, incidental findings, and overdiagnosis, in a shared decision-making format. Discussed the concept of screening in general terms; pt to consider and follow up with PCP or this office regarding next steps. No imaging ordered today, and no determination of eligibility was made or discussed today.
+2. Tobacco use - counseled extensively on health risks of continued smoking, offered pharmacotherapy (varenicline, NRT) and behavioral counseling/quitline referral; pt currently not ready to quit but will "think about it." Encouraged to reconsider at future visits. Written materials on cessation resources sent via patient portal.
+3. Atrial fibrillation - stable per pt report, continue apixaban, f/u with cardiology per their own schedule, no acute issues today.
+4. BPH - stable on tamsulosin, no new urinary sx of concern, continue current mgmt.
+5. F/u in 3-6 months or sooner if new resp sx develop (hemoptysis, unexplained wt loss, worsening cough) - pt instructed to call or seek care immediately if these occur.
+
+Time spent: approx 20 min telehealth visit, majority spent in counseling/SDM re: LCS and tobacco cessation.
+
+Electronically signed: Teresa Alvarez, NP

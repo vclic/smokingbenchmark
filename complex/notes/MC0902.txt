@@ -1,0 +1,47 @@
+RESIDENT NOTE - PRIMARY CARE
+Patient: Raymond Roberts (M), DOB 3/11/1966, Age 59
+Date of Service: 03/11/2025
+Visit Type: New Patient - Establish Care
+Author: Anita Patel, MD (attending attestation below)
+
+CC: Establish care, med refills, general f/u.
+
+HPI: 59 yo M new to clinic, transferring care after longtime PCP retired. PMH T2DM, COPD, BPH, obesity, gout. Pt states "I just need someone to keep an eye on my sugars and my breathing." Denies CP, denies acute SOB at rest, does note mild DOE w/ stairs x several months, stable per pt. Uses albuterol inhaler prn, reports using it "maybe once or twice a week." Nocturia 2-3x/night, attributes to BPH, no hematuria/dysuria. Gout flare ~2 mo ago L great toe, self-treated w/ NSAIDs, resolved. DM - checks fingersticks sporadically, reports fasting glucose readings "in the 140s-160s usually." No polyuria/polydipsia currently. Denies vision changes, denies numbness/tingling in feet on exam today (will screen formally). Diet - admits to "eating out a lot," limited exercise 2/2 knee pain. No falls, no chest pain, no palpitations.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2022 - OUTSIDE RECORDS, PARTIALLY MIGRATED INTO CHART]
+PMH: T2DM dx ~2015, COPD dx ~2018 per outside records, BPH, obesity, gout w/ recurrent flares. Meds at that time: metformin 1000mg BID, tiotropium inhaler daily, tamsulosin 0.4mg qhs, allopurinol 100mg daily. A1c at that visit 8.2%. BMI 34. BP 138/86. Plan at that time: f/u labs in 3 mo, continue current regimen, PFTs ordered. Pt reportedly tolerating meds well, no side effects noted. FHx notable for DM in mother, CAD in father. [END COPY-FORWARD]
+
+ROS: Constitutional - denies fever/chills/weight loss. Resp - as above, chronic cough occasionally productive of clear sputum. CV - denies orthopnea/PND/edema. GI - denies N/V/D/constipation. GU - as above. MSK - occasional joint pain c/w gout, denies new swelling today. Neuro - denies HA/dizziness/focal weakness. Psych - denies depression/anxiety sx.
+
+Social History: [not documented this visit - none obtained]
+
+Meds (reported): Metformin 1000mg BID, tiotropium inhaler daily, tamsulosin 0.4mg qhs, allopurinol 100mg daily, albuterol prn.
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 142/88, HR 78, RR 16, SpO2 95% RA, Wt 224 lb, BMI 33.9, Temp 98.2F.
+Gen: NAD, obese habitus, comfortable.
+HEENT: NC/AT, PERRLA, oropharynx clear.
+Neck: no JVD, no LAD, no thyromegaly.
+Lungs: mildly diminished breath sounds bilat bases, no wheezes appreciated today, no crackles.
+CV: RRR, no m/r/g.
+Abd: obese, soft, NT/ND, +BS.
+Ext: no edema, pulses 2+ bilat, no gouty tophi visualized today.
+Skin: no rashes.
+Neuro: grossly nonfocal, monofilament testing deferred to next visit.
+
+Labs reviewed (outside, pending repeat): A1c 8.0% (3 mo ago), Cr 1.0, eGFR >60, lipid panel pending, UA pending for BPH w/u.
+
+Assessment/Plan:
+1. Type 2 DM, suboptimally controlled - continue metformin, consider adding second agent if A1c remains >8 on repeat, dietary counseling given, f/u labs incl A1c, BMP, lipid panel in 3 mo.
+2. COPD - continue tiotropium, albuterol prn, PFTs to be repeated given no records in this chart, incidental lung findings to be d/w pt if imaging obtained for other indications; screening for lung pathology discussed generally per age-appropriate guidelines but no imaging ordered today.
+3. BPH - continue tamsulosin, UA sent, will consider urology referral if sx worsen.
+4. Obesity - BMI 33.9, counseled on diet/exercise, discussed weight loss options incl possible GLP-1 agonist given DM comorbidity.
+5. Gout - continue allopurinol, uric acid level to be checked w/ labs, NSAIDs prn for flares.
+6. Health maintenance - UTD on immunizations per pt report, will verify; colon ca screening d/w pt, pt due for colonoscopy; will address at next visit given time constraints today.
+
+f/u 3 months, sooner if issues arise. Pt verbalized understanding, agreeable to plan.
+
+Resident: Note reviewed and discussed with attending. All findings and plan as documented above reflect joint decision-making.
+
+Attending Attestation: I have personally seen and evaluated the patient with the resident. I agree with the history, exam, assessment, and plan as documented above, with edits as discussed. - Anita Patel, MD, 03/11/2025.

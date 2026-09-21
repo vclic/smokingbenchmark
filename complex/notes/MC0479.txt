@@ -1,0 +1,40 @@
+GERIATRICS PROGRESS NOTE
+Patient: Joseph Martin | DOB: 7/11/1953 | Age: 71 | Sex: M
+Date of Service: 07/11/2024
+Author: Anita Patel, MD
+
+CC: Comprehensive geriatric assessment, follow-up of multiple chronic conditions.
+
+HPI: Mr. Martin presents for annual geriatric assessment. He reports stable urinary symptoms on tamsulosin, uses CPAP nightly for OSA with good adherence, and monitors blood glucose at home with fasting readings in the 110-140 range. No chest pain, palpitations well controlled on current anticoagulation for atrial fibrillation. He denies falls, weight loss, or new cognitive complaints.
+
+--- SOCIAL HISTORY (templated block) ---
+Tobacco use: Current smoker
+Details: Patient smoked 3 packs per day for 29 years, then cut back to half a pack (about 10 cigarettes) per day for 28 years and continues at that rate currently.
+Smoking cessation readiness: Not ready to quit at this time.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+---------------------------------------
+
+[Copied forward from visit dated 03/14/2019]: Patient is a 66-year-old male here for routine follow-up of hypertension and hyperlipidemia. He reports mild fatigue but denies chest pain or dyspnea on exertion. Physical exam notable for regular rate and rhythm, no murmurs, lungs clear bilaterally. Labs reviewed showing stable renal function and lipid panel at goal on current statin therapy. Continue current medications, follow up in 6 months. [End copied text]
+
+Assessment/Plan today includes discussion of tobacco use; patient still smokes and states he is not ready to quit at this visit. Advised to quit smoking and offered cessation resources including nicotine replacement therapy and counseling referral; patient declined at this time but agreed to reconsider.
+
+PROBLEM LIST (ICD-10):
+- N40.1 Benign prostatic hyperplasia with LUTS
+- G47.33 Obstructive sleep apnea
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Atrial fibrillation, unspecified
+- E03.9 Hypothyroidism, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- I10 Essential hypertension (outdated - resolved per patient report, no longer on antihypertensive)
+
+Exam: BP 132/78, HR 76 irregular, weight stable. General: alert, no acute distress. Lungs: clear to auscultation bilaterally. Cardiac: irregularly irregular rhythm, no murmurs.
+
+Assessment: Stable chronic disease management in a 71-year-old male; ongoing tobacco use discussed at length.
+
+Plan: Continue current medications, recheck TSH and A1c prior to next visit, continue CPAP, reinforce smoking cessation counseling, follow up in 3 months or sooner as needed.
+
+Electronically signed: Anita Patel, MD

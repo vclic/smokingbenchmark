@@ -1,0 +1,27 @@
+H&P - Pulmonology
+Patient: Deborah Schmidt (DOB 6/12/1954), F, age 70
+Date of Service: 06/12/2024
+Provider: Nadia Haddad, MD
+
+CC: Lung cancer screening shared decision-making visit.
+
+HPI: Ms. Schmidt presents for SDM visit regarding lung cancer screening. She has a longstanding tobacco history and known gout and OSA on CPAP. She reports quitting smoking in 2022 but relapsed in 2023. She denies hemoptysis, unintentional weight loss, or chest pain. She continues to smoke despite counseling given at prior visits.
+
+--- Copied forward from note dated 10/12/2020 ---
+ROS/Social: As documented on 10/12/2020, patient is a current smoker. No plans to quit discussed at that time. Continues with OSA symptoms and gout flares intermittently.
+--- End copied section ---
+
+ROS: Constitutional - no fever, no weight loss. Resp - no cough, no dyspnea. CV - no chest pain, no palpitations. GI - occasional epigastric discomfort. MSK - occasional joint pain c/w gout. Neuro - no headache, no focal weakness. All other systems reviewed and negative.
+
+Medications: Allopurinol 300mg daily, Colchicine 0.6mg PRN, CPAP nightly, Lisinopril 10mg daily, Atorvastatin 20mg daily, Omeprazole 20mg daily, Multivitamin daily.
+
+Physical Exam: Vitals stable, BP 132/78, HR 76, RR 16, SpO2 96% RA. General - well-appearing, NAD. HEENT - normocephalic, atraumatic. Neck - no lymphadenopathy. Lungs - clear to auscultation bilaterally, no wheeze/rales. CV - RRR, no murmur. Abdomen - soft, non-tender. Extremities - no edema, mild tenderness first MTP joint c/w gout history. Skin - no lesions.
+
+Labs/Results:
+- CBC (06/10/2024): WBC 6.8, Hgb 13.9, Plt 245
+- CMP (06/10/2024): Creatinine 0.9, Uric acid 7.8
+- Chest X-ray (06/05/2024): No acute cardiopulmonary process
+
+Assessment/Plan: 70-year-old woman with 1.5 pack per day smoking history for 54 years, presenting for lung cancer screening shared decision-making discussion. Screening options and risks/benefits were discussed today. She continues to smoke despite counseling; encouraged cessation resources including counseling and pharmacotherapy. Continue CPAP for OSA, continue allopurinol/colchicine for gout management. Follow up in 3 months or sooner if symptoms arise.
+
+Addendum (06/12/2024, later same day): Discussed screening discussion further with patient by phone; she has additional questions about smoking cessation programs and will call to schedule with tobacco cessation clinic. No changes to plan otherwise.

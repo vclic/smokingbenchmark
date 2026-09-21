@@ -1,0 +1,86 @@
+Primary Care Progress Note
+
+Patient: YOUNG, Leonard    MRN: 12721946
+DOB: 07/27/1957    Age: 67 y.o.    Sex: Male
+Date of Service: 10/24/2024    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Fatigue
+
+Subjective:
+Leonard Young is a 67 y.o. male who presents for fatigue.
+Fatigue for 1 months. Sleeping 8 hrs but not refreshed. Lost 5 lbs unintentionally. He is a current smoker and smokes 20 cigarettes a day and has for 47 years.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic kidney disease stage 3a
+• Type 2 diabetes mellitus
+• Hypercholesterolemia
+• Class I obesity
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2022)
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• atorvastatin 40 mg daily
+• metformin 1000 mg BID
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Heavy Tobacco Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Retired office manager.
+  EtOH: 1-2 beers/wk.
+  Drives.
+
+Family History
+Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 111/66 (BP Location: Left arm, Patient Position: Sitting) | Pulse 99 | Temp 98.5 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 194 lb | SpO2 98% | BMI 30.32 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Obese, soft, nontender
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (09/26/2024): A1c 7.5%, LDL 108, Cr 1.47, K 3.8
+
+Assessment & Plan
+1. Fatigue
+   PHQ-9 9. Labs ordered.
+2. Class I obesity
+   Discussed diet and exercise.
+3. Chronic kidney disease stage 3a
+   Monitor BMP q6 months.
+
+f/u 12 mo
+
+Electronically signed by Kevin Osei, MD on 10/24/2024

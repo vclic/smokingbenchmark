@@ -1,0 +1,35 @@
+TELEHEALTH URGENT CARE NOTE
+Patient: Carlos Jenkins | DOB: 1/7/1972 | Age: 53 | M
+DOS: 01/07/2025
+Provider: Julia Brennan, MD
+
+CC: cough x several days
+
+HPI: Pt is a 53 yo M w/ hx OSA, asthma, BPH, HTN presents via telehealth c/o persistent cough, worse at night, denies fever, some SOB [inaudible] when climbing stairs he says its been going on for like a week or so and hes tried robitussin without much relief, no hemoptysis, no chest pain per pt. Reports he smokes 25 cigarettes per day for 13 years, and states he also vapes occasionally. Pt still smokes currently and is not ready to quit at this time despite brief counseling offered today. Uses CPAP inconsistently for OSA per pt report. Denies recent travel or sick contacts, meds reviewed and reconciled today, no known drug allergies.
+
+--- COPIED FROM NOTE DATED 6/7/2021 ---
+Social Hx (as documented 6/7/2021): current smoker.
+--- END COPIED SECTION ---
+
+ROS: + cough, denies fever/chills, denies wt loss, remainder of systems reviewed and are negative except as noted in HPI, pt somewhat difficult to understand on call due to poor connection [inaudible] portions of history.
+
+PMH: OSA, asthma, BPH, HTN
+Meds: albuterol PRN, tamsulosin, lisinopril
+
+Labs/Results:
+- CXR (portable, done 1/6/2025): no acute infiltrate, no effusion, lungs hyperinflated c/w obstructive dz
+- SpO2 today (home pulse ox reported by pt): 95% RA
+- BP today (home cuff): 138/86
+- HR: 78
+- Prior spirometry 3/2024: FEV1/FVC 0.68, consistent w/ mild obstruction
+
+A/P:
+1. Acute cough, likely bronchitis vs asthma exacerbation - will start short course of prednisone taper and continue albuterol PRN, hydration, rest advised.
+2. Tobacco use - counseled on health risks of continued smoking and vaping, general discussion held regarding lung health monitoring options available for long-term smokers, encouraged to consider cessation resources, pt not ready to quit today, will readdress at next visit.
+3. OSA - encouraged more consistent CPAP use, will follow up w/ sleep med if no improvement.
+4. HTN - stable on current regimen, continue lisinopril.
+5. BPH - stable, continue tamsulosin.
+
+F/u in 1-2 wks or sooner if worsening sx, return precautions given re: worsening SOB, chest pain, high fever.
+
+Electronically signed: Julia Brennan, MD

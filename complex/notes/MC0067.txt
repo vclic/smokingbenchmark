@@ -1,0 +1,59 @@
+CARDIOLOGY PROGRESS NOTE
+DOS: 04/14/2025
+Author: Isaac Moreno, PA-C
+
+Patient: Charles Wright, M, DOB 4/8/1954 (age 71)
+
+CC: chest pain eval
+
+HPI: Pt is a 71-year-old male referred for chest pain workup. States "it feels like pressure right here when I climb stairs" pointing to sternum. Denies radiation to jaw, some SOB associated. Hx of HFrEF, HTN, asthma, CKD3 - all copy-forwarded from prior visit, reviewed and pt reports no acute change except this chest discomfort x 2 wks. Also c/o gout flare in L great toe last month, resolved w/ colchicine per pt report, and chronic OA knee pain, stable, using acetaminophen prn. Pt denies fevers, chills, weight loss. He mentions "I get winded walking to the mailbox now, didn't used to be like that." No syncope, no palpitations reported although he says he "feels his heart skip sometimes, maybe [inaudible] once a week."
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+History: Pt smoked approx half a pack (about 10 cigarettes) per day for 19 years, then increased to 1 pack per day for 34 years and continues to smoke at that rate.
+Prior quit attempts: Pt reports he previously quit in 2009 but relapsed in 2012.
+Counseling: Advised to quit, resources offered, pt states he is "not ready right now."
+
+Other substance use: Pt reports smoking marijuana a few times a month, denies other recreational drug use. Pt states he quit drinking alcohol in 2012 and has been sober since.
+
+ROS: Otherwise negative except as above, denies hemoptysis, denies hematuria, denies joint swelling currently.
+
+Meds: Furosemide, carvedilol, lisinopril, allopurinol, albuterol inhaler prn, acetaminophen prn.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, SpO2 95% RA, Temp 98.2F, Wt 210 lb
+Gen: NAD, comfortable, mild distress noted when speaking about exertion
+CV: RRR, no m/r/g appreciated today, JVP mildly elevated to about 8cm, trace pedal edema b/l
+Resp: mild expiratory wheeze bilat bases, no rales
+Abd: soft, NT/ND
+Ext: no acute gout changes today, old tophi noted L 1st MTP
+
+LABS/RESULTS:
+04/14/2025 BNP: 612 pg/mL (elevated)
+04/14/2025 Cr: 1.6 mg/dL (baseline for pt per CKD3)
+04/14/2025 eGFR: 42
+04/14/2025 Troponin (initial): <0.01 ng/mL, repeat pending
+04/14/2025 K+: 4.3
+03/2025 Echo (outside record): EF 35%, mild-mod MR
+
+ASSESSMENT:
+1. Chest pain, exertional - differential includes cardiac ischemia vs demand-related given HFrEF, will pursue further workup
+2. HFrEF - appears mildly decompensated today, will adjust diuretic
+3. Asthma - mild wheeze noted, continue albuterol prn
+4. HTN - not optimally controlled today
+5. CKD stage 3 - stable at baseline
+6. Gout, OA - stable per pt report
+7. Tobacco use disorder, current - discussed cessation again
+
+PLAN:
+- Repeat troponin in 3-6 hrs
+- Increase furosemide dose, recheck BMP in 1 wk
+- Continue carvedilol, lisinopril
+- Cardiology to consider stress testing as outpt if trops negative
+- General preventive health topics discussed briefly including tobacco-related health risks; no imaging orders placed today related to that discussion
+- Tobacco cessation counseling provided again, pt declines nicotine replacement at this time, will readdress next visit
+- Follow up in 2 wks or sooner if symptoms worsen
+- Pt educated on when to seek ER care
+
+Electronically signed: Isaac Moreno, PA-C

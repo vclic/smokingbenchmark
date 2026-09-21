@@ -1,0 +1,74 @@
+INTERNAL MEDICINE - HISTORY & PHYSICAL
+Patient: Ronald Jenkins (M)  DOB: 2/13/1975  Age: 50
+Date of Service: 02/13/2025
+Attending: Elena Markovic, MD
+
+CC: F/u HTN, T2DM, r/f other chronic issues.
+
+HPI: Pt is a 50 yo M with h/o COPD, CKD stage 3, OSA, gout, HTN, T2DM presenting for routine f/u. Pt states "I've been feeling about the same, maybe a little more short of breath climbing stairs." Denies CP, denies syncope, admits to occasional ankle swelling by end of day. Reports compliance w/ metformin and lisinopril, though admits he "sometimes forgets the water pill." No new falls, no vision changes, no polyuria beyond baseline.
+
+Re: tobacco - pt continues to smoke, current active smoker, w/ an 89 pack-year smoking hx per pt report and prior chart review. Advised to quit smoking again today, discussed nicotine replacement options and pt states he is "not ready right now but maybe soon." Counseling re: COPD exacerbation risk d/t continued smoking was reinforced.
+
+Re: EtOH - pt reports he quit drinking alcohol in 2000 and has remained abstinent since. No current substance use other than tobacco noted. Denies illicit drug use.
+
+ROS: Constitutional - no fevers/chills, mild fatigue. Resp - chronic cough stable, no hemoptysis, uses albuterol prn. CV - no chest pain, occasional edema as above. GI - no n/v/d, appetite stable. GU - nocturia x1, no dysuria. MSK - occasional great toe pain c/w gout flares, none currently active. Neuro - no numbness/tingling. Skin - no rashes.
+
+PMH: HTN, T2DM, COPD, CKD stage 3, OSA (on CPAP, compliance variable per pt - "I don't always wear the mask, it's uncomfortable [inaudible] some nights"), gout.
+
+PSH: Appendectomy age 22.
+
+FH: Father w/ CAD, mother w/ T2DM.
+
+SH: Active smoker as above, 89 pack-yr hx. EtOH - quit 2000. No illicit drug use. Works as a warehouse supervisor, lives with spouse.
+
+Meds: Metformin 1000mg BID, Lisinopril 20mg daily, HCTZ 25mg daily (pt admits inconsistent use), Albuterol inhaler prn, Allopurinol 300mg daily, Atorvastatin 40mg daily.
+
+Allergies: NKDA.
+
+VITALS: BP 142/88, HR 78, RR 18, Temp 98.4F, SpO2 94% RA, Wt 231 lb, Ht 5'10", BMI 33.1.
+
+PHYSICAL EXAM:
+Gen: Well-developed, well-nourished male in NAD.
+HEENT: NCAT, PERRLA, oropharynx clear.
+Neck: No JVD, no thyromegaly.
+Resp: Mild expiratory wheeze bilat, no rales, no rhonchi, breathing comftorable at rest.
+CV: RRR, no m/r/g.
+Abd: Soft, NT/ND, +BS.
+Ext: Trace bilateral ankle edema, no clubbing, no cyanosis.
+Skin: Warm, dry, no rashes.
+Neuro: A&Ox3, CN II-XII grossly intact.
+
+LABS/RESULTS (most recent, drawn 02/10/2025):
+- HbA1c: 8.1% (elevated, goal <7.5%)
+- Fasting glucose: 152 mg/dL
+- Creatinine: 1.6 mg/dL (baseline for pt, consistent w/ CKD3)
+- eGFR: 48 mL/min/1.73m2
+- BUN: 24 mg/dL
+- Na 138, K 4.6, Cl 101, CO2 24
+- Uric acid: 7.9 mg/dL
+- Lipid panel: TC 188, LDL 102, HDL 38, TG 210
+- Spirometry (from pulm, 01/2025): FEV1/FVC 0.62, consistent w/ moderate obstruction
+
+PROBLEM LIST:
+1. Essential HTN - I10
+2. Type 2 DM w/o complications - E11.9
+3. COPD, unspecified - J44.9
+4. CKD stage 3 - N18.3
+5. OSA - G47.33
+6. Gout, unspecified - M10.9
+7. Hyperlipidemia - E78.5 (chart may be outdated, last documented 2021, pt now on atorvastatin)
+8. Tobacco use disorder - Z72.0
+9. Alcohol use, former - Z86.19 (historical, pt quit EtOH in 2000)
+
+ASSESSMENT/PLAN:
+1. HTN - not at goal today, will increase lisinopril to 40mg daily, recheck BP in 2 wks, reinforce HCTZ compliance.
+2. T2DM - A1c 8.1%, above goal, will add basal insulin, referred to diabetic educator, continue metformin.
+3. COPD - stable per exam though pt continues active tobacco use w/ significant 89-pack-year hx; strongly advised cessation again, discussed pharmacologic aids (varenicline vs NRT), pt to consider. Screening for lung ca risk factors was discussed conceptually with pt but no imaging ordered today, further discussion planned at next visit.
+4. CKD stage 3 - stable, monitor renal fxn, avoid NSAIDs, nephro f/u as scheduled.
+5. OSA - reinforce CPAP compliance, refer back to sleep med if issues persist.
+6. Gout - no active flare, continue allopurinol, uric acid slightly elevated, will continue current dose.
+7. EtOH - hx of quitting in 2000, remains abstinent, no further intervention needed at this time.
+
+F/u in 4 wks or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+Elena Markovic, MD

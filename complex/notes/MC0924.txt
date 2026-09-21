@@ -1,0 +1,57 @@
+GERIATRICS PROGRESS NOTE
+Patient: Thomas Wilson (M) DOB: 03/12/1969 (age 56)
+Date of Service: 04/07/2025
+Author: Anita Patel, MD (NP progress note co-signed)
+
+CC: Geriatric assessment / medication and fall-risk review.
+
+HPI: Mr. Wilson is a 56-year-old male here for a comprehensive geriatric assessment referred from primary care given history of osteoporosis and osteoarthritis with concern for fall risk and polypharmacy. He reports his osteoarthritis pain in the knees is stable on current regimen, some morning stiffness lasting about 20 minutes. He denies new falls since last visit. He reports good adherence to his osteoporosis medication and calcium/vitamin D supplementation. Blood pressure has been well controlled per home readings, generally in the 120s/70s.
+Regarding tobacco history, he reports he smoked 2 packs per day for about 2 years in his 20s, then cut down to roughly 15 cigarettes per day for the following 2 years before quitting entirely. He has not smoked since. He states he quit smoking when his youngest grandchild was born; that grandchild is now 35 years old, which he references frequently as a marker of how long ago he quit. He denies any interval relapse. He denies current alcohol or illicit drug use. He reports feeling generally well, no chest pain, no hemoptysis, no unintentional weight loss.
+
+ROS: Constitutional: negative for fevers, chills, weight loss. Respiratory: no cough, no dyspnea. Cardiac: no chest pain, no palpitations. MSK: chronic knee and hip pain as above, no acute swelling. Neuro: no focal weakness, no numbness. Psych: mood stable, denies depression/anxiety symptoms on screening.
+
+PMH/Problem List (ICD-10):
+- M81.0 Age-related osteoporosis without current pathological fracture
+- I10 Essential (primary) hypertension
+- M19.90 Osteoarthritis, unspecified site (chronic, both knees)
+- E78.5 Hyperlipidemia, unspecified (outdated - resolved per pt, last documented 2019, may need reconciliation)
+- Z87.891 Personal history of nicotine dependence (per problem list, chronic entry)
+
+Medications: Alendronate 70 mg weekly, Calcium carbonate/vitamin D3 combo daily, Lisinopril 10 mg daily, Acetaminophen 650 mg PRN for joint pain, Topical diclofenac gel PRN.
+
+Allergies: NKDA.
+
+=== SOCIAL HISTORY (EHR TEMPLATE) ===
+Tobacco use status: Former smoker
+Tobacco type: Cigarettes
+Packs per day (current): N/A
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Occasional, social
+Alcohol type: Not on file
+Illicit drug use: Denies
+Occupation: Retired (former electrician)
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days
+Diet: Not on file
+=== END TEMPLATE ===
+
+Physical Exam: Vitals: BP 128/76, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, Wt 188 lb, Ht 5'10".
+General: well-appearing, no acute distress.
+Cardiac: RRR, no murmurs.
+Lungs: clear to auscultation bilaterally, no wheezes/crackles.
+MSK: mild crepitus bilateral knees, no effusion, gait steady without assistive device.
+Skin: no lesions.
+Neuro: alert and oriented x3, cranial nerves grossly intact.
+
+Assessment/Plan:
+1. Osteoporosis - continue alendronate, encourage weight-bearing exercise, DEXA due for repeat in 1 year.
+2. Hypertension - well controlled, continue lisinopril, home BP log reviewed.
+3. Osteoarthritis, bilateral knees - continue conservative management with acetaminophen and topical NSAID, discussed PT referral if symptoms worsen.
+4. Tobacco history - patient is a former smoker with prior heavy use as detailed above, now quit for many years. Given his age and smoking history, lung cancer screening was briefly discussed as a topic to revisit with his primary care physician; no imaging ordered today from this visit. Continue to reinforce tobacco-free status and general health maintenance.
+5. Health maintenance - up to date on preventive labs per PCP records; will defer additional screening recommendations to PCP.
+
+Return to clinic in 6 months or sooner if symptoms change.
+
+---ADDENDUM (later same day, 04/07/2025, 4:45 PM)---
+Addendum by Dr. Anita Patel: Spoke further with patient after initial visit regarding his tobacco history for chart clarification purposes. Confirmed again that he smoked 2 packs per day for about 2 years, followed by approximately 15 cigarettes per day for the subsequent 2 years, then quit entirely. He reiterated that he quit at the time his youngest grandchild was born, and that this grandchild is currently 35 years old. No changes to plan. Problem list nicotine dependence entry to remain flagged as historical/former use; will request coding update at next visit if not already reconciled.

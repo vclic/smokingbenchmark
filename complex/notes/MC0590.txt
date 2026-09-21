@@ -1,0 +1,33 @@
+RESIDENT NOTE - Pulmonology Follow-up (post-ED COPD exacerbation)
+DOS: 12/13/2024
+Author: Nadia Haddad, MD (resident); attending attestation below
+
+Pt: Lan Nelson, F, DOB 3/11/1967, age 57
+
+HPI: Pt seen in f/u after recent ED visit for COPD exacerbation, now improved on steroid taper and inhalers. Denies fever, less dyspnea, cough improving. Hx depression, HTN, osteoporosis, OSA, GERD - all stable per pt.
+
+---copied forward from note dated 08/22/2019, retained in chart (not updated by prior author)---
+Pt here for routine f/u, doing well, no acute complaints today. BP controlled on current regimen, continues CPAP nightly w good adherence, denies GERD sx currently, bone density stable per last DEXA. Mood stable, no SI/HI. Plan: cont current meds, f/u in 6 months, routine labs ordered.
+---end copied text---
+
+Smoking status: Never Smoker [note: this templated field is INCORRECT - see below]
+
+Social hx (verified w pt today): Pt reports smoked 3 packs per day from 1984 until 1987, quit smoking in 1987, has not smoked since - she is a former smoker, no current tobacco use. Denies vaping, denies other tobacco products. Pt states she quit "cold turkey" after birth of first child (no further detail obtained). Occasional alcohol, denies illicit drug use.
+
+ROS: otherwise negative except as above, denies chest pain, denies hemoptysis.
+
+Exam: Vitals stable, afebrile. Lungs: mild expiratory wheeze bilat, no acute distress. Cardiac: RRR no m/r/g. Ext: no edema.
+
+Labs/Imaging: CXR from ED reviewed, no acute infiltrate, hyperinflation c/w COPD. BMP wnl.
+
+Assessment: 57F w COPD, recent exacerbation now resolving; also depression, HTN, osteoporosis, OSA, GERD, all stable.
+
+Plan:
+1. Continue current inhaler regimen (albuterol PRN, tiotropium daily)
+2. Pulm rehab referral d/c'd
+3. Smoking history reviewed and corrected in chart - pt is former smoker, quit 1987, tobacco cessation counseling not indicated as pt not currently smoking
+4. Lung cancer screening discussed given remote heavy tobacco hx, further workup per pt preference
+5. F/u in pulm clinic 4-6 wks
+6. Continue home meds for depression, HTN, osteoporosis, OSA, GERD
+
+Attestation: I have reviewed and discussed this case with the resident. Pt's smoking hx was clarified today - the "Never Smoker" field noted above is an error and does not reflect her actual history. Plan as above. - Nadia Haddad, MD

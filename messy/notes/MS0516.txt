@@ -1,0 +1,32 @@
+Vascular Surgery Progress Note
+Patient: Raymond Martinez, M, DOB 5/9/1954 (age 71)
+Date of Service: 05/09/2025
+Author: Kevin Osei, MD (NP progress note, co-signed)
+
+HPI: Mr Martinez returns today for follow up eval of peripheral artery disease, c/o intermittent claudication in b/l calves worsened w/ ambulation approx 2 blocks, improved w rest, no rest pain no ulceration noted. He smoked 1 pack per day for 35 years, a significant risk factor contributing to his PAD. Denies chest pain palpitations SOB, reports some fatigue which he attributes to [inaudible] sleep patterns lately, he also notes occasional numbness in toes bilaterally worse in cold weather he denies any new skin breakdown or discoloration and states his compression stockings help somewhat although he doesnt where them everyday.
+
+Past Medical History: Hypothyroidism, osteoarthritis, PAD as above.
+
+Social History (EHR template):
+Tobacco use: Former smoker
+Quit year: 2006
+Alcohol: occasional, 1-2 drinks/wk
+Drug use: Not on file
+Occupation: retired machinist
+Living situation: 
+Exercise: limited 2/2 claudication
+
+Medications: Levothyroxine 100 mcg qd, Atorvastatin 40 mg qhs, Aspirin 81 mg qd, Cilostazol 100 mg BID, Acetaminophen 650 mg prn for joint pain, Omeprazole 20 mg qd, Vitamin D3 2000 IU qd, Multivitamin qd
+
+Review of Systems: Constitutional: denies fever chills weight loss. Cardiovascular: denies chest pain palpitations orthopnea PND, positive for claudication as above. Respiratory: denies cough dyspnea wheeze. GI: denies nausea vomiting diarrhea constipation. GU: denies dysuria hematuria frequency. MSK: chronic joint pain c/w known osteoarthritis, denies acute swelling redness. Neuro: denies focal weakness numbness except as noted above tingling in toes. Skin: no rashes no ulcers no non healing wounds. Psych: denies depression anxiety sleep disturbance mild per patient. All other systems reviewed and negative.
+
+Physical Exam: Vitals: BP 138/82 HR 76 RR 16 Temp 98.4F Wt 192 lbs. General: well appearing NAD. Cardiovascular: RRR no m/r/g. Pulses: femoral 2+ bilat, popliteal 1+ bilat, dorsalis pedis and posterior tibial diminished bilaterally 1+, no bruits auscultated over femoral arteries although faint bruit questionable on right side may repeat. Extremities: no edema, skin cool to touch distally, cap refill slightly delayed approx 3 sec, no ulcerations no gangrene. Neuro: grossly intact, decreased sensation to light touch b/l toes. Skin: intact no breakdown. Musculoskeletal: decreased ROM b/l knees c/w osteoarthritis, no acute synovitis.
+
+Assessment/Plan:
+1. Peripheral artery disease, Fontaine stage II claudication - continue cilostazol, reinforce importance of walking program, ABI ordered for repeat comparison, he no longer smokes which is reassuring for his vascular risk profile going forward. Discussed general risk reduction strategies including lipid control and BP control.
+2. Hypothyroidism - continue levothyroxine, TSH stable per last labs.
+3. Osteoarthritis - continue acetaminophen prn, refer to ortho if worsening, consider PT eval.
+4. Health maintenance - general preventive care topics reviewed with patient, will continue to monitor and address at future visits as appropriate.
+5. Return to clinic in 3 months or sooner if symptoms worsen, pt verbalizes understanding of plan and agrees.
+
+Electronically signed Kevin Osei, MD

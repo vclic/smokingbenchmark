@@ -1,0 +1,57 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Cardiology - Follow-up Visit for Heart Failure
+Date of Service: 10/29/2024
+
+Patient: Lan Lee, F, DOB 8/21/1970 (age 54)
+Author: Laura Castellano, FNP-C
+
+Dear Dr. referring provider,
+
+Thank you for continuing to co-manage Ms. Lee, a 54-year-old woman with a history of heart failure, obesity, hypertension, BPH, and obstructive sleep apnea, who returns today for cardiology follow-up.
+
+HPI: Ms. Lee reports she has been feeling "about the same" since her last visit, with occasional dyspnea on exertion when climbing stairs at home, no orthopnea, no PND, and stable lower extremity edema. She denies chest pain, palpitations, or syncope. She states she has been taking her medications mostly as prescribed although she admits to missing her evening dose of furosemide "a couple times" this month, in [inaudible] due to her work schedule she says it's hard to plan around bathroom breaks so she skips it sometimes and then takes it late. Of note, she smokes two packs per day for twenty-six years, and this remains an active issue we continue to address at each visit. She notes some increased fatigue but attributes this to poor sleep, ongoing issues with her CPAP mask fitting, which she says leaks air and wakes her up, she's been meaning to call the DME company but hasn't gotten around to it, in fact she thinks the mask might be the wrong size all together.
+
+Review of systems otherwise negative for fever, chills, cough, or hemoptysis. She reports no recent weight gain beyond her baseline.
+
+Social History: Patient lives with her husband and adult son. Works part-time as a receptionist. She continues to smoke and when asked about quitting today, she states clearly that she is not ready to quit at this time, though she is aware of the risks and has been counseled repeatedly. She denies illicit drug use. She reports rare alcohol use, maybe a glass of wine on special occasions. She drinks 2 cups of coffee daily.
+
+Past Medical History: Heart failure (reduced ejection fraction, last known EF 35% per prior echo), obesity, hypertension, BPH, obstructive sleep apnea (on CPAP, poor adherence per above).
+
+Medications: Furosemide 40mg daily, Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Tamsulosin 0.4mg daily, Atorvastatin 20mg daily.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 138/86, HR 78, RR 16, SpO2 96% RA, Weight 212 lb, BMI 38.
+General: Obese woman, no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated, JVP mildly elevated at 8cm, no S3 heard today.
+Lungs: Clear to auscultation bilaterally, no wheezes or crackles.
+Extremities: Trace bilateral pitting edema.
+Skin: Warm, dry, no cyanosis.
+
+Labs reviewed from 10/15/2024: BNP 310 (elevated from baseline 220), creatinine 1.0, potassium 4.2, sodium 138. Lipid panel notable for LDL 112.
+
+Problem List (per EHR, some entries may be outdated):
+1. I50.22 - Chronic systolic (congestive) heart failure
+2. E66.9 - Obesity, unspecified
+3. I10 - Essential (primary) hypertension
+4. N40.0 - Benign prostatic hyperplasia without lower urinary tract symptoms (outdated - patient has known BPH with LUTS per urology note 2022, chart not updated)
+5. G47.33 - Obstructive sleep apnea
+6. Z87.891 - Personal history of nicotine dependence (outdated - patient remains an active smoker, this code should reflect current use, not history)
+7. J45.909 - Unspecified asthma (outdated - no documented asthma history found in chart, likely erroneous carryover entry)
+
+Assessment and Plan:
+1. Heart failure with reduced ejection fraction - clinically stable today though BNP trending up slightly from prior. Will increase furosemide slightly and reinforce importance of adherence to dosing schedule, discussed strategies for timing doses around her work day. Continue current GDMT. Will obtain repeat echocardiogram in 6 months or sooner if symptoms worsen.
+2. Tobacco use - continues to smoke actively, contributing to cardiopulmonary risk overall, patient counseled extensively today regarding smoking cessation, including risks specific to her heart failure and lung health, and low-dose CT lung cancer screening was discussed as an option to consider in the future, however patient again states she is not ready to quit at this time. Nicotine replacement and cessation resources offered, she declined today but was given information to take home. Will continue to readdress at future visits.
+3. Hypertension - reasonably controlled today, continue current regimen.
+4. Obesity - discussed diet and activity modifications, patient states she is trying to walk more but finds it difficult given fatigue.
+5. BPH - stable on tamsulosin, no new urinary symptoms reported today, will defer to urology for further management.
+6. Obstructive sleep apnea - poor CPAP adherence due to mask fit issues, recommended she follow up with DME company regarding refitting, discussed importance of consistent use for both cardiac and sleep health.
+
+Will follow up in 3 months or sooner as needed. Patient verbalized understanding of plan today and had no further questions at this time, all questions were answered to the best of my ability during todays visit.
+
+Thank you again for allowing us to participate in this patient's care.
+
+Sincerely,
+Laura Castellano, FNP-C
+Cardiology

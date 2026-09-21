@@ -1,0 +1,72 @@
+Adult Medicine Office Visit
+
+Patient: SIMMONS, David    MRN: 65070459
+DOB: 08/19/1965    Age: 60 y.o.    Sex: Male
+Date of Service: 01/30/2026    Provider: Elena Markovic, MD
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+David Simmons is a 60 y.o. male who presents for pre-operative evaluation prior to left total hip arthroplasty.
+Scheduled for left total hip arthroplasty on 2/19/2026. Can climb 2 flights of stairs without symptoms (>4 METs). No prior anesthesia complications. He is a current smoker; he has smoked about 20 cigarettes a day since he was 21.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Obesity
+• COPD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (2009)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• chlorthalidone 12.5 mg daily
+• albuterol HFA PRN
+• lisinopril 40 mg daily
+• tiotropium 18 mcg inhaled daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with son.
+  Retired, former office manager.
+  Drinks a glass of wine with dinner.
+
+Family History
+Mother - osteoporosis, hip fracture. Brother - T2DM.
+
+Review of Systems
+ROS: MSK neg, Resp +, Gen neg, Neuro neg, GI neg
+
+Objective:
+Vitals:
+  BP 129/88 (BP Location: Right arm, Patient Position: Sitting) | Pulse 97 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 9" | Wt 215 lb | SpO2 90% | BMI 31.76 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Obese, soft, nontender
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively. Strongly advised to stop smoking at least 4 weeks before surgery.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Elena Markovic, MD on 01/30/2026

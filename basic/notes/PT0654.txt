@@ -1,0 +1,78 @@
+Family Medicine Clinic Note
+
+Patient: BROOKS, Leonard    MRN: 99705926
+DOB: 07/18/1960    Age: 64 y.o.    Sex: Male
+Date of Service: 09/20/2024    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Heartburn
+
+Subjective:
+Leonard Brooks is a 64 y.o. male who presents for heartburn.
+Epigastric burning x 1 month. Former smoker (roughly a 50-pack-year history); he quit on January 2, 2009. No dysphagia, melena, or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Major depressive disorder, recurrent, in remission
+• Benign prostatic hyperplasia
+• Essential hypertension
+• GERD
+• Chronic kidney disease stage 3a
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+• Appendectomy (2019)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 100 mg daily
+• hydrochlorothiazide 25 mg daily
+• bupropion XL 150 mg daily
+• finasteride 5 mg daily
+• tamsulosin 0.4 mg nightly
+• pantoprazole 40 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+    Quit date: 1/2/2009
+    Years since quitting: 15.7
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Drinks a glass of wine with dinner.
+  Denies illicit drugs.
+
+Family History
+Mother - rheumatoid arthritis. Mother - breast cancer at 70.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 158/89 (BP Location: Left arm, Patient Position: Sitting) | Pulse 86 | Temp 98.7 °F (Oral) | Resp 18 | Ht 5' 11" | Wt 160 lb | SpO2 100% | BMI 22.34 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. GERD / dyspepsia
+   H. pylori stool antigen. PPI trial 8 weeks.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Julia Brennan, MD on 09/20/2024

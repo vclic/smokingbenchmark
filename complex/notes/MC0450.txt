@@ -1,0 +1,35 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Dennis Novak (DOB 9/20/1952, age 73)
+Date of Service: 12/26/2025
+Referring: Dr. M. Alvarez
+Author: Daniel Reyes, MD
+
+HPI: Mr Novak presents for eval of intermittent chest pain x 2 wks, exertional, assoc w/ mild dyspnea. Pt has smoked 1.5 packs per day since 1970 (do not calc pack-years here). Denies palpitations, syncope. Hx of HFrEF, T2DM, HTN, obesity, OSA on CPAP, asthma w/ occasional wheeze.
+
+[Copied forward from prior visit 03/14/2019 - retained for continuity, not all current]:
+"Pt seen for routine f/u of CHF. Weight stable. Lisinopril, metoprolol succ, furosemide continued. Diet counseling given re: sodium restriction. A1c 7.1. CPAP compliance good per pt report. No chest pain at that time. Lungs clear, no wheeze noted. Pt educated on fluid restriction and daily weights."
+
+ROS: otherwise negative except as above.
+
+PMH: asthma, OSA, HFrEF, T2DM, HTN, obesity.
+
+Social History: Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated - see HPI, pt continues to smoke despite counseling]. Denies illicit drug use, occasional etoh.
+
+Exam: BP 148/86, HR 88, RR 18, SpO2 94% RA. Gen - obese male NAD. CV - RRR, S3 present, no murmur appreciated. Lungs - mild bibasilar crackles, no wheeze today. Ext - trace edema b/l.
+
+Labs/Studies: EKG - NSR, nonspecific ST changes. BNP pending. Echo from outside records EF 35%.
+
+Assessment/Plan:
+1. Chest pain, likely multifactorial - cardiac ischemia vs pulm etiology given asthma/OSA. Will obtain stress test, trend troponins.
+2. HFrEF - continue GDMT, consider uptitration of beta blocker as tolerated. Pt continues to smoke despite counseling; strongly advised cessation again today, discussed resources incl pharmacotherapy options.
+3. T2DM - continue metformin, monitor A1c.
+4. HTN - optimize control, add amlodipine if BP remains elevated.
+5. OSA - continue CPAP, reinforce compliance.
+6. Asthma - stable, continue current inhalers.
+Lung cancer screening was discussed in general terms w/ pt given hx.
+f/u in 4 wks or sooner if sx worsen.
+
+---
+ADDENDUM (later same day, 12/26/2025, 4:45pm):
+Spoke w/ pt by phone after initial note re: stress test scheduling logistics. Pt agreeable to schedule for next wk. Reiterated importance of smoking cessation counseling resources provided. No new complaints at this time. Will follow up per above plan.
+- D. Reyes, MD

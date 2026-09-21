@@ -1,0 +1,83 @@
+URGENT CARE VISIT NOTE
+Patient: Gloria Coleman (F), DOB 1/18/1959, Age 66
+Date of Service: January 18, 2025
+Author: Teresa Alvarez, NP (resident note, pending attending attestation)
+Attending: Dr. R. Kim, MD (attestation below)
+
+CHIEF COMPLAINT: Cough x 5 days, worsening.
+
+HPI: Ms. Coleman is a 66-year-old female with history of osteoarthritis and hypertension who presents today, January 18, 2025, with a 5-day history of dry cough that has become more productive over the last 24-48 hrs, associated with mild sore throat and low grade subjective fevers at home, no measured temps taken, she denies any chest pain, denies any hemoptysis, she does note some fatigue and decreased appetite the last two days. She was seen by her PCP last year for similar sx and it resolved with supportive care per patient report. She denies sick contacts although she states her granddaughter had a cold last week [inaudible] and she may have been exposed at a family gathering on Sunday, she also reports her allergies have been acting up which she attributes to the cough somewhat but it does not fully explain the productive nature of it, she has not tried any OTC meds yet other than tea with honey. No recent travel. No known COVID exposure that she is aware of, she has not tested.
+
+SOCIAL HISTORY: Patient has never smoked cigarettes. She reports rare social alcohol use, denies any illicit drug use. She lives with her husband, retired, denies occupational exposures of note.
+
+PAST MEDICAL HISTORY: Osteoarthritis (knees, bilateral), Hypertension.
+
+PAST SURGICAL HISTORY: Cholecystectomy (2010s, remote).
+
+MEDICATIONS (current, per chart, reviewed and reconciled today):
+1. Lisinopril 10mg PO daily
+2. Amlodipine 5mg PO daily
+3. Acetaminophen 500mg PO PRN pain
+4. Meloxicam 7.5mg PO daily
+5. Glucosamine/chondroitin OTC supplement daily
+6. Vitamin D3 2000 IU PO daily
+7. Calcium carbonate 600mg PO BID
+8. Loratadine 10mg PO PRN seasonal allergies
+9. Multivitamin PO daily
+10. Omeprazole 20mg PO daily PRN reflux
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS:
+Constitutional: Reports mild fatigue, low-grade subjective fevers, denies chills, denies unintentional weight loss.
+HEENT: Reports mild sore throat, denies ear pain, denies nasal congestion though later endorses some congestion, denies vision changes.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies lower extremity edema.
+Respiratory: Endorses cough as above, productive x 2 days, denies shortness of breath at rest, denies wheeze per patient though some noted on exam (see below), denies hemoptysis.
+Gastrointestinal: Denies nausea, denies vomiting, denies diarrhea, denies abdominal pain, decreased appetite as noted.
+Genitourinary: Denies dysuria, denies frequency.
+Musculoskeletal: Chronic bilateral knee pain, stable, no acute changes.
+Neurological: Denies headache, denies dizziness, denies focal weakness.
+Psychiatric: Denies depression, denies anxiety.
+Skin: No rashes reported.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: T 99.8F, HR 84, BP 138/82, RR 18, SpO2 96% on room air, Wt 165 lb.
+General: Alert, oriented, mild nasal congestion noted, no acute distress.
+HEENT: Oropharynx mildly erythematous, no exudates, TMs clear bilaterally, nares with mild erythema/edema.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mild expiratory wheeze bilateral bases, no rales, no rhonchi, good air movement bilaterally, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, knees with mild crepitus bilaterally, no effusion, no erythema.
+Skin: Warm, dry, no rash.
+Neuro: Grossly intact, no focal deficits.
+
+LABS/RESULTS (reviewed today):
+- Rapid strep 1/18/2025: Negative
+- Rapid COVID/Flu panel 1/18/2025: Negative for influenza A/B and COVID-19
+- CBC (from 1/18/2025): WBC 8.9, Hgb 13.1, Hct 39.2, Plt 245 - within normal limits
+- BMP (from 1/18/2025): Na 139, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.8, Glucose 98 - unremarkable
+- CRP (1/18/2025): 6.2 mg/L, mildly elevated
+- CXR PA/Lateral (1/18/2025): No acute cardiopulmonary process, no infiltrate, no effusion, heart size normal.
+- Lipid panel (from 11/2024, prior visit): Total chol 198, LDL 118, HDL 54, TG 130
+- A1c (from 11/2024): 5.6%
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral etiology given negative strep and flu/COVID testing, clear CXR.
+2. Hypertension, stable, well controlled on current regimen.
+3. Osteoarthritis, stable, chronic.
+
+PLAN:
+1. Supportive care for acute bronchitis - increase fluids, rest, guaifenesin PRN cough, honey/lemon tea as tolerated.
+2. Albuterol inhaler PRN given wheeze noted on exam, 2 puffs q4-6h PRN.
+3. Continue home antihypertensives, BP well controlled today.
+4. Continue meloxicam for OA, follow up with PCP for routine monitoring.
+5. Return precautions given for worsening SOB, high fever, chest pain, or symptoms persisting beyond 10-14 days.
+6. Discussed general health maintenance topics including age-appropriate screenings during visit; further discussion deferred to PCP given urgent care setting is not for screening not related to acute complaint.
+7. Follow up with PCP in 1-2 weeks or sooner if worsening.
+
+RTC PRN.
+
+---
+ATTESTATION: I have personally seen and examined the patient along with Teresa Alvarez, NP, and agree with the assessment and plan as documented above. Discussed case in detail with NP Alvarez. - R. Kim, MD, Attending, 1/18/2025.

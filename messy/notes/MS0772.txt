@@ -1,0 +1,75 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Patricia Brooks | DOB: 9/6/1972 | Age: 52 | Sex: F
+Date of Service: 09/06/2024
+Author: Gregory Tan, MD
+
+REASON FOR VISIT: Pre-operative evaluation for left total knee replacement, referred by orthopedic surgery.
+
+HPI: Ms. Brooks is a 52-year-old woman with history of coronary artery disease, atrial fibrillation, and heart failure with reduced ejection fraction who presents for pre-op medical clearance prior to knee replacement. She reports worsening knee pain limiting ambulation, denies chest pain at rest, reports occasional dyspnea on exertion which she attributes to her arthritis rather than cardiac symptoms she thincks, no orthopnea, no PND, denies palpitations though notes occasional fluttering feeling in chest lasting seconds [inaudible] resolves on its own she says it happens rarely and she isn't sure if related to her known afib, she is compliant with her anticoagulation and reports no bleeding events, weight has been stable, she is asking about clearance timeline for surgery which is tentatively scheduled in the next several weeks pending cardiology input.
+
+PAST MEDICAL HISTORY: CAD s/p prior stent (per pt), atrial fibrillation on anticoagulation, HFrEF (last known EF 35% per cardiology notes), hyperlipidemia, hypertension, osteoarthritis of bilateral knees worse on left.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Packs/day: 1.00
+Years: 17.00
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/week
+Drug use: Marijuana - patient reports use a few times a month, denies other illicit drugs
+Occupation: Retired administrative assistant
+Living situation: Lives with spouse, two-story home (stairs a concern post-op)
+Exercise: Limited due to knee pain
+
+MEDICATIONS:
+1. Metoprolol succinate 50 mg daily
+2. Apixaban 5 mg twice daily
+3. Furosemide 20 mg daily
+4. Lisinopril 10 mg daily
+5. Atorvastatin 40 mg nightly
+6. Spironolactone 25 mg daily
+7. Acetaminophen 650 mg PRN knee pain
+8. Multivitamin daily
+9. Vitamin D 1000 units daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, reports fatigue at baseline.
+Cardiovascular: As above, denies chest pain, denies syncope, occasional palpitations as noted, denies lower extremity edema currently though has had in past.
+Respiratory: Denies cough, denies hemoptysis, denies wheeze, mild dyspnea on exertion as above.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Chronic bilateral knee pain, left greater than right, limiting ambulation, positive for morning stiffness.
+Neuro: Denies focal weakness, numbness, headache, denies syncope or near syncope.
+Skin: No rashes, no lesions.
+Psych: Denies depression, denies anxiety, sleep adequate though sometimes interrupted she says by needing to use the restroom at night.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 74 irregularly irregular, RR 16, SpO2 96% RA, Temp 98.2F, Wt 168 lbs, Ht 5'5"
+General: Well-appearing woman in no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, sclerae anicteric, oropharynx clear.
+Neck: No JVD appreciated, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm consistent with known afib, no murmurs appreciated though exam somewhat limited by body habitus, no gallops, no rubs.
+Lungs: Clear to auscultation bilaterally, no wheezes, no rales, no rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: Trace edema bilateral lower extremities, no calf tenderness, pulses palpable, left knee with crepitus and mild effusion, decreased range of motion.
+Skin: Warm, dry, intact.
+Neuro: Grossly intact, no focal deficits.
+
+ASSESSMENT/PLAN:
+52 y/o F with CAD, afib on anticoagulation, HFrEF presenting for pre-op eval prior to left TKA.
+1. Cardiac risk stratification - will coordinate with cardiology given HFrEF and afib, obtain recent EKG and echo if not already on file, consider stress test if indicated based on functional status.
+2. Atrial fibrillation - continue apixaban, hold per orthopedic/anesthesia bridging protocol closer to surgery date, will defer specifics to cardiology and surgical team.
+3. HFrEF - continue guideline directed medical therapy, monitor volume status pre and post-operatively, continue furosemide.
+4. Tobacco cessation - patient is a former smoker, reinforced continued abstinence, discussed importance for surgical wound healing and pulmonary risk reduction.
+5. Marijuana use - counseled regarding use, discussed potential interactions with anesthesia and recommended disclosure to anesthesia team pre-operatively.
+6. Osteoarthritis - proceeding with orthopedic surgical plan for left TKA, continue acetaminophen for pain control.
+7. Lung cancer screening was discussed briefly given tobacco history; further discussion deferred to primary care follow up.
+8. Follow up after cardiology clearance obtained, patient to call with any new symptoms including chest pain, worsening shortness of breath, or palpitations.
+
+Gregory Tan, MD
+
+ADDENDUM (later same day, 09/06/2024, 4:47 PM):
+Spoke with cardiology on call regarding pre-op clearance, they will review echo and EKG from prior visit and provide formal clearance note within 48 hours, patient notified by phone, no changes to plan above at this time, will update chart once cardiology note received. Reiterated to patient importance of continuing apixaban as directed unless otherwise instructed by surgical team regarding perioperative holding.
+Gregory Tan, MD

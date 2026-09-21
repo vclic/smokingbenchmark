@@ -1,0 +1,72 @@
+Internal Medicine Clinic Note
+
+Patient: GREEN, Donna    MRN: 38966800
+DOB: 05/07/1954    Age: 70 y.o.    Sex: Female
+Date of Service: 02/13/2025    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Follow-up hypertension
+
+Subjective:
+Donna Green is a 70 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 150s/70s. Admits to missing chlorthalidone 12.5 mg daily a few times a week. She is a former smoker; she smoked for 47 years and quit on December 23, 2017. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension	2017
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• chlorthalidone 12.5 mg daily
+• lisinopril 40 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+    Quit date: 12/23/2017
+    Years since quitting: 7.1
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with husband and adult son.
+  Retired, former teacher.
+  Alcohol: rare.
+  No IVDU.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+ROS: MSK neg, Gen neg, Resp neg, GU neg, Neuro neg, CV neg, Skin neg, GI neg
+
+Objective:
+Vitals:
+  BP 128/93 (BP Location: Right arm, Patient Position: Sitting) | Pulse 79 | Temp 97.9 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 154 lb | SpO2 95% | BMI 23.40 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (January 6, 2025): LDL 75, Cr 0.78, K 4.6
+
+Assessment & Plan
+1. Hypertension
+   Above goal. Add amlodipine 5 mg daily. Low-sodium diet reviewed. Recheck 1 month.
+
+f/u 3 mo
+
+Electronically signed by Laura Castellano, FNP-C on 02/13/2025

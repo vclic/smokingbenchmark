@@ -1,0 +1,41 @@
+TELEHEALTH F/U VISIT - Hospital Discharge (Pneumonia)
+Date of Service: 06/10/2025
+Provider: Daniel Reyes, MD
+Patient: Robert Butler, M, DOB 06/10/1966 (age 59)
+
+HPI:
+Pt is a 59 yo M s/p recent hosp d/c for CAP, seen today via telehealth for f/u. Reports improving cough and energy, no fever, mild SOB w/ exertion. Denies chest pain. Using rescue inhaler PRN for asthma flares assoc'd w/ recent illness. Osteoarthritis stable, uses APAP prn.
+
+Problem List:
+- J45.909 Asthma, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- J18.9 Pneumonia, unspecified organism (recent d/c dx)
+- I10 Essential hypertension (old, appears resolved off meds per chart - outdated?)
+
+SOCIAL HISTORY (EHR Template):
+Alcohol use: Not on file
+Illicit drug use: Denies
+Tobacco use: Current every day smoker
+  - Cigarettes: Yes
+    - Smoked 1/4 pack per day (~5 cigs/day) for 14 years, then increased to 1/2 pack per day (~10 cigs/day) for 26 years and continues smoking at that rate currently
+  - Previously quit 2009, relapsed 2010
+  - Smokeless tobacco: Denies
+  - E-cigs/vaping: Not on file
+Occupation: Retired
+Exercise: Not on file
+
+ROS: Otherwise negative except as above.
+
+Exam (limited, telehealth):
+Gen: NAD, conversing in full sentences.
+Resp: Denies increased WOB on cam, states lungs feel clearer than at d/c.
+No other exam performed given telehealth format.
+
+Assessment/Plan:
+1. Pneumonia, resolving s/p recent hospitalization - continue current abx course to completion, f/u CXR in 6 wks if not already done.
+2. Asthma - stable, continue current inhalers, reviewed technique.
+3. Osteoarthritis - stable, continue conservative mgmt.
+4. Tobacco use, current - counseled extensively on cessation given recent pulmonary illness; discussed nicotine replacement options and quitline referral. Pt currently smokes cigarettes and was advised to quit. General discussion held regarding lung health monitoring options going forward.
+5. F/u in 2 wks or sooner if worsening sx.
+
+Electronically signed: Daniel Reyes, MD

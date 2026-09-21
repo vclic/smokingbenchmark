@@ -1,0 +1,46 @@
+PULMONOLOGY CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Patient: Carmen Jones | DOB: 4/11/1949 (age 76) | DOS: 4/11/2025
+Author: Farah Siddiqui, MD
+
+Dear Dr. colleague,
+
+Thank you for referring Ms. Jones, a 76-year-old woman, for follow-up of an incidentally noted lung nodule identified on prior imaging.
+
+HPI: Ms. Jones returns today for surveillance of a right upper lobe pulmonary nodule first seen on CT chest obtained during an ED visit for cough. She denies hemoptysis, unintentional weight loss, or fevers. She reports mild dyspnea on exertion, stable from prior visits, attributable in part to deconditioning and osteoarthritis. She continues to smoke and has done so for 59 years, per her report today. She has been counseled extensively regarding smoking cessation resources including nicotine replacement and referral to a quitline; she remains ambivalent about quitting at this time.
+
+SOCIAL HISTORY: Active smoker. Lives alone, independent with ADLs, uses a cane for ambulation due to knee OA. No alcohol or illicit drug use reported. Retired schoolteacher.
+
+[Copied from note dated 1/11/2024]: "Social history: current smoker." (No further quantitative detail was documented in that note; reproduced here for continuity of records per clinic template.)
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- E78.5 Hyperlipidemia
+- M19.90 Osteoarthritis, unspecified site
+- F32.9 Major depressive disorder, unspecified (note: this code may be outdated, pt reports depression is in remission, on stable medication)
+- R91.1 Solitary pulmonary nodule (current, being followed)
+- I10 Essential hypertension (listed on old problem list, patient reports no longer applicable, to reconcile)
+
+MEDICATIONS: Atorvastatin 20 mg daily, sertraline 50 mg daily, acetaminophen PRN for joint pain, occasional NSAID.
+
+RESULTS:
+CT chest without contrast, 1/10/2024: 8 mm solid nodule, right upper lobe, no calcification, no lymphadenopathy.
+CT chest without contrast, 4/2/2025: nodule now measures 8 mm, stable in size and morphology.
+Lipid panel, 3/15/2025: Total cholesterol 178, LDL 96, HDL 52, Triglycerides 140.
+Pulmonary function tests, 2/2/2024: FEV1 78% predicted, FVC 82% predicted, FEV1/FVC 0.71.
+CBC, 4/2/2025: within normal limits.
+
+EXAM: Vitals stable, afebrile, SpO2 96% on room air. Lungs with mild diffuse expiratory wheeze, no crackles. Cardiac exam regular rate and rhythm, no murmurs. No clubbing or cyanosis. Musculoskeletal exam notable for crepitus and mild effusion of bilateral knees, consistent with known osteoarthritis.
+
+ASSESSMENT AND PLAN:
+1. Solitary pulmonary nodule, right upper lobe, stable in size on serial imaging over approximately 15 months. Given long smoking history (patient reports smoking for 59 years) and status as an active smoker, will continue surveillance per Fleischner guidelines. Repeat imaging recommended in 6 months; general discussion held with patient regarding the role of ongoing surveillance imaging for nodule monitoring.
+2. Active smoker: continued counseling provided today regarding cessation; discussed nicotine replacement therapy, bupropion, and behavioral counseling referral. Patient will consider options and follow up.
+3. Hyperlipidemia: stable on atorvastatin, recent lipid panel reviewed and within reasonable range, continue current dose.
+4. Osteoarthritis: stable, continue conservative management, refer to orthopedics if worsening.
+5. Depression: stable on sertraline, patient denies current symptoms, will continue current regimen and defer further management to primary care/psychiatry.
+
+Follow-up in pulmonology clinic in 6 months with repeat imaging, sooner if new symptoms arise.
+
+Thank you again for this referral. Please contact our office with any questions.
+
+Sincerely,
+Farah Siddiqui, MD
+Pulmonology

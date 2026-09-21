@@ -1,0 +1,57 @@
+RESIDENT NOTE - PULMONOLOGY CLINIC
+Patient: Cheryl Butler | DOB: 2/9/1947 | Age: 77 F
+DOS: 02/09/2024
+Author: Rachel Goldberg, MD (resident); attending attestation appended below
+
+CC: f/u after recent COPD exac, ED visit last wk, now d/c'd home on prednisone taper + abx.
+
+HPI: 77 yo F w/ h/o COPD, AFib, PAD, depression, hypothyroidism, gout, GERD p/w f/u after ED visit for COPD exacerbation. Reports improved dyspnea since starting steroid taper, still c/o mild productive cough, denies fever/chills. Sats stable on RA at rest, desats w/ ambulation to low 90s. No chest pain, no palpitations noted currently, AFib on rate control at baseline.
+
+SOCIAL HISTORY: Tobacco use - pt has significant smoking hx. Smoked approx 1/2 pack (~10 cigs) per day x 28 yrs, then quit completely for 5 yrs, subsequently restarted at a lower level, approx 1/4 pack (~5 cigs) per day x 28 yrs and continues to smoke to this day. Current status: active smoker. Counseled again re: smoking cessation resources, pt states she has tried patches in past w/o success, open to discussing again.
+EtOH: pt quit drinking alcohol in 2012, denies current use.
+No illicit drug use reported.
+
+ROS: Otherwise negative except as above. Denies weight loss, hemoptysis currently.
+
+MEDS: albuterol MDI prn, tiotropium daily, levothyroxine, sertraline, allopurinol, omeprazole, apixaban, metoprolol succinate. Prednisone taper per ED d/c instructions.
+
+PHYSICAL EXAM:
+VS: BP 132/78, HR 82 irreg irreg, RR 18, SpO2 94% RA, Temp 97.8F
+Gen: NAD, comfortable, mild use of accessory muscles
+CV: irregularly irregular rhythm, no m/r/g
+Resp: diffuse expiratory wheezes, mildly prolonged expiratory phase, no crackles
+Ext: no edema, PAD-related skin changes noted on b/l LE, pulses diminished but palpable
+Psych: mood euthymic, appropriate affect
+
+LABS/IMAGING: CXR from ED reviewed - hyperinflation, no acute infiltrate. BMP wnl. TSH pending.
+
+PROBLEM LIST:
+1. COPD w/ acute exacerbation - J44.1
+2. Atrial fibrillation - I48.91
+3. Peripheral artery disease - I73.9
+4. Depression - F32.9 (chronic, stable)
+5. Hypothyroidism - E03.9
+6. Gout - M10.9
+7. GERD - K21.9
+8. Tobacco use disorder - Z72.0
+9. HTN - I10 (outdated, pt normotensive x2 yrs, consider removing)
+
+ASSESSMENT/PLAN:
+77 yo F w/ COPD exac, improving on current tx.
+1. COPD - continue prednisone taper, cont inhalers, f/u PFTs in 4-6 wks once stable. Smoking cessation d/w pt again at length given ongoing active use; screening for lung ca was discussed generally as a topic for future conversation but not ordered today.
+2. AFib - continue apixaban, metoprolol, rate appears controlled today.
+3. PAD - continue current mgmt, vascular f/u as scheduled.
+4. Depression - stable on sertraline, continue.
+5. Hypothyroidism - awaiting TSH result.
+6. Gout - asymptomatic currently, continue allopurinol.
+7. GERD - continue omeprazole.
+
+RTC in 4 wks or sooner if worsening sx. Pt verbalized understanding.
+
+--- ATTENDING ATTESTATION ---
+Seen and examined pt w/ Dr. Goldberg, agree w/ above assessment and plan. Discussed extensively pt's long-standing tobacco use pattern and importance of cessation resources given active smoking status. Will continue to monitor COPD closely.
+- Dr. Marcus Feld, Attending Pulmonology
+
+--- ADDENDUM (later same day, 02/09/2024) ---
+Pt called back to clinic nurse line later this afternoon asking about her steroid taper schedule - clarified instructions given verbally, pt verbalized understanding of taper dosing. No new concerns reported. Will continue as planned above.
+- R. Goldberg, MD

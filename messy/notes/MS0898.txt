@@ -1,0 +1,55 @@
+CARDIOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: James Miller | DOB: 2/9/1948 (age 77) | DOS: 12/24/2025
+Author: Laura Castellano, FNP-C
+
+Re: Heart failure follow-up
+
+Dear Dr. colleague,
+
+Thank you for referring Mr. Miller, a 77-year-old male, for continued management of his heart failure. He was seen today, 12/24/2025, for routine follow-up.
+
+HPI: Pt reports doing reasonably well since last visit. Denies orthopnea, PND, or significant lower extremity edema. Some mild dyspnea on exertion, stable from prior. Weight stable per home scale log. No chest pain, palpitations noted although hx of atrial fibrillation - currently rate-controlled per pt report. Adherent to diuretic regimen. No recent hospitalizations. Reviewed meds - no new OTC supplements. Diet: reports low-sodium efforts, occasional lapses at holidays.
+
+PMH: Heart failure, atrial fibrillation, hyperlipidemia, osteoporosis, osteoarthritis, obesity.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Packs/day: 2.00
+Years: 36.00
+Smokeless tobacco: Not on file
+Alcohol use: Quit 2022
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+ROS: Constitutional - denies fever, chills, unintentional weight loss. Cardiac - as above. Resp - denies cough, hemoptysis, wheeze. GI - denies nausea, vomiting, abd pain. GU - denies dysuria, hematuria. MSK - chronic knee pain c/w known OA, stable. Neuro - denies focal weakness, numbness. Skin - no new rashes/lesions. Psych - denies depression/anxiety symptoms. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM: Vitals: BP 128/76, HR 68 irregularly irregular, RR 16, SpO2 96% RA, Wt 198 lb, BMI 33.
+General: NAD, well-appearing elderly male.
+HEENT: NC/AT, no JVD appreciated.
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated today.
+Resp: CTAB, no wheeze/rales/rhonchi.
+Abd: soft, NT/ND, no HSM.
+Ext: no significant edema, no clubbing/cyanosis.
+Skin: warm, dry.
+Neuro: A&Ox3, no gross focal deficits.
+
+MEDICATIONS: Metoprolol succinate 50mg daily, Furosemide 20mg daily, Apixaban 5mg BID, Atorvastatin 40mg qHS, Alendronate 70mg weekly, Acetaminophen 650mg PRN, Vitamin D3 2000 IU daily, Calcium carbonate 600mg BID.
+
+ASSESSMENT/PLAN:
+1. Heart failure - stable, continue current regimen, f/u 3 months.
+2. Atrial fibrillation - rate controlled, continue apixaban for anticoagulation.
+3. Tobacco history - former smoker per social history block above (quit smoking in 2006); no current use. Advised continued abstinence; lung cancer screening was discussed with the patient.
+4. Hyperlipidemia - continue statin, recheck lipid panel at next visit.
+5. Osteoporosis - continue alendronate and supplements, DEXA due next year.
+6. Osteoarthritis - continue acetaminophen PRN, discussed weight management given obesity.
+7. Obesity - counseled on diet/exercise, low-sodium diet emphasized given HF.
+8. Alcohol - notably quit alcohol in 2022; reinforced continued abstinence.
+
+Follow-up in cardiology clinic in 3 months or sooner if symptoms worsen.
+
+Thank you again for this referral. Please contact our office with any questions.
+
+Sincerely,
+Laura Castellano, FNP-C

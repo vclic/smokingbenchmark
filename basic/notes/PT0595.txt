@@ -1,0 +1,42 @@
+Family Medicine Clinic Note
+Date of Service: February 19, 2024
+Pt: Carol Taylor   DOB: 11/26/1949   MRN: 44007225
+
+SUBJECTIVE:
+CC: COPD follow-up
+HPI: 74-year-old female w/ COPD, CKD3, HLD here for follow-up of COPD. Baseline dyspnea after walking 1-2 blocks. No exacerbations in the past year. Using albuterol daily lately. Cough productive of white sputum.
+
+PMH: COPD, HLD, CKD3
+PSH: Left inguinal hernia repair (2011)
+Meds: atorvastatin 20 mg daily; albuterol HFA 2 puffs q4-6h PRN; multivitamin daily; tiotropium 18 mcg inhaled daily
+Allergies: Latex
+Social History:
+- Lives with husband and adult son.
+- Retired, former engineer.
+- Drinks a glass of wine with dinner.
+- No IVDU.
+FH: Mother - breast cancer at 70. Father - colon cancer at 68.
+ROS: 10-point ROS otherwise negative.
+
+O:
+Vitals: BP: 120/82  HR: 65  RR: 18  Temp: 98.3 F  SpO2: 89% on RA  Wt: 118 lbs  BMI: 22.2
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. COPD: Stable. Continue maintenance inhaler; rescue albuterol PRN. Pneumococcal and RSV vaccines reviewed.
+2. Hyperlipidemia: Continue statin. Lipid panel due.
+3. CKD 3b: Cr stable. Avoid NSAIDs.
+4. Hx tobacco use: Smoking hx: 0.5-0.75 ppd x 41yrs. Encouraged continued abstinence.
+
+RTC 3 months.
+
+-- BO (MD)

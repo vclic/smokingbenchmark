@@ -1,0 +1,36 @@
+Family Medicine Annual Wellness Visit
+DOS: 08/12/2025
+Author: Owen Fitzgerald, MD
+Patient: Yolanda Harris, F, DOB 7/9/1963 (age 62)
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI: Ms. Harris presents for her yearly physical, in general feeling okay, some intermittent joint pain in her knees which is chronic, GERD sx controlled on current regimen. Smoking history reviewed in detail today: pt smoked half a pack (about 10 cigarettes) per day for 29 years, then cut back to a quarter pack (about 5 cigarettes) per day for 15 years and continues to smoke at that reduced rate currently. She reports she previously quit smoking in 2009 but relapsed in 2011. She currently smokes cigarettes, counseling given regarding cessation resources, she states she is not ready to quit at this time. She denies chest pain, denies hemoptysis, denies unintentional weight loss. Discussed lung cancer screening in general terms as part of preventive care conversation.
+
+[Copy-forward from visit dated 03/02/2024]: Pt is a 60 yo F here for f/u of DM2 and HTN, A1c stable, on metformin, reports occasional hypoglycemia sx in the AM, denies polyuria/polydipsia, feet checked no ulcers noted, monofilament exam intact, will cont current meds, RTC 6 months, pt also endorses occasional reflux sx worse at night [inaudible] taking OTC antacids prn, will consider adding PPI if not improved, and she was scheduled for bone density scan given her hx which she has not yet the completed the the scheduling of at that time.
+
+PROBLEM LIST:
+- K21.9 GERD
+- M19.90 Osteoarthritis, unspecified site
+- I25.10 Coronary artery disease
+- M81.0 Osteoporosis (age-related)
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified
+- Z87.891 Personal history of nicotine dependence (outdated entry, pt is current smoker per today's visit)
+
+RESULTS:
+- Lipid panel 07/28/2025: LDL 118, HDL 52, TG 140
+- HbA1c 07/28/2025: 6.9%
+- DEXA scan 11/15/2023: T-score -2.6 lumbar spine
+- BMP 07/28/2025: Cr 0.9, K 4.1
+
+ASSESSMENT/PLAN:
+1. GERD - continue omeprazole, dietary counseling.
+2. Osteoarthritis - continue NSAIDs prn, PT referral considered.
+3. CAD - continue statin, ASA, follow with cardiology.
+4. Osteoporosis - continue calcium/vit D, repeat DEXA due.
+5. T2DM - continue metformin, recheck A1c in 3 months.
+6. Asthma - continue albuterol prn, no exacerbations reported.
+7. Tobacco use - current smoker, counseled on cessation, discussed nicotine replacement options.
+
+Addendum (later same day, 08/12/2025, added by Dr. Fitzgerald): Pt called after visit to clarify she has been taking her calcium supplement inconsistently, advised to resume daily dosing. No other changes to plan.

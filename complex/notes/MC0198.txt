@@ -1,0 +1,71 @@
+Internal Medicine – History & Physical
+Patient: Steven Jackson (M), DOB 2/27/1967, Age 56
+Date of Service: 11/10/2023
+Author: Hannah Weiss, NP
+
+CHIEF COMPLAINT: Follow-up for hypertension and diabetes.
+
+HPI: Mr Jackson is a 56 year old male here today for routine f/u of HTN and T2DM, also being followed for afib, asthma, GERD, CAD and BPH. He reports doing fairly well overall, denies chest pain, denies palpitations though notes occasional skipped beats that resolve on there own. Blood sugars have been running 110-140 per home glucometer log, occasionally higher after big meals (his wife's cooking, he jokes). He is compliant with meds mostly but admits missing doses of metformin on weekends [inaudible] due to travel schedule. No new SOB, no orthopnea, no lower extremity edema noted today by pt. He continues to use albuterol PRN for asthma flares, maybe 1-2x/week, mostly with pollen or cold air exposure.
+
+SOCIAL HISTORY: Patient is a lifelong non-smoker, denies ever smoking cigarettes cigars or vaping products. Drinks alcohol socially, ~1-2 glasses wine per week. Denies illicit drug use. Married, retired postal worker, lives with spouse in single level home. Diet reviewed, counseled on reducing sodium/carb intake.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss/gain.
+Eyes: denies visual changes, denies eye pain.
+ENT: denies sore throat, denies hearing loss.
+Cardiovascular: reports occasional palpitations as above, denies syncope, denies chest pain at rest.
+Respiratory: reports occasional wheeze, denies hemoptysis, denies persistent cough.
+GI: reports intermittent heartburn, controlled on current regimen, denies hematochezia, denies melena.
+GU: reports mild nocturia x2, known BPH, denies dysuria, denies hematuria.
+Musculoskeletal: denies joint pain, denies swelling.
+Skin: denies rash, denies new lesions.
+Neuro: denies headache, denies numbness/tingling, denies focal weakness.
+Psych: denies depression, denies anxiety, sleep adequate.
+All other systems reviewed and are negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, Temp 98.2F, Wt 210 lb, BMI 31.4
+General: well-appearing male, NAD, alert and oriented x3
+HEENT: normocephalic atraumatic, PERRLA, oropharynx clear, no exudate
+Neck: no JVD, no thyromegaly, no lymphadenopathy
+Cardiovascular: irregularly irregular rhythm consistent with known afib, no murmurs rubs or gallops appreciated, pulses 2+ throughout
+Respiratory: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+Abdomen: soft nontender nondistended, normoactive bowel sounds, no hepatosplenomegaly
+Extremities: no edema, no cyanosis, no clubbing
+Skin: warm dry intact, no rashes
+Neuro: cranial nerves II-XII grossly intact, strength 5/5 throughout, gait steady
+
+PROBLEM LIST (ICD-10):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- I48.91 Atrial fibrillation, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- K21.9 GERD without esophagitis
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina pectoris
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms (outdated - pt now reports mild nocturia, may need update to N40.1)
+- E78.5 Hyperlipidemia, unspecified (dictated but chart last updated 2019, verify still active)
+
+MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Lisinopril 20mg PO daily
+3. Metoprolol succinate 50mg PO daily
+4. Apixaban 5mg PO BID
+5. Atorvastatin 40mg PO qHS
+6. Omeprazole 20mg PO daily
+7. Albuterol HFA inhaler PRN
+8. Tamsulosin 0.4mg PO qHS
+9. Aspirin 81mg (hold given on apixaban - to verify with cardiology, may be duplicative anticoagulation, needs reconciliation)
+
+ASSESSMENT/PLAN:
+56 year old male with HTN, T2DM, afib, asthma, GERD, CAD, BPH here for routine follow up dtd 11/10/2023.
+
+1. Hypertension - BP mildly elevated today at 138/84, continue current regimen, recheck in 3 months, reinforce low sodium diet.
+2. Type 2 DM - A1c pending from labs drawn today, continue metformin, discussed importance of medication adherence including weekends.
+3. Atrial fibrillation - rate appears controlled on exam, continue metoprolol and apixaban, no changes today, will obtain EKG.
+4. Asthma - mild intermittent symptoms, continue albuterol PRN, consider daily controller if symptoms increase.
+5. GERD - well controlled on omeprazole, continue current dose.
+6. CAD - stable, continue statin and lifestyle modification, no anginal symptoms today.
+7. BPH - mild nocturia reported, continue tamsulosin, will monitor, consider urology referral if worsens.
+8. Health maintenance - patient counselled regarding routine preventive care and vaccines, up to date per chart. As patient has no smoking history (lifelong non-smoker per patient report), lung cancer screening discussion deferred; no further tobacco cessation counseling indicated given non-smoker status. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Hannah Weiss, NP

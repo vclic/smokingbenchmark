@@ -1,0 +1,46 @@
+TELEHEALTH VISIT NOTE
+DOS: 01/01/2026
+Provider: Quentin Hale, PA-C (Pulmonology)
+Patient: Curtis Perez, M, DOB 01/01/1948 (age 78)
+
+CHIEF COMPLAINT: COPD f/u, telehealth.
+
+PROBLEM LIST:
+1. COPD, unspecified (J44.9)
+2. Asthma, unspecified (J45.909)
+3. CKD stage 3 (N18.3)
+4. Depression, unspecified (F32.9)
+5. Hypothyroidism (E03.9)
+6. BPH (N40.0)
+7. HTN (I10) - outdated, resolved per pt, retained on list
+8. GERD (K21.9) - old dx, not addressed x2 yrs
+
+[COPY-FORWARD FROM PRIOR VISIT 06/15/2024 - retained in chart, not updated]
+Pt seen for routine COPD/asthma f/u. Reports stable dyspnea on exertion, uses albuterol prn approx 1x/day. No fevers, no chest pain. O2 sat 94% RA in clinic. Lungs w/ mild expiratory wheeze bilat, no crackles. Cont current inhaler regimen - Symbicort 160/4.5 BID + albuterol prn. CKD stage 3 stable, last Cr 1.3, eGFR 52. Depression screening PHQ-9 = 6, stable on sertraline 50mg qd. TSH wnl on levothyroxine 50mcg. BPH sx stable on tamsulosin 0.4mg qhs, IPSS not repeated this visit. Recommend routine labs at next visit incl CMP, TSH. RTC 3 months.
+[END COPY-FORWARD]
+
+HPI (current, 01/01/2026):
+Pt is a 78 y/o M (DOB 1/1/1948) seen via telehealth for COPD follow-up. Reports occasional SOB with exertion, denies increase in cough, denies fevers/chills. Uses albuterol prn, maybe 2-3x/wk currently. No recent ED visits or hospitalizations. Sleeping ok, mood reportedly stable per pt report (no PHQ-9 done today given telehealth format). Denies chest pain, denies hemoptysis. Appetite fine. Reports occasional nocturia, consistent w/ known BPH, tamsulosin cont.
+
+ROS: Otherwise negative except as above. Denies weight loss, denies night sweats.
+
+PMH: COPD, asthma, CKD stage 3, depression, hypothyroidism, BPH. Remote hx HTN per problem list (pt states this resolved, no longer on antihypertensive per pt report, will verify at next in-person visit).
+
+MEDS (per last reconciliation): Symbicort 160/4.5 BID, albuterol HFA prn, sertraline 50mg qd, levothyroxine 50mcg qd, tamsulosin 0.4mg qhs.
+
+SOCIAL HX: Former smoker. Lives w/ spouse, retired, denies current EtOH use, denies illicit drug use.
+
+EXAM: Telehealth visit, limited exam. Pt appears comfortable, no acute distress noted on video. Speaking in full sentences without difficulty. No visible use of accessory muscles. Skin color normal per visualization.
+
+ASSESSMENT/PLAN:
+1. COPD (J44.9) - Stable per subjective report today. Smoking history reviewed in detail: pt smoked 1.5 packs per day for 27 years, then cut back to about three-quarters of a pack (roughly 15 cigarettes) per day for 20 years before quitting entirely. He is a former smoker overall. Quit history is notable - he first quit in 2011, restarted smoking in 2016, then quit for good in 2023. General discussion of ongoing pulmonary surveillance options had with pt; no imaging ordered at this visit. Cont current inhaler regimen, f/u in person in 3 months w/ spirometry.
+2. Asthma (J45.909) - Stable, no exacerbations reported. Cont Symbicort.
+3. CKD stage 3 (N18.3) - Will recheck CMP at next visit, no acute concerns today.
+4. Depression (F32.9) - Pt denies worsening mood, will do PHQ-9 at next in-person visit. Cont sertraline.
+5. Hypothyroidism (E03.9) - Cont levothyroxine, recheck TSH w/ next labs.
+6. BPH (N40.0) - Stable on tamsulosin, no new urinary sx of concern.
+7. HTN (I10) - Pt reports resolved/off meds, will reconcile at next in-person appt, remains on problem list pending verification.
+
+RTC 3 months in person, sooner if worsening sx. Pt verbalized understanding, no questions at this time. Telehealth visit concluded, total time approx 15 min.
+
+Electronically signed: Quentin Hale, PA-C

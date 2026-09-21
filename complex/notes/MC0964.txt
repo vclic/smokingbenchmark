@@ -1,0 +1,69 @@
+TELEHEALTH VISIT NOTE
+Family Medicine - Priya Raman, MD
+Date of Service: 11/09/2024
+
+Patient: Joyce Kim (F), DOB 09/05/1966, Age: 58
+Visit type: Telehealth, video, med refill f/u
+
+CHIEF COMPLAINT: refills - osteoporosis and HF meds, pt states pharmacy ran out last wk.
+
+HPI: 58 y/o female w/ h/o osteoporosis and heart failure w/ reduced EF, calling in for routine refill of home meds. Pt reports feeling 'ok', denies chest pain, denies acute SOB. Some ankle swelling noted per pt, mild, intermittent - denies orthopnea, sleeps fine on 2 pillows. Weight stable per home scale (pt states, not verified today given telehealth). Appetite fine. No new falls since last visit. Pt states she 'forgets sometimes' to take calcium supplement but otherwise compliant.
+
+ROS: Constitutional - no fever, no chills. CV - no chest pain, occasional mild ankle edema as above. Resp - no cough, no wheeze. GI - no nausea/vomiting. MSK - no new fractures, mild low back ache chronic. All other systems reviewed and negative except as noted above [inaudible portion during call, pt connection dropped briefly].
+
+PAST MEDICAL HISTORY:
+- Osteoporosis, on bisphosphonate therapy
+- Heart failure with reduced ejection fraction (HFrEF)
+
+SOCIAL HISTORY (templated block, EHR):
+Tobacco use status: Former/never - see note
+Smoking pack-years: Not on file
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, pt reports 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Walks daily, ~20 min
+Diet: 
+
+Smoking history detail (free text): Patient tried a few cigarettes as a teenager but never smoked regularly - no sustained tobacco use history reported at any point in her life. She denies current use and denies ever being a regular smoker.
+
+FAMILY HISTORY: Mother - osteoporosis, hip fracture in her 70s. Father - CAD, MI at age 65.
+
+MEDICATIONS (current, per chart, reviewed today):
+1. Alendronate 70mg weekly
+2. Calcium/Vitamin D supplement daily
+3. Carvedilol 
+4. Lisinopril
+5. Furosemide, low dose, as needed for edema
+6. Spironolactone
+
+ALLERGIES: NKDA
+
+VITALS: Not obtained today (telehealth visit, pt does not have home BP cuff working - states cuff 'batteries died'). Pt reports feeling generally well.
+
+PHYSICAL EXAM (limited, via video):
+General: Pt appears well, no acute distress, seated comfortably at home, good historian.
+CV: Unable to auscultate via telehealth. Pt denies palpitations.
+Resp: Pt breathing comfortably on camera, no visible respiratory distress, no use of accessory muscles noted.
+Extremities: Pt showed ankles on camera - mild bilateral edema appreciated, trace to 1+ visually.
+Skin: no rashes noted on visible areas.
+
+ASSESSMENT:
+1. Osteoporosis - stable, continue current regimen, refill alendronate.
+2. Heart failure with reduced EF - stable per pt report, mild edema noted, will continue current diuretic dose, refill all cardiac meds.
+3. Tobacco use - reviewed; patient has no history of regular smoking (tried a few cigarettes as a teenager only). No further counseling needed regarding cessation given lack of regular use history; general healthy lifestyle counseling given.
+
+PLAN:
+- Refill alendronate 70mg weekly x90 days
+- Refill carvedilol, lisinopril, furosemide, spironolactone per current doses
+- Recommend pt obtain new BP cuff batteries, monitor BP at home, log and send via portal
+- Recommend in-person visit in 3 months for full exam including cardiac auscultation and BP check
+- Discussed general lung health and preventive care topics briefly; screening options were discussed in general terms as part of routine preventive care conversation
+- Encourage continued daily walking, low sodium diet
+- Pt to call or message via portal if worsening SOB, weight gain >3lbs in 2 days, or increased edema
+- Labs: BMP, BNP ordered for next visit
+
+Follow-up: 3 months, in-person, or sooner PRN.
+
+Electronically signed by Priya Raman, MD - 11/09/2024

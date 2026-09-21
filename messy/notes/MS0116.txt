@@ -1,0 +1,85 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Maria Lopez
+DOB: 05/10/1947 (Age: 79)
+Date of Service: 05/10/2026
+Provider: Gregory Tan, MD, Internal Medicine
+
+Dear Dr. Ramirez,
+
+Thank you for referring Ms. Lopez for continued primary care follow-up. I had the pleasure of seeing her today, on her 79th birthday, for routine management of her hypertension and type 2 diabetes.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Lopez is a 79-year-old woman (DOB 5/10/1947) with a history of heart failure with reduced ejection fraction, GERD, and chronic kidney disease stage 3 who presents today for follow-up. She reports feeling "about the same as usual, maybe a little more tired in the afternoons." She denies chest pain, orthopnea, or PND. She states, "I take my water pill every morning like you told me." Her blood sugars at home have ranged 110-160 per her logbook. She continues to smoke cigarettes, averaging between half a pack and a full pack per day, and reports she has smoked for 62 years total, starting as a teenager. She is currently an active smoker and has not attempted cessation recently. When asked about quitting, she said, "I've tried before, but it's hard, doctor." She was again counseled on the benefits of smoking cessation and offered resources including nicotine replacement therapy and referral to a quitline, which she declined at this time.
+
+She denies fevers, chills, night sweats, hemoptysis, or unintentional weight loss. No new edema. No dysuria. Appetite stable. Sleep fair.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, weight loss.
+Eyes: No visual changes, no eye pain.
+ENT: No sore throat, no hearing loss.
+Cardiovascular: Denies chest pain, palpitations; reports mild fatigue as above. No orthopnea.
+Respiratory: Denies cough, wheeze, hemoptysis, dyspnea at rest.
+GI: Occasional heartburn, controlled with medication. No nausea, vomiting, diarrhea, constipation, hematochezia, or melena.
+GU: No dysuria, hematuria, frequency.
+Musculoskeletal: Mild bilateral knee stiffness, chronic, unchanged.
+Skin: No rashes, no new lesions.
+Neuro: No focal weakness, no numbness, no headaches.
+Psych: No depression, no anxiety symptoms endorsed.
+Endocrine: No polyuria, polydipsia beyond baseline.
+Heme/Lymph: No easy bruising, no lymphadenopathy.
+Allergic/Immunologic: No known allergies, no recurrent infections.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. I50.22 - Chronic systolic (congestive) heart failure with reduced ejection fraction
+2. I10 - Essential hypertension
+3. E11.9 - Type 2 diabetes mellitus without complications
+4. K21.9 - Gastroesophageal reflux disease
+5. N18.3 - Chronic kidney disease, stage 3
+6. M17.0 - Bilateral primary osteoarthritis of knee (chronic, stable)
+7. E78.5 - Hyperlipidemia (last addressed 2023, ongoing statin therapy)
+8. Z79.899 - Long term drug therapy (other) - carried forward from prior note, unclear relevance
+
+MEDICATIONS:
+1. Furosemide 40 mg PO daily
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Metformin 500 mg PO BID
+5. Empagliflozin 10 mg PO daily
+6. Omeprazole 20 mg PO daily
+7. Atorvastatin 20 mg PO nightly
+8. Aspirin 81 mg PO daily
+9. Potassium chloride 20 mEq PO daily
+10. Vitamin D3 1000 IU PO daily
+11. Calcium carbonate 500 mg PO BID (copy-forward, patient states not taking)
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/76, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Weight 152 lbs, BMI 27.4
+General: Elderly woman, mildly overweight, no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear, mucous membranes moist. Dentition fair, mild yellowing of teeth noted.
+Neck: No JVD appreciated at 30 degrees. No thyromegaly, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated. Trace bilateral lower extremity edema, unchanged from prior visit.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Slightly diminished breath sounds at bases bilaterally, no acute distress.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no organomegaly.
+Extremities: Trace edema bilaterally as noted, no clubbing or cyanosis.
+Skin: Warm, dry, intact, no rashes or lesions.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, no focal deficits.
+Psychiatric: Mood euthymic, affect appropriate.
+
+ASSESSMENT AND PLAN:
+1. Heart failure with reduced EF - stable on current regimen, continue furosemide, metoprolol succinate, lisinopril; recheck BNP and BMP today; encourage sodium restriction.
+2. Hypertension - well controlled today at 138/76, continue current antihypertensives.
+3. Type 2 diabetes mellitus - continue metformin and empagliflozin; check HbA1c today; reinforced dietary counseling.
+4. GERD - stable, continue omeprazole.
+5. CKD stage 3 - stable renal function per recent labs, continue monitoring, avoid nephrotoxic agents, renew potassium and metabolic panel today.
+6. Tobacco use, active smoker, half to one pack per day for 62 years - discussed cessation strategies including nicotine replacement therapy and behavioral counseling; patient declined referral at this time but agreed to reconsider. Given her chronic smoking history, screening options were discussed generally, though no imaging was ordered or scheduled today.
+7. Osteoarthritis of knees - continue acetaminophen PRN, consider physical therapy referral if symptoms worsen.
+8. Hyperlipidemia - continue atorvastatin, lipid panel to be rechecked at next visit.
+
+Follow-up in 3 months, sooner if symptoms worsen. Patient verbalized understanding of the plan.
+
+Thank you again for allowing me to participate in this patient's care.
+
+Sincerely,
+Gregory Tan, MD
+Internal Medicine

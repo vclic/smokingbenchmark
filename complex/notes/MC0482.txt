@@ -1,0 +1,47 @@
+Cardiology Progress Note
+Patient: Linda King (F), DOB 1/21/1945
+Date of Service: 01/21/2025
+Provider/Author: Teresa Alvarez, NP
+
+=== NURSE INTAKE ===
+Vitals: BP 132/76, HR 78 reg, RR 18, SpO2 94% RA, Wt 71 kg, Ht 160 cm
+Pt is an 80 y/o female here for HF follow up, accompanied by daughter today. Denies chest pain, reports mild ankle swelling x1 wk. Meds reviewed, no changes reported by pt.
+
+=== HPI ===
+Linda King is an 80 year old woman w/ hx of heart failure, COPD, depression and hypothyroidism who returns today for routine f/u of her heart failure. She notes some increase in bilat LE edema over past week, no orthopnea, no PND, sleeps on 1 pillow. Denies palpitations or syncope. Appetite fair, weight stable per home scale log. She continues to use her nebulizer prn for COPD flares, reports mild dyspnea w exertion unchanged from prior visit.
+
+Of note pt mentions she quit smoking when her youngest grandchild was born that grandchild just turned 1 yr old this year, she is very proud of staying smoke free since. She was tearful discussing how motivating this was for her.
+
+=== SOCIAL HISTORY ===
+Former smoker. Started smoking a quarter pack (about 5 cigarettes) per day at age 16 and continued at that same rate for many years until quitting in 2024. No current tobacco use. No illicit drug use. Occasional glass of wine with dinner, denies excessive etoh. Lives with daughter, ambulates independently with cane.
+
+=== REVIEW OF SYSTEMS ===
+Cardiac: + mild edema as above, - CP, - palpitations
+Resp: chronic cough stable, no hemoptysis, no fever
+Psych: mood reportedly improved on current regimen per pt, denies SI/HI
+Endo: no heat/cold intolerance, TSH monitored per PCP
+All other systems reviewed and negative except as noted in HPI.
+
+=== LABS/RESULTS ===
+BNP (01/20/2025): 410 pg/mL (elevated, improved from 520 pg/mL on 10/15/2024)
+Basic metabolic panel (01/20/2025): Na 138, K 4.2, Cl 101, CO2 24, BUN 22, Cr 1.0
+TSH (12/02/2024): 3.1 mIU/L (within normal limits on current levothyroxine dose)
+CBC (01/20/2025): WBC 6.8, Hgb 12.9, Plt 240 - unremarkable
+EKG (01/21/2025): sinus rhythm, rate 76, no acute ST changes, unchanged from prior
+
+=== EXAM ===
+Gen: NAD, well appearing elderly female
+CV: RRR, no murmurs appreciated, 1+ pitting edema bilat lower extremities to mid shin
+Resp: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+Abd: soft, nontender, nondistended
+Ext: no calf tenderness, edema as noted above
+Psych: mood euthymic, affect appropriate
+
+=== ASSESSMENT/PLAN ===
+1. Heart failure - mild volume overload, likely diet related vs med noncompliance. Will increase furosemide to 40mg daily x1 wk then reassess, pt to weigh daily and call if gain >3lbs. Continue lisinopril, metoprolol succinate.
+2. COPD - stable, continue tiotropium and albuterol prn. Given her smoking history (former smoker, quit 2024 after having started at age 16 smoking about a quarter pack/day and continuing that amount for years) she is at ongoing risk for exacerbations; encouraged continued abstinence and pulm follow up. Lung cancer screening was briefly discussed with pt, she will follow up with PCP regarding this separately.
+3. Depression - stable on current regimen, continue sertraline, reassess at next visit.
+4. Hypothyroidism - TSH wnl 12/02/2024, continue levothyroxine same dose.
+Return to clinic in 4 weeks or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Electronically signed: Teresa Alvarez, NP 01/21/2025

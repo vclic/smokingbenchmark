@@ -1,0 +1,48 @@
+URGENT CARE - PROGRESS NOTE
+DOS: 11/10/2025
+Provider: Farah Siddiqui, MD (NP progress note)
+Patient: Kathleen Campbell F DOB 4/15/1963 Age 62
+
+CC: cough x 5 days
+
+HPI: 62 yo F presents w/ cough, worse at night, +wheeze occasionally, no fever, denies hemoptysis. Hx asthma, uses albuterol prn, states inhaler running low. No sick contacts. Denies chest pain, mild sob w exertion. pt reports cough started after URI-like sx last wk, denies travel. Hx osteoporosis, on calcium/vit D. No recent falls or fractures. Pt denies smoking, has never smoked, lifelong non-smoker. ROS otherwise negative except mild fatigue.
+
+----- COPIED FORWARD FROM PRIOR VISIT (03/02/2022) -----
+CC: follow up osteoporosis and asthma mgmt
+HPI: Pt here for routine f/u, doing well overall, asthma well controlled on current regimen, no nocturnal sx, no rescue inhaler use >2x/wk. Osteoporosis stable per last DEXA, continues calcium/vit D3 fine w GI tolerance no issues reported. Denies new fx or falls. Denies chest pain palpitations edema. Pt reports adherence to meds good. Discussed importance of weight-bearing exercise and fall precautions. Pt understands and agrees w plan. Will cont current regimen f/u in 6 months or sooner if needed. Labs reviewed, unremarkable. Pt tolerating meds well no adverse effects noted. Continue monitoring.
+----- END COPIED TEXT -----
+
+SOCIAL HISTORY (templated):
+Tobacco use: Never smoker
+Pack-years: N/A
+Alcohol use: Quit drinking alcohol in 2005
+Drug use: Not on file
+Occupation: retired
+Living situation: Not on file
+Exercise: occasional walking
+
+PMH: asthma, osteoporosis
+PSH: none reported
+Meds: albuterol inhaler prn, calcium/vit D3, alendronate wkly
+Allergies: NKDA
+
+Vitals: T 98.2 HR 78 RR 18 BP 128/76 SpO2 96% RA
+
+Exam:
+Gen: NAD, alert, comfortable
+HEENT: nl, no pharyngeal erythema
+Lungs: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+CV: RRR no m/r/g
+Abd: soft NT ND
+Ext: no edema
+
+Assessment/Plan:
+1. Acute bronchitis / asthma exacerbation, mild - likely viral trigger. Continue albuterol prn, refill given. Consider short course prednisone if sx worsen. Pt educated on return precautions.
+2. Asthma - chronic, stable overall aside from current flare. f/u w PCP for routine mgmt.
+3. Osteoporosis - stable, continue current regimen, no acute issues today.
+4. Tobacco/lung risk: pt is a lifelong non-smoker, no tobacco counseling needed. Lung cancer screening discussed briefly given age but no further action taken today per pt preference and clinical judgment.
+5. Alcohol - pt reports quit drinking alcohol in 2005, no current concerns.
+
+Return precautions reviewed. Pt verbalizes understanding. f/u prn or sooner if worsening sx.
+
+Electronically signed: Farah Siddiqui, MD

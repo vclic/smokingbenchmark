@@ -1,0 +1,42 @@
+PULMONOLOGY H&P - COPD FOLLOW-UP
+Patient: Deborah Kowalski
+DOB: 03/10/1974
+Age: 52
+Date of Service: 03/10/2026
+Author: Isaac Moreno, PA-C
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Ms. Kowalski is a 52-year-old woman with COPD, CKD stage 3, and osteoarthritis who returns for routine follow-up. She reports stable dyspnea on exertion, no increase in cough or sputum production, no fevers. She uses her inhalers as prescribed and denies recent exacerbations or ED visits. She notes some knee pain limiting her exercise tolerance, attributed to her known osteoarthritis. She recalls trying a few cigarettes as a teenager but states she never smoked regularly after that. No current tobacco use, no vaping. She denies alcohol or illicit drug use.
+
+PAST MEDICAL HISTORY: COPD, CKD stage 3, osteoarthritis.
+
+SOCIAL HISTORY (templated):
+- Tobacco use: See HPI
+- Smokeless tobacco: Not on file
+- Alcohol use: Denies
+- Illicit drug use: Not on file
+- Occupation: Retired
+- Living situation: Lives with spouse
+- Exercise: Limited by joint pain
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. No hemoptysis, no unexplained weight loss, no chest pain.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, SpO2 95% RA, Temp 98.2F, BMI 27.
+General: Well-appearing, no acute distress.
+Lungs: Mild expiratory wheeze bilaterally, no crackles.
+CV: RRR, no murmurs.
+Extremities: No edema, mild crepitus at knees bilaterally.
+
+LABS/DATA: Recent BMP notable for eGFR consistent with known CKD stage 3, otherwise stable. Spirometry from last visit showed moderate obstruction, unchanged.
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable on current regimen. Continue tiotropium and albuterol PRN. Reinforced inhaler technique. Given her history of only trying a few cigarettes as a teenager and no regular smoking history, ongoing tobacco use is not felt to be a contributing factor to her disease progression.
+2. CKD stage 3: Continue nephrology follow-up, avoid NSAIDs given renal function; recommend acetaminophen for OA pain instead.
+3. Osteoarthritis: Continue conservative management, consider PT referral for knee strengthening.
+4. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed by Isaac Moreno, PA-C, 03/10/2026 10:42 AM.
+
+ADDENDUM (03/10/2026, 3:15 PM): Patient called clinic this afternoon to clarify that she has never smoked regularly at any point in her life beyond trying a few cigarettes as a teenager, wanted this documented clearly in her chart. No other changes to plan.

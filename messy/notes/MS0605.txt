@@ -1,0 +1,53 @@
+Pulmonology NP Progress Note
+Patient: Denise Patel | DOB: 03/12/1945 | Age: 80
+Date of Service: 03/12/2025
+Author: Owen Fitzgerald, MD (NP visit, co-signed)
+Visit type: Lung Cancer Screening Shared Decision-Making
+
+Problem List (ICD-10):
+E78.5 Hyperlipidemia
+I48.91 Atrial fibrillation
+E11.9 Type 2 diabetes mellitus
+I73.9 Peripheral artery disease
+F32.9 Major depressive disorder, unspecified
+J44.9 COPD (outdated, not current dx per chart review)
+
+HPI:
+Patient is an 80-year-old woman who presents today for a shared decision-making visit regarding lung cancer screening, referred from primary care. She states, "I quit smoking a long time ago, but my doctor said we should still talk about the CT scan." She reports no current respiratory complaints, denies hemoptysis, denies unintentional weight loss. She has occasional dyspnea on exertion which she attributes to PAD and deconditioning. No fevers, no chest pain. She denies any new cough. Cardiac history notable for atrial fibrillation, currently anticoagulated per PCP. Diabetes reportedly well controlled on metformin. She lives independently with her daughter nearby for support.
+
+Social History (EHR-templated block):
+Tobacco use status: Former smoker
+Years smoked: 37 years
+Packs per day: Not on file
+Pack-years: Not on file
+Quit date: November 2005
+Secondhand smoke exposure: Denies
+Alcohol use: Occasional, denies binge use
+Illicit drug use: Denies
+Living situation: Lives alone, daughter visits daily
+Occupation: Retired schoolteacher
+Exercise: Limited due to PAD symptoms
+
+ROS: Otherwise negative except as noted in HPI. Denies fever, chills, night sweats. Denies hemoptysis. Positive for mild fatigue.
+
+Physical Exam:
+Vitals: BP 132/76, HR 78 irregularly irregular, RR 16, SpO2 96% RA, Wt 142 lbs
+General: Well-appearing, no acute distress
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi
+CV: Irregularly irregular rhythm, no murmurs
+Extremities: Diminished pedal pulses bilaterally, no edema, consistent with known PAD
+Skin: No lesions
+
+Assessment/Plan:
+Denise Patel is an 80-year-old former smoker presenting today, 03/12/2025, for shared decision-making regarding lung cancer screening. She is a former smoker who quit smoking in November 2005; per the tobacco history block above she smoked for 37 years. Given her age and smoking history, we discussed the risks and benefits of lung cancer screening in detail, including potential for false positives, incidental findings, and the process of surveillance. She verbalized understanding. She had questions about radiation exposure, which were addressed. No decision regarding imaging was finalized today; further discussion will occur with her PCP.
+
+1. Lung cancer screening discussion - discussed benefits/risks, patient counseled, will continue discussion at next visit with PCP involvement.
+2. Atrial fibrillation - continue current anticoagulation per cardiology, rate well controlled today.
+3. Type 2 diabetes - continue metformin, A1c pending.
+4. Peripheral artery disease - continue antiplatelet therapy, vascular surgery follow-up as scheduled.
+5. Hyperlipidemia - continue statin, lipid panel due at next visit.
+6. Depression - stable on current regimen, PHQ-9 screening deferred to PCP.
+
+Follow-up: Return to pulmonology in 6 months or sooner if symptoms arise. Patient verbalized agreement with plan.
+
+Electronically signed: Owen Fitzgerald, MD

@@ -1,0 +1,30 @@
+NURSE INTAKE
+DOS: 07/19/2024
+Patient: Dorothy Coleman, F, DOB 3/1/1964, age 60.
+Vitals: BP 138/84, HR 78 irreg (known AFib), Wt 172 lb, Ht 5'4", BMI 29.5.
+SOCIAL HISTORY (templated):
+ Tobacco use: Former smoker
+ Alcohol: Not on file
+ Occupation: Retired
+ Living situation: Not on file
+ Exercise: Walks daily per pt
+
+PHYSICIAN PROGRESS NOTE - Owen Fitzgerald, MD
+HPI: Ms. Coleman here for f/u HTN, DM2. Reports home glucose logs 110-140s, occasional dizziness AM. States, "I feel pretty good overall, just tired some days." Denies chest pain, SOB at rest. Smoking hx: pt smoked 8 cigarettes per day for 38 years, quit smoking 2 years ago. She states, "I haven't touched a cigarette since I quit, feel better for it." No longer smokes.
+
+[Copied from note dated 11/19/2020]: "Patient is a current smoker." (No quantities given in that prior note; carried forward for historical reference only.)
+
+ROS: Constitutional: no fever, no weight loss. CV: no chest pain, known paroxysmal AFib, no palpitations today. Resp: no cough, no dyspnea. GI: no nausea/vomiting. GU: no dysuria. MSK: mild low back ache, stable, known osteoporosis. Endo: no polyuria/polydipsia currently. Neuro: no focal weakness. Skin: no rashes. Psych: mood stable.
+
+Physical Exam: General - well-appearing, NAD. HEENT - PERRLA, oropharynx clear. Neck - no thyromegaly. CV - irregularly irregular rhythm, no murmurs. Lungs - clear to auscultation bilaterally, no wheezes/rales. Abd - soft, nontender, nondistended. Ext - no edema. Skin - warm, dry. Neuro - grossly intact.
+
+Medications: Lisinopril 20mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Alendronate 70mg weekly, Apixaban 5mg BID, Atorvastatin 40mg daily, Calcium/Vitamin D supplement daily.
+
+Assessment/Plan:
+1. HTN - stable, continue lisinopril, recheck BP next visit.
+2. DM2 - fair control, continue metformin, repeat A1c in 3 months.
+3. Hypothyroidism - stable on current dose, TSH pending.
+4. Osteoporosis - continue alendronate, DEXA due next year.
+5. AFib - rate controlled, continue apixaban, cardiology f/u as scheduled.
+6. Tobacco - former smoker, quit 2 years ago; discussed lung cancer screening as a general topic with patient; continued encouragement given for maintaining abstinence.
+Return to clinic in 3 months or sooner if concerns.

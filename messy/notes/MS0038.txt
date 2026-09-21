@@ -1,0 +1,52 @@
+URGENT CARE PHYSICIAN PROGRESS NOTE
+Patient: Dennis Campbell (M), DOB: 03/28/1960 (age 65)
+Date of Service: 05/14/2025
+Author: Elena Markovic, MD
+
+CHIEF COMPLAINT: Cough
+
+HPI: Mr. Campbell is a 65-year-old male with hx of obesity, CKD stage 3, and GERD who presents today, 5/14/2025, with a cough x about 10 days, worse at night, non-productive mostly but occasionally brings up small amt of clear-ish sputum. He denies fevers though states "I've felt kinda run down, maybe chilled once or twice, not sure." No hemoptysis. No chest pain at rest, though he notes some tightness w/ coughing fits. Denies recent travel. Reports he "just can't shake this cough, it's driving me nuts." On further questioning regarding tobacco use, patient reports he continues to smoke, currently about a quarter pack per day (roughly 5 cigarettes/day), and has done so for 46 years. He says he has tried to cut back before but has not been able to quit entirely. He denies vaping or other nicotine products. No known COPD diagnosis though pt has never had spirometry done as far as records show.
+
+ROS: Constitutional - mild fatigue, denies weight loss. Resp - cough as above, denies dyspnea at rest, mild exertional SOB per pt "but that's probably just me being outta shape." Cardiac - denies palpitations, chest pain. GI - occasional reflux sx, on omeprazole. GU - no changes. All other systems reviewed and negative except as noted above [inaudible] patient continued talking over exam room noise, remainder of ROS obtained via chart review and consistent with prior visits.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Amount: 1/4 pack per day (~5 cigarettes/day)
+Duration: 46 years
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Occupation: Retired warehouse worker
+Living situation: Lives with spouse
+Exercise: Not on file
+
+[Copied from note dated 12/14/2023, unchanged since]: "Tobacco: current smoker." No further quantities documented in that prior note.
+
+PAST MEDICAL HISTORY: Obesity, CKD stage 3 (baseline creatinine per labs on file), GERD.
+
+MEDICATIONS: Omeprazole 20mg daily, Lisinopril (dose per chart), Metformin (dose per chart, pt reports occasional missed doses due to GI upset which he says "just makes everything worse honestly").
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 82, BP 138/86, RR 16, SpO2 96% on room air, Wt reflects known obesity, BMI elevated (per chart).
+General: Alert, mildly uncomfortable-appearing due to coughing episodes during visit, otherwise NAD.
+HEENT: Oropharynx mildly erythematous, no exudate. Nasal mucosa mildly congested.
+Neck: No LAD, no JVD.
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no rhonchi appreciated at this time, good air movement throughout.
+CV: RRR, no m/r/g.
+Abd: Soft, obese habitus, nontender, nondistended, no organomegaly appreciated.
+Extremities: No edema.
+Skin: No rashes noted.
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs early bronchitis. Given mild wheeze on exam and longstanding tobacco use (active smoker, approx quarter pack per day x46 years as above), will treat empirically with albuterol inhaler PRN and recommend supportive care - fluids, rest, OTC cough suppressant as tolerated. Return if worsening dyspnea, fever, hemoptysis, or symptoms persisting beyond 2 weeks.
+2. Tobacco use, active - counseled extensively today regarding smoking cessation, discussed available resources including cessation hotline and nicotine replacement options. Patient states he is "thinking about it" but not ready to set a quit date today. Given his age and extensive smoking history, lung cancer screening was discussed briefly as a topic for follow-up with his PCP; no imaging ordered from this visit.
+3. CKD stage 3 - stable, no acute intervention needed today, continue current management, recheck labs at routine intervals per nephrology/PCP.
+4. GERD - continue omeprazole, reinforce dietary modifications given obesity as contributing factor.
+5. Obesity - discussed weight management strategies briefly, deferred detailed counseling to PCP given time constraints of urgent care visit.
+
+Follow up with PCP within 1-2 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan and return precautions.
+
+Elena Markovic, MD

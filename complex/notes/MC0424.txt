@@ -1,0 +1,68 @@
+GERIATRIC ASSESSMENT - NURSE INTAKE
+Date of Service: 12/19/2023
+Patient: Priya Kim, F, DOB 10/07/1943 (age 80)
+Provider: Isaac Moreno, PA-C
+
+VITALS: BP 128/76, HR 74, RR 16, T 97.8F, SpO2 94% RA, Wt 138 lb, Ht 5'2"
+
+CC: Geriatric assessment / annual f/u for multiple chronic conditions.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Living situation: Lives with daughter
+Occupation: Retired seamstress
+Exercise: Not on file
+Diet: Not on file
+Caffeine use: 1 cup coffee/day
+
+HPI (per pt and daughter):
+Pt is an 80 yo female here today, 12/19/2023, for routine geriatric assessment. Daughter reports pt has been more fatigued but no acute complaints today. Denies chest pain, denies new SOB beyond baseline. Reports occasional urinary frequency, stable. Mood reportedly stable on current regimen, sleep somewhat disrupted per CPAP compliance issues (see below). No new falls. Appetite fair.
+
+ROS: Constitutional - fatigue, no fever/chills. Resp - chronic cough at baseline, no hemoptysis. GU - nocturia x2, no dysuria. Psych - denies SI/HI, mood stable. MSK - occasional gout flares in L great toe, currently asymptomatic. Skin - no rashes.
+
+PROBLEM LIST (with ICD-10):
+1. COPD, unspecified - J44.9 (dx 2015, on maintenance inhalers)
+2. BPH - N40.0 (on tamsulosin)
+3. Major depressive disorder, recurrent, mild - F33.0 (stable on sertraline)
+4. Gout, unspecified - M10.9 (last flare ~8 mo ago)
+5. Hyperlipidemia - E78.5 (on atorvastatin)
+6. Obstructive sleep apnea - G47.33 (on CPAP, variable compliance)
+7. HTN - I10 (outdated, pt states no longer on any BP meds, may need to remove from list)
+8. GERD - K21.9 (outdated, resolved per pt, on chart from 2016)
+
+MEDS: Tiotropium inhaler daily, albuterol PRN, tamsulosin 0.4mg qhs, sertraline 50mg daily, allopurinol 100mg daily, atorvastatin 20mg qhs.
+
+ALLERGIES: NKDA
+
+EXAM:
+Gen: Well-appearing elderly female, NAD, sitting comfortably.
+HEENT: NC/AT, EOMI, no scleral icterus.
+Neck: no JVD, no LAD, no thyromegaly.
+CV: RRR, no m/r/g.
+Resp: Diminished breath sounds bilat bases, mild expiratory wheeze, no crackles, no accessory muscle use at rest.
+Abd: soft, NT/ND, no organomegaly.
+Ext: no edema, gout changes noted at L 1st MTP, no active inflammation today.
+Neuro: A&Ox3, gait steady with cane, no focal deficits.
+Psych: mood euthymic, affect appropriate.
+
+ASSESSMENT/PLAN:
+Priya Kim is an 80 yo F (DOB 10/7/1943) seen today 12/19/2023 for geriatric assessment with multiple stable chronic conditions.
+
+1. COPD (J44.9) - Pt is a former smoker; smoking history notable for three distinct periods: 1.5 packs/day for 13 years, followed by 2 packs/day for 18 years, followed by 1 pack/day for 13 years, after which she quit smoking in 2008. Continue tiotropium and albuterol PRN. Encouraged pulm rehab referral, discussed vaccination status (flu/pneumococcal up to date). Given her extensive tobacco history, lung cancer screening was discussed with pt and daughter as a topic for further conversation with her PCP; no imaging ordered today.
+2. BPH (N40.0) - stable on tamsulosin, no new urinary retention sx, continue current regimen.
+3. Depression (F33.0) - stable mood on sertraline, continue, reassess at next visit, PHQ-9 to be repeated.
+4. Gout (M10.9) - asymptomatic today, continue allopurinol, avoid high-purine foods, f/u if flare.
+5. Hyperlipidemia (E78.5) - continue atorvastatin, lipid panel due, will order.
+6. OSA (G47.33) - CPAP compliance variable per daughter; will refer back to sleep medicine to re-eval mask fit and compliance data.
+7. HTN (I10) - pt reports no longer taking any antihypertensives and has not needed them; will remove from active problem list pending BP trend review, home BP log requested.
+8. GERD (K21.9) - appears resolved, no current sx, will remove from active problem list if remains asymptomatic.
+
+Geriatric assessment components reviewed today include fall risk (low, uses cane), polypharmacy review (list reconciled above, no obvious duplications), cognitive screen (MMSE deferred, will schedule), advance directive status (on file per pt, daughter to confirm copy in chart), and nutrition (adequate per report).
+
+RTC in 3 months or sooner if symptoms worsen. Daughter to call with any acute concerns. Pt educated on medication adherence, CPAP use importance for OSA management, and general fall precautions at home.
+
+Electronically signed: Isaac Moreno, PA-C
+Geriatrics Clinic
+12/19/2023

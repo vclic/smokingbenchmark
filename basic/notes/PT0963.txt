@@ -1,0 +1,78 @@
+General Medicine Clinic Office Visit
+
+Patient: JACKSON, Rosa    MRN: 69164327
+DOB: 06/21/1945    Age: 78 y.o.    Sex: Female
+Date of Service: 05/13/2024    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Rosa Jackson is a 78 y.o. female who presents for pre-operative evaluation prior to laparoscopic cholecystectomy.
+Scheduled for laparoscopic cholecystectomy on 30-May-2024. Can climb 2 flights of stairs without symptoms (>4 METs). No prior anesthesia complications.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Emphysema
+• Type 2 diabetes mellitus
+• Mixed hyperlipidemia	2005
+• Primary OA, bilateral knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• C-section x2 (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• metformin 1000 mg BID
+• rosuvastatin 20 mg daily
+• umeclidinium-vilanterol 62.5/25 1 inh daily
+• albuterol HFA 2 puffs q4-6h PRN
+• meloxicam 7.5 mg daily
+• ezetimibe 10 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: 15 cig/day for 43 yrs; quit 18y ago
+Social History Narrative
+  Lives with husband in a single-family home.
+  Retired, former nurse.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+
+Family History
+Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS: Gen neg, GU neg, Skin neg, Neuro neg, GI neg, CV neg, MSK neg
+
+Objective:
+Vitals:
+  BP 147/70 (BP Location: Left arm, Patient Position: Sitting) | Pulse 80 | Temp 98.9 °F (Oral) | Resp 12 | Ht 5' 7" | Wt 143 lb | SpO2 94% | BMI 22.42 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively.
+
+RTC 1 month.
+
+Electronically signed by Anita Patel, MD on 05/13/2024

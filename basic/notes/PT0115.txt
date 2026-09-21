@@ -1,0 +1,80 @@
+General Medicine Clinic Progress Note
+
+Patient: PEREZ, Priya    MRN: 70554746
+DOB: 03/22/1953    Age: 71 y.o.    Sex: Female
+Date of Service: 03/10/2025    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Priya Perez is a 71 y.o. female who presents for pre-operative evaluation prior to left total hip arthroplasty.
+Scheduled for left total hip arthroplasty on 4/2/2025. Functional capacity limited by pain, estimated 4 METs. No personal/family hx of anesthesia problems.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity	2022
+• Primary OA, bilateral knees
+• Gastroesophageal reflux disease
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pantoprazole 40 mg daily
+• diclofenac 1% gel QID PRN
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former truck driver.
+  Alcohol: rare.
+  Denies illicit drugs.
+  Drives.
+
+Family History
+Mother - dementia, d. 84. Parents deceased, causes unknown.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 124/75 (BP Location: Right arm, Patient Position: Sitting) | Pulse 89 | Temp 98.2 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 238 lb | SpO2 95% | BMI 36.19 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (February 2, 2025): LDL 81, Cr 0.80, K 4.2, Hgb 15.6
+
+Assessment & Plan
+1. Pre-operative evaluation
+   Low risk. CBC, BMP ordered.
+2. Gastroesophageal reflux disease
+   Symptoms controlled.
+3. Obesity
+   Discussed diet and exercise.
+4. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+5. Ex-smoker
+   Smoking hx: 0.75 ppd for 37 yrs, quit 3/20/2010. Continue annual LDCT. Remains abstinent.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Daniel Reyes, MD on 03/10/2025

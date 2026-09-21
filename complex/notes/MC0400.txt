@@ -1,0 +1,37 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Farah Siddiqui, MD
+Date of Service: 05/11/2026
+
+Patient: Wei Chen, M, DOB 5/8/1961 (age 65)
+
+CC: Heart failure follow-up, video visit.
+
+HPI: Mr. Chen is a 65-year-old man with hx of atrial fibrillation, HFrEF, PAD, obesity, and hypothyroidism, seen today via telehealth for routine HF follow-up. He reports feeling "pretty much the same as last time, maybe a little less winded going up the stairs." Denies orthopnea or PND. Weighs himself daily per instruction, states "I've kept my weight steady, no swelling in my legs." No chest pain, no palpitations reported this visit, though he notes occasional "flutter feeling" in the evenings that resolves spontaneously. Compliant with metoprolol succinate, furosemide, and apixaban per his report. Diet: trying to reduce sodium, admits to "cheating on holidays with soy sauce."
+
+Social History: Lifelong non-smoker. He does note he smokes a cigar a few times a year on holidays (not cigarettes) - describes this as an occasional tradition with extended family, denies any interest in cigarettes. Rare alcohol use, denies illicit drug use. Lives with spouse, retired engineer.
+
+PMH: Atrial fibrillation (on apixaban), heart failure with reduced ejection fraction, peripheral artery disease, obesity, hypothyroidism (on levothyroxine).
+
+Medications: Metoprolol succinate 50 mg daily, furosemide 20 mg daily, apixaban 5 mg BID, atorvastatin 40 mg daily, levothyroxine 88 mcg daily, aspirin discontinued given anticoagulation.
+
+Results/Labs:
+- BMP 05/09/2026: Na 138, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.1, eGFR 68
+- BNP 05/09/2026: 210 pg/mL (down from 340 pg/mL on 02/14/2026)
+- TSH 04/02/2026: 2.1 mIU/L (within goal on current levothyroxine dose)
+- INR not checked (on apixaban, no monitoring required)
+- Lipid panel 04/02/2026: LDL 78, HDL 42, TG 150
+- Echo 01/15/2026: LVEF 38%, mild-moderate MR, no significant valvular stenosis
+
+Vitals (via home cuff reported by patient): BP 118/74, HR 68 (irregularly irregular), weight 214 lb (stable from last visit).
+
+Assessment/Plan:
+1. Heart failure with reduced ejection fraction - clinically stable, improved BNP trend from 340 to 210. Continue current GDMT (metoprolol succinate, furosemide as needed for volume, consider uptitration of ARNI at next in-person visit). Reinforce daily weights and low-sodium diet.
+2. Atrial fibrillation - rate controlled on metoprolol, continue apixaban for stroke prophylaxis. No plan for cardioversion at this time given asymptomatic episodes.
+3. Peripheral artery disease - stable, continue atorvastatin, encourage walking program as tolerated.
+4. Obesity - discussed weight management, encouraged continued dietary moderation; will refer to nutrition if no improvement by next visit.
+5. Hypothyroidism - TSH at goal, continue current levothyroxine dose.
+6. Social history noted - patient is a lifelong non-smoker aside from occasional cigar use a few times a year on holidays; tobacco cessation counseling not indicated for cigarette use, but general risks of any tobacco/smoke exposure briefly reviewed given his cardiovascular history.
+
+Follow-up: Return to clinic in person in 3 months, sooner if symptoms worsen. Patient verbalized understanding, will contact office with any concerns.
+
+-- Farah Siddiqui, MD, Cardiology (Telehealth)

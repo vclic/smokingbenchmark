@@ -1,0 +1,68 @@
+Family Medicine Progress Note
+
+Patient: JENKINS, Carol    MRN: 97949866
+DOB: 02/08/1964    Age: 61 y.o.    Sex: Female
+Date of Service: 01/12/2026    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Carol Jenkins is a 61 y.o. female who presents for routine preventive care.
+No acute complaints today. Walks the dog daily. Eating out more since retiring.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension	2010
+• Osteoarthritis
+• Hypercholesterolemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 5 mg daily
+• lisinopril 10 mg daily
+• atorvastatin 40 mg daily
+• meloxicam 7.5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Married, lives with husband.
+  EtOH: 2-3 drinks on weekends.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS: Gen neg, GI neg, Resp neg, GU neg, CV neg
+
+Objective:
+Vitals:
+  BP 149/73 (BP Location: Left arm, Patient Position: Sitting) | Pulse 78 | Temp 98.1 °F (Oral) | Resp 14 | Ht 5' 6" | Wt 175 lb | SpO2 97% | BMI 28.23 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (12/31/2025): LDL 92, Cr 0.97, K 4.2
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2025 - 2 tubular adenomas, repeat 5 yrs; Mammogram 8/12/2025 - BI-RADS 1; Shingrix #1 today; Pneumococcal vaccine up to date; Lung cancer screening: not indicated (never smoker).
+2. Lung cancer screening
+   Never smoker; LCS not indicated.
+3. Osteoarthritis
+   Continue PRN analgesics; home exercises.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Catherine Lindqvist, DO on 01/12/2026

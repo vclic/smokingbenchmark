@@ -1,0 +1,57 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 04/01/2024
+Provider: Farah Siddiqui, MD
+Visit Type: New Patient - Establish Care (Primary Care, telehealth)
+
+PATIENT: Jose Powell
+DOB: 04/01/1947 (Age 77)
+Sex: M
+
+CHIEF COMPLAINT: Establish care, review of chronic conditions.
+
+HPI:
+Mr. Powell is a 77-year-old male who presents today via telehealth to establish primary care. He was previously followed at an outside clinic and is transferring care due to insurance changes. He reports history of coronary artery disease, gout, chronic kidney disease stage 3, atrial fibrillation, and peripheral artery disease. He states he has been relatively stable, though he notes intermittent claudication in his left calf with ambulation of more than two blocks, consistent with his known PAD. He denies chest pain, palpitations, or syncope currently, though he has had prior episodes of atrial fibrillation requiring rate control. He takes his medications as prescribed per his report, though he was not able to provide an updated list today and this will be reconciled with pharmacy records.
+
+[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 - OUTSIDE RECORDS]
+Patient seen for follow up of CAD s/p PCI to LAD in 2015, on aspirin 81mg daily and atorvastatin 40mg daily. Gout flares occur roughly 2-3 times per year, managed with colchicine PRN, last flare in left great toe resolved with NSAIDs. CKD stage 3 with baseline creatinine around 1.6, followed without nephrology referral at this time given stability. Atrial fibrillation diagnosed 2018, on apixaban 5mg BID, no bleeding events reported. PAD diagnosed by ABI testing in 2019, ABI at that time was 0.68 on the left and 0.75 on the right. Patient was counseled extensively regarding diet, exercise, and medication adherence at that visit. Follow up recommended in 6 months with repeat lipid panel and renal function. Blood pressure at that visit was 138/82, heart rate 78 and irregular. Weight stable compared to prior visits. No acute complaints at that time. Plan was to continue current regimen and reassess.
+[END COPIED TEXT]
+
+Review of systems otherwise negative for fever, chills, unintentional weight loss, hemoptysis, or shortness of breath at rest.
+
+SOCIAL HISTORY (templated EHR block):
+Alcohol Use: Occasional, reports 1-2 glasses of wine on weekends
+Living Situation: Lives with spouse in single-family home, independent with ADLs
+Occupation: Retired, formerly worked as a postal carrier
+Exercise: Walks short distances daily as tolerated
+Diet: Reports low-sodium diet per prior counseling
+
+PAST MEDICAL HISTORY:
+- Coronary artery disease
+- Gout
+- Chronic kidney disease, stage 3
+- Atrial fibrillation
+- Peripheral artery disease
+
+MEDICATIONS: To be reconciled; patient reports taking apixaban, atorvastatin, aspirin, and allopurinol, but exact doses not confirmed today.
+
+ALLERGIES: No known drug allergies per patient report.
+
+VITALS (via home monitoring reported by patient): BP 132/78, HR 72 irregular, weight 189 lbs.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, oriented, no acute distress, video quality adequate for assessment.
+Cardiovascular: Unable to auscultate via telehealth; patient denies chest pain or palpitations.
+Extremities: Patient demonstrates no visible swelling on exam via camera; reports mild coolness in left foot.
+Skin: No rashes or lesions noted on visible areas.
+
+ASSESSMENT/PLAN:
+1. Coronary artery disease - continue home aspirin and statin, will obtain updated lipid panel, discuss risk factor modification.
+2. Gout - continue allopurinol, follow up if flares increase in frequency.
+3. Chronic kidney disease stage 3 - recheck basic metabolic panel and urine studies, monitor renal function given CV medication regimen.
+4. Atrial fibrillation - continue apixaban for anticoagulation, will obtain EKG at next in-person visit.
+5. Peripheral artery disease - continue supervised walking program as tolerated, follow up on claudication symptoms; discussed general health maintenance topics appropriate for a 77-year-old, including lung cancer screening was discussed as a topic for consideration at a future visit pending further history.
+6. Health maintenance - will schedule in-person visit for full physical exam, labs to be drawn prior to next visit including CBC, CMP, lipid panel, and HbA1c.
+
+Patient verbalized understanding of the plan and agreed to follow up. Will schedule in-person visit within 4-6 weeks to complete physical exam and review labs.
+
+Electronically signed by Farah Siddiqui, MD on 04/01/2024.

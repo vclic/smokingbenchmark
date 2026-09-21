@@ -1,0 +1,77 @@
+VASCULAR SURGERY H&P
+DOS: 11/03/2024
+Author: Brian Okonkwo, MD
+
+Patient: Kathleen Taylor
+DOB: 10/26/1970 (age 54 y/o F)
+Referring: Dr. A. Simmons, PCP
+
+CHIEF COMPLAINT: Bilateral calf claudication, worsening over past several months.
+
+HPI: Ms. Taylor is a 54-year-old female with hx of PAD, obesity, OSA, hypothyroidism, and osteoporosis who presents for f/u eval of claudication symptoms. She reports pain in bilateral calves with ambulation approx 1-2 blocks, relieved w/ rest. Denies rest pain, ulcers, or gangrene. She notes symptoms have been progressively worse over past 6 months. No recent falls or fractures. Sleep apnea managed w/ CPAP, compliance reportedly good per device download. Reports fatigue but attributes to poor sleep quality at times.
+
+=== COPIED FORWARD FROM PRIOR VISIT NOTE DATED 04/12/2023 ===
+Pt seen for routine f/u PAD, doing well on current regimen. ABI performed in office bilaterally, right 0.78, left 0.72, consistent w/ mild-mod PAD. Pt counseled on walking program, smoking cessation (at that time still smoking), and statin therapy. Denies chest pain, SOB, palpitations. Osteoporosis stable on current tx, last DEXA reviewed. OSA - pt using CPAP nightly per report. Hypothyroidism - TSH wnl on current dose levothyroxine. Plan: continue current meds, f/u 6 months, repeat ABI at that time.
+=== END COPIED TEXT ===
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. Peripheral artery disease, bilateral lower extremities - I73.9
+2. Obesity - E66.9
+3. Osteoporosis - M81.0 (last DEXA reviewed prior visit, on tx)
+4. Obstructive sleep apnea - G47.33 (on CPAP)
+5. Hypothyroidism - E03.9 (on levothyroxine)
+6. Hyperlipidemia - E78.5 (OUTDATED - resolved per pt report, no longer on statin per pt, needs reconciliation)
+7. GERD - K21.9 (OUTDATED - pt denies current sx, may be resolved, verify at next visit)
+
+SOCIAL HISTORY: Former smoker with a 49 pack-year smoking history; quit smoking at age 23. Denies current tobacco use. No illicit drug use. Occasional EtOH, ~1-2 glasses wine/wk. Lives with spouse, retired schoolteacher.
+
+FAMILY HISTORY: Mother - osteoporosis, hip fracture age 70s. Father - CAD, MI age 60s. No known FHx of PAD specifically.
+
+MEDICATIONS:
+- Levothyroxine 75 mcg daily
+- Atorvastatin 40 mg daily (pt reports not currently taking - see problem list note above)
+- Aspirin 81 mg daily
+- Alendronate 70 mg weekly
+- Cilostazol 100 mg BID (started last visit for claudication)
+- Vitamin D3 2000 IU daily
+- Calcium carbonate 600mg BID
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, unintentional weight loss. CV - denies chest pain, palpitations, orthopnea. Resp - denies dyspnea at rest, occasional snoring per spouse (on CPAP). GI - denies abd pain, reflux sx currently. MSK - denies new fractures, joint pain stable. Neuro - denies numbness/tingling in LE. Skin - denies non-healing wounds or ulcers on feet.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, Wt 198 lbs, BMI 34.1
+Gen: well-appearing, NAD, obese habitus
+CV: RRR, no murmurs/gallops/rubs
+Resp: CTAB, no wheezes
+LE: bilateral feet warm, no ulcers, no gangrene. Pulses: femoral 2+ bilat, popliteal 1+ bilat, DP/PT diminished bilaterally but palpable. Cap refill <3 sec. No edema.
+Skin: intact, no lesions
+Neuro: grossly intact, sensation to light touch preserved bilat feet
+
+LABS/RESULTS:
+- CBC (10/28/2024): WNL, Hgb 13.2
+- CMP (10/28/2024): Glucose 98, Cr 0.8, eGFR >60
+- Lipid panel (10/28/2024): TC 210, LDL 128, HDL 48, TG 170
+- TSH (10/28/2024): 2.1 (WNL on current levothyroxine dose)
+- Hemoglobin A1c (10/28/2024): 5.6%
+- ABI bilateral (10/15/2024): Right 0.74 (mild-mod PAD), Left 0.70 (mild-mod PAD), slight interval worsening from prior
+- DEXA (03/2023, last available): T-score -2.6 lumbar spine, osteoporosis
+
+ASSESSMENT:
+54 yo F w/ PAD (worsening claudication and interval decline in ABI), obesity, OSA on CPAP, hypothyroidism euthyroid on current dose, osteoporosis on bisphosphonate therapy.
+
+PLAN:
+1. PAD - continue cilostazol, reinforce supervised exercise/walking program, ASA continued. Will obtain vascular studies for surveillance. Discussed lung cancer screening guidelines given smoking history; further discussion to occur w/ PCP.
+2. Lipid mgmt - recommend restarting statin therapy given LDL 128, discussed risks/benefits, pt to consider.
+3. Osteoporosis - continue alendronate, Ca/vit D, repeat DEXA due next year.
+4. OSA - continue CPAP, encourage compliance tracking.
+5. Hypothyroidism - continue current levothyroxine dose, recheck TSH in 6 months.
+6. F/u in vascular clinic in 3 months or sooner if worsening sx, ulceration, or rest pain.
+7. Problem list to be reconciled with PCP re: outdated GERD and hyperlipidemia entries.
+
+Electronically signed: Brian Okonkwo, MD
+
+=== ADDENDUM (later same day, 11/03/2024, 4:47pm) ===
+Spoke with pt via phone after she called w/ additional question re: statin restart. Reassured her regarding side effect profile and advised she can start atorvastatin 40mg daily this evening if agreeable. She will call pharmacy to confirm refill available. No other changes to plan. Reiterated importance of continued abstinence from smoking (pt remains former smoker, quit smoking at age 23, no current tobacco use) and adherence to walking program for claudication management. Will follow up as scheduled.
+- Brian Okonkwo, MD

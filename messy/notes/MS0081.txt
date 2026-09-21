@@ -1,0 +1,61 @@
+Pulmonology NP Progress Note
+Date of Service: 03/09/2026
+Author: Priya Raman, MD (co-signed encounter, NP-authored)
+Patient: Loretta Torres, F, DOB 03/09/1947 (age 79 today)
+
+CC: F/u incidental lung nodule found on CT chest ordered by PCP for eval of chronic cough.
+
+HPI: Pt is a 79 yo F with h/o CAD, COPD, hypothyroidism, T2DM, OSA on CPAP, and gout who presents for f/u of a 7mm RUL nodule identified on CT thorax done 12/2025. Pt reports no new SOB, hemoptysis, fevers, or weight loss. She denies chest pain at rest. Reports adherence to CPAP most nights. No recent hospitalizations. Denies EtOH use - pt states she quit drinking alcohol in 2011 and has not resumed.
+
+[Copied forward from visit 11/14/2024 - Dr. Raman]:
+Pt seen in pulm clinic for routine COPD f/u. Spirometry reviewed, FEV1 62% predicted. Pt reports occasional wheeze with exertion, uses albuterol PRN approx 1-2x/week. No exacerbations requiring steroids or antibiotics in past 12 mo. Continues on tiotropium daily. O2 sat 95% RA in clinic. Pt counseled on pulmonary hygiene, flu/pneumococcal vaccination status reviewed and up to date. Gout well controlled on allopurinol, last flare >1 yr ago. Discussed weight management and diet given T2DM. Pt agreeable to f/u in 6 months or sooner if symptoms worsen.
+[End copied forward text]
+
+ROS: Constitutional - denies fevers, chills, unintentional weight loss. HEENT - denies sinus congestion, sore throat. CV - denies chest pain, palpitations, orthopnea, PND, LE edema. Resp - denies acute dyspnea, denies hemoptysis, chronic mild cough stable. GI - denies N/V/D, abd pain. GU - denies dysuria, hematuria. MSK - denies acute joint pain, chronic gout hx as above. Skin - denies rash, lesions. Neuro - denies HA, dizziness, syncope. Psych - denies depression, anxiety. Endo - denies polyuria, polydipsia (T2DM stable per pt report). All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76 reg, RR 16, T 97.8F, SpO2 95% RA, Wt 154 lb, BMI 26.1
+Gen: NAD, well-appearing elderly F, A&Ox3
+HEENT: NC/AT, PERRLA, oropharynx clear, no LAD
+CV: RRR, no m/r/g, no JVD
+Resp: mild diffuse expiratory wheeze bilaterally, no crackles, no accessory muscle use, symmetric chest expansion
+Abd: soft, NT/ND, +BS, no masses
+Ext: no c/c/e, pulses 2+ bilaterally
+Skin: warm, dry, no rash
+Neuro: grossly intact, no focal deficits
+Psych: mood/affect appropriate
+
+Medications:
+1. Tiotropium 18mcg inhaler, 1 cap inhaled daily
+2. Albuterol HFA 90mcg, 2 puffs q4-6h PRN
+3. Levothyroxine 75mcg PO daily
+4. Metformin 1000mg PO BID
+5. Atorvastatin 40mg PO qHS
+6. Aspirin 81mg PO daily
+7. Metoprolol succinate 50mg PO daily
+8. Allopurinol 300mg PO daily
+9. Losartan 50mg PO daily
+10. Vitamin D3 1000 IU PO daily
+11. CPAP nightly for OSA
+
+Labs/Results:
+CBC (02/20/2026): WBC 6.8, Hgb 12.9, Hct 39.1, Plt 245
+BMP (02/20/2026): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 0.9, Glu 142
+HbA1c (01/15/2026): 7.1%
+TSH (01/15/2026): 2.4 mIU/L
+CT chest (12/2025): 7mm nonsolid nodule RUL, stable morphology, no significant lymphadenopathy
+Spirometry (11/14/2024): FEV1 62% predicted, FEV1/FVC 0.64, consistent with moderate obstruction
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, RUL, stable on prior imaging. Continued surveillance imaging discussed with patient; low-dose CT interval scan plan to be coordinated with radiology per standard protocol. Risk factors reviewed - smoking history notable: patient reports she smoked about a quarter pack (approximately 5 cigarettes) per day, but is a former smoker, having quit on 5/12/2016; no current tobacco use. Discussed lung cancer screening guidelines in general terms; no determination made in today's visit regarding screening eligibility.
+2. COPD - stable, continue tiotropium daily and albuterol PRN, reinforce inhaler technique, encourage pulmonary rehab if symptoms progress.
+3. CAD - continue aspirin, statin, beta-blocker; stable, no anginal symptoms today.
+4. T2DM - A1c 7.1%, continue metformin, reinforce diet/exercise.
+5. Hypothyroidism - TSH within normal limits, continue levothyroxine.
+6. OSA - continue CPAP, adherence reviewed, encourage continued use.
+7. Gout - stable on allopurinol, no active flare.
+8. Health maintenance - alcohol cessation since 2011 noted and reinforced positively; encourage continued abstinence.
+
+F/u: Return to pulm clinic in 3 months or sooner if new symptoms develop such as hemoptysis, worsening dyspnea, or unintentional weight loss. Patient verbalizes understanding, agrees with plan.
+
+Electronically signed: Priya Raman, MD, Pulmonology

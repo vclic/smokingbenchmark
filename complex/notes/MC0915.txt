@@ -1,0 +1,57 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Owen Fitzgerald, MD
+DOS: 04/08/2025
+Patient: Betty Smith, F, DOB 04/08/1954 (age 71)
+
+Visit type: Hospital discharge follow-up after pneumonia. Primary Care.
+
+HPI: Pt seen today s/p recent hospitalization for pneumonia, now feeling improved. Cough decreasing, no fever, appetite returning. Reports fatigue still present. Denies chest pain, denies hemoptysis. PAD, gout, OSA, HLD, AFib, BPH all stable per pt report.
+
+***COPIED FORWARD FROM PRIOR NOTE DATED 02/08/2022*** (left in chart, retained for continuity - not reflective of current status necessarily):
+"Pt is a current smoker. Continues to have chronic cough. ROS otherwise unremarkable. Plan unchanged from prior." [End of copied block 02/08/2022]
+
+NOTE: Templated smoking field below is outdated/incorrect and does not reflect true history - see narrative correction.
+Smoking status: Never Smoker [FIELD IS WRONG - SEE BELOW]
+
+SMOKING HISTORY (corrected, obtained directly from pt today): Pt reports smoking a quarter pack (~5 cigarettes) per day for 38 years, then increased to about 8 cigarettes per day for the next 17 years, continuing to present. Pt continues to smoke despite repeated counseling on cessation at prior and current visits. Pt states she has set a quit date of 5/5/2025 (future date, has not yet quit).
+
+Alcohol: Pt quit drinking alcohol in 2023, denies current use.
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - improving cough, denies SOB at rest. CV - denies palpitations today, known AFib on anticoagulation. GI - denies n/v/d. GU - BPH sx stable, nocturia unchanged. MSK - denies acute gout flare. Neuro - no focal deficits. Skin - no rashes. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 128/76, HR 78 irregular, RR 16, T 98.2F, SpO2 95% RA
+Gen: NAD, comfortable, alert
+HEENT: unremarkable
+Neck: no JVD, no LAD
+Lungs: mild bibasilar crackles, improved from prior, no wheeze
+CV: irregularly irregular rhythm, no murmurs
+Abd: soft, NT/ND
+Ext: no edema, PAD-related decreased distal pulses bilat feet, no ulcers
+Skin: intact
+Neuro: grossly intact
+
+Medications:
+- Apixaban 5mg BID
+- Allopurinol 300mg daily
+- Atorvastatin 40mg qHS
+- Tamsulosin 0.4mg daily
+- CPAP nightly for OSA
+- Amoxicillin-clavulanate completing course post pneumonia
+- Metoprolol succinate 50mg daily
+- Colchicine PRN gout flare
+
+Assessment/Plan:
+1. Recent pneumonia - resolving clinically, continue abx course, f/u CXR in 4-6 wks.
+2. Tobacco use - ongoing, counseled extensively today re: cessation resources, nicotine replacement offered, pt reiterates quit date of 5/5/2025. Lung cancer screening was discussed as a general topic.
+3. AFib - stable on apixaban.
+4. PAD - stable, continue current regimen.
+5. Gout - stable, allopurinol continued.
+6. OSA - continues CPAP, tolerating well.
+7. HLD - continue statin.
+8. BPH - stable on tamsulosin.
+
+Attending attestation: I have seen and examined the patient with the resident. I agree with the above assessment and plan. - Dr. Fitzgerald.
+
+***ADDENDUM (later same day, 04/08/2025)***
+Spoke further with pt by phone after visit re: smoking cessation resources; pt reaffirms understanding of quit date 5/5/2025 and will call pharmacy re: nicotine patches. No other changes to plan.

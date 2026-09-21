@@ -1,0 +1,74 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 02/22/2023
+Patient: Roger Adams | DOB: 01/04/1964 | Age: 59 | M
+Author: Julia Brennan, MD (resident note w/ attending attestation)
+
+CC: Medication refills.
+
+HPI: Pt calls in for routine refills. Reports OA knee pain stable, uses acetaminophen prn. Gout - no flares since last visit. AFib - denies palpitations, no syncope. HTN - home BP logs reviewed, generally 130s/80s. No new complaints today. Denies CP, SOB, edema.
+
+--- Copied from note dated 04/22/2019 ---
+Social Hx (as documented 4/22/2019): Tobacco - current smoker.
+--- end copied section ---
+
+ROS (templated, reviewed all systems):
+Constitutional: no fever, no weight loss.
+Eyes: no visual changes.
+ENT: no sore throat.
+Cardiovascular: no chest pain, occasional awareness of irregular heartbeat, no syncope.
+Respiratory: no cough, no hemoptysis, no dyspnea at rest.
+GI: no nausea/vomiting, no abdominal pain.
+GU: no dysuria.
+Musculoskeletal: chronic knee pain, stable.
+Skin: no rash.
+Neuro: no focal weakness, no numbness.
+Psych: no depression, no anxiety.
+Endocrine: no polyuria/polydipsia.
+Heme/Lymph: no bruising.
+Allergic/Immunologic: NKDA.
+
+Physical Exam (templated):
+Vitals: BP 128/78, HR 76 irregular, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb.
+General: NAD, alert, cooperative.
+HEENT: normocephalic, atraumatic, PERRL.
+Neck: no JVD, no thyromegaly.
+CV: irregularly irregular rhythm, no murmurs appreciated.
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abd: soft, nontender, nondistended, normal bowel sounds.
+Ext: no edema, 1st MTP without acute erythema today.
+MSK: mild crepitus bilateral knees, no effusion.
+Skin: no rash, no lesions.
+Neuro: grossly intact, alert x4.
+Psych: mood/affect appropriate.
+
+Labs/Results:
+01/18/2023 - BMP: Na 140, K 4.1, Cl 101, CO2 24, BUN 18, Cr 1.0, Glucose 96.
+01/18/2023 - Uric acid: 6.8 mg/dL.
+01/18/2023 - Lipid panel: TC 190, LDL 112, HDL 45, TG 165.
+12/05/2022 - TSH: 2.1 (WNL).
+12/05/2022 - CBC: WBC 6.8, Hgb 14.2, Plt 230.
+INR (for AFib mgmt, not on warfarin - N/A, pt on DOAC).
+
+Current Medications:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 20 mg PO daily
+4. Amlodipine 5 mg PO daily
+5. Allopurinol 300 mg PO daily
+6. Colchicine 0.6 mg PO PRN flare
+7. Acetaminophen 650 mg PO PRN pain
+8. Atorvastatin 20 mg PO daily
+9. Omeprazole 20 mg PO daily (GI prophylaxis)
+
+Assessment/Plan:
+Roger Adams is a 59-year-old male (DOB 1/4/1964) seen via telehealth on 02/22/2023 for medication refill visit.
+
+1. Tobacco use: Active smoker, currently smokes half a pack (about 10 cigarettes) per day, with a 39-year smoking history. Counseled on smoking cessation, discussed risks including cardiovascular and pulmonary disease; pt declines cessation aids at this time, encouraged to reconsider. Lung cancer screening was discussed as a topic for future conversation.
+2. Atrial fibrillation: Rate controlled on metoprolol, anticoagulated on apixaban, continue current regimen, repeat EKG at next in-person visit.
+3. Hypertension: Well controlled per home logs, continue lisinopril/amlodipine.
+4. Gout: No flares, continue allopurinol, uric acid at goal.
+5. Osteoarthritis: Stable, continue acetaminophen prn, consider PT referral if worsens.
+
+Refills sent to pharmacy as above. RTC in 3 months or sooner if issues. Pt verbalized understanding and agreement with plan.
+
+Attending Attestation: I have reviewed this note with Dr. Brennan and personally examined/interviewed the patient via telehealth. I agree with the assessment and plan as documented above. - Attending physician cosign on file.

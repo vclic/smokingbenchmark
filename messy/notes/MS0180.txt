@@ -1,0 +1,54 @@
+URGENT CARE - ENCOUNTER NOTE
+Patient: Maria Garcia | DOB: 3/13/1946 (age 80) | Sex: F
+DOS: 3/13/2026 | Author: Isaac Moreno, PA-C
+
+--- NURSE INTAKE ---
+CC: cough x several days.
+VS: T 98.4, HR 88, BP 138/82, RR 18, SpO2 95% RA.
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated):
+ Tobacco use: Current every day smoker
+ Type: Cigarettes
+ Alcohol use: Not on file
+ Drug use: Denies
+ Occupation: Retired
+ Living situation: ___ (blank)
+ Exercise: Not on file
+
+Meds reviewed per MAR - see chart. Pt ambulatory, uses O2 concentrator at home for OSA per pt report (CPAP intolerant per hx).
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 80 yo F w/ hx obesity, OSA, depression, asthma p/w cough onset ~5 days ago. Nonproductive at first, now occasionally productive w/ clear-white sputum. Denies fever, denies hemoptysis, denies chest pain. Reports mild SOB w/ exertion, baseline dyspnea per pt similar to usual asthma pattern. No sick contacts identified. Uses albuterol INH prn, states using more freq this wk (~4x/day vs usual 1-2x/wk). Denies wheeze at rest. No leg swelling, no orthopnea beyond baseline.
+
+ROS: + cough, + mild SOB. Neg fever/chills, neg chest pain, neg hemoptysis, neg wt loss, neg night sweats. Depression screen stable per pt, on sertraline, no SI.
+
+PMH: Obesity, OSA (uses home O2 concentrator noc), Depression, Asthma (moderate persistent per prior notes).
+PSH: none significant.
+Meds: Albuterol HFA prn, Fluticasone/salmeterol INH BID, Sertraline 100mg qd, Lisinopril 10mg qd (for HTN, copied fwd from prior note - verify still active).
+FH: noncontributory, not reviewed today.
+Social: lives alone, retired. Current smoker - pt states smokes cigarettes daily, ongoing. Denies illicit drug use. Etoh use not documented this visit.
+
+Exam:
+Gen: NAD, obese habitus, comfortable at rest.
+HEENT: OP clear, no erythema.
+Neck: no LAD, no JVD.
+Lungs: mild exp wheeze bilat bases, no crackles, no rhonchi, good air movement.
+CV: RRR, no m/r/g.
+Abd: soft, obese, NT/ND.
+Ext: no edema, no clubbing/cyanosis.
+Skin: WNL.
+Psych: mood euthymic, affect appropriate.
+
+Assessment/Plan:
+1. Acute cough, likely viral URI vs asthma exacerbation component - given exam findings tx w/ short course prednisone taper + continue INH, incr albuterol prn. F/u w/ PCP 1 wk or sooner if worsens. Return precautions given (fever, hemoptysis, worsening SOB → ED).
+2. Tobacco use disorder - pt reports 50 pack-year smoking history, currently smoking cigarettes daily. Counseled extensively re: smoking cessation, risks discussed incl COPD, CV disease, malignancy. Offered nicotine replacement/cessation resources - pt declined at this time, states "maybe next visit." Lung cancer screening was discussed briefly with pt for future consideration w/ PCP. Will readdress at f/u.
+3. Obesity - stable, continue lifestyle counseling, defer to PCP for further mgmt.
+4. OSA - continues home O2 concentrator noc per pt report, CPAP intolerance noted previously; refer back to sleep med if not established.
+5. Depression - stable on sertraline, continue, no acute concerns today, denies SI/HI.
+6. Asthma - moderate persistent, exacerbation likely component of current sx, adjusted plan above, f/u PCP or pulm if recurrent flares.
+
+Pt verbalized understanding of plan, agreeable, all questions answered. Return to UC or ED for worsening sx. Note reviewed and signed electronically.
+
+Isaac Moreno, PA-C
+DOS 3/13/2026

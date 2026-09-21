@@ -1,0 +1,74 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Gloria White (DOB 07/19/1966, age 58)
+Date of Service: 07/19/2024
+Author: Gregory Tan, MD
+
+CHIEF COMPLAINT: Pre-op clearance for right total knee replacement, ortho referral.
+
+HPI: Ms. White is a 58 year old woman presenting for pre-operative medical evaluation prior to scheduled right TKA. She reports progressive right knee pain worsening over the past several years, now limiting ambulation to short distances. No chest pain, no acute SOB at rest. She has known OSA on CPAP, BPH, obesity, and hyperlipidemia. She is otherwise stable on her current medication regimen and denies recent falls or syncope.
+
+===COPIED FORWARD FROM PRIOR VISIT 03/04/2022 (retained in chart, not updated)===
+HPI: Pt here for routine f/u of OSA and hyperlipidemia. Reports adherence to CPAP most nights, avg use 5-6 hrs. Denies daytime somnolence today thou did c/o fatigue last visit. BPH sx stable on tamsulosin, nocturia x1. Weight stable, no new dietary changes reported. Labs reviewed - lipid panel improved since last visit. Denies chest pain SOB palpitations. No new GI complaints. Continue current meds, f/u in 6 months for repeat lipid panel and BMP.
+ROS at that time: constitutional negative for fever chills wt loss; cardiac negative for chest pain palpitations edema; resp negative for cough hemoptysis; GI negative for abd pain nausea; GU positive for nocturia x1; msk negative for joint swelling (prior to current knee complaints); neuro negative for headache dizziness.
+===END COPIED TEXT===
+
+PAST MEDICAL HISTORY: Obstructive sleep apnea (on CPAP), benign prostatic hyperplasia... wait, correcting - patient is female, BPH history may be documented in error in prior chart, please disregard, obesity, hyperlipidemia. [Note: BPH diagnosis carried over from templated problem list, retained per current documentation practice]
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Patient declined to discuss tobacco use during today's visit.
+Smoking pack-years: Not on file
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+Exercise: limited due to knee pain
+
+MEDICATIONS:
+1. Atorvastatin 40mg PO qhs
+2. Tamsulosin 0.4mg PO qhs
+3. Losartan 50mg PO daily
+4. Metformin 500mg PO BID
+5. Multivitamin PO daily
+6. Calcium/vitamin D supplement
+7. Omeprazole 20mg PO daily prn
+8. Melatonin 5mg PO qhs prn sleep
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss, denies fatigue today.
+Eyes: denies visual changes.
+ENT: denies sore throat, denies nasal congestion.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND, denies lower extremity edema.
+Respiratory: denies cough, denies hemoptysis, denies wheeze, denies dyspnea at rest; reports mild dyspnea on exertion related to deconditioning from knee pain.
+Gastrointestinal: denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits.
+Genitourinary: reports mild nocturia, consistent with known BPH history (though patient female - see note above), denies dysuria, denies hematuria.
+Musculoskeletal: positive for right knee pain, denies other joint pain, denies swelling elsewhere.
+Skin: denies rash, denies new lesions.
+Neurological: denies headache, denies dizziness, denies numbness/tingling.
+Psychiatric: denies depression, denies anxiety.
+Endocrine: denies polyuria, denies polydipsia.
+Hematologic: denies easy bruising, denies bleeding.
+Allergic/Immunologic: denies seasonal allergies.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.4F, SpO2 96% on room air, Wt 198 lbs, Ht 5'4", BMI 33.9.
+General: well-developed, well-nourished female in no acute distress.
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear, no exudate.
+Neck: supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: regular rate and rhythm, no murmurs rubs or gallops, no JVD.
+Respiratory: clear to auscultation bilaterally, no wheezes rales or rhonchi, normal effort.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds, no organomegaly.
+Extremities: right knee with mild effusion, crepitus with range of motion, no erythema, no calf tenderness; left knee unremarkable; no lower extremity edema bilaterally.
+Skin: warm, dry, intact, no rashes.
+Neurological: alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout, sensation intact.
+Psychiatric: mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation for right total knee replacement - patient medically stable for surgery from cardiopulmonary standpoint, will obtain baseline EKG and CBC/BMP prior to procedure.
+2. Obstructive sleep apnea - continue CPAP compliance, recommend bringing CPAP machine to hospital for use post-operatively.
+3. Benign prostatic hyperplasia - continue tamsulosin, stable.
+4. Obesity - counseled on weight management, discussed impact on post-surgical recovery.
+5. Hyperlipidemia - continue atorvastatin, lipid panel to be rechecked at next visit.
+6. Tobacco/lung cancer screening - patient declined to discuss tobacco use today; smoking history therefore could not be obtained. Lung cancer screening was discussed but deferred until smoking history can be obtained.
+7. Return to clinic post-operatively for follow-up, sooner if concerns arise.
+
+Electronically signed by Gregory Tan, MD on 07/19/2024.

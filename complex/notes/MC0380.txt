@@ -1,0 +1,45 @@
+Internal Medicine – Pre-Operative Evaluation
+Patient: Samuel Miller (M), DOB 7/6/1960 (age 64)
+Date of Service: 07/06/2024
+Provider: Owen Fitzgerald, MD (NP progress note)
+
+CC: Pre-op clearance for right total knee replacement (Ortho: Dr. Alvarez).
+
+HPI: Mr. Miller is a 64-year-old male with history of BPH and gout presenting for pre-operative medical evaluation prior to scheduled TKA. He reports progressive right knee pain over the last year, worse with stairs and prolonged standing. He states, "It's gotten to the point where I can't get through a round of golf anymore." No recent flares of gout; last flare approx 8 months ago, managed with colchicine. Denies dysuria, hesitancy, or nocturia beyond baseline. He is otherwise feeling well and is eager to proceed with surgery.
+
+Social History: Patient was asked directly about tobacco use. He states, "I tried a few cigarettes when I was a teenager, but it never really stuck - I never smoked regularly." He does note that he smokes a cigar a few times a year on holidays, typically at family gatherings, but denies any regular cigarette or cigar use. Denies current vaping or e-cigarette use. Alcohol: occasional glass of wine with dinner. No illicit drug use.
+
+PMH: BPH, gout.
+PSH: Appendectomy in 20s.
+Medications: Tamsulosin 0.4mg daily, Allopurinol 300mg daily, occasional colchicine PRN gout flares.
+Allergies: NKDA.
+
+ROS: Otherwise negative except as noted in HPI. No chest pain, no shortness of breath at rest, no orthopnea, no PND, no lower extremity edema.
+
+Physical Exam:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 98% RA, BMI 27.4
+General: Well-appearing, no acute distress.
+CV: RRR, no murmurs/rubs/gallops.
+Resp: CTAB, no wheezes/rales.
+Extremities: Right knee with mild effusion, crepitus with ROM, no erythema or warmth. No calf tenderness bilaterally. Pulses 2+ throughout.
+Skin: No rashes or lesions noted.
+
+Labs/Results (reviewed today):
+- CBC (06/28/2024): WBC 6.8, Hgb 14.9, Hct 44.1, Plt 233
+- BMP (06/28/2024): Na 140, K 4.2, Cl 101, CO2 25, BUN 16, Cr 1.0, Glucose 92
+- Uric acid (06/28/2024): 7.1 mg/dL
+- PSA (05/15/2024): 1.8 ng/mL
+- EKG (07/06/2024): Normal sinus rhythm, no acute ST-T changes, rate 72.
+- Chest X-ray (07/06/2024): No acute cardiopulmonary process.
+
+Assessment/Plan:
+1. Pre-operative clearance for right TKA - patient cleared from cardiopulmonary standpoint based on today's evaluation, labs, EKG, and CXR. Low surgical risk given no significant cardiopulmonary history.
+2. BPH - stable on tamsulosin, continue current regimen, no changes needed pre-op.
+3. Gout - stable, continue allopurinol; will have colchicine available post-op if flare occurs given known association with surgical stress.
+4. Tobacco/lifestyle - counseled on the risks of any tobacco/cigar use with respect to wound healing and surgical risk, though patient reports minimal actual use; encouraged continued avoidance of regular use.
+5. Return to clinic or call with any questions prior to surgery date.
+
+Electronically signed: Owen Fitzgerald, MD, 07/06/2024 10:42am
+
+---
+ADDENDUM (07/06/2024, 3:15pm): Received callback from patient regarding pre-op instructions. Reiterated NPO after midnight prior to surgery and to hold NSAIDs per orthopedic instructions. Patient verbalized understanding. No new concerns raised at this time. No changes to plan above. - Owen Fitzgerald, MD

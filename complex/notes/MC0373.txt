@@ -1,0 +1,29 @@
+TELEHEALTH VISIT - CARDIOLOGY
+Patient: James Wood, M, DOB 1/16/1944 (age 79)
+Date of Service: 01/16/2023
+Provider: Daniel Reyes, MD
+
+HPI: Pt seen via video for eval of chest pain, intermitent, over past few wks, describes as pressure like sensation radiating too left arm [inaudible] denies syncope denies palpitations but reports some dyspnea on exertion pt has hx of COPD GERD obesity and hypothyroidism which complicate picture pt states pain worse with exertion better with rest ekg reviewed remotely no acute st changes noted will need in person workup with stress test.
+
+SOCIAL HISTORY (copied forward from note dated 2/16/2020): "Pt is a current smoker." [no quantities documented in that prior note]
+
+TOBACCO USE - EHR TEMPLATED BLOCK:
+Smoking status: Current every day smoker
+History: Pt smoked approx 1/2 pack per day (~10 cigs/day) x 20 years, then decreased to 1/4 pack per day (~5 cigs/day) x 43 years, continues at this reduced rate presently.
+Counseling given: yes, advised to quit, pt verbalizes understanding.
+Additional social note: pt's spouse also smokes, said to be supportive of pt's attempts to cut back tho neither has stopped.
+
+ROS: otherwise negative except as above, denies fevers chills wt loss.
+
+Exam: Limited via telehealth, pt appears comfortable no acute distress, resp effort unlabored on camera, no cyanosis noted.
+
+Assessment/Plan:
+1. Chest pain, likely musculoskeletal vs GERD related vs cardiac - will obtain stress test as outpt, continue home meds
+2. COPD - stable, continue inhalers, tobacco cessation d/c'd again today, pt continues to smoke despite counseling
+3. GERD - continue PPI
+4. Obesity - counseled on diet/exercise
+5. Hypothyroidism - continue levothyroxine, check TSH
+Will f/u after stress test results, pt to call if worsening sx or new chest pain at rest.
+
+--- ADDENDUM (same day, later) ---
+Addendum 01/16/2023 1830: Spoke with pt by phone re: stress test scheduling, pt agreeable, reiterated importance of tobacco cessation given COPD, pt states will 'try to cut down more' but continues to smoke at this time. No new complaints reported.

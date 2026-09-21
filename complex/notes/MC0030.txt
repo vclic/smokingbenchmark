@@ -1,0 +1,66 @@
+INTERNAL MEDICINE - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Frank Kim, M, DOB 2/8/1948 (age 78)
+Date of Service: 06/01/2026
+Author: Gregory Tan, MD (resident); attending attestation below
+
+CC: f/u HTN, DM2
+
+HPI: 78 yo M w/ hx HFrEF, GERD, OA, osteoporosis, OSA, asthma presents for routine f/u. Reports doing fairly well, no chest pain, mild ankle swelling intermittently, denies orthopnea. Blood sugars log reviewed, fasting glucose ranging 130s-160s. Med compliance ok per pt, occasionally misses evening dose of metformin. Denies dyspnea at rest, uses CPAP nightly per report (pt states "mask fits ok now"). No new GI sx, GERD sx controlled on current PPI. Joint pain in knees stable, uses NSAID prn - counseled re: renal fx given DM/HTN.
+
+ROS: Otherwise negative except as above. Denies fevers, chest pain, hemoptysis, hematuria. [inaudible] c/o some fatigue in afternoons, attributed to poor sleep quality possibly related too weather changes and allergies this season.
+
+SOCIAL HISTORY:
+Tobacco: Active smoker. Smoked 1 pack per day for 32 years, then decreased to about 12 cigarettes per day for the next 25 years, continuing to present. Patient previously quit smoking in 2022 but relapsed in 2023. Denies vaping. Counseled on smoking cessation resources, patient states he is 'not ready' to quit at this time; nicotine replacement options discussed. General discussion held regarding tobacco-related health risks.
+Alcohol: occasional beer on weekends, denies heavy use.
+Illicit drugs: denies.
+Lives with spouse, retired machinist.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Essential hypertension - I10 (ongoing, on lisinopril)
+2. Type 2 diabetes mellitus without complications - E11.9 (on metformin, considering adding SGLT2i)
+3. GERD - K21.9 (on omeprazole)
+4. Heart failure with reduced ejection fraction - I50.22 (on carvedilol, furosemide, entresto)
+5. Osteoarthritis, unspecified site - M19.90
+6. Osteoporosis without current pathological fracture - M81.0 (on alendronate)
+7. Obstructive sleep apnea - G47.33 (on CPAP)
+8. Asthma, unspecified - J45.909 (albuterol prn)
+9. Hyperlipidemia - E78.5 (outdated entry, pt reports lipid panel normalized off statin per prior note, needs review)
+10. Tobacco use disorder - Z72.0
+
+MEDICATIONS: Lisinopril 20mg daily, Metformin 1000mg BID, Omeprazole 20mg daily, Carvedilol 12.5mg BID, Furosemide 20mg daily, Sacubitril/valsartan 49/51mg BID, Alendronate 70mg weekly, Albuterol HFA prn, Aspirin 81mg daily
+
+ALLERGIES: NKDA
+
+VITALS: BP 138/82, HR 76, RR 16, Temp 98.4F, Wt 198 lbs, BMI 29.1, SpO2 95% RA
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing elderly male
+CV: RRR, no murmurs, mild bilateral LE edema trace
+Lungs: mild expiratory wheeze bilat bases, no crackles
+Abd: soft, NT/ND, no organomegaly
+Ext: no cyanosis, trace edema noted above
+Skin: no lesions
+Neuro: grossly intact
+
+LABS/RESULTS:
+05/28/2026 - BMP: Na 138, K 4.3, Cl 101, CO2 25, BUN 22, Cr 1.1, Glucose 152
+05/28/2026 - HbA1c: 7.8%
+05/28/2026 - Lipid panel: TC 178, LDL 98, HDL 42, TG 190
+04/15/2026 - BNP: 210 pg/mL (baseline elevated per HF hx)
+03/2026 - Echo: EF 35%, mild MR, no significant change from prior
+01/2026 - DEXA: T-score -2.6 lumbar spine, stable
+
+ASSESSMENT/PLAN:
+1. HTN - reasonably controlled, cont lisinopril, monitor at home.
+2. DM2 - A1c elevated at 7.8%, consider adding SGLT2i for glycemic and cardiorenal benefit given HFrEF, will discuss w/ attending, pt to follow up in 4 wks with repeat labs.
+3. HFrEF - EF 35% on echo 3/2026, stable sx, cont GDMT, will recheck BNP next visit, weight log reviewed no significant gain.
+4. GERD - stable on PPI, cont current dose.
+5. OA knees - stable, cont NSAID prn w/ renal monitoring.
+6. Osteoporosis - DEXA stable, cont alendronate, ensure adequate calcium/vit D intake.
+7. OSA - cont CPAP, reports good adherence.
+8. Asthma - mild sx, cont albuterol prn, consider controller if worsens.
+9. Tobacco use disorder - active smoker as above, counseled extensively regarding cessation, declined pharmacotherapy today, will readdress at next visit.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Pt verbalized understanding of plan.
+
+ATTESTATION: I have personally seen and examined this patient with Dr. Tan and discussed the plan of care as documented above. I agree with the assessment and plan as written. - Attending physician cosign on file.

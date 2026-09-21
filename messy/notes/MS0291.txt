@@ -1,0 +1,49 @@
+Geriatrics NP Progress Note
+DOS: 02/07/2024
+Author: Hannah Weiss, NP
+
+Pt: Dale Foster, M, age 72 (DOB 2/7/1952)
+
+CC: geriatric assessment f/u, DM2, OA, CKD3, obesity
+
+HPI: Pt seen today for comprehensive geriatric eval, brought in by daughter. Reports fair energy, occasional AM knee stiffness c/w known OA, denies falls since last visit. Blood sugars per home log running 110-160s, occ up to 200 postprandial. No new SOB, CP, edema. Appetite stable, wt roughly unchanged. Sleep 6-7h, occ nocturia x2. Mood good, denies depressive sx on PHQ-2 screen (0/6).
+
+PMH: T2DM dx ~15yrs ago, OA (knees/hands), CKD stage 3 (baseline Cr ~1.6), obesity (BMI 33)
+
+Soc Hx: Lives w/ wife, retired postal worker. Denies etoh excess, denies illicit drug use. Tobacco: pt has never smoked cigarettes, confirmed again today. Denies vaping/e-cig use as well.
+
+Meds: metformin 1000mg BID, atorvastatin 40mg qhs, lisinopril 10mg daily, acetaminophen prn OA pain, vit D3 2000u daily
+
+Allergies: NKDA
+
+ROS: Constitutional - no fever/chills. CV - no CP/palp. Resp - no cough/dyspnea. GI - no n/v/d, appetite stable. GU - nocturia x2 as above. MSK - chronic knee pain, no acute injury. Neuro - no focal deficits, no memory c/o per pt or daughter. Psych - mood stable.
+
+PE:
+VS: BP 138/82, HR 74, RR 16, T 97.8F, Wt 212lb, BMI 33.1
+Gen: NAD, obese habitus, appears stated age
+HEENT: PERRL, EOMI, no thyromegaly
+CV: RRR no m/r/g
+Resp: CTAB, no wheezes/crackles
+Abd: soft, NT/ND, +BS
+Ext: trace pitting edema b/l ankles, crepitus both knees w/ ROM, no effusion
+Neuro: A&Ox3, gait steady w/ cane, no focal deficits
+MSK: decreased ROM both knees 2/2 OA, no acute synovitis
+
+Labs/Results:
+01/15/2024 - A1c 7.4%, Cr 1.7 (eGFR 38), BUN 24, Na 139, K 4.6, HCO3 22
+01/15/2024 - Urine microalb/Cr ratio 45 mg/g
+11/2023 - Lipid panel: TC 168, LDL 88, HDL 42, TG 190
+02/07/2024 - fingerstick glucose in office 142
+
+Assessment/Plan:
+1. T2DM - A1c 7.4, cont metformin, reinforce diet/exercise, recheck A1c in 3mo
+2. OA knees/hands - cont acetaminophen prn, consider PT referal, d/c'd NSAIDs given CKD
+3. CKD stage 3 - stable eGFR 38, avoid nephrotoxic agents, monitor Cr/lytes q3-6mo, low K/phos diet reviewed
+4. Obesity - counseled on wt loss goals, referred to nutrition
+5. Preventive care - up to date on immunizations per record, colon ca screening d/w pt (declined further w/u at this time), lung ca screening topic discussed briefly given age but no further imaging ordered today, will revisit at future visit
+6. Tobacco - pt is a lifelong never-smoker, no counseling re: cessation needed, encouraged continued avoidance of secondhand smoke exposure
+7. Fall risk - low per Morse scale, cont cane use, home safety reviewed w/ daughter
+
+F/u in 3 months or sooner PRN. Pt and daughter verbalize understanding of plan, all questions answered today.
+
+-Hannah Weiss, NP

@@ -1,0 +1,42 @@
+PROGRESS NOTE
+Date of Service: 03/05/2026
+Patient: Diane Powell   DOB: 10/25/1966   MRN: 55669951
+
+S:
+CC: Hospital follow-up
+HPI: Ms. Powell is a 59 year old female with a history of HLD and T2DM who presents for hospital follow-up after admission for cellulitis of the left leg. Admitted February 18, 2026-02/20/2026 for cellulitis of the left leg. Still fatigued but improving. No new symptoms since discharge. She quit in 2022 and has 80 pack-years of exposure.
+
+PMH:
+- Type 2 diabetes
+- Hypercholesterolemia
+PSH: Left inguinal hernia repair (2009)
+Meds: atorvastatin 20 mg daily; metformin 1000 mg BID
+Allergies: NKDA
+SH: Divorced, lives alone. Retired, former machinist. Drinks a glass of wine with dinner. No illicit drug use.
+FH: Mother - CHF, d. age 88. Father - prostate cancer.
+ROS: MSK neg, CV neg, GU neg, Resp neg, GI neg, Neuro neg, Gen neg
+
+O:
+Vitals: BP: 128/65  HR: 74  RR: 20  Temp: 98.8 F  SpO2: 97% on RA  Wt: 145 lbs  BMI: 24.2
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. Cellulitis of the left leg
+   - Clinically improved. Follow-up CXR in 6 weeks.
+2. Type 2 diabetes
+   - Repeat A1c in 3 months. Annual eye exam reminder.
+3. Health maintenance
+   - LCS: annual LDCT due - ordered.
+
+RTC 12 months.
+
+Electronically signed by Anita Patel, MD on 3/5/2026 at 07:27

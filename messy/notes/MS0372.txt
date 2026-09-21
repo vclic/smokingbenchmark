@@ -1,0 +1,33 @@
+TELEHEALTH PRE-OP EVALUATION - INTERNAL MEDICINE
+Patient: Hung Okafor, M, DOB 6/18/1968 (age 57)
+Date of Service: 06/18/2025
+Author: Steven Park, MD
+
+REASON FOR VISIT: Pre-op medical clearance, left total knee replacement, ortho referral.
+
+HPI: Pt reports progressive knee pain, limiting ambulation. Denies chest pain, SOB at rest. Reviewed cardiac hx given known CAD. No recent angina equivalents.
+
+PMH/PROBLEM LIST (ICD-10):
+- E66.9 Obesity
+- I25.10 CAD, native vessel
+- N18.3 CKD stage 3
+- E78.5 Hyperlipidemia
+- I10 Hypertension (outdated - resolved per pt, no longer on meds, needs review)
+- J45.909 Asthma (outdated, chart error, pt has no hx asthma)
+
+MEDICATIONS: aspirin 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 25mg daily, lisinopril 10mg daily, allopurinol 100mg daily, gabapentin 300mg TID prn, calcium/vit D supplement, multivitamin daily, occasional tylenol prn pain.
+
+SOCIAL HISTORY: 85 pack-year smoking hx. Pt no longer smokes; quit smoking September 2024. Denies current tobacco use. Alcohol - quit drinking in 2008, denies current use. Denies illicit drug use. Lives w spouse, retired machinist.
+
+[COPIED FROM NOTE DATED 10/18/2022]: "Pt is a current smoker, continues to smoke, counseled on cessation, declines at this time." (Note: this entry reflects status as of 10/18/2022 only, not current.)
+
+ROS: Constitutional - no fever, no chills, no wt loss. Cardiac - no chest pain, no palpitations, no orthopnea. Resp - no cough, no wheeze, no hemoptysis. GI - no n/v/d, no abd pain. GU - no dysuria, no hematuria. MSK - + left knee pain, no other joint c/o. Neuro - no focal deficits. Skin - no rash. Psych - no depression, no anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals - BP 134/82, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, BMI 33.
+Gen - NAD, obese habitus. HEENT - PERRL, EOMI, oropharynx clear. Neck - no JVD, no bruits. CV - RRR, no m/r/g. Lungs - CTAB, no wheeze/rales/rhonchi. Abd - soft, NT/ND, +BS. Extrem - left knee w/ crepitus, decreased ROM, no effusion, no erythema. Neuro - grossly intact. Skin - no lesions.
+
+LABS (06/10/2025): Cr 1.4 (baseline), eGFR 52, K 4.3, Na 139, Hgb 13.8, Plt 245, INR 1.0, LDL 88, HDL 42, HbA1c 5.7%.
+
+DISCUSSION: Lung cancer screening discussed given smoking hx; deferred further w/u decisions to pt's PCP.
+
+ASSESSMENT/PLAN: Cleared for surgery from cardiopulmonary standpoint given stable exam and labs. Continue home meds, hold ASA per ortho protocol. Follow up post-op. Pt counseled on importance of continued abstinence from tobacco. Return precautions given.

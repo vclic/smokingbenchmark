@@ -1,0 +1,36 @@
+PRIMARY CARE - NEW PATIENT VISIT
+DOS: 05/26/2024
+Provider: Brian Okonkwo, MD
+Patient: Sandra Coleman DOB 5/26/1973 (age 51)
+
+CC: establish care, med refills
+
+HPI: Pt here to establish w new PCP. hx depression and OSA per pt report, using cpap intermittently. sleep poor, mood variable, denies SI. no acute complaints today, just wants routine bloodwork and refills.
+
+--- copied forward from prior note dated 11/14/2019 (outside records) ---
+Pt seen for annual exam. Reports fatigue, occasional headaches. BP controlled. Denies chest pain, SOB. Continues on sertraline. OSA dx by sleep study in 2015, cpap prescribed, compliance variable. Reviewed labs from 2019 wnl except mildly low vit D. Recommended supplementation. F/u in 1 yr or sooner if needed. Pt agreeable to plan, no further questions at that time.
+--- end copied section ---
+
+ROS: otherwise negative except as above, no cough no hemoptysis no wt loss
+
+SOCIAL HISTORY / TOBACCO USE (EHR template):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: 3/4 pack per day (~15 cigarettes/day)
+Age started: 16
+Quit date: N/A
+Secondhand exposure: none reported
+Counseling given: yes, brief cessation counseling offered
+
+Assessment/Plan:
+1. Tobacco use disorder - continues to smoke despite counseling today, discussed nicotine replacement options and quitline referral, pt not ready to set quit date at this time. lung cancer screening was discussed w pt as topic for future conversation.
+2. Depression - stable per pt, continue sertraline, f/u prn
+3. OSA - encourage cpap compliance, will order sleep med f/u
+4. Health maintenance - labs ordered today (CBC CMP lipid TSH), age-appropriate screenings reviewed
+
+Plan discussed w pt, all questions answered, f/u in 3 months or sooner prn.
+
+Brian Okonkwo, MD
+
+---ADDENDUM (later same day)---
+Addendum 05/26/2024 1642: Pt called back after visit asking re: refill of albuterol which was inadvertently omitted from initial note, sent to pharmacy. No other changes to plan above. -BO, MD

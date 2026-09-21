@@ -1,0 +1,43 @@
+PROGRESS NOTE
+Date of Service: 05/19/2025
+Patient: Joseph Green   DOB: 9/21/1947   MRN: 88222479
+
+S:
+CC: Annual physical
+HPI: Mr. Green is a 77-year-old male with a history of BPH, CAD, CHF, and obesity who presents for an annual physical. No acute complaints today. Walks the dog daily. Trying to cut back on sweets.
+
+PMH:
+- Benign prostatic hyperplasia
+- Heart failure with reduced ejection fraction
+- Class I obesity
+- Coronary artery disease
+Meds: tamsulosin 0.4 mg nightly; aspirin 81 mg daily; spironolactone 25 mg daily; furosemide 20 mg daily; finasteride 5 mg daily; fish oil 1 g daily
+Allergies: NKDA
+SH: Married, lives with wife. He has never smoked. EtOH: 2-3 drinks on weekends. Denies illicit drugs. Drives.
+FH: Mother - dementia, d. 84.
+ROS: GU neg, Neuro neg, CV neg, Skin neg, Resp neg, Gen neg, GI neg
+
+O:
+Vitals: BP: 137/76  HR: 69  RR: 14  Temp: 98.5 F  SpO2: 99% on RA  Wt: 243 lbs  BMI: 33.0
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, nontender, nondistended
+  Ext: Trace bilateral ankle edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. Health maintenance
+   - Colonoscopy 2018 - normal; Shingrix series complete; Pneumococcal vaccine up to date; Lung cancer screening: not indicated (never smoker).
+2. Class I obesity
+   - Discussed diet and exercise.
+3. Benign prostatic hyperplasia
+   - Nocturia x1-2; continue tamsulosin.
+
+f/u 12 mo
+
+Michael Dunn, DO

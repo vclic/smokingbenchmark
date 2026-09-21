@@ -1,0 +1,66 @@
+TELEHEALTH VISIT - PRE-OPERATIVE EVALUATION
+Date of Service: 05/09/2026
+Provider: Catherine Lindqvist, DO (Internal Medicine)
+Patient: Gregory Thompson, M, DOB 02/24/1963
+
+CC: Pre-op eval for right total knee replacement, ortho referral (Dr. Aldous).
+
+HPI: Pt is a 63-year-old male seen via telehealth for pre-operative medical clearance prior to elective right knee replacement scheduled with orthopedics. Pt reports progressive right knee pain, worse w/ ambulation, limiting function, failed conservative tx incl PT and NSAIDs [inaudible] states "can't hardly get up the stairs no more." No chest pain, no acute SOB at rest, some exertional dyspnea consistent w/ known COPD baseline. Denies fevers, chills. Reports occasional gout flares, last flare ~2 months ago in contralateral great toe, resolved w/ colchicine.
+
+PMH / Problem List (ICD-10):
+- I25.10 Coronary artery disease, native vessel, without angina (s/p stent 2014, per chart - date may be outdated, needs verification)
+- M10.9 Gout, unspecified
+- J44.9 COPD, unspecified (on home nebulizer prn)
+- E11.9 Type 2 diabetes mellitus without complications
+- N40.0 Benign prostatic hyperplasia w/o LUTS
+- M17.11 Unilateral primary osteoarthritis, right knee (surgical indication)
+
+Meds: Metformin 1000mg BID, atorvastatin 40mg qHS, tiotropium inhaler daily, tamsulosin 0.4mg qHS, allopurinol 300mg daily, aspirin 81mg daily. Pt states he ran out of allopurinol "bout a week ago" - counseled to refill.
+
+Allergies: NKDA.
+
+Social History:
+Tobacco - detailed smoking hx obtained during visit. Pt reports he smoked a quarter pack (about 5 cigarettes) per day for 11 years, then stopped completely for a period of 3 years, after which he restarted smoking at the same rate, a quarter pack (about 5 cigarettes) per day, for 16 years before quitting for good. He states he has not smoked since his 50th birthday and currently does not smoke at all - confirmed no current tobacco use. No vaping, no other nicotine products currently. Lung cancer screening was discussed briefly given hx of tobacco use and COPD; pt to follow up with PCP regarding this separately.
+Alcohol: occasional beer, 1-2/week, no heavy use reported.
+Illicit drugs: denies.
+Lives w/ spouse, retired machinist, independent w/ ADLs though limited by knee pain.
+
+ROS: Constitutional - denies fever, chills, wt loss. Cardiac - denies chest pain, palpitations, orthopnea, PND. Resp - chronic mild dyspnea on exertion, baseline per pt, no acute change, no cough currently. GI - denies nausea, vomiting, changes in bowel habits. GU - some nocturia 2x/night, stable, attributed to BPH. MSK - as above, right knee pain primary complaint. All other systems reviewed and negative.
+
+Vitals (per home cuff, telehealth visit, values pt-reported):
+BP 138/82, HR 76, reports wt stable ~198 lbs, denies fever.
+
+Exam (limited, telehealth):
+Gen: pt appears comfortable, no acute distress, seated in home setting.
+Cardiac: unable to auscultate via telehealth, pt denies symptoms.
+Resp: no visible respiratory distress, speaking in full sentences without difficulty.
+Ext: pt demonstrates limited ROM right knee on camera, some visible swelling noted, no overlying erythema appreciated on video quality available.
+Skin: no rashes visualized.
+
+Labs (reviewed from recent visit, drawn 04/28/2026):
+A1c 7.1%, Cr 1.0, eGFR >60, K 4.2, uric acid 6.8, CBC WNL, lipid panel notable for LDL 92 on statin.
+
+EKG (on file, 03/2026): NSR, rate 74, no acute ST changes, unchanged from prior.
+
+Assessment:
+1. Pre-operative medical clearance for right TKA - cardiac risk assessed as low-moderate given known CAD hx, stable, no active anginal sx; pt cleared from cardiac standpoint pending anesthesia eval.
+2. COPD - stable, no supplemental O2, continue home regimen, consider pre-op pulm consult if any acute change.
+3. T2DM - reasonably controlled, A1c 7.1%, continue metformin, hold morning of surgery per standard protocol.
+4. Gout - counsel to refill allopurinol, continue current regimen, monitor for peri-op flare risk.
+5. BPH - stable on tamsulosin, no urinary retention issues currently.
+6. Tobacco use history - former smoker, quit smoking permanently since his 50th birthday per pt report, no current use; counseled on continued avoidance, reinforced importance of staying smoke-free peri-operatively for wound healing and pulmonary recovery.
+
+Plan:
+- Medically clear for right TKA pending final anesthesia pre-op assessment.
+- Continue current medication regimen, hold metformin morning of surgery.
+- Refill allopurinol, pt to pick up at pharmacy this week.
+- Counsel on smoking cessation maintenance (pt already abstinent, reinforced positive behavior).
+- Discussed lung cancer screening briefly given prior tobacco history and COPD dx; deferred further workup to PCP follow-up, no imaging ordered today.
+- Pre-op labs and EKG reviewed and appear adequate, no repeat needed at this time.
+- F/u after surgery or sooner if concerns.
+- Pt verbalized understanding, agrees w/ plan.
+
+Time spent: approx 20 min telehealth visit, more than half spent counseling/coordination of care.
+
+Electronically signed: Catherine Lindqvist, DO
+05/09/2026

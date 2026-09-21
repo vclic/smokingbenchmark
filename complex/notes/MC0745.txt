@@ -1,0 +1,35 @@
+Blue Ridge Pulmonology Associates
+Patient: Carol Wright | DOB: 06/03/1969 | Age: 57 | Sex: F
+Date of Service: 06/03/2026
+Provider: Rachel Goldberg, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/84, HR 78, RR 18, SpO2 95% RA, Temp 97.8F, Wt 172 lb
+CC: COPD follow-up.
+Pt here for routine pulm follow-up. Reports mild increase in cough over past week, no fever. Uses albuterol PRN, says helps somewhat.
+
+Social History: Never smoker. Denies any tobacco use, past or present. No vaping history. Occasional glass of wine with dinner.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Carol Wright is a 57 year old woman with history of asthma, HFrEF, HTN, osteoporosis, and gout who presents today, 06/03/2026, for COPD follow-up. She notes mild productive cough x1 week, denies fever, chills, chest pain, or worsening dyspnea beyond baseline. She continues to use albuterol inhaler as needed with some relief. No recent hospitalizations. She denies orthopnea or PND currently, weight stable.
+
+[COPIED FORWARD FROM VISIT 11/14/2025]
+HPI (from 11/14/2025 note): Ms. Wright presented with worsening dyspnea on exertion x2 weeks, associated with lower extremity edema. Echo at that time showed EF 35%. Started on increased dose of furosemide with improvement in symptoms at follow-up. Pulmonary function tests reviewed showing mild obstructive pattern. Continue home albuterol and fluticasone/salmeterol. Discussed importance of medication adherence. Follow up in 4 months or sooner if symptoms worsen. Labs reviewed: BNP 450, K 4.1, Cr 0.9.
+[END COPIED TEXT]
+
+ROS: Constitutional: no fever/chills/weight change. Cardiac: no chest pain, occasional mild ankle swelling. Respiratory: mild cough as above, no hemoptysis. GI: no nausea/vomiting/abd pain. GU: no dysuria. MSK: chronic joint stiffness attributed to gout, stable. Skin: no rashes. Neuro: no headaches, no focal deficits. Psych: mood stable. All other systems reviewed and negative.
+
+Physical Exam: General: well-appearing, no acute distress. HEENT: normocephalic, atraumatic, PERRLA. Neck: no JVD. Lungs: mild expiratory wheeze bilateral bases, no crackles. Cardiac: RRR, S3 present, no murmurs. Abdomen: soft, non-tender, non-distended. Extremities: trace bilateral pitting edema. Skin: warm, dry, intact. Neuro: alert and oriented x3, grossly nonfocal.
+
+Medications: Albuterol HFA inhaler PRN, Fluticasone/salmeterol 250/50 BID, Furosemide 40mg daily, Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Spironolactone 25mg daily, Alendronate 70mg weekly, Allopurinol 300mg daily, Calcium/Vitamin D supplement daily, Montelukast 10mg daily.
+
+Assessment/Plan:
+1. COPD/Asthma overlap - mild symptoms today, continue current inhaler regimen, consider PFTs at next visit. Social history notable for never-smoker status, so occupational or environmental exposures should be further explored if symptoms progress.
+2. HFrEF - stable on current diuretic and GDMT, continue monitoring weights and symptoms.
+3. HTN - well controlled today.
+4. Osteoporosis - continue alendronate, recheck DEXA per schedule.
+5. Gout - stable on allopurinol, no active flare.
+Return to clinic in 3 months or sooner as needed. Discussed lung cancer screening in general terms as part of preventive care discussion appropriate for age group, no specific recommendation made today.
+
+--- ADDENDUM (later same day) ---
+Addendum by Dr. Goldberg, 06/03/2026 1745: Reviewed chest x-ray from this morning, no acute infiltrate, mild hyperinflation consistent with known COPD/asthma overlap. No changes to plan. Patient again confirmed she has never smoked cigarettes or used any tobacco products when asked directly during this visit.

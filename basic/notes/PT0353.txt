@@ -1,0 +1,77 @@
+Adult Medicine Progress Note
+
+Patient: NOVAK, Paula    MRN: 72715131
+DOB: 08/28/1952    Age: 71 y.o.    Sex: Female
+Date of Service: 11/24/2023    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Paula Novak is a 71 y.o. female who presents for pre-operative evaluation prior to inguinal hernia repair.
+Scheduled for inguinal hernia repair on 12/31/2023. Can climb 2 flights of stairs without symptoms (>4 METs). No prior anesthesia complications.
+
+Past Medical History:
+Diagnosis	Date
+• Osteopenia
+• Primary OA, bilateral knees
+• HTN
+• CAD	1999
+• Type 2 diabetes
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (2010)
+• Carpal tunnel release (1995)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 100 mg daily
+• calcium + vitamin D daily
+• hydrochlorothiazide 25 mg daily
+• clopidogrel 75 mg daily
+• sitagliptin 100 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Married, lives with husband.
+  Retired hairdresser.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Resp neg, Neuro neg, GI neg, MSK neg, Skin neg
+
+Objective:
+Vitals:
+  BP 137/87 (BP Location: Right arm, Patient Position: Sitting) | Pulse 95 | Temp 97.5 °F (Oral) | Resp 16 | Ht 5' 2" | Wt 162 lb | SpO2 100% | BMI 29.64 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (2023-10-17): A1c 8.4%, LDL 105, Cr 0.75, K 4.7
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Type 2 diabetes
+   UACR ordered.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Michael Dunn, DO on 11/24/2023

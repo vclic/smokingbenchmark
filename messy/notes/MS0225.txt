@@ -1,0 +1,39 @@
+H&P – Pre-operative Evaluation, Internal Medicine
+Patient: Nancy Adams | DOB: 1/11/1965 | Age: 61 | Sex: F
+Date of Service: 06/15/2026
+Author: Gregory Tan, MD
+
+HPI:
+Pt here for pre-op eval prior to R total knee arthroplasty. Reports chronic knee pain, worsening w/ ambulation. No CP, no SOB at rest. Gout flares intermittently, last flare ~3 mo ago, well controlled on allopurinol. HTN stable on current regimen. Pt states quit date set for 6/27/2026 for cigarettes, motivated for surgery.
+
+--- Copied forward from visit dated 11/02/2024 ---
+Pt seen for routine f/u HTN and gout. BP 138/86. Uric acid 6.8. Continue allopurinol 300mg daily, lisinopril 20mg daily. Denies chest pain, denies syncope. Diet reviewed, low purine diet reinforced. Return in 6 months or sooner if flare. No acute issues today.
+--- End copied text ---
+
+Social History (EHR template):
+Tobacco use: Current smoker
+Type: Cigarettes
+Pack-year history: 50 pack-years
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: ___ (blank)
+Living situation: Lives with spouse; spouse also smokes.
+Exercise: Not on file
+
+ROS: Otherwise negative except as above. No hemoptysis, no unexplained weight loss.
+
+Exam:
+Vitals: BP 132/84, HR 78, RR 16, SpO2 97% RA, BMI 29.
+Gen: NAD, well-appearing.
+CV: RRR, no murmurs.
+Resp: Clear bilat, no wheezes/rales.
+MSK: R knee w/ crepitus, decreased ROM, no effusion.
+Ext: No edema.
+
+Assessment/Plan:
+1. Pre-op clearance for TKA – cleared from cardiopulmonary standpoint, low risk per RCRI. Continue home meds through surgery per anesthesia protocol.
+2. Tobacco use – Current smoker w/ 50 pack-year history, cigarettes. Set quit date 6/27/2026. Counseled on cessation resources, nicotine replacement discussed. Encouraged given upcoming surgery for wound healing/pulmonary risk reduction. Lung cancer screening discussed with pt as part of routine counseling given smoking history.
+3. Hypertension – stable, continue lisinopril.
+4. Gout – stable, continue allopurinol, uric acid to be rechecked at next visit.
+
+F/u post-op, sooner if issues. Pt verbalized understanding of plan.

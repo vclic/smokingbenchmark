@@ -1,0 +1,59 @@
+INTERNAL MEDICINE - PRIMARY CARE FOLLOW-UP
+Patient: Judith Nguyen (F), DOB 4/16/1961 (age 65)
+Date of Service: 04/16/2026
+Author: Julia Brennan, MD
+
+CHIEF COMPLAINT: Follow-up hypertension, diabetes.
+
+HPI: Ms. Nguyen presents for routine follow-up of HTN and T2DM. She reports fair adherence to meds, occasional missed doses. No chest pain, denies acute SOB though has baseline dyspnea on exertion related to known HFrEF. Reports mild ankle swelling, stable. No syncope, no palpitations noted since last AFib episode. Sleeps with CPAP most nights for known OSA, tolerates reasonably well. Reports knee pain intermittently, managed with acetaminophen. PAD symptoms stable, no new claudication.
+
+---[Copied forward from visit 11/02/2025]---
+Pt is a 64 yo F w/ h/o afib, HFrEF, OSA, PAD, OA, obesity presenting for f/u. Denies chest pain, denies orthopnea. BP meds reviewed. Discussed weight loss goals, diet modification, low sodium diet reinforced. Pt reports doing home exercises for OA per PT recs. Continue metoprolol, apixaban, furosemide. Labs reviewed - BNP stable. F/u in 3-4 months, sooner if symptoms worsen. RTC PRN.
+----------------------------------------------
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I48.91 Atrial fibrillation, unspecified
+- E66.9 Obesity, unspecified
+- I50.22 Chronic systolic (congestive) heart failure
+- G47.33 Obstructive sleep apnea
+- M19.90 Osteoarthritis, unspecified site (outdated - now coded M17.9 bilateral knee per ortho note 2024)
+- I73.9 Peripheral vascular disease, unspecified
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential (primary) hypertension
+
+MEDICATIONS: Metoprolol succinate 50mg daily, Apixaban 5mg BID, Furosemide 20mg daily, Metformin 1000mg BID, Lisinopril 10mg daily, Atorvastatin 40mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives with spouse. Retired schoolteacher. Denies alcohol use. Denies illicit drug use.
+
+VITALS: BP 132/78, HR 76 (irregular), RR 16, Temp 98.2F, Wt 198 lb, BMI 33.4, SpO2 96% RA
+
+PHYSICAL EXAM:
+General: Alert, NAD, obese habitus.
+CV: Irregularly irregular rhythm, no murmurs appreciated, trace bilateral lower extremity edema.
+Resp: Clear to auscultation bilaterally, no wheezes/rales.
+MSK: Mild crepitus bilateral knees, no effusion.
+Extremities: Peripheral pulses diminished bilaterally (PAD), no ulcers.
+
+LABS/RESULTS:
+- CBC 04/10/2026: WBC 6.8, Hgb 12.9, Plt 240
+- BMP 04/10/2026: Na 139, K 4.3, Cr 1.0, eGFR 62, Glucose 142
+- HbA1c 04/10/2026: 7.4%
+- BNP 04/10/2026: 210 pg/mL (stable from prior 198)
+- Lipid panel 03/15/2026: TC 165, LDL 88, HDL 45, TG 160
+
+ASSESSMENT AND PLAN:
+1. Tobacco use, former smoker - Reviewed smoking history in detail today. Patient reports she smoked 2 packs per day for 18 years, then cut down to about 10 cigarettes per day for the next 14 years before quitting entirely. She quit smoking when her grandson was born; that grandson is now 13 years old. She has remained smoke-free since. Continued abstinence encouraged; discussed general health benefits of remaining tobacco-free. Lung cancer screening was discussed conceptually as part of preventive care conversation.
+2. Hypertension - well controlled on current regimen, BP at goal today. Continue lisinopril.
+3. Type 2 diabetes mellitus - A1c 7.4%, above goal but improved from prior. Continue metformin, reinforce dietary counseling.
+4. Atrial fibrillation - rate controlled, continue metoprolol and apixaban for anticoagulation.
+5. HFrEF - BNP stable, continue furosemide and monitor volume status, weigh daily at home.
+6. OSA - continue CPAP, reassess adherence at next visit.
+7. Osteoarthritis - continue acetaminophen PRN, consider PT referral if worsening.
+8. PAD - stable, continue supportive care, reinforce foot care and skin checks.
+
+FOLLOW-UP: Return to clinic in 3 months, sooner if symptoms worsen.
+
+Julia Brennan, MD
+Internal Medicine

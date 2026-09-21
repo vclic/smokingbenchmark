@@ -1,0 +1,63 @@
+PULMONOLOGY FOLLOW-UP – PROGRESS NOTE
+DOS: 05/20/2026
+Author: Isaac Moreno, PA-C
+
+PATIENT: David Washington | DOB: 05/20/1968 | Age: 58 | Sex: M
+
+CHIEF COMPLAINT: F/u COPD exacerbation, recent ED visit.
+
+HPI:
+Pt is a 58 yo M w/ hx HLD and AFib, seen in ED ~1 wk ago for COPD exacerbation w/ increased dyspnea, cough, wheeze. Tx'd w/ nebs, steroids, abx, d/c'd home w/ instructions to f/u in pulm clinic. Reports mild improvement in sx since d/c but still c/o some dyspnea on exertion. No fevers, no chest pain. Pt has a long history of heavy smoking, contributing significantly to underlying COPD. Denies current use of tobacco. No hemoptysis. Appetite stable, sleep somewhat disrupted 2/2 cough.
+
+PMH: COPD, hyperlipidemia, atrial fibrillation (on anticoagulation, rate-controlled).
+PSH: none significant.
+MEDS: albuterol/ipratropium inhaler prn, tiotropium daily, atorvastatin, apixaban, metoprolol succinate.
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use: Former smoker
+ Smoking status: Quit
+ Quit date/duration: quit smoking 17 years ago
+ Packs/day: Not on file
+ Pack-years: Not on file
+ Alcohol use: occasional, denies to excess
+ Drug use: denies
+ Occupation: retired machinist
+ Living situation: lives w/ spouse
+
+***COPIED FROM PRIOR NOTE DATED 05/20/2024*** (social hx as documented at that visit, unchanged fields left as-is per copy-forward):
+ "As of the note dated 05/20/2024, tobacco status was documented as: former smoker, no current tobacco use reported at that time."
+[End of copied section]
+
+ROS: Otherwise negative except as noted in HPI. Denies leg swelling, denies palpitations currently, denies syncope.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76 irregularly irregular (known AFib), RR 18, SpO2 94% RA, Temp 98.2F, BMI 27.
+Gen: NAD, comfortable, conversing in full sentences.
+HEENT: unremarkable.
+Neck: no JVD, no LAD.
+CV: irregularly irregular rhythm, no m/r/g.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest.
+Abd: soft, NT/ND.
+Ext: no edema, no clubbing.
+Skin: warm, dry.
+
+LABS/IMAGING:
+CXR (from ED, reviewed): hyperinflated lungs c/w COPD, no acute infiltrate.
+BMP/CBC from ED wnl.
+EKG in clinic today: AFib, controlled ventricular rate, no acute ST changes.
+
+ASSESSMENT/PLAN:
+1. COPD, recent exacerbation, now improving.
+   - Continue tiotropium daily, albuterol/ipratropium prn.
+   - Short steroid taper as previously started in ED, continue per prior instructions.
+   - Pt counseled again on avoidance of tobacco/smoke exposure; reinforced importance of maintaining abstinence given hx of quitting smoking 17 yrs ago after a long period of heavy smoking prior to that.
+   - Pulm function testing (spirometry) to be scheduled once exacerbation fully resolved.
+   - Discussed lung cancer screening guidelines in general terms; further discussion to be had at next visit.
+2. Atrial fibrillation - rate well controlled today, continue metoprolol succ and apixaban, no changes.
+3. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+4. Health maintenance - up to date per chart, will verify immunizations (flu, pneumococcal) at next visit.
+
+F/u: Return to pulm clinic in 4-6 wks or sooner if worsening sx. Pt verbalized understanding of plan, all questions answered.
+
+Electronically signed: Isaac Moreno, PA-C, 05/20/2026

@@ -1,0 +1,61 @@
+NURSE INTAKE NOTE
+DOS: 09/01/2023
+Patient: Carol Foster DOB: 08/19/1970 Age: 53 F
+Provider: Elena Markovic, MD
+
+Vitals: BP 138/86, HR 78, RR 16, T 98.2F, O2 sat 96% RA, Wt 174 lb, Ht 5'5"
+Allergies: NKDA
+Meds reconciled - see MAR
+
+Chief complaint: New patient establishing care, multiple chronic conditions.
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: see note
+Years smoked: see note
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+----------------------------------------
+
+PHYSICIAN PROGRESS NOTE
+Elena Markovic, MD
+
+HPI: Ms. Foster is a 53 y/o female (DOB 08/19/1970) presenting 09/01/2023 to establish primary care. Hx significant for OSA, osteoarthritis, gout, osteoporosis, depression, and GERD. She reports, "I feel pretty good most days, just achy joints and I don't sleep great even with my CPAP." Denies chest pain, denies hemoptysis. Reports occasional heartburn, well controlled on omeprazole per pt. No new falls. No fevers.
+
+Smoking hx obtained in detail today. Pt states she smoked about three-quarters of a pack (roughly 15 cigarettes) per day for 10 years, then cut down somewhat and has smoked about 12 cigarettes per day for the following 21 years, continuing to the present. She continues to smoke despite repeated counseling on cessation at prior visits and today. Advised to quit again; discussed nicotine replacement options and referral to quitline. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+
+[Copied forward from note dated 03/14/2019 - OLD VISIT, retained in chart by prior clinic system, content not updated]:
+"Pt is a 49 y/o female here for follow up of OSA and GERD. CPAP compliance reviewed, pt using device approx 5 nights/week per download. Osteoarthritis stable, using topical NSAID and acetaminophen PRN. Gout - last flare approx 8 months ago, on allopurinol maintenance, uric acid last checked WNL. Osteoporosis - DEXA from 2018 showed osteopenia of the lumbar spine, on calcium/vitamin D supplementation. Depression - PHQ-9 score 7, stable on sertraline 50mg daily, no SI/HI. GERD - occasional symptoms, on OTC ranitidine (note: agent later recalled, pt since switched). ROS otherwise negative. Plan: continue current meds, f/u labs in 6 months, refer sleep medicine for CPAP titration if needed."
+[End copied-forward text]
+
+ROS (today): Constitutional - denies fever, chills, weight change. HEENT - denies vision changes. Resp - denies cough, denies dyspnea at rest, mild dyspnea on exertion attributed to deconditioning. CV - denies chest pain, palpitations. GI - occasional reflux as above. MSK - chronic joint pain, worse AM. Neuro - denies focal weakness. Psych - mood stable, denies SI/HI.
+
+Exam:
+General: well-appearing, NAD, obese habitus.
+HEENT: OP clear, no thyromegaly.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheezes/rales/rhonchi, no accessory muscle use.
+Abd: soft, NT/ND, +BS.
+MSK: mild tenderness bilateral knees, no effusion, ROM intact. First MTP joints without acute erythema/swelling today.
+Skin: no lesions.
+Psych: mood/affect appropriate, cooperative.
+
+Assessment/Plan:
+1. OSA - continue CPAP, encourage adherence, will pull download report next visit.
+2. Osteoarthritis - continue topical/PO NSAID + acetaminophen PRN, consider PT referral.
+3. Gout - continue allopurinol, check uric acid level, low purine diet reviewed.
+4. Osteoporosis - continue calcium/vit D, will order updated DEXA given time since last scan.
+5. Depression - continue sertraline, PHQ-9 to be repeated today, appears stable per pt report.
+6. GERD - continue omeprazole, reviewed dietary triggers.
+7. Tobacco use - ongoing daily smoking as detailed above despite counseling; discussed cessation resources, quitline referral given; general discussion of lung cancer screening as a preventive topic, to be revisited at future visit.
+8. Health maintenance - due for routine labs (CBC, CMP, lipid panel, A1c), mammogram due, colonoscopy status to confirm.
+
+F/u in 3 months or sooner if concerns.
+
+---
+ADDENDUM (later same day, 09/01/2023, 4:47 PM) - Elena Markovic, MD:
+Spoke with pt by phone after visit re: pharmacy question about allopurinol refill, authorized 90-day supply. Also clarified with pt that she has not tried varenicline previously; will consider offering at next visit given continued daily cigarette use despite counseling today. No other changes to plan.

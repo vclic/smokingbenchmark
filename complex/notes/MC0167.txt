@@ -1,0 +1,65 @@
+CARDIOLOGY FOLLOW-UP NOTE (Resident, with Attending Attestation)
+Author: Laura Castellano, FNP-C
+Date of Service: 08/27/2024
+Patient: Joyce Chen | DOB: 05/22/1972 | Age: 52 | Sex: F
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI:
+Ms Chen is a 52 yo woman w/ hx of PAD and afib, presenting for routine HF f/u. She reports mild dyspnea on exertion, denies orthopnea or PND. Pt states "I've been walking about a mile most days without too much trouble." No chest pain, no palpitations noted today though hx of afib. Weight stable per pt report, home scale reading unchanged x 2 wks. She reports adherence to diuretic regimen, denies missed doses. Some intermittent bilateral leg cramping reported, consistent w known PAD, worse w prolonged standing. Pt denies rest pain or new ulcerations on feet.
+No fevers chills cough. Sleep fair. Diet - pt admits "I still eat too much salty food sometimes" but trying to improve.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- I73.9 Peripheral artery disease
+- I48.91 Atrial fibrillation, unspecified
+- E78.5 Hyperlipidemia, unspecified (outdated - pt reports no longer on statin per last note, needs review)
+- I10 Essential hypertension
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY / TOBACCO USE:
+[Tobacco Use Screening - EHR templated block]
+Smoking status: Former smoker
+Cigarettes: Hx of smoking 2 packs per day x 7 years, then increased to 3 packs per day x 9 years prior to cessation
+Current use: None
+Years quit: N/A (see HPI/SH for age at cessation)
+Smokeless tobacco: Denies
+E-cigarette/vape: Denies
+Secondhand exposure: Denies
+[End tobacco block]
+
+Pt quit smoking at age 33 per report today, states "I havent touched a cigarette since" — pt reports no relapse. no other substance use reported. Denies alcohol use. Denies illicit drug use.
+
+MEDICATIONS:
+- Furosemide 40mg daily
+- Metoprolol succinate 50mg daily
+- Apixaban 5mg BID
+- Atorvastatin (pt reports d/c'd - needs clarification, see problem list note above)
+- Aspirin 81mg daily (verify if still indicated given anticoagulation)
+
+ALLERGIES: NKDA
+
+VITALS:
+BP 128/78 | HR 72 irregularly irregular | RR 16 | SpO2 97% RA | Wt 168 lbs (stable) | Ht 5'4"
+
+PHYSICAL EXAM:
+Gen: NAD, well appearing woman in no acute distress
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, JVP not elevated
+Lungs: CTAB, no wheezes rales rhonchi
+Ext: Trace bilateral LE edema, pedal pulses 1+ bilaterally diminished consistent w known PAD, no ulcers noted, feet warm
+Abd: Soft NT/ND
+
+ASSESSMENT/PLAN:
+52 yo F w/ HFrEF (per prior echo), PAD, and afib, stable today.
+1. Heart failure - continue current diuretic dose, recheck BMP next visit, reinforce low sodium diet education given pt's reported dietary habits.
+2. Atrial fibrillation - continue apixaban, rate controlled on metoprolol, no acute events reported.
+3. PAD - continue conservative mgmt, ABI to be reassessed if symptoms worsen, foot checks encouraged given claudication sx.
+4. Tobacco history - former smoker, quit successfully, counseled to continue abstinence, screening for lung ca discussed generally w pt today though no imaging ordered at this visit.
+5. Hyperlipidemia - need to clarify statin status at next visit, pt unclear on why discontinued.
+6. F/u in 3 months or sooner if symptoms worsen.
+
+Attending Attestation: I have reviewed and discussed this case with Ms. Castellano. I agree with the assessment and plan as documented above. - Dr. R. Alvarez, Cardiology
+
+---
+ADDENDUM (later same day, 08/27/2024, 16:42):
+Pt called back after visit requesting clarification on diuretic timing, advised to continue current AM dosing schedule, no changes made to plan otherwise. Will address statin question at next scheduled visit. No new complaints reported at time of this addendum. - L. Castellano, FNP-C

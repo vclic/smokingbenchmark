@@ -1,0 +1,51 @@
+TELEHEALTH VISIT NOTE
+Patient: William Alexander | DOB: 02/01/1959 | Age: 66 | Sex: M
+Date of Service: 12/25/2025
+Provider: Isaac Moreno, PA-C (Pulmonology)
+
+Visit type: Telehealth, COPD follow-up
+
+CC: f/u COPD, doing 'ok-ish', some SOB w exertion pt reports, denies chest pain, denies fevers/chills.
+
+HPI: 66 yo M w hx COPD, asthma, HTN, hypothyroidism, obesity, BPH, OA here via video visit for routine f/u. Pt states he has been using his inhalers 'most days' but admits missing doses occasionally, sometimes runs out of albuterol and just waits till refill comes in mail which he knows isnt ideal. Pt smoked for 31 years, quit smoking at age 59, currently a former smoker. No current tobacco use reported today. Pt denies use of e-cigs, vaping, or other inhaled substances. Reports occasional dyspnea on exertion, denies orthopnea, denies PND, denies edema. Sleep reportedly fair, pt endorses some snoring per spouse but no formal sleep study done. Appetite stable, some weight gain over past yr which pt attributes to reduced activity 2/2 knee pain from OA.
+
+[Copied forward from prior note dated 10/25/2022 - Pulmonology f/u - NOTE: content below reflects status AS OF THAT VISIT, not current]
+---BEGIN COPIED TEXT 10/25/2022---
+CC: COPD f/u, pt reports doing fairly well on current regimen. HPI: 63 yo M w COPD, HTN, obesity here for routine f/u, tolerating inhalers well, denies exacerbations since last visit. Smoking status as of 10/25/2022: former smoker (quit smoking, no current use). ROS otherwise negative for fever, chills, hemoptysis. PE: Lungs w mild expiratory wheeze bilat, no accessory muscle use, O2 sat 95% RA. Plan: continue current regimen, f/u in 3 months, DLCO stable per PFTs done 08/2022, spirometry showed FEV1 62% predicted. Pt counseled on avoidance of smoke exposure, given ongoing former smoker status pt encouraged to maintain abstinence.
+---END COPIED TEXT 10/25/2022---
+
+ROS (current, 12/25/2025): Constitutional - denies fever, chills, night sweats. Resp - endorses mild DOE, denies hemoptysis, denies productive cough today though pt notes 'some crud in the AM' [inaudible] pt says its been going on for a wile, denies wheeze at rest. CV - denies chest pain, denies palpitations. GU - pt reports nocturia x2-3 which is stable per pt, followed by urology for BPH. Endo - hypothyroid, on levothyroxine, denies palpitations or heat/cold intolerance. MSK - chronic knee pain OA, managed w acetaminophen prn.
+
+Meds: Albuterol HFA prn, Tiotropium daily, Levothyroxine 75mcg daily, Lisinopril 20mg daily, Tamsulosin 0.4mg daily, Acetaminophen prn for OA pain, Fluticasone/Salmeterol inhaler.
+
+Allergies: NKDA
+
+PE: Vitals - BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 94% on RA, Wt 231 lb, BMI 34.2.
+Gen: well appearing, NAD, conversant via video, no acute distress noted on cam.
+Resp: (limited exam via telehealth, pt auscultated own chest per coaching, breath sounds reportedly clear per pt report, unable to formally auscultate)
+CV: unable to auscultate via telehealth, pt denies edema on self-exam of lower extremities, no visible cyanosis noted on camera.
+Ext: no obvious edema noted on video.
+
+Labs/Results reviewed:
+- CBC (12/10/2025): WBC 6.8, Hgb 14.1, Hct 42.3%, Plt 235
+- CMP (12/10/2025): Na 139, K 4.3, Cr 0.98, eGFR >60, Glucose 101
+- TSH (11/15/2025): 2.1 (WNL)
+- Spirometry (09/2025): FEV1 60% predicted, FEV1/FVC ratio 0.65, consistent w moderate obstruction
+- Lipid panel (08/2025): TC 190, LDL 112, HDL 45, TG 165
+
+Assessment: 1. COPD, moderate, stable per spirometry trend though pt continues to endorse some sx. 2. HTN, controlled today on current regimen. 3. Hypothyroidism, euthyroid per recent TSH. 4. Obesity, BMI 34.2, counseled on lifestyle modification. 5. BPH, stable, f/u w urology. 6. OA, chronic, managed conservatively. 7. Asthma, overlap w COPD, on combo inhaler.
+
+Plan: 
+1. Continue current inhaler regimen, reinforce proper technique via video demo, pt to set reminder for refills so as not to run out.
+2. Reinforce importance of maintained tobacco abstinence; discussed general health benefits of continued avoidance of smoke/vape exposure.
+3. Discuss lung cancer screening guidelines in general terms with pt at next visit given hx.
+4. Continue lisinopril, monitor BP at home, pt to log readings.
+5. Continue levothyroxine, recheck TSH in 6 months.
+6. Refer back to urology for BPH f/u as previously scheduled, pt to confirm apt.
+7. OA - continue acetaminophen prn, consider PT referral if sx worsen.
+8. F/u in 3 months or sooner if worsening sx, pt given return precautions including worsening SOB, fever, hemoptysis, chest pain - advised to seek ER care if these occur.
+9. Pt encouraged re: weight loss, discussed diet/exercise modifications appropriate given OA limitations, may consider referral to nutrition.
+
+Time spent: approx 20 min telehealth visit, most spent on counseling/coordination of care.
+
+Electronically signed: Isaac Moreno, PA-C, Pulmonology, 12/25/2025.

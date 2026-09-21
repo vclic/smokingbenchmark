@@ -1,0 +1,89 @@
+NP PROGRESS NOTE
+Patient: Richard Martin M DOB 4/30/1950 Age 74
+DOS: 04/30/2024
+Author: Rachel Goldberg MD (co-signed by NP)
+Dept: Pulmonology - f/u incidental lung nodule
+
+HPI:
+Mr Martin returns to clinic for f/u of incidentally noted RUL pulmonary nodule found on chest CT during ED w/u for dyspnea last winter. Pt reports no new sx, denies hemoptysis, denies wt loss. Occasional dry cough attributed to underlying asthma. He mentions he quit smoking around the time his granddaughter was born - she is now 19 yrs old, which he brings up frequently as his personal marker of the quit date. No recent fevers/chills. DM and CKD stable per pt, HFrEF sx controlled on current regimen, no orthopnea or PND currently.
+
+ROS (templated, reviewed all systems):
+Constitutional: neg wt loss, neg fever
+Eyes: neg
+ENT: neg
+CV: neg chest pain, neg palpitations, hx HFrEF as below
+Resp: chronic cough as above, neg wheeze today, neg hemoptysis
+GI: neg n/v/d
+GU: neg dysuria
+MSK: neg
+Skin: neg rash
+Neuro: neg headache neg syncope
+Psych: neg SI/HI
+All other systems reviewed and negative unless noted above.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Status: Former smoker
+Type: Cigarettes
+Smoking Hx detail: pt reports approx 1/4 pack per day (~5 cigs/day) x 12 years, then increased to approx 1/2 pack per day (~10 cigs/day) x 17 years, thereafter quit completely.
+Current status: Does not currently smoke, no tobacco use at present.
+Quit context (per pt): quit smoking when granddaughter was born; granddaughter now age 19.
+Alcohol: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired machinist
+
+PMH / Problem List (ICD-10, some outdated per chart review):
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma unspecified uncomplicated
+- N18.3 CKD stage 3
+- I50.22 Chronic systolic (congestive) heart failure
+- I10 Essential hypertension (dc'd 2019 - no longer active per pt, still listed)
+- R91.1 Solitary pulmonary nodule
+- Z87.891 Personal hx of nicotine dependence
+
+Medications (per MAR, reconciled today):
+1. Metformin 1000mg PO BID
+2. Empagliflozin 10mg daily
+3. Albuterol HFA inhaler prn wheeze
+4. Fluticasone/salmeterol 250/50 1 puff BID
+5. Carvedilol 12.5mg BID
+6. Lisinopril 10mg daily
+7. Spironolactone 25mg daily
+8. Furosemide 40mg daily prn edema
+9. Atorvastatin 40mg qhs
+10. Aspirin 81mg daily
+11. Vitamin D3 2000IU daily
+(pt states adherent, occasionally misses furosemide when "feeling fine")
+
+Physical Exam:
+Vitals: BP 132/78 HR 76 RR 16 SpO2 95% RA Wt 198lb
+Gen: NAD, well-appearing elderly male
+HEENT: nml, no LAD
+CV: RRR nl S1S2 no m/r/g, no JVD, trace bilateral LE edema
+Resp: CTAB no wheeze rales rhonchi appreciated today
+Abd: soft NT ND +BS
+Ext: no clubbing cyanosis, trace edema noted above
+Skin: intact no rash
+Neuro: A&Ox3 grossly nonfocal
+
+Labs/Imaging reviewed:
+Chest CT (outside, reviewed today) 8mm RUL nodule stable in size compared to prior per report.
+A1c 7.1% (last mo). eGFR 48. BNP 310.
+
+Assessment:
+74 yo M former smoker (see tobacco hx above) with incidental stable RUL pulm nodule, comorbid DM2, asthma, CKD3, HFrEF, presenting for pulm f/u.
+1. Pulmonary nodule - stable in size on interval imaging. Given pt's age and remote tobacco hx, discussed lung cancer screening guidelines in general terms; no imaging ordered today, will continue surveillance per pulm protocol.
+2. Former tobacco use - pt quit smoking, counseling reinforced re: continued avoidance, congratulated on cessation.
+3. Asthma - stable, continue current inhalers.
+4. T2DM - stable, A1c improved, continue metformin/empagliflozin.
+5. CKD stage 3 - stable eGFR, avoid nephrotoxins, monitor.
+6. HFrEF - euvolemic today, continue GDMT, monitor wt daily.
+
+Plan:
+- F/u pulm in 6 months or sooner if sx
+- Repeat BMP CBC at next visit
+- Cont current meds as above no changes today
+- Pt educated on signs/sx warranting earlier return (hemoptysis, wt loss, worsening dyspnea)
+- Discussed general lung ca screening considerations without recommendation for or against LDCT at this time
+
+Visit time spent: 25 min, >50% counseling/coordination of care
+Electronically signed: Rachel Goldberg MD 04/30/2024

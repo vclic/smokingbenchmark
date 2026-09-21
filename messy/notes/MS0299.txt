@@ -1,0 +1,34 @@
+HOSPITAL DISCHARGE FOLLOW-UP - Primary Care
+Patient: Thomas Young, M, DOB 4/30/1954 (age 70)
+Date of Service: 04/30/2024
+Author: Nadia Haddad, MD
+
+HPI: Mr. Young is a 70 y/o male seen today for f/u after recent hospitalization for pneumonia, dc'd 5 days ago on levofloxacin, tolerating course well, denise fever chills or worsening cough, some residual fatigue and [inaudible] mild dyspnea on exertion that is improving day to day he says its 'much better than in the hospital'. No chest pain, no hemoptysis, appetite returning to normal. He lives alone and his daughter has been checking in on him and helping w meds.
+
+Social History: Denies ever smoking cigarettes, cigars, or pipes - never used tobacco in that form. He does report use of chewing tobacco. Discussed tobacco cessation resources given chewing tobacco use, he states he is 'thinking about it'.
+
+Problem List:
+- I48.91 Atrial fibrillation, unspecified (on anticoagulation)
+- M81.0 Age-related osteoporosis without current pathological fracture
+- J45.909 Asthma, unspecified, uncomplicated
+- J18.9 Pneumonia, unspecified organism (recent, resolving)
+- I10 Essential hypertension (outdated - pt reports normal home readings, may resolve from list)
+
+Meds: Apixaban 5mg BID, albuterol prn, alendronate weekly, recently completed levofloxacin course.
+
+Exam: Vitals stable, afebrile, T 98.4F, HR 78 irregular, BP 128/76, RR 16, SpO2 96% RA. Lungs: mild bibasilar crackles, improved from discharge exam, no wheeze currently. Cardiac: irregularly irregular rhythm, no murmur. No lower extremity edema.
+
+Labs/Results:
+- CBC (04/29/2024): WBC 8.1, Hgb 13.9, Plt 245
+- BMP (04/29/2024): Na 139, K 4.2, Cr 1.0, eGFR >60
+- CXR (04/29/2024): improving right lower lobe infiltrate compared to prior study dated 04/22/2024
+- INR (04/30/2024): 2.3 (therapeutic on apixaban - not routinely monitored but checked given recent illness)
+
+Assessment/Plan:
+1. Resolving pneumonia - continue supportive care, f/u CXR in 4-6 weeks to confirm resolution.
+2. Atrial fibrillation - continue apixaban, stable rate control.
+3. Osteoporosis - continue alendronate, recheck DEXA per prior schedule.
+4. Asthma - stable, continue albuterol prn.
+5. Tobacco/chewing tobacco use - counseled on cessation resources, discussed risks, will readdress at next visit.
+
+RTC in 2-4 weeks or sooner if symptoms worsen.

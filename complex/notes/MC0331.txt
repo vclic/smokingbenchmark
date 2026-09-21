@@ -1,0 +1,52 @@
+TELEHEALTH NEW PATIENT VISIT - PRIMARY CARE
+Patient: Larry Chen, M, DOB 3/1/1973 (age 53)
+Date of Service: 03/01/2026
+Provider: Gregory Tan, MD
+
+CHIEF COMPLAINT: Establish care, review of chronic conditions.
+
+HPI: Mr Chen is a 53 y/o male presenting via telehealth to establish primary care. Hx notable for depression, HFrEF, asthma, BPH, PAD, and osteoarthritis. He reports stable mood on current regimen, denies chest pain, orthopnea worse than baseline, or PND. Reports occassional claudication with ambulation >2 blocks, consistent with known PAD. Smoking history reviewed in detail: he smoked a quarter pack (about 5 cigarettes) per day for 15 years, then increased to half a pack (about 10 cigarettes) per day for 9 years before quitting. He quit smoking at age 45 and has not resumed. No current tobacco or nicotine product use.
+
+--- COPIED FROM PRIOR NOTE DATED 12/1/2023 (chart review, unedited) ---
+SOCIAL HISTORY (as documented 12/1/2023): Patient is a former smoker. Denies alcohol use. Lives alone, retired machinist. Denies illicit drug use. Exercise tolerance limited by joint pain. Diet reviewed, low sodium recommended given CHF. Pt educated on medication adherence and follow up labs. Pt verbalized understanding, agreeable to plan. Will continue to monitor BNP and renal function at next visit. Pt denies SOB at rest, denies fevers chills night sweats. Continue current regimen, RTC 3 months or sooner if worsening symptoms.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (current, 03/01/2026): Tobacco: former smoker as above, quit smoking, quit at age 45. No vaping. No alcohol use reported. No illicit drug use. Lives independently.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss. Cardiac: denies chest pain, denies syncope, +occasional lower extremity edema. Resp: denies hemoptysis, occasional wheeze with exertion, uses albuterol PRN. GI: denies nausea vomiting diarrhea. GU: nocturia x2, consistent with known BPH, denies dysuria. MSK: chronic knee pain bilateral, worse with weather changes. Psych: denies SI/HI, mood stable. Skin: no rashes. Neuro: no focal deficits. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 128/78, HR 76, RR 16, SpO2 96% RA, Temp 98.2F, Wt 198 lb. General: well-appearing, no acute distress, appropriate for telehealth visit. HEENT: atraumatic (per pt report/visual). Neck: no JVD appreciated on camera. Cardiac: unable to auscultate via telehealth; pt denies palpitations. Lungs: no visible respiratory distress, no accessory muscle use. Abdomen: soft per pt report, no distension noted visually. Extremities: trace bilateral edema noted on visual exam, no ulcers visible. Skin: no rashes visualized. Psych: mood euthymic, affect appropriate.
+
+LABS/RESULTS:
+- CBC (2/15/2026): WBC 6.8, Hgb 14.1, Plt 210
+- CMP (2/15/2026): Na 139, K 4.3, Cr 1.1, eGFR 68, Glucose 102
+- BNP (2/15/2026): 310 pg/mL (elevated, stable from prior)
+- Lipid panel (2/15/2026): TC 178, LDL 102, HDL 42, TG 150
+- HbA1c (2/15/2026): 5.6%
+
+CURRENT MEDICATIONS:
+1. Sertraline 100mg daily
+2. Carvedilol 12.5mg BID
+3. Furosemide 40mg daily
+4. Lisinopril 10mg daily
+5. Spironolactone 25mg daily
+6. Albuterol HFA PRN
+7. Fluticasone/salmeterol inhaler BID
+8. Tamsulosin 0.4mg daily
+9. Clopidogrel 75mg daily
+10. Atorvastatin 40mg daily
+11. Acetaminophen PRN for joint pain
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced EF - stable, BNP trending stable, continue GDMT as above, recheck BNP/CMP in 3 months.
+2. Depression - stable on sertraline, continue, screen with PHQ-9 next visit.
+3. Asthma - well controlled, continue current inhalers, reviewed inhaler technique.
+4. BPH - nocturia improved on tamsulosin, continue.
+5. Peripheral artery disease - continue clopidogrel and atorvastatin, ABI to be considered if symptoms worsen.
+6. Osteoarthritis - continue acetaminophen PRN, consider PT referral if worsening.
+7. Tobacco history - patient quit smoking previously; former smoking history documented in detail in HPI given relevance to cardiopulmonary risk. General health maintenance counseling provided; lung cancer screening discussed as part of preventive care conversation. Continued abstinence encouraged.
+8. Health maintenance - up to date per pt report, will verify with records.
+
+Follow up in 3 months or sooner if symptoms worsen. Telehealth visit completed, pt agreeable to plan.
+
+Gregory Tan, MD

@@ -1,0 +1,55 @@
+Pulmonology Progress Note (NP visit)
+Author: Priya Raman, MD
+DOS: 06/30/2023
+
+Patient: Larry Clark, M, DOB 3/1/1956 (age 67)
+
+CC: f/u incidental lung nodule found on CT chest 4 mos ago, stable per radiology report.
+
+HPI: Pt returns for routine f/u of incidental pulm nodule. Denies hemoptysis, wt loss, fevers/chills, or new SOB. Occas exertional dyspnea unchanged from baseline, attributed to hx of asthma. No CP or palpitations currently, hx CAD s/p stent x1. Compliant w meds. Reports mood stable on current antidepressant regimen, sleeping ok. No new cough. Denies occupational exposure to asbestos/silica.
+
+---SOCIAL HISTORY (EHR template)---
+Tobacco use: Former smoker
+Cigs/day: 10 (½ ppd)
+Years smoked: 35 yrs
+Quit: yes, approx 15 yrs ago
+Age started: Not on file
+Alcohol use: occas, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired, prev warehouse worker
+Living situation: Not on file
+Exercise: walks daily
+---END TEMPLATE---
+
+Pt states he "used to smoke about half a pack a day for around 35 years" but "quit smoking about 15 years ago and hasnt touched a cigarette since." No vaping or e-cig use reported. Denies 2nd hand smoke exposure at home.
+
+PMH: CAD, HTN, depression, asthma, hyperlipidemia.
+
+Meds: atorvastatin, lisinopril, albuterol prn, sertraline, aspirin 81mg.
+
+Allergies: NKDA
+
+ROS: Otherwise negative except as above. No fevers, no night sweats, no hoarseness.
+
+Physical Exam:
+Vitals: BP 132/78, HR 74, RR 16, SpO2 97% RA, Wt 198 lb
+Gen: NAD, well-appearing man in no distress
+Lungs: CTAB, no wheeze/rales/rhonchi appreciated, good air movement bilat
+CV: RRR, no m/r/g
+Abd: soft NT ND
+Ext: no edema
+Skin: no clubbing/cyanosis
+
+Labs/Imaging: CT chest (outside file, reviewed) 4 mos ago shows 6mm nodule RUL, stable compared to prior; no lymphadenopathy noted. Recent CMP/CBC wnl per PCP records.
+
+Assessment/Plan:
+1. Incidental pulm nodule, stable - low risk given size/stability. Continue surveillance per Fleischner guidelines, repeat low dose imaging recommended at future interval per protocol (imaging not ordered today, to be arranged per algorithm). Lung cancer screening discussed in general terms given tobacco hx; pt educated on signs/sympts to report.
+2. Former tobacco use - counseled on maintained cessation, praised pt for quitting, reinforced importance of continued abstinence given cardiopulm hx.
+3. Asthma - well controlled, continue albuterol prn, no rescue inhaler overuse reported.
+4. CAD/HTN - stable, BP well controlled today, continue current regimen, f/u w cardiology per their sched.
+5. Depression - stable mood, continue sertraline, f/u w psych as scheduled.
+6. Hyperlipidemia - continue atorvastatin, lipid panel due at next visit.
+
+Return to clinic per pulm surveillance protocol or sooner if new sympts develop. Pt verbalized understanding, all questions answered today.
+
+Electronically signed: Priya Raman, MD, 06/30/2023

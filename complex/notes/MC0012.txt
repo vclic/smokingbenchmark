@@ -1,0 +1,55 @@
+CARDIOLOGY FOLLOW-UP - RESIDENT NOTE
+Patient: Margaret Hill (F), DOB 5/25/1960, age 66
+DOS: 05/25/2026
+Attending: Catherine Lindqvist, DO
+
+CC: HF f/u
+
+HPI: 66yo F w/ hx HFpEF, OSA on CPAP, hypothyroidism, depression, GERD here for routine HF check. Pt reports doing reasonably well, denies orthopnea, PND, or new lower extremity edema. Mild dyspnea on exertion unchanged from last visit no chest pain palpitations or syncope. Weight stable per home scale. Compliant w/ diuretic and CPAP most nights. Diet mostly low sodium though admits to eating out more often lately.
+
+Soc Hx: Lifelong non-smoker. Pt states she vapes nicotine daily but has never smoked cigarettes - discussed nicotine cessation resources, pt not ready to quit vaping at this time. Occasional ETOH, denies illicit drug use. Lives w/ spouse, independent in ADLs.
+
+ROS: Otherwise negative except as above, denies fevers chills cough. GI: occasional reflux sx, takes PPI. Psych: mood stable on current regimen no SI/HI.
+
+Meds: Furosemide 20mg daily, Metoprolol succinate 50mg daily, Losartan 50mg daily, Levothyroxine 75mcg daily, Sertraline 100mg daily, Omeprazole 20mg daily
+
+Allergies: NKDA
+
+Vitals: BP 128/76 HR 68 RR 16 SpO2 97% RA Wt 71kg (stable)
+
+Exam:
+Gen: NAD, well appearing
+CV: RRR nl S1S2 no murmur gallop or rub, JVP not elevated
+Resp: CTAB no crackles wheeze
+Abd: soft nontender ND +BS
+Ext: no edema, warm well perfused
+Neuro: grossly intact
+
+Labs (reviewed today): BNP 145 (stable), BMP wnl, TSH 2.1 (euthyroid on current dose)
+
+Problem List:
+I50.32 - Chronic diastolic (congestive) heart failure
+G47.33 - Obstructive sleep apnea
+E03.9 - Hypothyroidism, unspecified
+F32.9 - Major depressive disorder, single episode, unspecified (chart may need update to recurrent per psych note last yr)
+K21.9 - GERD
+Z72.0 - Tobacco use (outdated entry, see soc hx - pt is lifelong nonsmoker, will correct in problem list)
+
+Assessment/Plan:
+66F w/ HFpEF stable on current regimen.
+1. HF - continue current diuretic/BB/ARB, f/u labs in 3 mo, reinforce low Na diet, wt monitoring at home
+2. OSA - continue CPAP, ask about compliance data at next visit
+3. Hypothyroidism - TSH euthyroid, cont current dose levothyroxine
+4. Depression - stable, cont sertraline, f/u w/ psych as scheduled
+5. GERD - cont omeprazole, sx well controlled
+6. Tobacco/nicotine - pt is lifelong nonsmoker but vapes nicotine daily; counseled re: risks of vaping, provided cessation resources, will readdress at future visits. Lung ca screening not discussed as pt has no cigarette smoking hx.
+
+RTC 3 months or sooner if sx worsen.
+
+--- Attestation ---
+I have seen and examined the pt personally, discussed the case w/ resident Dr Lindqvist, and agree w/ the above assessment and plan as documented.
+- Attending Cardiology
+
+=== ADDENDUM (later same day) ===
+Spoke further w/ pt by phone after clinic visit re: med refill question, unrelated to smoking/vaping discussion above. No changes to plan. Pt confirmed she understood counseling given re: vaping cessation options and will consider follow up w/ PCP for further discussion. No further updates to problem list at this time.
+- C. Lindqvist DO

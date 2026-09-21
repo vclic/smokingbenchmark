@@ -1,0 +1,65 @@
+ANNUAL WELLNESS VISIT - FAMILY MEDICINE
+Patient: Gwendolyn Long, F, DOB 08/02/1966 (age 59)
+Date of Service: 08/25/2025
+Author: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: Here for annual wellness exam, no acute complaints today, feeling generally well, denies chest pain or SOB, some occasional heartburn worse at night when she [inaudible] lies flat after eating late, otherwise doing fine and continuing usual activities including walking the dog most days and gardening on weekends when weather permits she says.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: See note below
+Alcohol use: Not on file
+Illicit drug use: Marijuana - few times a month, per patient report
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+SMOKING HISTORY (detailed, obtained today):
+Patient reports a smoking history occurring in three distinct stretches: initially smoked 1 pack per day for 3 years, followed by an increase to 2 packs per day for 4 years, then a decrease to 1.5 packs per day for an additional 3 years before quitting entirely. She states she has not smoked since her 22nd birthday. Patient quit smoking and has remained smoke-free since that time.
+
+[Copied from note dated 10/25/2021, unmodified — reflects status as documented on that date]:
+"Tobacco use as of 10/25/2021: former smoker, no further quantities documented in that note."
+
+Discussion: Lung cancer screening was discussed with the patient given her overall history; no further screening determinations made in this note, and no imaging orders placed at this visit.
+
+PMH/PROBLEM LIST:
+- N18.3 Chronic kidney disease, stage 3
+- K21.9 GERD
+- I10 Essential hypertension (outdated entry, pt reports this resolved per prior cardiology note, needs reconciliation)
+- E78.5 Hyperlipidemia (outdated, unclear if still active, will review labs)
+
+MEDICATIONS: Omeprazole 20mg daily, Lisinopril 10mg daily (pt states may have been discontinued, will clarify with pharmacy), multivitamin.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Denies fevers, chills, weight loss. Denies cough, denies hemoptysis. Denies dysuria, denies hematuria. GI: occasional reflux as above, denies nausea/vomiting, denies blood in stool. Denies edema. All other systems reviewed and negative except as noted in HPI, patient a good historian today and answered questions appropriately throughout the visit which ran a bit long due to the amount of history to cover today honestly.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 14, Temp 98.4F, Wt stable per flowsheet, BMI within acceptable range for her age and habitus.
+General: well-appearing, no acute distress, alert and oriented x3.
+HEENT: normocephalic, atraumatic, oropharynx clear, no thrush.
+Neck: no JVD, no thyromegaly, no lymphadenopathy appreciated on palpation today.
+Cardiac: regular rate and rhythm, no murmurs rubs or gallops appreciated.
+Lungs: clear to auscultation bilaterally, no wheezes rales or rhonchi, good air movement throughout all lung fields.
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds, no organomegaly.
+Extremities: no clubbing cyanosis or edema.
+Skin: no concerning lesions noted on exposed areas.
+Neuro: grossly intact, gait steady.
+
+LABS (recent, reviewed today): Creatinine 1.4, eGFR 52 (consistent with known CKD stage 3), lipid panel pending, A1c 5.6.
+
+ASSESSMENT:
+1. Chronic kidney disease, stage 3 - stable, will continue monitoring renal function with routine labs, counseled on renal-friendly diet and avoidance of NSAIDs.
+2. GERD - reasonably controlled on current regimen, advised to avoid late meals and elevate head of bed, continue omeprazole.
+3. Smoking history - patient is a former smoker as detailed above, quit smoking successfully, counseled on maintaining smoking cessation and congratulated on continued abstinence.
+4. Marijuana use - occasional, discussed potential risks, patient understands.
+5. Health maintenance - discussed age-appropriate screenings, will address at follow up given time constraints today.
+
+PLAN:
+- Continue current medications as above pending pharmacy reconciliation of lisinopril status
+- Recheck renal function labs in 6 months or sooner if clinically indicated
+- Continue GERD management, revisit if symptoms worsen or fail to improve
+- Reinforced counseling on tobacco-free lifestyle, positive reinforcement given for successful cessation
+- Follow up in 1 year for next annual wellness visit or sooner as needed
+- Patient verbalized understanding and agreement with plan, all questions answered today
+
+Electronically signed: Catherine Lindqvist, DO

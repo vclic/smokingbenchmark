@@ -1,0 +1,83 @@
+Internal Medicine Office Visit
+
+Patient: BUTLER, Sharon    MRN: 36277211
+DOB: 10/24/1946    Age: 76 y.o.    Sex: Female
+Date of Service: 01/25/2023    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Sharon Butler is a 76 y.o. female who presents for hospital follow-up after admission for symptomatic anemia.
+Admitted 1/14/2023-01/20/2023 for symptomatic anemia. Completed antibiotics. No new symptoms since discharge.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoporosis	2004
+• Generalized anxiety disorder	1986
+• Acquired hypothyroidism	2007
+• Hypercholesterolemia
+• GERD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• calcium + vitamin D daily
+• levothyroxine 75 mcg daily
+• omeprazole 20 mg daily
+• escitalopram 10 mg daily
+• rosuvastatin 20 mg daily
+• ezetimibe 10 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with husband and adult son.
+  Retired, former bus driver.
+  Social drinker.
+  No illicit drug use.
+
+Family History
+Brother - T2DM. Father - AAA repair.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 123/78 (BP Location: Left arm, Patient Position: Sitting) | Pulse 80 | Temp 98.8 °F (Oral) | Resp 18 | Ht 5' 4" | Wt 145 lb | SpO2 100% | BMI 24.97 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (12/23/2022): LDL 138, Cr 0.99, K 3.7, TSH 2.22
+
+Assessment & Plan
+1. Symptomatic anemia
+   Resolved. Med rec completed.
+2. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+3. Acquired hypothyroidism
+   TSH normal on last check; continue.
+4. GERD
+   Trial PPI step-down.
+
+f/u 6 mo
+
+Electronically signed by Isaac Moreno, PA-C on 01/25/2023

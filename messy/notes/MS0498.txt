@@ -1,0 +1,54 @@
+TELEHEALTH VISIT - MEDICATION REFILLS
+Family Medicine, Anita Patel, MD
+Date of Service: 05/12/2024
+
+PATIENT: Barbara Jones, F, DOB: 04/01/1948 (age 76)
+
+CHIEF COMPLAINT: Med refills, follow up chronic conditions.
+
+HPI: Ms. Jones is a 76 y/o female with h/o T2DM, COPD, AFib, osteoporosis, HTN, CAD calling in via video for routine refill visit. Pt reports doing 'about the same, breathing's been ok, no chest pain.' States 'I haven't smoked cigarettes in years, doc, quit that back in April 2016.' Denies chest pain, palpitations, or increased SOB. Reports occasional use of marijuana - 'maybe a few times a month, helps with my appetite.' No new falls. Compliant with meds per pt report, though daughter helps organize pillbox. Denies edema, orthopnea, PND.
+
+---COPY FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (retained in record, not updated this visit)---
+HPI (11/14/2023): Pt here for f/u DM, COPD, AFib. Reports occasional SOB with exertion, uses albuterol prn. Denies chest pain. A1c pending. Continue metoprolol, apixaban. Osteoporosis - last DEXA reviewed, continue alendronate. BP borderline elevated in office 138/84, recheck home readings. Pt reports adherence to meds. Denies falls. Discussed fall precautions given osteoporosis dx. Will recheck lipid panel at next visit. Pt tolerating current regimen without side effects reported. Continue current management, f/u in 4 months or sooner if symptoms worsen. RTC.
+---END COPY FORWARD---
+
+PMH: T2DM, COPD, AFib, osteoporosis, HTN, CAD (s/p stent 2015 per chart).
+
+MEDICATIONS: Metformin, metoprolol succinate, apixaban, alendronate, lisinopril, atorvastatin, albuterol inhaler prn, tiotropium inhaler.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking status: Former smoker
+Packs/day: 0.50
+Years: 47.00
+Quit date: April 2016
+Type of tobacco: Cigarettes
+Secondhand smoke exposure: Not on file
+Alcohol use: Denies
+Drug use: Marijuana - occasional (per pt, few times/month)
+Occupation: Retired
+Living situation: Lives alone, daughter nearby
+Exercise: Not on file
+
+ROS: Constitutional - denies fever, chills, weight loss. Resp - denies increased cough/sputum change, mild baseline dyspnea on exertion unchanged. Cardiac - denies chest pain/palpitations. GI - denies nausea/vomiting/abd pain. GU - denies dysuria. MSK - denies new joint pain. Neuro - denies dizziness, headache. Skin - denies rash.
+
+VITALS (per home device report, telehealth): BP 132/78, HR 68 irregular (known AFib), Wt 154 lbs, no fever reported.
+
+PHYSICAL EXAM: Limited due to telehealth format. General - well-appearing, no acute distress, seated comfortably at home. Speech clear, no accessory muscle use noted on camera. No visible edema.
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus - stable, continue metformin, recheck A1c at next in-person visit.
+2. COPD - stable, no exacerbation symptoms, continue tiotropium and albuterol prn. Discussed ongoing importance of avoiding respiratory irritants.
+3. Atrial fibrillation - continue apixaban and metoprolol, HR controlled per report.
+4. Osteoporosis - continue alendronate, DEXA due for repeat per guideline, will schedule.
+5. Hypertension - well controlled, continue lisinopril.
+6. Coronary artery disease - stable, continue atorvastatin, no anginal symptoms reported.
+7. Tobacco history - former smoker, quit April 2016 per patient report and chart; general counseling given on maintaining tobacco abstinence.
+8. Marijuana use - occasional per patient report, discussed with pt, will monitor.
+9. Refills sent to pharmacy of record for above medications.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalized understanding, agreeable with plan.
+
+Electronically signed: Anita Patel, MD

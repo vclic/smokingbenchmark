@@ -1,0 +1,74 @@
+General Medicine Clinic Progress Note
+
+Patient: BENNETT, Dorothy    MRN: 96357296
+DOB: 07/01/1954    Age: 70 y.o.    Sex: Female
+Date of Service: 10/07/2024    Provider: Priya Raman, MD
+
+Chief Complaint
+Patient presents with
+• Lung cancer screening
+
+Subjective:
+Dorothy Bennett is a 70 y.o. female who presents for lung cancer screening shared decision-making.
+Here to discuss lung cancer screening. She is a former smoker; she smoked two packs daily for 42 years and quit in 2014. Asymptomatic from a respiratory standpoint.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoporosis	1990
+• Osteoarthritis of knees
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (1991)
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• calcium + vitamin D daily
+• losartan 50 mg daily
+• diclofenac 1% gel QID PRN
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former electrician.
+  EtOH: 2-3 drinks on weekends.
+  Sedentary.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS: Resp neg, Skin neg, Neuro neg, CV neg
+
+Objective:
+Vitals:
+  BP 127/81 (BP Location: Right arm, Patient Position: Sitting) | Pulse 88 | Temp 98.1 °F (Oral) | Resp 14 | Ht 5' 4" | Wt 133 lb | SpO2 100% | BMI 22.87 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (September 3, 2024): Cr 1.01, K 4.9
+
+Assessment & Plan
+1. Lung cancer screening
+   SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+3. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+Return in about 3 months (around 1/7/2025).
+
+Electronically signed by Priya Raman, MD on 10/07/2024

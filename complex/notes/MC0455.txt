@@ -1,0 +1,43 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Darnell Alexander, M, DOB 6/24/1962, Age 61
+Date of Service: 06/24/2023
+Author: Daniel Reyes, MD (NP progress note dictated)
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Mr. Alexander is a 61 year old male referred for evaluation of intermittent chest discomfort, described as a pressure sensation that occurs with exertion, particularly when walking up stares [sic] or carrying groceries, lasting several minutes and relieved with rest. He denies radiation to jaw, denies diaphoresis, some associated shortness of breath noted. Patient reports he has had similar episodes over the past several weeks, worsening in frequency, he also notes increased leg swelling and fatigue which he attributes to his known heart failure. No recent fevers, no [inaudible] chills, denies palpitations though states his heart 'feels funny sometimes' when he overexerts himself and then he has too sit down and rest for a bit before continuing on his activities of daily living.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I73.9 Peripheral artery disease
+- M19.90 Osteoarthritis, unspecified site
+- E66.9 Obesity
+- I50.22 Chronic systolic (congestive) heart failure
+- N18.3 Chronic kidney disease, stage 3
+- I10 Essential hypertension (outdated, resolved per patient report, still listed)
+- E78.5 Hyperlipidemia (outdated entry, carried forward from prior chart)
+
+SOCIAL HISTORY: Lives with spouse, retired postal worker. Denies alcohol use. Never smoked cigarettes - patient reports he has never used tobacco products of any kind in his life. No illicit drug use reported. Diet notable for high sodium intake per patient, working with dietician.
+
+MEDICATIONS: Furosemide 40 mg daily, carvedilol 12.5 mg BID, lisinopril 10 mg daily, atorvastatin 40 mg qHS, cilostazol 100 mg BID for PAD symptoms.
+
+REVIEW OF SYSTEMS: Positive for exertional chest discomfort, dyspnea on exertion, bilateral lower extremity edema. Negative for syncope, negative for orthopnea beyond baseline, negative for fevers/chills. Remainder of ROS reviewed and negative.
+
+PHYSICAL EXAM: BP 142/86, HR 78, RR 16, SpO2 95% on room air, Wt 238 lbs. Gen: NAD, obese male. CV: RRR, S1 S2 normal, no S3 appreciated today, trace JVD. Lungs: mild bibasilar crackles. Ext: 1+ pitting edema bilateral lower extremities, cool distal extremities with diminished pedal pulses bilaterally consistent with known PAD.
+
+LABS/RESULTS:
+- BNP 6/24/2023: 412 pg/mL (elevated)
+- Creatinine 6/24/2023: 1.6 mg/dL (baseline per CKD stage 3)
+- eGFR 6/24/2023: 42 mL/min/1.73m2
+- Lipid panel 5/10/2023: LDL 98, HDL 38, TG 210
+- EKG today: sinus rhythm, nonspecific ST-T changes, no acute ST elevation
+
+ASSESSMENT/PLAN:
+61 year old male, never smoker per history, with PAD, osteoarthritis, obesity, HFrEF, and CKD stage 3 presenting with exertional chest pain concerning for possible angina versus heart failure exacerbation symptoms.
+1. Chest pain - obtain stress echo, continue current cardiac meds, follow up BNP trend.
+2. HFrEF - continue guideline directed medical therapy, monitor renal function given CKD.
+3. PAD - continue cilostazol, supervised exercise program discussed.
+4. CKD stage 3 - monitor labs, avoid nephrotoxic agents.
+5. Lung cancer screening discussed generally as part of preventive health given age, no further action documented today.
+6. Obesity/OA - continue weight management counseling, refer PT as needed.
+
+Follow up in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.

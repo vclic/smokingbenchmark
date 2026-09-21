@@ -1,0 +1,68 @@
+TELEHEALTH F/U VISIT NOTE
+Patient: Janet Alexander (F), DOB 2/3/1955 (age 68)
+Date of Service: 12/18/2023
+Provider: Farah Siddiqui, MD (Primary Care)
+
+Visit type: Post-hospitalization f/u telehealth, s/p admission for CAP (community-acquired pneumonia), d/c'd approx 1 wk ago.
+
+PROBLEM LIST (per chart, some entries outdated - not all reviewed today):
+- I10 Essential hypertension
+- M81.0 Age-related osteoporosis w/o current pathological fracture
+- J45.909 Asthma, unspecified, uncomplicated
+- F32.9 Major depressive disorder, single episode, unspecified (dx 2016, may be resolved - pt reports mood stable x yrs)
+- J18.9 Pneumonia, unspecified organism (recent admission, resolving)
+- Z87.891 Personal hx of nicotine dependence (legacy entry - see below, pt still active smoker)
+
+HPI: 68 yo F seen via telehealth for f/u after recent hosp admit for pneumonia. Pt reports improving cough, less SOB, no fevers/chills. Denies chest pain. Sleeping better. Appetite improving. Taking abx as prescribed (completed course per report). Denies hemoptysis. Some residual fatigue but improving day to day. No new SOB at rest. Asthma sx stable, using albuterol PRN maybe 1x/wk. No recent ED visits since d/c.
+
+ROS: Constitutional - fatigue improving, no fever. Resp - improving cough, no dyspnea at rest. CV - no CP/palp. GI - appetite ok, no N/V. Psych - mood stable, denies SI. MSK - no new back pain (osteoporosis stable per pt report).
+
+PMH: HTN, osteoporosis, asthma, depression, recent CAP (12/2023 admit).
+PSH: none significant per chart.
+Meds (per last reconciliation): lisinopril 10mg daily, alendronate 70mg weekly, albuterol HFA PRN, fluticasone/salmeterol inhaler, sertraline 50mg daily, calcium/vit D supplement, completed course of amoxicillin-clavulanate for CAP.
+Allergies: NKDA.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Pack-year history: 107 pack-years
+Readiness to quit: Not ready to quit at this time
+Counseling provided: Yes - advised patient to quit smoking, discussed risks of continued tobacco use, offered resources/cessation support
+Smokeless tobacco: Never
+Alcohol use: occasional, denies heavy use
+Illicit drug use: denies
+Living situation: lives alone, daughter nearby
+
+Assessment/Plan discussion re: tobacco - pt verbalized understanding of risks but states she is "not ready" to make changes at this time given stress from recent hospitalization; will continue to offer support at future visits. Lung cancer screening was discussed in general terms as part of preventive health counseling appropriate for her risk factors; no imaging ordered today, defer further workup to future visit as clinically indicated.
+
+EXAM (limited, via video):
+Gen: alert, NAD, conversant, appears well for age.
+Resp: pt coughs occasionally during call, denies increased work of breathing, no visible accessory muscle use.
+CV: unable to auscultate via telehealth.
+Psych: mood/affect appropriate, linear thought process.
+
+ASSESSMENT:
+1. J18.9 Pneumonia, resolving - clinically improved s/p recent hospitalization, continue supportive care.
+2. I10 HTN - stable, continue current regimen.
+3. M81.0 Osteoporosis - stable, continue alendronate, no new fx.
+4. J45.909 Asthma - stable, continue current inhalers.
+5. F32.9 Depression - stable on sertraline.
+6. Tobacco use disorder, active - counseled, pt not ready to quit; will readdress.
+
+PLAN:
+- F/u CXR in 4-6 wks to confirm resolution of pneumonia (order placed).
+- Continue current meds as above, no changes today.
+- Pulmonary function/asthma control to be reassessed at next in-person visit.
+- Bone density (DEXA) due date to be checked - will schedule if overdue.
+- Continue sertraline, no acute mood concerns today.
+- Tobacco cessation counseling given; pt declines referral to cessation program at this time; will re-offer at future visits.
+- Pt to call/message if worsening cough, fever, SOB, or CP.
+- Routine labs (BMP, CBC) can be drawn at next in-office visit.
+- RTC in-office in 4-6 wks or sooner if needed.
+
+Time spent: approx 20 min telehealth visit, counseling >50% of time re: tobacco use, pneumonia recovery, and med adherence.
+
+---
+ADDENDUM (same day, later, 12/18/2023 16:45) - Dr. Farah Siddiqui:
+Spoke with patient again by phone this afternoon re: lab result question (unrelated to today's visit, pt called office directly). Clarified that recent BMP from hospital stay was unremarkable, no action needed. Reiterated f/u CXR plan and reminded pt to schedule in 4-6 wks. Pt again verbalized understanding. No new concerns raised. No changes to plan above. Tobacco counseling reiterated briefly; pt reaffirmed she is not ready to quit at this time. Will continue to monitor and readdress at future visits.
+End of addendum.

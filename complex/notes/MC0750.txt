@@ -1,0 +1,84 @@
+PULMONOLOGY H&P – LUNG CA SCREENING SDM VISIT
+DOS: 04/28/2026
+Provider: Michael Dunn, DO
+
+PT: Barnes, Wayne — M — DOB 01/30/1953 (age 73)
+
+CC: Shared decision-making visit for lung cancer screening d/t hx smoking.
+
+HPI: 73 yo M w/ hx HFrEF, T2DM, BPH, depression, OA presents today for SDM visit re: lung ca screening per referral from PCP. Pt reports he has felt at his baseline, denies new cough, hemoptysis, unintentional wt loss, or dyspnea beyond his known baseline exertional SOB c/w HF. He is aware his tobacco hx places him in an at-risk category and wanted to discuss options for screening.
+Smoking hx reviewed in detail: pt started smoking as a young man, smoked approx a quarter pack (~5 cigs/day) per day for 19 yrs, then increased to about 8 cigs/day for the following 14 yrs before quitting in 2003. He is now a former smoker. He denies ever using e-cigs, vaping, or other tobacco products. No occupational asbestos or radon exposure reported. Family hx negative for lung ca.
+We discussed the general concept of low-dose CT screening for lung cancer, its purpose, potential benefits, and possible harms including false positives, incidental findings, and radiation exposure. Pt verbalized understanding. Screening eligibility criteria and decision were discussed at length; no imaging order placed today, further discussion to follow after pt has time to consider.
+
+PMH (problem list, ICD-10, some may be outdated):
+- I50.22 Chronic systolic (congestive) heart failure
+- N40.1 BPH with LUTS
+- E11.9 Type 2 diabetes mellitus w/o complications
+- F32.9 Major depressive disorder, unspecified (note: pt reports this resolved yrs ago per pt, dx never removed from list)
+- M19.90 Osteoarthritis, unspecified site
+- I10 Essential hypertension (chart note from 2019, unclear if still active, pt denies HTN dx currently)
+- J45.909 Asthma, unspecified (old entry, pt denies asthma hx, likely copy-forward error)
+
+MEDS:
+1. Carvedilol 12.5 mg PO BID
+2. Furosemide 40 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Metformin 1000 mg PO BID
+6. Empagliflozin 10 mg PO daily
+7. Tamsulosin 0.4 mg PO qHS
+8. Finasteride 5 mg PO daily
+9. Sertraline 50 mg PO daily
+10. Acetaminophen 650 mg PO PRN pain
+11. Atorvastatin 40 mg PO qHS
+12. Aspirin 81 mg PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HX: Former smoker as above, quit 2003. Denies current or past alcohol use disorder, occasional social EtOH. Denies illicit drug use. Lives w/ spouse, retired machinist. Independent w/ ADLs, uses cane for ambulation d/t OA knees.
+
+FAMILY HX: Father — MI at 68. Mother — DM2. No known fam hx of lung or other malignancy.
+
+ROS: (comprehensive, templated)
+Constitutional: Denies fever, chills, night sweats. Reports stable wt.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies hearing loss, denies sore throat, denies epistaxis.
+Cardiovascular: Reports chronic mild exertional dyspnea c/w known HFrEF, denies chest pain, denies palpitations, denies orthopnea beyond baseline (sleeps on 2 pillows, unchanged).
+Respiratory: Denies cough, denies hemoptysis, denies wheeze, denies pleuritic pain.
+GI: Denies nausea, vomiting, diarrhea, constipation, abd pain.
+GU: Reports nocturia x2-3, known BPH, denies dysuria, denies hematuria.
+MSK: Reports chronic knee pain c/w OA, denies acute injury.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies HA, denies focal weakness, denies numbness/tingling.
+Psych: Denies current depressed mood, denies SI/HI, hx MDD stable on sertraline.
+Endo: Denies polyuria, polydipsia beyond baseline, glucose reportedly well controlled per pt.
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: T 97.8F, HR 68, BP 126/74, RR 16, SpO2 96% RA, Wt 198 lb, Ht 5'9"
+Gen: NAD, well-appearing elderly M, A&Ox3.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no lesions.
+Neck: Supple, no JVD appreciated at 30 deg, no lymphadenopathy, no thyromegaly.
+CV: RRR, S1/S2 nl, no S3/S4 appreciated today, no murmurs/rubs/gallops, trace bilateral LE edema, chronic.
+Resp: CTAB, no wheezes, rales, or rhonchi, normal effort, no accessory muscle use.
+Abd: Soft, NT/ND, +BS, no HSM, no masses.
+Ext: Trace edema b/l ankles, no clubbing, no cyanosis, pulses 2+ b/l.
+MSK: Crepitus b/l knees, ROM limited by pain, no acute effusion.
+Skin: Warm, dry, intact, no rashes or lesions.
+Neuro: CN II-XII grossly intact, motor 5/5 all extremities, sensation intact grossly, gait steady w/ cane.
+Psych: Mood euthymic, affect congruent, judgment/insight intact.
+
+ASSESSMENT/PLAN:
+1. Discussion re: lung cancer screening — SDM visit completed today per protocol. Reviewed benefits/risks/limitations of LDCT screening w/ pt in detail. Pt to consider info provided; will follow up to finalize decision. No imaging ordered today.
+2. HFrEF — stable on GDMT, continue current regimen, follow w/ cardiology.
+3. T2DM — well-controlled per pt report, continue metformin/empagliflozin, recheck A1c at next visit.
+4. BPH — stable on tamsulosin/finasteride, continue.
+5. Depression — stable, hx well-controlled on sertraline, continue.
+6. OA — chronic knee pain, continue acetaminophen PRN, ortho referral previously made.
+7. Tobacco use — former smoker, quit 2003, reinforced positive reinforcement re: continued abstinence, counseled on avoidance of relapse.
+
+RTC in 6 months or sooner PRN. Pt verbalized understanding of plan, all questions answered today.
+
+Electronically signed: Michael Dunn, DO — Pulmonology

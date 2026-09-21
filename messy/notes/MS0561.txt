@@ -1,0 +1,33 @@
+RESIDENT NOTE - Pulmonology COPD Follow-up
+DOS: 04/16/2025
+Patient: Rita Roberts, F, DOB 4/16/1958 (age 67)
+Author: Steven Park, MD (resident) w/ attending attestation
+
+HPI: 67 yo F w/ COPD, HFrEF, T2DM presents for routine f/u. Reports stable dyspnea on exertion, no acute exacerbations since last visit. Uses albuterol PRN, tiotropium daily. No fevers, chills, hemoptysis. c/o mild ankle edema, otherwise cardiac sx stable per pt.
+
+Social History: Former smoker - smoked 30 cigs/day x 17 yrs, quit 2/19/2007. No longer smokes. Also reports occasional vaping, uses e-cig socially per pt report. No EtOH, no illicit drug use.
+
+[Copied from note dated 5/16/2021]: "Smoking status: former smoker." (no quantities documented in that note)
+
+ROS: Otherwise negative except as above.
+
+Exam: VSS, afebrile. Lungs w/ mild expiratory wheeze bilat, no crackles. CV: RRR, no murmurs, 1+ pitting edema b/l LE. Abd soft, NT/ND. No JVD appreciated today.
+
+Problem List (ICD-10):
+- J44.9 COPD, unspecified
+- I50.22 Chronic systolic HF (HFrEF)
+- E11.9 T2DM w/o complications
+- Z87.891 Personal hx of nicotine dependence
+- I10 HTN (outdated - pt reports normal BPs x 2 yrs, may resolve from list)
+- E78.5 Hyperlipidemia (outdated, last lipid panel wnl x3)
+
+Assessment/Plan:
+1. COPD - stable, continue current inhalers. Smoking history notable for 30 cig/day x17 yrs, quit 2/19/2007; counseled to avoid vaping as well given respiratory dz. Lung cancer screening discussed with pt given hx, will revisit options with PCP.
+2. HFrEF - euvolemic-ish today, mild edema, will adjust diuretic slightly, f/u weight logs.
+3. T2DM - A1c pending, continue metformin.
+4. Return to clinic in 3 months or sooner if worsening sx.
+
+Attending Attestation: I have reviewed and discussed this patient with Dr. Park. I agree with the assessment and plan as documented above. - Attending, Pulmonology
+
+***ADDENDUM (same day, later)***
+Pt called clinic later this afternoon to clarify she does still use e-cig occasionally (vaping), reaffirming this was accurately captured in note above; no other changes. No new smoking of combustible cigarettes reported. Plan unchanged.

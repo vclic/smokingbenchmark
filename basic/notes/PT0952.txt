@@ -1,0 +1,71 @@
+Internal Medicine Progress Note
+
+Patient: KIM, Wei    MRN: 56039692
+DOB: 10/08/1955    Age: 68 y.o.    Sex: Male
+Date of Service: 05/15/2024    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Wei Kim is a 68 y.o. male who presents for diabetes follow-up.
+Most recent A1c 8.3% (previously 7.9% in February 2024). Checks fasting sugars most mornings, running 110s-160s. Denies polyuria/polydipsia. Trying to walk 20 minutes daily.
+
+Past Medical History:
+Diagnosis	Date
+• Gastroesophageal reflux disease
+• Type 2 diabetes mellitus
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• omeprazole 20 mg daily
+• metformin 500 mg BID
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Married, lives with wife.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Parents deceased, causes unknown. Father - prostate cancer.
+
+Review of Systems
+ROS: Resp neg, CV neg, Neuro neg, Gen neg, GU neg, MSK neg
+
+Objective:
+Vitals:
+  BP 129/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 64 | Temp 97.9 °F (Oral) | Resp 16 | Ht 6' 0" | Wt 211 lb | SpO2 95% | BMI 28.66 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.3% - above goal; add empagliflozin 10 mg daily. Foot exam today - monofilament intact.
+2. Gastroesophageal reflux disease
+   Trial PPI step-down.
+3. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 6 mo
+
+Electronically signed by Rachel Goldberg, MD on 05/15/2024

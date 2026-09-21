@@ -1,0 +1,46 @@
+Adult Medicine Clinic Note
+Date of Service: 01/16/2025
+Patient: George Price   DOB: 8/2/1963   MRN: 73659469
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Mr. Price is a 61 y.o. male former smoker (quit 2007, relapsed 2013, quit again 2019) with T2DM, HTN, and OA who presents for pre-operative evaluation prior to lumbar fusion. Scheduled for lumbar fusion on 2/14/25. Functional capacity limited by pain, estimated 4 METs. No personal/family hx of anesthesia problems.
+
+PMH:
+- Type 2 diabetes mellitus
+- Osteoarthritis (dx 2007)
+- HTN (dx 2018)
+Meds: amlodipine 10 mg daily; acetaminophen 500 mg 2 tabs TID PRN; metformin 500 mg BID
+Allergies: Codeine (nausea)
+SH: Lives alone in an apartment. Social drinker. Denies illicit drugs.
+FH: Father - prostate cancer.
+ROS: GI neg, Skin neg, Neuro neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 124/74  HR: 80  RR: 20  Temp: 97.6 F  SpO2: 100% on RA  Wt: 196 lbs  BMI: 29.0
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (12/19/2024): A1c 8.4%, LDL 89, Cr 1.07, K 4.2
+
+A/P:
+1. Pre-operative evaluation
+   - RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. HTN
+   - BP at goal; continue current regimen.
+3. Osteoarthritis
+   - Continue PRN analgesics; home exercises.
+4. Health maintenance
+   - LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+Follow up in 6 months or sooner PRN.
+
+Seen and discussed with resident Dr. Okafor. I personally saw and examined the patient and agree with the findings and plan as documented.
+Kevin Osei, MD

@@ -1,0 +1,78 @@
+Wexford Urgent Care Telehealth Note
+Patient: Patricia White (DOB 08/11/1953), Age: 71
+Date of Service: 09/14/2024
+Author: Steven Park, MD
+Visit Type: Telehealth, Urgent Care
+
+CHIEF COMPLAINT: Cough
+
+HPI:
+Ms. White is a 71-year-old female with history of type 2 diabetes and obstructive sleep apnea who presents via telehealth today, 09/14/2024, with a complaint of persistent cough for the past 5 days. She describes the cough as dry, worse at night, occasionally productive of clear sputum. She denies fever, chest pain, or hemoptysis. She reports mild shortness of breath with exertion but no significant change from baseline. She has not tried any OTC remedies yet. She notes that she continues to smoke and has not made any recent changes in her tobacco use. No sick contacts reported. No recent travel. She uses her CPAP nightly for OSA and reports it is working well. Blood sugars have been in her usual range per home glucometer readings.
+
+ROS: Otherwise negative except as noted above. No weight loss, no night sweats, no hemoptysis.
+
+PAST MEDICAL HISTORY:
+- Type 2 diabetes mellitus
+- Obstructive sleep apnea (on CPAP)
+
+MEDICATIONS: Metformin 1000mg BID, Glipizide 5mg daily, home CPAP therapy
+
+ALLERGIES: NKDA
+
+---SOCIAL HISTORY (EHR TEMPLATE)---
+Tobacco Use Status: Current Every Day Smoker
+Packs/day: 2.00
+Years: 51.00
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Secondhand smoke exposure: Not on file
+Alcohol Use: Former drinker, quit 2011
+Alcohol type: Not on file
+Drug Use: Not on file
+Occupation: Retired
+Living Situation: Lives alone
+---END TEMPLATE---
+
+Social history note (free text): Patient reports she quit drinking alcohol back in 2011 and has not resumed since. She continues to smoke cigarettes and has not expressed readiness to quit at this visit, though this was briefly discussed.
+
+VITALS (via home device report/telehealth):
+BP: 138/82
+HR: 82
+RR: 16
+Temp: 98.4 F (reported)
+SpO2: 95% on room air (per home pulse ox)
+Weight: 172 lbs
+
+PHYSICAL EXAM (Telehealth, limited):
+General: Alert, no acute distress, speaking in full sentences.
+HEENT: No visible distress, mucous membranes appear moist on video.
+Neck: No obvious JVD appreciated on camera.
+Lungs: Patient auscultation not possible via telehealth; patient reports no wheezing subjectively; cough witnessed during call, sounds non-productive at this time.
+Cardiac: Unable to auscultate; patient denies palpitations or chest pain.
+Extremities: No visible edema on camera.
+
+ASSESSMENT:
+1. Acute cough, likely viral upper respiratory infection vs early bronchitis - patient with longstanding active tobacco use which may be a contributing factor to chronic cough symptoms and warrants close monitoring given her extensive smoking history noted in the chart (51 years, 2 packs/day per today's documentation).
+2. Type 2 diabetes mellitus - stable per patient report, continue current regimen.
+3. Obstructive sleep apnea - stable on CPAP.
+4. Tobacco use disorder - active smoker as of today's visit; counseling regarding smoking cessation was offered and discussed with patient including risks associated with continued use given her age (71) and duration of use. Patient was not receptive to cessation aids at this time but agreed to consider nicotine replacement therapy in the future.
+
+PLAN:
+1. Supportive care for cough - recommend hydration, honey/lemon tea, OTC dextromethorphan as needed.
+2. If symptoms worsen (fever, chest pain, hemoptysis, worsening dyspnea) advised to seek in-person evaluation or ER.
+3. Continue metformin and glipizide as prescribed; recheck A1c at next routine visit.
+4. Continue CPAP nightly for OSA.
+5. Smoking cessation counseling provided; discussed nicotine replacement options and behavioral support resources. Patient given handout with quitline number.
+6. Discussed general concept of lung cancer screening guidelines as they may relate to her smoking history; no imaging ordered at this time, will discuss further with PCP at follow up.
+7. Follow up with PCP in 1-2 weeks or sooner if symptoms worsen.
+8. Follow up telehealth or in-office visit as needed.
+
+Patient verbalized understanding of plan and agreed to follow up as instructed.
+
+Steven Park, MD
+Electronically signed 09/14/2024
+
+---ADDENDUM (later same day, 09/14/2024)---
+Addendum by Steven Park, MD:
+After further review of chart, confirming tobacco use details entered in social history template are accurate as of today's encounter (Packs/day: 2.00, Years: 51.00). Patient called back this afternoon to clarify she has not started any new symptoms since our visit and cough remains stable. No new orders at this time. Will await PCP follow up as planned. No changes to assessment or plan.
+End of addendum.

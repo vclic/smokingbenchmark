@@ -1,0 +1,87 @@
+RESIDENT NOTE - FAMILY MEDICINE
+Patient: Karen Flores (F), DOB: 2/16/1972 (age 51)
+Date of Service: October 15, 2023
+Author: Steven Park, MD (Resident), with attending attestation
+
+CC: Annual wellness visit.
+
+HPI: Ms. Flores is a 51-year-old woman with history of coronary artery disease, gout, obesity, obstructive sleep apnea, and BPH who presents for her annual wellness visit. She reports doing reasonably well overall. No chest pain, no palpitations, no dyspnea on exertion beyond her baseline. She notes occasional joint pain in the great toe consistent with prior gout flares, currently quiescent. She uses her CPAP most nights and feels rested most mornings, though admits to occasional non-adherence when traveling. Denies dysuria, urinary retention, or nocturia beyond baseline 1-2x/night, stable on tamsulosin. No new complaints today. She is due for routine labs and health maintenance screening discussion.
+
+PAST MEDICAL HISTORY:
+- Coronary artery disease, s/p PCI (per prior records)
+- Gout
+- Obesity
+- Obstructive sleep apnea, on CPAP
+- BPH
+
+MEDICATIONS:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg daily
+- Allopurinol 300 mg daily
+- Tamsulosin 0.4 mg daily
+- Metoprolol succinate 25 mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Alcohol use: Reports 1-2 glasses of wine on weekends.
+Tobacco use: [field blank]
+Living situation: Lives with spouse in single-family home.
+Occupation: Works as an administrative assistant at a law firm.
+Exercise: Not on file.
+Diet: Not on file.
+
+--- Copied forward from prior visit note dated 04/22/2021 ---
+(Resident note, Dr. A. Nguyen)
+Patient presents for follow-up of CAD and gout. States chest pain resolved after last titration of metoprolol. Reports gout flare in Feb 2021 treated with colchicine, resolved within a few days. Discussed weight management goals, referred to nutrition. OSA - CPAP compliance reviewed, patient using device approximately 5 nights/week at that visit. BPH symptoms stable, no hematuria. Plan at that time: continue current medications, follow up labs in 3 months, recheck lipid panel and BMP, continue CPAP education, discuss urology referral if BPH symptoms worsen. Vitals from that visit: BP 138/82, HR 76, Wt 214 lb, BMI 34.2.
+--- end copied forward text ---
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, chills, unintentional weight loss.
+Cardiovascular: No chest pain, palpitations, orthopnea, PND.
+Respiratory: No cough, wheeze, hemoptysis.
+GU: No dysuria, hematuria, per above baseline nocturia.
+Musculoskeletal: No active joint swelling today.
+Sleep: Uses CPAP, reports adequate energy most days.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 72, RR 14, Temp 98.2F, Wt 208 lb, Ht 5'4", BMI 35.7
+General: Well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, first MTP joint without erythema or swelling today.
+Skin: No rashes or lesions noted.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABS/RESULTS (reviewed today):
+- CBC (09/28/2023): WBC 6.4, Hgb 13.2, Hct 39.5%, Plt 245
+- BMP (09/28/2023): Na 139, K 4.3, Cl 101, CO2 25, BUN 16, Cr 0.9, Glucose 102
+- Lipid panel (09/28/2023): Total chol 178, LDL 96, HDL 48, Trig 170
+- Uric acid (09/28/2023): 6.1 mg/dL
+- HbA1c (09/28/2023): 5.7%
+- PSA (09/28/2023): 1.4 ng/mL
+- TSH (09/28/2023): 2.1 mIU/L
+
+ASSESSMENT:
+1. Coronary artery disease - stable, continue current regimen.
+2. Gout - well controlled on allopurinol, uric acid at goal.
+3. Obesity - BMI 35.7, discussed diet and exercise, referral to nutrition considered.
+4. Obstructive sleep apnea - continue CPAP, encourage adherence.
+5. BPH - stable on tamsulosin, PSA within normal range.
+6. Health maintenance - routine screening discussion including age-appropriate cancer screening topics; further discussion of individualized screening plans to occur at follow-up.
+
+PLAN:
+- Continue current medications as above.
+- Recheck lipid panel and BMP in 6 months.
+- Encourage continued CPAP use, will review compliance data at next visit.
+- Nutrition referral placed for weight management.
+- Continue tamsulosin, urology follow-up as needed if symptoms worsen.
+- Discussed general age-appropriate screening topics including colon cancer screening (up to date per records) and other preventive care; screening options discussed but no specific low-dose imaging ordered today.
+- Follow-up in 6 months or sooner if symptoms arise.
+
+Attestation: I have personally seen and examined the patient with the resident, reviewed and agree with the documented history, exam, and plan as outlined above.
+- Attending Physician (co-signature on file)

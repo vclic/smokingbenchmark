@@ -1,0 +1,64 @@
+Family Medicine Annual Wellness Visit
+Patient: Gwendolyn Garcia (F), DOB 4/18/1965, Age: 60
+Date of Service: 04/18/2025
+Author: Hannah Weiss, NP
+
+HPI:
+Pt presents for annual wellness exam. Reports feeling generally well, no acute complaints today. Denies chest pain currently but has hx of CAD, on statin/aspirin, states "I havent had any chest tightness lately, feel pretty good." Sleep reportedly improved w CPAP use, though pt admits "I dont use it every night, maybe 4-5x/week." No wt changes, appetite stable.
+
+Re: tobacco - pt states "I just smoke socially, you know, at parties or when Im out with friends" - describes self as a social smoker for many years, no daily use reported. Advised to quit, discussed risks of even intermittent tobacco use incl cardiac and pulm effects given her CAD/OSA hx. Lung cancer screening discussed in general terms today.
+
+---COPIED FROM NOTE DATED 12/18/2021---
+[The following social history text carried forward from prior encounter dtd 12/18/2021, reflects status AT THAT TIME]:
+Tobacco: current smoker. No further detail on file from that visit.
+---END COPIED SECTION---
+
+ROS: otherwise negative for fevers, cough, hemoptysis, dyspnea at rest. Denies palpitations.
+
+PMH/Problem List (ICD-10):
+- G47.33 Obstructive sleep apnea (chronic, on CPAP)
+- I25.10 Coronary artery disease, native vessel, w/o angina
+- E78.5 Hyperlipidemia, unspecified (outdated entry, last addressed 2019, pt states now on statin therapy)
+- Z87.891 Personal hx of nicotine dependence (entry may be outdated, see current tobacco status above)
+
+Social History (EHR templated block):
+Tobacco use: Active smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: N/A
+Secondhand exposure: Denies
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives w spouse
+
+Medications:
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Metoprolol succinate 25mg daily
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 72, RR 16, Temp 98.4F, Wt 168lb, Ht 5'5", BMI 28.0
+
+Physical Exam:
+Gen: well-appearing, NAD
+HEENT: PERRLA, oropharynx clear, no cyanosis
+CV: RRR, no murmurs/gallops/rubs
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND, +BS
+Ext: no edema, pulses 2+ symmetric
+Neuro: A&Ox3, no focal deficits
+Skin: no rashes or lesions noted
+
+Assessment/Plan:
+1. Obstructive sleep apnea - continue CPAP, encourage more consistent nightly use, f/u sleep med as needed.
+2. Coronary artery disease - stable, continue current cardiac regimen, follow up w cardiology per their schedule.
+3. Tobacco use, active/social smoking - counseled on cessation, offered resources incl quitline info, discussed cardiopulmonary risks in setting of CAD and OSA. Pt states will "think about cutting back."
+4. Health maintenance - UTD on immunizations per record, mammogram due this yr, colonoscopy screening d/w pt.
+5. Lung cancer screening - topic discussed in general terms given smoking hx, no further determination made today.
+
+Return to clinic in 12 months or sooner if symptoms arise. Pt verbalizes understanding of plan, all questions answered today.
+
+Electronically signed: Hannah Weiss, NP 04/18/2025

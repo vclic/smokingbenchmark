@@ -1,0 +1,39 @@
+INTERNAL MEDICINE PRE-OP EVALUATION
+DOS: 09/27/2023
+Author: Quentin Hale, PA-C (resident note; attending attestation below)
+
+Patient: Rosa Okafor, F, DOB 03/20/1960, age 63.
+
+HPI: Pt seen for pre-op medical clearance prior to L total knee arthroplasty. Reports chronic knee pain, worsening over past yr, limiting ambulation. Denies chest pain, SOB at rest. Hx OSA on CPAP - reports adherent use. Denies recent hypoglycemia. Continues to smoke cigarettes, counseled again on cessation resources given peri-op risk; pt states not ready to quit at this time.
+
+--- COPIED FORWARD FROM VISIT 04/14/2021 (Dr. Alvarez, Endocrinology) ---
+HYPOTHYROIDISM: TSH stable on levothyroxine 75mcg. No dose change.
+OSTEOPOROSIS: DEXA reviewed, T-score lumbar -2.6. Continue calcium/vit D, consider bisphosphonate.
+HTN: BP well controlled on lisinopril.
+CKD3: Cr 1.4, eGFR ~42. Nephrotoxin avoidance discussed.
+T2DM: A1c 7.1%, metformin continued.
+OSA: Sleep study c/w moderate-severe OSA, CPAP prescribed.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (tobacco block, EHR template):
+Tobacco use: Cigarettes
+Current status: Current every day smoker
+History: Pt smoked approx 1/4 pack per day (~5 cigs/day) x17 years, then quit smoking completely for 5 years, then restarted smoking at approx 1/4 pack per day (~5 cigs/day) x24 years, continues to smoke to present.
+Alcohol: occasional wine.
+Illicit drugs: denies.
+
+ROS: Otherwise negative except as above.
+
+Exam: Vitals stable, afebrile. BP 132/78, HR 76. Lungs CTAB. Cardiac RRR no m/r/g. Knee: crepitus, decreased ROM, no effusion. Skin intact.
+
+Labs reviewed: BMP, CBC, coags wnl for pre-op. A1c pending repeat.
+
+Assessment/Plan:
+1. Pre-op clearance for TKA - medically stable to proceed, cardiac risk low per RCRI.
+2. Tobacco use, current smoker - reiterated counseling on cessation given surgical and pulmonary risk; general tobacco-related health risks discussed with patient.
+3. OSA - continue CPAP peri-op, bring device to hospital.
+4. CKD3 - avoid NSAIDs, renal-dose meds peri-op.
+5. T2DM - hold metformin day of surgery, sliding scale insulin as needed.
+6. HTN/hypothyroid/osteoporosis - continue home meds, resume post-op as tolerated.
+
+Attending attestation: Discussed with and examined patient; agree with resident's assessment and plan as above. - Dr. M. Fennimore, Attending IM.

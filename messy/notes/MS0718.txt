@@ -1,0 +1,63 @@
+RESIDENT NOTE - FAMILY MEDICINE
+Patient: Susan Young (F), DOB: 08/22/1950
+Date of Service: 10/28/2025
+Author: Daniel Reyes, MD (resident); attending attestation below
+
+CC: Annual wellness visit.
+
+HPI: Pt is a 75 year old female here for annual wellness exam. Reports doing fairly well overall, some intermittant fatigue, denies chest pain, denies new SOB at rest, occasional dyspnea on exertion c/w known CAD/OSA. Sleeps with CPAP most nights, admits to occasionally forgeting to use it. No recent falls. Weight stable per pt although she feels her clothes fitting tighter, [inaudible] discussion re: diet and activity level she says she walks maybe 20 min most days when weather permits and her knees dont bother her too much anymore since starting the new arthritis cream. Denies palpitations, denies syncope, on anticoagulation for known afib per cardiology f/u q6 months, last echo reviewed prior visit stable EF. Asthma well controlled uses albuterol PRN rarely. CKD stage 3 stable per recent labs, nephrology aware, no dialysis planning at this time.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never used tobacco
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies to excess
+Recreational drug use: Marijuana - occasional use reported
+Other substances: Not on file
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: See HPI above
+
+ROS: Constitutional: denies fever denies chills reports fatigue as above. Eyes: denies vision changes. ENT: denies sore throat denies hearing loss. Cardiovascular: denies chest pain denies orthopnea reports occasional palp sensation resolved spontaneously per pt. Respiratory: denies cough denies hemoptysis reports occasional wheeze with exertion. GI: denies nausea denies vomiting denies abdominal pain reports regular bowel habits. GU: denies dysuria denies hematuria. Musculoskeletal: reports chronic knee discomfort as above denies acute injury. Skin: denies rash denies new lesions. Neuro: denies headache denies numbness denies tingling denies weakness. Psych: denies depression denies anxiety sleep described as fair. Endocrine: denies polyuria denies polydipsia. Heme/Lymph: denies easy bruising denies swollen glands. Allergic/Immunologic: denies seasonal allergy symptoms at this time.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 95% RA, Wt 198 lb, Ht 5'3"
+General: Well-appearing elderly female, NAD, cooperative with exam.
+HEENT: Normocephalic atraumatic, PERRLA, oropharynx clear, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no JVD, trace pedal edema bilat.
+Respiratory: Lungs clear to auscultation bilaterally, mild expiratory wheeze noted on forced exhalation, no rales no rhonchi.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds, obese habitus.
+Extremities: No cyanosis, trace edema as noted, pulses palpable.
+Skin: Warm dry intact no rash.
+Neuro: Alert oriented x3, CN II-XII grossly intact, gait steady with cane.
+Psych: Mood euthymic affect appropriate.
+
+MEDICATIONS (reviewed and reconciled today):
+1. Apixaban 5mg PO BID
+2. Metoprolol succinate 50mg PO daily
+3. Atorvastatin 40mg PO qhs
+4. Aspirin 81mg PO daily (held per cardiology given anticoag - verify)
+5. Albuterol HFA inhaler PRN
+6. Fluticasone/salmeterol inhaler BID
+7. Lisinopril 10mg PO daily
+8. Furosemide 20mg PO daily PRN edema
+9. Metformin 500mg PO BID
+10. Vitamin D3 2000 IU daily
+11. Calcium carbonate 500mg BID
+12. Melatonin 3mg qhs PRN
+
+ASSESSMENT/PLAN:
+75 year old female here for annual wellness visit with hx obesity, asthma, CAD, afib on anticoagulation, OSA on CPAP, CKD stage 3.
+
+1. Health maintenance - Age-appropriate cancer screening discussed including mammogram and colon ca screening, pt up to date per records. Lung cancer screening was discussed generally as part of preventive care conversation given age, no further action taken today. Immunizations reviewed, flu shot given today, pneumococcal up to date.
+2. CAD - stable, continue current meds, no new symptoms, will continue statin and antiplatelet/anticoag as above per cardiology.
+3. Afib - continue apixaban, HR controlled on metoprolol, no palpitations of concern today.
+4. OSA - continue CPAP encourage adherence, will consider repeat sleep study if symptoms worsen.
+5. CKD stage 3 - stable renal function on recent labs, continue to avoid nephrotoxic agents, renally dose meds as needed.
+6. Asthma - well controlled, continue current inhalers.
+7. Obesity - discussed diet and exercise, pt encouraged to continue walking program, refered to nutrition if interested she declined at this time.
+8. Substance use - tobacco: never smoker, no counseling needed regarding smoking cessation. Marijuana use occasional per pt, discussed potential interactions with current medications and cognitive effects in older adults, pt understands.
+
+Return to clinic in 3 months or sooner if concerns. Pt verbalizes understanding of plan.
+
+Attending attestation: I have seen and examined the patient with Dr. Reyes and agree with the above assessment and plan as documented.
+- Attending physician co-signature on file.

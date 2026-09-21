@@ -1,0 +1,40 @@
+Pulmonology NP Progress Note
+Author: Steven Park, MD (co-signed)
+DOS: 09/11/2024
+Patient: Frank Thomas, M, DOB 3/30/1958 (age 66)
+
+CC: COPD f/u
+
+HPI: Pt is a 66 yo M w/ h/o COPD presenting for routine pulm f/u. Reports doing fairly well, occasional dyspnea on exertion, denies fever/chills/hemoptysis. Uses albuterol PRN, maybe 2-3x/wk. No recent exacerbations requiring steroids or abx. Sleep ok, appetite stable. Pt states he no longer smokes, quit smoking at age 47, and has a 16 pack-year smoking history overall. No vaping, no other tobacco products currently.
+
+=== COPIED FORWARD FROM 03/14/2023 VISIT (retained for reference, not updated) ===
+HPI: Pt is a 65 yo M w/ h/o COPD, HLD, GERD, OA, BPH presents for f/u, reports cough productive of white sputum in am, denies hemoptysis, denies weight loss, the pt states he has been taking his omeprazole regularly and his reflux sx have improved somewhat although he still gets occasional heartburn especially after eating late at night and he thinks its related to his diet but has not been able to fully change his eating habits due to work schedule [inaudible] denies chest pain denies palpitations reports occasional knee pain worse w/ stairs managed w/ tylenol and topical diclofenac, BPH sx stable on tamsulosin, voiding without difficulty, no hematuria, ROS otherwise negative. PE unremarkable, lungs w/ mild exp wheeze, no accessory muscle use. A/P: continue current regimen, f/u in 6 mo, PFTs reviewed stable from prior.
+=== END COPIED TEXT ===
+
+ROS: Otherwise negative except as above. Denies chest pain, denies orthopnea, denies edema.
+
+Meds: Tiotropium inh daily, albuterol inh PRN, atorvastatin 40mg qhs, omeprazole 20mg daily, tamsulosin 0.4mg qhs, tylenol PRN, topical diclofenac PRN.
+
+PMH: COPD, HLD, GERD, OA, BPH.
+
+PE: Vitals stable, afebrile, RR 16, SpO2 95% RA. Gen: NAD. Lungs: mild exp wheeze bilat, no crackles. CV: RRR, no m/r/g. Abd: soft NT/ND. Ext: no edema.
+
+Labs/Results:
+- CBC (09/10/2024): WBC 6.8, Hgb 14.2, Plt 230
+- CMP (09/10/2024): Na 139, K 4.1, Cr 0.9, Glucose 98
+- Lipid panel (08/15/2024): LDL 102, HDL 45, Trig 130
+- PFTs (07/2024): FEV1 62% predicted, FEV1/FVC 0.65, consistent w/ moderate obstruction
+
+A/P:
+1. COPD - stable, moderate obstruction per PFTs, continue tiotropium + PRN albuterol, reviewed inhaler technique, discussed pulm rehab referral.
+2. Smoking history - pt quit smoking, no longer smokes; counseled on continued avoidance of tobacco, lung cancer screening discussed generally as part of ongoing preventive care conversation.
+3. HLD - continue atorvastatin, recheck lipids in 6 mo.
+4. GERD - continue omeprazole, stable.
+5. OA - continue conservative mgmt.
+6. BPH - continue tamsulosin, voiding sx stable.
+
+Plan: f/u in 6 months or sooner if worsening sx, call clinic w/ any questions, pt verbalizes understanding and agrees w/ plan.
+
+---
+ADDENDUM (later same day, 09/11/2024, 4:47pm):
+Pt called clinic after visit asking about refill on albuterol inhaler, staff advised script sent to pharmacy of record, pt to call back if not received w/in 48 hrs. No other changes to plan above. Reiterated pt's tobacco status for chart accuracy - pt confirmed again he no longer smokes and quit smoking at age 47, 16 pack-year hx as documented above.

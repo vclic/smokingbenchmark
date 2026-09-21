@@ -1,0 +1,56 @@
+PULMONOLOGY H&P - COPD FOLLOW-UP
+Patient: Cheryl Hill | DOB: 1/24/1963 | Age: 63 | Sex: F
+DOS: 01/24/2026
+Author: Gregory Tan, MD
+
+CC: COPD f/u, ?worsening dyspnea on exertion
+
+HPI: 63 yo F w/ h/o COPD, afib, OSA presents for routine f/u. Pt states "I get winded going up my stairs at home, more than a few months ago." Denies fever/chills, +occasional productive cough AM, whitish sputum. No hemoptysis, no chest pain. Uses albuterol PRN w/ some relief. Sleeps w/ CPAP most nights, reports c/o fatigue occasionally despite CPAP use - will address at sleep med f/u. On anticoagulation for afib, no bleeding events reported.
+
+ROS: Otherwise negative except as above. No wt loss, no LE edema currently, no orthopnea.
+
+PMH: COPD, Afib (on anticoag), OSA (CPAP compliant per pt report)
+PSH: None significant
+Meds: Albuterol HFA PRN, Tiotropium daily, Apixaban 5mg BID, home O2 - none currently
+Allergies: NKDA
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE]
+  Status: Current every day smoker
+  Pack-year history: 19 pack-years
+  Readiness to quit: Not ready to quit at this time
+  Cessation counseling offered: Yes, declined referral to quitline today
+Alcohol: occasional glass of wine, denies excess
+Illicit drug use: denies
+Living situation: lives w/ spouse, independent in ADLs
+
+Additional note re: smoking - pt continues to smoke daily, verbalizes she is not ready to quit at this visit, states "I know I should stop but not right now." Advised to quit again today, discussed general health risks of continued smoking including COPD progression and cardiovascular risk given afib. Lung cancer screening was discussed briefly as part of general risk counseling.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 82 irreg irreg, RR 18, SpO2 94% RA, Temp 98.2F, BMI 27.4
+Gen: NAD, comfortable, mild use of accessory muscles noted
+HEENT: unremarkable
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD
+Resp: decreased breath sounds bilaterally, mild expiratory wheeze scattered, no crackles
+Abd: soft, NT/ND
+Ext: no c/c/e
+
+LABS/STUDIES:
+PFTs (12/15/2025): FEV1 58% predicted, FEV1/FVC 0.61, consistent w/ moderate obstruction
+CXR (01/10/2026): hyperinflated lungs, no acute infiltrate, no effusion
+CBC (01/24/2026): WBC 7.2, Hgb 13.9, Plt 245
+BMP (01/24/2026): Na 139, K 4.1, Cr 0.9, Glc 101
+BNP (01/24/2026): 88 pg/mL (nl)
+INR (01/24/2026): 2.3 (therapeutic on apixaban - note apixaban does not require routine INR monitoring, value obtained incidentally/for other workup)
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, GOLD B - sx somewhat worse per pt report today. Continue tiotropium, add combination inhaler (ICS/LABA) given increased sx. Reinforce inhaler technique. Pulm rehab referral discussed.
+2. Tobacco use, current, 19 pack-year hx - counseled on cessation again today; pt not ready to quit at this time. Offered nicotine replacement/pharmacotherapy, declined for now. Will readdress at next visit.
+3. Atrial fibrillation - rate appears controlled today, continue apixaban, f/u with cardiology as scheduled.
+4. OSA - continue CPAP, f/u sleep medicine re: reported fatigue despite compliance.
+
+F/u in 3 months or sooner if worsening sx. Pt educated on when to seek urgent care (worsening SOB, fever, hemoptysis, chest pain).
+
+Gregory Tan, MD
+Pulmonology
+Dictated/signed 01/24/2026

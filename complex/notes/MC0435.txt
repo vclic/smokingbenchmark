@@ -1,0 +1,51 @@
+CARDIOLOGY HISTORY AND PHYSICAL
+Patient: Curtis Murphy (M), DOB: 04/07/1963
+Age: 61
+Date of Service: 04/07/2024
+Author: Daniel Reyes, MD
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Mr. Murphy is a 61-year-old male with HFrEF, CAD, CKD stage 3, hyperlipidemia, osteoporosis, and BPH who presents today for routine follow-up. He is accompanied by his daughter, who assists with history given the patient's known expressive aphasia (residual from prior CVA per chart). When asked about his symptoms, the patient nodded and stated, "tired... legs..." while gesturing to his lower extremities, consistent with mild lower extremity edema noted by daughter over the past week. Daughter reports he has been compliant with diuretic dosing and low-sodium diet as best she can tell. No overt orthopnea or PND reported by family. He denies chest pain today, though communication is limited. Weight is stable compared to last visit per home scale log kept by daughter.
+
+Review of systems is largely obtained via daughter/collateral due to patient's language limitations; otherwise unremarkable outside of cardiopulmonary complaints noted above.
+
+SOCIAL HISTORY: Tobacco history unable to obtain today given patient's aphasia and inability to reliably answer detailed questions; he remains a poor historian for this and other history items, and prior notes in the chart are inconsistent. Family/social history reviewed: mother had COPD and was a lifelong smoker per daughter's report. Alcohol use: unable to obtain for same reasons. Lives with daughter, who provides most caregiving support.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Heart failure with reduced ejection fraction (I50.22) - last EF 30% on echo 2023, on GDMT.
+2. Coronary artery disease (I25.10) - s/p PCI, date unclear in chart, possibly 2019.
+3. Chronic kidney disease, stage 3 (N18.3) - baseline creatinine ~1.6.
+4. Hyperlipidemia (E78.5) - on statin.
+5. Osteoporosis (M81.0) - on bisphosphonate, last DEXA outdated (>5 years ago, needs repeat).
+6. Benign prostatic hyperplasia (N40.0) - on tamsulosin.
+7. History of CVA with residual expressive aphasia (I69.320) - noted for context, not primary reason for visit today.
+
+MEDICATIONS: Carvedilol, sacubitril/valsartan, spironolactone, furosemide, atorvastatin, alendronate, tamsulosin, aspirin.
+
+ALLERGIES: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 118/72, HR 68, RR 16, SpO2 96% RA, Weight 84 kg (stable).
+General: Alert, cooperative, mild expressive language deficit noted, otherwise no acute distress.
+CV: Regular rate and rhythm, S3 not appreciated today, no significant murmurs.
+Lungs: Clear to auscultation bilaterally, no crackles.
+Abdomen: Soft, non-tender, no hepatomegaly appreciated.
+Extremities: Trace bilateral lower extremity edema, improved from prior visit.
+Neuro: Expressive aphasia noted, comprehension appears largely intact based on nonverbal responses; no new focal deficits per daughter.
+
+LABS (reviewed from last week): BNP 410 (improved from 620), Creatinine 1.6, eGFR 42, Potassium 4.3, Sodium 138.
+
+ASSESSMENT:
+61-year-old male with HFrEF, CAD, CKD stage 3, hyperlipidemia, osteoporosis, BPH, and history of CVA with residual aphasia, presenting today with mild volume overload, improved from prior visit with BNP trending down. Tobacco use history could not be obtained today due to the patient's aphasia and status as a poor historian; this remains undocumented and should be revisited when better collateral or communication is available. Family history notable for mother with COPD, lifelong smoker, which is noted for records but does not change current management given inability to assess patient's own exposure history at this time.
+
+PLAN:
+1. Heart failure: Continue current GDMT; increase furosemide slightly for mild edema. Daily weight monitoring by daughter.
+2. CAD: Continue aspirin and statin, no new symptoms today.
+3. CKD stage 3: Monitor renal function with medication adjustments, recheck BMP in 2 weeks.
+4. Osteoporosis: Recommend repeat DEXA scan given outdated prior study.
+5. BPH: Continue tamsulosin, no urinary retention symptoms reported.
+6. Social/history: Attempt to re-obtain tobacco and alcohol history at next visit with additional collateral support; consider speech therapy referral for communication assistance to facilitate history-taking.
+7. Follow-up in cardiology clinic in 4 weeks, sooner if symptoms worsen.
+
+Electronically signed by Daniel Reyes, MD.

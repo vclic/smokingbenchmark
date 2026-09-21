@@ -1,0 +1,80 @@
+TELEHEALTH VISIT NOTE
+Patient: Wei Clark | DOB: 10/08/1961 | Age: 64 | Sex: M
+Date of Service: 12/18/2025
+Provider: Julia Brennan, MD - Family Medicine
+Visit type: Telehealth, medication refills
+
+CHIEF COMPLAINT: Med refills - BPH, CKD3, depression.
+
+HPI:
+64 yo M seen via telehealth for routine refill visit. Pt reports doing fairly well overall. Nocturia stable at 2x/night, no dysuria, no hematuria. Mood described as "okay," sleep adequate, denies SI/HI. No new complaints today. Pt states he continues to feel well since quitting smoking years ago and has no respiratory complaints currently. He mentions he has not touched a cigarette since Dec 1995.
+
+SOCIAL HISTORY:
+TOBACCO USE (per EHR template, updated this visit):
+  - Smoking status: Former smoker
+  - Amount: 3 packs per day
+  - Current use: No
+  - Quit date: 12/1995
+Alcohol: occasional, denies heavy use.
+Illicit drugs: denies.
+Lives with spouse, retired.
+
+[COPIED FORWARD FROM VISIT 03/14/2019 - FAMILY MEDICINE - NOTE MAY CONTAIN OUTDATED INFO]
+CC: f/u HTN, BPH.
+HPI: Pt c/o mild urinary hesitancy, denies fevers/chills. BP well controlled on current regimen. Denies chest pain, SOB, palpitations. ROS otherwise negative. Continues home exercise program, walking 20 min daily. Diet reviewed, low sodium encouraged. Pt was counseled extensively regarding importance of med compliance and f/u labs. PSA last checked 2018, stable. No acute distress noted on exam. Pt tolerating meds well, no new SEs reported. Plan: cont current meds, f/u in 6 mo, routine labs ordered.
+[END COPIED FORWARD TEXT]
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, wt loss.
+HEENT: denies vision changes, hearing loss, sore throat.
+CV: denies chest pain, palpitations, edema.
+Resp: denies cough, SOB, wheeze.
+GI: denies abd pain, N/V/D, constipation.
+GU: nocturia as above, denies dysuria/hematuria.
+MSK: denies joint pain, myalgia.
+Skin: denies rash, lesions.
+Neuro: denies headache, dizziness, numbness.
+Psych: mood stable, denies SI/HI, sleep adequate.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals (via home cuff reported by pt): BP 128/78, HR 72, wt 190 lb.
+Gen: alert, well-appearing, no acute distress, video quality adequate.
+HEENT: NCAT, no visible abnormalities on camera.
+CV: unable to auscultate via telehealth, pt denies symptoms.
+Resp: unable to auscultate via telehealth, no visible respiratory distress.
+Abd: not examined, pt denies tenderness.
+Ext: no visible edema.
+Psych: mood/affect appropriate, cooperative, appropriate interaction.
+
+LABS/RESULTS:
+- BMP 12/01/2025: Na 139, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.6, eGFR 46, Glucose 98.
+- CBC 12/01/2025: WBC 6.2, Hgb 14.1, Hct 42.0, Plt 210.
+- PSA 11/15/2025: 2.1 ng/mL (stable from prior).
+- HbA1c 09/2025: 5.8%.
+- Lipid panel 09/2025: TC 172, LDL 98, HDL 48, TG 130.
+
+CURRENT MEDICATIONS:
+1. Tamsulosin 0.4 mg PO qHS
+2. Finasteride 5 mg PO daily
+3. Sertraline 100 mg PO daily
+4. Lisinopril 10 mg PO daily
+5. Amlodipine 5 mg PO daily
+6. Atorvastatin 20 mg PO qHS
+7. Vitamin D3 2000 IU PO daily
+8. Calcium carbonate 500 mg PO BID
+9. Aspirin 81 mg PO daily
+10. Multivitamin PO daily
+
+ASSESSMENT AND PLAN:
+1. BPH - stable on tamsulosin/finasteride, nocturia improved. Cont current regimen. PSA stable at 2.1, will recheck in 6 mo.
+2. CKD stage 3 - eGFR 46, stable from prior BMP. Cont ACE-I, avoid nephrotoxic agents, recheck BMP in 3 mo.
+3. Depression - mood stable on sertraline 100 mg, denies SI/HI. Cont current dose, f/u in 3 mo or sooner if worsening.
+4. Tobacco history - former smoker, quit December 1995, currently a nonsmoker. No respiratory symptoms today. Lung cancer screening was discussed with pt during this visit as part of routine health maintenance given his prior smoking history; will readdress further at next in-person visit.
+5. Health maintenance - PSA, BMP, lipid panel reviewed above, all stable or unremarkable given comorbidities. Encouraged continued diet/exercise.
+
+Refills sent for all above meds as listed, 90-day supply with 3 refills where appropriate. Pt verbalized understanding of plan, agreeable to f/u telehealth or in-person visit in 3 months, sooner if concerns arise. Pt given advice to contact office with any new symptoms including chest pain, SOB, worsening urinary sx, or mood changes.
+
+Total visit time 22 minutes, more than half spent in counseling/coordination of care regarding chronic disease management as above.
+
+Electronically signed: Julia Brennan, MD, 12/18/2025.

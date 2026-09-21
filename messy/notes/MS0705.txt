@@ -1,0 +1,46 @@
+Pulmonology Progress Note - Follow-up after COPD Exacerbation
+Date of Service: 03/16/2026
+Author: Hannah Weiss, NP
+
+Patient: Rita Thomas, F, DOB 3/16/1960 (age 66)
+
+CC: f/u after recent ED visit for COPD exacerbation.
+
+HPI: Pt is a 66 y.o. female who presented to ED last wk with worsening SOB, increased sputum, wheeze, tx'd w/ nebs, steroids, and abx, d/c'd home w/ plan for close f/u. Today reports breathing somewhat improved, still c/o mild dyspnea on exertion, denies fever/chills. She states she's been compliant w/ inhalers, occasionally forgets evening dose, [inaudible] husband helps remind her, otherwise doing okay, appetite fair, sleep disrupted by cough at night per pt and per husband who accompanies her today.
+
+PMH: depression, BPH, heart failure w/ reduced EF, osteoporosis.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking history: 28 pack-year smoking history
+Current status: no longer smokes
+Alcohol: Not on file
+Drug use: denies
+Living situation: 
+Occupation: retired
+Exercise: 
+
+ROS: Resp - + cough, + dyspnea on exertion, denies hemoptysis. CV - denies chest pain, + occasional palpitations. GI/GU - denies dysuria, BPH sx stable per pt. Psych - mood stable on current regimen, denies SI/HI. MSK - denies new fx, c/o mild back pain chronic.
+
+Meds: albuterol/ipratropium neb, fluticasone/salmeterol inhaler, furosemide, lisinopril, carvedilol, sertraline, tamsulosin, alendronate, calcium/vit D.
+
+Exam: Vitals - T 98.4, HR 82, BP 128/76, RR 18, SpO2 94% RA. Gen - NAD, comfortable, conversant. Lungs - mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest. CV - RRR, S1S2, no m/r/g appreciated, no JVD. Ext - trace edema b/l, no clubbing/cyanosis. Skin - unremarkable.
+
+Labs/imaging (reviewed from ED): CXR w/o acute infiltrate, mild hyperinflation c/w COPD, BNP mildly elevated at baseline per prior records, CBC unremarkable, BMP wnl.
+
+Assessment: 66 y.o. woman, DOS 3/16/2026, w/ COPD exac improving on current tx, hx significant for 28 pack-year smoking history, no longer smokes. Also w/ HFrEF, depression, BPH, osteoporosis, all stable at this visit.
+
+Plan:
+1. Continue current inhaler regimen, add short course of prednisone taper per prior ED instructions if not already completed - pt reports she is.
+2. Cont home nebs PRN.
+3. Pulm function testing to be scheduled outpt for further eval given underlying COPD.
+4. Discussed general risk reduction given smoking hx; pt encouraged re: continued avoidance of tobacco, reinforced.
+5. General preventive health topics discussed briefly, including ongoing risk d/t prior tobacco exposure, pt to follow up w/ PCP for further preventive care discussion as appropriate.
+6. Cont home CHF meds, recheck BNP and BMP at next visit, weight log encouraged.
+7. Cont osteoporosis regimen, no new fx concerns today.
+8. Psych - stable, cont sertraline, f/u w/ psychiatry as scheduled.
+9. Return to clinic in 4 wks or sooner if worsening sx, ED precautions reviewed w/ pt and husband, verbalized understanding.
+
+Pt and husband both had questions answered, pt states understands d/c plan, denies further concerns today. Nsg to schedule PFTs, f/u appt made prior to leaving clinic.
+
+--- end of note ---

@@ -1,0 +1,69 @@
+H&P - New Patient, Establish Care
+Patient: Steven Coleman (M), DOB 02/22/1969, Age: 56
+Date of Service: 05/04/2025
+Provider: Isaac Moreno, PA-C
+Location: Primary Care Clinic
+
+CC: Establish care, general checkup. Pt referred by prior PCP, records partially transferred.
+
+HPI: 56 yo M here to establish care w/ PCP after moving to area. Hx PAD, obesity, hypothyroidism. Reports intermittent claudication in b/l calves w/ walking approx 2 blocks, relieved w/ rest - unchanged x several mo. No rest pain, no ulcers/wounds noted on legs. On levothyroxine, states compliant, no palpitations or heat/cold intolerance currently. Wt has been stable per pt, though c/o difficulty losing weight despite dietary changes. No CP, no SOB at rest, occasional exertional dyspnea. Denies f/c/n/v. No new falls. Sleep fair, appetite normal.
+
+PMH: PAD (diagnosed ~2021, per pt report, records pending), obesity, hypothyroidism.
+PSH: Denies prior surgeries.
+FH: Father - MI at 62. Mother - T2DM. No fam hx lung dz reported.
+
+MEDICATIONS (per pt report, to reconcile w/ pharmacy):
+- Levothyroxine 75mcg daily
+- Aspirin 81mg daily
+- Atorvastatin 40mg qhs
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file.
+Alcohol use: Occasional, ~1-2 drinks/wk, denies binge.
+Illicit drug use: Denies.
+Occupation: Warehouse supervisor.
+Marital status: Married.
+Living situation: Lives w/ spouse.
+Exercise: Limited 2/2 claudication sx.
+Diet: Reports high intake of processed foods, working on portion control.
+Caffeine: 1-2 cups coffee/day.
+
+ROS:
+Constitutional: Denies fever, chills, wt loss.
+Cardiac: Denies CP, palpitations. + claudication as above.
+Resp: Denies cough, hemoptysis, wheeze.
+GI: Denies abd pain, N/V/D.
+GU: Denies dysuria, hematuria.
+MSK: + b/l calf pain w/ ambulation as above. Denies joint swelling.
+Skin: No rashes, no non-healing wounds.
+Neuro: Denies HA, numbness, weakness.
+Psych: Denies depression, anxiety sx.
+Endo: On thyroid replacement, denies hot/cold intolerance currently.
+All other systems reviewed and negative unless noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.4F, SpO2 97% RA, Wt 254 lb, Ht 5'10", BMI 36.4
+Gen: NAD, obese habitus, alert, cooperative.
+HEENT: NCAT, EOMI, PERRL, oropharynx clear.
+Neck: No thyromegaly appreciated, no LAD.
+CV: RRR, no m/r/g. 
+Lungs: CTAB, no wheeze/rales/rhonchi.
+Abd: Obese, soft, NT/ND, +BS.
+Ext: b/l lower ext - decreased pedal pulses (1+ DP/PT bilaterally), no edema, no ulcers, skin intact, cool distal extremities noted, cap refill slightly delayed.
+Neuro: Grossly intact, CN II-XII intact, strength 5/5 all extremities.
+Skin: No rashes or lesions.
+Psych: Mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - stable claudication sx, on ASA. Will order ABI to assess severity. Counseled on supervised exercise therapy, importance of foot care given PAD. Vascular surgery referral to consider if sx worsen. D/c'd no tobacco use noted as risk factor mitigator - reinforced continued avoidance of tobacco products given PAD dx.
+2. Obesity (BMI 36.4) - discussed lifestyle modification, referral to nutrition considered. Will recheck wt at next visit. Discussed general preventive health screening topics appropriate for age, including lung cancer screening guidelines were discussed in general terms as part of preventive care discussion; further workup deferred pending additional hx.
+3. Hypothyroidism - continue current levothyroxine dose, will check TSH/free T4 today given establishing care visit, no recent labs on file.
+4. Health maintenance - up to date per pt report on colonoscopy (2022), will verify. Due for labs incl CBC, CMP, lipid panel, HbA1c given risk factors. Immunizations to be reviewed at f/u visit.
+5. Return to clinic in 4-6 wks to review labs and ABI results, sooner if worsening sx.
+
+Time spent: 35 min, >50% counseling/coordination of care.
+
+Electronically signed: Isaac Moreno, PA-C

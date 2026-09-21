@@ -1,0 +1,45 @@
+Internal Medicine Clinic Note
+Date of Service: 4/11/2024
+Patient: Charles Butler   DOB: 5/6/1963   MRN: 76177980
+
+S:
+CC: Annual physical
+HPI: Mr. Butler is a 60-year-old male with a history of OA, HTN, and hypothyroidism who presents for routine preventive care. No acute complaints today. Gardening for activity. Caring for a grandchild several days a week.
+
+PMH:
+- HTN
+- Acquired hypothyroidism
+- Osteoarthritis
+PSH: Right total knee arthroplasty
+Meds: vitamin D3 2000 IU daily; amlodipine 5 mg daily; levothyroxine 50 mcg daily; lisinopril 10 mg daily; diclofenac 1% gel QID PRN
+Allergies: NKDA
+Social History:
+- Widowed; lives with daughter.
+- He has never smoked.
+- No alcohol.
+FH: Mother - rheumatoid arthritis.
+ROS: CV neg, Resp neg, MSK neg, GI neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 123/93  HR: 91  RR: 12  Temp: 98.4 F  SpO2: 97% on RA  Wt: 153 lbs  BMI: 22.0
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+A/P:
+1. Health maintenance: Colonoscopy 2018 - 2 tubular adenomas, repeat 5 yrs; Shingrix #1 today; Pneumococcal vaccine up to date.
+2. HTN
+   - Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Osteoarthritis: Continue PRN analgesics; home exercises.
+
+Return in about 12 months (around 4/11/2025).
+
+Seen and discussed with resident Dr. Russell. I personally saw and examined the patient and agree with the findings and plan as documented.
+Anita Patel, MD

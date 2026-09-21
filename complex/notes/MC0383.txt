@@ -1,0 +1,72 @@
+H&P - Pulmonology
+Patient: David Wood (M), DOB 5/2/1958, Age 66
+Date of Service: 11/13/2024
+Author: Julia Brennan, MD
+
+CHIEF COMPLAINT: Referral for shared decision-making visit re: lung cancer screening.
+
+HPI: Mr Wood is a 66 yo male referred by PCP for SDM d/t hx concerning for lung ca risk. Pt denies cough, hemoptysis, unexplained wt loss. Reports occasional dyspnea on exertion which he attributes to his known asthma; uses albuterol prn, states its been "about the same" over past yr. No recent fevers/chills. GERD sx well controlled on omeprazole, occasional breakthrough heartburn after spicy food. Hyperlipidemia followed by PCP, on atorvastatin, no myalgias reported. CKD stage 3 stable per recent labs (see below), pt denies edema, change in urine output, or hematuria. Pt ambulates independently, lives at home, ADLs intact.
+
+ROS: Constitutional: no fever, no chills, no wt loss. Resp: no cough, no hemoptysis, mild DOE as above. CV: no chest pain, no palpitations. GI: occasional reflux as noted. GU: no dysuria, no hematuria. MSK: no new joint pain. All other systems reviewed and negative.
+
+PMH:
+- GERD
+- Hyperlipidemia
+- Asthma (mild intermittent)
+- CKD stage 3
+
+PSH: none on file
+
+MEDICATIONS:
+- Omeprazole 20mg daily
+- Atorvastatin 40mg qhs
+- Albuterol HFA prn
+- Montelukast 10mg daily
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Father - CAD, deceased age 78. Mother - HTN, living. No known fam hx lung disease reported.
+
+SOCIAL HISTORY:
+Living situation: lives w/ spouse
+Occupation: retired, formerly worked in logistics
+Alcohol use: occasional, denies excess
+Illicit drug use: denies
+Exercise: walks daily per pt report
+Diet: reports low-sodium diet for CKD
+
+VITALS (11/13/2024): BP 132/78, HR 74, RR 16, Temp 98.4F, SpO2 97% RA, Wt 190 lb, Ht 5'10"
+
+PHYSICAL EXAM:
+General: well-appearing, NAD, alert and oriented x3
+HEENT: normocephalic, atraumatic, no LAD
+CV: RRR, no murmurs/gallops/rubs
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft, nontender, nondistended, +BS
+Extrem: no edema, pulses 2+ bilat
+Skin: no rashes or lesions noted
+Neuro: grossly nonfocal
+
+LABS/RESULTS:
+- CMP (10/29/2024): Creatinine 1.6 mg/dL, eGFR 42 mL/min/1.73m2, K+ 4.3, Na 139
+- Lipid panel (9/15/2024): LDL 98, HDL 44, Trig 150, Total chol 172
+- CBC (10/29/2024): WBC 6.8, Hgb 14.2, Plt 210
+- PFT (8/2024): FEV1/FVC 0.74, mild obstructive pattern c/w asthma, reversible w/ bronchodilator
+- CXR (10/29/2024): no acute infiltrate, no suspicious nodule identified, stable cardiomediastinal silhouette
+
+ASSESSMENT/PLAN:
+66 yo male seen 11/13/2024 for pulm SDM visit re: lung cancer screening referral.
+
+1. Lung cancer screening discussion - Reviewed general concept of screening for lung malignancy including potential benefits, risks (false positives, incidental findings, radiation exposure), and limitations of screening programs in general terms. Pt verbalized understanding. Written decision aid provided. Pt to follow up w/ PCP to further discuss individualized risk factors and next steps; no imaging ordered from this visit.
+
+2. Asthma, mild intermittent - cont montelukast and albuterol prn, PFTs reviewed showing mild reversible obstruction, stable per pt report. Advised to continue current regimen, f/u if worsening sx.
+
+3. GERD - well controlled on omeprazole, cont current dose, reinforced dietary modification.
+
+4. Hyperlipidemia - LDL at goal per recent labs, cont atorvastatin, recheck lipid panel in 6 mo.
+
+5. CKD stage 3 - stable eGFR per recent CMP, avoid nephrotoxic agents, recheck renal fxn in 3-6 mo, cont current mgmt per PCP/nephro.
+
+Return to clinic prn or as directed by PCP. Pt verbalized agreement w/ plan. Time spent in visit >20 min, mostly counseling/coordination of care re: above.
+
+Electronically signed: Julia Brennan, MD 11/13/2024

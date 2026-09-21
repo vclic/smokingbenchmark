@@ -1,0 +1,37 @@
+Primary Care Clinic Note
+Date of Service: 05-Jan-2026
+Patient: Yolanda Nguyen   DOB: 3/2/1972   MRN: 50473939
+
+S:
+CC: f/u DM2
+HPI: Mrs. Nguyen is a 53-year-old woman with a history of obesity, depression, HLD, and T2DM who presents for diabetes follow-up. Most recent A1c 7.0% (previously 7.0% in August 2025). Rarely checks glucose at home. Denies polyuria/polydipsia. No numbness or tingling.
+
+PMH: Mixed hyperlipidemia, ASCVD (dx 2020), Type 2 diabetes mellitus, Obesity, Major depressive disorder, recurrent, in remission
+Meds: aspirin 81 mg daily; glipizide 5 mg daily; bupropion XL 150 mg daily; metformin 500 mg BID; metoprolol succinate 25 mg daily; nitroglycerin 0.4 mg SL PRN; rosuvastatin 10 mg daily
+Allergies: Lisinopril (cough)
+SH: Limited - interpreter unavailable for full history; will complete at next visit.
+FH: Noncontributory.
+ROS: Neuro neg, GI neg, CV neg, GU neg, Resp neg
+
+O:
+Vitals: BP: 132/69  HR: 79  RR: 16  Temp: 98.8 F  SpO2: 99% on RA  Wt: 187 lbs  BMI: 35.3
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (12/9/2025): A1c 7.0%, LDL 83, Cr 0.89, K 4.1, Hgb 13.1
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 7.0% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. Mixed hyperlipidemia: Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 6 months (around 7/5/2026).
+
+Seen and discussed with resident Dr. Thompson. I personally saw and examined the patient and agree with the findings and plan as documented.
+Daniel Reyes, MD

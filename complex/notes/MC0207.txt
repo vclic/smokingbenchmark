@@ -1,0 +1,63 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: James Mitchell (M) DOB: 02/23/1970 Age: 54
+Date of Service: 02/23/2024
+Author: Hannah Weiss, NP
+
+=== NURSE INTAKE ===
+Visit type: Telehealth, video connection established without issue. Patient called in from home for routine medication refill visit.
+Vitals (self-reported/pt device): BP 138/86, HR 78, Wt 231 lb, Temp 98.2F (not obtained via telehealth).
+Chief complaint: Refills - depression meds, COPD inhalers, GERD med, review of CKD labs.
+
+SOCIAL HISTORY (templated block):
+  Alcohol use: Occasional, reports 1-2 glasses of wine on weekends.
+  Living situation: Lives with spouse in single-family home, has stairs, uses handrail per pt report.
+  Occupation: Works as an accountant, mostly desk job, sedentary.
+  Tobacco use: Not on file.
+  Drug use: Denies.
+  Exercise: Reports walking dog daily, ~20 min.
+
+Allergies: NKDA.
+Current meds (per pharmacy reconciliation): sertraline 100mg daily, tiotropium inhaler daily, albuterol PRN, omeprazole 20mg daily, lisinopril 10mg daily.
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Mr. Mitchell is a 54-year-old male presenting via telehealth for follow-up and medication refills. He reports mood has been stable on current sertraline dose, denies SI/HI. Reports occasional dyspnea on exertion, unchanged from prior visits, uses albuterol maybe once or twice weekly. GERD symptoms well controlled on omeprazole, occasional breakthrough with spicy foods. He has not had any recent ED visits or hospitalizations. Denies chest pain, denies fevers, denies new GI symptoms. Reports fatigue at times which he attributes to poor sleep, discussed sleep hygiene.
+
+He was seen last approx 3 months ago for similar refill visit; no acute issues at that time either. Continues to follow with nephrology for CKD, last seen 01/2024 per pt report.
+
+PROBLEM LIST (per EHR, some entries outdated):
+  1. Major depressive disorder, recurrent, moderate - F33.1
+  2. Obesity - E66.9
+  3. COPD, unspecified - J44.9
+  4. GERD - K21.9
+  5. Chronic kidney disease, stage 3 - N18.3
+  6. Seasonal allergic rhinitis - J30.2 (last addressed 2019, likely resolved/inactive)
+  7. Tension headache - R51 (last noted 2017, chronic issue, not addressed today)
+
+LABS/RESULTS:
+  BMP (collected 02/10/2024):
+    Sodium 139 mmol/L
+    Potassium 4.6 mmol/L
+    Chloride 101 mmol/L
+    CO2 24 mmol/L
+    BUN 22 mg/dL
+    Creatinine 1.5 mg/dL
+    eGFR 52 mL/min/1.73m2 (stable compared to prior 01/2023 value of 54)
+  Lipid panel (collected 11/2023):
+    Total cholesterol 188 mg/dL
+    LDL 110 mg/dL
+    HDL 42 mg/dL
+    Triglycerides 165 mg/dL
+  PHQ-9 (completed today): score 6, mild, improved from 9 six months ago.
+
+ASSESSMENT/PLAN:
+1. Major depressive disorder - stable on sertraline 100mg, PHQ-9 improved, continue current dose, refill sent to pharmacy, follow up in 3 months or sooner if worsening.
+2. COPD - stable, continue tiotropium and albuterol PRN, refills sent. Discussed inhaler technique via video demonstration, appears adequate. Encouraged continued avoidance of respiratory irritants and up to date vaccination status was reviewed (pt states flu and pneumococcal vaccines current).
+3. GERD - well controlled on omeprazole 20mg daily, continue, refill sent. Discussed dietary triggers.
+4. CKD stage 3 - eGFR stable per recent BMP, continue lisinopril, avoid NSAIDs, recheck BMP in 3 months, continue nephrology follow-up.
+5. Obesity - discussed weight management, encouraged continued daily walking, discussed referral to nutrition if interested, pt declined for now.
+6. Health maintenance - colon cancer screening up to date per pt report (colonoscopy 2021, normal). Age-appropriate screening topics discussed generally including lung health given COPD history; further imaging/screening decisions deferred to future in-person visit as appropriate given complexity of discussion via telehealth.
+7. Return to clinic or telehealth in 3 months for follow-up, sooner if symptoms worsen. Pt verbalized understanding, agrees with plan.
+
+Time spent: 22 minutes, more than half spent in counseling/coordination of care as above.
+
+Electronically signed: Hannah Weiss, NP - 02/23/2024

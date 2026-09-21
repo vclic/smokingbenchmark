@@ -1,0 +1,46 @@
+TELEHEALTH VISIT - Cardiology
+Patient: Margaret Wood | DOB: 6/5/1952 | Age: 73 | DOS: 07/30/2025
+Provider: Rachel Goldberg, MD
+
+CHIEF COMPLAINT: chest pain evaluation
+
+HPI: Pt is a 73 y/o F with hx of hypothyroidism, asthma, afib, COPD, and osteoporosis presenting via telehealth today, 07/30/2025, for eval of chest pain. Pt states "it feels like a tight band across my chest, comes and goes, maybe a few times a week." Denies radiation to jaw/arm, no diaphoresis, no N/V. Reports mild SOB w/ exertion, which she attributes to her known COPD, states "I get winded going up the stairs, but that's nothing new." She endorses occasional palpitations, corresponds w/ known paroxysmal afib, no syncope. No fevers, no cough change, no LE edema. Smoking hx: pt reports she smoked cigarettes for 16 years. She quit smoking on 9/4/1986 and has not smoked since; she states "I haven't touched a cigarette since I quit back in '86." No current tobacco, no vaping, no other substance use reported.
+
+ROS: Constitutional: no fever, chills, wt loss. HEENT: no vision changes, no hearing loss. Resp: as above, chronic mild dyspnea on exertion, no hemoptysis. CV: intermittent chest tightness and palpitations as above, no orthopnea, no PND. GI: no N/V/D, no abd pain. GU: no dysuria, no hematuria. MSK: no joint swelling, mild chronic back discomfort attributed to osteoporosis. Neuro: no focal weakness, no numbness, no LOC. Skin: no rashes. Psych: no SI/HI, mood stable.
+
+PMH: hypothyroidism, asthma, atrial fibrillation, COPD, osteoporosis.
+PSH: none reported.
+FH: noncontributory, reviewed and unchanged from prior visit.
+SH: lives with spouse, retired schoolteacher, denies alcohol use, denies illicit drug use. Smoking hx as documented in HPI above.
+
+MEDICATIONS (reviewed today):
+1. Levothyroxine 75 mcg PO qd
+2. Albuterol HFA MDI, 2 puffs q4-6h PRN wheeze
+3. Apixaban 5 mg PO BID
+4. Tiotropium inhaler, 1 puff qd
+5. Alendronate 70 mg PO qweek
+6. Metoprolol succinate 50 mg PO qd
+7. Calcium carbonate 500 mg PO BID
+8. Vitamin D3 1000 IU PO qd
+9. Fluticasone/salmeterol DPI BID
+
+PHYSICAL EXAM (via video, limited):
+Gen: NAD, well-groomed, appears comfortable, seated in home setting.
+HEENT: no acute distress noted, no visible JVD appreciated on camera.
+Resp: pt denies increased WOB on camera, no accessory muscle use noted, speaking in full sentences without difficulty.
+CV: unable to auscultate via telehealth; pt denies current chest pain during visit.
+Abd: deferred, tele visit.
+Ext: no visible edema on camera, no cyanosis noted.
+Skin: no rashes visualized.
+
+ASSESSMENT/PLAN:
+1. Chest pain, atypical features, hx of afib - will obtain EKG and troponin at local lab, consider outpt stress test if sx persist. Continue apixaban and metoprolol.
+2. Atrial fibrillation - rate controlled, continue current regimen, f/u with anticoagulation labs as needed.
+3. COPD - stable on current inhalers, tobacco cessation counseling reinforced; pt has remained smoke-free since her quit date of 9/4/1986, positive reinforcement given.
+4. Asthma - stable, continue current regimen.
+5. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 months.
+6. Osteoporosis - continue alendronate, calcium, vitamin D, encourage weight-bearing exercise as tolerated.
+
+F/u in 4 weeks or sooner if sx worsen. Pt educated on when to seek ER care (worsening/persistent chest pain, syncope, severe dyspnea).
+
+Electronically signed: Rachel Goldberg, MD

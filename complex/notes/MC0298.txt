@@ -1,0 +1,79 @@
+Pulmonology Progress Note
+Date of Service: 01/28/2024
+Author: Brian Okonkwo, MD (NP progress note)
+Patient: Janet Perry, F, DOB 01/06/1947, Age: 77
+
+CHIEF COMPLAINT: Follow-up after ED visit for COPD exacerbation.
+
+HPI: Ms. Perry is a 77-year-old female with history of COPD, CAD, HTN, OSA, obesity, and OA who presents today for follow-up after being seen in the ED last week for worsening shortness of breath and productive cough. She states, "I felt like I couldn't catch my breath climbing the stairs, it just wore me right out." She was treated with nebulizers, a course of prednisone, and azithromycin, and was discharged home with instructions to follow up in clinic. Today she reports improvement in her dyspnea but continues to have occasional wheeze, especially at night. She denies fever, chest pain, or hemoptysis. She notes her CPAP compliance has been "on and off, maybe four nights a week" due to mask discomfort. She also endorses some increased ankle swelling which she attributes to sitting more given her decreased activity tolerance. No recent travel, no sick contacts reported [inaudible] the patient mumbled something about her neighbor also being sick but this was not further clarified.
+
+SOCIAL HISTORY:
+Smoking status: Unknown if ever smoked
+Alcohol: Denies current use.
+Occupation: Retired postal worker.
+Lives with: Daughter, in a single-story home.
+Exercise: Limited due to dyspnea on exertion and osteoarthritis pain in both knees.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+HEENT: Denies vision changes, hearing loss, sore throat.
+Cardiovascular: Reports mild bilateral ankle edema, denies chest pain, palpitations, orthopnea.
+Respiratory: Positive for cough and occasional wheeze, denies hemoptysis, denies current dyspnea at rest.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Chronic bilateral knee pain, denies acute injury.
+Neuro: Denies headache, dizziness, focal weakness, numbness.
+Skin: Denies rash, new lesions.
+Psych: Denies depression, anxiety, denies SI/HI.
+All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Tiotropium inhaler 18 mcg, one inhalation daily
+2. Albuterol HFA inhaler, 2 puffs every 4-6 hours PRN
+3. Fluticasone/salmeterol 250/50 one inhalation twice daily
+4. Lisinopril 20 mg daily
+5. Atorvastatin 40 mg nightly
+6. Aspirin 81 mg daily
+7. Metoprolol succinate 50 mg daily
+8. Furosemide 20 mg daily PRN swelling
+9. Prednisone taper, currently on day 4 of 10 mg
+10. Azithromycin, completing 5-day course
+11. Vitamin D3 2000 units daily
+12. Calcium carbonate 500 mg twice daily
+13. Acetaminophen 650 mg PRN knee pain
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 93% on room air, Temp 98.2F, Weight 212 lbs, BMI 36.4
+General: Well-developed, obese female, no acute distress, sitting comfortably.
+HEENT: Normocephalic, atraumatic, no scleral icterus, oropharynx clear.
+Neck: No JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated, 1+ bilateral pitting edema at the ankles.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, air movement adequate.
+Abdomen: Soft, obese, non-tender, non-distended, normoactive bowel sounds.
+Extremities: 1+ pitting edema bilaterally at ankles, no calf tenderness, no clubbing or cyanosis.
+Neuro: Alert and oriented x3, grossly intact, no focal deficits.
+Skin: Warm, dry, intact, no rashes noted.
+
+PROBLEM LIST (ICD-10):
+J44.1 - COPD with acute exacerbation (resolving)
+I25.10 - Coronary artery disease without angina
+I10 - Essential hypertension
+E66.9 - Obesity, unspecified
+G47.33 - Obstructive sleep apnea
+M17.0 - Bilateral primary osteoarthritis of knee
+R60.0 - Localized edema (ankle swelling, working diagnosis)
+Z79.899 - Long term drug therapy (misc., outdated entry, appears carried forward from prior visit)
+
+ASSESSMENT AND PLAN:
+Ms. Perry is a 77-year-old female seen today for follow-up after a COPD exacerbation treated in the ED. Overall she reports improvement in her breathing and cough since discharge.
+
+1. COPD exacerbation, improving - continue current inhaler regimen, finish prednisone taper and azithromycin course as prescribed. Reinforced proper inhaler technique. Discussed the importance of pulmonary rehabilitation referral, which will be arranged through case management.
+2. OSA - discussed CPAP adherence issues; will refer back to sleep medicine to evaluate mask fit and possibly trial alternative interface. Encouraged increased nightly use.
+3. CAD/HTN - stable, continue current cardiac medications, blood pressure well controlled today.
+4. Ankle edema - likely multifactorial given obesity, decreased mobility, and possible early right heart strain from COPD; will obtain BNP and consider echocardiogram if not improved with conservative measures and low-dose diuretic.
+5. Obesity - discussed weight management strategies, referred to nutrition counseling.
+6. Osteoarthritis - continue acetaminophen as needed, discussed possible physical therapy referral once respiratory status further stabilizes.
+
+Follow-up in pulmonology clinic in 4 weeks, sooner if symptoms worsen. Patient verbalized understanding of the plan and agreed with above. Total visit time today was spent primarily on counseling and coordination of care given the complexity of her presentation, greater than 50% of the encounter.
+
+Electronically signed: Brian Okonkwo, MD, Date of Service 01/28/2024.

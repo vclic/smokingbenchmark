@@ -1,0 +1,52 @@
+Family Medicine – Telehealth Visit
+Patient: Samuel Kim (M), DOB 6/14/1955
+Date of Service: 06/14/2026
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Annual wellness visit, telehealth.
+
+HPI:
+Mr Kim is a 71 year old male seen today via video visit for his annual wellness exam. He reports doing reasonably well overall. Asthma has been stable, using albuterol PRN maybe 1-2x/week, no nocturnal symptoms, no ER visits this year. PAD symptoms are stable per pt, denies new claudication, rest pain, or non-healing wounds on the feet. He mentions he quit smoking back in 2015 and has remained smoke-free since; he is glad to report this and denies any recent relapse or use of e-cigarettes/vaping products. No new complaints today. Denies chest pain, palpitations, SOB at rest, fevers, chills, or unexplained weight loss.
+
+[Copied forward from visit dated 11/03/2022 - retained in error, left as documented in chart]
+Pt here for f/u of PAD and asthma. reports intermittent claudication after walking approx 2 blocks, improves with rest. On clopidogrel and atorvastatin, tolerating well. Asthma controlled on low dose ICS, uses rescue inhaler occasionally. Denies orthopnea, PND, edema. Feet exam wnl, pulses palpable bilat DP/PT although diminished. Pt counseled on foot care, importance of daily inspection given PAD. Will cont current meds, f/u in 6 months or sooner if worsening sx. Also discussed diet, exercise as tolerated, and importance of med compliance.
+[End copied text]
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Packs/day: 0.50
+Years: 46.00
+Quit date/notes: Quit in 2015
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies heavy use
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+ROS: As above in HPI; otherwise negative in 10-system review, no additional complaints voluntereed.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Well-appearing male, no acute distress, seated comfortably at home.
+Vitals (pt reported via home BP cuff): BP 132/78, HR 74, wt 178 lbs (pt reported, no scale calibration confirmed)
+Respiratory: No visible increased work of breathing, no audible wheeze over telehealth mic.
+Skin/Extremities: Unable to fully assess feet/pulses via telehealth; pt denies visible ulcers or discoloration on self-exam, will need in-person foot check at next visit.
+
+LABS/RESULTS (reviewed today):
+- Lipid panel 05/28/2026: Total chol 168, LDL 92, HDL 44, Trig 156
+- HbA1c 05/28/2026: 5.6%
+- BMP 05/28/2026: Na 140, K 4.2, Cr 1.0, eGFR >60
+- ABI (last done 09/2025): 0.78 right, 0.81 left, consistent with known PAD
+- Spirometry (last done 01/2024): FEV1 78% predicted, mild obstructive pattern, consistent with asthma hx
+
+ASSESSMENT/PLAN:
+1. Health maintenance / annual wellness visit - Mr Kim is 71 yo male, overall stable. Discussed age appropriate screenings including colon ca screening (declined colonoscopy, prefers FIT kit annually), and vaccination status reviewed (up to date on influenza, will discuss shingles vaccine at next visit). General preventive counseling given re: exercise, diet, and continued avoidance of tobacco products.
+2. Asthma - stable, continue current inhaler regimen, reviewed proper technique, encouraged to follow up if worsening sx or increased rescue use.
+3. Peripheral artery disease - stable per pt report, will obtain in person foot exam and pulse check at next f/u given limitations of telehealth exam today. Continue antiplatelet and statin therapy. Reinforced importance of daily foot inspection and appropriate footwear.
+4. Tobacco use - former smoker, quit smoking in 2015, congratulated on sustained cessation, encouraged to continue avoiding any tobacco or nicotine products including vaping.
+5. Health maintenance - lipid panel and metabolic panel reviewed above, both reassuring. Will repeat routine labs in 1 year or sooner as clinically indicated.
+
+Follow up in 6 months or sooner as needed, in person visit recommended for foot exam given PAD hx. Pt verbalized understanding and agreement with plan, all questions answered today via telehealth.
+
+Steven Park, MD
+Family Medicine

@@ -1,0 +1,65 @@
+TELEHEALTH FOLLOW-UP NOTE
+Date of Service: 01/06/2024
+Provider: Elena Markovic, MD (Pulmonology)
+Patient: Cheryl Russell | DOB: 01/06/1968 | Age: 56 | Sex: F
+
+Visit type: Video visit, follow-up after ED visit/COPD exacerbation.
+
+HPI:
+Ms. Russell is a 56-year-old woman with history of hypertension, GERD, osteoporosis, and atrial fibrillation who presented to the ED last week with worsening dyspnea and cough, treated as COPD exacerbation with a short course of prednisone and albuterol nebs, now following up by telehealth. She states, "I'm breathing a lot easier than I was, but I still get winded going up the stairs." She denies fever, chest pain, or hemoptysis. She reports mild residual wheeze in the mornings. She is compliant with her home inhalers per report. She notes she has never smoked in her life, stating, "I've never touched a cigarette, not even once." No home O2 use. She denies recent travel or sick contacts.
+
+Past Medical History: Hypertension, GERD, osteoporosis, atrial fibrillation (on anticoagulation per cardiology).
+
+Medications: Lisinopril, omeprazole, alendronate, apixaban, albuterol MDI PRN, fluticasone/salmeterol inhaler.
+
+Allergies: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Never smoker
+ Smoking status: Lifelong non-smoker
+ Pack-years: N/A
+ Secondhand smoke exposure: Not on file
+ Alcohol use: Not on file
+ Recreational drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with spouse
+ Vaping/e-cigarette use: Denies
+
+ROS: Positive for occasional cough and mild exertional dyspnea. Negative for chest pain, palpitations (though patient has known AFib, no new palpitations), leg swelling, hemoptysis, fevers/chills, night sweats.
+
+Vitals (per home device / self-report): BP 128/78, HR 72 irregular (known AFib), RR 16, SpO2 95% on room air, Temp 98.2F.
+
+Physical Exam (limited via telehealth):
+General: Alert, comfortable, no acute distress, speaking in full sentences.
+Respiratory: Breath sounds difficult to fully assess via video; patient reports no increased work of breathing at rest; mild end-expiratory wheeze reported by patient with home stethoscope attempt (unreliable).
+Cardiac: Irregularly irregular rhythm per patient report/home pulse check, consistent with known AFib.
+Extremities: No visible edema.
+
+Assessment:
+1. COPD exacerbation, recently treated, currently improving on outpatient regimen.
+2. Hypertension - stable.
+3. GERD - stable.
+4. Osteoporosis - stable, continue current management.
+5. Atrial fibrillation - stable per patient report, no new symptoms; continue anticoagulation as directed by cardiology.
+
+Plan:
+- Continue current inhaler regimen; complete steroid taper as previously prescribed.
+- Continue albuterol PRN for breakthrough symptoms.
+- Discussed general lung health, avoidance of environmental irritants; given lifelong non-smoking history, no tobacco cessation counseling needed at this time.
+- Discussed general risk factors for lung disease as part of routine health maintenance discussion; screening eligibility not addressed today.
+- Recommend pulmonary function testing once fully recovered from exacerbation, to be scheduled in 4-6 weeks.
+- Continue home BP monitoring; follow with PCP for HTN management.
+- Continue GERD regimen as tolerated.
+- Continue osteoporosis management per prior plan; no changes today.
+- Continue anticoagulation for AFib per cardiology; no acute concerns voiced today.
+- Return to ED or call clinic if worsening dyspnea, chest pain, hemoptysis, or fevers.
+- Follow-up telehealth or in-person visit in 4 weeks, sooner if symptoms worsen.
+
+Elena Markovic, MD
+Pulmonology
+
+---
+ADDENDUM (later same day, 01/06/2024, 4:47 PM):
+Patient called back after visit to clarify that she had been able to obtain a home pulse oximeter reading of 96% on room air after ambulating in her hallway, which she wanted documented. No new symptoms reported. No changes to plan above. Reassured patient regarding gradual improvement expected over next 1-2 weeks. Advised to continue monitoring and to call sooner if any red-flag symptoms develop as previously discussed. Chart reviewed and no additional changes needed to today's assessment and plan.
+
+Elena Markovic, MD

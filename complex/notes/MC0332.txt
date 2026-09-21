@@ -1,0 +1,52 @@
+CARDIOLOGY H&P
+Patient: Rosa Alexander | DOB: 01/19/1970 | Age: 53 | Sex: F
+Date of Service: 09/17/2023
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: Chest pain, eval.
+
+HPI: 53yo F w/ hx PAD, OSA, GERD, COPD, HFrEF p/w intermittent substernal CP x 3 days, non-exertional, no radiation. Denies diaphoresis. +SOB baseline per COPD/HF. No f/c. Took antacid w/ mild relief.
+
+ROS: Cardiac - CP as above, no palpitations. Resp - chronic dyspnea, no hemoptysis. GI - reflux sx chronic. Neuro - neg. Other systems reviewed, otherwise negative.
+
+PMH: PAD, OSA (on CPAP), GERD, COPD, HFrEF (EF 35% on last echo).
+PSH: none significant.
+MEDS: aspirin 81mg, atorvastatin 40mg, furosemide 40mg, lisinopril 10mg, omeprazole 20mg, albuterol inhaler prn.
+ALLERGIES: NKDA.
+
+--- SOCIAL HISTORY (templated) ---
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Alcohol use: Not on file
+Substance use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+-----------------------------------
+
+[COPY-FORWARD FROM PRIOR VISIT 04/02/2022 - Cardiology f/u note, may not reflect current status]
+Pt here for routine PAD f/u. Reports stable claudication sx, ambulates ~2 blocks before onset of leg pain, resolves w/ rest. ABI last checked 2021, mildly abnormal. Discussed exercise therapy, cont ASA/statin. HF sx stable on current regimen, no orthopnea/PND. OSA - CPAP compliance good per device download. GERD sx well controlled on PPI. Plan: cont current meds, f/u 6 months, routine labs ordered.
+[END COPY-FORWARD]
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 94% RA, Temp 98.2F
+Gen: NAD, comfortable appearing.
+CV: RRR, no m/r/g, JVP not elevated, no peripheral edema noted today.
+Resp: mild expiratory wheeze bilat, no crackles.
+Abd: soft, NT/ND, no organomegaly.
+Ext: PAD-related skin changes noted b/l LE, pulses diminished DP/PT bilaterally, no acute ischemic changes.
+
+LABS/STUDIES: EKG today - sinus rhythm, no acute ST changes, old TWI in II/III/aVF unchanged from prior. Troponin pending. CXR - hyperinflation c/w COPD, no acute infiltrate.
+
+ASSESSMENT/PLAN:
+1. Chest pain - likely GERD-related given relief w/ antacid, though will r/o cardiac given HFrEF/PAD hx. Trend troponin, repeat EKG in am if pain recurs.
+2. HFrEF - appears euvolemic today, cont current diuretic/ACEi regimen, low-Na diet reinforced.
+3. COPD - stable, cont albuterol prn, reviewed inhaler technique.
+4. PAD - stable claudication per hx, cont ASA/statin, f/u vascular as scheduled.
+5. OSA - cont CPAP, encourage compliance.
+6. GERD - cont PPI, dietary modification counseled.
+
+F/u in cardiology clinic 4-6 wks or sooner if sx worsen. Pt educated on return precautions (worsening CP, SOB, syncope).
+
+--- ADDENDUM (later same day, 09/17/2023, A. Patel MD) ---
+Troponin returned negative x1. Discussed w/ pt, reassured re: low likelihood ACS given clinical picture and flat trend. Repeat troponin deferred given reassuring initial value and resolution of sx in clinic. Will obtain outpt stress test given hx PAD/HFrEF for further risk stratification if sx recur. Pt verbalized understanding of plan, agreeable to f/u as above. No changes to medication regimen at this time.
+--- END ADDENDUM ---

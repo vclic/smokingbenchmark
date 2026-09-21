@@ -1,0 +1,48 @@
+Pulmonology Progress Note
+DOS: 05/21/2023
+Author: Priya Raman, MD
+
+Pt: Gregory Thompson | M | Age 54 | DOB 05/21/1969
+CC: LCS shared decision-making visit
+
+HPI: Mr. Thompson is a 54 yo M w/ hx COPD, HFrEF, OA, osteoporosis, gout, HLD who presents today for lung cancer screening SDM discussion per PCP referral. Pt states, "I don't really smoke like a regular smoker, I just have one here and there at parties." He describes himself as a 'social smoker' for many years, though on further questioning admits he currently does smoke. He denies significant cough change, hemoptysis, or wt loss. Reports occasional exertional dyspnea, stable per his baseline w/ HF. "I get winded going up stairs but that's been the same for a while," pt reports. No hemoptysis, no fevers.
+
+---Copied forward from visit 11/14/2022 (Dr. Raman)---
+Pt seen in f/u for COPD/HFrEF mgmt. Denies chest pain, orthopnea improved on current diuretic regimen. Lungs w/ mild exp wheeze, no crackles. Gout flare resolved, uric acid improved on allopurinol. Osteoporosis stable, last DEXA reviewed, continue vit D/calcium. Plan: cont current meds, f/u 3 mo, PFTs at next visit.
+---end copied text---
+
+ROS: Otherwise negative except as above. No hemoptysis, no fevers/chills, no unintentional wt loss.
+
+PMH/Problem List:
+- COPD, unspecified (J44.9)
+- Heart failure w/ reduced EF (I50.22)
+- Osteoarthritis, unspecified site (M19.90)
+- Osteoporosis w/o current pathological fracture (M81.0)
+- Gout, unspecified (M10.9)
+- Hyperlipidemia (E78.5)
+- Essential HTN (I10) - resolved per pt, off meds x2 yrs, kept for hx
+- GERD (K21.9) - old dx, not currently active per pt report
+
+Soc Hx: Active smoker. Occupation: retired. Alcohol: occasional. Denies illicit drug use.
+
+Meds: albuterol HFA prn, tiotropium daily, carvedilol, furosemide, allopurinol, atorvastatin, vit D/calcium supplement.
+
+Exam:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Wt stable
+Gen: NAD, comfortable
+Lungs: mild exp wheeze bilat, no rales, no accessory muscle use
+CV: RRR, no m/r/g, no JVD, trace LE edema
+MSK: no active gout flare, joints nl exam today
+
+Assessment/Plan:
+54M active smoker w/ COPD, HFrEF here for LCS SDM visit.
+1. Lung cancer screening: Discussed benefits/risks of screening, including false positives, incidental findings, radiation exposure. Pt given decision aid handout. Discussed importance of continued smoking cessation counseling regardless of screening decision.
+2. Tobacco use: Counseled on cessation resources, offered referral to tobacco cessation program; pt declined today but will consider. Advised to quit.
+3. COPD: Continue current inhaler regimen, reinforce technique, no exacerbation today.
+4. HFrEF: Stable on current regimen, continue carvedilol/furosemide, f/u w/ cardiology as scheduled.
+5. Osteoarthritis/osteoporosis/gout: Stable, continue current mgmt per PCP/rheum.
+6. HLD: Continue atorvastatin, lipid panel due at next visit.
+
+F/u in 3-6 months or sooner if symptoms worsen.
+
+Priya Raman, MD

@@ -1,0 +1,66 @@
+VASCULAR SURGERY - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Teresa Alvarez, NP
+Date of Service: 04/19/2024
+
+Patient: Donald Alexander (M)
+DOB: 04/19/1952 (72 yo M, today is his bday)
+
+CC: PAD f/u, claudication sx
+
+HPI: Pt is 72 yo M w/ PAD, CAD, CKD3 here for routine vasc eval. Reports intermittent bilat calf pain w/ ambulation, ~2 blocks before onset, relieved w/ rest. No rest pain, no ulcers/wounds noted on self-exam. Denies fevers/chills. Adherent to ASA 81mg, atorvastatin, cilostazol. c/o some fatigue but attributes to poor sleep. No CP, no SOB at rest.
+
+PMH: CAD (s/p stent LAD 2019), CKD stage 3 (baseline Cr ~1.6), HTN, HLD, PAD (ABI done 2023).
+
+PSH: appy as child, R knee arthroscopy 2015.
+
+MEDS: ASA 81 mg qd, atorvastatin 40 mg qhs, cilostazol 100 mg BID, lisinopril 10 mg qd, metoprolol succ 25 mg qd.
+
+ALLERGIES: NKDA.
+
+=== SOCIAL HISTORY (EHR TEMPLATE) ===
+Tobacco use status: Never smoker (see note)
+Smoking pack-years: Not on file
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Denies
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired electrician
+Living situation: Lives w/ spouse
+---
+Note re: tobacco - pt states he tried a few cigarettes as a teenager but never smoked regularly, no sustained use at any point in his life. No further tob hx obtained.
+
+FAMILY HX: Father w/ MI at 60, mother w/ DM2.
+
+ROS: Constitutional - neg for fever/wt loss. CV - + claudication as above, no CP/palpitations. Resp - no cough/dyspnea. GI - neg. GU - neg. MSK - neg other than calf pain. Neuro - neg. Skin - neg for ulcers/lesions.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 68, RR 16, T 98.4F, SpO2 97% RA, Wt 198 lb
+Gen: NAD, well-appearing man, appears stated age of 72
+CV: RRR, no m/r/g
+Resp: CTAB
+Abd: soft, NT/ND
+Ext: warm, no edema. DP/PT pulses 1+ bilat, cap refill <3s. No ulcers/wounds. Hair loss noted b/l lower legs c/w PAD.
+Skin: intact, no breakdown.
+
+LABS/RESULTS:
+04/15/2024 BMP: Na 138, K 4.5, Cl 101, CO2 24, BUN 28, Cr 1.7 (eGFR 42), Glu 102
+04/15/2024 Lipid panel: TC 162, LDL 78, HDL 42, TG 210
+03/28/2024 HbA1c: 5.8%
+ABI (03/2023, on file): R 0.68, L 0.71 - consistent w/ mild-mod PAD
+Duplex US b/l LE arterial (pending repeat, ordered today)
+
+ASSESSMENT/PLAN:
+1. PAD, claudication - stable sx, continue cilostazol, encourage structured walking program, f/u duplex US ordered. Discussed risk factor modification incl statin adherence, BP control.
+2. CAD - stable, continue current cardiac regimen, no acute concerns today.
+3. CKD stage 3 - stable, Cr trending similar to prior, avoid nephrotoxic agents, renally dose meds as needed.
+4. HTN/HLD - well controlled on current regimen.
+5. Health maintenance - reviewed age-appropriate screening topics at visit; general lung cancer screening was discussed briefly as part of preventive health conversation, no further action taken today.
+
+F/u in 3 months or sooner if worsening sx. Pt verbalized understanding, agrees w/ plan.
+
+--- ATTESTATION ---
+I have reviewed and discussed this patient with the resident/NP and agree with the assessment and plan as documented above.
+- Dr. R. Kim, Attending Vascular Surgery
+
+=== ADDENDUM (later same day, 04/19/2024, 16:45) ===
+Addendum by T. Alvarez, NP: Pt called back after visit to clarify he had misplaced his statin refill script; sent new rx to pharmacy electronically. No other changes to plan. Reiterated importance of foot checks daily given PAD/CKD combo. No new complaints reported at this time.

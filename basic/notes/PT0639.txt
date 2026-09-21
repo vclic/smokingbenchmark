@@ -1,0 +1,71 @@
+Adult Medicine Clinic Note
+
+Patient: SMITH, Kenneth    MRN: 85813135
+DOB: 05/28/1971    Age: 53 y.o.    Sex: Male
+Date of Service: 12/31/2024    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Cough x 21 days
+
+Subjective:
+Kenneth Smith is a 53 y.o. male who presents for cough.
+Cough for 21 days, worse at night. Low-grade fevers initially, now resolved. Grandchild was sick last week. Mild DOE with the cough.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Osteoarthritis of knees	2017
+• Depression
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (2007)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• fish oil 1 g daily
+• meloxicam 7.5 mg daily
+• escitalopram 10 mg daily
+• amlodipine 5 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Not on file
+• Smokeless tobacco: Not on file
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: GU neg, Gen neg, CV neg, Resp +, GI neg, MSK neg
+
+Objective:
+Vitals:
+  BP 147/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 75 | Temp 98.4 °F (Oral) | Resp 12 | Ht 6' 2" | Wt 221 lb | SpO2 100% | BMI 28.35 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally, no wheezes
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Acute cough
+   CXR ordered given duration. Supportive care.
+2. Depression
+   PHQ-9 stable; continue current regimen.
+3. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+
+f/u 1 mo
+
+Electronically signed by Owen Fitzgerald, MD on 12/31/2024

@@ -1,0 +1,48 @@
+Pulmonology Progress Note
+Patient: William Lopez
+DOB: 6/12/1943 (age 80)
+Date of Service: 06/12/2023
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior CT of the chest.
+
+HPI: Mr. Lopez is an 80 y/o male with hx of atrial fibrillation, osteoporosis, heart failure w/ reduced EF, PAD, CAD, and gout who returns today for f/u of an incidentally noted right upper lobe nodule identified on imaging obtained for pre-op cardiac workup several months ago. He reports no new cough, no hemoptysis, denies significant weight loss, though he does note some intermittent dyspnea on exertion which he attributes to his known heart failure - patient states he gets 'winded walking to the mailbox and back, more so this winter than usual, uh, [inaudible] especially in the cold air.' No fevers, no night sweats. He denies chest pain at rest. He continues to take his furosemide and metoprolol as prescribed, per report he 'takes it most days, sometimes forgets the evening dose.'
+
+PAST MEDICAL HISTORY: Atrial fibrillation (on anticoagulation), osteoporosis, HFrEF (EF 35% per echo 2022), peripheral artery disease, coronary artery disease s/p stent 2015, gout.
+
+SOCIAL HISTORY: Patient has smoked on and off for most of her adult life. He continues to smoke currently and states he is not ready to quit at this time; he was counseled on smoking cessation resources and offered nicotine replacement therapy, which he declined today. No alcohol use reported. Lives with spouse, retired machinist.
+
+FAMILY HISTORY: Father with CAD, mother with osteoporosis, no known family hx of lung cancer.
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, unintentional weight loss. Respiratory - denies cough, hemoptysis, wheeze; endorses mild DOE as above. Cardiovascular - denies chest pain, palpitations resolved on current regimen. GI - denies nausea, vomiting, changes in bowel habits. GU - denies dysuria. MSK - occasional gout flare in left great toe, last flare approx 2 months ago. Neuro - denies focal weakness, numbness.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68 irregular, RR 16, SpO2 94% on room air, Temp 97.8F, Wt 178 lb.
+General: Alert, oriented x3, no acute distress.
+HEENT: Normocephalic, atraumatic, no jugular venous distension noted.
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated, 1+ bilateral lower extremity edema.
+Pulm: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Extremities: Diminished dorsalis pedis pulses bilaterally, consistent with known PAD, no ulceration.
+Skin: No rashes or lesions.
+
+LABS/RESULTS:
+CBC (06/10/2023): WBC 6.8, Hgb 13.1, Hct 39.4, Plt 210.
+BMP (06/10/2023): Na 138, K 4.2, Cl 101, CO2 26, BUN 22, Cr 1.1, Glucose 98.
+BNP (06/10/2023): 410 pg/mL (elevated, stable compared to prior 395 pg/mL).
+CT Chest (04/2023): 8 mm solid nodule right upper lobe, unchanged in size from comparison study dated 10/2022, no new nodules identified, mild emphysematous changes noted.
+INR (06/12/2023): 2.4, therapeutic.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, RUL, stable on serial imaging - will continue surveillance per Fleischner guidelines, repeat low dose imaging recommended in 12 months given stability, though risk factors including ongoing tobacco use were discussed with patient at length. Screening options and general risk discussion reviewed with patient, he verbalized understanding.
+2. Atrial fibrillation - continue current anticoagulation, INR therapeutic today, no changes to metoprolol.
+3. HFrEF - clinically euvolemic today, continue furosemide and guideline-directed medical therapy, follow with cardiology.
+4. PAD - stable, continue aspirin and statin, reinforced importance of walking program as tolerated.
+5. Osteoporosis - continue calcium/vitamin D, DEXA due for repeat next year.
+6. Gout - infrequent flares, continue allopurinol, follow up if increasing frequency.
+7. Tobacco use - counseled extensively regarding cessation, patient reports he is not ready to quit at this time, will continue to offer resources at future visits, materials provided today.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan and agreed with above.
+
+Steven Park, MD
+
+ADDENDUM (later same day, 06/12/2023): Reviewed old records further - prior CT dated 10/2022 confirmed to be from outside facility, images were faxed over and reviewed personally by me, findings as described above are consistent with the report referenced. No change to plan. Patient's daughter called clinic this afternoon with additional questions regarding medication refills, staff advised to route to pharmacy per usual protocol. -SP, MD

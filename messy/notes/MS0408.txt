@@ -1,0 +1,59 @@
+TELEHEALTH URGENT CARE NOTE
+Patient: Gregory Ramirez (M), DOB 3/17/1950, Age: 76
+Date of Service: 06/19/2026
+Provider: Nadia Haddad, MD
+
+CHIEF COMPLAINT: cough x several days, no fever reported.
+
+HPI: 76 yo male c/o dry cough, worse at night, denies hemoptysis, denies chest pain. Reports some fatigue but attributes to poor sleep (known OSA on CPAP, compliance unclear). Pt has a 3 pack-year smoking history, former smoker. No current tobacco use per pt report today. No sick contacts. No recent travel. Denies fever chills. Appetite ok. Pt states cough is 'annoying but tolerable.'
+
+---- COPIED FORWARD FROM VISIT 01/14/2025 (nephrology f/u, left in note by error) ----
+CKD stage 3 - stable, last eGFR 52 baseline per pt hx. Pt counseled on renal diet, avoid NSAIDs. Osteoporosis - on vit D + calcium, DEXA scheduled prior yr. OSA - CPAP compliance issues noted, pt reports mask discomfort. Pt reports occasional low back pain, no red flags. Meds reviewed, no changes at that time. F/u renal labs in 6 mo. Pt tolerating current regimen. Discussed fall precautions given osteoporosis dx. Denies new falls. Housing stable, lives w/ spouse.
+---- END COPIED SECTION ----
+
+ROS: Resp - cough as above, no dyspnea at rest, mild exertional SOB baseline (OSA). CV - no chest pain, no palpitations. GI - no nausea vomiting. GU - no dysuria. MSK - chronic low back ache, unchanged.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking pack-years: 3
+Quit date: Not on file
+Alcohol use: occasional, per pt
+Illicit drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+Exercise: light walking
+Diet: Not on file
+
+PHYSICAL EXAM:
+Vitals (telehealth, self-reported): temp 98.4F, HR 78, BP 132/78, RR 16, SpO2 96% RA per home pulse ox
+General: no acute distress, appears comfortable on camera
+Resp: cough noted during call, no visible respiratory distress
+CV: unable to auscultate via telehealth, pt denies chest pain
+
+LABS/RESULTS (recent, on file):
+CMP 06/10/2026: Creatinine 1.4, eGFR 51, K+ 4.2, Na 138
+CBC 06/10/2026: WBC 7.1, Hgb 13.9, Plt 245
+DEXA scan 03/2026: T-score -2.6 lumbar spine, consistent w known osteoporosis dx
+No chest imaging on file this visit.
+
+ASSESSMENT:
+1. Acute cough, likely viral URI vs post-nasal drip, low suspicion for pna given lack of fever/hypoxia
+2. OSA - stable, CPAP compliance to be addressed at PCP
+3. CKD stage 3 - stable per recent labs
+4. Osteoporosis - stable, DEXA reviewed
+5. Tobacco history - former smoker, hx of 3 pack-years, noted for ongoing health maintenance discussion at PCP
+
+PLAN:
+- Supportive care, fluids, honey/lemon prn, OTC cough suppressant as tolerated
+- If fever develops, worsening SOB, or hemoptysis instructed to seek in-person eval urgently
+- Continue CPAP nightly, addressed mask discomfort issue - refer back to sleep med if not improved
+- Renal function to be monitored at next PCP visit, no acute changes needed
+- Continue current osteoporosis regimen, vit D + calcium
+- General health maintenance topics, including tobacco-related risk reduction, discussed briefly; further preventive care discussion deferred to PCP f/u
+- Pt advised on smoking cessation resources reviewed generally (pt currently not smoking)
+- F/u telehealth or in-person prn worsening symptoms
+- Pt verbalized understanding of plan, agreeable
+
+Note dictated and reviewed by Nadia Haddad, MD. Telehealth visit conducted per pt consent, audio/video connection stable throughout encounter. No technical issues reported. Total visit time approx 15 min spent in real-time discussion, counseling and coordination of care as above.
+
+End of note.

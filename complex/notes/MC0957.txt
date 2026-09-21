@@ -1,0 +1,51 @@
+Pulmonology Follow-up – Progress Note
+Date of Service: 12/13/2023
+Author: Anita Patel, MD
+Patient: Elizabeth Adams, DOB 2/3/1961, F, age 62
+
+CC: Follow-up s/p ED visit for COPD exacerbation.
+
+HPI: Ms. Adams is a 62-year-old woman seen in f/u after presenting to the ED last wk with worsening dyspnea, increased sputum production, and wheeze c/w COPD exacerbation. She was treated w/ nebulizers, prednisone taper, and azithromycin, sent home w/ improvement. Today reports breathing somewhat better, still using rescue inhaler 2-3x/day, denies fever, denies chest pain. Sleep pattern disrupted per bed partner - pt has known OSA, uses CPAP inconsistently (pt states mask is "uncomfortable," [inaudible] when asked about compliance %). She endorses some fatigue but attributes this to poor sleep and not eating well this week, her son has been staying with her helping w meals which she says has been helpful the past few days he starts school again soon though and she is worried about managing alone.
+
+Social History: Tobacco - longstanding hx. Per pt report, she smoked approximately half a pack (about 10 cigarettes) per day for 18 years, then quit completely for a period of 6 years, then restarted smoking at about half a pack (roughly 10 cigarettes) daily for the past 20 years and continues to smoke to this day. She has been counseled extensively regarding cessation on multiple prior visits and again today; she continues to smoke despite counseling. Alcohol - occasional glass of wine, denies illicit drug use. Lives alone, son visits frequently.
+
+ROS: Positive for cough, dyspnea on exertion, occasional wheeze. Negative for hemoptysis, unintentional weight loss, night sweats, chest pain, leg swelling.
+
+Meds: Albuterol/ipratropium nebulizer PRN, fluticasone/salmeterol inhaler BID, lisinopril 20mg daily, atorvastatin 40mg qhs, prednisone taper (currently on day 4 of 10), continued CPAP at night (compliance variable).
+
+Allergies: NKDA.
+
+Vitals: BP 138/84, HR 88, RR 18, Temp 98.2F, SpO2 93% on room air, Wt 172 lb, BMI 29.4.
+
+Exam: General - alert, mild-mod respiratory distress, speaking in full sentences. HEENT - unremarkable. Neck - no JVD, no lymphadenopathy. Lungs - diffuse expiratory wheezes bilaterally, prolonged expiratory phase, no crackles. CV - RRR, no murmurs. Ext - no edema, no clubbing or cyanosis. Skin - warm, dry.
+
+Labs/Results:
+- CBC (12/06/2023, ED): WBC 11.2 (H), Hgb 13.1, Plt 245
+- BMP (12/06/2023): Na 138, K 4.1, Cl 101, CO2 26, BUN 18, Cr 0.9, Glucose 104
+- ABG (12/06/2023, ED): pH 7.36, pCO2 47, pO2 62, HCO3 27
+- Chest X-ray (12/06/2023): Hyperinflated lungs, flattened diaphragms, no focal consolidation, no effusion.
+- Spirometry (outside, 09/2022, copied forward for reference): FEV1 58% predicted, FEV1/FVC ratio 0.61, consistent w/ moderate obstructive defect.
+- Lipid panel (11/2023): Total chol 198, LDL 112, HDL 46, TG 178.
+- HbA1c (11/2023): 5.6%.
+
+Problem List:
+1. J44.1 - COPD w/ acute exacerbation (recent)
+2. G47.33 - Obstructive sleep apnea
+3. I10 - Essential hypertension
+4. E78.5 - Hyperlipidemia, unspecified
+5. J45.909 - Asthma, unspecified (outdated entry, unclear if still active dx, pt denies current asthma diagnosis - may be historic miscode, needs reconciliation)
+6. Z87.891 - Personal hx of nicotine dependence (entry likely outdated as pt continues to smoke - see SH above, to be updated)
+
+Assessment: 62-year-old woman w/ COPD, recent exacerbation now improving on steroid taper and bronchodilators, comorbid OSA w/ inconsistent CPAP use, HTN and hyperlipidemia both reasonably controlled on current regimen. Continued active tobacco use remains major driver of disease progression; despite repeated counseling at this and prior visits she continues to smoke and has not been able to achieve cessation.
+
+Plan:
+1. Continue prednisone taper as directed, f/u if worsening sx.
+2. Continue combo inhaler BID + albuterol/ipratropium PRN.
+3. Reinforce smoking cessation counseling - discussed nicotine replacement therapy, varenicline, and referral to quitline; pt states she "will think about it."
+4. Encourage CPAP compliance, will order new mask sizing/fitting given comfort complaints, sleep medicine referral if no improvement.
+5. Continue lisinopril and atorvastatin at current doses, recheck lipid panel in 6 months.
+6. Repeat spirometry once stable/post-exacerbation, in approx 6-8 wks.
+7. Update problem list to reflect current tobacco use status (remove outdated "personal history" code, reconcile asthma entry).
+8. Return to clinic in 4 wks or sooner if symptoms worsen; pt educated on red flag sx warranting ED return.
+
+Electronically signed: Anita Patel, MD, 12/13/2023.

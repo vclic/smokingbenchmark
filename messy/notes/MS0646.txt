@@ -1,0 +1,81 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 04/04/2025
+Author: Quentin Hale, PA-C
+
+Patient: Sandra Jackson | F | DOB: 04/04/1958 | Age: 67
+
+CC: establish care
+
+HPI: 67 yo F here to establish PCP, previously seen elsewhere. Reports doing fairly well, no acute complaints today. Hx of HTN, hyperlipidemia, GERD, BPH per outside records; pt confirms all still active. Denies chest pain, SOB, palpitations. Some occasional heartburn after large meals, controlled w/ OTC antacids prn. Urinary hesitancy/nocturia x2 noted, stable, followed by urology previously, no new sx. No dysuria no hematuria. Denies wt loss fever night sweats.
+
+PMH: HTN, hyperlipidemia, BPH, GERD
+PSH: none reported
+Allergies: NKDA
+
+MEDICATIONS:
+1. Lisinopril 20mg po daily
+2. Atorvastatin 40mg po qhs
+3. Tamsulosin 0.4mg po qhs
+4. Omeprazole 20mg po daily
+5. Aspirin 81mg po daily
+6. Multivitamin po daily
+7. Vitamin D3 2000 units po daily
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+  - Pack-year history: 42 pack-years
+  - Status: Quit smoking
+  - Quit timeframe: approx 18 years ago (relative to today's visit)
+Alcohol use: occasional, 1-2 glasses wine/wk
+Illicit drug use: denies
+Caffeine: 1 cup coffee/day
+Occupation: retired, former admin assistant
+Living situation: lives w/ spouse
+Exercise: walks most days approx 20 min
+Diet: Not on file
+Marital status: married
+
+FAMILY HISTORY: mother - HTN, DM2; father - CAD, MI age 70; no fam hx lung ca on file
+
+REVIEW OF SYSTEMS (template, all systems reviewed and negative unless noted):
+Constitutional: denies fever chills wt loss/gain, +some fatigue
+Eyes: denies visual changes
+ENT: denies sore throat, denies hearing loss
+Cardiovascular: denies CP palpitations edema
+Respiratory: denies cough dyspnea wheeze hemoptysis
+GI: +occasional heartburn as above, denies nausea vomiting diarrhea constipation blood in stool
+GU: nocturia x2, denies dysuria hematuria
+MSK: denies joint pain swelling
+Skin: denies rash lesions
+Neuro: denies HA dizziness numbness weakness
+Psych: denies depression anxiety sleep disturbance
+Endo: denies polyuria polydipsia heat/cold intolerance
+Heme/Lymph: denies easy bruising/bleeding lymphadenopathy
+Allergic/Immuno: denies seasonal allergy sx
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, Wt 168 lb, Ht 5'5", BMI 27.9
+General: well-appearing, NAD, appropriate for stated age
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no thyromegaly
+Neck: supple no LAD, no JVD
+CV: RRR, no murmurs rubs gallops, no peripheral edema
+Resp: CTAB, no wheezes rales rhonchi, normal effort
+Abd: soft NT ND, +BS, no organomegaly, no masses
+GU: deferred, prior eval by urology on record
+Extrem: no cyanosis clubbing edema, pulses 2+ symmetric
+Skin: warm dry intact, no suspicious lesions
+Neuro: A&Ox3, CN II-XII grossly intact, gait steady
+Psych: mood/affect appropriate
+
+ASSESSMENT/PLAN:
+1. HTN - stable on current regimen, BP well controlled today, continue lisinopril, recheck at next visit
+2. Hyperlipidemia - continue atorvastatin, will check fasting lipid panel and CMP, LFTs given statin use
+3. BPH - continue tamsulosin, voiding sx stable, f/u urology if worsening
+4. GERD - continue omeprazole, counseled on diet/lifestyle modification, avoid trigger foods
+5. Former tobacco use - 42 pack-year hx, quit approx 18 yrs ago per pt report; reinforced benefit of continued abstinence; discussed general risk factors related to long smoking hx and role of periodic screening conversations with PCP going forward, no imaging ordered today
+6. Health maintenance - due for routine labs, mammogram, colonoscopy screening status to be reviewed, up to date on immunizations per pt report will verify
+7. Return to clinic in 3 months or sooner if concerns
+
+Pt verbalized understanding and agreement with plan. All questions answered. Time spent w/ pt approx 30 min, more than half spent on counseling/coordination of care.
+
+Electronically signed: Quentin Hale, PA-C

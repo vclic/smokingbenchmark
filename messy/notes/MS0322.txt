@@ -1,0 +1,56 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Luis Thomas | DOB: 2/18/1945 (age 79) | MRN: 004521
+Date of Service: 02/18/2024
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: Follow-up hypertension, diabetes.
+
+HPI: Mr. Thomas is a 79-year-old male presenting for routine follow-up of HTN and T2DM. He states, "I've been feeling pretty good, just some knee stiffness in the mornings." Denies chest pain, SOB at rest, or claudication changes. Reports occasional dyspnea on exertion, stable per prior visits. He is compliant with meds per report.
+
+--- COPIED FORWARD FROM VISIT 09/14/2023 (retained in error, not updated) ---
+Pt seen for f/u HTN, DM2, asthma, PAD, obesity, CAD, depression. BP well controlled on lisinopril/HCTZ. A1c 7.2%. Continues metformin 1000mg BID, atorvastatin 40mg qhs, albuterol PRN, clopidogrel 75mg daily. PAD stable, no rest pain, ABI last checked 2022. Depression screening PHQ-9 = 6, stable on sertraline 50mg daily. Discussed weight loss, diet, exercise. Follow up in 4 months with labs.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY:
+Smoking status: Unknown if ever smoked
+Alcohol: denies
+Lives with spouse, retired machinist.
+
+REVIEW OF SYSTEMS: Positive for occasional knee pain. Negative for fevers, chest pain, hemoptysis, unintentional weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, Wt 214 lb, BMI 34.2
+General: NAD, obese habitus
+Cardiac: RRR, no murmurs
+Lungs: CTAB, no wheeze
+Extremities: trace edema, distal pulses diminished bilaterally (PAD)
+Psych: mood euthymic
+
+LABS/RESULTS:
+01/30/2024 - A1c: 7.4%
+01/30/2024 - Fasting glucose: 142
+01/30/2024 - Lipid panel: LDL 88, HDL 42, TG 150
+01/30/2024 - Creatinine: 1.1, eGFR 68
+
+PROBLEM LIST:
+E11.9 - Type 2 diabetes mellitus without complications
+I10 - Essential hypertension
+J45.909 - Asthma, unspecified
+I73.9 - Peripheral artery disease (outdated, last vascular eval 2022)
+E66.9 - Obesity
+I25.10 - Coronary artery disease, native vessel
+F32.9 - Major depressive disorder, unspecified (chart shows resolved 2021, likely outdated entry)
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes - A1c 7.4%, slightly above goal. Continue metformin, reinforce dietary counseling.
+2. Hypertension - well controlled today, continue current regimen.
+3. Asthma - no active symptoms, continue albuterol PRN.
+4. PAD - stable, will consider repeat ABI if symptoms progress.
+5. Obesity - counseled on diet/exercise again.
+6. CAD - continue clopidogrel and atorvastatin, no anginal symptoms.
+7. Depression - screen stable, continue sertraline.
+8. Health maintenance: Lung cancer screening was discussed but deferred until smoking history can be obtained, as smoking status is unknown/unable to be determined at this visit. Will attempt to clarify with patient at next visit or via chart reconciliation with prior primary care records.
+
+Return to clinic in 3 months, sooner if symptoms worsen. Labs to be repeated prior to next visit.
+
+Kevin Osei, MD

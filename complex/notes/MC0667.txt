@@ -1,0 +1,35 @@
+TELEHEALTH FOLLOW-UP NOTE
+Patient: Sharon Gonzales (F), DOB 9/26/1962 (age 63)
+Date of Service: 11/01/2025
+Provider: Michael Dunn, DO - Pulmonology
+
+Visit type: Telehealth follow-up post-ED visit for COPD exacerbation.
+
+HPI: Ms. Gonzales is a 63-year-old woman seen today via video visit for follow-up after an ED visit last week for acute dyspnea and increased sputum production, treated as COPD exacerbation with prednisone taper and azithromycin. She states, "I'm breathing so much better now, maybe 80% back to normal." She denies fevers or chest pain currently. She reports using her rescue inhaler less frequently. Regarding smoking history, patient tried a few cigarettes as a teenager but never smoked regularly. She does note that she vapes nicotine daily and has never smoked cigarettes on a regular basis otherwise. No hemoptysis, no unintentional weight loss.
+
+PROBLEM LIST (ICD-10):
+- J44.1 COPD with acute exacerbation (resolving)
+- M10.9 Gout, unspecified (stable, on allopurinol)
+- G47.33 Obstructive sleep apnea (on CPAP, adherence unclear)
+- I10 Essential hypertension
+- I50.22 Chronic systolic (congestive) heart failure, HFrEF
+- I48.91 Atrial fibrillation, unspecified
+- F32.9 Major depressive disorder, single episode, unspecified (per old chart, may be outdated - pt denies current depressive sx)
+
+RESULTS:
+CXR (10/25/2025): Hyperinflated lungs, no acute infiltrate.
+BNP (10/25/2025): 410 pg/mL (elevated, baseline for pt).
+Basic metabolic panel (10/25/2025): K 4.2, Cr 0.9, Na 138.
+Pulse ox today: 95% RA.
+Echo (last done 04/2025): EF 35%, moderate LV dysfunction, unchanged.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation - improving clinically, continue current inhaler regimen (Symbicort BID, albuterol PRN), complete steroid taper as prescribed. Discussed the role of lung cancer screening in general terms with patient given her age and respiratory history; no imaging ordered today for that purpose.
+2. Tobacco/nicotine use - patient tried a few cigarettes as a teenager but never smoked regularly; she does vape nicotine daily. Counseled on risks of vaping and encouraged cessation; offered resources for nicotine cessation support.
+3. HFrEF/AFib - stable on current regimen, continue metoprolol succinate, apixaban, furosemide as needed for volume status. Will recheck BNP at next visit.
+4. HTN - well controlled today.
+5. OSA - encourage continued CPAP use, will address adherence at next in-person visit.
+6. Gout - no active flare, continue allopurinol.
+7. Depression - screened negative today per PHQ-2, continue monitoring.
+
+Follow-up in pulmonology clinic in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.

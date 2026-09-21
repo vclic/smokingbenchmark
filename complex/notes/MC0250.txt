@@ -1,0 +1,58 @@
+NURSE INTAKE
+Date of Service: 01/23/2025
+Patient: Theresa Moore, F, DOB 01/23/1947 (age 78)
+Visit type: Cardiology - chest pain evaluation
+
+Vitals: BP 148/86, HR 92 irreg irreg, RR 18, SpO2 95% RA, Temp 98.2F, Wt 165 lb
+CC: "chest tightness on and off for a few days"
+
+Allergies: NKDA
+Meds (reconciled): metoprolol succinate 50mg qd, apixaban 5mg BID, allopurinol 300mg qd, albuterol HFA prn, tiotropium inhaled qd, tamsulosin 0.4mg qhs, colchicine 0.6mg prn flare, ASA 81mg qd, atorvastatin 40mg qd, omeprazole 20mg qd, PRN acetaminophen for gout flares.
+
+ROS: Constitutional - denies fever/chills, +fatigue. CV - +chest tightness, +palpitations, denies syncope. Resp - +occasional wheeze, denies hemoptysis. GI - denies N/V/D. GU - +nocturia x2. MSK - denies acute joint pain today, hx gout. Neuro - denies focal weakness. Skin - denies rash. Psych - denies SI/HI. All other systems reviewed and negative per template.
+
+Social History: Pt reports longstanding tobacco use. Per pt report and prior charting reviewed today: smoked 2 packs per day for 27 years, then quit completely for 7 years, then restarted at 2 packs per day for 28 years and continues to smoke cigarettes presently. Pt currently smokes cigarettes. Denies alcohol use. Denies illicit drug use. Lives with daughter.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Rachel Goldberg, MD - Cardiology
+DOS: 01/23/2025
+
+HPI: Ms. Moore is a 78 y/o F (DOB 1/23/1947) with h/o gout, afib, asthma, and BPH who presents for eval of intermittent chest tightness over the past several days. Pt states, "It feels like someone is sitting on my chest, comes and goes, maybe 10 minutes at a time." She denies radiation to arm/jaw but endorses associated SOB and occasional palpitations, which she attributes to her known afib. She states, "I thought it was just my heart acting up again like always," but decided to come in given increasing frequency of episodes over past 48 hrs. No assoc diaphoresis, no syncope, no lower extremity edema per pt. She reports mild exertional dyspnea at baseline, which she attributes partly to her asthma and partly to being "out of shape." No recent illness, no fevers.
+
+Current meds reviewed above and unchanged. She reports adherence to apixaban for afib, occasional missed doses of tiotropium. Uses albuterol prn approx 2-3x/week for wheeze.
+
+PMH: Gout (last flare ~3 months ago, on colchicine prn), Atrial fibrillation (on apixaban, rate-controlled on metoprolol), Asthma (moderate persistent, on tiotropium + albuterol prn), BPH (on tamsulosin, followed by urology).
+
+Social Hx (see nurse intake, confirmed w/ pt today): significant tobacco hx - 2 ppd x27 yrs, quit x7 yrs, then restarted 2 ppd x28 yrs, continues to smoke cigarettes currently. Pt currently smokes. Denies EtOH, denies illicit drugs. Lives w/ daughter, ambulates independently w/ cane.
+
+Family Hx: Father - MI at 60s. Mother - HTN. No known fam hx of lung dz reported.
+
+Physical Exam:
+Gen: Elderly female, NAD, sitting comfortably in chair.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no JVD appreciated.
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no S3/S4, radial pulses 2+ bilat, no peripheral edema.
+Resp: Mild expiratory wheeze bilat bases, no crackles, no accessory muscle use, breath sounds otherwise clear.
+Abd: Soft, NT/ND, +BS, no organomegaly.
+Ext: No edema, no clubbing/cyanosis, 1st MTP joints w/o active inflammation today.
+Skin: Warm, dry, no rash.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: Mood/affect appropriate.
+
+Labs/Studies: EKG today - afib w/ controlled ventricular response, no acute ST changes. Troponin pending. CXR ordered to eval for other causes of chest tightness/wheeze. BMP, CBC pending.
+
+Assessment: 78 y/o F w/ chest tightness, hx afib on anticoagulation, asthma, gout, BPH. Differential includes anginal equivalent, asthma exacerbation contributing to sx, afib-related palpitations. Given cardiac risk factors including longstanding tobacco use, will pursue further cardiac workup.
+
+Plan:
+1. Chest pain - trend troponins, telemetry monitoring, continue home cardiac meds, cardiology to reassess post-labs. Consider stress testing as outpatient if troponins negative.
+2. Afib - continue apixaban, continue metoprolol, monitor rate/rhythm.
+3. Asthma - continue tiotropium + albuterol, reinforce inhaler technique, discussed possible contribution to current sx.
+4. Tobacco use - counseled pt regarding ongoing cigarette use and cardiovascular/pulmonary risks, advised cessation, offered resources/counseling referral, pt states "I know I should quit, I've tried before." Lung cancer screening was discussed in general terms as an option to consider with her PCP.
+5. Gout - continue allopurinol, colchicine prn, no active flare today.
+6. BPH - continue tamsulosin, stable per pt.
+7. F/u in cardiology clinic per results, return sooner if worsening sx, chest pain instructions given.
+
+---
+ADDENDUM (later same day, 01/23/2025, R. Goldberg, MD):
+Troponin resulted at 1830 - within normal limits x1, repeat pending per protocol. CXR reviewed - no acute infiltrate, mild hyperinflation c/w chronic lung dz, no effusion. Pt remains hemodynamically stable, sx improved with rest per RN report. Will continue current plan as above, await repeat troponin and telemetry data overnight. Discussed findings with pt, she verbalizes understanding. Tobacco cessation counseling reinforced again briefly; pt again acknowledges continued cigarette use and states she will "think about" quitting.

@@ -1,0 +1,50 @@
+TELEHEALTH VISIT NOTE
+Patient: Carlos Gonzales (M), DOB 1/7/1968, age 56
+DOS: 01/07/2024
+Provider: Michael Dunn, DO
+Visit type: New patient - establish care, PCP, video visit
+
+CC: New patient here to establish care, wants med refills and general check in.
+
+HPI: 56 yo M with hx of hypothyroidism, osteoporosis, HTN, CKD stage 3 who is new to the area and est. care today via telehealth. Pt reports doing fairly well overall, no acute complaints today. Takes levothyroxine, denies missed doses, no palpitations or heat/cold intolerance currently. BP has been "ok" per home cuff readings, avg around 132/82 per pt report. No chest pain, no SOB, no edema. Osteoporosis dx approx 3 yrs ago per pt, on calcium/vit D, no fx since. CKD stage 3 - last labs from prior PCP (outside records not yet obtained) reportedly showed Cr around 1.6, pt unclear on further detail, will request records.
+Regarding tobacco use pt volunteered during HPI that he used to smoke but quit back in 2017, says he has not touched a cigarette since. No vaping, no other nicotine products currently.
+
+ROS: Constitutional - no fever, no wt loss. CV - no CP, no palp. Resp - no cough, no wheeze, no hemoptysis. GI - no n/v/d. GU - no dysuria, no hematuria. MSK - no new fx, occasional low back ache. Endo - no polyuria/polydipsia. All other systems reviewed and negative except as noted above.
+
+PMH/Problem List (copied fwd from outside referral, some entries may be outdated - to review):
+1. E03.9 Hypothyroidism, unspecified
+2. M81.0 Age-related osteoporosis without current pathological fracture
+3. I10 Essential (primary) hypertension
+4. N18.3 Chronic kidney disease, stage 3 (moderate)
+5. E78.5 Hyperlipidemia, unspecified (dc'd per pt, states last lipid panel wnl, keeping on list for now pending records)
+6. M54.5 Low back pain (chronic, stable)
+7. Z87.891 Personal hx of nicotine dependence
+
+Meds: Levothyroxine 75mcg daily, Lisinopril 10mg daily, Calcium carbonate/Vit D3 BID, Atorvastatin 20mg qhs (pt unsure if still taking - will clarify)
+
+Allergies: NKDA
+
+Social History: Lives w/ spouse, retired machinist. Denies current etoh, denies illicit drug use. Tobacco: former smoker, quit 2017, prior use was 10 cigs/day x 30 yrs per pt report today. No current tobacco use. Diet - reports moderate sodium intake, trying to improve. Exercise - walks ~20 min most days.
+
+Family Hx: Father - HTN, deceased age 78 MI. Mother - osteoporosis, hip fx in 80s.
+
+Vitals (per pt home device, self-reported, telehealth visit): BP 134/84, HR 76, wt 198 lb (pt reported, no home scale calibration data)
+
+Exam: Limited given telehealth format.
+Gen: Pt appears well, no acute distress, appropriately interactive on video.
+No further exam performed given visit modality; pt encouraged to obtain in office visit for full PE and labs at next visit.
+
+Labs/Data: none available today, outside records pending, will request via release of info.
+
+Assessment/Plan:
+1. Hypothyroidism (E03.9) - stable per pt report, continue levothyroxine 75mcg daily, will obtain TSH/free T4 at next in-person visit or nearby lab draw.
+2. Osteoporosis (M81.0) - continue calcium/vit D, discuss DEXA scan timing once records obtained, no new fx reported.
+3. Hypertension (I10) - home readings reportedly in acceptable range, continue lisinopril 10mg daily, recheck BP in office, reinforce low sodium diet.
+4. CKD stage 3 (N18.3) - will obtain updated BMP/eGFR/UA, request prior nephrology or PCP records, avoid nephrotoxic agents (NSAIDs) - counseled pt.
+5. Tobacco use, former (Z87.891) - pt quit smoking in 2017, prior hx 10 cigarettes/day x 30 yrs; counseled on continued avoidance and congratulated on cessation; lung cancer screening was discussed generally as a topic pt can bring up at future visit, deferring further discussion until in person visit and records review.
+6. Health maintenance - due for labs, will schedule in person f/u in 4-6 wks with labs prior (CMP, TSH, lipid panel, UA w/ micro).
+
+Pt verbalized understanding of plan, agreeable, no further questions today. Return to clinic or telehealth in 4-6 wks, sooner if concerns.
+
+Michael Dunn, DO
+Electronically signed 01/07/2024

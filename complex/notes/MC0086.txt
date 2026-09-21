@@ -1,0 +1,76 @@
+RESIDENT NOTE - PULMONOLOGY - ED FOLLOW-UP
+Patient: Roger White (M) DOB 3/13/1950
+Date of Service: 3/13/2025
+Author: Kevin Osei, MD (resident); attending attestation below
+
+CC: f/u after COPD exacerbation, recent ED visit
+
+HPI:
+Mr White is a 75 yo male seen today in pulm clinic as f/u after tx'd in ED for COPD exacerbation last wk. Pt states "I was wheezing so bad I couldnt finish a sentence" and reports some improvement since starting prednisone taper and increased nebs. Denies fever, denies hemoptysis, mild residual dyspnea on exertion. He reports he used to smoke 1.5 packs per day; he is a former smoker now. He states he quit smoking when his youngest grandchild was born - that grandchild is now 26 yo. No current tobacco use. Pt also notes he quit drinking alcohol in 2003 and has not resumed. He denies illicit drug use.
+
+Review of Systems (per template, otherwise negative):
+Constitutional: denies fever, chills, wt loss
+HEENT: denies sore throat, denies sinus congestion
+Resp: + mild dyspnea on exertion, denies hemoptysis, denies chest pain
+CV: denies chest pain, denies palpitations, denies orthopnea
+GI: denies nausea, denies vomiting, denies abd pain
+GU: denies dysuria, denies hematuria
+MSK: denies joint pain, denies swelling
+Neuro: denies HA, denies focal weakness, denies syncope
+Skin: denies rash
+Psych: denies SI/HI, denies depressed mood
+
+PMH/Problem List (ICD-10):
+- COPD w acute exacerbation, J44.1
+- CKD stage 3, N18.3
+- HTN, I10
+- T2DM, E11.9
+- GERD, K21.9 (old dx, unclear if still active, per pt not on tx currently)
+- Former tobacco use, Z87.891
+- Osteoarthritis, M19.90 (copy-forwarded from old note, pt denies significant jt sx today)
+
+Meds:
+1. Albuterol/ipratropium neb prn
+2. Tiotropium inh daily
+3. Fluticasone/salmeterol inh BID
+4. Prednisone taper (currently on day 5)
+5. Lisinopril 20mg daily
+6. Amlodipine 5mg daily
+7. Metformin 1000mg BID
+8. Empagliflozin 10mg daily
+9. Atorvastatin 40mg qhs
+10. Vit D3 1000 IU daily
+11. Multivitamin daily
+
+Allergies: NKDA
+
+Social Hx: Former smoker as above quit drinking etoh 2003 lives w spouse retired mechanic. Denies illicit drugs.
+
+Physical Exam:
+Vitals: T 36.8C HR 88 BP 138/82 RR 18 SpO2 94% on RA
+Gen: NAD, comfortable, sitting upright, speaking in full sentences today
+HEENT: NCAT, PERRL, oropharynx clear, no exudate
+Neck: supple no LAD, no JVD
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest
+Abd: soft NT ND, +BS
+Ext: no c/c/e, pulses 2+
+Skin: no rash no lesions
+Neuro: A&Ox3, no focal deficits
+Psych: mood euthymic affect appropriate
+
+Labs (reviewed, from ED visit):
+CBC wnl, BMP notable for cr 1.4 (baseline), glucose 156, BNP wnl
+CXR: hyperinflation no acute infiltrate
+
+Assessment/Plan:
+75 yo M w hx COPD, CKD3, HTN, T2DM here for f/u after COPD exacerbation.
+1. COPD exacerbation - improving, continue prednisone taper as directed complete inhaler regimen as above f/u PFTs when stable. Smoking cessation counseling reinforced although pt already former smoker - counseled ongoing avoidance of triggers/2ndhand smoke. Screening for lung cancer was discussed with pt, no imaging ordered today.
+2. CKD stage 3 - stable, cr near baseline continue current regimen monitor renal fxn q6mo
+3. HTN - well controlled on current regimen continue lisinopril/amlodipine
+4. T2DM - A1c due for recheck continue metformin/empagliflozin f/u w PCP
+5. Health maintenance - vaccines UTD per chart, will verify pneumococcal/influenza status at next visit
+
+f/u in pulm clinic 4-6 wks or sooner if worsening sx. Pt verbalized understanding of plan, agreeable.
+
+Attending Attestation: I have seen and examined the patient with Dr Osei, discussed the case, and agree with the above assessment and plan as documented. - Attending Pulmonologist

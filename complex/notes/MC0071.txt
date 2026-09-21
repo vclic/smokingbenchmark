@@ -1,0 +1,56 @@
+NURSE INTAKE
+Patient: Marilyn Jones (F) DOB 05/27/1970
+Date of Service: 05/27/2024
+Age: 54
+Visit Type: Geriatric Assessment - Geriatrics
+Vitals: BP 138/82, HR 78, RR 18, T 98.2F, SpO2 94% RA, Wt 172 lb
+
+CC: 'I get short of breath just walking to the mailbox now.'
+
+HPI (as reported to nursing): Ms. Jones is a 54-year-old woman with hx of HFrEF, COPD, T2DM, GERD, and OA who presents for routine geriatric assessment. She notes worsening fatigue and dyspnea on exertion over past several weeks. She states, 'My knees hurt more than usual, and I feel winded doing things I used to do without thinking twice.' She denies chest pain, orthopnea, or PND currently but reports occasional ankle swelling. Reviewed meds, no changes reported by patient today.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco Use: Former smoker
+Type: Cigarettes
+Packs/day: 1.5 ppd
+Years smoked: Not on file
+Quit age: Not on file
+Quit date: Not on file
+Alcohol Use: Denies
+Drug Use: Denies
+Occupation: Retired
+Living Situation: Lives with spouse
+Exercise: Limited due to dyspnea
+
+Nursing Note: Pt confirms she 'used to smoke a lot, about a pack and a half a day,' but states 'I don't smoke anymore, haven't touched a cigarette in a while.' No further details on duration or quit timing obtained during intake; pt declined to elaborate further today.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Author: Brian Okonkwo, MD
+Date: 05/27/2024
+
+HPI (physician addendum): I saw Ms. Jones today for her geriatric assessment visit. She reiterated her history as above, adding, 'It's been rough keeping up with everything, but I've stopped smoking, that much I know for sure.' She was somewhat vague about her smoking history when I asked follow-up questions, but she was clear that she is no longer a current smoker. She continues to report exertional dyspnea, which I suspect is multifactorial given her COPD and HFrEF. She denies fevers, chills, or productive cough today. She has occasional heartburn managed with omeprazole. Blood sugars per her home log have been in the 140-180 range fasting.
+
+ROS: Constitutional - fatigue positive, denies weight loss. Cardiac - occasional ankle edema, denies chest pain. Respiratory - dyspnea on exertion, denies hemoptysis. GI - occasional reflux, controlled. Musculoskeletal - bilateral knee pain, chronic, stable. Endocrine - polyuria denied, polydipsia denied.
+
+Exam:
+General: Alert, oriented x3, mild distress with ambulation to exam table.
+Cardiovascular: Regular rate and rhythm, S3 gallop present, no significant murmurs, 1+ bilateral pitting edema at ankles.
+Respiratory: Diminished breath sounds bilaterally with mild expiratory wheeze, no crackles.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Musculoskeletal: Crepitus bilateral knees, mild effusion left knee, no erythema.
+Skin: Warm, dry, no lesions.
+
+Assessment/Plan:
+1. HFrEF - appears stable, no acute decompensation signs beyond mild edema. Continue current diuretic and beta-blocker regimen. Will recheck BNP and BMP.
+2. COPD - symptoms possibly worsening; continue bronchodilator therapy, review inhaler technique. Given her extensive smoking history of 1.5 packs per day historically, continued pulmonary surveillance is warranted. She reports she is no longer smoking, which is reassuring; encouraged continued abstinence and offered resources should she need support in the future, though she reports she has already stopped on her own.
+3. T2DM - fasting glucose values slightly elevated; will adjust metformin dose and reinforce dietary counseling.
+4. GERD - stable on omeprazole, continue current dose.
+5. Osteoarthritis - bilateral knee pain, chronic; recommend continued acetaminophen as needed, consider PT referral for strengthening exercises, discussed weight management given cardiopulmonary comorbidities.
+6. Health maintenance - reviewed age-appropriate preventive care topics; general pulmonary health and continued tobacco abstinence were discussed. Discussed importance of pulmonary rehab referral given COPD symptoms.
+7. Follow-up in 4-6 weeks or sooner if symptoms worsen. Patient given instructions to seek urgent care for worsening dyspnea, chest pain, or significant edema.
+
+Time spent: 35 minutes, more than half spent in counseling and coordination of care given complexity of comorbidities.
+
+Electronically signed: Brian Okonkwo, MD, Geriatrics, 05/27/2024

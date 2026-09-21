@@ -1,0 +1,44 @@
+RESIDENT NOTE - CARDIOLOGY - Chest Pain Eval
+DOS: 01/18/2023
+Author: Daniel Reyes MD (resident), attending attestation below
+
+Patient: Mary Young, F, DOB 1/18/1952, age 71
+
+HPI:
+71 yo F w/ hx HTN, PAD, depression p/w intermittent substernal chest pressure x 3 days, non-exertional at times, some relief w/ rest. denies radiation to jaw, + mild SOB. no nausea/diaphoresis today. pt reports smokes 30 cigarettes per day for 10 years, continues to smoke currently, no attempts to quit noted this visit. no prior MI, no known CAD. PAD dx per vascular surgery f/u, on cilostazol. depression stable on sertraline per pt report, no recent med changes.
+
+ROS: otherwise negative except as above, denies fevers, palpitations minimal.
+
+PMH: HTN, PAD, depression
+PSH: none significant
+Meds: lisinopril, cilostazol, sertraline, ASA 81mg
+Allergies: NKDA
+
+Social History:
+Lives alone, uses cane for ambulation 2/2 claudication. Active smoker - currently smoking, has not quit. denies illicit drug use. rare etoh. no occupational exposures reported.
+
+Family Hx: father w/ CAD, mother w/ HTN
+
+Physical Exam:
+Vitals: BP 148/86, HR 78, RR 16, SpO2 97% RA, Temp 98.2F
+Gen: NAD, alert, comfortable
+CV: RRR, no m/r/g appreciated, distal pulses diminished bilat LE
+Resp: CTAB, no wheezes/rales
+Ext: no edema, cool distal extremities, hair loss noted on lower legs c/w PAD
+Neuro: grossly intact
+
+Labs/Studies:
+EKG: NSR, no acute ST changes, nonspecific T wave flattening inferior leads
+Troponin: pending
+CXR: no acute infiltrate, no effusion
+
+Assessment/Plan:
+71 yo F w/ HTN, PAD, depression, active smoker presenting w/ atypical chest pain, low-risk EKG.
+1. Chest pain - r/o ACS, trend troponins, consider stress test outpt if trops neg, continue ASA
+2. HTN - cont lisinopril, monitor BP today elevated
+3. PAD - cont cilostazol, vascular surg f/u as scheduled
+4. Depression - cont sertraline, screen PHQ-9 today, pt denies SI
+5. Tobacco use - patient is an active smoker, counseled extensively re: smoking cessation benefits given cardiac/PAD risk, offered nicotine replacement/varenicline discussion, pt states not ready to quit at this time. lung cancer screening was discussed w/ pt as an option to consider.
+6. f/u cardiology in 2 wks or sooner if sx worsen
+
+Attending Attestation: I have seen and examined pt Mary Young along w/ Dr Reyes, discussed plan of care above, agree w/ assessment and plan as documented, visit date 1/18/2023. -Attending Cardiology

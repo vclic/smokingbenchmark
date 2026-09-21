@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 9/27/2023
+Patient: Harold Ross   DOB: 9/21/1943   MRN: 92260650
+
+S:
+CC: f/u DM2
+HPI: 80 yo M w/ T2DM, HLD, GERD, HTN here for diabetes follow-up. Most recent A1c 8.1% (previously 7.9% in March 2023). Checks fasting sugars most mornings, running 110s-160s. Denies polyuria/polydipsia. Reports some tingling in feet at night.
+
+PMH: HTN, HLD, T2DM, GERD, History of tobacco use (Z87.891)
+PSH: Cataract extraction, bilateral
+Meds: metformin 1000 mg BID; lisinopril 10 mg daily; amlodipine 5 mg daily; pantoprazole 40 mg daily; insulin glargine 20 units nightly; pravastatin 40 mg nightly
+Allergies: Lisinopril (cough)
+Social History:
+- Widowed; lives w/ daughter.
+- Retired bus driver.
+- Former tob; quit Apr 2007.
+- Social drinker.
+- Denies illicit drugs.
+FH: Father - stroke.
+ROS: Gen neg, GI neg, Neuro neg, MSK neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 124/72  HR: 59  RR: 16  Temp: 98.2 F  SpO2: 96% on RA  Wt: 207 lbs  BMI: 28.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 8.1% - above goal; add empagliflozin 10 mg daily. Diabetic eye exam referral.
+2. GERD
+   - Trial PPI step-down.
+3. Essential HTN: Well controlled on home log. No changes.
+4. Mixed hyperlipidemia: LDL at goal on last check; continue.
+
+Return in about 6 months (around 3/27/2024).
+
+Electronically signed by Quentin Hale, PA-C on 9/29/2023 at 10:27

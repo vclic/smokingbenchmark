@@ -1,0 +1,30 @@
+GERIATRICS RESIDENT NOTE - ATTESTED
+Patient: Linda Miller | DOB: 3/7/1966 | Age: 58 | F
+Date of Service: 3/7/2024
+Author: Anita Patel, MD (resident note, attending attestation below)
+
+HPI:
+Ms. Miller presents for routine geriatric assessment. She reports feeling generally well aside from some joint stiffness. She states, "I feel pretty good most days, just my toe flares up sometimes." Regarding tobacco use, patient smokes a quarter pack (about 5 cigarettes) per day and has done so for 36 years; she currently smokes cigarettes. She also reports smoking marijuana a few times a month for relaxation. She states, "I know I should quit, I've been saying that for years." A quit date has been set for 4/19/2024.
+
+Note: The templated field below carried forward from prior visit reads "Smoking status: Never Smoker" - this is incorrect and outdated; please disregard, see HPI above for accurate history.
+
+[COPY-FORWARD BLOCK FROM VISIT 9/12/2023]
+Patient here for follow-up of hyperlipidemia and OSA. CPAP compliance reviewed, patient using device ~5 nights/week. Thyroid function stable on current levothyroxine dose. Gout flare last occurred 2 months ago, resolved with colchicine. Diet reviewed, counseled on low-purine diet. Smoking status: Never Smoker. Follow up in 6 months.
+[END COPY-FORWARD BLOCK]
+
+ROS: Constitutional - denies fever, chills, weight loss. HEENT - denies vision changes, hearing loss. Cardiovascular - denies chest pain, palpitations. Respiratory - denies cough, hemoptysis, dyspnea at rest. GI - denies nausea, vomiting, abdominal pain. GU - denies dysuria, hematuria. MSK - reports intermittent great toe pain c/w gout. Neuro - denies weakness, numbness. Psych - denies depression, anxiety. Skin - denies rash.
+
+Physical Exam: Vitals stable, BP 128/76, HR 72, RR 16, SpO2 96% RA. General - well-appearing, NAD. HEENT - normocephalic, atraumatic, PERRL. Neck - no thyromegaly. Lungs - clear to auscultation bilaterally, no wheezes/rales. CV - RRR, no murmurs. Abdomen - soft, non-tender. Extremities - no edema, first MTP joint mildly tender without acute erythema. Neuro - grossly intact.
+
+Medications: Atorvastatin 40mg daily, Levothyroxine 75mcg daily, Allopurinol 300mg daily, Colchicine 0.6mg PRN, CPAP nightly, Multivitamin daily.
+
+Assessment/Plan:
+1. Hyperlipidemia - continue statin, recheck lipid panel in 6 months.
+2. OSA - continue CPAP, review compliance data next visit.
+3. Hypothyroidism - stable, continue current dose, recheck TSH in 6 months.
+4. Gout - stable, continue allopurinol, colchicine PRN flares.
+5. Tobacco use - counseled on cessation resources; quit date set as above. Discussed lung cancer screening in general terms.
+
+Attending Attestation: I have reviewed and discussed this patient with the resident and agree with the documented findings and plan. - Anita Patel, MD
+
+ADDENDUM (later same day): Patient called back to clarify medication list; no changes needed. Discussed importance of following through with planned quit date of 4/19/2024. Also confirmed she continues to smoke marijuana a few times a month; advised on risks. No other changes to plan.

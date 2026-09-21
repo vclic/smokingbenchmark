@@ -1,0 +1,37 @@
+NURSING INTAKE - Cardiology
+DOS: 04/25/2024
+Pt: George Lewis, M, DOB 4/25/1967 (age 57)
+CC: chest pain x several days, referred from PCP for eval.
+VS: BP 138/86, HR 78, RR 16, T 98.2, SpO2 96% RA
+Allergies: NKDA
+Meds: lisinopril, omeprazole, sertraline, albuterol PRN
+
+[TEMPLATE FIELD - AUTO-POPULATED, NOT REVIEWED]
+Smoking status: Never Smoker
+
+PHYSICIAN PROGRESS NOTE - Julia Brennan, MD
+DOS 04/25/2024
+
+HPI: 57 y/o M w/ hx CAD, HTN, GERD, COPD, depression p/w intermittent substernal CP x 4 days, worse w/ exertion, assoc mild SOB. No radiation to jaw/arm currently, no diaphoresis. Denies fever/cough change. Pt reports similar sx pattern to prior anginal episodes. Smoking hx notable - the auto-populated "Never Smoker" field above is incorrect and should be disregarded. Pt actually has a significant tobacco hx: smoked 1 pack per day for 8 years, then stopped completely for 6 years, then restarted at 1 pack per day for 9 years before quitting for good. He is currently a former smoker, having quit at age 44.
+
+Note: chart copied fwd from note dated 10/25/2022 documents smoking status at that time - "Smoking status as of 10/25/2022: former smoker" (no quantities given in that entry, copied verbatim below for continuity).
+
+---copied text from 10/25/2022 note---
+Social hx: Smoking status: former smoker. Pt counseled previously re: cardiac risk factors.
+---end copied text---
+
+ROS: Cardiac - CP, mild dyspnea on exertion. Otherwise negative. GI - occasional reflux, stable on PPI. Psych - stable mood on sertraline.
+
+EXAM: NAD, A&Ox3. CV: RRR, no m/r/g. Lungs: mild expiratory wheeze bilat, no crackles. Abd: soft, NT/ND. Ext: no edema.
+
+Problem List (ICD-10):
+- I25.10 CAD w/o angina (dx outdated per pt, has intermittent angina - needs update)
+- I10 Essential HTN
+- K21.9 GERD
+- J44.9 COPD
+- F32.9 MDD, unspecified
+- Z87.891 Personal hx of nicotine dependence
+
+A/P: CP likely anginal given CAD hx, will obtain EKG, troponin, stress test. Continue home meds. COPD stable on current regimen, reinforce inhaler technique. GERD well-controlled. Depression stable, continue sertraline. Lung ca screening discussion had given tobacco hx - deferred further w/u decision to separate visit. F/u 1-2 wks or sooner if sx worsen. RTC.
+
+/s/ Julia Brennan, MD

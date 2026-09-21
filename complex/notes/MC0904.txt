@@ -1,0 +1,55 @@
+GERIATRICS H&P
+Patient: Jose Lewis (M) DOB 5/19/1945, 78 y/o male
+DOS: 05/19/2023
+Attending/Author: Anita Patel, MD
+
+CC: Comprehensive geriatric assessment, referred by PCP for multi-morbidity management.
+
+HPI: Mr. Lewis is a 78 y/o male w/ hx of obesity, COPD, HFrEF, osteoporosis, and hypothyroidism who presents today for geriatric eval. Pt c/o gradual decline in exercise tolerance over past several months, now SOB after ~1 flight of stairs, [inaudible] denies chest pain but does note occasional palpitations, wife states he has been more forgetful lately although this may be related to fatigue and poor sleep due to nocturnal cough, pt also reports occasional swelling in ankles worse by end of day which improves overnite with elevation. He was seen by cardiology 3 months ago, echoc showed reduced EF, med regimen was adjusted at that time. Pt continues to smoke, he is an active smoker at this visit, and this remains a major focus of counseling given his COPD and cardiac disease.
+
+PMH: Obesity, COPD (on home inhalers), heart failure w/ reduced EF, osteoporosis (s/p DEXA showing osteopenia/osteoporosis), hypothyroidism (on levothyroxine).
+
+PSH: Right knee arthroscopy remote, no other major surgeries.
+
+MEDICATIONS: Furosemide 40mg qd, Carvedilol 12.5mg BID, Lisinopril 10mg qd, Spironolactone 25mg qd, Levothyroxine 100mcg qd, Tiotropium inhaler qd, Albuterol PRN, Alendronate 70mg weekly, Vitamin D3 2000 IU qd, Calcium carbonate 600mg BID, Atorvastatin 40mg qd, Aspirin 81mg qd, Multivitamin qd.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Lives w/ spouse in single level home, retired machinist, prior occupational dust/fume exposure per pt report though details vague and pt not entirely clear on specifics [inaudible] during interview. Smoking hx: pt reports smoking 2 packs per day for 21 years, then cut back to about 10 cigarettes per day for the next 43 years up to now, and he continues to smoke currently. He was counseled extensively regarding smoking cessation resources including counseling and pharmacotherapy options, pt states he is 'not ready' at this time but agreed to consider nicotine patch. Denies alcohol use, denies illicit drug use. No etoh in over a decade per pt.
+
+FAMILY HISTORY: Father w/ CAD, mother w/ osteoporosis, no known lung cancer in family per pt though family hx somewhat limited.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, some fatigue as above. HEENT: denies vision changes, denies hearing loss, wears glasses. CV: as above, palpitations, ankle edema, denies syncope. Resp: chronic cough, dyspnea on exertion as above, denies hemoptysis. GI: denies nausea, vomiting, denies abd pain, +constipation intermittent. GU: nocturia x2, denies dysuria. MSK: chronic low back pain, denies new fx or fall, hx of osteoporosis noted. Neuro: denies focal weakness, denies numbness, some word finding difficulty per wife. Psych: denies SI/HI, mood stable. Skin: denies rash. Endocrine: on thyroid replacement, no new sx. Heme: denies easy bruising, denies bleeding.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregular, RR 18, Temp 97.8F, SpO2 91% on RA, Wt 245 lb, Ht 5'9".
+Gen: obese male, NAD, appears stated age of 78.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear.
+Neck: no JVD appreciated today though difficult to assess given body habitus, no LAD.
+CV: irregularly irregular rhythm, no murmurs appreciated, 1+ pitting edema b/l lower extremities.
+Resp: decreased breath sounds bilat bases, scattered expiratory wheezes, prolonged expiratory phase.
+Abd: obese, soft, NT/ND, +BS.
+Ext: no clubbing, 1+ edema as noted, pulses 2+ distally.
+Neuro: A&Ox3, CN II-XII grossly intact, gait slow but steady with cane.
+Skin: no rashes, no lesions concerning for malignancy.
+
+LABS/RESULTS:
+CBC (05/15/2023): WBC 7.2, Hgb 13.1, Hct 39.5, Plt 210.
+BMP (05/15/2023): Na 138, K 4.3, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 104.
+BNP (05/15/2023): 610 pg/mL (elevated).
+TSH (04/02/2023): 2.1 mIU/L (WNL on current levothyroxine dose).
+DEXA (01/2023): T-score -2.6 hip, consistent with osteoporosis.
+PFTs (03/2023): FEV1/FVC 0.62, consistent with moderate obstruction.
+
+ASSESSMENT/PLAN:
+1. Active smoking, ongoing tobacco use disorder in setting of COPD and HFrEF - discussed risks extensively, pt continues to smoke actively despite counseling. Offered nicotine replacement, referred to tobacco cessation program. Lung cancer screening was discussed with the patient as part of general risk counseling though decision regarding imaging deferred to PCP/pulm.
+2. COPD - continue tiotropium, albuterol PRN, will consider pulm referral for optimization given worsening SpO2.
+3. HFrEF - appears mildly decompensated today given edema and elevated BNP, will increase furosemide slightly, f/u w cards.
+4. Osteoporosis - continue alendronate, calcium, vit D, f/u DEXA in 2 yrs.
+5. Hypothyroidism - TSH WNL, continue current dose.
+6. Obesity - counseled on diet/exercise as tolerated given cardiopulm limitations.
+7. Cognitive concerns raised by spouse - will obtain MMSE/MoCA at f/u visit, consider referral if worsening.
+
+Pt to f/u in 4-6 wks or sooner if worsening sx. All questions addressed today, pt verbalizes understanding of plan.
+
+-- Anita Patel, MD, Geriatrics, DOS 05/19/2023

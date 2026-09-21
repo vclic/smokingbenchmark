@@ -1,0 +1,102 @@
+PULMONOLOGY CONSULTATION LETTER
+
+Date of Service: 10/19/2023
+Referring Physician: Dr. R. Alvarez, Internal Medicine
+Consulting Physician: Elena Markovic, MD, Pulmonary Medicine
+
+Patient: Betty White
+DOB: 01/19/1968 (Age 55)
+MRN: 778-2231
+
+Reason for Consult: Follow-up evaluation of incidentally noted lung nodule on recent CT abdomen/pelvis.
+
+Dear Dr. Alvarez,
+
+Thank you for referring Ms. White, a 55-year-old woman, for further evaluation of a pulmonary nodule identified incidentally on cross-sectional imaging obtained for evaluation of her peripheral artery disease. I had the pleasure of seeing her today, 10/19/2023, in follow-up.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. White reports feeling generally well. She denies cough, hemoptysis, chest pain, fevers, night sweats, or unintentional weight loss. She was informed by Dr. Alvarez's office of an incidental finding of a small nodule in the right upper lobe on a recent CT scan obtained during work-up of claudication symptoms. She has brought a copy of the imaging report with her today. The nodule measures approximately 7 mm, and there is no prior imaging available for comparison at this time. We discussed the general approach to indeterminate pulmonary nodules, including the possibility of interval surveillance imaging versus further characterization.
+
+She denies any recent respiratory infections. No known exposure to tuberculosis. No occupational exposures to asbestos that she is aware of, though she did work in a warehouse setting for many years earlier in life.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per EHR, with ICD-10 codes):
+1. Peripheral artery disease, bilateral lower extremities - I73.9 (active, followed by vascular surgery)
+2. Chronic kidney disease, stage 3 - N18.3 (active, last eGFR 52 in 08/2023)
+3. Hypertension - I10 (active, on lisinopril)
+4. Hyperlipidemia - E78.5 (active, on atorvastatin)
+5. GERD - K21.9 (appears outdated; patient states resolved years ago, not currently on PPI)
+6. Seasonal allergic rhinitis - J30.2 (outdated entry, not currently symptomatic)
+
+MEDICATIONS:
+- Lisinopril 20 mg daily
+- Atorvastatin 40 mg nightly
+- Aspirin 81 mg daily
+- Cilostazol 100 mg twice daily
+
+ALLERGIES: No known drug allergies.
+
+SOCIAL HISTORY (EHR-templated block):
+Tobacco use status: Former smoker
+Cigarettes: 46 pack-year history
+Years smoked: Not on file
+Quit date: Late 1980s (approximate)
+Secondhand smoke exposure: Not on file
+Smokeless tobacco: Never
+E-cigarette/vaping use: Never
+Alcohol use: Occasional, 1-2 glasses of wine per week
+Illicit drug use: Denies
+Occupation: Retired warehouse supervisor
+Living situation: Lives with spouse
+Exercise: Limited due to claudication symptoms
+
+Ms. White stated during the visit that she quit smoking back in the late 1980s and has not smoked since. She was able to recall that she had smoked heavily for a number of years prior to quitting, consistent with the 46 pack-year history documented in her chart. She does not use any nicotine replacement products currently and denies any interest in resuming tobacco use.
+
+FAMILY HISTORY:
+Father - coronary artery disease, deceased age 71.
+Mother - history of breast cancer, deceased age 80.
+No known family history of lung cancer.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, chills, weight loss.
+Respiratory: No cough, dyspnea, wheezing, or hemoptysis.
+Cardiovascular: Positive for bilateral leg claudication with ambulation, no chest pain.
+GI: No nausea, vomiting, abdominal pain.
+GU: No dysuria, hematuria.
+Musculoskeletal: No joint pain.
+All other systems reviewed and negative.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 138/82, HR 74, RR 16, SpO2 97% on room air, Temp 98.2F, Weight stable.
+General: Well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic. No lymphadenopathy.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Cardiovascular: Regular rate and rhythm, no murmurs. Diminished distal pulses bilaterally in lower extremities, consistent with known PAD.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema. Skin changes consistent with chronic PAD noted on lower legs.
+Neuro: Alert and oriented x3, no focal deficits.
+
+LABORATORY/IMAGING REVIEW:
+CT abdomen/pelvis (outside facility, reviewed today): 7 mm nodule, right upper lobe, non-calcified, no associated lymphadenopathy noted on limited thoracic views.
+Recent labs (08/2023): Creatinine 1.4, eGFR 52, otherwise unremarkable basic metabolic panel.
+
+ASSESSMENT:
+55-year-old former smoker with a 46 pack-year history, quit in the late 1980s, with an incidentally discovered 7 mm right upper lobe pulmonary nodule found on CT performed for other indications. Given the size and characteristics of the nodule, surveillance imaging is a reasonable next step.
+
+PLAN:
+1. Obtain dedicated CT chest with thin cuts through the nodule for better characterization, to be arranged through this office.
+2. Continue current management of PAD and CKD stage 3 with primary care and vascular surgery.
+3. Counseled patient extensively on the importance of continued tobacco abstinence; she has remained smoke-free since quitting and was praised for this.
+4. Follow-up in pulmonary clinic after dedicated CT chest is obtained, likely within 4-6 weeks.
+5. Patient to call with any new respiratory symptoms including hemoptysis, unexplained weight loss, or worsening cough.
+
+Thank you again for this interesting referral. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Elena Markovic, MD
+Pulmonary Medicine
+
+---
+ADDENDUM (10/19/2023, later same day):
+After dictating the above note, I received a callback from the outside imaging center confirming that no prior chest imaging exists for comparison, as suspected. I also want to clarify in the record that Ms. White's tobacco history, as documented in the EHR templated social history block above (46 pack-year history, former smoker, quit in the late 1980s), was verified directly with the patient during today's visit and is consistent with prior documentation in the chart from her primary care office. No further changes to the plan at this time.
+
+Elena Markovic, MD

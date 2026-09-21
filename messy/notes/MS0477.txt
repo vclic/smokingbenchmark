@@ -1,0 +1,84 @@
+RESIDENT NOTE - CARDIOLOGY
+Patient: Richard Price (M), DOB 1/13/1956
+Date of Service: 01/13/2024
+Attending: Julia Brennan, MD
+Resident: T. Osei, MD
+
+CC: Chest pain eval.
+
+HPI: 68 yo M w/ hx osteoporosis, HLD, hypothyroidism, OA presents for eval of intermittent chest pain x2 wks. Pt describes pressure-like discomfort, substernal, non-radiating, occurring w/ exertion (climbing stairs), resolves w/ rest in ~5 min. Denies SOB at rest, orthopnea, PND, LE edema. No recent fevers/chills. Reports mild fatigue. No prior cardiac hx. Family hx notable for father w/ MI at 60.
+
+ROS:
+Constitutional: denies fever, chills, wt loss.
+Cardiac: + chest pressure as above, denies palpitations, syncope.
+Resp: denies cough, wheeze, hemoptysis.
+GI: denies N/V/D, abd pain.
+GU: denies dysuria, hematuria.
+MSK: chronic OA knees, stable.
+Neuro: denies HA, dizziness, focal weakness.
+Skin: no rashes.
+All other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former/experimental use - see comment
+Comment: Pt reports he tried a few cigarettes as a teenager but never smoked regularly.
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Yes - pt vapes nicotine daily; states he has never smoked cigarettes.
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired postal worker
+Living situation: Lives with spouse
+Exercise: Walks 20 min daily
+
+PMH: Osteoporosis, hyperlipidemia, hypothyroidism, osteoarthritis.
+PSH: None significant.
+
+MEDICATIONS:
+1. Alendronate 70mg PO qweek
+2. Atorvastatin 40mg PO qhs
+3. Levothyroxine 75mcg PO qam
+4. Acetaminophen 500mg PO PRN for joint pain
+5. Calcium carbonate/Vitamin D3 combo PO daily
+6. Vitamin D3 2000 IU PO daily
+7. Aspirin 81mg PO daily (newly started today, see plan)
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, SpO2 97% RA, BMI 27.3
+General: well-appearing, NAD, in no acute distress
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear
+Neck: supple, no JVD, no LAD, no thyromegaly
+CV: RRR, no m/r/g, normal S1/S2, no heaves or thrills, distal pulses 2+ bilaterally
+Resp: CTAB, no wheezes/rales/rhonchi, normal effort
+Abd: soft, NT/ND, +BS, no HSM
+Ext: no edema, no clubbing, no cyanosis
+MSK: mild crepitus bilateral knees, no effusion
+Skin: warm, dry, intact
+Neuro: A&Ox3, CN II-XII grossly intact, motor 5/5 all extremities, sensation intact
+Psych: mood/affect appropriate
+
+LABS/RESULTS:
+CBC (01/13/2024): WBC 6.8, Hgb 14.2, Hct 42.1%, Plt 245
+BMP (01/13/2024): Na 140, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.9, Glucose 96
+Lipid panel (01/13/2024): Total chol 178, LDL 98, HDL 48, Trig 160
+TSH (01/13/2024): 2.1 (WNL)
+Troponin I (01/13/2024): <0.01 (negative x1)
+EKG (01/13/2024): NSR, rate 76, no ST-T changes, no Q waves
+
+ASSESSMENT/PLAN:
+68 yo M w/ exertional chest pain, low-risk features, negative initial troponin, unremarkable EKG.
+1. Chest pain, likely stable angina vs musculoskeletal - obtain stress echo as outpt, start aspirin 81mg daily, continue statin, f/u results.
+2. Hyperlipidemia - continue atorvastatin, repeat lipid panel in 3 months.
+3. Hypothyroidism - TSH WNL, continue levothyroxine current dose.
+4. Osteoporosis - continue alendronate, calcium/vit D, DEXA due for repeat next year.
+5. Osteoarthritis - continue PRN acetaminophen, refer PT if worsens.
+6. Tobacco/nicotine: counseled re: nicotine vape use, encouraged cessation given cardiac risk; discussed general lung health but no imaging ordered today.
+
+Discharge instructions given, pt to f/u in 2 wks or sooner if sx worsen. Return to ED for worsening chest pain, SOB, diaphoresis.
+
+Attending attestation: I have reviewed and discussed this case with Dr. Osei. I agree with the history, exam, and plan as documented above. Patient examined and findings confirmed. - Julia Brennan, MD
+
+---
+ADDENDUM (later same day, 01/13/2024, 4:45pm):
+Pt called back after discharge w/ question re: aspirin timing, advised to take w/ food in evening. No new concerns reported. Will continue as planned, stress echo referral placed. - T. Osei, MD / Julia Brennan, MD

@@ -1,0 +1,44 @@
+TELEHEALTH VISIT NOTE
+DOS: 12/29/2025
+Patient: Okafor, Ronald. M, age 78 (DOB 8/24/1947). Provider: Owen Fitzgerald, MD (Geriatrics)
+
+CC: Geriatric assessment via telehealth, f/u chronic conditions.
+
+HPI: 78 yo M seen via video for routine geriatric wellness check. Pt reports doing fairly well at home, lives w/ spouse, ambulates w/ cane, no falls since last visit. C/o mild fatigue, denies chest pain, denies SOB at rest. Appetite stable. Sleep - uses CPAP nightly, adherence reportedly good per device download shared by DME co. Wife on the call, confirms no cognitive decline noted, though pt occ. misplaces keys.
+
+SOCIAL HX: Never smoker - pt states he has never used tobacco, no vaping hx either. No EtOH, no illicit drug use. Retired postal worker, lives in single-story home, no stairs.
+
+--- COPIED FORWARD FROM VISIT 6/14/2024 (retained per pt request, not all updated) ---
+Pt is a 76 yo M here for f/u DM2, OSA, CKD3, osteoporosis, obesity. Reports home glucose readings 110-160 fasting. Denies polyuria, polydipsia. On CPAP - per pt report using >6 hrs/night most nights, feels rested most mornings. Osteoporosis - last DEXA c/w osteoporotic range, on wkly bisphosphonate, tolerating well, no GI upset reported. CKD3 - stable Cr in 1.4-1.6 range per labs at that time, nephro f/u q6mo. Obesity - BMI ~34 at that visit, counseled on diet/exercise, referred to nutrition. ROS otherwise negative for fevers, chills, night sweats, hematuria, dysuria. Plan at that time: cont metformin, cont CPAP, recheck labs in 3 mo, f/u DEXA in 2 yrs.
+--- END COPIED SECTION ---
+
+PMH: Obesity, osteoporosis, OSA (CPAP), CKD stage 3, type 2 diabetes.
+
+MEDS: Metformin 1000mg BID, alendronate 70mg weekly, lisinopril, atorvastatin, vitamin D3, calcium supplement.
+
+ALLERGIES: NKDA.
+
+EXAM (via video, limited): Gen - well-appearing, NAD, seated comfortably. Speech clear, affect appropriate. No visible distress. Skin - no obvious lesions on face/hands visualized. Gait not formally assessed via telehealth but pt reports use of cane w/o difficulty. Cardiac/pulm exam deferred (telehealth limitation), pt denies acute sx.
+
+LABS (reviewed, from recent draw): A1c 7.1%, Cr 1.5 (eGFR ~42), K 4.6, Ca 9.4, 25-OH vit D 32. Lipid panel unremarkable.
+
+ASSESSMENT:
+1. Type 2 DM - reasonably controlled, A1c 7.1%, cont current regimen.
+2. OSA - on CPAP, adherence adequate per pt/device report.
+3. Osteoporosis - stable on bisphosphonate therapy.
+4. CKD stage 3 - stable, monitor renal fxn, avoid nephrotoxic agents.
+5. Obesity - ongoing counseling re: diet/activity, no acute change.
+6. Health maintenance - age-appropriate cancer screening discussed generally; lung cancer screening topic discussed briefly given age, no further action taken today, deferred to PCP.
+
+PLAN:
+- Cont current meds as above, no changes today.
+- Recheck BMP, A1c in 3 months.
+- F/u nephrology per prior schedule.
+- Encourage home glucose monitoring, log readings.
+- Fall precautions reviewed given osteoporosis + cane use; PT referral considered if mobility declines.
+- Telehealth visit again in 3-4 months or sooner if issues arise.
+- Pt/spouse verbalize understanding, agree w/ plan.
+
+Time spent: approx 22 min telehealth encounter including chart review and counseling.
+
+Electronically signed: Owen Fitzgerald, MD, Geriatrics, 12/29/2025.

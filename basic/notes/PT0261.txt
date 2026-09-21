@@ -1,0 +1,45 @@
+Internal Medicine Clinic Note
+Date of Service: 2/6/23
+Patient: Theresa Thompson   DOB: 8/26/1942   MRN: 99034077
+
+SUBJECTIVE:
+CC: Follow-up hypertension
+HPI: 80 y/o female w/ OA, HTN, T2DM, GERD here for follow-up of hypertension. Home BP readings mostly in the 120s/70s. Reports good adherence to lisinopril 20 mg daily. No HA, CP, SOB, or LE swelling.
+
+PMH: T2DM, GERD, OA, HTN, Former smoker
+PSH: Tonsillectomy (childhood)
+Meds: famotidine 20 mg BID; metformin 500 mg BID; acetaminophen 500 mg 2 tabs TID PRN; glipizide 5 mg daily; lisinopril 20 mg daily
+Allergies: Codeine (nausea)
+Social History:
+- Lives alone in an apartment.
+- Retired hairdresser.
+- Tobacco: Former (35 PY; quit 1999).
+- Drinks a glass of wine with dinner.
+- Drives.
+FH: Son - type 1 diabetes.
+ROS: Skin neg, Resp neg, Gen neg, GU neg, Neuro neg, GI neg, MSK neg, CV neg
+
+O:
+Vitals: BP: 156/70  HR: 67  RR: 20  Temp: 98.7 F  SpO2: 99% on RA  Wt: 144 lbs  BMI: 25.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Hypertension
+   - Above goal; increase lisinopril dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Gastroesophageal reflux disease
+   - Trial PPI step-down.
+3. Hx tobacco use
+   - Congratulated on remaining smoke-free.
+
+f/u 3 mo
+
+Electronically signed by Daniel Reyes, MD on 2/8/2023 at 16:41

@@ -1,0 +1,48 @@
+H&P - Cardiology Consult
+Patient: Denise Okafor (F) DOB 08/08/1952 Age 72
+Date of Service: 08/18/2024
+Author: Isaac Moreno, PA-C
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Pt is a 72 yo woman referred by PCP for intermittent chest tightness x 2 wks assoc w exertion, no radiation, relieved w rest. Denies SOB at rest but reports baseline dyspnea attributed to known COPD. No orthopnea/PND. No fevers, no cough change. Denies palpitations. Pt reports mood has been "okay" on current antidepressant regimen.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/02/2022 (Dr. R. Han, Pulmonology) ---
+Pt presents for routine COPD follow up. Continues on tiotropium inhaler daily, reports occasional wheeze in cold weather. Denies increase in sputum production, no hemoptysis. Spirometry reviewed - FEV1/FVC consistent w moderate obstruction, stable from prior. Pt counseled on inhaler technique. Influenza vaccine given today. Return to clinic in 12 months or sooner if worsening symptoms.
+--- END COPIED TEXT ---
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Chronic obstructive pulmonary disease, unspecified - J44.9
+2. Major depressive disorder, recurrent, moderate - F33.1
+3. Hyperlipidemia - E78.5 (dc'd statin 2019 per pt report, outdated entry, verify)
+4. GERD - K21.9
+5. Osteoarthritis, knee - M17.9 (old, not addressed recently)
+
+SOCIAL HISTORY (templated):
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Alcohol use: denies
+Illicit drug use: Not on file
+Living situation: lives alone, daughter nearby
+Occupation: retired
+Exercise: sedentary, limited by dyspnea
+
+REVIEW OF SYSTEMS: Otherwise negative except as above per HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 94% RA, Temp 98.2F
+Gen: NAD, comfortable
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze bilat, no accessory muscle use
+Abd: soft NT/ND
+Ext: no edema
+
+ASSESSMENT AND PLAN:
+72F with chest pain, hx COPD and depression, presenting for cardiac eval.
+1. Chest pain - likely musculoskeletal vs early angina, will obtain EKG and troponin today, consider stress test if labs unremarkable.
+2. COPD - continue current inhaler regimen, monitor sats.
+3. Depression - continue current management, refer back to PCP for med review.
+4. GERD - continue PPI as needed.
+f/u in 2 weeks or sooner if symptoms worsen.
+
+Electronically signed: Isaac Moreno, PA-C 08/18/2024

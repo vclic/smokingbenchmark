@@ -1,0 +1,67 @@
+TELEHEALTH ENCOUNTER - Family Medicine
+Patient: Lan O'Brien (F), DOB 6/29/1965, age 58
+Date of Service: 11/16/2023
+Provider: Kevin Osei, MD
+
+Visit type: Telehealth, med refill visit, audio/video via patient portal, connection choppy at times [inaudible] during opening pleasantries.
+
+CC: here for refills of routine meds, osteoarthritis and BPH follow up, no acute complaints today although she says her knee's been "achy with the weather changing" and wants to no if theirs anything else she can try besides tylenol.
+
+HPI: 58 yo F c/o chronic b/l knee OA, stable, using acetaminophen and topical diclofenac PRN with adequate relief per pt, denies falls, denies red/swollen joints acutely. Also f/u BPH, on tamsulosin, reports nocturia improved to 1x/night from 3x, denies hematuria, denies dysuria, denies fevers. She ask about refilling all her usual meds bc she's traveling next month and wants extra supply on hand - explained insurance may not allow early refill but will try.
+
+ROS (templated, reviewed w/ pt):
+Constitutional: denies fever, chills, unintentional weight loss/gain
+Eyes: denies vision changes
+ENT: denies sore throat, denies ear pain
+Cardiovascular: denies chest pain, denies palpitations, denies edema
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: denies nausea, denies vomiting, denies abd pain, denies constipation/diarrhea
+GU: reports improved nocturia (see HPI), denies hematuria
+Musculoskeletal: reports chronic knee pain, see HPI
+Skin: denies rash
+Neuro: denies HA, denies dizziness, denies numbness/tingling
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+PMH:
+Problem List (ICD-10):
+- M17.0 - Bilateral primary osteoarthritis of knee
+- N40.1 - BPH w/ LUTS
+- I10 - Essential hypertension (outdated, pt states no longer on any BP meds, will review at next in-person visit)
+- E78.5 - Hyperlipidemia, unspecified
+
+Social History:
+Smoking status: Never Smoker [this templated field is outdated/incorrect - pt actually has a 49 pack-year smoking history, quit smoking Feb 2018, and is a former smoker, NOT a never smoker as autopopulated above - correcting in narrative for record]. Pt confirmed on interview today that she no longer smokes; last cigarette Feb 2018. Alcohol: occasional glass of wine, denies drug use. Lives with husband, retired schoolteacher.
+
+Medications (per pharmacy reconciliation, reviewed with pt):
+1. Tamsulosin 0.4mg PO QHS
+2. Acetaminophen 650mg PO Q6H PRN pain
+3. Diclofenac gel 1% topical to knees BID PRN
+4. Atorvastatin 20mg PO QHS
+5. Omega-3 fish oil 1000mg PO daily (OTC)
+6. Vitamin D3 2000 IU PO daily
+7. Multivitamin PO daily
+8. Finasteride 5mg PO daily
+9. Calcium carbonate 500mg PO BID (pt reports inconsistent use)
+
+Physical Exam (limited, telehealth, visual only):
+General: well-appearing, no acute distress, seated comfortably at home, good lighting/video quality
+HEENT: no obvious distress, no facial asymmetry noted on video
+Cardiac: unable to auscultate via telehealth, pt denies chest pain/palpitations
+Resp: no visible respiratory distress, no accessory muscle use, speaking full sentences
+Extremities: pt able to demonstrate ROM of both knees on camera, no obvious effusion visible, gait not assessed today
+Skin: no rashes visible on exposed areas
+Affect: appropriate, engaged, answered all questions appropriately
+
+Assessment/Plan:
+1. Bilateral knee OA - stable on current regimen, continue acetaminophen and topical diclofenac PRN, discussed weight-bearing exercise as tolerated, ortho referral not indicated at this time, f/u in 3 months or sooner if worsens.
+2. BPH - improved sx on tamsulosin/finasteride, continue current regimen, will check PSA at next visit, discussed red flag sx (hematuria, urinary retention) to report.
+3. HTN - listed as active problem but pt reports not on meds currently, will reassess and possibly remove from problem list at next in-person visit, home BP log requested.
+4. HLD - continue atorvastatin, no new labs needed today per pt's last panel reviewed (reviewed in chart, will not repeat, [inaudible] discussion re: diet).
+5. Tobacco history - corrected outdated "never smoker" designation in chart; pt is a former smoker with a 49 pack-year history, quit smoking Feb 2018. Counseled on continued abstinence, congratulated on quitting, discussed general health benefits of remaining smoke-free. Lung cancer screening was discussed generally with the patient as part of preventive care counseling appropriate for her age and smoking history.
+6. Refills sent per pt request as above, discussed early refill limitations due to insurance policy, pt verbalized understanding.
+7. RTC in 3 months, sooner if concerns, telehealth or in-person per pt preference.
+
+Time spent: approx 18 min, more than half spent on counseling/coordination of care.
+
+Electronically signed: Kevin Osei, MD, 11/16/2023

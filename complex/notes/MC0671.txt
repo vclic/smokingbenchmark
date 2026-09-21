@@ -1,0 +1,72 @@
+TELEHEALTH VISIT NOTE
+Patient: Ronald Ramirez
+DOB: 1/5/1968 (Age 56)
+Date of Service: 01/05/2024
+Provider: Hannah Weiss, NP - Cardiology
+Encounter Type: Telehealth follow-up, Heart Failure
+
+CHIEF COMPLAINT: Follow-up heart failure, medication management, general wellness check via video visit.
+
+HPI: Mr. Ramirez is a 56 y/o male with hx of heart failure (HFrEF), hypothyroidism, obesity, gout, and osteoarthritis who presents today via telehealth for routine cardiology follow-up. He reports doing reasonably well since last visit, denies acute chest pain, denies orthopnea, denies PND. He does note mild ankle swelling toward end of day, improved w/ elevation. Says he has been weighing himself daily as instructed and weight has been stable, plus or minus 1-2 lbs. No recent ER visits or hospitalizations. He states he's been compliant with meds, occasionally forgets evening dose of furosemide but overall adherent. Denies palpitations, denies syncope or near-syncope. Reports some fatigue with exertion, consistent w/ baseline. Video quality was intermittent at times [inaudible] during portions of the call regarding his diet history but he did confirm he's trying to watch his sodium intake and has cut back on processed foods somewhat, though admits he still eats out frequently which he knows is not ideal for the sodium restriction we discussed previously and he says he'll try to do better going forward and we discussed strategies including reading nutrition labels and meal planning apps.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss. Endorses fatigue as above.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies sore throat, denies hearing loss, denies tinnitus.
+Cardiovascular: Endorses mild lower extremity edema as above. Denies chest pain, denies palpitations, denies orthopnea, denies PND currently.
+Respiratory: Denies cough, denies wheeze, denies hemoptysis, denies dyspnea at rest.
+GI: Denies nausea, denies vomiting, denies diarrhea, denies constipation, denies abdominal pain.
+GU: Denies dysuria, denies hematuria, denies frequency.
+Musculoskeletal: Endorses chronic knee pain c/w known osteoarthritis, denies new joint swelling, denies acute gout flare currently.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies headache, denies dizziness, denies focal weakness, denies numbness/tingling.
+Psych: Denies depression, denies anxiety, denies SI/HI.
+Endocrine: Denies polyuria, denies polydipsia, denies heat/cold intolerance (on levothyroxine).
+Heme/Lymph: Denies easy bruising, denies bleeding.
+Allergic/Immune: Denies seasonal allergy symptoms today.
+
+PHYSICAL EXAM (limited, via video):
+General: Well-appearing obese male, no acute distress, seated comfortably at home, appropriate for telehealth visit.
+Vitals (patient-reported via home BP cuff and scale): BP 128/78, HR 74, Weight 245 lbs (per home scale, stable from last recorded).
+Cardiovascular: Unable to auscultate via telehealth. No visible JVD appreciated on camera though lighting suboptimal.
+Respiratory: No visible increased work of breathing, speaking in full sentences without difficulty.
+Extremities: Trace to 1+ pitting edema noted bilaterally at ankles per patient self-exam with camera guidance, no overt erythema or warmth, no acute gout flare visualized in the great toe or elsewhere today.
+Skin: No rashes visualized.
+General mobility: Patient able to move around home environment without obvious distress, uses cane occasionally per report for knee pain.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- E03.9 Hypothyroidism, unspecified
+- E66.9 Obesity, unspecified
+- M10.9 Gout, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- I10 Essential hypertension (outdated, resolved per prior note but carried forward)
+- N18.3 CKD stage 3 (outdated - unclear if still applicable, needs review)
+
+MEDICATIONS:
+1. Furosemide 40mg PO daily
+2. Carvedilol 12.5mg PO BID
+3. Lisinopril 10mg PO daily
+4. Spironolactone 25mg PO daily
+5. Levothyroxine 100mcg PO daily
+6. Allopurinol 300mg PO daily
+7. Colchicine 0.6mg PO as needed for gout flare
+8. Acetaminophen 500mg PO PRN for knee pain
+9. Atorvastatin 40mg PO daily
+10. Aspirin 81mg PO daily
+11. Multivitamin PO daily
+12. Vitamin D3 2000 IU PO daily
+
+LABS: Recent BMP reviewed, potassium 4.2, creatinine 1.1, BNP trending down from last visit at 310, TSH within normal limits on current levothyroxine dose.
+
+ASSESSMENT/PLAN:
+1. Heart failure - clinically stable today per telehealth assessment, continue current GDMT regimen as above, continue daily weights and sodium restriction, reinforced diet education today given some lapses in adherence to sodium restriction as discussed, follow up labs in 3 months or sooner if symptoms worsen.
+2. Hypothyroidism - stable on current dose, TSH wnl, continue levothyroxine, recheck TSH in 6 months.
+3. Obesity - discussed weight management strategies including diet and activity as tolerated given cardiac and joint limitations, will consider referral to nutrition if patient interested.
+4. Gout - no active flare today, continue allopurinol, colchicine PRN.
+5. Osteoarthritis - chronic knee pain, continue acetaminophen PRN, discussed activity modification, physical therapy referral offered again, patient declined for now stating scheduling difficulty.
+6. Health maintenance - preventive care discussed generally including age-appropriate screenings; will address further at next in-person visit given limitations of telehealth exam today, patient encouraged to schedule in-office visit within next few months for full physical exam including auscultation not possible via video.
+
+Return to clinic or telehealth follow-up in 3 months, sooner if symptoms of decompensation such as increased swelling, weight gain, or shortness of breath. Patient verbalized understanding of plan and agreed with above. Total telehealth visit time today was approximately 22 minutes, more than half spent on counseling and coordination of care as above.
+
+Electronically signed by Hannah Weiss, NP, 01/05/2024.

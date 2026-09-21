@@ -1,0 +1,68 @@
+Internal Medicine Pre-Operative Evaluation
+Patient: Sharon Kim (DOB: 01/29/1964, Age: 62)
+Date of Service: 06/16/2026
+Author: Kevin Osei, MD
+
+REASON FOR VISIT: Pre-operative medical clearance for right total knee replacement, scheduled with Orthopedics.
+
+HPI: Ms. Kim is a 62-year-old woman with history of obesity and osteoporosis who presents for pre-op evaluation prior to elective right TKA. She reports progressive right knee pain over the past several years, worse with weight-bearing, now limiting her ability to climb stairs and walk more than a block. She denies chest pain, palpitations, syncope, or significant dyspnea on exertion. No recent falls. Review of systems otherwise negative except for occasional low back discomfort attributed to osteoporosis.
+
+PAST MEDICAL HISTORY: Obesity, osteoporosis (on bisphosphonate therapy), hyperlipidemia (diet controlled).
+
+SURGICAL HISTORY: Cholecystectomy 2010.
+
+MEDICATIONS: Alendronate 70 mg weekly, calcium/vitamin D supplement, atorvastatin 10 mg daily, acetaminophen PRN.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use status: Never used tobacco.
+ Smoking pack-years: Not on file
+ Smokeless tobacco: Not on file
+ Alcohol use: Occasional, 1-2 glasses wine/week
+ Drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with spouse
+ Exercise: Limited due to knee pain
+ Diet: Reports trying to reduce carbohydrate intake
+
+FAMILY HISTORY: Mother with osteoporosis and hip fracture at age 78. Father with hypertension.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.4F, SpO2 98% RA, BMI 34.2
+General: Well-appearing, in no acute distress, ambulates with mild antalgic gait favoring right leg.
+Cardiovascular: RRR, no murmurs, rubs, or gallops. No JVD. No peripheral edema.
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles.
+Extremities: Right knee with mild effusion, crepitus with range of motion, no erythema or warmth. No calf tenderness. Pulses 2+ bilaterally.
+Skin: No rashes or lesions noted.
+
+LABS/RESULTS:
+ CBC (06/10/2026): WBC 6.1, Hgb 13.2, Hct 39.8, Plt 245
+ BMP (06/10/2026): Na 139, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.8, Glucose 94
+ Lipid panel (05/02/2026): Total chol 178, LDL 98, HDL 52, Trig 140
+ TSH (05/02/2026): 2.1 (WNL)
+ EKG (06/16/2026): Normal sinus rhythm, no acute ST-T changes, rate 74
+ DEXA scan (01/2026): T-score -2.6 lumbar spine, consistent with osteoporosis
+
+PROBLEM LIST (ICD-10):
+ E66.9 Obesity, unspecified
+ M81.0 Age-related osteoporosis without current pathological fracture
+ E78.5 Hyperlipidemia, unspecified
+ M17.11 Unilateral primary osteoarthritis, right knee
+ Z98.0 Personal history of cholecystectomy (2010, remote)
+ I10 Essential hypertension (noted in prior chart, appears resolved off meds - to reconcile)
+
+ASSESSMENT/PLAN:
+1. Pre-operative clearance for right TKA: Cardiopulmonary exam unremarkable, EKG normal sinus rhythm without ischemic changes. No contraindications identified to proceed with surgery from an internal medicine standpoint. Patient counseled on peri-operative expectations, DVT prophylaxis plan to be per orthopedic protocol.
+2. Obesity (E66.9): BMI 34.2. Discussed weight management strategies including dietary modification; patient motivated to continue efforts. Weight loss may improve post-surgical outcomes and reduce joint stress long term.
+3. Osteoporosis (M81.0): DEXA from January 2026 shows T-score -2.6 lumbar spine. Continue alendronate and calcium/vitamin D supplementation. Fall precautions reviewed given surgical recovery period.
+4. Hyperlipidemia (E78.5): Lipid panel from 05/02/2026 within acceptable range on current statin therapy. Continue atorvastatin.
+5. Tobacco/Smoking: Patient has never used tobacco; no counseling regarding cessation indicated at this visit given never-smoker status. Given her age, incidental discussion regarding general age-appropriate cancer screening topics occurred, though this is not directly relevant to her tobacco history since she has never smoked.
+6. Hypertension (I10): Listed on old problem list; patient reports no current diagnosis of hypertension and is not on antihypertensive medication. BP today 128/78. Will reconcile problem list at next visit; appears to be outdated entry.
+7. Follow-up: Patient to follow up with orthopedic surgery for surgical scheduling. Return to clinic post-operatively or sooner if new symptoms arise.
+
+Time spent on visit: 30 minutes, more than half spent on counseling and coordination of care.
+
+Electronically signed: Kevin Osei, MD
+Internal Medicine
+Date/Time of Note: 06/16/2026 14:32

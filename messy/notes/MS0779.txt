@@ -1,0 +1,68 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Patient: Rosa Carter | DOB: 02/13/1976 | Age: 50 | Sex: F
+Date of Service: 03/04/2026
+Provider: Nadia Haddad, MD (NP progress note)
+
+CC: Establish care, new patient.
+
+HPI: Ms. Carter is a 50-year-old female (DOB 2/13/1976) presenting to establish primary care after relocating to the area. She reports hx of depression and T2DM, both previously managed by outside provider, records pending. She denies acute complaints today. Reports fatigue at times, denies chest pain, SOB, palpitations. Mood reportedly stable on current regimen per pt report (meds to be reconciled). Denies polyuria/polydipsia currently, checks fingerstick glucose intermittently at home, values reportedly in 130-180 range fasting.
+
+SOCIAL HISTORY:
+Tobacco: Former smoker. Pt reports smoked 20 cigarettes per day (1 pack/day) for 16 years, quit smoking in January 2009. No current tobacco use, no vaping. Denies other tobacco products.
+Alcohol: Occasional, 1-2 glasses wine/wk.
+Drugs: Denies illicit drug use.
+Occupation: Works as admin assistant, denies occupational exposures of note.
+Exercise: Reports walking 20 min most days.
+Diet: Reports moderate carb intake, trying to reduce sugary drinks.
+
+PMH:
+- Depression
+- Type 2 diabetes mellitus
+
+PSH: Denies prior surgeries.
+
+FH: Mother - HTN, DM2. Father - deceased, MI at age 68. No known FH lung ca or COPD reported.
+
+ALLERGIES: NKDA.
+
+MEDICATIONS (per pt report, to be reconciled with pharmacy):
+- Metformin 500mg BID (reported)
+- Sertraline 50mg daily (reported)
+
+PROBLEM LIST (ICD-10):
+1. E11.9 - Type 2 diabetes mellitus without complications
+2. F32.9 - Major depressive disorder, unspecified (chart note: may be outdated, pt reports dx changed to recurrent type per prior provider, TBD on records)
+3. Z87.891 - Personal history of nicotine dependence
+4. I10 - Essential hypertension (outdated entry - pt denies HTN dx, BP today WNL, to reconcile problem list)
+5. Z71.3 - Dietary counseling (carried forward from prior template, may not be current)
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - denies cough, wheeze, dyspnea. CV - denies CP, palpitations, edema. GI - denies N/V/D, abd pain. GU - denies dysuria, freq. Psych - reports mood stable, denies SI/HI. Endocrine - denies polyuria/polydipsia currently. Skin - denies rashes/lesions. Rest of 10-point ROS negative as documented.
+
+VITALS: BP 122/78, HR 76, RR 14, Temp 98.2F, SpO2 98% RA, Wt 168 lb, Ht 5'5", BMI 28.0
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing, cooperative, appropriate mood/affect.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no lesions.
+Neck: Supple, no LAD, no thyromegaly.
+CV: RRR, no murmurs/gallops/rubs.
+Resp: Lungs CTAB, no wheezes/rales/rhonchi, good air movement bilaterally, no increased work of breathing.
+Abd: Soft, NT/ND, +BS, no organomegaly.
+Ext: No edema, pulses 2+ throughout.
+Skin: Warm, dry, no rashes, no lesions.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: Mood euthymic, affect appropriate, judgment/insight intact.
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus (E11.9) - Will obtain HbA1c, CMP, lipid panel today. Continue metformin as reported pending records confirmation. Diabetic foot exam deferred to next visit, pt to bring glucose log. Discussed diet/exercise.
+2. Depression (F32.9) - Pt reports stable on sertraline. Will continue current regimen pending records. PHQ-9 administered today, score reviewed with pt, low risk. F/u in 4-6 wks or sooner if worsening.
+3. Former tobacco use (Z87.891) - Counseled on continued abstinence, reinforced benefits of remaining smoke-free given h/o significant smoking history. Encouraged pt to bring any prior chest imaging records if available.
+4. Health maintenance - Due for age-appropriate cancer screening discussion (mammogram, colon ca screening); will address at f/u. Pt due for labs as above. Immunizations to be reviewed once records obtained.
+5. Problem list reconciliation - Noted outdated entries (HTN, dietary counseling template line) to be reviewed and updated once outside records received; pt denies active HTN diagnosis or treatment.
+
+F/U: RTC 4 weeks for lab review and med reconciliation, sooner if concerns.
+
+Electronically signed: Nadia Haddad, MD
+
+---ADDENDUM (same day, later)---
+Addendum 03/04/2026 1645: Pt called after visit to clarify medication list - confirms metformin dose as documented, denies any additional meds not previously listed. No changes to plan. Records request faxed to prior PCP office this afternoon per pt's authorization signed at visit. Will review once received and update problem list accordingly, including reconciliation of HTN (I10) and dietary counseling (Z71.3) entries noted as possibly outdated above.
+-Nadia Haddad, MD

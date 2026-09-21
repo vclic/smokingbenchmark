@@ -1,0 +1,79 @@
+TELEHEALTH VISIT NOTE
+Patient: Elizabeth Martinez
+DOB: 1/24/1968 (age 55)
+Date of Service: 04/29/2023
+Provider: Kevin Osei, MD - Family Medicine
+
+VISIT TYPE: Telehealth, video visit, patient consented to telemedicine encounter, medication refills requested.
+
+HPI: Ms. Martinez is a 55 yo female with h/o BPH, PAD, hypothyroidism, HFrEF, CKD stage 3, and COPD who presents via telehealth today for routine follow up and med refills. She reports she is feeling about the same as last visit, denies chest pain, denies worsening dyspnea though states she gets short of breath "going up the stairs, same as before", denies orthopnea, denies PND. She notes some mild bilateral leg cramping with ambulation, consistent w/ known PAD, [inaudible] says its not really worse then before. She has been taking her levothyroxine regularly per pharmacy refill records, and reports no new urinary symptoms attributable to her BPH - denies hesitancy, denies nocturia more then 1x/night. She denies hematuria. Denies any new falls.
+
+SOCIAL HISTORY: Patient quit drinking alcohol in 2002 and has not resumed since; denies any illicit drug use. Lives with her daughter. Former occupation - retail. Denies use of supplemental oxygen at this time.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies unintentional weight loss
+Eyes: denies visual changes
+ENT: denies sore throat, denies congestion
+Cardiovascular: denies chest pain, denies palpitations, admits mild bilateral lower extremity edema chronic and stable
+Respiratory: admits chronic cough, denies hemoptysis, denies acute increase in dyspnea
+GI: denies nausea, denies vomiting, denies abdominal pain, denies constipation
+GU: as above, denies dysuria
+Musculoskeletal: denies acute joint pain
+Neuro: denies headache, denies dizziness, denies focal weakness
+Psych: denies depression, denies anxiety symptoms today
+Skin: no rashes reported
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, via video):
+General: alert, no acute distress, appears stated age, sitting comfortably in her living room
+HEENT: atraumatic, no obvious abnormalities noted on camera
+CV: unable to auscultate via telehealth, patient denies visible jugular distension by self report
+Resp: no visible increased work of breathing, no accessory muscle use noted, speaking in full sentences
+Ext: patient reports mild bilateral pitting edema to ankles, no overlying skin changes reported
+Skin: no rashes visualized
+(Physical exam limited due to virtual nature of visit; vitals per home cuff reported by patient: BP 132/78, HR 74, home pulse ox 94% on room air)
+
+LABS/RESULTS (reviewed today):
+- BMP 4/15/2023: Na 138, K 4.4, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline for CKD3), eGFR 38
+- TSH 3/02/2023: 2.1 (WNL on current levothyroxine dose)
+- BNP 4/15/2023: 410 (stable compared to prior)
+- Lipid panel 1/10/2023: TC 168, LDL 92, HDL 44, TG 160
+- Last spirometry (per pulm records) 11/2022: FEV1/FVC consistent with moderate COPD
+
+PROBLEM LIST:
+1. Benign prostatic hyperplasia - N40.1
+2. Peripheral artery disease - I73.9
+3. Hypothyroidism, acquired - E03.9
+4. Heart failure with reduced ejection fraction - I50.22 (chronic)
+5. Chronic kidney disease, stage 3 - N18.30
+6. COPD - J44.9
+7. Hyperlipidemia - E78.5 (outdated, on prior problem list, pt states resolved w/ diet per pt report though remains on statin)
+8. Tobacco use disorder - Z72.0
+
+CURRENT MEDICATIONS:
+- Tamsulosin 0.4mg PO QHS
+- Cilostazol 100mg PO BID
+- Levothyroxine 75mcg PO daily
+- Carvedilol 12.5mg PO BID
+- Furosemide 40mg PO daily
+- Sacubitril-valsartan 24/26mg PO BID
+- Spironolactone 25mg PO daily
+- Atorvastatin 40mg PO QHS
+- Tiotropium inhaler 1 puff daily
+- Albuterol inhaler PRN
+- Aspirin 81mg PO daily
+
+ASSESSMENT AND PLAN:
+Elizabeth Martinez is a 55 yo female, telehealth visit 04/29/2023 for medication refills, multiple chronic conditions as above stable overall.
+
+1. Tobacco use disorder - Extensive tobacco history reviewed today. Patient reports she smoked 1.5 packs per day for 17 years, then cut back to about three-quarters of a pack (roughly 15 cigarettes) per day for the past 24 years and continues to smoke at that rate currently. She states she still smokes and is not ready to quit at this time. Counseled extensively on benefits of cessation given her COPD, PAD, and cardiac history; discussed that continued smoking accelerates progression of her PAD and COPD. Patient verbalizes understanding but declines cessation counseling referral at this time, will readdress at next visit.
+2. HFrEF - stable, BNP stable at 410, continue current GDMT as above, no dose changes today.
+3. CKD stage 3 - stable Cr 1.6, eGFR 38, will recheck BMP in 3 months.
+4. COPD - stable per patient report, continue tiotropium and albuterol PRN, no acute exacerbation today.
+5. PAD - continue cilostazol, reinforce importance of smoking cessation as above.
+6. BPH - stable, continue tamsulosin.
+7. Hypothyroidism - TSH WNL, continue current levothyroxine dose.
+
+All refills sent to pharmacy of record. Follow up in 3 months or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Electronically signed: Kevin Osei, MD

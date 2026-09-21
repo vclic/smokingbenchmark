@@ -1,0 +1,44 @@
+NURSE INTAKE
+Pt: Mei Perry, F, age 52 (DOB 1/30/1972). DOS: 11/07/2024.
+CC: pre-op eval for L TKA (ortho referral, surgery pending).
+VS: BP 138/84, HR 78, RR 16, Wt 212 lb, Ht 5'4", BMI 36.4, SpO2 97% RA.
+Allergies: NKDA.
+Tobacco: never smoker, denies any hx of cigarette use. No vaping.
+EtOH: occasional.
+
+=== COPIED FORWARD FROM VISIT 03/14/2023 (legacy note, left in chart by mistake, do not update) ===
+Pt here for f/u DM2, PAD, gout flare mgmt. Pt c/o intermittent claudication, ambulates approx 2 blocks before onset of calf pain, resolves w rest. Feet checked, monofilament intact bilat, pulses diminished DP/PT bilat, no ulcers noted. A1c 7.8 at that time. Gout- last flare in great toe approx 6 mo prior, on allopurinol. Depression screen PHQ9 8 (mild). Pt reports mood stable on sertraline. Pt reports she has [inaudible] difficulty w exercise due to joint pain and claudication and that she is trying to walk more but its hard because her knee gives out sometimes and also her feet get numb which is worrying her she wants to no if that's the diabetes or the artery problem or both, plan was to recheck vascular studies and continue current meds.
+=== END COPIED FORWARD ===
+
+PHYSICIAN PROGRESS NOTE - Michael Dunn, DO
+DOS 11/07/2024
+
+HPI: 52 yo F w/ PMHx PAD, T2DM, obesity, gout, depression here for pre-op medical clearance prior to R total knee arthroplasty scheduled w/ Dr. Alvarez. Pt reports worsening R knee pain, now limiting ambulation to <1 block, using cane. No chest pain, no SOB, no recent claudication changes per pt though PAD hx noted above. She takes metformin, atorvastatin, allopurinol, sertraline, and low dose aspirin. Denies smoking - confirmed again today, patient states she has never smoked cigarettes in her life. No tobacco use of any kind currently.
+
+PMH/Problem list (dates and codes as charted, some outdated):
+- Peripheral artery disease (I73.9) - dx 2019
+- Type 2 diabetes mellitus w/o complications (E11.9) - dx 2015, last A1c 7.8 (from 2023 note, needs recheck)
+- Obesity (E66.9)
+- Gout (M10.9) - last flare documented above, chronic on allopurinol
+- Major depressive disorder, recurrent, mild (F33.0)
+- Hyperlipidemia (E78.5) - outdated entry, pt reports lipids since normalized on statin
+
+ROS: otherwise negative except as above. Denies fevers, denies hemoptysis, denies unexplained weight loss.
+
+Exam: Well-appearing obese female, NAD. Lungs clear to auscultation bilat, no wheezes/rales/rhonchi. CV: RRR, no murmurs. Ext: trace edema b/l, diminished DP/PT pulses bilat (chronic, consistent w PAD), R knee w/ crepitus, decreased ROM, no effusion appreciated, well-healed surgical scars none noted. Skin intact, no ulcers.
+
+Labs reviewed: recent CBC unremarkable, BMP wnl except glucose 156, A1c pending repeat, lipid panel reviewed as noted.
+
+A/P:
+1. Pre-op clearance for TKA - cardiac risk low-moderate given PAD hx, recommend continued ASA, hold metformin day of surgery per anesthesia protocol, cleared from IM standpoint pending final anesthesia eval.
+2. PAD - stable, continue current regimen, ABI to be rechecked outpt.
+3. T2DM - recheck A1c, continue metformin.
+4. Obesity - counseled on weight mgmt, discussed benefit for post-op recovery.
+5. Gout - stable, continue allopurinol, avoid NSAIDs peri-op given renal/GI concerns.
+6. Depression - stable on sertraline, PHQ9 to be repeated at next visit.
+
+Tobacco screening discussed with pt as part of routine pre-op workup; not applicable given never-smoker status.
+
+Follow up in 4 wks or sooner if issues, pt verbalizes understanding of above plan, questions answered, [inaudible] portion of visit re: insurance authorization discussed w office staff separately.
+
+Michael Dunn, DO

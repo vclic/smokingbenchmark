@@ -1,0 +1,57 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Quentin Hale, PA-C
+Visit Type: Telehealth - Medication Refills, Family Medicine
+Date of Service: 03/10/2023
+
+PATIENT: Rita Mitchell (F)
+DOB: 03/10/1965 (Age 58, visit falls on her birthday)
+MRN: on file
+
+CHIEF COMPLAINT: Med refills, telehealth f/u for depression, GERD, BPH (n/a - female, retained in problem list from template error), hypothyroidism, T2DM, asthma.
+
+HPI: Pt is a 58 yo F c/o no acute distress, calling in today 3/10/2023 for refill of her routine meds, states she's 'doing okay overall' though she notes some increase stress at work the past few weeks, denies chest pain, denies SOB at rest, does note occasional wheeze when [inaudible] especially with cold air exposure this time of yr, she's been using her albuterol inhaler maybe 2x/wk which is her baseline. Denies palpitations denies edema. Mood reportedly stable on current antidepressant regimen she says 'I'm not as down as I was last year' and sleep is fair. GERD sx well controlled on current PPI, she does admit to occasional heartburn if she eats late at night which is a longstanding pattern for her. BPH - not applicable, will remove from problem list, flagged for correction. Diabetes - she reports checking fingersticks intermittently, states most readings in 120s-140s fasting, denies polyuria polydipsia currently. Hypothyroidism - denies fatigue, cold intolerance, states she feels her energy is fine.
+
+=== COPIED FORWARD FROM VISIT 11/14/2022 (Dr. Alvarez) ===
+Pt presents today for routine f/u of multiple chronic conditions. Depression: pt reports mood is 'up and down' but denies SI/HI, continues on sertraline 100mg daily, tolerating well, no significant side effects reported. GERD: continues omeprazole 20mg daily, some breakthrough sx with spicy foods, advised dietary modification. BPH: denies nocturia >1x/night, denies hesitancy, continues tamsulosin 0.4mg daily. Hypothyroidism: TSH last checked 9/2022 was 2.1, within normal range, continues levothyroxine 75mcg daily. T2DM: A1c from 10/2022 was 7.1%, continues metformin 1000mg BID, discussed diet and exercise at length. Asthma: uses albuterol PRN, denies nighttime awakenings, continues on as-needed basis only, no daily controller currently indicated per pulm. Plan at that visit: continue all current meds, f/u labs in 3 months, RTC 3 months or sooner if concerns.
+=== END COPIED TEXT ===
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+  - Smoking status: Quit
+  - Pack-year history: 24 pack-years
+  - Year quit: 1993
+  - Type: Cigarettes
+Alcohol use: occasional, denies binge pattern
+Illicit drug use: denies
+Caffeine use: Not on file
+Occupation: administrative assistant
+Living situation: lives with spouse
+Exercise: Not on file
+Diet: reports 'trying to eat better'
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - occasional wheeze as above, denies cough, denies hemoptysis. CV - denies CP, denies palpitations. GI - occasional heartburn as above, denies nausea/vomiting, denies blood in stool. GU - denies dysuria, denies frequency. Endo - denies polyuria/polydipsia. Psych - mood stable, denies SI/HI. All other systems reviewed and negative per pt report via telehealth.
+
+VITALS (self-reported via telehealth, home BP cuff):
+BP 128/78, HR 76, reports wt stable at home scale 164 lbs, denies fever.
+
+LABS/RESULTS (reviewed today):
+- TSH (02/28/2023): 1.8 mIU/L (WNL)
+- A1c (02/28/2023): 6.9%
+- BMP (02/28/2023): Na 139, K 4.2, Cl 102, CO2 25, BUN 14, Cr 0.8, Glc 132
+- Lipid panel (02/28/2023): Total chol 178, LDL 98, HDL 52, TG 140
+
+ASSESSMENT/PLAN:
+1. Depression - stable on sertraline 100mg daily, continue, refill sent, f/u PRN worsening sx.
+2. GERD - stable on omeprazole 20mg daily, continue, counseled re: dietary triggers, avoid late meals.
+3. BPH - flagged as erroneous dx on problem list (pt is female), to be corrected by attending, tamsulosin refill held pending clarification, will discuss with pt at next visit.
+4. Hypothyroidism - TSH WNL 1.8 on 02/28/2023, continue levothyroxine 75mcg daily, recheck TSH in 6 months.
+5. T2DM - A1c improved to 6.9% from 7.1% in 10/2022, continue metformin 1000mg BID, encouraged continued lifestyle modification, recheck A1c in 3-6 months.
+6. Asthma - well controlled, PRN albuterol only, no daily controller needed at this time, reviewed inhaler technique via video.
+7. Tobacco - former smoker, quit 1993, 24 pack-year history, counseled to continue abstinence, discussed general health maintenance and screening topics as appropriate for age, no specific imaging ordered today.
+8. Health maintenance - discussed age-appropriate screenings, pt to schedule mammogram, colonoscopy d/w PCP at next in-person visit.
+
+All refills sent to pharmacy of record. RTC in 3 months or sooner PRN. Telehealth visit conducted per pt preference, verbal consent obtained and documented.
+
+ATTESTATION: I have reviewed this note with Mr. Hale and discussed the plan of care, I agree with the assessment and plan as documented above. - Attending, electronically signed.
+
+Time spent: approx 22 min including chart review, telehealth encounter, and documentation, more than half spent on counseling/coordination of care given multiple chronic conditions.

@@ -1,0 +1,45 @@
+Pulmonology Progress Note
+Patient: Judith Torres | DOB: 1/1/1946 | Age: 78 | Sex: F
+Date of Service: 01/01/2024
+Author: Gregory Tan, MD
+
+Problem List:
+- E11.9 Type 2 diabetes mellitus without complications
+- M10.9 Gout, unspecified (outdated - last flare reported 2019)
+- K21.9 GERD
+- R91.1 Solitary pulmonary nodule, incidental finding
+
+HPI:
+Ms. Torres is a 78-year-old female here for f/u of an incidentally noted lung nodule seen on CT abdomen/pelvis done for unrelated reasons in Nov 2023. She states, "I feel fine, I don't have any cough or chest pain, I just want to know what this spot is." She denies hemoptysis, fevers, night sweats, or weight loss. She reports occasional heartburn, well-controlled on omeprazole, and states her gout has been quiet, "no flares since forever." Blood sugars per home log running 110-160, she says she's been "pretty good about the diet, mostly." No new joint pain, no dysuria, no dyspnea on exertion beyond baseline. Patient lives alone, independent in ADLs, uses a walker for longer distances due to [inaudible] knee issue, and her daughter accompanies her to visits, today via phone due to a scheduling conflict, so history obtained directly from patient who is a reliable historian.
+
+Social History:
+Tobacco: Patient reports she tried a few cigarettes as a teenager but never smoked regularly. She does report she vapes nicotine daily but has never smoked cigarettes. Alcohol: rare glass of wine. No illicit drug use.
+
+Medications:
+- Metformin 1000 mg BID
+- Omeprazole 20 mg daily
+- Allopurinol 100 mg daily
+- Lisinopril 10 mg daily
+
+Results:
+CT chest without contrast, 12/15/2023: 8 mm ground-glass nodule right upper lobe, unchanged from prior imaging comparison not available. No lymphadenopathy.
+HbA1c 6/2023: 7.1%
+Basic metabolic panel 12/2023: glucose 142, creatinine 0.9, eGFR >60
+Uric acid 12/2023: 5.8 mg/dL
+
+Physical Exam:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 97% RA, Temp 98.2F, Wt stable at 142 lb.
+General: well-appearing, no acute distress.
+Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+CV: regular rate and rhythm, no murmurs.
+Extremities: no edema, no active joint swelling, first MTP joints without erythema.
+Abd: soft, nontender, nondistended.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable in appearance per radiology report, will attempt to obtain prior imaging for direct comparison, continued surveillance imaging discussed with patient, general discussion held regarding lung cancer screening guidelines and risk factors though no determination made today, will revisit topic and imaging plan at next visit once comparison films reviewed, patient understands and agrees with this approach.
+2. Type 2 diabetes mellitus - reasonably controlled, continue metformin, recheck A1c in 3 months, reinforced dietary counseling.
+3. GERD - stable on current PPI dose, continue omeprazole, advised to avoid late meals.
+4. Gout - quiescent, continue allopurinol, check uric acid at next visit.
+5. Tobacco/nicotine use - counseled regarding risks of daily nicotine vaping, cessation resources offered, patient states she is not interested in quitting at this time.
+
+Follow-up in 6 months or sooner if symptoms develop, patient verbalized understanding, questions answered, will call with any concerns in the interim she was given after hours number.

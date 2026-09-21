@@ -1,0 +1,81 @@
+Pulmonology Progress Note
+
+Patient: RODRIGUEZ, Robert    MRN: 98128665
+DOB: 09/28/1971    Age: 53 y.o.    Sex: Male
+Date of Service: 04/14/2025    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Lung cancer screening
+
+Subjective:
+Robert Rodriguez is a 53 y.o. male who presents for lung cancer screening shared decision-making.
+Here to discuss lung cancer screening. Chronic mild cough unchanged.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Obesity
+• Hyperlipidemia
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Vasectomy (2024)
+• Appendectomy (2024)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• lisinopril 10 mg daily
+• pravastatin 40 mg nightly
+• amlodipine 5 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 50 cigarettes/day x 15 years; quit at age 32
+Social History Narrative
+  Lives with wife in a single-family home.
+  Social drinker.
+  No illicit drug use.
+  Drives.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 149/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 76 | Temp 98.2 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 199 lb | SpO2 99% | BMI 31.09 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Obese, soft, nontender
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (3/23/25): A1c 6.8%, LDL 105, Cr 0.84, K 4.5, Hgb 15.7
+
+Assessment & Plan
+1. Lung cancer screening
+   SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Does not meet USPSTF criteria; LDCT not ordered.
+2. Hyperlipidemia
+   LDL at goal on last check; continue.
+3. Ex-smoker
+   No relapse.
+
+f/u 6 mo
+
+Electronically signed by Kevin Osei, MD on 04/14/2025

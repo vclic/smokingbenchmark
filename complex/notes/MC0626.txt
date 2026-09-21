@@ -1,0 +1,51 @@
+CARDIOLOGY HISTORY AND PHYSICAL
+Patient: Raymond Nelson (M) DOB: 3/8/1954 (age 69)
+Date of Service: 08/07/2023
+Author: Daniel Reyes, MD
+
+CC: Heart failure follow up.
+
+HPI: Mr Nelson is a 69 year old man with a hx of CHF who presents for routine cardiology follow up he is accompanied by his daughter today as he is unable to provide much history himself, his daughter reports he has had increasing lower extremity swelling over the past week and some shortness of breath when walking to the bathroom the patient nods along but does not answer questions directly he appears aphasic today, per family this has been ongoing since a stroke several months ago, medication list reviewed with daughter who states he is compliant with furosemide and metoprolol succinate, no chest pain reported by family, denies [inaudible] symptoms of orthopnea though daughter states he sleeps propped on 3 pillows.
+
+PAST MEDICAL HISTORY:
+- Congestive heart failure
+- Chronic kidney disease stage 3
+- Asthma
+- CVA (per family history, date unclear)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Unable to obtain — patient aphasic, poor historian, unable to reliably provide tobacco history at this visit.
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with daughter
+Exercise: Not on file
+
+REVIEW OF SYSTEMS: Limited due to patient's aphasia, daughter assisted answering as able. Denies fevers denies chest pain per daughter reports increased leg swelling and dyspnea on exertion.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 95% on room air, Wt 91 kg
+General: Alert, non-verbal at times, appears comfortable, in no acute distress
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, JVD present at 8 cm
+Lungs: Bibasilar crackles noted, mild expiratory wheeze consistent with known asthma
+Extremities: 2+ pitting edema bilateral lower extremities to the mid shin
+Neuro: Expressive aphasia noted, follows simple one step commands, moves all extremities
+
+LABS/RESULTS:
+08/07/2023 BMP: Na 138, K 4.6, Cl 101, CO2 24, BUN 32, Creatinine 1.6, eGFR 42
+08/07/2023 BNP: 620 pg/mL
+07/15/2023 Echo: EF 35%, moderate mitral regurgitation, left atrial enlargement
+
+ASSESSMENT/PLAN:
+1. Congestive heart failure with reduced ejection fraction - appears clinically worse today with increased edema, will increase furosemide dose, daughter educated on daily weights and low sodium diet, follow up in 2 weeks
+2. CKD stage 3 - stable, continue to monitor renal function with diuretic titration, recheck BMP at next visit
+3. Asthma - mild wheeze on exam today, continue current inhaler regiment, no acute exacerbation signs
+4. History of CVA with residual aphasia - unable to obtain reliable history including tobacco history due to communication barrier, will attempt to clarify with additional family members at next visit or review outside records if available
+
+Plan discussed with daughter who verbalized understanding, will return to clinic in 2 weeks or sooner if worsening symptoms.
+
+Daniel Reyes, MD
+
+ADDENDUM (same day, later):
+Spoke again with patient's daughter by phone this afternoon after she reviewed some old records at home she was unable to locate any documentation regarding tobacco use for her father, tobacco history remains unable to obtain at this time, will continue to try to clarify at future visit, no other changes to plan.
+Daniel Reyes, MD

@@ -1,0 +1,51 @@
+CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Date of Service: 03/16/2023
+Author: Michael Dunn, DO (Internal Medicine)
+
+Re: Diane Clark, DOB 3/16/1965 (age 58)
+
+Dear Dr colleague,
+
+Thank u for referring Ms Clark for f/u of HTN and DM2. She presents today for routine follow up, reports doing fairly well overall, occasional headaches, no chest pain, mild polyuria noted. She continues to endorse fatigue which pt attributes to poor sleep. No new complaints re: her afib, she denies palpitations or syncope currently.
+
+HPI: Pt is a 58 yo F w/ hx HTN, DM2, obesity, CKD stage 3, and paroxysmal afib on anticoagulation. She notes med compliance is fair, sometimes misses evening doses of metoprolol. No recent ED visits. Diet remains high in processed foods per pt report, working w/ nutrition referral pending.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Yes
+Type: Cigarettes
+Packs/day: See narrative below
+Years smoked: See narrative below
+Quit date: Not on file
+Alcohol use: Occasional, denies to excess
+Drug use: Denies
+Occupation: Not on file
+Living situation: Lives w/ spouse
+
+[Copied forward from note dated 6/16/2019]: "Smoking status as of 6/16/2019: current smoker." No further detail was documented at that time.
+
+ROS: otherwise negative except as above. Denies fevers, chills, wt loss, hemoptysis, cough.
+
+EXAM:
+Vitals: BP 148/86, HR 78 irreg irreg, RR 16, wt 212 lb, BMI 36.4
+Gen: obese female, NAD
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: clear to auscultation bilat, no wheezes/rales
+Abd: soft, obese, nontender
+Ext: no edema
+
+LABS (reviewed today): Cr 1.6 (baseline), eGFR 38, A1c 8.1%, K 4.4, INR 2.3 (therapeutic)
+
+ASSESSMENT/PLAN:
+1. Active tobacco use - pt is an active smoker. Smoking hx obtained in detail today: pt smoked 1 pack per day for 11 years, then increased to 1.5 packs per day for 14 years, and has been smoking 2 packs per day for the past 11 years (current). Discussed health risks extensively, advised to quit, offered counseling resources and pharmacotherapy options (varenicline, nicotine patch). Lung cancer screening was discussed in general terms as part of preventive care counseling. Pt states she is "not ready yet" but agreeable to revisit at next visit.
+2. HTN - not optimally controlled today, will increase lisinopril, reinforce low sodium diet.
+3. DM2 - A1c above goal, will adjust metformin dose and consider addition of SGLT2 inhibitor given CKD stage3 and cardio-renal benefit, discussed w pt.
+4. CKD stage 3 - stable, will continue monitoring renal fxn, avoid nephrotoxic agents, renal panel in 3 mo.
+5. Atrial fibrillation - rate controlled, INR therapeutic, continue current anticoagulation regimen, no changes today.
+6. Obesity - discussed lifestyle modification, referred to nutrition, encouraged low impact exercise given joint issues.
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan and agrees to follow up.
+
+Thank u again for the referral, please let me know if any questions.
+
+Sincerely,
+Michael Dunn, DO

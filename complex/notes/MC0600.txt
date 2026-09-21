@@ -1,0 +1,69 @@
+CARDIOLOGY H&P - Heart Failure Follow-up
+Date of Service: 12/17/2024
+Author: Julia Brennan, MD
+
+Patient: Harold Okafor
+DOB: 04/23/1973 (Age 51)
+Sex: M
+
+CHIEF COMPLAINT: Follow-up for chronic heart failure.
+
+HPI: Mr. Okafor returns today, 12/17/2024, for routine heart failure follow-up. He reports stable dyspnea on exertion, no orthopnea, no PND. He denies chest pain, palpitations, or syncope. Weight is stable per home scale log. He continues on his current diuretic regimen and reports good adherence.
+
+=== SOCIAL HISTORY (EHR Template) ===
+Tobacco Use: See assessment/plan for details
+Alcohol Use: Occasional, social
+Illicit Drug Use: Not on file
+Occupation: Retired
+Living Situation: Not on file
+Exercise: Reports walking 20 min daily
+Diet: Low sodium, per prior counseling
+
+=== COPIED FORWARD FROM VISIT DATED 08/17/2022 ===
+[Begin copied text]
+HPI (from 08/17/2022 note): Patient presents for follow-up of heart failure with reduced ejection fraction. He continues to note mild fatigue with exertion but denies acute decompensation. Social history as documented on 08/17/2022: patient was a former smoker at that time. No quantities were documented in that 08/17/2022 note. Cardiac exam at that time revealed regular rate and rhythm, no murmurs, no JVD, no lower extremity edema. Labs from that visit showed BNP mildly elevated, stable from baseline. Plan at that time included continuation of beta-blocker and ACE inhibitor, with follow-up in 6 months.
+[End copied text]
+
+PAST MEDICAL HISTORY / PROBLEM LIST (with ICD-10 codes):
+1. Heart failure, unspecified - I50.9
+2. Benign prostatic hyperplasia - N40.0
+3. Asthma, unspecified - J45.909
+4. Gout, unspecified - M10.9
+5. Hypertension - I10 (outdated entry, resolved per patient report, controlled without meds currently - verify)
+6. Tobacco use disorder - Z87.891 (outdated entry, see current assessment)
+
+MEDICATIONS:
+- Furosemide 40mg daily
+- Metoprolol succinate 50mg daily
+- Lisinopril 10mg daily
+- Allopurinol 300mg daily
+- Albuterol inhaler PRN
+- Tamsulosin 0.4mg daily
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. No fevers, no cough, no wheezing today. No dysuria. No joint swelling currently.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72, RR 16, Temp 98.4F, SpO2 97% on room air, Weight 198 lbs
+General: Well-appearing, no acute distress
+Cardiovascular: Regular rate and rhythm, S1/S2 normal, no S3/S4, no murmurs, no JVD
+Respiratory: Clear to auscultation bilaterally, no wheezes, no crackles
+Extremities: No lower extremity edema, pulses intact
+Abdomen: Soft, non-tender, no hepatomegaly
+
+LABS/STUDIES REVIEWED: BNP 210 (stable), Basic metabolic panel within normal limits, EKG today shows normal sinus rhythm, no acute changes.
+
+ASSESSMENT AND PLAN:
+1. Heart failure - stable on current regimen. Continue furosemide, metoprolol succinate, lisinopril. Will recheck BNP and BMP at next visit.
+2. Tobacco use history - Patient has a smoking history notable for 2 packs per day for 2 years, followed by approximately 15 cigarettes per day for the next 2 years, after which he quit. He no longer smokes at this time. Counseled on continued avoidance of tobacco products and importance of maintaining smoke-free status for cardiopulmonary health.
+3. Asthma - well controlled, continue albuterol PRN.
+4. BPH - stable on tamsulosin, no new urinary symptoms.
+5. Gout - stable on allopurinol, no recent flares reported.
+6. Hypertension - appears controlled off medications currently; will monitor at future visits.
+
+Follow-up in 6 months or sooner if symptoms worsen. Patient advised to call if experiencing increased dyspnea, weight gain >3 lbs in 2 days, or lower extremity swelling.
+
+---
+ADDENDUM (same day, 12/17/2024, added later):
+Spoke with patient by phone this afternoon regarding lab results drawn today. BNP and BMP results were already reviewed and are consistent with values documented above; no changes to plan. Patient verbalized understanding of instructions given during visit. Will continue to monitor tobacco-free status at future visits given prior smoking history as detailed in today's assessment.
+
+Julia Brennan, MD

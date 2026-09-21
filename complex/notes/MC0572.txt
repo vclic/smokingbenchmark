@@ -1,0 +1,27 @@
+NURSE INTAKE (T. Alvarez, NP) - DOS 04/16/2024
+Pt: Diane Brown, F, DOB 4/16/1960, age 64 today (happy bday, per pt). Here for f/u HTN and DM2.
+Vitals: BP 148/86, HR 78 irreg (known AFib), wt 212 lb, RA sat 93% on RA.
+CC: '[inaudible] leg cramps when I walk to the mailbox and back', pt reports intermittent claudication worse over past few months, denies chest pain, some dyspnea on exertion.
+
+HPI: 64 yo F w/ hx obesity, AFib, T2DM, COPD, HTN, PAD here for routine f/u. Reports med compliance mostly good, occasionally forgets metformin dose. Denies polyuria/polydipsia. C/o intermittent right calf pain w/ ambulation, relieved w rest, consistent w known PAD. No rest pain, no ulcers noted on exam. Also notes increased cough, occasional wheeze, using albuterol inhaler more frequently past 2 wks - question of COPD exacerbation vs allergies, will [inaudible] further.
+
+SOCIAL HISTORY: Tobacco - extensive hx. Pt states she smoked half a pack (about 10 cigarettes) per day for 20 years, then stopped completely for 4 years, then restarted smoking at 1 pack per day for 17 years and continues to smoke to present day. Denies illicit drug use, rare EtOH (1-2 glasses wine/month). Lives w husband, retired.
+
+PROBLEM LIST:
+I10 - Essential hypertension
+E11.9 - Type 2 diabetes mellitus without complications
+I48.91 - Atrial fibrillation, unspecified
+J44.9 - COPD, unspecified (outdated dx from 2019, may need updated PFTs)
+E66.9 - Obesity, unspecified
+I73.9 - Peripheral artery disease, unspecified
+Z87.891 - Personal hx of nicotine dependence (chart note: this code likely outdated/incorrect, pt is a CURRENT smoker not former)
+
+ASSESSMENT/PLAN:
+1. HTN - BP slightly above goal, continue lisinopril, recheck in 1 mo.
+2. T2DM - A1c pending, continue metformin, reinforce diet.
+3. AFib - rate appears controlled today, continue anticoagulation per cardiology.
+4. COPD - increased sx, will trial short course steroid taper, f/u if worsens.
+5. PAD - claudication sx stable-ish, vascular surgery f/u recommended, ABI ordered.
+6. Tobacco use - patient continues to smoke despite repeated counseling on cessation today; discussed risks including cardiovascular and pulmonary complications, nicotine patch/gum offered again, pt declines at this time. Lung cancer screening was discussed in general terms.
+RTC 4-6 wks or sooner if sx worsen.
+-Teresa Alvarez, NP

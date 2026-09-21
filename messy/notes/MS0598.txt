@@ -1,0 +1,79 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Elizabeth Jones (F)  DOB: 05/29/1960  Age: 65
+Date of Service: 05/29/2025
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Cough x several days.
+
+HPI: 65 yo F with hx PAD and OA presents with cough, worse over past week, nonproductive early on now occasionally productive of clear-white sputum. Denies hemoptysis, fevers, chills, chest pain. Reports mild SOB w/ exertion, baseline claudication sx unchanged per pt. No recent travel, no sick contacts. Pt was seen here 6 mo ago for similar sx, resolved w/ supportive care. Today pt c/o intermittent wheeze, worse at night. No known COVID exposure.
+
+PAST MEDICAL HISTORY:
+- Peripheral artery disease
+- Osteoarthritis (knees, R>L)
+
+PAST SURGICAL HISTORY: None on file.
+
+MEDICATIONS:
+1. Clopidogrel 75 mg PO daily
+2. Atorvastatin 40 mg PO qHS
+3. Cilostazol 100 mg PO BID
+4. Acetaminophen 650 mg PO q6h PRN pain
+5. Meloxicam 15 mg PO daily
+6. Lisinopril 10 mg PO daily
+7. Aspirin 81 mg PO daily
+8. Albuterol HFA 90 mcg 2 puffs q4h PRN wheeze/cough (new, given today)
+9. Vitamin D3 1000 IU PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Smoking status: Current smoker
+Types: Cigarettes
+Readiness to quit: Not ready to quit at this time - patient states she still smokes and is not ready to quit
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited 2/2 claudication
+
+FAMILY HISTORY: Father - MI age 70. Mother - osteoarthritis. Not on file for lung disease.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, night sweats.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, rhinorrhea, ear pain.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND. + hx claudication, stable.
+Respiratory: + cough, + occasional wheeze. Denies hemoptysis, pleuritic chest pain.
+GI: Denies nausea, vomiting, diarrhea, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: + chronic knee pain, unchanged.
+Skin: Denies rash.
+Neuro: Denies headache, dizziness, focal weakness.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative per template.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 82, BP 132/78, RR 16, SpO2 96% RA, Wt 168 lb
+General: Alert, NAD, mild cough noted during visit.
+HEENT: NC/AT, PERRL, oropharynx clear, no erythema.
+Neck: Supple, no LAD, no JVD.
+Cardiovascular: RRR, no m/r/g. Distal pulses diminished bilat LE, consistent w/ known PAD.
+Respiratory: Mild expiratory wheeze bilat, no rales, no rhonchi, no accessory muscle use, good air movement.
+Abdomen: Soft, NT/ND, +BS.
+Extremities: No edema, cool distal extremities bilat, no ulcers noted today.
+Musculoskeletal: Crepitus R knee w/ ROM, no effusion, no erythema.
+Skin: Warm, dry, intact except cool distal LE as noted.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: Mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis / URI-related cough - likely viral. Trial albuterol PRN, supportive care, push fluids, return if worsening dyspnea, fever, or hemoptysis.
+2. Tobacco use disorder - 16 pack-year smoking history. Patient continues to smoke and states she is not ready to quit at this time; counseled on health risks of continued smoking, cessation resources offered (quitline, pharmacotherapy options discussed), will revisit at future visit. Lung cancer screening was discussed briefly with patient during counseling.
+3. Peripheral artery disease - stable, continue cilostazol, clopidogrel, ASA; reinforced walking program as tolerated.
+4. Osteoarthritis - stable on current regimen, continue meloxicam PRN, follow up w/ PCP for chronic mgmt.
+
+Follow up with PCP in 1-2 wks or sooner if sx worsen. RTC/ED precautions given verbally and in writing.
+
+Electronically signed: Steven Park, MD 05/29/2025

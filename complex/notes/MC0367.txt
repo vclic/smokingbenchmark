@@ -1,0 +1,66 @@
+TELEHEALTH F/U VISIT - Post-hospitalization (pneumonia)
+Date of Service: 08/31/2025
+Author: Kevin Osei, MD (Primary Care)
+
+Patient: Michael Hill | M | DOB: 03/02/1957 | Age: 68
+
+HPI:
+Pt is a 68 yo M s/p recent hosp for CAP, d/c'd home ~1wk ago, now for f/u telehealth visit. Reports improving cough, less SOB, appetite returning. No fevers, no chest pain. Denies hemoptysis. Ambulating better, PT arranged as outpt. Hx notable for osteoarthritis, obesity, GERD, hypothyroidism, PAD - all stable per pt. Discussed importance of pulm f/u and vaccination status (flu/pneumococcal up to date per pt report).
+
+Smoking hx noted during HPI d/w pt: pt states he smoked for 37 years total, quit smoking - no info given on when quit occurred, no rate/pack info discussed at this visit (see SH below for additional documentation).
+
+[[COPIED FORWARD FROM PRIOR NOTE DATED 02/29/2024 - SOCIAL HISTORY]]
+Social History (as documented 2/29/2024): Former smoker. Denies current tobacco use. No vaping. Alcohol - occasional. Lives w/ spouse, retired, ambulates independently at that time.
+[[END COPIED SECTION]]
+
+Social History (current, 08/31/2025):
+Tobacco: quit smoking (status = former smoker, quit); duration of smoking history 37 years total per pt report; no further quantitative details obtained this visit. Denies illicit drug use. Rare EtOH.
+
+ROS (templated, reviewed all systems, otherwise negative except as noted in HPI):
+Constitutional: denies fever, chills, wt loss.
+HEENT: denies sore throat, denies rhinorrhea.
+CV: denies chest pain, denies palpitations, PAD hx noted, denies claudication worsening.
+Resp: + improving cough, denies current SOB at rest, denies hemoptysis, denies wheeze.
+GI: GERD hx, denies reflux worsening, denies nausea/vomiting, denies abd pain.
+GU: denies dysuria, denies hematuria.
+MSK: OA hx, denies acute jt swelling, chronic knee pain stable.
+Skin: denies rash, denies lesions.
+Neuro: denies HA, denies focal weakness, denies numbness.
+Psych: denies depression, denies anxiety.
+Endo: hypothyroidism hx, denies cold intolerance change, denies wt change.
+All other systems reviewed and negative.
+
+Physical Exam (telehealth, limited):
+Gen: NAD, conversant, appears comfortable.
+Vitals (per home reading reported by pt): BP 132/78, HR 76, Temp 97.8F, SpO2 95% RA (per home pulse ox).
+HEENT: NCAT, no visible distress.
+Neck: no visible JVD appreciated on cam.
+Resp: pt coughs once during call, describes breathing as improved, no visible increased WOB observed.
+CV: unable to auscultate via telehealth, pt denies palpitations or chest pain.
+Abd: pt denies tenderness on self-palpation.
+Ext: pt reports no edema, PAD hx noted, denies rest pain currently.
+Skin: no rashes visible on cam.
+
+Medications (reviewed, reconciled):
+1. Levothyroxine 75 mcg PO daily
+2. Omeprazole 20 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Cilostazol 100 mg PO BID (PAD)
+5. Aspirin 81 mg PO daily
+6. Acetaminophen 500 mg PRN joint pain
+7. Amoxicillin-clavulanate - completing course from hospital d/c for pneumonia
+8. Albuterol inhaler PRN cough/wheeze
+9. Docusate PRN constipation
+
+Assessment/Plan:
+1. CAP, recent hospitalization - improving clinically, will complete abx course, f/u CXR in 6 wks to confirm resolution.
+2. Tobacco use history - pt is a former smoker, quit smoking; smoked for 37 years per pt report. Counseled on continued avoidance of tobacco, reinforced benefit of remaining smoke-free. Lung cancer screening discussed in general terms given smoking hx; no imaging ordered today, will address further at next visit.
+3. PAD - stable, continue cilostazol, ASA, f/u vascular as scheduled.
+4. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 3 mo.
+5. GERD - stable on omeprazole, continue.
+6. Osteoarthritis - stable, continue acetaminophen PRN, PT referral in progress.
+7. Obesity - counseled on diet/exercise as tolerated during recovery.
+
+F/u in 4 wks or sooner if worsening symptoms. Pt verbalized understanding, agreeable to plan. Telehealth visit ended, no acute distress at conclusion.
+
+- Kevin Osei, MD

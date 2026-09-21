@@ -1,0 +1,46 @@
+Family Medicine Annual Wellness Visit
+Patient: Priya Carter (F) DOB 8/5/1970
+DOS: 12/24/2024
+Author: Elena Markovic, MD
+
+CC: Annual wellness exam, patient is 54 years old, here for routine check.
+
+Problem List:
+1. M17.9 Osteoarthritis, unspecified
+2. I25.10 Coronary artery disease, native vessel, without angina
+3. Z87.891 Personal history of nicotine dependence
+4. E78.5 Hyperlipidemia, unspecified (outdated - resolved per pt, still listed)
+5. M54.5 Low back pain (chronic, stable, outdated entry from 2019)
+
+HPI: Patient presents for her annual well visit she reports feeling generally well, some knee stiffness in the morning that improves with movement she denies any new chest pain or shortness of breath, she has been walkin regularly for exercise about 3x a week per her cardiologists recommendation and states her energy level is good. She denies dizzyness, palpitations, or edema. She notes occassional joint pain in her hands which she manages with tylenol as needed. No falls, no vision changes, sleep is [inaudible] but she thinks its fine overall.
+
+Social History / Tobacco Use (EHR templated block):
+Tobacco use status: Former smoker
+Pack-year history: 13 pack-years
+Current use: No
+Years since quitting: patient quit smoking 24 years ago
+Counseling: Continued abstinence encouraged, patient praised for maintaining smoke-free status
+Alcohol: occasional glass of wine, denies drug use
+
+ROS: Constitutional - no fever, chills, or weight change. Cardiovascular - no chest pain, no orthopnea. Musculoskeletal - chronic knee and hand stiffness as above. Respiratory - no cough or dyspnea. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.4F, BMI 26.1
+General: well-appearing woman in no acute distress
+Cardiovascular: regular rate and rhythm, no murmurs rubs or gallops
+MSK: mild crepitus bilateral knees, no effusion, full range of motion with some discomfort
+Lungs: clear to auscultation bilaterally
+Skin: no rashes or lesions noted
+
+Assessment/Plan:
+1. Osteoarthritis - stable, continue conservative management with acetaminophen and PT as needed, discussed weight management and low-impact exercise.
+2. Coronary artery disease - stable, continue current cardiac regimen, follow up with cardiology as scheduled, lipid panel to be repeated at next visit.
+3. Health maintenance - screenings reviewed including colonoscopy and mammogram status, both up to date per patient report. Lung cancer screening was discussed given her tobacco history, risks and benefits reviewed, further discussion to occur as needed.
+4. Tobacco history - reinforced positive reinforcement for long term smoking cessation, no current tobacco use identified.
+
+Return to clinic in 1 year for next annual wellness visit or sooner if any new concerns arise, patient verbalized understanding and agreement with plan.
+
+Elena Markovic, MD
+
+Addendum (same day, 12/24/2024, 3:45pm):
+Patient called after visit to clarify medication refill for her cardiac meds, refill sent to pharmacy as requested, no other changes to plan at this time. Discussed briefly again that her 13 pack-year history is documented for risk stratification purposes, no new information to add regarding tobacco use.

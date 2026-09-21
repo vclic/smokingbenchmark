@@ -1,0 +1,56 @@
+General Medicine Clinic Clinic Note
+Date of Service: 24-Jul-2024
+Patient: Loretta Mitchell   DOB: 10/26/1973   MRN: 50652154
+
+SUBJECTIVE:
+CC: Fatigue
+HPI: Ms. Mitchell is a 50 year old female current smoekr (18 cigs/d x 30 yrs) with OA and T2DM who presents for fatigue. Fatigue for 5 months. Mood low. No bleeding.
+
+PMH:
+- T2DM without complication
+- Osteoarthritis of knees
+PSH: Right total knee arthroplasty
+Meds: acetaminophen 500 mg 2 tabs TID PRN; sitagliptin 100 mg daily
+Allergies: Shellfish
+Social History:
+- Lives with husband and adult son.
+- Works as a hairdresser.
+- EtOH: 1-2 beers/wk.
+- Denies illicit drugs.
+- Drives.
+FH: Mother - osteoporosis, hip fracture.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 109/80  HR: 88  RR: 16  Temp: 98.9 F  SpO2: 96% on RA  Wt: 143 lbs  BMI: 24.5
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+Labs (6/15/2024): A1c 8.0%, Cr 0.89, K 4.6
+
+A/P:
+1. Fatigue
+   - PHQ-9 9. Labs ordered.
+2. Osteoarthritis of knees: Continue PRN analgesics; home exercises.
+3. Current smoker: Counseled on cessation for 4 min. She is motivated to quit. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID. LDCT for lung cancer screening ordered after SDM.
+4. T2DM without complication
+   - Repeat A1c in 3 months. Annual eye exam reminder.
+
+RTC 3 months.
+
+Seen and discussed with resident Dr. Hernandez. I personally saw and examined the patient and agree with the findings and plan as documented.
+Catherine Lindqvist, DO

@@ -1,0 +1,44 @@
+Pulmonology Consult / Letter to Referring Physician
+Date of Service: 11/06/2024
+Author: Laura Castellano, FNP-C
+
+Patient: Gary Miller (M), DOB: 02/17/1947, Age: 77
+Referring: Dr. R. Alvarez, Internal Medicine
+
+Reason for visit: Follow-up of incidentally noted lung nodule (RUL) found on CT abd/pelvis 8/2024, ordered for PAD w/u.
+
+HPI: Mr Miller returns today for f/u of a 7mm RUL nodule. He denies hemoptysis, wt loss, fevers or night sweats. Occasional dry cough, longstanding, unchanged. He has PAD w/ intermittent claudication, managed by vascular surg, and reports stable walking distance. GERD sx well-controlled on omeprazole. No new chest pain or dyspnea at rest.
+
+--- Social History (templated EHR block) ---
+Tobacco use: Current every day smoker
+Smoking details: Pt reports smoking 2 packs per day for 24 years, then cut back to about 15 cigarettes per day for the next 35 years, continuing to present.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies heavy use
+Alcohol type: Not on file
+Drug use: denies
+Occupation: retired machinist
+Living situation: 
+Exercise: limited 2/2 claudication
+--- End SH block ---
+
+Counseling: Discussed ongoing tobacco use extensively; pt states he is not ready to quit at this time. Advised to quit, offered resources including nicotine replacement and pulmonary quitline, pt declined for now. Low-dose CT lung screening was discussed in general terms as part of ongoing risk discussion.
+
+ROS: otherwise negative except as above. Denies dysuria, denies joint swelling currently (h/o gout, last flare 3 mo ago).
+
+Meds: levothyroxine, atorvastatin, allopurinol, omeprazole, cilostazol
+
+Exam: NAD, lungs clear to auscultation bilaterally, no wheeze/rales. Distal pulses diminished bilaterally c/w known PAD. Skin warm, no ulcers.
+
+Labs reviewed: eGFR 42 (stable, c/w CKD stage 3), TSH wnl on current levothyroxine dose.
+
+Assessment/Plan:
+1. RUL pulmonary nodule, incidental - stable in appearance per report, recommend repeat imaging per Fleischner guidleines, will arrange f/u CT chest in 6 months.
+2. Tobacco use - counseled as above, pt not ready to quit, will continue to readdress at each visit.
+3. PAD - continue cilostazol, vascular surg following.
+4. CKD stage 3 - stable, avoid nephrotoxic agents.
+5. GERD, gout, hyperlipidemia, hypothyroidism - stable, continue current regimen.
+
+Will see back in 6 mo or sooner w/ any new sx.
+
+--- ADDENDUM (same day, later) ---
+Pt's daughter called after visit to clarify insurance coverage for future imaging; advised to contact billing office. No change to clinical plan. Reiterated importance of smoking cessation resources being available whenever pt is ready; pt again voiced he is not ready to quit smoking at this time.

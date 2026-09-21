@@ -1,0 +1,80 @@
+CARDIOLOGY H&P - Heart Failure Follow-up
+Date of Service: 08/07/2025
+Author: Kevin Osei, MD
+
+Patient: William Nelson, M, DOB 02/11/1973 (age 52)
+
+CC: F/u CHF, med management.
+
+HPI: Mr. Nelson is a 52 y/o male w/ hx HFrEF, hyperlipidemia, GERD, hypothyroidism p/w routine cardiology f/u. Reports mild fatigue on exertion, denies orthopnea, PND. Weight stable. Compliant w/ meds. No CP, no palpitations. Sleeping ok. Diet - trying to reduce sodium, some difficulty w/ compliance at family gatherings.
+
+--- Copy forward from visit 03/14/2022 (Dr. A. Suarez, Cardiology) ---
+Pt seen for routine HF follow up. EF at that time 35% per TTE 02/2022. On lisinopril, carvedilol, spironolactone, furosemide prn. Denies chest pain, denies syncope. JVP not elevated, no LE edema. Lungs clear. Continue current regimen, recheck BMP in 3 mo. Pt counseled on fluid restriction and daily weights. RTC 6 months or sooner if symptoms worsen.
+--- end copy forward ---
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Types used: cigarettes
+Amount: 1 pack per day
+Age started: 18
+Quit year: 2014
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired postal worker
+Living situation: lives w/ spouse
+Exercise: walks daily, ~20 min
+
+ROS: Constitutional - denies fever, chills. Cardiac - as above. Resp - denies cough, denies SOB at rest. GI - occasional reflux sx, managed w/ omeprazole. Endo - denies cold intolerance, on levothyroxine. All other systems reviewed and negative except as noted in HPI.
+
+PMH:
+- Heart failure with reduced ejection fraction
+- Hyperlipidemia
+- GERD
+- Hypothyroidism
+
+PSH: none significant.
+
+Meds:
+- Lisinopril 20mg daily
+- Carvedilol 12.5mg BID
+- Spironolactone 25mg daily
+- Furosemide 20mg prn
+- Atorvastatin 40mg qhs
+- Omeprazole 20mg daily
+- Levothyroxine 75mcg daily
+
+Allergies: NKDA
+
+Social hx (narrative): Pt started smoking 1 pack/day at age 18, continued at that rate for years, quit smoking in 2014. He is a former smoker now, no current tobacco use. Denies illicit drug use. Occasional EtOH.
+
+Family hx: Father - MI age 60. Mother - HTN, DM2.
+
+VITALS: BP 128/78, HR 68, RR 16, Temp 97.8F, Wt 198 lb, SpO2 97% RA
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing.
+CV: RRR, no m/r/g. No JVD.
+Resp: CTAB, no wheezes/crackles.
+Ext: no edema, pulses 2+ bilat.
+Abd: soft, NT/ND.
+
+LABS/RESULTS:
+- BMP (08/05/2025): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 92
+- BNP (08/05/2025): 210 pg/mL
+- Lipid panel (07/01/2025): TC 165, LDL 88, HDL 45, TG 140
+- TSH (07/01/2025): 2.1 mIU/L
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue current GDMT. Recheck BNP in 3 mo.
+2. Hyperlipidemia - LDL at goal on atorvastatin, continue.
+3. GERD - stable on omeprazole.
+4. Hypothyroidism - TSH euthyroid, continue levothyroxine.
+5. Tobacco - former smoker, quit in 2014; reinforced healthy lifestyle, no current cessation counseling needed given quit status. Lung cancer screening discussed as appropriate given hx, pt to consider.
+6. RTC 4-6 months or sooner PRN.
+
+Electronically signed: Kevin Osei, MD
+
+---ADDENDUM (later same day, 08/07/2025, 16:42)---
+Addendum: Spoke further w/ pt after visit re: quit timeline. Pt confirms he quit smoking at age 41. No further tobacco use since. Clarifying note added to chart for accuracy. No other changes to plan.
+- Kevin Osei, MD

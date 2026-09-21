@@ -1,0 +1,77 @@
+CARDIOLOGY FOLLOW-UP VISIT
+Patient: Brenda Bennett  DOB: 01/10/1956  Age: 69
+Date of Service: 01/10/2025
+Author: Michael Dunn, DO
+
+=== NURSE INTAKE ===
+Vitals: BP 128/76, HR 72 reg, RR 16, SpO2 96% RA, Wt 168 lb, Ht 5'4"
+Chief complaint: HF follow-up, mild bilateral ankle swelling x1 week.
+
+SOCIAL HISTORY (templated block)
+Tobacco use: Never smoker
+Smoking pack-years: N/A
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired schoolteacher
+Living situation: Lives with spouse
+Exercise: Not on file
+Family history of smoking-related illness: Father - heavy smoker, died of lung cancer
+
+[Copied forward from visit dated 03/14/2023]
+Patient is a 67 year old female here for routine cardiology follow up for HFrEF, CAD s/p PCI, CKD stage 3, and depression. She reports doing well on current regimen, no chest pain, no orthopnea, no PND. Denies fevers, chills, night sweats. Denies recent falls. Reports adherence to low sodium diet with occasional lapses during holidays. Denies illicit drug use. Denies use of tobacco products, has never smoked. Discussed importance of daily weights and fluid restriction. Continue current medications, follow up in 6 months, labs prior to next visit including BMP and BNP. [end copied text]
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Ms. Bennett is a 69-year-old woman with history of HFrEF (EF 35% on last echo), CAD s/p PCI, CKD stage 3, BPH, and depression who presents today for routine follow-up. She notes mild bilateral ankle swelling over the past week, worse at end of day, improved with elevation. Denies orthopnea, PND, chest pain, palpitations. Reports good adherence to low-sodium diet and daily weights, with weight stable per home log. No recent hospitalizations. Mood has been stable on current antidepressant regimen; sleep adequate. Urinary symptoms related to BPH are stable, no dysuria or hematuria. She continues to deny any personal history of tobacco use of any kind - she states she has never used cigarettes, cigars, pipes, or any tobacco products in her life. She did note, in discussing family history, that her father was a heavy smoker for most of his adult life and ultimately died of lung cancer; this has made her especially vigilant about avoiding any tobacco exposure herself.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss, fatigue is at baseline.
+HEENT: denies vision changes, hearing changes, sore throat.
+Cardiovascular: as above, denies chest pain, palpitations, syncope.
+Respiratory: denies cough, wheeze, hemoptysis, shortness of breath at rest.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: mild nocturia x2 (baseline for BPH), denies dysuria, hematuria.
+Musculoskeletal: denies joint pain, swelling other than ankles as above.
+Skin: denies rash, new lesions.
+Neuro: denies headache, dizziness, focal weakness, numbness.
+Psych: mood stable, denies SI/HI, sleep adequate.
+All other systems reviewed and negative.
+
+Physical Exam:
+General: well-appearing, no acute distress, seated comfortably.
+Vitals: as above, afebrile.
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: no JVD appreciated at 30 degrees, no thyromegaly.
+Cardiovascular: RRR, S1/S2 normal, no S3/S4, no significant murmur appreciated today.
+Lungs: clear to auscultation bilaterally, no crackles, no wheezes.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: 1+ pitting edema bilateral ankles, no calf tenderness, pulses 2+ throughout.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, no focal deficits.
+Psych: appropriate affect, cooperative.
+
+Medications:
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Furosemide 40 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 40 mg PO daily
+6. Aspirin 81 mg PO daily
+7. Clopidogrel 75 mg PO daily
+8. Sertraline 100 mg PO daily
+9. Tamsulosin 0.4 mg PO daily
+10. Finasteride 5 mg PO daily
+11. Vitamin D3 1000 IU PO daily
+
+Labs reviewed: BMP stable, potassium 4.3, creatinine 1.4 (baseline for CKD stage 3), BNP mildly elevated at 410, consistent with compensated HF.
+
+Assessment/Plan:
+1. HFrEF - clinically stable, mild lower extremity edema, will increase furosemide slightly to 40 mg BID x1 week then reassess, continue guideline-directed medical therapy, daily weights, low sodium diet.
+2. CAD s/p PCI - stable, continue dual antiplatelet therapy and statin.
+3. CKD stage 3 - stable, monitor renal function with dose adjustments as needed, avoid nephrotoxic agents.
+4. BPH - stable on tamsulosin/finasteride, continue current regimen, no acute urinary symptoms.
+5. Depression - stable on sertraline, continue, screen for symptoms at next visit.
+6. Health maintenance - lung cancer screening was discussed given family history of lung cancer in her father, though patient herself has never smoked; discussed general age-appropriate cancer screening recommendations. Continue routine preventive care.
+Follow-up in 3 months or sooner if symptoms worsen.
+
+=== ADDENDUM (same day, later) ===
+Addendum by Dr. Dunn, 01/10/2025 3:45 PM: Patient called after visit to clarify home BP log values, reports readings averaging 122-130/70-78 over past week, no symptoms of hypotension. No change to current plan. Reiterated importance of daily weight monitoring and to call if weight increases more than 3 lbs in 2 days. Reassured regarding earlier discussion of family lung cancer history; reiterated that patient's own risk assessment does not include personal tobacco exposure since she is a lifelong never-smoker. No further changes at this time.

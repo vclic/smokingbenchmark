@@ -1,0 +1,91 @@
+NURSE INTAKE
+Patient: Gary Hughes M DOB 8/27/1951 Age 74
+DOS: 12/24/2025
+Visit type: Vascular Surgery - PAD eval
+
+Vitals: BP 148/86 HR 78 RR 16 T 98.2 SpO2 95% RA Wt 238lb Ht 5'10
+Allergies: NKDA
+Chief complaint: bilateral calf pain w/ ambulation, worsening x several mo
+
+Soc Hx: pt reports never smoked cigarettes - lifelong non-smoker. Does note occasional marijuana use, denies daily use. Occ etoh. Lives w/ spouse, retired machinist.
+
+ROS (per template, all systems reviewed):
+Constitutional: denies fever chills wt loss
+HEENT: denies vision changes, hearing loss
+CV: + claudication, denies chest pain palpitations orthopnea worse than baseline
+Resp: denies cough SOB at rest
+GI: denies nausea vomiting diarrhea constipation
+GU: + nocturia freq (known BPH) denies dysuria hematuria
+MSK: denies joint swelling
+Neuro: denies numbness tingling (pt to clarify - some parasthesia noted below)
+Skin: denies rash
+Psych: denies depression anxiety
+All other systems reviewed and negative per pt
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Steven Park, MD - Vascular Surgery
+DOS: 12/24/2025
+
+HPI: Mr Hughes is a 74 yo M w/ hx of HFrEF, obesity, BPH who presents for eval of PAD sx. Pt describes bilat calf cramping after approx 1-2 blocks ambulation, relieved w rest, progressively worsening over past several months. Denies rest pain, denies non-healing wounds ulcers. Denies hx of DVT. No recent hospitalizations. Pt states he has never smoked cigarettes in his life - lifelong non-smoker, which is somewhat reassuring given PAD risk stratification but does not eliminate his risk given HFrEF and likely underlying atherosclerotic dz. He does note occassional marijuana use recreationally, no other substance use reported.
+
+PMH:
+- HFrEF (EF 35% per last echo 2024)
+- BPH
+- Obesity (BMI ~34)
+- HTN
+
+PSH: Appendectomy remote, no vascular procedures to date
+
+Meds:
+1. Carvedilol 12.5mg BID
+2. Furosemide 40mg daily
+3. Lisinopril 10mg daily
+4. Spironolactone 25mg daily
+5. Tamsulosin 0.4mg qhs
+6. Finasteride 5mg daily
+7. Atorvastatin 40mg qhs
+8. Aspirin 81mg daily
+9. Metformin 500mg BID (?dz outdated - pt reports no longer diabetic per PCP, to confirm)
+10. Multivitamin daily
+
+Fam Hx: father w/ CAD, mother w/ DM2, no fam hx PAD reported
+
+Soc Hx (physician confirm): Lifelong non-smoker, denies any cigarette use ever. Occasional marijuana use reported by pt, denies other illicit drugs. Rare etoh use. Retired machinist, lives with spouse, independent in ADLs.
+
+Physical Exam:
+Gen: NAD, obese habitus, comfortable
+CV: RRR, no m/r/g appreciated, JVP not elevated, 1+ pitting edema b/l LE
+Resp: CTAB no wheezes rales rhonchi
+Abd: obese, soft NT/ND, +BS
+Ext: b/l cool feet, decreased hair growth noted, no ulcers no gangrene, cap refill 3 sec b/l
+Pulses: femoral 2+ b/l, popliteal 1+ b/l, DP/PT nonpalpable b/l - doppler signals present but diminished
+Skin: intact, no breakdown
+Neuro: grossly intact, decreased sensation to light touch b/l distal LE
+
+Problem List (ICD-10):
+- I73.9 Peripheral vascular disease, unspecified
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.9 Obesity, unspecified
+- N40.1 BPH w/ LUTS
+- I10 Essential hypertension
+- E11.9 Type 2 DM (outdated - pt reports resolved, pending PCP records review)
+
+Assessment: 74 yo M w/ HFrEF, obesity, BPH presenting w/ classic claudication sx and exam findings consistent w/ PAD - diminished distal pulses b/l, cool extremities, decreased hair growth. ABI ordered today. Given his cardiac hx will need careful mgmt of fluid status if revasc considered down the line.
+
+Plan:
+1. Obtain bilateral ABI/PVR studies today
+2. Consider CTA lower extremity runoff pending ABI results
+3. Continue current cardiac meds, no changes today
+4. Counsel on supervised exercise therapy program for claudication
+5. Reinforce healthy diet, weight mgmt given obesity
+6. D/c'd nothing today, f/u meds list at next visit incl clarifying metformin/DM status
+7. Lung cancer screening discussion deferred as not indicated given non-smoking status; will address other preventive health screening at PCP
+8. RTC 4 wks or sooner if sx worsen, rest pain, or new ulceration
+
+Electronically signed: Steven Park, MD
+
+---
+ADDENDUM (same day, later):
+Spoke further w/ pt by phone re: today's visit after he called back with a question about activity restrictions. Clarified he may continue light walking as tolerated pending ABI results, should stop and rest if calf pain occurs. Reiterated he should call or go to ED if he develops rest pain, new ulceration, or foot discoloration. No change to plan above. Pt verbalized understanding. - Steven Park, MD

@@ -1,0 +1,69 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Family Medicine - Telehealth Visit
+Patient: Patricia Taylor (F), DOB 3/28/1961, Age 64
+Date of Service: 07/14/2025
+Author: Daniel Reyes, MD (Resident), Attending co-signature below
+
+CHIEF COMPLAINT: Medication refills, follow-up osteoarthritis and type 2 diabetes.
+
+HPI: Ms. Taylor is a 64-year-old female here today via telehealth for refill of chronic meds, she states her knees have been "achy, especially in the mornin's" but overall stable, no new falls no locking no swelling noted on cam era view although obviously limited exam given virtual format uh she also reports blood sugars have been "running in the one-forties to one-sixties" per home glucometer log, she denies polyuria polydipsia chest pain SOB or vision changes, she did mention some intermittent [inaudible] discomfort in her right hand which she attributes to "the weather changin" and she's been using OTC Tylenol with some relief, she is requesting refills on her metformin, lisinopril, and her arthritis cream because she is running low, will address med list below.
+
+REVIEW OF SYSTEMS (templated, all systems reviewed unless noted):
+Constitutional: denies fever, chills, unintentional weight loss
+Eyes: denies vision changes, denies eye pain
+ENT: denies sore throat, denies hearing loss
+Cardiovascular: denies chest pain, denies palpitations, denies edema
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: denies abdominal pain, denies nausea/vomiting, denies change in bowel habits
+GU: denies dysuria, denies hematuria
+Musculoskeletal: positive for bilateral knee stiffness as above, denies acute injury
+Skin: denies rash, denies new lesions
+Neuro: denies headache, denies numbness/tingling except as noted above
+Psych: denies depression, denies anxiety
+Endocrine: positive for hyperglycemia per home readings as above
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: patient declined to discuss tobacco use
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: retired, field blank
+Living situation: lives alone, field blank
+Exercise: Not on file
+Diet: Not on file
+
+MEDICATIONS (per chart, reconciled today):
+1. Metformin 1000mg PO BID
+2. Lisinopril 20mg PO daily
+3. Diclofenac gel 1% topical to affected joints QID PRN
+4. Atorvastatin 40mg PO qHS
+5. Aspirin 81mg PO daily
+6. Acetaminophen 500mg PO PRN pain
+7. Vitamin D3 2000 IU PO daily
+8. Calcium carbonate 600mg PO BID
+
+PHYSICAL EXAM (limited, telehealth):
+General: alert, well-appearing female, no acute distress, seated comfortably, good lighting no obvious acute distress noted
+HEENT: no visible facial asymmetry, no obvious oral lesions on brief visual inspection
+CV: unable to auscultate via telehealth, patient denies symptoms
+Resp: unable to auscultate via telehealth, no visible respiratory distress, breathing comfortably no use of accessory muscles noted on camera
+MSK: pt demonstrates active ROM of both knees on camera, mild guarding noted with flexion beyond ~90 degrees bilaterally, no visible effusion or erythema
+Skin: no rashes visible on exposed areas
+Affect: appropriate, cooperative throughout visit
+
+ASSESSMENT/PLAN:
+1. Osteoarthritis, bilateral knees - stable per pt report, continue topical diclofenac, continue acetaminophen PRN, discussed weight-bearing exercise as tolerated, f/u in 3 months or sooner if worsening
+2. Type 2 diabetes mellitus - suboptimal control per home readings, will order HbA1c and BMP, continue metformin at current dose, reinforced dietary counseling, pt to continue home glucose monitoring and log for review
+3. Health maintenance - lung cancer screening was discussed but deferred until smoking history can be obtained, tobacco history could not be assessed today as patient declined to discuss tobacco use, will revisit at next in-person visit; pt due for mammogram per records will send order; discussed importance of routine labs
+4. Medication refills - metformin, lisinopril, diclofenac gel, and atorvastatin refilled as above for 90 days
+
+Patient verbalized understanding of plan, all questions answered, follow-up scheduled in 3 months or sooner PRN.
+
+Electronically signed: Daniel Reyes, MD (Resident)
+
+---
+ATTESTATION: I have reviewed this note and discussed the case with Dr. Reyes. I agree with the assessment and plan as documented above. I personally interviewed and examined (via telehealth) the patient and confirm the findings. - Dr. Sandra Whitfield, Attending Physician
+
+---
+ADDENDUM (later same day, 07/14/2025, added by Daniel Reyes, MD):
+Pt called back this afternoon to clarify a question about her glucometer readings, wanted to know if she should adjust her metformin timing around meals, advised to continue current dosing schedule and to keep logging as instructed, no other changes made to plan, will discuss further at next visit. No further updates to social history or tobacco discussion at this time.

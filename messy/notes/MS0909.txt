@@ -1,0 +1,48 @@
+PULMONOLOGY FOLLOW-UP - PROGRESS NOTE
+Patient: Wei Washington (M) DOB: 2/15/1963 (age 62)
+Date of Service: 02/15/2025
+Author: Hannah Weiss, NP
+
+CC: Follow-up of incidental lung nodule found on prior chest CT.
+
+HPI: Mr. Washington returns for routine follow-up of a right upper lobe pulmonary nodule identified incidentally on imaging obtained for cardiac workup. He states, "I feel about the same, no chest pain, no cough that's new." He denies hemoptysis, fevers, or unintentional weight loss. He reports mild dyspnea on exertion consistent with his known HFrEF. He continues to smoke and says, "I know I need to quit, I'm working on it." He has set a quit date for 3/7/2025 to coincide with his birthday month resolution.
+
+[Copied from note dated 7/15/2022]: Tobacco use: current smoker. No further detail documented in that prior note.
+
+PROBLEM LIST:
+- F32.9 Major depressive disorder, unspecified (active)
+- I50.22 Chronic systolic (congestive) heart failure (active)
+- K21.9 GERD (active)
+- J98.4 Other disorders of lung (nodule, under surveillance)
+- E78.5 Hyperlipidemia (outdated, resolved per pt report, no recent lipid panel on file)
+- M54.5 Low back pain (outdated, not addressed today)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Active smoker
+Packs/day: 0.75
+Years: 44.00
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Occasional
+Drug use: Denies
+Living situation: With spouse
+Occupation: Retired
+Exercise: Not on file
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, night sweats. Eyes: no visual changes. ENT: no sore throat. Cardiovascular: denies chest pain, orthopnea, PND is stable per patient. Respiratory: denies hemoptysis, mild exertional dyspnea as above. GI: occasional reflux, controlled on PPI. GU: denies dysuria. Musculoskeletal: denies new joint pain. Neuro: no focal weakness. Psych: mood stable on current regimen, denies SI/HI. Skin: no rashes. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 128/78, HR 78, RR 16, SpO2 95% RA, Temp 98.2F, Wt 198 lb. General: well-appearing, no acute distress. HEENT: normocephalic, atraumatic. Neck: no JVD appreciated today. Cardiovascular: regular rate and rhythm, no murmurs, no significant edema. Pulmonary: clear to auscultation bilaterally, no wheezes/rales. Abdomen: soft, nontender, nondistended. Extremities: no clubbing or cyanosis. Neuro: alert and oriented x3.
+
+MEDICATIONS: Furosemide 40mg daily, Carvedilol 12.5mg BID, Lisinopril 10mg daily, Spironolactone 25mg daily, Omeprazole 20mg daily, Sertraline 100mg daily, Atorvastatin 20mg daily, Albuterol PRN.
+
+ASSESSMENT/PLAN:
+1. Pulmonary nodule - stable in size compared to prior imaging. Continue surveillance per current protocol. Screening for lung cancer was discussed with patient in general terms.
+2. Tobacco use - active smoker; counseled extensively on cessation, resources provided, patient has set a quit date as noted above.
+3. HFrEF - stable, continue current regimen, follow with cardiology.
+4. GERD - stable on PPI.
+5. Depression - stable on sertraline, continue.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+---ADDENDUM (same day, 4:45 PM)---
+Patient called clinic after visit to clarify quit date plan; confirmed 3/7/2025 target start date for cessation. Advised to use nicotine patch as bridge and follow up with primary care for prescription support. No other changes to plan.

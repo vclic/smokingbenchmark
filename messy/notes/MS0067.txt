@@ -1,0 +1,69 @@
+PULMONOLOGY FOLLOW-UP - PROGRESS NOTE
+Patient: Gary Davis (M) DOB: 05/24/1957 (age 69)
+Date of Service: 05/24/2026
+Author: Teresa Alvarez, NP
+
+Reason for visit: ED-to-clinic follow-up after recent COPD exacerbation.
+
+HPI: Mr. Davis is a 69-year-old male seen in follow-up after presenting to the ED last week with dyspnea, increased sputum production, and wheeze c/w acute COPD exacerbation. Treated w/ nebulizers, steroid burst, and antibiotics; discharged home. Reports improvement in breathing but still c/o mild exertional dyspnea and occasional cough. Denies fever, chest pain, hemoptysis. Sleeping better on CPAP for known OSA. No new leg swelling; HFrEF stable per pt report. No gout flares recently. BPH sx stable on tamsulosin.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Smoking amount: 1/2 pack per day (~10 cigarettes/day)
+Smoking duration: Not on file
+Age started: Not on file
+Quit date: Not on file
+Pack-years: Not on file
+Alcohol use: Occasional
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+Exercise: Limited by dyspnea
+
+ROS: Constitutional - denies fever/chills, mild fatigue. HEENT - no sore throat, no nasal congestion. Cardiovascular - no chest pain, no palpitations, occasional mild ankle edema improving. Respiratory - as above, improving. GI - no nausea/vomiting/diarrhea. GU - nocturia x2, unchanged, followed for BPH. Musculoskeletal - no acute gout flare, mild stiffness in R first MTP. Neuro - no headache, no dizziness. Psych - mood stable. Skin - no rash. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 94% on RA, Temp 98.2F, Wt 198 lb
+General: NAD, comfortable, appropriately dressed
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+Cardiovascular: RRR, no m/r/g appreciated, no significant edema noted today
+Respiratory: mild expiratory wheeze bilat bases, decreased breath sounds at bases, no crackles, no accessory muscle use at rest
+Abdomen: soft, NT/ND, no organomegaly
+Extremities: no cyanosis, trace edema bilat ankles
+Skin: warm, dry, intact
+Neuro: alert and oriented x3, no focal deficits
+
+LABS/RESULTS:
+CBC (05/20/2026): WBC 8.9, Hgb 14.1, Hct 42.3, Plt 245
+BMP (05/20/2026): Na 139, K 4.2, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 102
+BNP (05/20/2026): 210 (baseline elevated given HFrEF)
+CXR (ED, 05/17/2026): hyperinflated lungs, no acute infiltrate, no effusion
+Spirometry (03/2026): FEV1/FVC 0.62, FEV1 58% predicted, c/w moderate obstructive pattern
+Uric acid (04/2026): 6.8
+PSA (01/2026): 1.9
+
+CURRENT MEDICATIONS:
+1. Tiotropium inhaler daily
+2. Albuterol MDI PRN
+3. Fluticasone/salmeterol BID
+4. Metoprolol succinate 50mg daily
+5. Lisinopril 10mg daily
+6. Furosemide 20mg daily
+7. Spironolactone 12.5mg daily
+8. Tamsulosin 0.4mg qhs
+9. Allopurinol 300mg daily
+10. Colchicine 0.6mg PRN gout flare
+11. Atorvastatin 20mg daily
+12. CPAP nightly for OSA
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue current inhalers, f/u spirometry in 3 months, pulmonary rehab referral discussed. Discussed lung cancer screening in general terms as part of preventive care discussion; further workup deferred to primary care.
+2. HFrEF - stable, continue GDMT, monitor weights daily, BNP trending appropriately.
+3. Hypertension - well controlled on current regimen.
+4. OSA - continues CPAP, good adherence reported.
+5. Gout - stable on allopurinol, uric acid within goal.
+6. BPH - stable on tamsulosin, PSA reassuring.
+Return to clinic in 6-8 weeks or sooner if symptoms worsen. Advised smoking avoidance and continued abstinence given prior tobacco use; pt counseled on pulmonary hygiene and vaccination status reviewed (flu/pneumococcal up to date).
+
+Addendum (later same day, T. Alvarez, NP): Patient called clinic this afternoon to clarify medication instructions for furosemide dosing on days with increased ankle swelling. Advised to take extra 20mg dose PRN for swelling >2 days per prior sliding scale instructions, and to call if weight increases by more than 3 lbs in 2 days. No other changes to plan. Will continue to monitor via home health nursing weekly weight checks. Patient verbalized understanding.

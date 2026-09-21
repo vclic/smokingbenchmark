@@ -1,0 +1,77 @@
+Adult Medicine Progress Note
+
+Patient: WASHINGTON, Brenda    MRN: 82778064
+DOB: 08/05/1952    Age: 70 y.o.    Sex: Female
+Date of Service: 07/14/2023    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• 3 month follow-up
+
+Subjective:
+Brenda Washington is a 70 y.o. female who presents for routine follow-up of chronic conditions.
+No new concerns. Asks about refills.
+
+Past Medical History:
+Diagnosis	Date
+• PAD
+• Hypertension
+• Osteopenia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• C-section x2 (1988)
+• Tonsillectomy (childhood)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• multivitamin daily
+• calcium + vitamin D daily
+• amlodipine 5 mg daily
+• aspirin 81 mg daily
+• lisinopril 10 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with son.
+  Retired, former nurse.
+  No alcohol.
+  Denies illicit drugs.
+
+Family History
+Brother - T2DM. Parents deceased, causes unknown.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 130/93 (BP Location: Left arm, Patient Position: Sitting) | Pulse 85 | Temp 98.7 °F (Oral) | Resp 16 | Ht 5' 5" | Wt 167 lb | SpO2 99% | BMI 27.82 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   Elevated today; home BP log requested.
+2. Osteopenia
+   Continue bisphosphonate; DEXA due.
+3. PAD
+   Continue ASA/statin; walking program.
+
+Return in about 3 months (around 10/14/2023).
+
+Electronically signed by Anita Patel, MD on 07/14/2023

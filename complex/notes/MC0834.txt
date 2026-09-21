@@ -1,0 +1,65 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Karen O'Brien (F), DOB: 04/29/1973
+Date of Service: 10/05/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Ms. O'Brien is a 52-year-old woman with history of type 2 diabetes, hyperlipidemia, and CKD stage 3 who presents today for evaluation of intermittent chest tightness over the past 2 weeks. She describes episodes lasting 5-10 minutes, occurring with exertion (climbing stairs), relieved by rest. No radiation to arm/jaw. No associated diaphoresis or nausea. She denies palpitations or syncope. She has never smoked since age 35 and states she has felt well otherwise, though she notes fatigue in the afternoons. She was previously seen for similar complaints and had a stress test that was reportedly normal, though records are not available in this system.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Type 2 diabetes mellitus (E11.9)
+2. Hyperlipidemia (E78.5)
+3. Chronic kidney disease, stage 3 (N18.3)
+4. Hypothyroidism (E03.9) - outdated, per patient no longer on levothyroxine, unclear if still active
+5. GERD (K21.9) - outdated entry, not mentioned by patient today
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: See below
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+Tobacco detail: Patient reports she smoked 3 packs per day for 12 years, then cut back to 2 packs per day for 6 years before quitting entirely. She has not smoked since her 35th birthday and currently denies any tobacco use. Current status: former smoker, now nonsmoker.
+
+--- COPIED FROM NOTE DATED 06/05/2022 ---
+Social history (as documented 6/5/2022): Tobacco - former smoker. No further quantitative details recorded in that note.
+--- END COPIED SECTION ---
+
+FAMILY HISTORY: Mother with history of MI at age 68. Father with history of stroke.
+
+MEDICATIONS:
+- Metformin 1000mg BID
+- Atorvastatin 40mg daily
+- Lisinopril 10mg daily
+- Aspirin 81mg daily
+
+REVIEW OF SYSTEMS: Positive for exertional chest tightness and mild fatigue. Negative for shortness of breath at rest, orthopnea, PND, lower extremity edema, dizziness, or presyncope.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 98% RA, Wt 168 lbs
+General: Well-appearing woman in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. No JVD.
+Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles.
+Extremities: No edema, pulses 2+ throughout.
+
+LABS/DATA REVIEWED:
+HgbA1c 7.2% (last month)
+Lipid panel: LDL 118, HDL 45, TG 150
+Creatinine 1.4, eGFR 48
+EKG today: Normal sinus rhythm, no acute ST-T changes.
+
+ASSESSMENT AND PLAN:
+Karen O'Brien is a 52-year-old woman presenting on 10/05/2025 with exertional chest tightness, in the setting of type 2 diabetes, hyperlipidemia, and CKD stage 3. Smoking history notable for prior heavy tobacco use (3 packs/day x 12 years, then 2 packs/day x 6 years) with cessation since age 35; she is now a longtime nonsmoker, which is reassuring but her prior exposure remains relevant to overall cardiovascular risk stratification.
+
+1. Chest pain, likely exertional angina - will obtain stress echocardiogram. Continue aspirin and statin. Consider cardiac catheterization if stress test abnormal.
+2. Type 2 diabetes - continue metformin, follow up A1c in 3 months.
+3. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 months.
+4. CKD stage 3 - monitor renal function, avoid nephrotoxic agents, nephrology follow-up as scheduled.
+5. Tobacco history - counseled on cardiovascular risk associated with prior smoking history; screening for lung cancer was discussed with patient as a general topic of conversation appropriate for her age and smoking history, though no specific determination or imaging order was made today.
+
+Follow up in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Electronically signed: Owen Fitzgerald, MD

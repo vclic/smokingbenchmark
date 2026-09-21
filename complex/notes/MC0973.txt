@@ -1,0 +1,72 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Patient: Pamela Ramirez | DOB: 1/12/1966 | Age: 59 | Sex: F
+Date of Service: 05/14/2025
+Author: Gregory Tan, MD (NP progress note)
+
+HPI:
+Patient presents for annual wellness exam, no acute complaints today. Reports doing well overall with hypothyroidism, T2DM, GERD, and osteoarthritis, all stable on current regimen. Denies chest pain, SOB, cough, hemoptysis, or weight loss. Tobacco history reviewed in detail: patient started smoking 1.5 packs per day at age 20 and continued at that rate until quitting in 2024. She reports difficulty with joint stiffness in AM, improving with activity. Diet reviewed, encouraged low glycemic index foods.
+
+--- COPIED FROM PRIOR NOTE DATED 6/14/2023 ---
+"As of the note dated 6/14/2023, patient is a current smoker; tobacco use discussed, counseling provided on cessation resources."
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker (see HPI for details)
+Quit history: First quit in 2013, restarted 2021, quit for good in 2024
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Not on file
+Living situation: Blank
+Exercise: Walks 20 min daily
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight change.
+HEENT: Denies vision changes, hearing loss.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, wheeze, dyspnea.
+GI: Reports occasional reflux, controlled with medication.
+Musculoskeletal: Reports chronic knee pain, stable.
+Endocrine: Denies polyuria, polydipsia.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.4F, Wt 168 lbs, BMI 27.4
+General: Well-appearing, NAD.
+HEENT: Normocephalic, atraumatic, PERRLA.
+CV: RRR, no murmurs.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema, mild crepitus in bilateral knees.
+Skin: Warm, dry, intact.
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg daily
+2. Metformin 1000 mg BID
+3. Omeprazole 20 mg daily
+4. Acetaminophen 500 mg PRN
+5. Atorvastatin 20 mg daily
+6. Vitamin D3 2000 IU daily
+
+LABS/RESULTS:
+TSH (04/28/2025): 2.1 mIU/L (WNL)
+HbA1c (04/28/2025): 7.1%
+Lipid panel (04/28/2025): LDL 98, HDL 52, TG 130
+BMP (04/28/2025): unremarkable
+
+PROBLEM LIST (ICD-10):
+E03.9 Hypothyroidism, unspecified
+E11.9 Type 2 diabetes mellitus without complications
+K21.9 GERD
+M19.90 Osteoarthritis, unspecified site (outdated entry, see recent imaging)
+Z87.891 Personal history of nicotine dependence
+
+ASSESSMENT/PLAN:
+1. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 months.
+2. T2DM - A1c 7.1%, continue metformin, reinforce diet/exercise.
+3. GERD - stable on omeprazole.
+4. Osteoarthritis - continue acetaminophen PRN, consider PT referral.
+5. Tobacco use - patient is a former smoker; lung cancer screening discussed as part of preventive care conversation given smoking history; continue to encourage abstinence and healthy lifestyle.
+
+Follow-up in 1 year or sooner as needed.
+
+Gregory Tan, MD

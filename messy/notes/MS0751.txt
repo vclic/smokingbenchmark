@@ -1,0 +1,62 @@
+Pulmonology Follow-up Note - ED to Clinic
+Date of Service: 06/20/2025
+Author: Julia Brennan, MD (NP progress note)
+Patient: Donald Gonzales, M, DOB 6/20/1959 (age 66)
+
+CC: f/u after recent COPD exacerbation, seen in ED 06/14/2025, treated w/ steroids and nebs, d/c'd home.
+
+HPI: Pt is a 66 year old male w/ hx COPD, OSA, PAD, CKD stage 3, gout, BPH presenting for f/u post ED visit for COPD exac. Reports improved dyspnea since ED d/c, still using albuterol prn approx 3-4x/day. Denies fever, chest pain, hemoptysis. Sleeping w/ CPAP most nites, states compliance fair. No new leg pain, PAD stable per pt. Voiding sx unchanged, BPH followed by urology.
+
+ROS: Resp - improved cough, less wheeze. Cardiac - no chest pain/palp. GU - nocturia x1-2. MSK - no acute gout flare. All other systems reviewed and negative except as noted above.
+
+Tobacco History (EHR templated block, auto-pulled):
+Smoking status: Former smoker
+Packs/day: 3.00
+Years: 20.00
+Quit date: 03/02/2010
+(Note: field populated from prior intake, verified w/ pt today, accurate)
+
+Pt confirms he quit smoking on 3/2/2010 and has not smoked since. No current tobacco use. Counseled on continued avoidance, pt agreeable, denies interest in resuming.
+
+PMH: COPD (moderate, GOLD B), OSA on CPAP, PAD s/p prior claudication workup, CKD stage 3 (baseline creat ~1.6), gout, BPH.
+
+Meds: Tiotropium daily, albuterol HFA prn, atorvastatin, lisinopril, allopurinol, tamsulosin, apixaban (for PAD hx, per vascular).
+
+Allergies: NKDA
+
+Social Hx: Lives w/ spouse, retired machinist. Denies EtOH excess, denies illicit drug use. Former smoker as above.
+
+Family Hx: Father - MI age 70. Mother - COPD (non-smoker, occupational exposure per pt report, unclear).
+
+Vitals (06/20/2025): BP 138/82, HR 78, RR 18, T 98.4F, SpO2 92% RA, Wt 210 lb, BMI 31.4
+
+Exam:
+Gen - NAD, comfortable, conversing in full sentences.
+HEENT - unremarkable.
+Neck - no JVD, no LAD.
+Resp - mild expiratory wheeze bilat bases, decreased breath sounds diffusely, no rales.
+CV - RRR, no m/r/g.
+Abd - soft, NT/ND.
+Ext - trace edema b/l, pulses 1+ dorsalis pedis b/l (baseline per PAD hx), no ulcers.
+Neuro - grossly intact.
+
+Labs/Results:
+06/14/2025 (ED): WBC 11.2, CXR - hyperinflation, no acute infiltrate. ABG not obtained.
+06/18/2025 (outpt): BNP 110, Creat 1.7 (baseline 1.6), eGFR 42, K+ 4.6, Uric acid 7.8.
+PFTs (03/2025, on file): FEV1 58% predicted, FEV1/FVC 0.61, consistent w/ moderate obstruction.
+
+A/P:
+1. COPD exacerbation, recently resolved (J44.1) - improving, continue tiotropium, albuterol prn, f/u PFTs in 6 mo, pulm rehab referral discussed.
+2. Former tobacco use (Z87.891) - quit 3/2/2010, counseled on continued abstinence, tobacco cessation resources reviewed though pt not currently using.
+3. Obstructive sleep apnea (G47.33) - on CPAP, compliance download to be reviewed next visit.
+4. Peripheral artery disease (I73.9) - stable, continue current antiplatelet/anticoag mgmt per vascular.
+5. CKD stage 3 (N18.3) - stable, monitor labs q3-6mo, avoid nephrotoxic agents.
+6. Gout (M10.9) - no active flare, continue allopurinol.
+7. BPH (N40.0) - stable on tamsulosin, f/u urology as scheduled.
+8. Low-dose CT lung screening discussed given pulmonary hx; risks/benefits reviewed with patient, no decision made today.
+
+Plan: f/u in pulm clinic 3 months, sooner if worsening sx. Pt educated on exacerbation warning signs, given action plan. Nursing to schedule PFTs and CPAP download review. Discussed importance of continued smoking abstinence given quit date of 3/2/2010, pt verbalizes understanding.
+
+Time spent: 25 min, >50% counseling/coordination of care.
+
+Electronically signed: Julia Brennan, MD

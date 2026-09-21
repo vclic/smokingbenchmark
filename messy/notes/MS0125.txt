@@ -1,0 +1,62 @@
+CARDIOLOGY NP PROGRESS NOTE
+Author: Rachel Goldberg, MD
+DOS: 11/27/2023
+
+Pt: Sharon Sullivan, F, age 63 (DOB 9/8/1960)
+
+CC: chest pain eval.
+
+HPI: 63yo F w/ hx T2DM, osteoporosis, asthma, OSA presents w/ intermittent chest pain x 2 wks, non-exertional at times, some exertional component. No radiation to arm reported today, occasional SOB. Denies syncope. Uses CPAP nightly per report, compliance variable. No recent hospitalizations. Pt reports some fatigue, denies palpitations.
+
+ROS: Cardiac - + chest discomfort, denies orthopnea, PND. Resp - baseline asthma sx, occ wheeze, no acute distress. Endo - BS control fair per pt, home glucose logs reviewed. MSK - no new fx, stable osteoporosis.
+
+SOCIAL HX:
+Tobacco: active smoker, currently smokes about 3/4 pack/day (~15 cigs/day) x 42 yrs. Advised re: cessation resources, pt states not ready to quit at this time. Counseled on cardiac risk assoc w/ continued smoking.
+EtOH: occasional, denies heavy use.
+Illicit drugs: denies.
+
+--- COPIED FROM PRIOR NOTE DATED 10/27/2020 (for reference, not updated) ---
+Social hx as documented 10/27/2020: Tobacco - current smoker at that visit. No quantities documented in that 2020 note.
+--- END COPIED SECTION ---
+
+PMH: T2DM, osteoporosis, asthma, OSA.
+PSH: none significant.
+Meds: metformin, albuterol prn, alendronate weekly, CPAP.
+Allergies: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 82, RR 16, SpO2 96% RA, Temp 98.4F, Wt stable.
+Gen: NAD, A&Ox3.
+CV: RRR, no m/r/g appreciated, no JVD.
+Resp: mild expiratory wheeze bilat, no accessory muscle use.
+Ext: no edema, pulses 2+ symmetric.
+Skin: no diaphoresis.
+
+LABS/RESULTS:
+11/27/2023 - Troponin I: 0.01 ng/mL (nl <0.04)
+11/27/2023 - BNP: 45 pg/mL (nl <100)
+11/27/2023 - BMP: Na 138, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 162
+11/27/2023 - HbA1c: 7.4% (last checked 8/2023 was 7.6%)
+11/27/2023 - Lipid panel: TC 190, LDL 110, HDL 48, TG 160
+10/15/2023 - Echo (outside report reviewed): EF 55%, no significant valvular disease, mild diastolic dysfunction grade I
+EKG today: NSR, no acute ST changes, no significant Q waves.
+
+ASSESSMENT:
+1. Chest pain, atypical features, low-risk labs today. Ddx includes musculoskeletal, GERD, anxiety, less likely ACS given neg trop x1 and unremarkable EKG. Will trend enzymes prn if sx recur.
+2. Active tobacco use, heavy/longstanding - counseled extensively, cardiac and pulm risk reviewed w/ pt. Screening for lung malignancy discussed as an option to consider with PCP; no imaging ordered from this visit for that purpose.
+3. T2DM - fair control, A1c improving trend, continue metformin, encourage diet/exercise.
+4. Asthma - stable, continue albuterol prn, reviewed inhaler technique.
+5. OSA - encourage CPAP compliance, will refer back to sleep med if needed.
+6. Osteoporosis - stable, continue alendronate, no new fx.
+
+PLAN:
+- Repeat troponin in 3-6 hrs if sx recur or if any dynamic changes on repeat EKG.
+- Cardiac risk factor modification counseling given, including smoking cessation resources offered (pt declined referral today, may reconsider).
+- Continue home meds as above.
+- F/u PCP for diabetes mgmt and to discuss general preventive health topics as appropriate.
+- Return to ED if worsening chest pain, SOB, diaphoresis, or radiation of pain.
+- RTC cardiology 4-6 wks or sooner if needed.
+
+Pt verbalized understanding of plan, agreeable to above. Questions answered. Time spent w/ pt >20 min, mostly counseling/coordination of care given complexity of multiple comorbidities.
+
+Electronically signed: Rachel Goldberg, MD, 11/27/2023.

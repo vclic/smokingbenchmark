@@ -1,0 +1,44 @@
+Adult Medicine Clinic Note
+Date of Service: 10/2/2023
+Patient: Wayne King   DOB: 9/13/1961   MRN: 91846616
+
+S:
+CC: 3 month follow-up
+HPI: 62M w/ h/o CVA, obesity, gout, HLD here for routine follow-up of chronic conditions. Doing okay overall. Taking all meds as prescribed.
+
+PMH: gout, HLD, obesity, h/o CVA, History of tobacco use (Z87.891)
+PSH: Lumbar laminectomy (2020); Carpal tunnel release (2021)
+Meds: allopurinol 300 mg daily; aspirin 81 mg daily; rosuvastatin 10 mg daily
+Allergies: NKDA
+Social History:
+- Lives w/ wife in a single-family home.
+- Former smoker; 10 cigs/d x30y; smoke-free x 12 yrs.
+- EtOH: 1-2 beers/wk.
+- Drives.
+FH: Father - prostate cancer.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 114/71  HR: 75  RR: 16  Temp: 98.9 F  SpO2: 97% on RA  Wt: 217 lbs  BMI: 34.0
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+
+A/P:
+1. Gout
+   - No flares; continue allopurinol.
+2. Prior ischemic stroke
+   - No new deficits; continue antiplatelet.
+3. Hypercholesterolemia: Tolerating statin; recheck lipids in 1 yr.
+4. Hx tobacco use: No relapse.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Priya Raman, MD on 10/3/2023 at 09:14

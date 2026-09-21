@@ -1,0 +1,82 @@
+Family Medicine Office Visit
+
+Patient: SCOTT, Rajesh    MRN: 26168626
+DOB: 03/17/1970    Age: 54 y.o.    Sex: Male
+Date of Service: 05/10/2024    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Rajesh Scott is a 54 y.o. male who presents for pre-operative evaluation prior to lumbar fusion.
+Scheduled for lumbar fusion on May 24, 2024. Functional capacity limited by pain, estimated 4 METs. Had PONV with prior surgery.
+
+Past Medical History:
+Diagnosis	Date
+• CAD s/p NSTEMI with DES to LAD (2016)
+• Class I obesity
+• Chronic kidney disease stage 3a
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metoprolol succinate 25 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• aspirin 81 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: quit after MI
+Social History Narrative
+  Lives with wife and adult son.
+  Switched to vaping when he quit cigarettes; currently vapes daily.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+  Drives.
+
+Family History
+Brother - T2DM. Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 121/63 (BP Location: Left arm, Patient Position: Sitting) | Pulse 77 | Temp 98.3 °F (Oral) | Resp 16 | Ht 6' 2" | Wt 247 lb | SpO2 95% | BMI 31.77 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Coronary artery disease
+   Stable. Continue secondary prevention.
+
+f/u 3 mo
+
+Electronically signed by Hannah Weiss, NP on 05/10/2024

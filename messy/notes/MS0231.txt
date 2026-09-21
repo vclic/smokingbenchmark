@@ -1,0 +1,69 @@
+Pulmonology H&P
+Patient: Joyce Henderson (DOB 1/11/1971, age 54)
+Date of Service: 11/06/2025
+Author: Owen Fitzgerald, MD
+
+CC: F/u incidental lung nodule found on recent chest CT (ordered for pre-op eval)
+
+HPI:
+Ms Henderson is a 54 yo F w/ hx obesity, gout, HFrEF, and CAD who presents for f/u of an incidentally noted RUL pulmonary nodule seen on CT chest done 10/2025 for pre-op cardiac workup. Pt reports no cough, no hemoptysis, no wt loss, no fevers/chills. She does note occasional dyspnea on exertion which she attributes to her known HFrEF, stable per her cardiologist. No chest pain, no new orthopnea/PND. She has a 64 pack-year smoking hx, noted here per pt report and prior chart review. She quit smoking on 8/26/2001 and has not smoked since - pt states she is now smoke-free x many yrs and denies any relapse. She denies vaping or other tobacco/nicotine products currently. No known asbestos or other occupational lung exposures reported, though pt unsure of exact hx.
+
+PMH: obesity, gout, HFrEF (last echo EF 32%), CAD s/p PCI x2 (2015, 2019)
+PSH: appy as child, no other surgeries
+Meds: furosemide 40mg daily, carvedilol 12.5mg BID, lisinopril 10mg daily, atorvastatin 40mg qhs, allopurinol 300mg daily, colchicine prn flares
+Allergies: NKDA
+
+Social History (EHR templated block):
+ Tobacco use status: Former smoker
+ Smoking status detail: Quit - see HPI for details
+ Pack-year hx: 64 (see HPI)
+ Quit date: 08/26/2001
+ Smokeless tobacco: Not on file
+ E-cigarette/vape use: Denies
+ Alcohol use: Occasional, 1-2 glasses wine/wk
+ Illicit drug use: Denies
+ Occupation: Retired admin assistant
+ Living situation: Lives w/ spouse
+ Exercise: Sedentary, limited by dyspnea
+
+FH: Father - MI age 60s, Mother - DM2, no known lung ca in family
+
+ROS: Otherwise negative except as above in HPI. Denies fevers, night sweats, hoarseness, dysphagia.
+
+Physical Exam:
+Vitals: BP 132/78, HR 76, RR 16, T 98.4F, SpO2 96% RA, Wt 212 lb, Ht 5'4"
+Gen: NAD, comfortable, obese habitus
+HEENT: PERRLA, EOMI, no LAD
+Neck: no JVD appreciated at rest
+CV: RRR, S1S2, no m/r/g noted, PCI approach radial
+Resp: CTAB, no wheezes/rales/rhonchi, no accessory muscle use
+Abd: obese, soft, NT/ND, +BS
+Ext: 1+ pitting edema b/l ankles, no c/c
+Skin: no rashes
+Neuro: A&Ox3, grossly nonfocal
+
+Labs/Results (recent):
+ CBC 10/28/2025: WBC 6.8, Hgb 13.1, Hct 39.4, Plt 244
+ BMP 10/28/2025: Na 138, K 4.2, Cl 101, CO2 26, BUN 18, Cr 0.9, Glc 102
+ BNP 10/28/2025: 410 pg/mL (elevated, consistent w/ known HFrEF)
+ Lipid panel 09/15/2025: TC 168, LDL 92, HDL 44, TG 160
+ HbA1c 09/15/2025: 5.6%
+ CT chest w/o contrast 10/22/2025: 7mm noncalcified nodule RUL, no other nodules, no LAD, no pleural effusion, heart size mildly enlarged c/w known HF
+
+Assessment:
+1. Incidental pulmonary nodule, RUL, 7mm - low-moderate risk given imaging characteristics; risk factors reviewed inc smoking hx as above.
+2. HFrEF - stable, EF 32% on recent echo, continue GDMT
+3. CAD - stable, no anginal sx today
+4. Obesity - counseled on wt mgmt, discussed benefit of activity as tolerated given cardiac status
+5. Gout - no active flare, continue allopurinol
+
+Plan:
+- Nodule: recommend surveillance CT chest in 6-12 months per Fleischner-type approach given size/pt risk profile; f/u in pulm clinic after repeat imaging
+- General discussion of lung ca risk factors and importance of ongoing tobacco avoidance held w/ pt, questions answered
+- Continue current cardiac meds, no changes today, defer further cardiac mgmt to cardiology
+- Counseled pt on importance of remaining smoke-free, pt verbalizes understanding, has no plans to resume
+- Wt loss counseling reinforced d/t obesity and cardiac risk factors
+- F/u pulm 6 mo or sooner if new sx (hemoptysis, unexplained wt loss, worsening cough)
+- Pt verbalized understanding of plan, all questions answered
+
+Electronically signed: Owen Fitzgerald, MD - Pulmonology - 11/06/2025

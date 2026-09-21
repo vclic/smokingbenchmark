@@ -1,0 +1,73 @@
+PRIMARY CARE - NEW PATIENT PROGRESS NOTE
+Patient: Paul Allen (M)
+DOB: 02/21/1973 (Age 51)
+Date of Service: 04/10/2024
+Provider: Nadia Haddad, MD
+Visit Type: New patient, establish care
+
+CHIEF COMPLAINT: "Need to get set up with a regular doctor." (per family member accompanying patient, patient nonverbal/aphasic during interview)
+
+HPI:
+51 yo M, DOB 2/21/1973, presenting to establish primary care. Hx significant for HTN, COPD, PAD, HFrEF, OA, GERD per outside records forwarded from prior clinic. Patient accompanied by daughter today. Patient is noted to be aphasic at baseline (reported hx of prior CVA, records pending) and is a poor historian - unable to answer most interview questions directly, communicates via gestures and single words. Daughter states, "He's been like this since his stroke a couple years ago, he can't really tell you things himself." Attempts made to obtain history directly from patient; patient nods/shakes head inconsistently, unreliable for detailed history. Daughter provides some background but was not present for all of patient's prior medical care and unable to confirm several details including tobacco history.
+Daughter reports patient c/o some increased fatigue, no acute distress noted today. No f/c/n/v per daughter. LE edema chronic, stable per daughter. Occasional dyspnea on exertion, baseline per daughter, ambulates short distances with rest breaks.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- COPD
+- Peripheral artery disease
+- Heart failure with reduced ejection fraction
+- Osteoarthritis
+- GERD
+- Hx CVA (per daughter, records pending)
+
+PAST SURGICAL HISTORY: Not on file.
+
+MEDICATIONS: Reconciliation pending outside records; daughter brought pill bottles, to be reviewed by nursing.
+
+ALLERGIES: NKDA (per daughter)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Unable to obtain - patient aphasic/poor historian, unable to reliably answer.
+Alcohol use: Not on file.
+Illicit drug use: Not on file.
+Occupation: Retired (per daughter)
+Living situation: Lives with daughter
+Exercise: Not on file.
+Diet: Not on file.
+
+FAMILY HISTORY: Not on file - daughter unsure of details, will follow up with other relatives.
+
+REVIEW OF SYSTEMS: Limited due to patient's aphasia; daughter answers on behalf of patient where possible.
+Constitutional: Denies fever per daughter.
+Cardiac: Chronic LE edema, stable per daughter.
+Respiratory: Occasional DOE, chronic per daughter.
+GI: No current complaints per daughter.
+Musculoskeletal: Chronic joint pain, OA, stable.
+All other systems reviewed and negative per daughter, limited reliability given communication barrier.
+
+VITALS: BP 142/84, HR 78, RR 16, Temp 98.2F, O2 sat 94% RA, Wt 198 lb
+
+PHYSICAL EXAM:
+General: Well-nourished male, seated in wheelchair, nonverbal, appears comfortable, no acute distress.
+HEENT: Normocephalic, atraumatic. No JVD noted.
+Cardiovascular: RRR, no murmurs appreciated. 1+ pitting edema bilateral lower extremities.
+Respiratory: Mild expiratory wheeze bilateral bases, no accessory muscle use.
+Abdomen: Soft, nontender, nondistended, normoactive bowel sounds.
+Extremities: Chronic venous stasis changes noted bilaterally, no ulceration. Pulses diminished bilaterally, consistent with known PAD.
+Neuro: Expressive aphasia noted, follows simple one-step commands inconsistently. Moves all extremities, no obvious focal weakness noted today though exam limited by cooperation.
+Skin: No rashes or lesions noted.
+
+ASSESSMENT/PLAN:
+1. Hypertension - stable per available records, will continue current regimen pending med rec, recheck BP at next visit.
+2. COPD - stable, no acute exacerbation signs today. Tobacco history unable to obtain given communication barrier; will attempt to clarify with additional collateral contacts and prior records. Continue inhalers pending med rec.
+3. Peripheral artery disease - diminished pulses noted, stable exam. Continue current management pending records.
+4. Heart failure with reduced EF - euvolemic-appearing today, chronic stable edema. Will obtain BNP, repeat weight checks.
+5. Osteoarthritis - chronic, stable, continue current pain regimen pending records.
+6. GERD - no active complaints today per daughter, continue current management pending records.
+7. History of CVA / expressive aphasia - will request prior neuro records and imaging, consider neuro referral if not already established.
+8. Health maintenance - discussed general preventive care topics with daughter including vaccinations, screening labs; will address lung-related screening topics at future visit once further history obtained from records.
+9. Social - daughter to bring outside records and pill bottles to next visit for full medication reconciliation. Will request records release forms today.
+
+Follow-up in 2-4 weeks or sooner if concerns. Daughter given clinic contact information. Total time spent on visit including chart review, patient/family interview, exam, and documentation: 35 minutes.
+
+Electronically signed: Nadia Haddad, MD

@@ -1,0 +1,62 @@
+CARDIOLOGY HISTORY AND PHYSICAL
+Patient: Cheryl Barnes | DOB: 4/24/1954 | Age: 72
+Date of Service: 04/24/2026
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HISTORY OF PRESENT ILLNESS: Ms. Barnes is a 72 year old female with history of osteoporosis and GERD who presents today for evaluation of intermittent chest discomfort over the past two weeks. She describes the pain as a pressure sensation, occurring with exertion such as climbing stairs, and relieved with rest, though she notes on occasion it occurs at rest as well [inaudible] which is somewhat concerning. She denies radiation to the jaw but does note some left arm heaviness intermittently. No associated diaphoresis reported today although she endorsed some the other day when the pain was worse the patient states she went to go lay down and it resolved on its own after about ten minutes or so. She has not had prior cardiac workup. Review of systems otherwise notable for occasional reflux symptoms, worse at night, and chronic low back discomfort attributed to known osteoporosis. She continues to smoke despite counseling provided at prior visits, and this remains an ongoing discussion point given her cardiovascular risk profile.
+
+PAST MEDICAL HISTORY:
+- Osteoporosis
+- GERD
+
+MEDICATIONS: Omeprazole 20mg daily, calcium/vitamin D supplement, alendronate weekly.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY:
+Tobacco: Patient reports a history notable for a period of quitting smoking in 2018, however she relapsed back into smoking in 2021 and has continued since that time. She lives with her husband, denies significant alcohol use, no illicit drug use reported.
+
+--- TOBACCO USE TEMPLATE (EHR AUTO-POPULATED FIELD) ---
+Tobacco Use Assessment:
+Current smoker: Yes
+Type: Cigarettes
+History: Smoked approximately half a pack (about 10 cigarettes) per day for 28 years, subsequently cut back to approximately a quarter pack (about 5 cigarettes) per day for 22 years, and continues to smoke at that current rate.
+Counseling provided: Yes, advised to quit, discussed cessation resources.
+Readiness to quit: Contemplative
+--- END TEMPLATE ---
+
+FAMILY HISTORY: Father with MI at age 68, mother with osteoporosis.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, SpO2 96% on room air, Temp 98.2F
+General: Well-developed female, no acute distress, appears stated age.
+Cardiovascular: Regular rate and rhythm, no murmurs rubs or gallops appreciated, no JVD, no peripheral edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+Abdomen: Soft, nontender, nondistended, normal bowel sounds.
+Musculoskeletal: Mild kyphosis noted, tenderness over lower lumbar spine consistent with known osteoporosis, no acute deformity.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+
+PROBLEM LIST (per chart, some entries outdated):
+1. M81.0 - Age-related osteoporosis without current pathological fracture
+2. K21.9 - Gastro-esophageal reflux disease without esophagitis
+3. I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris (historical entry, unclear if still accurate, pending workup)
+4. Z87.891 - Personal history of nicotine dependence (note: patient is a current smoker per today's visit, this code may need updating)
+5. M54.5 - Low back pain (chronic, old entry)
+
+LABS/DIAGNOSTICS: EKG performed today shows normal sinus rhythm, no acute ST changes. Troponin pending. Basic metabolic panel and lipid panel ordered.
+
+ASSESSMENT AND PLAN:
+Cheryl Barnes is a 72 year old female presenting on 04/24/2026 with exertional chest pain concerning for possible angina, in the setting of longstanding tobacco use and hypertension noted on exam today.
+
+1. Chest pain, likely anginal in nature - will obtain troponin, repeat EKG in am, consider stress testing as outpatient given reassuring initial workup. Discussed risk factors including her tobacco use extensively, she continues to smoke despite counseling and this was again addressed today.
+2. Hypertension, new finding today - will monitor, consider initiating antihypertensive if persistently elevated on recheck.
+3. GERD - continue omeprazole, counseled on dietary triggers.
+4. Osteoporosis - continue alendronate and calcium/vitamin D, follow up with endocrinology as previously scheduled.
+5. Tobacco use - counseled extensively today regarding cessation, patient remains contemplative, provided information on nicotine replacement therapy and cessation programs, she will consider.
+
+Follow up in 1 week or sooner if symptoms worsen, return to ED for chest pain at rest not relieved by rest or associated with diaphoresis/shortness of breath.
+
+Electronically signed: Anita Patel, MD

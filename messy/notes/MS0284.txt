@@ -1,0 +1,58 @@
+NURSE INTAKE
+Pt: Terrence Kowalski | M | DOB 1/11/1947 | Age 77
+DOS: 01/11/2024
+Provider: Kevin Osei, MD - Internal Medicine, pre-op eval
+
+Vitals: BP 138/82, HR 76, RR 16, T 97.8F, SpO2 96% RA, Wt 224 lb, Ht 5'9", BMI 33.1
+CC: pre-op clearance, R total knee replacement scheduled c/o ortho referral
+Allergies: NKDA
+Meds: metformin 1000mg BID, atorvastatin 40mg qhs, omeprazole 20mg daily, lisinopril 10mg daily
+
+HPI (per pt intake): 77 yo M here for pre-op eval prior to TKA. Pt states "knee's been bad for years, finally decided to get it fixed." Denies chest pain, SOB at rest. Reports occasional heartburn, "worse if I eat late." Denies fevers/chills. No recent falls.
+
+Social Hx: noncontributory.
+
+Family Hx: father - MI at 68, mother - T2DM
+
+ROS: 10-pt system reviewed, negative except as noted in HPI. Denies hematuria, denies melena, denies dysuria.
+
+---
+PHYSICIAN PROGRESS NOTE - K. Osei, MD
+DOS: 01/11/2024
+
+Pt is a 77-year-old male (DOB 1/11/1947) presenting for pre-operative medical clearance in advance of scheduled R TKA. He is accompanied by wife today. Reviewed nursing intake, vitals stable, afebrile.
+
+HPI: Pt reports longstanding R knee pain, OA per ortho imaging, failed conservative tx (NSAIDs, PT, intra-articular injections). Surgery scheduled with Dr. Alvarez, ortho. Pt states "I just want to be able to walk the dog again without stopping every block." No CP, no palpitations, no orthopnea, no PND. GERD sx intermittent, controlled on PPI - pt denies nocturnal regurgitation currently. Denies polyuria/polydipsia acutely, checks fingerstick glucose qAM per pt report.
+
+Social history reviewed - noted as noncontributory in chart; no additional detail obtained or required for this visit.
+
+PMH/Problem List:
+- E11.9 Type 2 diabetes mellitus without complications
+- E66.9 Obesity, unspecified
+- K21.9 GERD
+- I10 Essential hypertension (outdated entry, pt reports dose adjusted, BP well-controlled now per home log)
+- M17.11 Unilateral primary osteoarthritis, right knee
+- Z98.89 hx of unspecified prior procedure (outdated/unclear, ?prior appy per pt, records unavailable)
+
+Labs/Results reviewed today:
+- CBC (01/08/2024): WBC 6.8, Hgb 14.1, Hct 42.0, Plt 245
+- BMP (01/08/2024): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 142
+- HbA1c (01/08/2024): 7.2%
+- Lipid panel (12/15/2023): TC 178, LDL 96, HDL 42, TG 160
+- EKG (01/08/2024): NSR, rate 74, no acute ST-T changes, nl axis
+- CXR (01/08/2024): no acute cardiopulmonary process, no infiltrate, no effusion
+- UA (01/08/2024): neg leuk esterase, neg nitrites, trace protein
+
+A/P:
+1. Pre-op clearance for TKA - cardiopulmonary risk assessment reassuring. RCRI low risk. EKG and CXR unremarkable. Cleared for surgery from IM standpoint, will defer final clearance pending anesthesia eval.
+2. T2DM - A1c 7.2%, reasonably controlled. Continue metformin, hold morning of surgery per standard protocol. D/w pt re: sliding scale insulin peri-op if needed.
+3. Obesity - BMI 33.1, counseled re: post-op mobility importance, weight mgmt referral offered, pt declines at this time.
+4. GERD - stable on PPI, continue omeprazole, continue periop with sips of water.
+5. HTN - well controlled on current regimen, continue lisinopril, hold morning of surgery per anesthesia protocol.
+6. Health maintenance - lung cancer screening discussed given age; will revisit at future visit given today's focus is peri-op clearance. Pt up to date on colonoscopy per records (2021), due for repeat 2031. Influenza vaccine given today. Pneumococcal vaccine status reviewed, up to date per records.
+
+Disposition: f/u with anesthesia pre-op clinic, proceed to surgery as scheduled. RTC or call w/ any new sx prior to surgery date. Pt verbalizes understanding, all questions answered.
+
+Time spent: 22 min, >50% counseling/coordination of care.
+
+Electronically signed: Kevin Osei, MD, 01/11/2024

@@ -1,0 +1,65 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Gary Wright | DOB: 1/18/1973 | Age: 51 | M
+Date of Service: 01/18/2024
+Provider: Anita Patel, MD (Pulmonology)
+
+CC: F/u incidental lung nodule.
+
+HPI: Mr. Wright is a 51 y/o male seen via telehealth for f/u of an incidentally noted pulmonary nodule on prior CT chest. Pt states, "I feel fine, no cough, no chest pain, nothing new." No hemoptysis, no fevers, no weight loss reported. He denies dyspnea on exertion beyond baseline attributed to obesity. Reviewed smoking hx in detail - pt smoked about half a pack (approx 10 cigarettes) per day starting in 1989, continuing until 2021, then quit. Pt moved to this state in 2020 and quit smoking approx 1 year after relocating. Denies any tobacco use since. No vaping, no other substance use reported. Pt says, "I haven't touched a cigarette since I quit, wife would kill me." Discussed nodule surveillance imaging schedule per Fleischner guidelines. Lung cancer screening discussed in general terms as part of ongoing risk conversation.
+
+PMH: Hypertension, obesity.
+PSH: None reported.
+FH: Noncontributory, no lung cancer in family per pt report.
+SH: Quit smoking as above. Denies alcohol excess. Works as an accountant, sedentary job.
+
+Medications:
+- Lisinopril 20 mg daily
+- Amlodipine 5 mg daily
+- Atorvastatin 20 mg daily
+- Metformin 500 mg BID (per pt, started by PCP for prediabetes)
+- Aspirin 81 mg daily
+- Multivitamin daily
+- Occasional ibuprofen PRN
+
+Allergies: NKDA.
+
+ROS (telephonic/video, templated):
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations, edema.
+Respiratory: Denies cough, dyspnea, wheeze, hemoptysis.
+GI: Denies nausea, vomiting, diarrhea, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Denies joint pain, swelling.
+Skin: Denies rash, lesions.
+Neuro: Denies headache, dizziness, weakness, numbness.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative except as noted above.
+
+Physical Exam (limited, telehealth - visual/verbal assessment only):
+General: Well-appearing male, no acute distress, appears stated age.
+Vitals (reported by pt via home BP cuff): BP 132/84, HR 76, no home pulse ox reported.
+HEENT: No visible distress, no accessory muscle use noted on camera.
+Cardiovascular: Unable to auscultate via telehealth; pt denies symptoms.
+Respiratory: No visible respiratory distress, no cough noted during call, speaking in full sentences.
+Abdomen: Deferred, not visualized in detail.
+Extremities: No visible edema on camera.
+Skin: No lesions visualized.
+
+Assessment:
+1. Incidental pulmonary nodule - stable per report, surveillance imaging plan discussed.
+2. Former tobacco use - quit smoking, counseled on continued abstinence, congratulated pt on cessation.
+3. Hypertension - stable on current regimen.
+4. Obesity - discussed lifestyle modification, diet, exercise.
+
+Plan:
+- Continue current antihypertensive regimen.
+- F/u CT chest per surveillance schedule, to be scheduled by imaging dept.
+- Continue tobacco abstinence, positive reinforcement given.
+- Weight management counseling reiterated, referral to nutrition offered.
+- Routine labs at next in-person visit.
+- RTC in 3 months or sooner if symptoms arise.
+- Telehealth visit, all recommendations reviewed verbally with pt, verbal consent obtained for telehealth format.
+
+Electronically signed: Anita Patel, MD, 01/18/2024.

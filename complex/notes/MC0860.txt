@@ -1,0 +1,47 @@
+TELEHEALTH VISIT NOTE
+Patient: Hung Barnes (M), DOB: 1/2/1962 (age 63)
+Date of Service: 06/09/2025
+Provider: Daniel Reyes, MD - Family Medicine
+Visit type: Telehealth - med refills
+
+CC: refill meds, f/u chronic conditions.
+
+HPI: 63 y/o M with HTN, CKD stage 3, CAD, asthma, HLD c/o no new complaints. Here for refill of routine meds. Denies chest pain, SOB, orthopnea. Asthma well controlled, uses albuterol prn ~1x/wk. Reports occasional cigar - a few times a year on holidays only, no cigarette use ever. Pt is a lifelong non-smoker per report.
+
+ROS: otherwise negative except as above. No edema, no dysuria, no hematuria.
+
+Meds: lisinopril 20mg qd, atorvastatin 40mg qhs, aspirin 81mg qd, albuterol HFA prn, budesonide/formoterol inhaler BID.
+
+Allergies: NKDA
+
+Vitals (reported/home): BP 138/82, HR 74, wt 198 lb (stable)
+
+Labs/Results:
+05/28/2025 - Cr 1.4 (baseline), eGFR 52
+05/28/2025 - K 4.3
+05/28/2025 - LDL 92, HDL 44, TG 150
+04/15/2025 - HbA1c 5.6%
+03/01/2025 - Spirometry - mild obstruction, improved post-bronchodilator
+
+Problem List:
+1. Essential hypertension - I10
+2. CKD stage 3 - N18.3
+3. Coronary artery disease - I25.10
+4. Asthma, mild persistent - J45.30 (outdated - now well-controlled, may reclassify)
+5. Hyperlipidemia - E78.5
+6. GERD - K21.9 (outdated, resolved per pt, not on meds x 2 yrs)
+
+Assessment/Plan:
+- HTN: stable, cont lisinopril, recheck BP next visit.
+- CKD3: stable, recheck BMP in 3 mo.
+- CAD: stable, cont ASA/statin.
+- Asthma: well controlled, cont inhalers.
+- HLD: LDL at goal, cont atorvastatin.
+- Tobacco: non-smoker, no cessation counseling needed; noted occasional cigar use for social/holiday context only, advised no change needed given infrequency.
+- Lung cancer screening discussed generally as part of preventive health; will revisit at future visit.
+- Refills sent to pharmacy per above.
+- RTC 3 months or sooner if symptoms.
+
+Electronically signed: Daniel Reyes, MD
+
+ADDENDUM (later same day, 06/09/2025 16:42): Pt called back to confirm pharmacy - CVS on Main St, not Walgreens as previously listed. Updated in chart. No other changes. Reiterated non-smoking status confirmed by patient during call, consistent with above documentation. -DR

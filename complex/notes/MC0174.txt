@@ -1,0 +1,71 @@
+TELEHEALTH FOLLOW-UP VISIT NOTE
+Patient: Steven Jenkins (M), DOB 07/17/1971, Age: 54
+Date of Service: 10/02/2025
+Provider: Teresa Alvarez, NP
+Visit type: Post-hospitalization follow-up (pneumonia) via telehealth
+
+CC: F/u after recent hospital admission for pneumonia, now d/c'd home.
+
+HPI: 54 yo M w/ hx T2DM, osteoporosis, recently hospitalized (9/24/25-9/28/25) for CAP, tx'd w/ IV abx, discharged on PO levofloxacin to complete 7-day course. Pt reports improved energy, decreased cough, denies fever/chills, denies SOB at rest. Mild productive cough persists, whitish sputum, decreasing in volume. No hemoptysis. No chest pain. Appetite improving. Blood glucose logs reviewed - mostly 110-160 fasting per pt report, occasional spikes to 200s postprandial. No new falls, no back pain currently (osteoporosis stable per pt).
+
+Social Hx: Lives w/ spouse. Denies illicit drug use. Occasional EtOH (1-2 glasses wine/wk). Tobacco: Pt tried a few cigarettes as a teenager but never smoked regularly - denies any regular tobacco use throughout adulthood. Pt's spouse smokes a pack a day at home, so there is some secondhand smoke exposure in the household; pt was counseled regarding risks of secondhand smoke and encouraged to have spouse smoke outdoors if possible. Lung cancer screening was briefly discussed given household smoke exposure, deferred to further discussion at next visit.
+
+ROS: (per template, reviewed and updated)
+Constitutional: Denies fever, chills, night sweats. Reports mild fatigue, improving.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies sore throat, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, denies LE edema.
+Respiratory: + mild productive cough, decreasing. Denies hemoptysis, denies wheeze, denies significant dyspnea at rest, mild dyspnea on exertion improving.
+GI: Denies nausea, denies vomiting, denies diarrhea, denies constipation, denies abdominal pain. Appetite improving.
+GU: Denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: Denies new back pain, denies joint pain, denies recent falls.
+Skin: Denies rash, denies new lesions.
+Neuro: Denies headache, denies dizziness, denies focal weakness, denies numbness/tingling.
+Psych: Denies depression, denies anxiety, mood stable.
+Endocrine: Denies polyuria, denies polydipsia beyond baseline.
+All other systems reviewed and negative.
+
+Physical Exam (limited, via telehealth - visual/verbal assessment only):
+General: Alert, well-appearing, no acute distress, sitting comfortably at home, appropriate affect.
+Vitals (per home monitoring reported by pt): Temp 98.4F, HR 78, BP 128/76 (home cuff), RR 16 (pt reported, not directly observed), SpO2 96% on home pulse ox (patient owns device from hospital d/c instructions).
+HEENT: No visible distress, no use of accessory muscles noted on camera.
+Respiratory: Pt denies current dyspnea while speaking, able to complete full sentences without difficulty, no visible labored breathing on camera.
+Cardiovascular: Unable to auscultate via telehealth; pt denies palpitations, chest pain.
+Skin: No visible rashes or lesions on face/hands via camera.
+Mental status: Alert, oriented, appropriate historian, no acute distress noted.
+(Note: physical exam limited due to telehealth format; recommend in-person visit if symptoms worsen or fail to resolve.)
+
+Labs/Results (from recent hospitalization and outpatient f/u draw):
+- CBC (09/24/25): WBC 13.2 (H), Hgb 13.9, Hct 41.2, Plt 244
+- CBC (10/01/25, outpatient): WBC 8.1 (WNL), Hgb 14.0, Hct 41.8, Plt 260
+- BMP (09/24/25): Na 138, K 4.1, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 186
+- BMP (10/01/25): Na 140, K 4.3, Cl 102, CO2 25, BUN 15, Cr 0.8, Glucose 142
+- HbA1c (09/15/25): 7.8%
+- Blood cultures (09/24/25): No growth to date, finalized negative
+- Sputum culture (09/25/25): Moderate growth normal respiratory flora, no predominant pathogen
+- Chest X-ray (09/24/25): RLL infiltrate consistent w/ pneumonia
+- Chest X-ray (09/28/25, pre-discharge): Improving RLL infiltrate
+- DEXA scan (03/2025, on file): T-score -2.7 lumbar spine, consistent w/ osteoporosis, on tx
+
+Current Medications:
+1. Metformin 1000mg PO BID
+2. Levofloxacin 750mg PO daily (day 5 of 7, to complete course)
+3. Alendronate 70mg PO weekly
+4. Vitamin D3 2000 IU PO daily
+5. Calcium carbonate 600mg PO BID
+6. Lisinopril 10mg PO daily
+7. Atorvastatin 20mg PO qHS
+8. Aspirin 81mg PO daily
+9. Albuterol inhaler PRN (started at discharge for cough/wheeze prn)
+10. Multivitamin PO daily
+
+Assessment/Plan:
+1. CAP, resolving - continue levofloxacin to complete 7-day course, f/u CXR in 6 wks to confirm resolution given age and recent infiltrate. Return precautions given (fever, worsening SOB, chest pain - go to ED).
+2. T2DM - HbA1c 7.8%, above goal. Continue metformin, reinforce diet/exercise as tolerated post-illness. Recheck A1c in 3 months.
+3. Osteoporosis - continue alendronate, calcium, vitamin D. DEXA stable per last study, repeat per standard interval.
+4. Tobacco/secondhand smoke exposure - patient himself denies regular smoking history (only experimented as teen), but household secondhand smoke exposure noted due to spouse's smoking (about a pack a day at home). Counseled on risks, encouraged smoking cessation resources for spouse, discussed further at future visit.
+5. Health maintenance - up to date per chart review, will address at next in-person visit.
+
+F/u: Telehealth or in-person visit in 4 weeks, sooner if worsening symptoms. Pt verbalized understanding, agreeable to plan.
+
+Electronically signed: Teresa Alvarez, NP, 10/02/2025.

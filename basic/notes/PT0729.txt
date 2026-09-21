@@ -1,0 +1,77 @@
+Pulmonology Progress Note
+
+Patient: WASHINGTON, Evelyn    MRN: 18920506
+DOB: 10/07/1951    Age: 73 y.o.    Sex: Female
+Date of Service: 10/16/2024    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• COPD follow-up
+
+Subjective:
+Evelyn Washington is a 73 y.o. female who presents for follow-up of COPD.
+Gets short of breath with one flight of stairs. 1 exacerbation in the past year, most recently in June treated with prednisone and azithromycin. Rarely needs albuterol. She is a former smoker; she smoked a pack per day for forty-four years. Morning cough with clear sputum.
+
+Past Medical History:
+Diagnosis	Date
+• Depression
+• Class I obesity
+• COPD
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• amlodipine 5 mg daily
+• sertraline 100 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• trazodone 50 mg nightly PRN
+• lisinopril 10 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives in assisted living.
+  EtOH: 2-3 drinks on weekends.
+  Exercise: walks daily.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 150/86 (BP Location: Right arm, Patient Position: Sitting) | Pulse 65 | Temp 97.7 °F (Oral) | Resp 12 | Ht 5' 4" | Wt 209 lb | SpO2 91% | BMI 35.85 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. COPD
+   Stable. Continue maintenance inhaler; rescue albuterol PRN. Pneumococcal and RSV vaccines reviewed.
+
+RTC 3 months.
+
+Electronically signed by Steven Park, MD on 10/16/2024

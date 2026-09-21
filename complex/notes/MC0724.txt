@@ -1,0 +1,44 @@
+NURSE INTAKE
+Patient: David Taylor  DOB: 02/04/1951  Age: 72
+Date of Service: 02/04/2023
+Provider: Elena Markovic, MD
+Visit type: New patient, establish care - Primary Care
+
+Vitals: BP 148/88, HR 78, RR 16, Temp 98.2F, Wt 232 lb, Ht 5'9", BMI 34.3
+Allergies: NKDA
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary
+
+HPI (dictated, some errors uncorrected): Patient is a 72 y/o male here too establish care, c/o intermittent leg cramping with ambulation, consistent with his known PAD, says its worse when he walks to mailbox and back [inaudible] some improvement with rest, he also endorses low energy and flat affect, mood down more days then not, he denies chest pain, denies SOB at rest, he reports he's been on levothyroxine but not sure of dose, he takes his BP meds most days he thinks, wife handles his pill box she says sometimes he forgets.
+
+Past Medical/Problem List (ICD-10):
+- E66.9 Obesity, unspecified (2015, still active)
+- F32.9 Major depressive disorder, unspecified episode
+- E03.9 Hypothyroidism, unspecified
+- I73.9 Peripheral artery disease, unspecified
+- I10 Essential hypertension
+- J45.909 Asthma, unspecified (old dx from chart review 2008, patient denies current asthma sx, likely outdated)
+
+ASSESSMENT/PLAN (Dr. Markovic):
+Mr. Taylor is a 72-year-old male seen today, 2/4/2023, to establish care. He has a long history of heavy smoking and continues to smoke despite counseling on cessation today; discussed nicotine replacement options and offered referral to quit-line, he was ambivalent and said he'd think about it.
+
+1. PAD - continue current antiplatelet, discussed importance of walking program as tolerated, will check ABI if not on file.
+2. Depression - continue current regimen, screening PHQ-9 administered today, will review score at follow up, consider psych referral if worsening.
+3. Hypothyroidism - recheck TSH given uncertain adherence.
+4. HTN - BP elevated today, will trend home readings, reinforce med adherence with spouse assistance.
+5. Obesity - discussed diet, referred to nutrition.
+
+LABS/RESULTS:
+02/04/2023 TSH: 6.8 (H) mIU/L
+02/04/2023 A1c: 5.9%
+02/04/2023 Lipid panel: Total chol 210, LDL 128, HDL 38, Trig 190
+
+Return to clinic in 4 weeks or sooner if symptoms worsen.
+— Elena Markovic, MD

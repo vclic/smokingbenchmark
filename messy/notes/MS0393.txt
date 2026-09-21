@@ -1,0 +1,50 @@
+TELEHEALTH VISIT NOTE
+Patient: Joyce Lewis | DOB: 8/2/1953 | Age: 71 | Sex: F
+Date of Service: 08/02/2024
+Provider: Kevin Osei, MD (Family Medicine)
+Visit type: Annual Wellness Visit, video encounter
+
+CC: AWV, general f/u of CAD, HFrEF, obesity.
+
+HPI: 71 yo F w/ h/o CAD s/p PCI, HFrEF, obesity presents via telehealth for annual wellness visit. Pt reports feeling "pretty good, no chest pain, no real SOB unless I'm climbing stairs fast." Denies orthopnea, PND, LE edema currently. Compliant w/ meds per pt report. Diet "could be better, but I'm trying." Exercises w/ short walks most days.
+
+Smoking hx reviewed in detail: pt is a former smoker, quit 3/14/2017, with a 19 pack-year smoking history total. She states "I haven't touched a cigarette since I quit back in 2017 and I don't plan to start again." No current tobacco use, no vaping, no other nicotine products. Denies EtOH excess, denies illicit drug use.
+
+ROS: Constitutional - no fever, no unintentional weight loss. CV - no chest pain, no palpitations, occasional mild dyspnea on exertion as above. Resp - no cough, no wheeze. GI - no N/V/D. GU - no dysuria. MSK - mild chronic knee pain, stable. Neuro - no focal deficits. Psych - mood stable, denies SI/HI.
+
+PMH/Problem List (per chart, some entries copy-fwd from prior visits, may not all be current):
+1. I25.10 - CAD, native vessel, without angina - active, chronic
+2. I50.22 - Chronic systolic (congestive) heart failure - active
+3. E66.9 - Obesity, unspecified - active
+4. Z87.891 - Personal hx of nicotine dependence - active (former smoker)
+5. E78.5 - Hyperlipidemia, unspecified - active, on statin
+6. M17.9 - Osteoarthritis of knee, unspecified - chronic, stable
+7. J45.909 - Asthma, unspecified uncomplicated - INACTIVE, likely outdated dx from childhood, pt denies current asthma sx
+8. N39.0 - UTI - resolved, from 2019 episode, left on list in error
+
+Meds (per pt report, telehealth, not independently verified): Metoprolol succinate, Lisinopril, Furosemide prn, Atorvastatin, Aspirin 81mg, Metformin (?dose, pt unsure)
+
+Allergies: NKDA
+
+Social Hx: Former smoker as above (19 pack-yr, quit 3/14/2017). Denies current tobacco/vape use. Lives w/ spouse, retired schoolteacher. Denies EtOH/illicits. Independent w/ ADLs.
+
+Family Hx: Mother - HTN, DM2. Father - MI at age 68. Sister - breast cancer.
+
+Vitals (per pt-reported home cuff, telehealth visit): BP 128/76, HR 74, wt 198 lb (self-reported, no scale calibration available), no in-person exam performed today given telehealth format.
+
+Exam: Limited given telehealth. Pt appears well, no acute distress, speaking in full sentences, no visible respiratory distress on camera. Affect appropriate, alert & oriented x3.
+
+Assessment/Plan:
+1. CAD, chronic - stable per pt report, continue current cardiac regimen, no new sx concerning for ACS today. Cont ASA, statin, beta blocker.
+2. HFrEF - appears euvolemic per pt report, no orthopnea/PND/edema today. Cont diuretic prn, ACE-I, beta blocker. Will obtain BNP and BMP at next in-person visit.
+3. Obesity - discussed diet/exercise, referred to nutrition counseling. Pt agreeable to trial of structured walking program.
+4. Former tobacco use - reinforced continued abstinence, praised pt for maintaining smoking cessation since 2017. General preventive health screening topics were briefly discussed on this call; further individualized discussion to occur in person.
+5. Hyperlipidemia - cont statin, will check lipid panel at next visit.
+6. Osteoarthritis knee - stable, cont conservative mgmt, OTC analgesics prn.
+7. Health maintenance - AWV completed, reviewed immunization status (pt due for flu vaccine this fall), discussed colon ca screening status (colonoscopy reportedly done 2021, pt to confirm date), mammogram status to be verified.
+
+F/u: Return to clinic in person in 3 months for full exam, labs, and further preventive care discussion. Pt to call sooner if any chest pain, worsening SOB, leg swelling, or palpitations.
+
+Time spent: 20 min telehealth encounter, most time spent on counseling/coordination of care re: chronic disease management and preventive health.
+
+Electronically signed: Kevin Osei, MD, 08/02/2024.

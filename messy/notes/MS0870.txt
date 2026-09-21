@@ -1,0 +1,87 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Yolanda Anderson (F), DOB 2/21/1957 (age 66)
+Date of Service: 11/29/2023
+Author: Brian Okonkwo, MD (Resident) — Attending attestation below
+Referring: Orthopedic Surgery, pre-op for total knee replacement, right knee
+
+HPI:
+Ms. Anderson is a 66-year-old woman with history of hyperlipidemia and hypertension who presents for pre-operative medical clearance prior to scheduled right total knee arthroplasty. She reports progressive right knee pain over several years, worse w/ ambulation, now limiting her ability to do stairs and grocery shop, she states she has tried physical therapy and NSAIDs without adequate relief and orthopedics has recommended surgical intervention given radiographic evidence of severe osteoarthritis. She denies chest pain, denies palpitations, denies syncope or near-syncope, she does note some occasional shortness of breath when climbing more then one flight of stairs which she attributes to deconditioning from decreased activity due to knee pain. No fevers, chills, or recent infections. She is asymptomatic from cardiopulmonary standpoint at rest.
+
+***Copied forward from prior visit dated 6/14/2022 (Internal Medicine, Dr. Okonkwo)***
+Patient here for routine follow up of HTN and hyperlipidemia, doing well overall, BP at home log ranging 128-138/78-84, denies medication side effects, continues atorvastatin and lisinopril as prescribed, reports adherence to low sodium diet with occasional lapses during holidays, exercise limited by knee pain, discussed weight management, will recheck lipid panel at next visit, follow up in 6 months or sooner if concerns, continue current meds without changes at this time, patient verbalized understanding and agreement with plan.
+*** end copied text ***
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss/gain.
+Eyes: denies vision changes.
+ENT: denies sore throat, denies hearing loss.
+Cardiovascular: denies chest pain, denies orthopnea, denies PND, denies lower extremity edema (aside from mild right knee swelling).
+Respiratory: denies cough, denies wheeze, notes mild dyspnea on exertion as above.
+GI: denies nausea, vomiting, diarrhea, constipation, denies abdominal pain.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: positive for right knee pain as above, denies other joint pain.
+Skin: denies rash.
+Neuro: denies headache, denies dizziness, denies focal weakness.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative per patient report.
+
+Social History (EHR templated block):
+Tobacco use: Former smoker — see note below
+Alcohol use: Occasional, 1-2 glasses wine per week
+Drug use: Denies
+Occupation: Retired, formerly worked in [inaudible] retail management
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+Social History (narrative, dictated):
+Patient smoked approximately a quarter pack per day, about five cigarettes daily, she quit smoking and has remained smoke-free since, she quit smoking at age 49. She denies any current tobacco or nicotine product use, including e-cigarettes or vaping. No history of illicit drug use per patient report.
+
+Past Medical History:
+1. Hyperlipidemia
+2. Hypertension
+3. Osteoarthritis, right knee, severe
+
+Past Surgical History: Cholecystectomy, remote, year unclear per patient.
+
+Medications:
+1. Atorvastatin 40 mg PO qhs
+2. Lisinopril 20 mg PO daily
+3. Amlodipine 5 mg PO daily (added since last visit for BP control)
+4. Aspirin 81 mg PO daily
+5. Acetaminophen 650 mg PO q6h PRN knee pain
+6. Multivitamin PO daily
+7. Calcium/Vitamin D supplement PO daily
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 132/80, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, BMI 29.4
+General: well-appearing woman, no acute distress, seated comfortably on exam table.
+HEENT: normocephalic, atraumatic, oropharynx clear, no thyromegaly.
+Cardiovascular: regular rate and rhythm, no murmurs, rubs, or gallops appreciated, no jugular venous distension.
+Respiratory: clear to auscultation bilaterally, no wheezes, rales, or rhonchi, good air movement bilaterally.
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: right knee with mild effusion and crepitus with range of motion, no calf tenderness, no lower extremity edema, pulses 2+ bilaterally.
+Skin: warm, dry, intact, no rashes or lesions noted.
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout except limited by knee pain, sensation grossly intact.
+
+Labs (reviewed, from 11/20/2023):
+CBC within normal limits. BMP within normal limits, creatinine 0.8. Lipid panel: total cholesterol 178, LDL 96, HDL 52, triglycerides 130. HbA1c 5.6%.
+
+EKG (11/29/2023): normal sinus rhythm, rate 74, no acute ST-T wave changes, unchanged from prior.
+
+Assessment and Plan:
+66-year-old woman with hyperlipidemia and hypertension presenting for pre-operative evaluation prior to right total knee arthroplasty.
+
+1. Pre-operative cardiac risk assessment: RCRI low risk, no active cardiac symptoms, EKG unremarkable, cleared from cardiovascular standpoint for surgery without further testing at this time.
+2. Hypertension: well controlled on current regimen, continue lisinopril and amlodipine, continue to monitor BP perioperatively.
+3. Hyperlipidemia: controlled on atorvastatin, continue current dose, lipid panel reviewed and within goal.
+4. Tobacco history: patient is a former smoker, quit smoking at age 49, smoked about a quarter pack (approximately five cigarettes) per day prior to quitting, denies any current use; lung cancer screening was discussed with patient as part of general health maintenance counseling.
+5. Osteoarthritis, right knee: proceeding with surgery as planned by orthopedics, no medical contraindications identified.
+6. Medication reconciliation completed, patient instructed to hold aspirin per orthopedic surgery protocol prior to procedure, continue all other home medications through day of surgery per anesthesia instructions.
+7. Return to clinic post-operatively for follow up of chronic conditions, sooner if any concerns arise.
+
+Patient given clearance for surgery from internal medicine standpoint. Discussed plan in detail with patient, all questions answered, patient verbalized understanding and agreement.
+
+Attending Attestation: I have personally seen and evaluated the patient, reviewed the resident's documentation, and agree with the assessment and plan as outlined above. — Dr. Okonkwo, attending physician.

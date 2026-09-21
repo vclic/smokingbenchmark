@@ -1,0 +1,66 @@
+Family Medicine Office Visit
+
+Patient: POWELL, Brenda    MRN: 14372847
+DOB: 03/20/1961    Age: 63 y.o.    Sex: Female
+Date of Service: 09/04/2024    Provider: Michael Dunn, DO
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Brenda Powell is a 63 y.o. female who presents for routine follow-up of chronic conditions.
+No new concerns. Ran out of one medication last week.
+
+Past Medical History:
+Diagnosis	Date
+• Asthma
+• Hypertension
+• Acquired hypothyroidism	2023
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumpectomy, benign (2008)
+• Cholecystectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 50 mcg daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+• lisinopril 20 mg daily
+
+Allergies
+• Penicillin (rash)
+
+
+Family History
+Father - stroke.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 145/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 79 | Temp 98.6 °F (Oral) | Resp 14 | Ht 5' 8" | Wt 157 lb | SpO2 100% | BMI 23.88 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+2. Acquired hypothyroidism
+   Recheck TSH.
+3. Asthma
+   Well controlled; continue.
+
+Return in about 3 months (around 12/4/2024).
+
+Electronically signed by Michael Dunn, DO on 09/04/2024

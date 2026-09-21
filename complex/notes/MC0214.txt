@@ -1,0 +1,33 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Isaac Moreno, PA-C
+Date of Service: 10/30/2025
+Patient: Mei Green, F, DOB 10/30/1956 (age 69)
+
+CC: Heart failure follow-up, Cardiology.
+
+HPI: Patient is a 69-year-old woman with history of heart failure who returns for routine follow up, she states "I feel pretty good, just some swelling in my ankles by the end of the day" and denies chest pain, orthopnea has improved since last visit, she reports good adherence to diuretic regimen although sometimes forgets evening dose, patient's daughter accompanies her to visit and reports no confusion or episodes of acute decompensation, some [inaudible] discussion regarding recent travel and its affect on her fluid intake occurred during visit and she was reminded to monitor daily weights, she denies fevers chills or recent illness the patient also notes mood has been stable on current antidepressant regimen and denies any new falls.
+
+---COPIED FORWARD FROM VISIT 04/12/2024---
+ROS: Constitutional: no fever, no chills, no weight loss. Cardiac: no chest pain, no palpitations, occasional lower extremity edema. Resp: no cough, no wheeze. GI: no nausea, no vomiting. GU: no dysuria. MSK: chronic low back pain stable. Neuro: no focal deficits. Psych: mood stable, denies SI/HI.
+PE: Vitals stable, BP 128/76, HR 72, RR 16, T 98.2F. General: NAD. CV: RRR, no murmur appreciated. Lungs: CTAB. Extremities: 1+ pitting edema bilaterally. Skin: warm, dry.
+---END COPIED SECTION---
+
+Current ROS (10/30/2025): as above, largely unchanged, no new complaints except mild ankle swelling noted above.
+
+PHYSICAL EXAM: Vitals: BP 126/78, HR 74, RR 16, SpO2 97% RA, Wt 61 kg. General: well-appearing, no acute distress. CV: RRR, S1S2 normal, no S3/S4 appreciated today. Lungs: clear to auscultation bilaterally, no crackles. Abd: soft, non-tender. Ext: trace edema bilaterally, improved from prior. Skin: intact, no lesions.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- M81.0 Osteoporosis without current pathological fracture
+- F32.9 Major depressive disorder, single episode, unspecified (outdated - now recurrent per psych note)
+- I10 Essential hypertension (resolved per prior note, kept for historical reasons)
+
+MEDICATIONS: Furosemide 40mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Alendronate 70mg weekly, Sertraline 100mg daily, Calcium/Vitamin D supplement daily, Atorvastatin 20mg daily.
+
+ASSESSMENT/PLAN:
+1. Heart failure - stable, continue current diuretic and beta blocker regimen, monitor weights, follow up in 3 months.
+2. Osteoporosis - continue alendronate, recheck DEXA per schedule.
+3. Depression - stable on sertraline, continue.
+4. Tobacco history - patient is a former smoker; she smoked 1 pack per day for 26 years, then cut back to about a quarter pack (roughly 5 cigarettes) per day for 29 years before quitting entirely; she has not smoked since her 68th birthday. Lung cancer screening options were discussed with patient given her smoking history.
+
+Attending attestation: I have seen and examined this patient with the resident/PA and agree with the assessment and plan as documented above. - Dr. A. Whitfield, Cardiology

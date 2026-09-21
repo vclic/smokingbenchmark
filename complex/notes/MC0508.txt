@@ -1,0 +1,79 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Larry Patel (M)
+DOB: 06/30/1954 (age 71)
+Date of Service: 06/30/2025
+Visit type: Telehealth, Family Medicine - medication refill visit
+Author: Quentin Hale, PA-C
+
+Dear Dr. [inaudible],
+
+Thank you for the opportunity to participate in the care of Mr. Larry Patel, a 71-year-old male, who was seen today, 06/30/2025, via telehealth for routine follow-up and medication refills.
+
+HPI: Mr. Patel reports feeling generally well since his last visit. He notes some intermittent fatigue which he attributes to poor sleep, though he states his CPAP compliance has been good, he uses it most nights but sometimes forgets when traveling for [inaudible] work related reasons and then he feels more tired the next day and this pattern has been going on for several months now on and off. He denies chest pain, denies palpitations, denies significant dyspnea at rest. He does note occasional heartburn, worse after large meals, which is improved somewhat with his current GERD regimen. Denies dysuria, denies hematuria, some mild nocturia reported, up 1-2 times nightly, stable from prior. Asthma symptoms reportedly well controlled, uses rescue inhaler rarely, less than once weekly.
+
+Review of Systems:
+Constitutional: denies fever, denies chills, denies unintentional weight loss.
+HEENT: denies vision changes, denies hearing loss, denies sore throat.
+Cardiovascular: denies chest pain, denies orthopnea, denies edema.
+Respiratory: denies cough, denies hemoptysis, mild occasional wheeze reported.
+GI: reports occasional heartburn as above, denies nausea, denies vomiting, denies blood in stool.
+GU: mild nocturia as above, denies dysuria, denies hematuria.
+Musculoskeletal: denies joint pain, denies swelling.
+Neuro: denies headache, denies dizziness, denies numbness/tingling.
+Skin: denies rash, denies new lesions.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative except as noted above.
+
+Social History (templated EHR block):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file.
+Alcohol use: occasional, denies heavy use.
+Illicit drug use: denies.
+Occupation: retired, previously worked in logistics.
+Living situation: Not on file.
+Exercise: Not on file.
+Diet: Not on file.
+
+Past Medical History: Obstructive sleep apnea, hyperlipidemia, hypothyroidism, GERD, asthma, benign prostatic hyperplasia (BPH).
+
+Medications (per chart, reconciled today):
+1. CPAP therapy nightly
+2. Atorvastatin 40mg PO QHS
+3. Levothyroxine 75mcg PO QAM
+4. Omeprazole 20mg PO daily
+5. Albuterol HFA inhaler PRN
+6. Fluticasone/salmeterol inhaler BID
+7. Tamsulosin 0.4mg PO QHS
+8. Finasteride 5mg PO daily
+9. Multivitamin daily
+
+Physical Exam:
+Vitals: Telehealth visit, vitals per home cuff reported by patient - BP 128/78, HR 72, denies fever.
+General: alert, no acute distress, well-groomed, cooperative with interview via video.
+HEENT: unable to fully assess via telehealth, no gross abnormalities noted on camera, no obvious scleral icterus.
+Neck: unable to palpate, patient denies lumps or swelling on self-exam.
+Cardiovascular: unable to auscultate via telehealth, patient denies symptoms of concern.
+Respiratory: unable to auscultate, patient denies increased work of breathing, speaking in full sentences without distress on camera.
+Abdomen: unable to palpate, patient denies tenderness on self-palpation.
+Extremities: no visible edema on camera.
+Skin: no visible rash or lesions on exposed areas via video.
+
+Assessment/Plan:
+1. Obstructive sleep apnea - continue CPAP, discussed importance of adherence, will consider [inaudible] download of compliance data at next in-person visit.
+2. Hyperlipidemia - continue atorvastatin, lipid panel due, will order for next visit.
+3. Hypothyroidism - continue levothyroxine, TSH check ordered.
+4. GERD - continue omeprazole, advised on dietary modifications, avoid large meals before bedtime.
+5. Asthma - continue current inhalers, well controlled at this time, reviewed proper inhaler technique verbally.
+6. BPH - continue tamsulosin and finasteride, denies worsening urinary symptoms, PSA to be checked at next visit.
+7. Preventive health - given age and history, discussed general age-appropriate cancer screening topics as part of routine health maintenance; further discussion to occur at next in-person visit.
+8. Medication refills provided as above for all chronic conditions.
+9. Follow-up in 3 months or sooner if symptoms worsen or new concerns arise, patient instructed to call clinic with any urgent issues in the interim.
+
+All refills sent electronically to patient's preferred pharmacy today.
+
+Thank you again for allowing me to participate in this patient's care, please do not hesitate to reach out with any questions.
+
+Sincerely,
+Quentin Hale, PA-C
+Family Medicine, Telehealth Services

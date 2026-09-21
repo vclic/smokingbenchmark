@@ -1,0 +1,71 @@
+RESIDENT NOTE - PULMONOLOGY FOLLOW-UP
+Date of Service: 11/13/2025
+Author: Daniel Reyes, MD (resident), attending attestation below
+
+Patient: Maria Carter, F, DOB 11/13/1949, Age: 76
+
+CC: f/u after ED visit / hospitalization for COPD exacerbation.
+
+HPI: Ms. Carter is a 76 yo F w/ h/o OSA, BPH, presenting for f/u after recent ED-to-obs stay for COPD exacerbation (SOB, increased sputum, wheeze). Pt states "I still get winded walking to the mailbox, but it's better than last week." She denies fevers/chills currently. She reports using her rescue inhaler more than usual over past 3 days. No chest pain. She states "I know I should quit, I've tried before." Denies current alcohol use - pt reports she quit drinking alcohol in 2021 and has remained abstinent since.
+
+PMH: COPD, OSA (on CPAP, variable compliance per pt), BPH.
+PSH: none significant.
+Allergies: NKDA.
+
+MEDICATIONS (reviewed/reconciled today):
+1. Tiotropium (Spiriva) 18 mcg inhalation daily
+2. Albuterol HFA MDI 90 mcg, 2 puffs q4-6h PRN SOB/wheeze
+3. Fluticasone/salmeterol (Advair) 250/50 1 puff BID
+4. Tamsulosin 0.4 mg PO qHS
+5. Finasteride 5 mg PO daily
+6. Prednisone taper (started in ED, currently on day 4 of taper)
+7. Azithromycin 250 mg PO daily x remainder of 5-day course
+8. Montelukast 10 mg PO qHS
+9. Vitamin D3 1000 IU daily
+10. Calcium carbonate 500 mg BID
+11. Multivitamin daily
+
+=== TOBACCO USE HISTORY (EHR TEMPLATE - SOCIAL HX) ===
+Tobacco type: Cigarettes
+Current use: Yes, active smoker
+Amount: 2 packs per day (2 PPD)
+Age of initiation: started smoking at age 13
+Quit attempts: Yes - see below
+Spouse tobacco use: Yes, spouse also smokes cigarettes
+=== END TOBACCO TEMPLATE ===
+
+Additional smoking hx (free text, HPI continuation): Pt reports she previously quit smoking in 2012, but relapsed in 2015 and has smoked continuously since. She remains a current smoker as of today's visit. Counseled extensively on smoking cessation; offered nicotine replacement/varenicline discussion, pt states she "might think about it" but not ready today. Cessation resources given.
+
+--- COPIED FROM PRIOR NOTE DATED 3/13/2022 (SOCIAL HISTORY, UNCHANGED VERBATIM AS DOCUMENTED THAT DAY) ---
+Social History (as documented 3/13/2022): Tobacco - current smoker. Alcohol - denies. Lives with spouse.
+--- END COPIED SECTION ---
+
+ROS: Constitutional: denies fever, chills, night sweats, wt loss. HEENT: denies HA, vision changes, sore throat. Resp: + cough, +sputum production (yellow), + dyspnea on exertion, denies hemoptysis. CV: denies chest pain, palpitations, edema. GI: denies N/V/D, abd pain. GU: nocturia x2-3, known BPH, denies dysuria/hematuria. MSK: denies myalgias, arthralgias. Neuro: denies HA, dizziness, weakness, numbness. Psych: denies depression, anxiety, SI/HI. Skin: denies rash, lesions. Sleep: known OSA on CPAP, pt reports variable adherence, some daytime fatigue. Endo: denies polyuria/polydipsia. Heme: denies easy bruising/bleeding. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 88, BP 138/82, RR 20, SpO2 93% RA, Wt 165 lb, Ht 5'4"
+General: Elderly female, NAD, sitting comfortably, mild use of accessory muscles.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no cyanosis of lips.
+Neck: Supple, no JVD, no LAD, no thyromegaly.
+Resp: Decreased breath sounds bilat bases, scattered expiratory wheezes, prolonged expiratory phase, no rales, no rhonchi acutely.
+CV: RRR, no m/r/g, distal pulses 2+ bilat.
+Abd: Soft, NT/ND, +BS, no organomegaly.
+Ext: No cyanosis/clubbing/edema.
+Skin: Warm, dry, intact, no rashes.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: Mood/affect appropriate, cooperative.
+
+LABS/STUDIES (reviewed from recent ED visit): CBC wnl except mild leukocytosis (resolving), BMP wnl, CXR showing hyperinflation c/w COPD, no acute infiltrate. Spirometry from prior visit c/w moderate-severe obstructive pattern.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue prednisone taper as directed, finish azithromycin course, continue inhalers as above, f/u in 4 wks or sooner if worsening sx.
+2. Tobacco use disorder, active - counseled on cessation today at length; discussed risks of continued smoking in setting of COPD; discussed lung cancer screening in general terms; pt declines pharmacotherapy at this time, will reconsider. Encouraged spouse to consider cessation as well given shared household smoking.
+3. OSA - continue CPAP, encourage improved adherence, will consider repeat sleep study if sx persist.
+4. BPH - stable on tamsulosin/finasteride, continue current regimen, f/u w urology as scheduled.
+5. EtOH - pt reports abstinence since 2021, no concerns today.
+
+Return to clinic in 4 weeks or sooner PRN.
+
+--- ATTENDING ATTESTATION ---
+I have personally seen and examined the patient with Dr. Reyes and agree with the history, exam findings, assessment, and plan as documented above.
+/s/ Attending Pulmonology Physician

@@ -1,0 +1,83 @@
+PULMONOLOGY CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Wayne Young (M)
+DOB: 1/28/1945 (Age: 78)
+Date of Service: 09/28/2023
+Author: Brian Okonkwo, MD, Pulmonary Medicine
+
+Referring Physician: Dr. Susan Malick, Internal Medicine
+
+CHIEF COMPLAINT: Follow-up evaluation of incidental lung nodule found on CT abdomen/pelvis performed for unrelated indication.
+
+HPI:
+Mr. Young is a 78-year-old male referred for evaluation of a 7-mm right upper lobe pulmonary nodule noted incidentally on a CT scan obtained in July 2023 during work-up for abdominal pain. He is asymptomatic from a pulmonary standpoint - denies cough, hemoptysis, dyspnea at rest, fevers, or unintentional weight loss. He reports mild baseline dyspnea on exertion which he attributes to his known heart failure with reduced ejection fraction and peripheral artery disease limiting his ambulation distance. He smoked a quarter pack (about 5 cigarettes) per day for 42 years; he quit smoking and has remained abstinent since. He denies any prior history of malignancy. Family history is notable for lung cancer in his brother, diagnosed in his 70s.
+
+He has been managing well overall, following with cardiology for his heart failure and with orthopedics for osteoarthritis of the knees. No recent hospitalizations. Gout has been quiescent on current regimen.
+
+PAST MEDICAL HISTORY:
+1. Peripheral artery disease
+2. Osteoarthritis
+3. Heart failure with reduced ejection fraction (EF ~35% on last echo)
+4. Hyperlipidemia
+5. Gout
+
+MEDICATIONS: Furosemide 40 mg daily, carvedilol 12.5 mg BID, lisinopril 10 mg daily, atorvastatin 40 mg nightly, allopurinol 100 mg daily, aspirin 81 mg daily, cilostazol 100 mg BID.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (per EHR templated block):
+Tobacco use: Former smoker
+Type: Cigarettes
+Current use: No
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, wine with dinner
+Alcohol type: Not on file
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Limited by PAD symptoms
+E-cigarette/vaping use: Not on file
+Secondhand smoke exposure: Not on file
+
+[NOTE: The above discrete SH fields are auto-populated from patient intake questionnaire and may not reflect most recent update; see narrative HPI above for details specific to this visit.]
+
+---- COPY-FORWARD TEXT FROM PRIOR VISIT (ORIGINAL NOTE DATED 04/12/2022, CARDIOLOGY) ----
+Patient seen in cardiology clinic for routine follow-up of heart failure with reduced ejection fraction. He reports stable exercise tolerance, able to walk approximately one block before needing to stop due to bilateral leg claudication, consistent with known PAD. No orthopnea, no PND, no lower extremity edema noted on exam today. Weight stable compared to last visit. Continues on guideline-directed medical therapy as above. Labs reviewed: BNP 210 (improved from 340 six months ago), potassium 4.2, creatinine 1.1. Echocardiogram from 03/2022 showed EF 35%, mild mitral regurgitation, no significant valvular stenosis. Plan: continue current medication regimen, follow up in 6 months, repeat echo in 1 year. Patient counseled extensively on low-sodium diet and daily weight monitoring with instructions to call if weight increases by more than 3 lbs in 2 days.
+---- END COPY-FORWARD TEXT ----
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. No fevers, chills, night sweats, hemoptysis, or chest pain.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, SpO2 96% on room air, Temp 97.8F, Weight 182 lb
+General: Well-appearing elderly male, no acute distress
+HEENT: Normocephalic, atraumatic
+Neck: No lymphadenopathy, no JVD
+Cardiac: Regular rate and rhythm, no murmurs appreciated today
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+Extremities: Trace edema bilaterally, diminished dorsalis pedis pulses bilaterally (known PAD), no calf tenderness
+Skin: No rashes or lesions
+
+IMAGING REVIEW:
+CT chest reviewed personally - solitary 7mm solid nodule in the right upper lobe, well-circumscribed, no associated lymphadenopathy, no other concerning findings. No prior imaging available for comparison at this time; records request submitted for outside imaging from 2019 if available.
+
+ASSESSMENT:
+78-year-old male, former smoker, with incidentally discovered 7mm solid pulmonary nodule in right upper lobe. Given nodule size and characteristics, risk of malignancy is low but not negligible given age and smoking history. Fleischner Society guidelines were discussed with the patient regarding surveillance imaging intervals for nodules of this size and risk category.
+
+PLAN:
+1. Repeat low-dose CT chest in 12 months per Fleischner guidelines for surveillance of solitary solid nodule <8mm in moderate-risk patient.
+2. Discussed general principles of lung cancer screening guidelines with patient; further discussion to occur with PCP regarding ongoing eligibility given overall health status and comorbidities.
+3. Continue current cardiac and PAD management as directed by cardiology.
+4. Encouraged continued tobacco abstinence; patient has remained smoke-free since quitting.
+5. Reviewed symptoms to monitor for (hemoptysis, unexplained weight loss, persistent cough) and instructed to call clinic if these develop.
+6. Follow-up in pulmonary clinic after repeat CT, or sooner if symptoms arise.
+7. Copy of this note to be sent to Dr. Malick and to cardiology.
+
+Thank you for allowing me to participate in the care of this pleasant gentleman. Please do not hesitate to contact me with any questions.
+
+Brian Okonkwo, MD
+Pulmonary Medicine
+
+---- ADDENDUM (added later same day, 09/28/2023, 4:47 PM) ----
+Addendum: Patient called back after clinic to clarify quit date for records - he confirms he quit smoking in 2010 and has not smoked since that time. This has been added to the chart for accuracy. No other changes to today's assessment or plan.
+
+Brian Okonkwo, MD

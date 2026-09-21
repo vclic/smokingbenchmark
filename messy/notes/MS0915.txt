@@ -1,0 +1,48 @@
+PULMONOLOGY - COPD FOLLOW-UP
+DOS: 11/12/2025
+Author: Michael Dunn, DO (NP progress note)
+Patient: Harold Baker, M, DOB 2/20/1956 (age 69)
+
+HPI:
+Mr Baker is a 69 yo male with hx of COPD returns for routine f/u. Reports doing fairly well, occassional cough productive of clear sputum, denies fever/chills. Uses albuterol inhaler prn maybe 2x/wk. No recent ED visits or hospitalizations for COPD exacerbation. He notes some dyspnea on exertion when climbing stairs but stable compared to last visit. Denies chest pain, orthopnea, or leg swelling.
+
+Past Med Hx (copied forward from visit 03/14/2023 - retained for continuity, some items may be outdated):
+---begin copied block---
+68 yo male seen for COPD/obesity mgmt. Pt reports using CPAP nightly for OSA, tolerates well. Denies syncope. On exam BMI elevated, lungs w/ mild expiratory wheeze bilat. Pt counseled extensively regarding weight loss, diet, exercise. Continue current inhaler regimen. F/u in 6 mo or sooner if worsening sx. Pt's BPH stable per urology, tamsulosin continued. Pt states no changes in urinary symptoms. Plan reviewed and pt verbalizes understanding. Return to clinic as scheduled.
+---end copied block---
+
+Social History:
+Smoking status: Never Smoker [NOTE - this templated field is incorrect/outdated, does not reflect actual hx, see below]
+Actual tobacco hx per pt interview today: pt smoked 4 cigarettes per day for 23 years; pt quit smoking at age 60. Pt confirms he is a former smoker, not a never-smoker as autopopulated above - chart will be corrected. Pt quit drinking alcohol in 2012 and has remained abstinent since. No illicit drug use reported. Lives with spouse, retired machinist.
+
+Review of Systems: Constitutional - denies fever, chills, weight loss. Resp - chronic cough as above, denies hemoptysis. Cardiac - denies chest pain, palpitations. GU - denies dysuria, urinary retention (BPH stable).
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 94% RA, Wt 231 lb, BMI 34.2
+Gen: obese male, NAD
+Lungs: diminished breath sounds bilat bases, scattered exp wheezes, no crackles
+CV: RRR, no m/r/g
+Abd: obese, soft, NT/ND
+Ext: no edema
+
+Labs/Results:
+- Spirometry (10/28/2025): FEV1 58% predicted, FEV1/FVC 0.62, consistent with moderate obstruction, similar to prior study 04/2024
+- CBC (11/12/2025): WBC 7.1, Hgb 14.2, Hct 42%
+- BMP (11/12/2025): Na 139, K 4.3, Cr 1.0, Glucose 101
+- CXR (11/12/2025): hyperinflated lungs, no acute infiltrate, no nodule
+
+Problem List:
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- E66.9 Obesity, unspecified (outdated - pt has since had BMI recalc, still applies)
+- N40.1 Benign prostatic hyperplasia with lower urinary tract symptoms
+- Z87.891 Personal history of nicotine dependence
+- F17.200 Nicotine dependence, unspecified (outdated - pt is former smoker, quit smoking per hx, code retained in error, will address at next update)
+
+Assessment/Plan:
+1. COPD, moderate, stable - Continue current inhaler regimen (tiotropium + albuterol prn). Spirometry stable compared to prior. Pt is a former smoker who quit smoking at age 60 after smoking 4 cigarettes per day for 23 years total; this is documented despite the erroneous 'never smoker' field noted above which will be corrected in chart. General conversation regarding ongoing pulmonary risk and screening options was had with the patient, without any determination of eligibility made today and no imaging ordered or scheduled as part of this visit. Pulmonary hygiene reviewed, continue to avoid secondhand smoke exposure.
+2. Obesity - Counseled again re: diet/exercise, referred to nutrition.
+3. BPH - Stable on tamsulosin, continue, urology f/u as needed.
+4. Alcohol use - Pt quit drinking in 2012, remains abstinent, no concerns at this time.
+F/u in 6 months or sooner if worsening symptoms. Pt verbalizes understanding of plan.
+
+Electronically signed: Michael Dunn, DO

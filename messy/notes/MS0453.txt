@@ -1,0 +1,39 @@
+Pulmonology Follow-Up Note
+Patient: Kathleen Jenkins | DOB: 03/29/1965 | Age: 60 | Sex: F
+Date of Service: 09/17/2025
+Author: Anita Patel, MD
+
+=== NURSE INTAKE ===
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 96% RA, Wt 178 lb.
+Pt here for f/u of incidental lung nodule found on prior CT chest. Denies chest pain, denies hemoptysis, c/o mild dry cough per pt "comes and goes, [inaudible] worse at night sumtimes". Reports sleeping ok with CPAP most nights, compliance ~5 nights/wk per pt report.
+Allergies: NKDA.
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI: Kathleen Jenkins is a 60-year-old woman with history of hyperlipidemia, CAD, OSA, HTN, CKD stage 3, and GERD who returns today, 09/17/2025, for follow-up of an incidentally noted pulmonary nodule identified on recent imaging. She reports she is doing reasonably well overall, though endorses intermittent dry cough and occasional dyspnea on exertion when climbing stairs, quote "I get a little wined, I mean winded, going up to the second floor." She has a 23 pack-year smoking history. She quit smoking in 2008 and has remained smoke-free since that time. She denies current tobacco use of any kind, including vaping or cigars. She also reports she quit drinking alcohol in 2017 and has not resumed since. No new hemoptysis, no unintentional weight loss, no fevers or night sweats. She continues on her usual home medications without recent changes.
+
+--- COPIED FORWARD FROM NOTE DATED 12/17/2023 ---
+SOCIAL HISTORY (as documented 12/17/2023): Former smoker. Denies current alcohol use. Lives with spouse, retired from clerical work, denies illicit drug use. No occupational asbestos exposure reported at that time. Continue routine health maintenance and monitor for symptoms.
+--- END COPIED SECTION ---
+
+Review of Systems: Constitutional - denies fever, chills, night sweats, weight loss. HEENT - denies sinus congestion, sore throat. Cardiovascular - denies chest pain, palpitations, orthopnea, PND. Respiratory - endorses mild dry cough as above, denies wheeze, denies hemoptysis. GI - reports occasional heartburn, otherwise denies nausea, vomiting, diarrhea, constipation. GU - denies dysuria, hematuria. Musculoskeletal - denies joint pain, denies swelling. Neuro - denies headache, denies dizziness, denies syncope. Psych - denies depression, denies anxiety. Skin - denies rash. All other systems reviewed and negative.
+
+Physical Exam: General - well-appearing woman, no acute distress. HEENT - normocephalic, atraumatic, oropharynx clear. Neck - no lymphadenopathy, no JVD. Cardiovascular - regular rate and rhythm, no murmurs, rubs, or gallops. Lungs - clear to auscultation bilaterally, no wheezes, rales, or rhonchi noted, good air movement. Abdomen - soft, non-tender, non-distended, normoactive bowel sounds. Extremities - no edema, pulses 2+ bilaterally. Skin - warm and dry, no rashes. Neuro - alert and oriented x3, cranial nerves grossly intact.
+
+Labs/Results:
+- CBC (09/10/2025): WBC 6.8, Hgb 13.1, Hct 39.4, Plt 244
+- BMP (09/10/2025): Na 139, K 4.3, Cl 101, CO2 25, BUN 22, Cr 1.4, eGFR 47
+- Lipid panel (08/15/2025): TC 178, LDL 96, HDL 52, TG 150
+- CT chest (08/28/2025): 7mm ground-glass nodule right upper lobe, stable in size compared to prior study, no lymphadenopathy.
+
+Medication List: Atorvastatin 40mg daily, Aspirin 81mg daily, Metoprolol succinate 50mg daily, Lisinopril 10mg daily, Omeprazole 20mg daily, CPAP nightly, Vitamin D3 1000 IU daily, Multivitamin daily.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, stable on repeat imaging compared to prior study - will continue surveillance imaging per radiology recommendation, general discussion held regarding periodic monitoring of nodules in patients with smoking history, patient given handout on nodule follow-up, questions answered.
+2. CAD/HTN/hyperlipidemia - stable, continue current meds, recheck lipid panel in 6 months.
+3. OSA - encourage improved CPAP compliance.
+4. CKD stage 3 - stable eGFR, continue monitoring renal function, avoid nephrotoxic agents.
+5. GERD - continue omeprazole, reinforce dietary modification.
+6. Tobacco history - former smoker, quit 2008, reinforced benefit of continued abstinence, no current counseling needed for active use.
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Anita Patel, MD

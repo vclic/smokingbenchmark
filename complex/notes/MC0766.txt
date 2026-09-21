@@ -1,0 +1,47 @@
+PULMONOLOGY FOLLOW-UP - INCIDENTAL LUNG NODULE
+DOS: 09/17/2023
+Author: Laura Castellano, FNP-C
+Patient: Marilyn Baker, F, DOB 1/1/1945 (age 78)
+
+HPI: Pt returns for f/u re: incidental pulm nodule found on CT abd/pelvis last spring, done for unrelated GI w/u. Pt states she feels generally well today, denies fevers, denies hemoptysis, some mild dyspnea on exertion which she attributes to her known HFrEF - reports "I get winded going up the stares" [sic, stairs]. No chest pain. No wt loss reported although pt unsure re scale at home, states "battery might be dead, [inaudible] havent weighed myself in a while." Cough occasional, productive of clear sputum, longstanding, not acutely worse.
+
+ROS: + occasional heartburn (known GERD), + nocturia (BPH), denies dysuria. Gout flare last in June, resolved w/ colchicine. Denies joint pain today. Diabetes - checks sugars intermittently, reports fingersticks generally 110-160 range at home.
+
+PMH/Problem list (per chart, some entries may be outdated):
+- E11.9 Type 2 diabetes mellitus without complications
+- N40.1 Benign prostatic hyperplasia with lower urinary tract symptoms
+- M10.9 Gout, unspecified
+- K21.9 GERD
+- J45.909 Asthma, unspecified, uncomplicated
+- I50.22 Chronic systolic (congestive) heart failure
+- R91.1 Solitary pulmonary nodule (current, primary reason for visit)
+- Z87.891 Personal history of nicotine dependence (note: pt is CURRENT smoker, this code may need updating in chart, see below)
+
+Meds: metformin, lisinopril, carvedilol, furosemide, omeprazole, albuterol PRN, allopurinol, tamsulosin. Pt states she takes these "mostly regular" some missed doses when she runs out and "forgets to call the pharmacy."
+
+Allergies: NKDA
+
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.2F, SpO2 94% RA, Wt 71 kg (per prior note, not remeasured today - pt declined scale, see above)
+
+Labs/Results:
+- CBC 09/10/2023: WBC 7.1, Hgb 12.6, Hct 38.2, Plt 244
+- BMP 09/10/2023: Na 138, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 142
+- HbA1c 08/15/2023: 7.4%
+- BNP 09/10/2023: 410 (elevated, consistent w/ known HFrEF, stable per pt report)
+- CT chest low dose (outside facility) 07/2023: 8mm nodule RUL, stable in size compared to prior imaging, no new nodules identified, mild emphysematous changes noted incidentally.
+
+Exam: Alert elderly female, NAD. Lungs w/ mild expiratory wheeze bilat, no crackles, no accessory muscle use. Heart RRR, no S3 appreciated today (prior exam noted intermittent S3). Abd soft nontender. Extrem trace edema b/l. Skin warm dry.
+
+Assessment/Plan:
+1. R91.1 Solitary pulmonary nodule - stable per most recent LDCT compared to prior study, no acute change. Will continue routine surveillance imaging per prior recommendations, pt to f/u with repeat CT chest per standing schedule. Discussed nodule surveillance and general risk factors given smoking history at length today.
+ Smoking history reviewed in detail with patient - active smoker. History notable for three distinct periods: smoked three-quarters of a pack (about 15 cigarettes) per day for 18 years; then reduced to a quarter pack (about 5 cigarettes) per day for 24 years; then increased again to half a pack (about 10 cigarettes) per day for 18 years, which is her current use. Advised to quit smoking, discussed cessation resources, pt states she has "thought about it" but not ready to set a quit date today. General discussion held regarding lung cancer risk given smoking history.
+2. I50.22 HFrEF - stable, BNP mildly elevated but consistent w baseline, continue carvedilol, furosemide, lisinopril. No signs acute decompensation today, trace edema unchanged.
+3. E11.9 T2DM - A1c 7.4%, reasonable control for age, continue metformin, recheck A1c in 3 months.
+4. J45.909 Asthma - mild wheeze on exam today, continue albuterol PRN, no oral steroids needed.
+5. K21.9 GERD - stable on omeprazole, no changes.
+6. N40.1 BPH - stable, tamsulosin continued, f/u urology per their own schedule.
+7. M10.9 Gout - last flare resolved, continue allopurinol, encourage hydration.
+
+Return to clinic per pulm surveillance schedule or sooner if new symptoms develop (worsening cough, hemoptysis, unintentional wt loss, worsening dyspnea). Pt verbalized understanding of plan today, all questions answered. Time spent in visit and counseling >20 min, mostly re: smoking cessation and nodule surveillance discussion.
+
+Electronically signed: Laura Castellano, FNP-C 09/17/2023

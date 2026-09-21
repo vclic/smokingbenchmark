@@ -1,0 +1,43 @@
+OWEN FITZGERALD, MD - Primary Care
+New Patient Visit - Establish Care
+DOS: 07/05/2023
+
+Pt: Darnell King, M, 59 yo (DOB 2/17/1964)
+
+CC: Establish care, general checkup.
+
+HPI: 59 yo M w/ hx CKD stage 3 and obesity presents to establish PCP after moving into area. No acute complaints today. Reports fatigue at baseline, no SOB, no CP, no hematuria. Denies edema. Diet inconsistent, wants help w/ weight mgmt. No prior colonoscopy, due for age-appropriate screening d/w pt.
+
+PMHx: CKD stage 3 (dx ~2020, per pt report, no records avail yet), obesity.
+
+Social Hx: Tob - pt states he "tried a few cigarettes as a teenager but never smoked regularly" since then; no current use. EtOH - occasional. Illicit drugs - denies. Lives alone, works as electrician.
+
+FHx: Father - HTN, DM2. Mother - unknown hx.
+
+ROS: Const - neg wt loss/fever. CV - neg CP/palp. Resp - neg cough/SOB. GI - neg. GU - neg hematuria/dysuria. MSK - occ low back pain. Neuro - neg. Psych - neg.
+
+Vitals: BP 138/86, HR 78, RR 16, T 98.2F, Wt 245 lb, BMI 36.4, Ht 5'10"
+
+Exam: Gen - obese male, NAD. HEENT - nl. CV - RRR, no m/r/g. Resp - CTAB. Abd - soft, obese, NT/ND. Ext - no edema. Skin - nl.
+
+Problem List (ICD-10):
+1. N18.3 - CKD stage 3
+2. E66.9 - Obesity
+3. I10 - HTN (outdated, pt denies current HTN dx, will reassess)
+4. Z87.891 - Personal hx of nicotine dependence (copied fwd from prior template, appears inaccurate given hx below)
+
+Labs ordered: BMP, CBC, urinalysis w/ microalbumin, lipid panel, HbA1c.
+
+Assessment/Plan:
+- CKD stage 3: monitor renal fxn, BMP/urine studies ordered, avoid nephrotoxic agents, f/u labs in 2 wks.
+- Obesity: counseled diet/exercise, referral to nutrition considered.
+- Preventive care: lung cancer screening discussed given social hx, no further action at this time. Colonoscopy referral to be placed.
+- Tobacco: no regular use, no cessation counseling needed at this visit; reinforced healthy lifestyle.
+- RTC in 2-4 wks or sooner if issues.
+
+Owen Fitzgerald, MD
+
+---ADDENDUM (later same day, 07/05/2023)---
+Spoke w/ pt by phone re: lab draw scheduling, pt to go to lab in AM tomorrow. Also clarified problem list entry #4 (Z87.891) is outdated/erroneous - pt hx is limited to a few cigarettes as teenager only, never a regular smoker, no dependence hx. Will remove that code at next visit update. No other changes.
+
+Owen Fitzgerald, MD

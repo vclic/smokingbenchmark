@@ -1,0 +1,32 @@
+VASCULAR SURGERY NP PROGRESS NOTE
+Author: Kevin Osei, MD
+Date of Service: 06/06/2023
+
+Patient: Priya Lopez, F, DOB 6/6/1966 (age 57)
+
+HPI: Ms. Lopez presents today for follow up of peripheral artery disease. She states, "my left calf still cramps up when I walk to the mailbox and back," and reports the discomfort resolves w/ rest, consistent w/ known claudication pattern, patient denies rest pain or nonhealing ulcers she says "my feet feel about the same, maybe a little cooler at night [inaudible] but no new sores." She continues to work on walking program as tolerated, obesity and OSA limit exercise tolerance somewhat, and pt reports variable adherence to CPAP she says "I take it off most nites cuz the mask bothers me."
+
+Smoking history: 92 pack-year smoking history; patient quit smoking, quit approx 20 years ago relative to today's visit.
+
+Copied from prior note dated 4/6/2020 (smoking status as documented at that time): "Former smoker, no quantities documented at that visit."
+
+PMH/Problem List:
+- E66.9 Obesity
+- E03.9 Hypothyroidism
+- N18.3 Chronic kidney disease, stage 3
+- M19.90 Osteoarthritis, unspecified
+- G47.33 Obstructive sleep apnea
+- I73.9 Peripheral artery disease
+- I10 Hypertension (outdated entry, pt reports normotensive on current regimen, may need to be removed)
+
+Medications: Levothyroxine, atorvastatin, cilostazol, losartan (renal dosing per CKD stage 3), acetaminophen prn joint pain.
+
+Exam: BP 132/78, HR 72, BMI 34. Lower extremities w/ diminished dorsalis pedis pulses bilaterally, no ulceration, cap refill <3 sec. Skin intact, no edema.
+
+Labs/Results:
+- 06/01/2023: Creatinine 1.4 mg/dL, eGFR 48 mL/min/1.73m2
+- 06/01/2023: TSH 2.1 mIU/L (within normal limits on current levothyroxine dose)
+- 05/15/2023: Lipid panel - LDL 98 mg/dL, HDL 46 mg/dL, triglycerides 150 mg/dL
+- ABI (04/2023): 0.68 right, 0.71 left, consistent w/ mod PAD
+
+Assessment/Plan: 57 yo F w/ PAD, hx of remote heavy tobacco use (quit ~20 yrs ago, 92 pack-year total), obesity, hypothyroidism, CKD stage 3, OA, OSA. Continue cilostazol and supervised walking program. Renewed counseling regarding CPAP adherence given intermittent use, discussed importance for cardiovascular and airway health. CKD stage 3 stable, monitor labs q6mo. Lung cancer screening was discussed given remote extensive tobacco history; will revisit at future visit. F/u vascular surgery in 3 months or sooner if symptoms worsen.

@@ -1,0 +1,57 @@
+Cardiology NP Progress Note
+Patient: Darnell Robinson (M), DOB: 01/15/1962
+Date of Service: 01/15/2025
+Author: Hannah Weiss, NP
+
+CC: Chest pain evaluation.
+
+HPI: Mr. Robinson is a 63-year-old male presenting today, 01/15/2025, for evaluation of intermittent chest discomfort over the past several weeks. He describes the pain as a pressure-like sensation, sometimes radiating to the left shoulder, occurring with exertion such as walking up stairs and, uh, [inaudible] relieved with rest. He denies any current episodes today but states the pain lasted maybe five to ten minutes when it occurs there prior. No associated diaphoresis noted although he did report some knausea one time last week which he associates with skipping breakfast. He has not had any syncope or near-syncopal events. He is followed by his PCP for hypothyroidism and osteoporosis, both stable on current regimen.
+
+=== COPY-FORWARD FROM PRIOR VISIT NOTE DATED 09/12/2023 ===
+Patient here for routine follow up of hypothyroidism, TSH stable on levothyroxine 75mcg daily, no dose adjustment needed at this time, continue same. Osteoporosis- last DEXA reviewed showed T-score improvement, continue calcium/vitamin D and weight-bearing exercise as tolerated, follow up DEXA in two years per endocrinology recommendation, patient tolerating current regimen well without GI upset or other adverse effects, denies any new fractures or falls since last visit, ambulates without assistive device, reviewed fall precautions with patient and he verbalized understanding, will continue to monitor calcium levels annually, patient also due for routine bloodwork including CBC, CMP, and lipid panel prior to next visit, refill medications provided, return to clinic in 6 months or sooner if any concerns arise.
+=== END COPY-FORWARD ===
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smokeless tobacco: Not on file
+Alcohol use: Quit drinking alcohol in 2002
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: 
+Diet: Not on file
+
+Smoking History (narrative, dictated): Patient reports he started smoking one and a half packs per day at age sixteen and continued smoking at that same rate up until quitting in 2024; he quit smoking at age 62. He also mentions he vapes occasionally, sort of as a substitute he says, though he is trying to cut that out as well. He was counseled again today regarding the importance of continued abstinence from all nicotine products, including vaping, and the benefits to his cardiovascular health given his current presentation. Lung cancer screening was discussed as part of overall preventive health but no further determination was documented in this note.
+
+ROS: Cardiovascular - positive for chest discomfort as above, negative for palpitations, negative for orthopnea, negative for PND, negative for lower extremity edema. Respiratory - denies cough, denies wheeze, denies hemoptysis. Endocrine - denies heat/cold intolerance, denies significant weight change. Musculoskeletal - denies new back pain, denies joint pain. All other systems reviewed and negative except as noted in HPI.
+
+PMH: Hypothyroidism, Osteoporosis.
+PSH: None reported.
+Medications: Levothyroxine 75mcg daily, calcium/vitamin D supplement, alendronate weekly.
+Allergies: NKDA.
+
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 97% on room air, Wt 190 lbs, Ht 5'10".
+
+Physical Exam:
+General: Well-appearing male, no acute distress.
+HEENT: Normocephalic, atraumatic, no thyromegaly appreciated on palpation.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops appreciated, no jugular venous distension noted.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, pulses 2+ bilaterally, no clubbing or cyanosis.
+Skin: Warm and dry, no rashes.
+Neuro: Alert and oriented x3, no focal deficits noted.
+
+Assessment: 63-year-old male, former smoker (quit at age 62, prior history of one and a half packs per day since age 16 until 2024), presenting with exertional chest discomfort, concerning for possible cardiac etiology given his prior tobacco exposure and other cardiovascular risk factors. Differential includes stable angina versus musculoskeletal chest pain versus GERD, though the exertional pattern is somewhat suspicious for cardiac cause and will be worked up accordingly.
+
+Plan:
+1. EKG obtained in office today, reviewed, no acute ST changes noted, will compare to prior when available.
+2. Order stress test to further evaluate for inducible ischemia given symptom pattern.
+3. Basic metabolic panel and lipid panel to be drawn today.
+4. Continue current medications for hypothyroidism and osteoporosis without changes at this time.
+5. Counseled extensively on smoking cessation maintenance and cessation of occasional vaping, provided resources for support if needed.
+6. Discussed cardiovascular risk reduction strategies including diet, exercise as tolerated, and blood pressure monitoring at home.
+7. Follow up in 2 weeks with results of stress test, sooner if symptoms worsen or he develops any new chest pain at rest, shortness of breath, or other concerning symptoms.
+8. Patient verbalized understanding of plan and agreed to follow up as above.
+
+Electronically signed by Hannah Weiss, NP, 01/15/2025.

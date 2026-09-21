@@ -1,0 +1,80 @@
+URGENT CARE - TELEHEALTH NOTE
+Patient: Linda Rodriguez
+DOB: 05/13/1965 (Age: 61)
+Date of Service: 05/13/2026
+Provider: Julia Brennan, MD
+
+CHIEF COMPLAINT: Cough x several days, telehealth visit.
+
+HPI: Pt is a 61 yo female with hx of CKD stage 3, asthma, OA, HLD, and afib who presents via video visit for cough. She reports the cough started about a week ago, described as dry, worse at night, no fevers per pt though she 'felt warm' one evening. She denies chest pain, denies hemoptysis, some mild shortness of breath with exertion which she says is 'about the same as usual' given her asthma. She has been using her albuterol inhaler more frequently, up to 4x/day this past week, with some relief. No sick contacts identified, though she mentions grandkids were 'coughing and sneezing all over the place' at a recent visit. No recent travel. She takes her home meds as prescribed she believes, though she is not entirely sure of all her pill names off the top of her head, will reconcile in chart.
+
+PAST MEDICAL HISTORY:
+- Chronic kidney disease, stage 3
+- Asthma
+- Osteoarthritis
+- Hyperlipidemia
+- Atrial fibrillation
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Smoking status details: Pt reports smoking approximately half a pack (about 10 cigarettes) per day for 24 years, then increased to about 15 cigarettes per day for the next 18 years, continuing to the present. She still smokes daily and states she is not ready to quit at this time.
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+MEDICATIONS (per chart, may be outdated - pt to confirm at PCP f/u):
+- Apixaban 5 mg BID
+- Albuterol HFA inhaler PRN
+- Atorvastatin 20 mg qHS
+- Lisinopril 10 mg daily (renal dosing per nephro)
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Otherwise negative except as noted in HPI, denies sore throat denies ear pain denies sinus pressure denies GI symptoms denies dysuria the rest of systems reviewed and negative [inaudible] patient was speaking quickly during call so some portions of audio were difficult to transcribe accurately, will amend if needed.
+
+VITALS (via home cuff/pt report + video assessment):
+Temp: 99.1 F (pt reported, oral)
+HR: 88 (irregularly irregular per pt's home pulse ox, consistent with known afib)
+BP: 138/82
+RR: 18
+SpO2: 95% on room air per home pulse oximeter
+Weight: unchanged per pt
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, no acute distress, speaking in full sentences without difficulty.
+HEENT: No visible distress, no obvious rash, pt tilted camera to show throat, appeared mildly erythematous, no exudate visualized (limited view).
+Resp: Pt coughed several times during call, sounded dry/nonproductive, no audible wheeze appreciated over call audio though this is obviously limited assessment.
+Cardiac: Unable to auscultate via telehealth, pt denies palpitations today though knows she has 'the irregular heart thing.'
+Extremities: No edema reported by pt.
+
+LABS/RESULTS (recent, on file):
+05/01/2026 BMP: Creatinine 1.4 mg/dL (baseline for pt), eGFR 48 mL/min/1.73m2, K+ 4.3 mmol/L, Na 138 mmol/L
+04/15/2026 Lipid panel: LDL 112 mg/dL, HDL 48 mg/dL, TG 150 mg/dL
+03/20/2026 INR (not on anticoagulant requiring monitoring, apixaban, N/A)
+No CXR on file this visit given telehealth format.
+
+ASSESSMENT:
+1. Acute cough, likely viral URI vs asthma exacerbation, mild
+2. Asthma - stable, using rescue inhaler more frequently this week
+3. Chronic kidney disease stage 3 - stable per last labs
+4. Atrial fibrillation - on apixaban, no acute concerns voiced today
+5. Hyperlipidemia - on statin
+6. Osteoarthritis - stable, not addressed further today
+7. Tobacco use, current - counseled
+
+PLAN:
+1. Supportive care for cough - fluids, rest, honey/lozenges as tolerated given no diabetes.
+2. Continue albuterol PRN, may increase frequency short-term, follow up if worsening dyspnea, chest pain, or fever >101.
+3. If symptoms worsen or persist beyond 7-10 days, will need in-person eval with possible CXR.
+4. Counseled extensively regarding tobacco cessation resources including quitline and pharmacologic options (varenicline, nicotine replacement); pt states she is not ready to quit at this time but is willing to discuss again at future visit. Discussed general health risks of continued smoking including cardiovascular and pulmonary risk given her existing conditions. Lung cancer screening was discussed in general terms as a topic to revisit with her PCP.
+5. Continue home meds as above, will reconcile full list at next in-person visit.
+6. Routine follow up with PCP and nephrology as previously scheduled.
+7. Pt instructed to seek in-person or ED eval for any worsening shortness of breath, chest pain, or signs of infection.
+
+Time spent on visit: approximately 20 minutes, telehealth, mostly counseling and coordination of care.
+
+---
+ADDENDUM (same day, later): Spoke with pt again by phone this afternoon, she called back to clarify she does have an old CXR from 2 years ago at outside facility, unable to access records today, will request records be sent to our system. No new symptoms reported since this morning's visit. Pt again reiterated understanding of plan discussed above and will call back or go to urgent care/ED if symptoms worsen. No changes to plan otherwise. -Julia Brennan, MD

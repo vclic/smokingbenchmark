@@ -1,0 +1,50 @@
+Pulmonology Progress Note
+Date of Service: 12/01/2025
+Author: Nadia Haddad, MD
+
+Patient: Terrence Hughes, M, DOB 2/6/1968 (age 57)
+
+Reason for Visit: Lung cancer screening shared decision-making visit, referred by PCP given cardiopulmonary risk profile.
+
+HPI:
+57 yo male with hx HFrEF, afib, T2DM, osteoarthritis, osteoporosis, gout presents today for SDM discussion regarding lung cancer screening. Pt reports occasional dyspnea on exertion, attributes to known HF, denies chest pain, denies hemoptysis, denies unintentional weight loss. No cough currently. Pt asks about CT scan he heard about from a friend - discussed general concept of screening, risks/benefits, false positives, incidental findings, and radiation exposure. Further discussion to occur with PCP.
+
+PMH: HFrEF (EF ~35% per last echo), atrial fibrillation on anticoagulation, type 2 diabetes mellitus, osteoarthritis (knees), osteoporosis, gout.
+
+Meds: metoprolol succinate, apixaban, metformin, empagliflozin, allopurinol, alendronate, PRN colchicine.
+
+Social History (EHR template):
+Tobacco use: See note below
+Alcohol use: Occasional, ~1-2 drinks/wk
+Drug use: Denies
+Occupation: Retired postal worker
+Living situation: Not on file
+Exercise: Limited 2/2 dyspnea
+
+Tobacco Details (free text field): Pt states he tried a few cigarettes as a teenager but never smoked regularly - denies ever being a regular smoker, denies current use, denies vaping/e-cigs. No further quantification obtained as pt was never a regular smoker.
+
+ROS: Constitutional - no fever, no chills. Resp - mild DOE, no wheeze. Cardiac - known afib, no palpitations today. GI - denies. GU - denies. MSK - chronic knee pain stable on current regimen. Endo - denies polyuria/polydipsia.
+
+Physical Exam:
+Vitals: BP 128/76, HR 68 irregularly irregular, RR 16, SpO2 96% RA, wt stable from last visit.
+Gen: NAD, comfortable.
+CV: irregularly irregular rhythm, no murmur appreciated, no JVD.
+Resp: CTAB, no wheezes/rales/rhonchi.
+Ext: trace edema bilaterally, no clubbing/cyanosis.
+MSK: mild crepitus bilateral knees, no effusion.
+
+Labs (reviewed from recent visit): HbA1c 7.1%, Cr 1.0, BNP mildly elevated consistent with known HFrEF, INR therapeutic.
+
+Assessment/Plan:
+1. Lung cancer screening SDM - Discussed general risks/benefits of low-dose CT screening at length today, including false positives, incidental findings, and radiation exposure. Pt does not have significant personal smoking history (per social hx, only tried a few cigs as teen, never regular smoker) - this factors into overall risk discussion. Pt to follow up with PCP for further discussion.
+2. HFrEF - continue current GDMT, stable exam today, no signs decompensation. Continue metoprolol succinate, follow with cardiology.
+3. Afib - continue apixaban, rate well controlled today.
+4. T2DM - A1c improved, continue metformin/empagliflozin.
+5. Osteoarthritis - continue conservative mgmt, PT referral offered.
+6. Osteoporosis - continue alendronate, DEXA due next year.
+7. Gout - asymptomatic today, continue allopurinol.
+RTC 6 months or sooner if symptoms change. Pt verbalized understanding of screening discussion today.
+
+---
+ADDENDUM (later same day, 12/01/2025, 16:40):
+Adding for clarity after chart review discrepancy noted by nursing staff regarding tobacco field - confirmed directly with patient again by phone this afternoon. Pt reaffirms he only tried a few cigarettes as a teenager and never smoked regularly at any point in his life; no pack-year history to calculate. Documentation in social history updated accordingly. No change to today's plan. -N. Haddad, MD

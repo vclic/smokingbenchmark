@@ -1,0 +1,38 @@
+TELEHEALTH VISIT - GERIATRICS
+Patient: Maria Gonzales (F)
+DOB: 3/15/1968 (age 55)
+DOS: 3/16/2023
+Author: Hannah Weiss, NP
+
+CC: Geriatric assessment, f/u multiple chronic conditions.
+
+HPI: Pt seen via video for periodic geriatric wellness check. Reports gout flares intermittent, denies acute pain today. OSA on CPAP, compliance variable. T2DM, checks glucose home, in 120-160 range fasting. CKD stage 3 stable per last labs. OA knees, uses OTC NSAID occasionally though caution advised given CKD.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Alcohol: Not on file
+Drug use: Denies
+Living situation: Lives w/ spouse
+Occupation: Retired
+Exercise: Not on file
+
+[Copied from note dated 8/16/2021]: "Smoking status as of 8/16/2021: former smoker."
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - denies chest pain, palpitations. Resp - denies cough, dyspnea, uses CPAP nightly. GI - denies nausea, vomiting, changes in bowel habits. GU - denies dysuria, hematuria. MSK - chronic joint pain as above, denies new swelling. Neuro - denies weakness, numbness. Psych - denies depression, anxiety. Skin - denies rash. All other systems reviewed and negative.
+
+Meds: Lisinopril 10mg daily, Allopurinol 300mg daily, Metformin 500mg BID, Colchicine PRN, Atorvastatin 20mg daily, Vitamin D 1000IU daily, CPAP nightly.
+
+Exam: Gen - well-appearing, NAD. HEENT - normocephalic, atraumatic. CV - RRR, no murmurs. Lungs - CTAB. Abd - soft, NT/ND. Ext - no edema, mild crepitus bilateral knees. Skin - no lesions. Neuro - grossly intact.
+
+Assessment/Plan:
+1. CKD stage 3 - stable, recheck BMP in 3 mo.
+2. Gout - continue allopurinol, colchicine PRN.
+3. OSA - continue CPAP, reinforce adherence.
+4. T2DM - continue metformin, check A1c.
+5. OA - conservative mgmt, PT referral offered.
+6. Tobacco history - pt has an 18 pack-year smoking history; no longer smokes. General health maintenance topics, including lung health, discussed with pt.
+
+RTC 3 months or sooner if needed.
+
+--- ADDENDUM (same day, later) ---
+Additional history obtained on callback: pt clarified she quit smoking when her granddaughter was born; granddaughter now 26 years old. No change to plan above.

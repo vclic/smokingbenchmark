@@ -1,0 +1,54 @@
+CONSULTATION LETTER
+Pulmonology Associates
+Date of Service: 11/26/2023
+
+RE: Joseph Alexander, DOB: 02/26/1951 (age 72)
+Referring Physician: Dr. M. Chen, Internal Medicine
+Author: Anita Patel, MD
+
+Dear Dr. Chen,
+
+Thank you for referring Mr. Alexander, a 72-year-old male, for evaluation of an incidentally noted pulmonary nodule identified on CT abdomen/pelvis performed for unrelated indications. I saw him in follow-up today, 11/26/2023, in clinic.
+
+HPI: Mr. Alexander reports feeling generally well. He states, "I haven't had any chest pain or coughing up blood, doc." He denies fevers, chills, night sweats, or unintentional weight loss. He notes occasional morning cough which he attributes to his history of GERD and reflux-related throat clearing. No hemoptysis. He denies dyspnea at rest but endorses mild exertional breathlessness climbing more than one flight of stairs, which he feels is stable compared to prior visits. He is followed for OSA and uses CPAP nightly, per his report with good adherence. He denies any recent infections or sick contacts.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former/never - see note
+Details: Patient tried a few cigarettes as a teenager but never smoked regularly.
+Alcohol use: Occasional, socially
+Drug use: Denies
+Occupation: Retired postal worker
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+When asked directly about tobacco exposure given the nodule finding, Mr. Alexander stated, "I puffed on a few cigarettes when I was a teenager, just messing around with friends, but I never made a habit of it." He denies any regular cigarette, cigar, pipe, or e-cigarette use throughout his life. He denies occupational exposure to asbestos or other known carcinogens, though he notes some exposure to diesel exhaust during his years working near loading docks.
+
+[COPIED FORWARD FROM VISIT DATED 04/12/2022]:
+Patient here for routine follow-up of asthma and GERD. Reports doing well overall. Asthma well controlled on current regimen, uses albuterol PRN approximately 1-2x/week. No nocturnal symptoms. GERD symptoms improved with dietary modification and PPI therapy. Denies dysphagia, odynophagia, or melena. CKD stage 3 stable, followed by nephrology, most recent creatinine 1.4. Sleep study confirmed OSA, CPAP prescribed and patient adjusting well. Weight stable, continues to work on lifestyle modifications for obesity management. Discussed importance of continued adherence to CPAP and weight loss goals. Follow up in 6 months or as needed. [END COPIED TEXT]
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, weight loss, fatigue. Eyes: denies visual changes. ENT: denies sore throat, congestion. Cardiovascular: denies chest pain, palpitations, orthopnea, PND, edema. Respiratory: as above, denies wheezing, denies hemoptysis. GI: denies abdominal pain, nausea, vomiting, diarrhea, constipation, melena. GU: denies dysuria, hematuria. Musculoskeletal: denies joint pain, myalgias. Skin: denies rashes, lesions. Neurologic: denies headache, dizziness, focal weakness. Psychiatric: denies depression, anxiety. Endocrine: denies polyuria, polydipsia. Hematologic: denies easy bruising, bleeding.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 76, RR 16, SpO2 96% on room air, Temp 98.2F, Wt 232 lb, BMI 34.9. General: obese male, no acute distress, well-groomed, appropriate affect. HEENT: normocephalic, atraumatic, no oropharyngeal lesions, no lymphadenopathy. Neck: no JVD, no thyromegaly. Cardiovascular: regular rate and rhythm, no murmurs, gallops, or rubs. Respiratory: clear to auscultation bilaterally, no wheezes, rales, or rhonchi, symmetric chest expansion. Abdomen: soft, non-tender, non-distended, normal bowel sounds. Extremities: no clubbing, cyanosis, or edema. Skin: warm, dry, intact. Neurologic: alert and oriented x3, no focal deficits.
+
+PROBLEM LIST:
+1. J45.909 - Asthma, unspecified
+2. K21.9 - GERD
+3. G47.33 - Obstructive sleep apnea
+4. E66.9 - Obesity
+5. N18.3 - Chronic kidney disease, stage 3
+6. R91.1 - Solitary pulmonary nodule (new)
+7. I10 - Essential hypertension (resolved, remains on old list)
+8. E78.5 - Hyperlipidemia (outdated, per patient no longer on statin)
+
+MEDICATIONS: Albuterol HFA inhaler PRN, Fluticasone/salmeterol inhaler BID, Omeprazole 20mg daily, Losartan 50mg daily (per old list, to reconcile), CPAP therapy nightly, Vitamin D3 1000IU daily, Multivitamin daily.
+
+IMAGING: Review of outside CT chest demonstrates a 9mm solid nodule in the right upper lobe, unchanged in appearance description compared to prior imaging report language, though direct comparison images were not available at this visit.
+
+ASSESSMENT AND PLAN: Mr. Alexander is a 72-year-old male with an incidentally discovered pulmonary nodule. Given his overall low-risk smoking history, as detailed above, and imaging characteristics, we will proceed with interval surveillance imaging per Fleischner Society guidelines. We discussed the general concept of lung cancer screening programs and their role in patients with significant tobacco exposure history, and explained why his case differs. He was counseled on symptoms that should prompt earlier follow-up including hemoptysis, unexplained weight loss, or worsening dyspnea. Continue current asthma regimen. Continue GERD management with PPI, reinforce lifestyle measures. Continue CPAP adherence for OSA. CKD stage 3 to remain under nephrology follow-up. Will obtain follow-up chest imaging in approximately 6-12 months and correlate with nephrology-recommended contrast precautions given his renal function. Return to clinic sooner if new symptoms arise.
+
+Thank you again for this referral. Please do not hesitate to contact me with questions.
+
+Sincerely,
+Anita Patel, MD
+Pulmonology Associates

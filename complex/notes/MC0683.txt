@@ -1,0 +1,57 @@
+Pulmonology Progress Note
+Patient: Linda Nguyen | DOB: 08/30/1954 | Age: 71 | Sex: F
+Date of Service: 08/30/2025
+Author: Elena Markovic, MD
+
+CC: Follow-up after ED visit for COPD exacerbation.
+
+HPI: Ms. Nguyen is a 71-year-old female with history of HFrEF, obesity, gout, COPD, and CAD who presented to the ED last week with increased dyspnea, cough, and wheeze, treated with nebs, steroids, and a short course of azithromycin, now following up in clinic. She reports gradual improvement in breathing since discharge, though still with some exertional dyspnea when climbing stairs. Denies fever, chest pain, or lower extremity edema currently. Sats have been stable on home O2 prn per patient report. Patient states she has been compliant with inhalers, thou admits occasionally forgetting the evening dose [inaudible] due to fatigue.
+
+ROS: Constitutional: denies fever, chills, weight loss. Cardiovascular: denies chest pain, orthopnea, PND; reports occasional ankle swelling. Resp: cough improving, denies hemoptysis. GI: denies nausea, vomiting, diarrhea. GU: denies dysuria. MSK: chronic gout in great toe, currently stable. Neuro: denies focal weakness, numbness. Skin: no rashes. All other systems reviewed and negative except as noted above.
+
+Social History: The patient is a 71-year-old woman, date of visit 08/30/2025. She has a history of tobacco use — smoked about a quarter pack (approximately 5 cigarettes) per day from 1969 until 2006. She first quit smoking in 1996, restarted in 1998, and then quit for good in 2006; she is a former smoker and has not smoked since. Denies alcohol or illicit drug use. Lives with husband, retired schoolteacher.
+
+Physical Exam:
+Vitals: BP 132/78, HR 84, RR 18, Temp 97.8F, SpO2 92% on room air.
+General: Well-nourished, obese female in no acute distress, sitting comfortably.
+HEENT: Normocephalic, atraumatic, mucous membranes moist.
+Neck: No JVD appreciated, no lymphadenopathy.
+CV: Regular rate and rhythm, S1/S2 normal, no murmurs, gallops, or rubs; trace pedal edema bilaterally.
+Resp: Mild expiratory wheeze bilaterally, decreased breath sounds at bases, no crackles.
+Abd: Obese, soft, non-tender, non-distended, normoactive bowel sounds.
+Ext: Trace edema, no cyanosis or clubbing.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+
+Problem List:
+- J44.1 COPD with acute exacerbation (resolving)
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.9 Obesity
+- M10.9 Gout, unspecified (outdated - last flare 2019 per chart, may need review)
+- I25.10 Coronary artery disease without angina
+- Z87.891 Personal history of nicotine dependence (former smoker)
+
+Medications:
+1. Furosemide 40 mg daily
+2. Metoprolol succinate 50 mg daily
+3. Lisinopril 10 mg daily
+4. Atorvastatin 40 mg nightly
+5. Allopurinol 100 mg daily
+6. Tiotropium inhaler daily
+7. Albuterol inhaler prn
+8. Fluticasone/salmeterol inhaler BID
+9. Aspirin 81 mg daily
+10. Colchicine prn for gout flares
+
+Assessment/Plan:
+71-year-old female with COPD exacerbation, now clinically improved, plus HFrEF, obesity, gout, and CAD.
+1. COPD: Continue current inhaler regimen, complete steroid taper, pulmonary rehab referral discussed.
+2. HFrEF: Continue GDMT, monitor weights daily, follow up with cardiology.
+3. Obesity: Counseled on diet and activity as tolerated.
+4. Gout: Continue allopurinol, monitor uric acid levels.
+5. CAD: Continue aspirin and statin, no new symptoms.
+6. Tobacco: Patient is a former smoker; reinforced importance of continued abstinence. Screening for lung cancer was discussed generally but no specific plan made today.
+
+Follow-up in 4 weeks or sooner if symptoms worsen.
+
+Elena Markovic, MD

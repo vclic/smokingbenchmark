@@ -1,0 +1,91 @@
+Family Medicine Office Visit
+
+Patient: WHITE, Priya    MRN: 84054313
+DOB: 10/13/1969    Age: 55 y.o.    Sex: Female
+Date of Service: 02/24/2025    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Priya White is a 55 y.o. female who presents for diabetes follow-up.
+Most recent A1c 9.4% (previously 10.5% in October 2024). Checks fasting sugars most mornings, running 110s-160s. Denies polyuria/polydipsia. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• HFrEF
+• Hyperlipidemia	2007
+• T2DM without complication
+• Hypothyroidism
+• Mild persistent asthma
+• Current smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy (2020)
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• furosemide 20 mg daily
+• empagliflozin 10 mg daily
+• levothyroxine 75 mcg daily
+• rosuvastatin 20 mg daily
+• ezetimibe 10 mg daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+• metformin 1000 mg BID
+• spironolactone 25 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Social History Narrative
+  Lives alone in an apartment.
+  Works as a teacher.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+
+Family History
+Mother - HTN, DM2. Father - prostate cancer.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 133/74 (BP Location: Right arm, Patient Position: Sitting) | Pulse 72 | Temp 98.8 °F (Oral) | Resp 18 | Ht 5' 5" | Wt 143 lb | SpO2 95% | BMI 23.78 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Fine bibasilar crackles
+Abdominal: Benign
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (2/6/2025): A1c 9.4%, LDL 123, Cr 1.03, K 4.8, TSH 1.60
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.4% - above goal; start semaglutide 0.25 mg weekly. UACR ordered.
+2. Nicotine dependence, cigarettes, uncomplicated (F17.210)
+   Pt continues to smoke, est. 65-pack-year. Advised to quit; >4 min spent counseling. Not ready to quit at this time. Declines pharmacotherapy.
+3. HFrEF
+   Stable; continue GDMT.
+4. Hypothyroidism
+   TSH normal on last check; continue.
+
+f/u 6 mo
+
+Electronically signed by Kevin Osei, MD on 02/24/2025

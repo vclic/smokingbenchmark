@@ -1,0 +1,42 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Roger Lee | DOB: 12/01/1943 | Age: 80 | Sex: M
+Date of Service: 12/18/2023
+Author: Catherine Lindqvist, DO
+
+REASON FOR VISIT: Pre-op eval for L TKA (ortho referral, Dr. Symes)
+
+HPI: 80 yo M with h/o asthma, PAD, AFib, osteoporosis, CAD, OA presents for pre-op clearance prior to knee replacement. Pt reports knee pain "aches all the time, worse going up stairs." No CP, no palpitations currently. Denies SOB at rest. 74 pack-year smoking history noted in chart; pt states "I don't smoke anymore, haven't touched a cigarette in years." No current tobacco use reported today. Reviewed anticoag status given AFib - on apixaban, will need surgical bridging plan per ortho/cardio.
+
+--- COPIED FORWARD FROM VISIT 12/18/2020 ---
+SOCIAL HISTORY (as documented 12/18/2020): Tobacco: former smoker. Alcohol: occasional. Housing: lives w/ spouse. [Note: this block is copied forward from the 2020 encounter for reference and has not been updated.]
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (current, 12/18/2023 template):
+Tobacco use: Former smoker
+Alcohol use: Occasional, social
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Limited 2/2 knee pain
+
+PMH: Asthma, PAD, AFib, osteoporosis, CAD, OA
+MEDS: Apixaban, albuterol inh PRN, alendronate weekly, metoprolol succinate, atorvastatin
+
+LABS/RESULTS:
+12/15/2023 CBC: Hgb 13.1, Hct 39.4, Plt 210
+12/15/2023 BMP: Na 139, K 4.3, Cr 1.0, eGFR 68
+12/15/2023 INR: 1.1
+12/10/2023 EKG: AFib, rate controlled, no acute ST changes
+
+EXAM: Vitals stable, BP 132/78, HR 74 irreg irreg, RR 16, SpO2 96% RA. Lungs CTAB, no wheeze appreciated today. CV: irregularly irregular, no murmur. Ext: no edema, PAD-related skin changes noted on lower legs, pedal pulses diminished but palpable bilat.
+
+ASSESSMENT/PLAN:
+1. Pre-op clearance for TKA - cleared from cardiopulmonary standpoint, coordinate anticoag hold with cardiology given AFib on apixaban.
+2. Asthma - stable, continue albuterol PRN.
+3. PAD - continue current regimen, vascular f/u as scheduled.
+4. AFib - rate controlled, continue metoprolol, coordinate periop anticoagulation.
+5. Osteoporosis - continue alendronate.
+6. CAD - continue statin, low risk currently.
+7. Tobacco - counseled on maintaining tobacco-free status; discussed general risk reduction, screening options discussed with patient.
+
+F/u post-op or sooner if concerns.

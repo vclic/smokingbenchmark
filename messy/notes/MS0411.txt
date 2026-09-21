@@ -1,0 +1,66 @@
+VASCULAR SURGERY CONSULTATION / LETTER TO REFERRING PHYSICIAN
+Patient: Susan Wright (DOB 6/27/1947, age 76)
+Date of Service: 09/14/2023
+Author: Julia Brennan, MD
+
+Dear Dr. Patel,
+
+Thank you for referring Mrs. Wright, a 76-year-old woman with depression, HFrEF, and CKD stage 3, for evaluation of suspected peripheral artery disease.
+
+HPI: Mrs. Wright reports several months of bilateral calf discomfort with ambulation. She states, "It feels like my legs are cramping after about two blocks, and I have to stop and rest." She denies rest pain or ulceration. She notes fatigue but attributes this partly to her heart failure. She says, "I don't smoke anymore, so I don't think it's from that," when asked about risk factors.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use status: Former smoker
+ Cigarettes/day: Not on file
+ Pack description: 1.5 packs per day (historical)
+ Years smoked: Not on file
+ Age started: Not on file
+ Quit date: August 2012
+ Alcohol use: Occasional, denies excess
+ Illicit drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with spouse
+
+PAST MEDICAL HISTORY: Depression, heart failure with reduced ejection fraction (last known EF 35%), chronic kidney disease stage 3.
+
+MEDICATIONS: Carvedilol 12.5 mg BID, lisinopril 10 mg daily, furosemide 40 mg daily, sertraline 100 mg daily, atorvastatin 40 mg nightly.
+
+ALLERGIES: NKDA.
+
+[Copied forward from prior visit note dated 03/02/2023 - Cardiology follow-up]
+"Patient seen in cardiology clinic for routine HFrEF follow-up. She reports stable dyspnea on exertion, denies orthopnea or PND. Weight stable at 68 kg. Exam reveals no JVD, lungs clear, trace bilateral lower extremity edema. EF on last echo (01/15/2023) was 35%. Continue current GDMT. Renal function stable with creatinine 1.4. Follow up in 3 months, sooner if symptoms worsen. Discussed low sodium diet and daily weights. Patient tolerating medications well without hypotension or bradycardia."
+[End of copied forward text]
+
+REVIEW OF SYSTEMS: Positive for bilateral calf claudication. Negative for chest pain, palpitations, syncope, fever, weight loss. Negative for skin ulcers or non-healing wounds.
+
+PHYSICAL EXAM:
+Vitals: BP 138/78, HR 72, RR 16, SpO2 96% RA, Wt 69 kg
+General: Alert, no acute distress
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated, no JVD
+Pulmonary: Clear to auscultation bilaterally
+Extremities: Bilateral lower extremity pulses diminished at dorsalis pedis and posterior tibial, palpable femoral pulses bilaterally. No edema. Skin intact, no ulcers. Capillary refill mildly delayed.
+Neuro: Grossly intact
+
+LABS/RESULTS:
+09/14/2023 - Ankle-Brachial Index: Right 0.68, Left 0.71 (consistent with mild-moderate PAD)
+09/14/2023 - Creatinine: 1.5 mg/dL (baseline 1.4)
+09/14/2023 - eGFR: 42 mL/min/1.73m2
+09/14/2023 - BNP: 310 pg/mL
+08/20/2023 - Lipid panel: Total cholesterol 168, LDL 92, HDL 45, Triglycerides 155
+
+ASSESSMENT: 76-year-old woman with PAD confirmed by ABI testing, in the setting of HFrEF and CKD stage 3. Former smoker, quit smoking in August 2012, with a history of 1.5 packs per day tobacco use per templated social history. No longer smokes at this time, which is a favorable factor for vascular risk modification going forward.
+
+PLAN:
+1. PAD: Recommend supervised exercise therapy program. Continue statin for vascular risk reduction. Consider antiplatelet therapy; will coordinate with cardiology given current medication regimen.
+2. Given her age and prior tobacco history, discussed general vascular risk factors and lung health; screening options were discussed in general terms with the patient, deferring further workup to primary care/pulmonology as appropriate.
+3. HFrEF: Continue current GDMT per cardiology; no changes recommended today.
+4. CKD stage 3: Monitor renal function with routine labs; avoid nephrotoxic agents.
+5. Depression: Stable on current sertraline dose; no changes.
+6. Follow-up in vascular surgery clinic in 3 months, sooner if symptoms of claudication worsen or if she develops rest pain, ulceration, or color changes in the feet.
+7. Reinforced importance of not returning to tobacco use given her cardiovascular and renal comorbidities; she reports no interest in resuming smoking.
+
+Thank you for allowing me to participate in Mrs. Wright's care. Please do not hesitate to contact me with questions.
+
+Sincerely,
+Julia Brennan, MD
+Vascular Surgery

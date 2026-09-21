@@ -1,0 +1,59 @@
+Pulmonology Progress Note
+DOS: 07/21/2023
+Author: Anita Patel, MD
+
+Pt: Larry Davis, M, DOB 4/2/1970 (age 53)
+
+Reason for visit: Lung cancer screening shared decision-making visit.
+
+HPI: Mr Davis presents today for SDM visit re: lung ca screening d/t smoking hx. He reports he has smoked about 1 pack per day since 1988, has tried to cut back in past but unsuccessful. Denies hemoptysis, unintentional wt loss, chest pain. Reports occasional dyspnea on exertion which he attributes to PAD/claudication. No fevers/chills. GERD sx well controlled on current regimen, no new complaints today.
+
+***Copied forward from visit 11/03/2021 (Dr. R. Simmons, IM)***
+Pt seen for routine f/u HTN, hyperlipidemia, hypothyroidism. BP 138/86, HR 78. Cont lisinopril 20mg daily, atorvastatin 40mg qhs, levothyroxine 75mcg daily. Pt tolerating meds well no SEs reported. Labs reviewed TSH wnl lipid panel improved from prior. Counseled on diet/exercise. Pt continues to smoke, advised to quit multiple times, declines referral to cessation program at this time. Will f/u in 6 months or sooner prn.
+***end copied text***
+
+ROS: Otherwise negative except as above. No hematuria, no dysuria, no joint swelling.
+
+Social History: Pt continues to smoke despite repeated counseling on multiple visits. Denies current alcohol use, denies illicit drug use. Works as a delivery driver. Lives w/ spouse.
+
+PMH/Problem List:
+- K21.9 GERD
+- E78.5 Hyperlipidemia
+- E03.9 Hypothyroidism
+- I10 Hypertension
+- I73.9 Peripheral artery disease
+- Z87.891 Personal hx of tobacco use (outdated entry, pt is current smoker not former)
+- J45.909 Asthma (outdated, no longer active per pt, unclear why still listed)
+
+Meds: Lisinopril 20mg daily, Atorvastatin 40mg qhs, Levothyroxine 75mcg daily, Omeprazole 20mg daily, Aspirin 81mg daily, Clopidogrel 75mg daily (for PAD)
+
+Allergies: NKDA
+
+Physical Exam:
+Gen: well-appearing male, NAD
+Vitals: BP 142/88, HR 82, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb
+CV: RRR no m/r/g
+Lungs: CTAB no wheezes rales rhonchi
+Abd: soft NT ND +BS
+Ext: diminished pedal pulses bilat, no edema, skin intact
+Neuro: grossly intact
+
+Assessment/Plan:
+53 yo M w/ hx HTN, hyperlipidemia, hypothyroidism, GERD, PAD, and significant tobacco use presenting for lung cancer screening SDM visit.
+
+1. Tobacco use - pt has smoked 1 pack per day since 1988. He continues to smoke despite counseling today and on prior visits. Discussed risks/benefits of low-dose CT screening in detail, reviewed potential harms including false positives, incidental findings, radiation exposure. Screening options discussed with pt; no imaging ordered today. Strongly encouraged cessation, offered referral to tobacco cessation program again, pt again declined but agreed to reconsider. Provided pamphlet on quitline resources.
+
+2. PAD - stable on ASA/clopidogrel, cont current regimen, f/u vascular surgery as scheduled.
+
+3. HTN - BP slightly elevated today at 142/88, cont lisinopril, recheck at next visit, consider uptitration if persistently elevated.
+
+4. Hyperlipidemia - cont atorvastatin, repeat lipid panel in 6 mo.
+
+5. Hypothyroidism - cont levothyroxine, TSH stable per last check.
+
+6. GERD - well controlled on omeprazole, no changes.
+
+RTC in 3-6 months or sooner if new symptoms develop. Pt verbalized understanding of plan and agreed to f/u.
+
+Anita Patel, MD
+Pulmonology

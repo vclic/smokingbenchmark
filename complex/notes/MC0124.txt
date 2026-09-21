@@ -1,0 +1,88 @@
+Riverside Family & Internal Medicine
+History & Physical - Hospital Discharge Follow-Up
+
+Patient: John Nelson
+DOB: 1/29/1957
+Age: 66
+Date of Service: 01/29/2023
+Provider: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Mr. Nelson is a 66-year-old male who presents today for follow-up after being discharged from Riverside Medical Center on 01/24/2023 following a 4-day admission for community-acquired pneumonia. He reports significant improvement in his cough and dyspnea since discharge, though he notes ongoing mild fatigue. He completed 3 of 7 days of his oral antibiotic course (levofloxacin) and states he is tolerating it well without GI upset. No fevers, chills, or chest pain currently. He denies hemoptysis. His wife reports he is sleeping better and using his inhalers as directed. He has been resting at home and slowly increasing activity.
+
+PAST MEDICAL HISTORY (copied forward from visit dated 08/15/2022 - please review for accuracy):
+---BEGIN COPIED TEXT---
+Patient is a 65-year-old male with history of GERD, well-controlled on omeprazole; asthma, intermittent, using albuterol PRN with good symptom control; obesity, BMI 33; hypertension, stable on lisinopril; hyperlipidemia, on atorvastatin. Patient reports adherence to diet recommendations from nutrition consult in 2021. No acute complaints today. Follow-up in 6 months for routine labs and BP check. Continue current medication regimen. Patient counseled on weight loss, exercise, and low-sodium diet.
+---END COPIED TEXT---
+(Note: hypertension diagnosis above appears outdated per current problem list; CKD stage 3 diagnosis added since that visit.)
+
+SOCIAL HISTORY: Patient reports he has never smoked cigarettes. He does admit to smoking marijuana occasionally, describing it as a few times per month for relaxation and sleep, no daily use. Denies use of vaping products or other tobacco products. Occasional alcohol use, 1-2 beers on weekends. Denies illicit drug use other than marijuana as above. Married, lives with wife, retired mechanic. Ambulates independently at home.
+
+REVIEW OF SYSTEMS:
+Constitutional: Reports mild fatigue, denies fever, chills, night sweats, weight loss.
+HEENT: Denies headache, vision changes, hearing changes, sore throat.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Reports improving cough, denies current dyspnea, wheezing, hemoptysis.
+Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, abdominal pain, reports occasional heartburn well controlled with medication.
+Genitourinary: Denies dysuria, frequency, urgency, hematuria.
+Musculoskeletal: Denies joint pain, muscle weakness, back pain.
+Skin: Denies rash, lesions, pruritus.
+Neurological: Denies dizziness, numbness, tingling, weakness.
+Psychiatric: Denies depression, anxiety, sleep disturbance beyond noted improvement.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Hematologic/Lymphatic: Denies easy bruising, bleeding, swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies, hives.
+
+PHYSICAL EXAMINATION:
+Vital Signs: BP 132/78, HR 76, RR 16, Temp 98.2F, SpO2 96% on room air, Weight 224 lb, Height 5'10", BMI 32.1.
+General: Well-appearing male, no acute distress, resting comfortably.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear, no exudate.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Lungs with mild bibasilar crackles, improved from prior exam, no wheezing, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, obese habitus.
+Extremities: No edema, no cyanosis, pulses intact bilaterally.
+Skin: Warm, dry, intact, no rashes noted.
+Neurological: Alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout.
+Psychiatric: Mood and affect appropriate.
+
+PROBLEM LIST:
+1. J18.9 - Pneumonia, unspecified organism (resolving, hospitalized 01/20/2023-01/24/2023)
+2. K21.9 - GERD
+3. J45.909 - Asthma, unspecified, uncomplicated
+4. N18.3 - Chronic kidney disease, stage 3
+5. E66.9 - Obesity
+6. I10 - Essential hypertension (outdated - see note above, BP well controlled, consider removal pending confirmation)
+7. E78.5 - Hyperlipidemia
+
+LABS (reviewed from discharge, 01/24/2023):
+WBC 9.2, Hgb 13.8, Plt 240
+Creatinine 1.4 (baseline for CKD stage 3), eGFR 52
+Sodium 138, Potassium 4.2, CO2 25
+CRP trending down from 84 to 12
+
+MEDICATIONS:
+1. Levofloxacin 750mg PO daily (day 4 of 7, discharge antibiotic)
+2. Omeprazole 20mg PO daily
+3. Albuterol HFA inhaler 90mcg, 2 puffs Q4-6H PRN wheeze/SOB
+4. Fluticasone/salmeterol 250/50 1 puff BID
+5. Lisinopril 10mg PO daily
+6. Atorvastatin 40mg PO daily
+7. Multivitamin daily
+8. Acetaminophen 500mg PRN pain
+
+ASSESSMENT AND PLAN:
+John Nelson is a 66-year-old male seen today, 01/29/2023, for hospital discharge follow-up after treatment for community-acquired pneumonia. He is clinically improving with resolving crackles on exam and improving inflammatory markers. He has never smoked cigarettes, which is reassuring from a respiratory standpoint, though he does use marijuana occasionally which was discussed. Given his CKD stage 3, will monitor renal function closely, especially given recent antibiotic course.
+
+1. Pneumonia - Continue levofloxacin to complete 7-day course. Repeat chest exam in 2 weeks; will obtain chest x-ray if symptoms persist or worsen. Discussed general lung health and importance of vaccination status (pneumococcal and influenza reviewed and up to date).
+2. GERD - Continue omeprazole, stable.
+3. Asthma - Continue current inhaler regimen, well controlled currently, reinforce proper inhaler technique.
+4. CKD stage 3 - Recheck BMP in 2 weeks post-antibiotic course to ensure renal function stable. Avoid NSAIDs.
+5. Obesity - Continue to encourage weight loss through diet and exercise as tolerated during recovery.
+6. Hypertension - BP well controlled today; will reassess need for continued diagnosis coding at next visit.
+7. Social - Counseled on moderation of marijuana use given respiratory illness; discussed general pulmonary health.
+
+Follow-up in 2 weeks or sooner if symptoms worsen. Patient verbalizes understanding of plan.
+
+Electronically signed: Catherine Lindqvist, DO

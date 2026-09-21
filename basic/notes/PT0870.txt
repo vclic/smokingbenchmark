@@ -1,0 +1,88 @@
+Internal Medicine Progress Note
+
+Patient: KING, Marilyn    MRN: 81996520
+DOB: 11/16/1951    Age: 73 y.o.    Sex: Female
+Date of Service: 04/30/2025    Provider: Gregory Tan, MD
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Marilyn King is a 73 y.o. female who presents for hospital follow-up after admission for acute on chronic heart failure.
+Admitted 4/12/2025-4/17/2025 for acute on chronic heart failure. Completed antibiotics. No new symptoms since discharge.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia
+• Heart failure with reduced ejection fraction
+• Chronic kidney disease stage 3a	1996
+• Acquired hypothyroidism
+• Gastroesophageal reflux disease
+• OSA
+• Osteoarthritis of knees
+• HTN
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• ezetimibe 10 mg daily
+• multivitamin daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• torsemide 20 mg daily
+• levothyroxine 75 mcg daily
+• lisinopril 40 mg daily
+• metoprolol succinate 50 mg daily
+• pantoprazole 40 mg daily
+• chlorthalidone 12.5 mg daily
+• rosuvastatin 20 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 1 ppd x 57 years
+Social History Narrative
+  Widowed; lives with daughter.
+  Alcohol: rare.
+
+Family History
+Mother - CHF, d. age 88. Father - MI at 74.
+
+Review of Systems
+ROS: GI neg, Gen neg, GU neg, MSK neg
+
+Objective:
+Vitals:
+  BP 141/69 (BP Location: Left arm, Patient Position: Sitting) | Pulse 72 | Temp 97.8 °F (Oral) | Resp 14 | Ht 5' 8" | Wt 155 lb | SpO2 99% | BMI 23.59 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Labs (March 31, 2025): LDL 131, Cr 0.88, K 4.4, TSH 1.05
+
+Assessment & Plan
+1. Acute on chronic heart failure
+   Resolved. Med rec completed.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+3. Gastroesophageal reflux disease
+   Trial PPI step-down.
+4. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+5. Health maintenance
+   LCS: annual LDCT due - ordered.
+
+RTC 6 months.
+
+Electronically signed by Gregory Tan, MD on 04/30/2025

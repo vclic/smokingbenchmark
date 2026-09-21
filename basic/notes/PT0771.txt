@@ -1,0 +1,74 @@
+Family Medicine Progress Note
+
+Patient: BUTLER, Roger    MRN: 31297681
+DOB: 12/02/1954    Age: 69 y.o.    Sex: Male
+Date of Service: 11/15/2024    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Roger Butler is a 69 y.o. male who presents for pre-operative evaluation prior to inguinal hernia repair.
+Scheduled for inguinal hernia repair on 12/12/2024. Functional capacity limited by pain, estimated 4 METs. He has never used tobacco. No personal/family hx of anesthesia problems.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• Acquired hypothyroidism	1999
+• Essential hypertension
+• Mixed hyperlipidemia
+• Depression
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (2004)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 40 mg daily
+• atorvastatin 40 mg daily
+• chlorthalidone 12.5 mg daily
+• levothyroxine 75 mcg daily
+• sertraline 50 mg daily
+• meloxicam 7.5 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Social History Narrative
+  Lives with wife in a single-family home.
+  Retired construction worker.
+  Alcohol: rare.
+  No illicit drug use.
+
+Family History
+Father - prostate cancer.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 143/83 (BP Location: Right arm, Patient Position: Sitting) | Pulse 64 | Temp 98.7 °F (Oral) | Resp 18 | Ht 6' 1" | Wt 224 lb | SpO2 98% | BMI 29.54 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Pre-operative evaluation
+   RCRI 1. Acceptable risk. Continue home medications perioperatively.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Teresa Alvarez, NP on 11/15/2024

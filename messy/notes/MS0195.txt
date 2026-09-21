@@ -1,0 +1,53 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 04/04/2024
+Provider: Catherine Lindqvist, DO
+
+Patient: Karen Brown DOB 4/4/1966 (age 58F)
+
+CC: Establish care
+
+HPI: Ms Brown is a 58 yo female presenting to establish primary care. She has hx of depression, hypothyroidism, CKD stage 3, and PAD. Pt states "I just moved here and need a new doctor for my meds." She reports doing okay overall, denies chest pain, denies claudication worsening at this time, some fatigue noted. Regarding tobacco use, pt states "I've smoked about a quarter pack a day for 38 years, guess I should quit but its hard." She continues to smoke despite prior counseling from previous providers. Advised again today re: smoking cessation resources, nicotine replacement options, and quitline referral; pt states she will "think about it." Screening for lung cancer was discussed generally as part of preventive care conversation.
+
+ROS: Constitutional: denies fever, chills, wt loss. Eyes: no visual changes. ENT: no sore throat. CV: no chest pain, no palpitations, + hx PAD. Resp: no cough, no hemoptysis, no dyspnea at rest. GI: no nausea, vomiting, abd pain. GU: no dysuria. MSK: mild leg cramping w/ ambulation. Skin: no rashes. Neuro: no focal deficits. Psych: reports mood stable on current regimen, denies SI/HI. Endo: no polyuria polydipsia. Heme: no easy bruising. Allergic/immunologic: NKDA.
+
+PMH/Problem List:
+F32.9 Major depressive disorder, unspecified
+E03.9 Hypothyroidism, unspecified
+N18.3 CKD stage 3
+I73.9 Peripheral artery disease, unspecified
+E78.5 Hyperlipidemia, unspecified (outdated, resolved per pt)
+M54.5 Low back pain (outdated, chart carried forward)
+
+Medications:
+1. Levothyroxine 75 mcg PO daily
+2. Sertraline 100 mg PO daily
+3. Cilostazol 100 mg PO BID
+4. Atorvastatin 20 mg PO qhs
+5. Aspirin 81 mg PO daily
+6. Lisinopril 10 mg PO daily
+7. Vitamin D3 2000 IU PO daily
+
+Physical Exam:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, Wt 168 lb, BMI 27.9
+General: well-appearing female, NAD
+HEENT: NCAT, PERRL, oropharynx clear
+Neck: no thyromegaly, no LAD
+CV: RRR, no murmurs/rubs/gallops, decreased pedal pulses bilat
+Resp: CTAB, no wheeze/rales/rhonchi
+Abd: soft, nontender, nondistended, +BS
+Ext: no edema, cool distal extremities, cap refill slightly delayed toes
+Skin: no lesions
+Neuro: A&Ox3, CN II-XII grossly intact
+Psych: mood euthymic, affect appropriate
+
+Assessment/Plan:
+1. Depression - stable, continue sertraline, f/u in 3 months
+2. Hypothyroidism - continue levothyroxine, check TSH today
+3. CKD stage 3 - stable, monitor Cr/GFR, renal panel today
+4. PAD - continue cilostazol, ASA, discuss ABI testing, encourage walking program
+5. Tobacco use - counseled extensively on cessation given ongoing daily use; provided quitline info, discussed nicotine patch/gum options; pt to consider and follow up
+6. Health maintenance - routine labs ordered, immunizations reviewed, will address further preventive screening at next visit
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Catherine Lindqvist, DO

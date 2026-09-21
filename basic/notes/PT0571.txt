@@ -1,0 +1,40 @@
+PROGRESS NOTE
+Date of Service: 10-Aug-2023
+Patient: Pamela Mitchell   DOB: 1/22/1948   MRN: 54750416
+
+SUBJECTIVE:
+CC: Annual exam
+HPI: Ms. Mitchell is a 75-year-old woman with a history of h/o CVA, OSA, and T2DM who presents for routine preventive care. Doing well; here for routine preventive care. Gardening for activity. Diet is 'mostly healthy'.
+
+PMH: Prior ischemic stroke, Type 2 diabetes, OSA
+Meds: empagliflozin 10 mg daily; clopidogrel 75 mg daily; metformin 1000 mg BID
+Allergies: Shellfish
+SH: Married, lives with husband. Alcohol: rare. No IVDU.
+FH: Mother - HTN, DM2.
+ROS: GI neg, Resp neg, Neuro neg, Gen neg, GU neg, Skin neg
+
+OBJECTIVE:
+Vitals: BP: 127/63  HR: 81  RR: 18  Temp: 97.7 F  SpO2: 99% on RA  Wt: 160 lbs  BMI: 27.5
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTAB
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+
+A/P:
+1. Health maintenance: Colonoscopy 2022 - normal, repeat in 10 yrs; Mammogram 4/10/2023 - BI-RADS 1; DEXA due - ordered; Declines Shingrix; Flu shot today.
+2. Prior ischemic stroke
+   - No new deficits; continue antiplatelet.
+3. Lung cancer screening
+   - Never smoker; LCS not indicated.
+4. Type 2 diabetes
+   - Repeat A1c in 3 months. Annual eye exam reminder.
+
+Return in about 6 months (around 2/10/2024).
+
+-- QH (PA-C)

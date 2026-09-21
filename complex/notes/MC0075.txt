@@ -1,0 +1,88 @@
+VASCULAR SURGERY - HISTORY AND PHYSICAL
+Patient: Judith Jones | DOB: 04/24/1960 | Age: 65 | Sex: F
+Date of Service: 09/04/2025
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: Evaluation for peripheral artery disease (PAD), bilateral leg claudication.
+
+HPI: Ms. Jones is a 65-year-old female referred for eval of PAD given progressive bilat calf claudication x several months, worsening with ambulation, relieved w/ rest. Denies rest pain or nonhealing ulcers currently. Hx of HFrEF and osteoporosis noted, being followed by cardiology. Pt reports fatigue on exertion but attributes mostly to leg pain rather than dyspnea. No recent falls.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. I73.9 - Peripheral vascular disease, unspecified
+2. N40.0 - Benign prostatic hyperplasia (outdated - pt is female, entry likely copied in error from template, flag for correction)
+3. M81.0 - Age-related osteoporosis without current pathological fracture
+4. I50.22 - Chronic systolic (congestive) heart failure
+5. I10 - Essential hypertension (chronic, stable)
+
+MEDICATIONS:
+- Furosemide 20mg PO daily
+- Metoprolol succinate 50mg PO daily
+- Lisinopril 10mg PO daily
+- Spironolactone 12.5mg PO daily
+- Alendronate 70mg PO weekly
+- Calcium carbonate/Vitamin D3 combo tab daily
+- Atorvastatin 40mg PO qHS
+- Aspirin 81mg PO daily
+- Tamsulosin 0.4mg PO daily (copied fwd from prior chart, unclear indication - see note re: problem list error above)
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+  - Type: Cigarettes
+  - Smoking history: Pt reports smoking 1 pack per day for approximately 27 years, then decreased to about 10 cigarettes per day for the next 20 years, continuing to the present.
+  - Quit date: N/A (current smoker)
+  - Pack-years: Not on file
+Alcohol use: Occasional, denies to excess
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to claudication
+
+[Copied forward from note dated 08/04/2022, Dr. R. Alvarez, Internal Medicine - for reference only, not reflective of current status]:
+"SOCIAL HISTORY (as of 08/04/2022): Tobacco - current smoker. Alcohol - denies. Living situation - with spouse."
+
+FAMILY HISTORY: Mother - CAD, deceased age 78. Father - unknown. No known family hx of aneurysm or clotting d/o.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports fatigue.
+Eyes: Denies vision changes.
+ENT: Denies hearing loss, sore throat.
+Cardiovascular: Denies chest pain, orthopnea; +occasional lower extremity edema (chronic, stable per pt).
+Respiratory: Denies cough, hemoptysis; occasional shortness of breath with exertion, chronic, unchanged.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Reports bilat calf pain with ambulation as above; denies joint swelling.
+Skin: Denies rashes, nonhealing wounds, ulcers.
+Neuro: Denies weakness, numbness, tingling.
+Psych: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 97.8F, SpO2 96% RA, Wt 158 lbs, Ht 5'4"
+General: Well-developed, well-nourished female, NAD.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear.
+Neck: No JVD, no carotid bruits appreciated bilaterally.
+Cardiovascular: RRR, no murmurs/rubs/gallops. No peripheral cyanosis.
+Respiratory: CTAB, no wheezes/rales/rhonchi.
+Abdomen: Soft, NT/ND, no palpable pulsatile mass, no bruits.
+Extremities: Bilateral lower extremity pulses - femoral 2+, popliteal 1+, dorsalis pedis and posterior tibial nonpalpable bilaterally, Doppler signals present but diminished. Trace edema bilaterally. No ulcers or skin breakdown noted. Cap refill <3 sec.
+Neuro: Grossly intact, ambulates independently though limited by pain.
+Skin: Warm, dry, no lesions.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, bilateral lower extremities, symptomatic claudication - will obtain ankle-brachial index (ABI) testing and arterial duplex ultrasound. Consider referral to vascular lab. Started on cilostazol trial pending renal/hepatic panel; risk/benefit discussed given HFrEF (relative caution advised, will coordinate with cardiology). Supervised exercise program discussed.
+2. Tobacco use, current - counseled pt extensively regarding smoking cessation, discussed risks specific to PAD progression, limb ischemia, and cardiovascular events. Offered nicotine replacement therapy and referral to cessation program; pt to consider. Lung cancer screening discussed as an option to review further with PCP.
+3. Heart failure with reduced ejection fraction - stable, continue current cardiac meds, will defer titration to cardiology.
+4. Osteoporosis - continue alendronate, calcium/vit D; pt due for follow-up DEXA per PCP.
+5. BPH - noted on problem list; pt is female, this entry appears to be a documentation error inherited from template/import; will flag for chart correction, not clinically addressed today.
+
+Follow-up in 4 weeks with ABI/duplex results, sooner if worsening symptoms, rest pain, or new ulceration.
+
+---
+ADDENDUM (later same day, 09/04/2025, K. Osei, MD):
+Spoke further with patient by phone after visit regarding cilostazol - confirmed no hx of unstable arrhythmia additional to HFrEF diagnosis already on file. Will proceed cautiously with low starting dose per cardiology curbside consult this afternoon. Pt again encouraged re: smoking cessation resources; declined referral to formal program at this time but open to reconsidering at next visit. No other changes to plan above.

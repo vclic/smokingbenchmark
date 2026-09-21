@@ -1,0 +1,79 @@
+Primary Care Office Visit
+
+Patient: WILSON, Dale    MRN: 78448971
+DOB: 03/30/1974    Age: 51 y.o.    Sex: Male
+Date of Service: 06/30/2025    Provider: Julia Brennan, MD
+
+Chief Complaint
+Patient presents with
+• Low back pain
+
+Subjective:
+Dale Wilson is a 51 y.o. male who presents for low back pain.
+Low back pain for 4 months, worse with stairs. Twisted it stepping off a curb. Tylenol helps somewhat.
+
+Past Medical History:
+Diagnosis	Date
+• BPH with LUTS
+• Obstructive sleep apnea on CPAP
+• Class I obesity
+• CAD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2010)
+• Cataract extraction, bilateral (2012)
+• Right total knee arthroplasty (2014)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tamsulosin 0.4 mg nightly
+• clopidogrel 75 mg daily
+
+Allergies
+• Shellfish
+
+Social Hsitory
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Works as a machinist.
+  No alcohol.
+  No IVDU.
+
+Family History
+Mother - HTN, DM2. Mother - CHF, d. age 88.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 111/75 (BP Location: Right arm, Patient Position: Sitting) | Pulse 83 | Temp 97.5 °F (Oral) | Resp 18 | Ht 6' 1" | Wt 228 lb | SpO2 97% | BMI 30.08 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. BPH with LUTS
+   Nocturia x1-2; continue tamsulosin.
+3. Obstructive sleep apnea on CPAP
+   Using CPAP nightly.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 3 mo
+
+Electronically signed by Julia Brennan, MD on 06/30/2025

@@ -1,0 +1,42 @@
+Internal Medicine Progress Note
+Patient: Sharon Baker
+DOB: 3/6/1961 (age 62)
+Date of Service: 3/6/2023
+Provider: Daniel Reyes, MD (NP progress note, co-signed)
+
+CC: F/u hypertension, diabetes.
+
+HPI: Ms. Baker presents today, her 62nd birthday actually, for routine follow up of HTN and T2DM. She reports doing fairly well, states her home BP log has been running 130s/80s, occasionally spikes when she [inaudible] forgets her metoprolol dose in the AM and then takes it late afternoon which she knows is not ideal, she says fingerstick glucose readings have been in the 110-140 range fasting mostly with a few outliers over 200 after eating out at her daughters bday party last wk. Denies chest pain, denies SOB at rest, some mild exertional dyspnea which she attributes to her asthma flaring w the pollen counts this spring, using albuterol prn maybe 2x/week. No polyuria polydipsia. Reports med compliance overall good, occasionally misses evening levothyroxine dose.
+
+Social History: Patient has never smoked cigarettes, denies any tobacco use history. No vaping. Rare ETOH, socially. Denies illicit drug use.
+
+Problem List:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- J45.909 Asthma, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- M54.5 Low back pain (resolved 2019, kept on list, outdated)
+- Z87.891 Personal history of nicotine dependence (NOTE: entry appears carried forward in error, pt has never smoked, will remove at next visit)
+
+Medications: Metoprolol succinate 50mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Alendronate 70mg weekly, Albuterol HFA prn, Vitamin D3 2000IU daily, Calcium carbonate 600mg BID.
+
+Allergies: NKDA.
+
+Vitals: BP 128/78, HR 74, RR 16, Temp 98.2F, Wt 168 lb, Ht 5'4", BMI 28.8.
+
+Exam: General - well appearing woman, NAD. HEENT - PERRLA, no thyromegaly appreciated on palpation. CV - RRR, no m/r/g. Lungs - mild expiratory wheeze bilat bases, otherwise clear. Abd - soft NT/ND. Ext - no edema. Skin - no rashes.
+
+Labs (reviewed today):
+- HbA1c 3/1/2023: 7.1% (prior 7.4% on 12/1/2022)
+- Fasting glucose 3/1/2023: 118 mg/dL
+- TSH 3/1/2023: 2.1 uIU/mL (WNL)
+- Lipid panel 3/1/2023: TC 182, LDL 98, HDL 54, TG 150
+- BMP 3/1/2023: Na 140, K 4.2, Cl 102, CO2 25, BUN 16, Cr 0.8, eGFR >60
+- Bone density DEXA 1/15/2023: T-score -2.6 lumbar spine, stable from prior
+
+Assessment: 1) HTN, reasonably controlled, will continue current regimen and reinforce AM dosing. 2) T2DM, improving A1c trend, continue metformin, reinforce diet. 3) Asthma, mild intermittent sx, continue albuterol prn, consider daily inhaled steroid if worsens. 4) Osteoporosis, stable DEXA, continue alendronate/calcium/vit D. 5) Hypothyroidism, euthyroid on current dose.
+
+Plan: Recheck A1c and BMP in 3 months. Continue current meds as above, reviewed adherence with pt and she will set phone reminders for AM metoprolol and evening levothyroxine. Discussed general lung cancer screening guidelines briefly given her age, though given her reported history this was noted as not pertinent to her personal risk profile. Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizes understanding and agrees with plan.
+
+Electronically signed: Daniel Reyes, MD

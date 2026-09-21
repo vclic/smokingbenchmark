@@ -1,0 +1,43 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Curtis Wilson, M, DOB 4/7/1948 (age 75)
+DOS: 04/30/2023
+Author: Hannah Weiss, NP - Internal Medicine
+
+Dear Dr. colleague,
+
+HPI: Curtis returns for f/u of HTN and DM2. Reports fair control, occ headaches, no chest pain. BP log reviewed, mostly 130s/80s at home. No hypoglycemia episodes. Feet checked - no ulcers. OSA - uses CPAP nightly, compliant per download. OA of knees - stable, uses acetaminophen prn.
+
+SOCIAL HISTORY: Smoked 2 packs per day from 1968 until 2015; pt states he quit smoking. Quit alcohol use in 2020, denies current drinking. Lives with spouse, retired machinist.
+
+[Copied from note dated 12/30/2019]: Tobacco use: former smoker.
+
+PROBLEM LIST:
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential hypertension
+- G47.33 Obstructive sleep apnea
+- M17.9 Osteoarthritis, knee, unspecified
+- E03.9 Hypothyroidism
+- M81.0 Osteoporosis, age-related
+- Z87.891 Personal history of nicotine dependence (outdated entry, carried forward)
+
+LABS/RESULTS:
+04/28/2023 - HbA1c 7.1%, Cr 1.0, eGFR >60, TSH 2.3 (WNL on levothyroxine), Lipid panel: LDL 92, HDL 45, TG 130.
+DEXA 01/2023 - T-score -2.6 lumbar spine, on alendronate.
+
+EXAM: BP 132/78, HR 72, wt stable. Lungs clear. No edema. CPAP mask marks noted.
+
+ASSESSMENT/PLAN:
+1. HTN - continue lisinopril, recheck BP next visit.
+2. DM2 - continue metformin, A1c improved.
+3. OSA - continue CPAP, good adherence.
+4. OA knees - continue acetaminophen, consider PT referral.
+5. Hypothyroidism - stable on current dose.
+6. Osteoporosis - continue alendronate, calcium/vit D.
+7. Tobacco - pt quit smoking 3 years after his first grandchild was born, which happened in 2012; remains smoke-free. Reinforced benefits of continued abstinence. Low-dose CT lung screening was discussed as an option to consider.
+
+Will f/u in 3 months or sooner prn.
+
+Sincerely,
+Hannah Weiss, NP
+
+ADDENDUM (same day, later): Patient called back to clarify home BP log - additional readings reviewed, no change to plan above. No further issues reported.

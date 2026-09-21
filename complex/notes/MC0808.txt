@@ -1,0 +1,32 @@
+HISTORY AND PHYSICAL
+Patient: Barbara Jenkins DOB 3/8/1963 (age 63)
+Date of Service: 03/08/2026
+Author: Priya Raman, MD (Pulmonology)
+
+HPI: Ms Jenkins is a 63 yo woman s/p recent ED visit for COPD exacerbation now seen in clinic f/u. She reports improved dyspnea since discharge, still some wheeze in am. She denies fevr chills chest pain. Sats stable on room air per pt report. Med rec reviewed pt states she has been taking her inhalers as directed although admits missing a few doses [inaudible] due to schedule. She continues to have occasional cough productive of clear sputum no hemoptysis.
+
+SOCIAL HISTORY: Tried a few cigarettes as a teenager but never smoked regularly. Reports occasional marijuana use, denies other illicit drugs. No alcohol use reported today. Lives alone, uses cane for ambulation given PAD-related claudication.
+
+PMH/Problem List (per EHR, some entries outdated):
+- I73.9 Peripheral artery disease
+- I50.22 Chronic systolic (congestive) heart failure
+- K21.9 GERD
+- I25.10 Coronary artery disease w/o angina
+- N40.0 BPH without LUTS
+- J44.9 COPD, unspecified (added post d/c)
+- E78.5 Hyperlipidemia, unspecified (may be resolved, needs review)
+
+MEDICATIONS: Tiotropium inh daily, albuterol prn, furosemide 20mg daily, carvedilol, omeprazole, tamsulosin, aspirin 81mg, atorvastatin.
+
+EXAM: Vitals stable afebrile HR 78 BP 128/76 RR 18 sat 95% RA. Gen: NAD, comfortable. Lungs: mild expiratory wheeze bilat bases clear otherwise. CV: RRR no m/r/g, trace peripheral edema. Abd: soft nontender. Ext: cool distal extremities c/w known PAD, no ulcers noted today.
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, resolving - continue current inhaler regimen, f/u PFTs in 4-6 wks, reviewed inhaler technique with pt today spent extra time given prior missed doses.
+2. HFrEF - stable on current regimen, continue carvedilol and furosemide, will check BMP next visit.
+3. PAD - continue antiplatelet therapy, discussed importance of walking program as tolerated.
+4. CAD - continue statin and aspirin, no anginal symptoms today.
+5. GERD - continue omeprazole, symptoms controlled.
+6. BPH - stable on tamsulosin, no urinary retention reported.
+7. Social hx notable in that patient never smoked cigarettes regularly (tried a few as teen), so tobacco-related counseling not indicated at this visit; marijuana use noted, discussed potential respiratory irritant effects given COPD dx.
+
+F/u in pulm clinic 6 wks or sooner if worsening symptoms. Pt verbalized understanding agreed with plan.

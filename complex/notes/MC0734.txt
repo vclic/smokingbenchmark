@@ -1,0 +1,49 @@
+Urgent Care - History and Physical
+Patient: Carol Ramirez | DOB: 1/17/1954 (age 71) | Sex: F
+Date of Service: 01/17/2025
+Author: Daniel Reyes, MD
+
+CC: cough x5 days, worse at night
+
+HPI: 71 yo woman w/ hx HFrEF, HLD, osteoporosis, BPH presents to UC c/o productive cough, no fever, mild SOB on exertion baseline unchanged. Denies chest pain. Pt reports smoking a quarter pack (about 5 cigarettes) per day, has done so since 1968. Reports she had quit in 2015 but relapsed in 2016 and has smoked since. No hemoptysis. No recent travel/sick contacts.
+
+ROS: otherwise negative except as above, denies wt loss (per pt, thou clothes fitting looser lately - unclear significance).
+
+Social History (EHR template):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies excess
+Drug use: denies
+Occupation: retired
+Living situation: Not on file
+
+PMH/Problem List:
+I50.22 - Chronic systolic (congestive) heart failure - active
+E78.5 - Hyperlipidemia - active
+M81.0 - Age-related osteoporosis w/o current pathological fracture - active
+N40.1 - BPH w/ LUTS - active
+J45.909 - Asthma, unspecified - resolved/outdated, likely miscoded from childhood hx, not currently active
+
+Meds: carvedilol, furosemide, atorvastatin, tamsulosin, alendronate (per pt adherence variable)
+
+Vitals: T 98.4F, HR 84, BP 128/76, RR 18, SpO2 95% RA
+
+Exam: Gen - NAD, mild cough noted during visit. Lungs - scattered rhonchi, no wheeze, no crackles. CV - RRR, S3 present (baseline per prior echo), no new murmur. Ext - trace edema, chronic.
+
+Labs/Results:
+01/17/2025 CBC - WBC 7.8, Hgb 12.9, Plt 245
+01/17/2025 BNP - 410 pg/mL (baseline elevated per prior records)
+01/17/2025 CXR - no acute infiltrate, mild cardiomegaly unchanged from prior
+
+Assessment: Acute bronchitis, likely viral. HFrEF stable. Ongoing tobacco use, current smoker.
+
+Plan:
+1. Supportive care, hydration, cough suppressant PRN
+2. Continue HF meds as prescribed
+3. Counseled on smoking cessation, offered resources, pt not ready to quit at this time
+4. General discussion of tobacco-related health risks had with patient, encouraged follow up w PCP for ongoing health maintenance
+5. F/u with cardiology and PCP as scheduled
+6. Return to UC or ED if worsening SOB, chest pain, or fever
+
+Electronically signed: Daniel Reyes, MD 01/17/2025

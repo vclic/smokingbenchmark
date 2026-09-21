@@ -1,0 +1,39 @@
+Pulmonology Progress Note
+Patient: Leonard Wright, M, DOB 7/25/1950 (age 75)
+Date of Service: 07/25/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Mr. Wright presents today accompanied by his daughter for routine follow up of COPD, he was seen last in clinic and reports his breathing has been 'about the same', denies fevers, denies chest pain, some increase in sputum production which is whitish in color the patient's daughter states he has been using his nebulizer more frequently over teh past two weeks and [inaudible] compliance with inhalers is difficult to assess given his communication difficulties. Patient today is noted to be aphasic at baseline per family, secondary to prior stroke, and is a poor historian, unable to reliably answer yes/no questions consistently. Tobacco history unable to obtain given these communication limitations; smoking status cannot be determined at this visit.
+
+PAST MEDICAL HISTORY (copied forward from visit dated 03/12/2024): Obesity, asthma since childhood, GERD managed on PPI, hypertension, hyperlipidemia, history of CVA in 2019 with residual expressive aphasia, osteoarthritis bilateral knees. Patient reports (via family at that time) good adherence to medications. Reviewed inhaler technique with spacer device today the patient's daughter demonstrated understanding well. Continue current regiment and follow up in three months or sooner if worsening symptoms occur, immunizations up to date including pneumococcal and influenza vaccines given last fall. [End copied text 03/12/2024]
+
+REVIEW OF SYSTEMS: Limited due to aphasia; per daughter, no fevers, no chest pain, mild increase in dyspnea on exertion, no hemoptysis, no unintentional weight loss reported by family.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, Temp 98.4F, SpO2 92% on room air
+General: Obese male, non-distressed, communicates with gestures
+Lungs: Diffuse expiratory wheeze, prolonged expiratory phase, no crackles
+CV: Regular rate and rhythm, no murmurs
+Abdomen: Obese, soft, non-tender
+Extremities: No edema
+Neuro: Expressive aphasia noted, comprehension appears grossly intact, moves all extremities
+
+LABS/RESULTS:
+CBC (07/20/2025): WBC 8.2, Hgb 13.9, Hct 41.2, Plt 245
+BMP (07/20/2025): Na 138, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 104
+PFTs (06/15/2025): FEV1 58% predicted, FVC 74% predicted, FEV1/FVC ratio 0.61, consistent with moderate obstructive lung disease
+Chest X-ray (06/15/2025): Hyperinflated lungs, no acute infiltrate, no effusion
+ABG not obtained today, patient declined due to agitation with prior attempts
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable per family report - continue tiotropium and albuterol nebulizer as needed, reinforce technique with caregiver
+2. Aphasia/poor historian secondary to prior CVA - tobacco and other history unable to be reliably obtained, will attempt to obtain records from prior primary care provider for further history
+3. Obesity - discussed weight management strategies with daughter, dietary counseling reinforced
+4. Asthma - overlap with COPD, continue current inhaled therapy
+5. GERD - continue PPI, no change
+6. Discussed general risk factors and screening options relevant to age and pulmonary history in general terms with family, no specific imaging ordered today
+Follow up in three months, sooner if symptoms worsen. Daughter to call with any concerns.
+
+Electronically signed: Owen Fitzgerald, MD

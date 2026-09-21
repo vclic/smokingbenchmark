@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - Cardiology
+Patient: Raymond Schmidt, M, DOB 2/27/1957 (age 68)
+DOS: 04/24/2025
+Provider: Michael Dunn, DO
+
+CC: chest pain eval, f/u video visit
+
+HPI: Pt reports intermittent substernal chest tightness x several days, non-exertional at times, no radiation to jaw noted. Denies syncope. Hx HFrEF, COPD, GERD, BPH, gout, hyperlipidemia - all stable per pt report. No new orthopnea or PND, some mild dyspnea on exertion baseline unchanged. Took home BP readings, ranges 128-142/78-88, HR 68-82. Denies fevers chills. GERD sx well controlled on current meds, occasional burning after meals. Gout last flare ~3 months ago, none currently.
+
+=== COPIED FROM PRIOR NOTE 1/24/2022 (legacy carry-forward, not updated) ===
+SOCIAL HX (as documented 1/24/2022): Pt is a current smoker. Advised cessation counseling given at that visit. No quantities documented in that 1/24/2022 note. Pt lives alone, denies illicit drug use, occasional etoh. Family hx significant for CAD in father.
+ROS at that time: denies chest pain, denies palpitations, denies edema.
+=== END COPIED SECTION ===
+
+PMH: gout, HFrEF, GERD, BPH, hyperlipidemia, COPD
+Meds: furosemide, carvedilol, lisinopril, omeprazole, tamsulosin, atorvastatin, tiotropium inhaler, allopurinol
+Allergies: NKDA
+
+Vitals (telehealth, pt reported/home cuff): BP 134/82, HR 76, RR 16, SpO2 95% RA, wt stable per pt
+
+LABS/RESULTS:
+- BNP 04/22/2025: 410 pg/mL (elevated, baseline ~350-400)
+- BMP 04/22/2025: Na 138, K 4.1, Cr 1.1, BUN 22, Glucose 104
+- Lipid panel 03/15/2025: TC 190, LDL 108, HDL 42, TG 160
+- Uric acid 02/10/2025: 6.8 mg/dL
+- Echo 01/2025: EF 35%, mild LV dilation, no significant valve dz
+- CXR 04/22/2025: hyperinflated lungs c/w COPD, no acute infiltrate
+
+Exam: gen - NAD, alert, telehealth limited exam. CV - reg rate rhythm, no obvious distress on cam, no peripheral edema visible. Resp - pt reports mild wheeze, no acute distress observed. Abd - not assessed via telehealth. Ext - no edema per pt report.
+
+Assessment/Plan:
+1. Chest pain - likely GERD-related vs cardiac, will obtain outpt stress test, continue current cardiac meds, pt to call if worsening or radiating pain, go to ER if severe.
+2. HFrEF - stable, continue GDMT, recheck BNP in 3 mo, weight checks daily.
+3. COPD - continue tiotropium, reviewed inhaler technique verbally, pt reports occasional cough.
+4. Tobacco use - Smoking history reviewed in detail today. Pt smoked a quarter pack (about 5 cigarettes) per day for 21 years, then stopped completely for 8 years, then restarted at three-quarters of a pack (about 15 cigarettes) per day for 21 years and continues to smoke presently. Pt continues to smoke despite counseling given today regarding cessation, risks reviewed including CV and pulm risk, pt states not ready to quit at this time. Discussed lung cancer screening in general terms as part of risk discussion.
+5. GERD - continue omeprazole, avoid trigger foods.
+6. BPH - stable on tamsulosin, no new urinary sx.
+7. Gout - stable, continue allopurinol, uric acid wnl.
+8. HLD - continue atorvastatin, recheck lipids in 6 mo.
+
+F/u: 3 months or sooner if sx worsen. RTC or telehealth per pt preference.
+
+---ADDENDUM (later same day, 04/24/2025, 4:47pm)---
+Addendum: Spoke with pt again by phone re stress test scheduling logistics, pt agreeable to schedule next wk. Also clarified tobacco history above during callback - confirmed the timeline as documented is accurate per pt report (quarter pack x21 yrs, quit 8 yrs, restarted three-quarter pack x21 yrs, still smoking). No further changes to plan. Pt verbalized understanding of counseling provided.

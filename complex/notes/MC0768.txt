@@ -1,0 +1,40 @@
+GERIATRICS RESIDENT NOTE
+Author: Priya Raman, MD (resident); attending attestation below
+Date of Service: 08/22/2025
+
+Patient: Harold Green, M, DOB 04/09/1964 (age 61)
+
+HPI: Mr. Green is a 61 y/o male with hx of CKD stage 3, T2DM, osteoporosis, and BPH presenting for routine geriatric assessment. He reports doing well overall, denies falls, denies chest pain or SOB. He notes some nocturia which is stable per him, and states urinary stream 'not as strong as it use to be' but no acute retention. He and his daughter, who accompanied him, deny any new cognitive concerns although she states he 'repeats himself sometimes but nothing new really'. Pt reports he no longer smokes and has not for a very long time, this was reviewed again today given ongoing CKD management [inaudible] discussion about cardiovascular risk reduction overall.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+  - Smoking history detail: Smoked approx 1/4 pack/day (~5 cigarettes/day) x 6 years, then increased to 1 pack/day x 4 years, subsequently quit.
+  - Years since quitting: quit smoking 29 years ago
+  - Current status: Does not currently smoke
+Alcohol use: occasional, denies excess
+Illicit drug use: Not on file
+Occupation: retired
+Living situation: lives with spouse
+Exercise: Not on file
+
+ROS: Constitutional: no fever, no chills, no weight loss. Eyes: no visual changes. ENT: no hearing loss reported although pt does ask to repeat questions occasionally. CV: no chest pain, no palpitations, no edema. Resp: no cough, no dyspnea. GI: no nausea, no vomiting, denies blood in stool. GU: nocturia x1-2, no dysuria, no hematuria. MSK: mild low back stiffness in am. Skin: no rashes. Neuro: no focal weakness, no numbness. Psych: mood stable, no SI/HI. Endo: no polyuria beyond baseline, no polydipsia. Heme: no bruising, no bleeding.
+
+PHYSICAL EXAM: Vitals: BP 138/82, HR 72, RR 16, Temp 98.2F, Wt 178 lbs, Ht 5'9". General: well-appearing, NAD. HEENT: normocephalic, atraumatic, PERRLA. Neck: no LAD, no thyromegaly. CV: RRR, no murmur. Lungs: CTAB, no wheezes/rales/rhonchi. Abd: soft, NT/ND, +BS. Extremities: no edema, pulses intact. Skin: no lesions. Neuro: CN II-XII grossly intact, gait steady, no tremor.
+
+LABS/RESULTS:
+08/15/2025 - Creatinine 1.6 mg/dL (baseline), eGFR 45 mL/min/1.73m2
+08/15/2025 - HbA1c 7.2%
+08/15/2025 - PSA 1.8 ng/mL
+06/10/2025 - DEXA scan: T-score -2.6 lumbar spine
+08/15/2025 - Potassium 4.4 mmol/L
+
+MEDICATIONS: Metformin 500mg BID, Empagliflozin 10mg daily, Alendronate 70mg weekly, Tamsulosin 0.4mg qHS, Vitamin D3 2000IU daily, Calcium carbonate 600mg BID, Lisinopril 10mg daily.
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable, continue current regimen, recheck labs in 3 months.
+2. T2DM - A1c at goal, continue metformin/empagliflozin.
+3. Osteoporosis - continue alendronate, calcium, vitD.
+4. BPH - continue tamsulosin, PSA stable.
+5. Tobacco history - former smoker, quit 29 years ago per social history; given his age and prior smoking history, discussed lung cancer screening as a topic for further conversation with PCP; discussed general cardiopulmonary risk reduction, no current tobacco use so no cessation counseling needed today.
+
+Attending attestation: I have reviewed the resident's history, exam, and plan as documented above and agree with the assessment and plan. Discussed case with Dr. Raman at bedside. - Attending, Geriatrics.

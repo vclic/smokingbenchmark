@@ -1,0 +1,91 @@
+CARDIOLOGY FOLLOW-UP NOTE
+Date of Service: 05/30/2025
+Author: Catherine Lindqvist, DO (Resident) — Attending Attestation to follow
+
+Patient: Wayne Jackson
+DOB: 04/21/1954 (Age 71)
+Sex: M
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI:
+Mr Jackson is a 71-year-old male with history of heart failure, COPD, obesity, and depression, presenting today for routine f/u. He reports mild dyspnea on exertion, unchanged from prior visit, denies orthopnea or PND. He continues to smoke heavily and states he is not ready to quit at this time despite repeated counseling. No chest pain, no palpitations. Denies lower extremity edema currently, though he had mild swelling ~2 wks ago that resolved w/ increased diuretic dose. Compliant w/ meds per pt report, though pill bottle counts suggest occasional missed doses.
+
+--- COPY FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 (retained in chart, not updated) ---
+HPI (11/14/2023): Pt here for routine HF follow up, reports doing well, no acute complaints, denies chest pain SOB or edema. Continues on GDMT. Weight stable. Pt continues to smoke, counseled extensively regarding cessation, pt states he understands risks but is not interested in quitting cigarettes at this time. Appears well nourished, in no acute distress. Lungs clear to auscultation bilaterally although pt has hx of COPD. Cardiac exam reveals regular rate and rhythm, no murmurs appreciated. Plan: continue current regimen, f/u in 6 months, recheck BMP and BNP at next visit.
+--- END COPY FORWARD ---
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss
+Cardiovascular: as per HPI, denies chest pain, palpitations
+Respiratory: reports chronic cough (baseline per COPD), denies hemoptysis, denies acute SOB
+GI: denies nausea vomiting diarrhea constipation
+GU: denies dysuria frequency
+Musculoskeletal: denies joint pain
+Neuro: denies focal weakness numbness
+Psychiatric: reports depressed mood, stable on current regimen, denies SI/HI
+Skin: denies rashes
+All other systems reviewed and negative except as noted above
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+ Cigarettes: 2-3 packs per day x 55 years
+ Type: cigarettes
+ Readiness to quit: Not ready to quit
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary
+
+PAST MEDICAL HISTORY:
+1. Heart failure (reduced EF)
+2. COPD
+3. Depression
+4. Obesity
+
+MEDICATIONS:
+1. Carvedilol 25 mg BID
+2. Furosemide 40 mg daily
+3. Lisinopril 10 mg daily
+4. Spironolactone 25 mg daily
+5. Atorvastatin 40 mg daily
+6. Albuterol inhaler PRN
+7. Tiotropium inhaler daily
+8. Sertraline 100 mg daily
+9. Aspirin 81 mg daily
+10. Metformin 500 mg BID (for prediabetes)
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 18, O2 sat 94% on room air, Wt 245 lbs, BMI 36
+General: obese male, no acute distress, breathing comfortably
+HEENT: normocephalic atraumatic, no JVD noted at 30 degrees
+Cardiovascular: RRR, S1 S2 normal, no S3 or S4 appreciated, no murmurs rubs or gallops
+Respiratory: mildly diminished breath sounds bilaterally, occasional expiratory wheeze, no crackles
+Abdomen: soft, obese, nontender, nondistended, no hepatomegaly appreciated
+Extremities: no lower extremity edema, pulses 2+ bilaterally
+Skin: warm dry intact
+Neuro: alert oriented x3, no focal deficits
+
+LABS (reviewed from recent draw):
+BNP: 410 (improved from prior)
+BMP: within normal limits
+A1c: 6.1%
+
+ASSESSMENT/PLAN:
+71 yo male with HFrEF, COPD, obesity, depression, longstanding heavy tobacco use (2-3 ppd x 55 yrs, current smoker not ready to quit) here for routine f/u.
+
+1. Heart failure - clinically stable, BNP trending down, continue current GDMT as above, recheck weights daily, follow low sodium diet
+2. COPD - stable on current inhalers, continue tiotropium and albuterol PRN, breath sounds diminished but no acute exacerbation signs today
+3. Tobacco use - patient continues to smoke 2-3 packs/day, has done so for 55 years total; extensive counseling again provided regarding cardiopulmonary risks of continued smoking; patient verbalizes understanding but reiterates he is not ready to quit at this time; offered resources including nicotine replacement and cessation counseling referral, pt declined for now; will continue to readdress at future visits; discussed general lung cancer risk factors and screening guidelines in broad terms per usual practice
+4. Depression - stable on sertraline, continue current dose, no SI/HI today
+5. Obesity - discussed diet and exercise, pt sedentary, encouraged gradual increase in activity as tolerated given cardiopulmonary limitations
+6. Health maintenance - influenza and pneumococcal vaccination status reviewed, up to date per record
+
+Follow up in 3 months or sooner if symptoms worsen. Pt educated on when to seek urgent care (worsening SOB, weight gain >3 lbs in 2 days, chest pain).
+
+Time spent: 25 minutes, >50% spent in counseling and coordination of care.
+
+---
+ATTESTATION: I have personally seen and evaluated the patient along with the resident, Dr. Lindqvist. I discussed the case with the resident and agree with the findings and plan as documented above.
+— Attending Cardiologist

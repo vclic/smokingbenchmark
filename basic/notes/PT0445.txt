@@ -1,0 +1,39 @@
+Primary Care Clinic Note
+Date of Service: 12/1/2023
+Patient: Dennis Walker   DOB: 6/25/1970   MRN: 73645936
+
+S:
+CC: f/u DM2
+HPI: 53 yo M w/ BPH, HLD, T2DM here for diabetes follow-up. Most recent A1c 8.4% (previously 8.4% in July 2023). Rarely checks glucose at home. One episode of shakiness relieved with juice. No numbness or tingling.
+
+PMH: T2DM, BPH, HLD
+PSH: Vasectomy (2011)
+Meds: vitamin D3 2000 IU daily; finasteride 5 mg daily; tamsulosin 0.4 mg nightly; empagliflozin 10 mg daily; atorvastatin 40 mg daily; metformin 1000 mg BID
+Allergies: Codeine (nausea)
+SH: Lives with wife in a single-family home. Works as a machinist. Tobacco: never. Alcohol: rare. No IVDU.
+FH: Sister - hypothyroidism. Mother - osteoporosis, hip fracture.
+ROS: CV neg, Neuro neg, Skin neg, GI neg, Gen neg, MSK neg
+
+O:
+Vitals: BP: 108/76  HR: 63  RR: 20  Temp: 98.7 F  SpO2: 97% on RA  Wt: 145 lbs  BMI: 23.4
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+Labs (2023-11-26): A1c 8.4%, LDL 136, Cr 0.93, K 4.0
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 8.4% - above goal; start semaglutide 0.25 mg weekly. UACR ordered.
+2. Hypercholesterolemia: Continue statin. Lipid panel due.
+3. BPH with LUTS: Nocturia x1-2; continue tamsulosin.
+4. Health maintenance: Lung cancer screening: not indicated (never smoker).
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Laura Castellano, FNP-C on 12/1/2023 at 08:27

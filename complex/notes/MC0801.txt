@@ -1,0 +1,77 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+Author: Nadia Haddad, MD
+Date of Service: 02/12/2023
+
+Patient: Dale Scott (M) | DOB: 02/12/1944 | Age: 79
+
+CHIEF COMPLAINT: Follow-up peripheral artery disease, bilateral lower extremity claudication.
+
+HPI: Mr. Scott is a 79-year-old male, DOB 2/12/1944, presenting today, on his birthday no less, for reevaluation of PAD. He states the calf cramping with ambulation has been, uh, about the same, maybe slightly wurse when he walks the dog to the mailbox and back which he says is 'bout two hundred yards give or take.' He denies rest pain, denies new ulcerations of the feet, denies discoloration. Wife reports he's been more short of breath but that could be [inaudible] related to his asthma flaring with the cold weather we've been having so its hard to say weather that's cardiac or pulmonary in origin. He takes his aspirin and cilostazol as prescribed, mostly, though he admits missing a dose here or their. No chest pain, no syncope, no palpitations though he does have known Afib on rate control.
+
+PAST MEDICAL HISTORY:
+- GERD
+- Chronic kidney disease stage 3
+- Asthma
+- Atrial fibrillation (on anticoagulation)
+- Peripheral artery disease
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker. Patient reports he is a lifelong non-smoker.
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, 1-2 beers/wk per pt report
+Drug use: denies
+Occupation: retired machinist
+Living situation: lives with spouse
+Exercise: limited by claudication
+Diet: Not on file
+
+MEDICATIONS:
+- Aspirin 81 mg daily
+- Cilostazol 100 mg BID
+- Apixaban 5 mg BID
+- Omeprazole 20 mg daily
+- Albuterol inhaler PRN
+- Metoprolol succinate 50 mg daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Positive for bilateral calf claudication as above and mild dyspnea on exertion. Negative for chest pain, fevers, weight loss, hemoptysis. Denies leg swelling. Denies numbness or tingling in feet though he does note his toes get cold easy in the winter which he says has always been the case even before any of this vascular stuff started.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregularly irregular, RR 16, SpO2 95% on room air, Temp 98.2F, Wt 189 lb
+General: Well-appearing elderly male, no acute distress.
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated.
+Pulmonary: Mild expiratory wheeze bilaterally, no crackles.
+Abdomen: Soft, nontender, no bruits auscultated over aorta though this can be difficult to appreciate in [inaudible] body habitus.
+Extremities: Bilateral lower extremities without edema. Femoral pulses palpable bilaterally. Popliteal pulses diminished. Dorsalis pedis and posterior tibial pulses faintly palpable bilaterally by Doppler. Skin warm, no ulcerations, no gangrene. Hair loss noted on bilateral shins consistent with chronic ischemic changes. Capillary refill <3 seconds.
+
+LABS (reviewed from 02/10/2023):
+Creatinine 1.6 mg/dL (baseline for pt given CKD stage 3)
+eGFR 42
+Hgb A1c 5.8%
+Lipid panel: LDL 98, HDL 41, TG 150
+INR not applicable (on apixaban)
+
+IMAGING: Prior ABI study from 11/2022 showed moderate PAD bilaterally, right ABI 0.68, left ABI 0.71.
+
+ASSESSMENT:
+1. Peripheral artery disease, symptomatic, stable claudication symptoms since last visit.
+2. Atrial fibrillation, on anticoagulation, rate appears controlled today.
+3. Asthma, possibly contributing to reported dyspnea, will coordinate with pulmonology.
+4. CKD stage 3, stable per recent labs.
+5. GERD, stable on current regimen.
+
+PLAN:
+- Continue cilostazol and aspirin for PAD.
+- Continue apixaban for AFib, no changes today.
+- Supervised exercise therapy program discussed with patient, referral placed.
+- Repeat ABI in 6 months or sooner if symptoms worsen.
+- Discussed general vascular risk factor modification including blood pressure control, lipid management, and glycemic control.
+- Given his lifelong non-smoker status, standard lung cancer screening counseling regarding tobacco cessation was not applicable; screening candidacy itself was not addressed at this visit.
+- Follow up with pulmonology re: asthma control and reported dyspnea.
+- Continue omeprazole for GERD.
+- Renal function to be rechecked in 3 months given CKD stage 3.
+- Return to vascular surgery clinic in 6 months, sooner if worsening claudication, rest pain, or non-healing wounds develop.
+- Patient verbalized understanding of plan, questions answered, will follow up as above.
+
+Electronically signed by Nadia Haddad, MD, 02/12/2023.

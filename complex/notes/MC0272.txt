@@ -1,0 +1,32 @@
+Geriatrics Progress Note
+DOS: 05/11/2025
+Author: Quentin Hale, PA-C
+
+Pt: Marilyn Novak, F, age 56 (DOB 1/6/1969)
+
+HPI: Pt presents for geriatric assessment, referred for f/u of multiple chronic conditions incl COPD, gout, PAD, HTN, hypothyroidism. Reports stable breathing today, no acute SOB, denies chest pain. Cont's inhalers as prescribed. Gout flare-free x several mo. PAD - c/o mild claudication w/ prolonged walking, otherwise stable. No new complaints regarding thyroid sx.
+
+Social History: Pt lives alone, independent w/ ADLs. Denies current alcohol use - quit drinking etoh in 2012. Diet reviewed, low-sodium encouraged given HTN.
+
+Tobacco Use (EHR templated block):
+  - Smoking status: Former smoker
+  - Hx: smoked approx 1/2 pack/day (~10 cigs/day) x 11 yrs, then increased to 1.5 packs/day x 16 yrs
+  - Quit date/year: 2012
+  - Current use: none
+  - Counseling: pt praised for maintaining cessation, encouraged continued abstinence
+
+ROS: otherwise negative except as above, denies fevers, chills, wt loss.
+
+Exam: Vitals stable, BP 132/78, HR 76, RR 16, SpO2 94% RA. Lungs w/ mild expiratory wheeze bilat, no crackles. CV RRR no m/r/g. Ext: no edema, PAD-related skin changes noted on b/l lower ext, pulses diminished but palpable. Gout - no active joint swelling today.
+
+Assessment/Plan:
+1. COPD - stable, cont current inhaler regimen, reviewed inhaler technique, given pt's extensive prior smoking hx (quit smoking 2012 after yrs of heavy use) will cont monitoring pulm fxn. Lung cancer screening was discussed w/ pt given her smoking hx; she will consider and follow up.
+2. Gout - no flare, cont allopurinol, recheck uric acid at next visit.
+3. PAD - stable claudication sx, cont antiplatelet, ABI to be repeated in 6 mo.
+4. HTN - well controlled, cont current antihypertensive regimen.
+5. Hypothyroidism - stable on levothyroxine, TSH wnl per last labs.
+6. Health maintenance - immunizations UTD, pt counseled on fall risk given age, home safety reviewed.
+
+Pt verbalizes understanding of plan, will f/u in 3 mo or sooner prn.
+
+-Quentin Hale, PA-C

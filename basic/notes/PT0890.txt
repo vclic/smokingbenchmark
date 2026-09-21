@@ -1,0 +1,73 @@
+Primary Care Office Visit
+
+Patient: HENDERSON, Harold    MRN: 64622615
+DOB: 01/28/1974    Age: 50 y.o.    Sex: Male
+Date of Service: 03/19/2024    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Harold Henderson is a 50 y.o. male who presents for hospital follow-up after admission for symptomatic anemia.
+Admitted March 7, 2024-3/9/24 for symptomatic anemia. Still fatigued but improving. Using walker at home.
+
+Past Medical History:
+Diagnosis	Date
+• Hypercholesterolemia
+• Type 2 diabetes
+• Essential hypertension
+• Former smoker
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 20 mg daily
+• empagliflozin 10 mg daily
+• metformin 1000 mg BID
+• ezetimibe 10 mg daily
+• amlodipine 10 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never
+• Tobacco comments: .5 ppd x 24yrs; smoke-free x 5 yrs
+Social History Narrative
+  Lives with wife and adult son.
+  Works as a teacher.
+  Alcohol: rare.
+  Denies illicit drugs.
+
+Family History
+Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 125/78 (BP Location: Left arm, Patient Position: Sitting) | Pulse 86 | Temp 98.8 °F (Oral) | Resp 20 | Ht 5' 9" | Wt 171 lb | SpO2 100% | BMI 25.29 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Symptomatic anemia
+   Improving; reviewed discharge summary and meds. Repeat labs in 1 week.
+2. Essential hypertension
+   Well controlled on home log. No changes.
+
+f/u 3 mo
+
+Electronically signed by Hannah Weiss, NP on 03/19/2024

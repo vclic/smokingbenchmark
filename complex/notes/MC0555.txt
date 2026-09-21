@@ -1,0 +1,66 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Isaac Moreno, PA-C
+Date of Service: 04/16/2023
+Visit type: New patient visit to establish care - Primary Care
+
+PATIENT: Larry Lee (M) DOB 04/16/1948 Age: 75
+
+CC: Establish care, general checkup, med refills
+
+HPI: Mr Lee is a 75 yo male presenting today to establish care w/ our clinic after moving from out of state. Reports hx of osteoporosis and depression, both stable per pt report. No new complaints of fx or falls. Mood described as 'okay, some good days some bad days.' Denies SI/HI. Sleep fair, appetite fair. Pt states he has not had labs drawn in over a yr and wants to get updated w up to date bloodwork.
+
+PMH: Osteoporosis (dx approx 10 yrs ago per pt, on treatment), Depression (on SSRI per pt report, needs med rec)
+PSH: none reported
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount/History: Pt reports smoking a quarter pack (about 5 cigarettes) per day since 1963, continuing to present.
+Readiness to quit: Not ready to quit at this time
+Quit date: 5/5/2023 (patient states he has set this date to attempt cessation, though currently continues to smoke)
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: retired
+Living situation: lives alone
+Exercise: Not on file
+
+Note: pt continues to smoke daily at this visit; counseled extensively regarding cessation benefits, offered nicotine replacement and referral to quitline, pt open to resources but reiterates he is not ready to fully quit today, though he references the above quit date as a goal.
+
+ROS: Constitutional - denies fever chills wt loss. Resp - denies cough SOB hemoptysis. Cardiac - denies CP palpitations. GI - denies n/v/d. GU - denies dysuria. MSK - reports mild low back ache, no acute fx sx. Psych - endorses depressed mood, denies SI. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78 HR 76 RR 16 Temp 98.2F SpO2 97% RA Wt 168 lb Ht 5'9"
+Gen: NAD, well groomed, cooperative
+HEENT: NCAT, PERRL, oropharynx clear
+Neck: supple no LAD no thyromegaly
+Lungs: CTAB no wheezes rales rhonchi
+CV: RRR no m/r/g
+Abd: soft NT ND +BS
+MSK: no kyphosis noted, gait steady, no tenderness spine
+Skin: no rashes
+Neuro: A&Ox3, CN II-XII grossly intact
+Psych: mood mildly dysphoric, affect appropriate, thought process linear
+
+LABS/RESULTS (drawn today 04/16/2023, some pending):
+CBC: WBC 6.8, Hgb 14.1, Hct 41.5%, Plt 210
+CMP: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glu 98, Ca 9.4
+Lipid panel (fasting): Total chol 188, LDL 112, HDL 46, Trig 150
+TSH: 2.1 (pending confirmatory if abnormal sx develop)
+Vitamin D 25-OH: 24 ng/mL (low, drawn 04/16/2023)
+DEXA scan: last on file dated 2021, T-score -2.6 lumbar spine, results reviewed, pt due for repeat
+HgbA1c: 5.6%
+
+ASSESSMENT/PLAN:
+1. Osteoporosis - continue current tx, will obtain updated DEXA order, recheck vit D given low level, calcium/vit D supplementation encouraged, f/u results in 2-4 wks.
+2. Depression - stable per pt, will obtain records from prior provider re: current SSRI dose, continue present regimen pending records, safety plan reviewed, f/u in 4 wks or sooner prn.
+3. Tobacco use, current, everyday smoker since 1963 - patient counseled on cessation, states not ready to quit currently despite having identified a quit date of 5/5/2023; offered NRT and quitline referral, pt declines meds today, will readdress at next visit. Screening options for lung ca were discussed generally with pt given hx.
+4. Health maintenance - due for routine labs (completed today), will discuss colon ca screening, immunizations reviewed and updated per protocol, pt due for shingles vaccine series.
+5. Follow up - RTC 4 wks for med rec and labs review, sooner if any concerns.
+
+Pt verbalized understanding and agreement with plan above teach back performed.
+
+ATTESTATION: I have personally reviewed and examined pt with the resident/PA and agree with the documented findings assessment and plan as above. - Attending physician (electronically co-signed)
+
+[end of note, some fields intentionally left blank per template, e.g. exercise field 'Not on file' pending further hx]

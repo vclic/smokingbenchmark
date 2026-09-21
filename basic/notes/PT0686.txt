@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 11/03/2023
+Patient: Dennis Chen   DOB: 10/14/1965   MRN: 15886648
+
+S:
+CC: 3 month follow-up
+HPI: Mr. Chen is a 58 year old male with a history of T2DM, OSA, HTN, and HLD who presents for routine follow-up of chronic conditions. No new concerns. Ran out of one medication last week.
+
+PMH: Type 2 diabetes, Hypertension, Obstructive sleep apnea on CPAP, Hyperlipidemia, Nicotine dependence, cigarettes (F17.210)
+PSH: Rotator cuff repair (2021)
+Meds: empagliflozin 10 mg daily; losartan 50 mg daily; rosuvastatin 10 mg daily; metformin 1000 mg BID
+Allergies: Shellfish
+Social History:
+- Divorced, lives alone.
+- Retired, former engineer.
+- Social drinker.
+FH: Sister - hypothyroidism.
+Review of systems negative except as above.
+
+O:
+Vitals: BP: 144/89  HR: 89  RR: 20  Temp: 98.8 F  SpO2: 98% on RA  Wt: 171 lbs  BMI: 23.8
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes
+   - UACR ordered.
+2. Hyperlipidemia: Continue statin. Lipid panel due.
+3. Hypertension: Elevated today; home BP log requested.
+4. Cigarette smoker
+   - Smoking hx: 1½ppd x 35-40 yrs. Brief cessation counseling provided (5 min). He is contemplating quitting. Declines pharmacotherapy.
+
+RTC 3 months.
+
+Seen and discussed with resident Dr. Nguyen. I personally saw and examined the patient and agree with the findings and plan as documented.
+Kevin Osei, MD

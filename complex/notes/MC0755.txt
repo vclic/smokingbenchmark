@@ -1,0 +1,43 @@
+NURSE INTAKE - Family Medicine
+Date of Service: 03/10/2025
+Patient: Janet Lewis, DOB 03/10/1965, F, Age: 60
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 165 lb, Ht 64in, BMI 28.3
+Chief complaint: annual wellness visit
+Allergies: NKDA
+Medications reviewed with patient today: albuterol HFA inhaler PRN, fluticasone/salmeterol 250/50 BID, tamsulosin 0.4mg qHS, finasteride 5mg daily, montelukast 10mg daily, multivitamin daily, vitamin D3 2000 IU daily, low-dose aspirin 81mg daily, calcium carbonate PRN, occasional ibuprofen for joint aches.
+Review of Systems: Constitutional - denies fever, chills, unintentional weight loss. HEENT - denies vision changes, hearing loss, sinus congestion. Cardiovascular - denies chest pain, palpitations, orthopnea, PND, edema. Respiratory - denies acute cough or hemoptysis, chronic wheeze managed with inhalers, no recent exacerbation. GI - denies nausea, vomiting, diarrhea, constipation, blood in stool. GU - reports nocturia x2, known BPH, denies dysuria or hematuria. Musculoskeletal - denies joint swelling, occasional low back stiffness. Neuro - denies headache, dizziness, numbness. Psych - denies depression, anxiety, sleep well most nights. Skin - denies rash or new lesions. Endocrine - denies polyuria/polydipsia. All other systems reviewed and negative.
+
+[COPY-FORWARD FROM PRIOR VISIT DATED 09/15/2023 - retained in chart, may be outdated]
+HPI: Patient here today for f/u of asthma and BPH, doing fairly well overall, uses rescue inhaler maybe once a week, denies nocturnal awakenings from wheeze, BPH sx stable on tamsulosin, denies hesitancy or dribbling currently, prostate exam deferred as recently done by urology in 2022 showed no concerning findings, will continue current regimen and follow up in 6 months or sooner if symptoms worsen, discussed importance of medication compliance and pt verbalized understanding, no new complaints today, pt denies chest pain SOB or palpitations, reviewed vaccination status UTD per records, pt tolerating current meds well without side effects reported.
+[END COPY-FORWARD]
+
+PHYSICAL EXAM (today, 03/10/2025):
+General: well-appearing woman, no acute distress, sitting comfortably on exam table.
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear, no exudate.
+Neck: supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: regular rate and rhythm, no murmurs, rubs, or gallops, no JVD.
+Respiratory: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, good air movement bilaterally.
+Abdomen: soft, non-tender, non-distended, bowel sounds normal, no organomegaly.
+Extremities: no edema, pulses 2+ symmetric.
+Skin: warm, dry, no rashes or lesions noted.
+Neuro: alert and oriented x3, cranial nerves grossly intact, gait steady.
+
+PROBLEM LIST:
+1. Asthma, mild persistent, J45.30
+2. Benign prostatic hyperplasia (male-typical dx code left on legacy chart in error) N40.1 [outdated entry, retained per EHR migration, disregard - pt is female with h/o BPH-like urinary sx per urology eval, chart flagged for cleanup]
+3. Tobacco use disorder Z72.0
+4. Hyperlipidemia, controlled, E78.5
+5. Vitamin D deficiency, resolved, E55.9
+
+PROGRESS NOTE - Gregory Tan, MD
+Seen and examined the patient today, 03/10/2025, for her annual wellness visit. Janet Lewis is a 60-year-old (DOB 3/10/1965) female with history of asthma and BPH-type urinary symptoms who presents today for routine preventive care. She reports doing reasonably well, using her rescue inhaler intermittently, denies any acute respiratory distress, and her urinary symptoms remain stable on tamsulosin. She [inaudible] mentioned some knee discomfort after gardening this weekend, no swelling noted on exam, likely mechanical in nature, advised rest and OTC analgesics as needed. We're gonna, uh, continue her current regimen and she'll folllow up as scheduled, she denies any new falls trips or balance issues sense her last visit.
+
+Assessment and Plan:
+1. Asthma, mild persistent - well controlled on current combination inhaler, continue fluticasone/salmeterol BID and albuterol PRN, reviewed inhaler technique today.
+2. BPH-type urinary symptoms - stable on tamsulosin and finasteride, continue current dosing, will recheck symptoms at next visit.
+3. Tobacco use - smoking history reviewed in detail today: patient reports smoking approximately a quarter pack (about 5 cigarettes) per day for 18 years, then quit completely for 3 years, after which she restarted smoking at approximately half a pack (about 10 cigarettes) per day for the past 19 years and continues to smoke at this level currently. She continues to smoke despite repeated counseling on cessation, risks discussed at length including cardiovascular and pulmonary disease, lung cancer screening was discussed conceptually as an option to bring up with her PCP over time, she was provided with cessation resources and offered pharmacologic aids including varenicline and nicotine replacement, she remains ambivalent about quitting at this time but agreed to think it over.
+4. Hyperlipidemia - controlled on current management, diet and exercise reinforced.
+5. Health maintenance - mammogram, colonoscopy, and immunizations reviewed and updated as appropriate, bone density screening discussed given age.
+Return to clinic in 12 months or sooner as needed.
+
+Electronically signed: Gregory Tan, MD

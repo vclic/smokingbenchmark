@@ -1,0 +1,38 @@
+Encounter Date: 10/09/2024
+Patient: Carol Foster, F, DOB 10/09/1965 (age 59)
+Provider: Teresa Alvarez, NP
+Visit type: New patient, establish care
+
+HPI: Pt is a 59 yo female presenting to establish primary care. Hx of asthma, COPD, OA, GERD per pt report; no prior records available at this visit. Reports intermittent wheeze, worse with exertion and cold air. Uses albuterol inhaler PRN, says helps somewhat. Denies fever, chest pain, hemoptysis. Chronic knee pain, OA-related, managed w/ OTC NSAIDs. GERD sx well controlled on OTC omeprazole. No new complaints today. Here mainly to get established and refill meds.
+
+ROS: Resp - chronic cough, occasional SOB. GI - occasional heartburn. MSK - bilateral knee pain, chronic. All else negative per pt.
+
+Social History: Lives alone, retired admin assistant. Denies EtOH excess. Denies illicit drug use. Smoking status: Never Smoker [outdated template field - this is incorrect, see note below]. Pt states this field is wrong - she has smoked for many years and continues to smoke currently. Encouraged to update chart.
+
+Physical Exam:
+Vitals: BP 132/78, HR 78, RR 16, SpO2 95% RA, Temp 98.2F, BMI 29
+Gen: NAD, well-appearing, conversant
+HEENT: NC/AT, EOMI, oropharynx clear
+Lungs: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: mild crepitus b/l knees, no effusion, no edema
+
+Problem List (ICD-10):
+- J45.909 Asthma, unspecified - active
+- J44.9 COPD, unspecified - active
+- M19.90 Osteoarthritis, unspecified site - active
+- K21.9 GERD without esophagitis - active
+- Z87.891 Personal history of nicotine dependence - outdated entry, does not reflect current use
+
+Assessment/Plan:
+1. Asthma/COPD overlap - stable today on exam, continue albuterol PRN. Consider pulm referral for PFTs given overlapping dx and long smoking hx.
+ Smoking: Pt reports smoking history of 43 years duration. Continues to smoke despite counseling today regarding cessation - discussed risks including COPD progression, cardiovascular disease, and lung cancer risk. Discussed lung cancer screening as a topic for future visits pending further review of smoking history details; declined to pursue further today. Counseled again on quitting, offered resources including nicotine replacement therapy and referral to quitline; pt states not ready to quit at this time. Will readdress at next visit.
+2. GERD - stable, continue OTC PPI, reinforced lifestyle modifications (avoid late meals, elevate HOB).
+3. Osteoarthritis, bilateral knees - stable, continue APAP/NSAID as needed, discussed weight-bearing exercise as tolerated, PT referral offered if worsens.
+4. Health maintenance - due for age-appropriate cancer screening, labs ordered incl CBC, CMP, lipid panel, HbA1c. Will update immunizations at next visit.
+5. Chart correction needed - Smoking status field in EHR incorrectly lists 'Never Smoker'; corrected in this note, will follow up with staff to update template field.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Teresa Alvarez, NP

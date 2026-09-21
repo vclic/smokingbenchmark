@@ -1,0 +1,52 @@
+TELEHEALTH VISIT NOTE
+Patient: Rita Walker | DOB: 3/12/1969 | Age: 55 | Sex: F
+DOS: 12/02/2024
+Provider: Owen Fitzgerald, MD (Internal Medicine)
+
+CHIEF COMPLAINT: F/u HTN, DM2, telehealth.
+
+HPI: Pt is a 55 yo woman with hx HTN, DM2, hypothyroidism, PAD, HLD, depression presenting for routine f/u by video visit. She reports BG logs mostly 110-160 fasting, occasional highs to 200s after "holiday food." Denies chest pain, SOB, claudication worsening. States "I've been walking most days, feels okay unless I go too far." Mood stable on current antidepressant, sleep fair. No new leg ulcers or skin changes noted on self-exam via camera. Med compliance reportedly good, occasionally misses evening metformin dose.
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE]
+  Status: Former smoker
+  Pack-year history: 101 pack-years
+  Comment: pt reports smoking hx significant, quit smoking in Sept 2012.
+Alcohol: Pt reports she quit drinking alcohol in 2019, denies current use, denies illicit drug use.
+Living situation: lives alone, ambulates independently.
+
+MEDS (reviewed, reconciled):
+- Metformin 1000mg BID
+- Lisinopril 20mg daily
+- Atorvastatin 40mg qhs
+- Levothyroxine 75mcg qam
+- Sertraline 100mg daily
+- Cilostazol 100mg BID (PAD)
+
+ALLERGIES: NKDA
+
+VITALS (per home BP cuff log, pt-reported):
+BP avg 138/84, HR 76, wt 178 lb (stable)
+
+LABS/RESULTS:
+11/20/2024 CMP: Glucose 142, Cr 0.9, eGFR >60, K 4.3, Na 139
+11/20/2024 HbA1c: 7.8% (prior 8.1% on 8/15/2024)
+11/20/2024 Lipid panel: TC 168, LDL 88, HDL 46, TG 170
+10/2024 TSH: 2.1 (WNL on current levothyroxine dose)
+ABI (PAD) last checked 6/2024: 0.72 R, 0.75 L, stable from prior
+
+EXAM: Limited via telehealth. Pt appears well, NAD, conversant, no visible distress. No focal neuro deficits observed on camera. Skin of lower extremities not fully visualized but pt denies new lesions.
+
+ASSESSMENT/PLAN:
+1. Type 2 DM - A1c improved to 7.8% from 8.1%, continue metformin, reinforce dietary adherence, f/u labs in 3 mo.
+2. HTN - BP borderline controlled on current regimen, continue lisinopril, recheck home readings, consider titration if remains elevated.
+3. PAD - stable ABI, continue cilostazol, continue walking program as tolerated, monitor for claudication symptoms.
+4. HLD - LDL at goal on atorvastatin, continue current dose.
+5. Hypothyroidism - TSH WNL, continue levothyroxine 75mcg.
+6. Depression - mood reportedly stable on sertraline, continue, reassess at next visit.
+7. Tobacco/former smoker - extensive smoking hx as above (101 pack-years), quit Sept 2012; counseled on continued avoidance of relapse, reinforced benefits of continued abstinence and general health risk reduction.
+8. Alcohol - quit in 2019, continue to encourage abstinence, no current concerns.
+
+F/u: RTC in 3 months or sooner if concerns, labs prior to next visit.
+
+Electronically signed: Owen Fitzgerald, MD 12/02/2024

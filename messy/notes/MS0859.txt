@@ -1,0 +1,93 @@
+PULMONOLOGY H&P - SHARED DECISION MAKING VISIT (LUNG CA SCREENING)
+Date of Service: 02/20/2025
+Author: Brian Okonkwo, MD
+
+PATIENT: Johnson, Paula
+DOB: 02/20/1946 (Age 79)
+Sex: F
+
+CHIEF COMPLAINT: Referred for shared decision-making d/t hx of pulm nodule surveillance discussion / screening eligibility d/t age and hx.
+
+HPI:
+79 yo F w/ hx depression, asthma, CAD presents today for SDM visit re: lung ca screening. Pt reports occasional dyspnea on exertion, stable, uses albuterol prn. No hemoptysis no wt loss no fevers. She was referred by PCP for discussion given her age and cardiopulm hx. Pt lives independently, ambulates w/o assistive device. Denies chest pain at rest, occasional angina equivalents controlled on current regimen per cardiology f/u last month.
+
+Pt states she tried a few cigarettes as a teenager but never smoked regularly - denies any regular tobacco use throughout adulthood. No vaping hx. No occupational asbestos exposure reported.家 hx (family hx) - reviewed, noncontributory for lung ca.
+
+PMH:
+- Depression, on sertraline, stable
+- Asthma, intermittent, albuterol prn
+- CAD s/p stent 2016 (per pt report - chart review pending)
+
+PSH: cholecystectomy remote
+
+MEDICATIONS:
+1. Sertraline 50mg daily
+2. Albuterol HFA prn
+3. Aspirin 81mg daily
+4. Atorvastatin 40mg qhs
+5. Metoprolol succinate 25mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: see HPI - tried a few cigs as teen, never regular smoker
+Pack-years: Not on file
+Smoking status: Never smoker (per pt report)
+Alcohol use: occasional, 1-2 glasses wine/wk
+Illicit drug use: denies
+Occupation: retired schoolteacher
+Living situation: lives alone, daughter nearby
+Exercise: walks daily approx 20 min
+Diet: Not on file
+
+FAMILY HISTORY:
+Mother - HTN, deceased age 88
+Father - MI, deceased age 74
+No family hx lung cancer reported
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever no chills no wt loss
+Resp: mild DOE, no cough no hemoptysis
+CV: no CP at rest, prior stable angina per cardiology
+GI: unremarkable
+Psych: mood stable on current tx, denies SI
+All other systems reviewed and negative except as noted above
+
+PHYSICAL EXAM:
+Vitals: BP 132/78 HR 68 RR 16 Temp 98.2F SpO2 96% RA Wt 145lb
+Gen: well-appearing elderly female NAD
+HEENT: NC/AT, PERRL
+Neck: no LAD no JVD
+Lungs: mild expiratory wheeze bilat bases, no rales no rhonchi
+CV: RRR, no m/r/g
+Abd: soft NT/ND
+Ext: no edema
+Skin: no lesions
+
+LABS/RESULTS:
+CBC (02/10/2025): WBC 6.1, Hgb 13.2, Hct 39.5, Plt 244
+BMP (02/10/2025): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glu 98
+Lipid panel (01/15/2025): TC 172, LDL 88, HDL 54, TG 130
+TSH (01/15/2025): 2.1 (WNL)
+EKG (02/20/2025): NSR, rate 68, no acute ST changes, old inferior Q waves noted
+
+ASSESSMENT/PLAN:
+Problem list (ICD-10):
+1. F32.9 Major depressive disorder, unspecified - stable on sertraline
+2. J45.909 Asthma, unspecified, uncomplicated - stable, albuterol prn
+3. I25.10 Atherosclerotic heart disease of native coronary artery without angina - f/u w cardiology
+4. Z87.891 Personal history of nicotine dependence - outdated entry, carried fwd from prior chart, pt denies regular smoking hx per today's discussion, will address at next visit for possible removal
+5. R06.02 Shortness of breath - chronic stable
+
+Plan:
+- Discussed lung cancer screening guidelines and shared decision-making regarding low-dose CT imaging; risks/benefits reviewed including overdiagnosis, false positives, radiation exposure. Pt has ?? questions answrd.
+- Given her reported smoking hx (few cigs as teen only, never regular smoker), screening criteria discussed in context of overall risk profile; further workup per PCP/pulm judgement.
+- Continue current asthma regimen, f/u prn if worsening sx
+- Cont current cardiac meds, f/u w cardiology as scheduled
+- Continue sertraline, psych f/u as needed
+- Routine health maintenance reviewed
+- RTC in 6 months or sooner if symptoms worsen
+- Pt verbalizes understanding, all questions answered today
+
+Electronically signed: Brian Okonkwo, MD
+Date/Time: 02/20/2025 14:32

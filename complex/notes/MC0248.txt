@@ -1,0 +1,81 @@
+URGENT CARE - HISTORY AND PHYSICAL
+Patient: Raymond Jenkins  DOB: 11/02/1958 (age 65)
+Date of Service: 12/20/2023
+Provider: Michael Dunn, DO
+
+CHIEF COMPLAINT: Cough
+
+HPI: Mr. Jenkins is a 65-year-old male presenting with a 5-day history of productive cough, mild dyspnea on exertion, and low-grade subjective fevers. He denies chest pain, hemoptysis, or significant weight loss. Patient states, "This cough just won't quit, it's been rattling my chest for almost a week now." He also reports, "I've been coughing up some yellowish stuff in the mornings." No sick contacts identified. He has not tried any OTC remedies yet. He denies recent travel.
+
+Patient was asked about tobacco use during today's visit given respiratory complaint. He reports he currently smokes cigarettes. He states his smoking history is complicated: he smoked about a quarter pack (roughly 5 cigarettes) per day for 29 years, then increased his use to about three-quarters of a pack (roughly 15 cigarettes) per day for the past 15 years, and he continues to smoke at that increased rate currently. He notes, "I did quit for a while back in '07, but I picked it back up again in '08 and never stopped after that." He was counseled today regarding smoking cessation resources and encouraged to consider reducing use given his respiratory symptoms and cardiovascular risk factors.
+
+--- COPIED FROM PRIOR NOTE DATED 7/20/2021 (SOCIAL HISTORY, NOT UPDATED SINCE) ---
+Social History: Patient is a current smoker. No further detail documented at that time.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (EHR TEMPLATE - TODAY'S VISIT):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: See HPI for detailed history (quantities varied over time, see above)
+Years smoked: See HPI
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever at present, mild fatigue.
+Respiratory: Positive for cough, mild dyspnea on exertion. Denies wheezing.
+Cardiovascular: Denies chest pain, palpitations.
+GI: Denies nausea, vomiting, diarrhea.
+All other systems reviewed and negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Osteoporosis - M81.0 (active, on bisphosphonate therapy)
+2. Hyperlipidemia - E78.5 (active, diet controlled and on statin)
+3. Hypertension - I10 (active, on lisinopril)
+4. Seasonal allergic rhinitis - J30.2 (outdated entry, not addressed in years)
+5. GERD - K21.9 (outdated, resolved per patient report but remains on problem list)
+
+MEDICATIONS:
+- Alendronate 70mg weekly
+- Atorvastatin 20mg daily
+- Lisinopril 10mg daily
+- Calcium/Vitamin D supplement daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 88, BP 138/86, RR 18, SpO2 95% on room air, Ht 5'10", Wt 192 lb, BMI 27.5
+General: Alert, mild cough noted during interview, no acute distress
+HEENT: Oropharynx mildly erythematous, no exudate, nasal mucosa mildly congested
+Neck: No lymphadenopathy, no JVD
+Cardiovascular: Regular rate and rhythm, no murmurs
+Respiratory: Scattered rhonchi bilaterally, no wheezes, no crackles, no accessory muscle use
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+Extremities: No edema, no cyanosis
+Skin: Warm, dry, intact
+Neuro: Alert and oriented x3, no focal deficits
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral vs early bacterial superinfection given productive cough and low-grade fever
+2. Tobacco use disorder, current smoker
+3. Osteoporosis - stable
+4. Hyperlipidemia - stable
+5. Hypertension - stable, BP slightly elevated today, will recheck at follow-up
+
+PLAN:
+1. Supportive care for acute bronchitis - increased fluids, rest, guaifenesin PRN for cough
+2. Consider antibiotics if symptoms worsen or persist beyond 7-10 days
+3. Chest X-ray not indicated at this time given exam findings, will reassess if symptoms progress
+4. Discussed smoking cessation counseling; patient given information on quitline and nicotine replacement options. Lung cancer screening discussion deferred to primary care given time constraints today, will address further at follow-up with PCP.
+5. Continue home medications for osteoporosis, hyperlipidemia, hypertension
+6. Follow up with primary care provider in 1-2 weeks for BP recheck and to continue tobacco cessation discussion
+7. Return to urgent care or ED if worsening shortness of breath, chest pain, high fever, or hemoptysis
+
+Patient verbalized understanding of the plan and agreed to follow up as directed.
+
+Electronically signed by Michael Dunn, DO
+12/20/2023

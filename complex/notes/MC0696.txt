@@ -1,0 +1,63 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 09/03/2024
+Provider: Isaac Moreno, PA-C (Cardiology)
+Patient: Dorothy Chen, F, DOB 09/03/1962 (age 62)
+
+CHIEF COMPLAINT: Chest pain evaluation, video visit.
+
+HPI: Patient is a 62 y/o female with h/o atrial fibrillation, HTN, gout, and prior MI in 2006, who presents today via telehealth for eval of intermittent chest discomfort over the past week. She describes it as a pressure sensation, non-radiating, lasting a few minutes, not clearly exertional - patient says it happens "sitting, standing, doesn't matter, just comes and goes, [inaudible] maybe stress related." No SOB at rest, some mild dyspnea on exertion she attributes to deconditioning, no palpitations noted although she is on anticoagulation for her afib. She denies syncope or presyncope. She notes she had a heart attack in 2006 and has been followed by cardiology since; she reports she quit smoking 1 year after that 2006 heart attack and has not smoked since. Denies chest pain at rest currently, denies diaphoresis, denies nausea. She is compliant with her home BP cuff readings which she says have been "okay, kinda high sometimes though not sure why."
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+Cardiovascular: + intermittent chest pressure as above, denies orthopnea, denies PND, denies LE edema
+Respiratory: denies cough, denies hemoptysis, mild DOE as noted
+GI: denies nausea, vomiting, denies abdominal pain
+GU: + nocturia x2-3, known BPH
+Musculoskeletal: + chronic joint pain c/w osteoarthritis and gout, no acute flare currently
+Neuro: denies HA, denies focal weakness, denies numbness
+Psych: denies SI/HI
+All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use Status: Former smoker
+Smoking Hx Detail: 1 pack per day x 8 years; then increased to 2 packs per day x 10 years; then decreased to 1.5 packs per day x 8 years, followed by cessation
+Smokeless tobacco: Not on file
+Alcohol Use: Occasional, wine with dinner
+Spouse/Household Smoking Status: Spouse also smokes, currently
+Drug Use: Denies
+Occupation: Retired
+Exercise: Not on file
+
+PHYSICAL EXAM:
+Vitals obtained via home cuff/pulse ox relayed by patient - BP 138/84, HR 78 irregularly irregular, SpO2 97% RA
+General: Well-appearing female, no acute distress, seated comfortably at home
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated on prior in-person exam (visual exam limited via telehealth), no JVD visualized
+Respiratory: No increased work of breathing observed, no use of accessory muscles noted on camera
+Extremities: No visible edema on camera, patient denies swelling
+Skin: No obvious rashes or lesions visualized
+(Note: exam limited due to telehealth format, no hands-on component performed today)
+
+CURRENT MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Lisinopril 20 mg PO daily
+4. Allopurinol 300 mg PO daily
+5. Colchicine 0.6 mg PO as needed for gout flare
+6. Tamsulosin 0.4 mg PO daily
+7. Atorvastatin 40 mg PO daily
+8. Acetaminophen 500 mg PO PRN joint pain
+
+ASSESSMENT/PLAN:
+62 y/o female, former smoker, with h/o afib, HTN, prior MI in 2006, presenting with atypical chest pain.
+
+1. Chest pain, atypical - given her cardiac hx will obtain in-office EKG and repeat troponin, consider stress test if symptoms persist. Her smoking history was discussed briefly in context of overall risk reduction counseling; no imaging plans finalized today, to revisit at next in-person visit.
+2. Atrial fibrillation - rate appears controlled today, continue apixaban and metoprolol, will check renal function.
+3. Hypertension - readings borderline elevated, continue lisinopril, recheck in 2 weeks.
+4. Gout - stable, continue allopurinol, colchicine PRN.
+5. BPH - stable on tamsulosin, continue.
+6. Osteoarthritis - stable, conservative management continues.
+
+Patient counseled extensively regarding cardiovascular risk reduction; she was reminded that her spouse also smokes and encouraged to support a smoke-free home environment. Will follow up in 2 weeks or sooner if symptoms worsen, return to ED for chest pain at rest, radiation to arm/jaw, or associated diaphoresis/SOB.
+
+ADDENDUM (later same day, 09/03/2024, 16:42):
+Patient called back after visit to clarify she had actually meant to mention her chest pressure today felt "a little different" than her usual joint aches, wanted this noted for the record. No new instructions given, plan unchanged from above. Advised to call office or go to ED if symptoms worsen before follow-up appointment. --Isaac Moreno, PA-C

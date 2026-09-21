@@ -1,0 +1,58 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 06/11/2023
+Author: Owen Fitzgerald, MD
+Patient: Mark Miller | DOB: 5/26/1966 | Age: 57 | Sex: M
+
+CHIEF COMPLAINT: F/u incidental lung nodule
+
+HPI: Mr Miller is a 57 yo male seen today for f/u of a pulmonary nodule found incidentally on CT last yr. He states "I feel fine, no cough no chest pain, just here for the follow up scan talk." No hemoptysis no wt loss. Denies fevers/night sweats. Reports sleeping poorly, uses CPAP for known OSA most nights, occasionally forgets mask when travelling. Osteoarthritis of knees stable on OTC NSAIDs prn. Osteoporosis followed by PCP, on calcium/vitamin D.
+
+Pt was asked re tobacco/substance use in detail today given nodule w/u.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use status: Former smoker
+Smoking history: 2 packs per day x 23 years
+Year quit: 2013
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Other substance use: marijuana - pt reports use a few times a month, denies other illicit drugs
+Occupation: retired machinist
+Living situation: Not on file
+
+ROS: otherwise negative except as above.
+
+EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 96% RA, Wt 198 lb
+Gen: NAD, comfortable, conversant
+HEENT: nl
+Neck: no LAD
+Lungs: clear to auscultation bilaterally, no wheeze/rales/rhonchi
+CV: RRR no m/r/g
+Abd: soft NT ND
+Ext: no clubbing cyanosis edema
+MSK: mild crepitus b/l knees, no effusion
+
+LABS/RESULTS:
+CT chest (05/02/2023): 8mm solid nodule RUL, unchanged from prior CT 11/2021 measuring 7mm - stable in appearance, low likelihood malignancy given long term stability but will cont surveillance per protocl.
+CBC (06/10/2023): WBC 6.8, Hgb 14.9, Plt 244
+BMP (06/10/2023): Na 139, K 4.1, Cr 0.9, Gluc 101
+DEXA (03/2023, on file): T-score -2.3 lumbar spine, consistent w known osteoporosis
+
+ASSESSMENT:
+1. Pulmonary nodule, RUL - stable x 2 CTs, low suspicion, recommend continued surveillance imaging per guidlines. Lung cancer screening discussed w pt including risks/benefits of continued monitoring vs other options; pt understands and agrees to f/u plan.
+2. Former tobacco use (2 ppd x23 yrs, quit 2013) - counseled on continued abstinence, reinforced benefits.
+3. Marijuana use, recreational, few times monthly - discussed potential pulmonary effects, pt aware.
+4. OSA - stable on CPAP, adherence fair, will reinforce compliance at next visit.
+5. Osteoarthritis - stable, conservative mgmt.
+6. Osteoporosis - f/u w PCP for ongoing management, continue Ca/vit D.
+
+PLAN:
+- Repeat CT chest low dose surveillance in 6-12 mo per nodule protocol, to be scheduled
+- Continue CPAP nightly, review adherence data next visit
+- Cont NSAID prn for OA
+- Pt to f/u w PCP re osteoporosis meds
+- Counseled on tobacco/marijuana use, offered resources
+- RTC pulm clinic in 6 mo or sooner if sx develop
+- Pt verbalizes understanding of plan, all questions answered today
+
+Electronically signed: Owen Fitzgerald, MD

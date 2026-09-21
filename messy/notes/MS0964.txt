@@ -1,0 +1,81 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Family Medicine – Annual Wellness Visit
+Date of Service: 05/08/2023
+Author: Quentin Hale, PA-C
+
+Patient: Linda Harris
+DOB: 05/06/1953 (age 70)
+MRN: on file
+
+RE: Annual wellness exam / periodic health review
+
+Dear Dr. Colleague,
+
+I had the pleasure of seeing Ms. Harris today, 5/8/2023, for her annual wellness visit. She is a pleasant 70-year-old female with a hx of obesity, afib, depression, and HTN who presents for routine f/u and preventive care planning.
+
+HPI:
+Ms. Harris reports feeling "pretty good overall, just tired by the end of the day." She denies chest pain, palpitations, or SOB at rest, though notes occasional fluttering sensation "maybe once every couple weeks, doesn't last long." She is compliant with her home BP cuff readings and reports most systolics in 128-138 range. Mood has been "stable, not great but not terrible," and she continues on her current antidepressant regimen without recent dose changes. She denies SI/HI. She states, "I've been trying to walk more, maybe 20 min a day when my knees aren't acting up." No new falls, no vision changes, no urinary complaints. She is up to date on colonoscopy per pt report (verify in records).
+
+PMH:
+- Obesity
+- Atrial fibrillation (on anticoagulation, verify current agent w/ cardiology note)
+- Depression
+- Hypertension
+
+PSH: Not documented in current chart; pt denies major surgeries other than cholecystectomy years ago (date unclear).
+
+Medications: per active med list in chart, reviewed and reconciled today (see MAR). No changes made at this visit pending cardiology f/u.
+
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: See HPI narrative below*
+Smoking status: Never smoker (per hx obtained)
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: Former drinker, quit 2020
+Drinks/week: 0 (current)
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Reported above in HPI
+
+*Tobacco narrative (documented separately due to nuance in history): When asked directly about smoking hx, pt states, "Oh, I tried a few cigarettes when I was a teenager, just messing around with friends, but I never really smoked - never made it a habit." She denies any regular or daily use at any point in her life, denies ever purchasing cigarettes herself, and denies any current tobacco or nicotine product use, including vaping. Given this, she is coded as never-smoker for risk stratification purposes, though the brief experimental teenage use is noted here for completeness.
+
+Regarding alcohol, pt reports she used to drink socially, "a glass of wine here and there," but states she quit drinking alcohol in 2020 and has had zero intake since. She attributes this in part to wanting to improve overall health and reduce interactions with her afib meds.
+
+Family History: Mother - HTN, DM2. Father - CAD, deceased age 78. No family hx of lung cancer reported.
+
+ROS: Otherwise negative in detail beyond HPI, reviewed 10-point systems, all negative except as noted above.
+
+Vitals: BP 132/78, HR 76 irregular, RR 16, Temp 97.8F, Wt 198 lb, Ht 5'4", BMI 34.0
+
+Exam:
+Gen: well-appearing, NAD, pleasant, appropriate affect
+CV: irregularly irregular rhythm, no murmurs appreciated, no peripheral edema
+Resp: CTAB, no wheezes/rales/rhonchi
+Abd: soft, NT/ND, obese habitus, +BS
+Ext: no edema, pulses intact
+Psych: mood euthymic, affect appropriate, no acute distress
+Skin: no concerning lesions noted
+
+Assessment/Plan:
+1. Atrial fibrillation - stable, continue current management, will defer to cardiology for anticoag review, EKG reviewed today, no acute changes from prior.
+2. Hypertension - well-controlled on current regimen, continue home monitoring, f/u BP log at next visit.
+3. Depression - stable on current tx, continue, screening PHQ-9 administered today, score reviewed, will discuss further at next visit if needed.
+4. Obesity - discussed diet/exercise, referral to nutrition considered, pt open to discussion.
+5. Health maintenance - age-appropriate screening reviewed today including colon ca screening status, bone density, and general preventive counseling.
+6. Immunizations reviewed and updated per protocol.
+
+Will f/u in 3 months or sooner if needed. Pt verbalized understanding and agreement with plan.
+
+Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Quentin Hale, PA-C
+
+---
+ADDENDUM (same day, later in afternoon, 05/08/2023):
+After clinic, pt's daughter called front desk to clarify med list; confirmed no changes needed at this time. Also wanted to add for the record per further conversation with patient this afternoon that she reiterated she has never been a regular smoker in her life, just the brief teenage experimentation noted above, and has not used tobacco products since. No further changes to plan. Will document accordingly in chart for continuity of care. - Q. Hale, PA-C

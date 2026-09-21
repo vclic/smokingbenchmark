@@ -1,0 +1,88 @@
+CARDINAL PRIMARY CARE - PHYSICIAN PROGRESS NOTE
+Patient: Gwendolyn White | DOB: 05/26/1954 (age 69) | Sex: F
+Date of Service: 06/16/2023
+Author: Brian Okonkwo, MD
+Visit type: Hospital discharge follow-up (post-pneumonia)
+
+CHIEF COMPLAINT: Follow-up s/p hospitalization for community-acquired pneumonia, discharged 6 days ago.
+
+HPI:
+Ms. White is a 69-year-old woman with HFrEF, HTN, T2DM, OSA, gout, and hyperlipidemia who presents for follow-up after a 5-day hospital admission for community-acquired pneumonia. She reports improving energy and cough. Patient states, "I still get a little short of breath climbing the stairs, but nowhere near as bad as when I was admitted." She denies fevers, chills, or chest pain currently. She reports taking her antibiotics as prescribed and finishing the course two days ago. She denies hemoptysis. She states, "I've been using my inhaler like they told me to at the hospital."
+
+Regarding tobacco history, patient reports she smoked 1.5 packs per day for 3 years, then increased her smoking to 3 packs per day for 8 years before quitting entirely. She has not smoked since her 29th birthday and currently denies any tobacco use. She denies any current smoking, vaping, or other tobacco/nicotine product use.
+
+---[COPIED FORWARD FROM VISIT 11/02/2022 - PRIOR PRIMARY CARE NOTE, NOT UPDATED]---
+HPI (11/02/2022): Patient here for routine follow-up of HFrEF and T2DM. Reports doing well overall, no chest pain, no PND/orthopnea. Weight stable at 168 lbs. Denies leg swelling. Continues on metoprolol succinate, lisinopril, furosemide, spironolactone, empagliflozin, metformin, atorvastatin, allopurinol. Uses CPAP nightly for OSA, reports good compliance, though states mask is uncomfortable at times. Denies gout flares since last visit. Blood sugars per home log running 110-160 fasting. No hypoglycemic episodes. Plan at that time: continue current regimen, recheck labs in 3 months, f/u in 6 months or sooner if needed.
+---[END COPIED TEXT]---
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Heart failure with reduced ejection fraction (I50.22) - last echo showed EF 35%
+2. Essential hypertension (I10)
+3. Type 2 diabetes mellitus without complications (E11.9)
+4. Obstructive sleep apnea (G47.33) - on CPAP
+5. Gout, unspecified (M10.9)
+6. Hyperlipidemia (E78.5)
+7. Pneumonia, organism unspecified (J18.9) - recent hospitalization, resolving
+8. GERD (K21.9) - per old problem list, patient states this resolved years ago, likely outdated entry
+9. Tobacco use disorder, in remission - former smoker
+
+MEDICATIONS:
+- Metoprolol succinate 50mg daily
+- Lisinopril 10mg daily
+- Furosemide 40mg daily
+- Spironolactone 25mg daily
+- Empagliflozin 10mg daily
+- Metformin 1000mg BID
+- Atorvastatin 40mg daily
+- Allopurinol 300mg daily
+- Amoxicillin-clavulanate 875mg BID (completed course for pneumonia)
+- Albuterol inhaler PRN (started at discharge)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Retired schoolteacher. Lives with husband. Denies alcohol use. As noted above, former smoker with quit history detailed in HPI; no current tobacco use. Denies illicit drug use.
+
+FAMILY HISTORY: Mother - hypertension, died age 82. Father - MI at age 65. Sister - T2DM.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss.
+Respiratory: mild residual cough, denies significant dyspnea at rest, denies hemoptysis.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND.
+GI: denies nausea, vomiting, diarrhea.
+GU: denies dysuria.
+Musculoskeletal: denies acute joint pain, no gout flare currently.
+Neuro: denies headache, dizziness.
+All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 74, RR 16, Temp 98.2F, SpO2 96% on room air, Weight 166 lbs.
+General: Well-appearing woman, no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No JVD appreciated.
+Cardiovascular: Regular rate and rhythm, no murmurs, no S3/S4 appreciated today.
+Lungs: Mild crackles at the right base, improved from prior exam per discharge summary; no wheezing.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Trace bilateral lower extremity edema, no calf tenderness.
+Skin: No rashes.
+Neuro: Alert and oriented x3, no focal deficits.
+
+ASSESSMENT:
+1. Community-acquired pneumonia, resolving - clinically improved off antibiotics, exam improving.
+2. HFrEF - stable, euvolemic on exam, will continue current regimen.
+3. Hypertension - well-controlled today.
+4. Type 2 diabetes - reports stable home glucose readings, will check A1c.
+5. OSA - continues on CPAP.
+6. Gout - no active flare.
+7. Hyperlipidemia - continue statin.
+8. Former tobacco use - discussed general health maintenance; tobacco cessation reinforced as being maintained, patient counseled on continued avoidance of any tobacco/nicotine products. Lung cancer screening was discussed with the patient as part of general preventive care conversation.
+
+PLAN:
+- Continue current cardiac and diabetic medications as above.
+- Repeat chest imaging in 6 weeks to confirm resolution of pneumonia.
+- Check CBC, BMP, A1c, lipid panel at next visit.
+- Continue CPAP compliance, encourage mask fit adjustment with DME company if discomfort persists.
+- Reinforce low-sodium diet for HFrEF.
+- Follow up in 4 weeks or sooner if symptoms worsen (fever, worsening cough, dyspnea, chest pain).
+- Patient given return precautions verbally and in writing.
+
+Electronically signed by Brian Okonkwo, MD, 06/16/2023.

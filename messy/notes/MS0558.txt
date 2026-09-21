@@ -1,0 +1,37 @@
+NURSE INTAKE - 03/01/2023
+Pt: Karen Young, F, DOB 3/1/1947 (age 76). DOS 3/1/2023.
+VS: BP 132/78, HR 82 irreg (known AFib), RR 16, SpO2 96% RA, Wt 158 lb.
+CC: f/u incidental lung nodule (Pulm).
+Meds reviewed - see MAR. Allergies NKDA.
+PMH per pt: AFib, GERD, OSA on CPAP.
+Soc hx: pt states "I've never smoked a cigarette in my life." Denies vaping/e-cigs. Etoh occasional.
+
+PHYSICIAN PROGRESS NOTE - Kevin Osei, MD
+DOS: 3/1/2023
+CC: incidental pulm nodule f/u
+
+HPI: 76 yo F w/ hx AFib, GERD, OSA presents for f/u of incidentally noted RUL nodule seen on CT chest done for unrelated w/u. Pt asymptomatic, denies cough, hemoptysis, wt loss, dyspnea. States "I feel fine, I just want to make sure it's nothing." No fevers/chills. OSA - compliant w/ CPAP, reports good sleep. GERD - stable on PPI, occ breakthrough sx w/ spicy food. AFib - on anticoag, no palpitations reported, denies CP.
+
+Soc hx: Lifelong non-smoker, confirmed again this visit - pt reiterates never smoked cigarettes. Does report occasional cigar use, "just a few times a year, usually on holidays like Thanksgiving or New Year's" - not a regular habit, no cigarette use. No IV drug use. Lives w/ spouse, retired schoolteacher.
+
+ROS: otherwise negative except as above.
+
+Exam: Gen - NAD, A&Ox3. HEENT unremarkable. CV - irreg irreg rhythm, no m/r/g. Lungs - CTAB, no wheeze/rales. Abd soft NT/ND. Ext no edema.
+
+Problem list:
+- I48.91 Atrial fibrillation
+- K21.9 GERD
+- G47.33 Obstructive sleep apnea
+- R91.1 Solitary pulm nodule
+- E78.5 Hyperlipidemia (outdated dx, not currently active per pt)
+
+Assessment/Plan:
+1. Pulm nodule - stable appearance, incidental finding. General discussion held w/ pt regarding nodule surveillance options and general lung imaging considerations; no imaging ordered today. F/u imaging per radiology protocol to be arranged by Pulm.
+2. AFib - continue current anticoag, rate well controlled today. Cont f/u w/ cardiology.
+3. GERD - continue PPI, dietary counseling reinforced.
+4. OSA - continue CPAP, cont annual eval.
+RTC 3 months or sooner if sx develop.
+
+---
+ADDENDUM (later same day, K. Osei MD):
+Spoke again w/ pt by phone re: nodule f/u plan after reviewing prior imaging in more detail. No change to plan above. Pt verbalized understanding, agreeable to f/u imaging timeline as discussed. Reiterated non-smoking status for chart accuracy - pt again confirmed lifelong non-smoker, cigar use limited to holiday occasions only.

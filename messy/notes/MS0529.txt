@@ -1,0 +1,37 @@
+CARDIOLOGY H&P
+Patient: Donna Novak (F), DOB 2/12/1957
+Date of Service: 02/12/2026
+Author: Kevin Osei, MD
+
+CC: Chest pain evaluation.
+
+HPI: Ms Novak is a 69 year old woman referred for evaluation of intermittent chest discomfort over the last 3 weeks. Pt describes pressure-like sensation left sided, non-radiating, occuring w exertion and occasionally at rest. Denies diaphoresis, syncope. Hx of afib on anticoagulation, GERD, OSA on CPAP, depression, and PAD w prior claudication sx. No recent falls no LOC.
+
+Social Hx: Pt tried a few cigarettes as a teenager but never smoked regularly - denies any current or past regular tobacco use. No alcohol excess, no illicit drug use reported. Lives w spouse, retired schoolteacher.
+
+--- copied forward from prior visit note dated 09/14/2024 ---
+Pt seen in clinic for routine f/u of afib and PAD. Reports stable claudication distance approx 2 blocks, no rest pain, no ulcers noted on feet exam. GERD sx controlled on PPI. OSA - using CPAP nightly, reports improved daytime somnolence. Depression - stable on sertraline, denies SI/HI. Pt continues to deny tobacco use, tried a few cigarettes as teen but never regular smoker (same as above, unchanged). Plan: continue current meds, f/u 6 months, ABI recheck at next visit.
+--- end copied text ---
+
+ROS: Positive for occasional chest pressure and mild dyspnea on exertion. Negative for fevr, cough, hemoptysis, leg swelling, palpitations at rest.
+
+Exam: BP 138/82, HR 78 irregular, RR 16, SpO2 96% RA. Gen: NAD. CV: irregularly irregular rhythm, no murmurs appreciated. Lungs: clear bilat. Extrem: trace edema, distal pulses diminished bilat lower extrem c/w known PAD, no ulcers.
+
+Labs/Results:
+- 02/10/2026 Troponin I: 0.01 ng/mL (nl)
+- 02/10/2026 BNP: 145 pg/mL
+- 02/10/2026 Lipid panel: LDL 118, HDL 42, TG 160
+- 01/15/2026 HbA1c: 5.8%
+- EKG 02/12/2026: atrial fibrillation, rate 76, no acute ST changes
+
+Assessment: 69 year old woman DOB 2/12/1957 w chest pain, likely multifactorial given GERD and known PAD/afib; ruling out ischemic etiology given risk factors. No significant tobacco exposure hx per pt report.
+
+Plan:
+1. Stress echo scheduled outpt.
+2. Continue anticoagulation for afib, monitor INR/DOAC compliance.
+3. Optimize GERD mgmt, cont PPI.
+4. Cardiology f/u in 4 wks or sooner if sx worsen.
+5. Discussed general cardiovascular risk reduction; lung imaging/screening topics discussed in general terms as appropriate.
+6. Continue CPAP for OSA, sertraline for depression.
+
+Kevin Osei, MD

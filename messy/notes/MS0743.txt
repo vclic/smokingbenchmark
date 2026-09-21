@@ -1,0 +1,38 @@
+TELEHEALTH ENCOUNTER NOTE
+Patient: Darnell Rodriguez | DOB: 02/24/1949 (Age: 75) | Sex: M
+Date of Service: 02/24/2024
+Provider: Brian Okonkwo, MD - Internal Medicine
+
+Visit Type: Telehealth follow-up, HTN and T2DM
+
+HPI:
+Mr. Rodriguez is a 75-year-old male seen via telehealth for routine follow-up of hypertension and type 2 diabetes. He reports stable energy, no chest pain, occasional exertional dyspnea attributed to his known COPD. Reports mood has been ok, continues sertraline for depression. He denies polyuria/polydipsia. Home BP log shows readings averaging 138/82. He denies any recent illness. He mentions occasional dry cough, no fevers.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco Use Status: Former smoker
+ Smoking History: 1-2 packs per day x 42 years
+ Quit Date: April 2006
+ Type of Tobacco: Cigarettes
+ Smokeless Tobacco: Not on file
+ Alcohol Use: Not on file
+ Drug Use: Denies
+ Occupation: Retired
+
+LABS/RESULTS (reviewed today):
+ 02/10/2024 HbA1c: 7.4%
+ 02/10/2024 TSH: 3.1 uIU/mL (on levothyroxine)
+ 02/10/2024 LDL: 112 mg/dL
+ 02/10/2024 Creatinine: 1.1 mg/dL
+ 01/15/2024 Spirometry (outside record, copy-forward): FEV1/FVC consistent with mild obstruction
+
+ASSESSMENT/PLAN:
+1. Hypertension - stable on lisinopril, continue current dose, recheck BP in 3 months.
+2. Type 2 diabetes mellitus - A1c improved from prior, continue metformin, reinforce diet.
+3. COPD - stable, continue tiotropium inhaler; given his prior tobacco history (former smoker, quit April 2006 after many years of use) we discussed general lung health, and lung cancer screening was briefly discussed as a topic for further conversation at next visit. No imaging ordered today.
+4. Depression - stable on sertraline, continue.
+5. Hyperlipidemia - LDL at goal, continue atorvastatin.
+6. Hypothyroidism - TSH within target, continue levothyroxine current dose.
+
+Return to clinic/telehealth in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Brian Okonkwo, MD

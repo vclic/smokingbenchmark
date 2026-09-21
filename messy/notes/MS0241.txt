@@ -1,0 +1,31 @@
+CONSULT NOTE - Pulmonology
+Referring Provider Letter
+Author: Farah Siddiqui, MD
+Date of Service: 01/20/2025
+
+Patient: Dale Coleman, M, DOB 01/20/1960 (age 65)
+Reason for visit: Follow-up after recent COPD exacerbation, ED-to-clinic transition of care.
+
+HPI: Mr. Coleman is a 65 yo male with hx of COPD, osteoporosis, and obesity who presented to the ED last week with worsening dyspnea and productive cough, treated with steroids/nebs and discharged home. He reports gradual improvement since discharge, though still with mild exertional SOB. No fevers, no chest pain. Denies hemoptysis.
+
+--- Copied forward from prior visit dated 06/20/2023 ---
+Pt reviewed, chronic cough stable, sats 94% RA, continues on Spiriva and albuterol PRN, former smoker, no current tobacco use reported at that visit, lungs with scattered wheezes, plan to continue bronchodilator therapy and f/u in 6 months.
+--- End copied section ---
+
+ROS: Constitutional - no fever, no chills, mild fatigue. Resp - chronic cough, dyspnea on exertion improving. CV - no chest pain, no palpitations. GI - no nausea, no abd pain. MSK - no new joint pain, hx osteoporosis. Neuro - no headache, no dizziness. Skin - no rashes. All other systems reviewed and negative.
+
+Medications: Spiriva Respimat 1 inh daily, albuterol HFA PRN, prednisone taper (day 4 of 5), alendronate 70mg weekly, calcium/vit D supplement, atorvastatin 20mg daily, lisinopril 10mg daily, metformin 500mg BID, montelukast 10mg daily.
+
+Physical Exam: VS stable, afebrile, RR 18, O2 sat 93% RA. General - obese male, NAD. Lungs - diminished breath sounds bilat, mild expiratory wheeze, no crackles. CV - RRR, no murmurs. Abd - soft, obese, non-tender. Ext - no edema. Skin - intact.
+
+Problem List:
+J44.9 - COPD, unspecified
+M81.0 - Osteoporosis without pathological fracture
+E66.9 - Obesity, unspecified
+Z87.891 - Personal hx of nicotine dependence
+I10 - Essential hypertension (outdated, no longer on chart-verify)
+E11.9 - Type 2 diabetes mellitus
+
+Assessment/Plan: Dale Coleman is a 65-year-old man s/p recent COPD exacerbation, now improving. Smoking history reviewed in detail today: pt smoked about half a pack (approx 10 cigarettes) per day for 30 years, quit smoking in 2011, and has remained smoke-free since. Continue current inhaler regimen, complete prednisone taper, encourage pulmonary rehab referral. Will recheck spirometry at next visit. Continue osteoporosis management with current meds, weight management counseling given obesity. F/u in 4 weeks or sooner if symptoms worsen.
+
+Addendum (later same day): Pt called clinic nurse line to clarify prednisone taper instructions; advised per taper schedule already provided, no changes made to plan above.

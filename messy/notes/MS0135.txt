@@ -1,0 +1,54 @@
+NURSE INTAKE - Internal Medicine
+DOS: 06/17/2024
+Patient: Gwendolyn Novak, F, DOB 6/17/1973 (age 51)
+Provider: Catherine Lindqvist, DO
+
+Vitals: BP 148/92, HR 78, RR 16, T 98.4F, Wt 191 lb, BMI 33.1, SpO2 96% RA
+Reviewed meds/allergies with pt, no changes reported.
+
+TOBACCO USE - EHR TEMPLATE
+Current tobacco status: Current every day smoker
+Type: Cigarettes
+Pack-year history: 59 pack-years
+Readiness to quit: Not ready to quit at this time
+Counseling provided: Yes, brief cessation counseling given
+
+---
+PHYSICIAN PROGRESS NOTE
+HPI:
+Pt here for f/u HTN, T2DM. Reports "my sugars have been running high in the mornings, not sure why." Denies chest pain, denies SOB at rest. C/o worsening knee pain, OA related, wants refill of topical diclofenac. Sleep - uses CPAP "most nights, not every night." PAD stable, no new claudication sx per pt, states "my legs feel about the same as last visit." Mood - depression stable on current regimen, denies SI/HI.
+
+Copied from note dated 04/17/2023 (unchanged at that time, reproduced here for continuity):
+"Tobacco: current smoker."
+(No further detail available from that prior note; quantities not specified there.)
+
+Social Hx: Pt quit drinking alcohol in 2022, denies current EtOH use. Lives alone, retired custodian. No illicit drug use reported.
+
+ROS: Otherwise negative except as above. Denies fevers, denies vision changes, denies numbness/tingling in feet today (though has had prior neuropathy c/o).
+
+Exam:
+Gen: NAD, appears stated age.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheezes.
+Ext: Trace edema b/l, dorsalis pedis pulses diminished but palpable b/l, no ulcers noted.
+MSK: Crepitus b/l knees, mild effusion R knee, ROM limited by pain.
+Psych: Mood euthymic, affect appropriate.
+
+Labs reviewed today: A1c 8.2%, up from 7.6% three months ago. Lipid panel pending. Cr 1.0.
+
+Assessment/Plan:
+1. Type 2 DM, suboptimal control - increase metformin, add basal insulin, discussed dietary changes, f/u labs in 3 months.
+2. HTN - uncontrolled today, increase lisinopril, recheck BP in 2-4 wks.
+3. OSA - continue CPAP, encourage nightly compliance.
+4. PAD - continue aspirin, statin, monitor pulses, no acute intervention needed.
+5. Depression - stable, continue current antidepressant, f/u as scheduled.
+6. OA knees - refill topical diclofenac, consider ortho referral if worsens.
+7. Tobacco use - discussed ongoing cigarette use and associated cardiovascular/pulmonary risks; lung cancer screening discussed in general terms; pt not ready to quit today, cessation resources offered (quitline, nicotine patches), will revisit at next visit.
+
+F/u 3 months, sooner if needed.
+
+Electronically signed: Catherine Lindqvist, DO
+
+---
+ADDENDUM (same day, later):
+Spoke with pt again by phone re: morning glucose logs she was to send in; she has not yet started log. Reiterated importance of tracking. Also clarified with pt that she remains a current smoker and is, per her words, "not ready to think about quitting right now, maybe later." No other changes to plan. -C. Lindqvist, DO

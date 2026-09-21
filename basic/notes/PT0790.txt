@@ -1,0 +1,71 @@
+Cardiology Clinic Note
+
+Patient: HALL, Cheryl    MRN: 82954188
+DOB: 10/08/1955    Age: 70 y.o.    Sex: Female
+Date of Service: 03/05/2026    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• Heart failure f/u
+
+Subjective:
+Cheryl Hall is a 70 y.o. female who presents for heart failure follow-up.
+Weight down 2 lbs. Sleeps on 1 pillow, no PND. DOE with 1 block. Last echo 11/05/2024: EF 28%.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Mixed hyperlipidemia	1994
+• Heart failure with reduced ejection fraction
+• Osteoarthritis
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• spironolactone 25 mg daily
+• rosuvastatin 20 mg daily
+• furosemide 20 mg daily
+• chlorthalidone 12.5 mg daily
+• ezetimibe 10 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• lisinopril 40 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Retired nurse.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+No family hx of colon cancer.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 135/79 (BP Location: Right arm, Patient Position: Sitting) | Pulse 66 | Temp 97.8 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 135 lb | SpO2 99% | BMI 21.07 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Fine bibasilar crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: Trace bilateral ankle edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Heart failure
+   Stable; continue current regimen, daily weights.
+
+Return in about 12 months (around 3/5/2027).
+
+Electronically signed by Catherine Lindqvist, DO on 03/05/2026

@@ -1,0 +1,49 @@
+CARDIOLOGY TELEHEALTH VISIT
+Patient: Denise Simmons (F)
+DOB: 05/22/1961 (Age 65)
+DOS: 05/22/2026
+Provider: Brian Okonkwo, MD
+
+CC: chest pain eval, telehealth f/u
+
+HPI: 65 yo F w/ hx gout, depression, GERD c/o intermittent substernal CP x several wks, non-exertional at times, occ assoc w/ reflux sx. Denies SOB at rest, denies syncope. No radiation to jaw noted today. Pt states sx similar to prior GERD flares but wanted cardiac eval given family hx. No recent fevers/chills. Meds reviewed via pt report over video - continues omeprazole, sertraline, allopurinol per pt (list not independently verified d/t telehealth format).
+
+ROS: Constitutional - neg wt loss. CV - + intermittent CP as above, no palpitations. Resp - no cough, no dyspnea. GI - + occ heartburn. Psych - mood stable per pt, on tx for depression.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco Use:
+  Status: Former smoker
+  Packs/day: 1.50
+  Years: 13.00
+  Type: Cigarettes
+  Quit year: 1993
+Alcohol use: Not on file
+Substance use: Not on file
+Occupation: [blank]
+Living situation: [blank]
+
+Assessment/Plan note re: SHx - pt confirmed hx of prior smoking during visit, consistent w/ chart data above; no current tobacco use reported.
+
+Exam (limited, telehealth): Pt appears comfortable, no acute distress on video. Speaking full sentences, no visible resp distress. Skin - no diaphoresis noted. Unable to auscultate heart/lungs via telehealth; deferred to in-person if needed.
+
+EKG: none obtained today (telehealth visit) - prior EKG on file from 2024 reviewed, NSR, no acute ST changes at that time.
+
+Labs: none new today. Lipid panel from 3 mo ago reviewed - LDL borderline elevated, pt counseled previously on diet.
+
+A/P:
+1. Chest pain, atypical features, likely GERD-related given assoc sx and hx, but cardiac etiology not fully excluded via telehealth.
+   - Will obtain in-person visit for exam, possible stress test if sx persist.
+   - Reviewed lifestyle factors incl tobacco hx (former smoker per above); reinforced importance of continued abstinence.
+   - Screening for lung ca was discussed briefly given tobacco hx, pt to follow up w/ PCP regarding appropriate work-up.
+2. GERD - continue omeprazole, avoid trigger foods, follow up w/ GI if worsens.
+3. Depression - stable per pt report, continue current psych meds, f/u w/ psychiatry as scheduled.
+4. Gout - no active flare today, continue allopurinol.
+
+F/u: in-person cardiology visit scheduled in 2 wks, sooner if sx worsen or new red flags (SOB, radiating pain, diaphoresis) - instructed pt to go to ED if severe sx develop.
+
+Electronically signed: Brian Okonkwo, MD
+
+---
+ADDENDUM (same day, later):
+Pt called back office after initial visit to clarify hx. Re-confirmed she is a former smoker, quit in 1993, consistent w/ documentation above. No change to plan. Will keep in-person f/u as scheduled. Addendum added for clarity re: tobacco hx given telehealth format limitations.
+- Brian Okonkwo, MD, 05/22/2026 (later same day)

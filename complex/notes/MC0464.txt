@@ -1,0 +1,52 @@
+FAMILY MEDICINE PROGRESS NOTE
+Patient: Cheryl Robinson
+DOB: 1/6/1964 (age 61)
+Date of Service: 01/06/2025
+Author: Daniel Reyes, MD
+
+CC: Annual wellness visit.
+
+HPI: 61 yo F presents for annual wellness exam. Pt states "I feel pretty good, just tired sometimes when I walk up the stairs." No CP, no PND, mild ankle swelling noted per pt. She reports compliance with meds, denies missed doses. Reviewed hx of heart failure w/ reduced EF, PAD, hyperlipidemia, depression, GERD - all stable per pt report. She notes "my legs cramp a bit when I walk to the mailbox" c/w known PAD, no change from prior. Mood reportedly stable on current antidepressant, denies SI/HI. GERD sx well controlled, occasional heartburn after spicy food, denies dysphagia. Pt also mentions she quit drinking alcohol in 2003 and has not resumed since; denies any current EtOH use.
+
+Social History: Tobacco - never used tobacco, patient denies any hx of cigarette, cigar, or vape use [confirmed pt]. EtOH - quit 2003, denies current use. Denies illicit drug use. Lives w/ husband, retired schoolteacher.
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - denies chest pain, orthopnea (uses 2 pillows, baseline). Resp - denies cough, SOB at rest. GI - occasional reflux as above. Neuro - denies HA, dizziness. Psych - mood stable, denies anhedonia. All other systems reviewed and negative except as noted above, the patient was cooperative throughout [inaudible] portions of interview due to background noise in clinic hallway.
+
+PMH/Problem List:
+I50.22 - Chronic systolic (congestive) heart failure, reduced EF ~35% per last echo 2023
+I73.9 - Peripheral artery disease, stable, on antiplatelet
+E78.5 - Hyperlipidemia, on statin
+F33.1 - Major depressive disorder, recurrent, moderate, on SSRI
+K21.9 - GERD, on PPI
+Z71.89 - counseling re: alcohol cessation history (outdated entry, pt sober since 2003, retained for continuity)
+E11.9 - Type 2 diabetes mellitus (NOTE: this appears to be an outdated/erroneous carryover, pt denies hx of DM, will remove from active list pending chart review)
+
+Medications: Carvedilol, lisinopril, furosemide, atorvastatin, clopidogrel, sertraline, omeprazole.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 128/76, HR 68, RR 16, T 98.2F, Wt 165 lb, BMI 27.4
+General: well-appearing, NAD, alert and oriented x3
+CV: RRR, no murmurs/gallops/rubs appreciated, trace bilat ankle edema
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND, +BS
+Extremities: 1+ pitting edema b/l ankles, pedal pulses 1+ b/l, no ulcers noted
+Skin: no rashes or lesions
+Neuro: grossly intact, CN II-XII intact
+Psych: mood euthymic, affect appropriate
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT, will repeat echo if sx worsen. Daily weights reviewed w/ pt, instructed to call if wt gain >3 lbs in 2 days.
+2. PAD - stable, continue clopidogrel, encourage supervised walking program, f/u vascular surgery per prior referral.
+3. Hyperlipidemia - continue atorvastatin, lipid panel ordered today.
+4. Depression - stable on sertraline, PHQ-9 administered today, score 4 (minimal), continue current regimen.
+5. GERD - continue omeprazole, counseled on dietary triggers.
+6. Health maintenance - discussed age-appropriate cancer screening including mammogram and colonoscopy status, both up to date per pt report. Given her age and hx (no tobacco use), lung cancer screening was briefly discussed conceptually as part of general preventive care discussion, no further action taken at this time. Immunizations reviewed, flu and COVID vaccines up to date, pneumococcal vaccine given today.
+7. Alcohol use - sober since 2003, continues to abstain, no intervention needed at this time, positive reinforcement given.
+
+Return to clinic in 6 months or sooner if concerns. Pt verbalized understanding of plan and agreed to follow up.
+
+___
+ADDENDUM (later same day, 01/06/2025, 4:47pm):
+Spoke with pt by phone after she called clinic w/ question re: furosemide dosing timing - advised to take in AM to avoid nocturia, pt verbalized understanding. No new issues to report. Also clarified w/ pt during call that she has never smoked at any point in her life, reaffirming documentation above. No changes to plan. Will address E11.9 DM code removal at next visit after confirming w/ prior records. -D. Reyes, MD

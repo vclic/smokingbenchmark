@@ -1,0 +1,53 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+Author: Gregory Tan, MD
+DOS: 04/05/2024
+Pt: Edward Wright, M, DOB 04/05/1973 (age 51)
+
+CC: PAD f/u, claudication ssx eval.
+
+HPI: 51 yo M w/ h/o HTN, PAD, HLD presents for routine vascular f/u. Pt states "my legs still cramp up after 2 blocks, same as before." No rest pain, no new ulcers. Denies chest pain, SOB. Reports compliance with cilostazol and statin. Smoking hx notable per pt report: smoked 2 packs per day for 8 years, then increased to 3 packs per day for 10 years before quitting. Pt confirms he is a former smoker now, quit smoking altogether. States "I finally kicked it after all those years." ROS otherwise negative except mild fatigue with ambulation.
+
+PMH/Problem List:
+- I73.9 Peripheral artery disease, unspecified
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- J45.909 Asthma, unspecified (outdated - pt denies current asthma sx, likely resolved childhood dx, kept on list per prior note)
+- Z87.891 Personal history of nicotine dependence
+
+Meds: Cilostazol 100mg BID, Atorvastatin 40mg qhs, Lisinopril 20mg daily, ASA 81mg daily.
+
+Allergies: NKDA.
+
+[COPIED FROM NOTE DATED 06/05/2022 - SOCIAL HISTORY, NOT UPDATED SINCE]
+Social History (as documented 6/5/2022): Former smoker. No current tobacco use reported. Occasional EtOH. Denies illicit drug use. Employed as machinist.
+[END COPIED SECTION]
+
+Social History (current, updated 04/05/2024): Pt relocated to this state in 2009. Reports he quit smoking 3 years after moving to this state in 2009. Lives with spouse, works part-time now. No current tobacco, no vaping. Denies illicit drug use. Occasional EtOH, ~2 drinks/wk.
+
+Exam:
+Vitals: BP 138/86, HR 76, RR 16, Temp 98.4F, BMI 27.4
+Gen: NAD, well-appearing male.
+CV: RRR, no m/r/g.
+Resp: CTAB.
+Ext: B/L lower ext with diminished dorsalis pedis pulses, 1+ bilaterally, no ulcers, no edema, cap refill <3 sec. Skin cool distally but intact.
+Neuro: Grossly intact.
+
+Labs (reviewed today): Lipid panel from 03/2024 - LDL 98, HDL 42, TG 150, Total chol 165. A1c 5.6%. Cr 0.9.
+
+Imaging: ABI last performed 01/2024 - right 0.68, left 0.71, consistent with mild-mod PAD.
+
+Assessment:
+1. Peripheral artery disease (I73.9) - stable claudication sx, ABI mild-mod reduction. Continue cilostazol, reinforce walking program.
+2. Hypertension (I10) - well controlled on current regimen.
+3. Hyperlipidemia (E78.5) - LDL at goal on atorvastatin.
+4. Former tobacco use (Z87.891) - pt with substantial hx of smoking including a period of 2 packs per day for 8 years followed by 3 packs per day for 10 years, now quit; important risk factor for PAD progression. Counseled on importance of continued abstinence and its benefit to vascular health. Lung cancer screening discussed with pt given smoking hx; will revisit at future visit.
+
+Plan:
+- Continue cilostazol 100mg BID, atorvastatin 40mg qhs, lisinopril 20mg daily, ASA 81mg daily.
+- Repeat ABI in 6-12 months or sooner if sx worsen.
+- Encourage supervised exercise/walking program for claudication.
+- F/u lipid panel in 6 months.
+- Reinforce smoking abstinence, discussed relapse prevention strategies.
+- RTC 4 months or PRN.
+
+Electronically signed by Gregory Tan, MD, Vascular Surgery.

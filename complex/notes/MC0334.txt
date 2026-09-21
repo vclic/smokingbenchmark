@@ -1,0 +1,53 @@
+PRIMARY CARE - NEW PATIENT H&P
+Patient: David Taylor | DOB: 02/13/1959 | Age: 65 | Sex: M
+Date of Service: 02/13/2024
+Author: Anita Patel, MD
+
+CC: Establish care.
+
+HPI: Mr. Taylor is a 65 y/o M presenting to establish PCP after moving to the area. Hx significant for osteoporosis, asthma, CAD, and depression. Pt reports he has been stable on current regimen but ran out of refills 2 wks ago. States, "I feel pretty good most days, just get a little short of breath climbing stairs." Denies chest pain at rest, denies palpitations. Reports occasional wheeze w/ exertion, uses albuterol prn, maybe 1-2x/wk. Mood described as "okay, not great" - endorses low energy but denies SI/HI. Denies falls or fx since osteoporosis dx. No new bone pain.
+
+PMH: Osteoporosis, asthma, CAD (s/p stent per pt report, records pending), depression.
+PSH: None reported.
+Meds: Alendronate weekly, albuterol MDI prn, atorvastatin, aspirin 81mg, sertraline - doses TBC once outside records obtained.
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated):
+Tobacco use status: Never smoker
+Smoking status detail: Pt denies ever having smoked cigarettes; describes himself as a lifelong non-smoker.
+Smokeless tobacco: Not on file
+E-cigarette/vaping use: Yes - pt reports daily use of nicotine vape, denies any hx of combustible cigarette use
+Alcohol use: Occasional, 1-2 drinks/wk per pt
+Illicit drug use: Denies
+Occupation: Retired
+Exercise: Walks daily, ~20 min
+Living situation: Lives with spouse
+Secondhand smoke exposure: Not on file
+
+ROS: Constitutional - denies fever, chills, wt loss. Resp - as above, occasional wheeze. CV - denies chest pain, orthopnea, PND, edema. Psych - low mood as noted, denies SI. MSK - denies acute pain. All other systems reviewed and negative except as noted in HPI.
+
+Vitals: BP 128/78, HR 72, RR 16, T 98.2F, Wt 178 lb, Ht 5'9", BMI 26.3, O2 sat 97% RA.
+
+Exam:
+Gen: well-appearing, NAD, pleasant male in no acute distress.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear.
+Neck: supple, no LAD, no thyromegaly.
+CV: RRR, no m/r/g, normal S1/S2, no JVD.
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+Abd: soft, NT/ND, +BS.
+MSK: no kyphosis noted, gait steady, no tenderness to palpation of spine.
+Skin: no rashes or lesions.
+Neuro: A&Ox3, no focal deficits.
+Psych: mood congruent affect, cooperative.
+
+Assessment/Plan:
+1. Osteoporosis - continue alendronate, will obtain recent DEXA if available from prior records, counsel on Ca/Vit D intake and weight-bearing exercise, f/u labs incl Ca/25-OH-Vit D.
+2. Asthma - mild intermittent per hx, continue albuterol prn, consider spirometry to assess baseline, discussed proper inhaler technique.
+3. CAD - continue statin and ASA pending records; will obtain lipid panel, EKG today, cardiology records requested; risk factor mod discussed incl diet and exercise. Given age and social hx, lung cancer screening options were discussed in general terms with pt for future consideration; no imaging ordered today.
+4. Depression - low mood reported, continue sertraline, screen w/ PHQ-9 today (pending result), will monitor and consider referral to behavioral health if symptoms persist or worsen.
+5. Tobacco/nicotine use - counseled pt regarding daily nicotine vape use; discussed risks and offered cessation resources; pt states lifelong non-smoker re: combustible cigarettes.
+6. Health maintenance - UTD on immunizations per pt report, will verify; labs ordered incl CBC, CMP, lipid panel, HbA1c, TSH; will schedule DEXA and spirometry.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Pt verbalized understanding of plan. Records request faxed to prior PCP office today.
+
+Electronically signed: Anita Patel, MD, 02/13/2024.

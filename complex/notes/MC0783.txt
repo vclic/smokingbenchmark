@@ -1,0 +1,94 @@
+HISTORY AND PHYSICAL
+Patient: Raymond Williams (M), DOB 8/21/1970
+Date of Service: 08/21/2023
+Author: Julia Brennan, MD, Internal Medicine
+Reason for Visit: Pre-operative evaluation for right total knee replacement
+
+HPI:
+Mr. Williams is a 53-year-old male referred by orthopedics for pre-op clearance prior to elective right TKA scheduled for 09/2023. Reports progressive right knee pain, worsened with ambulation, failed conservative therapy. Denies chest pain, denies current dyspnea at rest. No fevers, no recent infections. Former smoker per chart, quit years ago per patient report; will confirm details in SH section below. Overall functional status fair, uses cane for longer distances. Reviewed CKD stage 3 labs, stable per nephrology last seen 6 mo ago.
+
+PAST MEDICAL HISTORY:
+- BPH
+- CKD stage 3
+- Hyperlipidemia
+- Osteoporosis
+- OSA (on CPAP, compliance variable)
+- Asthma (intermittent, uses albuterol PRN)
+
+[COPIED FORWARD FROM VISIT 02/14/2022 - PCP NOTE, Dr. A. Chen - not updated this visit]
+Pt here for routine follow up of CKD and HLD. Doing well overall. Denies edema, denies hematuria. Continue current meds. Recheck BMP in 6 months. Discussed diet, low sodium. Will continue statin. Bone density scan reviewed, T-score consistent with osteoporosis, on bisphosphonate therapy. OSA - CPAP supplied, sleep study on file. Follow up 6 months or sooner PRN.
+[END COPIED TEXT]
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use Status: Former smoker
+Smoking History Details: Smoked 1.5 packs per day for 5 years; cut back to approximately three-quarters of a pack (about 15 cigarettes) per day for the following 11 years; quit smoking entirely in 2008.
+Current Cigarettes/Day: 0
+Years Since Quit: Not on file
+Smokeless Tobacco: Denies
+E-cigarette/Vape Use: Denies
+Alcohol Use: Occasional, 1-2 drinks/wk
+Drug Use: Denies
+Occupation: Retired warehouse supervisor
+Living Situation: Lives with spouse
+Exercise: Limited due to knee pain
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, no chills, no unintentional weight loss.
+Cardiovascular: No chest pain, no palpitations, no orthopnea.
+Respiratory: No current cough, occasional wheeze with exertion, uses albuterol PRN, no recent asthma exacerbations.
+GU: Nocturia x2, known BPH, on tamsulosin.
+MSK: Right knee pain, chronic, limiting mobility. No other joint complaints.
+Neuro: No focal deficits.
+
+MEDICATIONS:
+1. Tamsulosin 0.4mg daily
+2. Atorvastatin 20mg daily
+3. Alendronate 70mg weekly
+4. Albuterol HFA PRN
+5. CPAP nightly
+6. Calcium/Vitamin D supplement daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, SpO2 96% RA, Wt 198 lb, Ht 5'10"
+General: Well-appearing, no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic. No oropharyngeal lesions.
+Neck: No JVD, no lymphadenopathy.
+Cardiac: RRR, no murmurs/rubs/gallops.
+Lungs: Clear to auscultation bilaterally, no wheezes/rales/rhonchi at rest.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: Right knee with mild effusion, crepitus with ROM, no erythema, no warmth. Left knee unremarkable. No lower extremity edema.
+Skin: No rashes or lesions noted.
+
+LABS/RESULTS:
+- CBC (08/14/2023): WBC 6.8, Hgb 14.1, Hct 41.9%, Plt 232
+- BMP (08/14/2023): Na 139, K 4.4, Cl 101, CO2 24, BUN 22, Cr 1.5 (eGFR 52), Glucose 96
+- Lipid Panel (06/02/2023): Total Chol 178, LDL 96, HDL 44, Trig 190
+- HbA1c (06/02/2023): 5.6%
+- EKG (08/21/2023): Normal sinus rhythm, no acute ST/T changes, rate 74
+- Chest X-ray (08/21/2023): No acute cardiopulmonary process, mild hyperinflation
+- PT/INR (08/21/2023): 12.9/1.0
+
+ASSESSMENT:
+53-year-old male, DOB 08/21/1970, presenting 08/21/2023 for pre-operative evaluation prior to right total knee arthroplasty.
+1. Osteoarthritis, right knee - surgical candidate, cleared from cardiopulmonary standpoint pending final ortho/anesthesia review.
+2. CKD stage 3 - stable, Cr 1.5 today consistent with prior; will need renal-dosed perioperative medications, avoid nephrotoxic agents perioperatively.
+3. Hyperlipidemia - controlled on statin, continue current regimen.
+4. Osteoporosis - continue bisphosphonate, may need to hold perioperatively per orthopedic recommendation.
+5. OSA - continue CPAP use postoperatively, notify anesthesia of OSA diagnosis for airway planning.
+6. Asthma - intermittent, well-controlled, continue albuterol PRN, no recent exacerbations, low perioperative risk from pulmonary standpoint.
+7. Former tobacco use - patient quit smoking in 2008 and reports no current tobacco use; no ongoing counseling needed regarding cessation as patient has already quit. Given age and former tobacco history, lung cancer screening was discussed with the patient as a general health maintenance topic; no imaging ordered today for this purpose.
+8. BPH - stable on tamsulosin, no urinary retention concerns currently.
+
+PLAN:
+- Medically cleared for right TKA pending final anesthesia evaluation.
+- Continue home medications as above; hold alendronate day of surgery per ortho protocol.
+- Renal function to be monitored closely perioperatively given CKD stage 3.
+- Continue CPAP nightly, bring device to hospital for surgery admission.
+- Continue albuterol PRN, no additional pulmonary workup needed at this time.
+- Follow up with PCP post-operatively for routine chronic disease management.
+- Patient counseled on signs of infection, DVT precautions post-op.
+- Return to clinic or ED for any acute concerns.
+
+Electronically signed: Julia Brennan, MD, 08/21/2023

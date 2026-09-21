@@ -1,0 +1,47 @@
+URGENT CARE VISIT NOTE
+Patient: Dorothy Simmons | DOB: 3/29/1962 (age 61) | DOS: 3/29/2023
+Author: Nadia Haddad, MD (resident), attending attestation below
+
+CC: cough x several days
+
+HPI: Pt is a 61 y/o female with hx of HTN, GERD, HFrEF who presents to urgent care today, 3/29/2023, with c/o persistent cough, worse at night, denies fever but endorses some SOB on exertion which she says is her baseline per her cardiologist. She states she has been taking her lasix as prescribed, no increase in LE edema noted. Pt reports she is still smoking cigarettes currently, states she has cut back some but has not quit. Cough is nonproductive mostly, occasional white sputum, no hemoptysis. No recent travel, no sick contacts that she knows of, denies chest pain although sometimes gets [inaudible] tightness when climbing stairs which she attributes to her heart failure and she says her cardiologist told her this was expected given her ejection fraction the cough she thinks might be from her GERD acting up because she ran out of her omeprazole about two weeks ago and hasn't been able to refill it due to insurance issues and she has been eating more spicy foods lately which she knows she shouldn't do.
+
+----- COPIED FORWARD FROM PRIOR VISIT 11/14/2022 -----
+HPI (11/14/2022): Pt presents for follow up of HFrEF, reports doing well on current regimen, no orthopnea, no PND, weight stable. GERD symptoms controlled on omeprazole. HTN well controlled per home readings averaging 128/76. Denies CP, palpitations. Continues to work part time as a receptionist. Lives with daughter. Ambulates independently. Immunizations UTD. Plan (11/14/2022): continue current meds, f/u in 3 months, labs ordered, refill omeprazole.
+----- END COPIED TEXT -----
+
+ROS: otherwise negative except as above. Denies weight loss, denies night sweats.
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE]
+ Status: Current every day smoker
+ Type: Cigarettes
+ Pack-year history: 35 pack-years
+ Interest in quitting: discussed, pt ambivalent
+Alcohol: occasional glass of wine
+Drugs: denies
+
+PMH: HTN, GERD, HFrEF (last known EF 35% per cardiology note)
+Meds: lisinopril, furosemide, carvedilol, omeprazole (currently out, see above)
+Allergies: NKDA
+
+Exam:
+Vitals: BP 132/80, HR 78, RR 16, T 98.2F, SpO2 96% RA
+Gen: NAD, comfortable appearing
+CV: RRR, no murmurs appreciated, no JVD
+Resp: mild expiratory wheeze bilat bases, no rales, no rhonchi
+Abd: soft NT ND
+Ext: trace edema bilat LE, no acute changes from baseline
+
+Assessment/Plan:
+1. Cough - likely combination of GERD flare (off omeprazole) and possible reactive airway component given wheeze on exam. Will restart omeprazole, give sample pack today, pt to follow up with PCP for refill assistance. Recommend OTC guaifenesin PRN.
+2. Tobacco use - pt continues to smoke cigarettes, 35 pack-year history as noted above, counseled extensively on smoking cessation benefits esp given her cardiac and pulm status, offered nicotine patch/gum, pt declined today but agreed to think about it, provided quitline number. General discussion of lung cancer screening topics deferred to PCP given time constraints today.
+3. HFrEF - appears stable, no signs decompensation today, continue home meds, advise follow up with cardiology as scheduled.
+4. HTN - well controlled, continue current regimen.
+
+Disposition: home, return if worsening SOB, chest pain, fevers.
+
+Attending attestation: I have seen and examined this patient with Dr. Haddad and agree with the above assessment and plan. - Attending MD
+
+----- ADDENDUM 3/29/2023 1645 -----
+Addendum by Nadia Haddad, MD: Pt called back after leaving clinic to clarify she does want the quitline number sent to her phone, this has been done. No other changes to plan. Reiterated importance of cough return precautions.

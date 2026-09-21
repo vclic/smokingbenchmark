@@ -1,0 +1,52 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology, Dept of Chest Medicine
+Patient: Gloria Ramirez | DOB: 2/26/1954 | Age: 71
+Date of Service: 02/26/2025
+Author: Laura Castellano, FNP-C
+
+Re: Follow-up incidental lung nodule
+
+Dear Dr. Alvarez,
+
+Thank you for referring Ms. Ramirez, a 71-year-old woman, for eval of an incidentally noted pulmonary nodule.
+
+HPI: Pt returns for f/u re: RUL nodule found on CT chest done for unrelated indication. Denies hemoptysis, wt loss, fevers. Cough chronic, stable, attributed to COPD. Reports occasional dyspnea on exertion, unchanged. She continues to smoke; states she has smoked for 54 years total. Notes she had previously quit smoking in 2021 but relapsed in 2022 and has not stopped since.
+
+--- COPIED FORWARD FROM VISIT 08/14/2023 ---
+Pt seen for routine COPD f/u. Doing reasonably well on current inhaler regimen. Denies exacerbations x 6 mo. No hospitalizations. BPH stable on tamsulosin, nocturia improved. CAD - stable, last stress test unremarkable per cardiology records. GERD controlled on PPI, occasional breakthrough sx with spicy foods. Continues tobacco use, counseled extensively on cessation, declined referral to quitline at that time. Plan: continue current meds, f/u routine.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY:
+TOBACCO USE: [EHR TEMPLATED BLOCK]
+ Current smoker: Yes
+ Years smoked: 54 years
+ Type: cigarettes
+ Cessation counseling given: Yes
+ Interested in quitting: Discussed
+Alcohol: rare, social only. Illicit drug use: denies.
+
+PMH: COPD, BPH, CAD, GERD.
+Meds: tiotropium inhaler, tamsulosin, aspirin, atorvastatin, omeprazole, albuterol PRN.
+
+EXAM: Alert, NAD. Lungs - diminished breath sounds bilat, mild expiratory wheeze. No accessory muscle use. CV - RRR, no m/r/g. Abd soft, NT.
+
+LABS/RESULTS:
+- CBC (02/20/2025): WBC 6.8, Hgb 13.1, Plt 245
+- BMP (02/20/2025): Na 139, K 4.2, Cr 0.9, Glc 101
+- CT chest (02/10/2025): 8mm RUL nodule, stable in size compared to prior study, no new lesions.
+- PFTs (11/2024): FEV1 62% predicted, FEV1/FVC 0.61, consistent with moderate obstruction.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule, RUL - stable on interval imaging. Continue surveillance per guideline-based interval, will arrange repeat imaging.
+2. Active tobacco use - patient remains an active smoker, longstanding history (54 years). Prior quit attempt in 2021, relapsed 2022. Cessation counseling provided again today, discussed nicotine replacement options and referral to tobacco cessation program. Lung cancer screening options discussed with patient in general terms.
+3. COPD - stable, continue current inhaler regimen, reviewed inhaler technique.
+4. CAD - stable, continue home meds, no new cardiac sx today.
+5. BPH/GERD - stable, continue current management.
+
+Will f/u with referring physician, thank you for allowing us to participate in her care.
+
+Laura Castellano, FNP-C
+
+---ADDENDUM (later same day, 02/26/2025)---
+Addendum: Pt called after visit requesting clarification on nodule follow-up timing; discussed with pt via phone, reassured that stability of nodule on current CT (8mm, unchanged) is reassuring, surveillance imaging plan reiterated. Also readdressed smoking cessation resources; pt states she will consider quitline referral. No new concerns voiced. Documented per pt request.
+- L. Castellano, FNP-C

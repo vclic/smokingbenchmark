@@ -1,0 +1,50 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Shared Decision-Making, Lung Cancer Screening
+Date of Service: 09/19/2025
+Author: Nadia Haddad, MD
+
+PATIENT: Wayne Walker
+DOB: 09/19/1954 (age 71)
+Sex: M
+
+HPI:
+71 yo male c/o routine f/u, referred by PCP for LCS shared decision-making discussion. Pt connected via video, alert, appropriate historian. Reports no new resp sx - no cough, no hemoptysis, no wt loss. Hx of CAD, CKD stage 3, T2DM, gout, HTN, OSA on CPAP - stable per pt report. No dyspnea at rest, mild exertional SOB c/w baseline. Denies chest pain today. Meds reviewed, adherent per pt.
+
+During visit, discussed rationale for lung cancer screening referral - noted that pt does not have significant personal tobacco use history, which was clarified further below in SH.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker.
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand exposure: Not on file
+Alcohol use: occasional, pt reports
+Illicit drug use: denies
+Occupation: retired (former electrician)
+Living situation: Not on file
+Exercise: sedentary, limited by SOB on exertion
+
+ROS: Constitutional - negative for fever, chills. Resp - negative for cough, wheeze. CV - negative for chest pain, palpitations (h/o CAD). GI - negative. GU - negative. MSK - occasional gout flares, none active today. Neuro - negative. Psych - negative for depression/anxiety screen today.
+
+VITALS (per home BP cuff/telehealth): BP 138/82, HR 74, reported wt stable.
+
+EXAM (limited, telehealth):
+Gen: well-appearing, no acute distress, seated comfortably at home.
+Resp: no visible increased work of breathing, no cough noted during call.
+CV: unable to auscultate via telehealth; pt denies chest pain/palpitations.
+Ext: no edema reported.
+
+ASSESSMENT/PLAN:
+71 yo male, seen via telehealth 09/19/2025 for lung cancer screening SDM visit.
+
+1. Lung cancer screening discussion - Reviewed benefits/risks/limitations of low-dose CT screening with pt in detail today. Pt has never used tobacco; this was discussed as central to today's conversation regarding his referral and overall risk profile. Screening was discussed at length; no imaging ordered as part of today's encounter. Pt verbalized understanding, has questions he plans to bring to PCP as well.
+2. CAD - stable, continue current cardiac meds, f/u with cardiology per their schedule.
+3. CKD stage 3 - stable, monitor renal function labs at next visit, avoid nephrotoxic agents.
+4. T2DM - reports adherence to metformin, no hypoglycemic episodes, will check A1c at next PCP visit.
+5. Gout - no active flare today, continue allopurinol.
+6. HTN - BP reasonably controlled today at 138/82, continue current regimen.
+7. OSA - on CPAP, reports good compliance, no daytime somnolence currently.
+
+Return to clinic or telehealth PRN, follow up with PCP for routine chronic disease management. Pt given nurse line number for any acute concerns.
+
+Electronically signed: Nadia Haddad, MD, Pulmonology, 09/19/2025.

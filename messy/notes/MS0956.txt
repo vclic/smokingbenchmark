@@ -1,0 +1,45 @@
+TELEHEALTH F/U VISIT - Post-hospitalization (pneumonia)
+Date of Service: 03/03/2023
+Author: Hannah Weiss, NP
+
+Patient: Marilyn Carter, F, DOB 3/3/1949 (age 74)
+
+HPI:
+Pt seen via telehealth for f/u s/p recent hosp admission for pneumonia, d/c'd home ~1wk ago. Pt states "I'm breathing a lot better than when I went in, just still tired." Denies fever, chills, worsening SOB. Cough improving, minimal sputum now, was thick/yellow during admission. No CP, no hemoptysis. Appetite returning. Pt reports compliance w/ abx course, finished full course per pharmacy records. Ambulating around house w/o significant desat per home pulse-ox reports (98-99% RA). c/o fatigue, mild generalized weakness - expected post-illness. No new joint pain flare, PAD sx stable (denies rest pain, claudication unchanged from baseline).
+
+PMH/Problem List (ICD-10):
+- F32.9 Major depressive disorder, unspecified (stable, on sertraline)
+- E78.5 Hyperlipidemia, unspecified (dietary + statin)
+- I10 Essential hypertension
+- M19.90 Osteoarthritis, unspecified site (old code, pt has bilateral knee OA - may need update)
+- I73.9 Peripheral artery disease, unspecified
+- E11.9 Type 2 diabetes mellitus w/o complications
+- J18.9 Pneumonia, unspecified organism - resolving, recent admission
+
+Social History:
+Lives alone, daughter checks in daily. Former smoker - 76 pack-year hx. Quit smoking June 1993. No current tobacco use. No EtOH. No illicit drug use. Retired factory worker.
+
+ROS: Otherwise negative except as noted in HPI. Denies chest pain, palpitations, new edema, GI sx, urinary sx.
+
+Vitals (per home monitoring/reported): BP 128/76, HR 72, RR 16, Temp 97.8F, O2 sat 98% RA, wt stable per pt report.
+
+Exam (limited - telehealth):
+Gen: NAD, appears fatigued but conversant, appropriate affect.
+Resp: Pt reports no increased WOB observed on video, breathing comfortably at rest, no visible accessory muscle use.
+CV: Unable to auscultate via telehealth, pt denies palpitations or chest discomfort.
+Extremities: Pt reports no new swelling, PAD-related skin changes stable per pt report, no new ulcers.
+Skin: No rashes reported.
+
+Assessment/Plan:
+1. Pneumonia, resolving (J18.9) - clinically improving post-hosp d/c, abx course completed. Continue supportive care, incentive spirometry encouraged, f/u CXR in 4-6wks to confirm resolution. Return precautions reviewed (fever, worsening SOB, chest pain).
+2. T2DM (E11.9) - stable, continue metformin, recheck A1c at next visit.
+3. HTN (I10) - well controlled on current regimen, continue lisinopril.
+4. Hyperlipidemia (E78.5) - continue statin, lipid panel due at annual visit.
+5. PAD (I73.9) - stable, no acute claudication sx, continue ASA, cilostazol.
+6. OA (M19.90) - stable, continue APAP PRN, PT referral remains active.
+7. Depression (F32.9) - stable on sertraline, PHQ-9 to be reassessed next visit.
+8. Tobacco use - former smoker, 76 pack-year hx, quit June 1993, remote quit date, reinforced no relapse, continued abstinence encouraged. General health maintenance/preventive screening discussion had; pt counseled on age-appropriate screenings including lung health discussion given significant smoking hx, no imaging ordered at this time via this visit.
+
+F/u in 2 wks or sooner if worsening sx. Pt verbalizes understanding, agrees w/ plan. Telehealth visit ended, no acute issues requiring in-person eval today per pt report and reported vitals.
+
+Electronically signed: Hannah Weiss, NP

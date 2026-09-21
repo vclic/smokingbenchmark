@@ -1,0 +1,74 @@
+PRE-OPERATIVE CONSULTATION - INTERNAL MEDICINE
+Referring Provider: Dr. Alvarez, Orthopedic Surgery
+Consulting Provider: Michael Dunn, DO
+Date of Service: 09/29/2024
+
+Patient: Terrence Harris
+DOB: 09/29/1962 (Age 62)
+MRN: 883021
+
+REASON FOR CONSULT: Pre-op medical clearance s/p planned total knee arthroplasty, right knee.
+
+HPI:
+Mr Harris is a 62 yo male seen today for pre-op eval prior to right TKA scheduled next month. Reports progressive right knee pain, worse w/ ambulation, limiting distance to ~1 block 2/2 pain. No fevers chills night sweats. Denies chest pain, SOB, orthopnea. Hx gout w/ flares involving first MTP joint bilat, last flare approx 3 mo ago, managed w/ colchicine prn. Also hx PAD, followed by vascular surgery, s/p prior claudication workup, ABI done last yr borderline low.
+
+Social hx notable for tobacco use - patient smoked cigarettes for 30 years, quit in 2010, has remained abstinent since. No other tobacco/nicotine products currently. Etoh - previously drank socially, quit alcohol in 2011, denies any use since. No illicit drug use.
+
+ROS: otherwise negative except as above. Denies dysuria, hematuria, melena, hematochezia.
+
+PMH:
+- Gout
+- Peripheral artery disease
+- Hyperlipidemia (per chart, pt states unclear if still active)
+- s/p appendectomy age 19
+
+MEDS:
+Allopurinol 300mg daily
+Colchicine 0.6mg prn flares
+Atorvastatin 40mg qhs
+Aspirin 81mg daily
+Cilostazol 100mg BID
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb
+Gen: NAD, well-appearing male, ambulates w cane
+CV: RRR no m/r/g, distal pulses 1+ bilat dorsalis pedis, faint
+Resp: CTAB no wheezes rales rhonchi
+Ext: right knee w mild effusion, crepitus on ROM, no erythema warmth. Skin cool distally b/l lower extrem, no ulcers or breakdown noted
+Neuro: grossly intact
+
+LABS (reviewed from recent visit):
+CBC wnl
+BMP wnl, Cr 1.0
+Uric acid 7.2
+A1c 5.6
+Lipid panel - LDL 88, HDL 42, TG 150
+
+EKG: NSR, no acute ST changes, rate 72
+
+ASSESSMENT/PLAN:
+Mr Harris is a 62M w PMHx gout and PAD presenting for pre-op clearance for right TKA. Overall cardiac risk assessed low-moderate given asymptomatic PAD, no active cardiac sx. RCRI score low. Cleared for surgery from medicine standpoint pending surgeon's final decision, w following recs:
+
+1. Gout - continue allopurinol, hold NSAIDs peri-op given renal / GI concerns, colchicine avail for breakthru flare
+2. PAD - continue cilostazol, aspirin, hold parameters per anesthesia re: antiplatelet timing pre-op
+3. Tobacco history - former smoker, quit 2010, 30 yr smoking hx noted. General health maintenance discussed with patient, encouraged continued abstinence.
+4. Alcohol - quit 2011, no current use, no further intervention needed at this time
+5. Post-op DVT ppx to be addressed by ortho per protocol
+6. Routine pre-op labs reviewed, unremarkable
+
+Will fax summary to Dr. Alvarez's office. Pt to follow up w PCP for ongoing chronic disease mgmt.
+
+PROBLEM LIST (ICD-10):
+M10.9 - Gout, unspecified
+I73.9 - Peripheral vascular disease, unspecified
+E78.5 - Hyperlipidemia (dx outdated, chart review pending)
+Z87.891 - Personal history of nicotine dependence
+K21.9 - GERD (old dx, unclear current status, pt denies sx today)
+
+---
+ADDENDUM (later same day, 09/29/2024, 4:45pm):
+Spoke briefly w Dr Alvarez's office by phone re: clearance status. Confirmed pt cleared for surgery from IM standpoint. No changes to plan above. Colchicine script sent to pharmacy per pt request for refill. Will remain avail for further questions prior to surgery date.
+
+Michael Dunn, DO

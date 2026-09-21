@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - COPD Follow-up
+Date of Service: 02/07/2023
+Author: Julia Brennan, MD
+
+PATIENT: Samuel Washington
+DOB: 01/21/1972 (age 51)
+MRN: 88213-SW
+
+VISIT TYPE: Video visit, patient at home, adequate audio/video quality, ID confirmed verbally.
+
+HPI:
+Mr. Washington is a 51 yo M w/ hx COPD, HFrEF, obesity, and hyperlipidemia presenting via telehealth f/u for COPD mgmt. He states, "I feel about the same, doc, still get winded going up the stairs." No fevers, no increase in sputum production, denies hemoptysis. He reports occasional wheeze in the AM, uses albuterol PRN maybe 2-3x/week. Denies recent exacerbations or ED visits since last seen. Sleep reportedly fair, some orthopnea consistent w/ known HFrEF, sleeps on 2 pillows.
+Regarding tobacco use - patient continues to smoke, currently averaging about half a pack per day (approx 10 cigs/day). He states, "I've cut back some but haven't been able to quit completely." Advised re: smoking cessation resources, discussed nicotine replacement options and referral to quitline; pt states he will "think about it." No other substance use reported. Denies alcohol excess.
+He also notes some ankle swelling worse in the evenings, consistent w/ known HF, takes furosemide as prescribed per report though admits occasional missed doses.
+
+ROS: Otherwise negative except as above. Denies chest pain, denies palpitations, denies syncope.
+
+PMH/PROBLEM LIST (per chart, some entries may be outdated):
+- J44.9 COPD, unspecified
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.9 Obesity, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- I10 Essential hypertension (dz per problem list, pt reports this resolved per PCP, unclear if still applicable)
+- Z87.891 Personal history of nicotine dependence (NOTE: this appears to be outdated/incorrect entry, as pt is current active smoker, not former - see SH below)
+
+SOCIAL HISTORY:
+Tobacco: Active smoker, current daily use as noted in HPI above. No prior quit attempts documented in this visit. Occupation: retired.
+Alcohol: denies excessive use, occasional beer.
+Illicit drugs: denies.
+Lives with spouse, ambulates independently, uses no assistive device.
+
+MEDICATIONS (per last reconciliation):
+- Albuterol HFA MDI PRN
+- Tiotropium inhaler daily
+- Furosemide 40mg daily
+- Metoprolol succinate 50mg daily
+- Atorvastatin 40mg qHS
+- Lisinopril 10mg daily
+
+RESULTS/LABS:
+PFTs 11/15/2022: FEV1 58% predicted, FEV1/FVC 0.62, consistent w/ moderate obstructive pattern.
+CBC 01/30/2023: WNL, Hgb 14.1, WBC 6.8.
+BMP 01/30/2023: Na 139, K 4.2, Cr 1.0, eGFR >60.
+BNP 01/30/2023: 410 pg/mL (elevated, stable compared to prior 395 pg/mL on 10/2022).
+CXR 12/2022: hyperinflated lungs, no acute infiltrate, stable cardiomegaly.
+
+VITALS (per home device/reported): BP 128/78, HR 76, SpO2 94% on RA per home pulse ox, Wt 231 lbs (obesity noted, stable).
+
+ASSESSMENT/PLAN:
+1. COPD, moderate, stable per report - continue current inhaler regimen (tiotropium daily, albuterol PRN). Reinforced proper inhaler technique via video demonstration. Discussed importance of smoking cessation given active tobacco use (see SH/HPI) as key modifiable factor for disease progression; discussed lung cancer screening in general terms with patient, no specific plan made today. Will consider pulm rehab referral if worsening. F/u PFTs in 6 months.
+2. HFrEF - clinically stable today per pt report, continue metoprolol, furosemide, lisinopril. BNP stable compared to prior. Reinforced low-sodium diet, daily weights.
+3. Obesity - counseled re: diet/exercise as tolerated given COPD limitations, discussed referral to nutrition if pt interested.
+4. Hyperlipidemia - continue atorvastatin, will check lipid panel at next in-person visit.
+5. Tobacco use, active - discussed cessation strategies including nicotine replacement therapy, quitline referral offered, pt to consider and follow up next visit. Encouraged to reduce/quit given COPD and cardiac dz.
+6. Hypertension - problem list entry to be reviewed at next visit given unclear current status; pt reports resolution per PCP but will confirm.
+
+F/u: RTC in-person in 3 months or sooner if symptoms worsen. Pt advised to call or seek ER care for worsening dyspnea, chest pain, or significant edema.
+
+Time spent: 18 minutes, telehealth visit, >50% spent on counseling and coordination of care re: smoking cessation, COPD management, and HF optimization.
+
+Electronically signed: Julia Brennan, MD, Pulmonology, 02/07/2023.

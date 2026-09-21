@@ -1,0 +1,100 @@
+Patient: Sandra Ramirez | DOB: 06/10/1972 | Age: 53 | Sex: F
+Date of Service: 06/10/2025
+Visit Type: New Patient Visit - Establish Care, Primary Care
+Author: Priya Raman, MD
+
+CHIEF COMPLAINT: Establish care; multiple chronic medical conditions.
+
+HPI:
+Ms. Ramirez is a 53-year-old woman who presents today, 06/10/2025, to establish care with our practice after relocating to the area. She reports history of peripheral artery disease, atrial fibrillation, gout, obstructive sleep apnea, heart failure with reduced ejection fraction, and CKD stage 3, previously managed by a cardiologist and nephrologist out of state. Records are being requested; pt brought a partial med list on paper.
+
+Pt states, "I've been feeling more tired lately, but I think it's just the heat." She denies chest pain at rest, denies orthopnea, denies PND. She endorses occasional bilateral leg cramping with ambulation, consistent with known PAD, "my legs start aching after about two blocks, then I have to stop and rest." No non-healing wounds on lower extremities per pt. She uses CPAP nightly for OSA, "most nights, maybe I skip it once a week." She reports intermittent joint pain in the right great toe, last gout flare approx 3 months ago, resolved with colchicine per outside records.
+
+Regarding cardiac status - she denies palpitations today, takes apixaban for AF, states compliance is good. She denies syncope or near-syncope. Denies significant lower extremity edema currently, though states ankles "swell up a bit by end of day."
+
+She denies any recent hospitalizations. Last echo reportedly done ~1 year ago at outside facility, results not yet on file.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. Peripheral artery disease - I73.9
+2. Atrial fibrillation, unspecified - I48.91
+3. Gout, unspecified - M10.9
+4. Obstructive sleep apnea - G47.33
+5. Heart failure with reduced ejection fraction - I50.22
+6. Chronic kidney disease, stage 3 - N18.3
+7. Hyperlipidemia - E78.5 (outdated, unclear if still active, will reassess)
+8. GERD - K21.9 (outdated - pt denies current sx, may resolve from list)
+9. Vitamin D deficiency - E55.9 (outdated, last noted 2019)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker
+Smoking status: Never smoked cigarettes
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Not on file
+Alcohol use: Occasional, denies heavy use
+Drug use: Denies
+Occupation: Retired administrative assistant
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+FAMILY HISTORY: Mother - hypertension, deceased age 78. Father - CAD, deceased age 70. No family hx of lung disease reported.
+
+ALLERGIES: NKDA.
+
+MEDICATIONS (per pt report / partial outside list):
+1. Apixaban 5 mg PO BID
+2. Furosemide 40 mg PO daily
+3. Carvedilol 12.5 mg PO BID
+4. Sacubitril-valsartan 24/26 mg PO BID
+5. Spironolactone 25 mg PO daily
+6. Allopurinol 300 mg PO daily
+7. Colchicine 0.6 mg PO as needed for gout flare
+8. Atorvastatin 40 mg PO daily
+9. Cilostazol 100 mg PO BID (for PAD symptoms)
+10. Vitamin D3 2000 IU PO daily
+
+REVIEW OF SYSTEMS:
+Constitutional: Reports fatigue as above, denies fever, denies chills, denies unintentional weight loss.
+Eyes: Denies vision changes.
+ENT: Denies sore throat, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations today, positive for lower extremity edema by end of day as noted above.
+Respiratory: Denies cough, denies hemoptysis, denies wheezing, denies dyspnea at rest; reports mild dyspnea on exertion.
+GI: Denies nausea, denies vomiting, denies abdominal pain, denies diarrhea, denies constipation.
+GU: Denies dysuria, denies hematuria.
+Musculoskeletal: Positive for intermittent right great toe pain as above, denies other joint swelling currently.
+Skin: Denies rash, denies non-healing wounds.
+Neuro: Denies headache, denies dizziness, denies focal weakness.
+Psych: Denies depression, denies anxiety.
+Endocrine: Denies polyuria, denies polydipsia.
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt 172 lb, Ht 64 in, BMI 29.5
+General: Well-appearing, no acute distress, alert and oriented x3.
+HEENT: Normocephalic, atraumatic, sclerae anicteric, oropharynx clear.
+Neck: No JVD appreciated at 30 degrees, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no rubs, no gallops. Distal pulses diminished bilaterally in lower extremities, consistent with known PAD. Trace bilateral ankle edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no rales, no rhonchi.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No clubbing, no cyanosis, trace edema as noted, skin intact, no ulcerations.
+MSK: Right first MTP joint without acute erythema or swelling today, mild tenderness to palpation.
+Neuro: Cranial nerves II-XII grossly intact, strength 5/5 throughout, sensation intact.
+Skin: Warm, dry, intact, no rashes.
+Psych: Mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - Continue cilostazol, encourage walking program, monitor for claudication progression. Consider vascular surgery referral if symptoms worsen.
+2. Atrial fibrillation - Continue apixaban for anticoagulation, rate appears controlled on current regimen, will obtain EKG today.
+3. Heart failure with reduced EF - Continue GDMT as above, will order BNP and BMP today, recommend outside echo records be forwarded, discuss weight monitoring and low-sodium diet.
+4. CKD stage 3 - Will check CMP, monitor renal function given diuretic and RAAS inhibitor use.
+5. Gout - Continue allopurinol, colchicine PRN, discuss dietary triggers.
+6. OSA - Continue CPAP, encourage nightly adherence, will request sleep study records.
+7. Health maintenance - Discussed age-appropriate cancer screening including mammography and colon cancer screening; lung cancer screening was briefly discussed given her age, though not further addressed given her reported smoking history. Discussed immunizations, pt due for influenza and pneumococcal vaccination update.
+8. Will obtain outside records including prior echocardiogram, sleep study, and cardiology/nephrology notes.
+
+Return to clinic in 4-6 weeks with labs, sooner if symptoms worsen. Pt verbalized understanding and agreement with plan.
+
+Priya Raman, MD

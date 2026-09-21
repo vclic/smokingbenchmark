@@ -1,0 +1,52 @@
+TELEHEALTH URGENT CARE VISIT
+Date of Service: 07/02/2023
+Provider: Brian Okonkwo, MD
+Patient: Marilyn Barnes, F, DOB 7/2/1961 (age 62)
+
+CHIEF COMPLAINT: Cough
+
+HPI: Pt is a 62 yo F with hx of CKD stage 3, HFrEF, obesity, CAD, OSA, and osteoporosis who presents via telehealth for cough x 5 days. Describes dry cough, worse at night, denies fever, denies hemoptysis, mild SOB at baseline per HF hx but no acute worsening. No chest pain. No sick contacts. Denies recent travel. Pt reports using OTC cough drops without relief. No change in weight, no orthopnea beyond baseline, no lower extremity edema increase noted.
+
+ROS: Constitutional - no fever, no chills, no weight loss. HEENT - no sore throat, no congestion. CV - no chest pain, no palpitations. Resp - cough as above, no wheeze reported. GI - no nausea, no vomiting, no abdominal pain. GU - no dysuria. MSK - no new joint pain. Neuro - no HA, no dizziness. Skin - no rash. All other systems reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY: Smoking - pt has a complex tobacco hx. She smoked approx 3/4 pack per day (~15 cigs/day) for 5 yrs, then decreased to about 1/2 pack per day (~10 cigs/day) for 6 yrs, then increased to 1.5 packs per day for 5 yrs before quitting altogether. Per pt report, she first quit smoking in 1987, restarted in 1992, and quit for good in 1994 - has not smoked since. Alcohol - pt quit drinking etoh in 2002, denies current use. Denies illicit drug use. Lives with spouse, retired, uses home O2 prn per prior documentation (unclear if still active - to verify).
+
+PHYSICAL EXAM (via video, limited):
+General: Pt appears comfortable, no acute distress, seated in chair at home.
+HEENT: No visible pharyngeal erythema on camera, no obvious distress.
+CV: Unable to auscultate via telehealth; pt denies palpitations, reports baseline stable per recent cardiology f/u.
+Resp: Occasional dry cough noted during visit, no visible increased work of breathing, no accessory muscle use observed.
+Ext: No visible edema on camera.
+Skin: No rash visible.
+
+MEDICATIONS (per chart, reviewed with pt):
+1. Furosemide 40 mg PO daily
+2. Carvedilol 12.5 mg PO BID
+3. Lisinopril 10 mg PO daily
+4. Atorvastatin 40 mg PO qhs
+5. Aspirin 81 mg PO daily
+6. Alendronate 70 mg PO weekly
+7. CPAP nightly for OSA
+8. Vitamin D3 2000 IU daily
+9. Calcium carbonate 600 mg BID
+10. Metformin - discontinued 2021 per pt (no longer diabetic per records? to clarify)
+
+LABS/RESULTS (recent, from chart):
+- BMP 6/15/2023: Na 138, K 4.3, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline for CKD3), eGFR 38
+- BNP 6/15/2023: 410 (baseline elevated per HF hx)
+- CBC 6/15/2023: WBC 7.1, Hgb 12.9, Plt 245
+- CXR 5/02/2023: no acute infiltrate, mild cardiomegaly stable
+- Last echo 3/2023: EF 35%, unchanged from prior
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs postnasal drip - supportive care, guaifenesin PRN, follow up if worsening fever, hemoptysis, or increasing dyspnea. Given hx of HFrEF and CAD, low threshold to have pt come in for in-person eval if symptoms progress.
+2. CKD stage 3 - stable, continue current meds, recheck BMP in 3 months.
+3. HFrEF - stable, continue GDMT as above, no signs of decompensation on today's telehealth eval.
+4. Tobacco use - former smoker, quit for good in 1994 per pt report as detailed in social hx above. Lung cancer screening discussed generally as part of preventive care given smoking hx; will address further at next in-person visit.
+5. OSA - continue CPAP compliance, reinforce adherence.
+6. Osteoporosis - continue alendronate, calcium, vit D.
+7. Obesity - counseled on diet/exercise as tolerated given cardiac limitations.
+
+Return to clinic or ED for worsening SOB, chest pain, fever >101, or hemoptysis. Telehealth visit time 18 minutes. Plan discussed with pt, all questions answered.
+
+Brian Okonkwo, MD

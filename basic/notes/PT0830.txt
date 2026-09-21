@@ -1,0 +1,45 @@
+PROGRESS NOTE
+Date of Service: 7/10/2023
+Patient: Rosa Alexander   DOB: 6/27/1968   MRN: 28971649
+
+SUBJECTIVE:
+CC: Lung cancer screening
+HPI: Mrs. Alexander is a 55-year-old woman with a history of CKD3, HLD, AFib, and h/o CVA who presents for lung cancer screening shared decision-making. Referred for shared decision-making regarding lung cancer screening. No hemoptysis, weight loss, or new cough.
+
+PMH:
+- Paroxysmal atrial fibrillation
+- Chronic obstructive pulmonary disease (dx 2012)
+- Hypercholesterolemia
+- CKD 3b
+- Prior ischemic stroke
+- Nicotine dependence, cigarettes (F17.210)
+Meds: atorvastatin 40 mg daily; apixaban 5 mg BID; clopidogrel 75 mg daily; umeclidinium-vilanterol 62.5/25 1 inh daily; albuterol HFA 2 puffs q4-6h PRN
+Allergies: NKDA
+SH: Married, lives with husband. Works as a farmer. Current every-day smoker with a 38-pack-year smoking history. EtOH: none since 2002 (hx AUD). No IVDU.
+FH: Son - type 1 diabetes.
+ROS: Gen neg, MSK neg, GI neg, Neuro neg, CV neg, GU neg, Skin neg, Resp +
+
+OBJECTIVE:
+Vitals: BP: 128/67  HR: 74  RR: 16  Temp: 97.6 F  SpO2: 88% on RA  Wt: 163 lbs  BMI: 25.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (6/2/2023): LDL 69, Cr 0.96, K 3.8, Hgb 13.3
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening: SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. Paroxysmal atrial fibrillation: Rate controlled; continue anticoagulation.
+3. Chronic obstructive pulmonary disease
+   - No exacerbations since last visit. Continue maintenance inhaler.
+4. Hypercholesterolemia: Tolerating statin; recheck lipids in 1 yr.
+
+Follow up in 12 months or sooner PRN.
+
+-- FS (MD)

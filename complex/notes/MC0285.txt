@@ -1,0 +1,53 @@
+INTERNAL MEDICINE - PCP FOLLOW-UP
+Date of Service: 05/29/2025
+Author: Laura Castellano, FNP-C (resident); Attestation by supervising attending appended below.
+
+Patient: Charles Okafor  M  DOB: 03/11/1966  Age: 59
+
+CC: f/u HTN, DM2
+
+HPI: Mr Okafor is a 59 yo male w/ hx HFrEF, CAD, BPH, hypothyroidism, CKD3 presenting for routine f/u. Reports BG's runing 130-160 fasting, occasionally higher after meals. States "I've been trying to watch my diet but the holidays got me off track." Denies chest pain, orthopnea, PND. Some mild bilateral LE edema, unchanged. Denies dysuria, nocturia stable at 2x/night (BPH). No new SOB at rest, gets winded climbing 2 flights.
+
+Pt was asked re: tobacco use during visit; states "yeah I still smoke, I know I should stop but I'm just not there yet." Further details captured below in social hx and A/P.
+
+ROS: otherwise negative except as above.
+
+PMH: HFrEF (EF 35% on last echo 2024), CAD s/p PCI 2019, BPH, hypothyroidism (on levothyroxine), CKD stage 3 (baseline Cr ~1.6).
+
+Meds: metoprolol succinate, lisinopril, furosemide, metformin, atorvastatin, levothyroxine, tamsulosin.
+
+Allergies: NKDA
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Yes - see note
+Alcohol use: Former - quit 2002
+Drug use: Not on file
+Occupation: retired machinist
+Living situation: lives with spouse
+Exercise: sedentary
+Diet: Not on file
+
+Exam:
+Vitals: BP 138/84, HR 78, RR 16, T 98.2F, SpO2 96% RA, Wt 91kg
+Gen: NAD, appears stated age
+CV: RRR, no m/r/g appreciated today
+Resp: CTAB, no wheezes
+Abd: soft NT ND
+Ext: 1+ pitting edema bilat LE
+Neuro: grossly intact
+
+Labs (reviewed today, drawn 1 wk prior): A1c 7.8%, Cr 1.7, eGFR 42, K 4.6, TSH 2.1
+
+ASSESSMENT/PLAN:
+1. Type 2 Diabetes Mellitus - A1c 7.8%, above goal. Continue metformin, reinforce diet/exercise. F/u labs in 3 months.
+2. Hypertension - reasonably controlled today. Continue current regimen.
+3. HFrEF/CAD - stable, no acute decompensation signs. Continue GDMT, monitor renal fxn given CKD.
+4. Tobacco use disorder - Smoking history: patient smoked 1 pack per day for 16 years, then decreased to about 5 cigarettes per day for the next 23 years, continuing to present. He remains a current smoker and states he is not ready to quit at this time. Discussed cardiovascular and renal risks of continued smoking given his CAD/HFrEF/CKD. Advised to quit, offered resources/counseling, pt declined referral to cessation program at this visit, will readdress next visit.
+5. BPH - stable on tamsulosin, nocturia unchanged.
+6. Hypothyroidism - TSH within range, continue levothyroxine.
+7. CKD stage 3 - stable, monitor Cr, avoid nephrotoxic agents.
+
+F/u in 3 months or sooner PRN.
+
+---
+ATTENDING ATTESTATION: I have seen and examined the patient with the resident/NP and agree with the assessment and plan as documented above. Discussed tobacco cessation strategies given ongoing use; patient reiterated he is not ready to quit smoking at this visit. All other findings reviewed and confirmed.

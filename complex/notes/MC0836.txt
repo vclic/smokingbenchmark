@@ -1,0 +1,59 @@
+RESIDENT NOTE — Family Medicine
+Patient: George Long | DOB: 11/15/1958 | Age: 65 | Sex: M
+Date of Service: 11/15/2023
+Author: Catherine Lindqvist, DO (resident); attending attestation below
+
+CC: Annual wellness visit.
+
+HPI: Mr. Long is a 65-year-old male here today, 11/15/2023, for routine annual physical. Reports doing fairly well overall. Notes intermittent claudication in bilateral calves with ambulation, unchanged from prior. Denies chest pain at rest, denies acute SOB. Occasional wheeze, uses albuterol PRN. No recent ED visits or hospitalizations. Reviewed meds, tolerating well. No new complaints today besides some fatigue.
+
+---COPIED FORWARD FROM VISIT 06/02/2021 (retained per template, not updated this encounter)---
+CC: f/u HTN, PAD, COPD.
+HPI: Pt c/o intermittent claudication, worse w/ inclines. No rest pain, no ulcers. COPD stable on tiotropium, no exacerbations x6 mo. Asthma well controlled. CAD s/p stent 2018, no anginal equivalents. BP borderline elevated in clinic 152/88. Discussed lifestyle modification, dietary changes, weight loss goals. Pt agreeable to f/u labs and ABI recheck. Denies palpitations, denies syncope. Plan: continue current regimen, f/u 3-6 months, recheck lipid panel and CMP.
+---END COPIED FORWARD---
+
+ROS: Constitutional - fatigue as above, denies fever/chills. CV - denies chest pain, denies edema. Resp - occasional wheeze, denies hemoptysis. GI - denies changes. GU - denies dysuria. MSK - denies new joint pain. Neuro - denies focal deficits. Psych - denies depression/anxiety.
+
+Social History: Noncontributory.
+Alcohol: occasional, denies excess.
+Lives with spouse, retired, ambulates with cane occasionally for PAD-related discomfort.
+
+Family History: Father - MI at 70. Mother - DM2. No known lung disease in family reported.
+
+PMH: Hypertension, obesity, peripheral artery disease, COPD, asthma, coronary artery disease (s/p stent).
+
+Meds: Lisinopril 20mg daily, atorvastatin 40mg qhs, metoprolol succinate 50mg daily, tiotropium inhaler daily, albuterol PRN, aspirin 81mg daily.
+
+Allergies: NKDA.
+
+Vitals: BP 148/86, HR 76, RR 16, Temp 98.4F, Wt 226 lb, BMI 34.2, SpO2 95% RA.
+
+Physical Exam:
+Gen: NAD, obese habitus.
+CV: RRR, no murmurs, no JVD.
+Resp: mild expiratory wheeze bilat bases, no crackles.
+Abd: soft, NT/ND, obese.
+Ext: 1+ pitting edema bilat, diminished dorsalis pedis pulses bilat, no ulcers noted.
+Neuro: grossly intact.
+
+Labs (reviewed today, drawn 11/10/2023):
+- CMP: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.1, Glucose 104
+- Lipid panel: Total chol 188, LDL 102, HDL 38, Trig 210
+- HbA1c: 5.8%
+- CBC: WBC 7.1, Hgb 14.2, Hct 42%, Plt 230
+- TSH: 2.1
+
+Assessment/Plan:
+1. Hypertension - BP still borderline elevated today at 148/86. Continue lisinopril, reinforce low-sodium diet, recheck in 3 months.
+2. Obesity - BMI 34.2. Discussed diet/exercise, referred to nutrition.
+3. Peripheral artery disease - claudication symptoms stable per HPI. Continue aspirin, statin. Consider ABI if worsening.
+4. COPD/Asthma - stable, continue tiotropium and albuterol PRN. No exacerbations reported this visit.
+5. Coronary artery disease - stable, continue metoprolol, statin, aspirin. No anginal symptoms today.
+6. Health maintenance - annual labs reviewed, up to date on colonoscopy per patient report. Lung cancer screening was discussed with patient today, but deferred until smoking history can be obtained, as social history in chart is currently marked noncontributory and unclear. Will clarify at next visit.
+7. Immunizations - influenza vaccine given today, pneumococcal UTD per records.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Attending Attestation: I have seen and examined the patient with Dr. Lindqvist. I concur with the above assessment and plan as documented for this 65-year-old male seen 11/15/2023 for annual wellness visit. Social history remains noncontributory in the chart; will attempt to obtain further detail at next encounter prior to any further screening discussion.
+
+— Attending physician, Family Medicine

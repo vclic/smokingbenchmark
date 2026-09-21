@@ -1,0 +1,56 @@
+CARDIOLOGY FOLLOW-UP VISIT
+Patient: Joseph Rodriguez
+DOB: 02/17/1967 (age 59)
+Date of Service: 03/10/2026
+Provider: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+VS: BP 138/86, HR 78 irreg irreg, RR 16, SpO2 95% RA, Wt 241 lb, Ht 5'10", BMI 34.6
+CC: f/u CHF, palpitations x several wks per pt
+Allergies: NKDA
+Meds reconciled: metoprolol succinate 50mg daily, apixaban 5mg BID, levothyroxine 100mcg daily, furosemide 20mg daily, CPAP nightly per report
+Pt seen alone today, spouse waiting in lobby.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI:
+Mr. Rodriguez is a 59 yo M w/ hx AFib (on apixaban), HFrEF, hypothyroidism, obesity, and OSA (on CPAP) presenting for routine CHF f/u. Pt reports intermittent palpitations, worse w/ exertion, denies syncope. States "I feel my heart flutter sometimes when I climb stairs." Denies chest pain, orthopnea has improved since last visit, still uses 2 pillows. Some mild ankle edema noted by pt, no PND currently. Pt states "I've been pretty good about my low salt diet, my wife makes sure of that." Denies fevers, chills, cough. Appetite stable, no weight gain per pt report (though wt in clinic today up 3 lb from last visit per nursing flowsheet, likely fluid).
+
+Interval hx: pt was seen by PCP last month for routine physical, labs reportedly wnl including TSH. No ED visits or hospitalizations since last cardiology visit.
+
+[COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/04/2025 - left in chart by prior scribe, not reviewed/updated this visit]
+HPI (11/04/2025): Pt presents for routine f/u of AFib and HFrEF. Reports doing well on current regimen, denies palpitations, denies SOB at rest, mild DOE w/ 2 flights of stairs. No chest pain. Pt states "I think the new dose is working better." Wt stable. Edema trace bilateral LE. Continues CPAP nightly, reports good adherence per device download reviewed by sleep medicine. TSH last checked 08/2025 was 2.1, levothyroxine dose unchanged. Plan at that time: continue metoprolol, continue apixaban, f/u echo ordered, repeat TSH in 6 months, RTC 4 months.
+[END COPIED TEXT]
+
+ROS: Cardiac as above. Resp: denies cough, wheeze, hemoptysis. Denies dyspnea at rest. GI: no n/v/d. Endo: denies heat/cold intolerance. Sleep: uses CPAP, per pt "I sleep better with it on, my wife says I stopped snoring so loud."
+
+Social History:
+Lives w/ spouse, retired postal worker. Denies EtOH excess, denies illicit drug use. Tobacco: pt is a lifelong non-smoker, has never smoked cigarettes, cigars, or used any tobacco products. No occupational exposures reported. Exercise: walks ~20 min most days, limited by fatigue.
+
+Physical Exam:
+Gen: NAD, obese male, comfortable at rest
+HEENT: unremarkable
+Neck: no JVD appreciated, thyroid nl to palpation
+CV: irreg irreg rhythm, no murmurs appreciated, nl S1/S2
+Lungs: CTAB, no crackles or wheezes
+Abd: soft, obese, NT/ND
+Ext: trace pitting edema b/l ankles, no calf tenderness
+Skin: warm, dry, no cyanosis
+
+Labs reviewed today: BNP 210 (prior 195), Cr 1.0, K 4.2, INR n/a (on DOAC), TSH pending from PCP visit
+
+EKG today: AFib, rate controlled ~76-82, no acute ST changes, unchanged from prior
+
+Assessment/Plan:
+1. Atrial fibrillation (I48.91) - rate controlled on metoprolol, anticoagulated w/ apixaban for stroke prevention given CHA2DS2-VASc score elevated. Pt reports intermittent palpitations as above, likely rate-related, will continue current regimen, consider event monitor if symptoms persist.
+2. HFrEF (I50.22, chronic diastolic/systolic combined heart failure - dx code carried forward from prior chart, may need update to reflect current EF per most recent echo) - clinically stable, mild residual edema, will increase furosemide slightly to 40mg qAM, recheck lytes in 2 wks.
+3. Hypothyroidism (E03.9) - stable per report, TSH pending, continue levothyroxine 100mcg daily, will review labs when available.
+4. Obesity (E66.9) - counseled on diet/exercise, pt engaged with spouse's support at home, discussed weight management resources.
+5. OSA (G47.33) - on CPAP, good adherence per pt report, continue current therapy, f/u w/ sleep medicine as scheduled.
+6. Tobacco use - none, patient has never smoked, no counseling needed regarding cessation given lifelong non-smoking status; general healthy lifestyle counseling provided regarding diet and activity.
+
+Discussed overall cardiac risk given constellation of AFib, HF, obesity, and OSA; lung cancer screening was discussed in context of general preventive health but not further addressed given non-smoking history.
+
+RTC 3 months or sooner if symptoms worsen. Pt verbalized understanding, all questions answered.
+
+Daniel Reyes, MD
+Electronically signed 03/10/2026

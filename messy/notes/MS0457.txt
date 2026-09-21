@@ -1,0 +1,60 @@
+HISTORY AND PHYSICAL
+Patient: Priya Perry (F), DOB: 08/02/1966 (age 59)
+Date of Service: 08/02/2025
+Author: Rachel Goldberg, MD
+Location: Primary Care, hospital discharge follow-up
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Ms. Perry is a 59-year-old woman with history of obesity and type 2 diabetes who was recently discharged following a 4-day admission for community-acquired pneumonia. She reports improving cough and dyspnea since discharge, though she still notes mild fatigue. She has been compliant with the prescribed antibiotic course (completed) and reports no fevers, chills, or chest pain currently. She continues to smoke cigarettes despite recent illness, stating she has tried multiple times to quit but finds it difficult, especially when stressed. She denies hemoptysis. Appetite is improving; glucose control has been variable during recovery, attributed to reduced activity and steroid taper during hospitalization.
+
+PAST MEDICAL HISTORY:
+- Obesity
+- Type 2 diabetes mellitus
+- Recent pneumonia (hospitalized 07/2025)
+
+MEDICATIONS: Metformin 1000mg BID, empagliflozin 10mg daily, amoxicillin-clavulanate (completed course), albuterol PRN.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Pack-years: 54
+Type: Cigarettes
+Quit attempts: Yes - quit 2014, relapsed 2015
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, socially
+Illicit drug use: Denies
+Occupation: Not on file
+Living situation: Lives with spouse
+Exercise: Limited due to recent illness
+
+FAMILY HISTORY: Mother - type 2 diabetes; father - coronary artery disease. No family history of lung cancer on file.
+
+REVIEW OF SYSTEMS: Positive for mild fatigue and occasional cough. Negative for fever, chest pain, hemoptysis, night sweats, unintentional weight loss.
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 82, BP 128/78, RR 16, SpO2 96% on room air, BMI 34.2
+General: Well-appearing, no acute distress
+Lungs: Mild bibasilar crackles, improved from prior; no wheezes
+CV: Regular rate and rhythm, no murmurs
+Abdomen: Obese, soft, non-tender
+Extremities: No edema
+
+LABS/RESULTS:
+- CBC (07/29/2025): WBC 8.9, Hgb 12.4, Hct 37.1, Plt 245
+- CMP (07/29/2025): Glucose 178, Creatinine 0.9, eGFR >60, Na 138, K 4.1
+- HbA1c (07/15/2025): 8.1%
+- Chest X-ray (07/28/2025): Interval improvement of right lower lobe consolidation, no effusion
+- Blood cultures (07/25/2025): No growth to date
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, resolving - Continue supportive care, repeat chest imaging in 6 weeks to confirm resolution. Patient counseled that with a 54 pack-year smoking history and continued current cigarette use, ongoing pulmonary risk is significant. Smoking cessation strongly encouraged; discussed nicotine replacement therapy and referral to cessation counseling. General conversation held regarding lung health monitoring given smoking history, without further specifics documented at this visit.
+2. Type 2 diabetes mellitus - HbA1c elevated at 8.1%. Will adjust medications, reinforce dietary counseling, and recheck in 3 months.
+3. Obesity - Continue lifestyle counseling; discussed weight management strategies given BMI 34.2.
+4. Tobacco use disorder, current smoker with prior quit attempt (quit 2014, relapsed 2015) - Advised to quit again; provided cessation resources and offered pharmacologic support (varenicline vs. patch/gum). Patient to follow up in 4 weeks to discuss cessation aids.
+
+FOLLOW-UP: Return to clinic in 4 weeks or sooner if symptoms worsen. Repeat chest imaging as above. Continue to monitor glucose logs.
+
+Electronically signed by Rachel Goldberg, MD, 08/02/2025.

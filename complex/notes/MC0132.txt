@@ -1,0 +1,38 @@
+PULMONOLOGY FOLLOW-UP - RESIDENT NOTE
+Author: Priya Raman, MD (resident), attending attestation below
+DOS: 02/11/2026
+
+Patient: Dennis Simmons, M, DOB 02/11/1968 (age 58)
+
+HPI: Mr. Simmons returns for f/u of incidentally noted RUL nodule found on CT for CHF workup. He states, "I feel about the same, maybe a bit more short of breath climbing stairs." No hemoptysis, no wt loss. Smoking hx obtained in detail today: pt reports smoking 1.5 packs per day for 11 years, then increased to 2 packs per day for 14 years, then decreased to 1 pack per day for 11 years, which is his current use. He continues to smoke cigarettes currently. Denies vaping. No new cough. Sleeps with CPAP for OSA, reports fair compliance.
+
+ROS: otherwise negative except as above.
+
+--- SOCIAL HISTORY (templated) ---
+Tobacco use: Current smoker
+Type: Cigarettes
+Alcohol: Occasional, 1-2 drinks/wk
+Drug use: Not on file
+Occupation: Retired
+Living situation: With spouse
+Exercise: Not on file
+---
+
+[Copied from note dated 6/11/2022]: "Tobacco: current smoker." (No quantities documented in that note.)
+
+PMH: hypothyroidism, OSA, HTN, HFrEF, BPH.
+Meds: levothyroxine, carvedilol, furosemide, tamsulosin, lisinopril.
+
+Exam: Vitals stable, afeb, SpO2 95% RA. Lungs CTAB, no wheeze/crackles. CV: RRR, S3 present, no significant edema today. Abd soft, non-tender.
+
+Assessment/Plan:
+1. Pulmonary nodule, indeterminate - stable per radiology comparison. Continued tobacco use is a significant risk factor complicating management; ongoing cigarette use noted. Lung cancer screening options were discussed with patient in general terms. Recommend repeat imaging per protocol.
+2. Tobacco use disorder - counseled extensively on cessation; discussed nicotine replacement and referral to tobacco cessation program. Pt states he is "not ready yet" but will consider.
+3. HFrEF - stable, continue current regimen, follow with cardiology.
+4. OSA - continue CPAP, reinforce adherence.
+5. HTN, hypothyroidism, BPH - stable, continue current meds.
+
+Plan discussed with attending Dr. Okafor who agrees with above.
+
+--- ADDENDUM (same day, 4:45 PM) ---
+Additional history clarified with patient by phone: confirms smoking timeline as documented above is accurate; no changes to plan. Attending Dr. Okafor attests to having reviewed and discussed this case with resident; agree with assessment and plan as documented.

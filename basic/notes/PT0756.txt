@@ -1,0 +1,84 @@
+Internal Medicine Clinic Note
+
+Patient: SCHMIDT, Pamela    MRN: 21703645
+DOB: 01/06/1963    Age: 61 y.o.    Sex: Female
+Date of Service: 01/22/2024    Provider: Priya Raman, MD
+
+Chief Complaint
+Patient presents with
+• Diabetes follow-up
+
+Subjective:
+Pamela Schmidt is a 61 y.o. female who presents for diabetes follow-up.
+Most recent A1c 9.2% (previously 8.9% in October 2023). Rarely checks glucose at home. No hypoglycemic episodes. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• T2DM without complication
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• simvastatin 20 mg nightly
+• sitagliptin 100 mg daily
+• nicotine polacrilex gum 2 mg PRN
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 1.00
+    Years: 43.00
+    Pack years: 43.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: quit 2023
+Social History Narrative
+  Widowed; lives with daughter.
+  Retired, former office manager.
+  Still using nicotine gum 2 mg PRN cravings.
+  EtOH: 2-3 drinks on weekends.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 112/85 (BP Location: Right arm, Patient Position: Sitting) | Pulse 62 | Temp 97.7 °F (Oral) | Resp 20 | Ht 5' 1" | Wt 136 lb | SpO2 98% | BMI 25.77 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (12/22/2023): A1c 9.2%, LDL 134, Cr 1.09, K 3.7
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 9.2% - above goal; increase metformin to 1000 mg BID. Foot exam today - monofilament intact.
+2. Hyperlipidemia
+   LDL at goal on last check; continue.
+3. Ex-smoker
+   No relapse.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Priya Raman, MD on 01/22/2024

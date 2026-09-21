@@ -1,0 +1,64 @@
+Cardiology Progress Note - Heart Failure Follow-up
+Date of Service: 03/15/2025
+Author: Catherine Lindqvist, DO (NP-authored note)
+
+Patient: Michael King, M, DOB 01/07/1954, Age: 71
+
+CC: HF f/u, doing 'ok', mild dyspnea on exertion x2wks.
+
+HPI: 71 yo M w/ hx CHF (EF last echo 40%), afib, asthma, presents for routine f/u. Pt reports gen well, some increased SOB w/ climbing stairs, denies orthopnea/PND. No chest pain, no palpitations noted though hx afib on rate control. Wt stable per pt, no significant edema. Compliant w/ meds per pt report. Diet - admits some dietary indiscretion over holidays, sodium intake up. No recent hospitalizations. No fevers/chills. Appetite ok. Sleep fair, uses 2 pillows.
+
+ROS: Constitutional - neg wt loss, neg fever. CV - as above, denies chest pain. Resp - mild DOE, no cough, no wheeze currently (asthma stable). GI - neg. GU - neg. Neuro - neg. Psych - neg.
+
+Smoking status: Unknown if ever smoked.
+
+PMH:
+- Congestive heart failure, HFrEF - I50.22
+- Atrial fibrillation - I48.91
+- Asthma, unspecified - J45.909
+- HTN (outdated - resolved per pt, unclear if still applicable) - I10
+- Hyperlipidemia (chart carried forward, unclear current status) - E78.5
+
+Meds: Metoprolol succinate 50mg daily, Apixaban 5mg BID, Furosemide 20mg daily, Lisinopril 10mg daily, Albuterol PRN, Atorvastatin 20mg daily (per old list, verify still taking).
+
+Allergies: NKDA.
+
+Social Hx: Lives w/ spouse, retired, denies illicit drug use. Etoh - occasional glass of wine. Smoking status: see above (unknown/undocumented). Exercise - light walking as tolerated.
+
+Family Hx: Father - MI age 68. Mother - DM2.
+
+Physical Exam:
+Vitals: BP 128/78, HR 72 irregularly irregular, RR 16, SpO2 96% RA, Wt 84.2kg (stable from last visit), Temp 98.2F.
+Gen: NAD, well-appearing, appropriate affect.
+HEENT: Neg JVD.
+CV: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no S3.
+Resp: CTAB, no wheeze/crackles.
+Abd: Soft, NT/ND, no hepatomegaly.
+Ext: Trace bilateral pedal edema, no clubbing/cyanosis.
+Skin: Warm, dry.
+
+Labs (reviewed today): BNP 210 (prior 195), K 4.2, Cr 1.0, INR n/a (on DOAC). CBC wnl.
+
+EKG: Afib, rate 70s, no acute ST changes, unchanged from prior.
+
+Assessment:
+1. CHF - HFrEF, currently stable, mild sx increase possibly diet-related. Cont current regimen, reinforce low-Na diet.
+2. Afib - rate controlled on metoprolol, anticoagulated on apixaban, no bleeding concerns.
+3. Asthma - stable, no recent exacerbations, continue albuterol PRN.
+4. HTN/HLD - status unclear, will review at next visit, pt to bring in current med bottles.
+
+Plan:
+- Cont metoprolol succinate 50mg daily.
+- Cont apixaban 5mg BID.
+- Cont furosemide 20mg daily, may increase if sx worsen.
+- Reinforce low sodium diet, daily weights.
+- Repeat echo in 6 months or sooner if sx worsen.
+- F/u labs (BMP) in 4 wks.
+- Pt educated on signs of HF decompensation - call if wt gain >3lbs in 2 days, worsening SOB, edema.
+- Discussed general preventive health screenings appropriate for age; pt to follow up w/ PCP for age-appropriate screening discussions.
+- RTC cardiology in 3 months, sooner if needed.
+- Pt verbalized understanding, agrees w/ plan.
+
+Note reviewed and cosigned by Dr. Lindqvist.
+
+End of note.

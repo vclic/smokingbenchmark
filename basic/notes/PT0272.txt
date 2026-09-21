@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Date of Service: March 9, 2026
+Patient: Larry Alexander   DOB: 11/7/1952   MRN: 28688729
+
+S:
+CC: HTN follow-up
+HPI: Mr. Alexander is a 73 y.o. male with a history of obesity, HTN, and T2DM who presents for follow-up of hypertension. Home BP readings mostly in the 130s/70s. Taking losartan 50 mg daily without missed doses. Occasional lightheadedness on standing, otherwise no complaints.
+
+PMH:
+- Hypertension
+- Class I obesity
+- Type 2 diabetes
+PSH: Lumbar laminectomy (2023); Carpal tunnel release (2020); Vasectomy (1993)
+Meds: metformin 1000 mg BID; losartan 50 mg daily; amlodipine 5 mg daily; insulin glargine 20 units nightly
+Allergies: Penicillin (rash)
+Social History:
+- Divorced, lives alone.
+- He is a current smoker; he has smoked between 1 and 1.5 packs per day for 54 years.
+- Vapes occasionally in addition to cigarettes.
+- Social drinker.
+- No IVDU.
+- Exercise: walks daily.
+FH: Sister - hypothyroidism. Father - prostate cancer.
+ROS: CV neg, Neuro neg, GI neg, Skin neg, MSK neg, GU neg
+
+OBJECTIVE:
+Vitals: BP: 150/75  HR: 80  RR: 12  Temp: 97.8 F  SpO2: 97% on RA  Wt: 257 lbs  BMI: 34.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Hypertension: Above goal; increase losartan dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Class I obesity: Discussed diet and exercise.
+3. Type 2 diabetes: Continue metformin. Foot exam today normal.
+4. Health maintenance
+   - LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+RTC 12 months.
+
+-- EM (MD)

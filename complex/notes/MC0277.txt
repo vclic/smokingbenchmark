@@ -1,0 +1,74 @@
+CARDIOLOGY TELEHEALTH VISIT NOTE
+Patient: Dennis Schmidt (M)
+DOB: 02/04/1966 (age 60)
+Date of Service: 04/04/2026
+Provider: Gregory Tan, MD
+Visit Type: Telehealth follow-up - Heart Failure
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI:
+Mr. Schmidt is a 60-year-old male with hx of HFrEF, OSA, HLD, hypothyroidism, T2DM, and HTN, seen today via video visit for routine follow-up. He states, "I've been feeling pretty good, no more swelling in my ankles like before." He denies orthopnea or PND currently. He reports adherence to his diuretic and other cardiac meds. He notes occasional fatigue in the afternoons but attributes this to poor sleep, ongoing use of CPAP most nights. "I still forget the mask some nights, but I'm trying to wear it more," he said. No chest pain, no palpitations. Diet has been reasonable per patient, though he admits to "cheating with salty snacks now and then."
+
+---- COPIED FORWARD FROM VISIT 11/12/2025 ----
+PATIENT SEEN IN CLINIC FOR HF FOLLOW UP. Pt reports doing well, weight stable at 210 lbs, no significant edema noted on exam. JVP not elevated. Lungs clear to auscultation bilaterally. Cardiac exam reveals regular rate and rhythm, S1 S2 normal, no S3 or S4 appreciated, no significant murmurs. Extremities without edema. Pt continues on lisinopril, carvedilol, spironolactone, and furosemide as prescribed. Labs reviewed and stable. Pt was counseled on low sodium diet and fluid restriction. Pt was also advised to continue CPAP nightly for OSA management. Follow up in 3 months or sooner if symptoms worsen. Pt educated on signs/symptoms of worsening HF including weight gain >3 lbs in 2 days, increased SOB, or lower extremity swelling.
+---- END COPIED SECTION ----
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use: Former/Never - see comment
+Comment: Patient tried a few cigarettes as a teenager but never smoked regularly.
+Alcohol Use: Not on file
+Illicit Drug Use: Denies
+Occupation: Retired
+Living Situation: Lives with spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Denies chest pain, palpitations, syncope.
+Respiratory: Denies cough, hemoptysis. Mild exertional dyspnea, stable.
+Endocrine: Denies polyuria, polydipsia.
+All other systems reviewed and negative except as noted in HPI.
+
+VITALS (via home device, reported):
+BP: 128/78
+HR: 72
+Weight: 208 lbs (down 2 lbs since last visit)
+O2 sat: 97% on room air
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, well-appearing, no acute distress, appropriate for video visit.
+Cardiovascular: Unable to auscultate via telehealth; patient denies visible JVD or peripheral edema on self-exam per camera.
+Respiratory: No visible respiratory distress, no use of accessory muscles.
+Extremities: No visible edema per patient self-report and camera view.
+
+LABS/RESULTS:
+- BNP (03/28/2026): 145 pg/mL (mildly elevated, improved from prior)
+- BMP (03/28/2026): Na 139, K 4.2, Cl 101, CO2 26, BUN 18, Cr 1.0, Glucose 118
+- HbA1c (03/15/2026): 7.1%
+- TSH (02/10/2026): 2.8 mIU/L (within normal limits)
+- Lipid panel (03/28/2026): Total chol 165, LDL 88, HDL 42, Trig 175
+
+ASSESSMENT:
+1. Heart failure with reduced ejection fraction - stable, improved BNP, euvolemic on exam/self-report.
+2. Obstructive sleep apnea - continues CPAP, adherence inconsistent.
+3. Type 2 diabetes mellitus - reasonably controlled, A1c 7.1%.
+4. Hypertension - well controlled today.
+5. Hyperlipidemia - stable on current statin therapy.
+6. Hypothyroidism - euthyroid on current levothyroxine dose.
+
+PLAN:
+1. Continue current HF regimen: lisinopril, carvedilol, spironolactone, furosemide.
+2. Continue CPAP nightly; encouraged more consistent use given fatigue complaints.
+3. Continue metformin and current diabetic regimen; recheck A1c in 3 months.
+4. Continue atorvastatin for hyperlipidemia.
+5. Continue levothyroxine, recheck TSH in 6 months.
+6. Low sodium diet reinforced, daily weights recommended.
+7. Follow-up in 3 months or sooner if symptoms worsen.
+8. Patient to continue home BP and weight monitoring, report any weight gain >3 lbs in 2 days.
+
+Electronically signed: Gregory Tan, MD
+
+---- ADDENDUM (later same day, 04/04/2026, 4:32 PM) ----
+Addendum: Patient called back after visit to clarify that he has been taking his CPAP more consistently over the past week, about 6 nights out of 7. Also wanted to confirm that his home BP log has been within normal range, averaging around 125/76 over the past week. No new symptoms reported. No changes to plan at this time. Will continue to monitor at next scheduled visit.
+- Gregory Tan, MD

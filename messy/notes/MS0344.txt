@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Date of Service: 08/20/2023
+Patient: Deborah Rivera, F, DOB 2/29/1972 (age 51)
+Provider: Rachel Goldberg, MD
+
+--- NURSE INTAKE ---
+Pt calling in for med refills via video visit. Vitals per home cuff reported by pt: BP 138/86, HR 78, denies fever/chills. Pt states "I just need my refills doc, I'm doing ok mostly." Reviewed med list w/ pt, no new allergies noted. Pt reports occasional SOB w exertion, baseline per pt.
+
+PROBLEM LIST:
+- I50.22 Chronic systolic (congestive) heart failure
+- J44.9 COPD, unspecified
+- F33.1 Major depressive disorder, recurrent, moderate
+- J45.909 Asthma, unspecified
+- N40.0 BPH without lower urinary tract symptoms
+- M19.90 Osteoarthritis, unspecified site
+- Z71.6 Tobacco use counseling (copied forward, outdated status)
+
+[COPIED FORWARD FROM VISIT 11/14/2022 - left in note by mistake]
+HPI (11/14/22): Pt here for f/u HFrEF and COPD. Reports doing fairly well, some increased ankle swelling over past wk, denies orthopnea/PND. Lungs w scattered wheezes, no crackles. Cont on carvedilol, lisinopril, spironolactone, furosemide prn. COPD stable on tiotropium + albuterol prn. Depression screen PHQ-9 stable, cont sertraline. BPH sx stable on tamsulosin. OA of knees managed w acetaminophen prn, PT referral discussed. Pt continues to smoke, counseled extensively on cessation, declined referral to quitline at that time. Plan: cont current meds, f/u 3 months, labs ordered incl BNP, BMP.
+[END COPIED TEXT]
+
+--- PHYSICIAN PROGRESS NOTE 08/20/2023 ---
+HPI: 51 yo F w hx HFrEF, COPD, asthma, depression, BPH, OA seen via telehealth for refills. Pt reports stable sx overall. "I'm not any worse, just tired sometimes" per pt. Denies chest pain, denies increased edema. Occasional wheeze, uses albuterol inhaler ~2x/wk. Sleep fair, mood stable on current antidepressant per pt report. No new urinary sx. Knee pain intermittent, managed w otc analgesics.
+
+Social History: Pt continues to smoke cigarettes, reports smoking 4 cigarettes per day for 10 years. She continues to smoke despite counseling on cessation provided at prior visits and again today. No illicit drug use reported. Occasional etoh, denies heavy use.
+
+ROS: Constitutional - no fever, no wt loss. Resp - mild dyspnea on exertion, baseline. CV - no chest pain, no palpitations. GI - no complaints. GU - nocturia x1, stable. MSK - knee pain, chronic. Psych - mood stable, denies SI/HI.
+
+Exam (limited, telehealth, pt self-report + visual): Pt appears comfortable, no acute distress noted on camera. Speaking in full sentences, no accessory muscle use visible. Skin - no cyanosis noted. No peripheral edema visible on camera (pt lifted pant leg to show).
+
+Assessment/Plan:
+1. HFrEF (I50.22) - stable per pt report, no signs decompensation on telehealth eval. Cont carvedilol, lisinopril, spironolactone, furosemide prn. Refill sent. Recommend in-person visit next mo for wt/exam/labs (BNP, BMP).
+2. COPD (J44.9) - stable, cont tiotropium, albuterol prn. Refills sent.
+3. Asthma (J45.909) - well controlled currently, no rescue inhaler overuse.
+4. Depression (F33.1) - stable on sertraline, continue, PHQ-9 to be done at next in person visit.
+5. BPH (N40.0) - stable on tamsulosin, continue, refill sent.
+6. OA (M19.90) - continue otc analgesics prn, consider ortho referral if worsens.
+7. Tobacco use - counseled again today re: cessation given cardiopulmonary comorbidities (HFrEF, COPD, asthma); pt continues to smoke despite counseling. Discussed cessation resources including quitline and nicotine replacement options, pt declined at this time. Lung cancer screening options discussed in general terms; no imaging ordered today. Will readdress at next visit.
+
+Return to clinic in person in 1 month for full exam and labs, sooner if worsening sx (increased SOB, edema, chest pain). Pt verbalizes understanding, agrees w plan.
+
+Time spent: 22 min, >50% counseling/coordination of care.
+
+Electronically signed: Rachel Goldberg, MD, 08/20/2023

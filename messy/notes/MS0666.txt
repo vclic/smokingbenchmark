@@ -1,0 +1,45 @@
+URGENT CARE PROGRESS NOTE
+Patient: Terrence Jones (M), DOB 06/22/1964, Age: 61
+Date of Service: 12/02/2025
+Author: Julia Brennan, MD
+
+CC: cough x5 days.
+
+HPI: 61 yo M presents with productive cough, worse at night, mild wheeze, denies fever, no hemoptysis. Hx of asthma, uses albuterol PRN w/ some relief. Denies chest pain, no leg swelling. Reports increased vaping use during recent stress at work.
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use: Never smoker
+ Smoking status: Lifelong non-smoker
+ Vaping/e-cigarette use: Yes - daily, nicotine-containing
+ Alcohol use: Not on file
+ Illicit drug use: Denies
+ Occupation: Not on file
+ Living situation: Not on file
+
+ROS: Otherwise negative except as above. No weight loss, no night sweats.
+
+PMH/Problem List (ICD-10):
+- CKD stage 3 (N18.3)
+- Gout (M10.9) - outdated, pt reports no flares x2 yrs
+- Asthma (J45.909)
+- BPH (N40.0)
+- CAD (I25.10)
+
+Meds: allopurinol, tamsulosin, albuterol inhaler PRN, aspirin 81mg, atorvastatin.
+
+Exam: Vitals stable, afebrile, RR 18, O2 sat 97% RA. Lungs: mild expiratory wheeze bilat, no crackles. Cardiac: RRR, no murmurs. Abd: soft, nontender. Ext: no edema.
+
+Assessment: Acute bronchitis vs asthma exacerbation, mild. CKD3, gout, BPH, CAD stable.
+
+Discussion: Patient counseled regarding vaping cessation given daily nicotine use; educational materials provided. Confirmed with patient - he states he has never smoked cigarettes in his life, lifelong non-smoker of tobacco cigarettes, though uses nicotine vape daily. Discussed general risk factors for pulmonary disease and importance of avoiding inhaled irritants.
+
+Plan:
+- Albuterol inhaler increase frequency PRN
+- Consider short course of prednisone if not improved in 3 days
+- Follow up CKD labs in 3 months
+- Continue current gout/BPH/CAD meds
+- Counseled on vaping cessation resources
+- Return precautions given
+- RTC 2 weeks or sooner if worsening
+
+Electronically signed: Julia Brennan, MD, 12/02/2025.

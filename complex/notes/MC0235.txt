@@ -1,0 +1,78 @@
+GERIATRICS - HISTORY AND PHYSICAL
+Date of Service: 03/30/2024
+Author: Rachel Goldberg, MD
+
+Patient: Raymond Henderson (M)
+DOB: 03/30/1951 (Age 73)
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, referred by PCP for functional decline and polypharmacy review.
+
+HPI: Mr. Henderson is a 73-year-old male with history of obesity, GERD, depression, HFrEF, OSA, and BPH who presents today for routine geriatric assessment. He reports fatigue and occasional exertional dyspnea, stable per his cardiologist's recent notes. He denies chest pain, orthopnea, or PND currently. He is a former smoker, smoked 1 pack per day, and he no longer smokes; he quit smoking in 2014. He reports adherence to his CPAP for OSA most nights, though admits to occasional non-use when traveling. His mood has been fairly stable on current antidepressant regimen, though he notes some increased anhedonia over the past month, which will be addressed further below. He denies alcohol or illicit drug use. He lives with his wife and remains independent in ADLs, though he has had some difficulty with IADLs including managing his own medications.
+
+REVIEW OF SYSTEMS: Positive for occasional nocturia, mild peripheral edema, and fatigue. Negative for fevers, chills, unintentional weight loss, hemoptysis, or hematuria. All other systems reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY (EHR TEMPLATED BLOCK):
+Tobacco use status: Former smoker
+Smoking quit date: 2014
+Smokeless tobacco: Not on file
+Alcohol use: Denies
+Illicit drug use: Denies
+Occupation: Retired (former accountant)
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. E66.9 - Obesity, unspecified
+2. K21.9 - GERD
+3. F32.9 - Major depressive disorder, single episode, unspecified (chronic, ongoing treatment)
+4. I50.22 - Chronic systolic (congestive) heart failure, HFrEF
+5. G47.33 - Obstructive sleep apnea
+6. N40.0 - Benign prostatic hyperplasia without lower urinary tract symptoms
+7. I10 - Essential hypertension (outdated entry, per chart review patient reports BP well controlled without meds x2 years - to be reconciled)
+8. E78.5 - Hyperlipidemia (outdated, no longer on statin per patient report, needs review)
+
+MEDICATIONS:
+- Furosemide 20mg daily
+- Metoprolol succinate 50mg daily
+- Sertraline 100mg daily
+- Omeprazole 20mg daily
+- Tamsulosin 0.4mg daily
+- CPAP nightly
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 96% RA, Weight 224 lbs, BMI 34.1
+General: Well-appearing, obese male, no acute distress
+HEENT: Normocephalic, atraumatic, no JVD appreciated at 30 degrees
+CV: RRR, no murmurs, 1+ bilateral lower extremity edema
+Resp: Clear to auscultation bilaterally, no wheezes or crackles
+Abd: Obese, soft, non-tender, non-distended
+Extremities: No cyanosis, trace edema as noted
+Neuro: Alert and oriented x3, gait steady with cane
+Psych: Mood mildly dysphoric, affect appropriate, no SI/HI
+
+LABS/RESULTS:
+- CBC (03/28/2024): WBC 6.8, Hgb 13.2, Hct 39.5%, Plt 210
+- BMP (03/28/2024): Na 139, K 4.2, Cl 101, CO2 26, BUN 22, Cr 1.1, Glucose 104
+- BNP (03/28/2024): 410 pg/mL (elevated, stable compared to prior 395 pg/mL on 01/15/2024)
+- TSH (01/15/2024): 2.1 mIU/L, within normal limits
+- HbA1c (01/15/2024): 5.7%
+- Lipid panel (01/15/2024): Total cholesterol 168, LDL 92, HDL 45, TG 155
+- PHQ-9 (today): Score 11, mild-moderate depression
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue furosemide and metoprolol, BNP stable from prior, will follow with cardiology.
+2. Obesity - counseled on weight management, dietary referral to be placed.
+3. GERD - continue omeprazole, symptoms controlled.
+4. Depression - PHQ-9 shows mild-moderate symptoms with increased anhedonia; will increase sertraline dose and follow up in 4 weeks, consider psychology referral.
+5. OSA - continue CPAP, reinforce adherence, will obtain updated sleep study if symptoms worsen.
+6. BPH - continue tamsulosin, asymptomatic currently.
+7. Tobacco history - former smoker, quit 2014, reinforced importance of continued abstinence; lung cancer screening discussed with patient as part of preventive care conversation.
+8. Health maintenance - due for colonoscopy per last note, will schedule. Influenza and pneumococcal vaccines up to date per records.
+9. Polypharmacy review completed, no immediate changes other than sertraline dose adjustment.
+
+Follow-up in 4 weeks or sooner if symptoms worsen.
+
+Electronically signed by Rachel Goldberg, MD

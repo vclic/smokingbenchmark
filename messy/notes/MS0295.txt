@@ -1,0 +1,36 @@
+TELEHEALTH FOLLOW-UP NOTE
+Patient: Dale Price (M), DOB 1/26/1955, Age: 71
+Date of Service: 02/18/2026
+Provider: Kevin Osei, MD
+Visit type: Telehealth, post-hospitalization follow-up (pneumonia)
+
+HPI:
+Mr. Price is a 71-year-old male seen via video visit for follow-up after recent hospital discharge for community-acquired pneumonia. He states, "I'm breathing a lot easier than last week, but I still get tired walking to the mailbox." He denies fever, chills, or hemoptysis. He reports taking the full course of antibiotics as prescribed. Denies chest pain. Reports mild fatigue and decreased appetite, improving daily per patient report: "I ate a real breakfast this morning for the first time in a week." He has a 14 pack-year smoking history, noted in this visit's HPI for documentation purposes. He no longer smokes, having quit smoking in 2012. He denies alcohol or illicit drug use.
+
+Past Medical History: Hypothyroidism, Depression, Hypertension.
+
+[Copied forward from visit dated 09/14/2023]:
+Patient presents for routine follow-up of hypothyroidism and hypertension. Reports compliance with levothyroxine 75 mcg daily. Denies palpitations, heat/cold intolerance, or weight change. Blood pressure well controlled on lisinopril 10 mg daily. Mood stable on sertraline 50 mg daily, no SI/HI. Exercise: walks 20 min most days. Diet: reports moderate sodium intake, advised to reduce further. Sleep: 6-7 hrs/night, occasional insomnia. Review of systems otherwise negative. Physical exam unremarkable, well-appearing, no acute distress, lungs clear, heart RRR, no edema. Plan: continue current medications, recheck TSH in 6 months, follow up in 3 months or sooner if symptoms arise. [End copied text]
+
+Labs/Results (recent, related to current admission):
+- CBC (02/12/2026): WBC 11.8 (H), Hgb 13.9, Plt 245
+- BMP (02/12/2026): Na 138, K 4.1, Cr 0.9, Glucose 101
+- CRP (02/12/2026): 42 mg/L (H)
+- Chest X-ray (02/12/2026): Right lower lobe infiltrate, consistent with pneumonia
+- TSH (02/13/2026): 2.1 (WNL)
+- Repeat CXR planned in 6 weeks for resolution check
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue supportive care, encourage fluids and rest, follow up sooner if worsening dyspnea or fever recurs.
+2. Hypertension - stable, continue lisinopril 10 mg daily, recheck BP at next visit.
+3. Hypothyroidism - stable on current dose, TSH within normal limits.
+4. Depression - stable on sertraline, continue current regimen, screen for mood changes given recent illness.
+5. Tobacco history - former smoker, quit 2012; reinforced importance of continued abstinence. Discussed general lung health maintenance given prior smoking history; no further imaging beyond pneumonia follow-up planned at this time.
+
+Return to clinic in 2-3 weeks or sooner as needed. Patient verbalized understanding and agreement with plan.
+
+---
+ADDENDUM (same day, later):
+Patient called back after visit to clarify medication instructions for amoxicillin-clavulanate taper; instructions reviewed again by phone at 3:15 PM. Patient verbalized understanding. No new symptoms reported. No changes to plan above.
+
+Electronically signed: Kevin Osei, MD

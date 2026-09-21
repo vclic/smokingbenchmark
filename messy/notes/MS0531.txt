@@ -1,0 +1,52 @@
+Pulmonology NP Progress Note
+Author: Rachel Goldberg, MD (dictated; note NP visit type)
+Date of Service: 06/22/2024
+Patient: Walter Flores | DOB: 06/22/1967 | Age: 57 | Sex: M
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior chest CT.
+
+HPI: Mr. Flores is a 57-year-old male who returns today for follow-up of an incidental right upper lobe pulmonary nodule identified on a chest CT obtained during evaluation for chest tightness last winter. He states he feels generally well today, denies fevers, chills, night sweats, or hemoptysis. He reports occasional exertional dyspnea which he attributes to his known heart failure with reduced ejection fraction, and he notes some mild right-sided chest discomfort that comes and goes, described as "a dull ache, not sharp," [inaudible] with movement, worse when he lays flat sometimes at night per patient. He denies unintentional weight loss. He has been compliant with his cardiology follow up and his osteoarthritis has been "about the same, achy in the knees" with cold weather. He was scheduled for repeat imaging today as part of routine nodule surveillance per prior plan.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. I50.22 - Chronic systolic (congestive) heart failure with reduced ejection fraction
+2. M17.9 - Osteoarthritis of knee, unspecified (bilateral, per old note - unclear laterality now)
+3. R91.1 - Solitary pulmonary nodule, right upper lobe
+4. Z87.891 - Personal history of nicotine dependence
+5. E78.5 - Hyperlipidemia, unspecified (outdated entry, patient reports this resolved per PCP, on no lipid med currently - to reconcile)
+6. I10 - Essential hypertension (carried forward, may be outdated, will confirm with PCP records)
+
+MEDICATIONS: Carvedilol 12.5 mg BID, Furosemide 40 mg daily, Lisinopril 10 mg daily, Acetaminophen PRN for joint pain, Multivitamin daily.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Patient lives with spouse in a single-story home, retired machinist, denies current alcohol use, denies illicit drug use. Tobacco: patient reports a history of smoking 25 cigarettes per day for 13 years; he states he no longer smokes and reports he quit smoking at age 42. He denies any current tobacco or nicotine product use, including vaping or chewing tobacco. Denies occupational asbestos exposure though he notes he "worked around metal dust for years" at his old job, unclear significance, will ask him to clarify exposure history at next visit.
+
+FAMILY HISTORY: Father with history of myocardial infarction in his 60s, mother with osteoarthritis, no known family history of lung cancer per patient report today.
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, denies chills, denies weight loss. Respiratory: denies cough, denies hemoptysis, mild intermittent right chest discomfort as above. Cardiovascular: denies orthopnea today though endorsed some positional discomfort, denies PND, mild lower extremity edema stable per patient. Musculoskeletal: chronic bilateral knee pain, stable. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 96% on room air, Temp 98.2F, Weight 198 lbs (stable from last visit).
+General: well-appearing male, no acute distress, sitting comfortably.
+HEENT: normocephalic, atraumatic, no scleral icterus.
+Neck: no lymphadenopathy, no JVD appreciated today.
+Cardiovascular: regular rate and rhythm, no murmurs appreciated, no gross peripheral edema noted on exam today (patient reports mild edema historically).
+Respiratory: clear to auscultation bilaterally, no wheezes, no rales, no rhonchi, good air movement.
+Abdomen: soft, non-tender, non-distended, no organomegaly.
+Extremities: mild crepitus of bilateral knees on range of motion, no effusion, no warmth, no erythema.
+Skin: no concerning lesions noted.
+
+DIAGNOSTIC DATA: Chest CT from prior visit reviewed - 8 mm solid nodule right upper lobe, unchanged in size and morphology compared to comparison study performed several months prior. Labs from last visit reviewed - BNP mildly elevated at baseline for this patient, renal function stable, electrolytes within normal limits.
+
+ASSESSMENT AND PLAN:
+57-year-old male, former smoker (25 cigs/day x 13 years, quit at age 42, no current tobacco use), with heart failure with reduced ejection fraction and osteoarthritis, here for follow up of an incidental pulmonary nodule.
+
+1. Solitary pulmonary nodule, right upper lobe (R91.1): Nodule appears stable on today's imaging review compared with prior study. Continue routine nodule surveillance per prior plan, follow-up imaging to be arranged through radiology scheduling per standard interval. General discussion held with patient regarding surveillance strategy for pulmonary nodules in patients with a smoking history; no further action beyond continued surveillance discussed today.
+2. Tobacco history: Patient quit smoking at age 42 and denies any current use of cigarettes, vaping products, or other nicotine products; he should be commended on his sustained cessation and continued avoidance was reinforced today, no further intervention needed at this time regarding tobacco.
+3. Heart failure with reduced ejection fraction (I50.22): Continue current cardiology-directed regimen, no changes made today, defer titration decisions to cardiology, follow up with cardiology as scheduled.
+4. Osteoarthritis (M17.9): Continue acetaminophen PRN, discussed weight-bearing exercise as tolerated and use of supportive footwear, will consider referral to physical therapy if symptoms worsen.
+5. Hyperlipidemia/hypertension entries on problem list to be reconciled with PCP records at next visit as patient reports these may be outdated.
+
+Return to clinic per nodule surveillance schedule, sooner if new symptoms such as hemoptysis, unexplained weight loss, or worsening chest pain develop. Patient verbalized understanding of the plan today, all questions answered, follow up as above.
+
+Electronically signed: Rachel Goldberg, MD, Pulmonology

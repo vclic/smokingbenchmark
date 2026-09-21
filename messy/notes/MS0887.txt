@@ -1,0 +1,56 @@
+Pulmonology Clinic - COPD Follow-up
+Date of Service: 04/02/2024
+Provider: Gregory Tan, MD
+
+=== NURSE INTAKE ===
+Pt: Evelyn Campbell, F, DOB 4/2/1957 (age 67 yo)
+Vitals: BP 132/78, HR 78, RR 18, SpO2 93% RA, Temp 98.2F, Wt 172 lb
+Chief complaint: here for COPD f/u, reports mild increase in dyspnea on exertion over past month
+
+Allergies: NKDA
+Meds reviewed - reconciled in chart
+
+--- SOCIAL HISTORY (EHR templated block) ---
+Tobacco use status: Former smoker
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies excess
+Substance use: Not on file
+Occupation: retired school administrator
+Living situation: lives w/ spouse
+Exercise: limited d/t dyspnea
+
+HPI (nurse note, brief): Pt c/o increased SOB w exertion, denies chest pain, denies fever/chills. Using albuterol inhaler more frequently past 2 wks. no new cough, sputum unchanged (clear/white).
+
+=== PHYSICIAN PROGRESS NOTE ===
+HPI:
+Evelyn Campbell is a 67 yo female w hx COPD, GERD, HFrEF, OSA presenting for routine pulm f/u. She notes mild worsening dyspnea on exertion, using rescue inhaler more often. No fevers, no chest pain, no orthopnea change per pt though she has baseline 2-pillow orthopnea from HF. Sleeps w CPAP nightly, reports good compliance. GERD sx well controlled on current PPI. No hemoptysis, no wt loss.
+
+On further review pt states she quit smoking cigarettes in March 1992 and has not smoked since - she reports no relapses, no vaping, no other tobacco products. She denies any current tobacco use of any kind.
+
+ROS: otherwise negative except as above. Denies leg swelling change, denies palpitations.
+
+Physical Exam:
+Gen: NAD, comfortable, mild use of accessory muscles noted
+CV: RRR, no m/r/g, so JVD not elevated, trace LE edema
+Resp: decreased breath sounds bilat bases, scattered exp wheezes, no crackles
+Abd: soft NT ND
+Ext: trace edema, warm, well perfused
+
+Labs/Results:
+- BNP (03/28/2024): 210 pg/mL (mildly elevated, stable from prior 198 on 01/15/2024)
+- BMP (03/28/2024): Na 138, K 4.1, Cr 0.9, HCO3 27
+- CBC (03/28/2024): WBC 6.8, Hgb 13.1, Plt 245
+- PFTs (02/2024): FEV1 58% predicted, FEV1/FVC 0.61, consistent w moderate obstructive pattern
+- CXR (02/2024): hyperinflation, no acute infiltrate
+
+Assessment/Plan:
+1. COPD, moderate - pt w hx of tobacco use, smoked cigarettes for 5 years total, quit smoking in March 1992 and remains a nonsmoker since that time. Current sx suggest mild exacerbation vs progression; will increase inhaled bronchodilator regimen, add short steroid taper, f/u in 2 wks or sooner if worsening. Screening for lung malignancy was discussed w pt given hx, she will consider and we will revisit at next visit.
+2. HFrEF - stable, continue GDMT, cont monitor BNP trend, no change today
+3. GERD - well controlled, continue PPI
+4. OSA - continue CPAP, good compliance reported, will obtain updated sleep study download at next visit
+
+Pt educated on avoidance of smoke/pollutant exposure, reviewed inhaler technique, given written action plan. Return to clinic in 2 weeks or sooner PRN worsening sx. Pt verbalized understanding, agrees w plan.
+
+Time spent w pt today 25 min, >50% counseling/coordination of care.
+
+Electronically signed: Gregory Tan, MD - 04/02/2024

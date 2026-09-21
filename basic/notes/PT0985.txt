@@ -1,0 +1,45 @@
+Primary Care Clinic Note
+Date of Service: October 1, 2025
+Patient: Dale Nguyen   DOB: 9/20/1957   MRN: 49253172
+
+SUBJECTIVE:
+CC: Pre-operative evaluation
+HPI: Mr. Nguyen is a 68 year old male with a history of obesity, CAD, and HTN who presents for pre-operative evaluation prior to right total knee arthroplasty. Scheduled for right total knee arthroplasty on 20-Oct-2025. Walks daily without limitation. He continues to smoke cigarettes. No prior anesthesia complications.
+
+PMH: Coronary artery disease, Class I obesity, Hypertension, Current smoker
+PSH: Cholecystectomy (2022); Appendectomy (2016)
+Meds: multivitamin daily; clopidogrel 75 mg daily; hydrochlorothiazide 25 mg daily; losartan 100 mg daily
+Allergies: NKDA
+Social History:
+- Lives with wife and adult daughter.
+- EtOH: 2-3 drinks on weekends.
+- No IVDU.
+FH: Father - MI at 74. Parents deceased, causes unknown.
+ROS: GI neg, CV neg, Gen neg, Resp neg, Skin neg, MSK neg, Neuro neg
+
+O:
+Vitals: BP: 122/88  HR: 103  RR: 16  Temp: 98.6 F  SpO2: 98% on RA  Wt: 229 lbs  BMI: 31.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, S1S2 nl
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+Labs (8/30/2025): Cr 0.84, K 4.4, Hgb 12.0
+
+A/P:
+1. Pre-operative evaluation: RCRI 0. Low risk; no further testing needed. Hold ASA 5 days prior per surgeon. Strongly advised to stop smoking at least 4 weeks before surgery.
+2. Hypertension: Well controlled on home log. No changes.
+3. Class I obesity: Discussed diet and exercise.
+4. Coronary artery disease: No angina. Continue current cardiac regimen.
+5. Tobacco abuse
+   - Counseled on cessation for 8 min. He is motivated to quit. Declines pharmacotherapy. Eligible for annual LDCT; ordered.
+
+f/u 12 mo
+
+Seen and discussed with resident Dr. Thomas. I personally saw and examined the patient and agree with the findings and plan as documented.
+Gregory Tan, MD

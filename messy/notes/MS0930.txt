@@ -1,0 +1,61 @@
+GERIATRICS PROGRESS NOTE
+DOS: 07/08/2023
+Patient: Jose Allen, M, DOB 04/16/1945, age 78
+Author: Laura Castellano, FNP-C
+
+CC: geriatric assessment, f/u CKD stage 3, PAD
+
+HPI: 78 yo M here for routine geriatric eval. Pt states "I feel about the same, maybe a little more tired walking to the mailbox." Denies chest pain, denies new SOB at rest. Reports intermittent claudication in b/l calves w/ ambulation ~2 blocks, consistent w/ known PAD. No rest pain, no ulcers noted on exam. CKD stage 3 - asymptomatic, no edema today, denies gross hematuria.
+
+Pt also notes "I quit drinking back in 2014 and never looked back." No current EtOH use reported.
+
+ROS: otherwise neg per pt report, 10-pt system reviewed, negative except as above.
+
+PMH: CKD stage 3, PAD
+PSH: none significant per chart
+FH: noncontributory, not updated today
+SH:
+TOBACCO HISTORY (templated EHR block, reviewed/updated today):
+  Status: Former smoker
+  Packs/day: 0.50
+  Years: 46.00
+  Quit age: 70
+Alcohol: quit 2014 (see HPI)
+Illicit drugs: denies
+Living situation: lives w/ spouse, independent w/ ADLs
+
+Meds: reviewed, reconciled - lisinopril, atorvastatin, cilostazol, aspirin 81mg
+Allergies: NKDA
+
+VITALS: BP 138/76, HR 72, RR 16, T 98.2F, SpO2 96% RA, wt stable per flowsheet
+
+PE:
+Gen: NAD, appears stated age, pleasant, cooperative
+CV: RRR, no m/r/g
+Resp: CTAB, no wheeze
+Abd: soft, NT/ND, no masses
+Ext: b/l DP/PT pulses diminished but palpable, no edema, no ulcers, no hair loss noted on shins
+Neuro: grossly intact, gait steady w/o assistive device today
+Skin: no lesions concerning
+
+Assessment:
+1. CKD stage 3 - stable, monitor labs
+2. PAD - stable claudication sx, on cilostazol, f/u vascular as needed
+3. Former tobacco use - quit at age 70, hx of 0.5 ppd x46 yrs per EHR block; counseled on cardiovascular risk reduction given underlying PAD/CKD; lung ca screening discussed briefly, pt to think it over
+4. EtOH - abstinent since 2014, no concerns today
+5. Geriatric assessment - functional status good, independent ADLs, no cognitive c/o today
+
+Plan:
+- Labs: BMP, CBC, urinalysis ordered
+- Continue current meds
+- Vascular surgery f/u for PAD per prior schedule
+- Nephrology f/u per prior schedule for CKD
+- RTC 3 months or sooner PRN
+- Pt educated on fall precautions, home safety
+
+Laura Castellano, FNP-C
+07/08/2023 1447
+
+--- ADDENDUM 07/08/2023 1620 ---
+Addendum: Spoke further w/ pt by phone after visit re: labs scheduling, pt confirms will go to lab tomorrow AM. Also clarified tobacco hx again during call - pt reaffirmed he is a former smoker, quit at age 70, consistent w/ chart documentation above (0.50 packs/day x 46 years per EHR tobacco block). No changes to plan.
+Laura Castellano, FNP-C

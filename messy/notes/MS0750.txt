@@ -1,0 +1,39 @@
+VASCULAR SURGERY - HISTORY AND PHYSICAL
+Patient: Edward Rodriguez | DOB: 04/30/1968 | Age: 56 | Sex: M
+Date of Service: 04/30/2024
+Attending: Brian Okonkwo, MD
+
+CC: Bilateral leg claudication, worsening over past several months.
+
+HPI: Mr. Rodriguez is a 56-year-old male referred for evaluation of peripheral artery disease. Reports calf pain with ambulation, approx 2 blocks, relieved with rest. No rest pain, no ulcers. Denies fevers, chills. No chest pain, no palpitations. Notes some fatigue but attributes to work schedule. Celebrated birthday today, turns 56, DOB 4/30/1968, presenting on 04/30/2024 for this visit.
+
+PMH / Problem List (ICD-10):
+- M81.0 Osteoporosis without current pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- I73.9 Peripheral vascular disease, unspecified (old dx, chart may need update)
+- E78.5 Hyperlipidemia (per old note, unclear if still active - pt unsure)
+
+Medications: Levothyroxine 75 mcg qd; Alendronate 70 mg weekly; Calcium citrate 600 mg BID; Vitamin D3 2000 IU daily; Aspirin 81 mg daily; Atorvastatin 20 mg qhs; Cilostazol 100 mg BID started last visit.
+
+Allergies: NKDA.
+
+Review of Systems: Constitutional - denies fever, chills, weight loss. Eyes - no visual changes. ENT - no issues. Cardiac - denies chest pain, palpitations, orthopnea. Respiratory - denies cough, dyspnea, wheeze. GI - denies nausea, vomiting, abdominal pain, changes in bowel habits. GU - denies dysuria, hematuria. MSK - reports leg pain as above, denies joint swelling. Skin - no rashes, no ulcers, no lesions noted. Neuro - denies numbness, tingling, weakness. Psych - denies depression, anxiety. All other systems reviewed and negative.
+
+Physical Exam: Vitals stable, BP 132/78, HR 74, RR 16, T 98.4F, BMI 27.
+General: well-appearing, NAD.
+Cardiac: RRR, no murmurs.
+Pulm: CTAB.
+Abdomen: soft, nontender, nondistended.
+Extremities: Bilateral lower extremity pulses diminished at dorsalis pedis and posterior tibial, femoral pulses palpable. No edema. Skin intact, no ulcers. Cap refill <3 sec bilaterally.
+Neuro: grossly intact.
+
+Assessment: 56-year-old male with peripheral artery disease, symptomatic claudication. Also with history of osteoporosis and hypothyroidism, stable on current regimen.
+
+Plan:
+1. PAD - continue cilostazol, supervised exercise program recommended, ankle-brachial index ordered.
+2. Osteoporosis - continue alendronate, calcium/vitD, follow with endocrinology.
+3. Hypothyroidism - continue levothyroxine, recheck TSH in 3 months.
+4. Follow up in vascular clinic in 6 weeks with ABI results.
+5. Return sooner if rest pain, ulceration, or discoloration of extremities.
+
+Signed: Brian Okonkwo, MD, Vascular Surgery, 04/30/2024.

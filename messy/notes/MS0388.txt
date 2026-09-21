@@ -1,0 +1,73 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Internal Medicine - Follow-up Visit
+Date of Service: 06/20/2023
+Author: Owen Fitzgerald, MD
+
+Dear Doctor,
+
+RE: Wayne Hall, DOB 6/20/1951 (age 72)
+
+Thank you for referring this 72 year old male for continued management of hypertension and diabetes. He was seen today, 06/20/2023, for a routine follow-up.
+
+=== COPIED FORWARD FROM VISIT DATED 11/14/2021 (retained in chart, not updated) ===
+Pt here for f/u HTN, DM2, CAD. Reports doing fairly well, denies chest pain, denies SOB. BP at home log reportedly running 130s/80s. Continues metfromin and lisinopril. Denies polyuria polydipsia. Feet checked no ulcers noted. Discussed diet and exercise pt states he walks daily. Will recheck labs in 6 months. BPH stable on tamsulosin, nocturia x1. Plan continue current meds f/u 6 months.
+=== END COPIED TEXT ===
+
+HPI (current visit):
+Mr Hall returns today for routine follow up of HTN and T2DM. He reports overall stable, no chest pain, no dyspnea on exertion. Occasional nocturia related to known BPH, unchanged. He has noted some fatigue in afternoons but attributes this to poor sleep. No new GI symptoms, no vision changes. He is compliant with his medications per report, though admits occasional missed doses of metformin.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Occasional, denies excess
+Alcohol type: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Walks daily per report
+
+Past Medical/Problem List (ICD-10):
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential hypertension
+- I25.10 Coronary artery disease, native vessel, without angina
+- E78.5 Hyperlipidemia, unspecified
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms (outdated entry - pt now has mild LUTS)
+- Z87.891 Personal history of nicotine dependence (entry inaccurate, pt still smoking currently - to be corrected)
+
+Medications:
+Metformin 1000mg BID
+Lisinopril 20mg daily
+Atorvastatin 40mg qhs
+Tamsulosin 0.4mg qhs
+Aspirin 81mg daily
+
+Review of systems otherwise negative except as noted above. No fevers, no weight loss, no hematuria.
+
+Physical Exam:
+Vitals: BP 134/82, HR 76, RR 16, Temp 98.2F, Weight 198 lbs
+General: well appearing, no acute distress
+CV: regular rate rhythm, no murmurs appreciated
+Lungs: clear to auscultation bilaterally, no wheezes rales or rhonchi
+Abd: soft nontender, no organomegaly
+Ext: no edema, pulses intact
+Skin: no ulcerations noted on feet exam today
+
+Labs reviewed (from last visit): A1c 7.4%, LDL 88, Creatinine 1.1
+
+Assessment and Plan:
+1. Type 2 diabetes mellitus - reasonably controlled, continue current regimen, recheck A1c in 3 months.
+2. Hypertension - well controlled on current regimen, continue lisinopril.
+3. Coronary artery disease - stable, continue aspirin and statin therapy.
+4. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next visit.
+5. BPH - mild LUTS, continue tamsulosin, will consider urology referral if worsening.
+6. Tobacco use - patient is an active smoker with a 51 pack-year smoking history. Discussed risks of continued smoking including cardiovascular and pulmonary disease. Lung cancer screening was discussed as a topic of conversation. Advised patient strongly to quit smoking; provided counseling and resources. Patient states he has set a quit date of 7/22/2023 and plans to use nicotine patches to assist with cessation.
+7. Health maintenance - up to date on vaccinations per record, will discuss colonoscopy at next visit.
+
+Follow up in 3 months or sooner if symptoms arise. Please contact our office with any questions regarding coordination of care.
+
+Sincerely,
+Owen Fitzgerald, MD
+Internal Medicine

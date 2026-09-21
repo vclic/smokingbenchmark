@@ -1,0 +1,54 @@
+NEW PATIENT VISIT - ESTABLISH CARE
+PCP: Julia Brennan, MD
+DOS: 12/14/2025
+Pt: John Taylor, M, DOB 9/29/1947, age 78
+
+CC: establish care, med refills, general checkup.
+
+HPI: 78 yo M new to practice, transferring records, hx of HLD, OA, PAD, here to establish care and review chronic issues. Reports intermittent claudication with ambulation, stable. No chest pain, no rest pain, no ulcers. Denies SOB.
+
+SOCIAL HX: Current cig smoker, 13 pack-year hx. Pt states he has set a quit date for 12/30/2025 (future date), motivated to stop given PAD dx. EtOH occasional, denies illicit drug use.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/02/2019 (outside records, unverified) ----
+ROS: Constitutional: no fever/chills/wt loss. HEENT: no vision changes, no hearing loss. CV: no CP/palp. Resp: no cough/wheeze/hemoptysis. GI: no N/V/D/constipation. GU: no dysuria/hematuria. MSK: chronic joint pain as below. Neuro: no focal deficits. Psych: no depression/anxiety screen positive. Skin: no rashes/lesions.
+PE (2019): VSS. Gen: NAD. HEENT: PERRLA, EOMI. CV: RRR, no m/r/g. Lungs: CTAB. Abd: soft, NT/ND. Ext: no edema, 2+ pulses bilat (NOTE: since changed, see below). Neuro: A&Ox3.
+---- END COPIED TEXT ----
+
+CURRENT ROS (12/14/2025): Constitutional neg. CV: claudication as above, no CP. Resp: neg. GI: neg. GU: neg. MSK: chronic bilateral knee pain, worse w/ weather. Neuro: neg. Psych: neg. Skin: neg.
+
+PHYSICAL EXAM: VS: BP 138/82, HR 76, RR 16, T 97.8F, SpO2 96% RA, wt 182 lb.
+Gen: NAD, well-appearing elderly M.
+CV: RRR, no m/r/g.
+Lungs: CTAB.
+Ext: bilat dorsalis pedis pulses diminished (1+), no ulcers, no edema.
+MSK: crepitus b/l knees, no effusion.
+Skin: no lesions.
+
+LABS/RESULTS:
+Lipid panel 11/20/2025: TC 210, LDL 128, HDL 42, TG 150.
+A1c 11/20/2025: 5.7%.
+Cr 11/20/2025: 1.0.
+ABI (referral pending).
+
+PROBLEM LIST:
+- Hyperlipidemia (E78.5)
+- Osteoarthritis, unspecified site (M19.90)
+- Peripheral artery disease (I73.9)
+- Tobacco use disorder, cigarettes (Z72.0) - active
+- s/p appendectomy (hx, outdated entry from prior chart)
+
+MEDS:
+Atorvastatin 40mg qd
+Aspirin 81mg qd
+Cilostazol 100mg BID
+Acetaminophen 650mg PRN
+Multivitamin qd
+
+ASSESSMENT/PLAN:
+1. HLD - continue statin, repeat lipids in 6 mo.
+2. OA - continue acetaminophen, consider PT referral.
+3. PAD - continue cilostazol, ABI ordered, lung ca screening discussed generally as part of preventive care, no imaging ordered today.
+4. Tobacco use - counseled on cessation, pt reports quit date set for 12/30/2025, offered resources/pharmacotherapy, will follow up.
+RTC 3 months or sooner PRN.
+
+- Julia Brennan, MD

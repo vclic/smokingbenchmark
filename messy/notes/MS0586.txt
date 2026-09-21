@@ -1,0 +1,86 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Dr. Elena Markovic
+Date of Service: 04/22/2024
+
+Patient: Walter Powell
+DOB: 04/22/1970 (patient turns 54 today, notes to self by MA - happy birthday Walter)
+MRN: 88213-CV
+
+CHIEF COMPLAINT: Chest pain evaluation, follow up via video visit.
+
+HPI:
+Mr. Powell is a 54-year-old male with history of obesity and gout who presents today via telehealth for evaluation of intermittent chest discomfort over the past two weeks. Patient states "it feels like a tight band across my chest when I climb the stairs at work." He denies radiation to the arm, denies diaphoresis, denies syncope. He reports the pain lasts maybe five minutes and resolves with rest, sometimes it just goes away on it's own he says. No nausea, no [inaudible] shortness of breath at rest, he thinks it happened maybe three times total but he wasn't keeping close track and honestly the timeline is a little fuzzy so we'll continue to monitor.
+
+He also mentions increased stress at work lately, says "I've just been under a lot of pressure, my boss keeps piling stuff on me." No prior cardiac workup on file though he says he "maybe had an EKG years ago" but can't recall details.
+
+PAST MEDICAL HISTORY:
+- Obesity
+- Gout, last flare approx 6 months ago per patient report
+
+SOCIAL HISTORY:
+Alcohol: Patient reports he quit drinking alcohol in 2010, has been sober from alcohol since then, denies any current use.
+Tobacco: [EHR TEMPLATE - SOCIAL HX - TOBACCO]
+  Current tobacco use: Yes
+  Type: Cigarettes
+  Description: Patient describes himself as a "social smoker" for many years, no specific pack-per-day quantity documented.
+  Readiness to quit: Patient states he still smokes and is not ready to quit at this time.
+  Counseling: Advised to quit, discussed general health risks of continued tobacco use, patient verbalizes understanding.
+[END TEMPLATE]
+Additional note: Patient mentions his spouse also smokes, states they often smoke together in the evenings on the porch, may make cessation more difficult given shared habit at home.
+Illicit drugs: denies.
+
+MEDICATIONS:
+- Allopurinol 300 mg daily
+- Occasional ibuprofen for gout flares
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, endorses some fatigue
+Cardiac: as per HPI, denies palpitations
+Respiratory: denies cough, denies hemoptysis
+GI: denies abdominal pain
+MSK: reports mild right great toe discomfort, chronic, consistent with gout hx
+All other systems reviewed and negative.
+
+VITALS (per home BP cuff, telehealth visit):
+BP: 138/86
+HR: 78
+Wt: 245 lbs
+Height: 5'10"
+BMI: 35.1
+
+LABS/RESULTS (reviewed today, drawn 04/15/2024 at outside lab):
+- Total cholesterol: 212 mg/dL
+- LDL: 138 mg/dL
+- HDL: 39 mg/dL
+- Triglycerides: 175 mg/dL
+- Fasting glucose: 101 mg/dL
+- Uric acid: 7.8 mg/dL (04/15/2024)
+- Creatinine: 1.0 mg/dL
+- TSH: 2.1 uIU/mL
+- hs-Troponin: <0.01 ng/mL (drawn same day as visit prep, 04/22/2024)
+
+EKG (obtained prior to visit, 04/22/2024): Normal sinus rhythm, rate 76, no acute ST-T changes, nonspecific T wave flattening in inferior leads, unchanged from... well we don't have a prior for comparison so can't say unchanged, disregard that, no prior available.
+
+ASSESSMENT:
+54-year-old male with atypical-sounding chest pain, exertional component noted, multiple cardiac risk factors including obesity, dyslipidemia, and ongoing tobacco use. Low initial troponin and unremarkable EKG are reassuring but given exertional pattern will pursue further workup.
+
+PLAN:
+1. Chest pain - obtain exercise stress echocardiogram, order placed, patient to schedule with cardiology testing center.
+2. Continue to monitor symptoms, patient instructed to call or go to ER if pain worsens, prolonged, or associated with radiation/diaphoresis/SOB.
+3. Lipid panel elevated - discuss statin therapy at next visit, will consider atorvastatin pending stress test results.
+4. Tobacco use - counseled on cessation resources including quitline and nicotine replacement options, patient not ready to quit today, will revisit at future visits. Screening for lung cancer was discussed in general terms as an option to consider down the road given his smoking history, no imaging ordered today.
+5. Gout - continue allopurinol, follow up with PCP for routine gout management.
+6. Weight management - discussed diet and exercise, referral to nutrition considered.
+7. Follow up in 2-3 weeks or sooner with results, telehealth or in-person per patient preference.
+
+Elena Markovic, MD
+Cardiology
+Electronically signed 04/22/2024
+
+---
+ADDENDUM (same day, later afternoon):
+Patient called back after visit to clarify he actually had chest discomfort start this morning around 9am prior to call, resolved without intervention, he was just anxious and wanted to make sure this was noted. No new orders at this time. Advised to proceed with stress echo as planned. Will also ask him to bring log of any future episodes to next visit including time of day and activity level at onset. Spoke briefly again about tobacco cessation resources; patient reiterated he is a social smoker and isn't ready to quit right now, states his spouse smokes too so it's "just part of our routine together." No change to plan otherwise.
+
+Elena Markovic, MD

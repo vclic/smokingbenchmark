@@ -1,0 +1,60 @@
+NURSE INTAKE
+Date of Service: 05/03/2023
+Patient: Sandra Torres, F, DOB: 02/25/1973 (age 50)
+Provider: Priya Raman, MD
+Visit type: Pre-operative evaluation, Internal Medicine, prior to L knee replacement
+
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.4F, SpO2 98% RA, Wt 172 lb, Ht 5'5"
+Allergies: NKDA
+Smoking status: Unknown if ever smoked
+Alcohol: occasional, socially
+
+CHIEF COMPLAINT: Pre-op clearance for right—er, left—total knee arthroplasty scheduled with Dr. Kessler next month.
+
+HPI: Ms. Torres is a 50 year old female here today for pre-operative medical evaluation prior to her upcoming total knee replacement. She states, "my knee has been bone-on-bone for like two years now and I just want to get it fixed already." She denies chest pain, denies shortness of breath at rest, [inaudible] some exertional dyspnea when climbing stairs which she attributes to deconditioning and not to her knee, she reports she has been doing physical therapy for the last several months with mixed results and her orthopedic surgeon feels she is a good surgical candidate at this time given failure of conservative management. She denies fevers chills night sweats unintentional weight loss. Family history notable in that her mother had COPD and was a lifelong smoker, patient states "she was on oxygen the last ten years of her life, it was awful to watch." No other pertinent family history reported today.
+
+PAST MEDICAL HISTORY:
+- Benign prostatic hyperplasia (patient is female; this appears to be a copy-forward error from template, will address with staff)
+- Hypothyroidism, on levothyroxine
+
+PROBLEM LIST (ICD-10):
+- N40.1 Benign prostatic hyperplasia with lower urinary tract symptoms (outdated/erroneous entry, likely templated in error)
+- E03.9 Hypothyroidism, unspecified
+- M17.11 Unilateral primary osteoarthritis, left knee
+- Z98.89 Other specified postprocedural states (from prior appendectomy 1998)
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg PO daily
+2. Acetaminophen 650 mg PO q6h PRN knee pain
+3. Ibuprofen 400 mg PO TID PRN, held for 1 week prior to surgery per ortho
+4. Vitamin D3 2000 IU PO daily
+5. Calcium carbonate 500 mg PO BID
+6. Multivitamin PO daily
+7. Occasional melatonin 5 mg PO qhs PRN sleep
+
+REVIEW OF SYSTEMS: Constitutional: denies fevers, chills, night sweats, unintentional weight loss or gain. Eyes: denies visual changes, denies eye pain. ENT: denies hearing loss, denies tinnitus, denies sore throat. Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND, denies lower extremity edema except mild swelling around the surgical knee which is expected. Respiratory: denies cough, denies hemoptysis, endorses mild exertional dyspnea as noted above in HPI, denies wheeze. GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain, denies melena or hematochezia. GU: denies dysuria, denies hematuria, denies urinary frequency (BPH noted in error above, to be reconciled). Musculoskeletal: positive for left knee pain, stiffness, and decreased range of motion as above, denies other joint complaints. Skin: denies rash, denies new lesions. Neuro: denies headache, denies dizziness, denies focal weakness or numbness. Psych: denies depression, denies anxiety, sleep described as fair. Endocrine: denies polyuria, polydipsia, heat or cold intolerance on current thyroid replacement dose.
+
+PHYSICAL EXAM:
+General: well-developed, well-nourished female in no acute distress, appears stated age.
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly appreciated on palpation.
+Neck: supple, no lymphadenopathy, no JVD.
+Cardiovascular: regular rate and rhythm, normal S1 S2, no murmurs rubs or gallops appreciated.
+Respiratory: clear to auscultation bilaterally, no wheezes rales or rhonchi, normal effort, no accessory muscle use.
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds, no organomegaly, well-healed surgical scar RLQ consistent with prior appendectomy.
+Extremities: left knee with mild effusion, tenderness to palpation along medial joint line, decreased range of motion with flexion to approximately 90 degrees, no calf tenderness, no edema, pulses 2+ bilaterally.
+Skin: warm, dry, intact, no rashes or lesions noted.
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, strength 5/5 in all extremities, sensation grossly intact throughout.
+Psych: mood and affect appropriate, cooperative with exam.
+
+ASSESSMENT/PLAN:
+50 year old female here for pre-operative evaluation prior to left total knee arthroplasty.
+1. Cardiac risk: low risk by RCRI criteria, no active cardiac symptoms, EKG obtained today reviewed and is normal sinus rhythm without acute ST changes, cleared for surgery from cardiac standpoint.
+2. Pulmonary: denies significant pulmonary symptoms beyond mild exertional dyspnea attributed to deconditioning, lungs clear on exam, no further pulmonary workup indicated at this time, screening discussions regarding lung health were had in a general sense given family history of COPD in her mother, though no imaging ordered today as part of this visit.
+3. Hypothyroidism: continue levothyroxine at current dose, TSH checked today, will follow up results.
+4. BPH: noted discrepancy in chart, will remove this diagnosis from problem list as it does not apply to this patient, appears to be a documentation error carried forward from a prior template.
+5. Osteoarthritis, left knee: surgical plan per orthopedics, patient cleared from medicine standpoint for proceeding with TKA.
+6. Pre-op labs sent today including CBC, BMP, coagulation panel, type and screen.
+7. Patient instructed to hold ibuprofen one week prior to surgery, continue other home medications as scheduled including on morning of surgery per anesthesia instructions.
+8. Follow up with this office as needed, return sooner if any concerns arise prior to surgery date.
+
+Electronically signed: Priya Raman, MD, 05/03/2023.

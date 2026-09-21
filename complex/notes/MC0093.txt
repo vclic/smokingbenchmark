@@ -1,0 +1,49 @@
+Cardiology Progress Note
+DOS: 07/13/2023
+Patient: Luis Simmons  DOB: 03/30/1952  Age: 71  Sex: M
+Author: Priya Raman, MD
+
+=== NURSE INTAKE ===
+VS: BP 138/82, HR 78, RR 16, SpO2 97% RA, Wt 224 lb
+Chief complaint: f/u CHF, mild lower extremity edema x1wk
+Allergies: NKDA
+Meds reconciled - see MAR
+
+SOCIAL HISTORY (templated block):
+ Tobacco use: Never smoker
+ Smoking pack-years: N/A
+ Alcohol use: Not on file
+ Drug use: Not on file
+ Occupation: retired
+ Living situation: lives w/ spouse
+
+=== PHYSICIAN NOTE ===
+HPI: Mr Simmons is a 71 yo M w/ hx of HFrEF, osteoarthritis, obesity, T2DM, gout, hypothyroidism presenting for routine CHF f/u. He reports "my ankles have been a little more swollen this past week" and states "I've been taking my water pill like normal, doc." Denies orthopnea, PND, chest pain. Denies palpitations. He notes some knee stiffness attributed to OA, managed w/ acetaminophen prn.
+
+On further review pt was asked directly about tobacco use for cardiac risk stratification purposes; he states "I've never smoked a cigarette in my life." This is consistent w/ social hx documented above (never smoker). No vaping or other tobacco products reported.
+
+ROS: otherwise negative except as above. Gout stable, last flare >6 mo ago. T2DM - checks glucose intermittently, reports fasting glucoses 110-140. Hypothyroid on levothyroxine, TSH checked last visit WNL.
+
+Exam:
+Gen: NAD, obese habitus
+CV: RRR, no m/r/g, JVP mildly elevated ~8cm
+Lungs: CTAB, no crackles
+Ext: 1+ pitting edema b/l ankles, no calf tenderness
+MSK: mild crepitus b/l knees, no effusion
+
+Labs reviewed: BNP mildly elevated from baseline, BMP stable, K 4.3, Cr 1.1
+
+Assessment/Plan:
+1. HFrEF - mild decompensation likely diet-related (?dietary indiscretion). Increase furosemide to 40mg qday x1wk, recheck lytes/renal fx in 1 wk. Reinforce low-Na diet.
+2. T2DM - continue metformin, recheck A1c at next visit.
+3. Gout - stable, continue allopurinol.
+4. Hypothyroidism - continue levothyroxine, TSH annually.
+5. OA - continue acetaminophen prn, consider PT referral if worsens.
+6. Preventive - lung cancer screening discussed briefly given age; not further addressed today given never-smoker status.
+RTC 4 wks or sooner if symptoms worsen.
+
+Priya Raman, MD
+
+=== ADDENDUM (later same day, 07/13/2023) ===
+Addendum: Pt's spouse called clinic later today to clarify pt did take AM dose of furosemide prior to visit as instructed, med list updated accordingly no further changes to plan. Pt reiterated during phone call that he has "never touched a cigarette" his whole life, corroborating info obtained in clinic. No new issues reported.
+-Priya Raman, MD

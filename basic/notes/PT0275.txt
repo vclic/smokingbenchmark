@@ -1,0 +1,79 @@
+General Medicine Clinic Office Visit
+
+Patient: WILSON, Mark    MRN: 21996144
+DOB: 01/19/1966    Age: 58 y.o.    Sex: Male
+Date of Service: 12/27/2024    Provider: Gregory Tan, MD
+
+Chief Complaint
+Patient presents with
+• Fatigue
+
+Subjective:
+Mark Wilson is a 58 y.o. male who presents for fatigue.
+Fatigue for 5 months. Mood low. No bleeding.
+
+Past Medical History:
+Diagnosis	Date
+• CAD	2018
+• Hypercholesterolemia
+• T2DM without complication
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair
+• TURP (2017)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sitagliptin 100 mg daily
+• aspirin 81 mg daily
+• atorvastatin 40 mg daily
+• vitamin D3 2000 IU daily
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with wife in a single-family home.
+  Works as a mechanic.
+  Drinks a glass of wine with dinner.
+
+Family History
+Father - MI at 74. Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS: GI neg, Neuro neg, GU neg, MSK neg, Resp neg, CV neg, Gen neg
+
+Objective:
+Vitals:
+  BP 118/63 (BP Location: Left arm, Patient Position: Sitting) | Pulse 73 | Temp 98.6 °F (Oral) | Resp 12 | Ht 6' 1" | Wt 203 lb | SpO2 96% | BMI 26.75 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (11/30/2024): A1c 6.6%, LDL 127, Cr 0.85, K 3.8, Hgb 11.7
+
+Assessment & Plan
+1. Fatigue
+   Check ferritin, CBC.
+2. T2DM without complication
+   Repeat A1c in 3 months. Annual eye exam reminder.
+3. Hypercholesterolemia
+   Tolerating statin; recheck lipids in 1 yr.
+4. CAD
+   No angina. Continue current cardiac regimen.
+
+Return in about 3 months (around 3/27/2025).
+
+Electronically signed by Gregory Tan, MD on 12/27/2024

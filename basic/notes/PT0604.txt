@@ -1,0 +1,84 @@
+General Medicine Clinic Office Visit
+
+Patient: KIM, Wei    MRN: 83528791
+DOB: 07/30/1964    Age: 59 y.o.    Sex: Male
+Date of Service: 06/12/2024    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Wei Kim is a 59 y.o. male who presents for an annual physical.
+Feels well overall. Walks 30 minutes most days. He smoked 2 packs per day for 39 years and quit smoking in 2021. Diet is 'mostly healthy'.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• GERD
+• Primary OA, bilateral knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Vasectomy
+• Cholecystectomy (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pantoprazole 40 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• amlodipine 10 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 2.00
+    Years: 39.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with wife in a single-family home.
+  Works as a teacher.
+  EtOH: 1-2 beers/wk.
+
+Family History
+Father - MI at 74. Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 140/82 (BP Location: Left arm, Patient Position: Sitting) | Pulse 70 | Temp 98.6 °F (Oral) | Resp 16 | Ht 5' 9" | Wt 184 lb | SpO2 99% | BMI 27.11 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (05/11/2024): Cr 1.06, K 4.9
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2019 - normal; Shingrix series complete; PCV20 given.
+2. GERD
+   Trial PPI step-down.
+
+f/u 6 mo
+
+Electronically signed by Kevin Osei, MD on 06/12/2024

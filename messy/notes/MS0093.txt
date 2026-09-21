@@ -1,0 +1,58 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Cheryl Novak | DOB: 08/26/1974 | Age: 51 | Sex: F
+Date of Service: 08/26/2025
+Provider: Rachel Goldberg, MD (Pulmonology)
+
+Visit type: Telehealth follow-up after ED visit/COPD exacerbation.
+
+HPI: Ms. Novak is a 51-year-old woman with history of COPD, CAD, hyperlipidemia, and BPH, seen today via video visit for follow-up after being seen in the ED last week for a COPD exacerbation. She reports she is 'breathing a lot easier now, maybe 80% back to normal.' She states, 'I was using my rescue inhaler like every two hours, now I'm down to maybe twice a day.' She denies fever, chest pain, or hemoptysis currently. She did note some ongoing dry cough, worse at night, and states 'it wakes me up sometimes, feels like theres [inaudible] tickle in my throat.' No hospitalization was required during the ED visit; she was discharged with a steroid taper and short course of antibiotics, which she completed.
+
+Regarding tobacco use, patient reports she is a current smoker and has continued smoking through the recent exacerbation. She reports smoking about half a pack (roughly 10 cigarettes) per day, and states she has smoked at this level since she was 16 years old. She reports a prior quit attempt in 2018, but relapsed in 2021 after a stressful family situation. She was counseled extensively today on smoking cessation, including risks specific to COPD progression and cardiovascular disease given her known CAD. She was encouraged to consider nicotine replacement therapy or a cessation program; she stated she would 'think about it' but is not ready to set a quit date today.
+
+Note: The templated smoking status field below defaulted to an outdated entry and does not reflect the patient's actual history — this has been corrected in the narrative above. Field reads 'Smoking status: Never Smoker' — THIS IS INCORRECT; patient is an active smoker as described above, and this discrepancy should be fixed in the chart at next in-person visit.
+
+ROS: Denies orthopnea, denies lower extremity edema, denies dysuria (patient has known BPH, stable on tamsulosin), denies chest pain at rest, mild exertional dyspnea improving. Denies palpitations. No new urinary symptoms. Appetite fair, sleep disrupted by cough as noted above.
+
+PMH:
+- COPD (moderate, GOLD B) — J44.9
+- Coronary artery disease, status post stent 2016 — I25.10
+- Hyperlipidemia — E78.5
+- BPH — N40.0
+- Hypertension — I10 (outdated entry, patient's BP has been normal off meds x 2 years per prior note, retained in problem list, needs review)
+- Tobacco use disorder — Z72.0 (templated field elsewhere in chart still says Never Smoker, inconsistent, to be reconciled)
+
+Medications:
+- Tiotropium inhaler daily
+- Albuterol MDI PRN
+- Atorvastatin 40 mg nightly
+- Aspirin 81 mg daily
+- Tamsulosin 0.4 mg daily
+- Completed recent prednisone taper and azithromycin course for exacerbation (finished)
+
+Allergies: NKDA
+
+Social History: Lives with husband, works part-time as a receptionist, ambulates independently. Alcohol use rare, denies illicit drug use. As above, continues to smoke cigarettes; discussed impact on lung and cardiac disease at length today.
+
+Vitals (per home pulse ox and patient report, telehealth visit): SpO2 94% on room air per home pulse oximeter, HR 82, reports BP at home 128/78. Weight stable per patient report.
+
+Exam: Limited given telehealth format. Patient appears comfortable, speaking in full sentences without noticeable dyspnea, no obvious increased work of breathing observed on camera. Skin color appears normal, no cyanosis noted. No visible edema on camera exam of lower legs when shown. Auscultation not performed given televisit format.
+
+Assessment:
+1. COPD exacerbation, recently resolved — patient improving clinically, tolerating steroid taper and antibiotics, currently near baseline.
+2. Tobacco use disorder, active — ongoing barrier to COPD control; discussed cessation resources today, patient declined to set quit date at this time.
+3. Coronary artery disease, stable — continue current antiplatelet and statin therapy.
+4. Hyperlipidemia — stable, continue atorvastatin, will check lipid panel at next visit.
+5. BPH — stable on tamsulosin, no new urinary complaints.
+
+Plan:
+- Continue tiotropium and albuterol PRN.
+- Reinforce smoking cessation counseling; provided information on quitline and nicotine replacement options; patient to consider a program and follow up with PCP for further discussion.
+- Continue atorvastatin, aspirin, tamsulosin as prescribed.
+- Pulmonary function testing to be scheduled in 4-6 weeks once fully recovered from exacerbation, to reassess baseline.
+- Correct outdated 'Never Smoker' field in chart at next in-office visit; flag to nursing staff for template update.
+- Return to clinic sooner if worsening cough, fever, increased sputum, or dyspnea.
+- Follow-up telehealth or in-person visit in 4 weeks, sooner if needed.
+
+Time spent: 20 minutes, telehealth visit, counseling and coordination of care comprised more than half of total time, including detailed discussion of tobacco cessation, COPD management, and cardiac risk reduction.
+
+Electronically signed: Rachel Goldberg, MD, Pulmonology, 08/26/2025.

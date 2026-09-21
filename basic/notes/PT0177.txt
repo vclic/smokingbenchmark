@@ -1,0 +1,78 @@
+Pulmonology Office Visit
+
+Patient: KOWALSKI, Charles    MRN: 63136546
+DOB: 05/15/1968    Age: 56 y.o.    Sex: Male
+Date of Service: 10/09/2024    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• Lung nodule
+
+Subjective:
+Charles Kowalski is a 56 y.o. male who presents for follow-up of a pulmonary nodule.
+Incidental 7 mm part-solid RUL nodule on CT 5/9/2024 (obtained in the ED for abdominal pain). Pt anxious about result.
+
+Past Medical History:
+Diagnosis	Date
+• ASCVD
+• Hypercholesterolemia
+• History of CVA	2020
+• COPD, GOLD 2	2004
+• Hypertension	2023
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tiotropium 18 mcg inhaled daily
+• albuterol HFA PRN
+• lisinopril 40 mg daily
+• chlorthalidone 12.5 mg daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+• simvastatin 20 mg nightly
+• aspirin 81 mg daily
+• clopidogrel 75 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Social History Narrative
+  Lives with wife in a single-family home.
+  Works as a bus driver.
+  No alcohol.
+  No illicit drug use.
+
+Family History
+Father - MI at 74. Father - AAA repair. Father - lung cancer (heavy smoker), deceased at 67.
+
+Review of Systems
+ROS: Resp +, CV neg, Neuro neg, Skin neg, MSK neg, GI neg, Gen neg, GU neg
+
+Objective:
+Vitals:
+  BP 140/68 (BP Location: Right arm, Patient Position: Sitting) | Pulse 85 | Temp 98.1 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 166 lb | SpO2 93% | BMI 26.75 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (02-Sep-2024): LDL 116, Cr 0.90, K 4.0, Hgb 13.0
+
+Assessment & Plan
+1. Pulmonary nodule
+   High-risk per Fleischner given smoking history. Repeat CT chest in 12 months.
+2. Hypercholesterolemia
+   Tolerating statin; recheck lipids in 1 yr.
+3. History of tobacco use (Z87.891)
+   Smoking hx: 0.5ppd x 25yrs. Remains abstinent.
+4. Hypertension
+   Elevated today; home BP log requested.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Nadia Haddad, MD on 10/09/2024

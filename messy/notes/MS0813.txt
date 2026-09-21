@@ -1,0 +1,53 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Mark Wilson (DOB 6/28/1961)
+Date of Service: 06/28/2026
+Author: Kevin Osei, MD
+
+CC: Chest pain evaluation.
+
+HPI: Mr. Wilson is a 65-year-old male with hx of OSA and HTN presenting with intermittent chest tightness x2 weeks. Patient states, "It feels like pressure, mostly when I climb stairs." No radiation to arm, no diaphoresis. Denies syncope. He reports occasional palpitations but no true chest pain at rest. Patient states, "I get short of breath faster than I used to." He uses CPAP nightly per prior sleep study. No recent illness. Denies fevers.
+
+Copied from note dated 11/28/2024 (unchanged verbiage retained for continuity): "Social History - Tobacco: current smoker." No further detail was provided in that prior note.
+
+SOCIAL HISTORY (today, 06/28/2026):
+Tobacco Use [EHR Template]:
+  Status: Current every day smoker
+  Pack-years: 32
+  Readiness to quit: Not ready to quit at this time
+  Counseled on cessation resources; patient declined referral to quitline today.
+Alcohol: occasional, 1-2 drinks/week.
+Illicit drugs: denies.
+
+ROS: Constitutional: denies fever, chills, weight loss. Cardiac: + chest tightness as above, denies orthopnea, denies PND, denies LE edema. Respiratory: + exertional dyspnea, denies cough, denies hemoptysis. GI: denies nausea, vomiting, abdominal pain. GU: denies dysuria. MSK: denies joint pain. Neuro: denies focal weakness, denies numbness. Psych: denies depression, denies anxiety. Skin: denies rash. All other systems reviewed and negative except as noted above.
+
+MEDICATIONS: Lisinopril 20mg daily, Amlodipine 5mg daily, Atorvastatin 40mg qhs, Aspirin 81mg daily, CPAP nightly, Melatonin 5mg prn sleep, Omeprazole 20mg daily, Multivitamin daily.
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, SpO2 97% RA, BMI 31.
+General: well-appearing, no acute distress.
+HEENT: normocephalic, atraumatic, oropharynx clear.
+Neck: no JVD, no bruits.
+Cardiac: RRR, no murmurs, rubs, or gallops.
+Lungs: clear to auscultation bilaterally, no wheezes, no crackles.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: no edema, pulses 2+ symmetric.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, grossly non-focal.
+
+PROBLEM LIST (ICD-10):
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina pectoris (r/o, working dx today)
+- I10 Essential hypertension
+- G47.33 Obstructive sleep apnea (adult)
+- E66.9 Obesity, unspecified (outdated entry, carried forward, not addressed today)
+- Z87.891 Personal history of nicotine dependence (outdated entry, patient is currently smoking, see updated social history above)
+
+ASSESSMENT & PLAN:
+65-year-old male, DOS 06/28/2026, with chest pain of uncertain etiology, hypertension, and OSA on CPAP.
+1. Chest pain - likely atypical given exam and vitals, but given his 32 pack-year smoking history and ongoing active tobacco use, cardiac workup indicated. Will obtain EKG, troponin, and schedule stress test. Lipid panel to be reviewed.
+2. Tobacco use - patient continues to smoke and reports he is not ready to quit despite counseling today; discussed cardiovascular and pulmonary risks, offered nicotine replacement therapy which he declined for now. Lung cancer screening was discussed in general terms; no imaging ordered today.
+3. Hypertension - stable on current regimen, continue lisinopril and amlodipine.
+4. OSA - continue CPAP, reports good compliance, will follow up with sleep medicine as scheduled.
+
+Follow-up in 2 weeks or sooner if symptoms worsen.
+
+Kevin Osei, MD

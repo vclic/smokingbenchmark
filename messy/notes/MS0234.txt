@@ -1,0 +1,57 @@
+TELEHEALTH VISIT NOTE
+Patient: Theresa Rodriguez
+DOB: 03/25/1958 (age 66)
+Date of Service: 03/25/2024
+Provider: Julia Brennan, MD - Geriatrics
+Visit Type: Telehealth geriatric assessment
+
+HPI:
+Ms. Rodriguez is a 66 year old woman with history of COPD, asthma, coronary artery disease, type 2 diabetes and hypothyroidism who presents via video visit for routine geriatric assessment. She states, "I feel about the same, maybe a little more short of breath when I do the stairs." She denies chest pain at rest. Patient reports adherence to inhalers though admits she sometimes forgets the evening dose, quote: "I just get busy and forget, doc." No fevers, no weight loss, appetite stable. She lives alone, ambulates with cane, family checks in daily [inaudible] over the phone system due to connection issues during call cutting in and out at times making some parts of history difficult to here clearly.
+
+PAST MEDICAL HISTORY: COPD, asthma, CAD (s/p stent 2015), T2DM, hypothyroidism.
+
+SOCIAL HISTORY:
+Tobacco Use (EHR templated block):
+ Current tobacco use: Yes
+ Type: Cigarettes
+ Amount: 6 cigarettes per day
+ Duration: 9 years
+ Counseling given: Yes, discussed cessation resources
+Alcohol: denies.
+Lives with: alone, daughter nearby.
+
+[Copied from prior note dated 05/25/2020]:
+Social History (as documented 05/25/2020): Tobacco - current smoker. No further quantitative detail recorded in that note.
+[End of copied section]
+
+MEDICATIONS: Levothyroxine 75mcg daily, Metformin 1000mg BID, Aspirin 81mg daily, Atorvastatin 40mg daily, Albuterol/ipratropium inhaler PRN, Fluticasone/salmeterol inhaler BID.
+
+ALLERGIES: NKDA.
+
+VITALS: BP 132/78, HR 76, RR 18, SpO2 94% RA, Temp 98.1F, Wt 165 lbs.
+
+EXAM (limited, telehealth):
+General: Alert, comfortable, no acute distress noted on camera.
+Respiratory: Patient reports mild wheeze audible over speakerphone, exam otherwise deferred given remote format, breathing appeared non labored on screen.
+Cardiovascular: No visible edema, patient denies palpitations.
+Extremities: No swelling reported.
+
+LABS/RESULTS (reviewed from recent visit):
+03/18/2024 - A1c 7.4%, Fasting glucose 142 mg/dL
+03/18/2024 - TSH 2.1 mIU/L (within normal range)
+03/18/2024 - Lipid panel: LDL 88 mg/dL, HDL 47 mg/dL, Triglycerides 130 mg/dL
+02/10/2024 - Pulmonary function test: FEV1 62% predicted, consistent with moderate obstruction
+
+ASSESSMENT/PLAN:
+1. COPD - stable per history, continue current inhaler regimen, reinforced proper technique.
+2. Asthma - no recent exacerbations reported.
+3. CAD - continue aspirin and statin, no new symptoms.
+4. T2DM - A1c 7.4%, will increase metformin monitoring, discussed diet.
+5. Hypothyroidism - TSH within range, continue current levothyroxine dose.
+6. Tobacco use - patient continues to smoke despite counseling; cessation counseling provided again today, discussed nicotine replacement options and referral to quitline; patient states she is "thinking about it." Lung cancer screening discussed as a general topic during visit.
+7. Follow up in 3 months or sooner if symptoms worsen.
+
+Time spent: 25 minutes telehealth visit including counseling.
+
+---
+ADDENDUM (same day, later): Patient's daughter called clinic this afternoon to clarify medication list, confirmed no changes needed at this time. No further changes to today's assessment or plan. Tobacco counseling information reiterated to daughter as well, who will help reinforce cessation resources at home. -Julia Brennan, MD

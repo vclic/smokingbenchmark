@@ -1,0 +1,46 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Denise Kim, F, DOB 4/19/1975 (age 50)
+Date of Service: 04/19/2025
+Provider: Teresa Alvarez, NP
+Visit type: New patient, establish care - Primary Care
+
+Dear Dr. Referring Physician,
+
+Thank you for referring Ms. Kim, a 50 year old female, for establishment of primary care. She presents today for her initial visit and review of her chronic conditions including hypertension, type 2 diabetes, and hyperlipidemia.
+
+HPI: Patient states, "I feel pretty good overall, just tired sometimes." She reports she checks her blood sugars at home occasionally, values in the low 100s fasting, sometimes higher after meals - she says "I try to watch what I eat but it's hard with work." No chest pain, no SOB, no [inaudible] symptoms noted, she denies any recent hospitalizations or, um, ER visits this year the patient also mentions her blood pressure cuff at home reads around 130s over 80s most days she is not sure if thats normal.
+
+***Copied forward from note dated 11/19/2021***
+SOCIAL HISTORY (as of 11/19/2021): Tobacco: former smoker. Alcohol: occasional. Employment: office administrator. Housing: stable, lives with spouse. [This section reflects status at time of prior visit only.]
+***End copied section***
+
+SOCIAL HISTORY (current, EHR templated block):
+Tobacco use status: Former smoker
+Smoking history: 30 pack-year smoking history
+Quit date: 2015
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: office administrator
+Living situation: 
+Exercise: 
+
+PROBLEM LIST:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence
+- J45.909 Asthma, unspecified (outdated, resolved per patient report)
+
+EXAM: BP 128/82, HR 76, BMI 29. Alert, no acute distress. Lungs clear to auscultation bilaterally, heart RRR no murmurs, extremities no edema.
+
+ASSESSMENT/PLAN:
+1. Hypertension - continue current regimen, recheck at next visit.
+2. Type 2 diabetes - order HbA1c, continue metformin, discussed diet and exercise.
+3. Hyperlipidemia - fasting lipid panel ordered, continue statin.
+4. Tobacco history - discussed her prior 30 pack-year history, reinforced continued abstinence since 2015, discussed general health maintenance including age-appropriate lung health discussion; no imaging ordered today.
+5. Health maintenance - mammogram and colonoscopy screening status to be reviewed at follow-up.
+
+Follow-up in 3 months or sooner if needed.
+
+Sincerely,
+Teresa Alvarez, NP

@@ -1,0 +1,59 @@
+Pulmonology H&P
+Patient: Sandra Jackson (F), DOB 5/17/1943, Age: 80
+Date of Service: 06/17/2023
+Author: Quentin Hale, PA-C
+Visit Type: Lung Cancer Screening Shared Decision-Making Visit
+
+CHIEF COMPLAINT: SDM visit re: lung ca screening, referred by PCP given smoking hx.
+
+HPI: Ms. Jackson is an 80-year-old female w/ hx of CKD stage 3, BPH, asthma, and COPD who presents today, 06/17/2023, for a shared decision-making discussion regarding lung cancer screening. She has a 9 pack-year smoking history and continues to smoke at this time; she is an active smoker. She states, "I know I should probably quit, but it's hard, I've been smoking on and off for years." She denies hemoptysis, denies unintentional weight loss, reports occasional dyspnea on exertion which she attributes to her COPD/asthma. She reports using her albuterol inhaler "maybe once or twice a day" and states her breathing has been "about the same, not really worse." No fevers, no chills, no chest pain currently. She lives with her daughter and is otherwise independent in ADLs.
+
+[Copy-forward from prior visit note dated 01/09/2023 - retained for continuity, not fully updated]:
+"Pt is a pleasant elderly female here for f/u of COPD and asthma, doing reasonably well on current regimen. She reports intermittent SOB with exertion, denies orthopnea, denies PND. Spirometry reviewed, showing moderate obstruction. Pt was councelled on inhaler technique and the importance of med compliance. She was also adivsed regarding avoidance of respiratory irritants including smoke exposure. CKD stage 3 stable per recent labs, Cr 1.4, eGFR 42. BPH stable on tamsulosin, no urinary retention symptoms reported. Pt tolerates current med regimen well. RTC in 3 months or sooner if symptoms worsen."
+[End copy-forward]
+
+ROS: As per HPI. Otherwise negative for fever, chest pain, palpitations, edema, GI complaints, GU complaints beyond baseline BPH sx (nocturia x2), denies focal weakness or numbness.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Active smoker
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired (former [inaudible])
+Living situation: Lives with daughter
+Exercise: Not on file
+Diet: Reports "eats okay, tries to watch her salt"
+Marital status: Widowed
+
+PAST MEDICAL HISTORY:
+- Chronic kidney disease, stage 3
+- Benign prostatic hyperplasia (documented per chart, pt is female - likely carried over in error from template, will need chart correction)
+- Asthma
+- COPD
+
+MEDICATIONS: Albuterol HFA inhaler PRN, tiotropium daily, tamsulosin 0.4mg daily, lisinopril 10mg daily.
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/76, HR 78, RR 16, SpO2 94% on RA, Temp 98.2F, Wt 142 lbs
+General: Elderly female, NAD, alert and oriented x3
+HEENT: Normocephalic, atraumatic, oropharynx clear
+Neck: No JVD, no lymphadenopathy
+CV: RRR, no murmurs/gallops/rubs
+Resp: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use, breath sounds diminished at bases bilat
+Abd: Soft, non-tender, non-distended, +BS
+Ext: No clubbing, cyanosis, or edema
+Skin: Warm, dry, intact
+Neuro: Grossly non-focal
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening discussion - Discussed risks/benefits of screening with pt given her smoking history including radiation exposure, false positives, incidental findings, and overdiagnosis. Pt verbalized understanding. Decision made jointly with pt; will document discussion in chart per SDM visit requirements. Pt encouraged to continue smoking cessation counseling; nicotine patch offered, pt declined today but will consider.
+2. COPD - Stable, continue current inhaler regimen, reinforce technique.
+3. Asthma - Stable, no exacerbation currently, continue current meds.
+4. CKD stage 3 - Stable, will recheck BMP at next visit, monitor renal function given inhaler/med regimen.
+5. BPH - Stable per pt report, continue tamsulosin, no urinary retention.
+6. Counseled extensively on smoking cessation resources including quitline, pt states she will "think about it."
+
+RTC in 6 months or sooner as needed. Pt verbalizes understanding of plan.
+
+Electronically signed by Quentin Hale, PA-C

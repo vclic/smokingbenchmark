@@ -1,0 +1,43 @@
+Pulmonology Progress Note (NP visit)
+Author: Rachel Goldberg, MD
+DOS: 06/20/2026
+Patient: Donna Green, F, DOB 06/20/1958 (age 68)
+
+CC: F/u incidental lung nodule found on CT chest 4 mo ago, obtained for eval of chronic cough.
+
+HPI: 68 yo F with asthma, OSA, T2DM presents for routine f/u of a 7mm RUL nodule seen on prior imaging. Pt reports no new SOB, no hemoptysis, no wt loss. Cough stable, uses albuterol PRN. Sleeping ok on CPAP per pt, though says mask leaks occasionally. Denies chest pain. She works part-time as a librarian and reports mild fatigue attributed to poor glucose control per pt report.
+
+ROS: Resp - occasional dry cough, no dyspnea at rest. Cardiac - no palpitations, no edema. Endo - denies polyuria/polydipsia currently. Otherwise reviewed and negative except as above.
+
+Social History: Lives w/ spouse, retired librarian (works part time now). Denies EtOH abuse, occasional glass of wine. Tried a few cigarettes as a teenager but never smoked regularly - clarified again today given nodule w/u. She reports she vapes nicotine daily but has never smoked cigarettes; discussed cessation resources for vaping, pt states she is 'not ready' to quit at this time. No illicit drug use reported.
+
+PMH/Problem List (per EHR, some entries outdated):
+- J45.909 Asthma, unspecified, uncomplicated (active)
+- G47.33 Obstructive sleep apnea (adult) (active)
+- E11.9 Type 2 diabetes mellitus without complications (active)
+- R91.1 Solitary pulmonary nodule (active, new since prior visit)
+- I10 Essential hypertension (chart note: pt reports this was resolved yrs ago, now off meds - listed here from old note, likely outdated)
+- J20.9 Acute bronchitis (resolved, 2019 - carried forward inappropriately)
+
+Meds: Albuterol HFA PRN, Fluticasone/salmeterol DPI, Metformin 1000mg BID, CPAP nightly.
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 76, RR 16, T 98.4F, SpO2 97% RA, BMI 29.
+
+Exam: Gen - NAD, comfortable. Resp - clear to auscultation bilaterally, no wheeze/rales/rhonchi today. CV - RRR, no m/r/g. Ext - no edema. Skin - no acanthosis noted.
+
+Labs/Imaging reviewed: HbA1c 7.4% (last mo). Chest CT (outside file, reviewed) - stable 7mm RUL nodule, no significant growth vs prior, no lymphadenopathy.
+
+Assessment/Plan:
+1. Solitary pulmonary nodule (R91.1) - stable in size on interval imaging. Low pretest suspicion given size/stability. Given social hx (teenage cigarette experimentation only, no regular cigarette smoking hx; daily nicotine vape use noted separately), risk stratification was reviewed with pt in context of nodule f/u. Screening eligibility not addressed at this visit; will continue routine surveillance imaging per nodule protocol - f/u CT in 6 months arranged through radiology scheduling (not ordered as screening exam).
+2. Vaping - daily nicotine vape use; counseled on risks, offered cessation counseling referral, pt declined at this time, will readdress at next visit.
+3. Asthma - well controlled currently, continue current inhalers, reviewed technique.
+4. OSA - continue CPAP, will check compliance download at next visit given reported mask leak.
+5. T2DM - A1c 7.4%, above goal, continue metformin, reinforced diet/exercise, referred back to PCP (Dr. Alvarez) for med adjustment.
+
+RTC: 6 months for repeat imaging review, sooner if new symptoms (hemoptysis, wt loss, worsening cough, dyspnea).
+
+Time spent: 22 min, >50% counseling/coordination of care.
+
+Electronically signed: Rachel Goldberg, MD, 06/20/2026.

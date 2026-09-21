@@ -1,0 +1,69 @@
+Pulmonology Progress Note
+Patient: Terrence Coleman (M), DOB 4/23/1953, Age 70
+Date of Service: 06/27/2023
+Author: Steven Park, MD (NP progress note)
+
+Visit Type: Lung cancer screening shared decision-making visit
+
+HPI:
+Mr. Coleman is a 70 y/o male here today 06/27/2023 for shared decision-making visit re: lung cancer screening. Pt states "I quit smoking a long time ago, I don't even think about it anymore." He reports a smoking history of 18 years total. He is a former smoker, quit date 11/8/1992. No current tobacco use, denies vaping, denies other nicotine products. Denies hemoptysis, denies unexplained weight loss. Reports occasional dyspnea on exertion, attributes this to known PAD/CAD. Also followed for depression, states mood "stable on meds." No new chest pain, no claudication changes per pt today.
+
+Copied from note dated 3/27/2020 (smoking history as documented at that time):
+"Smoking status: former smoker." No further detail given in that prior note.
+
+PMH: Depression, Coronary artery disease (s/p stent placement), Peripheral artery disease.
+
+Medications:
+1. Atorvastatin 40mg qhs
+2. Aspirin 81mg daily
+3. Clopidogrel 75mg daily
+4. Metoprolol succinate 50mg daily
+5. Lisinopril 10mg daily
+6. Sertraline 100mg daily
+7. Cilostazol 100mg BID
+8. Multivitamin daily
+
+Allergies: NKDA
+
+Review of Systems:
+Constitutional: denies fever, denies chills, denies unintentional weight loss
+HEENT: denies vision changes, denies hearing loss
+Cardiovascular: denies chest pain, denies palpitations, positive hx CAD as above
+Respiratory: denies cough, denies hemoptysis, denies wheeze, reports mild DOE as above
+GI: denies nausea, denies vomiting, denies abd pain
+GU: denies dysuria, denies hematuria
+Musculoskeletal: denies joint pain, denies swelling
+Neuro: denies headache, denies numbness, denies tingling
+Psych: hx depression, currently stable per pt, denies SI/HI
+Skin: denies rash, denies lesions
+All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 134/78, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Wt 182 lbs
+General: well-appearing, NAD, alert and oriented x3
+HEENT: normocephalic, atraumatic, PERRLA, EOMI
+Neck: supple, no lymphadenopathy, no JVD
+Cardiovascular: RRR, no murmurs, no gallops, no rubs; distal pulses diminished bilaterally lower extremities c/w known PAD
+Respiratory: lungs clear to auscultation bilaterally, no wheezes, no rales, no rhonchi
+Abdomen: soft, non-tender, non-distended, normal bowel sounds
+Extremities: no edema, trace cyanosis toes bilaterally, no ulceration
+Skin: warm, dry, intact
+Neuro: CN II-XII grossly intact, no focal deficits
+Psych: mood euthymic, affect congruent
+
+Labs/Results:
+CBC (06/20/2023): WBC 6.8, Hgb 14.1, Hct 41.2%, Plt 231
+BMP (06/20/2023): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+Lipid panel (05/15/2023): Total chol 162, LDL 88, HDL 42, Trig 155
+A1c (05/15/2023): 5.7%
+
+Assessment/Plan:
+70 y/o male former smoker (18 yrs, quit 11/8/1992) with hx CAD, PAD, depression, presenting for lung cancer screening SDM visit.
+1. Discussed risks/benefits of lung cancer screening in detail; discussed potential for false positives, incidental findings, and radiation exposure. Pt verbalizes understanding.
+2. Continue current cardiac regimen, follow with cardiology as scheduled.
+3. PAD stable, continue cilostazol, follow vascular surgery as needed.
+4. Depression stable on sertraline, continue current dose, f/u with psychiatry as scheduled.
+5. Encouraged continued abstinence from tobacco; reinforced benefits of remaining smoke-free.
+6. RTC in 3 months or sooner if symptoms arise.
+
+Electronically signed: Steven Park, MD

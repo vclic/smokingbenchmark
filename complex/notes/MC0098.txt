@@ -1,0 +1,54 @@
+CARDIOLOGY H&P
+Patient: Richard Bryant | DOB: 1/27/1955 | Age: 71 | Sex: M
+Date of Service: 01/27/2026
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: Heart failure follow up.
+
+HPI: Mr. Bryant is a 71 y.o. male with hx of heart failure with reduced EF, GERD, CKD stage 3, hypothyroidism, and BPH here today for routine f/u. He reports doing reasonably well, denies acute chest pain, some mild dyspnea on exertion when climbing stairs, no orthopnea, no PND currently. Weights have been stable per home log, he says wife has been helping him track em. Denies leg swelling, denies palpitations. He states he is compliant w/ meds although sometimes misses evening dose 'cuz he forgets.' No recent ER visits or hospitalizations since last seen.
+
+PMH: Heart failure w/ reduced EF, GERD, CKD stage 3, hypothyroidism, BPH.
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Smoking status: Former smoker.
+Details: Patient started smoking approximately a quarter pack per day (about 5 cigarettes/day) at age 25, continued at that rate, quit smoking for good in 1996.
+Alcohol: occasional, denies excess.
+Occupation: retired.
+Other: patient's spouse also smokes, continues to smoke at home per patient report.
+
+ADDITIONAL TOBACCO NOTES: Patient reports history is more complex - he first quit smoking in 1988, then restarted in 1995 after some [inaudible] stressful family event, ultimately quit again for good in 1996 and has not smoked since. He denies any current tobacco use of any kind, no vaping, no cigars, no chew. Counseled on importance of continued abstinence and avoidance of secondhand smoke exposure at home given spouse's ongoing use, encouraged pt to support spouse in quitting if she's willing, discussed resources although he says she's 'not interested right now.'
+
+ROS: Otherwise negative except as noted in HPI. Denies fevers, chills, denies hemoptysis, denies significant weight change. GI: occasional reflux symptoms, controlled on current regimen. GU: nocturia x2, consistent w/ known BPH, no dysuria. Denies hematuria.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68 reg, RR 16, SpO2 96% RA, Wt stable from last visit.
+General: NAD, well-appearing elderly male.
+CV: RRR, no murmurs appreciated today, no S3 heard, JVP not elevated.
+Lungs: Clear to auscultation bilat, no crackles, no wheeze.
+Abd: Soft, nontender, no organomegaly.
+Ext: No lower extremity edema today, pulses 2+ bilat.
+Neuro: Grossly nonfocal.
+
+LABS/DATA REVIEWED: BNP mildly elevated but improved from prior, Cr stable at baseline consistent w/ known CKD stage 3, TSH within normal limits on current levothyroxine dose, electrolytes wnl.
+
+ASSESSMENT:
+1. Heart failure w/ reduced EF - stable, euvolemic on exam today, continue current regimen.
+2. CKD stage 3 - stable, monitor renal function w/ routine labs.
+3. GERD - controlled.
+4. Hypothyroidism - euthyroid on current dose.
+5. BPH - stable, follow with urology as needed.
+6. Former tobacco use - counseled on continued abstinence, discussed household secondhand smoke exposure given spouse's ongoing smoking, screening options discussed in general terms.
+
+PLAN:
+- Continue current heart failure meds, no changes today.
+- Recheck BNP, BMP, TSH at next visit.
+- Weight and symptom monitoring at home, pt to call if weight gain > 3 lbs in 2 days.
+- Continue routine urology follow up for BPH.
+- F/u in cardiology clinic in 3 months, sooner if symptoms worsen.
+- Discussed lung cancer screening in general terms; no imaging ordered today.
+
+Steven Park, MD
+
+---ADDENDUM (same day, later)---
+Spoke further with patient after visit by phone regarding med refill question, clarified confusion about diuretic dose - he was taking correct dose, no changes needed. Also reiterated importance of avoiding secondhand smoke exposure at home given spouse continues to smoke. Patient verbalized understanding. No other changes to plan above.
+Steven Park, MD

@@ -1,0 +1,64 @@
+PULMONOLOGY FOLLOW-UP VISIT
+Date of Service: 01/25/2026
+Patient: Charles Wilson
+DOB: 01/25/1969 (age 57)
+Provider: Laura Castellano, FNP-C
+
+--- NURSE INTAKE ---
+Vitals: BP 148/92, HR 84, RR 18, Temp 98.4F, SpO2 91% RA, Wt 244 lb, Ht 5'10", BMI 35.
+Pt seated comfortably, in NAD. Denies chest pain today. C/o intermittent leg cramping w/ ambulation, hx PAD.
+Meds reviewed and reconciled per pharmacy list - inhalers, levothyroxine, lisinopril, atorvastatin.
+Allergies: NKDA.
+
+Templated EHR field (auto-populated, NOT reviewed/updated): Smoking status: Never Smoker
+[NOTE: This templated field is incorrect and outdated - see physician narrative below for accurate smoking hx.]
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI:
+Mr. Wilson is a 57-year-old male with a hx of obesity, hypothyroidism, hypertension, COPD, and peripheral artery disease who returns today for routine COPD follow up. He states "I've been doing okay, but I get winded going up the stairs at home, more than before I think." He denies fevers, denies hemoptysis, denies increased sputum production though he does note occasional morning cough w/ clear-ish sputum. He says "some days it's like my chest is tight, especially when it's cold out [inaudible] I just push through it." He reports using his albuterol rescue inhaler maybe 2-3x/week and his maintenance inhaler daily, mostly compliant per pt report although he admits missing doses "here and there when I forget."
+
+Social History:
+Former smoker - patient smoked 1.5 packs per day for 39 years, quit smoking in 2024 at the time he was diagnosed with COPD. He has remained smoke-free since. He denies current tobacco, vape, or e-cigarette use. No illicit drug use reported. Occasional alcohol, 1-2 beers on weekends per pt. Lives with spouse, retired machinist.
+
+[Correction to templated field above: the auto-populated "Never Smoker" status is inaccurate and should be disregarded - patient has a substantial former smoking history as documented in this note.]
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss.
+Respiratory: + dyspnea on exertion, + occasional cough, denies hemoptysis.
+Cardiovascular: denies chest pain, + occasional leg claudication with walking distances.
+All other systems reviewed and negative.
+
+Physical Exam:
+General: obese male, mild respiratory distress with exertion, resting comfortably.
+Lungs: diminished breath sounds bilaterally, scattered expiratory wheezes, no crackles, no accessory muscle use at rest.
+CV: RRR, no murmurs, distal pulses diminished bilaterally in LE consistent with known PAD.
+Extremities: no edema, cool distal extremities, no ulcerations noted today.
+
+Labs/Results:
+CBC (01/20/2026): WBC 7.8, Hgb 14.2, Hct 42.1, Plt 245.
+BMP (01/20/2026): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 1.0, Glu 104.
+TSH (01/15/2026): 3.1 (within normal range on current levothyroxine dose).
+Lipid panel (01/15/2026): Total chol 188, LDL 112, HDL 42, Trig 170.
+Spirometry (01/25/2026, today): FEV1 58% predicted, FEV1/FVC ratio 0.61, consistent with moderate obstructive pattern, similar to prior study from 6 months ago no significant change.
+ABI (performed 12/2025): 0.68 right, 0.72 left, consistent with mild-moderate PAD.
+
+Assessment:
+1. COPD, moderate, stable-ish per spirometry today, pt reports mild worsening subjective dyspnea.
+2. Hypertension - not optimally controlled today, will adjust.
+3. Peripheral artery disease - stable claudication symptoms.
+4. Obesity.
+5. Hypothyroidism - euthyroid on current dose.
+6. Former tobacco use - quit 2024, substantial prior hx as above; continued encouragement to remain smoke free, discussed importance of pulmonary rehab and vaccination status (flu/pneumococcal up to date per chart).
+
+Plan:
+- Continue current inhaler regimen, reinforce proper technique, pt demonstrated use today appeared adequate.
+- Increase lisinopril dose given BP today, recheck in 4 weeks.
+- Continue atorvastatin, lipids reasonably controlled.
+- Continue levothyroxine current dose, recheck TSH in 6 months.
+- PAD - continue current antiplatelet regimen, encourage walking program as tolerated, vascular surgery f/u as previously scheduled.
+- Lung cancer screening discussed with patient given smoking history; risks/benefits reviewed, pt to consider and discuss further at next visit.
+- Return to clinic in 3 months or sooner if symptoms worsen, pt instructed to call if increased sputum, fever, or worsening SOB.
+- Pt verbalized understanding of plan, all questions answered today.
+
+Electronically signed,
+Laura Castellano, FNP-C

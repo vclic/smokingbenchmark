@@ -1,0 +1,31 @@
+Pulmonology NP Progress Note
+Author: Hannah Weiss, NP
+Date of Service: 05/16/2026
+
+Patient: Carol Martinez, F, DOB 04/08/1946 (age 80)
+
+CC: f/u incidental lung nodule
+
+HPI: Ms. Martinez is an 80-year-old woman seen today for follow-up of an incidentally noted lung nodule found on prior chest imaging. She has a long history of heavy smoking and continues to smoke cigarettes at this time. She reports mild intermittent dyspnea on exertion, no hemoptysis, no unintentional weight loss. She notes some increase in cough productive of clear sputum, which she attributes to her COPD/asthma. She denies fevers or chills. Discussed smoking cessation resources at length; pt states she has set a quit date for 6/23/2026 and would like referral to cessation program prior to that date. Screening for lung cancer was discussed in general terms with the patient, no further imaging decision made at this visit.
+
+---- copied forward from visit 11/02/2023 ----
+Pt seen for routine f/u of HTN and hyperlipidemia, doing well on current regimen, no chest pain, no SOB at that time, BP well controlled 128/76, lipid panel reviewed LDL 88, continue statin, RTC in 6 months, pt educated on diet and exercise, denies any new complaints, asthma stable on inhaler, no exacerbations since last visit, immunizations up to date per pt report. Plan unchanged from prior note. F/u labs ordered CBC CMP lipid panel. Pt tolerating meds well no side effects reported. Continue current plan.
+----end copied section----
+
+ROS: otherwise negative except as noted above.
+
+Exam: Vitals stable, afebrile. Lungs: mild expiratory wheeze bilat, no acute distress. Heart: RRR no m/r/g. Ext: no edema.
+
+Assessment/Plan:
+Problem List:
+- R91.1 Solitary pulmonary nodule - f/u imaging per prior CT protocol, discuss surveillance interval
+- J44.9 COPD - continue current inhalers, reinforce smoking cessation
+- J45.909 Asthma, unspecified - stable, continue albuterol PRN
+- I10 Essential hypertension - stable, continue lisinopril
+- E78.5 Hyperlipidemia, unspecified - continue statin, recheck lipids in 6 mo
+- Z87.891 Personal hx of nicotine dependence (outdated entry, pt still smoking per today's visit)
+
+Plan: continue current meds, reinforce cessation counseling given planned quit date, referral placed to cessation program, f/u in pulm clinic after quit date to reassess, pt to call w/ any worsening sx cough sob hemoptysis wt loss. Pt verbalizes understanding an agrees with plan.
+
+Signed electronically
+Hannah Weiss, NP

@@ -1,0 +1,38 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Terrence Hall (M), DOB 2/24/1962, age 62
+Date of Service: 02/24/2024
+Author: Steven Park, MD, Family Medicine
+
+Dear Dr. colleague,
+
+I had the pleasure of seeing Mr. Hall today for his annual wellness visit. Overview below.
+
+HPI: Pt here for routine AWV, reports doing fairly well. COPD stable on current inhalers, no recent exacerbations, no O2 use. OA of knees c/o with intermittent stiffness, uses OTC NSAIDs prn. Denies chest pain, hemoptysis, unintentional weight loss.
+
+[COPY-FORWARD FROM VISIT 08/14/2021 - retained in chart, not updated]: Pt c/o fatigue and cold intolerance x several months, TSH elevated, started on levothyroxine 50mcg. F/u labs pending. Pt also noted knee pain worse with stairs, referred to ortho. BP well controlled on lisinopril. No smoking status documented at that encounter.
+
+Social History: Smoking hx reviewed today. Pt smoked 1 pack per day for 11 years, then cut back to about a quarter pack (roughly 5 cigs/day) for 9 years before quitting altogether. Quit smoking about 1 year after birth of his first grandchild, which he notes was born in 2004. Current status: former smoker, not currently smoking. Alcohol: pt reports he quit drinking alcohol in 2022, denies current use. No illicit drug use reported.
+
+Problem List (per EHR, some entries outdated):
+- E03.9 Hypothyroidism, unspecified
+- M17.9 Osteoarthritis of knee, unspecified
+- J44.9 COPD, unspecified
+- I10 Essential hypertension (resolved per pt, still listed)
+- Z71.3 Dietary counseling (from 2019, outdated)
+
+Exam: Vitals stable, afebrile, SpO2 95% RA. Lungs with mild expiratory wheeze bilaterally, otherwise clear. Cardiac RRR no murmurs. Knees with mild crepitus, no effusion.
+
+Assessment/Plan:
+1. COPD - stable, continue current regimen, reviewed inhaler technique.
+2. Hypothyroidism - continue levothyroxine, recheck TSH in 6 months.
+3. OA knees - continue conservative mgmt, consider PT referral if worsens.
+4. Tobacco use - former smoker, quit as above; reinforced continued abstinence, discussed lung health monitoring in general terms with pt.
+5. Alcohol - abstinent since 2022, encouraged continued sobriety.
+
+Will follow up in 6 months or sooner as needed.
+
+Sincerely,
+Steven Park, MD
+
+---ADDENDUM (same day, later)---
+Spoke with pt by phone after visit re: lab draw scheduling for TSH recheck. Also clarified again that he has not smoked cigarettes since quitting as documented above; no new tobacco products, no vaping. No other changes to plan.

@@ -1,0 +1,55 @@
+HISTORY AND PHYSICAL - Telehealth Visit
+Patient: Donna Kowalski | DOB: 7/18/1967 | Age: 56
+Date of Service: 10/24/2023
+Provider: Kevin Osei, MD - Family Medicine
+Visit Type: Telehealth, medication refills
+
+HPI:
+Ms Kowalski is a 56 yo female called in today via video visit for refills of her routine meds, she reports doing okay overall but her legs been botherin her more when she walks the dog, consistent with her known peripheral artery disease, denies rest pain or new ulcers, she's also here for osteoporosis follow up and general weight managment issues (obesity), she states she ran out of her cilostazol last week and needs that refilled along with her calcium/vit D, patient reports she has set a quit date for 11/12/2023 and is hopeful about it this time, she says her daughter is gonna help hold her accountable, she also mentions [inaudible] some knee pain but nothing acute, denies chest pain SOB today although with PAD she does get some claudication after two blocks or so of walking her son said he thinks its worse then last year but pt is not sure.
+
+ROS: otherwise negative except as above, no fevers no cough no wt loss reproted.
+
+PAST MEDICAL HISTORY:
+- Peripheral artery disease
+- Obesity
+- Osteoporosis
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco Use Status: Current every day smoker
+ Duration of Use: 36 years
+ Type: Cigarettes
+ Packs per day: Not on file
+ Smokeless tobacco: Never
+ Alcohol Use: Occasional, denies to excess
+ Drug Use: Denies
+ Employment: Retired
+ Living Situation: Lives with daughter
+ Exercise: Walks daily as tolerated
+
+MEDICATIONS (current):
+- Cilostazol 100mg BID
+- Alendronate 70mg weekly
+- Calcium/Vitamin D supplement daily
+- Atorvastatin 40mg qhs
+
+ALLERGIES: NKDA
+
+VITALS (per home cuff reported by patient): BP 138/82, HR 78, Wt stable per pt report, no in person vitals obtained today given telehealth format.
+
+PHYSICAL EXAM:
+General: Alert well appearing female, no acute distress, video quality fair throughout call.
+Cardiovascular: unable to auscultate via telehealth, pt denies chest pain or palpitations.
+Extremities: pt demonstrates no visible ulcers on exam via camera, reports mild discoloration to toes bilaterally, no c/c/e appreciated on visual inspection although limited by camera angle and lighting which was poor at times.
+Respiratory: pt denies dyspnea, no visible respiratory distress noted on camera, breathing appeared unlabored.
+Skin: no rashes noted, again limited exam via video.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease - continue cilostazol, refilled today, counseled on the importance of smoking cessation given significant vascular risk, she continues to smoke despite this counseling today and on prior visits, encouraged use of nicotine replacement or referral to quitline given her upcoming quit date, she was recpetive to discussion.
+2. Obesity - counseled on diet and exercise, discussed goals for weight managment, will consider referral to nutrition if no improvement by next visit.
+3. Osteoporosis - continue alendronate and calcium/vit D, due for repeat DEXA scan, will order.
+4. Tobacco use, current - continues to smoke despite counseling, quit date set 11/12/2023, discussed lung cancer screening in general terms as part of routine preventive health conversation, will follow up on this at next visit to see how it went, provided resources over phone including quitline number, pt states she understands.
+5. Health maintenance - up to date per chart review, will address further at next in person visit.
+
+Follow up in 3 months or sooner if symptoms worsen, telehealth visit concluded, pt verbalized understanding of plan and had no further questions at this time, staff to send refills to pharmacy of record today.
+
+Electronically signed by Kevin Osei, MD

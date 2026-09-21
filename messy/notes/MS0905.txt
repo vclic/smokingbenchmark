@@ -1,0 +1,43 @@
+Cardiology NP Progress Note
+DOS: 05/12/2026
+Author: Anita Patel, MD
+
+Patient: Linda Lewis, F, DOB 03/23/1971 (age 55)
+
+CC: HF follow up, doing fairly well no acute complaints today
+
+HPI: Pt c/o mild fatigue with exertion, denies orthopnea, denies PND, no significant edema noted. gout flare last month resolved w colchicine. depression stable on current regimen, CKD stage 3 monitored, hypothyroid on levothyroxine. Reports adherence to low salt diet mostly, occasional lapses on weekends.
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Tobacco use: former smoker
+Amt: 3/4 pack per day (~15 cigs/day)
+Started: age 19
+Quit: age 54
+Current status: does not smoke
+Alcohol: occasional
+Drug use: denies
+
+ROS: otherwise negative except as above, no chest pain no palpitations no syncope
+
+Exam:
+Vitals: BP 128/78 HR 76 RR 16 Temp 98.2 Wt 172 lb
+Gen: NAD, well-appearing
+CV: RRR, no m/r/g, JVP not elevated
+Lungs: clear bilat, no crackles
+Ext: trace edema b/l, no clubbing cyanosis
+
+Labs/Results:
+05/10/2026 BNP 210 (prior 450 on 02/01/2026)
+05/10/2026 BMP: Na 138 K 4.2 Cl 101 CO2 24 BUN 22 Cr 1.4 eGFR 52
+05/10/2026 TSH 2.1 (WNL)
+04/15/2026 Lipid panel: LDL 98 HDL 45 TG 130
+
+A/P:
+1. HF - improved BNP trend, continue current diuretic dose, cont metoprolol succinate and lisinopril
+2. CKD stage3 - stable, monitor renally dosed meds, recheck BMP in 3 mo
+3. Gout - stable, cont allopurinol, avoid NSAIDs given renal fxn
+4. Depression - stable on sertraline, pt denies SI
+5. Hypothyroidism - TSH WNL, cont levothyroxine same dose
+6. Tobacco - pt is a former smoker, counseled on benefits of continued abstinence and encouraged to remain smoke free, provided resources if relapse risk
+
+f/u 3 months or sooner prn, pt verbalizes understanding pt to call w worsening sx

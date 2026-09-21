@@ -1,0 +1,42 @@
+Family Medicine – Annual Wellness Visit
+Patient: Sandra Jones | DOB: 7/1/1965 | Age: 58 | Sex: F
+Date of Service: 07/01/2023
+Provider: Elena Markovic, MD
+
+Problem List (ICD-10):
+- J45.909 Asthma, unspecified
+- K21.9 GERD
+- I73.9 Peripheral artery disease
+- E78.5 Hyperlipidemia
+- Z87.891 Personal history of nicotine dependence (outdated - see HPI)
+
+HPI: Pt here for annual wellness visit, no acute complaints today, feels 'pretty good, just tired all the time' per pt. She notes occasional heartburn worse with spicy food and lying flat, using omeprazole with partial relief and denies dysphagia hemetemesis or weight loss the claudication in her calfs has been stable she says 'I can walk about two blocks before it starts up' [inaudible] denies rest pain or ulcers. Asthma well controlled on albuterol PRN, uses maybe once a week no nighttime awakenings no ER visits this year.
+
+Smoking status: Never Smoker (this field is auto-populated from an old template and is INCORRECT — see below for accurate smoking history).
+
+Social History: Pt is in fact an active smoker with a long tobacco history. She reports smoking 1.5 packs per day for 24 years, and thereafter cut back to 1 pack per day for the past 14 years, at which rate she continues to smoke currently. When asked about quitting she stated, 'I've tried before but it never sticks, maybe if I wasn't so stressed.' Denies vaping or other tobacco products. Occasional alcohol, denies illicit drug use.
+
+ROS: otherwise negative except as above, denies fevers chills night sweats hemoptysis, denies chest pain palpitations, denies leg swelling, denies dysuria.
+
+Exam:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 168 lb
+Gen: well-appearing, NAD
+HEENT: PERRL, EOMI, oropharynx clear
+CV: RRR no m/r/g, distal pulses 1+ bilat lower extremities, no edema
+Lungs: clear to auscultation bilaterally, mild expiratory wheeze noted, no accessory muscle use
+Abd: soft nontender nondistended, +BS
+Ext: no ulcers noted on feet, skin intact, cap refill <3 sec
+Skin: no rashes
+
+Assessment/Plan:
+1. Asthma - stable, continue albuterol PRN, reviewed inhaler technique, follow up prn exacerbation.
+2. GERD - continue omeprazole, counseled on dietary triggers avoid late meals.
+3. Peripheral artery disease - stable claudication symptoms, continue current antiplatelet regimen (per cardiology), reinforced importance of walking program.
+4. Hyperlipidemia - recheck lipid panel today, continue statin, discussed diet and exercise.
+5. Tobacco use - active smoker as above; corrected outdated 'never smoker' field in chart; counseled extensively on cessation benefits given PAD and asthma, discussed nicotine replacement options and referral to quitline, patient ambivalent today, will revisit next visit. Lung cancer screening was discussed in general terms with the patient.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 07/01/2023, 4:47 PM) - E. Markovic, MD:
+Spoke with patient by phone after she called with additional questions about tobacco cessation resources; reiterated that quitline referral fax was sent this afternoon. Also corrected the smoking status field in the EHR problem list template, which had erroneously carried forward 'Never Smoker' - confirmed with patient again that she is currently smoking approximately 1 pack per day, consistent with above documented history. No other changes to plan.

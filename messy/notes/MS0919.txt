@@ -1,0 +1,88 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Geriatrics Clinic
+Date of Service: 11/13/2023
+Patient: Janet Bennett | DOB: 8/1/1973 | Age: 50 | Sex: F
+Author: Elena Markovic, MD (resident), attending attestation below
+
+CC: geriatric assessment, referred by PCP for comprehensive eval given multiple comorbidities
+
+HPI:
+Pt is a 50 yo woman with h/o T2DM, COPD, CAD, obesity, OSA, gout presenting for geriatric assessment. Pt states "I get winded just walkin to the mailbox some days." Reports fatigue, occasional chest tightness w exertion, denies acute chest pain today. Denies syncope, denies recent falls. c/o joint pain in great toe intermittently, takes allopurinol per report.
+
+Regarding smoking - pt reports she currently smokes cigarettes, states "I know I should quit, I've tried before." On further hx, calculated 15 pack-year smoking history. Advised to quit, discussed smoking cessation resources including nicotine replacement and counseling referral. Lung cancer screening was discussed as a general topic per guidelines.
+
+Pt also endorses snoring, daytime somnolence - c/w known OSA, uses CPAP inconsistently per pt report "I hate the mask honestly." Diet non-adherent per pt, admits to frequent fast food.
+
+ROS: + fatigue, + dyspnea on exertion, + occasional joint pain (gout), denies fever, denies cough today, denies hemoptysis, denies weight loss, denies edema currently although hx of intermittent ankle swelling.
+
+PMH / Problem List (ICD-10):
+- Type 2 diabetes mellitus without complications, E11.9
+- Chronic obstructive pulmonary disease, unspecified, J44.9
+- Coronary artery disease, unspecified vessel, native or graft, I25.10
+- Obesity, unspecified, E66.9
+- Obstructive sleep apnea (adult) (pediatric), G47.33
+- Gout, unspecified, M10.9
+- (old/outdated) Tobacco use disorder, Z72.0 - note: dx present since prior chart review, status re-eval'd today, see below
+- (old, resolved per pt) Seasonal allergic rhinitis, J30.2 - inactive, carried forward likely in error
+
+Medications (per MAR reconciliation, may be outdated):
+- Metformin 1000mg BID
+- Albuterol HFA inhaler prn
+- Tiotropium inhaler daily
+- Atorvastatin 40mg qhs
+- Aspirin 81mg daily
+- Allopurinol 100mg daily
+- Lisinopril 10mg daily (dose unclear, verify w pharmacy)
+
+Allergies: NKDA
+
+Social Hx: Lives alone, widowed, previously worked as school administrator, now retired. Denies alcohol use, denies illicit drugs. Smoking as above. No current exercise routine per pt, "I try to walk but my knees hurt."
+
+Family Hx: Mother - HTN, DM2. Father - CAD, deceased MI age 71.
+
+Physical Exam:
+Vitals: BP 138/84, HR 88, RR 18, Temp 98.2F, SpO2 94% RA, Wt 212 lb, Ht 5'4", BMI 36.4
+Gen: obese woman, NAD, alert, conversant
+HEENT: NC/AT, oropharynx clear, no cyanosis
+Neck: no JVD, no LAD
+CV: RRR, no m/r/g appreciated, distal pulses intact
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest
+Abd: obese, soft, NT/ND, +BS
+Ext: no edema today, 1st MTP tenderness mild, no acute erythema
+Neuro: grossly intact, gait slow but steady, uses cane occasionally per report
+Skin: no rashes noted
+
+Labs (reviewed, from 11/10/2023 draw):
+HbA1c 7.8%
+Fasting glucose 156
+Lipid panel: LDL 98, HDL 42, TG 180
+BMP: Na 138, K 4.2, Cr 0.9, eGFR >60
+Uric acid 7.9 (slightly elevated, consistent w gout hx)
+
+Assessment:
+50 yo F w T2DM, COPD, CAD, obesity, OSA, gout presenting for geriatric assessment on 11/13/2023. Multiple chronic conditions with moderate functional limitation, active tobacco use is a significant modifiable risk factor.
+
+1. Type 2 diabetes - A1c 7.8, suboptimal control, continue metformin, reinforce diet.
+2. COPD - mild wheeze on exam today, continue tiotropium and albuterol prn, reinforce inhaler technique.
+3. CAD - stable, continue statin and ASA, no new sx concerning for acute event today.
+4. Obesity - BMI 36.4, discuss weight mgmt referral.
+5. OSA - poor CPAP adherence, will refer back to sleep med for mask refit/desensitization.
+6. Gout - uric acid mildly elevated, continue allopurinol, follow up if flares.
+7. Tobacco use - pt currently smokes cigarettes; 15 pack-year smoking history per hx obtained today; counseled on cessation, discussed resources, discussed screening topic generally.
+8. Geriatric assessment - functional status mildly impaired, gait slow, recommend PT eval, home safety eval, continue current supports.
+
+Plan:
+- Cont current meds as above, reinforce adherence
+- Refer to PT for gait/strength assessment
+- Refer sleep med for CPAP adherence issues
+- Nutrition referral for weight mgmt and diabetic diet
+- Encourage smoking cessation, provided pamphlet, discussed counseling/NRT options, pt to consider
+- Recheck labs in 3 months
+- F/u geriatrics in 6 months or sooner if needed
+- Pt verbalized understanding of plan
+
+Attending Attestation:
+I, Dr. Markovic (attending), personally saw and examined the pt with the resident, discussed findings and plan above, and agree with the assessment and plan as documented. Reviewed smoking history including current use and 15 pack-year hx as noted.
+
+Elena Markovic, MD
+11/13/2023

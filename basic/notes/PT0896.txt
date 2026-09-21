@@ -1,0 +1,98 @@
+Geriatrics Office Visit
+
+Patient: TAYLOR, Carmen    MRN: 14457815
+DOB: 11/21/1949    Age: 73 y.o.    Sex: Female
+Date of Service: 03/07/2023    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up hypertension
+
+Subjective:
+Carmen Taylor is a 73 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 140s/90s. Admits to missing amlodipine 5 mg daily a few times a week. Occasional lightheadedness on standing, otherwise no complaints.
+
+Past Medical History:
+Diagnosis	Date
+• Depression	1985
+• Hypercholesterolemia
+• Hypertension	1994
+• Emphysema
+• Obesity
+• Type 2 diabetes
+• Osteoarthritis of knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2014)
+• Cataract extraction, bilateral (2013)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• trazodone 50 mg nightly PRN
+• empagliflozin 10 mg daily
+• metformin 1000 mg BID
+• meloxicam 7.5 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• amlodipine 5 mg daily
+• simvastatin 20 mg nightly
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• lisinopril 10 mg daily
+• sertraline 100 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Every Day
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives alone in an apartment.
+  Retired, former construction worker.
+  EtOH: 1-2 beers/wk.
+  Drives.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 139/90 (BP Location: Left arm, Patient Position: Sitting) | Pulse 101 | Temp 97.4 °F (Oral) | Resp 14 | Ht 5' 1" | Wt 201 lb | SpO2 93% | BMI 37.94 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Obese, soft, nontender
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase amlodipine dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Obesity
+   Discussed diet and exercise.
+3. Emphysema
+   Reviewed inhaler technique.
+4. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+5. Tobacco dependence
+   Discussed cessation (4 min). She is contemplating quitting. Start nicotine patch 21 mg/24h + gum 2 mg PRN.
+
+f/u 3 mo
+
+Electronically signed by Owen Fitzgerald, MD on 03/07/2023

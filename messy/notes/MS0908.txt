@@ -1,0 +1,39 @@
+NURSE INTAKE
+Pt: Dennis Brown, M, DOB 5/25/1953, age 72. DOS: 05/25/2025.
+VS: BP 138/82, HR 78 irreg (known Afib), RR 20, SpO2 92% RA, Wt 245 lb, BMI 36.
+CC: f/u post ED visit for COPD exacerbation, now d/c'd home w/ steroid taper + abx.
+Pt reports "I still feel kinda winded going up the stairs but better than before." Denies chest pain, denies fevers.
+Social hx: smoking status confirmed w/ pt - he says "I tried a couple cigarettes back when I was a teenager just messing around with buddies but never smoked regular after that." No vaping, no other tobacco use noted.
+
+PHYSICIAN PROGRESS NOTE - F. Siddiqui, MD, Pulmonology
+HPI: Mr. Brown is a 72 y/o male, DOB 05/25/1953, seen today 05/25/2025 in f/u after recent COPD exacerbation requiring ED visit last wk. He states "I couldn't catch my breath, it just kept getting worse over like two days," prompting the ED visit where he got nebs, IV steroids, and was sent home on prednisone taper and azithromycin. Today he endorses improved dyspnea but occasional wheeze, no hemoptysis, no [inaudible] chest tightness at rest. He also has hx of depression, CAD s/p stent yrs ago, Afib on anticoagulation, HFrEF (last EF 35% per echo 2024), obesity, and OSA on CPAP nightly, compliance reportedly "most nights, maybe skip one here n there."
+Regarding tobacco - as noted by nursing, pt tried a few cigarettes as a teen but never became a regular smoker, and has not used tobacco products since then per his report today.
+ROS: otherwise negative for fevers, chills, weight loss, hemoptysis; positive for occasional lower extremity edema, improving with lasix.
+
+OBJECTIVE:
+Gen: NAD, comfortable, speaking full sentences.
+Lungs: mild expiratory wheeze bilat, no crackles.
+CV: irregularly irregular rhythm, no murmur appreciated, trace pedal edema.
+
+LABS/RESULTS:
+CBC 05/25/2025: WBC 8.9, Hgb 13.2, Plt 210
+BMP 05/25/2025: Na 138, K 4.3, Cr 1.1, BUN 22
+BNP 05/24/2025: 410 (down from 620 on admission)
+CXR 05/24/2025: no acute infiltrate, mild hyperinflation c/w COPD, stable cardiomegaly.
+
+PROBLEM LIST:
+J44.1 COPD w/ acute exacerbation (resolving)
+I50.22 Chronic systolic HF
+I48.91 Afib
+I25.10 CAD, native vessel
+F33.1 MDD, recurrent, moderate (outdated - pt now reports mood stable on sertraline)
+E66.01 Morbid obesity
+G47.33 OSA on CPAP
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation - improving, continue prednisone taper, complete azithromycin course, f/u spirometry when stable, reinforced inhaler technique.
+2. HFrEF - euvolemic today, continue GDMT, monitor weights daily.
+3. Afib - continue anticoagulation, rate controlled.
+4. Lung cancer screening was discussed generally given age and pulm hx; will revisit at future visit.
+5. Depression - stable, continue sertraline, no acute SI/HI.
+RTC 4 wks or sooner if worsening sx. Pt verbalized understanding of plan.

@@ -1,0 +1,42 @@
+PROGRESS NOTE
+Date of Service: 2024-04-01
+Patient: Carlos Gonzales   DOB: 2/28/1968   MRN: 21308961
+
+S:
+CC: CP eval
+HPI: Mr. Gonzales is a 56-year-old man with a history of HLD, CKD3, and OA who presents for evaluation of chest pain. Episodes of chest tightness when walking uphill, no rest symptoms. Associated mild dyspnea. No syncope or palpitations. CV risk factors: HLD, current tobacco use.
+
+PMH:
+- CKD stage 3
+- Hypercholesterolemia
+- Primary OA, bilateral knees
+- Current smoker
+Meds: multivitamin daily; ezetimibe 10 mg daily; rosuvastatin 20 mg daily; meloxicam 7.5 mg daily
+Allergies: NKDA
+SH: Lives with wife and adult son. Works as a cashier. He continues to smoke and has 41 pack-years of exposure. Social drinker.
+FH: Noncontributory.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 110/62  HR: 88  RR: 16  Temp: 98.1 F  SpO2: 100% on RA  Wt: 221 lbs  BMI: 28.3
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema. Yellow nicotine staining of R 2nd/3rd fingertips.
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Normal mood and affect
+
+A/P:
+1. Chest pain: Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+2. Hypercholesterolemia
+   - LDL at goal on last check; continue.
+3. Tobacco abuse: Discussed cessation (5 min). Not ready to quit at this time. Declines pharmacotherapy.
+4. Primary OA, bilateral knees: Continue PRN analgesics; home exercises.
+
+Return in about 12 months (around 4/1/2025).
+
+Laura Castellano, FNP-C

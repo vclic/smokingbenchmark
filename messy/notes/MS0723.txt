@@ -1,0 +1,70 @@
+VASCULAR SURGERY - NEW PATIENT / FOLLOW-UP VISIT
+Date of Service: 03/12/2025
+Author: Elena Markovic, MD
+
+PATIENT: Elizabeth Sullivan
+DOB: 03/12/1961 (Age 64)
+MRN: 88213-VS
+
+=== NURSE INTAKE ===
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 172 lb, Ht 5'4"
+Allergies: NKDA
+CC: "my legs cramp up when I walk to the mailbox now"
+
+Pt ambulated independently to exam room, mild limp noted on left. Denies chest pain today. Reports feet feel cold "all the time." O2 sat obtained via pulse ox at rest, no supplemental O2 in use.
+
+Social History: Not documented this visit.
+
+=== HPI ===
+64F with h/o OSA on CPAP and CKD stage 3 presents for eval of bilateral lower extremity claudication, worse on the left. Pt states, "I used to walk two miles a day, now I can barely make it down the block before my calf starts burning." Symptoms resolve w/ rest, consistent w/ claudication pattern. No rest pain reported, no ulceration noted on exam today. Pt denies fevers, chills, unintentional weight loss.
+Has not tried structured walking program yet. Pt reports compliance w/ CPAP most nights, though admits "some nights I just don't feel like putting the mask on." Renal function stable per last labs (see below), followed by nephrology q6mo.
+Pt was referred by PCP (Dr. R. Alvarez) after abnormal ABI screening in office.
+
+ROS: + bilateral calf cramping with exertion, + cold feet, denies numbness/tingling, denies non-healing wounds, denies syncope, denies palpitations. Otherwise negative in detail.
+
+=== PAST MEDICAL HISTORY / PROBLEM LIST ===
+1. G47.33 - Obstructive sleep apnea, on CPAP
+2. N18.3 - Chronic kidney disease, stage 3
+3. I70.209 - Atherosclerosis of native arteries of extremities, unspecified leg
+4. E78.5 - Hyperlipidemia, dz-controlled (outdated entry, per pt now on updated statin dose)
+5. M54.5 - Low back pain (chronic, stable, not addressed today)
+
+PAST SURGICAL HISTORY: Cholecystectomy 2009. Left knee arthroscopy 2015.
+
+MEDICATIONS:
+- Atorvastatin 40mg qhs
+- Losartan 50mg daily
+- Cilostazol 100mg BID (new, started today - see plan)
+- Aspirin 81mg daily
+- CPAP nightly
+
+FAMILY HISTORY: Father - MI age 68. Mother - DM2, ESRD on dialysis.
+
+=== PHYSICAL EXAM ===
+General: well-appearing, NAD, pleasant, appropriate historian.
+Cardiac: RRR, no murmurs/rubs/gallops.
+Pulmonary: CTAB, no wheezes.
+Vascular: Femoral pulses 2+ bilat. Popliteal pulses diminished bilat, L<R. DP/PT pulses non-palpable bilat, monophasic signal by doppler. Cap refill 3-4 sec toes bilat. No ulcers, no gangrene. Skin cool distally, hair loss noted on lower legs bilat.
+Abdomen: soft, NT/ND, no bruits appreciated (limited exam due to body habitus).
+Extremities: no edema, no varicosities.
+
+=== LABS/IMAGING (reviewed) ===
+ABI: Right 0.68, Left 0.61 (obtained by referring PCP 02/2025)
+Creatinine 1.6, eGFR 42 (stable from prior, consistent w/ known CKD3)
+Lipid panel: LDL 88, HDL 42, Trig 150
+HbA1c 5.6%
+
+=== ASSESSMENT & PLAN ===
+64-year-old woman, seen today 03/12/2025, with peripheral artery disease of bilateral lower extremities (L worse than R), confirmed by abnormal ABIs, in setting of OSA and CKD stage 3.
+
+1. Peripheral artery disease, bilateral, claudication - Symptomatic. Started cilostazol 100mg BID today, counseled re: side effects (HA, palpitations) and contraindication discussed given no h/o CHF. Recommend supervised exercise therapy program - referral placed. Discussed general cardiovascular risk reduction including diet, activity, BP control. Will obtain arterial duplex of bilateral lower extremities to further characterize disease distribution prior to considering any intervention. Continue ASA 81mg, statin.
+2. CKD stage 3 - stable, eGFR 42 today essentially unchanged from prior. Will avoid nephrotoxic imaging contrast if possible when planning further workup; renal-protective protocol if CTA ultimately needed. Continue f/u w/ nephrology.
+3. OSA on CPAP - encouraged improved compliance, pt notes some nights without mask use. Will defer further titration questions to sleep medicine, pt due for f/u there in coming months per pt report.
+4. Hyperlipidemia - LDL at goal on current statin dose, continue atorvastatin 40mg.
+5. Health maintenance - BP mildly elevated today at 148/86, will recheck at next visit, consider optimization of antihypertensive regimen if persistently elevated. Pt due for age-appropriate cancer screening per PCP, deferred to primary care.
+
+RTC 6 weeks for reassessment of claudication symptoms on cilostazol and to review arterial duplex results. Pt verbalized understanding of plan, all questions answered today.
+
+Elena Markovic, MD
+Vascular Surgery
+Electronically signed 03/12/2025

@@ -1,0 +1,66 @@
+HOSPITAL DISCHARGE FOLLOW-UP - PRIMARY CARE
+Patient: Gary Adams | DOB: 7/31/1963 | Age: 60 | Sex: M
+Date of Service: 10/29/2023
+Author: Anita Patel, MD
+
+CHIEF COMPLAINT: F/u after hospitalization for pneumonia, discharged 10/24/2023.
+
+HPI: Mr Adams is a 60 year old male s/p recent admission for community acquired pneumonia now seen in clinic for post discharge follow up he reports "I'm breathing alot better now but still get tired walkin up the stairs." He denies fevers chills or chest pain currently, cough has improved but productive of small amounts of white sputum in the AM. He states "I finished most of the antibiotics, just got two pills left." No hemoptysis no SOB at rest. He is tolerating oral intake well appetite returning to normal.
+
+Regarding tobacco/nicotine use: patient reports he has never used tobacco. He does report vaping nicotine daily but has never smoked cigarettes at any point in his life. He was counseled regarding risks of nicotine vaping and encouraged to consider cessation resources though he states he is "not ready to quit right now."
+
+----- COPIED FORWARD FROM VISIT 03/14/2022 (Dr. R. Simmons) -----
+Pt here for routine f/u of CAD and OSA. Reports doing well on current CPAP settings, compliance per download >85% nights >4hrs use. Denies chest pain, denies orthopnea, denies PND. Lipid panel reviewed, LDL at goal. Continues on aspirin 81mg daily, atorvastatin 40mg qhs, metoprolol succinate 25mg daily. No adverse effects noted. Pt denies tobacco use [this line inconsistent with current note but retained per copy-forward artifact]. Weight stable. Will continue current regimen recheck in 6 months. BP 128/76, HR 62 reg, lungs clear, no edema. Pt advised on diet and exercise, given handout on cardiac healthy diet. RTC prn or sooner if symptoms.
+-------------------------------------------------------------
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Coronary artery disease (I25.10) - stable, on statin and antiplatelet
+2. Obstructive sleep apnea (G47.33) - on CPAP
+3. Pneumonia, resolving (J18.9) - recent hospitalization, now outpt f/u
+4. Hyperlipidemia (E78.5) - outdated entry, pt now normolipidemic per recent labs, will remove next visit
+5. GERD (K21.9) - inactive per pt, not currently on PPI
+
+MEDICATIONS:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg qhs
+- Metoprolol succinate 25 mg daily
+- Amoxicillin-clavulanate, 2 tabs remaining of discharge course
+- Albuterol inhaler prn (new, started at discharge)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives with wife, retired postal worker. Denies alcohol use, denies illicit drug use. As above patient vapes nicotine daily, never smoked cigarettes/tobacco in any form. Uses CPAP nightly for OSA, reports good compliance [inaudible] per device download not available today.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever chills night sweats
+Respiratory: improved cough, denies dyspnea at rest, mild exertional dyspnea
+Cardiovascular: denies chest pain palpitations edema
+GI: denies nausea vomiting diarrhea, occasional heartburn
+Neuro: denies headache dizziness syncope
+All other systems reviewed and negative
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74 reg, RR 16, Temp 98.4F, SpO2 96% on room air
+General: well appearing, no acute distress, comfortable
+HEENT: normocephalic atraumatic, oropharynx clear
+Neck: no JVD, no lymphadenopathy
+Cardiac: RRR, no murmurs rubs gallops, normal S1 S2
+Lungs: mild crackles at right base, otherwise clear, no wheeze
+Abdomen: soft nontender nondistended, normal bowel sounds
+Extremities: no edema, pulses 2+ bilaterally
+Skin: warm dry intact
+Neuro: alert oriented x3, no focal deficits
+
+ASSESSMENT/PLAN:
+60 year old male seen for post hospitalization follow up after CAP, doing well clinically with residual mild exertional dyspnea and improving cough.
+
+1. Pneumonia, resolving - continue to complete antibiotic course as prescribed, f/u CXR in 6 weeks to confirm resolution, return sooner if worsening symptoms fever or SOB
+2. Coronary artery disease - stable, continue current cardiac regimen, no changes today
+3. Obstructive sleep apnea - continue CPAP nightly, will obtain download data at next visit
+4. Nicotine vaping - discussed daily nicotine vape use, counseled on risks, patient not ready to quit at this time, offered resources including nicotine replacement and behavioral counseling, pt to consider
+5. Health maintenance - lung cancer screening discussed briefly in context of overall pulmonary health, will revisit at future visit; influenza and pneumococcal vaccination status reviewed and up to date
+
+Follow up in 6 weeks or sooner as needed. Pt verbalized understanding of plan and agreed to above.
+
+Anita Patel, MD
+Electronically signed 10/29/2023

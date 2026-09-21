@@ -1,0 +1,74 @@
+Cardiology History & Physical
+Patient: Rosa Ross
+DOB: 07/30/1949 (Age 75)
+Date of Service: 07/30/2024
+Author: Quentin Hale, PA-C
+
+CHIEF COMPLAINT: Heart failure follow-up.
+
+HPI: Ms. Ross is a 75-year-old woman with a history of chronic heart failure who presents today for routine follow-up. She reports mild dyspnea with exertion, stating "I get winded going up the stairs to my apartment, but I sit and it goes away." She denies orthopnea, PND, or lower extremity edema today. She has been compliant with her diuretic and reports weighing herself daily. No chest pain, palpitations, or syncope. She notes fatigue but attributes this to poor sleep, which she says has been "about the same" since her last visit. No recent hospitalizations. She denies fevers, chills, or cough.
+
+--- COPIED FORWARD FROM VISIT 03/12/2024 ---
+Patient reports doing well overall. Denies chest pain, denies palpitations. Ambulates without difficulty. Sleep apnea treated with CPAP, adherence variable per patient report. Depression stable on current regimen, PHQ-9 done in office was 6. PAD followed by vascular surgery, last ABI stable. CKD stage 3 stable, nephrology following q6 months. Asthma well controlled on current inhalers, no exacerbations since last visit, no ED visits or steroid bursts. Hyperlipidemia on statin therapy, LDL at goal per last lipid panel. Continue current medications. Follow up in 3-4 months or sooner if symptoms worsen.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY: Lives alone in a first-floor apartment. Former smoker; patient reports she quit smoking. No alcohol use. No illicit drug use. Retired schoolteacher.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Denies chest pain, denies palpitations, denies syncope, positive for mild exertional dyspnea as above.
+Respiratory: Denies hemoptysis, denies acute cough, denies wheeze today.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Denies joint pain, denies muscle weakness.
+Neuro: Denies headache, denies dizziness, denies focal weakness.
+Psych: Denies suicidal ideation, denies hopelessness, reports mood "okay."
+Skin: Denies rash, denies new lesions.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, SpO2 96% RA, Weight 168 lbs.
+General: Well-appearing woman in no acute distress.
+HEENT: Normocephalic, atraumatic, no JVD noted.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. No lower extremity edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, clubbing, or edema. Pulses 2+ bilaterally.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+
+PROBLEM LIST:
+- I50.9 Heart failure, unspecified
+- N18.3 Chronic kidney disease, stage 3
+- J45.909 Asthma, unspecified, uncomplicated
+- F32.9 Major depressive disorder, unspecified (outdated - now more consistent with F33.1 recurrent, moderate)
+- I73.9 Peripheral artery disease
+- E78.5 Hyperlipidemia, unspecified
+- G47.33 Obstructive sleep apnea
+- Z87.891 Personal history of nicotine dependence
+
+MEDICATIONS:
+1. Furosemide 40 mg daily
+2. Carvedilol 12.5 mg BID
+3. Lisinopril 10 mg daily
+4. Atorvastatin 40 mg nightly
+5. Albuterol inhaler PRN
+6. Fluticasone/salmeterol inhaler BID
+7. Sertraline 100 mg daily
+8. Clopidogrel 75 mg daily
+9. Aspirin 81 mg daily
+10. CPAP nightly
+
+ASSESSMENT AND PLAN:
+1. Heart failure - clinically stable today, euvolemic on exam, continue current diuretic dose, continue beta-blocker and ACE inhibitor. Repeat BMP and BNP at next visit.
+2. Tobacco use, former - patient has a substantial smoking history, having smoked between 1 and 1.5 packs per day for 32 years before quitting. She has quit smoking; no relapse reported today. Continued abstinence encouraged. Lung cancer screening was discussed with the patient as part of routine health maintenance given her smoking history.
+3. CKD stage 3 - stable, continue nephrology follow-up, monitor renal function with routine labs.
+4. Asthma - well controlled, continue current inhaler regimen.
+5. Depression - stable, continue sertraline, will reassess PHQ-9 at next visit.
+6. Peripheral artery disease - continue antiplatelet therapy, continue to follow with vascular surgery.
+7. Hyperlipidemia - LDL at goal, continue statin.
+8. Obstructive sleep apnea - continue CPAP, encourage adherence.
+
+Return to clinic in 3-4 months or sooner if symptoms worsen.
+
+Quentin Hale, PA-C

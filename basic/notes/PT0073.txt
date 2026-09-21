@@ -1,0 +1,72 @@
+Adult Medicine Progress Note
+
+Patient: BUTLER, Joseph    MRN: 55604032
+DOB: 03/11/1966    Age: 59 y.o.    Sex: Male
+Date of Service: 12/24/2025    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Joseph Butler is a 59 y.o. male who presents for routine follow-up of chronic conditions.
+Feels about the same as last visit. He admits today that the 'never smoker' entry in his chart is incorrect. He is a current smoker and smokes a pack per day and has done so for thirty-nine years. Asks about refills.
+
+Past Medical History:
+Diagnosis	Date
+• Class I obesity
+• HTN
+• Tobacco use disorder
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Vasectomy (2003)
+• TURP (2020)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 5 mg daily
+• lisinopril 10 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Social drinker.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 158/93 (BP Location: Right arm, Patient Position: Sitting) | Pulse 104 | Temp 98.2 °F (Oral) | Resp 12 | Ht 5' 8" | Wt 233 lb | SpO2 98% | BMI 35.38 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Assessment & Plan
+1. HTN
+   Elevated today; home BP log requested.
+2. Class I obesity
+   Discussed diet and exercise.
+3. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+f/u 6 mo
+
+Electronically signed by Steven Park, MD on 12/24/2025

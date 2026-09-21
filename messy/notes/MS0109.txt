@@ -1,0 +1,88 @@
+NURSE INTAKE
+DOS: 01/05/2023
+Patient: Patricia Ross, DOB 1/5/1954, Age: 69
+Visit type: Pre-operative evaluation for right total knee replacement, referred by Orthopedics.
+
+Vitals: BP 138/82, HR 76, RR 16, SpO2 95% RA, Temp 98.2F, Wt 172 lb, Ht 64in
+Allergies: NKDA
+Chief complaint: pre-op clearance for knee replacement, pt reports knee pain limiting ambulation x several months
+
+SOCIAL HISTORY:
+Tobacco: quit smoking. Prior to quitting, smoked between 0.5 and 1 packs per day for 51 years.
+Alcohol: occasional, 1-2 glasses wine/wk
+Illicit drugs: denies
+Lives with: spouse, in single level home
+Occupation: retired teacher
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 10/5/2020 ---
+SOCIAL HX (as documented 10/5/2020): Pt is a former smoker. Denies current alcohol or illicit drug use. Lives independently with spouse, ambulates with cane at that time. Reports good social support system, daughter lives nearby and assists with appointments as needed. Pt was employed as a teacher prior to retirement. No occupational exposures noted. Review of systems at that time was largely unremarkable aside from chronic knee pain and mild dyspnea on exertion attributed to COPD.
+--- END COPIED SECTION ---
+
+HPI (physician note, Julia Brennan, MD):
+Ms Ross is a 69 year old female w hx of CAD, COPD, osteoarthritis and asthma who presents today for pre-operative medical evaluation prior to planned right total knee arthroplasty. She reports progressive right knee pain over the past year, now significantly limiting mobility and quality of life, or ortho pain has failed conservative tx including NSAIDs, PT, and intra-articular injections. She denies chest pain, orthopnea, PND, or lower extremity edema currently. She does note mild exertional dyspnea, which she attributes to her known COPD, stable per her report, uses albuterol inhaler prn with good relief. No recent exacerbations or hospitalizations for COPD or asthma in past year. No fevers, chills, or recent infections.
+
+Regarding tobacco use, she reports she used to smoke, quit smoking; she smoked between 0.5 and 1 packs per day for 51 years, no additional details on quit date obtained today. She was counseled previously regarding smoking cessation and remains smoke free. Discussed general risk reduction w pt.
+
+Past medical history: CAD s/p stent placement (details per cardiology records), COPD, osteoarthritis (bilateral knees, R>L), asthma since childhood.
+Past surgical history: appendectomy remote, cataract surgery OU
+Family history: father w MI age 70, mother w COPD
+
+MEDICATIONS:
+1. Aspirin 81mg daily
+2. Atorvastatin 40mg daily
+3. Metoprolol succinate 50mg daily
+4. Albuterol HFA inhaler 90mcg 2 puffs q4-6h prn
+5. Tiotropium inhaler 18mcg daily
+6. Fluticasone/salmeterol 250/50 1 puff BID
+7. Montelukast 10mg daily
+8. Lisinopril 10mg daily
+9. Acetaminophen 650mg prn knee pain
+10. Vitamin D3 1000 IU daily
+11. Calcium carbonate 500mg BID
+
+REVIEW OF SYSTEMS (templated, largely unremarkable except as noted):
+Constitutional: denies fever, chills, night sweats, unintentional weight loss
+Eyes: denies visual changes, s/p cataract surgery as above
+ENT: denies sore throat, hearing loss
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND, edema
+Respiratory: mild exertional dyspnea as above, denies hemoptysis, denies wheeze at rest
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain
+GU: denies dysuria, hematuria, frequency
+Musculoskeletal: chronic bilateral knee pain R>L as above, denies back pain
+Skin: denies rash, denies non healing wounds
+Neuro: denies weakness, numbness, tingling, headache
+Psych: denies depression, anxiety, denies SI
+Endocrine: denies polyuria, polydipsia
+Heme/Lymph: denies easy bruising, bleeding, lymphadenopathy
+Allergic/Immunologic: denies seasonal allergies currently
+
+PHYSICAL EXAM:
+General: well-appearing elderly female, NAD, seated comfortably
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear
+Neck: supple, no JVD, no thyromegaly, no lymphadenopathy
+Cardiovascular: RRR, normal S1/S2, no murmurs/rubs/gallops appreciated, no peripheral edema, pulses 2+ throughout
+Respiratory: mild expiratory wheeze bilat bases, otherwise clear, no crackles, no accessory muscle use, breathing comfortably at rest
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds
+Extremities: right knee w mild effusion, crepitus on ROM, tenderness to palpation medial joint line, no calf tenderness, no cyanosis or clubbing
+Skin: warm, dry, intact, no rashes or lesions noted
+Neuro: alert and oriented x3, CN II-XII grossly intact, motor strength 5/5 throughout except limited by pain in R knee, sensation intact
+Psych: mood and affect appropriate
+
+LABS/STUDIES (reviewed today):
+CBC WNL, BMP WNL, Cr 0.9, K 4.2
+EKG: NSR, no acute ST changes, rate 74
+CXR (pre-op): no acute cardiopulmonary process, hyperinflation consistent w COPD, no infiltrate or effusion
+PFTs on file from prior pulm eval: moderate obstructive pattern
+
+ASSESSMENT AND PLAN:
+69 year old female w CAD, COPD, asthma, osteoarthritis presenting for pre-op eval prior to R TKA.
+
+1. Pre-operative cardiac risk: RCRI low-intermediate, no active cardiac symptoms, EKG unremarkable, continue home cardiac meds including aspirin and statin, hold aspirin per surgeon instructions closer to surgery date, continue beta blocker perioperatively.
+2. COPD/Asthma: stable currently on combo inhaler regimen, continue tiotropium and fluticasone/salmeterol, continue albuterol prn, incentive spirometry post op encouraged, pulm clearance obtained.
+3. Tobacco use: patient quit smoking, smoked between 0.5 and 1 packs per day for 51 years per history obtained today; continue to reinforce abstinence, screening for lung disease discussed in general terms with pt but no imaging ordered today.
+4. Osteoarthritis: proceeding w R TKA as planned by ortho, pt cleared from medical standpoint pending final anesthesia eval.
+5. Health maintenance: age appropriate screening reviewed, immunizations up to date per chart.
+
+Patient verbalizes understanding of plan, all questions answered today. Will follow up post-operatively or sooner if any concerns arise. Total time spent in visit including counseling and coordination of care: approx 35 minutes.
+
+Electronically signed: Julia Brennan, MD, Internal Medicine, 01/05/2023

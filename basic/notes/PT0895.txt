@@ -1,0 +1,60 @@
+PROGRESS NOTE
+Date of Service: 4/7/2025
+Patient: Betty Walker   DOB: 3/8/1947   MRN: 55979973
+
+S:
+CC: CP eval
+HPI: Mrs. Walker is a 78-year-old woman with a history of HLD, GERD, OA, and osteoporosis who presents for evaluation of chest pain. Intermittent substernal chest pressure x 3 weeks, occurs with exertion and resolves with rest within 5 min. No radiation. No orthopnea or PND. CV risk factors: HTN, HLD, never smoker.
+
+PMH:
+- Osteoporosis
+- Osteoarthritis (dx 2013)
+- Hypertension
+- GERD
+- Hypercholesterolemia
+PSH: Cholecystectomy (2018); Cataract extraction, bilateral (2023)
+Meds: hydrochlorothiazide 25 mg daily; famotidine 20 mg BID; acetaminophen 500 mg 2 tabs TID PRN; calcium + vitamin D daily; losartan 100 mg daily; alendronate 70 mg weekly; pravastatin 40 mg nightly
+Allergies: NKDA
+Social History:
+- Divorced, lives alone.
+- Retired machinist.
+- No history of tobacco use.
+- Husband is a smoker (smokes outside).
+- EtOH: 2-3 drinks on weekends.
+- No IVDU.
+- Drives.
+FH: Sister - hypothyroidism.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 158/89  HR: 66  RR: 16  Temp: 97.7 F  SpO2: 100% on RA  Wt: 156 lbs  BMI: 26.8
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (March 23, 2025): LDL 113, Cr 0.95, K 4.8, Hgb 13.7
+
+A/P:
+1. Chest pain
+   - ECG today NSR, no ischemic changes. Exercise stress echo ordered. SL NTG PRN; ED precautions.
+2. Osteoporosis
+   - Continue bisphosphonate; DEXA due.
+3. Health maintenance
+   - Lung cancer screening: not indicated (never smoker).
+
+RTC 12 months.
+
+-- NH (MD)

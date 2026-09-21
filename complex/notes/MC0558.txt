@@ -1,0 +1,53 @@
+URGENT CARE PHYSICIAN PROGRESS NOTE
+Patient: Pamela Nguyen (DOB 2/4/1951, age 73)
+Date of Service: 11/11/2024
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: Cough
+
+HPI: Ms. Nguyen is a 73-year-old woman presenting with a 5-day history of dry cough, worse at night, no fever. She states, "It feels like it's coming from my chest, doc, and it's keeping me up." She denies hemoptysis, chest pain, or significant dyspnea beyond her baseline. She reports some increased fatigue but attributes this to poor sleep. No sick contacts. She has tried OTC cough drops without much relief.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per chart, some entries outdated):
+- E66.9 Obesity
+- N40.1 BPH with LUTS
+- I50.22 Heart failure with reduced ejection fraction
+- G47.33 Obstructive sleep apnea
+- E78.5 Hyperlipidemia
+- J45.909 Asthma, unspecified (outdated - pt reports no asthma dx in years, likely miscoded)
+
+SOCIAL HISTORY:
+Lives with husband, retired schoolteacher. Denies current alcohol use. No illicit drug use reported.
+
+TOBACCO USE (EHR templated block):
+  Smoking status: Former smoker
+  Pack-year history: 78 pack-years
+  Quit year: 2023
+  Counseling provided: Yes - encouraged continued abstinence
+
+REVIEW OF SYSTEMS: Positive for cough as above. Negative for fever, chills, night sweats, weight loss, hemoptysis, chest pain. Cardiac ROS notable for stable exertional dyspnea per patient's baseline HF.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% RA, Temp 98.2F
+General: Well-appearing, no acute distress
+Lungs: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use
+CV: Regular rate/rhythm, no murmurs, trace bilateral ankle edema (baseline per pt)
+Abdomen: Obese, soft, non-tender
+Extremities: No clubbing or cyanosis
+
+ASSESSMENT:
+73-year-old female, former smoker (quit 2023, 78 pack-year history), presenting with acute cough, likely viral bronchitis vs post-nasal drip given exam findings and absence of red flags. Underlying HFrEF and OSA noted as chronic comorbidities that may contribute to cough/dyspnea but current presentation is more consistent with an acute process.
+
+Given her smoking history, lung cancer screening was discussed with the patient as part of routine preventive care counseling; she will follow up with her PCP regarding this separately.
+
+PLAN:
+1. Supportive care - honey/lemon, hydration, consider guaifenesin
+2. Albuterol inhaler PRN for wheeze
+3. Continue home meds - carvedilol, furosemide, atorvastatin, tamsulosin, CPAP nightly
+4. Return precautions given - if fever, worsening dyspnea, hemoptysis, or chest pain, seek immediate care
+5. Follow up with PCP within 1-2 weeks if symptoms persist
+6. Chest x-ray ordered today to rule out pneumonia given age and cardiac history
+
+---
+ADDENDUM (later same day, 11/11/2024, 4:45 PM):
+Chest x-ray reviewed - no acute infiltrate, mild cardiomegaly consistent with known HFrEF, no effusion. Findings support working diagnosis of acute bronchitis. Patient contacted by phone and reassured; advised to continue supportive measures as above. Will defer further workup unless symptoms worsen or fail to improve within 7-10 days.
+- Owen Fitzgerald, MD

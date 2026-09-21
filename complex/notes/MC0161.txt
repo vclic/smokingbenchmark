@@ -1,0 +1,44 @@
+VASCULAR SURGERY NP PROGRESS NOTE
+Patient: Susan Novak, F, DOB 7/13/1946 (age 77)
+Date of Service: 07/13/2023
+Author: Rachel Goldberg, MD
+
+CC: PAD f/u eval
+
+HPI: Pt is a 77 yo F w/ PMH depression, HFrEF, CKD stage 3, CAD, COPD, hypothyroidism p/w for PAD eval. She reports intermittent claudication in b/l calves, worse w/ ambulation >2 blocks, relieved w/ rest. States "my legs cramp up something awful when I walk to the mailbox and back." No rest pain, no non-healing ulcers noted. Denies chest pain, palpitations, orthopnea. Cont's on optimal medical therapy per prior visits.
+
+ROS: Otherwise negative except as above.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+  - Smoking status: Quit
+  - Amt: ~1/4 pack/day (approx 5 cigs/day)
+  - Duration: 1968-2010
+  - Quit date: 2010
+Alcohol use: Former user, quit 2004
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+Pt confirms she smoked a quarter pack (about 5 cigarettes) daily starting in 1968, continuing until she quit in 2010. She no longer smokes at this time. Regarding EtOH, pt states she stopped drinking alcohol back in 2004 and has not resumed.
+
+EXAM:
+Vitals: BP 138/76, HR 72, RR 16, SpO2 95% RA
+Gen: NAD, comfortable
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze b/l, consistent w/ known COPD
+Ext: b/l LE cool to touch distally, 1+ DP/PT pulses b/l, no ulcers/gangrene, mild hair loss noted on lower legs
+
+ASSESSMENT/PLAN:
+1. PAD - continue cilostazol, ASA, statin. Ankle-brachial index reviewed, mildly abnormal. Supervised exercise program discussed. Screening for pulm/vascular comorbidities discussed generally; risks/benefits of imaging surveillance reviewed w/ pt.
+2. COPD - stable, cont current inhalers, tobacco cessation reinforced (pt already quit, praised for maintaining abstinence since 2010).
+3. CKD3 - stable, monitor renal fxn labs q6mo.
+4. CAD/HFrEF - cont GDMT, f/u w/ cardiology.
+5. Depression - stable on current regimen, screen neg today.
+6. Hypothyroidism - TSH wnl per last labs.
+
+RTC 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (later same day, added by R. Goldberg, MD) ---
+Spoke further w/ pt after visit re: importance of continued abstinence from tobacco given COPD/CAD/PAD dx. Pt reaffirmed she has not smoked since quitting in 2010 and has no plans to resume. No further changes to plan.

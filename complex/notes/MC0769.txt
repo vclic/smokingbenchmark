@@ -1,0 +1,76 @@
+TELEHEALTH VISIT NOTE
+Patient: Sharon Barnes | DOB: 01/29/1963 | Age: 62 | Sex: F
+Date of Service: 07/22/2025
+Provider: Hannah Weiss, NP (Cardiology)
+Visit Type: Telehealth, chest pain evaluation
+
+CHIEF COMPLAINT: Chest pain, intermittent, ongoing eval.
+
+HPI:
+Pt is a 62 y/o F presenting via video visit for f/u of chest pain, first noted approx 2 wks ago. Describes episodes as pressure-like, substernal, non-radiating, lasting few min, occurring with exertion (walking up stairs) and occasionally at rest. No assoc SOB currently, denies palpitations today. Hx of similar sx per pt approx 6 mo ago that resolved w/o eval - pt did not seek care at that time. Denies nausea, diaphoresis. Reports some fatigue. No syncope. Pt states she has been trying to be more active per PCP recc but sx have limited this.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 01/14/2025 (Dr. R. Okafor, Endocrinology) ----
+Pt seen for routine T2DM f/u. A1c 7.8%, improved from 8.4% prior. Reports adherence to metformin, occasional missed doses. Denies polyuria, polydipsia currently. Foot exam unremarkable, monofilament intact bilat. Discussed diet, exercise goals. BP in clinic 138/86. Wt 214 lb, BMI 34.9. Continue metformin 1000mg BID, recheck A1c in 3 mo. Ophtho referral placed for annual diabetic eye exam. Pt counseled on medication adherence, lifestyle modification. Return to clinic in 3 months or sooner if concerns.
+----------------------------------------------------------------------------------
+[Note: above section appears to have been carried into this record in error during chart migration; retained per system log]
+
+SOCIAL HISTORY: Noncontributory.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- E11.9 Type 2 diabetes mellitus without complications
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- K21.9 GERD
+- N40.0 Benign prostatic hyperplasia (outdated entry - retained on list, pt is female, likely transcription error from template, not addressed this visit)
+- E66.9 Obesity, unspecified
+- R07.9 Chest pain, unspecified (new, added this visit)
+
+MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Omeprazole 20 mg PO daily
+5. Aspirin 81 mg PO daily
+6. Tamsulosin 0.4 mg PO daily (per problem list error above; verify with pt at next visit whether still indicated)
+7. Metoprolol succinate 25 mg PO daily
+8. Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional wt loss. Reports fatigue as above.
+Eyes: denies visual changes.
+ENT: denies sore throat, congestion.
+Cardiovascular: + chest pain as above, denies palpitations today, denies edema.
+Respiratory: denies cough, denies SOB at rest, mild dyspnea on exertion per HPI.
+GI: denies abd pain, denies nausea/vomiting, occasional reflux sx (chronic, stable).
+GU: denies dysuria, denies frequency.
+Musculoskeletal: denies joint pain, denies myalgias.
+Skin: denies rash.
+Neuro: denies HA, denies dizziness, denies syncope.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Pt appears comfortable, no acute distress, seated at home.
+Vitals (pt reported via home device): BP 142/88, HR 78, unable to obtain accurate O2 sat via telehealth, pt denies home pulse ox available.
+Cardiovascular: Unable to auscultate via telehealth. Pt denies visible distress, no observed pallor.
+Respiratory: Breathing appears unlabored on camera, no visible use of accessory muscles.
+Skin: No visible rash or diaphoresis on camera.
+Note: Limitations of telehealth exam discussed with pt, in-person eval recommended if sx worsen.
+
+ASSESSMENT:
+62 y/o F w/ chest pain, exertional and at-rest components, in setting of T2DM, HTN, hyperlipidemia, obesity - concerning for possible cardiac etiology given multiple risk factors. Social history reviewed, noncontributory. Differential includes stable angina, GERD-related discomfort given known GERD hx, musculoskeletal.
+
+PLAN:
+1. Chest pain - recommend in-office EKG and labs (troponin, lipid panel, BMP) prior to next visit. Consider stress test if EKG unremarkable. Cardiac risk factors discussed including HTN, T2DM, hyperlipidemia, obesity. Lung cancer screening discussed generally as part of preventive health counseling but not addressed further this visit.
+2. HTN - BP elevated today at 142/88, continue lisinopril, encourage home BP monitoring, recheck at next visit.
+3. T2DM - continue metformin, f/u with endocrinology per their plan, last A1c improving.
+4. Hyperlipidemia - continue atorvastatin, fasting lipid panel ordered.
+5. GERD - continue omeprazole, sx stable.
+6. Obesity - continue lifestyle counseling, diet/exercise as tolerated given chest pain sx.
+7. Return to clinic or ED precautions given if sx worsen, chest pain becomes severe/persistent, or new SOB/diaphoresis.
+
+Visit time: 20 min telehealth, discussed above plan with pt, pt verbalized understanding, agreeable to plan.
+
+Electronically signed: Hannah Weiss, NP, Cardiology, 07/22/2025.

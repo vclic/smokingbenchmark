@@ -1,0 +1,75 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Cardiology Consultation Service
+Patient: Carlos Coleman | DOB: 07/10/1963 (age 60) | Sex: M
+Date of Service: 07/10/2023
+Author: Isaac Moreno, PA-C
+Referring Physician: Dr. A. Whitfield, Internal Medicine
+
+Dear Dr. Whitfield,
+
+Thank you for referring Mr. Coleman, a 60-year-old male (DOB 7/10/1963), for follow-up of his heart failure with reduced ejection fraction. He was seen today, 07/10/2023, in clinic for routine reassessment.
+
+HPI:
+Mr. Coleman reports doing reasonably well since his last visit, thow he notes some intermittent lower extremity swelling in the evenings, worse after long periods of standing at his job as a warehouse supervisor. He denies orthopnea or PND currently, denies chest pain, denise near-syncope. He states his energy level is 'about the same as before, maybe a little better since we adjusted the water pill.' He has been weighing himself daily per instructions and reports weights ranging 182-186 lbs, no acute jumps. He is compliant with meds, uses a pill box, wife helps him organize doses. Mood has been stable on current antidepressant regimen, he denies SI/HI, sleep is fair, appetite good. He continues to follow with his primary care doctor for routine care and his psychiatrist for depression management, [inaudible] last seen approximately six weeks ago per patient report.
+
+Social History:
+Tobacco: Patient tried a few cigarettes as a teenager but never smoked regularly; he has essentially no significant tobacco use history. Alcohol: occasional beer on weekends, denies heavy use. Illicit drugs: denies. Lives with wife of 32 years, two adult children live out of state. Works full time, plans to retire in a few years.
+
+=== COPIED FORWARD FROM VISIT DATED 02/14/2022 (retained for reference, may not reflect current status) ===
+Patient presents for routine HF follow up. He reports doing well overall, denies significant dyspnea on exertion, denies chest pain. Weight stable. Edema trace bilateral ankles. Reports adherence to low sodium diet most days though admits to 'cheating' on weekends with restaurant food. JVP not elevated on exam. Lungs clear to auscultation bilaterally. Cardiac exam reveals regular rate and rhythm, S1 S2 normal, no S3 appreciated today though difficult to assess given body habitus, no significant murmurs. Extremities warm, well perfused, 1+ pitting edema bilateral lower extremities to mid shin. Labs reviewed: BNP mildly elevated at 310, stable from prior. Basic metabolic panel unremarkable, potassium 4.1, creatinine 1.0. Echo from 11/2021 reviewed showing EF 35%, mild MR, mild TR, no significant valvular stenosis. Plan: continue current GDMT, follow up in 4-6 months, repeat labs prior to next visit, continue low sodium diet counseling.
+=== END COPIED SECTION ===
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss. Eyes: denies visual changes. ENT: denies sore throat, denies epistaxis. Cardiovascular: as per HPI, denies chest pain, denies palpitations, endorses occasional mild ankle swelling. Respiratory: denies cough, denies wheeze, denies hemoptysis. GI: denies nausea, vomiting, diarrhea, constipation, denies abdominal pain. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies myalgias. Skin: denies rash, denies new lesions. Neuro: denies headache, denies dizziness, denies focal weakness. Psychiatric: endorses history of depression, currently stable, denies SI/HI, denies anhedonia currently. Endocrine: denies polyuria, polydipsia. Heme/Lymph: denies easy bruising, denies bleeding. Allergic/Immunologic: denies seasonal allergies currently. All other systems reviewed and are negative.
+
+Physical Exam:
+Vitals: BP 118/74, HR 72 regular, RR 16, Temp 98.2F, SpO2 97% RA, Wt 184 lbs, Ht 5'10".
+General: well-developed, well-nourished male in no acute distress.
+HEENT: normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: no JVD appreciated, no thyromegaly.
+Cardiovascular: RRR, normal S1 S2, no S3, no S4, no murmurs/rubs/gallops appreciated today.
+Respiratory: lungs clear to auscultation bilaterally, no wheezes, no rales, no rhonchi.
+Abdomen: soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: trace bilateral lower extremity edema, no calf tenderness, pulses 2+ bilaterally.
+Skin: warm, dry, no rash.
+Neuro: alert and oriented x3, no focal deficits.
+Psych: mood euthymic, affect appropriate, cooperative throughout interview.
+
+Problem List (with ICD-10 codes):
+1. Heart failure with reduced ejection fraction, I50.22 (chronic) - active, primary reason for visit.
+2. Major depressive disorder, recurrent, moderate, F33.1 - active, stable on meds.
+3. Hyperlipidemia, E78.5 - outdated entry, patient reports this resolved per PCP, diet controlled now, retained on list pending update.
+4. Essential hypertension, I10 - active.
+5. GERD, K21.9 - outdated, patient states no longer has symptoms, off medication x 1 year, will discuss removal with PCP.
+6. Obstructive sleep apnea, G47.33 - active, uses CPAP nightly per report.
+
+Medications:
+1. Carvedilol 25 mg PO BID
+2. Sacubitril-valsartan 97/103 mg PO BID
+3. Spironolactone 25 mg PO daily
+4. Furosemide 40 mg PO daily, dose adjusted as needed for weight
+5. Dapagliflozin 10 mg PO daily
+6. Atorvastatin 40 mg PO nightly
+7. Sertraline 100 mg PO daily
+8. Aspirin 81 mg PO daily
+9. Multivitamin PO daily
+10. Melatonin 5 mg PO nightly PRN sleep
+
+Labs Reviewed Today:
+BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.1, Glucose 98.
+BNP: 268 (improved from prior).
+CBC unremarkable.
+
+Assessment and Plan:
+Mr. Coleman is a 60-year-old male with HFrEF and depression, presenting for routine cardiology follow-up on 07/10/2023, doing clinically well with stable exam and improving BNP trend.
+1. HFrEF - continue current GDMT regimen as above, encourage continued adherence to low sodium diet and daily weights, follow up in 4 months or sooner if symptoms worsen, repeat echo in approximately 6 months.
+2. Depression - stable on current sertraline dose, continue coordination with psychiatry, will defer medication adjustments to psychiatric provider.
+3. Hypertension - well controlled today, continue current regimen.
+4. Health maintenance/general counseling - discussed cardiovascular risk reduction, diet, exercise as tolerated, continued abstinence from tobacco given minimal historical exposure was reinforced as a positive factor for his cardiopulmonary health. Given his age and overall risk profile we briefly discussed general screening topics as they arose in conversation, though no specific imaging was ordered at this time as part of today's cardiology visit; those discussions are best directed to his primary care provider.
+5. Sleep apnea - continues CPAP, encouraged ongoing compliance.
+
+Will see back in clinic in 4 months, sooner if needed. Thank you again for this interesting referral, please do not hesitate to reach out with questions.
+
+Sincerely,
+Isaac Moreno, PA-C
+Cardiology Consultation Service

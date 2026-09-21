@@ -1,0 +1,28 @@
+TELEHEALTH VISIT NOTE
+Patient: Michael Ross | DOB: 03/13/1961 | Age: 65
+Date of Service: 03/13/2026
+Provider: Laura Castellano, FNP-C — Pulmonology
+
+CHIEF COMPLAINT: COPD follow-up.
+
+HPI: Mr. Ross is a 65-year-old male with COPD, obesity, CKD stage 3, and gout, seen via telehealth for routine follow-up. He states, "I've been using my inhaler most days but still get winded going up stairs." He denies fevers, chest pain, or hemoptysis. No recent hospitalizations. He notes some increased fatigue which he attributes to poor sleep. He reports adherence to his home O2 sat monitoring, with readings generally 92-95% on room air.
+
+--- Copied forward from visit 09/14/2024 ---
+Pt seen for COPD/CKD/gout management. Reports stable dyspnea on exertion, denies orthopnea or PND. Gout flare in left great toe resolved with colchicine course. CKD stage 3 stable per recent labs, nephrology co-managing. Weight stable, counseled on renal-appropriate diet and fluid intake. Continue current inhaler regimen, follow up in 6 months. Pt tolerating medications well, no new complaints at that time. Immunizations up to date including pneumococcal and influenza. Discussed importance of activity as tolerated given obesity and joint stress from gout. Vitals at that visit: BP 132/78, HR 76, RR 18, SpO2 94% RA.
+--- End copied section ---
+
+SOCIAL HISTORY: Patient has never smoked cigarettes. He mentions he quit drinking alcohol in 2023 and has not resumed since. Lives with spouse, retired postal worker.
+
+LABS/RESULTS:
+- 02/28/2026: BMP - Creatinine 1.6 mg/dL, eGFR 48 mL/min/1.73m2, K+ 4.5 mmol/L
+- 02/28/2026: Uric acid 7.2 mg/dL
+- 03/01/2026: CBC within normal limits
+- 01/15/2026: PFTs - FEV1 62% predicted, FEV1/FVC 0.65
+
+ASSESSMENT/PLAN:
+1. COPD, moderate (GOLD stage 2) - stable per PFTs from 01/15/2026, symptomatic with exertion. Continue current long-acting bronchodilator regimen. Discussed pulmonary rehab referral. Given patient has never smoked cigarettes, occupational and environmental exposures were reviewed as alternative risk factors; none significant identified today.
+2. CKD stage 3 - stable, continue nephrology co-management, renal diet reinforced.
+3. Gout - no active flare, continue allopurinol, monitor uric acid.
+4. Obesity - counseled on weight management, activity as tolerated.
+
+Follow-up in 6 months or sooner if symptoms worsen. Telehealth visit completed, patient verbalized understanding of plan.

@@ -1,0 +1,78 @@
+PULMONOLOGY FOLLOW-UP VISIT
+Patient: John Ramirez | DOB: 5/6/1972 | Age: 51 | Sex: M
+Date of Service: 05/06/2023
+Author: Laura Castellano, FNP-C
+
+--- NURSE INTAKE ---
+Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Temp 97.8F, Wt 189 lb, Ht 5'9"
+Allergies: NKDA
+Chief complaint: F/u incidental lung nodule found on prior CT chest.
+
+Review of Systems (templated):
+Constitutional: denies fever, chills, night sweats, unintentional weight loss.
+Respiratory: denies hemoptysis, mild chronic cough noted, denies acute dyspnea at rest.
+Cardiovascular: denies chest pain, palpitations, orthopnea, edema.
+GI: denies nausea, vomiting, diarrhea, constipation.
+Musculoskeletal: denies new joint pain, denies recent fractures.
+Psychiatric: denies SI/HI, reports mood stable on current regimen.
+All other systems reviewed and negative unless noted above.
+
+--- SOCIAL HISTORY (EHR templated block) ---
+Tobacco use status: Former smoker
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, social
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Caffeine: 1-2 cups coffee/day
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Ramirez is a 51-year-old male, DOB 5/6/1972, seen today, 05/06/2023, in pulmonology clinic for follow-up of an incidental lung nodule identified on CT chest obtained during workup for chronic cough. He reports no new respiratory symptoms since last visit, no hemoptysis, no unintentional weight loss. He continues to note a mild chronic cough attributed to his known COPD. He denies fevers or night sweats. Of note regarding tobacco history: he smoked approximately three-quarters of a pack (about 15 cigarettes) per day starting at age 22, continuing that pattern until he quit smoking at age 50. He confirms he no longer smokes at all currently. He states he quit smoking in 2022, around the time he retired from his job, and has remained tobacco-free since. He denies any interval exposure to secondhand smoke at home. He has not had any additional imaging since the prior CT; today's visit is to review results and discuss surveillance plan.
+
+Past Medical History / Problem List (ICD-10, some outdated per chart):
+- E78.5 Hyperlipidemia, unspecified
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- M81.0 Age-related osteoporosis without current pathological fracture
+- F32.9 Major depressive disorder, single episode, unspecified (note: chart still lists F32.1 moderate episode from 2019, appears outdated, will update)
+- R91.1 Solitary pulmonary nodule (incidental finding, under surveillance)
+
+Medications:
+1. Atorvastatin 40mg PO qHS
+2. Tiotropium bromide inhaler 18mcg, one inhalation daily
+3. Albuterol HFA inhaler, 2 puffs q4-6h PRN wheeze/SOB
+4. Alendronate 70mg PO once weekly
+5. Sertraline 100mg PO daily
+6. Vitamin D3 2000 IU PO daily
+7. Calcium carbonate 600mg PO BID
+
+Labs/Results:
+- CBC (04/20/2023): WBC 6.8, Hgb 14.2, Hct 42.1, Plt 244 - unremarkable
+- CMP (04/20/2023): Na 140, K 4.1, Cl 101, CO2 25, BUN 15, Cr 0.9, Glucose 98 - normal renal function
+- Lipid panel (03/15/2023): Total chol 188, LDL 102, HDL 44, TG 150 - improved from prior on statin therapy
+- Vitamin D, 25-OH (02/10/2023): 32 ng/mL - within normal range on supplementation
+- CT chest without contrast (03/28/2023): 7mm solid nodule right upper lobe, stable in size compared to prior study; no new nodules, no lymphadenopathy, mild emphysematous changes consistent with known COPD.
+- DEXA scan (01/05/2023): T-score -2.6 lumbar spine, consistent with osteoporosis, stable from prior.
+
+Physical Exam:
+General: Well-appearing male, no acute distress.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: RRR, no murmurs/rubs/gallops.
+Respiratory: Mildly diminished breath sounds bilaterally, no wheezes/rales/rhonchi appreciated today, no accessory muscle use.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No clubbing, cyanosis, or edema.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, no focal deficits.
+Psych: Mood euthymic, affect appropriate.
+
+Assessment/Plan:
+1. Solitary pulmonary nodule, right upper lobe, stable on interval imaging - Given stability of the 7mm nodule and patient's overall clinical picture, will continue surveillance per Fleischner guidelines. Discussed lung cancer screening guidelines in general terms with patient; no further imaging ordered at this visit. Follow-up CT recommended per surveillance schedule to be arranged by scheduling department.
+2. COPD, stable - Continue tiotropium and albuterol PRN. Reinforced smoking cessation counseling; patient reports he no longer smokes and has not smoked since 2022 when he retired. Praised him for maintaining abstinence and encouraged continued avoidance of tobacco products and secondhand smoke.
+3. Hyperlipidemia - Continue atorvastatin, lipid panel improved on current dose, recheck in 6 months.
+4. Osteoporosis - Continue alendronate, calcium, and vitamin D3; DEXA to be repeated in 2 years per standard interval.
+5. Depression - Mood stable on sertraline, no acute concerns today, continue current dose, will update outdated problem list code from F32.1 to F32.9 to reflect current status.
+
+Return to clinic per surveillance imaging schedule or sooner if new symptoms develop, including hemoptysis, unintentional weight loss, worsening cough, or new shortness of breath.
+
+Electronically signed: Laura Castellano, FNP-C, 05/06/2023.

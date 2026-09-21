@@ -1,0 +1,47 @@
+Family Medicine - Annual Wellness Visit
+Patient: Theresa Patel | DOB: 05/07/1969 | Age: 55 | Sex: F
+Date of Service: 05/07/2024
+Provider: Michael Dunn, DO
+
+--- NURSE INTAKE ---
+VS: BP 132/78, HR 76, RR 16, Temp 98.2F, Wt 168 lb, Ht 5'5", BMI 28.0
+Allergies: NKDA
+Meds: Metformin 1000mg BID, Levothyroxine 75mcg daily
+Tobacco: current smoker, reports no interest in quitting at this time.
+Chief complaint: here for annual wellness exam, no acute complaints today.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Theresa Patel is a 55-year-old female with history of type 2 diabetes and hypothyroidism who presents for her annual wellness visit on 05/07/2024. She reports feeling generally well, no chest pain, no shortness of breath, no polyuria/polydipsia. She continues to follow up with endocrinology for thyroid management. Regarding tobacco use, she describes a long smoking history: she smoked a quarter pack (about 5 cigarettes) per day for 11 years, then increased to half a pack (about 10 cigarettes) per day for 25 years and continues to smoke at that rate currently. She states she still smokes and is not ready to quit at this time, though she is aware of the health risks and has been counseled previously. Diet and exercise reviewed; she reports moderate adherence to diabetic diet.
+
+[Copied forward from visit dated 11/14/2022]:
+Patient returns for routine diabetes follow up. She reports blood sugars have been running 110-160 fasting per home glucose log. No hypoglycemic episodes reported. She denies vision changes, numbness/tingling in feet, or non-healing wounds. Foot exam performed, monofilament testing intact bilaterally, pulses 2+ bilaterally. Last A1c was 7.1%. Discussed continuing current metformin dose and reinforced dietary modifications including reduced carbohydrate intake and portion control. Patient was also counseled regarding tobacco cessation resources including nicotine replacement therapy and counseling referral, which she declined at that time. Thyroid panel reviewed, TSH within normal limits on current levothyroxine dose. Plan: continue current regimen, follow up in 3 months, labs prior to next visit including A1c, CMP, and TSH.
+
+Review of Systems: Constitutional - denies fever, chills, weight loss. Respiratory - denies cough, wheeze, hemoptysis. Cardiovascular - denies chest pain, palpitations, edema. Endocrine - denies heat/cold intolerance. All other systems reviewed and negative except as noted above.
+
+Physical Exam:
+General: well-appearing, no acute distress.
+HEENT: normocephalic, atraumatic, no thyromegaly appreciated.
+CV: RRR, no murmurs/gallops/rubs.
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: soft, non-tender, non-distended, normal bowel sounds.
+Extremities: no edema, pulses intact, skin intact.
+Neuro: alert and oriented x3, no focal deficits.
+
+Problem List (ICD-10):
+1. E11.9 - Type 2 diabetes mellitus without complications
+2. E03.9 - Hypothyroidism, unspecified
+3. Z87.891 - Personal history of nicotine dependence (note: patient is current smoker, code may need updating)
+4. I10 - Essential hypertension (per old chart, not currently confirmed active - patient's BP has been within normal range last several visits, consider removing)
+5. Z71.3 - Dietary counseling and surveillance
+
+Assessment/Plan:
+1. Type 2 diabetes mellitus - stable, continue metformin, A1c ordered today, encourage continued dietary adherence.
+2. Hypothyroidism - stable on current levothyroxine dose, TSH ordered.
+3. Tobacco use - ongoing smoking as described above; discussed general health risks of continued smoking including cardiovascular and pulmonary disease. Discussed lung cancer screening guidelines generally with patient during visit. Advised patient to consider quitting; she remains not ready to quit at this time. Offered resources including quitline number and nicotine replacement options for future consideration if she changes her mind.
+4. Health maintenance - mammogram due, colonoscopy up to date per prior records, immunizations reviewed and updated as needed.
+Return to clinic in 3 months or sooner if concerns arise.
+
+Michael Dunn, DO
+
+--- ADDENDUM (later same day, 05/07/2024) ---
+Addendum: Patient called back after visit to clarify lab draw timing, will return to lab tomorrow morning fasting for A1c and CMP as discussed. No changes to plan above. Reiterated that she is still smoking and not ready to quit; will continue to reassess at future visits. - Michael Dunn, DO

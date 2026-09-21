@@ -1,0 +1,85 @@
+CARDIOLOGY - NURSE PRACTITIONER PROGRESS NOTE
+Patient: Jose Torres
+DOB: 01/17/1964 (age 59)
+Date of Service: 12/02/2023
+Author: Laura Castellano, FNP-C
+
+CC: Heart failure follow-up.
+
+HPI: Mr. Torres is a 59 y/o male with h/o atrial fibrillation, CKD stage 3, osteoporosis, and asthma who presents today for routine HF follow-up. Reports doing reasonably well since last visit. Denies orthopnea, PND, or significant lower extremity edema. Some mild dyspnea on exertion when climbing >2 flights of stairs, unchanged from prior. Weight stable per home scale log, no significant fluctuation over past 2 wks. Adherent to fluid restriction and low-sodium diet per report. No chest pain, no palpitations noted, though pt states he occasionally feels 'fluttering' in chest lasting seconds, resolves spontaneously. No syncope or presyncope. Sleeping supine without difficulty. Denies fevers, chills, cough, or recent URI sx.
+
+Review of Systems:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+Eyes: No visual changes.
+ENT: No sore throat, no epistaxis.
+Cardiovascular: Positive for occasional palpitations as above; denies chest pain, denies syncope.
+Respiratory: Denies cough, wheeze reported as stable/baseline for known asthma, denies hemoptysis.
+GI: No nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: No dysuria, no hematuria, no frequency.
+Musculoskeletal: Chronic low back discomfort, stable, no new fractures, no new falls.
+Skin: No rashes, no lesions.
+Neuro: No focal weakness, no numbness, no headache.
+Psych: Denies depression, denies anxiety.
+Endocrine: No polyuria, no polydipsia.
+Heme/Lymph: No easy bruising, no lymphadenopathy.
+All other systems reviewed and negative except as noted above.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+  - Smoking status: Quit
+  - Cigarettes: 28 pack-year smoking history
+  - Quit date/year: 1990
+  - Current use: Patient no longer smokes; denies any current tobacco use.
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Low sodium, per pt report
+
+Past Medical History: Asthma, chronic kidney disease stage 3, osteoporosis, atrial fibrillation, heart failure (HFrEF per prior echo).
+
+Past Surgical History: None significant reported.
+
+Family History: Father - MI at age 62. Mother - osteoporosis, hip fracture. No family h/o lung cancer reported.
+
+Allergies: NKDA.
+
+Medications:
+1. Metoprolol succinate 50 mg daily
+2. Apixaban 5 mg BID
+3. Furosemide 20 mg daily
+4. Lisinopril 10 mg daily
+5. Spironolactone 25 mg daily
+6. Albuterol HFA inhaler PRN
+7. Fluticasone/salmeterol inhaler BID
+8. Alendronate 70 mg weekly
+9. Calcium carbonate/vitamin D3 combo daily
+10. Atorvastatin 40 mg daily
+11. Potassium chloride 20 mEq daily
+
+Physical Exam:
+Vitals: BP 128/78, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt 198 lb (stable from last visit).
+General: Well-appearing, NAD, comfortable, sitting upright on exam table.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear, no exudate.
+Neck: No JVD appreciated at 30 degrees. No thyromegaly, no carotid bruits.
+Cardiovascular: Irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, normal S1/S2. No peripheral edema. Pulses 2+ bilaterally radial and dorsalis pedis.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, no rales, no rhonchi. Good air movement throughout.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly.
+Extremities: No cyanosis, no clubbing, no edema. Skin warm and dry.
+Neuro: Alert and oriented x3, grossly non-focal.
+Skin: No rashes or lesions noted.
+Psych: Mood/affect appropriate.
+
+Assessment/Plan:
+1. Heart failure with reduced ejection fraction - stable on current GDMT. Continue metoprolol succinate, lisinopril, spironolactone, furosemide. Recheck BMP given diuretic and CKD to monitor potassium/creatinine. Continue daily weights.
+2. Atrial fibrillation - rate controlled currently, on anticoagulation with apixaban, continue same. No new sx of instability.
+3. Chronic kidney disease stage 3 - stable, monitor labs with BMP today, renal-dose meds as appropriate.
+4. Osteoporosis - continue alendronate, calcium/vitamin D. Bone density scan due for repeat next year, will schedule.
+5. Asthma - well controlled on current inhaler regimen, continue albuterol PRN and fluticasone/salmeterol BID.
+6. Tobacco history - patient is a former smoker with a 28 pack-year history, quit in 1990; he no longer smokes and denies any current tobacco use. Reinforced importance of continued abstinence. Discussed general screening guidelines for patients with significant prior smoking history in broad terms as part of preventive counseling; no imaging ordered today related to that discussion.
+7. Health maintenance: influenza and pneumococcal vaccination status reviewed and up to date per chart. Continue routine cardiology follow-up.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizes understanding of plan, all questions answered. Follow-up labs (BMP) drawn today prior to discharge from clinic.
+
+Electronically signed: Laura Castellano, FNP-C, 12/02/2023.

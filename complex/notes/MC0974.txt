@@ -1,0 +1,50 @@
+Telehealth F/U - Internal Medicine
+Date of Service: 05/16/2023
+Patient: Charles Jones, M, DOB 5/16/1958 (age 65)
+Author: Laura Castellano, FNP-C
+
+Problem List:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus, without complications
+- N18.3 CKD stage 3
+- M10.9 Gout, unspecified
+- I25.10 Coronary artery disease of native vessel without angina (old dx, still active per cards)
+- Z87.891 Personal history of nicotine dependence
+
+HPI: Pt calls in for routine f/u of HTN and DM, doing okay overall, says he feels 'fine, no complaints' though when asked about home readings he stutters a bit, [inaudible] something about the cuff battery dying so he hasn't checked BP in a week or so at home. Denies chest pain denies SOB denies orthopnea denies PND, reports occasional knee ache which he attributes to weather changes not gout flare. He is compliant with meds per report, wife confirms he takes them with breakfast every morning she says. No new complaints today.
+
+[Copied forward from visit dated 11/02/2021]:
+Pt here today for routine follow up of chronic conditions, in no acute distress, vitals reviewed and stable, BP 132/78 HR 76 reg, labs reviewed including lipid panel and A1c, discussed diet and exercise at length, pt states he walks 20 min daily weather permitting, reviewed medication list no changes made, pt denies alcohol use currently and states he stoped drinking back in 2019 for health reasons, will continue current regimen and follow up in 3 months, return precautions given, pt verbalizes understanding.
+[End copied forward section]
+
+ROS: Constitutional - negative for fever, chills, weight loss. CV - negative for chest pain, palpitations. Resp - negative for cough, wheeze. GU - negative for dysuria. MSK - positive for occasional knee discomfort as above. All other systems reviewed and negative.
+
+Medications (reviewed today):
+- Lisinopril 20mg daily
+- Metformin 1000mg BID
+- Allopurinol 100mg daily
+- Aspirin 81mg daily
+- Atorvastatin 40mg qhs
+
+Social History: Alcohol - pt quit drinking alcohol in 2019, denies current use, denies illicit drug use. Lives with wife, retired [inaudible - possibly 'machinist' or 'mechanic'], denies falls.
+
+Vitals: BP 128/82, HR 74, RR 16, Temp 98.2F, Wt 198 lbs, BMI 29.4
+
+Exam: Gen - well-appearing male in no acute distress, alert and oriented x3. CV - RRR no m/r/g. Lungs - CTAB no wheeze rales rhonchi. Abd - soft NT/ND. Ext - no edema, no gouty tophi noted today. Skin - no rashes.
+
+Labs reviewed (from 05/10/2023): A1c 7.1%, Creatinine 1.4 (baseline for CKD3), eGFR 52, Uric acid 6.8, LDL 88, HDL 42.
+
+Assessment/Plan:
+1. Hypertension - well controlled today's reading 128/82, continue lisinopril 20mg daily, recheck BP at home once cuff battery replaced, f/u in 3 months.
+2. Type 2 DM - A1c 7.1% improved from prior, continue metformin, reinforced diet counseling, f/u labs in 3 months.
+3. CKD stage 3 - stable, creatinine at baseline, continue to monitor eGFR, avoid nephrotoxic agents including NSAIDs.
+4. Gout - no active flare today, continue allopurinol, encouraged hydration.
+5. CAD - stable, continue aspirin and statin, no anginal symptoms reported.
+6. Tobacco use - former smoker. Patient is a former smoker; smoking history notable for 1.5 packs per day for 30 years, then he cut back to about three-quarters of a pack (roughly 15 cigarettes) per day for 14 years before ultimately quitting; he quit smoking at age 63. Advised continued abstinence, congratulated on cessation, discussed general risk reduction associated with prior tobacco use.
+7. Alcohol history - quit drinking alcohol in 2019, no current use, no counseling needed at this time.
+
+Plan discussed with patient via telehealth, he verbalized understanding and agreement, will follow up in 3 months or sooner if symptoms arise, advised to call clinic with any concerns in interim, message sent to pharmacy for refills as needed, visit concluded without further issue.
+
+Time spent on this telehealth encounter: 18 minutes, more than half spent on counseling and coordination of care.
+
+Electronically signed by Laura Castellano, FNP-C, 05/16/2023.

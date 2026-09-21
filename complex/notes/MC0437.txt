@@ -1,0 +1,72 @@
+TELEHEALTH VISIT NOTE
+Date of Service: 08/03/2023
+Provider: Quentin Hale, PA-C (Cardiology)
+Patient: Robert O'Brien | DOB: 04/11/1965 | Age: 58 | Sex: M
+
+CHIEF COMPLAINT: Heart failure follow-up, telehealth visit.
+
+HPI: Mr. O'Brien is a 58 yo male with hx of HFrEF, COPD, and CKD stage 3 presenting for routine f/u via video visit. He reports doing reasonably well, denies acute dyspnea at rest, some mild leg swelling by end of day. No chest pain, no orthopnea beyond baseline. Compliant w meds per pt report, occassionally forgets evening dose of furosemide. Wt stable per home scale, pt states "about the same as last visit." No recent ED visits or hospitalizations since last seen.
+
+He continues to follow with pulmonology for COPD management; reports using rescue inhaler maybe 1-2x/week, no recent exacerbations requiring steroids/abx.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- I50.9 Heart failure, unspecified (active)
+- J44.9 COPD, unspecified type (active)
+- N18.3 CKD stage 3 (active)
+- E78.5 Hyperlipidemia (active, outdated entry- pt reports d/c'd statin 2019 per PCP, needs reconciliation)
+- I10 Essential hypertension (active)
+- M17.0 Osteoarthritis knee, bilateral (outdated, resolved per pt- s/p bilateral TKA 2015)
+
+SOCIAL HISTORY (EHR TEMPLATE - TOBACCO/SUBSTANCE BLOCK):
+Tobacco Use Status: Former smoker
+Cigarettes per day: 3/4 pack (approx 15 cigarettes/day)
+Years smoked: 1987 to 2009
+Smokeless tobacco: Not on file
+E-cigarette/vape use: None reported
+Alcohol use: Occasional, 1-2 drinks/wk per pt
+Illicit drug use: Denies
+Living situation: Lives alone, daughter checks in weekly
+Occupation: Retired (former warehouse supervisor)
+
+ADDITIONAL SOCIAL HX NOTES: Pt has discussed his smoking history briefly today. He shared that he quit smoking approximately 1 year after his wife passed away in 2008; this context was volunteered by pt during visit, not specifically prompted. He states he has not smoked since and denies any interest in resuming. No e-cigarette or vaping products used as substitute. Lung cancer screening was discussed briefly given his smoking history and COPD dx, pt to follow up w PCP regarding this topic seperately.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, chills, unintentional weight loss
+Cardiovascular: as per HPI, mild peripheral edema noted by pt
+Respiratory: chronic cough stable, no hemoptysis, no acute SOB
+GI: no nausea, vomiting, changes in bowel habits
+GU: no dysuria, urinary freq stable
+All other systems reviewed and negative except as noted above
+
+VITALS (per home BP cuff/pulse ox, reported by pt):
+BP: 128/78
+HR: 74
+SpO2: 95% on RA
+Wt: 198 lbs (pt reported, home scale)
+
+PHYSICAL EXAM: Limited given telehealth format.
+General: Alert, no acute distress, conversant, appears comfortable on camera
+Cardiovascular: unable to auscultate; pt denies JVD sx, no reported palpitations
+Respiratory: mild intermittent cough noted during call, no visible respiratory distress
+Extremities: pt shows camera- trace bilateral ankle edema visible, no overt erythema or warmth reported
+
+LABS/DATA REVIEWED: BMP from 07/28/2023 - Cr 1.6 (baseline), K 4.3, BUN 28. BNP last drawn 06/2023 - 410 (down from prior). No new imaging reviewed today.
+
+ASSESSMENT:
+1. Heart failure, HFrEF - stable, no signs decompensation currently, continue current regimen
+2. COPD - stable, following w pulm
+3. CKD stage 3 - stable, renal function monitored via labs
+4. Former tobacco use - hx obtained and documented above, counseling reinforced re: continued abstinence
+
+PLAN:
+1. Continue carvedilol, lisinopril, spironolactone, furosemide as prescribed - reviewed adherence, reminded pt to set alarm for evening furosemide dose
+2. Repeat BMP and BNP in 4-6 wks
+3. Daily weights, pt educated on signs of fluid overload to report
+4. Continue f/u w pulmonology for COPD
+5. Reinforced importance of continued smoking abstinence, praised pt for maintaining cessation
+6. Discussed lung cancer screening topic generally, deferred further discussion/decision to PCP
+7. RTC cardiology telehealth in 3 months, sooner if symptoms worsen
+8. Pt verbalized understanding of plan, all questions answered
+
+Electronically signed: Quentin Hale, PA-C
+08/03/2023

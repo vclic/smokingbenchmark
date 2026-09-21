@@ -1,0 +1,78 @@
+Adult Medicine Progress Note
+
+Patient: HENDERSON, Denise    MRN: 20325168
+DOB: 02/23/1960    Age: 63 y.o.    Sex: Female
+Date of Service: 04/07/2023    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up diabetes
+
+Subjective:
+Denise Henderson is a 63 y.o. female who presents for diabetes follow-up.
+Most recent A1c 7.4% (previously 7.8% in November 2022). Checks fasting sugars most mornings, running 110s-160s. She has been smoke-free since 2021; prior to that she smoked 3 packs daily for 41 years. No hypoglycemic episodes. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus
+• Gastroesophageal reflux disease
+• CKD 3b
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (1998)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pantoprazole 40 mg daily
+• semaglutide 0.5 mg weekly
+• metformin 1000 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband and adult daughter.
+  Retired, fromer office manager.
+  Social drinker.
+  No IVDU.
+  Exercise: walks dialy.
+
+Family History
+Noncontributory.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 129/78 (BP Location: Left arm, Patient Position: Sitting) | Pulse 74 | Temp 98.3 °F (Oral) | Resp 20 | Ht 5' 5" | Wt 136 lb | SpO2 95% | BMI 22.68 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (31-Mar-2023): A1c 7.4%, Cr 0.87, K 4.8
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 7.4% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. Gastroesophageal reflux disease
+   Symptoms controlled.
+3. CKD 3b
+   Monitor BMP q6 months.
+
+f/u 3 mo
+
+Electronically signed by Anita Patel, MD on 04/07/2023

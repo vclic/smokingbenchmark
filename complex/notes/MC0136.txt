@@ -1,0 +1,42 @@
+URGENT CARE - NURSE INTAKE
+Date of Service: 05/04/2023
+Patient: Donna Brown, F, DOB 1/6/1969 (age 54)
+Provider: Gregory Tan, MD
+
+CC: cough x5 days, occasional dyspnea on exertion.
+Vitals: T 98.4F, HR 88 irregular, BP 138/86, RR 18, SpO2 95% RA, Wt 172 lb.
+Allergies: NKDA
+Meds: metoprolol succinate 50mg daily, apixaban 5mg BID, metformin 1000mg BID, omeprazole 20mg daily, CPAP nightly for OSA, cilostazol 100mg BID, aspirin 81mg daily, atorvastatin 40mg qhs.
+
+ROS: Constitutional - denies fever, denies chills, reports fatigue. Resp - cough, denies hemoptysis, denies chest pain. Cardiac - occasional palpitations, denies syncope. GI - occasional heartburn, on PPI, denies melena. GU - denies dysuria. MSK - denies new joint pain. Neuro - denies focal weakness. Skin - denies rash. All other systems reviewed and negative per pt.
+
+PHYSICAL EXAM:
+General: alert, mild distress from coughing, no acute distress otherwise.
+HEENT: PERRLA, oropharynx clear, no exudate.
+Neck: no JVD, no lymphadenopathy.
+CV: irregularly irregular rhythm, no murmur appreciated, PP diminished bilaterally in feet c/w known PAD.
+Resp: scattered rhonchi, no wheeze, no crackles, good air movement.
+Abd: soft, nontender, nondistended, +BS.
+Ext: no edema, trace cool distal extremities.
+Skin: warm, dry, no rash.
+
+LABS/RESULTS (from chart, prior visits):
+- CBC 04/12/2023: WBC 7.1, Hgb 13.2, Plt 244
+- CMP 04/12/2023: Glucose 162, Cr 0.9, K 4.1
+- HbA1c 03/02/2023: 7.8%
+- INR 04/28/2023: 2.3 (therapeutic on apixaban - N/A, this was checked incidentally)
+- CXR 05/04/2023: no acute infiltrate, mild hyperinflation
+
+ASSESSMENT/PLAN (Gregory Tan, MD):
+54 yo F with hx GERD, OSA, PAD, afib, T2DM presenting today 05/04/2023 with acute cough, likely viral bronchitis vs post-nasal drip exacerbation of GERD, CXR reassuring without acute infiltrate. Smoking history reviewed in detail today: patient is a former smoker. She reports smoking 2 packs per day for 11 years, then reduced to about 15 cigarettes per day for the next 7 years before quitting entirely. She relates that she moved to this state in 1999 and quit smoking about 5 years after that move. No current tobacco use. Continue to encourage tobacco-free lifestyle and reinforce prior cessation success at each visit.
+
+1. Acute cough - supportive care, guaifenesin PRN, follow up if worsening dyspnea, fever, or hemoptysis. Discussed lung cancer screening guidelines given smoking history in general terms; no imaging for that purpose ordered today.
+2. Afib - continue apixaban, metoprolol, INR/renal function monitored per cardiology.
+3. PAD - continue cilostazol, aspirin, f/u vascular surgery as scheduled.
+4. OSA - continue CPAP compliance, reinforce nightly use.
+5. GERD - continue omeprazole, avoid trigger foods, elevate head of bed.
+6. T2DM - continue metformin, recheck A1c in 3 months, reinforce diet/exercise.
+
+Pt verbalized understanding of plan, will return prn or if symptoms worsen. Pt tolerated visit well no acute distress at departure.
+
+Electronically signed: Gregory Tan, MD

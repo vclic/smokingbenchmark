@@ -1,0 +1,74 @@
+NURSE INTAKE
+Pt: Kathleen Hughes DOB 9/1/1975 (age 50) DOS 10/08/2025
+Visit: New pt establish care w/ PCP Dr Reyes
+
+VS: BP 138/86 HR 82 RR 16 Temp 98.2 Wt 214 lb Ht 5'4" BMI 36.7
+Allergies: NKDA
+Meds per pt: metformin 1000mg BID, alendronate wkly, CPAP nightly
+
+SOCIAL HISTORY (templated EHR block)
+Tobacco use: Current every day smoker
+Type: cigarettes
+Amt/day: 10 cigs/day
+Years smoked: 32 years
+Quit attempts: yes, hx of quit/relapse - see note
+Readiness to quit: not ready at this time
+Alcohol: occasional, pt reports 1-2 glasses wine/wk
+Drug use: denies
+Occupation: administrative asst, works FT
+Living situation: Not on file
+Exercise: sedentary, denies regular exercise
+
+CC: establish care, new pt physical, review of chronic conditions
+
+HPI (nurse note): pt here today to establish w new PCP. reports dx t2dm x several yrs, osteoporosis, OSA on CPAP, and obesity. no acute complaints today. reports fatigue and occasional joint pain. denies chest pain sob today. reports smoking hx, states "i know i should quit but not ready right now." reports she had quit smoking for a period around 2020 but relapsed in 2022 and has been smoking since.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Daniel Reyes, MD
+DOS: 10/08/2025
+
+CC: New patient visit, establish care
+
+HPI:
+Ms Hughes is a 50 yo F (DOB 9/1/1975) presenting today 10/08/2025 to establish primary care. She has a hx of type 2 diabetes, osteoporosis, obstructive sleep apnea and obesity. She has been managing her diabetes w metformin and reports checking fingerstick glucose intermittently at home, values generally 120-160 fasting. No hx of hypoglycemia. She uses CPAP nightly for OSA, reports good adherence and improved daytime energy since starting therapy approx 2 yrs ago per pt report (records not on file, will request).
+
+Regarding osteoporosis, she was started on alendronate by a prior provider after a DEXA scan reportedly showed low bone density; she takes this weekly and denies GI upset. She has not had a recent DEXA on file here; will order repeat.
+
+Smoking hx reviewed in detail. Pt reports she smokes 10 cigarettes per day and has done so for 32 years. She previously quit smoking in 2020 but relapsed in 2022 and has continued smoking since. She states she is not ready to quit at this time despite counseling on cardiovascular and pulmonary risks, esp given her comorbid OSA and obesity. Advised to quit, discussed nicotine replacement options and behavioral counseling resources, pt declined referral today but open to revisiting at future visit. Lung cancer screening was mentioned briefly as a general topic during counseling.
+
+ROS: Constitutional: denies fever, chills, unintentional wt loss. reports fatigue. Cardiovasc: denies chest pain, palpitations, edema. Resp: denies cough, hemoptysis, dyspnea at rest; reports snoring per husband, using CPAP. GI: denies abd pain, nausea, vomiting, change in bowel habits. GU: denies dysuria, hematuria. MSK: reports intermittent joint pain, knees > hips, no swelling. Skin: denies rash, lesions. Neuro: denies HA, dizziness, numbness/tingling. Psych: denies depression, anxiety; reports occasional stress from work.
+
+PMH: Type 2 diabetes mellitus, osteoporosis, obstructive sleep apnea, obesity
+PSH: none reported
+FH: mother w/ osteoporosis and hip fx, father w/ CAD, no fam hx lung cancer reported
+SH: see templated social hx above; occupation administrative asst; alcohol occasional; denies illicit drug use
+
+Meds: metformin 1000mg PO BID, alendronate 70mg PO weekly, uses CPAP nightly
+Allergies: NKDA
+
+Physical Exam:
+Gen: well-appearing, NAD, obese habitus
+Vitals: as above, BP 138/86, BMI 36.7
+HEENT: normocephalic, atraumatic, oropharynx clear, no thyromegaly
+CV: RRR, no murmurs/gallops/rubs
+Resp: CTAB, no wheezes rales rhonchi
+Abd: soft, obese, nontender, nondistended, +BS
+Ext: no edema, pulses 2+ symmetric
+Skin: no rashes or lesions noted
+Neuro: grossly intact, no focal deficits
+MSK: mild crepitus bilat knees, no effusion, ROM intact
+
+Assessment/Plan:
+1. Type 2 diabetes mellitus - continue metformin, order HbA1c, CMP, lipid panel today. Reinforce diet/exercise counseling.
+2. Osteoporosis - continue alendronate, order repeat DEXA, ensure adequate Ca/vit D intake, recheck vit D level.
+3. Obstructive sleep apnea - continue CPAP, will request records from prior sleep study/DME co, reassess adherence data at next visit.
+4. Obesity - discussed lifestyle modification, nutrition referral offered, pt agreeable to consider.
+5. Tobacco use, current smoker, 10 cigs/day x 32 yrs, previously quit 2020 relapsed 2022, currently not ready to quit - advised cessation benefits, offered NRT/counseling referral, pt declined today, will readdress at future visits. Topic of lung cancer screening raised briefly during discussion for pt awareness only.
+6. Health maintenance - up to date on mammogram per pt report, due for colonoscopy, will order referral. Immunizations reviewed, flu vaccine given today.
+
+F/u in 3 months or sooner if concerns, labs to be drawn today, pt educated and agreeable to plan.
+
+Addendum (later same day, D Reyes MD):
+Pt called office this afternoon after labs drawn to ask re: flu shot side effects, reassured this is normal, advised tylenol prn. Also clarifying documentation above - pt confirmed again on phone that she remains a current smoker, 10 cigs/day, 32 yrs total, not ready to quit at this time; previously quit in 2020, relapsed in 2022 as noted in chart today. No new complaints reported on call. Will continue plan as above, no changes.

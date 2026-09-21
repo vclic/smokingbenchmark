@@ -1,0 +1,51 @@
+URGENT CARE - ENCOUNTER NOTE
+DOS: 09/21/2025
+Patient: Jose Perry (M), DOB 09/21/1964, Age: 61
+Provider: Elena Markovic, MD
+
+--- NURSE INTAKE ---
+CC: cough x 5 days, worsening SOB
+VS: T 98.6F, HR 92, RR 20, BP 138/86, SpO2 93% RA
+Allergies: NKDA
+Meds: Tiotropium inhaler, albuterol PRN, CPAP nightly, alendronate weekly
+
+Social History: Pt reports a 20 pack-year smoking history. Pt states he previously quit smoking in 2019 but relapsed in 2020 and has been smoking since. Denies illicit drug use. Occasional alcohol.
+
+--- COPIED FORWARD FROM VISIT 03/14/2024 (pulmonology) ---
+Pt is a pleasant 60 yo male with h/o COPD (GOLD stage II per last PFTs), OSA on CPAP, obesity (BMI 34), osteoporosis on bisphosphonate therapy. Continues to follow with pulmonology for COPD management. Last exacerbation requiring steroids/antibiotics was approx 8 months ago. Spirometry from that visit showed FEV1/FVC 0.62, FEV1 58% predicted. Pt was counseled extensively on smoking cessation at that time and referred to tobacco cessation program; he had reportedly enrolled but follow-up unclear. DEXA scan reviewed, T-score -2.6 at lumbar spine, continuing weekly alendronate. CPAP compliance reviewed via download - 82% usage >4hrs/night, AHI on therapy 3.2. Plan at that time: continue current inhaler regimen, f/u PFTs in 6 months, continue CPAP, recheck DEXA in 2 yrs.
+--- END COPIED TEXT ---
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Perry is a 61-year-old male with known COPD, OSA, obesity, and osteoporosis who presents today, 09/21/2025, with a 5-day history of productive cough, low-grade subjective fevers, and increased dyspnea on exertion. He denies chest pain, hemoptysis, or lower extremity swelling. He notes his cough is worse in the mornings. No sick contacts reported, though he works in an office with several colleagues out with URI symptoms recently.
+
+On further questioning regarding tobacco use, patient continues to smoke despite counseling on multiple prior visits regarding cessation. He was encouraged again today to quit, and resources for the tobacco quitline were provided. He reports using approximately the same amount as before, though he did not wish to give an exact current daily count today.
+
+ROS: Positive for cough, mild dyspnea. Negative for fevers >100.4, chest pain, hemoptysis, edema. Negative for weight loss, night sweats.
+
+Physical Exam:
+General: Mild respiratory distress, speaking in full sentences.
+HEENT: No pharyngeal erythema, no exudate.
+Lungs: Diffuse expiratory wheezes bilaterally, mildly prolonged expiratory phase, no crackles.
+CV: RRR, no murmurs.
+Ext: No edema.
+
+Problem List (ICD-10):
+1. J44.9 - COPD, unspecified
+2. G47.33 - Obstructive sleep apnea
+3. E66.9 - Obesity, unspecified (BMI 34, from prior visit - not remeasured today)
+4. M81.0 - Age-related osteoporosis without current pathological fracture
+5. Z87.891 - Personal history of nicotine dependence (note: patient is a current smoker, list may be outdated)
+6. J20.9 - Acute bronchitis (added today)
+
+Assessment/Plan:
+1. Acute bronchitis vs COPD exacerbation - likely acute bronchitis superimposed on underlying COPD given exam findings and history. Will start azithromycin 5-day course, continue scheduled tiotropium, increase albuterol PRN use, short course of prednisone taper given wheezing on exam.
+2. COPD - stable baseline per pulmonology records reviewed today (copied above); continue current inhaler regimen; follow up with pulmonology as previously scheduled.
+3. Tobacco use - patient has a 20 pack-year smoking history and continues to smoke despite counseling today. Cessation counseling provided again, quitline info given; recommend patient discuss ongoing cessation strategies further with pulmonology or PCP.
+4. OSA - continue CPAP, compliance reportedly acceptable per last download reviewed above.
+5. Obesity - counseled on weight management as tolerated given respiratory symptoms; defer detailed discussion to primary care follow-up.
+6. Osteoporosis - continue alendronate, no acute issues today.
+
+Return precautions given: return or seek ED care for worsening SOB, chest pain, hemoptysis, fevers >101F unresponsive to antipyretics, or oxygen saturation concerns. Follow up with PCP in 1 week or sooner if worsening.
+
+Elena Markovic, MD
+09/21/2025

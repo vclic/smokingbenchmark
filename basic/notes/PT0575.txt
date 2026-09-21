@@ -1,0 +1,80 @@
+Internal Medicine Office Visit
+
+Patient: COLEMAN, Leonard    MRN: 56831051
+DOB: 01/24/1966    Age: 58 y.o.    Sex: Male
+Date of Service: 01/20/2025    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Cough and congestion
+
+Subjective:
+Leonard Coleman is a 58 y.o. male who presents for cough and congestion.
+Cough for 6 days, worse at night. Subjective fever and chills. No sick contacts. No hemoptysis.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Osteoarthritis of knees
+• Mixed hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• atorvastatin 20 mg daily
+• diclofenac 1% gel QID PRN
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Smoked 'a handful' of cigarettes in college; never a regular smoker.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+  Independent in ADLs.
+
+Family History
+Mother - HTN, DM2.
+
+Review of Systems
+ROS: Skin neg, GU neg, Neuro neg, Resp +
+
+Objective:
+Vitals:
+  BP 137/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 64 | Temp 97.5 °F (Oral) | Resp 12 | Ht 5' 8" | Wt 169 lb | SpO2 98% | BMI 25.75 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Coarse breath sounds R base
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (12/30/2024): LDL 75, Cr 0.78, K 4.7
+
+Assessment & Plan
+1. Cough
+   Post-viral cough. Honey, fluids. If persists >8 wks, CXR.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+3. Mixed hyperlipidemia
+   Continue statin. Lipid panel due.
+4. Essential hypertension
+   BP at goal; continue current regimen.
+
+f/u 3 mo
+
+Electronically signed by Hannah Weiss, NP on 01/20/2025

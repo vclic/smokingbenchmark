@@ -1,0 +1,42 @@
+RESIDENT NOTE - Pulmonology - Lung Cancer Screening Shared Decision-Making Visit
+Date of Service: 03/06/2025
+Author: Quentin Hale, PA-C (resident); attending attestation below
+
+Patient: Judith Hughes, F, DOB 3/6/1956 (age 69 today)
+
+HPI: Ms Hughes is a 69 y.o. female with hx of HFrEF, osteoporosis, hyperlipidemia, CAD, asthma, and CKD stage 3 who presents for shared decision-making regarding lung cancer screening options discussed with her PCP referral in chart the patient states she feels her breathing is stable overall though she notes occasional wheeze with exertion and cold air she denies hemoptysis denies unintentional weight loss she reports fatigue which she attributes to her heart failure and to poor sleep the visit today is primarily to review risks and benefits of screening and to update social history.
+
+ROS: Cardiac - denies chest pain, orthopnea improved on current diuretic regimen. Resp - mild dyspnea on exertion, chronic, unchanged. Renal - stable per recent labs. MSK - denies new fractures. All other systems reviewed and negative except as noted in HPI [inaudible] pt continued speaking over exam tech during intake so some responses were confirmed verbally with patient in room.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Current use: No
+Type: Cigarettes
+Quantity: half pack per day (~10 cigarettes/day)
+Age started: 18
+Age quit: 55
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: occasional, denies daily use
+Drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+
+Note: patient smoked about half a pack (roughly 10 cigarettes) per day starting at age 18 and continuing until she quit at age 55, per her report she has not smoked since; she denies any interest in return to use, no further counseling needed at this time beyond routine reinforcement of abstinence.
+
+Copied Forward Section (from note dated 9/6/2021, Pulmonology, Dr. R. Alvarez): "Smoking status: former smoker. No quantities documented in that note." This is retained here for historical continuity per departmental documentation policy; it reflects only what was recorded at that time and is not an update to current data.
+
+Discussion: We reviewed the purpose of lung cancer screening in patients with significant smoking histories the pros and cons of low-dose imaging were discussed including false positives, incidental findings, and the possibility of additional work-up should an abnormality be found. Ms Hughes asked several questions about radiation exposure which were answered we discussed that screening decisions are individualized and that her cardiopulmonary comorbidities may factor into overall risk-benefit calculus she voiced understanding and stated she would like time to think it over with her husband before deciding, screening was discussed but no imaging was ordered today.
+
+Assessment: 69 y.o. female, former smoker, with HFrEF, CAD, asthma, CKD3, osteoporosis, hyperlipidemia, presenting for SDM visit regarding lung cancer screening. Patient remains former smoker status, no evidence of relapse noted, no new tobacco exposure reported.
+
+Plan:
+1. Lung cancer screening - discussed extensively today, decision deferred per patient request, follow up in 4-6 wks or sooner if she decides to proceed.
+2. HFrEF - continue current guideline directed medical therapy, recheck BNP and BMP at next visit.
+3. CKD3 - monitor renal function with routine labs, avoid nephrotoxic agents.
+4. Asthma - continue current inhaler regimen, reviewed technique today.
+5. CAD/HLD - continue statin, lipid panel due in 3 months.
+6. Osteoporosis - continue current bone health regimen, DEXA due per PCP schedule.
+7. Return to clinic in 4-6 weeks or PRN.
+
+Attending Attestation: I have personally seen and examined the patient reviewed the resident's documentation and agree with the assessment and plan as written above including the social history and smoking data as documented; I was present for key portions of the discussion regarding screening risks and benefits. - Dr. M. Okafor, Attending Pulmonology, 03/06/2025.

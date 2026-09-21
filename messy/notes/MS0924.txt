@@ -1,0 +1,30 @@
+Telehealth Progress Note
+DOS: 05/15/2026
+Patient: Loretta Lewis, F, DOB 02/12/1949, age 77
+Provider: Steven Park, MD
+Family Medicine
+
+CC: med refills (osteoarthritis, osteoporosis, obesity, BPH, depression, AFib)
+
+HPI: Pt seen via telehealth for routine f/u and refill of chronic meds. Reports overall stable mood on current regimen, some knee stiffness am's, using heating pad w/ mod relief. Denies chest pain palpitations sob edema. Bowel/bladder fx stable, nocturia x1 unchanged. No new falls no new fx sx. Alcohol history noted pt quit drinking etoh in 2018 per pt report.
+
+ROS: Constitutional- no fever chills wt loss. HEENT- no vision changes, wears glasses. CV- no cp palp orthopnea. Resp- no cough sob wheeze. GI- no n/v/d, appetite ok. GU- BPH sx stable on tamsulosin, no dysuria. MSK- chronic knee/back pain c/w oa, no acute swelling. Neuro- no weakness numbness. Psych- mood stable no si/hi. Skin- no rashes. All other systems reviewed and negative [inaudible portion of dictation, pt connection dropped briefly].
+
+PFSH: Smoking status: Never Smoker (this field auto populated from old chart and is INCORRECT — see below, will correct in problem list).
+
+Meds: lisinopril 10mg qd, metoprolol succinate 50mg qd, apixaban 5mg bid, alendronate 70mg weekly, calcium/vit d combo daily, sertraline 50mg qd, tamsulosin 0.4mg qhs, acetaminophen 650mg prn, vitamin d3 2000 units daily, multivitamin daily.
+
+Physical Exam (per pt report/visual telehealth, limited): Gen- well appearing elderly F, no acute distress, seated comfortably. Vitals per home cuff reported by pt: BP 128/76, HR 72 irreg irreg c/w known afib, wt stable. HEENT- nl. CV- irregularly irregular rhythm noted on pt self-check pulse, no visible distress. Resp- breathing comfortably no increased wob. Ext- no edema noted on cam. Skin- no lesions visualized. Affect appropriate, pleasant, cooperative throughout visit.
+
+A/P:
+1. Tobacco use history - corrected: pt is NOT a never-smoker as templated field states, that is an error. Pt has significant hx: smoked about half a pack (~10 cigs) per day starting age 16 until quitting at age 71. Pt quit smoking 6 years ago and has remained abstinent since. Discussed lung ca screening in general terms as part of preventive care discussion, no imaging ordered today.
+2. Osteoarthritis - stable, continue acetaminophen, consider PT referral if worsens.
+3. Osteoporosis - continue alendronate + ca/vit d, DEXA due next yr.
+4. Obesity - counseled diet/exercise as tolerated given joint issues.
+5. BPH - stable on tamsulosin.
+6. Depression - stable mood, continue sertraline.
+7. AFib - continue apixaban and metoprolol, rate appears controlled today.
+
+Refills sent to pharmacy. RTC 3 months or sooner prn. Pt verbalized understanding, no further questions at this time.
+
+Steven Park, MD

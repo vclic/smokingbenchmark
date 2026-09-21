@@ -1,0 +1,88 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Pulmonology - Shared Decision-Making Visit, Lung Cancer Screening
+Date of Service: 11/11/2023
+Author: Isaac Moreno, PA-C
+Attending: Dr. R. Sanghera (attestation below)
+
+PATIENT: Donald Long
+DOB: 3/15/1945 (age 78)
+MRN: 004471
+
+CHIEF COMPLAINT: Referral for lung cancer screening SDM discussion.
+
+HPI: Mr. Long is a 78-year-old male referred by PCP for shared decision-making discussion regarding lung cancer screening. Pt presents today accompanied by daughter. No respiratory complaints currently - denies cough, hemoptysis, dyspnea at rest. Occasional exertional SOB attributed to deconditioning per pt. No wt loss, no night sweats, no fevers. PCP note references possible screening discussion but chart review today does not clarify tobacco exposure hx; pulm intake questionnaire incomplete on this item. Deferred further probing today given time constraints, pt somewhat tangential historian, redirected multiple times.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+- N40.1 Benign prostatic hyperplasia w/ LUTS
+- N18.3 Chronic kidney disease, stage 3
+- E11.9 Type 2 diabetes mellitus w/o complications
+- I48.91 Atrial fibrillation, unspecified
+- M81.0 Osteoporosis, age-related, w/o current pathological fracture
+- K21.9 GERD
+- (old, resolved per pt) J45.909 Asthma - unclear if ever active dx, carried forward x several yrs, query for removal
+- (old) M54.5 Low back pain - chronic, stable
+
+SOCIAL HISTORY:
+Lives with spouse, retired machinist. Denies illicit drug use. Alcohol: occasional, ~1-2 drinks/wk.
+Smoking status: Unknown if ever smoked.
+
+FAMILY HISTORY: Father - MI at 70s. Mother - unknown cause of death. No known family hx of lung ca reported today, though pt uncertain.
+
+MEDICATIONS:
+1. Tamsulosin 0.4mg qHS
+2. Finasteride 5mg daily
+3. Metformin 1000mg BID
+4. Apixaban 5mg BID
+5. Alendronate 70mg weekly
+6. Omeprazole 40mg daily
+7. Lisinopril 10mg daily
+8. Atorvastatin 40mg qHS
+9. Vitamin D3 2000 IU daily
+10. Calcium carbonate 600mg BID
+11. Metoprolol succinate 50mg daily
+12. Furosemide 20mg daily prn edema
+
+ALLERGIES: NKDA.
+
+REVIEW OF SYSTEMS: (templated, 14-pt ROS reviewed and documented as below)
+Constitutional: Denies fever, chills, unintentional wt loss. Reports fatigue, chronic, stable.
+Eyes: Denies visual changes.
+ENT: Denies epistaxis, sore throat.
+Cardiovascular: Known Afib, denies chest pain, palpitations today, denies orthopnea/PND.
+Respiratory: Denies cough, wheeze, hemoptysis, dyspnea at rest; +exertional dyspnea as above.
+GI: Occasional reflux sx, controlled on PPI. Denies abd pain, nausea, vomiting, melena.
+GU: Nocturia x2-3, known BPH, denies dysuria/hematuria.
+Musculoskeletal: Chronic low back pain, stable, denies new joint pain.
+Skin: Denies rash, lesions.
+Neuro: Denies HA, dizziness, focal weakness.
+Psych: Denies depression/anxiety sx.
+Endocrine: T2DM, denies polyuria/polydipsia beyond baseline.
+Heme/Lymph: Denies easy bruising beyond expected on anticoagulation, denies lymphadenopathy.
+Allergic/Immune: Denies seasonal allergies currently active.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% RA, Wt 182 lb, Ht 5'9"
+General: NAD, well-groomed, appears stated age, cooperative.
+HEENT: NC/AT, PERRL, oropharynx clear, no thrush.
+Neck: No JVD, no LAD, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmur/rub/gallop appreciated. Distal pulses 2+.
+Respiratory: Clear to auscultation bilaterally, no wheeze/rales/rhonchi. Normal chest wall excursion. No accessory muscle use.
+Abdomen: Soft, nontender, nondistended, +BS, no organomegaly appreciated.
+Extremities: No edema, no clubbing, no cyanosis.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly nonfocal.
+
+ASSESSMENT/PLAN:
+78-year-old male, DOB 3/15/1945, presenting 11/11/2023 for lung cancer screening shared decision-making discussion. Unable to fully assess tobacco exposure history at this visit - smoking status remains unknown/unclear per intake and pt's own account today; recommend PCP or pt clarify at next visit. General discussion held regarding the concept of low-dose CT screening for lung cancer, including potential benefits and risks such as false positives, incidental findings, radiation exposure, and overdiagnosis - discussion was informational only given the unclear exposure history, no determination made today. Will have pt complete detailed tobacco history questionnaire prior to next visit.
+
+1. Lung cancer screening SDM - tobacco hx unclear, no further screening decision made today. Pt to complete questionnaire, follow up in pulm clinic in 3 months or sooner if PCP obtains clarifying history.
+2. Afib - continue apixaban, continue metoprolol, rate well controlled today. Cont f/u cardiology per pt report.
+3. CKD stage 3 - stable, recheck BMP at next visit, avoid nephrotoxic agents.
+4. T2DM - reasonably controlled per pt report of home glucose logs, continue metformin, defer to PCP/endo for further management.
+5. BPH - continue tamsulosin/finasteride, no acute urinary retention sx today.
+6. Osteoporosis - continue alendronate/calcium/vit D, DEXA per PCP schedule.
+7. GERD - continue omeprazole, sx well controlled.
+
+Return to clinic in 3 months, sooner if new respiratory symptoms develop.
+
+Attending Attestation: I have seen and examined the patient with Mr. Moreno, PA-C, and discussed the above assessment and plan. I agree with the documentation as written, including the plan to clarify tobacco exposure history before any further screening discussion. - Dr. R. Sanghera, Attending Pulmonology.

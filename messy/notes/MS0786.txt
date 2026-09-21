@@ -1,0 +1,79 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: Dennis Long | DOB: 02/14/1958 | Age: 65 | Sex: M
+Date of Service: 02/14/2023
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior imaging.
+
+HPI: Mr Long is a 65 y.o. male who returns today for reeval of an incidentally noted RUL pulmonary nodule identified on CT chest performed for unrelated eval last year. He denies hemoptysis, unintentional weight loss, or new cough. He reports occasional dyspnea on exertion which he attributes to his known OSA, though states CPAP compliance has been inconsistent recently d/t mask discomfort. No fevers/chills. He continues f/u w/ nephrology for CKD stage 3, stable per pt report.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+ Tobacco Use Status: Current every day smoker
+ Type: Cigarettes
+ Amount: 1/2 pack per day (approx 10 cigarettes/day)
+ Years smoked: [not recorded]
+ Readiness to quit: Not ready to quit at this time
+ Quit date: 03/28/2023 (planned future quit date, pt-set goal)
+ Counseling provided: Yes, advised to quit smoking, discussed risks of continued tobacco use given nodule finding
+ Secondhand smoke exposure: Spouse also smokes, exposure at home
+ Alcohol: occasional, denies illicit drug use
+
+Dennis states he has tried cutting down in the past but has not been successful long term. He and his wife discussed the upcoming quit date together and plan to attempt quitting as a household, though he acknowledges he is "not really ready" but set the date anyway at his PCP's suggestion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. G47.33 Obstructive sleep apnea - on CPAP, variable compliance
+2. N18.3 Chronic kidney disease, stage 3
+3. I10 Essential hypertension
+4. R91.1 Solitary pulmonary nodule, currently being monitored (added this visit)
+5. E78.5 Hyperlipidemia (outdated - pt reports this resolved per PCP, remains on list from old chart)
+6. J45.909 Asthma, unspecified (outdated entry, pt denies asthma hx, likely error carried forward, needs reconciliation)
+
+MEDICATIONS:
+- Lisinopril 10mg daily
+- CPAP therapy nightly (as tolerated)
+- Atorvastatin 20mg daily (pt unclear why still on this given resolved hyperlipidemia note above)
+- Occasional ibuprofen for knee pain (counseled re: renal risk given CKD)
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional: no fevers, no weight loss. Resp: mild exertional dyspnea, no cough, no hemoptysis. Cardiac: no chest pain, no palpitations. GU: stable per nephro. Musculoskeletal: chronic knee pain, stable. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 95% on room air, Temp 98.4F, Wt 201 lbs
+General: well-appearing, no acute distress
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: no lymphadenopathy, no JVD
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+CV: RRR, no murmurs
+Abd: soft, nontender, nondistended
+Ext: no edema, pulses 2+ bilaterally
+Skin: no rashes
+
+LABS/RESULTS:
+- BMP 01/15/2023: Creatinine 1.6 mg/dL (baseline for pt), eGFR 46 mL/min/1.73m2, K 4.3 mmol/L, Na 139 mmol/L
+- CBC 01/15/2023: WBC 6.8, Hgb 14.1, Plt 244
+- Lipid panel 11/2022: Total chol 178, LDL 96, HDL 42, Trig 150
+- CT Chest without contrast, 12/20/2022: 8mm solid nodule right upper lobe, unchanged in size compared to prior imaging 6 mo ago per report; no lymphadenopathy, no effusion
+- Spirometry 09/2022: FEV1/FVC within normal limits, no obstructive pattern noted
+
+ASSESSMENT:
+65 y.o. male with incidentally discovered stable pulmonary nodule, hx of current tobacco use (1/2 ppd), OSA, CKD stage 3, and HTN, presenting for routine pulm follow-up.
+
+1. Pulmonary nodule - stable in size on serial imaging. Continued surveillance recommended per current guidelines. Lung cancer screening options were discussed with the patient in general terms; no further imaging ordered today.
+2. Tobacco use, current - patient continues to smoke approx half pack/day, not ready to quit despite counseling. Has set a future quit date of 3/28/2023 with support from spouse, although spouse also currently smokes which may complicate cessation efforts. Encouraged pt to consider nicotine replacement therapy or referral to tobacco cessation program; pt declined referral today but open to revisiting at next visit.
+3. OSA - CPAP compliance suboptimal, will address mask fit issue, refer back to sleep medicine if needed.
+4. CKD stage 3 - stable, continue current management, avoid NSAIDs when possible.
+5. HTN - well controlled on current regimen.
+
+PLAN:
+- Repeat CT chest in 6 months to reassess nodule stability
+- Continue counseling on smoking cessation at each visit
+- Reinforce importance of planned quit date 3/28/2023, offer resources closer to that date
+- Refer to sleep medicine for CPAP mask refitting
+- Continue nephrology follow-up for CKD
+- Continue home BP monitoring
+- f/u in pulm clinic in 6 months or sooner if new symptoms develop
+- pt verbalizes understanding and agrees w plan
+
+Electronically signed by Teresa Alvarez, NP
+02/14/2023

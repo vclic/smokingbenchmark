@@ -1,0 +1,62 @@
+Vascular Surgery Progress Note
+Patient: William King (M) DOB: 6/23/1963 (age 60)
+Date of Service: 06/23/2023
+Author: Brian Okonkwo, MD (NP progress note, co-signed)
+
+CC: Follow-up peripheral artery disease evaluation, claudication symptoms review.
+
+HPI: Mr King presents today for f/u of PAD, he was seen last in in the vasclar clinic three months ago and reports his legs feel tired when he walks, quote he says "they get heavy" after about a block or so, [inaudible] regarding exact distance, symptoms improve with rest he denies rest pain or ulceration at this time, he lives with his daughter who accompanies him today and assists with history due to communication difficulties, patient has some expressive aphasia thought secondary to prior CVA per daughter and is a poor historian for many details today, daughter unable to clarify all elements of history either, he was able to nod yes/no to some questions but detailed review of systems limited by this. He denies chest pain, denies shortness of breath at rest, denies fevers or chills. Daughter reports he has been compliant with meds as far as she can tell athough she does not live with him fulltime so cannot confirm every dose.
+
+PMH/Problem List (per chart, some entries may be outdated):
+- I73.9 Peripheral vascular disease, unspecified
+- E78.5 Hyperlipidemia
+- I10 Essential hypertension
+- I69.398 Other sequelae of cerebral infarction (expressive aphasia)
+- M54.5 Low back pain (chronic, resolved per pt report last visit, kept on list)
+
+Medications: Atorvastatin 40mg qhs, Lisinopril 20mg daily, Aspirin 81mg daily, Cilostazol 100mg BID
+
+Allergies: NKDA
+
+Social History (EHR templated block):
+Tobacco use status: Unable to obtain — patient aphasic/poor historian, unable to reliably report smoking history at this visit
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired (per daughter)
+Living situation: Lives with daughter part-time
+Exercise: Limited by claudication
+Diet: Not on file
+
+Note: attempts made to clarify tobacco history with daughter present, she stated she was unsure and would need to check with other family members, will attempt to re-obtain at next visit or via collateral contact, for now tobacco history remains unable to obtain and should not be assumed either way.
+
+ROS: As above, otherwise limited by patient's communication deficits, daughter denies fevers, denies weight loss, denies bowel/bladder complaints.
+
+Physical Exam:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb
+General: Well-appearing male, seated in wheelchair, no acute distress, communicates primarily through gestures and single words today
+CV: RRR no m/r/g
+Pulses: Femoral 2+ bilaterally, popliteal 1+ bilaterally, dorsalis pedis diminished bilaterally right greater then left, posterior tibial trace bilaterally
+Extremities: No ulceration, no edema, skin intact, mild hair loss noted on lower legs bilaterally consistent with chronic PAD changes
+Neuro: Expressive aphasia noted, comprehension appears relatively intact per daughter, moves all extremities, no new focal deficits noted today compared to prior visit
+
+Labs reviewed (from last month): LDL 98, HDL 42, Triglycerides 150, A1c 5.8%, Creatinine 1.0
+
+Assessment:
+1. Peripheral artery disease - symptoms stable, on cilostazol, pulses grossly unchanged from prior exam
+2. Hypertension - reasonably controlled today
+3. Hyperlipidemia - on statin, will recheck lipid panel in 6 months
+4. History of stroke with residual expressive aphasia - limits ability to obtain detailed history including tobacco use, this remains an ongoing barrier to care and will need collateral information from family going forward
+
+Plan:
+- Continue current medication regimen as above
+- Ankle brachial index ordered to reassess PAD severity given exam findings today
+- Encourage supervised exercise program as tolerated given claudication
+- F/u with PCP for BP and lipid management, will fax note over
+- Social work referral for assistance coordinating care given communication barriers and part time living situation
+- Will attempt to obtain tobacco history and other social history elements via collateral contact with family prior to or at next visit, this is documented as unable to obtain at this time and should not be inferred as either smoker or non smoker status
+- Return to vascular clinic in 3 months or sooner if symptoms worsen, ie rest pain, non healing wound, discoloration of toes
+- Discussed general vascular risk reduction strategies with daughter present who will relay to patient as able
+
+Dictated and reviewed, please excuse any errors related to speech recognition software, patient's daughter present for entire visit and assisted with communication throughout, additional collateral history to be obtained as above going forward we will readdress at next visit thank you.
+
+Electronically signed: Brian Okonkwo, MD

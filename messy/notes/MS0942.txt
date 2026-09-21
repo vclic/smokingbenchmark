@@ -1,0 +1,77 @@
+PULMONOLOGY - HISTORY AND PHYSICAL
+Patient: Joseph Murphy (M), DOB: 06/18/1954 (age 71)
+Date of Service: 09/11/2025
+Author: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior CT chest.
+
+HPI: Mr. Murphy is a 71-year-old male with history of HFrEF, GERD, atrial fibrillation, PAD, and CAD who presents for routine follow-up of a right upper lobe pulmonary nodule that was noted incidentally on a CT abdomen/pelvis obtained during a PAD workup earlier this year. He denies hemoptysis, unintentional weight loss, or fevers. He reports mild chronic cough that he attributes to GERD and long-standing tobacco use. He has some exertional dyspnea which he attributes to his known heart failure, stable on current regimen. No chest pain, no orthopnea beyond baseline 2-pillow sleep. He continues to follow with cardiology for his AFib and CAD, on anticoagulation, and reports no recent PAD claudication flares.
+
+PAST MEDICAL HISTORY:
+- Heart failure with reduced ejection fraction
+- GERD
+- Atrial fibrillation
+- Peripheral artery disease
+- Coronary artery disease
+
+SOCIAL HISTORY (EHR templated block):
+Alcohol use: Not on file
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated - see narrative below]
+Smokeless tobacco: Not on file
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+
+Narrative addendum to social history: The above "Never Smoker" field is an error carried forward from an old chart template and does not reflect this patient's actual history. On direct questioning today, Mr. Murphy reports he smokes 1.5 packs of cigarettes per day and has done so for 49 years. He states he continues to smoke daily and, despite extensive counseling, is not ready to quit at this time. He was counseled again today on smoking cessation resources including nicotine replacement therapy and referral to a tobacco cessation program, but he declined further intervention today.
+
+REVIEW OF SYSTEMS:
+Constitutional: No fevers, chills, or unintentional weight loss.
+Respiratory: Chronic mild cough, no hemoptysis, no acute dyspnea change.
+Cardiovascular: No chest pain, occasional palpitations attributed to known AFib.
+GI: Occasional heartburn, controlled on PPI.
+Musculoskeletal: Mild bilateral leg cramping with ambulation consistent with known PAD.
+All other systems reviewed and negative except as noted in HPI.
+
+MEDICATIONS:
+- Apixaban 5 mg BID
+- Furosemide 40 mg daily
+- Metoprolol succinate 50 mg daily
+- Omeprazole 20 mg daily
+- Atorvastatin 40 mg daily
+- Aspirin 81 mg daily
+- Cilostazol 100 mg BID
+
+ALLERGIES: No known drug allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular, RR 16, SpO2 95% on room air, Temp 98.2F, Weight 182 lb.
+General: Alert, well-appearing, no acute distress.
+HEENT: No JVD noted at 30 degrees.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Diminished distal pulses bilaterally, no edema, cool distal extremities consistent with known PAD.
+Skin: No cyanosis or clubbing.
+
+LABS/RESULTS:
+08/29/2025 - CBC: WBC 7.2, Hgb 13.4, Hct 40.1, Plt 210
+08/29/2025 - BMP: Na 138, K 4.2, Cl 101, CO2 26, BUN 22, Cr 1.1, Glucose 104
+08/29/2025 - BNP: 410 pg/mL (elevated, stable compared to prior 395 pg/mL from 05/2025)
+09/02/2025 - CT chest without contrast: 9 mm solid nodule right upper lobe, unchanged in size and morphology compared to prior study from 03/2025. No new nodules. No mediastinal or hilar lymphadenopathy. Mild emphysematous changes noted.
+09/02/2025 - Pulmonary function tests: FEV1 68% predicted, FVC 74% predicted, FEV1/FVC ratio 0.71, consistent with mild obstructive pattern.
+
+ASSESSMENT AND PLAN:
+1. Incidental pulmonary nodule, right upper lobe, stable on interval imaging. Given stability over 6 months, plan for continued surveillance imaging in 6-12 months per Fleischner guidelines. Ongoing tobacco use and its risks were discussed at length with the patient.
+2. Chronic tobacco use, active - patient continues to smoke 1.5 packs per day, 49-year history, not ready to quit today. Counseled on cessation resources, declined at this visit. Will readdress at next visit.
+3. HFrEF - stable, continue current regimen, follow with cardiology.
+4. GERD - stable on PPI, no changes.
+5. Atrial fibrillation - continue anticoagulation, rate controlled today.
+6. PAD - stable, continue cilostazol, follow vascular surgery as scheduled.
+7. CAD - continue statin and aspirin, no anginal symptoms today.
+
+Follow up in pulmonology clinic per above imaging surveillance plan, sooner if symptoms worsen.
+
+---
+ADDENDUM (same day, 09/11/2025, 4:45 PM):
+Spoke again with patient by phone after clinic visit regarding lab results and imaging summary discussed above; he had no additional questions. Reiterated importance of smoking cessation given chronic 1.5 pack per day, 49-year smoking history; patient again verbalized he is not ready to quit at this time. Will continue to offer support at future visits. No changes to plan.
+- Catherine Lindqvist, DO

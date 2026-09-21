@@ -1,0 +1,87 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Jose Okafor (M) DOB: 01/25/1960 (age 65)
+Date of Service: 01/25/2025
+Author: Owen Fitzgerald, MD (NP progress note co-signed)
+
+CC: HF follow-up.
+
+HPI: Mr. Okafor is a 65 y/o male w/ h/o HFrEF, afib, asthma, BPH here for routine HF f/u. Reports doing reasonably well since last visit, denies orthopnea, PND, or significant edema. Occasional exertional dyspnea climbing >2 flights of stairs, unchanged. Compliant w/ meds, weighs self daily, no significant wt gain. Diet mostly low-Na, occasional lapses per pt admission. No CP, palpitations reported since last afib episode. No syncope/presyncope.
+
+PMH/Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- I48.91 Atrial fibrillation, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- N40.0 Benign prostatic hyperplasia w/o LUTS
+- E78.5 Hyperlipidemia (dated 2019, may be outdated - pt reports lipids checked recently, unclear if still active issue)
+- M54.5 Low back pain (old, chronic, inactive per pt)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Smoking status: Not currently smoking
+Pack-years: 19 pack-year history
+Years since quitting: quit smoking approx. 15 years ago
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+Exercise: Light walking most days
+Diet: Low-sodium as tolerated
+
+Allergies: NKDA
+
+Medications (current, per EHR):
+1. Metoprolol succinate 50 mg daily
+2. Furosemide 40 mg daily
+3. Lisinopril 10 mg daily
+4. Spironolactone 25 mg daily
+5. Apixaban 5 mg BID
+6. Albuterol HFA PRN
+7. Fluticasone/salmeterol inhaler BID
+8. Tamsulosin 0.4 mg qHS
+9. Atorvastatin 40 mg daily
+10. Multivitamin daily
+
+ROS (templated, reviewed - 10 systems):
+Constitutional: denies fever, chills, wt loss.
+Eyes: denies visual changes.
+ENT: denies sore throat, congestion.
+Cardiovascular: as per HPI, denies CP, palpitations, syncope.
+Respiratory: denies cough, hemoptysis; mild exertional dyspnea as above; asthma stable on current regimen, uses albuterol rarely.
+GI: denies nausea, vomiting, diarrhea, constipation.
+GU: nocturia x1-2, stable, known BPH, denies dysuria/hematuria.
+Musculoskeletal: denies acute joint pain, chronic low back pain stable.
+Skin: denies rashes, lesions.
+Neuro: denies headache, dizziness, focal weakness.
+Psych: denies depression, anxiety; mood stable.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 72 irregularly irregular, RR 16, Temp 97.8F, SpO2 96% RA, Wt 198 lbs (stable from last visit), Ht 5'10".
+Gen: well-appearing, NAD, A&Ox3.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear.
+Neck: no JVD, no thyromegaly, no carotid bruits.
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, PMI nondisplaced.
+Lungs: CTAB, no wheezes/rales/rhonchi, good air movement.
+Abd: soft, NT/ND, no HSM, normoactive BS.
+Ext: no c/c/e, pulses 2+ symmetric bilaterally.
+Skin: warm, dry, no rashes.
+Neuro: grossly nonfocal, CN II-XII intact.
+
+LABS/DATA reviewed: BNP 210 (improved from prior 340), BMP unremarkable, K+ 4.3, Cr 1.1, INR n/a (on DOAC), TSH WNL.
+EKG today: afib, controlled ventricular rate, no acute ST changes.
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, euvolemic on exam, BNP trending down. Continue current GDMT (metoprolol, lisinopril, spironolactone). Continue diuretic at current dose, reinforce daily weights and low-Na diet.
+2. Atrial fibrillation - rate controlled, continue apixaban for anticoagulation, continue metoprolol.
+3. Asthma - stable, continue current inhaler regimen, albuterol PRN.
+4. BPH - stable on tamsulosin, no LUTS currently, continue monitoring.
+5. Tobacco history - discussed. Pt is a former smoker with a 19 pack-year history, quit smoking approx. 15 years ago; reinforced importance of continued abstinence and healthy lifestyle.
+6. Hyperlipidemia - continue atorvastatin, recheck lipid panel at next visit.
+7. RTC in 3 months or sooner if symptoms worsen.
+
+Pt verbalizes understanding of plan, all questions answered.
+
+---
+ADDENDUM (later same day, 01/25/2025, added by Owen Fitzgerald, MD):
+Spoke further w/ pt by phone after visit regarding pharmacy refill issue for apixaban - resolved w/ pharmacy call, pt to pick up medication today. No new complaints reported at this time. No changes to plan above. Pt reconfirmed he is 65 y/o and continues to do well overall since visit earlier today. No further action needed at this time.

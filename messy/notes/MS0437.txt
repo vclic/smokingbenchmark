@@ -1,0 +1,50 @@
+Pulmonology Progress Note
+Patient: John Miller (M) DOB: 02/12/1976
+Date of Service: 02/12/2026
+Author: Kevin Osei, MD
+
+CC: COPD follow up
+
+HPI: Mr Miller is a 50 y/o M with hx of COPD, osteoporosis, asthma, and HFrEF presenting for routine f/u. Pt reports intermittent dyspnea on exertion, denies acute chest pain, reports occasional wheeze esp with cold air exposure, no fevers no chills. Pt states he has been compliant w his inhalers although admits missing few doses of his maintenance inhaler due to running out and forgeting to refil (sic). No recent hospitalizations, no ED visits since last seen. He denies orthopnea or PND currently, denies significant edema although some mild ankle swelling noted by pt at end of day, [inaudible] related to prolonged standing at work he thinks and its been going on for a wile but not worsening. Appetite stable weight stable per pt although we will confirm on scale today.
+
+PMH: COPD, osteoporosis, asthma, HFrEF (last known EF on echo reportedly around 35-40% per pt recollection, will pull records)
+PSH: none significant reported
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Packs per day: Not on file
+Years smoked: Not on file
+Pack-year history: 22 pack-years
+Quit date: 05/04/2020
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: warehouse supervisor
+Living situation: Not on file
+Exercise: Not on file
+
+ROS: otherwise negative except as above per HPI, all other systems reviewed and negative including no hemoptysis no fevers no night sweats no unexplained weight loss.
+
+Meds: Tiotropium inhaler daily, Albuterol PRN, Lisinopril, Carvedilol, Furosemide PRN for edema, Alendronate weekly for osteoporosis, Vitamin D/Calcium supplement.
+
+Exam:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 95% RA, Wt stable from last visit, Temp 98.4F
+Gen: NAD, comfortable appearing, alert
+HEENT: unremarkable, no JVD noted
+CV: RRR, no murmur appreciated, no gallop, no significant edema on exam today
+Resp: mild expiratory wheeze bilat bases, no crackles, good air movement overall
+Abd: soft nontender nondistended
+Ext: trace edema b/l ankles, no c/c/e otherwise
+
+Assessment/Plan:
+1. COPD - stable, continue current inhaler regimen, reinforce importance of adherence, reviewed inhaler technique in clinic today pt demonstrates appropriate technique. Given the patient's 22 pack-year smoking history and history of tobacco use, lung cancer screening was discussed in general terms with pt including risks/benefits of imaging surveillance, pt to think about it and we will readdress at next visit.
+2. Tobacco use - pt is a former smoker, quit smoking on 5/4/2020, congratulated pt on continued abstinence and encouraged him to remain smoke free, no current cessation counseling needed as pt not currently using tobacco products.
+3. Asthma - well controlled on current regimen, continue albuterol PRN
+4. HFrEF - clinically stable today, mild trace edema noted, will continue diuretic PRN, recommend pt weigh self daily and report any rapid weight gain, will obtain repeat echo to reassess EF given time since last study, continue GDMT as tolerated
+5. Osteoporosis - continue alendronate and supplementation, DEXA due for repeat per standard interval, will order
+6. Health maintenance - reviewed vaccination status, pt due for updated flu/covid vaccination will discuss at PCP visit
+
+F/u in 3 months or sooner if symptoms worsen, pt verbalizes understanding of plan, all questions answered today.
+
+---
+ADDENDUM (same day, later): Spoke again briefly w pt by phone after he left clinic, he had additional question regarding whether his current sx warrant more urgent imaging, reassured pt that his presentation today does not suggest acute decompensation and that we will proceed as planned with routine f/u in 3 months, pt understands and agreed to plan, will document in chart, no new orders placed at this time. Reiterated congratulations on his continued smoking cessation since his quit date of 5/4/2020 as this is an important factor in his overall pulmonary and cardiac risk reduction going forward. -Kevin Osei, MD

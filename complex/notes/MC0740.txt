@@ -1,0 +1,41 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Patient: Carol Hill (F), DOB 6/23/1972, Age: 51
+Date of Service: 08/26/2023
+Provider: Julia Brennan, MD
+
+--- NURSE INTAKE ---
+VS: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 172 lb, Ht 5'5", BMI 28.6
+Allergies: NKDA
+Chief complaint: Annual wellness exam.
+Pt here today for routine annual visit, no acute complaints voiced at intake.
+
+PROBLEM LIST:
+- J45.909 Asthma, unspecified, uncomplicated
+- I10 Essential (primary) hypertension
+- E66.9 Obesity, unspecified (copied forward, may be outdated - pt reports stable weight)
+- M54.5 Low back pain (resolved per pt, keeping on list per old chart)
+
+--- COPIED FORWARD FROM VISIT 02/14/2022 ---
+HPI: Pt is a 50 yo (at that time) female here for f/u of asthma and HTN. Reports occasional wheeze with exertion, uses albuterol PRN approx 1x/week. BP well controlled on current regimen. No chest pain, no edema. Continues to work full time as a paralegal. Denies illicit drug use. Discussed diet and exercise, pt encouraged to increase activity.
+--- END COPIED TEXT ---
+
+--- HPI (current visit, 08/26/2023) ---
+Ms. Hill returns today, now age 51, for her annual wellness visit. Asthma is stable on current inhaler regimen, denies recent exacerbations or ED visits. HTN reasonably controlled on lisinopril. No new complaints. Discussed importance of preventive screenings appropriate for age.
+
+SOCIAL HISTORY:
+Tobacco: 20 pack-year smoking history. Continues to smoke despite counseling on multiple prior visits. Alcohol: occasional glass of wine. Denies illicit drug use. Works as paralegal, married, lives with spouse.
+
+ROS: Constitutional - denies fever, chills, weight loss. Resp - occasional wheeze, denies SOB at rest. CV - denies chest pain, palpitations, edema. GI - denies nausea, vomiting, diarrhea. GU - denies dysuria. MSK - denies joint pain. Neuro - denies headache, dizziness. Skin - denies rash. All other systems reviewed and negative.
+
+PHYSICAL EXAM: General - well-appearing, NAD. HEENT - normocephalic, atraumatic, PERRL. Neck - no JVD, no lymphadenopathy. Lungs - mild expiratory wheeze bilaterally, no crackles. CV - RRR, no murmurs. Abd - soft, NT/ND. Ext - no edema. Skin - no lesions.
+
+MEDICATIONS: Lisinopril 20mg daily, Albuterol HFA PRN, Fluticasone/salmeterol 250/50 one puff BID, Atorvastatin 10mg daily, Multivitamin daily, Vitamin D3 1000IU daily.
+
+ASSESSMENT/PLAN:
+1. Asthma - stable, continue current regimen.
+2. HTN - controlled, continue lisinopril.
+3. Tobacco use - continues to smoke despite counseling; discussed cessation resources and lung cancer screening in general terms today.
+4. Health maintenance - labs ordered, mammogram due.
+
+--- ADDENDUM (later same day, 08/26/2023) ---
+Addendum by Dr. Brennan: Spoke with pt by phone after visit regarding lab draw instructions for fasting lipid panel scheduled tomorrow AM. No changes to plan above.

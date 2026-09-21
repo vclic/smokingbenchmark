@@ -1,0 +1,50 @@
+TELEHEALTH URGENT CARE NOTE
+DOS: 12/19/2024
+Author: Teresa Alvarez, NP
+
+Pt: Dennis Miller, M, DOB 1/16/1966, age 58
+
+CC: cough x5 days
+
+HPI: 58 yo M w/ hx obesity, HTN, HLD calling in for productive cough, no fever, mild SOB w exertion. denies chest pain, denies hemoptysis. Smoking hx notable- pt smoked 1 pack per day for 24 years, then cut down to about 12 cigarettes per day for the next 18 years up to now, still smoking currently. previously quit in 2018 but relapsed in 2020 per pt report. Continues to smoke despite repeated counseling at prior visits. denies illicit drug use. reports occ etoh.
+
+ROS: + cough, - fever, - chills, - CP, +mild dyspnea on exertion, otherwise neg
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Packs/day: see HPI
+Years smoked: see HPI
+Alcohol use: Occasional
+Drug use: Not on file
+Occupation: 
+Living situation: Not on file
+Exercise: Not on file
+
+PMH/Problem List (ICD-10):
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- J45.909 Asthma, unspecified (outdated, no longer active per chart review)
+- Z87.891 Personal hx of nicotine dependence (legacy entry)
+
+Meds: lisinopril 20mg daily, atorvastatin 40mg qhs, occasional albuterol prn (per old chart, unclear if still using)
+
+Vitals (telehealth, self-reported): BP 138/86, HR 82, Temp 98.6F, SpO2 96% RA per home pulse ox
+
+Labs/Results:
+- CBC 11/02/2024: WBC 7.8, Hgb 14.9, Plt 250
+- CMP 11/02/2024: Na 139, K 4.1, Cr 0.9, Glucose 101
+- Lipid panel 09/15/2024: LDL 132, HDL 41, TG 178
+- CXR 03/2023: no acute findings, mild hyperinflation noted (old study, not repeated today)
+
+Assessment: Acute bronchitis, likely viral, in setting of ongoing tobacco use. HTN and HLD stable, cont current regimen. Discussed lung cancer screening in general terms given smoking hx; pt to follow up w PCP to discuss further, no imaging ordered today via telehealth.
+
+Plan:
+1. Supportive care- fluids, rest, OTC cough suppressant prn
+2. Counsel again on smoking cessation, discussed nicotine patch/gum options, pt states not ready to quit at this time
+3. F/u w PCP in 1-2 wks or sooner if worsening sx, fever, hemoptysis
+4. Cont lisinopril, atorvastatin as prescribed
+5. Return to telehealth or ED if worsening dyspnea
+
+Signed electronically- Teresa Alvarez, NP

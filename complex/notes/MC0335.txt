@@ -1,0 +1,37 @@
+NURSE INTAKE (H. Weiss, NP) - DOS 05/22/2026
+Pt: Curtis Torres, M, DOB 05/22/1956, age 70. Here for PCP f/u HTN, DM2.
+Vitals: BP 138/82, HR 74, RR 16, T 98.2F, SpO2 95% RA, Wt 198 lb.
+
+HPI: 70 y/o M with hx HTN, DM2, GERD, PAD, asthma, gout, HFrEF, OSA presents for routine f/u. Reports fair adherence to meds, occasional leg cramping c/w PAD, no chest pain. Denies dyspnea at rest, uses CPAP nightly per report.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Type: Cigarettes
+Amount: 1/2 pack/day (~10 cigs/day) from 1977 to 2024
+Smokeless tobacco: Not on file
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+
+[Copied from note dated 09/22/2024]: "Pt is a current smoker, continues to use tobacco despite counseling." — copied forward for reference only, not reflective of current status.
+
+ROS: Constitutional - denies fever/chills. Resp - denies cough, wheeze well controlled on inhalers. CV - denies orthopnea, PND. GI - occasional reflux, controlled on PPI. GU - denies dysuria. MSK - occasional gout flares, none currently. Neuro - denies focal deficits. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Gen - NAD, well-appearing. HEENT - unremarkable. Neck - no JVD. CV - RRR, no m/r/g. Lungs - CTAB, mild expiratory wheeze. Abd - soft, NT/ND. Ext - trace edema, PAD-related decreased pulses DP/PT bilaterally, no ulcers. Skin - intact.
+
+MEDS: Lisinopril 20mg daily, Metformin 1000mg BID, Furosemide 40mg daily, Atorvastatin 40mg daily, Albuterol PRN, Fluticasone/salmeterol inhaler BID, Allopurinol 300mg daily, Omeprazole 20mg daily, Aspirin 81mg daily.
+
+ASSESSMENT/PLAN:
+1. HTN - stable, cont lisinopril.
+2. DM2 - A1c pending, cont metformin.
+3. HFrEF - stable, cont furosemide, no acute decompensation.
+4. PAD - stable, reinforce foot care.
+5. Asthma - stable on current regimen.
+6. Gout - no active flare.
+7. OSA - continue CPAP.
+8. GERD - stable on PPI.
+9. Tobacco use - Pt is a former smoker; he reports he has not smoked since his 68th birthday. Given his smoking history, low-dose CT lung cancer screening was discussed as an option; benefits/risks reviewed with patient. Continue to encourage abstinence.
+
+F/u in 3 months or sooner if symptoms worsen.
+— Hannah Weiss, NP

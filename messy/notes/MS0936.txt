@@ -1,0 +1,80 @@
+HISTORY AND PHYSICAL
+Patient: Loretta Hernandez | DOB: 06/21/1946 | Age: 78 | Sex: F
+Date of Service: 06/21/2024
+Author: Owen Fitzgerald, MD
+Department: Internal Medicine - Pre-Operative Evaluation
+
+CHIEF COMPLAINT: Pre-operative medical evaluation prior to right total knee replacement.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Hernandez is a 78-year-old female with history of obstructive sleep apnea, type 2 diabetes, and gout who presents today for pre-op clearance in advance of scheduled right total knee arthroplasty. She reports progressive right knee pain over the past several years, now limiting ambulation to short distances around the house. She uses a cane for longer distances. She denies chest pain, palpitations, or syncope. She reports occasional exertional dyspnea which she attributes to her knee limiting activity rather than cardiac or pulmonary symptoms, though given her smoking history this will be assessed further. She uses a CPAP machine most nights for her OSA, though admits to inconsistent use when traveling. Blood glucose has been reasonably controlled per her home log, though she notes occasional readings in the 180-200 range in the mornings. No recent gout flares; last flare was approximately 8 months ago per patient report, resolved with colchicine.
+
+PAST MEDICAL HISTORY:
+1. Obstructive sleep apnea - on CPAP
+2. Type 2 diabetes mellitus - diet and metformin
+3. Gout - managed with allopurinol, colchicine PRN
+
+PAST SURGICAL HISTORY: Cholecystectomy (year unknown), left cataract surgery 2019.
+
+MEDICATIONS:
+- Metformin 1000 mg PO BID
+- Allopurinol 300 mg PO daily
+- Colchicine 0.6 mg PRN flare
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO qhs
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: 30 cigarettes per day for 15 years
+Readiness to quit: Not ready to quit at this time
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, 1-2 glasses wine per week
+Drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired administrative assistant
+Exercise: Limited due to knee pain
+
+FAMILY HISTORY: Mother - diabetes, hypertension. Father - deceased, unknown cause. No known family history of lung disease.
+
+REVIEW OF SYSTEMS: As per HPI. Otherwise negative in detail including no fevers, no unexplained weight loss, no hemoptysis. Positive for chronic cough occasionally, attributed by patient to tobacco use, non-productive.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% on room air, Temp 98.2F, BMI 31
+General: Well-appearing woman in no acute distress, ambulates with cane
+HEENT: Normocephalic, atraumatic, no scleral icterus
+Neck: No JVD, no lymphadenopathy
+Cardiovascular: Regular rate and rhythm, no murmurs/gallops/rubs
+Pulmonary: Mildly diminished breath sounds bilaterally at bases, no wheezes or crackles appreciated
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+Extremities: Right knee with mild effusion, crepitus with range of motion, no erythema or warmth; left knee unremarkable
+Skin: No rashes or lesions noted
+Neuro: Grossly intact, alert and oriented x3
+
+LABS/RESULTS:
+CBC (06/18/2024): WBC 6.8, Hgb 13.1, Hct 39.4, Plt 245
+BMP (06/18/2024): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Creatinine 0.9, Glucose 154
+HbA1c (06/10/2024): 7.2%
+Uric acid (06/10/2024): 6.1 mg/dL
+EKG (06/21/2024): Normal sinus rhythm, no acute ST changes, rate 76
+Chest X-ray (06/21/2024): No acute cardiopulmonary process, mild hyperinflation noted
+
+ASSESSMENT AND PLAN:
+78-year-old female presenting for pre-operative clearance prior to right total knee replacement.
+
+1. Pre-operative cardiopulmonary risk assessment: EKG and chest x-ray reviewed today, without acute findings. Given long-standing tobacco use, mild hyperinflation was noted on imaging; no other acute abnormality. Cleared from a cardiopulmonary standpoint for surgery with standard precautions. Discussed general pulmonary risk reduction strategies including counseling on smoking cessation, though patient reiterated she is not ready to quit at this time. Lung cancer screening was discussed in general terms as part of preventive health discussion.
+2. Obstructive sleep apnea: Continue CPAP; instructed to bring CPAP machine to hospital for post-operative use given increased risk of respiratory complications in OSA patients undergoing surgery.
+3. Type 2 diabetes mellitus: HbA1c 7.2%, reasonably controlled. Continue metformin; hold morning dose day of surgery per pre-op instructions. Monitor glucose closely peri-operatively.
+4. Gout: Stable, no active flare. Continue allopurinol; colchicine available PRN. Advised to avoid excessive dehydration peri-operatively as risk factor for flare.
+5. Hypertension: Well controlled on lisinopril, continue.
+6. Overall surgical risk: Low-to-moderate. Cleared for right total knee arthroplasty as scheduled. Will coordinate with orthopedic surgery and anesthesia.
+
+Patient verbalized understanding of plan. Follow-up as needed prior to surgery date; will communicate clearance to orthopedic surgery team.
+
+---
+ADDENDUM (later same day, 06/21/2024, 4:45 PM):
+Dr. Fitzgerald here - following up after discussion with patient this afternoon by phone regarding chest x-ray findings. Reiterated to patient that mild hyperinflation is likely related to her ongoing tobacco use. She continues to smoke and again stated she is not ready to quit at this time; declined referral to smoking cessation program today but was given the quitline number for future reference if she reconsiders. No changes to surgical clearance plan above. Will continue to monitor.
+- Owen Fitzgerald, MD

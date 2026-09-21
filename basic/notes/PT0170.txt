@@ -1,0 +1,79 @@
+Vascular Medicine Progress Note
+
+Patient: BROWN, Terrence    MRN: 89930102
+DOB: 04/07/1947    Age: 76 y.o.    Sex: Male
+Date of Service: 09/01/2023    Provider: Elena Markovic, MD
+
+Chief Complaint
+Patient presents with
+• Claudication
+
+Subjective:
+Terrence Brown is a 76 y.o. male who presents for evaluation of leg pain with walking.
+Calf pain with walking 2 blocks, relieved by rest. Occasional night cramps. ABI: R 0.71, L 0.66.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Peripheral artery disease
+• CAD
+• OSA
+• Hyperlipidemia	2021
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (1991)
+• Lumbar laminectomy (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• nitroglycerin 0.4 mg SL PRN
+• metoprolol succinate 25 mg daily
+• rosuvastatin 20 mg daily
+• cilostazol 100 mg BID
+• ezetimibe 10 mg daily
+• lisinopril 20 mg daily
+• aspirin 81 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Social History Narrative
+  Lives with wife in a single-family home.
+  No alcohol.
+  Denies illicit drugs.
+
+Family History
+Parents deceased, causes unknown. Mother - COPD, was a lifelong smoker.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 139/91 (BP Location: Right arm, Patient Position: Sitting) | Pulse 99 | Temp 98.7 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 155 lb | SpO2 96% | BMI 25.03 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: 1+ DP pulses bilaterally, no ulcers
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. PAD with claudication
+   Supervised exercise therapy referral; continue antiplatelet and statin. Smoking cessation is the most important intervention - discussed.
+2. Hyperlipidemia
+   Continue statin. Lipid panel due.
+3. Essential hypertension
+   Elevated today; home BP log requested.
+4. Current smoker
+   Pt continues to smoke, ½ pack/day x 54 years. Advised to quit; >8 min spent counseling. Not ready to quit at this time. Start nicotine patch 21 mg/24h + gum 2 mg PRN.
+
+RTC 3 months.
+
+Electronically signed by Elena Markovic, MD on 09/01/2023

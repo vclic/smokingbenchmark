@@ -1,0 +1,63 @@
+GERIATRIC ASSESSMENT / HISTORY AND PHYSICAL
+Patient: Michael Nguyen (M), DOB 5/21/1945, Age 79
+Date of Service: 10/02/2024
+Provider: Laura Castellano, FNP-C, Geriatrics
+
+CC: Comprehensive geriatric assessment, f/u chronic conditions.
+
+HPI: 79 y/o M w/ hx HFrEF, AFib, GERD, PAD, hypothyroidism presents for routine geriatric eval. Pt ambulates c cane, lives c spouse. Reports fatigue "comes and goes, worse in the afternoons." Denies chest pain, orthopnea worse than baseline. Says "I still get short of breath climbing the stairs, but it's about the same as before." No new falls. Appetite fair. Denies GI bleed, melena. PAD sx stable, states "my legs cramp after about two blocks, same as always."
+
+RE: SMOKING - Pt reports a long smoking hx in three distinct phases: smoked about half a pack (approx 10 cigs/day) for 17 yrs, then cut down to a quarter pack (approx 5 cigs/day) for 23 yrs, then increased to three-quarters of a pack (approx 15 cigs/day) for the past 17 yrs, which is his current level. Pt continues to smoke despite repeated counseling regarding cardiovascular and pulmonary risks. Pt states "I know I should quit, I've tried before." A quit date has been set for 11/14/2024; pt agreeable to attempt cessation at that time, will consider nicotine patch. Lung cancer screening was discussed with pt; risks/benefits reviewed.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current smoker, cig - see HPI for detail
+Packs/day: variable per HPI
+Years smoked: variable per HPI
+Quit date: 11/14/2024 (planned)
+Alcohol: occasional, 1-2 drinks/wk
+Illicit drug use: denies
+Caffeine: 1 cup coffee/day
+Occupation: retired machinist
+Living situation: lives w/ spouse, single-story home
+Exercise: Not on file
+Diet: Not on file
+
+PMH / Problem List:
+- I50.22 Chronic systolic (congestive) heart failure
+- I48.91 Atrial fibrillation, unspecified
+- K21.9 GERD without esophagitis
+- I73.9 Peripheral vascular disease, unspecified (PAD)
+- E03.9 Hypothyroidism, unspecified
+- E78.5 Hyperlipidemia (outdated, per pt no longer on statin per last note - needs update)
+- M17.9 Osteoarthritis, knee (outdated entry, resolved per pt s/p conservative mgmt)
+
+Meds: Metoprolol succinate 50mg daily, Apixaban 5mg BID, Furosemide 20mg daily, Omeprazole 20mg daily, Levothyroxine 75mcg daily, Atorvastatin 20mg qhs (pt reports not taking - see problem list note)
+
+Allergies: NKDA
+
+ROS: Constitutional - fatigue as above, denies fever/chills. CV - denies palpitations today, known AFib on anticoag. Resp - denies cough, hemoptysis, denies acute dyspnea at rest. GI - occasional reflux, controlled c PPI. GU - nocturia x1. MSK - bilat leg cramping c ambulation c/w known PAD. Neuro - denies focal weakness, no syncope. Psych - mood stable, denies SI/HI.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 82 irreg irreg, RR 16, SpO2 95% RA, Wt 168 lb, Temp 97.8F
+Gen: NAD, well-groomed, appears stated age
+HEENT: NCAT, EOMI, no scleral icterus
+Neck: no JVD appreciated, no carotid bruits
+CV: irregularly irregular rhythm, no m/r/g
+Resp: CTAB, no wheezes/crackles, no accessory muscle use
+Abd: soft, NT/ND, +BS
+Ext: trace bilat LE edema, cool distal extremities, dim DP/PT pulses bilat c/w PAD, no ulcers noted today
+Skin: no lesions
+Neuro: A&Ox3, gait steady c cane
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue metoprolol, furosemide. Daily weights reviewed.
+2. AFib - rate controlled, continue apixaban for stroke ppx, no bleeding sx.
+3. GERD - stable on omeprazole, no alarm sx.
+4. PAD - stable claudication distance, cont ASA (per cardiology), consider referral to vascular if worsening.
+5. Hypothyroidism - continue levothyroxine, TSH due for recheck.
+6. Tobacco use - Ongoing smoking as detailed above despite counseling; extensive discussion of CV/pulm risks, esp given HFrEF/PAD/AFib. Pt has set quit date 11/14/2024. Cessation resources provided, discussed nicotine patch/gum options. Lung cancer screening discussed with pt.
+7. Health maintenance - up to date per chart, will review immunization status at next visit.
+
+F/u in geriatrics clinic 3 months, sooner if symptoms worsen. Pt verbalizes understanding of plan.
+
+Laura Castellano, FNP-C

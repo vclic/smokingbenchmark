@@ -1,0 +1,53 @@
+HOSPITAL DISCHARGE FOLLOW-UP - History and Physical
+Patient: John Allen | DOB: 2/3/1972 | Age: 54 | Sex: M
+Date of Service: 02/11/2026
+Author: Owen Fitzgerald, MD - Primary Care
+
+CC: F/u after recent hospitalization for pneumonia.
+
+HPI: 54 yo M s/p recent hospital admission for community-acquired pneumonia, now presenting for outpt f/u. Pt reports "I'm breathing a lot easier than when I was in the hospital." States he has been taking his abx as prescribed. Denies fevers, chills, night sweats. Endorses mild residual cough, no hemoptysis. Denies chest pain. Reports fatigue improving daily. "I just want to get back to normal," pt states. When asked about tobacco use, pt declined to discuss tobacco use; deferred further questioning on the topic, and this was not pursued further at this visit.
+
+PMH/Problem List (ICD-10):
+- N40.0 Benign prostatic hyperplasia
+- F32.9 Major depressive disorder, unspecified (chronic, on treatment)
+- J45.909 Asthma, unspecified, uncomplicated
+- I73.9 Peripheral artery disease, unspecified
+- J18.9 Pneumonia, unspecified organism (recent admission, resolving) - active
+- (outdated entry, likely resolved) J06.9 Acute upper respiratory infection - carried forward from old note
+
+Medications:
+1. Tamsulosin 0.4mg qhs
+2. Sertraline 100mg daily
+3. Albuterol HFA inhaler prn
+4. Fluticasone/salmeterol 250/50 one puff BID
+5. Cilostazol 100mg BID
+6. Aspirin 81mg daily
+7. Atorvastatin 40mg qhs
+8. Amoxicillin/clavulanate - completing course post-discharge
+9. Multivitamin daily
+
+ROS: Constitutional: fatigue improving, denies fever. HEENT: no sore throat, no congestion. CV: no chest pain, no palpitations, PAD-related claudication stable per pt. Resp: mild residual cough, improving dyspnea, no wheeze today. GI: no nausea, vomiting, appetite fair. GU: nocturia x1-2, stable, BPH followed. MSK: no new joint pain. Neuro: no headache, no dizziness. Psych: mood stable on current regimen, denies SI/HI. Skin: no rashes. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 128/76, HR 78, RR 16, T 98.2F, SpO2 96% RA.
+General: well-appearing, NAD, comfortable.
+HEENT: NCAT, PERRL, oropharynx clear.
+Neck: supple, no LAD, no JVD.
+CV: RRR, no murmurs/gallops/rubs, distal pulses diminished bilaterally c/w known PAD, no edema.
+Resp: mild scattered crackles at right base, improved from d/c note; no wheeze, no rhonchi; good air movement.
+Abd: soft, NT/ND, normoactive bowel sounds.
+Extremities: no cyanosis, PAD changes noted, warm distally.
+Neuro: alert, oriented x3, no focal deficits.
+Psych: mood euthymic, affect appropriate.
+Skin: no rashes or lesions noted.
+
+Assessment/Plan:
+1. Pneumonia, resolving post-hospitalization - continue abx course, f/u CXR in 6 wks to confirm resolution.
+2. Asthma - stable, continue current inhalers.
+3. PAD - stable, continue cilostazol/ASA, monitor claudication symptoms.
+4. BPH - stable on tamsulosin, no acute urinary retention.
+5. Depression - stable on sertraline, continue, reassess at next visit.
+6. Lung cancer screening was discussed with patient but deferred until further smoking history can be obtained, given pt declined to discuss tobacco use today; will revisit at next visit.
+7. Return to clinic in 4-6 weeks or sooner if worsening symptoms.
+
+Signed, Owen Fitzgerald, MD

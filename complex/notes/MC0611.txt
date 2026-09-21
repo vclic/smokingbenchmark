@@ -1,0 +1,54 @@
+NURSE INTAKE
+DOS: 11/13/2024
+Patient: Maria Novak, F, DOB 3/7/1961, age 63
+Visit type: LCS shared decision-making, Pulm
+
+Vitals: BP 132/78, HR 76, RR 16, SpO2 96% RA, Wt 168 lb
+Allergies: NKDA
+
+SOCIAL HISTORY (templated block)
+Tobacco use: Current
+Type: Cigarettes
+Pack-years: See HPI
+Alcohol use: None (quit drinking, hx below)
+Drug use: Not on file
+Occupation: Retired
+Living situation: With spouse
+Exercise: Not on file
+
+---
+PHYSICIAN PROGRESS NOTE
+Rachel Goldberg, MD
+DOS: 11/13/2024
+
+CC: Lung cancer screening SDM visit.
+
+HPI: Ms. Novak is a 63 yo F (DOB 3/7/1961) w/ hx osteoporosis, T2DM, OSA, presenting for shared decision-making re: lung cancer screening. She reports smoked 2 packs/day for 28 yrs, then cut down to approx 5 cigs/day for the next 15 yrs up to now, still smoking currently. Pt notes she had previously quit smoking in 2008 but relapsed in 2010 and has continued since. No current cough, hemoptysis, wt loss, or chest pain. Denies dyspnea at rest; mild exertional SOB attributed to OSA/deconditioning. Also notes she quit drinking alcohol in 1999, no current EtOH use.
+
+ROS: Otherwise negative except as above. No fevers, no night sweats.
+
+PMH: Osteoporosis, T2DM (diet + metformin), OSA (on CPAP, variable compliance).
+Meds: Metformin 1000mg BID, alendronate weekly, vit D, CPAP nightly.
+FH: Noncontributory to lung dz per pt report.
+
+Exam:
+Gen: NAD, comfortable, conversant.
+HEENT: WNL.
+CV: RRR, no m/r/g.
+Resp: CTAB, no wheeze/rales/rhonchi. Nl work of breathing.
+Abd: soft, NT/ND.
+Ext: no edema, no clubbing.
+Skin: no lesions.
+
+Assessment/Plan:
+63F, current smoker (heavy hx as above), OSA, T2DM, osteoporosis - here for SDM visit re: lung cancer screening.
+1. Lung cancer screening: Discussed risks/benefits of screening at length incl. false positives, incidental findings, radiation exposure, overdiagnosis. Pt verbalizes understanding. Decision aid reviewed together, questions answered.
+2. Tobacco use, current: Strongly advised cessation, discussed pharmacotherapy options (varenicline, NRT) and counseling referral. Pt states she is 'thinking about it,' ambivalent today. Will readdress next visit; tobacco quitline info provided.
+3. OSA: Continue CPAP, reinforce adherence, review sleep study data at next f/u if needed.
+4. T2DM: A1c pending, continue metformin, diet counseling reinforced.
+5. Osteoporosis: Continue alendronate + vit D, DEXA due for repeat next yr.
+6. Alcohol: Hx of prior use, quit 1999 per pt, no current concerns, no further intervention needed at this time.
+
+F/u: Return to clinic in 3 months or sooner PRN. Pt given after-visit summary and educational materials.
+
+Electronically signed: Rachel Goldberg, MD

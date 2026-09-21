@@ -1,0 +1,73 @@
+Adult Medicine Progress Note
+
+Patient: KING, Brenda    MRN: 20279170
+DOB: 12/26/1946    Age: 77 y.o.    Sex: Female
+Date of Service: 05/27/2024    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Low back pain
+
+Subjective:
+Brenda King is a 77 y.o. female who presents for low back pain.
+Low back pain for 7 months, worse with stairs. No trauma. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• CKD 3b	1985
+• Osteoarthritis
+• Heart failure with reduced ejection fraction	1987
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+• Carpal tunnel release (2007)
+• C-section x2 (1998)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sacubitril-valsartan 49/51 mg BID
+• furosemide 40 mg daily
+• diclofenac 1% gel QID PRN
+• carvedilol 12.5 mg BID
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Not on file
+• Smokeless tobacco: Not on file
+
+Family History
+Father - prostate cancer. Father - MI at 74.
+
+Review of Systems
+ROS: Neuro neg, CV neg, Resp neg, MSK +, Gen neg, Skin neg, GU neg, GI neg
+
+Objective:
+Vitals:
+  BP 114/80 (BP Location: Left arm, Patient Position: Sitting) | Pulse 65 | Temp 98.1 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 186 lb | SpO2 97% | BMI 28.33 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: Trace bilateral ankle edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. CKD 3b
+   Cr stable. Avoid NSAIDs.
+3. Heart failure with reduced ejection fraction
+   Weight stable. Continue diuretic.
+
+Return in about 6 months (around 11/27/2024).
+
+Electronically signed by Owen Fitzgerald, MD on 05/27/2024

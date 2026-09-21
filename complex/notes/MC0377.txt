@@ -1,0 +1,41 @@
+URGENT CARE - Encounter Note
+DOS: 03/28/2025
+Patient: Larry Robinson (M), DOB 03/28/1947, Age 78
+Provider: Elena Markovic, MD
+
+=== NURSE INTAKE ===
+CC: Cough x5 days, nonproductive, worse at night. No fever. Denies chest pain, SOB at rest.
+Vitals: BP 138/86, HR 92 irreg (known Afib), RR 18, SpO2 96% RA, Temp 98.4F, Wt 248 lb.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary
+
+=== HPI (Dr. Markovic) ===
+Mr. Robinson is a 78 y/o male with hx of atrial fibrillation and obesity presenting with 5 days of dry cough, mild nasal congestion, no hemoptysis. He reports he started smoking about half a pack (roughly 10 cigarettes) a day at age 13. He continued at that same rate for years before quitting in 2012 - he recalls quitting when his granddaughter, now 13 years old, was born. He has not smoked since. No current tobacco use. Denies vaping.
+
+[COPY-FORWARD FROM PRIOR VISIT 11/14/2023 - CARDIOLOGY F/U - please disregard outdated info below]
+Pt seen for routine Afib follow-up. On apixaban 5mg BID, tolerating well. No bleeding events. Rate controlled on metoprolol succinate 50mg daily. Echo from 2021 showed EF 55%, mild LA enlargement. Pt counseled on weight loss, diet, exercise. Denies palpitations, syncope. Continue current regimen, f/u in 6 months. Refilled all meds. RTC PRN.
+[END COPY-FORWARD]
+
+ROS: Otherwise negative including no weight loss, no night sweats, no hemoptysis.
+
+EXAM: Lungs CTAB, no wheeze/rales. Cardiac: irregularly irregular rhythm, no murmur. No LE edema. Oropharynx mildly erythematous.
+
+PROBLEM LIST:
+- I48.91 Atrial fibrillation, unspecified
+- E66.9 Obesity, unspecified
+- J06.9 Acute upper respiratory infection, unspecified (outdated, resolved 2019)
+- Z87.891 Personal history of nicotine dependence
+
+ASSESSMENT/PLAN:
+1. Acute cough, likely viral URI vs postnasal drip. Supportive care, hydration, OTC dextromethorphan. Return if worsening, fever, or SOB.
+2. Atrial fibrillation - stable, continue anticoagulation and rate control per cardiology, no acute changes today.
+3. Obesity - reinforced diet/exercise counseling.
+4. Tobacco history - patient is a former smoker who quit in 2012; given his age and smoking history, discussed lung cancer screening guidelines in general terms; will defer further workup to PCP/cardiology. Congratulated on sustained cessation.
+
+Follow up with PCP in 1-2 weeks if cough persists, sooner if worsening.

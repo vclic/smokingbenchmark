@@ -1,0 +1,66 @@
+VASCULAR SURGERY PROGRESS NOTE
+Author: Teresa Alvarez, NP
+DOS: 01/16/2026
+
+Patient: Wayne Roberts | M | DOB: 01/16/1969 | Age: 57
+
+CC: PAD f/u, claudication sx
+
+HPI: 57 yo M w/ known PAD, here for routine vasc eval. Pt states "legs cramp up after about 2 blocks, better if I stop and rest." Denies rest pain, denies new ulcers/wounds. c/o mild fatigue, otherwise stable. No chest pain, no SOB at rest. Compliant w/ meds per pt report.
+
+PROBLEM LIST (ICD-10):
+- I73.9 Peripheral vascular disease, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- M10.9 Gout, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- E11.9 Type 2 diabetes mellitus w/o complications
+- K21.9 GERD
+- E66.9 Obesity, unspecified (outdated entry - pt reports wt loss program ongoing)
+- I25.10 CAD (old dx, unclear if still active - carried fwd)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Former smoker
+Smoking status: Quit smoking
+Quit date: 03/2008
+Avg cigs/day (when smoking): ~15 cigs/day (3/4 ppd)
+Smokeless tobacco: Not on file
+Vape/e-cig use: Not on file
+Alcohol use: Quit drinking - 2009
+Drugs: Denies
+Occupation: Retired
+Living situation: Not on file
+
+[COPIED FROM PRIOR NOTE DATED 05/16/2022 - SOCIAL HX AS DOCUMENTED THEN]:
+"Tobacco: former smoker. No current use reported."
+(Note: above section copied forward for continuity, reflects status as of that visit only, not updated w/ current qty/date info.)
+
+ROS: Constitutional - neg fever/chills. CV - denies chest pain/palpitations. Resp - occasional wheeze, stable on current inhaler regimen. GI - occas reflux, controlled w/ PPI. Endo - blood glucose logs reviewed, reasonably controlled. MSK - denies acute gout flare.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, T 98.2F, wt 224 lb, BMI 34.1
+Gen: NAD, obese habitus
+CV: RRR, no m/r/g
+Resp: mild expiratory wheeze b/l, no distress
+Extremities: b/l lower extremity pulses - DP/PT 1+ bilat, faint. Cap refill <3 sec. No ulceration, no edema. Skin intact, mild hair loss noted on shins c/w PAD.
+Skin: no lesions
+
+LABS/STUDIES (reviewed):
+A1c 7.4% (last mo)
+Lipid panel: LDL 118, HDL 38, TG 210
+ABI (last done 11/2025): 0.72 R, 0.68 L - consistent w/ mod PAD
+
+ASSESSMENT/PLAN:
+1. PAD - sx stable, claudication distance unchanged from last visit. Continue cilostazol, ASA 81mg daily. Encourage supervised walking program. D/c'd from vascular lab for repeat ABI in 6 mo.
+2. Tobacco history - pt former smoker, quit 03/2008. Counseled re: continued avoidance, reinforced benefit of cessation on PAD progression. No current tobacco use.
+3. T2DM - A1c improved slightly, continue metformin, f/u endo.
+4. HLD - LDL above goal, will increase statin dose, recheck lipids in 3 mo.
+5. Asthma - stable, continue current inhalers.
+6. Gout - no flares since last visit, continue allopurinol.
+7. GERD - stable on PPI.
+8. Obesity - discussed diet/exercise, referred to nutrition.
+9. Lung ca screening discussed briefly given hx of tobacco use; pt to discuss further w/ PCP.
+
+Return to clinic in 3 months or sooner if worsening claudication, new ulceration, or rest pain. Pt verbalizes understanding of plan.
+
+Electronically signed: Teresa Alvarez, NP
+01/16/2026

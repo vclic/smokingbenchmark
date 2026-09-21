@@ -1,0 +1,68 @@
+GERIATRICS PROGRESS NOTE
+Patient: Terrence Schmidt | DOB: 2/14/1957 | Age: 66 | Sex: M
+Date of Service: 02/14/2023
+Author: Steven Park, MD
+
+CC: Geriatric assessment, medication review, follow up hyperlipidemia and OA.
+
+HPI: Pt presents for annual geriatric assessment. Reports stable joint pain, no new falls. Denies chest pain, dyspnea at rest. Wife accompanies pt today, states he has been more forgetful with pill organizer.
+
+--- COPIED FORWARD FROM VISIT 08/15/2021 (Dr. R. Lin) ---
+Pt is a pleasant 64 yo M here for routine f/u. HTN well controlled on lisinopril. c/o occasional knee pain worse w/ stairs. No SOB no CP. Appetite good, sleep fair. Family hx significant for CAD in father. Pt lives alone, ambulates w/o assistive device. Advised continued home exercise program, f/u in 6 mo.
+--- END COPIED TEXT ---
+
+ROS: Constitutional: no fever no chills no wt loss. Eyes: no visual changes. ENT: no hearing loss no epistaxis. CV: no chest pain no palpitations no edema. Resp: no cough no wheeze no hemoptysis. GI: no nausea no vomiting no abd pain, appetite stable. GU: no dysuria no hematuria. MSK: chronic knee pain as above, no new swelling. Skin: no rash no lesions. Neuro: no focal weakness no numbness, mild forgetfulness reported by spouse. Psych: mood stable, no SI/HI. Endo: no polyuria no polydipsia. Heme: no easy bruising.
+
+SOCIAL HISTORY / TOBACCO USE (templated block):
+Tobacco use status: Current every day smoker
+Type: Cigarettes
+Amount: 1/2 pack per day (approx 10 cigarettes/day)
+Started: 1972
+Packs/day: 0.5
+Quit attempts: discussed, pt not currently ready to quit fully but has agreed to a target quit date
+Quit date set: 03/20/2023
+Counseling provided: Yes - brief cessation counseling given today, pt continues to smoke despite counseling
+Alcohol: occasional, 1-2 drinks/wk
+Drug use: denies
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, Wt 182 lb
+General: well-appearing elderly male, NAD
+HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear
+Neck: supple, no LAD, no thyromegaly
+CV: RRR, no murmur/rub/gallop
+Resp: clear to auscultation bilaterally, no wheeze/rales/rhonchi
+Abd: soft nontender nondistended, normoactive bowel sounds
+MSK: crepitus bilateral knees, mild tenderness medial joint line, no effusion
+Skin: no rashes, no suspicious lesions
+Neuro: alert oriented x3, cranial nerves grossly intact, gait steady
+Psych: mood euthymic, affect appropriate
+
+PROBLEM LIST:
+1. E78.5 - Hyperlipidemia
+2. M19.90 - Osteoarthritis, unspecified site
+3. I10 - Essential hypertension (outdated - resolved per pt, off meds x2 yrs, verify)
+4. Z87.891 - Personal history of nicotine dependence (outdated entry, pt still smoking, needs update)
+5. R41.3 - Mild memory concern, new
+
+MEDICATIONS:
+1. Atorvastatin 40mg PO qHS
+2. Acetaminophen 500mg PO PRN joint pain
+3. Glucosamine/chondroitin OTC supplement
+4. Omeprazole 20mg PO daily
+5. Vitamin D3 2000IU daily
+6. Aspirin 81mg daily
+7. (lisinopril d/c'd per pt report - to reconcile)
+
+ASSESSMENT/PLAN:
+66 yo M with hyperlipidemia and osteoarthritis, ongoing tobacco use.
+1. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 6 mo.
+2. Osteoarthritis - continue acetaminophen PRN, consider PT referal for knee strengthening, ortho f/u if worsens.
+3. Tobacco use - continues to smoke despite counseling today; reviewed general health risks of ongoing smoking; pt agreeable to quit date noted above; nicotine replacement options discussed, pt to consider patch.
+4. Memory concern - will order screening cognitive assessment (MoCA) at next visit, monitor.
+5. HTN - clarify med history, obtain home BP log, consider restart if elevated readings persist.
+6. Health maintenance - influenza vaccine up to date, discussed colonoscopy screening status, will verify records.
+
+Follow up in 3 months or sooner if concerns. Pt verbalizes understanding of plan.
+
+Steven Park, MD

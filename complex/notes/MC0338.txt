@@ -1,0 +1,94 @@
+VASCULAR SURGERY - NP PROGRESS NOTE
+
+Patient: Donald Lopez
+DOB: 5/16/1973 (Age: 53)
+Sex: M
+Date of Service: 06/06/2026
+Author: Quentin Hale, PA-C
+Visit Type: Peripheral Artery Disease Evaluation
+
+CHIEF COMPLAINT: Bilateral calf pain with ambulation, evaluation for PAD.
+
+HPI:
+Mr. Lopez is a 53-year-old male with hx of CKD stage 3 and obesity who presents today for follow up regarding claudication symptoms. He states, "My legs start cramping up after about two blocks, and I have to stop and rest." He denies rest pain, ulceration, or color changes at rest. He reports symptoms have been stable over the last month. He denies chest pain, SOB, or palpitations. He states, "I've never smoked a day in my life, but my wife smokes about a pack a day in the house, so I'm around it a lot." He is concerned about his exposure to secondhand smoke and asks whether this could be contributing to his vascular disease. Denies illicit drug use. Reports poor adherence to home exercise program due to work schedule.
+
+PAST MEDICAL HISTORY: CKD stage 3, obesity, hyperlipidemia (per prior notes).
+
+PAST SURGICAL HISTORY: None on file.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Never smoker - lifelong non-smoker
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Secondhand smoke exposure: Yes - spouse smokes 1 pack/day at home
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Warehouse supervisor
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+FAMILY HISTORY: Father with history of MI at age 60. Mother with type 2 diabetes.
+
+ALLERGIES: NKDA
+
+CURRENT MEDICATIONS:
+1. Atorvastatin 40 mg PO QHS
+2. Aspirin 81 mg PO daily
+3. Cilostazol 100 mg PO BID
+4. Lisinopril 10 mg PO daily
+5. Metformin 500 mg PO BID
+6. Furosemide 20 mg PO daily PRN edema
+7. Vitamin D3 2000 IU PO daily
+8. Fish oil 1000 mg PO daily
+9. Multivitamin PO daily
+10. Sodium bicarbonate 650 mg PO BID (for CKD)
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports mild fatigue.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND. Positive for bilateral calf claudication as above.
+Respiratory: Denies cough, SOB, wheeze.
+Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+Genitourinary: Denies dysuria, hematuria, frequency.
+Musculoskeletal: Denies joint pain other than lower extremity claudication.
+Skin: Denies rashes, ulcerations, non-healing wounds.
+Neurological: Denies numbness, tingling, weakness.
+Psychiatric: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Hematologic/Lymphatic: Denies easy bruising, bleeding.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, SpO2 97% RA, BMI 34.2
+General: Well-appearing, obese male, no acute distress.
+HEENT: Normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: No JVD, no bruits.
+Cardiovascular: RRR, no murmurs, rubs, or gallops. Distal pulses: dorsalis pedis 1+ bilaterally, posterior tibial 1+ bilaterally, femoral 2+ bilaterally.
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales/rhonchi.
+Abdomen: Soft, non-tender, non-distended, no bruits auscultated.
+Extremities: No edema, no ulcers, skin warm and intact, mild hair loss on lower legs noted bilaterally.
+Neurological: Alert and oriented x3, sensation grossly intact.
+Skin: No lesions or ulcerations noted.
+
+ASSESSMENT:
+53-year-old male with peripheral artery disease, CKD stage 3, and obesity presenting with stable bilateral claudication symptoms. Non-smoker, though notable secondhand smoke exposure at home which was discussed with patient today.
+
+PLAN:
+1. Continue cilostazol, aspirin, and atorvastatin as prescribed.
+2. Encourage supervised exercise therapy program for claudication.
+3. Discussed reducing secondhand smoke exposure at home; encouraged patient to discuss smoking cessation resources with spouse.
+4. Continue monitoring renal function given CKD stage 3; recheck BMP at next visit.
+5. Weight management counseling provided; referral to nutrition considered.
+6. Follow up in vascular clinic in 3 months, sooner if symptoms worsen (rest pain, ulceration, discoloration).
+7. Lung cancer screening was briefly discussed given his exposure history; no imaging ordered today.
+
+Electronically signed: Quentin Hale, PA-C
+
+---
+ADDENDUM (later same day, 06/06/2026):
+Patient called back after visit to clarify that he has truly never smoked cigarettes, cigars, vaping products, or any tobacco at any point in his life - he wanted this documented clearly given his concern about vascular risk factors. He reiterated his wife's smoking habit at home (about a pack a day) and stated he is trying to encourage her to smoke outside. No changes to plan at this time. Will continue to monitor.
+
+Quentin Hale, PA-C

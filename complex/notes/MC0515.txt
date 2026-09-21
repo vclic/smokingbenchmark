@@ -1,0 +1,40 @@
+GERIATRICS RESIDENT NOTE
+Patient: Evelyn Murphy | DOB: 1/27/1964 | Age: 59 | Sex: F
+Date of Service: 01/27/2023
+Attending: Anita Patel, MD
+Resident: J. Kim, MD (PGY-2)
+
+CC: Geriatric assessment, f/u multiple chronic conditions.
+
+HPI: Ms. Murphy is a 59 yo woman with h/o osteoarthritis, GERD, COPD, HTN, HLD, and OSA presenting for routine geriatric assessment. She reports her joints are "achy most mornings but manageable with Tylenol." She denies chest pain, states "I get short of breath climbing stairs but that's nothing new." She uses CPAP nightly, reports good adherence. Reflux sx controlled on current regimen.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+Amount: 1 pack per day
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Vaping/e-cigarette use: Occasional
+Alcohol use: Denies
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+Pt notes, "I quit for a while back in 2014 but started up again in 2017 after my sister passed." She continues to smoke despite counseling provided at multiple prior visits regarding cessation. She also reports she "vapes sometimes when I run out of cigarettes."
+
+ROS: Constitutional: no fever, no weight loss. Resp: chronic cough, no hemoptysis. CV: no chest pain, no palpitations. GI: occasional reflux, controlled. GU: no dysuria. MSK: joint stiffness as above. Neuro: no focal deficits. Psych: no SI/HI. All other systems reviewed and negative per template.
+
+PHYSICAL EXAM: VSS, BP 138/82, HR 76, RR 16, SpO2 94% RA. Gen: NAD, well-groomed elderly woman. HEENT: NCAT, PERRLA. Neck: no LAD, no JVD. Lungs: mild expiratory wheeze bilat, no rales. CV: RRR, no m/r/g. Abd: soft, NT/ND. Ext: no edema, mild crepitus bilateral knees. Neuro: A&Ox3, gait steady with cane.
+
+MEDICATIONS: Albuterol MDI PRN, Tiotropium daily, Omeprazole 20mg daily, Lisinopril 10mg daily, Atorvastatin 40mg qhs, Acetaminophen PRN, Vitamin D3 daily, Calcium supplement daily.
+
+ASSESSMENT/PLAN:
+1. COPD - continue bronchodilators, discussed lung cancer screening in general terms; counseled again on smoking cessation given continued smoking despite prior counseling.
+2. OSA - continue CPAP.
+3. HTN/HLD - stable, continue current meds.
+4. OA - continue APAP, PT referral.
+5. GERD - stable on PPI.
+
+Electronically signed by J. Kim, MD; attested by Anita Patel, MD.
+
+ADDENDUM (later same day, A. Patel, MD): Reviewed with resident. Reinforced smoking cessation counseling; patient again acknowledged she continues to smoke 1 ppd despite this. Vaping use also discussed as additional risk. No changes to plan otherwise.

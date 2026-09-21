@@ -1,0 +1,42 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 06/03/2026
+Author: Isaac Moreno, PA-C
+
+Patient: William Wilson, M, DOB 02/11/1975 (age 51)
+
+CC: Establish care.
+
+HPI: Pt presents to establish primary care, hx HFrEF, PAD, CAD, T2DM. Pt states "I just moved here and need a new doctor, my heart stuff has been stable I think." Reports occasional claudication with ambulation, denies chest pain at rest. No recent ER visits. Denies orthopnea currently, does note mild lower extremity swelling by evening.
+
+---[COPIED FORWARD FROM VISIT 11/14/2023, PRIOR CARDIOLOGY NOTE]---
+Pt seen for f/u HFrEF, EF 30% on last echo, on GDMT including carvedilol, lisinopril, spironolactone. PAD managed w/ cilostazol, vascular surgery following. CAD s/p stent 2019 LAD. T2DM on metformin, A1c 7.8 at that time. Pt reports fatigue, denies syncope. Plan: continue meds, f/u 6 months, consider ABI recheck. [inaudible] discussion regarding diet and sodium restriction, pt states he understands but "doesn't always follow it."
+---[END COPIED TEXT]---
+
+ROS: Otherwise negative except as above. Denies fevers, chills, hemoptysis.
+
+PMH: HFrEF, PAD, CAD, T2DM.
+Social Hx: Lives with spouse, works part time, reports prior quit attempt in 2012, relapsed 2015 and has smoked since.
+
+Meds: Carvedilol, lisinopril, spironolactone, cilostazol, metformin, atorvastatin.
+
+Exam:
+Vitals: BP 138/86, HR 78, RR 16, T 98.2F, SpO2 96% RA, Wt 210 lb
+Gen: NAD, alert, cooperative
+CV: RRR, no murmurs, 1+ pitting edema b/l ankles
+Resp: CTAB
+Ext: PAD noted, diminished pulses DP/PT bilaterally, no ulcers
+
+Labs (reviewed, drawn 05/28/2026):
+A1c: 7.6%
+BNP: 410 pg/mL
+Lipid panel: LDL 92, HDL 38, TG 210
+BMP: Cr 1.1, K 4.3, Na 138
+
+Assessment/Plan:
+1. HFrEF - stable on current GDMT, continue, will trend BNP.
+2. PAD - continue cilostazol, vascular f/u as scheduled.
+3. CAD - continue statin, aspirin, monitor lipids.
+4. T2DM - A1c improved slightly, continue metformin, reinforce diet.
+5. Tobacco use - active smoker. Hx notable for smoking 3 packs per day for 21 years, then cutting back to 1.5 packs per day for 9 years, and he continues to smoke at that reduced rate currently. Prior quit in 2012 with relapse in 2015. Advised to quit, counseled on risks given cardiac and vascular disease, discussed lung cancer screening as a topic for consideration at future visit. Pt verbalizes understanding.
+
+F/u 3 months or sooner if symptoms worsen.

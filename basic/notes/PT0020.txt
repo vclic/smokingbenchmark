@@ -1,0 +1,81 @@
+Internal Medicine Progress Note
+
+Patient: TAYLOR, Linda    MRN: 68252886
+DOB: 11/25/1969    Age: 54 y.o.    Sex: Female
+Date of Service: 07/01/2024    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• BP check
+
+Subjective:
+Linda Taylor is a 54 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 130s/90s. Reports good adherence to lisinopril 40 mg daily. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• GERD
+• Hypertension	2023
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2008)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• pantoprazole 40 mg daily
+• lisinopril 40 mg daily
+• chlorthalidone 12.5 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Works as a truck driver.
+  Husband is a smoker (smokes outside).
+  Alcohol: rare.
+  Denies illicit drugs.
+
+Family History
+Mother - rheumatoid arthritis.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 137/86 (BP Location: Left arm, Patient Position: Sitting) | Pulse 95 | Temp 98.6 °F (Oral) | Resp 18 | Ht 5' 8" | Wt 170 lb | SpO2 97% | BMI 25.80 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: CTAB
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (6/28/2024): LDL 103, Cr 0.72, K 4.6, Hgb 12.7
+
+Assessment & Plan
+1. Hypertension
+   Controlled on lisinopril 40 mg daily; no changes.
+2. GERD
+   Trial PPI step-down.
+
+RTC 1 month.
+
+Electronically signed by Rachel Goldberg, MD on 07/01/2024

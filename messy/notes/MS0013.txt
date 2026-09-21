@@ -1,0 +1,61 @@
+PULMONOLOGY H&P - LUNG CA SCREENING SDM VISIT
+DOS: 04/25/2024
+Author: Brian Okonkwo, MD
+
+PT: Loretta Butler, F, DOB 4/25/1968 (age 56)
+
+CC: shared decision-making visit for lung cancer screening d/t tobacco hx, referred from PCP.
+
+HPI: Pt is a 56 yo F who presents today for discussion re: lung ca screening options. She reports occasional dyspnea on exertion, denies hemoptysis, denies wt loss. Reviewed w pt the risks/benefits of screening, discussion held re screening but no CT ordered today, pt to follow up w PCP re: next steps. Pt has hx of asthma, uses albuterol prn, denies recent exacerbations requiring steroids. Also c/o occasional gout flares, last flare approx 3 mo ago, managed w NSAIDs.
+
+PMH (problem list, ICD-10 - some outdated):
+- M10.9 Gout, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia (dz per old note, pt states not on statin currently, unclear if still active)
+- I10 Essential hypertension (per old chart, pt denies dx today, [inaudible] - to clarify w PCP)
+
+SOCIAL HISTORY:
+Alcohol: pt quit drinking etoh in 2000, denies current use.
+Substance use: denies illicit drug use.
+
+TOBACCO USE (SDM/screening template):
+ Smoking status: Current every day smoker
+ Type: cigarettes
+ Amt/day: 1/2 pack (approx 10 cigs) per day
+ Duration: 33 years
+ Quit attempts: pt reports prior attempts, unsuccessful
+ Counseling given: Yes - pt counseled extensively on cessation resources, nicotine replacement, quitline referral offered
+ Pt continues to smoke despite counseling today, states "I know I should stop but its hard."
+
+ROS: Constitutional - denies fever, chills. Resp - occasional wheeze, denies chest pain. GI - denies n/v/d. GU - noncontributory. MSK - occasional joint pain c/w gout hx. All other systems reviewed and negative except as noted above.
+
+MEDS:
+- Albuterol HFA inh prn
+- Allopurinol 300mg daily
+- Naproxen prn flares
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 97% RA, Temp 98.2F, Wt 168 lb
+Gen: well-appearing female, NAD
+HEENT: PERRLA, oropharynx clear
+Neck: no LAD, no thyromegaly
+Lungs: mild expiratory wheeze bilat, no rales/rhonchi, no accessory muscle use
+CV: RRR, no m/r/g
+Abd: soft, nontender, nondistended
+Ext: no edema, no active joint swelling today, prior gout changes noted in great toe per pt report
+Skin: no rash
+Neuro: alert and oriented x3, grossly nonfocal
+
+ASSESSMENT/PLAN:
+56 yo F here for SDM lung ca screening visit given significant tobacco use hx.
+1. Tobacco use - continues to smoke despite counseling, extensive discussion held re: cessation, quitline info provided, encouraged NRT, f/u w PCP. Discussed screening guidelines and shared decision making, pt to decide w PCP re next steps.
+2. Asthma - stable today, continue albuterol prn, reviewed inhaler technique, f/u prn worsening sx.
+3. Gout - stable, continue allopurinol, naproxen prn flares, recheck uric acid at next visit.
+4. Alcohol use - pt reports abstinence since 2000, no current concerns.
+5. HTN/HLD - unclear active status per old problem list, will defer to PCP for clarification, pt denies current tx.
+
+RTC prn or per PCP referral. Pt verbalizes understanding of plan, all questions answered today, [inaudible] discussion continued briefly re insurance coverage for screening but pt to follow up w PCP for further coordination of care.
+
+Electronically signed: Brian Okonkwo, MD 04/25/2024

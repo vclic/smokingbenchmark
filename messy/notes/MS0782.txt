@@ -1,0 +1,90 @@
+ANNUAL WELLNESS VISIT - FAMILY MEDICINE
+Patient: Patricia Robinson | DOB: 03/04/1956 | Age: 70 | Sex: F
+Date of Service: 03/04/2026
+Provider: Michael Dunn, DO
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI:
+Ms. Robinson presents for her annual wellness visit, turning 70 today. She reports feeling generally well aside from some fatigue and occasional joint discomfort. She states, "I feel pretty good most days, just tired by the afternoon." She denies chest pain, hemoptysis, or unintentional weight loss. She notes her CPAP compliance has been "hit or miss lately." Regarding her gout, she says, "My last flare was a couple months ago and it wasn't too bad." No new complaints of joint swelling today. She continues to struggle with weight management despite dietary efforts; she says, "I know I need to lose weight, doctor, but it's hard with my knees hurting."
+
+TOBACCO USE (EHR TEMPLATE - SOCIAL HISTORY):
+Smoking status: Current every day smoker
+Cigarette use: 1.5 packs per day x 50 years
+Smokeless tobacco: Denies
+E-cigarette/vaping: Denies
+Interest in quitting: Ambivalent, states "I've tried before, doesn't stick"
+Counseling provided: Advised to quit smoking; benefits of cessation discussed; brief motivational interviewing performed today.
+
+ALCOHOL USE: Occasional glass of wine, denies excess.
+ILLICIT DRUG USE: Denies.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. E66.9 - Obesity, unspecified
+2. G47.33 - Obstructive sleep apnea (adult)
+3. M10.9 - Gout, unspecified
+4. J45.909 - Asthma, unspecified (resolved per patient, no meds, outdated entry - to review)
+5. M54.5 - Low back pain (chronic, stable)
+6. Z87.891 - Personal history of nicotine dependence (outdated - patient remains active smoker, see HPI)
+
+MEDICATIONS:
+1. Allopurinol 300 mg PO daily
+2. Colchicine 0.6 mg PO PRN flare
+3. Lisinopril 10 mg PO daily
+4. Atorvastatin 20 mg PO qhs
+5. Metformin 500 mg PO BID
+6. Omeprazole 20 mg PO daily PRN
+7. Vitamin D3 2000 IU PO daily
+8. Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats. Reports fatigue as above.
+Eyes: Denies vision changes.
+ENT: Denies sore throat, hearing loss.
+Cardiovascular: Denies chest pain, palpitations, orthopnea.
+Respiratory: Denies dyspnea at rest, denies hemoptysis, occasional morning cough reported.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic low back pain, joint pain in feet intermittently (gout related).
+Skin: Denies rashes, lesions.
+Neuro: Denies headache, dizziness, numbness.
+Psych: Denies depression, anxiety.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 212 lb, Ht 5'4", BMI 36.4
+General: Obese female, well-groomed, no acute distress.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Mild expiratory wheeze noted bilaterally, no rales, no rhonchi. Chest wall symmetric.
+Abdomen: Soft, non-tender, non-distended, obese habitus, bowel sounds normal.
+Extremities: No edema. Mild tenderness at first MTP joint bilaterally, no active swelling today.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly non-focal.
+Psych: Mood and affect appropriate.
+
+LABS/RESULTS:
+CBC (02/20/2026): WBC 6.8, Hgb 13.1, Hct 39.2, Plt 245
+CMP (02/20/2026): Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 118
+HbA1c (02/20/2026): 6.4%
+Uric acid (02/20/2026): 7.8 mg/dL
+Lipid panel (02/20/2026): Total chol 198, LDL 118, HDL 45, TG 175
+TSH (11/15/2025): 2.1 (within normal limits)
+
+ASSESSMENT/PLAN:
+1. Obesity - continue lifestyle counseling, discussed referral to nutrition.
+2. OSA - encourage CPAP compliance, will review sleep study data at next visit.
+3. Gout - continue allopurinol, monitor uric acid, colchicine PRN for flares.
+4. Tobacco use - counseled on cessation resources including quitline and pharmacotherapy options; patient ambivalent today, will revisit at next visit.
+5. Health maintenance - immunizations reviewed and updated as needed, mammogram and colonoscopy status reviewed.
+
+Return to clinic in 3 months or sooner if symptoms arise.
+
+---
+ADDENDUM (same day, 4:45 PM) - Michael Dunn, DO:
+Patient called back after visit to clarify she would like more information on nicotine patches given her ambivalence discussed in office. Advised to schedule follow-up with pharmacy consult. No other changes to plan.

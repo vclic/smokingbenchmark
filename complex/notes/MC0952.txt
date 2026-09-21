@@ -1,0 +1,63 @@
+Vascular Surgery Resident Note (with Attending Attestation)
+Author: Elena Markovic, MD
+Date of Service: 02/19/2025
+
+Patient: Darnell Ramirez, M, DOB 02/19/1963 (age 62)
+
+CC: Follow up peripheral artery disease evaluation, claudication symptoms
+
+HPI: Mr Ramirez is a 62 yo male with hx of CAD, HTN, CKD stage 3, and PAD presenting for routine vascular eval. He reports intermittent bilateral calf pain with ambulation, improved w rest, distance to onset roughly 2 blocks, stable since last visit. No rest pain, no ulcerations, no gangrene noted. Denies fevers chills weight loss. Pt states compliant w meds, following recommended walking program. No new chest pain or SOB. Denies recent falls.
+
+PAST MEDICAL HISTORY: CAD s/p stent 2018, HTN, CKD stage 3 (baseline Cr ~1.6), PAD.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use status: Former smoker
+Cigarettes: 2 packs/day x 15 years
+Quit period: Stopped completely for 4 years
+Relapse: Restarted at 3/4 pack per day (approx 15 cigarettes/day) x 20 years
+Current status: No longer smokes
+Alcohol: occasional, denies illicit drug use
+
+ROS: Constitutional: denies fever, chills, night sweats, unintentional wt loss. Eyes: no visual changes. ENT: no sore throat, no epistaxis. Cardiovascular: denies chest pain, palpitations, orthopnea, PND. Respiratory: denies cough, wheeze, hemoptysis, dyspnea at rest. GI: denies abd pain, nausea, vomiting, diarrhea, constipation, melena. GU: denies dysuria, hematuria, frequency. MSK: reports bilateral calf pain w exertion as above, denies joint swelling. Skin: denies rashes, ulcers, non-healing wounds. Neuro: denies numbness tingling weakness, denies syncope. Psych: denies depression anxiety. Endocrine: denies polyuria polydipsia. Heme/Lymph: denies easy bruising bleeding. All other systems reviewed and negative except as noted above.
+
+MEDICATIONS:
+1. Aspirin 81mg PO daily
+2. Atorvastatin 40mg PO qHS
+3. Metoprolol succinate 50mg PO daily
+4. Lisinopril 20mg PO daily
+5. Clopidogrel 75mg PO daily
+6. Amlodipine 5mg PO daily
+7. Cilostazol 100mg PO BID
+8. Furosemide 20mg PO daily prn edema
+9. Sodium bicarbonate 650mg PO BID
+10. Vitamin D3 1000 IU PO daily
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, Wt 88kg
+General: well appearing, NAD, alert and oriented x3
+HEENT: normocephalic atraumatic, PERRL, EOMI, oropharynx clear
+Neck: no JVD, no carotid bruits appreciated
+Cardiac: RRR, no murmurs rubs or gallops, normal S1S2
+Pulmonary: clear to auscultation bilaterally, no wheezes rales rhonchi
+Abdomen: soft nontender nondistended, no bruits
+Extremities: Bilateral lower extremities with diminished but palpable dorsalis pedis and posterior tibial pulses, no edema, cap refill <3sec, skin intact no ulcers, hair loss noted on lower legs bilaterally
+Neuro: grossly intact, strength 5/5 throughout
+
+LABS/RESULTS:
+CBC (02/10/2025): WBC 6.8, Hgb 13.9, Hct 41.2, Plt 231
+BMP (02/10/2025): Na 139, K 4.4, Cl 102, CO2 24, BUN 28, Cr 1.62, eGFR 45, Glu 101
+Lipid panel (01/15/2025): Total chol 172, LDL 88, HDL 42, TG 150
+ABI (01/28/2025): Right 0.68, Left 0.71 - consistent with mild-moderate PAD
+HbA1c (01/15/2025): 5.7%
+
+ASSESSMENT/PLAN:
+62 yo male w PAD, CAD, HTN, CKD stage 3 here for f/u.
+1. PAD - stable claudication symptoms, continue cilostazol, encourage supervised exercise program, ABI trend stable, will consider further imaging if symptoms progress. Continue antiplatelet therapy.
+2. CAD - stable, continue current cardiac meds, no new symptoms
+3. HTN - well controlled on current regimen, continue monitoring
+4. CKD stage 3 - stable Cr, avoid nephrotoxic agents, recheck BMP in 3 months
+5. Tobacco - patient is former smoker, no longer smokes, reinforced healthy lifestyle counseling; lung cancer screening was discussed with patient in general terms
+6. Return to clinic in 3 months or sooner if symptoms worsen
+
+Attestation: I have personally seen and examined the patient with Dr Markovic, discussed history exam and plan, and agree with the above documentation and plan of care.
+- Attending Physician, Vascular Surgery

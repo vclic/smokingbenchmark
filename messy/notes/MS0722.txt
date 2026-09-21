@@ -1,0 +1,53 @@
+TELEHEALTH VISIT NOTE
+Patient: James Price | DOB: 2/8/1945 (age 80) | Sex: M
+Date of Service: 06/16/2025
+Provider: Steven Park, MD - Family Medicine
+Visit type: Telehealth - med refills
+
+CHIEF COMPLAINT: Med refills, follow-up chronic conditions.
+
+HPI: Pt is an 80 y/o male seen via video visit today for routine refill of chronic meds, states he is 'doin ok' overall, some increase in SOB with exertion but denies chest pain, denies new orthopnea, reports occasional wheeze worse in am, uses albuterol inhaler PRN with some relief - pt reports compliance is 'ok, most days' [inaudible] connection dropped briefly during call, reconnected without issue. No new urinary sx, denies dysuria, some nocturia x2 stable from baseline. GERD sx controlled on current regimen, no new heartburn or regurgitation reported.
+
+PROBLEM LIST:
+- I25.10 Coronary artery disease, native vessel, without angina
+- N40.0 Benign prostatic hyperplasia w/o LUTS
+- J45.909 Asthma, unspecified, uncomplicated
+- E78.5 Hyperlipidemia
+- K21.9 GERD without esophagitis
+- J44.9 COPD, unspecified (outdated entry, dx many yrs ago, may need updating)
+- Z87.891 Personal history of nicotine dependence (see below re: current status)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Smoking status: Active smoker
+Alcohol use: None - quit 2015
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+ROS: Constitutional - no fever, no wt loss. Resp - chronic cough stable, occasional wheeze as above. CV - no CP, no palpitations. GI - no N/V, GERD sx controlled. GU - nocturia x2, stable. All other systems reviewed and negative except as noted in HPI.
+
+VITALS (per home device/reported): BP 138/82, HR 78, RR 16, SpO2 94% on RA (per pt's pulse ox at home), wt stable per pt report.
+
+PHYSICAL EXAM (limited, telehealth - visual only):
+Gen: Alert, NAD, seated comfortably at home, appears stated age.
+Resp: Pt observed breathing without obvious distress on camera, no accessory muscle use noted visually, unable to auscultate via telehealth.
+CV: Unable to auscultate, no visible edema noted on camera when pt raised pant leg.
+Skin: No acute lesions visible.
+(Note: physical exam significantly limited due to telehealth modality, pt advised to seek in-person eval if worsening sx.)
+
+ASSESSMENT/PLAN:
+1. Coronary artery disease - stable, continue current cardiac meds, refilled aspirin and statin today, will recheck lipid panel at next in-person visit.
+2. BPH - sx stable, continue tamsulosin, refill sent to pharmacy.
+3. Asthma/COPD - pt has mixed picture per chart, continuing albuterol PRN and current maintenance inhaler, refilled today, counseled on proper inhaler technique (pt states he thinks he does it right, will review again next visit in person).
+4. Hyperlipidemia - continue statin, refill sent.
+5. GERD - continue PPI, refill sent.
+6. Tobacco use/nicotine dependence - Pt has a 24 pack-year smoking history and remains an active, current everyday smoker. Discussed health risks of continued smoking including impact on COPD/asthma and CAD, discussed smoking cessation resources including counseling and pharmacotherapy options, pt states he is 'not quite ready' to quit at this time but will consider. Lung cancer screening was discussed in general terms as part of counseling for pts w/ significant smoking hx. Pt encouraged to call if he reconsiders cessation aids. Will continue to address at future visits.
+7. Alcohol use - pt reports he quit drinking alcohol in 2015, no current use, no further intervention needed at this time.
+
+Follow-up: RTC in 3 months for in-person visit or sooner if worsening resp sx, chest pain, or other concerns. Pt verbalized understanding of plan, agreeable to above, all questions answered to pt's satisfaction today via telehealth encounter.
+
+Time spent: 20 min telehealth visit, more than half spent on counseling/coordination of care as above.
+
+Electronically signed: Steven Park, MD

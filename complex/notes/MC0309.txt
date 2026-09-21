@@ -1,0 +1,73 @@
+Family Medicine Annual Wellness Visit
+Patient: Charles Brooks | DOB: 6/26/1958 | Age: 66 | Sex: M
+Date of Service: 09/16/2024
+Author: Steven Park, MD (NP progress note)
+
+CC: Annual wellness exam.
+
+HPI: Pt is a 66 yo M w/ hx CAD, gout, T2DM, PAD here for routine annual visit. Reports feeling "pretty good overall, just tired by end of day." No chest pain, no SOB at rest. Denies claudication changes - "legs feel about the same as last year." Gout flares - none since last visit, states "knock on wood, no flares since Feb." Diabetes - checks fingersticks intermittently, admits "I don't always remember to check." No new falls, no vision changes. Appetite stable, sleep fair. Denies chest pain, palpitations, syncope. Denies new skin ulcers on feet, checks feet occasionally per pt report.
+
+ROS: Constitutional - no fever, no wt loss. CV - no chest pain/palp. Resp - no cough, no dyspnea. GI - no abd pain, no n/v. GU - no dysuria. MSK - occ joint stiffness AM, improved w/ movement. Endo - no polyuria/polydipsia currently. Skin - no rashes, no new lesions. All other systems reviewed and negative except as noted above.
+
+PMH:
+- Coronary artery disease
+- Gout
+- Type 2 diabetes mellitus
+- Peripheral artery disease
+
+PSH: none on file.
+
+Meds (per chart, reconciled today):
+- Aspirin 81mg daily
+- Atorvastatin 40mg qhs
+- Metformin 1000mg BID
+- Allopurinol 300mg daily
+- Clopidogrel 75mg daily
+- Metoprolol succinate 50mg daily
+
+Allergies: NKDA.
+
+Social History (EHR templated block):
+Tobacco use: noncontributory
+Alcohol use: Not on file
+Illicit drug use: denies
+Occupation: retired
+Marital status: married
+Living situation: lives w/ spouse
+Exercise: sedentary, occ walks
+Diet: reports "trying to watch sugar intake"
+
+Family History: father - MI in 60s, mother - T2DM, sibling - unknown.
+
+Vitals: BP 138/82, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb, Ht 5'9", BMI 29.2.
+
+Physical Exam:
+Gen: well-appearing, NAD, alert and oriented x3.
+HEENT: NC/AT, PERRL, EOMI, no scleral icterus, oropharynx clear.
+Neck: supple, no LAD, no thyromegaly, no carotid bruits appreciated.
+CV: RRR, no murmurs/rubs/gallops, S1/S2 normal, no JVD.
+Resp: CTAB, no wheezes/rales/rhonchi, normal effort.
+Abd: soft, NT/ND, +BS, no organomegaly.
+Ext: trace bilateral LE edema, DP pulses 1+ bilaterally, no ulcers noted, skin intact, cap refill <3 sec.
+MSK: 1st MTP joints w/o active synovitis bilaterally, ROM full in all major joints.
+Skin: no rashes, no lesions.
+Neuro: CN II-XII grossly intact, sensation intact to light touch bilat feet, gait steady.
+
+Labs (reviewed today, drawn 1 wk prior):
+A1c 7.4%
+Cr 1.1, eGFR >60
+LDL 78
+Uric acid 6.2
+CBC WNL
+
+Assessment/Plan:
+1. CAD - stable, continue ASA, statin, clopidogrel, beta blocker. Cont routine f/u w/ cardiology.
+2. Gout - well controlled on allopurinol, uric acid at goal, no flares since prior visit. Cont current regimen.
+3. T2DM - A1c 7.4%, slightly above goal. Reinforced diet/exercise, cont metformin, encouraged more consistent glucose monitoring. Recheck A1c in 3 mo.
+4. PAD - stable, no claudication progression per pt report. DP pulses palpable, no ulcers. Cont ASA/clopidogrel, f/u vascular surgery as scheduled.
+5. Health maintenance - UTD on immunizations per chart review. Discussed age-appropriate cancer screening topics generally; lung imaging conversation deferred, no specific screening test ordered today given social hx marked noncontributory in chart.
+6. Return to clinic in 3 months or sooner if symptoms worsen.
+
+Pt verbalized understanding of plan, all questions answered today. Follow up scheduled per above.
+
+Electronically signed: Steven Park, MD

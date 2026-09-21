@@ -1,0 +1,81 @@
+Cardiology Clinic Note
+
+Patient: NOVAK, Joyce    MRN: 80397388
+DOB: 08/24/1950    Age: 74 y.o.    Sex: Female
+Date of Service: 07/18/2025    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• AFib follow-up
+
+Subjective:
+Joyce Novak is a 74 y.o. female who presents for atrial fibrillation follow-up.
+Aware of irregular heartbeat at times. Some bruising. She has never smoked.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoporosis
+• Obesity
+• Atrial fibrillation
+• Osteoarthritis
+• Hypertension
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2017)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diltiazem ER 120 mg daily
+• amlodipine 10 mg daily
+• alendronate 70 mg weekly
+• diclofenac 1% gel QID PRN
+• rivaroxaban 20 mg daily
+• fish oil 1 g daily
+• calcium + vitamin D daily
+
+Allergies
+• Latex
+
+Social History
+Social History Narrative
+  Lives with husband and adult son.
+  Retired, former accountant.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 124/84 (BP Location: Left arm, Patient Position: Sitting) | Pulse 65 | Temp 97.4 °F (Oral) | Resp 16 | Ht 5' 7" | Wt 229 lb | SpO2 99% | BMI 35.80 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Obese, soft, nontender
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Labs (June 20, 2025): LDL 103, Cr 0.98, K 4.0
+
+Assessment & Plan
+1. Atrial fibrillation
+   CHA2DS2-VASc 3. Continue anticoagulation and rate control. Zio patch if symptoms increase.
+2. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+3. Hypertension
+   BP at goal; continue current regimen.
+4. Obesity
+   Discussed diet and exercise.
+
+Return in about 3 months (around 10/18/2025).
+
+Electronically signed by Brian Okonkwo, MD on 07/18/2025

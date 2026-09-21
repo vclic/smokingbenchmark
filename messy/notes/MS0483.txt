@@ -1,0 +1,79 @@
+TELEHEALTH VISIT NOTE
+Patient: Joyce Lee | DOB: 1/26/1943 | Age: 80 | Sex: F
+Date of Service: 01/26/2023
+Provider: Teresa Alvarez, NP - Internal Medicine
+Visit type: Telephone/Video follow-up
+
+CHIEF COMPLAINT: Follow-up hypertension and diabetes.
+
+HPI:
+Ms. Lee is an 80-year-old woman with a history of HTN, T2DM, GERD, OA, OSA, CAD, depression, and hypothyroidism who presents via telehealth for routine follow-up. She reports blood sugars running in the 130s-150s fasting per her home glucometer log, and BP averaging 128-138/70-80 on home cuff readings. No chest pain, no palpitations, no dyspnea on exertion beyond her baseline. She denies polyuria, polydipsia. She continues to use her CPAP nightly for OSA, tolerating it reasonably well per bed partner report. Mood is stable on current antidepressant regimen; she denies SI/HI.
+Smoking history reviewed: patient smoked approximately a quarter pack (about 5 cigarettes) per day for 49 years before quitting. She is a former smoker.
+She continues to follow with cardiology for CAD and endocrinology is not currently involved; diabetes managed here.
+
+[COPIED FORWARD FROM VISIT 07/14/2022 - NOTE LEFT IN CHART BY PRIOR STAFF]
+HPI (07/14/2022): Pt here for f/u DM2, HTN. Reports occasional heartburn controlled with omeprazole. Knee pain intermittent, uses acetaminophen PRN. Sleep apnea - CPAP compliance good per download. No new complaints. BP 132/78, HR 74, wt 152 lbs. A1c from 06/2022 was 7.1%. Continue metformin, statin. RTC 3 months.
+ROS (07/14/2022): Constitutional - no fever, no weight loss. CV - no chest pain, no edema. Resp - no cough, no wheeze. GI - occasional reflux. GU - no dysuria. MSK - chronic knee pain stable. Neuro - no focal deficits. Psych - mood stable.
+[END COPIED TEXT]
+
+SOCIAL HISTORY:
+Tobacco: Former smoker; quit date 9/3/2007. Alcohol: denies. Illicit drugs: denies. Lives with daughter, ambulates independently with cane.
+
+PROBLEM LIST:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus without complications
+- K21.9 GERD
+- M19.90 Osteoarthritis, unspecified site
+- G47.33 Obstructive sleep apnea
+- I25.10 Atherosclerotic heart disease of native coronary artery without angina pectoris
+- F32.9 Major depressive disorder, single episode, unspecified (outdated - now recurrent, per pt report, not updated)
+- E03.9 Hypothyroidism, unspecified
+- Z87.891 Personal history of nicotine dependence
+
+REVIEW OF SYSTEMS (templated, all systems reviewed unless noted):
+Constitutional: Denies fever, chills, unintentional weight loss/gain.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies hearing loss, denies sore throat.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND.
+Respiratory: Denies cough, denies shortness of breath, denies wheeze.
+GI: Occasional reflux symptoms controlled with medication, denies nausea/vomiting, denies blood in stool.
+GU: Denies dysuria, denies hematuria.
+Musculoskeletal: Chronic bilateral knee pain, stable, denies acute injury.
+Skin: Denies rash, denies new lesions.
+Neurologic: Denies headache, denies numbness/tingling, denies focal weakness.
+Psychiatric: Mood stable, denies SI/HI, denies anxiety symptoms today.
+Endocrine: Denies polyuria, denies polydipsia, denies heat/cold intolerance.
+
+PHYSICAL EXAM (telehealth, limited):
+General: Alert, well-appearing, no acute distress, seated comfortably at home.
+Vitals (patient-reported/home device): BP 130/76, HR 72, home glucometer readings reviewed.
+Cardiovascular: Unable to auscultate via telehealth; patient denies edema on self-exam.
+Respiratory: No visible respiratory distress, speaking in full sentences.
+Skin: No visible rashes on camera.
+Mental status: Alert, oriented x3, mood/affect appropriate.
+
+MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Atorvastatin 40 mg PO daily
+4. Omeprazole 20 mg PO daily
+5. Levothyroxine 75 mcg PO daily
+6. Sertraline 100 mg PO daily
+7. Aspirin 81 mg PO daily
+8. Acetaminophen 650 mg PO PRN knee pain
+9. Metoprolol succinate 25 mg PO daily
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled on current regimen. Continue lisinopril and metoprolol. Continue home BP monitoring.
+2. Type 2 diabetes mellitus - reasonably controlled per home logs. Recheck A1c prior to next visit. Continue metformin.
+3. GERD - stable on omeprazole, continue.
+4. Osteoarthritis - stable, continue acetaminophen PRN, discussed weight-bearing exercise as tolerated.
+5. OSA - continue CPAP, good compliance reported.
+6. CAD - continue aspirin, statin; follow with cardiology as scheduled.
+7. Depression - mood stable on sertraline, continue, reassess at next visit.
+8. Hypothyroidism - continue levothyroxine, recheck TSH.
+9. Tobacco history - patient is a former smoker, quit 9/3/2007; counseled on continued avoidance of tobacco products. Lung cancer screening was discussed in general terms.
+
+RTC 3 months or sooner if concerns. Telehealth visit conducted with patient's verbal consent, no technical difficulties encountered.
+
+Teresa Alvarez, NP

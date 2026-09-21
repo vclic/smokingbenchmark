@@ -1,0 +1,46 @@
+NURSE INTAKE
+Pt: Gwendolyn King, F, age 66 (DOB 4/19/1957)
+DOS: 4/19/2023
+Visit: hospital discharge f/u after pneumonia, PCP office
+VS: T 98.4 HR 82 BP 128/76 RR 16 SpO2 95% RA
+CC: f/u post d/c pneumonia, cough improving, some fatigue
+Pt reports feeling better since discharge, still some cough productive of thin white sputum. Denies fever, chest pain, SOB at rest. Using incentive spirometer as instructed.
+
+PMH/Problem list (per EHR, some entries outdated):
+- E03.9 Hypothyroidism
+- G47.33 Obstructive sleep apnea (on CPAP, compliance unclear)
+- F32.9 Depression
+- E11.9 Type 2 diabetes mellitus
+- J44.9 COPD
+- J18.9 Pneumonia, resolving (recent hosp)
+- I10 HTN (old, pt states BP controlled without meds now, verify)
+
+Social History: Pt states she smoked on and off for most of her adult life. She is a former smoker, quit smoking 16 years ago. Lives alone, denies current EtOH, no illicit drug use.
+
+Meds reviewed, reconciled from d/c summary. Levothyroxine, metformin, sertraline, albuterol MDI prn, home O2 not required.
+
+---
+PHYSICIAN PROGRESS NOTE - Quentin Hale, PA-C
+
+S: 66 yo F seen today 4/19/2023 for f/u after recent hospitalization for pneumonia. Reports improving cough, decreased fatigue, no fevers no chills. sob mild w exertion only. appetite ok. glucose logs reviewed pt states readings 110-160 fasting.
+
+Smoking hx noted above in social hx - former smoker, quit 16 yrs ago, smoked on and off most of adult life, no current tobacco use.
+
+O: Appears well, NAD. Lungs: mild expiratory wheeze bilat bases, no crackles today (improved from d/c exam). Heart RRR no m/r/g. Extrem no edema. Neck supple, thyroid not enlarged.
+
+Labs reviewed from discharge - CBC wnl, CMP wnl except glucose 142. TSH pending recheck given hypothyroidism, will follow up.
+
+A/P:
+1. Pneumonia, resolving - continue supportive care, f/u CXR in 4-6 wks to confirm resolution.
+2. COPD - continue albuterol prn, discussed inhaled maintenance therapy options given recent pulmonary event, consider spirometry when fully recovered.
+3. Former smoker - counseled on relapse prevention, reinforced benefit of continued abstinence. Discussed general lung health screening topics with pt, no imaging ordered today for that purpose.
+4. T2DM - reasonably controlled, continue metformin, recheck A1c in 3 mo.
+5. Hypothyroidism - continue levothyroxine, recheck TSH in 6 wks.
+6. OSA - continue CPAP, encourage compliance, will address usage data at next visit.
+7. Depression - stable on sertraline, pt denies SI, mood ok.
+
+RTC 4-6 wks or sooner if worsening symptoms. pt verbalizes understanding of plan.
+
+---
+ADDENDUM (later same day, 4/19/2023, Q. Hale PA-C):
+Spoke with pt by phone after visit, she had additional ? about inhaler technique, reviewed proper use of albuterol MDI with spacer over phone, pt verbalized understanding. No new complaints. Will also fax d/c summary to pulmonology for records. no changes to plan above.

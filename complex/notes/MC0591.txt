@@ -1,0 +1,73 @@
+CARDIOLOGY VISIT NOTE
+Date of Service: 08/05/2024
+Patient: John Clark, M, DOB 08/05/1944 (age 80)
+Provider: Nadia Haddad, MD
+
+NURSE INTAKE:
+VS: BP 148/86, HR 78, RR 16, SpO2 96% RA, Wt 82 kg
+CC: chest pain x 2 days, intermittent, exertional
+Allergies: NKDA
+Patient ambulates independently with a cane, denies falls.
+
+HPI:
+Mr. Clark is an 80-year-old male with h/o CKD stage 3 and peripheral artery disease who presents today, 08/05/2024, with intermittent chest pressure over the past two days, worse with exertion, relieved with rest, no radiation to jaw or arm per patient although he states "it kinda goes into my shoulder sometimes, I think, [inaudible]." He denies nausea, diaphoresis, or syncope. He notes he quit smoking right after his stroke and has not touched a cigarette since. He reports mild claudication in his calves unchanged from baseline PAD symptoms.
+
+PMH:
+- CKD stage 3
+- Peripheral artery disease
+- Ischemic stroke (2018)
+- Hypertension
+- Hyperlipidemia
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Former smoker
+Smoking detail: Patient smoked 1.5 packs per day for 33 years, then cut back to three-quarters of a pack (about 15 cigarettes) per day for 18 years before quitting.
+Alcohol: Not on file
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+Cardiovascular: + chest pressure as above, denies palpitations
+Respiratory: denies cough, denies shortness of breath at rest
+GI: denies nausea, vomiting, abdominal pain
+GU: denies dysuria, denies hematuria
+Musculoskeletal: + bilateral calf pain with ambulation, chronic
+Neuro: denies focal weakness, denies numbness, residual mild left-sided weakness from prior stroke, stable
+Skin: denies rash
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+General: alert, oriented x3, no acute distress
+HEENT: normocephalic, atraumatic, PERRLA
+Neck: no JVD, no carotid bruits appreciated
+Cardiac: RRR, no murmurs, rubs, or gallops appreciated, no S3/S4
+Lungs: clear to auscultation bilaterally, no wheezes, no rales
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Extremities: 1+ pitting edema bilateral lower extremities, decreased dorsalis pedis pulses bilaterally consistent with known PAD, no ulcerations
+Neuro: cranial nerves II-XII grossly intact, mild residual left-sided weakness, gait steady with cane
+Skin: warm, dry, intact
+
+MEDICATIONS:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Lisinopril 10 mg daily
+4. Metoprolol succinate 50 mg daily
+5. Clopidogrel 75 mg daily
+6. Cilostazol 100 mg BID
+7. Sodium bicarbonate 650 mg BID for CKD
+8. Furosemide 20 mg daily PRN edema
+9. Vitamin D3 1000 IU daily
+
+ASSESSMENT AND PLAN:
+80-year-old male with CKD stage 3, PAD, prior ischemic stroke (2018), presenting with exertional chest pain concerning for possible angina.
+1. Chest pain - obtain EKG, troponin, consider stress test; risk factors reviewed including his former tobacco use, patient no longer smokes; advised on continued heart-healthy lifestyle.
+2. CKD stage 3 - continue current management, monitor renal function with BMP.
+3. PAD - continue cilostazol and aspirin/clopidogrel, follow up claudication symptoms.
+4. History of ischemic stroke (2018) - stable, continue secondary prevention.
+Follow up in 2 weeks or sooner if symptoms worsen. Patient verbalized understanding of the plan.
+
+Electronically signed: Nadia Haddad, MD

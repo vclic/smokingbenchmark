@@ -1,0 +1,40 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Susan Scott (DOB 3/4/1950)
+DOS: 03/04/2024
+Provider: Kevin Osei, MD
+
+CHIEF COMPLAINT: Med refills, f/u chronic conditions via telehealth.
+
+HPI: Pt is a 74 y.o. female w/ hx OSA, obesity, CAD, CKD stage 3 seen today via video visit for routine refills. Pt states "I'm doing okay, just need my pills renewed, doc." She denies CP, palpitations, worsening dyspnea on exertion. Reports using CPAP nightly, "most nights I wear it, maybe skip once a week." No new edema, no orthopnea. She notes some fatigue but attributes this to poor sleep 2/2 [inaudible] neighbor's dog barking at night, this has been going on for several weeks per pt report and she feels it is affecting her daytime energy, she also mentions she has been trying to walk more but its hard w/ her knees achin. No chest pain, no syncope, no near-syncope. Denies fevers/chills. Appetite stable, denies significant weight change.
+
+PAST MEDICAL HISTORY: OSA on CPAP, obesity, CAD s/p stent (per prior notes), CKD stage 3 (baseline Cr ~1.6).
+
+SOCIAL HISTORY: She is a former smoker. Smoking history is notable - pt smoked a quarter pack (about 5 cigarettes) per day for 25 years, then stopped completely for 6 years, then restarted at a quarter pack (about 5 cigarettes) per day for 24 years before quitting for good. She quit smoking in 2021. Denies current tobacco, e-cigs, or vaping. Denies illicit drug use. Rare EtOH, social only.
+
+MEDICATIONS: Metoprolol succinate 50mg daily, atorvastatin 40mg qhs, aspirin 81mg daily, lisinopril 10mg daily (renal dosing reviewed given CKD3), CPAP nightly.
+
+ALLERGIES: NKDA.
+
+ROS: Constitutional - fatigue as above, denies fever. CV - denies CP, palpitations, edema. Resp - denies cough, wheeze, denies SOB at rest. GI - denies N/V/D, denies abd pain. GU - denies dysuria, denies hematuria. MSK - chronic knee discomfort, stable. Neuro - denies HA, denies focal weakness. Psych - denies depression, denies anxiety.
+
+OBJECTIVE (telehealth, no vitals obtained in-person, pt reports home BP log):
+Home BP log reviewed - averages around 128/76 per pt report, HR by pt's own pulse ox reads 70s.
+Gen: Pt appears comfortable on camera, conversant, no acute distress noted on video.
+No physical exam performed given telehealth format; visual inspection only, pt appears well.
+
+LABS: Last BMP (2/2024) - Cr 1.5, eGFR 38, K 4.4, otherwise unremarkable. Lipid panel from 1/2024 - LDL 88, HDL 42, TG 140.
+
+ASSESSMENT/PLAN:
+1. OSA - continue CPAP, adherence reportedly good, will pull compliance data at next in-person visit.
+2. Obesity - counseled on diet/exercise, discussed low-impact activity given knee pain.
+3. CAD - stable, continue current regimen, no anginal sx today.
+4. CKD stage 3 - stable renal fx, will recheck BMP in 3 months, renally dose meds as above.
+5. Tobacco - former smoker, quit in 2021; reinforced continued abstinence, praised pt for cessation, no current counseling needed as she remains quit.
+6. Refills sent to pharmacy of record for all above meds.
+7. RTC in 3 months or sooner if sx worsen; pt instructed to call if CP, SOB, or edema develop.
+
+Telehealth visit conducted per standard consent, pt agreeable to plan, verbalized understanding, no further questions at this time [inaudible] end of call.
+
+---
+ADDENDUM (later same day, 03/04/2024, K. Osei MD):
+After visit, reviewed pt's pharmacy refill hx and confirmed no gaps in CAD or CKD meds over past 6 months. Called pt back briefly to clarify CPAP mask fit issue she mentioned in passing; she reports mask leaks occasionally overnight, will refer to DME company for refit. No change to plan otherwise. Pt again confirmed she has not smoked since quitting in 2021 and denies any interest in resuming. Discussed general age-appropriate health maintenance including immunizations, pt due for updated pneumococcal vaccine, will schedule at next visit. No further addenda at this time.

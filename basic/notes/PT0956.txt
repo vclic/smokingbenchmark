@@ -1,0 +1,54 @@
+Adult Medicine Clinic Note
+Date of Service: 4/27/2026
+Patient: Maria Barnes   DOB: 6/13/1970   MRN: 97082468
+
+S:
+CC: Right knee pain
+HPI: Mrs. Barnes is a 55-year-old female with a history of obesity, T2DM, HLD, and HTN who presents for right knee pain. Right knee pain for 3 months, worse with activity. No numbness or weakness. Ibuprofen with partial relief.
+
+PMH:
+- Mixed hyperlipidemia
+- T2DM without complication
+- Hypertension
+- Obesity
+Meds: rosuvastatin 10 mg daily; empagliflozin 10 mg daily; losartan 50 mg daily; metformin 1000 mg BID; amlodipine 5 mg daily
+Allergies: Sulfa drugs
+SH: Lives alone in an apartment. Works as a mechanic. No alcohol. Exercise: walks daily.
+FH: Father - AAA repair.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 144/70  HR: 87  RR: 14  Temp: 98.2 F  SpO2: 95% on RA  Wt: 200 lbs  BMI: 36.5
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  MSK: R knee: mild effusion, medial joint line tenderness, crepitus with ROM, ligaments stable
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Right knee pain
+   - Knee OA. X-ray ordered. PT referral, topical diclofenac. Consider steroid injection.
+2. Hx tobacco use
+   - x 15 yrs, quit 19 yrs ago. Not a candidate for LCS at this time. Congratulated on remaining smoke-free.
+3. Hypertension: Above goal today; recheck at next visit, reinforce low-sodium diet.
+4. T2DM without complication
+   - Continue metformin. Foot exam today normal.
+5. Mixed hyperlipidemia
+   - Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 3 months (around 7/27/2026).
+
+Rachel Goldberg, MD

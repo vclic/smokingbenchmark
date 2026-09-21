@@ -1,0 +1,84 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Patricia Williams (F) DOB: 08/08/1973 (age 51)
+DOS: 08/08/2024
+Visit type: New Patient - Establish Care, Primary Care
+Author: Rachel Goldberg, MD (resident); attending co-signature below
+
+CC: Establish care, review of chronic conditions (HTN, GERD)
+
+HPI: Ms Williams is a 51 y/o F presenting to establish care w/ our practice after relocating. Pt reports h/o hypertension and GERD, both previously managed by outside PCP; records not yet available, pt to sign release. She denies chest pain, palpitations, SOB at rest, orthopnea, PND, LE edema. GERD sx well-controlled on OTC PPI, occasional postprandial burning, no dysphagia, no wt loss, no melena/hematemesis. No new complaints today. Reviewed old chart note dtd 2/8/2021 (scanned from prior clinic) for baseline hx - see below.
+
+Copied from note dated 2/8/2021 (prior clinic, imported for reference): "Smoking status: former smoker." No further quantitative detail provided in that historical note.
+
+Social Hx (updated today, pt interview): EHR auto-populated field reads "Smoking status: Never Smoker" — this is INCORRECT per today's interview, pt corrected this and full history obtained below. Pt reports smoked 1.5 packs per day for 7 years, then cut back to half a pack (about 10 cigarettes) per day for 10 years, then increased somewhat to three-quarters of a pack (about 15 cigarettes) per day for 7 years, after which she quit entirely. She states she no longer smokes and has not resumed. No dates of quitting given/discussed today. Denies current use of e-cigs, vape, or other tobacco/nicotine products. Denies illicit drug use. Occasional ETOH, ~1-2 glasses wine/wk. Lives w/ spouse, works as admin assistant, exercises 2x/wk walking.
+
+ROS (templated, reviewed w/ pt, all other systems negative unless noted):
+Constitutional: no fever, chills, night sweats, unintentional wt loss/gain
+Eyes: no visual changes, no eye pain
+ENT: no hearing loss, no sore throat
+Cardiovascular: no chest pain, no palpitations, no edema (see HPI)
+Respiratory: no cough, no wheeze, no hemoptysis, no dyspnea on exertion
+GI: occasional reflux (see HPI), no nausea/vomiting, no diarrhea/constipation, no blood in stool
+GU: no dysuria, no hematuria, no urinary frequency
+Musculoskeletal: no joint pain, no muscle weakness
+Skin: no rash, no new lesions
+Neuro: no HA, no dizziness, no numbness/tingling
+Psych: no depression, no anxiety sx reported
+Endocrine: no polyuria, no polydipsia
+Heme/Lymph: no easy bruising, no lymphadenopathy
+Allergic/Immunologic: no seasonal allergies reported
+
+PMH: Hypertension (dx ~10 yrs ago per pt report), GERD
+PSH: Cholecystectomy 2010
+FH: Mother - HTN, DM2; Father - CAD, deceased age 72; no known FH of lung cancer
+Social hx: see above
+Allergies: NKDA
+
+Medications (per pt report, to reconcile):
+1. Lisinopril 20mg PO daily
+2. Amlodipine 5mg PO daily
+3. Omeprazole 20mg PO daily
+4. Hydrochlorothiazide 12.5mg PO daily
+5. Multivitamin PO daily
+6. Calcium + Vit D supplement PO daily
+7. Ibuprofen 200mg PO PRN for joint aches
+8. Melatonin 3mg PO qhs PRN sleep
+9. Fish oil 1000mg PO daily
+10. Loratadine 10mg PO PRN seasonal allergies
+
+Vitals: BP 138/86 (repeat 134/84), HR 78, RR 16, Temp 98.2F, SpO2 98% RA, Wt 168 lb, Ht 5'5", BMI 27.9
+
+Physical Exam:
+General: well-appearing female, NAD, alert and cooperative
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly
+Neck: supple, no JVD, no lymphadenopathy
+CV: RRR, no murmurs/rubs/gallops, normal S1/S2, distal pulses 2+ bilaterally
+Resp: lungs clear to auscultation bilaterally, no wheezes/rales/rhonchi, no accessory muscle use, no clubbing
+Abd: soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly
+Ext: no edema, no cyanosis, no clubbing
+Skin: warm dry intact, no rashes or suspicious lesions noted
+Neuro: A&Ox3, CN II-XII grossly intact, motor 5/5 all extremities, sensation intact
+Psych: mood/affect appropriate
+
+Labs/Results (reviewed today):
+CBC (08/08/2024): WBC 6.1, Hgb 13.4, Hct 40.2, Plt 245
+CMP (08/08/2024): Na 140, K 4.2, Cl 102, CO2 25, BUN 14, Cr 0.8, Glucose 94
+Lipid panel (08/08/2024): Total chol 198, LDL 118, HDL 54, TG 130
+HbA1c (08/08/2024): 5.6%
+TSH (08/08/2024): 2.1 (WNL)
+Urinalysis (08/08/2024): unremarkable
+EKG (08/08/2024): NSR, no acute ST-T changes
+
+Assessment/Plan:
+1. Hypertension - stable, controlled on current regimen. Continue lisinopril, amlodipine, HCTZ. Recheck BP in 1 mo, home BP log encouraged. Low-sodium diet reinforced.
+2. GERD - stable on omeprazole. Continue current dose, lifestyle modification counseling given (avoid late meals, elevate HOB).
+3. Tobacco history - corrected inaccurate "Never Smoker" field in chart; pt has significant hx of tobacco use across three periods as documented above and reports she is not currently smoking. Discussed general health benefits of continued abstinence and encouraged ongoing avoidance of relapse.
+4. Health maintenance - due for mammogram, colonoscopy screening; will order. Pap smear up to date per pt report. Vaccinations reviewed, pt due for influenza vaccine, offered today.
+5. Labs reviewed as above, all essentially unremarkable, HbA1c and lipids reassuring.
+
+F/u in 1 month for BP recheck, sooner if symptoms.
+
+Electronically signed: Rachel Goldberg, MD (Resident)
+
+ATTESTATION: I have personally reviewed and examined the patient with the resident and discussed the assessment and plan. I agree with the findings and plan as documented above.
+— Attending Physician co-signature on file

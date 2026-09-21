@@ -1,0 +1,46 @@
+Pre-operative Evaluation - Internal Medicine
+Patient: Diane Green, F, age 70 (DOB 1/19/1954)
+Date of Service: 03/26/2024
+Provider: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/82, HR 74, RR 16, Temp 98.2F, SpO2 97% RA, Wt 168 lb, Ht 65in
+Pt here for pre-op eval s/p ortho referral for right TKA. Denies CP, SOB today. Ambulates w/ cane 2/2 knee pain. Hx CKD stage 3, OA both knees > right.
+
+Social Hx (copied from note dated 4/26/2022): Former smoker. Social ETOH. Lives w/ spouse. No illicit drug use.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: 70 yo F w/ hx OA, CKD stage 3 presents for pre-op medical clearance prior to right total knee arthroplasty scheduled with Dr. Patel. Pt reports chronic right knee pain, worsening over past yr, failed conservative mgmt (PT, NSAIDs, intra-articular injections). No recent falls. No chest pain, no orthopnea, no PND. Denies fevers/chills. Appetite stable. Reports occasional nocturia x2.
+
+ROS: Constitutional - neg for wt loss/fever. CV - neg for CP/palpitations. Resp - neg for cough/dyspnea. GU - nocturia as above. MSK - chronic bilat knee pain, right > left, limiting ambulation. All other systems reviewed and negative.
+
+PMH: OA, CKD stage 3, HTN, hyperlipidemia (per chart, stable on current meds).
+
+Meds: Lisinopril 10mg daily, atorvastatin 20mg qhs, acetaminophen PRN, occasional tramadol for breakthrough knee pain.
+
+Allergies: NKDA.
+
+Physical Exam: NAD, well-appearing elderly F. Lungs CTAB, no wheezes/rales. CV RRR, no m/r/g. Abd soft, NT/ND. Ext: right knee w/ crepitus, decreased ROM, mild effusion, no erythema. No calf tenderness. Skin intact.
+
+Labs reviewed: Cr 1.4 (baseline), eGFR 42, K 4.3, Hgb 12.8, plt 245. UA unremarkable. EKG NSR, no acute changes.
+
+Problem List:
+- M17.11 Unilateral primary osteoarthritis, right knee
+- N18.3 Chronic kidney disease, stage 3
+- I10 Essential hypertension
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence
+- J45.909 Asthma, unspecified (outdated - no longer active per pt, dx in childhood, not treated in yrs)
+
+Assessment/Plan:
+70 yo F, DOS 3/26/2024, pre-op for right TKA. Cleared from cardiopulmonary standpoint pending final anesthesia review. CKD stage 3 stable, will hold ACE-I morning of surgery per anesthesia protocol. Smoking history reviewed in detail: pt reports smoking about three-quarters of a pack (approx 15 cigarettes) per day for 25 years, then cut down to half a pack (approx 10 cigarettes) per day for an additional 15 years before quitting entirely. Patient quit smoking in 2017 and has remained smoke-free since. Counseled on continued avoidance of tobacco.
+Plan:
+1. Medically clear for right TKA pending anesthesia clearance.
+2. Continue home meds, hold lisinopril day of surgery.
+3. Monitor renal function post-op given CKD stage 3.
+4. F/u post-op as scheduled by ortho.
+5. Reinforce smoking cessation maintenance; pt doing well, no relapse reported.
+
+--- ADDENDUM (later same day, 03/26/2024, 4:45pm) ---
+Spoke with pt by phone re: labs, reassured re: stable Cr. Pt confirmed no interval change in smoking status - remains quit since 2017. No new symptoms reported. Will proceed as above.
+Daniel Reyes, MD

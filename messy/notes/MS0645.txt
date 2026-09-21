@@ -1,0 +1,61 @@
+HOSPITAL D/C FOLLOW-UP - PRIMARY CARE
+Date of Service: 07/22/2024
+Author: Steven Park, MD (NP progress note, co-signed)
+
+Patient: Rosa Jackson  DOB: 02/03/1971  Age: 53
+MRN: on file
+
+CC: f/u s/p pneumonia hospitalization, discharged last wk.
+
+HPI: 53 y/o woman w/ hx PAD, GERD, obesity, asthma, afib, CAD p/w f/u after recent admit for community-acquired pna. Pt states she is feeling 'a lot better' since d/c, cough improving, some residual fatigue. Denies fever, chills, chest pain at rest. Sats improved per home pulse ox pt reports 95-97%. She endorses mild SOB w exertion, ongoing - [inaudible] - especially climbing stairs to her apartment which is on the third floor no elevator. Meds reviewed she's taking the amoxicillin-clavulanate as prescribed will finish course tomorrow, also her albuterol inhaler prn and her eliquis for the afib she has not missed any doses she says.
+
+ROS: Otherwise negative except as above. No hemoptysis no night sweats no unintentional weight loss.
+
+=== SOCIAL HISTORY (templated block) ===
+Tobacco use: See note below
+Alcohol use: occasional, denies excess
+Illicit drug use: Not on file
+Occupation: retired
+Living situation: lives alone, 3rd floor walk-up
+Exercise: limited due to SOB
+Diet: 
+Caffeine: 1 cup coffee/day
+===============================
+
+Tobacco: Pt reports she tried a few cigarettes as a teenager but never smoked regularly, no current or established past regular tobacco use. Discussed general lung health given h/o pneumonia and cardiopulmonary comorbidities.
+
+[COPIED FORWARD FROM VISIT 11/14/2022 - PCP ANNUAL WELLNESS EXAM - please disregard outdated items]
+Pt is a 51 y.o. female here for annual wellness visit. PMH significant for PAD dx 2019, GERD, obesity (BMI 34), asthma since childhood, afib on eliquis, CAD s/p stent 2018 LAD. Review of systems largely unremarkable. Vitals stable BP 128/78 HR 76 irregular. Labs from that visit: A1c 5.8, lipid panel LDL 118 HDL 42 TG 150, CMP wnl. Immunizations up to date at that time flu shot given. Plan from 2022 note: continue current meds, f/u in 1 year, colonoscopy due, mammogram due. [END COPIED TEXT]
+
+PMH (current, reconciled): PAD, GERD, obesity, asthma, atrial fibrillation, CAD.
+
+PSH: cardiac stent placement as above, no other surgeries on file.
+
+Meds: Eliquis 5mg BID, omeprazole 20mg daily, albuterol HFA prn, fluticasone/salmeterol inhaler daily, atorvastatin 40mg qhs, amoxicillin-clavulanate 875mg BID (finishing course), metoprolol succinate 50mg daily.
+
+Allergies: NKDA.
+
+Vitals today: T 98.4F, HR 82 irreg, BP 132/80, RR 18, SpO2 96% RA, Wt 202 lb, BMI 33.9.
+
+Physical Exam:
+Gen: NAD, well-appearing, conversant.
+HEENT: MMM, no LAD.
+CV: irregularly irregular rhythm, no murmur appreciated, no JVD.
+Resp: mild bibasilar crackles improved from d/c summary, no wheeze currently, good air movement bilat.
+Abd: soft, NT/ND, obese habitus, nl bowel sounds.
+Ext: trace edema b/l, PAD-related skin changes noted on lower extremities, no ulceration, pulses diminished dp/pt bilaterally but palpable, cap refill <3 sec.
+Skin: no rash.
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue current abx to complete course, f/u CXR in 6 wks to confirm resolution, return precautions reviewed pt verbalizes understanding.
+2. Asthma - stable, continue inhalers, discussed technique, refill given.
+3. PAD - continue current regimen, ABI stable per vascular last seen 6 mo ago, encourage walking as tolerated.
+4. GERD - continue omeprazole, dietary review given re: reflux triggers spicy food late meals etc.
+5. Obesity - discussed diet/exercise, referral to nutrition offered pt declined at this time will reconsider.
+6. Atrial fibrillation - rate controlled on metoprolol, continue eliquis for anticoagulation, no bleeding events reported.
+7. CAD - stable, continue statin and antiplatelet regimen per cardiology.
+8. Health maintenance - tobacco history reviewed as above (occasional teenage experimentation only, no regular use), discussed general pulmonary health, colon ca screening and mammogram status to be verified with records, vaccines UTD will confirm pneumococcal status.
+
+F/u: 2 wks for repeat exam and to reassess respiratory status, sooner if worsening symptoms. Pt verbalizes agreement with plan, all questions answered today.
+
+Electronically signed: Steven Park, MD 07/22/2024

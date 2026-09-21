@@ -1,0 +1,40 @@
+Adult Medicine Clinic Note
+Date of Service: 10/10/2023
+Patient: John Ross   DOB: 12/21/1965   MRN: 94842095
+
+S:
+CC: BP check
+HPI: Mr. Ross is a 57-year-old male with a history of HLD and HTN who presents for follow-up of hypertension. Home BP readings mostly in the 140s/90s. Reports good adherence to lisinopril 20 mg daily. Denies headaches, chest pain, dyspnea, or vision changes.
+
+PMH: HTN, Hypercholesterolemia
+PSH: Appendectomy (2011)
+Meds: lisinopril 20 mg daily; atorvastatin 40 mg daily
+Allergies: NKDA
+SH: Lives with wife in a single-family home. Works as an office manager. Switched to vaping when he quit cigarettes; currently vapes daily. Quit drinking in 2003. No IVDU.
+FH: Noncontributory.
+ROS: GU neg, CV neg, Resp neg, MSK neg, Skin neg, Gen neg, Neuro neg
+
+OBJECTIVE:
+Vitals: BP: 136/93  HR: 64  RR: 12  Temp: 98.5 F  SpO2: 99% on RA  Wt: 197 lbs  BMI: 26.0
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: Clear to auscultation bilaterally
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+Labs (16-Sep-2023): LDL 119, Cr 0.96, K 4.7, Hgb 12.0
+
+A/P:
+1. Hypertension
+   - Above goal; increase lisinopril dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Personal history of nicotine dependence: Smoking hx: 12 pk-yr, tob-free since 2005. Does not meet LCS criteria. No relapse.
+3. Hypercholesterolemia
+   - LDL at goal on last check; continue.
+
+Return in about 3 months (around 1/10/2024).
+
+Electronically signed by Anita Patel, MD on 10/11/2023 at 11:14

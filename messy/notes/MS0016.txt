@@ -1,0 +1,48 @@
+NP New Patient Progress Note
+Author: Hannah Weiss, NP
+DOS: 03/22/2023
+Patient: Edward Perez, M, DOB 1/21/1955, age 68
+
+CC: Establish care, PCP transfer.
+
+HPI: 68 yo M presents to establish care. Multiple chronic issues per pt report, records requested from prior PCP not yet received. Denies chest pain, denies SOB at rest, +occasional dyspnea on exertion x mild. Former smoker, 41 pack-year smoking history, quit smoking in 2012. No current tobacco use. Denies EtOH excess, denies illicit drug use. Diet - reports poor adherence to low-Na/low-sugar diet. Meds partially reconciled today, pt to bring bottles next visit.
+
+ROS: Constitutional - denies fever/chills. CV - denies palpitations today (known hx AFib). Resp - denies cough/hemoptysis. GI - denies n/v/d. Psych - endorses low mood, stable on current tx.
+
+PMH/Problem List:
+- Obesity (E66.9)
+- Essential HTN (I10)
+- Hyperlipidemia (E78.5)
+- Atrial fibrillation (I48.91) - on anticoagulation per pt, needs verification
+- Type 2 DM (E11.9) - last A1c unknown, outdated note from 2019 refers to "diet-controlled," pt states now on metformin
+- Depression (F32.9) - stable
+- Former tobacco use (Z87.891)
+
+Meds (per pt, unverified): metformin, lisinopril, atorvastatin, apixaban(?), sertraline - reconciliation pending.
+
+Allergies: NKDA.
+
+Vitals: BP 148/86, HR 78 irreg irreg, RR 16, Wt 238 lb, BMI 34.
+
+Exam:
+Gen - obese male, NAD.
+CV - irregularly irregular rhythm, no m/r/g appreciated.
+Resp - CTAB, no wheeze/rales.
+Abd - soft, NT/ND, obese habitus.
+Ext - no edema.
+Psych - mood euthymic, affect appropriate.
+
+A/P:
+1. Obesity - counsel diet/exercise, consider referral nutrition.
+2. HTN - BP elevated today, continue lisinopril, recheck.
+3. HLD - continue statin, check lipid panel.
+4. AFib - verify anticoag regimen, EKG today, cards f/u.
+5. T2DM - obtain A1c, CMP, reconcile meds.
+6. Depression - continue sertraline, PHQ-9 today.
+7. Former smoker - counseled on continued abstinence, low-dose CT lung screening discussed as an option to consider with patient.
+
+Labs ordered: CBC, CMP, A1c, lipid panel, TSH.
+EKG done in office, pending read.
+RTC 4 wks or sooner if sx worsen.
+
+--Hannah Weiss, NP

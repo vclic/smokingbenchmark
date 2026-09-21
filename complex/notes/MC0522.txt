@@ -1,0 +1,52 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 01/21/2026
+Author: Brian Okonkwo, MD
+Patient: Larry Carter | DOB: 01/21/1976 | Age: 50 | Sex: M
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule.
+
+HPI: Mr. Carter is a 50-year-old man seen today for follow-up of an incidentally noted lung nodule found on prior imaging. He reports no new cough, hemoptysis, or weight loss. He states, "I feel about the same, maybe a bit more short of breath when I climb stairs." Regarding tobacco use, he reports a smoking history in three stretches: approximately three-quarters of a pack (about 15 cigarettes) per day for 7 years, followed by a quarter pack (about 5 cigarettes) per day for 10 years, followed by half a pack (about 10 cigarettes) per day for 7 years before quitting. He states he quit smoking 7 years ago. He adds, "I haven't touched a cigarette since I quit, doc, and I don't plan to start again." He also reports smoking marijuana a few times a month for relaxation, which he says helps with joint pain from his osteoarthritis.
+
+He continues to use albuterol PRN for asthma/COPD symptoms and reports occasional wheeze with exertion. No fevers, chills, or chest pain. Denies orthopnea or PND.
+
+PAST MEDICAL HISTORY:
+- Asthma
+- Obesity
+- Osteoarthritis
+- COPD
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: See HPI for details.
+Smoking status: Former smoker.
+Alcohol use: None currently; quit drinking alcohol in 2003.
+Drug use: Marijuana - occasional, per HPI.
+Occupation: Not on file.
+Living situation: Not on file.
+Exercise: Not on file.
+
+[Copied from note dated 6/21/2024]: "Smoking status: former smoker." No quantities documented in that prior note.
+
+REVIEW OF SYSTEMS: Positive for mild exertional dyspnea. Negative for fever, chest pain, hemoptysis, unintentional weight loss, night sweats.
+
+PHYSICAL EXAM:
+Vitals: BP 132/84, HR 78, RR 16, SpO2 96% RA, BMI 34.
+General: Well-appearing, no acute distress.
+Lungs: Mild expiratory wheeze bilaterally, no crackles.
+CV: Regular rate and rhythm, no murmurs.
+Extremities: No clubbing, cyanosis, or edema. Mild crepitus in bilateral knees consistent with known osteoarthritis.
+
+LABS/IMAGING: Chest CT reviewed - stable 6mm nodule in right upper lobe, unchanged from prior study. No new lesions identified.
+
+ASSESSMENT/PLAN:
+1. Incidental pulmonary nodule - stable on imaging. Given patient's smoking history as detailed above and history of COPD, lung cancer screening was discussed with the patient, including risks and benefits of further surveillance. Will continue routine follow-up imaging per radiology recommendations.
+2. COPD - stable today, continue current inhaler regimen, discussed avoidance of secondhand smoke and other irritants.
+3. Asthma - well controlled, continue albuterol PRN.
+4. Obesity - discussed diet and exercise, referred to nutrition.
+5. Osteoarthritis - stable, continue conservative management; discussed reducing marijuana use given unclear long-term pulmonary effects.
+6. Tobacco cessation - patient has remained abstinent since quitting; reinforced importance of continued abstinence.
+
+Return to clinic in 6 months or sooner if symptoms worsen.
+
+___
+
+ADDENDUM (same day, 4:45 PM): Patient called clinic after visit to clarify that he has not used any other tobacco products since quitting cigarettes 7 years ago, including no cigars or e-cigarettes. This was documented per his request. No changes to plan.

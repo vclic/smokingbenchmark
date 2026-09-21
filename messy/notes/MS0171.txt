@@ -1,0 +1,60 @@
+CARDIOLOGY VISIT NOTE
+Patient: Deborah Gonzales
+DOB: 01/05/1954 (Age 69)
+Date of Service: 01/05/2023
+Provider: Michael Dunn, DO
+
+--- NURSE INTAKE ---
+Vitals: BP 148/86, HR 92, RR 20, SpO2 93% RA, Wt 231 lb, Ht 5'4"
+Chief complaint: "My legs are swelling up again and I get winded just walking to the mailbox."
+Allergies: NKDA
+Meds reconciled: furosemide 40mg daily, lisinopril 20mg daily, albuterol PRN, CPAP nightly.
+Pt states she is 69 years old today (DOB 1/5/1954), here for HF follow-up.
+
+--- HPI ---
+Ms. Gonzales is a 69-year-old female with history of HFrEF, asthma, OSA, obesity, and HTN who presents for routine heart failure follow-up on 01/05/2023. She reports worsening bilateral lower extremity edema over the past 2 weeks along with increased dyspnea on exertion. She denies orthopnea beyond her usual 2-pillow baseline. "I've been more tired than usual, and my rings don't fit anymore," she reports. She admits to occasional dietary indiscretion over the holidays. No chest pain, no palpitations, no syncope.
+
+Regarding tobacco use, patient reports she smokes 2 packs of cigarettes per day and has done so for 48 years. She continues to smoke cigarettes currently and has not attempted to quit despite prior counseling. She was advised again today to quit smoking, and cessation resources including nicotine replacement and counseling referral were discussed.
+
+--- SOCIAL HISTORY (copied forward from visit 06/14/2021, retained in chart) ---
+Social History as of 06/14/2021: Patient lives with husband in single-story home, denies alcohol use, denies illicit drug use. Works part-time as a seamstress. Ambulates with cane at baseline due to knee OA. Denies falls in past year. Reports adequate social support. Diet reviewed - low sodium diet encouraged given CHF history. Exercise tolerance limited by dyspnea and obesity, uses stationary bike 2x/week per pt report. [Note: some of this information may be outdated and should be reverified at next visit - MD]
+
+--- REVIEW OF SYSTEMS ---
+Constitutional: denies fever, chills, weight loss (reports weight gain 4 lb over 2 weeks)
+Respiratory: dyspnea on exertion, occasional wheeze, uses albuterol inhaler more frequently this week
+Cardiovascular: bilateral LE edema, denies chest pain
+GI: denies nausea, vomiting, abdominal pain
+GU: denies dysuria
+MSK: chronic knee pain, stable
+Neuro: denies headache, dizziness
+Skin: no rashes
+
+--- PHYSICAL EXAM ---
+General: obese female, no acute distress, sitting comfortably
+HEENT: JVD estimated 10 cm
+Lungs: bibasilar crackles, mild expiratory wheeze
+CV: RRR, S3 gallop present, no murmur appreciated
+Abdomen: obese, soft, non-tender, no hepatomegaly appreciated
+Extremities: 2+ pitting edema bilaterally to mid-shin
+Skin: no cyanosis
+
+--- LABS/RESULTS ---
+01/05/2023: BNP 620 pg/mL (elevated, prior 410 on 10/12/2022)
+01/05/2023: BMP - Na 138, K 4.2, Cl 101, CO2 24, BUN 22, Cr 1.1, Glucose 118
+01/05/2023: CBC - WBC 7.8, Hgb 12.9, Hct 39%, Plt 244
+10/12/2022: BNP 410 pg/mL
+07/2022: TSH 2.1 (WNL)
+CXR 01/05/2023: Mild pulmonary vascular congestion, no acute infiltrate.
+
+--- ASSESSMENT & PLAN ---
+1. Heart failure with reduced ejection fraction, currently with signs of volume overload (JVD, edema, elevated BNP compared to baseline). Will increase furosemide to 60mg daily x1 week, recheck BMP and weight in 1 week. Continue lisinopril. Strict sodium restriction reinforced. Daily weights, call if gain >3 lb in 2 days.
+2. Tobacco use disorder - patient is a current smoker, 2 packs/day x 48 years by history. Counseled extensively on cardiovascular and pulmonary risks of continued smoking, particularly given underlying HFrEF and asthma. Discussed nicotine replacement therapy and referral to tobacco cessation program; patient states she is "not ready" to quit at this time but agreed to consider it.
+3. Asthma - stable, continue albuterol PRN, consider pulmonology referral if symptoms worsen.
+4. Obstructive sleep apnea - continues CPAP nightly, reports good compliance, reassess with sleep study if symptoms recur.
+5. Obesity - discussed weight management, nutrition referral offered again.
+6. Hypertension - BP slightly elevated today, likely related to volume status; will reassess after diuresis, continue current antihypertensive regimen for now.
+
+Follow-up in 1 week for weight check and repeat labs, sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+--- ADDENDUM (later same day, 01/05/2023, 4:45 PM) ---
+Addendum by Michael Dunn, DO: Patient called clinic this afternoon to clarify medication instructions. Reiterated to patient via phone that furosemide should be increased to 60mg daily starting tomorrow morning, not today's dose. Patient verbalized understanding. Also re-confirmed with patient that she remains a current smoker at 2 packs/day and reiterated importance of cessation given today's visit findings of volume overload and elevated BNP. No new complaints reported during call. Will continue to monitor per above plan.

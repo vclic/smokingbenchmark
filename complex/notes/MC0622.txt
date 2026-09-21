@@ -1,0 +1,67 @@
+PULMONOLOGY - NURSE PRACTITIONER PROGRESS NOTE
+Date of Service: 04/16/2026
+Author: Catherine Lindqvist, DO
+Patient: Curtis Murphy   DOB: 04/16/1968 (Age 58)   Sex: M
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule.
+
+HPI: Mr. Murphy is a 58-year-old male seen today for follow-up of an incidentally noted pulmonary nodule identified on prior imaging obtained during an ED visit for chest wall pain. He reports feeling "pretty much back to normal" and denies fevers, hemoptysis, or unintentional weight loss. He states, "I get a little short of breath climbing stairs but that's been going on for years with my asthma." No new cough. He has not had any recent infections. Denies chest pain at rest. He continues to use his albuterol inhaler PRN with good relief.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per EHR, some entries outdated):
+- E66.9 Obesity, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- I73.9 Peripheral artery disease, unspecified (vascular surgery f/u 2023 - outdated, pt reports stable claudication)
+- F32.9 Major depressive disorder, single episode, unspecified (on sertraline)
+- N40.0 Benign prostatic hyperplasia without lower urinary tract symptoms
+- R91.1 Solitary pulmonary nodule (current, being followed)
+- I10 Essential hypertension (chart note from 2019, unclear if still active - pt denies HTN dx)
+
+SOCIAL HISTORY (EHR Template):
+Tobacco Use Status: Former smoker
+Smoking Pack-Years: 62 pack-years
+Cigarettes per day: Not on file
+Years smoked: Not on file
+Quit Date: Not on file
+Age at Quit: 42
+Secondhand smoke exposure: Denies
+Alcohol Use: Occasional, 1-2 drinks/week
+Drug Use: Denies
+Living Situation: Lives with spouse
+Occupation: Retired warehouse supervisor
+
+[Note: patient confirms he no longer smokes, quit smoking cigarettes at age 42. He states, "I haven't touched a cigarette in years, best decision I ever made." He denies any current tobacco, vape, or nicotine product use of any kind.]
+
+REVIEW OF SYSTEMS: Negative for fevers, chills, night sweats, hemoptysis, dysphagia, or unintentional weight loss. Positive for occasional exertional dyspnea attributed to known asthma. Denies chest pain, palpitations, or syncope. GU: mild urinary hesitancy, stable, followed by urology for BPH. Psych: mood stable on current sertraline dose, denies SI/HI.
+
+MEDICATIONS:
+- Albuterol HFA inhaler PRN
+- Fluticasone/salmeterol inhaler BID
+- Sertraline 100 mg daily
+- Tamsulosin 0.4 mg daily
+- Clopidogrel 75 mg daily
+- Atorvastatin 40 mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, SpO2 97% RA, BMI 34.2
+General: Well-appearing, no acute distress, obese habitus.
+HEENT: Unremarkable.
+Lungs: Clear to auscultation bilaterally, mild expiratory wheeze at bases, no crackles.
+CV: Regular rate and rhythm, no murmurs. Distal pulses diminished bilaterally in lower extremities, consistent with known PAD.
+Abdomen: Soft, non-tender, obese, no organomegaly.
+Extremities: No edema, no clubbing, no cyanosis. Skin intact, no ulcerations.
+Neuro: Alert and oriented x3, no focal deficits.
+Psych: Mood euthymic, affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Solitary pulmonary nodule (R91.1) - Incidentally found nodule, stable in appearance based on prior imaging review. Given his 62 pack-year smoking history, though he is a former smoker who quit smoking at age 42, we discussed ongoing surveillance imaging per standard nodule follow-up protocols. Discussed lung cancer screening in general terms; further discussion and decision-making to occur at next visit. Follow-up CT to be scheduled per radiology recommendations at appropriate interval.
+2. Asthma (J45.909) - Well controlled on current inhaler regimen, continue current meds, reinforce inhaler technique.
+3. Peripheral artery disease (I73.9) - Stable, continue clopidogrel and atorvastatin, encourage walking program as tolerated, refer back to vascular surgery if symptoms worsen.
+4. Obesity (E66.9) - Discussed weight management strategies, dietary counseling offered, patient agreeable to referral to nutrition.
+5. Depression (F32.9) - Stable on sertraline, mood euthymic today, continue current dose, follow with PCP for ongoing management.
+6. BPH (N40.0) - Stable, continue tamsulosin, follow with urology as needed.
+
+Patient verbalized understanding of the plan and had no further questions at this time. Return to clinic in 3 months or sooner if symptoms arise. Will coordinate with radiology regarding follow-up imaging timing.
+
+Electronically signed: Catherine Lindqvist, DO - Pulmonology NP Progress Note, 04/16/2026

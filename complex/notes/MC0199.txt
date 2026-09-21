@@ -1,0 +1,72 @@
+HISTORY AND PHYSICAL
+Patient: Margaret Price
+DOB: 06/09/1954 (Age: 72)
+Date of Service: 06/09/2026
+Author: Quentin Hale, PA-C
+Location: Primary Care - Hospital Discharge Follow-Up
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Ms. Price is a 72-year-old female who presents today for follow-up after being discharged 5 days ago following a 4-day admission for community-acquired pneumonia. She was treated with IV antibiotics and transitioned to oral levofloxacin at discharge, with plan to complete a 7-day course. She reports, "I'm breathing a lot better than I was in the hospital, but I still get tired walking up the stairs." She denies fever, chills, or hemoptysis. She reports mild productive cough, improving daily. No chest pain. She states, "I've been trying to rest more, but I feel bored just sitting around." She is tolerating oral intake well and reports appetite has returned to baseline. She continues her home medications for diabetes, gout, BPH, and OSA, and reports adherence with her CPAP most nights, though she admits, "Some nights I just don't feel like putting the mask on."
+
+She denies any new joint swelling concerning for gout flare. No urinary retention or significant dysuria reported, though she notes some nocturia consistent with her known BPH.
+
+REVIEW OF SYSTEMS: Positive for mild fatigue and residual cough. Negative for fever, chest pain, hemoptysis, lower extremity edema, joint pain, dysuria, or vision changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Gout - M10.9 (last flare documented 2019, currently on allopurinol)
+2. Benign prostatic hyperplasia - N40.0 (not applicable, retained from template error, patient is female - see note below)
+3. Obstructive sleep apnea - G47.33 (on CPAP)
+4. Osteoarthritis, unspecified site - M19.90
+5. Type 2 diabetes mellitus without complications - E11.9
+6. Pneumonia, resolving - J18.9 (recent hospitalization, resolving)
+
+[Note: Problem #2 appears to be carried forward in error from a prior template; will address at next visit for chart correction.]
+
+SOCIAL HISTORY: Patient reports drinking a glass of wine occasionally, approximately 1-2 times per month, denies any history of alcohol-related problems. She lives alone in a single-story home, states she has good support from a daughter who lives nearby and checks in on her several times per week. Retired schoolteacher, worked for over 30 years before retiring at age 65. She reports she remains independent with all activities of daily living and has not required any home health assistance since discharge.
+
+MEDICATIONS:
+- Allopurinol 300 mg daily
+- Tamsulosin 0.4 mg daily
+- Metformin 1000 mg BID
+- Glipizide 5 mg daily
+- Levofloxacin 750 mg daily (day 5 of 7)
+- CPAP nightly
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 78, BP 132/76, RR 16, SpO2 96% on room air
+General: Alert, well-appearing, no acute distress
+HEENT: Normocephalic, atraumatic, oropharynx clear
+Neck: No lymphadenopathy, no JVD
+Cardiovascular: Regular rate and rhythm, no murmurs
+Respiratory: Mild bibasilar crackles, improved from prior exam, no wheezing, no accessory muscle use
+Abdomen: Soft, non-tender, non-distended
+Extremities: No edema, no joint swelling or erythema noted
+Skin: Warm, dry, intact
+Neuro: Alert and oriented x3, no focal deficits
+
+LABS/RESULTS:
+- CBC (06/04/2026, during admission): WBC 11.2 (H), Hgb 12.8, Plt 245
+- CBC (06/09/2026, today): WBC 7.4 (within normal limits), Hgb 13.0, Plt 260
+- BMP (06/09/2026): Na 139, K 4.1, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 158 (H)
+- HbA1c (05/15/2026): 7.8%
+- Uric acid (04/10/2026): 6.9
+- Chest X-ray (06/04/2026, during admission): Right lower lobe infiltrate consistent with pneumonia
+- Chest X-ray (06/09/2026, today): Improving right lower lobe infiltrate, no new consolidation
+
+ASSESSMENT AND PLAN:
+1. Pneumonia, resolving (J18.9) - Clinically improving, repeat CXR today shows improvement. Continue levofloxacin to complete 7-day course. Return to clinic or ED if worsening cough, fever, or shortness of breath.
+2. Type 2 diabetes mellitus (E11.9) - Glucose mildly elevated today, likely related to recent illness/steroid-sparing antibiotic course. Continue current regimen, recheck A1c in 3 months.
+3. Gout (M10.9) - Stable, no active flare. Continue allopurinol.
+4. Obstructive sleep apnea (G47.33) - Continue CPAP, encourage nightly adherence given recent respiratory illness.
+5. Osteoarthritis (M19.90) - Stable, continue conservative management with acetaminophen PRN.
+6. Health maintenance - Up to date on age-appropriate screenings per prior chart review; will confirm at next visit.
+
+Follow-up in 2 weeks or sooner if symptoms worsen.
+
+---
+ADDENDUM (later same day, 06/09/2026):
+Patient called back to clinic after discharge home to clarify medication instructions for levofloxacin dosing schedule. Reassured and instructed to take remaining doses with food as previously directed. No new complaints reported at this time. Will continue to monitor per above plan.
+- Quentin Hale, PA-C

@@ -1,0 +1,77 @@
+Family Medicine Clinic Note
+
+Patient: ALLEN, Larry    MRN: 52162703
+DOB: 12/01/1947    Age: 75 y.o.    Sex: Male
+Date of Service: 07/26/2023    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Larry Allen is a 75 y.o. male who presents for hospital follow-up after admission for cellulitis of the left leg.
+Admitted 07/08/2023-07/13/2023 for cellulitis of the left leg. Feeling much better. Appetite returning.
+
+Past Medical History:
+Diagnosis	Date
+• Gout
+• Osteoarthritis of knees
+• CKD stage 3
+• Coronary artery disease	2015
+• Hypertension
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• colchicine 0.6 mg PRN flare
+• allopurinol 100 mg daily
+• clopidogrel 75 mg daily
+• lisinopril 20 mg daily
+• meloxicam 7.5 mg daily
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with wife in a single-family home.
+  Retired cashier.
+  Occasional marijuana use.
+  EtOH: 1-2 beers/wk.
+
+Family History
+Father - colon cancer at 68. Son - type 1 diabetes.
+
+Review of Systems
+ROS: Skin neg, GI neg, GU neg, Resp neg, Gen neg, MSK neg
+
+Objective:
+Vitals:
+  BP 131/77 (BP Location: Left arm, Patient Position: Sitting) | Pulse 86 | Temp 97.6 °F (Oral) | Resp 20 | Ht 6' 1" | Wt 193 lb | SpO2 98% | BMI 25.41 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Cellulitis of the left leg
+   Resolved. Med rec completed.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+3. Hypertension
+   BP at goal; continue current regimen.
+4. Coronary artery disease
+   No angina. Continue current cardiac regimen.
+
+Return in about 6 months (around 1/26/2024).
+
+Electronically signed by Owen Fitzgerald, MD on 07/26/2023

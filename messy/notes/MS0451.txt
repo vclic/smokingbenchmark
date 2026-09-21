@@ -1,0 +1,84 @@
+INTERNAL MEDICINE - PRIMARY CARE FOLLOW-UP
+Patient: Terrence Perry (M) DOB: 07/21/1945 (age 78)
+Date of Service: 07/21/2023
+Author: Hannah Weiss, NP (resident note) - Attending attestation: Dr. R. Okafor, MD, reviewed and agree with assessment/plan as documented below.
+
+CHIEF COMPLAINT: F/u HTN, DM2, routine chronic disease management.
+
+HPI: Mr Perry is a 78 y/o male here for f/u of hypertension and type 2 diabetes. He reports fair control, checks BG at home occasionally, denies polyuria/polydipsia. No chest pain, no claudication changes from baseline PAD. Feet checked, no new ulcers. He c/o mild joint discomfort in R first MTP c/w gout flare last month, resolved w/ colchicine.
+
+--- COPIED FORWARD FROM VISIT 02/14/2022 ---
+Pt seen for annual wellness exam. HTN stable on current regimen, A1c 7.1, LDL improved on statin. PAD stable, ABI unchanged. No new complaints. Continue current meds, f/u 6 months. (Note: some data below may be outdated and carried forward in error.)
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+ Pack-years: Not on file
+ Smoking detail: pt reports hx of smoking between 1 and 2 packs per day for 36 years, quit smoking 17 years ago
+Alcohol use: Patient quit drinking alcohol in 1999.
+ Drinks/week: Not on file
+Drug use: denies
+Occupation: retired
+Living situation: lives w/ spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS (templated, boilerplate):
+Constitutional: denies fever, chills, weight loss
+Eyes: denies vision changes
+ENT: denies sore throat, denies hearing loss
+Cardiovascular: denies chest pain, denies orthopnea, denies edema
+Respiratory: denies cough, denies dyspnea, denies wheeze
+GI: denies nausea, denies vomiting, denies abd pain
+GU: denies dysuria, denies hematuria
+Musculoskeletal: + joint pain as above, denies new swelling elsewhere
+Skin: denies rash
+Neuro: denies HA, denies weakness, denies numbness
+Psych: denies depression, denies anxiety
+All other systems reviewd and negative.
+
+PHYSICAL EXAM (templated, boilerplate):
+Vitals: BP 142/82, HR 72, RR 16, Temp 98.4F, Wt 198 lb, BMI 29.4
+General: NAD, alert, oriented x3
+HEENT: normocephalic, atraumatic, PERRLA
+Neck: no JVD, no thyromegaly
+CV: RRR, no murmur, distal pulses diminished bilaterally c/w known PAD
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND, +BS
+Extremities: no edema, feet w/ intact skin, no ulcers, pulses 1+ DP/PT bilaterally
+Skin: no rash
+Neuro: grossly intact
+MSK: R first MTP mildly tender, no acute erythema today
+
+PROBLEM LIST (with ICD-10, some outdated):
+1. Essential hypertension I10 - active
+2. Type 2 diabetes mellitus without complications E11.9 - active
+3. Hyperlipidemia E78.5 - active
+4. Peripheral artery disease I73.9 - active
+5. Gout, unspecified M10.9 - active
+6. Tobacco use disorder Z87.891 - hx, former smoker (see social hx)
+7. GERD K21.9 - inactive/outdated, carried forward, pt denies current sx
+
+MEDICATIONS (long list, reconciled today):
+1. Lisinopril 20mg daily
+2. Amlodipine 5mg daily
+3. Metformin 1000mg BID
+4. Atorvastatin 40mg qhs
+5. Aspirin 81mg daily
+6. Allopurinol 100mg daily
+7. Colchicine 0.6mg PRN gout flare
+8. Cilostazol 100mg BID for PAD sx
+9. Multivitamin daily
+10. Vitamin D3 1000IU daily
+
+ASSESSMENT/PLAN:
+1. Hypertension - BP slightly elevated today, will increase amlodipine to 10mg daily, recheck in 4-6 wks.
+2. T2DM - continue metformin, order A1c, reinforce diet/exercise.
+3. Hyperlipidemia - continue atorvastatin, lipid panel due.
+4. PAD - stable, continue cilostazol, ABI if sx worsen.
+5. Gout - improved, continue allopurinol, colchicine PRN.
+6. Tobacco history - patient is a former smoker; he smoked between 1 and 2 packs per day for 36 years and quit smoking 17 years ago. General preventive health topics were discussed with patient today, encouraged continued abstinence from tobacco.
+7. Alcohol - notably patient quit drinking alcohol in 1999, no current use, continue to monitor.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalizd understanding of plan, ask questions answered.
+
+Attending Attestation: I have reviewed the resident's documentation and personally examined the patient. I agree with the findings and plan as written above. - Dr. R. Okafor, MD

@@ -1,0 +1,64 @@
+URGENT CARE - PHYSICIAN PROGRESS NOTE
+Patient: George Mitchell
+DOB: 1/31/1959 (age 66)
+Date of Service: 01/31/2025
+Author: Owen Fitzgerald, MD
+
+CHIEF COMPLAINT: Cough.
+
+HPI: Mr. Mitchell is a 66 y/o male with hx of type 2 diabetes, obesity, OA, HFrEF, COPD, and AFib who presents today with a cough that has been going on for about a week, worse at night, productive of small amount of white sputum, no hemoptysis. Patient states "it just won't quit, doc, I've been hacking all night and it's wearing me out." He denies fever but says he "felt kinda warm yesterday, maybe." No chest pain, though he does note some mild SOB with exertion which he says is his "usual baseline, nothing new really." He was seen here last month for similar complaint and treated symptomatically. Review of systems otherwise negative for chest pain, leg swelling (though he has chronic mild bilateral LE edema at baseline per HF), no palpitations noted today despite known AFib.
+
+Past medical history reviewed with patient today, updated as below.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Type 2 diabetes mellitus (E11.9)
+2. Obesity (E66.9)
+3. Osteoarthritis, unspecified site (M19.90)
+4. Heart failure with reduced ejection fraction (I50.22) - last echo showed EF 35%
+5. COPD (J44.9)
+6. Atrial fibrillation (I48.91)
+7. Ischemic stroke (2006) - old, resolved, no residual deficits per pt report
+8. Hyperlipidemia (E78.5) - copied forward from prior note, may be outdated, pt states he was told cholesterol was fine last check
+9. GERD (K21.9) - chronic, on PPI
+
+SOCIAL HISTORY: Tobacco - former smoker, quit smoking. He reports he smoked about three-quarters of a pack a day (roughly 15 cigarettes/day) before quitting; he stated he quit smoking right after his stroke and has not smoked since. Denies alcohol use currently, denies illicit drug use. Lives with wife, retired.
+
+MEDICATIONS (per chart, reconciled today):
+- Metformin 1000mg BID
+- Furosemide 40mg daily
+- Carvedilol 12.5mg BID
+- Apixaban 5mg BID
+- Tiotropium inhaler daily
+- Albuterol inhaler PRN
+- Atorvastatin 40mg daily
+- Omeprazole 20mg daily
+
+ALLERGIES: NKDA.
+
+VITALS: T 99.1F, HR 88 irregularly irregular, BP 138/82, RR 18, SpO2 94% on room air, Wt 245 lb, BMI 36.4.
+
+PHYSICAL EXAM: General - alert, no acute distress, mildly diaphoretic. HEENT - oropharynx clear, no exudate. Neck - no JVD appreciated today. Lungs - scattered expiratory wheezes bilaterally, no crackles, no focal consolidation appreciated. Cardiac - irregularly irregular rhythm, no murmur appreciated, [inaudible] at the apex, S1 S2 normal. Abdomen - obese, soft, nontender. Extremities - trace bilateral LE edema, no calf tenderness. Skin - no rash.
+
+LABS/RESULTS (reviewed today):
+- CBC (01/31/2025): WBC 9.8, Hgb 13.1, Hct 39.2, Plt 245
+- BMP (01/31/2025): Na 138, K 4.4, Cl 101, CO2 25, BUN 22, Cr 1.1, Glucose 156
+- HbA1c (01/15/2025): 7.4%
+- BNP (01/31/2025): 410 pg/mL
+- Chest X-ray (01/31/2025): no acute infiltrate, mild cardiomegaly, chronic changes consistent with COPD, no effusion
+- INR (01/31/2025): N/A, on DOAC
+
+ASSESSMENT: 66 y/o male, former smoker, presenting with acute cough likely due to COPD exacerbation vs post-viral bronchitis, superimposed on multiple chronic comorbidities including HFrEF, AFib on anticoagulation, T2DM, obesity, and OA. Cardiopulmonary exam and CXR reassuring against pneumonia or acute decompensated heart failure today, though will monitor closely given his complex cardiac history.
+
+PLAN:
+1. Cough/COPD flare - start prednisone taper, continue tiotropium and albuterol PRN, encourage fluids, follow up with PCP or pulmonology if not improved in 5-7 days.
+2. HFrEF - continue current regimen, no signs of acute decompensation today, weight stable per pt report.
+3. AFib - continue apixaban, rate appears controlled on carvedilol, will recheck EKG at next visit.
+4. T2DM - continue metformin, HbA1c reasonably controlled, reinforced diet and exercise as tolerated given OA limitations.
+5. Tobacco history - patient is a former smoker; reinforced continued abstinence, discussed general health maintenance including lung cancer screening discussion deferred to PCP for further work-up as appropriate given his history.
+6. Return precautions given, follow up with PCP within 1 week or sooner if worsening SOB, chest pain, or fever.
+
+Patient verbalized understanding of plan and agreed to follow up. Discharged home in stable condition.
+
+Owen Fitzgerald, MD
+Urgent Care
+Signed electronically 01/31/2025

@@ -1,0 +1,78 @@
+General Medicine Clinic Clinic Note
+
+Patient: KIM, Michael    MRN: 75846763
+DOB: 05/07/1957    Age: 68 y.o.    Sex: Male
+Date of Service: 07/25/2025    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Michael Kim is a 68 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 120s/90s. Reports good adherence to lisinopril 20 mg daily. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• Emphysema
+• Hyperlipidemia
+• HTN
+• Obesity
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• budesonide-formoterol 160/4.5 2 puffs BID
+• vitamin D3 2000 IU daily
+• albuterol HFA PRN
+• atorvastatin 40 mg daily
+• tiotropium 18 mcg inhaled daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Tobacco Use
+• Smoking status: Some Days
+    Packs/day: 0.25
+    Years: 43.00
+    Pack years: 10.75
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives with wife and adult son.
+  Retired, former accountant.
+  EtOH: 2-3 drinks on weekends.
+  No IVDU.
+
+Family History
+Mother - HTN, DM2. Sister - hypothyroidism.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 123/91 (BP Location: Right arm, Patient Position: Sitting) | Pulse 79 | Temp 97.8 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 229 lb | SpO2 93% | BMI 35.83 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Hypertension
+   Above goal. Add amlodipine 5 mg daily. Low-sodium diet reviewed. Recheck 1 month.
+2. Emphysema
+   Reviewed inhaler technique.
+3. Obesity
+   Discussed diet and exercise.
+
+RTC 6 months.
+
+Electronically signed by Nadia Haddad, MD on 07/25/2025

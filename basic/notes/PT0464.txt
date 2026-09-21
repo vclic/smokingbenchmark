@@ -1,0 +1,42 @@
+Family Medicine Clinic Note
+Date of Service: 2/2/2026
+Patient: Susan Lopez   DOB: 12/30/1946   MRN: 35649609
+
+S:
+CC: Hospital f/u
+HPI: 79 yo F current smoker (1/4 PPD x58y) w/ GERD, hypothyroidism, HTN, OSA here for hospital f/u after admission for community-acquired pneumonia. Admitted 2026-01-18-1/21/2026 for community-acquired pneumonia. Completed antibiotics. Using walker at home.
+
+PMH: hypothyroidism, OSA, GERD, HTN
+PSH: Right total knee arthroplasty; Left inguinal hernia repair (2014); Cataract extraction, b/l (1993)
+Meds: pantoprazole 40 mg daily; levothyroxine 100 mcg daily; hydrochlorothiazide 25 mg daily; losartan 100 mg daily; fish oil 1 g daily
+Allergies: Sulfa drugs
+Social History:
+- Married, lives w/ husband.
+- Drinks a glass of wine w/ dinner.
+- Denies illicit drugs.
+- Sedentary.
+FH: Parents deceased, causes unknown.
+ROS: MSK neg, GI neg, GU neg, Gen neg, CV neg, Resp neg, Skin neg, Neuro neg
+
+O:
+Vitals: BP: 126/71  HR: 91  RR: 14  Temp: 97.5 F  SpO2: 96% on RA  Wt: 169 lbs  BMI: 27.3
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+Labs (1/10/2026): Cr 0.98, K 4.6, TSH 4.09
+
+A/P:
+1. Community-acquired pneumonia: Resolved. Med rec completed.
+2. Acquired hypothyroidism: Recheck TSH.
+3. Hypertention: Well controlled on home log. No changes.
+
+Follow up in 6 mos or sooner PRN.
+
+-- LC (FNP-C)

@@ -1,0 +1,98 @@
+GERIATRIC ASSESSMENT - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Rajesh Smith (M)
+DOB: 11/12/1963
+Age: 62
+Date of Service: 12/29/2025
+Author: Laura Castellano, FNP-C
+Attending: Dr. M. Okafor (attestation below)
+Clinic: Geriatrics
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, follow up osteoporosis and CKD stage 3.
+
+HPI:
+Mr Smith is a 62 year old man who presents today for routine geriatric assessment. He is accompanied by his daughter who assists with medication reminders. Patient reports he has been feeling "about the same, maybe a little more tired than usual" over the past few months. He denies chest pain, denies acute SOB at rest but endorses some exertional dyspnea when climbing stairs at home. He states, "I get winded going up to the second floor now, it didnt used to be like that." He also reports occasional low back pain which he attributes to his osteoporosis; no new fractures, no falls since last visit.
+
+Regarding tobacco use, patient was asked directly and said, "I still smoke, and I'm not ready to quit right now." He was counseled extensively on smoking cessation resources including nicotine replacement therapy and referral to the tobacco quitline; he acknowledged understanding but reiterated he is not ready to make a change at this time.
+
+He reports adherence to his osteoporosis regimen (calcium/vitamin D and bisphosphonate) though admits he sometimes forgets doses. He follows with nephrology for his CKD and had labs drawn last month; he is not aware of the results.
+
+Review of systems otherwise negative for fevers chills nausea vomiting diarrhea hematuria or hematochezia. Positive for mild fatigue as above.
+
+PAST MEDICAL HISTORY:
+- Osteoporosis, diagnosed on DEXA approx 4 yrs ago
+- Chronic kidney disease, stage 3
+- Hyperlipidemia
+- Hx of vitamin D deficiency
+
+PAST SURGICAL HISTORY: None reported.
+
+FAMILY HISTORY: Father - CAD, deceased age 78. Mother - osteoporosis, hip fracture in her 80s.
+
+SOCIAL HISTORY (templated EHR block):
+Marital status: Married
+Living situation: Lives with spouse, daughter nearby
+Occupation: Retired postal worker
+Tobacco use: Current every day smoker
+Packs per day: Not on file
+Years smoked: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Illicit drug use: Denies
+Exercise: Minimal, sedentary most days
+Diet: Reports "eats what he wants"
+
+MEDICATIONS:
+1. Alendronate 70mg weekly
+2. Calcium carbonate/vitamin D3 daily
+3. Atorvastatin 20mg daily
+4. Lisinopril 10mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 96% RA, Wt 182 lb, Ht 5'9"
+General: Well-developed male, no acute distress, appears stated age
+HEENT: Normocephalic atraumatic, EOMI, PERRL, oropharynx clear
+Neck: No JVD, no lymphadenopathy
+CV: RRR, no murmurs rubs or gallops
+Resp: Mild bibasilar crackles that clear with cough, no wheeze
+Abd: Soft nontender nondistended, normoactive bowel sounds
+MSK: Kyphotic posture, no midline spinal tenderness, no lower extremity edema
+Neuro: Alert oriented x3, gait steady with cane
+Skin: No rashes or lesions noted
+
+GERIATRIC SCREENING:
+- Timed Up and Go: 13 sec (mildly elevated)
+- Mini-Cog: 4/5, unremarkable
+- PHQ-2: negative
+- Fall risk: moderate, uses cane
+- Polypharmacy review: 4 chronic meds, reconciled today
+
+LABS REVIEWED (from last month):
+Creatinine 1.6 mg/dL (baseline for pt), eGFR 42
+Calcium 9.4
+Vitamin D 32
+CBC unremarkable
+
+ASSESSMENT/PLAN:
+62 yo M with osteoporosis, CKD stage 3, and significant tobacco use presenting for geriatric assessment.
+
+1. Tobacco use disorder: Patient has a 62 pack-year smoking history and continues to smoke daily; he states he is not ready to quit at this time despite counseling today. We discussed lung cancer risk and the option of screening was discussed in general terms; continued cessation counseling offered, quitline referral provided, will readdress at next visit. Bupropion or varenicline can be considered if patient becomes ready to quit.
+
+2. Osteoporosis: Continue alendronate and calcium/vitamin D supplementation. Reinforce fall precautions given TUG results. Continue weight bearing exercise as tolerated. Repeat DEXA in approximately 1-2 years per prior schedule.
+
+3. CKD stage 3: Stable per recent labs, eGFR 42, will continue to monitor renal function q6 months, avoid nephrotoxic agents including NSAIDs, continue lisinopril, renal diet counseling reiterated.
+
+4. Hyperlipidemia: Continue atorvastatin, lipid panel due at next visit.
+
+5. Fall risk/mobility: Continue use of cane, consider PT referral for gait training and strength, home safety eval to be considered.
+
+6. Health maintenance: Influenza vaccine given today. Pneumococcal vaccine status reviewed and up to date. Colorectal cancer screening discussed, patient declined colonoscopy previously, will readdress stool-based testing options.
+
+Patient verbalizes understanding of plan, agreeable to follow up in 3 months or sooner if symptoms worsen. Daughter present for education and given written materials on osteoporosis and smoking cessation resources.
+
+Total time spent on visit: approximately 45 minutes, more than half spent in counseling and coordination of care.
+
+---
+ATTENDING ATTESTATION:
+I have personally seen and examined the patient with the resident/FNP and agree with the history, exam findings, and plan as documented above. Discussed tobacco cessation options and reinforced importance of quitting given his 62 pack-year history and ongoing daily use; patient again expressed he is not ready to quit at this time. Plan as above.
+- Dr. M. Okafor, Attending Physician, 12/29/2025

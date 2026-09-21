@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Patient: Wei Thomas | DOB: 4/13/1945 | Age: 79 | Sex: M
+Date of Service: 12/04/2024
+Provider: Isaac Moreno, PA-C
+Dept: Cardiology (telehealth)
+
+CC: chest pain eval
+
+HPI: Pt is a 79 y/o M w/ hx asthma, osteoporosis, calling in re: chest pain x several days. Pt states "it feels like a tightness, kinda like someone's sitting on my chest" and reports it comes on w exertion, resolves w rest, denies radiation to arm but says "sometimes it goes up into my neck a little bit." Denies diaphoresis, denies syncope. Says he's been more short of breath than usual, thinks its his asthma acting up but wanted to get checked given the chest sx. [inaudible] portion of call re: whether he took his inhaler this AM, pt eventually clarifies yes he did use albuterol around 8am w/ some relief. No fevers/chills. No leg swelling. Appetite fine, denies weight loss.
+
+PMH: asthma, osteoporosis
+PFSH: reviewed
+
+Templated field (auto-populated, NOTE: INCORRECT - see below): Smoking status: Never Smoker
+-- This auto-filled field is inaccurate and should be disregarded; correct smoking hx is documented in narrative and A/P below.
+
+COPIED FROM PRIOR NOTE DATED 7/4/2023 (verbatim, unedited): "Smoking status: former smoker, no current tobacco use noted at that visit." [end of copied text - no further detail on quantities was given in that note]
+
+ROS: Constitutional - neg for fever, unintentional weight loss. Resp - + mild dyspnea on exertion, no wheeze per pt currently. CV - + exertional chest tightness as above, no orthopnea/PND. All other systems reviewed and negative except as noted in HPI.
+
+Meds: albuterol HFA prn, alendronate weekly, calcium/vit D supplement, baby aspirin (pt reports taking OTC)
+
+Allergies: NKDA
+
+Vitals (per home cuff reported by pt): BP 138/82, HR 78, unable to obtain O2 sat/telehealth limitation, pt denies use of home pulse ox
+
+Exam: Limited d/t telehealth. Pt appears comfortable, conversant, no acute distress observed on video. Resp effort appears normal, no visible use of accessory muscles. Unable to auscultate heart/lungs remotely.
+
+Assessment/Plan:
+1. Chest pain, exertional - concern for possible cardiac etiology given age and sx pattern, though asthma exacerbation also considered given hx and DOE. Will need in-person eval w EKG, troponin, consider stress test. Discussed w pt the plan to schedule in-office visit this wk. Advised to go to ED immediately if sx worsen, chest pain becomes severe/prolonged, or assoc w SOB at rest, diaphoresis, or radiation to arm/jaw.
+
+2. Tobacco history - clarifying smoking hx in detail as the templated "never smoker" field above is WRONG and should be corrected in chart. Pt has significant remote smoking hx: he smoked 1 pack per day for 26 years, then stopped completely for 4 years, then restarted smoking at 1 pack per day for 20 years before quitting for good. Pt is a former smoker and no longer smokes currently. He has not smoked since his 69th birthday.
+
+3. Asthma - reports overall stable, using albuterol prn, will reassess control at f/u visit, consider updating action plan.
+
+4. Osteoporosis - continue alendronate and calcium/vit D, no new complaints, f/u DEXA per routine schedule.
+
+Pt verbalized understanding of plan and red flag sx warranting ED. Will f/u in office later this wk for full cardiac workup. Telehealth visit ended, total time spent approx 22 min including counseling re smoking hx correction and chest pain red flags.
+
+Electronically signed: Isaac Moreno, PA-C, 12/04/2024

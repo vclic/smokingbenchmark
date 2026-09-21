@@ -1,0 +1,74 @@
+RESIDENT NOTE - CARDIOLOGY
+Patient: Carol Moore | DOB: 3/21/1969 | Age: 54 | Sex: F
+Date of Service: 03/21/2023
+Author: Nadia Haddad, MD (Resident), attending attestation appended below
+
+CC: Chest pain, referred by PCP for eval.
+
+HPI: 54 yo F with hx of COPD, osteoporosis, obesity, HTN, HLD presents w/ intermittent chest pain x 3 days. Pain described as pressure-like, substernal, non-radiating, worse w/ exertion, improves w/ rest. No assoc N/V, no diaphoresis reported today. No syncope. Denies palpitations. Pt reports similar but milder episode ~6 mo ago, self-resolved, did not seek care.
+
+ROS: Cardiac - as above. Resp - chronic cough, baseline per COPD, no acute change. GI - neg. MSK - occasional back pain, chronic, stable. Denies fevers, chills, wt loss.
+
+PMH/Problem List (per chart, some entries may be outdated):
+- J44.9 COPD, unspecified
+- M81.0 Osteoporosis, age-related, without current pathological fracture
+- E66.9 Obesity, unspecified
+- I10 Essential (primary) hypertension
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence (added today)
+- J45.909 Asthma, unspecified (chart carryover - pt reports no asthma dx, likely outdated/erroneous entry, will review w/ PCP)
+
+Social Hx: Smoking - pt reports she started smoking about three-quarters of a pack a day (~15 cigarettes/day) at age 25. Continued at that rate for a number of years. Quit smoking in 2017. Denies current tobacco use. No vaping. Denies illicit drug use. Occasional ETOH, ~1-2 glasses wine/wk. Lives w/ husband, retired schoolteacher, ambulates independently.
+
+FH: Father - MI age 62. Mother - osteoporosis, HTN. No known fam hx of early CAD in siblings.
+
+Meds (per MAR, reconcile at visit):
+- Lisinopril 20mg daily
+- Atorvastatin 40mg qHS
+- Albuterol INH prn
+- Tiotropium INH daily
+- Alendronate 70mg weekly
+- Calcium/Vit D supplement daily
+
+Allergies: NKDA
+
+Vitals: BP 148/88, HR 82, RR 18, Temp 98.4F, SpO2 94% RA, Wt 198 lb, BMI 33.2
+
+Physical Exam:
+Gen: NAD, obese habitus, sitting comfortably.
+HEENT: NC/AT, no JVD appreciated.
+CV: RRR, no m/r/g, no S3/S4. PMI non-displaced.
+Resp: Mild expiratory wheeze bilat, no accessory muscle use, no crackles.
+Abd: Soft, NT/ND, obese, +BS.
+Ext: No edema, pulses 2+ bilat.
+MSK: Mild kyphosis noted, no acute deformity, no point tenderness spine.
+Skin: Warm, dry, no cyanosis.
+
+Labs/Studies today:
+EKG: NSR, no acute ST changes, nonspecific T wave flattening inferior leads, unchanged from prior 2021 study on file.
+Troponin I: pending at time of note.
+CBC/BMP: pending.
+Lipid panel (from PCP, 2 wks ago): LDL 142, HDL 48, TG 165.
+CXR (today): Hyperinflated lungs c/w COPD, flattened diaphragms, no acute infiltrate or effusion, no acute cardiopulm process.
+
+Assessment:
+54F w/ chest pain, multiple cardiac risk factors incl HTN, HLD, obesity, former tobacco use. Differential includes stable angina, musculoskeletal pain, COPD exacerbation contributing to sx. EKG reassuring but nonspecific changes noted.
+
+Plan:
+1. Chest pain - trend troponins, obtain stress test as outpatient given nonemergent presentation and stable vitals. Continue home cardiac meds.
+2. HTN - BP borderline elevated today, will increase lisinopril if outpt readings remain elevated. Recheck at next visit.
+3. HLD - LDL above goal, continue atorvastatin, consider dose increase pending repeat lipid panel.
+4. COPD - continue current inhalers, no evidence of acute exacerbation on exam/imaging today.
+5. Osteoporosis - continue alendronate, calcium/vit D, DEXA due for repeat per PCP schedule.
+6. Obesity - counseled on diet/exercise, referred to nutrition.
+7. Tobacco - patient quit smoking in 2017 and reports no current use; prior smoking history discussed with patient, reinforced benefit of continued abstinence. Lung cancer screening was discussed in general terms with the patient during the visit.
+8. F/u cardiology in 2 wks or sooner if sx worsen, return precautions given (worsening pain, SOB, diaphoresis - go to ED).
+
+Pt verbalized understanding of plan, agreeable, all questions answered.
+
+---
+ADDENDUM (later same day, 03/21/2023, 16:40) - Nadia Haddad, MD w/ attending Dr. R. Feldstein:
+Discussed case w/ attending. Troponin resulted at 3:50pm - negative x1. Attending agrees w/ plan for outpt stress test given reassuring EKG and negative initial troponin, pt hemodynamically stable throughout visit. Attending re-examined pt, concurs w/ exam findings above. Discussed smoking hx again briefly - pt reaffirms she quit in 2017 and has remained smoke-free since. No changes to plan. Pt discharged home in stable condition with f/u instructions as above.
+
+Attestation: I have reviewed and discussed this case with Dr. Haddad and personally examined the patient. I agree with the documented history, exam, and plan as outlined above.
+- R. Feldstein, MD, Attending Cardiology

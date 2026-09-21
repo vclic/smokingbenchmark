@@ -1,0 +1,84 @@
+PINE VALLEY PULMONOLOGY ASSOCIATES
+Patient: Lan Taylor (F) DOB: 07/27/1965 (age 59)
+Date of Service: 09/19/2024
+Visit type: ED-to-clinic follow-up, COPD exacerbation
+Attending: Owen Fitzgerald, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 138/84, HR 92, RR 20, SpO2 93% RA, Temp 98.2F, Wt 210 lb, Ht 5'4", BMI 36.1
+CC: f/u after ED visit for COPD flare last wk, still SOB w/ exertion, using rescue inhaler more freq than usual.
+HPI per pt: increased cough, yellow sputum x5 days prior to ED, started on prednisone taper and azithromycin in ED, feels somewhat better but not back to baseline.
+Allergies: NKDA
+Meds: albuterol HFA prn, fluticasone/salmeterol inhaler, montelukast, ibuprofen prn joint pain, metformin (not diabetic per chart? verify), prednisone taper day 4 of 5.
+
+TOBACCO USE HISTORY (EHR TEMPLATE):
+Smoking status: Current every day smoker
+Types: cigarettes
+Packs per day: 1
+Years smoked: 40 (pack-year history)
+Pack-year history: 40 pack-years
+Interest in quitting: yes, discussed
+Secondhand smoke exposure: denies
+
+ROS: + cough, + dyspnea on exertion, denies fever, denies chest pain, + joint pain bilateral knees, denies edema.
+
+--- COPIED FORWARD FROM PRIOR VISIT (03/14/2023) ---
+[Note: below text carried forward from prior progress note, may not reflect current status]
+Pt presents for routine asthma/COPD overlap follow up. Doing well on current regimen, no exacerbations since last visit. Denies increased SOB, cough controlled. Continues on fluticasone/salmeterol daily, albuterol prn. Osteoarthritis stable, managed with acetaminophen and PT as needed, no NSAID use at that time due to renal concern (since resolved per pt report). Obesity counseling given, pt encouraged to continue weight loss program, has lost 8 lbs since last visit per her report. Denies chest pain, palpitations. Immunizations up to date including flu and pneumococcal vaccines. Plan at that time: continue current inhalers, f/u in 6 months, consider pulmonary function testing if symptoms worsen. Spirometry ordered same day, pt to return for results.
+--- END COPIED SECTION ---
+
+PROBLEM LIST:
+J44.9 - Chronic obstructive pulmonary disease, unspecified (active)
+J45.909 - Asthma, unspecified, uncomplicated (active)
+M19.90 - Osteoarthritis, unspecified site (active)
+E66.9 - Obesity, unspecified (active)
+Z72.0 - Tobacco use (active)
+J20.9 - Acute bronchitis, unspecified organism (resolved, from prior episode 2021, outdated entry left in chart)
+M54.5 - Low back pain (inactive, from 2019 visit, likely outdated)
+
+--- PHYSICIAN PROGRESS NOTE ---
+Date: 09/19/2024
+Seen and examined pt today, Owen Fitzgerald, MD.
+
+HPI: 59F with hx of COPD/asthma overlap, obesity, OA, seen in f/u s/p recent ED visit for COPD exacerbation. Reports mild residual dyspnea on exertion, improving. Sputum production decreasing, color now clear. No fevers, no chest pain. Compliant with prednisone taper, tolerating azithromycin course without GI upset.
+
+Smoking hx reviewed: active smoker, 40 pack-year history as noted above. Advised to quit, discussed cessation resources including nicotine replacement therapy and counseling referral. Pt states she is "thinking about it" but not ready to set quit date today. Lung cancer screening was discussed briefly as part of overall risk reduction conversation; further workup deferred to future visit.
+
+Exam:
+Gen: mild resp distress, NAD otherwise
+HEENT: unremarkable
+Neck: no JVD, no LAD
+CV: RRR, no m/r/g
+Resp: diffuse expiratory wheezes, prolonged expiratory phase, no crackles
+Abd: obese, soft, NT/ND
+Ext: no edema, mild crepitus bilateral knees on ROM
+Skin: no rash
+
+Labs/Results (from ED visit 09/12/2024 and today):
+CBC (09/12/2024): WBC 11.2, Hgb 13.1, Hct 39.4, Plt 245
+BMP (09/12/2024): Na 138, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.8, Glucose 102
+CXR (09/12/2024): hyperinflated lungs, no acute infiltrate, no effusion
+Spirometry (09/19/2024): FEV1 58% predicted, FEV1/FVC ratio 0.61, consistent with moderate obstruction
+A1c (08/2024, from PCP): 5.7%
+
+Assessment:
+1. COPD exacerbation, improving on steroid/antibiotic course - continue current taper, f/u spirometry today shows moderate obstruction, will continue LABA/ICS combo.
+2. Asthma-COPD overlap - stable currently, continue current inhaler regimen.
+3. Tobacco use, active smoker - counseled, resources offered.
+4. Osteoarthritis - stable, continue acetaminophen, PT referral remains active.
+5. Obesity - discussed diet/exercise, referred to nutrition.
+
+Plan:
+- Finish prednisone taper and azithromycin course as directed
+- Continue fluticasone/salmeterol, albuterol prn
+- f/u in pulm clinic 4 weeks or sooner if worsening symptoms
+- Repeat spirometry at next visit to assess response
+- Cessation counseling reinforced, pt given pamphlet on quitline
+- Nutrition referral placed
+- PT referral continued for knee OA
+- Pt to call if fever, increasing SOB, chest pain
+
+Electronically signed: Owen Fitzgerald, MD, 09/19/2024 14:32
+
+--- ADDENDUM (added later same day, 09/19/2024 17:05) ---
+Addendum by Dr. Fitzgerald: Pt called clinic nurse line this afternoon asking clarification on inhaler dosing schedule, instructed on proper use of combo inhaler AM and PM, reviewed spacer technique with albuterol. No new symptoms reported at this time. Will continue plan as above. No changes to medications made at this time.

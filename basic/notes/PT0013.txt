@@ -1,0 +1,81 @@
+Cardiology Clinic Note
+
+Patient: SANCHEZ, Lan    MRN: 10523724
+DOB: 01/10/1959    Age: 66 y.o.    Sex: Female
+Date of Service: 03/19/2025    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• CP eval
+
+Subjective:
+Lan Sanchez is a 66 y.o. female who presents for evaluation of chest pain.
+Sharp left-sided chest pain, non-exertional, lasting seconds, reproducible with palpation. Associated mild dyspnea. No orthopnea or PND. CV risk factors: HLD, never smoker.
+
+Past Medical History:
+Diagnosis	Date
+• Heart failure with reduced ejection fraction	2005
+• Obesity
+• Hypothyroidism	2022
+• Major depressive disorder, recurrent, in remission
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty (2002)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 50 mcg daily
+• sacubitril-valsartan 49/51 mg BID
+• pravastatin 40 mg nightly
+• furosemide 40 mg daily
+• bupropion XL 150 mg daily
+• carvedilol 12.5 mg BID
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Worked as a bartender for ~20 years with heavy secondhand smoke exposure.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+
+Family History
+Father - stroke.
+
+Review of Systems
+ROS: GI neg, Gen neg, GU neg, CV +
+
+Objective:
+Vitals:
+  BP 129/80 (BP Location: Left arm, Patient Position: Sitting) | Pulse 88 | Temp 97.6 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 215 lb | SpO2 99% | BMI 33.61 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Fine bibasilar crackles
+Abdominal: Obese, soft, nontender
+Extremities: Trace bilateral ankle edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Labs (02/25/2025): LDL 112, Cr 1.03, K 4.3, TSH 1.60
+
+Assessment & Plan
+1. Chest pain
+   Likely musculoskeletal. ECG today NSR, no ischemic changes. NSAIDs PRN.
+2. Hypothyroidism
+   Recheck TSH.
+3. Hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 6 months (around 9/19/2025).
+
+Electronically signed by Kevin Osei, MD on 03/19/2025

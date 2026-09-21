@@ -1,0 +1,30 @@
+NURSE INTAKE - Cardiology
+DOS: 07/04/2025
+Pt: Carlos Hill, M, age 60 (DOB 2/8/1965)
+VS: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 210 lb
+CC: f/u CHF
+
+HPI (dictated, some SR errors present): Pt presents today for heart failure follow up, states he's been taking his lasix as prescribed and he's noticed his ankles are, um, less swollen then before, he denies chest pain or [inaudible] but does report some fatigue with exertion especially going up stares in his house and he thinks its worse in the mourning, he denies orthopnea but sleeps on 2 pillows anyway which is his baseline, no PND, weighs himself daily per our instructions and reports his weight has been stable.
+
+SOCIAL HISTORY:
+Tobacco: [SMOKING HX TEMPLATE] Pack-years: 17. Current status: current every day smoker.
+Alcohol: occasional, denies drug use.
+Lives with wife, retired warehouse worker.
+
+ROS: otherwise negative except as above, denies fevers, denies hemoptysis.
+
+PMH: CKD stage 3, T2DM, OA, hypothyroidism, HTN
+
+PHYSICAN PROGRESS NOTE - Rachel Goldberg, MD
+Assessment/Plan:
+1. Heart failure, stable on current regimen - continue lasix, carvedilol, monitor daily weights, low sodium diet reinforced.
+2. Tobacco use - patient continues to smoke despite counseling; discussed cardiovascular and pulmonary risks of continued smoking at length today, offered nicotine replacement and referral to tobacco cessation program, pt states he is 'thinking about it.' Lung cancer screening was discussed as an option to consider with PCP.
+3. CKD stage 3 - stable, recheck BMP at next visit, avoid NSAIDs (noted OA hx, pt advised to use acetaminophen instead).
+4. T2DM - reviewed home glucose log, mostly in range, A1c due for recheck.
+5. HTN - well controlled on current meds, continue lisinopril.
+6. Hypothyroidism - TSH last checked was within normal limits, continue levothyroxine.
+7. OA - stable, continue conservative management, PT referral offered again.
+
+F/u in 3 months or sooner if symptoms worsen. Pt verbalized understanding of plan, agrees with above.
+
+ADDENDUM (later same day, Dr. Goldberg): Pt called back this afternoon to clarify dosing instructions for lasix, spoke with him directly by phone, he confirmed he understands to take 40mg in the morning as prescribed and will call if any increase in swelling or shortness of breath develops. No new complaints voiced during this call. Also reiterated smoking cessation resources info was given, encouraged pt to consider calling the quitline number provided on handout. No further changes to plan at this time.

@@ -1,0 +1,85 @@
+URGENT CARE PROGRESS NOTE
+Patient: Janet Miller (F)
+DOB: 02/04/1966 (age 60)
+Date of Service: 05/25/2026
+Author: Michael Dunn, DO (NP progress note)
+Location: Urgent Care
+
+CHIEF COMPLAINT: Cough x 5 days.
+
+HPI: Ms. Miller is a 60-year-old woman presenting with a 5-day history of dry cough, mild sore throat, and low-grade subjective fevers at home. She denies hemoptysis, chest pain, or significant dyspnea at rest. She reports some fatigue but is otherwise functioning at baseline. No sick contacts identified, though she notes her grandchildren had 'a cold' recently. No recent travel. She has not tried any OTC remedies aside from throat lozenges. She denies wheezing but notes occasional chest tightness with forceful coughing spells.
+
+PROBLEM LIST (ICD-10):
+- M81.0 Osteoporosis without current pathological fracture
+- M10.9 Gout, unspecified
+- J06.9 Acute upper respiratory infection, unspecified (today's visit, tentative)
+- E78.5 Hyperlipidemia, unspecified (outdated - last addressed 2019, patient reports lipid panel since normalized off statin)
+- M25.561 Pain in right knee (outdated, resolved per patient, likely old gout flare documentation)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use status: Former smoker
+Smoking history: Patient smoked approximately half a pack (about 10 cigarettes) per day, starting at age 18 and continuing until she quit at age 43. She reports she no longer smokes and has not resumed tobacco use since quitting. Per patient report, she quit smoking 17 years ago.
+Secondhand smoke exposure: Not on file
+Smokeless tobacco: Denies
+E-cigarette/vaping use: Not on file
+Alcohol use: Occasional, 1-2 glasses wine/week
+Drug use: Denies
+Occupation: Retail manager (per prior note)
+Living situation: Lives with spouse
+Exercise: Not on file
+
+PAST MEDICAL HISTORY: Osteoporosis (diagnosed approx. 2021, on bisphosphonate therapy), gout (recurrent flares, most recently affecting right first MTP joint), hyperlipidemia (historical, per above).
+
+MEDICATIONS:
+- Alendronate 70 mg PO weekly
+- Allopurinol 100 mg PO daily
+- Calcium/Vitamin D supplement daily
+- Occasional acetaminophen PRN
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Mild fatigue, denies chills, denies unintentional weight loss.
+ENT: Mild sore throat, denies ear pain, denies sinus pressure.
+Respiratory: Cough as above, denies hemoptysis, denies significant dyspnea.
+Cardiovascular: Denies chest pain, palpitations.
+Musculoskeletal: Denies acute joint pain today, chronic gout history noted.
+GI: Denies nausea, vomiting, diarrhea.
+All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 78, BP 128/76, RR 16, SpO2 97% on room air.
+General: Well-appearing, no acute distress, mild intermittent coughing during visit.
+HEENT: Oropharynx mildly erythematous, no exudate. TMs clear bilaterally. Nasal mucosa mildly congested.
+Neck: Supple, no lymphadenopathy, no thyromegaly.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi appreciated. Good air movement.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Extremities: No edema, no active gouty joint swelling noted today.
+Skin: Warm, dry, no rashes.
+
+LABS/RESULTS:
+Rapid strep antigen (05/25/2026): Negative
+Rapid influenza A/B panel (05/25/2026): Negative
+COVID-19 antigen test (05/25/2026): Negative
+CBC with diff (05/25/2026): WBC 7.8 (normal), Hgb 13.2, Plt 245 - unremarkable
+Basic metabolic panel (05/25/2026): Within normal limits
+Uric acid level (03/14/2026, from prior visit): 6.9 mg/dL
+
+ASSESSMENT:
+1. Acute upper respiratory infection, likely viral etiology given negative rapid testing.
+2. Osteoporosis - stable, continue current management.
+3. Gout - no active flare today, continue allopurinol.
+
+PLAN:
+1. Supportive care for URI symptoms - rest, fluids, OTC antitussive/expectorant as needed, throat lozenges.
+2. Return precautions discussed: if fever worsens, dyspnea develops, or symptoms persist beyond 10-14 days, advise follow-up with PCP or return to urgent care.
+3. Continue alendronate and allopurinol as prescribed.
+4. Encouraged continued tobacco abstinence; praised patient for successful long-term smoking cessation and encouraged her to maintain this.
+5. Follow up with PCP within 2 weeks for routine chronic disease management, or sooner if symptoms worsen. General age-appropriate preventive care topics can be reviewed at that visit.
+
+Patient verbalized understanding of plan and agreed to follow-up as above.
+
+---
+ADDENDUM (later same day, 05/25/2026, 4:47 PM):
+Patient called back to clinic nursing line to report mild improvement in cough since visit this morning. She was reassured this is consistent with expected course of viral URI. No new concerns reported. Advised to continue supportive care as discussed and to seek care if symptoms worsen. No changes to plan at this time.
+- Michael Dunn, DO

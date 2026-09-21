@@ -1,0 +1,79 @@
+Pulmonology Office Visit
+
+Patient: YOUNG, William    MRN: 18154849
+DOB: 09/07/1971    Age: 54 y.o.    Sex: Male
+Date of Service: 10/21/2025    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• Lung cancer screening
+
+Subjective:
+William Young is a 54 y.o. male who presents for lung cancer screening shared decision-making.
+Referred for shared decision-making regarding lung cancer screening. He quit cold turkey in 2024; prior to that he smoked 20 cigarettes a day for 39 years. Asymptomatic from a respiratory standpoint.
+
+Past Medical History:
+Diagnosis	Date
+• Asthma
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Vasectomy (2016)
+• Right total knee arthroplasty (2022)
+• Rotator cuff repair (2021)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• albuterol HFA 2 puffs q4-6h PRN
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Works as a cashier.
+  Drinks a glass of wine with dinner.
+  No IVDU.
+  Drives.
+
+Family History
+Sister - hypothyroidism.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 135/82 (BP Location: Right arm, Patient Position: Sitting) | Pulse 94 | Temp 98.1 °F (Oral) | Resp 20 | Ht 5' 7" | Wt 190 lb | SpO2 99% | BMI 29.74 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear, good air movement
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Assessment & Plan
+1. Lung cancer screening
+   SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Meets USPSTF 2021 criteria. LDCT ordered; pt agrees to annual screening.
+2. History of tobacco use (Z87.891)
+   Remains abstinent.
+
+RTC 12 months.
+
+Electronically signed by Nadia Haddad, MD on 10/21/2025

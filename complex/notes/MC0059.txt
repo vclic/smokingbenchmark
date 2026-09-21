@@ -1,0 +1,28 @@
+Pulmonology Progress Note
+DOS: 06/25/2026
+Patient: Mary Lewis, F, DOB 06/25/1970 (age 56)
+Author: Michael Dunn, DO
+
+CC: COPD f/u.
+
+HPI: Pt returns for routine f/u of COPD, reports mild dyspnea on exertion, no acute distress noted, no [inaudible] episodes overnight. Denies chest pain, denies fevers or chills, cough occasionally productive of clear sputum, uses albuterol PRN maybe 2x/wk. Sleep somewhat disrupted per pt, CPAP compliance reportedly good per download data although pt states mask 'falls of at night sometimes.' No recent hospitalizations, no ER visits since last seen. Pt lifelong non-smoker, never smoked cigarettes or any tobacco product, no history of vaping or e-cig use either.
+
+PMH: Afib (on anticoagulation), osteoporosis, hypothyroidism, OSA on CPAP, CKD stage 3, HTN.
+
+Meds: Apixaban 5 mg BID, Levothyroxine 75 mcg daily, Alendronate 70 mg weekly, Lisinopril 10 mg daily, Metoprolol succinate 50 mg daily, Albuterol HFA PRN, Tiotropium inhaler daily, Vitamin D3 2000 IU daily, Calcium carbonate 600 mg BID.
+
+ROS: Constitutional - no fever, no weight loss. HEENT - no sore throat, no nasal congestion. CV - no palpitations today, known afib stable. Resp - mild dyspnea on exertion as above, no hemoptysis. GI - no nausea, no vomiting, no diarrhea, appetite stable. GU - no dysuria. MSK - mild low back ache, chronic. Neuro - no focal weakness, no numbness. Psych - mood stable, sleep as noted above. All other systems reviewed and negative.
+
+PE: Vitals - BP 128/76, HR 68 irregularly irregular, RR 16, SpO2 95% RA, Temp 98.4F, Wt stable. Gen - NAD, well-appearing woman. HEENT - PERRLA, oropharynx clear. Neck - no JVD, no LAD. CV - irregularly irregular rhythm, no murmurs appreciated. Lungs - mild expiratory wheeze bilaterally, no crackles, no rhonchi. Abd - soft, NT/ND, +BS. Ext - no edema. Skin - warm, dry. Neuro - grossly intact.
+
+Assessment/Plan:
+1. COPD - stable, continue tiotropium, continue albuterol PRN, discussed pulmonary rehab referral.
+2. Afib - continue apixaban, rate controlled on metoprolol, will recheck EKG.
+3. OSA - continue CPAP, review compliance download at next visit, consider mask refit given comfort issues.
+4. CKD stage 3 - stable, monitor renal fxn labs.
+5. HTN - well controlled on current regimen.
+6. Osteoporosis/hypothyroidism - continue current meds, recheck TSH and consider DEXA per schedule.
+Lung cancer screening discussed given age/history; no imaging ordered today.
+F/u in 3 months or sooner if symptoms worsen.
+
+Michael Dunn, DO

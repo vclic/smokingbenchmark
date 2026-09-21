@@ -1,0 +1,74 @@
+Adult Medicine Clinic Note
+
+Patient: CHEN, Yolanda    MRN: 25177320
+DOB: 08/21/1948    Age: 77 y.o.    Sex: Female
+Date of Service: 12/29/2025    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Yolanda Chen is a 77 y.o. female who presents for pre-operative evaluation prior to laparoscopic cholecystectomy.
+She is a former smoker and quit cold turkey in 2024. Scheduled for laparoscopic cholecystectomy on 27-Jan-2026. Walks daily without limitation. Had PONV with prior surgery.
+
+Past Medical History:
+Diagnosis	Date
+• Type 2 diabetes mellitus	2005
+• Primary OA, bilateral knees
+• COPD
+• Essential hypertension
+• Chronic kidney disease stage 3a
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• budesonide-formoterol 160/4.5 2 puffs BID
+• chlorthalidone 12.5 mg daily
+• albuterol HFA PRN
+• lisinopril 40 mg daily
+• diclofenac 1% gel QID PRN
+• metformin 1000 mg BID
+• tiotropium 18 mcg inhaled daily
+• semaglutide 0.5 mg weekly
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives in assisted living.
+  Alcohol: rare.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS: Neuro neg, Resp +, MSK neg, Skin neg, GU neg, Gen neg
+
+Objective:
+Vitals:
+  BP 133/73 (BP Location: Right arm, Patient Position: Sitting) | Pulse 96 | Temp 98.7 °F (Oral) | Resp 16 | Ht 5' 6" | Wt 170 lb | SpO2 90% | BMI 27.41 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Pre-operative evaluation
+   Low risk. CBC, BMP ordered.
+2. Health maintenance
+   LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+f/u 1 mo
+
+Electronically signed by Isaac Moreno, PA-C on 12/29/2025

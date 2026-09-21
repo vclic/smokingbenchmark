@@ -1,0 +1,55 @@
+RESIDENT NOTE - PRIMARY CARE FOLLOW-UP
+Patient: Linda Thompson (F), DOB 5/20/1974
+Age: 50 y/o
+Date of Service: 05/20/2024
+Author: Julia Brennan, MD (resident) w/ attending attestation
+
+CC: F/u s/p hospital discharge for pneumonia
+
+HPI: 50 y/o F w/ PMHx asthma, PAD, CKD stage 3 p/w for f/u after recent hospitalization for CAP, discharged 3 days ago on PO abx. Pt reports improving cough, less SOB, no fevers. She states, "I'm breathing so much better than last week, but I still get tired walking to the mailbox." Denies chest pain, denies hemoptysis. Appetite improving.
+Soc hx reviewed in detail today. Pt has extensive smoking hx - she smoked 3 packs per day from 1992 until 2022. She reports she is a former smoker, having quit smoking. Pt states, "I quit the day my granddaughter was born, and she's 2 yrs old now, so that tells you how long it's been." No e-cig or vape use reported. No EtOH, no illicit drug use per pt report.
+
+---Copied forward from visit dated 11/14/2022--- 
+HPI (from prior note, retained for reference, may not reflect current status): 48 y/o F here for routine PAD f/u. Pt c/o intermittent claudication in b/l calves, worse w/ ambulation >2 blocks, relieved w/ rest. ABI last checked 0.68 on the right, 0.71 on the left. On ASA 81mg daily and cilostazol. Denies rest pain, denies non-healing ulcers. CKD stage 3 stable, last Cr 1.4, eGFR 52. Asthma well controlled on PRN albuterol, no recent exacerbations, no ICS currently. Pt counseled extensively on smoking cessation at that visit, provided resources for quitline and NRT options; pt was still smoking at that time per that note.
+---End copied forward text---
+
+ROS: Constitutional - mild fatigue, denies fever/chills. Resp - improving cough, denies hemoptysis, denies pleuritic pain. CV - denies chest pain, denies palpitations, does note b/l leg cramping w/ walking (baseline, unchanged). GI - appetite improving, no N/V/D. GU - no dysuria. Skin - no rashes, no ulcers noted on extremities.
+
+Meds:
+- Amoxicillin-clavulanate 875mg BID (day 6 of 7, to complete course)
+- Albuterol HFA PRN
+- Aspirin 81mg daily
+- Cilostazol 100mg BID
+- Lisinopril 10mg daily
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: T 98.2F, HR 78, BP 128/76, RR 16, SpO2 96% RA
+Gen: NAD, comfortable, resting in chair
+HEENT: NC/AT, MMM, no oropharyngeal erythema
+Neck: supple, no LAD, no JVD
+CV: RRR, no m/r/g
+Resp: mild bibasilar crackles, improved from discharge exam per pt report, no wheezes, good air movement
+Abd: soft, NT/ND, +BS
+Ext: b/l DP pulses 1+, no edema, no ulcerations noted, cap refill <3 sec
+Skin: warm, dry, intact
+Neuro: A&Ox3, no focal deficits
+
+Labs (reviewed from discharge summary): WBC 9.1 (down from 14.2 at admission), Cr 1.5, eGFR 49
+
+Assessment/Plan:
+1. Community-acquired pneumonia, resolving - continue current abx course, f/u CXR in 4-6 wks to confirm resolution
+2. Former tobacco use - counseled on relapse prevention, praised pt for cessation, reinforced importance of continued abstinence given asthma/PAD/CKD comorbidities. Lung cancer screening discussed briefly given smoking hx; will revisit at next visit.
+3. Asthma - stable, continue PRN albuterol
+4. Peripheral artery disease - stable, continue ASA/cilostazol, f/u vascular surgery as scheduled
+5. CKD stage 3 - stable, monitor Cr/eGFR at next visit, avoid nephrotoxic agents
+6. Health maintenance - due for mammogram, will schedule
+
+RTC in 2 weeks or sooner if worsening symptoms.
+
+Electronically signed: Julia Brennan, MD (Resident)
+Attending Attestation: I have reviewed and discussed this case with Dr. Brennan and agree with the documented findings and plan above. - Dr. Marcus Feld, MD, Attending Physician
+
+---ADDENDUM (added later same day, 05/20/2024, 16:45)---
+Addendum by Julia Brennan, MD: Pt called back this afternoon to clarify that she has not had any fevers since discharge and wanted to confirm follow-up CXR timing - advised 4-6 wks per plan above, appointment to be scheduled by clinic staff. No changes to assessment/plan otherwise.

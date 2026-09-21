@@ -1,0 +1,82 @@
+Cardiology Progress Note
+Patient: Luis White
+DOB: 04/10/1965 (Age: 60)
+Date of Service: 11/28/2025
+Author: Kevin Osei, MD (NP progress note co-signed)
+
+CHIEF COMPLAINT: Chest pain evaluation.
+
+HPI: Mr. White is a 60-year-old male with history of osteoporosis, COPD, obesity, depression, and CKD stage 3 who presents today for evaluation of intermittent chest pain over the past 2 weeks. He describes the discomfort as a dull pressure sensation, sub-sternal, occurring primarily with exertion such as climbing stairs, lasting several minutes and resolving with rest. He denies radiation to the arm or jaw, denies diaphoresis, nausea, or syncope. He reports mild shortness of breath at baseline which he attributes to his COPD, though he feels it may be somewhat worse lately. No recent fevers, chills, or weight loss. He has been compliant with his home medications. He is followed by pulmonology for COPD and by nephrology for CKD.
+
+When tobacco use was raised as part of today's cardiovascular risk assessment, the patient declined to discuss his smoking history, stating he would rather not go into it at this visit. Smoking status could not be determined today.
+
+PAST MEDICAL HISTORY:
+- Osteoporosis
+- COPD
+- Obesity
+- Depression
+- Chronic kidney disease, stage 3
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Declined to discuss
+Packs per day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Alcohol use: Occasional, per prior chart
+Drug use: Denies
+Occupation: Not on file
+Living situation: Lives with spouse
+
+[Copied forward from prior visit note dated 06/14/2024 - Pulmonology, Dr. A. Nguyen]:
+"Patient returns for follow-up of COPD. He reports his inhaler use has been consistent, using albuterol PRN and tiotropium daily. He notes occasional wheeze with exertion but no significant change in baseline dyspnea. Spirometry from 03/2024 showed FEV1/FVC ratio consistent with moderate obstruction. He has had no exacerbations requiring steroids or antibiotics in the past six months. Vaccinations up to date including pneumococcal and influenza. Continue current regimen, follow up in 6 months, return sooner if worsening symptoms. Discussed pulmonary rehabilitation referral, patient hesitant due to transportation issues. Weight stable. Blood pressure well controlled on current regimen. No new complaints today."
+[End copied forward text]
+
+REVIEW OF SYSTEMS: Positive for exertional chest discomfort and mild dyspnea as above. Negative for palpitations, orthopnea, PND, lower extremity edema, fevers, cough productive of purulent sputum, hemoptysis. Negative for hematuria, dysuria. Positive for occasional low mood, stable on current antidepressant per patient report.
+
+MEDICATIONS:
+- Albuterol inhaler PRN
+- Tiotropium daily
+- Sertraline 100mg daily
+- Alendronate 70mg weekly
+- Lisinopril 10mg daily
+- Atorvastatin 20mg daily
+
+ALLERGIES: NKDA
+
+VITALS: BP 138/84, HR 78, RR 18, Temp 98.4F, SpO2 94% on room air, Weight 232 lb, BMI 34.1
+
+PHYSICAL EXAM:
+General: Well-developed, obese male, no acute distress.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops. No JVD. No lower extremity edema.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use.
+Abdomen: Soft, non-tender, obese habitus.
+Extremities: No cyanosis or clubbing.
+Psychiatric: Mood appears euthymic, appropriate affect.
+
+LABS/RESULTS:
+- CBC (11/28/2025): WBC 7.2, Hgb 13.9, Hct 41.2%, Platelets 245
+- BMP (11/28/2025): Na 139, K 4.4, Cl 102, CO2 24, BUN 22, Creatinine 1.5 (eGFR 52), Glucose 101
+- Troponin I (11/28/2025): <0.01 ng/mL (negative x1)
+- Lipid panel (10/02/2025): Total cholesterol 188, LDL 110, HDL 42, Triglycerides 150
+- HbA1c (10/02/2025): 5.7%
+- BNP (11/28/2025): 78 pg/mL
+- EKG (11/28/2025): Normal sinus rhythm, no acute ST-T wave changes
+
+ASSESSMENT:
+1. Chest pain, likely musculoskeletal versus early angina - given exertional pattern, will pursue further cardiac workup.
+2. COPD - stable, followed by pulmonology.
+3. Obesity.
+4. Depression - stable on sertraline.
+5. CKD stage 3 - stable, eGFR 52 today.
+6. Osteoporosis - continue alendronate.
+
+PLAN:
+1. Obtain outpatient stress echocardiogram to further evaluate exertional chest pain.
+2. Continue home medications as above.
+3. Discussed lung cancer screening guidelines in general terms given COPD history; further discussion deferred as tobacco history could not be obtained today. Patient encouraged to discuss further at follow-up if he wishes.
+4. Continue statin and lisinopril for cardiovascular risk reduction.
+5. Follow up with nephrology per established schedule for CKD monitoring.
+6. Return to clinic in 4 weeks or sooner if symptoms worsen, or go to ED for severe or persistent chest pain, shortness of breath, or syncope.
+7. Encouraged weight management and low-sodium diet.
+
+Electronically signed by Kevin Osei, MD, 11/28/2025.

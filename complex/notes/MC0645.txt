@@ -1,0 +1,43 @@
+Geriatrics NP Progress Note
+DOS: 07/03/2024
+Author: Owen Fitzgerald, MD
+
+Patient: James Sanchez, M, DOB 07/03/1966 (age 58 today - visit falls on his bday)
+
+CC: Geriatric assessment f/u, multiple chronic conditions.
+
+HPI: Mr Sanchez presents for routine geriatric assessment. He reports fatigue, some joint aches, otherwise stable mood on current regimen. He denies chest pain, palpitations well controlled per cardiology. Asthma sx mild, uses albuterol prn maybe 1x/week. OSA - compliant with CPAP per report.
+
+Smoking Hx: Pt has a long tobacco history. He smoked about a quarter pack (approx 5 cigarettes) per day for 21 years, then increased to 1.5 packs per day for 16 years. He has not smoked since his 56th birthday and currently denies any tobacco use. He is not currently a smoker.
+
+---- COPIED FORWARD FROM VISIT 11/14/2022 ----
+Pt seen for f/u of DM2, CAD, afib. A1c 7.8, on metformin and glipizide, discussed diet modifications extensively. Cardiology recs continue apixaban for afib, no bleeding issues reported. Asthma stable on ICS/LABA combo. Depression screen PHQ-9 scored 6, mild. OSA dx confirmed on PSG in 2019, CPAP settings 9cm H2O. Pt lives alone, ambulates independently, denies falls in past 6 months. Family hx notable for father w/ MI at 60. Pt was advised re: importance of med compliance and f/u labs in 3 months. (Note: this text block copied forward inadvertently from prior encounter, left as-is for continuity of documentation per EHR convention)
+---- END COPIED BLOCK ----
+
+ROS: otherwise negative except as above. No hemoptysis, no unexplained weight loss.
+
+PMH: depression, asthma, atrial fibrillation, coronary artery disease, type 2 diabetes, OSA.
+
+Meds: metoprolol, apixaban, atorvastatin, metformin, sertraline, albuterol prn, ICS/LABA inhaler.
+
+Labs (06/28/2024):
+A1c: 7.2%
+Cr: 1.0 mg/dL
+LDL: 88 mg/dL
+TSH: 2.1 uIU/mL
+Hgb: 13.9 g/dL
+BNP: 110 pg/mL
+
+Exam: Well-appearing man, NAD. Lungs clear bilaterally, no wheeze appreciated today. Irregular rhythm noted on cardiac exam consistent w known afib, no murmurs. Extremities no edema. Neuro grossly intact, gait steady.
+
+Assessment: 58 yo M w/ hx CAD, afib, T2DM, asthma, depression, OSA presenting for geriatric assessment; former smoker, quit tobacco use as noted above, remains abstinent. Chronic conditions overall stable.
+
+Plan:
+1. Continue current meds as above.
+2. Encourage continued smoking abstinence, positive reinforcement given.
+3. Lung cancer screening discussed with patient; will revisit at future visit.
+4. Recheck labs in 6 months or sooner if symptoms arise.
+5. Continue CPAP compliance, f/u sleep med as needed.
+6. F/u geriatrics in 6 months.
+
+Electronically signed: Owen Fitzgerald, MD

@@ -1,0 +1,82 @@
+Family Medicine Clinic Note
+
+Patient: TORRES, Susan    MRN: 25971119
+DOB: 12/16/1947    Age: 76 y.o.    Sex: Female
+Date of Service: 09/13/2024    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• Follow-up
+
+Subjective:
+Susan Torres is a 76 y.o. female who presents for routine follow-up of chronic conditions.
+No new concerns. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• HTN	2019
+• Acquired hypothyroidism
+• Mixed hyperlipidemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 20 mg daily
+• amlodipine 5 mg daily
+• lisinopril 10 mg daily
+• levothyroxine 100 mcg daily
+• ezetimibe 10 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Packs/day: 0.75
+    Years: 56.00
+    Pack years: 42.00
+    Types: Cigarettes
+    Quit date: 9/6/2019
+    Years since quitting: 5.0
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Retired, former hairdresser.
+  EtOH: none since 1995 (hx AUD).
+  No IVDU.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Gen neg, MSK neg, Skin neg, GI neg, CV neg
+
+Objective:
+Vitals:
+  BP 147/94 (BP Location: Right arm, Patient Position: Sitting) | Pulse 84 | Temp 98.2 °F (Oral) | Resp 16 | Ht 5' 3" | Wt 157 lb | SpO2 100% | BMI 27.80 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (9/1/2024): LDL 67, Cr 1.06, K 3.9, Hgb 15.0, TSH 2.20
+
+Assessment & Plan
+1. Acquired hypothyroidism
+   TSH normal on last check; continue.
+2. HTN
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+3. Mixed hyperlipidemia
+   Tolerating statin; recheck lipids in 1 yr.
+4. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+Return in about 6 months (around 3/13/2025).
+
+Electronically signed by Nadia Haddad, MD on 09/13/2024

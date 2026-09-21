@@ -1,0 +1,49 @@
+Pulmonology Progress Note
+Patient: Elizabeth Murphy | DOB: 02/14/1973 | Age: 51
+Date of Service: 02/14/2024
+Author: Teresa Alvarez, NP
+
+CC: COPD follow-up.
+
+HPI: Ms. Murphy is a 51-year-old woman with COPD, type 2 diabetes, obesity, and osteoarthritis who returns today for routine follow-up of her lung disease. She reports mild increase in exertional dyspnea over the past month, denies fevers or chills, and states her cough is stable, produces small amounts of clear sputum in the a.m. Patient has a smoking history notable for having smoked 1 pack per day for 10 years; she is a former smoker who quit smoking in 1999 and has remained abstinent since. She uses her albuterol inhaler roughly twice weekly with good relief. No recent hospitalizations, no home oxygen. She endorses some knee pain from her osteoarthritis, worse w/ cold weather, and states her blood sugars have been "running kind of high" at home, in the 150s-180s range per her log, she thinks it might be from the holidays [inaudible] eating more than usual and not exercising as much cause of the knee.
+
+ROS: otherwise negative except as noted above, denies chest pain, denies hemoptysis, denies unintentional weight loss.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking status: Not current
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to joint pain
+Secondhand smoke exposure: Not on file
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 95% RA, Wt 198 lb
+General: well-nourished, no acute distress
+Lungs: mild expiratory wheeze bilaterally, no crackles
+CV: RRR, no murmurs
+Ext: no edema, mild crepitus of bilateral knees
+
+ASSESSMENT/PLAN:
+Problem List (ICD-10):
+1. COPD, unspecified (J44.9) - stable, continue current inhaler regimen
+2. Type 2 diabetes mellitus without complications (E11.9) - blood sugars trending up, will adjust metformin dose, recheck A1c
+3. Obesity (E66.9) - counseled on diet and exercise as tolerated given knee limitations
+4. Osteoarthritis, unspecified site (M19.90) - continue NSAID as needed, refer ortho if worsens
+5. Essential hypertension (I10) - outdated, patient states this resolved after weight loss several years ago, will remove from active list pending confirmation
+
+Plan:
+- Continue albuterol PRN
+- Discussed pulmonary function trends, stable since last visit
+- Discussed general risk reduction strategies given her smoking history, screening options were discussed with the patient in general terms
+- Diabetes: increase metformin, recheck labs in 3 months
+- OA: continue conservative management
+- Return to clinic in 3 months or sooner if symptoms worsen
+- Pt verbalized understanding and agreement with plan.
+
+Teresa Alvarez, NP
+
+--- ADDENDUM (same day, 3:45 PM) ---
+Patient called back to clinic after visit to clarify that her home glucose log actually shows readings more consistently in the 160-190 range rather than 150-180 as documented above, will take into account when adjusting metformin dose. No other changes to note. Smoking history as documented above remains accurate, no changes. -T. Alvarez, NP

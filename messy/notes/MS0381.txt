@@ -1,0 +1,57 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Pulmonology - Kevin Osei, MD
+Date of Service: 08/29/2024
+Re: Cheryl Baker, DOB 3/10/1958, age 66
+
+Dear Doctor,
+
+Thank you for referring Ms. Baker for lung cancer screening shared decision-making visit.
+
+HPI: Pt seen today re: LDCT screening SDM discussion. Denies cough, hemoptysis, wt loss. Hx notable for depression, afib, gout - stable on current regimen. No new pulm complaints. Reports occasional dyspnea on exertion, chronic, unchanged.
+
+--- COPIED FORWARD FROM NOTE DATED 11/29/2021 ---
+[Begin copied text from 11/29/2021 visit]
+SOCIAL HISTORY (as documented 11/29/2021): Former smoker. Denies current tobacco use. No vaping. No other substance use reported at that time. Pt counseled re: smoking cessation resources, states she has no interest in resuming.
+[End copied text from 11/29/2021 visit]
+--- END COPIED SECTION ---
+
+TOBACCO HISTORY (EHR templated block, updated today):
+Smoking status: Former smoker.
+Cigarettes/day: 3/4 pack per day (~15 cigs/day).
+Age started: 19.
+Age quit: 57.
+Year quit: 2015.
+Current use: None. Pt does not smoke at this time.
+Pack-years: [not calculated in this note]
+Secondhand smoke exposure: Spouse also smokes; pt reports ongoing exposure at home.
+
+ROS: Negative except as above. No hemoptysis, no fevers, no night sweats.
+
+PMH: Depression, atrial fibrillation, gout.
+Meds: Sertraline, apixaban, allopurinol (per pt report - please verify list w/ PCP).
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 128/78, HR 76 irregular (known afib), RR 16, SpO2 97% RA.
+Gen: NAD, well-appearing.
+Lungs: CTAB, no wheezes/rales/rhonchi.
+CV: irregularly irregular rhythm, no murmurs.
+Ext: no gouty tophi noted today, no acute joint swelling.
+
+Assessment/Plan:
+66 yo F, former smoker, quit 2015, presenting for LDCT lung cancer screening SDM visit.
+- Discussed risks/benefits of low-dose CT screening at length; pt understands overdiagnosis, false positive, radiation exposure risks.
+- Screening eligibility criteria and decision to proceed discussed; will defer further action pending pt's decision.
+- Continue current management of afib, depression, gout per PCP/cardiology.
+- Encouraged pt to avoid secondhand smoke exposure at home given spouse's ongoing tobacco use; discussed cessation resources for spouse as well.
+- F/u in pulm clinic PRN or per SDM outcome.
+- Return precautions reviewed: new cough, hemoptysis, unexplained wt loss, chest pain.
+
+Thank you again for this referral. Please contact our office w/ any questions.
+
+Sincerely,
+Kevin Osei, MD
+Pulmonology
+
+---ADDENDUM (same day, later)---
+08/29/2024 1645: Pt called back after visit to clarify - confirms no interest in resuming smoking, reiterates she quit in 2015 and remains smoke-free. Spouse's smoking status unchanged, still smokes per pt report. No further changes to plan. Addendum reviewed and signed - K. Osei, MD.

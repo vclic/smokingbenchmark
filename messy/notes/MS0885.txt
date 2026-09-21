@@ -1,0 +1,43 @@
+INTERNAL MEDICINE PRE-OPERATIVE EVALUATION
+Patient: Mary Bennett | DOB: 2/21/1972 | Age: 51 | Sex: F
+Date of Service: 08/31/2023
+Provider: Julia Brennan, MD (NP progress note)
+
+CC: Pre-op clearance for right total knee replacement.
+
+HPI: Ms Bennett is a 51 yo woman with hx of HFrEF, PAD, obesity, and GERD presenting for pre-surgical medical evaluation prior to elective knee arthroplasty scheduled next month. She reports gradually worsening right knee pain limiting ambulation, now using a cane. Denies chest pain, orthopnea has been stable, no PND. She continues lisinopril, carvedilol, and furosemide as previously prescribed. No recent hospitalizations. She works part time as a school administrator and lives with her husband.
+
+---- COPIED FORWARD FROM VISIT 03/14/2022 (retained for reference, not all current) ----
+Patient presents for f/u of HFrEF (EF 35% on echo 2021), PAD s/p prior claudication workup, GERD on omeprazole, obesity BMI 34. Denies smoking. Ambulates without assistive device at that time. Reports occasional leg cramping w exertion, improved w cilostazol. Cardiology f/u q6 months recommened. Pt counseled on low sodium diet, weight managment, and adherance to meds. No acute distress noted, vitals stable, plan unchanged from prior visit 09/2021.
+----------------------------------------------------------------------------------
+
+Social History: Lifelong non-smoker; never used tobacco products in any form. She notes her husband smokes about a pack a day at home, so there is some secondhand smoke exposure in the household, though she herself has never smoked. Denies illicit drug use, rare alcohol (glass of wine on occasion). Lives with spouse, independent w ADLs.
+
+ROS: Otherwise negative except as noted in HPI. No fevers, no cough, no hemoptysis, no recent weight change.
+
+Exam:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 97% RA, Wt 198 lb, BMI 33.9
+Gen: NAD, well-appearing woman
+CV: RRR, no S3/S4 appreciated today, no significant lower extremity edema
+Resp: CTAB, no wheezes/crackles
+Ext: Diminished dorsalis pedis pulses bilaterally, right knee w crepitus and decreased ROM, no effusion
+Skin: no lesions
+
+Labs/Results (reviewed today):
+- CBC (08/28/2023): WBC 6.1, Hgb 12.9, Plt 245
+- BMP (08/28/2023): Na 138, K 4.2, Cr 0.9, eGFR >60
+- BNP (08/28/2023): 210 pg/mL (mildly elevated, stable from prior 195 on 02/2023)
+- EKG (08/31/2023): NSR, no acute ST changes, unchanged from prior
+- TTE (referenced from 2021): EF 35%
+
+Assessment/Plan:
+1. Pre-op clearance for right TKA - cardiac risk assessed as intermediate given HFrEF; recommend continuation of home cardiac meds through peri-op period, hold ACEI morning of surgery per anesthesia protocol. No further cardiac workup needed at this time given stable BNP/EKG.
+2. HFrEF - stable, continue carvedilol, lisinopril, furosemide. F/u cardiology post-op.
+3. PAD - continue cilostazol, monitor lower extremity perfusion post-op given surgical positioning risk.
+4. Obesity - counseled on post-op mobility and weight managment goals; discussed general household risk factors including tobacco exposure, however patient herself is a lifelong non-smoker so smoking cessation counseling not applicable to her directly, though she was encouraged to support her husband in reducing home tobacco exposure given household secondhand smoke.
+5. GERD - continue omeprazole, no active symptoms.
+6. Health maintenance - routine age-appropriate preventive care reviewed, will defer further discussion to PCP.
+
+Plan reviewed with patient, questions answered, follow up post-operatively as scheduled.
+
+Julia Brennan, MD

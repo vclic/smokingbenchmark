@@ -1,0 +1,68 @@
+NEW PATIENT VISIT - ESTABLISH CARE
+Patient: Gregory Lewis (M) DOB: 5/19/1970 Age: 54
+Date of Service: 05/29/2024
+Author: Isaac Moreno, PA-C (resident note; attending attestation below)
+
+CHIEF COMPLAINT: Establish care, review chronic conditions.
+
+HPI: Mr. Lewis is a 54 y/o male presenting to establish primary care. Recently relocated, needs refill of GERD meds and follow up of CKD stage 3 and obesity mgmt. Denies chest pain, denies dysuria, occasional heartburn worse at night, improved somewhat with OTC antacids. No hematuria. No edema noted by pt. Reports trying to walk more for weight loss.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 (outside records, imported) ---
+Pt seen for hypertension follow up (dx now resolved per pt report, previously on lisinopril, d/c'd 2019). A1c wnl at that time. Pt reports diet notable for high sodium intake, advised low-salt diet. Denies illicit drug use. Denies use of tobacco products of any kind. Family hx notable for father w/ MI at 60. Pt was working full time as a warehouse supervisor at that visit; occupation may have changed since. No acute distress. Plan at that time: continue monitoring BP at home, f/u in 6 months (pt did not return until now, 2024).
+--- END COPIED FORWARD TEXT ---
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker.
+Smokeless tobacco: Not on file
+Alcohol use: Former drinker, quit 2018.
+Alcohol type/frequency: Not on file
+Illicit drug use: Denies
+Caffeine: 2 cups coffee/day
+Occupation: Not on file
+Living situation: Lives with spouse
+Exercise: Reports trying to increase activity
+Diet: High sodium, working on improvement
+
+ROS: Constitutional - denies fever, denies unintentional weight loss. Resp - denies cough, denies SOB, denies wheeze. CV - denies chest pain, denies palpitations. GI - endorses occasional heartburn as above, denies blood in stool. GU - denies dysuria, denies hematuria. Musculoskeletal - denies joint pain. Skin - no rashes.
+
+VITALS: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 245 lb, Ht 5'10", BMI 35.1, SpO2 98% RA.
+
+EXAM:
+Gen: well-appearing, NAD, obese habitus.
+HEENT: nl, no scleral icterus.
+Neck: no JVD, no thyromegaly.
+CV: RRR, no murmur.
+Resp: CTAB, no wheeze/rales.
+Abd: soft, obese, nontender, no organomegaly.
+Ext: no edema, pulses 2+.
+Skin: no rash.
+
+PROBLEM LIST (partially outdated, review pending):
+1. K21.9 - GERD - active
+2. N18.3 - Chronic kidney disease, stage 3 - active
+3. E66.9 - Obesity - active
+4. I10 - Essential hypertension - listed but pt reports resolved, med d/c'd per HPI copied note; needs reconciliation
+5. Z87.891 - personal hx of nicotine dependence - THIS APPEARS TO BE AN ERROR, pt is a never-smoker per current interview, flagged for problem list cleanup.
+
+LABS (reviewed, from outside records, dated 03/2024): Cr 1.5, eGFR 52, BUN 22, K 4.6, fasting glucose 101.
+
+ASSESSMENT/PLAN:
+54 y/o male, new to practice, establishing care.
+
+1. GERD (K21.9) - continue PPI, counsel on avoiding late meals, trigger foods. F/u if sx worsen.
+
+2. CKD stage 3 (N18.3) - review labs above, stable eGFR range. Recheck BMP + urine microalbumin in 3 months. Avoid nephrotoxic agents/NSAIDs. Discussed renal-friendly diet.
+
+3. Obesity (E66.9) - BMI 35.1. Counseled on diet/exercise, referral to nutrition considered. Discussed weight loss goals, follow up in 3 months to reassess.
+
+4. Hypertension (I10) - problem list entry appears outdated per pt report of resolution/med discontinuation in 2019; will reconcile at next visit, home BP log requested in the interim; today's BP mildly elevated at 138/86, will recheck.
+
+5. Health maintenance - Patient counseled regarding routine preventive care, immunizations reviewed and updated. Screening options discussed as appropriate for age; will address further at follow up.
+
+6. Tobacco/alcohol - Patient denies any history of cigarette smoking (never smoker); alcohol history notable for prior use, quit in 2018, no current use, no further counseling needed at this time regarding alcohol.
+
+Return to clinic in 3 months, sooner if symptoms worsen.
+
+---
+ATTESTATION: I have personally seen and evaluated the patient with the resident. I discussed the case with Mr. Moreno, PA-C, and agree with the findings and plan as documented above.
+/s/ Attending Physician

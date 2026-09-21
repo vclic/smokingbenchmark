@@ -1,0 +1,86 @@
+Family Medicine Clinic Note
+
+Patient: SULLIVAN, Donna    MRN: 22322738
+DOB: 07/11/1955    Age: 69 y.o.    Sex: Female
+Date of Service: 07/29/2024    Provider: Quentin Hale, PA-C
+
+Chief Complaint
+Patient presents with
+• HTN follow-up
+
+Subjective:
+Donna Sullivan is a 69 y.o. female who presents for follow-up of hypertension.
+Home BP readings mostly in the 150s/70s. Admits to missing lisinopril 10 mg daily a few times a week. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• Primary OA, bilateral knees
+• Hypertension	1995
+• Atrial fibrillation
+• Mild persistent asthma
+• Hyperlipidemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2001)
+• Right total knee arthroplasty (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• apixaban 5 mg BID
+• fluticasone 110 mcg 2 puffs BID
+• diclofenac 1% gel QID PRN
+• pravastatin 40 mg nightly
+• lisinopril 10 mg daily
+• amlodipine 5 mg daily
+• metoprolol tartrate 25 mg BID
+• vitamin D3 2000 IU daily
+• albuterol HFA PRN
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Experimented w/ cigarettes in HS (<100 lifetime), never a regular smoker.
+  Social drinker.
+
+Family History
+Mother - HTN, DM2. Father - colon cancer at 68.
+
+Review of Systems
+ROS: Neuro neg, CV neg, GU neg, MSK neg, Resp neg
+
+Objective:
+Vitals:
+  BP 155/87 (BP Location: Left arm, Patient Position: Sitting) | Pulse 90 | Temp 98.2 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 150 lb | SpO2 98% | BMI 22.88 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (7/12/2024): LDL 61, Cr 1.07, K 3.7
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase lisinopril dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Mild persistent asthma
+   Using albuterol <2x/wk. No changes.
+3. Hyperlipidemia
+   LDL at goal on last check; continue.
+4. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Quentin Hale, PA-C on 07/29/2024

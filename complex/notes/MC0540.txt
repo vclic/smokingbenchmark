@@ -1,0 +1,69 @@
+NURSE INTAKE
+Patient: Denise Taylor DOB 3/30/1960 Age 66
+Date of Service: 3/30/2026
+Provider: Hannah Weiss, NP
+Visit type: Pre-operative evaluation for right total knee replacement, referred by ortho surgery
+
+Vitals: BP 138/82 HR 78 irreg irreg (known afib) RR 16 Temp 97.8 SpO2 96% RA Wt 172 lbs Ht 5'4"
+
+Chief complaint: pre-op clearance for knee replacement, pt reports knee pain limiting ambulation, denies chest pain, denies SOB at rest
+
+Social History: Pt states she tried a few cigarettes as a teenager but never smoked regularly, denies current tobacco use, denies vaping, denies illicit drug use. Occasional glass of wine with dinner. Lives with husband, independent with ADLs, uses cane for ambulation 2ary to knee pain.
+
+Allergies: NKDA
+
+Medication List (reconciled today):
+- Apixaban 5mg PO BID
+- Metformin 1000mg PO BID
+- Glipizide 5mg PO daily
+- Lisinopril 10mg PO daily
+- Allopurinol 100mg PO daily
+- Colchicine 0.6mg PO PRN gout flare
+- Albuterol HFA inhaler 2 puffs Q4H PRN wheeze
+- Fluticasone/salmeterol 250/50 1 puff BID
+- Atorvastatin 40mg PO qhs
+- Vitamin D3 2000 units daily
+
+=== COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2025 (left in chart by EMR carryover, physician did not update) ===
+HPI: 65 yo F with hx afib, CKD3, gout, T2DM, asthma here for routine follow up. Pt reports doing well overall, gout flare last month resolved w colchicine, sugars running 120-160 fasting per home glucometer log, denies polyuria polydipsia. Afib well rate controlled on apixaban and no bleeding events. Asthma stable using rescue inhaler less than once weekly. Knee pain chronic, managed conservatively with NSAIDs as needed although NSAID use limited given CKD.
+ROS: Constitutional: no fever no chills no weight loss. HEENT: no vision changes no hearing loss. CV: no chest pain no palpitations (aside from known afib) no orthopnea no PND no edema. Resp: no cough no hemoptysis, mild dyspnea on exertion stable. GI: no nausea no vomiting no diarrhea no constipation. GU: no dysuria no hematuria. MSK: chronic bilat knee pain right greater than left, gout flares intermittent in great toe. Neuro: no focal weakness no numbness. Skin: no rashes. Psych: mood stable, denies depression anxiety.
+Exam: General - well appearing NAD. HEENT - PERRL, EOMI, oropharynx clear. Neck - no JVD no thyromegaly. CV - irregularly irregular rate no murmur. Lungs - clear to auscultation bilat no wheeze rhonchi rales. Abd - soft nontender nondistended, normoactive bowel sounds. Ext - trace edema bilat, 1st MTP joints nontender today. Neuro - grossly intact.
+A/P at that time: 1. Afib - continue apixaban 2. CKD3 - stable, monitor labs 3. Gout - stable on allopurinol 4. T2DM - reasonable control, continue metformin/glipizide 5. Asthma - stable
+=== END COPIED FORWARD SECTION ===
+
+PHYSICIAN PROGRESS NOTE (current visit 3/30/2026)
+HPI: Ms Taylor is a 66 y/o female here today for pre-op medical clearance prior to right total knee arthroplasty scheduled with Dr. Alvarez next month. She reports knee pain has progressively worsened over the past several months, now limiting her to short distances with a cane, [inaudible] she notes some knight pain, I mean knee pain, worse with stairs. No recent fevers chills or signs of infection. Cardiac review otherwise unremarkable no chest pain no palpitations beyond her known afib no syncope. She denies any bleeding issues on apixaban no bruising no blood in stool. Renal function reportedly stable per recent labs. Gout has been quiescent since last flare. Diabetes control adequate per home glucometer readings. Asthma stable using rescue inhaler infrequently.
+
+Social history reviewed with patient today: tobacco - as noted above patient tried a few cigarettes as a teenager but never smoked regularly, she has not used tobacco products since. No current smoking no vaping. Alcohol use is minimal social. No illicit drug use reported.
+
+ROS (10 point, reviewed today, mostly unremarkable): Constitutional negative, Eyes negative, ENT negative, CV positive only for known afib no new symptoms, Resp negative no cough no wheeze today, GI negative, GU negative, MSK positive for chronic bilateral knee pain right>left, Skin negative, Neuro negative, Psych negative, Endo positive for T2DM stable, Heme/Lymph negative, Allergic/Immunologic negative.
+
+Physical Exam:
+General: well developed well nourished female in no acute distress, ambulates with cane
+Vitals: as above
+HEENT: atraumatic normocephalic, PERRL, EOMI, oropharynx clear no erythema
+Neck: supple no lymphadenopathy no JVD no thyromegaly
+Cardiovascular: irregularly irregular rhythm consistent w known afib, no murmurs rubs or gallops appreciated, peripheral pulses 2+ symmetric
+Respiratory: lungs clear to auscultation bilaterally, no wheezes rales or rhonchi, good air movement, no increased work of breathing
+Abdomen: soft nontender nondistended normoactive bowel sounds no organomegaly
+Extremities: right knee w mild effusion and crepitus on ROM, no erythema no warmth, left knee unremarkable, trace bilat ankle edema, no calf tenderness
+Skin: no rashes no lesions
+Neuro: cranial nerves grossly intact, motor strength 5/5 all extremities, sensation intact, gait antalgic favoring right leg using cane
+Psych: mood and affect appropriate
+
+Labs reviewed today: Creatinine 1.4 (baseline for CKD3), eGFR 45, HbA1c 7.1%, INR n/a on DOAC, CBC unremarkable, BMP otherwise within normal limits except mildly elevated potassium 4.9 which is stable from prior.
+
+Assessment/Plan:
+1. Pre-op clearance for right TKA - cardiac and pulmonary risk assessed as low-moderate given controlled afib and stable asthma, cleared to proceed from medicine standpoint pending surgical team's final decision, discussed anesthesia risks briefly w patient
+2. Atrial fibrillation - continue apixaban, will coordinate with surgery re: peri-operative anticoagulation bridging plan, rate appears controlled on exam
+3. CKD stage 3 - stable, avoid nephrotoxic agents peri-operatively, will recheck renal function post-op
+4. Gout - continue allopurinol, hold if renal function worsens, colchicine PRN
+5. Type 2 diabetes - reasonable control A1c 7.1%, continue current regimen, will need adjusted peri-op glucose monitoring plan
+6. Asthma - stable, continue current inhalers, ensure albuterol available peri-operatively
+7. Health maintenance - lung cancer screening was discussed with patient given age and history, further discussion deferred to primary care follow up
+8. Follow up in 2 weeks or sooner if any issues, pt to call w questions
+
+Hannah Weiss, NP
+
+=== ADDENDUM added later same day 3/30/2026 3:45pm ===
+Patient called clinic this afternoon to clarify medication timing prior to surgery, specifically asking when to hold apixaban preoperatively. Advised patient that surgical team will provide specific instructions regarding anticoagulation hold, and to continue all other medications as prescribed until further notice. Patient verbalized understanding. No new complaints reported at this time. Will document further communication if received. -HW NP

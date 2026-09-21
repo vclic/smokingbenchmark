@@ -1,0 +1,54 @@
+HOSPITAL D/C F/U - PRIMARY CARE
+DOS: 02/07/2023
+Author: Steven Park, MD (NP progress note)
+Pt: Joseph Sanchez, M, DOB 02/07/1946 (age 77)
+
+HPI:
+77 yo M s/p recent hosp for pneumonia, seen today for post-d/c f/u. Pt reports improving cough, less SOB since d/c. Denies fever/chills. O2 sat 94% RA in clinic today. Appetite improving, ambulating more w/o significant desat. Cont's on abx per d/c plan, tolerating well. Wife accompanies pt to visit, corroborates improvement in energy since discharge.
+
+He continues to smoke; encouraged cessation again today given recent pneumonia and underlying cardiopulm disease - pt states he is not ready to quit at this time. Discussed risks of continued smoking on OSA, CAD, HFrEF, and recurrent pulm infection risk.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE (10/14/2021) - NOT UPDATED, LEFT IN CHART ---
+Pt c/o occasional palpitations, denies CP. On Eliquis for AFib, tolerating well. CPAP compliance reportedly fair per pt report, download not avail today. Cont metoprolol succ, lisinopril, furosemide, atorvastatin. Wt stable. No LE edema noted. F/u in 3 months or sooner PRN.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker - ACTIVE SMOKER
+  Type: cigarettes
+  Hx: pt reports 3 distinct stretches of use - approx 3/4 ppd (~15 cigs/day) x 19 yrs, then decreased to approx 1/2 ppd (~10 cigs/day) x 25 yrs, then further cut down to approx 1/4 ppd (~5 cigs/day) x 19 yrs, which is his current level of use.
+  Quit attempts: Not on file
+  Interest in quitting: declined counseling referral today
+Alcohol use: occasional, denies heavy use
+Illicit drug use: denies
+Occupation: retired
+Living situation: lives w/ spouse
+Exercise: limited 2/2 recent illness
+
+ROS: Constitutional - fatigue improving. Resp - mild residual cough, no hemoptysis. Cardiac - no CP, occ palpitations per copied note above (chronic, stable). All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irreg irreg, RR 16, Temp 97.8F, SpO2 94% RA, Wt 198 lb
+Gen: NAD, appears stated age
+HEENT: unremarkable
+CV: irreg irreg rhythm, no m/r/g appreciated, no significant JVD
+Resp: scattered mild crackles R base, improved from d/c exam, no wheeze
+Abd: soft, NT/ND
+Ext: trace edema b/l, no c/c/e otherwise
+
+LABS/DATA:
+CXR at d/c showed resolving infiltrate RLL.
+BMP wnl, BNP mildly elevated stable from baseline.
+INR therapeutic on last check.
+
+ASSESSMENT/PLAN:
+1. Recent pneumonia, resolving - cont current abx course, f/u CXR in 4-6 wks to document resolution.
+2. Active tobacco use (cigarette smoker) - counseled again on cessation given recent pulm infection and cardiopulm comorbidities; pt not ready to quit today, offered resources, will re-address at next visit. Lung cancer screening was discussed with pt as part of general risk counseling.
+3. HFrEF - euvolemic-ish today, cont GDMT, monitor wt daily.
+4. AFib - rate appears controlled, cont anticoagulation, will check INR next wk.
+5. CAD - stable, cont statin/antiplatelet or anticoag as applicable.
+6. HTN - well controlled today.
+7. OSA - encourage CPAP compliance, will consider re-check of adherence download at next visit.
+
+F/u in 2-4 wks or sooner if worsening sx. Pt verbalizes understanding of plan. Wife present for education, agrees to assist w/ med compliance and monitoring at home.
+
+Steven Park, MD

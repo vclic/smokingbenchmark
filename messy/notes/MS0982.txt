@@ -1,0 +1,51 @@
+URGENT CARE VISIT NOTE
+DOS: 06/17/2026
+Patient: Joyce Harris | DOB: 06/17/1951 | Age: 75 | Sex: F
+Author: Farah Siddiqui, MD (resident) w/ attending attestation
+
+CC: cough x several days
+
+HPI: 75yo F w/ PMH PAD, hypothyroidism p/w cough, nonproductive, worse at night. Denies fever, denies hemoptysis. No recent travel. No sick contacts reported. Some mild SOB on exertion, baseline claudication sx stable per pt. No CP. Reports fatigue, attributes to poor sleep from coughing.
+
+ROS: Constitutional: no fever, no chills, no wt loss. HEENT: no sore throat, no congestion. CV: no CP, no palpitations, +known PAD. Resp: +cough, no wheeze reported, no hemoptysis. GI: no N/V/D. GU: no dysuria. MSK: chronic bilateral leg discomfort c/w claudication, unchanged. Skin: no rash. Neuro: no focal deficits. Psych: no SI/HI. All other systems reviewed and negative.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker - lifelong non-smoker, denies any hx of cigarette use.
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+Exercise: Not on file
+
+PMH: Peripheral artery disease, hypothyroidism.
+PSH: Not on file.
+Meds: Levothyroxine 75mcg daily, Aspirin 81mg daily, Cilostazol 100mg BID, Atorvastatin 40mg qHS, Multivitamin daily, Vitamin D3 1000 IU daily, Occasional Tylenol PRN pain.
+Allergies: NKDA.
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 78, BP 132/76, RR 16, SpO2 97% RA.
+Gen: NAD, well-appearing elderly female, A&Ox3.
+HEENT: NC/AT, PERRLA, oropharynx clear, no erythema, no exudate.
+Neck: supple, no LAD, no JVD.
+CV: RRR, no m/r/g. Distal pulses diminished bilaterally in lower extremities c/w known PAD, no acute change from prior.
+Resp: CTAB, no wheezes, no rales, no rhonchi. Good air entry bilaterally.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, no acute skin changes, cap refill <3s.
+Skin: warm, dry, intact.
+Neuro: CN II-XII grossly intact, no focal deficits.
+Psych: mood/affect appropriate.
+
+ASSESSMENT/PLAN:
+75F with PAD, hypothyroidism, presenting w/ acute cough, likely viral URI vs post-nasal drip etiology. Low suspicion for pneumonia given normal vitals, clear lung exam, no hypoxia.
+1. Cough - supportive care, OTC antitussive/expectorant PRN, hydration, follow up if worsening, f/u w/ PCP if persists >2wks or if develops fever/SOB/hemoptysis.
+2. PAD - stable, continue cilostazol, aspirin, statin. Continue routine vascular follow-up.
+3. Hypothyroidism - continue levothyroxine, stable per pt report, recommend TSH check at next PCP visit if not done recently.
+4. Health maintenance - lung cancer screening discussed generally as part of preventive health discussion; will defer further eval to PCP.
+5. Return precautions given: worsening SOB, fever, chest pain, hemoptysis - return to ED/UC immediately.
+
+Pt verbalized understanding of plan, all questions answered.
+
+Attending attestation: I have seen and examined the patient with Dr. Siddiqui, discussed the case, and agree with the assessment and plan as documented above. - F. Siddiqui, MD, attending.

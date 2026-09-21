@@ -1,0 +1,68 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Karen Clark
+DOB: 7/26/1955 (age 69)
+Date of Service: July 26, 2024
+Author: Anita Patel, MD
+Re: Hospital discharge follow-up after pneumonia
+
+Dear Dr. Colleague,
+
+Thank you for referring Ms. Clark, a 69-year-old woman, for follow-up after recent hospitalization for community-acquired pneumonia. She was discharged 5 days ago and reports gradual improvement in cough and dyspnea, though she still notes mild fatigue and occassional wheeze, which she attributes in part to her underlying asthma. She denies fevers, chills, or hemoptysis. She has been compliant w/ her completed course of antibiotics.
+
+Of note, she has a history significant for prior tobacco use; she quit smoking right after her bypass surgery and has remained smoke-free since. She does not use vape products or other nicotine replacement currently.
+
+PAST MEDICAL HISTORY:
+- Asthma
+- Peripheral artery disease
+- CABG x3 (2013)
+- Community-acquired pneumonia (recent, resolving)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Packs per day: 0.5 ppd (historical)
+Age started: 15
+Year quit: 2013
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Limited due to PAD symptoms
+
+HPI (continued): She reports that she started smoking about half a pack a day, roughly 10 cigarettes daily, at age 15, and she kept smoking at that same rate until she quit in 2013. She does not smoke at all now and has not for some time. She denies any interest in resuming tobacco use and states she feels proud of having quit.
+
+REVIEW OF SYSTEMS:
+Constitutional: mild fatigue, no fevers
+Respiratory: improving cough, no hemoptysis, occasional wheeze
+Cardiovascular: no chest pain, stable claudication symptoms per PAD history
+GI: no complaints
+GU: no complaints
+Musculoskeletal: no new complaints
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, SpO2 96% on room air, Temp 98.2F
+General: well-appearing, no acute distress
+Lungs: mild expiratory wheeze bilaterally, no crackles, no rhonchi
+CV: regular rate and rhythm, no murmurs
+Extremities: diminished dorsalis pedis pulses bilaterally, no edema, skin intact
+
+LABS/IMAGING:
+CBC and BMP from discharge reviewed, unremarkable.
+CXR at discharge showed improving infiltrate.
+
+ASSESSMENT AND PLAN:
+1. Recent pneumonia, resolving - continue supportive care, follow up CXR in 6 weeks to confirm resolution.
+2. Asthma - continue current inhaler regimen, reviewed proper technique today, provided action plan.
+3. Peripheral artery disease - continue antiplatelet therapy, discussed importance of walking program as tolerated; she is a former smoker (quit in 2013) which is reassuring for cardiovascular risk reduction.
+4. Tobacco history - patient is a former smoker, quit smoking 2013 following her CABG x3; she remains smoke-free and should be commended on maintaining cessation. General counseling regarding avoidance of secondhand smoke exposure provided. Discussed lung cancer screening guidelines briefly as part of general preventive care discussion; further work-up to be determined based on shared decision-making with patient at a future visit.
+5. Follow up in 4 weeks or sooner if symptoms worsen.
+
+Thank you for allowing me to participate in this patient's care. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Anita Patel, MD
+
+---
+ADDENDUM (later same day, 7/26/2024, 4:45pm):
+Patient called office this afternoon to report mild lightheadedness this morning, resolved on its own without intervention. Advised to monitor blood pressure at home and call if recurrent or associated with other symptoms. No changes made to current medication regimen at this time. Will readdress at next scheduled visit. Reiterated to pt that she remains a former smoker and no tobacco use noted today during phone call, consistent with prior documentation in chart.
+- Anita Patel, MD

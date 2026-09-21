@@ -1,0 +1,63 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 02/20/2026
+Author: Rachel Goldberg, MD (NP progress note)
+Patient: Gwendolyn Robinson, F, DOB 02/20/1964, Age: 62
+
+CC: HF follow-up.
+
+HPI: Pt is a 62 yo F w/ hx HFrEF, COPD, osteoarthritis, GERD, osteoporosis presenting for routine f/u. She reports mild DOE w/ 1-2 flights of stairs, no PND, no orthopnea beyond 1 pillow. Denies chest pain, denies syncope. Mild ankle edema noted by pt at end of day. Compliant w/ diuretic per report. Continues to smoke cigarettes currently; has smoked on and off for most of her adult life. Discussed impact of ongoing tobacco use on both HF and COPD progression; advised to quit, offered resources including counseling and pharmacotherapy.
+
+--- COPY-FORWARD FROM PRIOR VISIT (ORIGINAL NOTE DATED 08/14/2023) ---
+CC: HF follow-up.
+HPI: Pt is a 59 yo F w/ hx HFrEF, COPD, osteoarthritis, GERD presenting for routine f/u. She reports stable exercise tolerance, denies orthopnea, denies edema. Cont's on carvedilol, furosemide, lisinopril. Tobacco: pt previously quit smoking in 2009 but relapsed in 2011. ROS reviewed and negative except as above. Physical exam unremarkable except for trace pedal edema. Plan: cont current regimen, f/u echo in 6 months, labs today.
+--- END COPY-FORWARD ---
+
+SOCIAL HISTORY: Tobacco - current cigarette smoker. Pt has smoked on and off for most of her adult life. Prior quit history noted in old chart (see copy-forward above: quit 2009, relapsed 2011). Denies illicit drug use. Occasional EtOH, ~1-2 glasses wine/wk. Lives w/ spouse, retired schoolteacher.
+
+Medications:
+1. Carvedilol 12.5 mg PO BID
+2. Furosemide 40 mg PO daily
+3. Lisinopril 10 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 20 mg PO qHS
+6. Omeprazole 20 mg PO daily
+7. Alendronate 70 mg PO weekly
+8. Tiotropium inhaler daily
+9. Albuterol inhaler PRN
+10. Calcium/Vit D supplement daily
+11. Acetaminophen PRN for OA pain
+
+ROS: Constitutional: denies fever, chills, wt loss. Cardiac: as per HPI, denies palpitations. Resp: mild chronic cough, no hemoptysis, no acute SOB change. GI: occasional reflux, controlled on PPI. GU: denies dysuria. MSK: chronic knee pain, stable. Neuro: denies focal deficits. Skin: no rashes. Psych: denies depression/anxiety sx. All other systems reviewed and negative.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, SpO2 94% RA, Wt 168 lbs
+Gen: NAD, well-appearing, pleasant
+HEENT: NC/AT, no JVD appreciated
+CV: RRR, no m/r/g, S1/S2 normal, no S3
+Resp: mild expiratory wheeze bilat, no crackles
+Abd: soft, NT/ND, +BS
+Ext: trace pedal edema b/l, no clubbing/cyanosis
+Skin: warm, dry, intact
+Neuro: A&Ox3, no focal deficits
+
+Labs (today): BNP 310 (prior 340), BMP wnl, K 4.2, Cr 0.9, LFTs wnl
+
+Problem List (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- J44.9 COPD, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- K21.9 GERD
+- M81.0 Osteoporosis w/o current pathologic fracture
+- Z87.891 Personal history of nicotine dependence (outdated entry - pt currently smoking, see HPI)
+- E78.5 Hyperlipidemia (from prior list, controlled)
+
+Assessment/Plan:
+1. HFrEF - clinically stable, BNP trending down. Cont carvedilol, furosemide, lisinopril, spironolactone. F/u echo in 6 mo.
+2. COPD - stable, mild wheeze on exam. Cont tiotropium/albuterol. Ongoing tobacco use is a significant concern given both HF and COPD dx; pt counseled extensively today regarding smoking cessation. Discussed cessation aids incl. varenicline, nicotine replacement, and behavioral counseling referral. Screening for lung pathology was discussed in general terms with pt.
+3. Osteoarthritis - stable, cont APAP PRN, d/w ortho if worsens.
+4. GERD - controlled on omeprazole.
+5. Osteoporosis - cont alendronate, cal/vit D, f/u DEXA per schedule.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Rachel Goldberg, MD, Cardiology

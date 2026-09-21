@@ -1,0 +1,79 @@
+Pulmonology Progress Note
+Patient: Nancy Hall  DOB: 1/26/1945 (age 78)
+Date of Service: 01/26/2023
+Author: Laura Castellano, FNP-C
+
+CC: f/u incidental lung nodule noted on prior CT chest
+
+HPI: Ms Hall is a 78 y/o female w/ hx of atrial fibrillation, asthma, PAD, and type 2 DM who presents for routine follow up of an incidentally noted pulmonary nodule identified on imaging done for unrelated reasons. Pt denies cough, hemoptysis, chest pain, unintentional weight loss. Reports mild dyspnea on exertion c/w baseline asthma, uses albuterol prn approx 1-2x/week. No fevers/chills. She states she feels well overall and is here mainly bc she was told to come back for repeat imaging discussion.
+
+---- COPY FORWARD FROM VISIT 08/14/2021 (Dr. R. Simmons) ----
+Pt seen for routine PAD f/u. Reports intermittent claudication in b/l calves, worse with ambulation >2 blocks, relieved w rest. ABIs stable per vascular. Denies rest pain, ulcers, non healing wounds. A fib well rated on current anticoagulation regimen, no palpitations reported. DM2 - last A1c 7.1, pt reports fairly good adherence to metformin, occasional missed doses. Asthma stable, uses rescue inhaler infreq. Plan: cont current meds, f/u vascular surgery in 6 mo, recheck A1c in 3 mo, continue statin. ROS and exam largely unremarkable at that time, see below.
+---- END COPY FORWARD ----
+
+Social History (EHR templated block):
+Tobacco use: Former smoker
+Smoking amt: half pack per day (~10 cigarettes/day)
+Smoking duration: Not on file
+Age started: Not on file
+Quit date/year: Not on file
+Quit reason: pt states she quit smoking when her granddaughter was born; granddaughter is now 13 yo
+Pack-years: Not on file
+Alcohol use: occasional, denies
+Illicit drug use: denies
+Occupation: retired
+Living situation: lives w spouse
+Exercise: walks short distances daily as tolerated
+
+ROS (templated, reviewed and negative except as noted in HPI):
+Constitutional: denies fever, chills, weight loss, night sweats
+Eyes: denies visual changes
+ENT: denies sore throat, congestion
+Cardiovascular: denies chest pain, palpitations, edema (see hx afib)
+Respiratory: denies cough, hemoptysis, wheeze at present, +mild DOE as above
+GI: denies nausea, vomiting, diarrhea, constipation, abd pain
+GU: denies dysuria, hematuria
+Musculoskeletal: denies joint pain, swelling
+Skin: denies rash, lesions, non healing wounds
+Neuro: denies HA, dizziness, syncope, numbness
+Psych: denies depression, anxiety
+Endocrine: denies polyuria, polydipsia
+Heme/Lymph: denies easy bruising, bleeding
+Allergic/Immunologic: denies seasonal allergies currently
+
+Medications (current, per chart, reconciled today):
+1. Apixaban 5mg PO BID
+2. Metoprolol succinate 50mg PO daily
+3. Metformin 1000mg PO BID
+4. Atorvastatin 40mg PO qHS
+5. Albuterol HFA inhaler prn wheeze/SOB
+6. Fluticasone/salmeterol inhaler BID
+7. Cilostazol 100mg PO BID
+8. Aspirin 81mg PO daily
+9. Lisinopril 10mg PO daily
+10. Vitamin D3 1000 IU daily
+11. Multivitamin daily
+
+Physical Exam:
+Vitals: BP 132/78, HR 68 irreg irreg, RR 16, Temp 98.2F, SpO2 96% RA, Wt stable per chart
+General: well appearing elderly female, NAD, appropriately interactive
+HEENT: NCAT, PERRL, EOMI, oropharynx clear, no thrush
+Neck: no JVD, no LAD, no thyromegaly
+Cardiovascular: irregularly irregular rhythm consistent w known afib, no murmurs/rubs/gallops appreciated, no peripheral edema
+Respiratory: mild expiratory wheeze b/l bases, no crackles, no accessory muscle use, good air movement bilat
+Abdomen: soft, NT/ND, nl bowel sounds, no organomegaly
+Extremities: no clubbing cyanosis edema, distal pulses palpable but diminished b/l DP/PT c/w known PAD
+Skin: warm dry intact, no lesions
+Neuro: alert oriented x3, grossly nonfocal
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable in appearance per radiology comparison, low risk features noted on report. Discussed nodule surveillance options and general risk factors for lung malignancy including tobacco history, discussed screening guidelines in general terms w pt, she voiced understanding. Repeat low dose chest imaging recommended per standard surveillance interval, to be scheduled thru scheduling dept, not ordered today pending discussion w radiology re optimal interval. Pt educated on smoking cessation importance, reinforced she has remained smoke free which is excellent, praised for quitting and encouraged to continue avoiding any tobacco/nicotine products.
+2. Asthma - stable, cont current inhaler regimen, reviewed technique today, refilled albuterol
+3. Atrial fibrillation - rate controlled, cont apixaban and metoprolol, no acute issues, will defer further cardiology mgmt to her cardiologist
+4. Peripheral artery disease - stable claudication symptoms unchanged from prior, cont cilostazol and aspirin, vascular surgery following
+5. Type 2 diabetes mellitus - cont metformin, recheck A1c at next visit, reviewed diet
+6. Health maintenance - reviewed immunization status, up to date per chart, discussed importance of routine screening exams appropriate for age
+
+f/u pulmonology in 6 months or sooner if symptoms develop, pt verbalized understanding of plan, all questions answered today.
+
+Electronically signed: Laura Castellano, FNP-C 01/26/2023

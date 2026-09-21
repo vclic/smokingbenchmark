@@ -1,0 +1,76 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Geriatrics – Consultative Assessment
+
+Patient: Gregory Thomas (M), DOB 1/8/1970 (age 56)
+Date of Service: 1/8/2026
+Author: Daniel Reyes, MD, Geriatrics
+
+Dear Colleague,
+
+Thx for referral of Mr. Thomas for geriatric assessment. Seen today, 1/8/2026, at age 56 (DOB 1/8/1970) for comprehensive eval given multiple comorbid conditions and polypharmacy concerns.
+
+HPI: Pt reports overall stable, occasional heartburn worse w/ recumbency, uses OTC antacids PRN. C/o mild dyspnea on exertion, attributes to deconditioning, states "just getting older." Denies chest pain, no recent falls, no cognitive complaints per pt & spouse. Nocturia x2, urinary hesitancy noted, followed by urology for BPH. No new bone pain, no fractures since last visit. Appetite fair, wt stable.
+
+PMH / Problem List (ICD-10):
+- K21.9 GERD - on PPI, partially controlled
+- J44.9 COPD - unspecified, hx of exacerbations, last one ~1 yr ago per old note (outdated, may be resolved)
+- E03.9 Hypothyroidism - on levothyroxine
+- M81.0 Osteoporosis - postmenopausal type coded erroneously (pt is male, dz likely age-related/2ary, flag for correction)
+- N40.0 BPH w/o LUTS - f/u urology
+- (old) I10 HTN - resolved per pt, off meds x2 yrs, keeping on list for now pending confirmation
+
+Meds: Omeprazole 20mg daily, tiotropium inhaler daily, albuterol PRN, levothyroxine 75mcg daily, alendronate 70mg weekly, tamsulosin 0.4mg qhs.
+
+Allergies: NKDA.
+
+Social History: Noncontributory. Lives w/ spouse, retired, ambulates independently, no assistive device.
+
+Family History: Father - CAD, died age 78. Mother - osteoporosis, hip fx age 82.
+
+ROS: Otherwise negative except as above. No hemoptysis, no unexplained wt loss, no hematuria.
+
+Physical Exam:
+Vitals: BP 128/76, HR 72, RR 16, T 98.2F, SpO2 95% RA, Wt 178 lb, Ht 5'9"
+Gen: NAD, well-groomed, appropriate affect
+HEENT: PERRL, EOMI, oropharynx clear
+Neck: no LAD, no thyromegaly
+Lungs: mild expiratory wheeze bilat bases, no rales, no accessory muscle use
+CV: RRR, no m/r/g
+Abd: soft, NT/ND, no organomegaly
+GU: deferred, prior urology eval on file
+MSK: no kyphosis, gait steady, no point tenderness spine
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits
+Skin: no lesions
+
+Geriatric Assessment Tools:
+- Mini-Cog: 5/5, unremarkable
+- Timed Up and Go: 9.8 sec, mildly slow but WNL for age
+- PHQ-2: 0/6, neg for depression screen
+- FRAX estimated 10-yr major osteoporotic fx risk: elevated, consistent w/ known osteoporosis dx
+
+Labs/Results (recent):
+- TSH 1/2/2026: 2.1 mIU/L (WNL on current levothyroxine dose)
+- CBC 12/15/2025: WNL, Hgb 14.2, WBC 6.8, Plt 210
+- BMP 12/15/2025: Na 140, K 4.1, Cr 0.9, eGFR >60
+- Vit D 25-OH 11/2025: 28 ng/mL (insufficient, on repletion)
+- DEXA 9/2025: T-score -2.6 lumbar spine, -2.3 femoral neck, consistent w/ osteoporosis
+- PFTs 6/2025: FEV1 68% predicted, FEV1/FVC 0.64, obstructive pattern c/w COPD
+
+Assessment:
+56M w/ COPD, GERD, hypothyroidism, osteoporosis, BPH presenting for geriatric assessment. Functionally independent, cognitively intact, mild fall risk factors but no falls to date. Osteoporosis appears undertreated relative to DEXA severity, will optimize. COPD stable on current regimen, no active exacerbation today.
+
+Regarding lung ca screening — discussed general concept and rationale w/ pt today; however this was deferred until smoking history can be obtained, as current documentation does not clarify tobacco use status. Will revisit at f/u once hx clarified, possibly via direct interview or old records.
+
+Plan:
+1. Continue current GERD, hypothyroid, BPH management, no changes today.
+2. Osteoporosis: continue alendronate, add vit D repletion, recheck DEXA in 2 yrs, consider referral to endocrinology if no improvement.
+3. COPD: continue tiotropium/albuterol, reinforce inhaler technique, review PFTs at next visit, consider pulm referral if worsening.
+4. Lung cancer screening: deferred pending clarification of smoking hx as above; will readdress at next visit or via PCP records.
+5. Fall prevention: encourage home safety eval given elevated FRAX and mild TUG slowing, PT referral to be considered.
+6. F/u in geriatrics clinic 3 months, sooner if symptoms change.
+
+Thank you again for this interesting referral. Please let me know if you have additional records, esp. re: social hx, that could help clarify outstanding questions above.
+
+Sincerely,
+Daniel Reyes, MD
+Geriatrics

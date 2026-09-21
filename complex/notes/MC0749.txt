@@ -1,0 +1,71 @@
+HISTORY AND PHYSICAL
+Patient: Robert Nguyen (M), DOB 1/5/1955 (age 68)
+Date of Service: 08/25/2023
+Author: Brian Okonkwo, MD
+Visit Type: Pre-operative evaluation, Internal Medicine (pre-op for right total knee replacement, Ortho: Dr. Ellis)
+
+HPI:
+Mr. Nguyen is a 68-year-old male with a history of heart failure with reduced ejection fraction (HFrEF, EF ~35% on last echo) referred for pre-operative medical clearance prior to right total knee arthroplasty scheduled for 09/08/2023. He reports progressive right knee pain limiting ambulation, now using a cane. He denies chest pain, orthopnea, or PND currently. He reports mild bilateral lower extremity edema, stable on current diuretic regimen. He states he vapes nicotine daily but has never smoked cigarettes; he did try a few cigarettes as a teenager but never smoked regularly thereafter. He is asking about anesthesia risk given his cardiac history.
+
+PROBLEM LIST (ICD-10):
+- I50.22 Chronic systolic (congestive) heart failure
+- E78.5 Hyperlipidemia (outdated - resolved per pt, on no lipid meds x2 yrs)
+- M17.11 Unilateral primary osteoarthritis, right knee
+- I10 Essential hypertension
+
+MEDICATIONS:
+1. Carvedilol 12.5 mg PO BID
+2. Lisinopril 10 mg PO daily
+3. Furosemide 20 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 20 mg PO daily (pt reports not taking - see above)
+6. Aspirin 81 mg PO daily
+7. Acetaminophen 650 mg PRN pain
+8. Multivitamin daily
+
+SOCIAL HISTORY (templated):
+Tobacco use: See HPI - tried a few cigarettes as teenager, never smoked regularly
+Vaping/e-cigarette use: Daily, nicotine-containing
+Alcohol use: Occasional, 1-2 drinks/week
+Illicit drug use: Denies
+Occupation: Retired accountant
+Living situation: Lives with spouse
+Exercise: Limited due to knee pain
+Diet: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiovascular: Denies chest pain, palpitations; reports mild bilateral ankle edema as above.
+Respiratory: Denies cough, hemoptysis, dyspnea at rest.
+GI: Denies nausea, vomiting, abdominal pain.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Positive for right knee pain as above; denies other joint pain.
+Neuro: Denies headache, dizziness, syncope.
+Skin: Denies rash, lesions.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, SpO2 96% RA, Temp 98.2F, Wt 198 lb
+General: Well-appearing, no acute distress, ambulates with cane
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear
+Neck: No JVD appreciated
+CV: RRR, no murmurs/rubs/gallops appreciated on exam today
+Lungs: Clear to auscultation bilaterally, no wheezes/rales
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+Extremities: Trace bilateral lower extremity edema, right knee with crepitus and decreased ROM, no calf tenderness
+Skin: Warm, dry, intact
+Neuro: Alert and oriented x3, grossly nonfocal
+
+ASSESSMENT AND PLAN:
+68-year-old male with HFrEF, presenting for pre-operative clearance for right TKA on 09/08/2023.
+1. HFrEF - Currently compensated on GDMT (carvedilol, lisinopril, spironolactone). Continue home regimen through peri-op period per anesthesia guidance. Obtain pre-op BNP and repeat echo if not done within past year.
+2. Osteoarthritis, right knee - Surgical plan per orthopedics, medically cleared to proceed pending cardiology input if needed.
+3. Hypertension - Well controlled today.
+4. Tobacco/nicotine use - Vaping daily discussed; encouraged cessation given surgical risk and cardiac history. Patient counseled on smoking cessation resources although he denies ever smoking cigarettes regularly.
+5. Lung cancer screening was discussed briefly given age and vaping history; no imaging ordered today, will discuss further at follow-up.
+Follow up with cardiology prior to surgery date. RTC PRN.
+
+---
+ADDENDUM (08/25/2023, later same day):
+Spoke with patient by phone after review of chart; clarifying that vaping use is daily and nicotine-containing as documented above, and confirming no history of regular cigarette smoking - only experimentation as a teenager per patient report. No change to plan. -Brian Okonkwo, MD

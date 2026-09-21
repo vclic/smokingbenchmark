@@ -1,0 +1,88 @@
+Pulmonology Telehealth Follow-Up Note
+Patient: Ronald Hughes (M)
+DOB: 1/20/1970 (Age: 55)
+Date of Service: 01/20/2025
+Author: Brian Okonkwo, MD
+
+Visit type: Video telehealth encounter, patient connected from home, audio quality intermittent at points, several segments marked [inaudible] below.
+
+HPI:
+Mr. Hughes is a 55-year-old male who presents for follow-up of an incidentally noted pulmonary nodule identified on a CT of the abdomen obtained for unrelated reasons several months ago. He states he has been feeling generally well, denies any new cough, hemoptysis, unintentional weight loss, or fevers. He reports mild fatigue which he attributes to work stress and poor sleep, [inaudible] due to call dropping briefly during this portion of history. He denies chest pain, denies dyspnea on exertion beyond his baseline, and reports his diabetes has been reasonably controlled per his primary care provider. He is here today mainly to discuss the plan for the lung nodule and next steps, he asks a lot of questions about what the nodule means and whether it is something to worry about, we spent time reassuring him and reviewing the imaging characteristics together on screen share.
+
+Past Medical History:
+- Benign prostatic hyperplasia (BPH)
+- Type 2 diabetes mellitus
+
+Past Surgical History: None on file.
+
+Social History (templated block):
+Tobacco/Smoking status: Unknown if ever smoked
+Alcohol use: Not on file
+Illicit drug use: Not on file
+Occupation: Not on file
+Marital status: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+Family History: Non-contributory per chart, not reviewed in detail this visit due to time constraints on telehealth format.
+
+Allergies: NKDA
+
+Current Medications:
+1. Metformin 1000 mg PO BID
+2. Tamsulosin 0.4 mg PO QHS
+3. Finasteride 5 mg PO daily
+4. Atorvastatin 20 mg PO daily
+5. Lisinopril 10 mg PO daily
+6. Aspirin 81 mg PO daily
+7. Multivitamin daily
+8. Vitamin D3 2000 IU daily
+
+Review of Systems:
+Constitutional: Denies fever, chills, night sweats, denies weight loss, endorses mild fatigue as above.
+Eyes: Denies visual changes.
+ENT: Denies sore throat, denies nasal congestion.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, denies lower extremity edema.
+Respiratory: Denies cough, denies hemoptysis, denies wheeze, denies dyspnea at rest, mild exertional dyspnea noted above but stable from prior.
+Gastrointestinal: Denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits.
+Genitourinary: Endorses mild urinary hesitancy and nocturia x1-2, consistent with known BPH, followed by urology.
+Musculoskeletal: Denies joint pain, denies muscle weakness.
+Skin: Denies rash, denies new lesions.
+Neurological: Denies headache, denies dizziness, denies numbness or tingling.
+Psychiatric: Denies depression, denies anxiety, though admits work stress as noted, will consider referral if it becomes an issue, patient declined for now.
+All other systems reviewed and negative unless otherwise noted above.
+
+Physical Exam (limited, via telehealth, no vitals obtained by clinician this visit as this is a video-only encounter, patient reports home BP cuff reading of 128/78 this morning):
+General: Well-appearing male, no acute distress, seated comfortably at home, appropriate affect.
+HEENT: Grossly normal on visual inspection, no obvious distress, no visible lesions.
+Neck: No visible jugular venous distension appreciated on camera, limited assessment.
+Cardiovascular: Not auscultated (telehealth), no visible peripheral edema on camera.
+Respiratory: No visible increased work of breathing, no use of accessory muscles noted, patient able to complete full sentences without difficulty during call.
+Abdomen: Not examined this visit.
+Extremities: No visible edema, no clubbing noted on camera.
+Skin: No visible rashes on face and forearms.
+Psychiatric: Mood and affect appropriate, judgment and insight intact.
+
+Imaging Review:
+Reviewed prior CT chest/abdomen images together with patient via screen share. The nodule in question is described in prior radiology report as small, sub-solid in the right upper lobe, stable in appearance compared to remote imaging when available. Radiologist recommendation was for interval follow-up imaging given nodule characteristics.
+
+Assessment:
+1. Incidental pulmonary nodule, right upper lobe - low to intermediate risk features per prior radiology read, plan for surveillance imaging per Fleischner-type guidance, discussed general concept of lung cancer screening programs in the community but no determination made today regarding this patient specifically.
+2. Type 2 diabetes mellitus - stable per PCP, continue current management, no changes made by pulmonology.
+3. Benign prostatic hyperplasia - stable, continue tamsulosin and finasteride, followed by urology.
+
+Plan:
+- Repeat low-dose chest CT for nodule surveillance in approximately 3-6 months per standard interval, exact scheduling to be coordinated by radiology scheduling department, order placed in system.
+- Continue home medications as listed above without change.
+- Patient counseled extensively regarding the generally indolent nature of small sub-solid nodules and the rationale for surveillance rather than immediate biopsy.
+- Discussed general risk factors for lung nodules and lung disease broadly during visit, no specific determination made regarding patient's personal exposure history at this time as it is not on file / unknown.
+- Return to clinic (telehealth or in-person) after follow-up CT is completed for results review.
+- Patient instructed to call clinic sooner if he develops new cough, hemoptysis, unexplained weight loss, or worsening shortness of breath.
+- Encouraged patient to keep his home BP log and bring to next PCP visit, this was mentioned somewhat off-topic but patient wanted it documented, [inaudible] connection cut out briefly here, resumed after about thirty seconds.
+
+Time spent on this telehealth encounter was approximately 20 minutes, more than half of which was spent on counseling and coordination of care regarding the pulmonary nodule findings and plan.
+
+Electronically signed,
+Brian Okonkwo, MD
+Pulmonology
+Date of Service: 01/20/2025

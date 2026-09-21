@@ -1,0 +1,51 @@
+INTERNAL MEDICINE PRE-OP EVALUATION
+Patient: Thomas Rivera | DOB: 2/9/1963 | Age: 62 | Sex: M
+DOS: 02/09/2025
+Author: Kevin Osei, MD (NP progress note)
+
+REASON FOR VISIT: Pre-op eval for R total knee arthroplasty (Ortho: Dr. Landry).
+
+HPI: 62 yo M w/ hx HFrEF, obesity here for pre-op medical clearance. Pt states "my knee's been bone-on-bone for two years, I just want to get it fixed." Denies CP, orthopnea worse than baseline, PND. Reports occasional ankle swelling, uses compression stockings. Pt states "I still smoke, I know I should quit but it's hard, especially since my wife smokes too." Denies EtOH use, denies illicit drugs.
+
+ROS: Cardiac - see above. Resp - denies cough, hemoptysis, wheeze. GI - unremarkable. GU - unremarkable. MSK - chronic R knee pain, ambulates c cane. All other systems reviewed and negative except as noted in HPI.
+
+=== COPIED FORWARD FROM CARDIOLOGY VISIT 09/14/2023 (Dr. A. Whitfield) ===
+HPI: 60 yo M w/ HFrEF (EF 35% on last echo 2022), NYHA class II sx. Pt reports stable exercise tolerance, able to walk 2 blocks before SOB. Denies recent decompensation, no hospitalizations x1 yr. Weight stable per pt report. Meds reviewed: carvedilol 12.5 mg BID, lisinopril 10 mg daily, furosemide 20 mg daily, spironolactone 25 mg daily. Labs reviewed - BNP 210, Cr 1.1, K 4.2. EKG: NSR, LBBB unchanged. Plan: continue GDMT, f/u echo in 6 mo, low Na diet reinforced, daily weights, f/u 4 mo.
+A/P: HFrEF - stable, cont current regimen. Obesity - counseled diet/exercise as tolerated given cardiac limitations. RTC 4 months or sooner if decompensation.
+=== END COPIED FORWARD TEXT ===
+
+PMH: HFrEF (last known EF 35%, echo pending update), obesity (BMI ~34), OA bilateral knees (R worse than L).
+PSH: Appy age 22.
+Meds: Carvedilol 12.5 mg BID, Lisinopril 10 mg daily, Furosemide 20 mg daily, Spironolactone 25 mg daily, Atorvastatin 40 mg qhs.
+Allergies: NKDA.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Packs per day: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Denies
+Illicit drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired warehouse supervisor
+Exercise: Limited 2/2 knee pain
+Other household smokers: Yes - spouse smokes
+
+VITALS: BP 138/86, HR 78, RR 16, SpO2 96% RA, Wt 228 lb, Ht 5'9", BMI 33.7, Temp 98.2F.
+
+EXAM: Gen - well-appearing, NAD, obese habitus. CV - RRR, no m/r/g appreciated today, no JVD. Resp - CTAB, no wheeze/rales. Ext - trace bilateral ankle edema, no calf tenderness. R knee - crepitus, decreased ROM, no effusion. Skin - intact.
+
+LABS (today): CBC WNL, BMP - Na 138, K 4.3, Cr 1.0, BUN 18. Coags WNL. UA - trace protein, no infxn.
+EKG (today): NSR, rate 76, LBBB unchanged from prior.
+
+ASSESSMENT/PLAN:
+1. Pre-op cardiac clearance for TKA - Given hx HFrEF, pt appears compensated today, no acute decompensation signs. Cleared for surgery from medicine standpoint pending anesthesia eval. Cont home GDMT through peri-op period per cardiology guidance, hold diuretic morning of surgery per anesthesia protocol.
+2. Tobacco use disorder - Pt has smoked 1.5 packs per day since 1977. He continues to smoke despite repeated counseling regarding cardiopulmonary risk, peri-op wound healing risk, and anesthesia complications. Advised to quit prior to surgery if possible; offered nicotine replacement therapy and referral to tobacco cessation program, pt declined referral today but will consider. Lung cancer screening was discussed with pt as part of general risk counseling.
+3. HFrEF - stable exam today, no signs of decompensation, will defer to cardiology for further optimization prior to surgery, echo update recommended.
+4. Obesity - BMI 33.7, counseled on weight mgmt, referred to nutrition given peri-op risk reduction goals.
+5. OA knees - surgical plan per ortho, pt understands risks/benefits discussed by surgeon.
+
+DISPO: Cleared for pre-op from IM standpoint, f/u with cardiology prior to surgery date, f/u this office PRN.
+
+/s/ Kevin Osei, MD

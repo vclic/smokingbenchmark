@@ -1,0 +1,68 @@
+UNIVERSAL URGENT CARE CLINIC
+Patient: George Ross | DOB: 1/10/1960 | Age: 65 | Sex: M
+Date of Service: January 10, 2025
+Author: Steven Park, MD
+Visit Type: History and Physical - Urgent Care
+
+CHIEF COMPLAINT: Cough
+
+HPI: Mr. Ross is a 65 year old male with history of obesity and heart failure with reduced ejection fraction who presents today, January 10, 2025, with cough for about a week, he states its worse at night and he has some whitish sputum, no hemoptysis, no [inaudible] chest pain per se but some tightness when he coughs alot, denies fevers denies chills he did have some mild shortness of breath which he thinks is baseline for him given his heart failure, he says his legs are not more swollen than usual, he has been compliant with his lasix he thinks, patient reports he saw his cardiologist last month and things were 'stable.' He works as a warehouse supervisor and says the cough is affecting his sleep.
+
+PAST MEDICAL HISTORY: Obesity, Heart failure with reduced ejection fraction (EF ~35% per last echo), hypertension, hyperlipidemia.
+
+SOCIAL HISTORY:
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated and does not reflect the patient's actual history - see below]
+Patient actually reports he smokes 30 cigarettes per day for 25 years. He continues to smoke despite counseling on multiple occasions regarding cessation. He was advised again today to quit smoking and offered resources including nicotine replacement therapy and cessation counseling referral, he says he 'might think about it.' Alcohol: occasional beer on weekends. Denies illicit drug use.
+
+[COPIED FROM NOTE DATED 12/10/2022]: Smoking status at that time was documented as: current smoker. No further quantitative details were recorded in that note.
+
+MEDICATIONS:
+1. Furosemide 40mg daily
+2. Carvedilol 12.5mg twice daily
+3. Lisinopril 10mg daily
+4. Spironolactone 25mg daily
+5. Atorvastatin 40mg nightly
+6. Aspirin 81mg daily
+7. Metformin 500mg twice daily
+8. Empagliflozin 10mg daily
+9. Multivitamin daily
+10. Occasional ibuprofen for joint pain
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, denies chills, denies unintentional weight loss, reports fatigue at baseline
+Eyes: denies visual changes
+ENT: denies sore throat, denies congestion, mild post nasal drip reported
+Cardiovascular: denies chest pain, denies palpitations, reports baseline dyspnea on exertion unchanged
+Respiratory: reports cough as above, denies hemoptysis, denies wheeze per patient though exam pending
+GI: denies nausea denies vomiting denies abdominal pain, reports normal bowel movements
+GU: denies dysuria, denies hematuria
+Musculoskeletal: reports chronic knee pain, denies new injury
+Skin: denies rash
+Neuro: denies headache, denies dizziness
+Psych: denies depression denies anxiety
+Endocrine: known type 2 diabetes, denies polyuria polydipsia today
+Heme/Lymph: denies easy bruising
+Allergic/Immunologic: denies seasonal allergies
+
+PHYSICAL EXAM:
+Vitals: T 98.4F, HR 88, BP 138/82, RR 18, SpO2 95% on room air, Wt 245 lb, BMI 36
+General: obese male, mild respiratory distress, no acute distress otherwise, alert and oriented x3
+HEENT: normocephalic atraumatic, oropharynx clear, no exudate, mild post nasal drainage noted
+Neck: no jugular venous distension appreciated, no lymphadenopathy
+Cardiovascular: regular rate and rhythm, S1 S2 normal, no murmur appreciated, trace bilateral lower extremity edema
+Respiratory: mild expiratory wheeze bilateral bases, no rales, no rhonchi, good air movement
+Abdomen: soft, non-tender, non-distended, obese habitus, bowel sounds normal
+Extremities: trace edema bilaterally, no calf tenderness, pulses intact
+Skin: warm and dry, no rash
+Neuro: grossly intact, cranial nerves II-XII intact
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis vs cough related to post nasal drip - will treat symptomatically with guaifenesin, encourage fluids, follow up if worsening or fever develops
+2. Heart failure with reduced ejection fraction - appears stable today, continue current regimen, follow up with cardiology as scheduled
+3. Obesity - discussed diet and exercise, counseling provided
+4. Tobacco use - patient continues to smoke despite counseling, discussed cessation resources again today including nicotine replacement and counseling referral, patient to follow up with primary care physician regarding same
+5. Follow up in 1-2 weeks or sooner if symptoms worsen, return precautions given for worsening shortness of breath, chest pain, or fever
+
+Electronically signed: Steven Park, MD

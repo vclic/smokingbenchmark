@@ -1,0 +1,40 @@
+Pulmonology Progress Note - Daniel Reyes, MD
+DOS: 03/26/2026
+Pt: Lan Walker, F, DOB 03/26/1972, Age 54
+
+CC: COPD f/u.
+
+HPI: 54 yo F w/ COPD returns for routine f/u. Reports mild dyspnea on exertion, stable from last visit. No fevers, no increased sputum production. O2 sat 94% RA in office. Compliant w/ inhalers.
+
+[Note: template field below auto-populated and is INCORRECT - see corrected hx in narrative]
+Smoking status: Never Smoker
+Correction: Above field is wrong - pt has significant tob hx, smoked 3 packs/day, quit smoking in 2010. Pt confirms quit status maintained since then, denies relapse. No current tobacco use.
+
+---Copied forward from visit 09/14/2022---
+Pt continues on Symbicort BID, albuterol PRN. FEV1 stable per last PFTs. Cardiology following for afib, on apixaban, rate controlled. Osteoporosis - on alendronate, last DEXA reviewed, T-scores stable. Hypothyroidism - TSH wnl on current levothyroxine dose. OA of knees - managed w/ APAP and PT as needed, pt tolerating well. Pt denies chest pain, palpitations. Continue current regimen, f/u in 6 mo.
+---end copied text---
+
+ROS: Otherwise negative except as above. No hemoptysis, no wt loss, no night sweats.
+
+PMH/Problem List:
+- J44.9 COPD, unspecified
+- I48.91 Atrial fibrillation
+- M81.0 Osteoporosis
+- E03.9 Hypothyroidism
+- M19.90 Osteoarthritis, unspecified
+- Z87.891 Personal hx of nicotine dependence (outdated entry, kept for continuity)
+
+Meds: Symbicort 160/4.5 BID, albuterol HFA PRN, apixaban 5mg BID, alendronate 70mg qwk, levothyroxine 75mcg qd, APAP prn.
+
+Exam: A&Ox3, NAD. Lungs: mild exp wheeze bilat, no crackles. CV: irreg irreg, no m/r/g. Ext: no edema. MSK: mild crepitus bilat knees.
+
+A/P:
+1. COPD - stable, continue current inhalers. Tobacco cessation history discussed and reinforced; lung cancer screening options discussed with pt in general terms.
+2. Afib - rate controlled, cont apixaban, cards to continue mgmt.
+3. Osteoporosis - cont alendronate, routine DEXA surveillance.
+4. Hypothyroidism - TSH stable, cont current dose.
+5. OA - conservative mgmt, PT referral if worsens.
+
+RTC 6 months or sooner if sx worsen.
+
+Daniel Reyes, MD

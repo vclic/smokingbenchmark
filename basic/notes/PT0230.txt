@@ -1,0 +1,87 @@
+Internal Medicine Office Visit
+
+Patient: NGUYEN, Samuel    MRN: 91607836
+DOB: 01/30/1952    Age: 73 y.o.    Sex: Male
+Date of Service: 07/07/2025    Provider: Hannah Weiss, NP
+
+Chief Complaint
+Patient presents with
+• Medicare annual wellness visit
+
+Subjective:
+Samuel Nguyen is a 73 y.o. male who presents for a Medicare annual wellness visit.
+No acute complaints today. Uses a stationary bike at home. Diet is 'mostly healthy'.
+
+Past Medical History:
+Diagnosis	Date
+• Major depressive disorder, recurrent, in remission
+• Hypertension
+• CKD 3b
+• Benign prostatic hyperplasia
+• ASCVD
+• Emphysema	2013
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (1998)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• budesonide-formoterol 160/4.5 2 puffs BID
+• tiotropium 18 mcg inhaled daily
+• losartan 50 mg daily
+• trazodone 50 mg nightly PRN
+• metoprolol succinate 25 mg daily
+• sertraline 100 mg daily
+• amlodipine 5 mg daily
+• finasteride 5 mg daily
+• tamsulosin 0.4 mg nightly
+• nitroglycerin 0.4 mg SL PRN
+• albuterol HFA PRN
+• aspirin 81 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Social History Narrative
+  Lives in assisted living.
+  Retired, former construction worker.
+  Quit drinking in 2001.
+  Denies illicit drugs.
+
+Family History
+Father - MI at 74.
+
+Review of Systems
+ROS: GI neg, Resp +, MSK neg, Gen neg
+
+Objective:
+Vitals:
+  BP 122/73 (BP Location: Right arm, Patient Position: Sitting) | Pulse 65 | Temp 97.8 °F (Oral) | Resp 16 | Ht 6' 1" | Wt 190 lb | SpO2 91% | BMI 25.11 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Benign
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2019 - 2 tubular adenomas, repeat 5 yrs; Shingrix series complete; Pneumococcal vaccine up to date; AAA screening US ordered (male 65-75 who has ever smoked).
+2. CKD 3b
+   Monitor BMP q6 months.
+3. Ex-smoker
+   Smoking hx: 1.5 pk/day × 39 yr. Encouraged continued abstinence.
+4. Hypertension
+   BP at goal; continue current regimen.
+5. Major depressive disorder, recurrent, in remission
+   PHQ-9 stable; continue current regimen.
+
+f/u 3 mo
+
+Electronically signed by Hannah Weiss, NP on 07/07/2025

@@ -1,0 +1,43 @@
+TELEHEALTH VISIT NOTE
+Patient: Rajesh Green | DOB: 3/7/1946 | Age: 78 | Sex: M
+Date of Service: 03/28/2024
+Provider: Farah Siddiqui, MD (Pulmonology)
+
+CHIEF COMPLAINT: COPD follow-up, telehealth visit.
+
+HPI: Mr. Green is a 78-year-old male with history of COPD, heart failure with reduced ejection fraction, osteoporosis, hyperlipidemia, coronary artery disease, and atrial fibrillation who presents via video visit for routine pulmonary follow-up on 03/28/2024. He reports baseline dyspnea on exertion, denies acute worsening, no fevers, no increase in sputum production, [inaudible] occasional cough in the mornings which he attributes to weather changes. He states he is compliant with his inhalers, though he sometimes forgets his evening dose. Regarding smoking history — he is a former smoker; he smoked approximately three-quarters of a pack (about 15 cigarettes) per day for 11 years, then increased to 1 pack per day for 15 years, then cut back to half a pack (about 10 cigarettes) per day for 11 years before ultimately quitting. He denies any current tobacco use. He denies illicit drug use.
+
+SOCIAL HISTORY: Former smoker as above (see HPI for details on cigarette quantities/durations). He quit smoking 5 years after his first grandchild was born, which happened in 1997. He lives with his wife, retired machinist, denies current alcohol use — he quit drinking alcohol in 2009. No current substance use.
+
+[COPIED FORWARD FROM NOTE DATED 09/28/2020 — SOCIAL HISTORY]: "Tobacco: former smoker." (No quantities documented in that prior note.)
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. HEENT: denies headache, denies visual changes, denies hearing loss. Cardiovascular: denies chest pain, denies palpitations though has known history of atrial fibrillation, denies syncope, admits mild lower extremity edema which is stable per patient. Respiratory: admits chronic cough, denies hemoptysis, denies wheezing today, admits baseline dyspnea on exertion unchanged. GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain. GU: denies dysuria, denies hematuria. Musculoskeletal: admits chronic low back pain attributed to osteoporosis, denies new fractures. Neuro: denies focal weakness, denies numbness, denies tingling. Psych: denies depression, denies anxiety. Skin: denies rash, denies new lesions. All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM (LIMITED, TELEHEALTH — VISUAL ONLY): General: Patient appears well, sitting comfortably in his home, no acute distress noted on camera. Speech clear and fluent. No visible use of accessory muscles of respiration observed on video. Skin: no obvious pallor or cyanosis noted on camera, lighting suboptimal at times. Extremities: patient displayed lower legs to camera, mild bilateral edema appreciated, no overt skin breakdown seen. Neuro: alert, oriented, appropriate affect. Cardiopulmonary auscultation could not be performed via telehealth; deferred to home health vitals reported by patient as BP 128/76, HR 82 irregularly irregular (known afib), O2 sat 94% on room air per home pulse ox, RR 16, wt stable per patient report.
+
+MEDICATIONS (reviewed and reconciled):
+1. Tiotropium inhaler 18 mcg, one inhalation daily
+2. Albuterol HFA inhaler, 2 puffs q4-6h PRN
+3. Metoprolol succinate 50 mg daily
+4. Apixaban 5 mg twice daily
+5. Atorvastatin 40 mg nightly
+6. Furosemide 20 mg daily
+7. Alendronate 70 mg weekly
+8. Calcium carbonate/vitamin D combo daily
+9. Lisinopril 10 mg daily
+10. Spironolactone 25 mg daily
+11. Fluticasone/salmeterol combination inhaler, 1 inhalation twice daily
+
+LABS/DATA: Recent BNP mildly elevated at 410 (baseline), INR within therapeutic range not applicable given DOAC use, recent CBC/CMP unremarkable, last echo showed EF 35%, last PFTs consistent with moderate obstruction.
+
+ASSESSMENT AND PLAN:
+1. COPD, moderate, stable — continue current inhaler regimen. Patient remains a former smoker with no current tobacco use; general preventive health topics were briefly discussed during visit. Continue tiotropium and fluticasone/salmeterol combo, albuterol PRN.
+2. Heart failure with reduced ejection fraction — appears euvolemic per home vitals and patient report, continue furosemide, lisinopril, metoprolol succinate, spironolactone; will obtain repeat BNP and BMP at next in-person visit.
+3. Atrial fibrillation — rate appears controlled per home HR, continue apixaban for anticoagulation, continue metoprolol.
+4. Osteoporosis — continue alendronate and calcium/vitamin D, follow up DEXA due later this year.
+5. Hyperlipidemia — continue atorvastatin, fasting lipid panel to be drawn prior to next visit.
+6. Coronary artery disease — stable, no anginal symptoms today, continue current regimen.
+
+Follow-up: Return to clinic (in-person) in 3 months, sooner if worsening symptoms. Patient verbalized understanding, agreed with plan. Visit conducted via telehealth due to transportation limitations; total time spent counseling and coordinating care exceeded 20 minutes.
+
+Electronically signed: Farah Siddiqui, MD, Pulmonology, 03/28/2024.

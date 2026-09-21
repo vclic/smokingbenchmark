@@ -1,0 +1,32 @@
+RESIDENT NOTE - PULMONOLOGY, Shared Decision-Making Visit
+Date of Service: 04/06/2025
+Author: Elena Markovic, MD (resident); attending attestation below
+
+Patient: Larry Hall, M, DOB 2/11/1970 (age 55)
+
+CC: Lung cancer screening discussion.
+
+HPI: Patient is a 55-year-old male with PAD, depression, hypothyroidism, OA, and HTN who presents today for shared decision-making regarding lung cancer screening. He reports feeling generally well, denys chest pain, denys hemoptysis, some occasional dizzyness when walking long distances which he attributes to his legs 'giving out' [inaudible] due to PAD. He states he has not had any recent infections or fevers and his mood has been stable on current meds per his PCP the notes say and he continues therepy with counselor biweekly.
+
+Smoking status: Never Smoker [NOTE: this templated field is incorrect - see below]
+
+Tobacco history (corrected, per patient interview): Patient is a former smoker. He reports he smoked 2 packs per day for 2 years, then cut down to about 15 cigarettes per day for the next 2 years before quitting entirely. He quit smoking 35 years ago and has remained abstinent since. He also reports smoking marijuana a few times a month, recreational use, no vaping.
+
+ROS: Constitutional - no fever, no chills, no weight loss. Cardiovascular - claudication with ambulation, no chest pain. Respiratory - no cough, no dyspnea at rest. GI - unremarkable. Neuro - unremarkable. Psych - depression stable, no SI/HI. All other systems reviewed and negative.
+
+Physical Exam: Vitals stable, afebrile, BP 138/84, HR 76, RR 16, SpO2 97% RA. General - well appearing, NAD. Lungs - clear to auscultation bilaterally, no wheezes/rales/rhonchi. CV - RRR, decreased pedal pulses bilaterally. Extremities - no edema, cool to touch distally. Skin - intact.
+
+Problem List:
+- I73.9 Peripheral artery disease, unspecified
+- F32.9 Major depressive disorder, unspecified (outdated - now in remission per pt)
+- E03.9 Hypothyroidism, unspecified
+- M19.90 Osteoarthritis, unspecified site
+- I10 Essential hypertension
+
+Medications: Levothyroxine 75mcg daily, Amlodipine 5mg daily, Atorvastatin 40mg daily, Clopidogrel 75mg daily, Sertraline 100mg daily, Acetaminophen PRN, Cilostazol 100mg BID.
+
+Labs/Results: TSH 04/01/2025 - 2.1 (WNL); Lipid panel 03/15/2025 - LDL 88, HDL 42, TG 130; CBC 03/15/2025 - WNL.
+
+Assessment/Plan: Discussed lung cancer screening including risks/benefits of low-dose CT imaging in the context of his smoking history; screening eligibility criteria and decision were discussed with patient, no imaging ordered today. Continue current medical management for PAD, HTN, hypothyroidism, OA. Follow up in 3 months or sooner if symptoms worsen.
+
+Attestation: I have reviewed and discussed this case with Dr. Markovic; I agree with the documented history and plan above. - Attending Pulmonologist.

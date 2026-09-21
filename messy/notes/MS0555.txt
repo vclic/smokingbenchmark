@@ -1,0 +1,41 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Dennis Garcia (M), DOB 5/2/1964 (age 61)
+Date of Service: 05/02/2025
+Provider: Farah Siddiqui, MD - Internal Medicine
+
+HPI:
+Mr. Garcia is a 61 y/o male seen via video visit for f/u of HTN and T2DM. He states, "I've been checking my sugars most mornings, they're running in the 140s." BP log reviewed, mostly in 130s/80s per home cuff. He denies chest pain, SOB at rest, though reports mild wheeze with exertion, which he attributes to his asthma - "it's the pollen, doc, [inaudible] every spring same thing happens to me and I just deal with it." No recent ER visits or hospitalizations. He continues on metformin and lisinopril, states he's been "pretty good" about taking them though admits missing a dose here and there when he's busy at work, he works as a delivery driver so schedule is irregular and that affects meal timing and sometimes medication timing as well which we discussed at length today.
+
+Regarding tobacco use, patient reports ongoing daily cigarette smoking, and today he mentioned he's been smoking about a pack and a half a day since he was 16. He was counseled again on smoking cessation resources and offered pharmacologic aids, which he declined for now, states "I've tried before, maybe when things settle down."
+
+PAST MEDICAL HISTORY: Asthma, BPH, HTN, T2DM.
+
+SOCIAL HISTORY (templated block):
+Tobacco: Current every day smoker
+Alcohol: Not on file
+Illicit drug use: Denies
+Occupation: Delivery driver
+Living situation: Not on file
+Exercise: Sedentary
+Caffeine: 2 cups coffee/day
+
+Additional social history noted in chart today: patient mentions he quit drinking alcohol back in 2004 and has not resumed since, this was volunteered during discussion of his diabetes diet and lifestyle modifications.
+
+ROS: Positive for occasional exertional wheeze, nocturia (attributed to BPH), otherwise negative including no hemoptysis, no unintentional weight loss, no fevers.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, no acute distress, video quality intermittent at times.
+Vitals per home device: BP 132/84, HR 78, reported temp 98.2F.
+No formal lung/heart exam possible via video, patient denies acute respiratory distress on observation.
+
+ASSESSMENT/PLAN:
+1. Hypertension - stable, continue lisinopril, recheck BP log in 4 weeks.
+2. Type 2 Diabetes Mellitus - suboptimal control, will adjust metformin dose, recommend repeat A1c.
+3. Asthma - stable on current regimen, exertional symptoms likely seasonal allergic component, consider adding antihistamine.
+4. BPH - stable, continue tamsulosin, no new urinary symptoms beyond nocturia.
+5. Tobacco use - patient is a current cigarette smoker as above. Continued counseling on cessation provided, resources given, follow-up to reassess readiness to quit.
+6. Alcohol use - quit in 2004 per patient report, no current concerns, will continue to monitor.
+
+Follow-up: Return to clinic (telehealth or in-person) in 4 weeks, sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Electronically signed: Farah Siddiqui, MD

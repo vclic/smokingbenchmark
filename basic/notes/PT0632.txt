@@ -1,0 +1,44 @@
+PROGRESS NOTE
+Date of Service: 03/02/2026
+Patient: Sandra Price   DOB: 12/28/1968   MRN: 50014301
+
+SUBJECTIVE:
+CC: Left knee pain
+HPI: Mrs. Price is a 57-year-old female with a history of HLD, hypothyroidism, and depression who presents for left knee pain. Left knee pain for 7 months, worse in the morning. No numbness or weakness. Tylenol helps somewhat.
+
+PMH: Hypothyroidism, Hyperlipidemia, Major depressive disorder, recurrent, in remission
+PSH: Appendectomy (2022); Total abdominal hysterectomy; Lumbar laminectomy (2020)
+Meds: levothyroxine 50 mcg daily; sertraline 50 mg daily; atorvastatin 40 mg daily
+Allergies: NKDA
+Social History:
+- Lives alone in an apartment.
+- She has never smoked.
+- Drinks a glass of wine with dinner.
+- No IVDU.
+- Sedentary.
+FH: Sister - hypothyroidism.
+ROS: GI neg, GU neg, Neuro neg, Resp neg, Gen neg, Skin neg, MSK +, CV neg
+
+OBJECTIVE:
+Vitals: BP: 135/74  HR: 75  RR: 16  Temp: 98.0 F  SpO2: 97% on RA  Wt: 149 lbs  BMI: 25.5
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: Warm, well perfused, no edema
+  MSK: L knee: no effusion, crepitus, full ROM with pain at end flexion
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Left knee pain
+   - Likely OA flare. Ice, acetaminophen, PT.
+2. Major depressive disorder, recurrent, in remission
+   - PHQ-9 stable; continue current regimen.
+
+Return in about 3 months (around 6/2/2026).
+
+Brian Okonkwo, MD

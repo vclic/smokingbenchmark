@@ -1,0 +1,73 @@
+CARDIOLOGY H&P
+Patient: Walter Barnes | DOB: 3/9/1949 | Age: 75 | Sex: M
+Date of Service: 03/09/2024
+Author: Kevin Osei, MD
+
+CHIEF COMPLAINT: chest pain eval, referd from PCP for further workup r/o unstable angina.
+
+HPI: Mr Barnes is a 75 yo male with hx of obesity hyperlipidemia CAD and hypothyroidism who presents today 03/09/2024 for evaluation of chest pain. Pt states pain started about 4 days ago, describes as pressure like sensation across mid sternum radiating to left arm, occurs w exertion improves with rest. Denies assoc SOB nausea diaphoresis but wife notes he looked 'pale and clamy' during one episode. No prior MI on file. Pt reports takes atorvastatin and levothyroxin regularly, occasionally miss doses when travelling [inaudible] due to schedule changes at his sons house. He also mentions some intermittent lightheadedness when standing quickly, unclear if orthostatic or cardiac in origin will need further eval.
+
+PAST MEDICAL HISTORY:
+- Obesity
+- Hyperlipidemia
+- Coronary artery disease (s/p stent 2018, per pt report)
+- Hypothyroidism
+
+PAST SURGICAL HISTORY: cholecystectomy remote year unclear
+
+MEDICATIONS:
+- Atorvastatin 40mg qhs
+- Levothyroxine 75mcg qam
+- Aspirin 81mg daily
+- Metoprolol succinate 25mg daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated):
+Alcohol use: occasional, reports 1-2 beers on weekends
+Tobacco use: 
+Living situation: lives with son and daughter-in-law, states home is 'comfortable, no stairs'
+Occupation: retired postal worker, retired approx 10 yrs ago
+Exercise: reports walking short distances daily, limited by fatigue
+Diet: son says pt eats mostly home cooked meals, low salt attempted but inconsistent
+
+FAMILY HISTORY: father died of MI age 68, mother had DM2
+
+REVIEW OF SYSTEMS: Constitutional - denies fever chills wt loss. Cardiac - as per HPI, denies palpitations syncope. Resp - denies cough hemoptysis. GI - denies n/v/d. All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, T 98.2F, SpO2 96% RA, Wt 224 lb BMI 33.4
+Gen: well appearing elderly male NAD
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: no JVD, no bruits appreciated
+CV: RRR, no murmur rub gallop appreciated on todays exam, PMI nondisplaced
+Lungs: CTAB, no wheeze rales rhonci
+Abd: soft NT ND +BS
+Ext: no edema, pulses 2+ symmetric
+Neuro: grossly nonfocal, A&Ox3
+
+LABS/RESULTS:
+03/09/2024 Troponin I: 0.02 ng/mL (nl <0.04)
+03/09/2024 BNP: 110 pg/mL
+03/09/2024 CBC: WNL
+03/09/2024 BMP: Na 139, K 4.1, Cr 1.0, Glucose 104
+03/09/2024 Lipid panel: TC 198, LDL 118, HDL 42, TG 190
+03/09/2024 TSH: 2.1 (last checked 6mo ago per records, stable)
+01/15/2024 Echo (outside facility, per pt report): EF 55%, mild diastolic dysfxn, no significant valvular disease
+EKG today: NSR rate 76, no acute ST changes, old Q waves inferior leads unchanged from prior comparison 2021
+
+ASSESSMENT: 75 yo M with CAD, HLD, obesity, hypothyroidism presenting w/ exertional chest pain concerning for possible anginal equivalent, trop negative x1 will trend, EKG w/o acute changes but old inferior Qs noted.
+
+PLAN:
+1. Chest pain - admit to obs unit for serial troponins and telemetry monitoring, cardiology consult already obtained (this note). Consider stress test vs cath depending on trend.
+2. CAD - continue home statin, asa, beta blocker. Will optimize BP control, consider uptitrating metoprolol if HR/BP allow.
+3. HLD - lipid panel above shows LDL still above goal will consider adding ezetimibe if pt tolerates statin well, discuss at f/u.
+4. Obesity - counseled re: diet and exercise, referral to nutrition offered pt declined for now states 'maybe next time doc'.
+5. Hypothyroidism - TSH stable continue current levothyroxine dose.
+6. Lightheadedness - will obtain orthostatic vitals, consider holter monitor if persists.
+7. General preventive health topics discussed briefly including age appropriate screenings, pt to follow up with PCP for those.
+8. F/u in cardiology clinic 2-4 wks or sooner if sx worsen, return to ED for worsening chest pain, SOB, diaphoresis.
+
+Time spent with patient today approx 35 min, more than half spent in counseling/coordination of care discussion re above plan.
+
+Electronically signed: Kevin Osei, MD, Cardiology 03/09/2024

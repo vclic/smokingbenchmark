@@ -1,0 +1,66 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Kathleen O'Brien (F), DOB 3/5/1945, Age: 79
+Date of Service: 07/31/2024
+Visit type: Telehealth - Family Medicine (medication refills)
+Author: Kevin Osei, MD
+
+Dear Dr. Chen,
+
+Thank you for referring Ms. O'Brien for ongoing management. She was seen today via telehealth for refill of her routine medications.
+
+HPI: Ms. O'Brien is a 79 y/o female with hx of OSA, BPH, COPD, osteoporosis, gout, and CKD stage 3 who calls in today requesting refills of her CPAP supplies, tamsulosin, and inhalers. She states "I've been feeling about the same, maybe a little more short of breath when I do the stairs." No fevers, no chest pain, no hemoptysis. She reports adherence to CPAP most nights, occasionally forgets mask on weekends. Denies new cough or increased sputum production currently. She notes some intermittent flare of gout in her right great toe a few weeks ago, resolved with colchicine.
+
+She adds, "I havent touched a cigarette in years, doc, not since I quit back in '09."
+
+PMH: OSA (on CPAP), BPH, COPD, osteoporosis (on bisphosphonate), gout, CKD stage 3.
+
+Social History: Patient reports she smoked about a quarter pack (approx 5 cigarettes) per day for 45 years. She quit smoking; quit year was 2009. She denies current alcohol use, denies illicit drug use. Lives alone, independent with ADLs, uses a walker occasionally for balance.
+
+[Copied from note dated 3/31/2022]: Social history - former smoker, no quantites documented at that time.
+
+ROS: Negative except as noted above in HPI. No hematuria, no dysuria, no urinary retention symptoms currently (on tamsulosin). No back pain, no fractures. No joint swelling currently other than resolved toe flare.
+
+Physical Exam (limited, telehealth):
+General: Alert, conversant, no acute distress, seated comfortably.
+Vitals: reported by patient - BP 128/76, HR 72, O2 sat 94% on room air per home pulse ox.
+Resp: Patient appears to have mildly increased work of breathing on camera, no visible use of accessory muscles.
+No other exam performed given telehealth format; deferred to in-person visit if needed.
+
+Labs/Data reviewed: Last CMP (6/2024) - creatinine 1.4, eGFR 41, consistent w/ known CKD stage 3. Last spirometry (1/2024) showed moderate obstruction, FEV1 58% predicted.
+
+Assessment:
+1. COPD - stable per patient report, continues on tiotropium and albuterol PRN.
+2. OSA - on CPAP, adherence reportedly good most nights.
+3. BPH - stable on tamsulosin, no urinary retention.
+4. Osteoporosis - continues bisphosphonate therapy.
+5. Gout - recent flare resolved, continues allopurinol.
+6. CKD stage 3 - stable, monitor renal function.
+7. Tobacco use - former smoker, quit 2009, quarter pack/day x45 yrs per HPI/SH above. Lung cancer screening was discussed with patient as part of preventive care conversation; no imaging ordered at this time.
+
+Problem List (ICD-10):
+- G47.33 Obstructive sleep apnea
+- N40.1 BPH with LUTS (dx 2015, may be outdated - pt reports no current LUTS)
+- J44.9 COPD, unspecified
+- M81.0 Osteoporosis
+- M10.9 Gout, unspecified
+- N18.3 CKD stage 3
+- Z87.891 Personal hx of nicotine dependence
+
+Plan:
+1. Refill tiotropium inhaler, albuterol MDI, tamsulosin, colchicine PRN, bisphosphonate as previously prescribed.
+2. Continue CPAP; refill mask supplies through DME company, encourage nightly use including weekends.
+3. Repeat CMP in 3 months to monitor renal function given CKD3.
+4. Counseled regarding importance of continued tobacco abstinence; congratulated patient on cessation since 2009.
+5. Discussed lung cancer screening as part of general preventive health discussion; will revisit at next visit.
+6. F/u in 3 months or sooner if symptoms worsen.
+7. Pt to call if worsening dyspnea, chest pain, hematuria, or gout flare not controlled with current regimen.
+
+Thank you for allowing me to participate in her care. Please do not hesitate to reach out with questions.
+
+Sincerely,
+Kevin Osei, MD
+
+---
+ADDENDUM (later same day, 07/31/2024):
+Patient called back after visit to clarify she had also run out of her allopurinol refill; this was called into pharmacy this afternoon in addition to the medications above. No other changes to note. Reviewed vitals log she had submitted separately - BP log this month averaging 126/78, no concerns. Will address further at next visit.
+-K. Osei, MD

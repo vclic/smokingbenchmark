@@ -1,0 +1,44 @@
+NURSE INTAKE
+Patient: John Thomas, M, DOB 04/26/1943 (age 80)
+Date of Service: 06/08/2023
+Provider: Gregory Tan, MD - Pulmonology
+
+Vitals: BP 132/78, HR 78, RR 16, SpO2 95% RA, Wt 245 lb, BMI 36.
+Chief complaint: follow-up incidental lung nodule found on prior CT.
+
+SOCIAL HISTORY (templated block)
+Tobacco use: Never
+Packs per day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Retired
+Living situation: Not on file
+
+Review of Systems:
+Constitutional: denies fever, chills, weight loss.
+Respiratory: denies cough, hemoptysis, dyspnea at rest; mild exertional dyspnea consistent with known HFrEF.
+Cardiovascular: denies chest pain, orthopnea improved on current diuretic regimen.
+GI: denies nausea, vomiting, abdominal pain.
+Musculoskeletal: chronic knee pain, stable, managed with acetaminophen.
+All other systems reviewed and negative.
+
+Medications: Furosemide 40 mg daily, Carvedilol 12.5 mg BID, Sacubitril-valsartan 24/26 mg BID, Spironolactone 25 mg daily, Atorvastatin 40 mg daily, Acetaminophen 650 mg PRN, Aspirin 81 mg daily, Vitamin D 1000 IU daily.
+
+PHYSICIAN PROGRESS NOTE - Gregory Tan, MD
+HPI: Mr. Thomas is an 80-year-old male with history of heart failure with reduced ejection fraction, obesity, and osteoarthritis, seen today 06/08/2023 in Pulmonology follow-up for an incidental pulmonary nodule identified on CT performed for cardiac workup. He reports no new respiratory symptoms, no hemoptysis, no unintentional weight loss. He denies any tobacco use whatsoever throughout his life. Family history noncontributory for lung malignancy.
+
+Physical Exam:
+General: well-appearing, no acute distress, obese habitus.
+Lungs: clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+CV: regular rate and rhythm, S3 present, no murmurs.
+Extremities: trace bilateral lower extremity edema, no clubbing or cyanosis.
+MSK: crepitus bilateral knees, no effusion.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - patient has never used tobacco. Nodule surveillance per Fleischner guidelines recommended, with repeat chest imaging in 6-12 months to assess for interval change.
+2. HFrEF - continue current guideline-directed medical therapy, stable on exam.
+3. Obesity - counseled on activity as tolerated given osteoarthritis limitations.
+4. Osteoarthritis - continue acetaminophen, consider PT referral if symptoms worsen.
+Return to clinic in 6 months or sooner with repeat chest CT for nodule surveillance.

@@ -1,0 +1,78 @@
+Family Medicine Progress Note
+
+Patient: FOSTER, Roger    MRN: 18190716
+DOB: 05/26/1957    Age: 68 y.o.    Sex: Male
+Date of Service: 04/24/2026    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Roger Foster is a 68 y.o. male who presents for routine preventive care.
+Doing well; here for routine preventive care. Walks 30 minutes most days. Trying to cut back on sweets.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• Hypercholesterolemia
+• Hypertension
+• Type 2 diabetes mellitus
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Right total knee arthroplasty
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• vitamin D3 2000 IU daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• lisinopril 20 mg daily
+• metformin 500 mg BID
+• glipizide 5 mg daily
+• atorvastatin 20 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Never Smoker
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Married, lives with wife.
+  Social drinker.
+
+Family History
+Mother - osteoporosis, hip fracture. Father - stroke.
+
+Review of Systems
+ROS: MSK neg, GU neg, GI neg, Skin neg, Resp neg, Neuro neg, Gen neg
+
+Objective:
+Vitals:
+  BP 122/93 (BP Location: Left arm, Patient Position: Sitting) | Pulse 85 | Temp 98.8 °F (Oral) | Resp 12 | Ht 5' 8" | Wt 154 lb | SpO2 98% | BMI 23.44 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2021 - normal; Declines Shingrix; PCV20 given.
+2. Type 2 diabetes mellitus
+   Repeat A1c in 3 months. Annual eye exam reminder.
+3. Hypertension
+   Above goal today; recheck at next visit, reinforce low-sodium diet.
+4. Hypercholesterolemia
+   Tolerating statin; recheck lipids in 1 yr.
+
+f/u 6 mo
+
+Electronically signed by Anita Patel, MD on 04/24/2026

@@ -1,0 +1,79 @@
+VASCULAR SURGERY CONSULT / LETTER TO REFERRING PHYSICIAN
+Patient: Carlos Hill (M)
+DOB: 1/5/1971 (age 55)
+Date of Service: 01/05/2026
+Author: Teresa Alvarez, NP
+
+Dear Dr. Nguyen,
+
+Thank you for referring Mr Hill, a 55 year old man, for evaluation of peripheral artery disease. He was seen in clinic today, 01/05/2026, for further workup of claudication symptoms.
+
+HPI:
+Mr. Hill reports progressively worsening bilateral calf pain with ambulation over the past several months, now limiting him to approx one block before he must stop and rest. Pain resolves with rest within a few minutes. He denies rest pain or non-healing ulcers at this time. He has a hx of HTN, COPD, CKD stage 3, and obesity, all of which complicate his vascular risk profile. He continues to smoke cigarettes and states he is not ready to quit at this visit despite prior counseling by his PCP. He was advised again today regarding smoking cessation resources including nicotine replacement and referral to a quitline, but he declined further discussion at this time.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (per chart, some entries may be outdated):
+1. I73.9 Peripheral artery disease, unspecified
+2. N18.3 Chronic kidney disease, stage 3
+3. I10 Essential hypertension
+4. J44.9 COPD, unspecified
+5. E66.9 Obesity, unspecified
+6. E78.5 Hyperlipidemia (dx 2015, may be resolved - pt reports not on statin currently, needs verification)
+7. M54.5 Low back pain (chronic, stable)
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Current every day smoker
+Type: Cigarettes
+Smoking hx (detailed):
+  - Stretch 1: 1 pack per day x 10 years
+  - Stretch 2: 1/2 pack (approx 10 cigs) per day x 13 years
+  - Stretch 3: 1.5 packs per day x 10 years (current)
+Readiness to quit: Not ready to quit at this time
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: Quit drinking alcohol in 2008
+Drug use: Denies
+Occupation: Retired warehouse worker
+Living situation: Lives with spouse
+Exercise: Limited due to claudication
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+Cardiovascular: denies chest pain, palpitations; positive for bilateral calf claudication as above
+Respiratory: chronic cough, known COPD, no hemoptysis
+GI: denies abd pain, nausea
+GU: denies hematuria, dysuria
+MSK: chronic low back pain, stable
+Skin: no ulcers or wounds noted on exam today
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, SpO2 94% on room air, Wt 228 lb, BMI 34
+General: obese male, no acute distress
+CV: RRR, no murmurs, diminished femoral and dorsalis pedis pulses bilaterally, popliteal pulses faintly palpable
+Resp: mild expiratory wheeze bilaterally, no accessory muscle use
+Extremities: no edema, skin intact, cap refill slightly delayed >3 sec bilateral toes, hair loss noted on lower legs
+Neuro: grossly intact
+
+LABS/IMAGING REVIEWED:
+ABI (obtained prior to visit): right 0.68, left 0.71, consistent with mild-moderate PAD
+Creatinine 1.6 (baseline per CKD stage 3), eGFR 48
+Lipid panel pending
+
+ASSESSMENT:
+55 yo male w/ symptomatic PAD (claudication), HTN, COPD, CKD stage 3, obesity, and ongoing tobacco use presenting for vascular eval. ABI findings correlate w/ clinical picture of mild-moderate arterial insufficiency. Given his extensive smoking hx (three distinct stretches as above, currently smoking 1.5 packs/day) his risk for progression of PAD and other cardiovascular disease remains elevated. He continues to smoke and is not ready to quit despite counseling today he was encouraged to reconsider and resources were again offered.
+
+Given his COPD and CKD, contrast use for any future vascular imaging will need to be approached cautiously and coordinated with nephrology as needed.
+
+PLAN:
+1. Continue conservative management of PAD with supervised exercise therapy referral
+2. Start cilostazol 100mg BID if no contraindication - will confirm no heart failure hx
+3. Continue home BP meds, monitor renal function given CKD stage3 and any new medication
+4. Reinforce smoking cessation counseling at every visit; pt not ready to quit today, will revisit at f/u
+5. Continue current COPD inhaler regimen per pulmonology
+6. F/u vascular surgery in 3 months with repeat ABI, sooner if symptoms worsen
+7. Pt to call if rest pain, non healing wounds, or color changes in feet develop
+
+Thank you for allowing me to participate in the care of this patient. Please let me know if you have any qeustions.
+
+Sincerely,
+Teresa Alvarez, NP
+Vascular Surgery

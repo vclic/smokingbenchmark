@@ -1,0 +1,61 @@
+URGENT CARE PROGRESS NOTE
+Patient: Raymond Davis | DOB: 09/03/1952 (age 71) | Sex: M
+Date of Service: 09/03/2023
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: cough x5 days, low grade fever intermittently
+
+HPI: Mr Davis is a 71 y/o male hx HFrEF, afib, T2DM who presents today 9/3/2023 with cough, mild dyspnea on exertion worse than baseline, no chest pain no hemoptysis. He denies fevers today but says he felt warm 2 days ago. He reports some increase in fatigue but no orthopnea change. Denies sick contacts. He states cough is mostly dry, occasional white sputum. No recent travel.
+
+PAST MEDICAL HISTORY: HFrEF (EF 35% per last echo), atrial fibrillation on anticoagulation, type 2 diabetes mellitus.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Smoking pack-year history: 25 pack-years
+Year quit: 2000
+Alcohol use: Not on file
+Drug use: denies
+Occupation: retired machinist
+Living situation: lives w/ spouse
+
+MEDICATIONS (reviewed): metformin, carvedilol, apixaban, furosemide, lisinopril
+
+ALLERGIES: NKDA
+
+[COPIED FORWARD FROM VISIT DATED 04/12/2022 - CARDIOLOGY FOLLOW UP - NOTE: some info below may be outdated]
+Pt seen in cardiology f/u 4/12/2022 for routine afib/HF management. Reports doing well, no palpitations, no syncope. Echo at that time showed EF 33% mildy improved from prior. INR/anticoag levels stable on apixaban no dose adjustment needed. Pt counseled extensively on low sodium diet and fluid restriction 2L/day. Denies chest pain, denies PND. Legs w/ trace edema b/l. Lungs clear to auscultation bilaterally at that visit. Pt was continued on current regimen, follow up in 6 months, labs ordered including BMP, BNP, HbA1c. Pt tolerating meds well no side effects reported. Discussed importance of medication adherence and follow up appts. Pt verbalized understanding. Return precautions given re worsening SOB, weight gain >3lbs in a day, chest pain. [END COPY FORWARD]
+
+ROS: Constitutional - denies chills, denies weight loss. Resp - cough as above, denies wheeze. Cardiac - denies palpitations, denies chest pain. GI - denies nausea, denies diarrhea. Endo - denies polyuria polydipsia today.
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 78 irregular, BP 128/76, RR 16, SpO2 95% RA
+Gen: NAD, alert, comfortable appearing
+HEENT: oropharynx clear, no erythema
+Neck: no JVD appreciated
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: mild scattered rhonchi right base, no wheeze, no rales otherwise
+Abd: soft nontender nondistended
+Ext: trace bilateral lower extremity edema, no clubbing
+Skin: warm dry intact
+
+ASSESSMENT:
+1. Acute bronchitis vs early pneumonia - given rhonchi and cough will obtain CXR
+2. HFrEF - stable exam today no acute decompensation signs
+3. Atrial fibrillation - rate controlled on exam, continue current anticoag
+4. T2DM - stable, will check A1c if not done recently
+
+PLAN:
+- CXR ordered today
+- CBC, BMP, BNP ordered
+- Supportive care, fluids, rest, acetaminophen prn fever
+- Continue home meds as prescribed
+- General preventive health discussion touched briefly on his past tobacco use and importance of ongoing abstinence, no further action needed today
+- Return precaution instructions given: worsening SOB, chest pain, high fever, hemoptysis - go to ED
+- Follow up with PCP in 1 week or sooner if worse
+- Encouraged continued abstinence from tobacco, pt states he has not smoked since he quit
+
+Pt verbalized understanding of plan, all questions answered today.
+
+---
+ADDENDUM (later same day, 09/03/2023, added by T. Alvarez NP):
+CXR results reviewed this afternoon showing no acute infiltrate, mild hyperinflation changes only. Given clinical picture leaning towards acute bronchitis rather than pneumonia at this time. No antibiotics started, will observe. Pt contacted by phone and advised of results, instructed to continue supportive care and call back if worsening. Pt reports mild improvement in cough since this morning visit. No new concerns voiced. Plan otherwise unchanged from above note.

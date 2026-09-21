@@ -1,0 +1,53 @@
+URGENT CARE PROGRESS NOTE
+Patient: Richard Jones (M) DOB: 05/29/1950 (Age 73)
+Date of Service: 05/29/2023
+Author: Laura Castellano, FNP-C
+
+CHIEF COMPLAINT: Cough
+
+HPI: Pt is a 73 y/o M with PMHx of afib, OA, obesity, CAD, CKD stage 3, and asthma who presents with cough x5 days. Pt states, "It's been a dry hacking cough, worse at night, and I feel a little more short of breath than usual." Denies fever, chills, hemoptysis. Reports occasional wheeze but no chest pain. Uses albuterol inhaler PRN with mild relief. No recent travel or sick contacts. Pt states, "I haven't had a cigarette in years, doc, quit back in 2010."
+
+SOCIAL HISTORY (templated block):
+Alcohol use: Occasional
+Smoking status: Never Smoker [NOTE: This field is outdated/incorrect - see narrative below]
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+*** Correction to above template: Smoking status field is inaccurate. Per direct interview today, pt is a FORMER SMOKER. He reports smoking for 45 years total, quitting in 2010. No current tobacco use. No rate/pack info given by pt today, and none was pursued given time constraints of visit.
+
+ROS: Positive for cough, mild dyspnea on exertion. Negative for fever, chest pain, palpitations (though pt has known afib), leg swelling, hemoptysis, weight loss.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 18, Temp 98.4F, SpO2 95% RA, Wt 245 lb
+Gen: NAD, appears stated age
+HEENT: OP clear, no erythema
+Lungs: Mild expiratory wheeze bilat, no crackles, no accessory muscle use
+CV: Irregularly irregular rhythm, no murmur appreciated
+Abd: Soft, NT/ND, obese habitus
+Ext: No edema
+
+LABS/RESULTS:
+CBC (05/29/2023): WBC 7.8, Hgb 13.9, Plt 210
+BMP (05/29/2023): Na 138, K 4.4, Cr 1.6 (baseline per CKD3), eGFR 42
+CXR (05/29/2023): No acute infiltrate, mild hyperinflation, no effusion
+
+PROBLEM LIST:
+- I48.91 Atrial fibrillation
+- M19.90 Osteoarthritis, unspecified
+- E66.9 Obesity
+- I25.10 CAD w/o angina
+- N18.3 CKD stage 3
+- J45.909 Asthma, unspecified, uncomplicated
+- J20.9 Acute bronchitis (old, resolved - remains on list, not addressed today)
+
+ASSESSMENT/PLAN:
+73 y/o M with cough likely due to asthma exacerbation vs viral bronchitis, exam and CXR reassuring for no pneumonia.
+1. Cough/asthma flare - start prednisone burst, continue albuterol PRN, f/u PCP in 1 wk if not improved.
+2. Afib - continue home anticoagulation, no acute changes.
+3. CKD3 - Cr stable at baseline, continue to avoid nephrotoxic agents.
+4. Tobacco history - given 45-year smoking history, though pt quit in 2010, lung cancer screening was discussed with pt; further discussion deferred to PCP for coordination given complexity of visit today.
+5. Return precautions given, pt verbalizes understanding.
+
+Electronically signed: Laura Castellano, FNP-C, 05/29/2023

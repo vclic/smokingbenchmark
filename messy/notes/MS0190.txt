@@ -1,0 +1,77 @@
+Pulmonology Progress Note
+DOS: 09/02/2025
+Author: Owen Fitzgerald, MD (NP progress note)
+
+Patient: Gwendolyn Scott, F, DOB 9/2/1952 (age 73)
+
+CC: COPD follow-up
+
+HPI: 73 yo F with hx COPD, GERD, AFib, HFrEF, BPH, OSA presents for routine f/u. Reports intermittent dyspnea on exertion, denies chest pain, no fevers/chills. Uses home O2 PRN, compliant w/ CPAP per pt report. No recent hospitalizations. Cough stable, sputum clear-ish, occasional wheeze noted by pt in am.
+
+Tobacco History (EHR templated block):
+Smoking status: Former smoker
+Packs/day: 3.00
+Years: 16.00
+Quit date: March 1992
+Note: pt confirms quit smoking in March 1992 and has not resumed since. Spouse continues to smoke at home, pt exposed to secondhand smoke intermittently per pt report.
+
+ROS: (templated, reviewed and negative except as noted above)
+Constitutional: no fever, no chills, no wt loss
+Eyes: no visual changes
+ENT: no sore throat, no epistaxis
+CV: no chest pain, occas palpitations known AFib, stable
+Resp: dyspnea on exertion as above, no hemoptysis
+GI: reflux sx intermittent, on PPI, no BRBPR
+GU: nocturia x2-3 due to BPH, no dysuria
+MSK: no joint swelling
+Skin: no rashes
+Neuro: no focal deficits
+Psych: mood stable, no SI/HI
+Endo: no polyuria/polydipsia
+Heme: no easy bruising
+Allergy/Immun: NKDA
+
+Physical Exam:
+Vitals: BP 128/76, HR 82 irreg irreg (known AFib), RR 18, Temp 98.4F, SpO2 94% RA
+Gen: NAD, well-nourished, appears stated age
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: no JVD appreciated, no LAD
+CV: irregularly irregular rhythm, no m/r/g appreciated
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest
+Abd: soft, nontender, nondistended, +BS
+Ext: trace bilateral LE edema, no clubbing/cyanosis
+Skin: warm dry intact
+Neuro: A&Ox3, no focal deficits noted
+
+Labs/Results:
+08/15/2025 BNP: 210 pg/mL (elevated, stable from prior 195 pg/mL 05/2025)
+08/15/2025 CBC: WBC 6.8, Hgb 12.9, Plt 245
+08/15/2025 BMP: Na 138, K 4.2, Cr 1.1, eGFR 58
+07/30/2025 PFTs: FEV1 58% predicted, FEV1/FVC 0.61 c/w moderate obstructive pattern
+06/2025 Echo: EF 35%, mild MR
+
+Assessment/Plan:
+1. COPD - moderate, stable per PFTs today no acute exacerbation. Continue Spiriva, Symbicort, albuterol PRN. Pulm rehab discussed, pt declined at this time due to transport issues. General screening discussions had with pt regarding ongoing surveillance given smoking hx, deferred further work-up decisions to primary care team.
+2. GERD - continue omeprazole daily, sx well controlled
+3. AFib - rate controlled on metoprolol succinate, continue apixaban for anticoag, INR N/A (on DOAC), follow w/ cardiology
+4. HFrEF - EF 35% per echo 06/2025, continue carvedilol, furosemide, spironolactone. Wt stable today. Advised daily wt checks, low salt diet reinforced.
+5. BPH - continue tamsulosin, sx stable, no urinary retention
+6. OSA - continue CPAP nightly, pt reports adherence though download not reviewed today, will obtain compliance data at next visit
+7. Tobacco use - former smoker, quit March 1992, tobacco cessation counseling reinforced d/t spouse's continued smoking in home; advised on secondhand smoke avoidance strategies, offered resources for spouse if interested.
+
+Medication list (reviewed today):
+- Spiriva Respimat 2.5mcg 2 puffs inhaled daily
+- Symbicort 160/4.5 2 puffs BID
+- Albuterol HFA PRN
+- Omeprazole 40mg daily
+- Metoprolol succinate 50mg daily
+- Apixaban 5mg BID
+- Carvedilol 12.5mg BID
+- Furosemide 40mg daily
+- Spironolactone 25mg daily
+- Tamsulosin 0.4mg qhs
+- Multivitamin daily
+
+Follow up in 3 months or sooner if worsening sx. Pt educated on when to seek urgent care (worsening SOB, chest pain, syncope). Verbalized understanding, all questions answered today.
+
+Electronically signed by Owen Fitzgerald, MD

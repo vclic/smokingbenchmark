@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Cardiology - Daniel Reyes, MD
+Date of Service: 07/29/2025
+
+Patient: Carol Flores, F, DOB 02/19/1971 (age 54)
+
+CHIEF COMPLAINT: Chest pain evaluation, telehealth follow up.
+
+HPI: Pt is a 54 yo female w/ hx of hyperlipidemia, depression, and peripheral artery disease who calls in today for eval of intermittent chest tightness over past 2 wks, non exertional mostly, sum times worse w stress, no radiaton to arm, no assoc SOB at rest but some when walkin up stairs [inaudible] she says its not like her usual claudication pain in the legs, denies palpitations denies syncope she reports she has been under alot of stress lately with family issues and her mood has been low again per her own report which is consistent with her depression hx and she wants to review meds today because she feels the sertraline isnt doing much anymore also wants to talk about her cholesterol labs from last month.
+
+--- COPIED FORWARD FROM VISIT 11/03/2023 ---
+PMH: HLD, PAD, depression, GERD (resolved), hx of L leg claudication improved with cilostazol. ROS reviewed and negative except as above. Pt reports compliance with statin therapy. Ankle brachial index done in vascular lab in 2022 showed mild-mod PAD bilat. Pt continues to walk for exercise as tolerated, denies rest pain, denies nonhealing ulcers. Family hx significant for CAD in father, DM2 in mother. Social hx: lives with spouse, works part time as a bookkeeper, denies illicit drug use, denies excessive etoh. Plan at that time: continue atorvastatin 40mg, continue cilostazol 100mg BID, f/u vascular surgery in 6 months, recheck lipid panel in 3 months.
+--- END COPIED SECTION ---
+
+Social History (current): Pt has never smoked cigarettes, no vaping, no other tobacco use reported. She does not drink etoh regularly, denies recreational drug use.
+
+MEDICATIONS: Atorvastatin 40mg qhs, cilostazol 100mg BID, sertraline 100mg daily, aspirin 81mg daily.
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional - denies fever chills wt loss. Cardiac - as per HPI, denies orthopnea denies PND denies lower extremity edema. Resp - denies cough denies wheeze. GI - denies nausea vomiting abd pain. Psych - reports low mood, denies SI/HI. All other systems reviewed and negative.
+
+OBJECTIVE (telehealth, pt self reported vitals via home cuff):
+BP 128/78, HR 76, pt reports home glucose readings normal (no diabetes hx but checks per family hx concern)
+General: appears comfortable on video, no acute distress noted
+Pt was able to demonstrate full ROM of extremities on camera, no visible edema noted on exam of lower legs via video
+
+ASSESSMENT/PLAN:
+1. Chest pain, atypical - likely musculoskeletal vs stress related given non exertional pattern and lack of assoc symptoms however will order EKG and troponin to be done at outside lab this week given cardiac risk factors (HLD, PAD). Discussed that further imaging or screening studies may be considered pending results, nothing scheduled today.
+2. Hyperlipidemia (E78.5) - continue atorvastatin 40mg, recheck lipid panel in 3 months, pt reports adherence.
+3. Peripheral artery disease (I73.9) - continue cilostazol, no rest pain reported, will defer to vascular surgery for further mgmt, pt due for f/u there.
+4. Depression (F32.9) - pt reports worsening mood on current sertraline dose, will increase to 150mg daily and refer to counseling, safety planning discussed, pt denies SI/HI.
+5. GERD (K21.9) - listed as resolved per prior note, not addressed today.
+6. Tobacco use - pt denies ever having smoked, not applicable for cessation counseling at this time, however general healthy lifestyle counseling given re: diet and exercise given PAD and lipid dx.
+
+Routine health maintenance discussed briefly including age appropriate cancer screenings, pt to follow up with PCP for those. Pt verbalized understanding of plan and agreed to follow up in 4 weeks or sooner if symptoms worsen, was advised to go to ER if chest pain becomes severe or is assoc with SOB, diaphoresis, or radiation to arm/jaw.
+
+Time spent on this encounter: approx 20 minutes, more than half spent in counseling and coordination of care regarding depression management and cardiac risk factor discussion.
+
+Electronically signed: Daniel Reyes, MD, Cardiology, 07/29/2025.

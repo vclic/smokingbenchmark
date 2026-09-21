@@ -1,0 +1,34 @@
+Urgent Care Progress Note
+Patient: Denise Alexander (DOB 3/15/1947, age 77)
+Date of Service: 03/15/2024
+Provider: Teresa Alvarez, NP
+
+CC: cough x5 days
+
+HPI: Pt is a 77 yo female presenting with productive cough, low grade fevers at home, no CP no SOB at rest. Denies hemoptysis. Reports mild fatigue. No recent travel no sick contacts. Hx of CAD, HTN, BPH, gout as below.
+
+ROS: Constitutional: neg for weight loss, chills. HEENT: neg sore throat, neg congestion. CV: neg CP palpitations edema. Resp: + cough, neg wheeze, neg hemoptysis. GI: neg n/v/d. GU: nocturia stable. MSK: neg joint swelling currently. Skin: no rash. Neuro: no focal deficits. All other systems reviewed and negative unless noted above.
+
+Physical Exam: Vitals: T 99.1 HR 78 BP 138/82 RR 16 SpO2 96% RA. General: NAD, well-appearing elderly female. HEENT: op clear, moist mm. Neck: supple no LAD. Lungs: scattered rhonchi bilat, no wheeze no rales, good air movement. CV: RRR, no m/r/g. Abd: soft NT ND. Ext: no edema. Skin: intact no lesions. Neuro: A&Ox3, gait normal.
+
+Problem List (ICD-10):
+I25.10 - CAD, stable
+N40.0 - BPH
+M10.9 - Gout, currently quiescent
+I10 - Essential hypertension
+J20.9 - Acute bronchitis (new today)
+Z87.891 - personal hx of nicotine dependence (outdated entry, see below)
+
+Medications: allopurinol 300mg daily, atorvastatin 40mg qhs, tamsulosin 0.4mg daily, lisinopril 20mg daily, aspirin 81mg daily, metoprolol succinate 25mg daily, colchicine prn flares, finasteride 5mg daily, occasional acetaminophen prn.
+
+Assessment/Plan:
+1. Acute bronchitis - likely viral, supportive care, increase fluids, guaifenesin prn, return if worsening dyspnea or fever >101.5.
+2. Tobacco use history - pt has a longstanding smoking hx of 1 pack per day for 43 years; she no longer smokes, quit smoking in 2011. Counseled on continued avoidance of tobacco exposure, reinforced benefit of remaining smoke-free. Lung cancer screening was discussed with pt given hx.
+3. CAD - stable, continue current meds, no acute issues today.
+4. HTN - well controlled on current regimen, BP at goal today.
+5. BPH - stable on tamsulosin, no urinary retention sx.
+6. Gout - quiescent, continue allopurinol, colchicine prn.
+
+f/u in 2 wks or sooner if sx worsen, call with any questions.
+
+Teresa Alvarez, NP

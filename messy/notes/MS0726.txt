@@ -1,0 +1,44 @@
+Vascular Surgery Progress Note
+Date of Service: 03/05/2026
+Author: Rachel Goldberg, MD
+
+Patient: Elizabeth Moore, F, DOB 3/5/1974 (age 52)
+
+CC: Peripheral artery disease follow up, claudication sx
+
+HPI: Pt is a 52 yo woman with h/o COPD and HTN who presents today for eval of PAD, reports her legs ache when she walks about two blocks and improves with rest she also notes some numbness in her toes at nite the pt denys chest pain denies rest pain [inaudible] but endorses cold feet especially in am, she was seen last by Dr Alvarez and referd here for ABI testing and possible imaging, pt states she has been trying to walk more but the leg pain limits her and shes frustrated bc she wants to be more active for her grandkids.
+
+--- Copied forward from visit dated 11/14/2024 ---
+Pt is a pleasant woman with longstanding COPD on inhalers, HTN controlled on lisinopril, follows with PCP Dr. Nguyen q6 months, reports occasional wheezing worse in cold weather, uses albuterol prn, denies recent exacerbations requiring steroids or antibiotics, immunizations UTD per pt report, colonoscopy done 2022 nl, mammogram due this year, pt encouraged to schedule, review of systems otherwise negative for chest pain palpitations edema, pt tolerating meds well no side effects reported, will continue current regimen and follow up in 6 months for BP check.
+--- end copied section ---
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use: Current every day smoker
+Smoking status: Current smoker
+Pack-year history: 23 pack-years
+Type: Cigarettes
+Counseling: Advised to quit, discussed cessation resources including nicotine replacement and counseling referral
+
+PMH: COPD, hypertension
+PSH: none significant
+Meds: lisinopril, albuterol inhaler prn, atorvastatin
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 138/86, HR 78, RR 16, SpO2 94% on RA
+Gen: alert, no acute distress
+CV: RRR no murmur
+Resp: mild expiratory wheeze bilat
+Extrem: cool feet bilaterally, decreased hair growth on lower legs, dorsalis pedis pulses faintly palpable bilat, no ulcers or gangrene noted, cap refill slightly delayed
+
+Labs/Imaging reviewed: lipid panel wnl, HbA1c 5.6, prior ABI from outside record reportedly borderline low will repeat today
+
+Assessment/Plan:
+1. Peripheral artery disease - likely mod severity given claudication and exam findings will obtain ABI with exercise testing today, consider referral for arterial duplex of lower extrmities if abnormal, started on cilostazol trial pending renal fxn check, discussed importance of walking program
+2. Tobacco use - counseled extensively on smoking cessation given vascular and pulm risk, pt states she is thinking about it but not ready to quit today, provided handout on quitline and nicotine patches, will readdress at next visit
+3. COPD - stable will continue current inhaler regimen f/u with PCP
+4. HTN - well controlled on current regimen continue lisinopril
+
+Follow up in 4 weeks with results of ABI or sooner if worsening sx, pt verbalized understanding of plan, questions answered, RTC prn otherwise
+
+Electronically signed Rachel Goldberg MD 03/05/2026

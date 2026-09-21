@@ -1,0 +1,48 @@
+INTERNAL MEDICINE FOLLOW-UP NOTE
+Patient: George White | DOB: 9/2/1973 | Age: 50 | Sex: M
+Date of Service: 11/25/2023
+Author: Laura Castellano, FNP-C (resident note; attending attestation below)
+
+CC: f/u HTN, T2DM
+
+HPI: Pt is a 50 yo M here for routine f/u of hypertension and type 2 diabetes, also hx of CAD s/p [inaudible] stent placement per pt report he has been doing okay, denies chest pain denies SOB at rest, some exertional fatigue when he mows the lawn but no true angina. Sugars have been running in the 140s-160s per home glucometer, he admits diet has been off around thanksgiving prep. Depression sx stable on current regimen, sleep fair appetite fair. Asthma well controlled uses albuterol maybe 1x/week.
+
+Smoking/tobacco: Pt states he has never smoked cigarettes, denies any personal tobacco use hx. However he reports his wife smokes about a pack a day and does so inside the home, so there is ongoing secondhand smoke exposure in the household. Counseled on importance of minimizing exposure, discussed possibility of asking spouse to smoke outdoors.
+
+ROS: otherwise negative except as above, no fevers no chills no vision changes no numbness/tingling in feet today.
+
+PMH/Problem List:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus w/o complications
+- I25.10 Atherosclerotic heart disease of native coronary artery w/o angina
+- J45.909 Asthma, unspecified
+- F32.9 Major depressive disorder, unspecified episode (outdated - pt now describes as recurrent, chart not updated)
+- Z87.891 Personal hx of nicotine dependence (outdated/erroneous entry, carried forward from prior template, does not apply per pt report today)
+
+Meds: lisinopril 20mg daily, metformin 1000mg BID, atorvastatin 40mg qhs, albuterol PRN, sertraline 100mg daily, ASA 81mg daily
+
+Allergies: NKDA
+
+Exam: Vitals BP 138/84 HR 76 RR 16 Temp 98.2 BMI 29
+Gen: NAD well appearing male in no distress
+CV: RRR nl s1 s2 no m/r/g
+Resp: CTAB no wheezes rales rhonchi
+Abd: soft NT ND +BS
+Ext: no edema pulses 2+ b/l
+Neuro: monofilament testing intact b/l feet grossly
+Psych: mood euthymic affect appropriate
+
+Labs (reviewed today): A1c 7.8% (prior 7.4%), lipid panel LDL 88, HDL 42, TG 160, Cr 0.9 eGFR >60
+
+Assessment/Plan:
+1. HTN - reasonably controlled will continue lisinopril, recheck BP next visit
+2. T2DM - A1c trending up will increase metformin, reinforce diet, consider add-on agent if not improved next visit, pt reports gluocse [inaudible] variable due to holiday eating
+3. CAD - stable no anginal sx continue statin and ASA
+4. Asthma - well controlled continue albuterol PRN
+5. Depression - stable continue sertraline f/u with behavioral health as scheduled
+6. Tobacco/secondhand smoke exposure - pt himself never smoker, counseled regarding household secondhand exposure from spouse's smoking, encouraged smoking cessation resources be offered to spouse
+
+RTC 3 months or sooner if issues.
+
+Attending attestation: I have reviewed and discussed this patient with the resident/NP author, agree with documentation and plan as above.
+-- Dr. R. Alvarez, Attending, Internal Medicine

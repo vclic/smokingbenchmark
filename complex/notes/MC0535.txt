@@ -1,0 +1,51 @@
+GERIATRIC ASSESSMENT CLINIC
+Date of Service: 11/27/2025
+Patient: Steven Patel, M, DOB 03/23/1947 (age 78)
+Author: Isaac Moreno, PA-C
+
+=== NURSE INTAKE ===
+Vitals: BP 138/82, HR 76 irreg irreg, RR 16, Temp 97.8F, SpO2 96% RA, Wt 182 lb, Ht 5'9"
+Chief complaint per patient: "I just want to make sure I'm not falling apart, doc."
+Patient ambulates with cane, no acute distress.
+
+=== HPI (Isaac Moreno, PA-C) ===
+Mr. Patel is a 78-year-old male who presents today, 11/27/2025, for a comprehensive geriatric assessment. He is accompanied by his daughter. He reports overall stable health but endorses some mild fatigue and occasional dizziness on standing. Patient states, "I feel pretty good most days, but sometimes I get lightheaded when I stand up too fast." He denies chest pain, syncope, or palpitations at rest, though he notes his heart "skips around" from time to time, consistent with his known atrial fibrillation. He also reports nocturia 3-4 times per night, which he attributes to his prostate issues. Patient quotes, "I'm up half the night going to the bathroom, it's exhausting."
+
+He denies any new falls but admits to feeling unsteady occasionally. He continues to take his anticoagulation and reports good adherence. No new medications started since last visit. He denies shortness of breath, cough, or hemoptysis.
+
+=== SOCIAL HISTORY ===
+Tobacco: Patient has a history of smoking 3 packs per day from 1967 until 1987. He is now a former smoker and quit smoking; no further details on cessation timing were provided or elicited today. Alcohol: rare glass of wine with dinner. Lives with spouse, daughter checks in weekly. Retired machinist.
+
+=== COPIED FORWARD FROM PRIOR VISIT (03/14/2023) ===
+[The following block was carried over from an earlier note and left in the chart]
+Patient seen for routine follow up of atrial fibrillation and BPH. He reports doing well on current regimen. Denies chest pain, SOB, orthopnea, PND, or lower extremity edema. Denies dysuria, hematuria, or urinary retention. Reports mild urinary hesitancy managed with tamsulosin. Physical exam notable for irregularly irregular rhythm, no murmurs appreciated, lungs clear to auscultation bilaterally, abdomen soft nontender, no CVA tenderness. Prostate exam deferred, urology follow up recommended. Labs reviewed: BMP within normal limits, CBC unremarkable, PSA stable from prior. Plan: continue current anticoagulation, continue tamsulosin, follow up in 6 months, return sooner if symptoms worsen. Patient counseled on fall precautions and medication adherence. Discussed importance of routine cardiology follow up given AFib diagnosis.
+[END COPIED BLOCK]
+
+=== PROBLEM LIST ===
+1. I48.91 - Atrial fibrillation, unspecified (active)
+2. N40.1 - Benign prostatic hyperplasia with lower urinary tract symptoms (active)
+3. R26.81 - Unsteadiness on feet (active)
+4. Z87.891 - Personal history of nicotine dependence (active)
+5. E78.5 - Hyperlipidemia, unspecified (outdated - resolved per prior chart review, medication d/c'd 2019)
+6. M17.11 - Unilateral primary osteoarthritis, right knee (outdated - patient reports resolved after PT, kept for historical tracking)
+
+=== EXAM ===
+General: well-appearing elderly male, no acute distress.
+Cardiovascular: irregularly irregular rhythm, no murmurs, gallops, or rubs. No JVD.
+Respiratory: lungs clear to auscultation bilaterally, no wheezes or crackles.
+Abdomen: soft, nontender, nondistended, no organomegaly.
+GU: deferred, prior prostate exam on file.
+Neuro: alert and oriented x3, gait slightly wide-based, uses cane appropriately.
+Skin: no lesions, good turgor.
+
+=== ASSESSMENT/PLAN ===
+1. Atrial fibrillation - stable on current anticoagulation, continue monitoring INR/labs as applicable. Continue current cardiology follow up.
+2. BPH - continue tamsulosin, monitor nocturia, consider urology referral if symptoms worsen.
+3. Unsteadiness/fall risk - recommend PT evaluation, home safety assessment, review medications for orthostatic contributors. Orthostatic vitals to be checked at next visit.
+4. Tobacco history - former smoker as above; general risks of prior heavy tobacco use were discussed with the patient in the context of overall health maintenance.
+5. Health maintenance - encouraged continued physical activity as tolerated, discussed diet, reviewed vaccination status (up to date).
+
+Return to clinic in 6 months or sooner if symptoms worsen. Daughter given clinic contact information.
+
+=== ADDENDUM (11/27/2025, later same day) ===
+Addendum by Isaac Moreno, PA-C: Patient's daughter called clinic this afternoon to clarify that her father has been more unsteady than reported during the visit, with two near-falls at home in the past month that were not disclosed during the appointment. Recommend expediting PT referral and home safety evaluation given this additional history. Will also add fall risk precautions to chart and discuss with supervising physician. No changes to medication regimen at this time. Patient's tobacco and cardiac history as documented above remains unchanged.

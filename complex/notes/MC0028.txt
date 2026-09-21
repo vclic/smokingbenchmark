@@ -1,0 +1,61 @@
+FAMILY MEDICINE - ANNUAL WELLNESS VISIT
+Patient: Joseph King | DOB: 08/28/1974 | Age: 51 | Sex: M
+Date of Service: 12/29/2025
+Author: Gregory Tan, MD
+
+CC: Annual physical exam.
+
+HPI: Pt here for routine wellness visit, no acute complaints today, feels ok overall, some knee stiffness in am's, denies chest pain sob or dizzyness. He notes mood has been "stable-ish" on current meds, sleep fair, appetite fine. Wife accompanies him to visit, reports he has been more active lately walking dog most days [inaudible] weather permitting.
+
+PROBLEM LIST:
+- M19.90 Osteoarthritis, unspecified site
+- N18.30 Chronic kidney disease, stage 3 (unspecified)
+- F32.9 Major depressive disorder, single episode, unspecified (dx 2016, may be outdated)
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension (old dx, unclear if still active - verify)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use Status: Former smoker
+Cigarettes - Packs/Day (Period 1): 2 ppd
+Duration (Period 1): 8 years
+Smoking-Free Interval: 8 years
+Cigarettes - Packs/Day (Period 2, after restart): 2 ppd
+Duration (Period 2): 8 years
+Current Use: None - quit for good after Period 2
+Alcohol Use: Not on file
+Drug Use: Not on file
+Occupation: Not on file
+Living Situation: Not on file
+
+Additional note re: tobacco - pt states he quit smoking for good around the time his granddaughter was born; she is now 3 years old. Denies any tobacco use since. Discussed lung cancer screening guidelines in general terms; pt states he'll think about it, no further wrkup ordered today re screening.
+
+ROS: Otherwise negative in detail, 10-point ROS reviewd and negative except as noted in HPI.
+
+EXAM:
+Vitals: BP 132/78, HR 76, RR 16, Wt 224 lb, BMI 33.8
+Gen: well-appearing male, NAD
+HEENT: nc/at, PERRLA, oropharynx clear
+CV: RRR no m/r/g
+Lungs: CTAB, no wheezes rales or rhonchi
+Abd: soft nt/nd, +BS
+Ext: mild crepitus bilateral knees, no edema
+Neuro: grossly intact
+Psych: mood euthymic, affect appropriate
+
+LABS (reviewed, from 12/15/2025):
+Cr 1.4 (baseline), eGFR 52
+A1c 5.9
+Lipid panel: LDL 118, HDL 42, TG 150
+
+ASSESSMENT/PLAN:
+1. Osteoarthritis - stable on acetaminophen prn, cont current regimen, refered to PT if worsens.
+2. CKD stage 3 - stable, recheck BMP labs in 6 months, avoid nephrotoxic agents, renally dose meds as needed.
+3. Depression - pt reports doing reasonably well, cont sertraline, f/u in 3 months or sooner if worsening, PHQ-9 today scored 4 (minimal).
+4. Obesity - counseled on diet/exercise, discussed weight loss goals, referal to nutrition offered pt declined for now.
+5. Tobacco history - former smoker per social hx above, quit for good around time granddaughter born (now age 3). Counseled on continued avoidance, praised for sobriety from tobacco, reinforced importance given CKD and cardiac risk factors.
+6. HTN - unclear if still relevant dx, will review old records, BP well controlled today off meds per chart (verify).
+7. Health maintenance - UTD on colonoscopy per pt report (verify w records), flu vaccine given today, discussed pneumococcal vaccine pt to consider.
+
+Return to clinic in 3 months or sooner PRN. Pt verbalized understanding and agreement w plan.
+
+Electronically signed: Gregory Tan, MD

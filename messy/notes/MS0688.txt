@@ -1,0 +1,85 @@
+NP PROGRESS NOTE - Pulmonology
+Patient: Dale Lewis (M), DOB 4/4/1962, Age 63
+DOS: 4/4/2025
+Author: Nadia Haddad, MD
+Visit type: Lung cancer screening shared decision-making visit
+
+CC: LCS SDM visit, referred by PCP for general discussion of lung cancer screening.
+
+HPI: 63 y/o M w/ hx HFrEF, PAD, HLD, T2DM, depression, HTN presents for shared decision-making visit re: lung cancer screening. Pt reports doing reasonably well, no new chest pain, no hemoptysis, mild exertional dyspnea baseline unchanged. Denies fevers/chills/wt loss. PAD stable, no claudication change. Reviewed general concept of screening and pt's smoking hx as part of discussion.
+
+Smoking history: Former smoker, 41 pack-year smoking history. Quit smoking September 2010. No current tobacco use, no vaping.
+
+--- COPIED FROM NOTE DATED 1/4/2024 ---
+Social Hx (copied fwd from 1/4/2024 note): Tobacco - former smoker.
+--- END COPIED SECTION ---
+
+ROS: Cardiac - denies orthopnea/PND, stable weight per pt. Resp - denies cough/wheeze. GI - unremarkable. Neuro - denies focal deficits. Psych - mood stable on current regimen, denies SI/HI. All other systems reviewed and negative except as above.
+
+PMH/Problem List (per chart, some entries may be outdated):
+1. I50.22 - Chronic systolic (congestive) heart failure - active, on GDMT
+2. I73.9 - Peripheral vascular disease, unspecified - active
+3. E78.5 - Hyperlipidemia, unspecified - active
+4. E11.9 - Type 2 diabetes mellitus without complications - active (note: chart previously listed E11.65 hyperglycemia, appears outdated/superseded)
+5. F32.9 - Major depressive disorder, single episode, unspecified - active
+6. I10 - Essential hypertension - active
+7. Z87.891 - Personal history of nicotine dependence - listed, hx of tobacco use
+8. J44.9 - COPD unspecified (older entry, dz activity unclear, may be outdated, not addressed today)
+
+Meds (reviewed, reconciled today):
+- Metoprolol succinate 50mg daily
+- Sacubitril-valsartan 49/51mg BID
+- Spironolactone 25mg daily
+- Atorvastatin 40mg qhs
+- Metformin 1000mg BID
+- Aspirin 81mg daily
+- Cilostazol 100mg BID
+- Sertraline 100mg daily
+- Lisinopril d/c'd 2023 2/2 switch to ARNI, still listed erroneously on old med list, verified today not taking
+
+Allergies: NKDA
+
+Vitals: BP 128/78, HR 68, RR 16, SpO2 96% RA, Wt 198 lb, Ht 5'9", BMI 29.2, Temp 98.2F
+
+Physical Exam:
+Gen: NAD, well-appearing, comfortable
+HEENT: NC/AT, PERRLA, oropharynx clear
+Neck: no JVD appreciated, no LAD
+CV: RRR, no m/r/g, +2 pedal pulses bilat (slightly diminished per baseline PAD)
+Resp: CTAB, no wheeze/rales/rhonchi, no accessory muscle use
+Abd: soft, NT/ND, +BS
+Ext: no edema, warm, cap refill <2s, skin intact, no ulcers
+Neuro: A&Ox3, no focal deficits
+Psych: mood/affect appropriate, cooperative
+
+Labs reviewed (from last visit 3/2025):
+A1c 7.4%, LDL 82, Cr 1.1, eGFR 68, BNP 210 (baseline elevated 2/2 HFrEF)
+
+Assessment:
+63 y/o M former smoker (41 pack-yr, quit 9/2010) with multiple comorbidities (HFrEF, PAD, HLD, T2DM, depression, HTN) presenting for LCS shared decision-making discussion.
+
+Discussed:
+- Reviewed personal smoking hx in detail, confirmed 41 pack-year history and quit date of Sept 2010
+- Discussed general concept of lung cancer screening, potential risks (false positives, incidental findings, radiation exposure, downstream workup) and potential benefits (early detection)
+- Discussed harms of continued smoking (n/a currently, reinforced continued abstinence)
+- Pt given educational materials re: LCS decision-making
+- Extensive discussion of pt's other comorbidities and how they may factor into overall risk/benefit calculus of any future imaging surveillance
+- Pt verbalizes understanding, has questions he will bring to PCP
+- No decision made today regarding imaging; further discussion to occur with PCP given complexity of comorbid conditions
+
+Plan:
+1. Continue current GDMT for HFrEF - no changes today
+2. Continue cilostazol/ASA for PAD, follow with vascular as scheduled
+3. Continue atorvastatin for HLD, recheck lipid panel in 6 mo
+4. Continue metformin for T2DM, recheck A1c in 3 mo, pt to continue home glucose monitoring
+5. Continue sertraline for depression, screen for SI/HI today negative, f/u w/ psych as scheduled
+6. Continue lisinopril - wait, verified d/c'd, ARNI regimen only, correct med list in chart
+7. BP well controlled on current regimen, continue monitoring at home
+8. Reinforced continued tobacco abstinence, congratulated pt on maintaining smoking cessation since 2010
+9. Reviewed general screening discussion above; encouraged pt to follow up with PCP to further discuss options
+10. Return to pulm clinic in 6 months or sooner if symptoms change
+11. Pt educated on when to seek urgent care (chest pain, worsening SOB, hemoptysis, syncope)
+
+Time spent: 35 min, >50% counseling/coordination of care.
+
+Electronically signed: Nadia Haddad, MD, Pulmonology

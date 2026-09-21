@@ -1,0 +1,85 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 04/21/2024
+Author: Catherine Lindqvist, DO
+
+Patient: Charles Ross
+DOB: 04/21/1944 (Age: 80 today)
+MRN: 004471
+
+CHIEF COMPLAINT: Lung cancer screening shared decision-making visit.
+
+HPI:
+Mr. Ross is an 80-year-old male with hx of atrial fibrillation, depression, PAD, and obesity, presenting today, on his 80th birthday, for discussion regarding lung cancer screening. He states, "I figure I've smoked long enough, I should find out if there's anything wrong in there." He reports ongoing tobacco use and admits he has not been able to cut back much despite prior counseling. He denies hemoptysis, unintentional weight loss, or new cough. He does report mild exertional dyspnea, which he attributes to his PAD and deconditioning. He states, "My legs give out before my lungs do, doc." He has set a quit date of 5/8/2024 and says he plans to use nicotine patches starting that day. No current chest pain. Denies fevers or night sweats.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation, on anticoagulation
+- Depression
+- Peripheral artery disease
+- Obesity
+
+MEDICATIONS:
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Sertraline 100 mg PO daily
+4. Atorvastatin 40 mg PO daily
+5. Cilostazol 100 mg PO BID
+6. Aspirin 81 mg PO daily
+7. Multivitamin PO daily
+8. Bupropion SR 150 mg PO daily (for smoking cessation/depression)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: 05/08/2024 (planned)
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Occupation: Retired machinist
+Living situation: Lives with spouse
+Exercise: Limited due to claudication
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports fatigue, chronic.
+Eyes: Denies vision changes.
+ENT: Denies sore throat, congestion.
+Cardiovascular: Denies chest pain, palpitations (known AF, rate-controlled). Denies orthopnea.
+Respiratory: Reports mild dyspnea on exertion. Denies cough, hemoptysis, wheeze.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Reports bilateral leg cramping with ambulation, consistent with known PAD.
+Skin: Denies rash, lesions.
+Neuro: Denies focal weakness, numbness, headache.
+Psych: Reports depressed mood, stable on current regimen. Denies SI/HI.
+Endocrine: Denies polyuria, polydipsia.
+Heme/Lymph: Denies easy bruising, lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregularly irregular, RR 16, Temp 97.8F, SpO2 95% RA, Wt 238 lb, BMI 34.2
+General: Obese male, well-nourished, in no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic, oropharynx clear, no lymphadenopathy.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs, rubs, or gallops appreciated. No peripheral edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Mild use of accessory muscles denied.
+Abdomen: Obese, soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: Diminished dorsalis pedis and posterior tibial pulses bilaterally, no ulcers noted, skin cool to touch distally, consistent with known PAD.
+Skin: No rashes or lesions noted.
+Neuro: Alert and oriented x3, no focal deficits.
+Psych: Mood euthymic today, affect appropriate.
+
+ASSESSMENT/PLAN:
+80-year-old male, active smoker with a 47 pack-year smoking history, with comorbid atrial fibrillation, depression, PAD, and obesity, presenting for lung cancer screening shared decision-making discussion.
+
+1. Lung cancer screening: Discussed risks and benefits of low-dose CT screening at length, including false positives, incidental findings, and radiation exposure. Discussed with patient given his 47 pack-year smoking history and current active smoking status. Provided educational handout. Patient to consider and follow up to discuss further.
+2. Tobacco use, active: Continued counseling provided today. Patient has set a quit date of 5/8/2024. Continue bupropion SR as above. Encouraged nicotine replacement therapy as adjunct. Provided Quitline information.
+3. Atrial fibrillation: Rate-controlled, continue metoprolol and apixaban. Follow with cardiology.
+4. Depression: Stable on sertraline and bupropion, continue current regimen, reassess at next visit.
+5. Peripheral artery disease: Continue cilostazol and aspirin, reinforce smoking cessation as critical to PAD management, vascular surgery follow-up as scheduled.
+6. Obesity: Discussed dietary modification and low-impact exercise as tolerated given claudication.
+
+Follow-up in pulmonology clinic in 3 months, sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Electronically signed: Catherine Lindqvist, DO

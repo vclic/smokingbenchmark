@@ -1,0 +1,40 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 11/28/2024
+Provider: Anita Patel, MD
+
+Patient: Robert Wilson, M, DOB 7/13/1960, age 64
+
+CC: Medication refills.
+
+HPI: Pt calls in for refills, doing fair. No new complaints today. c/o mild knee pain, stable. Denies chest pain, SOB. Reviewed meds, no changes needed at this time except levothyroxine dose confirmed.
+
+PROBLEM LIST (ICD-10):
+- E66.9 Obesity
+- M19.90 Osteoarthritis, unspecified site
+- E03.9 Hypothyroidism
+- M10.9 Gout, unspecified
+- I73.9 Peripheral artery disease
+- I25.10 CAD (status post CABG x3, 2008)
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY: Former smoker. Smoked half a pack (about 10 cigarettes) per day for 10 years, then cut back to a quarter pack (about 5 cigarettes) per day for 19 years before quitting. Quit smoking right after his bypass surgery. Denies current tobacco use, alcohol occasional, no illicit drugs.
+
+[Copied forward from visit 03/14/2022]
+ROS: Constitutional - no fever, chills, weight loss. HEENT - no vision changes, no hearing loss. CV - no chest pain, no palpitations. Resp - no cough, no wheeze. GI - no nausea, vomiting, diarrhea. GU - no dysuria. MSK - chronic knee pain, stable. Skin - no rashes. Neuro - no focal deficits. Psych - no depression, no anxiety.
+PHYSICAL EXAM: Gen - well-appearing, NAD. HEENT - PERRLA, EOMI, oropharynx clear. Neck - supple, no LAD, no thyromegaly. CV - RRR, no m/r/g. Lungs - CTAB. Abd - soft, NT/ND, obese habitus. Ext - trace edema, PAD noted with diminished pedal pulses bilaterally. Neuro - grossly intact.
+MEDICATIONS: Levothyroxine 88mcg daily, Allopurinol 300mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily, Clopidogrel 75mg daily, Metoprolol succinate 50mg daily, Cilostazol 100mg BID, Meloxicam 15mg daily PRN, Metformin 500mg BID.
+[End copied forward text]
+
+ASSESSMENT/PLAN:
+1. PAD - continue cilostazol, aspirin, clopidogrel, follow with vascular surgery as scheduled.
+2. CAD s/p CABG x3 (2008) - stable, continue current regimen.
+3. Hypothyroidism - TSH to be rechecked, continue levothyroxine.
+4. Gout - continue allopurinol, avoid triggers.
+5. Osteoarthritis - continue meloxicam PRN, discussed weight-bearing exercise as tolerated.
+6. Obesity - counseled on diet and exercise.
+7. Former tobacco use - reinforced continued abstinence, congratulated pt on quitting.
+8. Lung cancer screening discussed given smoking history; will revisit at next in-person visit.
+
+Refills sent to pharmacy as above. Follow up in 3 months or sooner if needed.
+
+Anita Patel, MD

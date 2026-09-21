@@ -1,0 +1,40 @@
+CARDIOLOGY RESIDENT NOTE - HF FOLLOW UP
+DOS: 01/19/2023
+Author: Kevin Osei, MD (resident), attending attestation below
+
+Pt: Paul Alexander, M, age 57 (DOB 1/19/1966)
+
+CC: f/u CHF, doing 'ok', mild dyspnea on exertion, no orthopnea currently, wt stable per pt.
+
+HPI: 57yo M w hx HFrEF (last echo EF 35%), gout, osteoporosis presenting for routine f/u. Denies chest pain, denies PND. Compliant w meds mostly, occasionally misses lasix dose. No recent ED visits.
+
+PMH: gout, osteoporosis, HFrEF
+
+SMOKING STATUS FIELD (auto-populated, outdated): Smoking status: Never Smoker -- NOTE this field is INCORRECT and has not been updated; per pt interview today, correct hx is smoked on and off for most of her adult life, pt reports he quit smoking. No further detail on quit timing obtained/needed for today's visit.
+
+ROS: + occas ankle edema, denies fevers, denies palpitations. Otherwise neg.
+
+Meds: carvedilol, lisinopril, spironolactone, furosemide, allopurinol, alendronate, vit D/calcium
+
+Allergies: NKDA
+
+Vitals: BP 118/72, HR 68, RR 16, SpO2 97% RA, Wt 84kg (stable from last visit 83.8kg)
+
+Exam: gen - NAD; CV - RRR, no S3 appreciated today, no significant JVD; Lungs - CTAB, no crackles; Ext - trace edema b/l; no gouty tophi active flare noted.
+
+Labs/Results:
+- BNP 01/19/2023: 210 pg/mL (down from 340 on 10/12/2022)
+- BMP 01/19/2023: Na 138, K 4.3, Cr 1.1, eGFR >60
+- Uric acid 12/2022: 6.8 mg/dL
+- DEXA 09/2022: T-score -2.6 lumbar spine (osteoporosis, stable)
+- Echo 11/2022: EF 35%, mild MR
+
+A/P:
+1. HFrEF - stable, cont GDMT, will consider uptitration of carvedilol at next visit if tolerates. Reinforce low salt diet.
+2. Smoking hx - corrected in chart today (see above); pt is a former smoker, quit smoking. Screening for lung malignancy was discussed briefly with pt given hx, no imaging ordered today, defer further w/u to PCP as appropriate.
+3. Gout - stable on allopurinol, uric acid at goal.
+4. Osteoporosis - cont alendronate/vit D, f/u DEXA per ortho/pcp.
+
+RTC 3 months or sooner if sx worsen.
+
+Attending Attestation: I have seen and examined the pt with Dr. Osei, discussed the case, and agree with the above assessment and plan including the corrected smoking history noted above. -- Attending Cardiology

@@ -1,0 +1,62 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 10/20/2025
+Author: Brian Okonkwo, MD (NP progress note co-signed)
+
+PT: Rajesh Jenkins, M, DOB 3/24/1951, Age 74
+
+CC: med refills, f/u PAD, HTN(thyroid replacement), OA, osteoporosis, GERD
+
+HPI: 74 yo M seen via telehealth today 10/20/2025 for routine refill visit. Pt reports doing fairly well, c/o mild b/l calf discomfort w/ ambulation c/w known PAD, states its about the same as last visit no worsening claudication distance, denies rest pain or new ulcers noted on cam by pt when asked to show feet on video. Pt c/o some low back and knee ache attributed to OA, taking tylenol prn w mod relief. No new GERD sx, denies heartburn, no dysphagia noted. Reports compliance c levothyroxine, takes on empty stomach am. No falls since last visit, uses cane occasionally.
+
+SOCIAL HISTORY / TOBACCO: Pt states he tried a few cigarettes as a teenager but never smoked regularly, no other tobacco use hx obtained, denies current use. No vaping. Occasional etoh, denies illicit drug use.
+
+[COPY-FORWARD FROM PRIOR VISIT 04/14/2025 - left in note by staff, not all up to date]
+---begin copied text---
+HPI (04/14/2025): Pt is a 74 y.o. -- wait, pt was 73 at that visit -- male here for f/u PAD and routine care, reports intermittent claudication in b/l lower extremities after walking approx 2 blocks, improves w rest. Denies chest pain, SOB, palpitations. Current meds reviewed incl cilostazol, atorvastatin, levothyroxine, omeprazole, alendronate, calcium/vit D. Pt reports adherence overall good. Foot exam performed, no ulcers, pulses diminished bilat DP/PT, cap refill <3 sec. Pt counseled on foot care, importance of daily inspection given PAD. ROS otherwise negative for fever, chills, wt loss, night sweats. Pt lives alone since wife passed, daughter checks in weekly, ambulates c cane occasionally per pt report [inaudible] some difficulty hearing pt on call today will need in person f/u. Plan at that time: continue current meds, recheck lipids and TSH in 6 mo, ABI ordered, f/u 6 mo or sooner if worsening sx.
+---end copied text---
+
+ROS (today, 10/20/2025): Constitutional - no fever/chills/wt loss. CV - no CP, no palpitations, + claudication as above. Resp - no cough/SOB. GI - no n/v/d, occasional reflux controlled c omeprazole. MSK - chronic low back/knee pain stable. Endo - no polyuria/polydipsia. Neuro - no focal deficits, no numbness/tingling reported beyond baseline.
+
+MEDS (current):
+- Cilostazol 100mg BID
+- Atorvastatin 40mg qhs
+- Levothyroxine 88mcg qam
+- Omeprazole 20mg qd
+- Alendronate 70mg qweek
+- Calcium citrate + Vit D BID
+- Acetaminophen 650mg prn pain
+
+ALLERGIES: NKDA
+
+VITALS (reported by pt via home cuff, telehealth limitation noted): BP 138/82, HR 74, wt 178 lb (per pt scale, unverified)
+
+LABS/RESULTS:
+- TSH 09/30/2025: 2.1 uIU/mL (WNL)
+- Lipid panel 09/30/2025: LDL 88 mg/dL, HDL 42 mg/dL, TG 150 mg/dL, TC 160 mg/dL
+- ABI (ankle-brachial index) 08/15/2025: R 0.72, L 0.68 (consistent w mod PAD)
+- DEXA 06/2025: T-score -2.7 lumbar spine, -2.4 femoral neck (osteoporosis, stable from prior)
+- BMP 09/30/2025: Na 139, K 4.2, Cl 101, CO2 25, BUN 18, Cr 1.0, Glc 98
+
+PROBLEM LIST (ICD-10):
+1. I73.9 - Peripheral artery disease, unspecified
+2. E03.9 - Hypothyroidism, unspecified (on levothyroxine, stable per recent TSH)
+3. M19.90 - Osteoarthritis, unspecified site (outdated entry, likely should specify knee/spine per current sx)
+4. M81.0 - Age-related osteoporosis without current pathological fracture
+5. K21.9 - GERD without esophagitis
+6. Z79.899 - long term drug therapy (outdated/copy-forward, may not reflect current med list accurately)
+7. I10 - Essential hypertension (NOTE: this appears to be an outdated dx carried over, pt's chart does not currently list active HTN dx per recent visits, needs reconciliation)
+
+A/P:
+1. PAD - stable claudication sx, continue cilostazol, f/u ABI trending, reinforce foot care and inspection daily given diminished pulses, discussed exercise program (walking regimen) as tolerated.
+2. Hypothyroidism - TSH WNL 2.1, continue current levothyroxine dose, recheck in 6 mo or sooner if sx of over/under replacement.
+3. Osteoarthritis - stable, continue acetaminophen prn, discussed non-pharm measures (heat, gentle stretching), refer to PT if worsens.
+4. Osteoporosis - continue alendronate weekly, stable DEXA trend, reinforce calcium/vit D adherence, fall precautions reviewed given cane use.
+5. GERD - well controlled on omeprazole, continue, counseled re: diet triggers, timing of dosing before meals.
+6. Health maintenance - lung cancer screening was discussed given age and social hx, pt educated on general risk factors; age-appropriate cancer screening (colon, etc) reviewed, pt due for colonoscopy per prior records will schedule separately. Tobacco use captured in social hx above; no other tobacco counseling indicated given hx reported. Immunizations reviewed, pt due for flu vaccine this season, will arrange administration at local pharmacy since telehealth visit today.
+7. Refills - all above meds refilled x90 days, pt to call if issues c pharmacy.
+
+DICTATION NOTE: portions of this note transcribed via speech-to-text, pt's audio quality was poor at times [inaudible] segments noted above, please excuse any errors, will amend if needed upon review of recording.
+
+F/U: telehealth or in person in 6 months, sooner if worsening PAD sx, ulcer, rest pain, or other concerns. Pt verbalized understanding, all questions answered today, plan agreed upon.
+
+Electronically signed: Brian Okonkwo, MD, 10/20/2025.

@@ -1,0 +1,37 @@
+NURSE INTAKE - Pulmonology
+DOS: 08/21/2023
+Pt: Robert Torres, M, DOB 08/21/1954 (age 69)
+CC: f/u incidental lung nodule
+
+VS: BP 138/84, HR 78 irreg (known AFib), RR 16, SpO2 94% RA, Wt 198 lb
+
+HPI per pt: "I feel about the same, doc, just get winded going up stairs." Denies fever, hemoptysis, chest pain. c/o nocturia, attributed to BPH. Reports occ. wheeze, uses albuterol prn.
+
+TOBACCO HISTORY (templated field):
+Smoking status: Former smoker
+Years smoked: 38 years
+Quit year: 2014
+Current use: none
+
+Meds reviewed - apixaban, tamsulosin, tiotropium inhaler. Allergies NKDA.
+
+---
+PHYSICIAN PROGRESS NOTE - Catherine Lindqvist, DO
+Date: 08/21/2023
+
+S: 69 yo M w/ h/o AFib, BPH, COPD here for f/u of incidentally found lung nodule on prior CT. Pt states "I haven't noticed anything new, just the usual shortness of breath." No wt loss, no new cough. Former smoker per intake, quit 2014, hx of 38 years smoking noted in chart.
+
+O: Alert, NAD. Lungs - diminished breath sounds bilat, scattered exp wheeze, no crackles. Cardiac - irreg irreg, no m/r/g. Abd soft, nontender. No LE edema.
+
+CXR/CT review: stable subsolid nodule RUL, unchanged from prior imaging, no new lesions.
+
+A/P:
+1. Incidental lung nodule - stable, will continue surveillance imaging per protocol. Lung cancer screening options discussed w/ pt, risks/benefits reviewed.
+2. COPD - stable on tiotropium, cont current regimen, reinforce inhaler technique.
+3. AFib - rate controlled, cont apixaban, f/u w/ cardiology as scheduled.
+4. BPH - stable on tamsulosin, no new urinary sx beyond baseline nocturia.
+5. Tobacco - counseled on continued abstinence, praised for having quit smoking; reinforced importance given COPD dx.
+
+F/u in 6 mo or sooner if sx worsen. Pt verbalized understanding, agrees w/ plan.
+
+/electronically signed Catherine Lindqvist, DO

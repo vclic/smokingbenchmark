@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE
+Patient: Joyce Washington | DOB: 01/23/1973 | Age: 52 | Sex: F
+Date of Service: 01/23/2025
+Provider: Elena Markovic, MD (Family Medicine)
+Visit Type: Annual Wellness Visit, telehealth (video, patient at home)
+
+CHIEF COMPLAINT: Annual wellness exam.
+
+HPI:
+Ms. Washington is a 52-year-old female with hx of obesity, hypertension, obstructive sleep apnea, and COPD presenting for her annual wellness visit via telehealth. She states "I feel about the same, doctor, just tired more than usual lately." She reports using her CPAP most nights but admits "I don't always wear the mask, it's uncomfortable when my nose is stuffy." She denies chest pain, denies hemoptysis, endorses occasional morning cough with clear sputum. She says her home BP cuff readings have been "running in the 140s over 90s, give or take." No new falls, no vision changes. She was able to walk to the mailbox and back without stopping, [inaudible] some shortness of breath noted per patient but she attributes this to cold weather, she says the cold air just gets her going and she has to sit down for a minute or too before continuing on with her day which she reports has been happening on and off for a few months now.
+
+PAST MEDICAL HISTORY (copied forward from visit 06/14/2023, may not reflect current status):
+Obesity (BMI 34 at last in-person visit), Hypertension diagnosed 2015, controlled on lisinopril 20mg daily as of that note, OSA diagnosed via home sleep study 2019 on CPAP 10cm H2O, COPD diagnosed 2021 via spirometry (FEV1/FVC 0.62), GERD intermittent, hx of L knee arthroscopy 2010. Immunizations up to date per that visit including flu and pneumococcal. Colonoscopy done 2020, normal, repeat due 2030. Mammogram 2022, normal. Pt was living with daughter at that time and reportedly independent in ADLs. Diet reviewed at that visit, pt counseled on low sodium intake, advised to increase fiber. Pt reported at that time she was trying to walk 20 minutes daily but had difficulty due to knee pain. Family history reviewed 2023: mother with T2DM and HTN, father deceased MI age 61, no known lung cancer in family per that note.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use status: Current every day smoker
+Type: Cigarettes
+Smoking duration: 30 years
+Smokeless tobacco: Never used
+Alcohol: Occasional, 1-2 glasses wine/week per patient report
+Recreational drugs: Denies
+Living situation: Lives with daughter and two grandchildren
+Occupation: Retired school cafeteria worker
+
+Review of tobacco use was discussed today; patient continues to smoke cigarettes and was advised to quit, counseling provided regarding cessation resources and risks related to COPD. Patient states she is "not ready to quit right now but maybe thinking about it." General health maintenance topics related to her smoking history were discussed in the context of her respiratory disease.
+
+REVIEW OF SYSTEMS: Constitutional: fatigue as above, denies fever/chills. Resp: chronic cough as above, denies wheeze today. CV: denies chest pain/palpitations. GI: occasional heartburn. GU: denies dysuria. MSK: chronic L knee discomfort. Neuro: denies HA, denies dizziness. Psych: denies depression/anxiety symptoms, PHQ-2 negative today.
+
+VITALS (telehealth, patient-reported/home device):
+BP 144/92 (home cuff, patient reported)
+HR 88 bpm (pulse ox device at home)
+O2 sat 94% RA (home pulse ox)
+Weight 210 lbs (home scale)
+Height 5'4" (per chart)
+BMI 36.0 (calculated)
+
+LABS/RESULTS (reviewed today):
+CBC 01/10/2025: WBC 7.8, Hgb 13.1, Hct 39.2%, Plt 245
+CMP 01/10/2025: Na 139, K 4.2, Cl 101, CO2 24, BUN 16, Cr 0.9, Glucose 108
+Lipid panel 01/10/2025: Total chol 198, LDL 122, HDL 44, Trig 160
+HbA1c 01/10/2025: 5.9%
+TSH 01/10/2025: 2.1 (WNL)
+Spirometry 11/2024: FEV1/FVC 0.58, consistent with moderate obstruction, stable compared to prior
+
+ASSESSMENT:
+1. Obesity - BMI 36, discussed diet/exercise, will refer to nutrition.
+2. Hypertension - home readings elevated, will increase lisinopril, recheck in 4 wks.
+3. OSA - suboptimal CPAP adherence, will refer back to sleep medicine, order new mask fitting.
+4. COPD - stable per spirometry, continue current inhalers, discussed smoking cessation as above.
+5. Tobacco use, current - counseled today, resources provided, follow up next visit.
+
+PLAN:
+- Increase lisinopril to 40mg daily, recheck BP in 4 weeks via home monitoring log
+- Referral to nutrition for weight management
+- Referral to sleep medicine for CPAP mask refitting and adherence review
+- Continue current COPD inhaler regimen (tiotropium daily, albuterol PRN)
+- Tobacco cessation counseling provided; discussed nicotine patches, pt to consider
+- Labs reviewed with patient, all discussed, no acute issues on labs today
+- Follow up in 3 months or sooner if symptoms worsen
+- Pt verbalized understanding of plan, all questions answered today, telehealth visit concluded without technical issues.
+
+Elena Markovic, MD

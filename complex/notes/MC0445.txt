@@ -1,0 +1,55 @@
+PULMONOLOGY PROGRESS NOTE
+Date of Service: 06/25/2025
+Author: Owen Fitzgerald, MD
+
+Patient: Thomas Lewis, M, DOB 01/16/1949 (age 76)
+
+REASON FOR VISIT: Follow-up s/p COPD exacerbation, recent ED visit, now outpt f/u.
+
+HPI: Mr. Lewis is a 76 yo male seen today for f/u after ED visit for COPD flare 2 wks ago, treated w/ steroids and abx, symptoms improving but still some dyspnea on exertion and occasional wheeze. He denies fever, denies chest pain, denies hemoptysis. Sats stable on room air today per triage. Pt states he has been using rescue inhaler more than usual but tapering back down now. Wife reports he's been sleeping better past few nights, less coughing at night. No new orthopnea, no PND currently — though pt has hx of HFrEF and is followed by cardiology as well.
+
+Of note re: smoking history — pt is a former smoker. Hx notable in that he smoked about a quarter pack (approx 5 cigarettes) per day for 23 years, then stopped completely for 3 years, then restarted at the same rate — quarter pack/about 5 cigs per day — for another 22 years before quitting for good. He quit smoking 14 years ago and has remained abstinent since.
+
+ROS: Otherwise negative except as above. No hemoptysis, no unexplained weight loss, no night sweats.
+
+PMH/Problem List (per chart, some entries outdated):
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- N40.0 Benign prostatic hyperplasia w/o LUTS
+- M81.0 Osteoporosis, age-related, w/o current pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- I48.91 Atrial fibrillation, unspecified type
+- M10.9 Gout, unspecified
+- I50.22 Chronic systolic (congestive) heart failure — HFrEF, EF last documented 35% (echo 2023, may be outdated)
+- M19.90 Osteoarthritis, unspecified site (chart entry appears outdated, no longer c/o joint pain per pt today)
+
+MEDS: Levothyroxine, apixaban, allopurinol, furosemide, metoprolol succinate, tiotropium inhaler, albuterol PRN, finasteride, calcium/vit D supplement.
+
+SOCIAL HISTORY: Retired machinist, lives w/ wife, denies current alcohol use, denies illicit drug use. As above, former smoker — see HPI for detail on quantities/duration. No occupational asbestos exposure reported (pt uncertain, states "maybe some dust" [inaudible] from old job but nothing specific recalled).
+
+[Copied from note dated 7/25/2023 — smoking status at that time]: "Social history: former smoker." (No quantities given in that prior note; carried forward here for reference only, status unchanged since then.)
+
+EXAM:
+Vitals: BP 132/78, HR 82 irregular (known afib), RR 18, SpO2 95% RA, Temp 97.8F, Wt stable from last visit.
+Gen: NAD, comfortable, sitting upright.
+HEENT: unremarkable.
+Neck: no JVD appreciated today.
+Lungs: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use at rest.
+CV: irregularly irregular rhythm, no murmur appreciated, no significant edema.
+Abd: soft, nontender.
+Ext: no clubbing, no cyanosis, trace edema b/l ankles.
+
+ASSESSMENT/PLAN:
+1. COPD, recent exacerbation — improving clinically. Continue tiotropium, albuterol PRN. Will taper prednisone per prior instructions. Pulm function testing to be scheduled once fully recovered from flare. General discussion held with patient regarding his respiratory history and ongoing monitoring; no imaging ordered from pulm standpoint at this visit.
+2. HFrEF — stable, no current signs of decompensation, continue current cardiac meds, f/u w/ cardiology as scheduled.
+3. Afib — on apixaban, rate controlled today, continue metoprolol.
+4. BPH — stable on finasteride, no acute urinary complaints today.
+5. Osteoporosis — continue calcium/vit D, DEXA due for repeat per bone health protocol.
+6. Hypothyroidism — continue levothyroxine, TSH to be rechecked at next PCP visit.
+7. Gout — no flares reported, continue allopurinol.
+
+Return to clinic in 4-6 wks or sooner if worsening symptoms. Pt verbalizes understanding of plan.
+
+___
+
+ADDENDUM (later same day, 06/25/2025, 4:47pm):
+Spoke further with pt by phone after visit re: pharmacy question about inhaler refill — clarified that tiotropium refill sent to preferred pharmacy on Main St, not the one on file previously. No other changes to plan. Pt's daughter also called to ask about follow-up appt timing — advised per above, 4-6 wks. No additional clinical info obtained in this addendum, purely administrative/coordination note. — O. Fitzgerald, MD

@@ -1,0 +1,58 @@
+PROGRESS NOTE - HOSPITAL D/C FOLLOW UP
+Patient: Diane Schmidt DOB 7/31/1968 (age 55)
+DOS: 07/31/2023
+Author: Isaac Moreno, PA-C - Primary Care
+
+HPI: Pt is a 55 yo F here for f/u s/p recent hosp d/c for pneumonia. Reports gradual improvement in cough and dyspnea since discharge, no fevers no chills. Completed abx course as directed, tolerating po well. She denies chest pain palpitations or lightheadedness. Appetite improving, sleeping better. No SOB at rest, mild exertional dyspnea remains but improving day by day.
+
+Soc Hx: Pt is a lifelong non-smoker, never used tobacco products in any form. She quit drinking alcohol in 2002 and has remained abstinent since. No illicit drug use reported.
+
+PMH/Problem List (per chart, some outdated):
+- I25.10 CAD, native vessel, no angina
+- E03.9 Hypothyroidism, on levothyroxine
+- M10.9 Gout, hx of flares, last flare >1 yr ago
+- I48.91 Atrial fibrillation, on anticoagulation
+- J18.9 Pneumonia, resolving, recent hosp
+- (outdated) I10 HTN - pt reports this was d/c'd 2019, verify
+
+Meds: Levothyroxine 75mcg qd, Apixaban 5mg BID, Allopurinol 100mg qd, Metoprolol succ 50mg qd, Atorvastatin 40mg qhs
+
+Allergies: NKDA
+
+ROS: Otherwise negative except as above, denies n/v/d, denies dysuria, denies rash
+
+Vitals: BP 128/76 HR 72 irreg irreg RR 16 Temp 98.2F SpO2 96% RA Wt 168lb
+
+Exam:
+Gen: NAD, comfortable, resp effort normal
+CV: irreg irreg rate, no m/r/g appreciated
+Lungs: mild bibasilar crackles L>R, improved from prior, no wheeze
+Abd: soft NT ND
+Ext: no edema, no clubbing cyanosis
+
+Labs/Results:
+07/24/2023 (during admission): WBC 11.2, CRP 42, Cr 0.9
+07/31/2023 (today): WBC 7.1 (nl), CRP 8 (improved), TSH 2.1 (wnl), K 4.0, INR 2.3 (therapeutic on apixaban - wait, apixaban doesnt need INR monitoring, noted for continuity only)
+CXR 07/24: RLL infiltrate c/w PNA
+Repeat CXR not yet obtained, plan to reimage in 6 wks
+
+Assessment:
+1. Resolving CAP - clinically improving, will not repeat CXR until 6 wk mark unless worsening sx
+2. CAD - stable, no chest pain, continue current regimen
+3. Hypothyroidism - euthyroid on current dose per labs today
+4. Gout - no active flare, continue allopurinol
+5. Afib - rate controlled, continue anticoagulation, INR/labs reviewed
+6. Health maintenance - discussed age-appropriate screenings, lung imaging/lung ca screening was discussed in general terms given hx of pna but no further imaging ordered today
+
+Plan:
+- Continue current meds as above
+- F/u CXR in 6 wks or sooner if worsening symptoms, fever, or increased cough
+- Routine labs to recheck TSH in 3 months
+- Cont anticoag, no changes
+- Return to clinic in 4 wks or sooner prn
+- Pt educated on signs/sx that would warrant urgent eval (fever, worsening SOB, chest pain)
+- Encouraged continued abstinence from alcohol, reinforced healthy lifestyle
+
+Pt verbalized understanding, all questions answered today, will f/u as above.
+
+Isaac Moreno, PA-C

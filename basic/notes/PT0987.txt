@@ -1,0 +1,37 @@
+PROGRESS NOTE
+Date of Service: 17-Apr-2023
+Patient: Rita Wright   DOB: 5/12/1946   MRN: 79335916
+
+SUBJECTIVE:
+CC: Lung cancer screening
+HPI: 76-year-old female former tob use (3/4ppd x 26yrs, quit 1988) w/ obesity, PAD, osteoporosis, HTN here for lung cancer screening shared decision-making. Referred for shared decision-making regarding lung cancer screening. No hemoptysis, weight loss, or new cough.
+
+PMH: HTN, osteoporosis, PAD, obesity, History of tobacco use (Z87.891)
+PSH: Total abdominal hysterectomy; Right total knee arthroplasty (1990)
+Meds: aspirin 81 mg daily; amlodipine 10 mg daily; multivitamin daily; alendronate 70 mg weekly; calcium + vitamin D daily; cilostazol 100 mg BID
+Allergies: Sulfa drugs
+SH: Widowed; lives with daughter. Social drinker.
+FH: Sister - hypothyroidism.
+ROS: Resp neg, Neuro neg, MSK neg, CV neg, GI neg
+
+OBJECTIVE:
+Vitals: BP: 143/90  HR: 96  RR: 12  Temp: 98.7 F  SpO2: 96% on RA  Wt: 247 lbs  BMI: 37.6
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Obese, soft, nontender
+  Ext: 1+ DP pulses bilaterally, no ulcers
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+Labs (2023-03-15): Cr 0.97, K 3.7
+
+A/P:
+1. Lung cancer screening
+   - SDM performed: benefits and harms (false positives, incidental findings, radiation, overdiagnosis) discussed. Does not meet USPSTF criteria; LDCT not ordered.
+
+RTC 6 months.
+
+Farah Siddiqui, MD

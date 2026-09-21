@@ -1,0 +1,73 @@
+Adult Medicine Office Visit
+
+Patient: ADAMS, Edward    MRN: 64072712
+DOB: 07/04/1974    Age: 51 y.o.    Sex: Male
+Date of Service: 12/08/2025    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Edward Adams is a 51 y.o. male who presents for an annual physical.
+No acute complaints today. Swims twice a week. Caring for a grandchild several days a week. He is a current smoker with an 18-pack-year smoking history.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• Chronic systolic heart failure	2018
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2019)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• diclofenac 1% gel QID PRN
+• sacubitril-valsartan 49/51 mg BID
+• furosemide 40 mg daily
+• carvedilol 12.5 mg BID
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Some Days
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Divorced, lives alone.
+  Works as an office manager.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Neuro neg, Skin neg, CV neg, Resp neg
+
+Objective:
+Vitals:
+  BP 113/63 (BP Location: Right arm, Patient Position: Sitting) | Pulse 96 | Temp 97.7 °F (Oral) | Resp 18 | Ht 6' 0" | Wt 184 lb | SpO2 99% | BMI 25.00 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Fine bibasilar crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (11/2/2025): LDL 63, Cr 0.80, K 4.2
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2019 - 2 tubular adenomas, repeat 5 yrs; Shingrix #1 today; Flu shot today.
+
+Follow up in 12 months or sooner PRN.
+
+Electronically signed by Teresa Alvarez, NP on 12/08/2025

@@ -1,0 +1,67 @@
+Pulmonology Follow-up – Resident Note with Attending Attestation
+Date of Service: 07/02/2025
+Author: Brian Okonkwo, MD (resident); attending attestation below
+
+Patient: Michael Bryant, M, DOB 7/2/1970 (age 55)
+
+CC: Follow-up after recent ED visit/COPD exacerbation
+
+HPI: Mr Bryant is a 55 yo male w/ hx COPD, HFrEF, PAD, GERD, BPH, osteoporosis who presented to ED last wk with worsening dyspnea and increased sputum, treted with steroids/abx and bronchodilators, now f/u in clinic post exacerbation. He reports improved breathing since ED visit but still some residual cough. Denies fever chills chest pain. Says he has been using rescue inhaler more frequently than baseline. No hemoptysis. Sleeping ok, appetite fair. He was seen by [inaudible] in ED and discharged home with short course of prednisone.
+
+Smoking history: Patient is a former smoker; he smoked about three-quarters of a pack (approx 15 cigarettes) per day from 1988 until 2023, when he quit. No current tobacco use reported today.
+
+--- Copied from note dated 10/2/2022 ---
+[The following section carried forward from prior visit note dated 10/2/2022, not updated at that time]
+Social history (as of 10/2/2022): Patient was a current smoker at that time; advised on cessation resources, counseling provided regarding risks of continued use.
+--- end copied section ---
+
+ROS: Constitutional - denies fever, chills, night sweats, wt loss. Resp - chronic cough, wheeze intermittent, denies hemoptysis. CV - denies chest pain, orthopnea improved on current diuretic dose, occasional lower extremity edema. GI - occasional reflux sx, controlled on PPI. GU - nocturia x1-2, known BPH followed by urology. MSK - denies new falls, hx osteoporosis on bisphosphonate. Neuro - denies HA, dizziness, focal weakness. Skin - no rashes. Psych - denies depression/anxiety sx. All other systems reviewed and negative per pt.
+
+PMH/Problem List:
+- COPD, unspecified (J44.9)
+- Heart failure with reduced ejection fraction (I50.22) - dx 2019
+- Peripheral artery disease (I73.9)
+- GERD (K21.9)
+- Benign prostatic hyperplasia (N40.0)
+- Osteoporosis (M81.0)
+- Hypertension (I10) - outdated, pt reports normotensive off meds x2 yrs, to confirm
+- Type 2 DM (E11.9) - outdated entry, pt denies dx of diabetes, likely error carried forward, to reconcile
+
+Medications:
+1. Tiotropium inhaler daily
+2. Albuterol MDI PRN
+3. Furosemide 20mg daily
+4. Carvedilol 12.5mg BID
+5. Sacubitril-valsartan 24-26mg BID
+6. Omeprazole 20mg daily
+7. Tamsulosin 0.4mg daily
+8. Alendronate 70mg weekly
+9. Atorvastatin 40mg daily
+10. Vitamin D3 1000 IU daily
+11. Calcium carbonate 500mg BID
+12. Prednisone taper (from ED d/c, currently on day 4 of taper)
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: T 98.2F, HR 82, BP 128/76, RR 18, SpO2 94% on RA
+Gen: well-appearing male, NAD, sitting comfortably
+HEENT: NCAT, PERRLA, oropharynx clear
+Neck: no JVD appreciated, no lymphadenopathy
+CV: RRR, no m/r/g, 1+ bilateral LE edema
+Resp: mild expiratory wheeze bilaterally, no crackles, no accessory muscle use at rest
+Abd: soft, NT/ND, +BS
+Ext: PAD-related skin changes noted on bilateral lower extremities, pulses diminished but palpable
+Skin: no rashes or lesions
+Neuro: alert and oriented x3, no focal deficits
+
+Labs (reviewed from ED visit): CBC wnl, BMP wnl, BNP mildly elevated at baseline per pt hx, trop negative x2 in ED.
+
+Assessment/Plan:
+55 yo male with COPD exacerbation recently treated in ED, now improving. Former smoker (quit 2023) after smoking three-quarters pack per day since 1988 which remains an important part of his risk profile for lung dz. Lung cancer screening was discussed briefly as part of general preventive health conversation. Continue current inhaler regimen, finish prednisone taper as directed. Will increase tiotropium adherence counseling. Continue HFrEF meds as above, cardiology to continue managing. PAD - continue antiplatelet (pt reports taking daily aspirin, to confirm on med rec), follow with vascular as scheduled. GERD stable on omeprazole. BPH stable on tamsulosin, f/u urology routine. Osteoporosis - continue alendronate, DEXA due in approx 1 yr. Reinforced importance of maintained smoking cessation and avoidance of relapse given quit date 2023. Pt verbalizes understanding. RTC in pulm clinic 6-8 wks or sooner if worsening symptoms.
+
+Attending Attestation: I have personally seen and examined the patient along with Dr. Okonkwo and discussed the case in detail. I agree with the assessment and plan as documented above.
+- Dr. Lisa Fenwick, Attending Pulmonology
+
+--- ADDENDUM (later same day, added by Dr. Okonkwo) ---
+Addendum 07/02/2025 1645: Patient called clinic nurse line this afternoon reporting improved breathing since visit, no new concerns, wanted to confirm timing of next PFTs. Advised will be scheduled at next visit, no changes to plan. Smoking history remains as documented above - former smoker, quit 2023, prior use three-quarters pack/day since 1988. No further action needed at this time.

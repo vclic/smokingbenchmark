@@ -1,0 +1,92 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Primary Care - Hospital Discharge Follow-up
+Date of Service: 05/06/2026
+Author: Isaac Moreno, PA-C
+
+RE: Ms. Mei Kowalski, DOB 01/28/1962 (age 64)
+
+Dear Dr. Referring Physician,
+
+Thank you for allowing me to participate in the care of Ms. Kowalski, a 64-year-old woman with history of atrial fibrillation and coronary artery disease, seen today for follow-up after recent hospitalization for pneumonia.
+
+HPI:
+Pt discharged 6 days ago after 4-day admission for community-acquired pneumonia, treated w/ IV ceftriaxone then transitioned to oral azithromycin. States, "I'm breathing so much better than I was in the hospital, but I still get winded going up the stairs." Denies fevers, chills, or hemoptysis currently. Some residual cough, productive of small amounts of white sputum. No chest pain, no palpitations today though has hx of afib. Reports good appetite, denies night sweats or unintentional weight loss. She states, "I've been taking all my pills, I don't want to end up back in the hospital." Follows with cardiology for CAD/afib management, last seen ~3 months ago per pt report.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation, on anticoagulation
+- Coronary artery disease, s/p prior PCI (per pt report)
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY: Cholecystectomy (year unknown)
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking status: Not currently smoking
+Smoking details: Smoked 3 packs per day for 7 years, then cut back to 2 packs per day for 9 years before quitting. She has not smoked since her 35th birthday.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies to excess
+Drug use: Denies
+Occupation: Retired seamstress
+Living situation: Lives with spouse
+Exercise: Blank
+
+FAMILY HISTORY: Mother - hypertension. Father - MI at age 70. No known family hx of lung cancer.
+
+MEDICATIONS (per discharge summary, reconciled today):
+1. Apixaban 5 mg PO BID
+2. Metoprolol succinate 50 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Omeprazole 20 mg PO daily
+5. Azithromycin 250 mg PO daily (day 3 of 5, to complete course)
+6. Albuterol inhaler PRN
+7. Aspirin 81 mg PO daily - hold, on anticoagulation, per cardiology note reconciled
+8. Multivitamin daily
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats. Reports mild fatigue.
+HEENT: Denies sore throat, ear pain, vision changes.
+Cardiovascular: Denies chest pain, denies palpitations today, denies syncope, denies lower extremity edema.
+Respiratory: Reports residual cough as above, denies hemoptysis, denies pleuritic chest pain, mild dyspnea on exertion improving.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, denies hematuria.
+MSK: Denies joint pain, denies myalgias.
+Skin: Denies rash.
+Neuro: Denies headache, denies dizziness, denies focal weakness.
+Psych: Denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+LABS/RESULTS:
+CBC (05/06/2026): WBC 7.8, Hgb 12.9, Hct 38.4, Plt 245
+BMP (05/06/2026): Na 139, K 4.1, Cl 102, CO2 25, BUN 18, Cr 0.9, Glu 98
+CRP (04/30/2026, inpatient): 42 mg/L (elevated, improved from 118 mg/L on admission)
+Chest X-ray (04/30/2026, inpatient, pre-discharge): Improving right lower lobe infiltrate compared to admission film.
+INR (05/06/2026): 2.3 (on apixaban - N/A, this value not applicable, disregard - apixaban does not require INR monitoring, mislabeled result carried forward from prior anticoag regimen)
+BNP (04/29/2026, inpatient): 110 pg/mL, within normal range
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78 irregularly irregular, RR 16, Temp 98.2F, SpO2 96% on room air, Weight 142 lbs
+General: Well-appearing woman in no acute distress, comfortable, appropriate for age.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear, moist mucous membranes.
+Neck: Supple, no JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm consistent with known afib, no murmurs/rubs/gallops appreciated, normal S1/S2.
+Respiratory: Mild crackles at right base, otherwise clear to auscultation bilaterally, no wheezes, no use of accessory muscles.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, well-healed cholecystectomy scar.
+Extremities: No cyanosis, clubbing, or edema. Pulses 2+ throughout.
+Skin: Warm, dry, intact, no rashes.
+Neuro: Alert and oriented x3, no focal deficits, gait steady.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue to complete azithromycin course, repeat CXR in 4-6 weeks to confirm resolution.
+2. Atrial fibrillation - continue apixaban and metoprolol, follow with cardiology as scheduled.
+3. Coronary artery disease - continue atorvastatin, aspirin held per cardiology, reassess at next cardiology visit.
+4. GERD - continue omeprazole.
+5. Tobacco history - former smoker, quit many years ago as noted above; counseled on continued avoidance of tobacco exposure, discussed general lung health maintenance; screening options discussed with patient in general terms.
+6. Health maintenance - up to date on age-appropriate screenings per pt report, will verify with records.
+
+Will follow up in primary care clinic in 2 weeks, sooner if symptoms worsen. Please feel free to contact me with any questions regarding this patient's care.
+
+Sincerely,
+Isaac Moreno, PA-C

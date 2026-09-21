@@ -1,0 +1,69 @@
+TELEHEALTH FOLLOW-UP NOTE
+Date of Service: 08/31/2023
+Provider: Quentin Hale, PA-C
+Pulmonology - COPD Exacerbation Follow-up
+
+Patient: Betty Brooks, F, DOB: 03/14/1954 (age 69)
+
+CHIEF COMPLAINT: Follow-up s/p ED visit for COPD exacerbation.
+
+HPI: Ms. Brooks is a 69-year-old woman with history of HTN, T2DM, PAD, and GERD who was seen in the ED last week for acute COPD exacerbation with increased dyspnea and cough. She reports gradual improvement on prednisone taper and albuterol nebulizer treatments. Denies fever, chest pain, or hemoptysis. Mild residual wheeze on exertion. Sleeping better since discharge.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current every day smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+REVIEW OF SYSTEMS:
+Constitutional: No fever, chills, or unintentional weight loss.
+Respiratory: Chronic cough, mild dyspnea on exertion, no hemoptysis.
+Cardiovascular: No chest pain, no palpitations, mild bilateral lower extremity claudication with walking (known PAD).
+GI: Occasional heartburn, controlled with medication.
+Endocrine: No polyuria, polydipsia.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 94% on room air, Temp 98.2F
+General: Well-appearing, no acute distress, mild use of accessory muscles.
+HEENT: Normocephalic, atraumatic, no JVD.
+Lungs: Bilateral expiratory wheezes, decreased breath sounds at bases, no crackles.
+CV: RRR, no murmurs, distal pulses 1+ bilaterally in lower extremities.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema, trace cyanosis of toes bilaterally, chronic PAD changes noted.
+
+LABS/RESULTS:
+08/24/2023 (ED visit): WBC 11.2, Hgb 13.1, ABG pH 7.36/pCO2 48/pO2 62
+08/25/2023: BNP 88, Troponin <0.01
+08/28/2023 (outpatient): CBC WNL, BMP WNL, HbA1c 7.4%
+08/31/2023: SpO2 94% RA (in-office pulse ox)
+
+PROBLEM LIST:
+J44.1 - COPD with acute exacerbation (resolving)
+I10 - Essential hypertension
+E11.9 - Type 2 diabetes mellitus without complications
+I73.9 - Peripheral artery disease
+K21.9 - GERD
+J45.909 - Asthma, unspecified (outdated, per prior chart review, not active)
+M54.5 - Low back pain (outdated, resolved 2019)
+
+MEDICATIONS:
+1. Albuterol HFA inhaler, 2 puffs q4h PRN
+2. Tiotropium 18 mcg inhaled daily
+3. Fluticasone/salmeterol 250/50 inhaled BID
+4. Lisinopril 20 mg daily
+5. Metformin 1000 mg BID
+6. Clopidogrel 75 mg daily
+7. Omeprazole 20 mg daily
+8. Atorvastatin 40 mg daily
+9. Prednisone taper (ending this week)
+
+ASSESSMENT/PLAN:
+69-year-old woman with COPD exacerbation, improving on current regimen. Detailed tobacco history obtained: patient smoked half a pack (about 10 cigarettes) per day for 19 years, then increased to 1.5 packs per day for 33 years and continues to smoke at that rate currently. She continues to smoke despite counseling on cessation and the health risks associated with continued use. Advised to quit; discussed nicotine replacement options and referral to tobacco cessation program, which she declined at this time. Will continue current inhaler regimen and complete prednisone taper. Follow-up PFTs in 4-6 weeks. Continue home meds for HTN, T2DM, PAD, GERD as above. Return to clinic or ED for worsening dyspnea, fever, or chest pain.
+
+ADDENDUM (08/31/2023, later same day):
+Patient called back after visit to clarify medication instructions for prednisone taper; instructions repeated and confirmed she understood. No new complaints reported at this time. No changes to plan above.
+
+Electronically signed: Quentin Hale, PA-C

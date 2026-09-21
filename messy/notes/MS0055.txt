@@ -1,0 +1,57 @@
+Pulmonology Follow-up Note
+Patient: Jose Henderson | DOB: 02/14/1956 | Age: 69 | Sex: M
+Date of Service: 02/14/2025
+Author: Catherine Lindqvist, DO
+
+CHIEF COMPLAINT: COPD follow up, worsening cough and dyspnea on exertion x 2 wks
+
+HPI:
+Mr Henderson is a 69 y/o male seen today for routine COPD follow up he reports increased sob with stairs and occasional cough productive of white sputum no fevers no chest pain. He continues on tiotropium and albuterol prn, denies med noncompliance. He has been using home O2 as needed with exertion tho sats have been stable per pulse ox at home he denies recent hospitalizations. Reports mild ankle swelling attributed to PAD which is followed by vascular surgery.
+
+PAST MEDICAL HISTORY: gout, atrial fibrillation (on anticoagulation), osteoarthritis, type 2 diabetes, obesity, peripheral artery disease, COPD
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Former smoker
+Cigarettes per day: 15
+Years smoked: 27
+Quit year: 2014
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired machinist
+Living situation: lives w/ spouse
+Exercise: Not on file
+
+Note: patient smoked 15 cigarettes per day for 27 years, quit in 2014, and reports he no longer smokes at all currently - denies any relapse or occasional cigarette use since quitting.
+
+ROS: Positive for dyspnea on exertion, mild cough. negative for fever chills hemoptysis chest pain palpitations (though known h/o afib). GI: mild constipation. GU: nl. MSK: chronic joint pain c/w oa and gout, stable.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregularly irregular, RR 18, SpO2 94% RA, Wt 231 lb, BMI 34
+General: obese male NAD
+HEENT: nl
+CV: irregularly irreg rhythm no murmurs
+Resp: decreased breath sounds bilat bases, mild expiratory wheeze, no crackles
+Abd: obese, soft NT ND
+Ext: trace edema b/l, PAD-related skin changes noted on lower extremities, pulses diminished dorsalis pedis bilat
+Neuro: grossly intact
+
+LABS/IMAGING:
+Spirometry from last visit reviewed FEV1/FVC c/w moderate obstruction unchanged from prior
+A1c 7.4% (last drawn 1 mo ago)
+CXR reviewed, no acute infiltrate, hyperinflation consistent w COPD
+
+ASSESSMENT/PLAN:
+1. COPD - moderate, stable overall symptoms slightly worse this visit, will incraese albuterol use prn and reeval in 4 wks, continue tiotropium, discussed pulmonary rehab referral
+2. Atrial fibrillation - rate controlled, continue anticoagulation per cardiology
+3. Type 2 diabetes - A1c above goal, will discuss with PCP re: med adjustment
+4. Obesity - counseled on weight loss, diet, exercise as tolerated given PAD
+5. Peripheral artery disease - stable, f/u with vascular surgery as scheduled
+6. Gout/OA - stable no flare currently
+7. Tobacco - patient is a former smoker, quit 2014, counseled on continued abstinence, screening for lung cancer discussed with patient given hx of smoking, further workup to be coordinated as appropriate
+
+Return to clinic in 4 weeks or sooner if worsening symptoms.
+
+---
+ADDENDUM (later same day, 02/14/2025, C. Lindqvist DO):
+Pt called back after visit to clarify he has not had any cigarettes since quitting in 2014, confirming he no longer smokes at all, no vaping or other nicotine products used. Chart updated accordingly no other changes to plan.

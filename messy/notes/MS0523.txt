@@ -1,0 +1,40 @@
+HISTORY AND PHYSICAL - Pulmonology COPD Follow-up
+Date of Service: 03/30/2023
+Author: Catherine Lindqvist, DO
+
+Patient: Karen Robinson, F, DOB 03/30/1964 (age 59)
+
+CHIEF COMPLAINT: COPD follow-up, worsening dyspnea on exertion.
+
+----- COPIED FORWARD FROM VISIT 09/12/2021 -----
+Pt is a 57 yo female here for routine follow up. She reports using chewing tobacco regularly. Denies cigarette use. Alcohol history notable - pt states she quit drinking alcohol in 2003 and has remained abstinent since. Lungs with mild expiratory wheeze, no acute distress. Continue current inhaler regimen, follow up in 6 months. Spirometry stable compared to prior. Pt counseled on avoidance of tobacco products of all kinds. Will continue to monitor.
+---------------------------------------------------
+
+HPI: Ms. Robinson returns today reporting increased SOB over the past 2 weeks, associated with increased use of rescue inhaler. She denies fever, chest pain, or hemoptysis. She is a lifelong non-smoker - has never smoked cigarettes at any point in her life. She continues to use chewing tobacco on and off, which was discussed again today. No new alcohol use reported.
+
+PMH: Atrial fibrillation, asthma, COPD.
+
+PROBLEM LIST:
+- I48.91 Atrial fibrillation, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- J44.9 COPD, unspecified (active)
+- E78.5 Hyperlipidemia, unspecified (outdated - resolved per pt, last documented 2019)
+- K21.9 GERD (outdated, not treated in >3 yrs)
+
+LABS/RESULTS:
+- CBC 03/28/2023: WBC 7.2, Hgb 13.4, Hct 40.1, Plt 245
+- BMP 03/28/2023: Na 139, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.8, Glucose 96
+- BNP 03/28/2023: 82 pg/mL (normal)
+- Spirometry 03/29/2023: FEV1 61% predicted, FEV1/FVC ratio 0.64
+- INR (on warfarin) 03/29/2023: 2.3
+
+EXAM: Vitals stable, afebrile, RR 18, SpO2 94% RA. Lungs: diffuse expiratory wheezes bilaterally, prolonged expiratory phase. Heart: irregularly irregular rhythm, no murmurs. No peripheral edema.
+
+ASSESSMENT/PLAN:
+1. COPD - moderate exacerbation, increase albuterol PRN, start prednisone taper, f/u 2 weeks.
+2. Asthma - stable, continue ICS/LABA combo inhaler.
+3. Atrial fibrillation - continue warfarin, INR therapeutic today, continue metoprolol.
+4. Tobacco/nicotine use - reinforced counseling regarding chewing tobacco cessation given oral cancer risk; reassured no cigarette smoking history at any point.
+5. Alcohol - remote history, abstinent since 2003, no current concerns.
+
+Return to clinic in 2 weeks or sooner if symptoms worsen.

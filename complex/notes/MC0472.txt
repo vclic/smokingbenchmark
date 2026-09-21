@@ -1,0 +1,33 @@
+NURSE INTAKE
+Patient: Wayne Martin | DOB: 06/06/1964 | Age: 61 | Sex: M
+DOS: 09/16/2025
+Vitals: BP 132/78, HR 78 irreg (known AFib), RR 16, SpO2 97% RA, Temp 98.4F, Wt 198 lb
+CC: f/u incidental lung nodule, Pulmonology
+
+SOCIAL HISTORY (EHR template)
+Tobacco - cigarettes: Never smoker
+Tobacco - smokeless/chew: Yes, uses chewing tobacco
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: __________ (blank)
+Living situation: Not on file
+
+PHYSICIAN PROGRESS NOTE - Michael Dunn, DO
+
+HPI: Mr. Martin is a 61 y/o male seen today, 09/16/2025, for f/u of an incidentally found pulmonary nodule noted on prior CT chest done for unrelated indication. Pt states, "I feel fine, no cough, no chest pain, nothing new." He denies hemoptysis, wt loss, fevers, night sweats. He reports he has never smoked cigarettes but does chew tobacco, been doing so for yrs per his report. Cardiology following for AFib, on anticoagulation, states palpitations well-controlled currently. Also f/u for hypothyroidism on levothyroxine, denies cold intolerance, fatigue currently stable.
+
+ROS (templated, 10-point): Constitutional: neg wt loss/fever/chills. HEENT: neg. Resp: neg cough/SOB/wheeze. CV: + known AFib, denies palpitations today. GI: neg. GU: neg. MSK: neg. Skin: neg. Neuro: neg. Psych: neg for depression/anxiety. All other systems reviewed and negative.
+
+Meds: Apixaban 5mg BID, Levothyroxine 100mcg daily, Metoprolol succinate 50mg daily, Atorvastatin 20mg daily, Omeprazole 20mg daily, Multivitamin daily.
+
+PE: Gen: NAD, well-appearing. HEENT: PERRL, EOMI, oropharynx clear, mild leukoplakia noted on buccal mucosa (chew tobacco use). Neck: no LAD, no thyromegaly. CV: irregularly irregular rhythm, no murmur. Resp: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND. Ext: no edema. Skin: no lesions. Neuro: grossly intact.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule - stable per radiology comparison, will continue surveillance imaging per protocol. Discussed general lung cancer screening topics at a high level with patient for informational purposes.
+2. Chewing tobacco use - counseled extensively on oral cancer risk given leukoplakia finding; discussed cessation resources, pt states "I'll think about it."
+3. AFib - stable, continue anticoagulation, cont f/u with cardiology.
+4. Hypothyroidism - stable on current dose, will recheck TSH at next visit.
+
+RTC in 3 months or sooner if new symptoms.
+
+ADDENDUM (later same day, M. Dunn DO): Spoke with patient by phone after visit re: dental referral for leukoplakia eval given chew tobacco use; pt agreeable, referral placed. No other changes to plan.

@@ -1,0 +1,49 @@
+TELEHEALTH VISIT NOTE
+DOS: 05/24/2025
+Patient: David Russell | DOB: 05/24/1967 (Age 58) | M
+Provider: Teresa Alvarez, NP (Primary Care)
+
+CC: New patient visit to establish care.
+
+HPI: Mr. Russell is a 58 yo M presenting via telehealth to establish PCP after moving to the area. Pt reports hx of OSA on CPAP, afib, HTN, and BPH, all previously managed by outside cardiology/urology. States "I feel pretty good, just want someone local to keep an eye on things." Denies chest pain, palpitations currently, denies dysuria. Reports occasional nocturia x2. CPAP compliance per pt "most nights, maybe skip one a week." No new complaints today.
+
+ROS: Otherwise negative except as above.
+
+PMH/Problem List (per chart, some entries outdated):
+- I48.91 Atrial fibrillation, unspecified
+- G47.33 Obstructive sleep apnea (adult)
+- I10 Essential hypertension
+- N40.0 BPH without LUTS
+- E78.5 Hyperlipidemia, unspecified (dx 2015, may be resolved per pt, will review lipid panel)
+
+Meds: Apixaban 5mg BID, Losartan 50mg daily, Tamsulosin 0.4mg qhs, home CPAP.
+
+Allergies: NKDA
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Never smoker
+Smoking status: Lifelong non-smoker
+Pack-years: N/A
+Smokeless tobacco: Not on file
+E-cigarette/vape use: Not on file
+Alcohol use: Occasional, pt reports 1-2 glasses wine/wk
+Drug use: Denies
+Occupation: Retired
+Exercise: Walks daily per pt
+Living situation: Lives with spouse
+
+Objective (telehealth, no vitals obtained in person; pt reports home BP cuff readings running 130s/80s):
+Gen: Well-appearing, no acute distress on video, conversant.
+Cardiac: Pt reports no palpitations today, unable to auscultate via telehealth.
+Resp: No visible respiratory distress.
+
+Assessment/Plan:
+1. Atrial fibrillation (I48.91) - stable on apixaban per pt report, will obtain recent EKG/echo records from prior cardiologist, continue current anticoagulation, follow up labs (CBC, renal fxn) to be drawn locally.
+2. OSA (G47.33) - continues CPAP, reports fair adherence "most nights, maybe skip one a week" - will pull sleep study/download data if available from prior provider, encourage nightly use.
+3. HTN (I10) - reports home readings in 130s/80s, continue losartan, recheck BP at next visit with cuff, reinforce low-sodium diet.
+4. BPH (N40.0) - continue tamsulosin, mild nocturia reported, will monitor, PSA if indicated pending discussion.
+5. Health maintenance - as pt is a lifelong non-smoker, no tobacco cessation counseling needed at this time; lung cancer screening not indicated given never-smoker status, though general age-appropriate screening topics (colon, etc.) were discussed. Will order updated labs including lipid panel given remote hx of hyperlipidemia, A1c, CMP. Pt to schedule in-person visit for exam and vitals within 4-6 wks. Records request faxed to prior PCP/cardiology/urology offices. Pt verbalized understanding, agrees with plan.
+
+Time spent: 20 min telehealth visit, counseling/coordination of care >50% of visit time.
+
+Teresa Alvarez, NP

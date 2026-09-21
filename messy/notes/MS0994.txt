@@ -1,0 +1,47 @@
+Pulmonology Follow-up Note
+Patient: Lan Thompson | DOB: 9/6/1953 | Age: 71 | Sex: F
+Date of Service: 09/06/2024
+Author: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+Vitals: BP 132/78, HR 76, RR 16, T 98.2F, SpO2 96% RA, Wt 158 lb.
+Pt here today, 09/06/2024, for f/u of incidental lung nodule found on prior CT of the chest. Denies chest pain, hemoptysis, or new dyspnea. C/o mild right knee ache, ongoing OA. Reports nocturia x2 related to BPH, stable per pt. No new complaints re: CKD.
+
+TOBACCO HISTORY (EHR template, auto-populated):
+Smoking status: Former smoker
+Packs/day: 1.50
+Years: 29.00
+Quit year: 2006
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms. Thompson is a 71-year-old woman with history of osteoarthritis, BPH, and CKD stage 3 who presents today, September 6, 2024, for follow-up regarding an incidentally noted pulmonary nodule identified on prior imaging. She feels well overall, no fevers, no chills, no unintentional weight loss. She states she no longer smokes and has not smoked since she quit in 2006. She denies any occupational exposures to asbestos or other inhaled irritants beyond what has been previously documented.
+
+[COPY-FORWARD TEXT FROM PRIOR VISIT DATED 03/14/2023 - retained in record, may not reflect current status]
+Pt seen in follow up for right knee pain, states pain is a 5/10 today, worse with stairs, some relief with acetaminophen. On exam, mild crepitus noted, no effusion, ROM preserved. BPH stable on tamsulosin, voiding pattern improved per pt. CKD stage 3 stable, last creatinine 1.4, eGFR 52. Discussed dietary modifications including low sodium and phosphorus restriction. Pt was given handout on renal-friendly diet. Will continue current meds, f/u in 6 months for CKD labs. [end copy-forward block]
+
+Review of Systems: Constitutional - negative for fever/chills/weight loss. Respiratory - denies cough, dyspnea, wheeze. Cardiac - denies chest pain, palpitations. GU - nocturia x2, otherwise unremarkable, um the patient also mentioned she sometimes has to, uh, [inaudible] when she stands up too fast but this resolves on its own she says. Musculoskeletal - chronic right knee discomfort, longstanding, managed with acetaminophen and occasional topical diclofenac and she says it's been about the same for a wile now not really better or worse just kind of there and she copes.
+
+Physical Exam:
+General: Well-appearing woman in no acute distress.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+Cardiac: Regular rate and rhythm, no murmurs.
+Extremities: No clubbing, cyanosis, or edema. Mild crepitus right knee on flexion.
+Abdomen: Soft, non-tender, non-distended.
+
+Labs/Results:
+- CT Chest (08/20/2024): 7 mm solid nodule right upper lobe, unchanged in size compared to prior study; no new nodules identified.
+- BMP (09/05/2024): Na 139, K 4.3, Cl 101, CO2 24, BUN 22, Creatinine 1.5, eGFR 49.
+- CBC (09/05/2024): WBC 6.8, Hgb 13.1, Plt 245.
+- PSA (07/2024): 1.9 ng/mL, stable.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, right upper lobe, stable on interval imaging. Will continue surveillance imaging per guidelines; risks and benefits of ongoing monitoring discussed with the patient in detail, and we also briefly discussed screening guidelines for lung cancer in general terms as part of shared decision making, though no specific study was ordered today. Return in 6 months or sooner if symptoms develop, including new cough, hemoptysis, or unexplained weight loss.
+2. Tobacco use, former: patient quit in 2006 and remains smoke-free; reinforced importance of continued abstinence and offered resources if any relapse were to occur, though patient reports no interest in returning to smoking.
+3. Osteoarthritis, right knee: continue acetaminophen as needed, consider referral to orthopedics if symptoms progress.
+4. BPH: continue tamsulosin, stable symptoms per patient report today.
+5. CKD stage 3: renal function grossly stable, will continue to monitor labs, recheck BMP in 3 months, reinforced dietary counseling previously provided.
+
+Patient verbalized understanding of plan and all questions were answered today, she agreess with plan as outlined above and will follow up as scheduled or sooner if needed.
+
+--- ADDENDUM (later same day, 09/06/2024, 4:47 PM) ---
+Addendum by Daniel Reyes, MD: After further review of chart, confirming tobacco history template accurately reflects Packs/day: 1.50 and Years: 29.00, quit year 2006 as documented above; no changes to plan. Patient's daughter called clinic this afternoon with additional questions regarding nodule surveillance schedule, these were addressed by phone and documented separately in the telephone encounter note.

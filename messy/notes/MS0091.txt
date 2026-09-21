@@ -1,0 +1,51 @@
+NURSE INTAKE
+DOS: 01/07/2025
+Pt: Dennis Washington, M, DOB 01/07/1953 (72 yo today - happy bday). New pt visit, establish care PCP.
+
+VS: BP 138/82, HR 78 irreg (known Afib), RR 16, T 98.2F, Wt 224 lb, BMI 33.
+CC: "here to establish w/ new doctor, moved recently."
+
+Meds per pt/bottles: metoprolol succ, apixaban, sertraline, albuterol PRN, atorvastatin (unsure dose). Allergies: NKDA.
+
+Soc hx: lives w/ wife, retired postal worker. Denies EtOH excess, occasional beer. Tobacco - never smoker, lifelong nonsmoker per pt report. No illicit drug use.
+
+---
+PHYSICIAN PROGRESS NOTE
+Anita Patel, MD
+DOS 1/7/2025
+
+HPI: Mr. Washington is a 72 yo M w/ PMH osteoarthritis, Afib, depression, obesity, asthma, CKD stage 3, presenting to establish care after recent move from out of state. Reports overall doing fairly well. c/o chronic b/l knee pain, worse w/ stairs, managed w/ acetaminophen prn, occ NSAID (uses sparingly given CKD). Afib dx approx 3 yrs ago per pt, on apixaban + metoprolol, denies palpitations, syncope, CP. Mood - stable on sertraline, denies SI/HI, sleep adequate. Asthma - mild intermittent, uses albuterol maybe 1x/wk, no ER visits/steroid bursts in past yr. Denies cough, hemoptysis, unintentional wt loss, night sweats.
+
+ROS: otherwise negative except as above. Denies dyspnea at rest, denies edema currently.
+
+Social hx (reviewed w/ pt, confirmed at this visit): Tobacco use - pt states he has never smoked cigarettes, cigars, or pipe; lifelong nonsmoker. No vaping. Denies occupational lung exposures beyond occasional dust in prior postal warehouse work. EtOH - social, ~1-2 beers/wk. No illicit drugs.
+
+Family hx: father - HTN, CAD; mother - DM2. No fam hx lung dz noted.
+
+Exam:
+Gen: NAD, well-appearing, pleasant, appropriate affect.
+HEENT: NC/AT, PERRL, oropharynx clear.
+Neck: no JVD, no thyromegaly.
+CV: irreg irreg rhythm, no m/r/g appreciated, no peripheral edema.
+Resp: CTAB, no wheeze/rales/rhonchi at present, breathing comfortably, no accessory muscle use.
+Abd: soft, NT/ND, +BS.
+MSK: b/l knee crepitus, mild effusion R>L, no warmth/erythema, ROM limited by pain.
+Skin: no rashes/lesions.
+Neuro: A&Ox3, grossly nonfocal.
+Psych: mood euthymic, affect congruent.
+
+Labs reviewed (from records transferred): recent Cr 1.6 (baseline per prior records), eGFR ~42, consistent w/ CKD stage 3. Lipid panel pending repeat, last A1c 5.6.
+
+Assessment/Plan:
+1. Osteoarthritis, bilat knees - continue acetaminophen scheduled, minimize NSAID use given CKD stage 3, consider topical diclofenac. Refer ortho if worsening. PT referral given.
+2. Atrial fibrillation - continue apixaban (renally dose-adjust per current CrCl), continue metoprolol succinate, will obtain EKG today, consider echo if not recent. Rate appears controlled clinically.
+3. Depression - stable on sertraline, continue current dose, screen w/ PHQ-9 today (score 4, minimal). F/u prn.
+4. Obesity - BMI 33, counseled re: diet/exercise appropriate for OA/CKD limitations, discussed low-impact activity (pool therapy).
+5. Asthma, mild intermittent - continue albuterol prn, no controller needed at this time per freq of use, review technique next visit.
+6. CKD stage 3 - trend Cr/eGFR, avoid nephrotoxic agents/NSAIDs, BP goal <130/80, will recheck BMP w/ lytes.
+7. Health maintenance - up to date per pt report on colonoscopy (2019), will need repeat screening discussion. Tobacco: lifelong nonsmoker, no cessation counseling needed, reinforced continued avoidance. Immunizations - will update flu/pneumococcal/shingles/Tdap status at next visit, records requested from prior clinic.
+8. Labs ordered today: CMP, CBC, lipid panel, TSH, urinalysis.
+
+F/u in 4-6 wks or sooner if issues. Pt verbalized understanding, agreeable w/ plan. Total visit time ~35 min, >50% spent in counseling/coordination of care.
+
+/s/ Anita Patel, MD

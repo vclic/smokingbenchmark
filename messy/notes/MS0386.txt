@@ -1,0 +1,57 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Robert Smith  DOB: 04/19/1965  Age: 61 y/o M
+Date of Service: 04/19/2026
+Author: Anita Patel, MD
+
+CC: chest pain, intermittent x2 wks
+
+HPI: 61 yo M w/ hx osteoporosis, T2DM presents for eval of intermittent CP, described as pressure-like, substernal, occurs w exertion, relieves w rest. No radiation to jaw/arm noted today. denies SOB at rest, occasional palpitations. pt states pain lasts 5-10 min. no assoc n/v. Reviewed prior EKGs, no significant ST changes noted on file from last visit 01/2026.
+
+PMH:
+- E11.9 Type 2 diabetes mellitus w/o complications
+- M81.0 Osteoporosis, age-related, w/o current pathological fracture
+- I10 Essential hypertension (outdated entry, pt reports normotensive last 2 yrs, may need reconcile)
+- J45.909 Asthma, unspecified (outdated, chart not updated since 2019, pt denies current asthma sx)
+
+Meds: Metformin 1000mg BID, Alendronate 70mg qwk, Atorvastatin 20mg qhs, Vitamin D3 2000IU daily
+
+Allergies: NKDA
+
+Social History: noncontributory.
+
+Family Hx: father w/ MI at 58, mother w/ osteoporosis
+
+ROS: as per HPI, otherwise negative in 10-system review, denies fevers chills wt loss
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, Temp 98.4F, SpO2 98% RA, Wt 182 lb, Ht 5'9"
+Gen: NAD, well-appearing
+CV: RRR, no m/r/g appreciated, no JVD
+Resp: CTAB, no wheezes rales rhonchi
+Abd: soft NT/ND
+Ext: no edema, pulses 2+ bilat
+Skin: no rash
+
+LABS/RESULTS:
+- Troponin (04/19/2026): <0.01 ng/mL (neg)
+- BMP (04/19/2026): Na 139, K 4.1, Cl 101, CO2 25, BUN 14, Cr 0.9, Glu 142
+- HbA1c (03/15/2026): 7.2%
+- Lipid panel (03/15/2026): TC 178, LDL 96, HDL 44, TG 190
+- EKG (today): NSR, no acute ST-T changes, rate 74
+- DEXA (01/2026): T-score -2.6 L-spine (known osteoporosis, on tx)
+
+ASSESSMENT:
+61M w chest pain, low risk features on today's eval, trop neg, EKG unremarkable. Differential incl atypical angina vs musculoskeletal vs GERD. Given DM and fam hx of early CAD, will pursue further w/u.
+
+PLAN:
+1. Chest pain - schedule outpt stress echo, cont current cardiac meds, f/u results
+2. T2DM - cont metformin, recheck A1c in 3 mo, reinforce diet/exercise
+3. Osteoporosis - cont alendronate + vit D, f/u DEXA in 2 yrs
+4. HTN (per chart) - reassess at next visit, may d/c dx if persistently normotensive
+5. Asthma (per chart, likely resolved/outdated) - will remove from problem list if no further sx reported
+6. Pt counseled on activity restriction until stress test done, return precautions given (worsening CP, SOB, diaphoresis - call 911)
+7. Discussed general preventive health screening topics appropriate for age, pt agreeable to d/w PCP further
+
+F/u in 2-4 wks or sooner if sx worsen. Pt verbalized understanding, all questions answered today.
+
+Electronically signed: Anita Patel, MD 04/19/2026

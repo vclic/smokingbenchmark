@@ -1,0 +1,66 @@
+Telehealth Follow-up Visit - Internal Medicine
+Patient: William Robinson (M), DOB 2/8/1954, Age 70
+Date of Service: 02/08/2024
+Provider: Brian Okonkwo, MD
+
+Visit type: video telehealth f/u, htn and dm2
+
+HPI:
+Pt seen via video for routine f/u of htn, dm2, ckd3, copd, pad, oa, gerd. Wife present in room assisting w/ communication as pt has known expressive aphasia (post stroke, per prior notes) and is a poor historian today. Pt nods appropriately to some questions, unable to reliably answer others. Wife reports he has been 'doing okay' at home, ambulating short distances with walker, appetite fair. Denies acute cp/sob per wife observation though pt cannot confirm verbally. No new falls reported. Med adherence per wife - she manages his pillbox.
+
+Tobacco/substance use history: unable to obtain due to pt's expressive aphasia; wife present but unclear on details, defers. Will attempt again next visit or via collateral records.
+
+ROS: limited by pt's communication difficulties, largely obtained via wife and observation.
+- General: no fever, appetite fair per wife
+- CV: no edema noted by wife, no chest pain observed
+- Resp: no increased work of breathing observed, chronic cough stable per copd hx
+- GI: gerd sx well controlled on current regimen per wife
+- MSK: chronic knee pain, oa, stable
+- Neuro: baseline expressive aphasia, no new focal deficits per wife report
+
+PMHx:
+- Type 2 diabetes mellitus
+- Osteoarthritis
+- GERD
+- COPD
+- Peripheral artery disease
+- CKD stage 3
+- (per chart, prior CVA c/b expressive aphasia - not in problem list update today but relevant to communication limitations)
+
+Meds (reviewed w wife):
+- Metformin 500mg bid
+- Lisinopril 20mg daily
+- Atorvastatin 40mg qhs
+- Omeprazole 20mg daily
+- Tiotropium inhaler daily
+- Clopidogrel 75mg daily
+- Albuterol prn
+
+Allergies: NKDA
+
+Vitals (per home cuff, relayed by wife):
+BP 138/82, HR 76, home glucose log reviewed - fasting range 110-145
+
+Physical exam: limited, telehealth, pt visualized on camera appears NAD, sitting comfortably, color good. no acute distress noted. Further exam deferred given modality.
+
+Labs reviewed (from last visit 1/15/24):
+A1c 7.4, Cr 1.6 (baseline for pt), eGFR 42, K 4.3, LDL 88
+
+Assessment/Plan:
+1. HTN - well controlled per home readings, cont lisinopril 20mg daily
+2. T2DM - A1c 7.4, reasonable given goals, cont metformin, recheck a1c in 3 months
+3. CKD stage 3 - stable, cont monitoring renal fxn, avoid nephrotoxic agents
+4. COPD - stable on tiotropium, no exacerbations reported
+5. PAD - cont clopidogrel, ankle brachial index results on file stable
+6. OA - cont conservative mgmt, tylenol prn
+7. GERD - controlled on omeprazole
+8. Tobacco history - unable to obtain today due to pt's expressive aphasia and being a poor historian; will readdress at future visit with additional collateral or when communication clearer. deferred related counseling given inability to establish current status.
+9. Communication - recommend continued involvement of wife/caregiver at future visits given expressive aphasia
+
+f/u in 3 months or sooner if concerns. Wife to call if any acute changes.
+
+---
+Addendum (later same day, 02/08/2024, 4:47pm):
+Spoke again briefly by phone with wife after initial telehealth visit to clarify medication list - no changes needed, list as documented above is accurate. She again was unable to provide clear info regarding pt's tobacco use history, stated she would look through old paperwork and family may have more info. Reiterate: tobacco/smoking status remains unable to obtain as of this visit dated 2/8/2024, patient's expressive aphasia continues to limit history-taking in this domain and no smoking status is being documented as determined. Will readdress at next f/u.
+No other changes to plan above.
+-Brian Okonkwo, MD

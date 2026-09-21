@@ -1,0 +1,86 @@
+VASCULAR SURGERY - PHYSICIAN PROGRESS NOTE
+Date of Service: 04/16/2023
+Author: Elena Markovic, MD
+Patient: Mark Walker (M), DOB: 04/16/1967 (age 56)
+Referral: PAD evaluation
+
+CHIEF COMPLAINT: Follow-up for peripheral artery disease, worsening claudication.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Walker is a 56-year-old male, DOB 4/16/1967, presenting today, 04/16/2023, for evaluation of peripheral artery disease. He states, "My legs cramp up somethin' fierce after about two blocks now, doc, it wasn't like this before." He denies rest pain or ulceration at this time but reports the claudication distance has decreased over the past several months. He was seen last in clinic and referred for ABI testing which showed mild to moderate arterial insufficiency bilaterally, worse on the right, the report is on file and was reviewed with pt today he seemed to understand the findings okay [inaudible] discussion regarding risk factor modification ensued.
+
+Patient also notes intermittent numbness in his toes, worse with ambulation, and improved with rest, he denies any color changes or non healing wounds he did mention some occasional foot coldness especially in the morning hours before he gets moving around the house doing chores and whatnot.
+
+He continues to follow with PCP for hyperlipidemia, asthma, hypothyroidism, and osteoporosis, all reportedly stable per patient report, meds reviewed today (see below).
+
+PAST MEDICAL HISTORY:
+- Hyperlipidemia
+- Asthma
+- Obesity
+- Osteoporosis
+- Hypothyroidism
+- Peripheral artery disease
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Tobacco type: Cigarettes
+Smoking status: Current smoker
+Pack-years: 26 pack-years
+Smokeless tobacco: Not on file
+Alcohol use: 
+Drug use: Not on file
+Living situation: 
+Occupation: Not on file
+
+COMMENT: Patient continues to smoke cigarettes; he was counseled again today regarding the importance of smoking cessation in the setting of PAD, and the increased risk of amputation and cardiovascular events associated with continued use, he states he is aware and "thinking about it" but not ready to quit at this visit. Nicotine replacement and cessation resources were discussed, he was given information on the quitline and declined a referral to cessation counseling at this time.
+
+MEDICATIONS:
+- Atorvastatin 40mg daily
+- Albuterol inhaler PRN
+- Levothyroxine 75mcg daily
+- Alendronate 70mg weekly
+- Aspirin 81mg daily
+- Cilostazol 100mg BID (recently started)
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, unintentional weight loss
+Cardiovascular: denies chest pain, denies palpitations, positive for bilateral leg claudication as above
+Respiratory: occasional wheeze, uses albuterol maybe once or twice a week
+Musculoskeletal: chronic low back discomfort, stable
+Skin: no ulcers, no rashes noted
+All other systems reviewed and negative except as noted above
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, Weight 238 lbs, BMI 34.2
+General: obese male, no acute distress, pleasant and cooperative
+Cardiovascular: RRR, no murmurs appreciated, no jugular venous distension
+Pulmonary: mild expiratory wheeze bilateral bases, no accessory muscle use
+Vascular exam: bilateral femoral pulses palpable, popliteal pulses diminished bilaterally, dorsalis pedis and posterior tibial pulses faint on right, barely palpable on left, no ulcers or gangrene noted, capillary refill delayed slightly at 3 seconds bilaterally, skin cool distally, hair loss noted on lower extremities bilaterally
+Extremities: no edema, no clubbing, no cyanosis
+Neuro: sensation grossly intact to light touch, decreased vibratory sense in toes bilaterally
+
+ASSESSMENT:
+1. Peripheral artery disease, bilateral lower extremity, symptomatic with claudication - worsening
+2. Hyperlipidemia - on statin therapy
+3. Asthma - stable, intermittent use of rescue inhaler
+4. Obesity - BMI 34.2, counseled on weight management
+5. Osteoporosis - on bisphosphonate therapy
+6. Hypothyroidism - stable on levothyroxine, will check TSH today
+7. Tobacco use disorder - ongoing, counseled
+
+PLAN:
+- Continue cilostazol, reassess symptom improvement in 6-8 weeks
+- Continue aspirin, atorvastatin, levothyroxine, alendronate as prescribed
+- Structured exercise/walking program discussed and encouraged, pt to start walking regimen at home 3x weekly gradually increasing distance
+- Repeat ABI in 3 months or sooner if symptoms worsen
+- Discussed lung cancer screening in general terms given smoking history, further discussion deferred to PCP
+- Smoking cessation counseling provided again today, patient declined referral at this time, quitline information given
+- Check TSH, lipid panel, HbA1c today
+- Follow up in vascular surgery clinic in 3 months, sooner if new symptoms such as rest pain, non-healing wounds, or color change in toes
+- Pt instructed to call clinic or go to ER if he develops acute limb ischemia symptoms (sudden pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia)
+
+Elena Markovic, MD
+Vascular Surgery
+Electronically signed 04/16/2023

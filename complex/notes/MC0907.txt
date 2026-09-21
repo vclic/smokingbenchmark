@@ -1,0 +1,87 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Sharon Lee | DOB: 6/2/1958 | Age: 65 | Sex: F
+Date of Service: 06/02/2023
+Provider: Owen Fitzgerald, MD (Resident), Family Medicine, attending co-signed
+
+CHIEF COMPLAINT: Annual wellness visit.
+
+HPI: Ms. Lee is a 65-year-old female with history of obesity, hypothyroidism, type 2 diabetes, osteoarthritis, peripheral artery disease, and coronary artery disease who presents today for her annual wellness exam. She reports doing reasonably well overall, denies chest pain, denies claudication symptoms at rest, though notes some knee discomfort with prolonged standing (right greater then left, no [inaudible] swelling noted). She is compliant with her home glucose monitoring and states her sugars have been "pretty good, mostly in the 100s to 130s." She continues to smoke cigarettes and reports she has smoked about half a pack, roughly 10 cigarettes, per day since 1975. She states she has been thinking about quitting given her PAD and CAD diagnoses and, after discussion today, has set a quit date for 6/20/2023 (future date). She was counseled extensively regarding cardiovascular risk reduction with cessation. No new complaints of dyspnea on exertion. Denies fevers, chills, night sweats, or unintentional weight loss.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, fatigue, weight change.
+HEENT: denies vision changes, hearing loss, sore throat, nasal congestion.
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND; positive for known CAD, stable.
+Respiratory: denies cough, wheeze, hemoptysis; smoker as noted above.
+GI: denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: denies dysuria, frequency, hematuria.
+Musculoskeletal: positive for chronic bilateral knee pain, no acute injury.
+Skin: denies rash, lesion, non-healing wound (pertinent given PAD).
+Neuro: denies headache, dizziness, numbness, tingling.
+Psych: denies depression, anxiety, sleep disturbance.
+Endocrine: denies polyuria, polydipsia (T2DM stable).
+All other systems reviewed and negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Obesity (E66.9)
+2. Hypothyroidism (E03.9)
+3. Type 2 diabetes mellitus without complications (E11.9)
+4. Osteoarthritis, unspecified site (M19.90)
+5. Peripheral artery disease, unspecified extremity (I73.9)
+6. Coronary artery disease, native vessel (I25.10)
+7. Hyperlipidemia (E78.5) - outdated, resolved per pt report, on statin
+8. GERD (K21.9) - outdated, not treated in several years
+
+MEDICATIONS:
+- Metformin 1000mg PO BID
+- Levothyroxine 75mcg PO daily
+- Atorvastatin 40mg PO qHS
+- Aspirin 81mg PO daily
+- Clopidogrel 75mg PO daily
+- Lisinopril 20mg PO daily
+- Metoprolol succinate 50mg PO daily
+- Cilostazol 100mg PO BID
+- Acetaminophen 500mg PO PRN knee pain
+- Vitamin D3 2000 units PO daily
+- Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: 0.5 (approx 10 cigarettes/day)
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Occasional, wine, 1-2 glasses/week
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 16, Temp 98.4F, SpO2 96% RA, Wt 198 lbs, Ht 5'4", BMI 34.0
+General: Well-developed, well-nourished female, no acute distress.
+HEENT: NCAT, PERRLA, EOMI, oropharynx clear, no thyromegaly appreciated.
+Neck: Supple, no lymphadenopathy, no JVD.
+Cardiovascular: RRR, no murmurs, rubs, or gallops. Distal pulses diminished bilaterally in lower extremities, consistent with known PAD.
+Respiratory: Clear to auscultation bilaterally, no wheezes/rales/rhonchi. Mildly diminished breath sounds at bases, no acute distress.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: No edema, mild cool extremities to the touch, no ulcerations noted, pulses as above.
+Musculoskeletal: Bilateral knee crepitus with range of motion, no effusion, mild tenderness to palpation medial joint line.
+Skin: Warm, dry, intact, no lesions.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact.
+Psych: Mood and affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Tobacco use disorder, cigarettes - Patient continues to smoke and reports use of half a pack per day dating back to 1975. Extensive counseling provided today regarding cessation given comorbid CAD and PAD; benefits of cessation reviewed in detail. Patient has agreed to a quit date of 6/20/2023. Discussed nicotine replacement options and behavioral support resources; will follow up prior to and after quit date to assess progress.
+2. Coronary artery disease - stable, continue aspirin, clopidogrel, statin, beta-blocker. Cholesterol panel to be rechecked.
+3. Peripheral artery disease - continue cilostazol, monitor for claudication symptoms, foot checks encouraged.
+4. Type 2 diabetes mellitus - well controlled per patient report, continue metformin, recheck A1c today.
+5. Hypothyroidism - continue levothyroxine, TSH to be rechecked.
+6. Obesity - discussed diet and exercise, referral to nutrition offered.
+7. Osteoarthritis - continue acetaminophen PRN, consider PT referral if worsens.
+
+Patient verbalized understanding of plan, all questions answered. Return to clinic in 3 months or sooner if needed.
+
+Electronically signed by Owen Fitzgerald, MD (Resident). Attending attestation: I have personally examined the patient and reviewed/discussed this note with Dr. Fitzgerald; I agree with the assessment and plan as documented above.

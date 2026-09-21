@@ -1,0 +1,75 @@
+Family Medicine Progress Note
+
+Patient: THOMPSON, Darnell    MRN: 71710414
+DOB: 10/20/1951    Age: 74 y.o.    Sex: Male
+Date of Service: 03/17/2026    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• BP check
+
+Subjective:
+Darnell Thompson is a 74 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 150s/70s. He is an ex-smoker with a 26-pack-year smoking history; he quit on 11/28/1995. Reports good adherence to amlodipine 5 mg daily. No HA, CP, SOB, or LE swelling.
+
+Past Medical History:
+Diagnosis	Date
+• Essential hypertension
+• Benign prostatic hyperplasia
+• Former smoker
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2012)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• amlodipine 5 mg daily
+• tamsulosin 0.4 mg nightly
+• losartan 50 mg daily
+• finasteride 5 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Social History Narrative
+  Widowed; lives with son.
+  Retired, former cashier.
+  No alcohol.
+  Drives.
+
+Family History
+Father - AAA repair.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denys chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 146/91 (BP Location: Right arm, Patient Position: Sitting) | Pulse 67 | Temp 97.6 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 188 lb | SpO2 99% | BMI 29.46 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase amlodipine dose and recheck in 4 weeks. BMP in 2 weeks.
+
+RTC 3 months.
+
+Electronically signed by Anita Patel, MD on 03/17/2026

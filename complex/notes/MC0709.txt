@@ -1,0 +1,52 @@
+CARDIOLOGY PROGRESS NOTE
+Date of Service: 11/16/2024
+Author: Teresa Alvarez, NP
+
+Pt: Bennett, Mary DOB 6/2/1964 (age 60) F
+
+CC: chest pain eval
+
+HPI: 60 yo F w/ hx HLD, HTN, OSA, PAD, BPH presents for f/u eval of intermittent chest pain x 2 wks. Pain described as substernal pressure, non-radiating, occurs w/ exertion, relieved w/ rest. No assoc SOB, diaphoresis, or palpitations reported today. Pt states pain has not worsened. Denies syncope. On ASA and statin already per PAD/HLD mgmt. BP well controlled on current regimen per pt report, occasional home readings 130s/80s. Uses CPAP nightly for OSA, tolerates well c/o some mask discomfort. BPH sx stable, no urinary retention.
+
+ROS: otherwise negative except as above. No fevers, no wt loss.
+
+PMH: HLD, HTN, OSA, PAD, BPH
+
+PSH: none significant on file
+
+MEDS: atorvastatin, lisinopril, ASA 81mg, tamsulosin
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never regular smoker - pt tried a few cigarettes as a teenager but never smoked regularly.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, social
+Drug use: denies
+Occupation: retired
+Living situation: 
+Exercise: Not on file
+
+FAMILY HX: father w/ CAD, mother w/ T2DM
+
+VITALS: BP 128/78 HR 72 RR 16 T 98.4 SpO2 97% RA Wt 168 lb
+
+EXAM: Gen - NAD, A&Ox3. CV - RRR, no m/r/g appreciated, no JVD. Lungs - CTAB, no wheeze/rales. Ext - trace edema b/l, PAD-related skin changes noted on lower extrem, pulses dimished dorsalis pedis b/l but palpable. Abd - soft NT/ND.
+
+DATA REVIEWED: recent lipid panel LDL 92, HDL 48, TG 130. EKG today NSR, no acute ST changes, no old EKG on file for comparisson. Trop pending.
+
+ASSESSMENT: 60F w/ atypical chest pain, likely musculoskeletal vs early anginal equivalent given PAD hx, low-intermediate risk. HTN and HLD reasonably controlled. OSA on CPAP. BPH stable.
+
+PLAN:
+1. Chest pain - obtain troponin, will trend; consider stress test if sx recur or trop elevated. Pt educated on when to seek ER care (crushing pain, radiation, diaphoresis, SOB).
+2. HTN - continue lisinopril, recheck BP next visit.
+3. HLD - continue statin, repeat lipid panel in 6 mo.
+4. PAD - continue ASA, monitor for claudication sx, f/u vascular surgery as scheduled.
+5. OSA - continue CPAP compliance, f/u sleep med prn.
+6. BPH - continue tamsulosin, no acute issues.
+7. Tobacco - non-smoker; general healthy lifestyle counseling given re: diet/exercise, discussed importance of avoiding secondhand smoke exposure given PAD.
+8. Lung ca screening was breifly discussed given pt's age and cardiovascular risk factors; no imaging ordered today, will revisit at future visit if indicated.
+
+RTC 3 months or sooner if sx worsen. Pt verbalizes understanding of plan, agrees with above.
+
+Electronically signed: Teresa Alvarez, NP 11/16/2024

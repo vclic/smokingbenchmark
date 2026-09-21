@@ -1,0 +1,36 @@
+NURSE INTAKE
+Patient: Wayne Davis  DOB: 03/10/1972  Age: 53
+Date of Service: 03/10/2025
+Provider: Anita Patel, MD - Family Medicine
+Visit type: Annual Wellness Visit
+
+VITALS: BP 138/86, HR 78, RR 16, Wt 231 lb, Ht 5'10", BMI 33.1, Temp 98.2 F
+
+SOCIAL HISTORY (templated fields):
+Tobacco use: Current smoker
+Alcohol use: Not on file
+Recreational drug use: Denies
+Occupation: Not on file
+Living situation: Blank
+
+Social History Note (SH freetext): Pt reports a long smoking hx in three distinct stretches - smoked 1 pack per day for 11 years, then cut down to about three-quarters of a pack (approx 15 cigarettes) per day for 14 years, and is currently smoking about a quarter pack (approx 5 cigarettes) per day, which he has done for the past 11 years. He remains an active smoker at this visit. He did quit briefly in 2023 but relapsed in 2024 and has continued smoking since.
+
+----- COPIED FORWARD FROM VISIT 08/14/2022 -----
+Pt here for f/u of htn and obesity, doing fairly well, reports he is trying to excercise more but has [inaudible] due to knee pain, he says his diet has been "ok" though he admits to eating out alot on weekends and the wife does most of the cooking during the week which is healthier he thinks, no chest pain no SOB no palpitations, denies edema, reviewed med list which includes lisinopril, pt states he takes it "most days" and sometimes forgets on weekends, BP today in clinic was elevated so will recheck, discussed weight loss goals of 5-10% body weight over the next six months and referred to nutrition, pt agreeable to this plan, follow up in 3-6 months or sooner if needed.
+----- END COPIED TEXT -----
+
+PHYSICIAN PROGRESS NOTE - Anita Patel, MD
+DOS: 03/10/2025
+
+HPI: Mr. Davis is a 53-year-old male here today for his annual wellness exam. He reports feeling generally well overall, though he notes some mild fatigue which he attributes to poor sleep, his wife says he snores loudly and sometimes stops breathing witch is concerning for possible sleep apnea, will discuss further. No chest pain, no dyspnea on exertion today. He continues to take lisinopril for hypertension with variable adherence. Regarding tobacco, he remains an active smoker as above; he did stop for a period in 2023 but relapsed the following year and has not been able to quit since. He was counseled today on the benefits of smoking cessation and offered resources including nicotine replacement and referral to a quitline; he states he is "thinking about it" but not ready to set a quit date right now. Lung cancer screening was discussed briefly in general terms.
+
+EXAM: Well-appearing, obese male in no acute distress. Lungs clear to auscultation bilaterally, no wheezes or crackles. Cardiac exam RRR, no murmurs. Abdomen soft, obese, nontender. Extremities no edema.
+
+ASSESSMENT/PLAN:
+1. Hypertension - BP mildly elevated today, continue lisinopril, reinforce adherence, recheck in office in 4 weeks.
+2. Obesity - BMI 33.1, discussed diet/exercise, referred to nutrition again as pt reports he did not follow up after prior referral.
+3. Tobacco use, active - counseled on cessation, discussed nicotine replacement therapy and quitline referral, pt not yet ready to quit, will readdress at next visit.
+4. Possible OSA - will order sleep study given reported snoring/witnessed apneas.
+5. Health maintenance - routine labs ordered including lipid panel and A1c, immunizations reviewed and up to date.
+
+Return to clinic in 3 months or sooner as needed.

@@ -1,0 +1,76 @@
+Pulmonology NP Progress Note
+Date of Service: 08/12/2024
+Author: Rachel Goldberg, MD
+Patient: Thomas Wright, M, DOB 08/12/1964 (age 60)
+
+Reason for visit: Lung cancer screening shared decision-making
+
+HPI:
+Mr Wright is a 60 y.o. male here today for discussion of lung cancer screening options referred from primary care after routine visit last month, he presents pleasant and cooperative, no acute distress noted. Pt states "I feel pretty good most days, just get a little winded going up the stairs at home." He denies chest pain, denies hemoptysis, denies unexplained weight loss. He does note occasional cough productive of clear sputum, attributes this to his COPD which is followed by pulm here as well. Pt reports compliance w his CPAP for OSA "most nights, maybe skip one or two a week" and says his energy is stable. He is accompanied today by his wife who assisted with some history clarification, she noted he "used to smoke like a chimney back in the day" but has been smoke free for a long while now per her recollection which matches pt report below.
+
+Regarding tobacco history pt was asked directly and reports he started smoking at age 25, at that time he was smoking 2.5 packs per day, he continued at that rate of 2.5 ppd until he quit in 2006. He states he quit "cold turkey" and has not smoked since. He denies any current tobacco use of any kind including cigars, pipe, vape or e-cigarette products. He is clear that he no longer smokes and has remained abstinent.
+
+Social History (templated EHR block):
+Tobacco use status: Former smoker
+Cigarettes per day (peak): 2.5 packs/day
+Age started: 25
+Year quit: 2006
+Years since quit: 18 years
+Secondhand smoke exposure: Not on file
+Alcohol use: occasional, 1-2 drinks/wk per pt report
+Illicit drug use: denies
+Occupation: retired machinist
+Living situation: lives w spouse, home is single level
+Exercise: limited 2/2 dyspnea on exertion, otherwise sedentary
+
+Past Medical History:
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- COPD
+- Obstructive sleep apnea, on CPAP
+- Heart failure with reduced ejection fraction
+- BPH
+
+Medications (per chart, reconciled today):
+- Levothyroxine
+- Tiotropium inhaler
+- Albuterol PRN
+- Furosemide
+- Carvedilol
+- Tamsulosin
+- Sacubitril-valsartan
+
+Allergies: NKDA
+
+Review of Systems:
+Constitutional: denies fever denies chills reports fatigue at end of day
+Respiratory: chronic cough as above denies hemoptysis denies pleuritic pain
+Cardiovascular: denies chest pain reports occasional bilateral ankle swelling improved w current diuretic dose
+GU: nocturia x2 stable on tamsulosin
+All other systems reviewed and negative except as noted above
+
+Physical Exam:
+Vitals: BP 128/78, HR 74, RR 16, SpO2 94% on room air, wt stable from last visit, BMI 29
+General: well-developed well-nourished male in no acute distress
+HEENT: normocephalic atraumatic, oropharynx clear
+Neck: no JVD appreciated, no lymphadenopathy
+Lungs: mild expiratory wheeze bilaterally, no rales, no rhonchi, breath sounds otherwise clear symmetric
+Cardiac: RRR, no murmur appreciated, S1 S2 normal, no S3 S4
+Extremities: trace bilateral pitting edema, no clubbing no cyanosis
+Skin: warm dry intact
+
+Assessment:
+60 yo male here for lung cancer screening shared decision-making visit date of service 8/12/2024, extensive prior tobacco history now former smoker, comorbid COPD OSA HFrEF hypothyroidism OA and BPH. We reviewed general benefits and risks of lung cancer screening in detail including false positive rate, incidental findings, and radiation exposure, screening was discussed at length w pt and spouse present for the conversation [inaudible] portions of discussion redacted due to recording quality but pt verbalized understanding of material presented today.
+
+Plan:
+1. Lung cancer screening — discussed shared decision-making today, pt given informational handout, will continue discussion at future visit as needed
+2. COPD — continue tiotropium and albuterol PRN, reinforced inhaler technique, discussed pulmonary rehab referral pt declined at this time wants to think about it
+3. OSA — continue CPAP, will obtain updated compliance download at next visit
+4. HFrEF — continue current regimen, stable exam today, will recheck BNP and BMP at next visit
+5. Hypothyroidism — continue levothyroxine, TSH due in 3 months
+6. OA — continue conservative mgmt, refer ortho if worsening
+7. BPH — continue tamsulosin, stable nocturia
+8. Tobacco — patient counseled regarding continued abstinence from smoking, encouraged to maintain smoke-free status, resources reviewed although pt reports no interest in returning to tobacco use given he quit 18 years ago and has no plans to resume
+9. RTC in 6 months or sooner if symptoms worsen, pt to call if any acute concerns
+
+Electronically signed by Rachel Goldberg, MD

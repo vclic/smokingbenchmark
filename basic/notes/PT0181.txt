@@ -1,0 +1,47 @@
+Internal Medicine Clinic Note
+Date of Service: 9/15/2023
+Patient: Curtis Hernandez   DOB: 10/31/1960   MRN: 89890761
+
+SUBJECTIVE:
+CC: Diabetes follow-up
+HPI: Mr. Hernandez is a 62-year-old male with a history of HLD, HTN, T2DM, and obesity who presents for diabetes follow-up. Most recent A1c 8.3% (previously 8.4% in April 2023). Rarely checks glucose at home. One episode of shakiness relieved with juice. No numbness or tingling.
+
+PMH:
+- HTN
+- Hypercholesterolemia
+- Type 2 diabetes
+- Class I obesity (dx 1996)
+Meds: metformin 500 mg BID; losartan 50 mg daily; atorvastatin 20 mg daily
+Allergies: NKDA
+SH: Lives alone in an apartment. Retired, former bus driver. He has never used tobacco. Alcohol: rare. Denies illicit drugs.
+FH: Mother - CHF, d. age 88.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 146/84  HR: 85  RR: 18  Temp: 97.7 F  SpO2: 97% on RA  Wt: 259 lbs  BMI: 33.2
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Clear to auscultation bilaterally
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Euthymic
+Labs (2023-08-18): A1c 8.3%, LDL 59, Cr 0.91, K 3.7
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 8.3% - above goal; add empagliflozin 10 mg daily. Diabetic eye exam referral.
+2. HTN: Elevated today; home BP log requested.
+
+RTC 3 months.
+
+Michael Dunn, DO

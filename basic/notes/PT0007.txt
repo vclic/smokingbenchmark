@@ -1,0 +1,57 @@
+Primary Care Clinic Note
+
+Patient: NELSON, Curtis    MRN: 87868698
+DOB: 12/25/1964    Age: 58 y.o.    Sex: Male
+Date of Service: 08/07/2023    Provider: Owen Fitzgerald, MD
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Curtis Nelson is a 58 y.o. male who presents for right shoulder pain.
+Right shoulder pain for 7 months, worse with activity. No numbness or weakness. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2011)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• (none)
+
+Allergies
+• NKDA
+
+
+Family History
+Father - colon cancer at 68.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 126/76 (BP Location: Right arm, Patient Position: Sitting) | Pulse 64 | Temp 98.3 °F (Oral) | Resp 14 | Ht 6' 0" | Wt 207 lb | SpO2 99% | BMI 28.09 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+
+RTC 6 months.
+
+Electronically signed by Owen Fitzgerald, MD on 08/07/2023

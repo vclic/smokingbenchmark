@@ -1,0 +1,74 @@
+Pulmonology Progress Note
+Date of Service: 10/12/2023
+Author: Priya Raman, MD
+
+Patient: Brenda Bryant
+DOB: 05/21/1965 (Age 58)
+MRN: 004821
+
+CHIEF COMPLAINT: Lung cancer screening shared decision-making visit, referred by PCP due to family history and general risk assessment.
+
+HPI: Ms. Bryant is a 58-year-old woman who presents today for a discussion regarding lung cancer screening. She has no personal history of lung disease other than asthma, which is well controlled on her current regimen. She reports occasional use of marijuana socially but denies any tobacco cigarette use. On further questioning, she states she is a lifelong non-smoker and has never smoked cigarettes, cigars, or pipes at any point in her life. She was referred for this visit after her PCP raised the topic during a routine physical, given her age and some family history of lung disease in a maternal uncle. We discussed the general concept of lung cancer screening, including its risks and benefits, as part of a shared decision-making conversation.
+
+--- COPIED FORWARD FROM VISIT 03/14/2022 (Pulmonology, Dr. Raman) ---
+HPI: Patient here for asthma follow up. Reports intermittent wheeze with exertion, uses albuterol PRN approx 2x/week. No nocturnal symptoms. No ED visits or hospitalizations in the past year. Denies chest pain, hemoptysis, or unintentional weight loss. Osteoarthritis stable on NSAIDs and acetaminophen as needed. Gout last flare approximately 8 months ago, managed with colchicine. GERD symptoms controlled with omeprazole. Hyperlipidemia followed by PCP, last lipid panel reviewed and stable. Continue current asthma action plan, follow up in 12 months or sooner if symptoms worsen.
+--- END COPIED TEXT ---
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss, night sweats.
+Eyes: Denies vision changes.
+ENT: Denies sore throat, nasal congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, edema.
+Respiratory: Denies hemoptysis, current dyspnea at rest; occasional exertional wheeze noted above. Denies productive cough.
+GI: Denies nausea, vomiting, diarrhea, hematochezia. Reports intermittent reflux, improved with omeprazole.
+GU: Denies dysuria, hematuria.
+Musculoskeletal: Chronic joint pain as above, stable.
+Skin: Denies rash, new lesions.
+Neuro: Denies headache, dizziness, weakness.
+Psych: Denies depression, anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.4F, SpO2 97% on room air, BMI 27.4
+General: Well-appearing woman in no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Neck: No lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi appreciated today.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, no cyanosis, mild bony changes consistent with osteoarthritis at the DIP joints bilaterally.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, grossly non-focal.
+
+PROBLEM LIST:
+1. Asthma, mild persistent (J45.30)
+2. Gout, unspecified (M10.9) - last flare remote
+3. Osteoarthritis, unspecified site (M19.90)
+4. Hyperlipidemia, unspecified (E78.5)
+5. GERD (K21.9)
+6. Screening for malignant neoplasm of respiratory organs (Z12.2) - outdated entry, added 2021, not previously addressed
+7. Tobacco use disorder (Z72.0) - outdated/erroneous entry, carried over from template, does not apply to this patient
+
+MEDICATIONS:
+1. Albuterol HFA inhaler 90mcg, 2 puffs Q4-6H PRN wheeze
+2. Fluticasone propionate 110mcg inhaler, 2 puffs BID
+3. Omeprazole 20mg PO daily
+4. Atorvastatin 20mg PO daily
+5. Allopurinol 100mg PO daily
+6. Colchicine 0.6mg PO as needed for gout flare
+7. Acetaminophen 500mg PO PRN joint pain
+8. Naproxen 220mg PO PRN, occasional use for OA flares
+9. Calcium/Vitamin D supplement daily
+
+ASSESSMENT/PLAN:
+58-year-old woman, lifelong non-smoker, presenting for lung cancer screening SDM visit prompted by family history.
+1. Lung cancer screening - discussed general principles of screening, potential risks including false positives and incidental findings, and potential benefits of early detection. No imaging ordered today; will revisit topic at next visit after patient has had time to consider. Reiterated that she reports no history of cigarette smoking.
+2. Marijuana use - patient reports occasional recreational use; counseled regarding respiratory irritant effects of inhaled smoke in general and advised to consider alternative routes if she continues use.
+3. Asthma - stable, continue current inhalers.
+4. Gout - stable, continue allopurinol, colchicine PRN.
+5. Osteoarthritis - stable, continue current regimen.
+6. Hyperlipidemia - stable, defer to PCP for lipid panel follow-up.
+7. GERD - stable, continue omeprazole.
+Follow up in 6-12 months or sooner as needed.
+
+Electronically signed by Priya Raman, MD

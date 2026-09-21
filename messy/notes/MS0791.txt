@@ -1,0 +1,71 @@
+NEW PT VISIT - PRIMARY CARE
+DOS: 08/02/2025
+Patient: Samuel Price, M, DOB 03/19/1963, Age: 62
+Author: Rachel Goldberg, MD (Resident) - Attending attestation to follow
+
+CC: Establish care, general checkup
+
+HPI:
+Pt is a 62 y/o male presenting today, 08/02/2025, to establish primary care after relocating to the area. Pt states, "I just moved here and I need a new doctor, my old one retired." He reports hx of GERD, obesity, CAD (s/p prior workup per pt report), and osteoarthritis, primarily affecting his knees bilaterally. He describes intermittent heartburn, worse after eating spicy or fatty foods, states "it burns right here" while pointing to his sternum. Denies chest pain at rest, denies SOB, denies palpitations. Reports knee pain, R > L, worse with prolonged standing or stair climbing, rates it "like a 5 out of 10 on a bad day." No recent falls. He is otherwise feeling well and has no acute complaints today.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 - ORIGINAL PROVIDER UNKNOWN, IMPORTED FROM OUTSIDE RECORDS]:
+"Pt seen for f/u of CAD and GERD. Pt reports doing well on current regimen, denies CP, SOB, orthopnea, PND. Diet reviewed, pt counseled on low-sodium low-fat diet. GERD sx controlled on current PPI, pt denies dysphagia, odynophagia, hematemesis, melena. Osteoarthritis stable, pt using OTC NSAIDs PRN with good relief. Pt educated on importance of weight loss for both CAD and OA management. F/u in 6 months or PRN."
+[END COPY-FORWARD]
+
+Smoking/Tobacco: Pt denies ever smoking cigarettes or using any tobacco products; states he has never used tobacco in his life. No vaping, no smokeless tobacco, no cigars per pt report.
+
+Alcohol: Pt reports occasional social drinking, 1-2 drinks per wk, denies heavy use.
+
+ROS:
+Constitutional: Denies fever, chills, unintentional weight loss.
+Cardiac: Denies chest pain, palpitations, orthopnea, PND, edema.
+Resp: Denies cough, wheeze, dyspnea.
+GI: Reports intermittent heartburn as above, denies N/V/D, denies BRBPR, denies melena.
+MSK: Reports bilateral knee pain as above, denies acute injury.
+Neuro: Denies HA, dizziness, syncope, focal weakness.
+Skin: Denies rashes, lesions.
+Psych: Denies depression, anxiety symptoms currently, sleep grossly WNL per pt.
+
+PMH: GERD, Obesity, CAD, Osteoarthritis (knees, bilat)
+PSH: None reported
+FH: Father - MI at age 68; Mother - T2DM; no known FH of lung dz or malignancy per pt.
+SH: Never-smoker as above. Occasional EtOH. Denies illicit drug use. Works as an accountant, sits most of the day [inaudible] states he tries to walk on weekends when knees allow.
+Allergies: NKDA
+
+Meds (per pt report, to be reconciled):
+- Omeprazole 20mg daily
+- Aspirin 81mg daily
+- Atorvastatin 40mg qHS
+- Metoprolol succinate 25mg daily
+- Ibuprofen 400mg PRN for knee pain
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.4F, SpO2 98% RA, Wt 246 lbs, Ht 5'10", BMI 35.3
+General: Well-appearing male, NAD, mildly obese habitus.
+HEENT: NC/AT, PERRLA, oropharynx clear, no thrush, no erythema.
+Neck: No JVD, no thyromegaly, no lymphadenopathy.
+CV: RRR, no murmurs/rubs/gallops appreciated, no peripheral edema, distal pulses 2+ bilaterally.
+Resp: CTAB, no wheezes/rales/rhonchi, good air movement bilaterally.
+Abd: Soft, NT/ND, +BS, no HSM, no rebound/guarding.
+MSK: Bilateral knee exam with mild crepitus, R > L, no effusion, no erythema, ROM intact though limited by discomfort at extremes, no ligamentous laxity appreciated.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neuro: A&Ox3, CN II-XII grossly intact, motor 5/5 all extremities, sensation intact grossly.
+
+LABS/RESULTS (reviewed today, drawn 07/28/2025 at outside lab, results faxed):
+- CBC: WBC 6.8, Hgb 14.9, Hct 44.1, Plt 232 - all WNL
+- BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glu 102 - WNL
+- Lipid panel: Total chol 178, LDL 96, HDL 42, Trig 150
+- HbA1c: 5.6% - normal, no evidence of DM/prediabetes at this time
+- TSH: 2.1 - WNL
+- LFTs: AST 24, ALT 28, Alk Phos 70 - WNL
+
+ASSESSMENT/PLAN:
+1. GERD - stable, sx controlled on current PPI regimen. Continue omeprazole 20mg daily. Counseled on dietary triggers, avoid late meals, elevate HOB.
+2. Obesity - BMI 35.3, discussed lifestyle modification, referral to nutrition considered, encouraged increased physical activity as tolerated given knee OA.
+3. CAD - stable per pt report and available records, continue ASA, statin, beta-blocker. Lipid panel reviewed, LDL at goal-ish, will continue current statin dose. EKG to be obtained today for baseline.
+4. Osteoarthritis, bilateral knees - continue PRN NSAID use, counseled on risks of chronic NSAID use given GERD hx, consider PT referral, activity modification, weight loss will help offload joints.
+5. Health maintenance - up to date per pt report, will obtain records from prior PCP. Tobacco use reviewed, pt is a never-smoker so no counseling needed in that regard. Discussed general preventive screening topics appropriate for age including colon cancer screening; lung cancer screening was discussed in general terms as part of preventive care conversation.
+6. F/u in 3 months or sooner PRN.
+
+Electronically signed: Rachel Goldberg, MD (Resident)
+Attending Attestation: I have reviewed and discussed this case with Dr. Goldberg and agree with the documented findings and plan as written above.

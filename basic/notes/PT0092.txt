@@ -1,0 +1,74 @@
+Family Medicine Office Visit
+
+Patient: CLARK, Pamela    MRN: 79958371
+DOB: 06/22/1970    Age: 55 y.o.    Sex: Female
+Date of Service: 12/09/2025    Provider: Priya Raman, MD
+
+Chief Complaint
+Patient presents with
+• Cough and congestion
+
+Subjective:
+Pamela Clark is a 55 y.o. female who presents for cough and congestion.
+Cough for 7 days, productive of yellow sputum. No fevers. Tried OTC dextromethorphan without relief. Denies hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia	2019
+• Hypothyroidism
+• Class I obesity	2011
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• atorvastatin 40 mg daily
+• multivitamin daily
+• levothyroxine 75 mcg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband in a single-family home.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+  Sedentary.
+
+Family History
+Mother - CHF, d. age 88.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 129/83 (BP Location: Left arm, Patient Position: Sitting) | Pulse 68 | Temp 97.9 °F (Oral) | Resp 14 | Ht 5' 4" | Wt 221 lb | SpO2 97% | BMI 37.96 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally, no wheezes
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Labs (11/24/2025): LDL 73, Cr 1.03, K 3.8, Hgb 12.5, TSH 2.59
+
+Assessment & Plan
+1. Cough
+   CXR ordered given duration. Supportive care.
+2. Health maintenance
+   Lung cancer screening: not indicated (never smoker).
+
+f/u 3 mo
+
+Electronically signed by Priya Raman, MD on 12/09/2025

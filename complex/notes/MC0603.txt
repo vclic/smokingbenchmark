@@ -1,0 +1,43 @@
+TELEHEALTH VISIT - Family Medicine
+Patient: Mark Lewis (M), DOB 7/10/1966 (age 58)
+Date of Service: 07/10/2024
+Author: Brian Okonkwo, MD
+
+CHIEF COMPLAINT: Med refills, telehealth f/u.
+
+HPI: Pt calling in for refill of meds, states doing fair overall, no acute complaints today, denies chest pain denies SOB although he does note some ankle swelling on and off which he thinks is from the heat, appt done via video the connection was poor at times and pt's audio cut in and out [inaudible] during portion re: diet compliance so unable to fully clarify.
+
+=== COPIED FORWARD FROM VISIT 3/10/2023 ===
+Pt seen for routine f/u, HTN and afib stable on current regimen, pt reports doing well, exercise tolerance stable, no palpitations noted, smoking status: former smoker, counseled on diet and exercise, continue current meds, f/u in 6 months, labs reviewed and stable, no new concerns at this time, pt agreeable to plan.
+=== END COPIED SECTION ===
+
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated and does not reflect actual history - see below]
+
+Social History (clarified this visit): Pt actually has a significant smoking history - he started smoking 1 pack per day at age 20 and continued at that rate until he quit in 2009. He has not smoked since his 43rd birthday and remains a nonsmoker currently. Denies alcohol use, denies illicit drugs.
+
+PROBLEM LIST:
+- E66.9 Obesity, unspecified
+- I48.91 Atrial fibrillation, unspecified
+- I10 Essential hypertension (outdated entry, pt reports normal home readings, may need review)
+- Z87.891 Personal history of nicotine dependence
+
+MEDICATIONS: Apixaban 5mg BID, Metoprolol succinate 50mg daily, Lisinopril 10mg daily (outdated - pt states d/c'd 2022 per cardiology, needs reconciliation)
+
+LABS/RESULTS:
+- 06/28/2024: TSH 2.1 (nl), Creatinine 0.9, K+ 4.2
+- 06/28/2024: INR 2.4 (therapeutic range on apixaban not routinely monitored but pt had extra draw)
+- 05/15/2023: A1c 5.8%
+- 03/10/2023: Lipid panel - LDL 118, HDL 42, TG 150
+
+REVIEW OF SYSTEMS: Otherwise negative except as above, pt endorses mild fatigue, denies fevers denies cough denies hemoptysis, all other systems reviewed and negative per pt report although exact wording was garbled on the call and portions were [inaudible].
+
+PHYSICAL EXAM: Deferred, telehealth visit, pt appeared comfortable on camera, no acute distress noted, vitals per home cuff reported by pt BP 128/78 HR 76 irregular.
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - stable on apixaban and metoprolol, continue current regimen, will recheck INR/renal function next visit although not routinely needed on apixaban.
+2. Obesity - discussed diet and exercise, pt states trying to walk more, will refer to nutrition if no improvement by next visit.
+3. History of tobacco use - discussed general health maintenance and screening options were discussed with pt, no further action needed regarding cessation as pt is already a nonsmoker, continue routine monitoring.
+4. Hypertension - needs reconciliation given pt report of d/c lisinopril, will clarify at next in-person visit.
+5. Refills sent as requested.
+
+F/u in 3 months or sooner if symptoms worsen, pt verbalized understanding, all questions answered, visit ended without further issue the call dropped near the end so final instructions were repeated via patient portal message.

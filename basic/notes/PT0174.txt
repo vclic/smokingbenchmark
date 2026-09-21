@@ -1,0 +1,85 @@
+Primary Care Progress Note
+
+Patient: ROSS, Mark    MRN: 23203172
+DOB: 03/30/1946    Age: 79 y.o.    Sex: Male
+Date of Service: 02/23/2026    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Mark Ross is a 79 y.o. male who presents for pre-operative evaluation prior to right total knee arthroplasty.
+Scheduled for right total knee arthroplasty on 3/15/2026. Walks daily without limitation. Had PONV with prior surgery.
+
+Past Medical History:
+Diagnosis	Date
+• CKD stage 3
+• Essential hypertension
+• Benign prostatic hyperplasia	2013
+• Primary OA, bilateral knees	2024
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cataract extraction, bilateral (1990)
+• Cholecystectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• finasteride 5 mg daily
+• losartan 50 mg daily
+• diclofenac 1% gel QID PRN
+• tamsulosin 0.4 mg nightly
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+    Quit date: 12/14/2009
+    Years since quitting: 16.2
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  No alcohol.
+
+Family History
+No family hx of colon cancer. Mother - dementia, d. 84.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 146/73 (BP Location: Left arm, Patient Position: Sitting) | Pulse 87 | Temp 98.4 °F (Oral) | Resp 16 | Ht 6' 0" | Wt 174 lb | SpO2 98% | BMI 23.64 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Appropriate
+
+Assessment & Plan
+1. Pre-operative evaluation
+   Low risk. CBC, BMP ordered.
+2. CKD stage 3
+   Cr stable. Avoid NSAIDs.
+3. Benign prostatic hyperplasia
+   Nocturia x1-2; continue tamsulosin.
+
+f/u 3 mo
+
+Electronically signed by Teresa Alvarez, NP on 02/23/2026

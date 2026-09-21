@@ -1,0 +1,64 @@
+TELEHEALTH VISIT NOTE
+Family Medicine
+Date of Service: 02/02/2026
+Patient: Marilyn Anderson
+DOB: 02/02/1949 (Age 77)
+Provider: Quentin Hale, PA-C
+
+CHIEF COMPLAINT: Medication refills, follow-up of chronic conditions.
+
+HPI: Ms. Anderson is a 77-year-old female who presents via telehealth today, 02/02/2026, for routine medication refill visit. She reports she is "doing about the same as usual, maybe a little more tired lately but nothing new." She denies any acute chest pain, shortness of breath at rest, fevers, or chills. She states, "My knees have been bothering me more with the cold weather, but I'm managing with the Tylenol." She reports her mood has been stable on her current antidepressant regimen, though she notes some difficulty sleeping through the night, which she attributes to getting up to use the bathroom multiple times — she says, "I'm up two or three times a night, it's just part of getting older I guess." She denies any dysuria, hematuria, or fevers. Asthma has been well controlled; she uses her rescue inhaler infrequently, maybe once every couple of weeks per her report. She denies wheezing or nocturnal cough. Blood pressure has been checked at home and she reports readings in the 130s/80s range on most days, though she admits she does not check it every day, "only when I remember."
+
+[BEGIN COPY-FORWARD TEXT FROM VISIT DATED 08/14/2025 — retained per office policy for continuity, provider notes overlap with current visit not fully reconciled]
+HPI (08/14/2025): Patient is a 76-year-old female here for follow-up of hypertension, asthma, depression, BPH, and osteoarthritis. She reports doing fairly well overall. Blood pressure well controlled on current regimen. Asthma stable, uses albuterol PRN. Denies chest pain, palpitations, syncope. Mood is stable, sleep somewhat fragmented related to nocturia. Reports occasional right knee pain, worse with prolonged standing, improved with rest and NSAIDs. No new falls. Appetite good, denies weight loss. Reviewed medication list, no changes made at that visit. Labs reviewed including CMP and lipid panel, both within acceptable limits for age. Follow-up in 6 months or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan of care as discussed telephonically and in person during that encounter which was conducted partially due to [inaudible] scheduling conflict that required rescheduling of the in person portion to a later date not specified in the chart at this time.
+[END COPY-FORWARD TEXT]
+
+PAST MEDICAL HISTORY:
+1. Depression
+2. Asthma
+3. Hypertension
+4. Benign prostatic hyperplasia (noted historically in chart, likely a documentation carryover error as patient is female — flagged for review but not corrected in this encounter)
+5. Osteoarthritis, bilateral knees
+
+MEDICATIONS (reviewed today):
+- Sertraline 100mg daily
+- Albuterol HFA inhaler PRN
+- Lisinopril 20mg daily
+- Tamsulosin (listed on chart, query relevance given above)
+- Acetaminophen 500mg PRN for joint pain
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Respiratory: denies cough, dyspnea, wheeze except as noted above. Cardiovascular: denies chest pain, palpitations, edema. GU: nocturia as above, denies hematuria, dysuria. Musculoskeletal: knee pain as above, denies acute swelling or redness. Psychiatric: mood stable, denies SI/HI. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Limited given telehealth format.
+General: Patient appears well, in no acute distress, seated comfortably at home.
+Vital signs per patient report from home monitor: BP 132/78, HR 74, no home pulse ox available today.
+Cardiovascular: Unable to auscultate via telehealth; patient denies symptoms.
+Respiratory: Unable to auscultate via telehealth; patient denies increased work of breathing, speaking in full sentences without difficulty during call.
+Musculoskeletal: Visual inspection via video shows no obvious swelling of knees, patient ambulates to camera without significant limp noted.
+Skin: No rashes visualized.
+
+ASSESSMENT:
+1. Hypertension — stable per home readings.
+2. Asthma — stable, low symptom burden.
+3. Depression — stable on current regimen.
+4. Osteoarthritis, knees — mild increase in symptoms with cold weather, managing conservatively.
+5. BPH — chart item, deferred given patient is female, will review with prior records at next in-person visit.
+
+PLAN:
+1. Refill lisinopril 20mg daily x90 days with 3 refills.
+2. Refill albuterol HFA inhaler PRN, 1 refill.
+3. Refill sertraline 100mg daily x90 days with 3 refills.
+4. Continue acetaminophen PRN for knee pain, discussed max daily dose not to exceed 3000mg given her age and hepatic considerations.
+5. Encouraged home BP monitoring daily and log to bring to next visit.
+6. Discussed general age-appropriate preventive care topics including bone density screening and colorectal cancer screening status, to be reviewed at next in-office visit.
+7. Follow-up in 3 months or sooner if symptoms worsen, in-person visit preferred for next appointment to reconcile chart discrepancies noted above regarding BPH diagnosis.
+8. Patient verbalized understanding of plan and agreed with recommendations, all questions answered during telehealth encounter today, 02/02/2026.
+
+Electronically signed: Quentin Hale, PA-C
+
+---
+ADDENDUM (same day, 02/02/2026, added later in afternoon):
+Patient called back after initial visit to clarify a question about her acetaminophen dosing, wanting to confirm whether it was safe to take with her existing lisinopril prescription. Reassured patient this combination is generally considered safe assuming no contraindicated liver disease, advised to continue as directed and to call if any new symptoms develop such as jaundice or abdominal pain. No changes made to plan above. Total time spent today including callback approximately 22 minutes, more than half spent in counseling and coordination of care regarding medication safety and chronic disease management for this 77-year-old established patient.
+-- Quentin Hale, PA-C

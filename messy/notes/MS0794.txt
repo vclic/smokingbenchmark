@@ -1,0 +1,52 @@
+INTERNAL MEDICINE - H&P (FOLLOW-UP)
+Patient: David Hughes | DOB: 2/25/1946 | Age: 79 | Sex: M
+DOS: 07/16/2025
+Author: Michael Dunn, DO
+
+CC: f/u HTN, DM2
+
+HPI: 79 yo M returns for routine f/u of HTN and T2DM. Pt reports gen well, no CP/SOB/palp except occ. skipped beats attributed to known AFib. Home glucose logs reviewed, fasting range 110-140. BP logs avg 138/82. Denies polyuria/polydipsia. No new sx. Reviewed diet, states compliant w/ low-Na intake. Pt also endorses mild fatigue, attributes to poor sleep, uses CPAP nightly per OSA dx, compliance ~6hr/night per machine download. Denies chest pain, syncope, near-syncope. No leg edema. Mood stable on current antidepressant regimen, PHQ-9 not repeated today.
+
+---- COPIED FORWARD FROM VISIT 11/04/2024 (for reference, not updated) ----
+HPI (11/04/2024): 78 yo M here for HTN/DM f/u. Reports doing well overall. BP log avg 142/88. A1c last drawn 7.2. Denies chest pain, SOB. Continues on metoprolol succ, lisinopril, metformin, atorvastatin, sertraline. CPAP compliance reviewed - using approx 5 hrs/night, will encourage more consistent use. No falls. Son accompanies pt to visits, assists w/ meds. Pt ambulates independently, uses cane occasionally for balance outdoors. Vision changes none reported. Continue current regimen, f/u labs in 3 months.
+---- END COPIED TEXT ----
+
+ROS: Constitutional - neg for fever/chills/wt loss. CV - as above, no CP. Resp - no cough/dyspnea. GI - neg. GU - neg. Neuro - neg. Psych - mood stable, denies SI. All other systems reviewed and neg unless noted above.
+
+SOCIAL HISTORY:
+Tobacco: Pt states he has never smoked cigarettes, denies any use of cigars, pipe, or e-cigs. Interestingly, pt notes his father was a heavy smoker who died of lung cancer, and pt has always been vigilant about avoiding tobacco himself given this family hx.
+Alcohol: occ glass of wine, ~1-2/wk.
+Drugs: denies illicit use.
+Living situation: lives w/ spouse, son nearby assists as needed.
+Exercise: short daily walks, limited by knee OA.
+
+PMH: HTN, T2DM, hyperlipidemia, depression, OSA (on CPAP), AFib (on anticoagulation).
+PSH: appendectomy remote, R knee arthroscopy ~2010.
+Meds: Lisinopril 20mg daily, Metoprolol succinate 50mg daily, Metformin 1000mg BID, Atorvastatin 40mg qhs, Sertraline 100mg daily, Apixaban 5mg BID.
+Allergies: NKDA.
+
+PHYSICAL EXAM:
+Vitals: BP 136/80, HR 68 irregular, RR 16, Temp 98.2F, Wt 198 lb, BMI 29.4.
+Gen: NAD, well-appearing elderly M.
+CV: irregularly irregular rhythm, no murmur appreciated, no JVD.
+Resp: CTAB, no wheezes/rales.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, pulses intact.
+Neuro: alert, oriented x3, gait steady w/ cane.
+Skin: no lesions.
+
+LABS/DATA REVIEWED: last A1c 6.9 (improved from 7.2), lipid panel wnl on statin, renal fxn stable, K 4.3.
+
+ASSESSMENT/PLAN:
+1. HTN - well controlled, continue lisinopril, monitor BP logs.
+2. T2DM - improved control, continue metformin, recheck A1c in 3 mo.
+3. Hyperlipidemia - continue atorvastatin, lipids at goal.
+4. Depression - stable on sertraline, continue, reassess PHQ-9 next visit.
+5. OSA - continue CPAP, encourage improved nightly compliance (>6hr goal).
+6. AFib - rate controlled on metoprolol, continue apixaban for anticoagulation, no bleeding events reported.
+7. Tobacco/lung ca risk - pt has never smoked; family hx of lung cancer (father, heavy smoker, deceased) noted for risk stratification purposes. General discussion regarding lung health and risk factors held with pt; no imaging ordered today.
+8. Health maintenance - up to date per chart review, will address further at next visit.
+
+RTC 3 months or sooner if concerns. Pt verbalizes understanding of plan, all questions answered.
+
+Electronically signed: Michael Dunn, DO, 07/16/2025.

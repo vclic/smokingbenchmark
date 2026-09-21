@@ -1,0 +1,56 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Robert Moore (M), DOB: 01/01/1965 (age 61)
+Date of Service: 01/16/2026
+Author: Isaac Moreno, PA-C, Primary Care
+Re: Hospital discharge follow-up, s/p pneumonia
+
+Dear Dr. Chen,
+
+Thank you for referring Mr. Moore, a 61 y/o male, for follow-up after recent hospitalization for community-acquired pneumonia. He was discharged 5 days ago and reports gradual improvement in cough and dyspnea, though still with mild fatigue. No fevers, no chest pain, no hemoptysis. He is tolerating PO abx (amoxicillin/clavulanate) without GI upset.
+
+PMH: CKD stage 3, HLD, asthma, AFib (on apixaban), hypothyroidism (on levothyroxine).
+
+ROS: Denies chest pain, palpitations (though pt has known AFib, states rate feels controlled), denies leg swelling, denies hemoptysis. + mild cough, improving. Denies wt loss.
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: Current smoker
+ Type: Cigarettes
+ Pack-years: Not on file
+ Quantity/Frequency: See narrative below
+ Smokeless tobacco: Never
+ Alcohol use: Occasional, 1-2 drinks/wk
+ Drug use: Denies
+ Occupation: Retired
+ Living situation: Lives with spouse
+
+Narrative smoking history (per pt interview): Pt reports smoking 1 pack per day for approximately 20 years in his younger adult years, then cut back to about a quarter pack (~5 cigarettes) per day for the past 21 years, and he continues to smoke at that reduced rate currently. He states he has tried to quit multiple times but has been unsuccessful. He continues to smoke despite repeated counseling regarding cessation, cardiovascular and pulmonary risks, and interaction with his underlying asthma and AFib.
+
+MEDS: Apixaban 5mg BID, levothyroxine 75mcg daily, atorvastatin 40mg qhs, albuterol PRN, amox/clav (course ending 01/18/2026).
+
+EXAM:
+Vitals: T 98.4F, HR 78 (irregularly irregular), BP 128/76, RR 16, SpO2 96% RA.
+Gen: NAD, well-appearing, mild fatigue noted.
+CV: irreg irreg rhythm, no murmurs.
+Resp: mild bibasilar crackles, improved from prior exam per hospital notes, no wheezes currently.
+Ext: no edema.
+
+LABS/RESULTS:
+ CBC (01/16/2026): WBC 8.9, Hgb 13.1, Plt 245.
+ BMP (01/16/2026): Na 138, K 4.2, Cr 1.6 (baseline ~1.5), eGFR 48.
+ TSH (12/10/2025): 2.1 (WNL).
+ CXR (discharge, 01/11/2026): resolving RLL infiltrate.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - continue abx course, f/u CXR in 6 wks to confirm resolution.
+2. Tobacco use, current - counseled extensively on cessation given asthma/AFib/pulmonary risk; discussed nicotine replacement options and referral to tobacco cessation program; pt declined pharmacotherapy today but agreeable to revisit. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+3. CKD stage 3 - stable, Cr near baseline, continue current regimen, avoid nephrotoxic agents.
+4. AFib - rate appears controlled, continue apixaban, no changes.
+5. Asthma - reinforce albuterol PRN, monitor closely given recent pneumonia.
+6. Hypothyroidism - TSH WNL, continue current dose.
+
+F/u in 2-3 wks or sooner if worsening symptoms.
+
+-- Isaac Moreno, PA-C
+
+ADDENDUM (later same day, 01/16/2026, 16:40):
+Pt called clinic after visit to clarify he is still smoking at his reduced amount daily and wanted to be sure this was documented accurately; confirmed he continues to smoke despite counseling given today. No new complaints. Advised to call back if symptoms worsen. -IM, PA-C

@@ -1,0 +1,75 @@
+Family Medicine Office Visit
+
+Patient: LONG, Margaret    MRN: 68549351
+DOB: 11/16/1971    Age: 52 y.o.    Sex: Female
+Date of Service: 09/18/2024    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• 3 month follow-up
+
+Subjective:
+Margaret Long is a 52 y.o. female who presents for routine follow-up of chronic conditions.
+Doing okay overall. Ran out of one medication last week. Smoking history clarified today (previously documented as never smoker): She is an active smoker, a 9-pack-year history.
+
+Past Medical History:
+Diagnosis	Date
+• Osteoarthritis of knees
+• GERD
+• Generalized anxiety disorder
+• HTN
+• Obstructive sleep apnea on CPAP
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• meloxicam 7.5 mg daily
+• famotidine 20 mg BID
+• sertraline 50 mg daily
+• lisinopril 20 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives alone in an apartment.
+  Works as a teacher.
+  No alcohol.
+  No IVDU.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: Skin neg, Gen neg, MSK neg, CV neg, GU neg
+
+Objective:
+Vitals:
+  BP 151/93 (BP Location: Left arm, Patient Position: Sitting) | Pulse 98 | Temp 98.5 °F (Oral) | Resp 16 | Ht 5' 5" | Wt 141 lb | SpO2 96% | BMI 23.39 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: No clubbing, cyanosis, or edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Generalized anxiety disorder
+   Mood stable.
+2. Current smoker
+   Discussed cessation (4 min). Ambivalent about quitting. Start nicotine patch 21 mg/24h + gum 2 mg PRN.
+3. HTN
+   Elevated today; home BP log requested.
+4. Obstructive sleep apnea on CPAP
+   Using CPAP nightly.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Daniel Reyes, MD on 09/18/2024

@@ -1,0 +1,50 @@
+CARDIOLOGY RESIDENT NOTE
+DOS: 07/09/2023
+Author: Gregory Tan, MD (Resident); Attending attestation appended below.
+
+Patient: Patricia Perez, F, DOB 07/09/1950 (age 73)
+Visit: HF follow-up
+
+CC: f/u CHF, HFrEF, routine.
+
+HPI: 73 yo F w/ hx HFrEF, AFib, OSA, asthma, osteoporosis presents for routine HF f/u. Reports mild DOE w/ 2-flight stairs, denies orthopnea/PND, no LE edema increase. Weight stable per home scale. Takes diuretic as directed, occasional missed dose per pt report.
+
+SOCIAL HISTORY (templated):
+- Tobacco use: Current smoker
+- Smoking hx: Pt reports smoking history in three stretches - half a pack (about 10 cigarettes) per day for 17 years; then a quarter pack (about 5 cigarettes) per day for 23 years; then three-quarters of a pack (about 15 cigarettes) per day for 17 years (current).
+- Pt continues to smoke despite counseling given today re: cessation, CV risk, and HF exacerbation risk.
+- Alcohol: Not on file
+- Illicit drug use: denies
+- Occupation: retired
+- Living situation: Not on file
+- Exercise: sedentary
+
+[Copied forward from visit 02/14/2022 - retained per dept template, not reviewed/updated this visit]
+---
+PMH: HFrEF (EF 35% on TTE 2021), paroxysmal AFib on anticoagulation, OSA on CPAP, asthma - well controlled on ICS/LABA, osteoporosis on bisphosphonate. Prior hospitalization 2019 for CHF exacerbation, resolved w/ diuresis. No prior CABG/PCI. Denies chest pain, syncope. ROS otherwise negative including no fevers, no GI bleeding, no new neuro deficits. Meds reconciled at that visit: furosemide 40mg daily, carvedilol 12.5mg BID, lisinopril 10mg daily, apixaban 5mg BID, alendronate 70mg weekly, albuterol PRN, fluticasone/salmeterol inhaler BID. PE at that visit: BP 128/78, HR 76 irregular, lungs CTAB, no JVD, no edema, RRR irreg irreg.
+---
+[END COPIED TEXT]
+
+ROS (today, boilerplate): Constitutional - denies fever/chills/weight loss. CV - denies chest pain/palpitations beyond baseline AFib awareness. Resp - denies cough/wheeze acutely, uses CPAP nightly per report. GI - denies N/V/D. GU - denies dysuria. MSK - denies new falls. Neuro - denies focal weakness/numbness. Psych - denies SI/HI. All other systems reviewed and negative.
+
+PE: Vitals - BP 132/80, HR 82 irreg irreg, RR 16, SpO2 96% RA, Wt 71 kg.
+Gen: NAD, comfortable.
+CV: irregularly irregular rhythm, no murmurs/rubs/gallops appreciated, no JVD.
+Resp: CTAB, no wheezes/crackles.
+Abd: soft, NT/ND.
+Ext: no edema, pulses 2+.
+Skin: no lesions.
+
+Meds: furosemide 40mg daily, carvedilol 12.5mg BID, lisinopril 10mg daily, apixaban 5mg BID, alendronate 70mg weekly, albuterol MDI PRN, fluticasone/salmeterol BID, calcium/vit D supplement daily.
+
+Assessment/Plan:
+1. HFrEF - stable, continue GDMT, cont furosemide, monitor wt.
+2. AFib - rate controlled, cont apixaban, cont carvedilol.
+3. OSA - cont CPAP compliance.
+4. Asthma - well controlled, cont inhalers.
+5. Osteoporosis - cont bisphosphonate, DEXA due next yr.
+6. Tobacco use - counseled on cessation given ongoing CV/HF risk; pt continues to smoke despite counseling; discussed resources (quitline, pharmacotherapy options); lung cancer screening was discussed in general terms.
+F/u 3 months, sooner if sx worsen.
+
+---
+ADDENDUM (later same day): Attending Attestation - Seen and examined patient with Dr. Tan. Agree with resident's HPI, exam, and plan as documented above. Reinforced smoking cessation counseling with patient; she verbalized understanding but states she is not ready to quit at this time. Will continue to address at future visits. No changes to plan. - Attending, Cardiology.

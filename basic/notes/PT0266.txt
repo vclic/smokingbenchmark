@@ -1,0 +1,61 @@
+Pulmonology Progress Note
+
+Patient: WILSON, Priya    MRN: 82265646
+DOB: 03/10/1965    Age: 59 y.o.    Sex: Female
+Date of Service: 09/26/2024    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• Lung nodule
+
+Subjective:
+Priya Wilson is a 59 y.o. female who presents for follow-up of a pulmonary nodule.
+Incidental 6 mm solid RLL nodule on CT 9/26/2023 (obtained in the ED for abdominal pain). No hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Primary OA, bilateral knees
+• Atrial fibrillation
+• Hypercholesterolemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• apixaban 5 mg BID
+• acetaminophen 500 mg 2 tabs TID PRN
+• atorvastatin 40 mg daily
+
+Allergies
+• NKDA
+
+
+Family History
+Mother - rheumatoid arthritis. Mother - HTN, DM2.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 108/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 71 | Temp 98.5 °F (Oral) | Resp 16 | Ht 5' 5" | Wt 141 lb | SpO2 96% | BMI 23.44 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Labs (2024-08-20): LDL 116, Cr 1.05, K 4.2
+
+Assessment & Plan
+1. Pulmonary nodule
+   Fleischner risk category to be determined. Repeat CT chest in 3 months.
+2. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+
+f/u 3 mo
+
+Electronically signed by Farah Siddiqui, MD on 09/26/2024

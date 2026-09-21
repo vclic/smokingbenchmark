@@ -1,0 +1,22 @@
+TELEHEALTH VISIT - Cardiology
+Patient: Karen Jones, F, DOB 8/28/1973 (age 52)
+Date of Service: 08/28/2025
+Author: Kevin Osei, MD
+
+CC: Chest pain evaluation.
+
+HPI: Ms. Jones is a 52 y/o woman with hx of osteoporosis, asthma, and COPD presenting via telehealth for intermittent chest pain over the past 2 weeks. Patient states, "It feels like a tight band across my chest when I climb stairs." She also reports, "I only smoke when I'm out with friends, I'm just a social smoker," describing this pattern as ongoing for many years. She was counseled extensively on smoking cessation risks given her COPD and osteoporosis, but she continues to smoke despite this counseling. No hemoptysis, no syncope. Denies fevers/chills.
+
+--- COPIED FORWARD FROM PRIOR NOTE DATED 6/28/2024 ---
+HPI (as documented 6/28/2024): Patient is a current smoker. Reports occasional cough, uses albuterol inhaler PRN. Continues on alendronate for osteoporosis. No chest pain at that visit. Smoking status: current smoker.
+--- END COPIED SECTION ---
+
+ROS: Constitutional: no fever, no weight loss. Cardiac: chest tightness as above, no palpitations. Resp: mild wheeze, no hemoptysis. GI: unremarkable. GU: unremarkable. MSK: mild back stiffness, stable. Skin: no rashes. Neuro: no focal deficits. Psych: mood stable. All other systems reviewed and negative unless noted above.
+
+Physical Exam (limited, via telehealth): General - well-appearing, no acute distress. HEENT - normocephalic, atraumatic. Neck - no JVD appreciated on video. Cardiac - regular rate and rhythm by patient-reported auscultation device; no gross edema noted. Resp - patient reports mild expiratory wheeze on self-exam attempt. Abdomen - soft per patient report. Extremities - no edema visualized. Skin - no rash visualized.
+
+Medications: Albuterol HFA inhaler PRN, Fluticasone/salmeterol inhaler BID, Alendronate 70mg weekly, Calcium/Vitamin D supplement, Tiotropium inhaler daily, Atorvastatin 20mg daily, Lisinopril 10mg daily.
+
+Assessment/Plan: 1. Chest pain, likely musculoskeletal vs early angina - obtain EKG in office, consider stress test. 2. COPD - continue current inhalers, discussed importance of pulmonary function monitoring. 3. Osteoporosis - continue alendronate, follow DEXA. 4. Tobacco use - counseled on cessation resources; discussed lung cancer risk reduction strategies generally. Follow up in 2 weeks or sooner if symptoms worsen.
+
+ADDENDUM (later same day, 08/28/2025): Spoke with patient again by phone; she confirmed symptoms are unchanged since this morning's visit. No new red flags. Plan unchanged.

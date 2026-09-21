@@ -1,0 +1,31 @@
+Pulmonology - Shared Decision-Making Visit
+Date of Service: 04/16/2024
+Provider: Kevin Osei, MD
+
+--- NURSE INTAKE ---
+Patient: Ronald Martinez, M, DOB 04/10/1957, age 67.
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, SpO2 95% RA, BMI 34.2.
+Allergies: NKDA.
+Meds reviewed with patient: CPAP compliance meds not applicable; metformin 1000mg BID, losartan 50mg daily, atorvastatin 40mg qhs, omeprazole 20mg daily, multivitamin daily, occasional ibuprofen prn.
+Chief complaint: here for LCS shared decision-making discussion, referred by PCP.
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Mr. Martinez is a 67-year-old male w/ hx obesity and OSA (on CPAP, variable adherence) referred for lung cancer screening SDM d/t smoking history. Pt states, "I've smoked on and off most of my adult life, doc." He reports he quit in 2015 but relapsed in 2016 after a stressful job change. Currently continues to smoke cigarettes - reports he has not been able to quit since relapse. Smoking history quantified as 38 pack-year smoking history per chart review and pt report. No hemoptysis, no unintentional weight loss, mild chronic morning cough attributed to smoking. Denies fevers, chills, night sweats. Pt also notes, "I stopped drinking beer back in '18 and haven't touched it since" - alcohol cessation 2018 confirmed, no current use.
+
+ROS: Constitutional - negative for fever, chills, malaise. HEENT - negative. Resp - chronic cough as above, no wheeze reported. CV - no chest pain, no palpitations. GI - no nausea/vomiting/diarrhea. GU - negative. MSK - occasional low back pain. Neuro - negative. Psych - denies depression/anxiety. Skin - negative. Endocrine - denies polyuria/polydipsia. Heme/Lymph - negative. Allergic/Immune - negative.
+
+Physical Exam: General - obese male, NAD. HEENT - normocephalic, atraumatic, oropharynx clear. Neck - no JVD, no lymphadenopathy. Lungs - clear to auscultation bilaterally, no wheezes/rales/rhonchi, mildly diminished breath sounds at bases c/w body habitus. CV - RRR, no murmurs/rubs/gallops. Abdomen - obese, soft, non-tender, non-distended. Extremities - no edema. Skin - no lesions. Neuro - alert and oriented x3, no focal deficits.
+
+Labs/Results:
+- CBC (04/10/2024): WBC 6.8, Hgb 14.9, Plt 245.
+- CMP (04/10/2024): Glucose 118, Cr 1.0, eGFR >60.
+- Lipid panel (03/28/2024): LDL 102, HDL 42, TG 165.
+- Prior CXR (01/15/2023): no acute cardiopulmonary process.
+- Sleep study (2021): AHI 22, moderate OSA, on CPAP therapy.
+
+Assessment/Plan:
+1. Tobacco use, current cigarette smoker, 38 pack-year smoking history - reviewed benefits/risks/limitations of low-dose CT lung cancer screening per SDM visit today; discussed screening eligibility criteria in general terms without stating individual qualification determination today. Counseled strongly on smoking cessation, offered nicotine replacement therapy and referral to tobacco cessation program; pt states he is 'thinking about it.' History notable for prior quit attempt in 2015 with relapse in 2016.
+2. Obesity - counseled on weight management, diet, exercise; continue current management with PCP.
+3. Obstructive sleep apnea - continue CPAP, encourage improved adherence, follow up with sleep medicine as needed.
+4. Alcohol use - quit drinking in 2018 per patient report, no current concerns, continue to monitor.
+Follow-up: return to clinic in 3 months or sooner if symptoms change; encouraged to call with questions regarding smoking cessation resources.

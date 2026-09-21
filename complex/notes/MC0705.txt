@@ -1,0 +1,90 @@
+TELEHEALTH VISIT NOTE
+Family Medicine - Resident Note with Attending Attestation
+
+Patient: Hung Campbell
+DOB: 1/28/1957 (age 67)
+Sex: M
+Date of Service: 01/28/2024
+Visit Type: Telehealth - Medication Refills
+Resident Author: Daniel Reyes, MD (PGY-2)
+Attending: to be attested below
+
+CHIEF COMPLAINT: Medication refills, follow up of chronic conditions.
+
+HPI: Mr Campbell is a 67 year old male with hx of peripheral artery disease, hypothyroidism, depression, and asthma who presents via video visit today, 01/28/2024, for routine refill of his medications. He states he his doing 'okay' overall, denies chest pain, denies worsening claudication although he notes some calf cramping w/ ambulation approx 2 blocks which is unchanged from prior visits. He reports mood is stable on current regimen, sleep fair, appetite good. Denies SI/HI. Asthma sx well controlled, uses rescue inhaler maybe once a week per pt report, no nocturnal awakenings. Pt reports he ran out of levothyroxine about a week ago and would like refill, also needs refills of his other chronic meds. He was scheduled for labs last month but per pt he 'forgot' to go, will reschedule. Pt lives with spouse, [inaudible] states he has been doing home exercises for his legs as recommended by vascular surgery. No new falls, no syncope. Denies fevers, chills, cough, hemoptysis. Some mild seasonal congestion attributed to allergies, using OTC loratadine PRN with good effect.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (ICD-10):
+1. Peripheral artery disease, bilateral lower extremities - I73.9
+2. Hypothyroidism, unspecified - E03.9
+3. Major depressive disorder, recurrent, mild - F33.0
+4. Asthma, mild persistent - J45.30
+5. Hyperlipidemia - E78.5 (outdated dx, pt reports statin d/c'd 2019 per PCP note, unclear if still active problem)
+6. GERD - K21.9 (chart shows dx 2015, pt denies current sx, likely outdated entry)
+7. Seasonal allergic rhinitis - J30.2
+
+MEDICATIONS (current, per EHR med list):
+- Levothyroxine 75 mcg PO daily
+- Clopidogrel 75 mg PO daily
+- Aspirin 81 mg PO daily
+- Cilostazol 100 mg PO BID
+- Sertraline 100 mg PO daily
+- Albuterol HFA inhaler, 2 puffs PRN wheeze/SOB
+- Fluticasone propionate nasal spray, 1 spray each nostril daily PRN
+- Loratadine 10 mg PO daily PRN
+- Atorvastatin 20 mg PO daily (pt reports not taking, unclear if actually stopped, will clarify)
+- Multivitamin PO daily
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: See narrative below
+Alcohol use: 1-2 drinks/week, beer, socially
+Illicit drug use: Denies
+Occupation: Retired (former warehouse supervisor)
+Marital status: Married
+Living situation: Lives with spouse in single-family home
+Exercise: Walks daily as tolerated per PAD home program
+Diet: Not on file
+Caffeine use: Not on file
+Sexual history: Not on file
+
+Tobacco narrative: Patient reports he tried a few cigarettes as a teenager but never smoked regularly, and has not used tobacco products since. He denies any current or recent tobacco use, denies e-cigarette or vaping use, denies smokeless tobacco. No secondhand smoke exposure reported in home.
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss/gain.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Reports mild nasal congestion as above, denies sore throat, denies hearing loss.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, +bilateral calf claudication as above.
+Respiratory: Denies SOB at rest, occasional wheeze relieved w/ albuterol, denies hemoptysis, denies productive cough.
+GI: Denies abdominal pain, denies nausea/vomiting, denies diarrhea, denies constipation, denies GERD sx currently.
+GU: Denies dysuria, denies hematuria, denies urinary frequency.
+Musculoskeletal: Denies joint pain, denies swelling, reports mild calf cramping as above.
+Skin: Denies rash, denies new lesions, denies non-healing wounds on feet (checked given PAD).
+Neuro: Denies headache, denies dizziness, denies numbness/tingling, denies focal weakness.
+Psychiatric: Mood stable, denies SI/HI, denies anhedonia, sleep and appetite as above.
+Endocrine: Denies polyuria, denies polydipsia, denies heat/cold intolerance currently.
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+Allergic/Immunologic: Mild seasonal allergy sx as above.
+
+PHYSICAL EXAM (limited, telehealth):
+General: Alert, well-appearing male, no acute distress, seated at home in front of camera.
+Vitals (per pt home BP cuff, reported): BP 128/78, HR 72, no fever reported, wt stable per pt report.
+HEENT: No visible distress, no facial droop noted on camera.
+Cardiovascular: Unable to auscultate via telehealth, pt denies chest pain or palpitations on interview.
+Respiratory: No visible increased work of breathing, no accessory muscle use noted on camera, pt speaking in full sentences without dyspnea.
+Extremities: Pt showed lower extremities on camera, no obvious ulceration or discoloration noted, skin appears intact, no gross edema visualized.
+Psychiatric: Affect appropriate, cooperative, engaged throughout visit.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease (I73.9) - stable claudication sx, continue clopidogrel and cilostazol, continue home exercise program, reinforce foot care given risk, will refer back to vascular surgery if worsening sx.
+2. Hypothyroidism (E03.9) - refill levothyroxine 75 mcg daily, pt overdue for TSH check, ordered labs today, will adjust dose based on results.
+3. Depression (F33.0) - mood stable on sertraline 100mg, continue current dose, screened negative for SI, will continue monitoring, encouraged continued engagement w/ therapy if applicable.
+4. Asthma (J45.30) - well controlled, continue albuterol PRN, no need for controller therapy at this time based on infrequent use, discussed proper inhaler technique.
+5. Health maintenance - discussed colon cancer screening status (pt states colonoscopy done 2021, will verify in chart). Reviewed tobacco history; reinforced continued avoidance of any tobacco/nicotine products going forward given PAD dx. Reviewed hyperlipidemia/statin status, will clarify at next visit whether atorvastatin should be resumed. Labs ordered: TSH, lipid panel, CMP, CBC. RTC in 3 months or sooner if concerns.
+
+Time spent: 22 minutes, more than half spent in counseling/coordination of care.
+
+Electronically signed by Daniel Reyes, MD (Resident)
+
+ATTESTATION: I have personally reviewed this patient's history, discussed the case with Dr. Reyes, and agree with the assessment and plan as documented above. I personally participated in the telehealth encounter with the resident on 01/28/2024.
+- Attending physician co-signature on file

@@ -1,0 +1,86 @@
+Internal Medicine – Follow-Up Visit
+Date of Service: 03/29/2025
+Patient: Darnell Carter | DOB: 03/29/1967 | Age: 58 | Sex: M
+Attending: Kevin Osei, MD
+
+--- NURSE INTAKE ---
+CC: f/u HTN, DM2
+Vitals: BP 138/86, HR 78 irreg (known AF), RR 16, Temp 98.2F, Wt 231 lb, Ht 5'10", BMI 33.1, SpO2 96% RA
+Allergies: NKDA
+
+SOCIAL HISTORY (templated):
+  Tobacco use: Current smoker
+  Type: Cigarettes
+  Packs/day: 1/4 ppd (approx)
+  Years smoked: variable, see note
+  Pack-year history: 2 pack-years
+  Smokeless tobacco: Not on file
+  Alcohol use: occasional, 1-2 drinks/wk
+  Drug use: denies
+  Occupation: warehouse supervisor
+  Living situation: lives w/ spouse
+  Exercise: sedentary, denies regular exercise
+
+--- HPI (Physician) ---
+Mr. Carter is a 58-year-old male here today, 3/29/2025, for routine follow-up of hypertension, type 2 diabetes, CAD, hyperlipidemia, atrial fibrillation, obesity, and asthma. He reports doing reasonably well overall. No chest pain, no palpitations beyond his known baseline AF flutter sensations. Denies dyspnea at rest. Occasional wheeze with exertion, uses albuterol PRN maybe 1-2x/week. Diet has been inconsistent - admits to more takeout lately. Checks BG at home, fasting glucose usually 110-140s. Compliant with metoprolol, apixaban, lisinopril, atorvastatin, metformin per report.
+
+Regarding tobacco: patient continues to smoke cigarettes. States he has cut down some but has not quit. When asked about interest in cessation today, he states he is not ready to quit at this time. Discussed nicotine replacement options and counseling resources; pt declined further discussion today but agreed to revisit at next visit.
+
+No fevers, no chills, no unintentional weight loss. No hemoptysis. No new cough.
+
+ROS (templated, reviewed and negative except as noted above):
+Constitutional: neg for fever, chills, night sweats
+Eyes: neg
+ENT: neg
+Cardiovascular: + known AF, denies chest pain
+Respiratory: + occasional wheeze, denies hemoptysis, denies new cough
+GI: neg
+GU: neg
+Musculoskeletal: neg
+Skin: neg
+Neuro: neg
+Psych: denies depression, denies anxiety
+Endocrine: + DM2 as above
+Heme/Lymph: neg
+Allergic/Immunologic: neg
+
+--- PHYSICAL EXAM ---
+General: obese male, NAD, alert, cooperative
+HEENT: normocephalic, atraumatic, PERRL, EOMI, oropharynx clear
+Neck: no JVD, no thyromegaly, no lymphadenopathy
+Cardiovascular: irregularly irregular rhythm, no murmurs/rubs/gallops, no peripheral edema, pulses 2+ symmetric
+Respiratory: mild expiratory wheeze bilaterally, no rales, no rhonchi, no accessory muscle use
+Abdomen: obese, soft, nontender, nondistended, normal bowel sounds
+Extremities: no cyanosis, no clubbing, no edema
+Skin: warm, dry, intact, no rashes
+Neuro: alert and oriented x3, CN II-XII grossly intact, no focal deficits
+Psych: mood and affect appropriate
+
+--- MEDICATIONS (long list, reviewed) ---
+1. Metoprolol succinate 50mg daily
+2. Apixaban 5mg BID
+3. Lisinopril 20mg daily
+4. Atorvastatin 40mg qhs
+5. Metformin 1000mg BID
+6. Albuterol HFA inhaler PRN
+7. Fluticasone/salmeterol inhaler BID
+8. Aspirin 81mg daily (held, on apixaban - verify not duplicative)
+9. Multivitamin daily
+10. Omeprazole 20mg daily PRN reflux
+
+--- LABS reviewed today ---
+A1c 7.4%, fasting glucose 128, LDL 92, HDL 38, TG 150, Cr 1.0, eGFR >60, K 4.3
+
+--- ASSESSMENT & PLAN ---
+1. Hypertension - reasonably controlled, continue lisinopril, recheck BP next visit
+2. Type 2 diabetes mellitus - A1c 7.4%, continue metformin, reinforce diet/exercise
+3. Coronary artery disease - stable, continue statin and antiplatelet/anticoagulant regimen
+4. Hyperlipidemia - LDL at goal-ish, continue atorvastatin
+5. Atrial fibrillation - rate controlled on metoprolol, continue apixaban for anticoagulation, no bleeding concerns
+6. Obesity - BMI 33.1, counseled on diet and physical activity, referral to nutrition considered
+7. Asthma - mild persistent, continue combination inhaler, reviewed inhaler technique
+8. Tobacco use, current - patient has a 2 pack-year smoking history overall; he continues to smoke and today reiterated he is not ready to quit. Advised to quit, counseled on health risks including cardiovascular and pulmonary disease, offered cessation resources which he declined at this time. Discussed general lung health monitoring; will revisit smoking cessation discussion at future visits. No imaging ordered today.
+
+Follow-up in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Electronically signed: Kevin Osei, MD, Internal Medicine, 03/29/2025

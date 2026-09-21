@@ -1,0 +1,35 @@
+TELEHEALTH VISIT - New Patient, Establish Care
+Patient: Joyce Green | DOB: 5/14/1957 (age 66) | DOS: 07/31/2023
+Provider: Rachel Goldberg, MD
+
+HPI: Ms. Green is a 66-year-old female presenting via video visit to establish primary care. She reports history of GERD, obesity, and heart failure with reduced ejection fraction, followed previously by cardiology at an outside facility. She states, "I've been doing okay, just get a little winded going up stairs." No chest pain, denies orthopnea currently but sleeps on 2 pillows. Reports occasional heartburn managed with OTC antacids. She adds, "I quit smoking a long time ago and never looked back."
+
+PAST MEDICAL HISTORY: GERD, obesity, HFrEF.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: ______ (blank)
+Exercise: Not on file
+Diet: Reports low-sodium diet attempts
+
+MEDS: Furosemide, lisinopril, carvedilol, omeprazole (per patient report, needs reconciliation).
+
+ALLERGIES: NKDA.
+
+EXAM: Telehealth visit, limited exam. Patient appears comfortable, no acute distress. Speaking in full sentences. No visible peripheral edema noted on camera. Vitals per home cuff: BP 128/78, HR 76.
+
+LABS: None available today; will order BNP, BMP, LFTs, lipid panel prior to next visit.
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced ejection fraction - stable per patient report. Continue current regimen pending records from prior cardiologist. Will request outside records.
+2. GERD - continue omeprazole, reinforce dietary modifications.
+3. Obesity - discussed weight management strategies, referral to nutrition offered.
+4. Tobacco history - former smoker; quit smoking in 2011. Smoking history notable for 2.5 packs per day for 33 years. Congratulated patient on cessation and reinforced importance of maintaining abstinence given cardiopulmonary history. Lung cancer screening was discussed as a general topic per age-based guidelines.
+5. Health maintenance - due for age-appropriate screenings, will address at follow-up.
+
+Plan to obtain outside records, repeat visit in 4-6 weeks or sooner if symptoms worsen. Patient verbalized understanding and agreement with plan.
+
+Electronically signed by Rachel Goldberg, MD, 07/31/2023.

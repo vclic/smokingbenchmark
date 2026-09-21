@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Date of Service: 2026-04-27
+Patient: Hung Ross   DOB: 4/29/1949   MRN: 25413425
+
+SUBJECTIVE:
+CC: Follow-up diabetes
+HPI: Mr. Ross is a 76-year-old male with a history of OA, HTN, T2DM, and AFib who presents for diabetes follow-up. Most recent A1c 7.5% (previously 7.4% in December 2025). Fasting glucose 130-180 per log. Denies polyuria/polydipsia. No numbness or tingling. He has no history of tobacco use.
+
+PMH:
+- HTN
+- Atrial fibrillation
+- Depression
+- Osteoarthritis
+- Type 2 diabetes mellitus (dx 1987)
+Meds: bupropion XL 150 mg daily; metformin 1000 mg BID; semaglutide 0.5 mg weekly; lisinopril 20 mg daily; metoprolol tartrate 25 mg BID; apixaban 5 mg BID; diclofenac 1% gel QID PRN
+Allergies: Latex
+SH: Lives with wife in a single-family home. Retired, former accountant. Alcohol: rare.
+FH: Mother - CHF, d. age 88. Mother - HTN, DM2.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 137/68  HR: 78  RR: 16  Temp: 98.6 F  SpO2: 99% on RA  Wt: 148 lbs  BMI: 23.9
+Exam:
+  General: NAD, well-appearing
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Euthymic
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 7.5% - above goal; add empagliflozin 10 mg daily. UACR ordered.
+2. Health maintenance
+   - LCS: N/A - never smoker.
+
+Return in about 12 months (around 4/27/2027).
+
+-- OF (MD)

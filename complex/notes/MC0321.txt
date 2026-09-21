@@ -1,0 +1,46 @@
+Pulmonology Resident Note (with Attending Attestation)
+Patient: Linda Nguyen
+DOB: 1/13/1974 (age 51)
+Date of Service: 01/13/2025
+Author: Nadia Haddad, MD (Resident); Attending attestation below
+
+CC: Follow-up of incidentally noted lung nodule seen on prior CT abd/pelvis obtained for PAD workup.
+
+HPI: Ms Nguyen is a 51 yo woman with hx of PAD, T2DM, obesity, CKD stage 3, and CAD who returns today for f/u regarding a 7mm nodule in the right upper lobe noted incidentally in Nov 2024. She denies hemoptysis, wt loss, fevers, or nightsweats she does report occasional dyspnea on exertion which she attributes to her PAD and deconditioning, states she has been doing more walking as tolerated per vascular surgery recs. no chest pain at rest, occasional exertional chest tightness releived w rest c/w known CAD. Pt states blood sugars have been "up and down" recently, checks fingersticks 2x/day.
+
+[Copy-forward block from prior visit note dated 09/22/2024 - retained in chart, not reviewed/updated this visit]:
+"Pt is a 51 yo female here for routine PAD follow up, reports claudication symptoms stable, ABI last checked 0.68 on right, 0.71 on left, on cilostazol and aspirin, tolerating well. Denies rest pain or nonhealing wounds. Diabetes managed w metformin and glipizide, last A1c 7.8. CKD stage 3 stable, creatinine 1.4, eGFR 52. CAD s/p stent to LAD 2019, no anginal equivalents currently. Wt 198 lb, BMI 34.2, counseled on dietary modification and increased activity as tolerated [inaudible] discussion re: cardiac rehab referal which pt declined at this time due to transportation issues. Plan: continue current regiman, f/u vascular surgery in 3 months, repeat labs at next visit."
+[End copy-forward block]
+
+ROS: otherwise negative except as above, 10-point ROS reviewed and negative unless noted in HPI.
+
+Social History: noncontributory.
+
+Family Hx: mother w/ CAD, father w/ T2DM, no known lung ca in family.
+
+Meds: aspirin 81mg daily, cilostazol 100mg BID, metformin 1000mg BID, glipizide 5mg daily, atorvastatin 40mg qhs, lisinopril 10mg daily.
+
+Allergies: NKDA
+
+Exam:
+Vitals: BP 138/84, HR 76, RR 16, SpO2 96% RA, Wt 201 lb
+Gen: obese woman NAD
+CV: RRR nl S1S2 no m/r/g
+Resp: CTAB no wheezes rales rhonchi
+Abd: obese soft NT ND
+Ext: trace edema b/l, pedal pulses diminished but palpable, no ulcers noted
+
+Imaging Review: repeat chest CT (12/2024) shows RUL nodule stable in size at 7mm compared to prior, no new nodules, no lymphadenopathy.
+
+Assessment/Plan:
+51F with incidental pulmonary nodule, PAD, T2DM, obesity, CKD3, CAD, seen today for pulm f/u.
+
+1. Pulmonary nodule - stable on interval imaging, low-risk features overall, will cont surveillance per Fleischner guidelines, repeat CT in 6-12 mo, screening for lung cancer was discussed in general terms w/ pt as part of shared decisionmaking conversation.
+2. PAD - stable, cont current meds, f/u vascular surgery per their schedule.
+3. T2DM - suboptimal control per pt report, will defer med adjustments to PCP/endo, recommed close f/u.
+4. CKD stage 3 - stable, monitor renal fxn w routine labs.
+5. CAD - no active anginal sx today, cont current regimen.
+
+RTC in 6 months or sooner if new symptoms develop, pt verbalized understanding of plan and agreed with above.
+
+Attending Attestation: I personally examined the patient and discussed the case with Dr. Haddad, I agree with the assessment and plan as documented above with minor revisions discussed in person. -Attending signature on file.

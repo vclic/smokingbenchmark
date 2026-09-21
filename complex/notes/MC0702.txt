@@ -1,0 +1,87 @@
+NURSE INTAKE
+Patient: Linda Lopez  DOB: 9/17/1952 (age 71)
+Visit date: 12/19/2023
+Provider: Steven Park, MD (Pulmonology)
+
+Vitals: BP 138/82, HR 78, RR 18, SpO2 94% RA, Wt 212 lb, Ht 5'4", BMI 36.4
+Chief complaint: COPD follow-up
+
+---- COPY-FORWARD TEXT FROM PRIOR VISIT (06/14/2022) ----
+Pt is a pleasant 70 yo (at that time) female with h/o COPD, hypothyroidism, BPH... wait, BPH does not apply, disregard... presenting for routine f/u. She reports occasional dyspnea on exertion, denies chest pain. Meds reviewed and unchanged. Denies fevers, chills, night sweats. Lungs with mild expiratory wheeze bilaterally. Plan: continue current inhalers, f/u in 6 months, repeat PFTs at next visit. [Note: this block appears to have been carried forward from an old encounter and left in the chart by mistake; content below reflects today's visit.]
+----------------------------------------------------------
+
+PHYSICIAN PROGRESS NOTE
+Date of Service: 12/19/2023
+Author: Steven Park, MD
+
+HPI:
+Ms. Lopez is a 71-year-old woman with history of COPD, hypothyroidism, BPH, heart failure with reduced ejection fraction, and obesity, here today for COPD follow-up. She states, "I've been more short of breath than usual when I climb stairs, but it's not like it was last winter." She denies fevers, chest pain, or increased sputum production. She reports using her albuterol inhaler roughly 2-3 times per week. She denies orthopnea beyond her baseline of two pillows. She says, "I've been taking my water pill every morning like you told me."
+
+TOBACCO USE HISTORY (EHR TEMPLATED BLOCK):
+Smoking status: Never Smoker [FIELD OUTDATED/INCORRECT - see narrative below]
+Tobacco use assessment updated 12/19/2023:
+  - Cigarettes: Former smoker
+  - History: Smoked approximately a quarter pack per day (about 5 cigarettes/day) for 12 years; stopped completely for 4 years; then restarted at approximately three-quarters of a pack per day (about 15 cigarettes/day) for 13 years before quitting for good.
+  - Current status: Does not currently smoke.
+  - Secondhand smoke exposure: Denied.
+  - Counseling: N/A - not currently using tobacco.
+
+Note regarding templated field above: the "Never Smoker" status auto-populated from an old registration form and is incorrect; the patient's actual tobacco history is as detailed in the assessment above and should be used for documentation going forward. I discussed this discrepancy with the patient today, and she confirmed the history as documented, noting she has not smoked at all in recent years and does not smoke now.
+
+Past Medical History:
+1. COPD, moderate, on combination inhaler therapy
+2. Hypothyroidism, on levothyroxine
+3. BPH, on tamsulosin
+4. Heart failure with reduced ejection fraction (EF 35% on last echo 3/2023)
+5. Obesity (BMI 36.4)
+
+Medications:
+- Tiotropium/olodaterol inhaler daily
+- Albuterol HFA PRN
+- Levothyroxine 75 mcg daily
+- Tamsulosin 0.4 mg daily
+- Furosemide 40 mg daily
+- Carvedilol 12.5 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+
+Allergies: NKDA
+
+Social History: Lives with husband, retired schoolteacher. Denies alcohol or illicit drug use. Denies current tobacco use (see templated block above for full history). Denies vaping or marijuana use.
+
+Review of Systems: Positive for mild dyspnea on exertion and occasional cough productive of scant clear sputum. Negative for fever, chills, weight loss, hemoptysis, chest pain, palpitations, leg swelling beyond baseline, or dysuria.
+
+Physical Exam:
+General: Well-appearing, obese female, no acute distress
+HEENT: Normocephalic, atraumatic, no JVD appreciated
+Cardiovascular: RRR, S1/S2 normal, no murmurs, 1+ pitting edema bilateral lower extremities (baseline per patient)
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no use of accessory muscles, symmetric chest expansion
+Abdomen: Soft, obese, non-tender, non-distended
+Extremities: Trace edema, no cyanosis or clubbing
+
+Labs/Results:
+- CBC (12/19/2023): WBC 7.2, Hgb 13.1, Hct 39.4%, Plt 245
+- BMP (12/19/2023): Na 138, K 4.3, Cl 101, CO2 26, BUN 22, Cr 1.0, Glucose 104
+- TSH (12/19/2023): 2.8 mIU/L (within normal limits on current levothyroxine dose)
+- BNP (12/19/2023): 310 pg/mL (mildly elevated, stable compared to prior 295 pg/mL on 6/14/2022)
+- Spirometry (11/28/2023): FEV1 58% predicted, FEV1/FVC ratio 0.62, consistent with moderate obstructive pattern, similar to prior study
+- Chest X-ray (11/28/2023): Hyperinflation, no acute infiltrate or effusion
+
+Assessment:
+1. COPD, moderate - stable on current regimen, mild increase in exertional dyspnea, likely multifactorial given obesity and HFrEF
+2. Heart failure with reduced ejection fraction - stable, BNP mildly elevated but unchanged from prior
+3. Hypothyroidism - well controlled
+4. BPH - stable, no urinary retention symptoms
+5. Obesity - counseled on weight management
+
+Plan:
+1. Continue current inhaler regimen (tiotropium/olodaterol, albuterol PRN)
+2. Continue diuretic and cardiac medications as prescribed by cardiology
+3. Discussed lung cancer screening guidelines briefly given tobacco history; discussed general risks/benefits with patient
+4. Encourage pulmonary rehab referral - discussed today, patient agreeable
+5. Repeat PFTs in 6 months
+6. Continue to monitor weight and encourage dietary modification
+7. Follow up in 3 months or sooner if symptoms worsen
+8. Correct outdated "Never Smoker" field in chart to reflect accurate tobacco history as documented above
+
+Electronically signed by Steven Park, MD, 12/19/2023

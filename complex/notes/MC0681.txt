@@ -1,0 +1,60 @@
+H&P - Hospital Discharge Follow-up
+DOS: 01/08/2024
+Patient: Pamela Sullivan, F, DOB 1/8/1953 (age 71)
+Author: Elena Markovic, MD - Primary Care
+
+CC: f/u s/p recent hosp admit for pneumonia, now d/c'd home.
+
+HPI: 71 yo F w/ hx depression, OSA, recently d/c'd from hosp after tx for CAP. Reports improved cough, less SOB, energy still low. Denies fever, chills, chest pain currently. Appetite ok, sleeping w/ CPAP most nights though c/o mask discomfort. No new SOB at rest. Pt lives alone, daughter checks in daily.
+
+PMH:
+- Major depressive d/o, recurrent (F33.1) - on sertraline, stable
+- Obstructive sleep apnea (G47.33) - on CPAP
+- Hx pneumonia, resolving, recent admit
+- s/p appendectomy, remote (outdated, no longer relevant)
+
+SOCIAL HX:
+TOBACCO USE [EHR TEMPLATE - AUTO-POPULATED]:
+Smoking status: Former smoker
+Hx: pt started smokin 2 packs per day at age 28, continued at that rate until quitting in 2008.
+Current use: none
+Interest in cessation counseling: n/a, pt already quit
+
+Alcohol: pt quit drinking alcohol in 2006, denies current use, no h/o heavy use noted currently.
+Drug use: denies illicit drug use.
+Lives alone, daughter nearby, retired schoolteacher.
+
+ROS: Constitutional - mild fatigue, denies fever. Resp - improving cough, no hemoptysis. Cardiac - no chest pain, no palpitations. Psych - mood stable, sleep variable 2/2 OSA. All other systems reviewed, neg.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, T 98.2F, SpO2 96% RA
+Gen: well-appearing, NAD, comfortable
+HEENT: NCAT, EOMI, oropharynx clear
+Neck: supple, no LAD, no JVD
+Lungs: mild bibasilar crackles, improved from d/c note, no wheeze
+CV: RRR, no m/r/g
+Abd: soft NT ND, +BS
+Ext: no edema, no clubbing
+Neuro: A&Ox3, gait steady
+Psych: mood euthymic, affect appropriate
+
+LABS/DATA: CBC WNL, BMP WNL, CXR at d/c showed improving infiltrate LLL. No new imaging today.
+
+ASSESSMENT:
+1. Pneumonia, resolving, s/p recent hosp admit - improving clinically
+2. Depression, stable on current regimen
+3. OSA, CPAP compliance fair, mask fit issue reported
+4. Tobacco use - former smoker, quit smoking, no current use
+
+PLAN:
+1. Pneumonia: continue abx course as prescribed at d/c, f/u CXR in 6 wks to confirm resolution, return precautions reviewed re: fever/worsening SOB
+2. Depression: continue sertraline, reassess PHQ-9 next visit
+3. OSA: refer back to sleep med for mask refit, reinforce compliance
+4. Tobacco: counseling re: continued abstinence provided, screening for lung ca discussed w/ pt as an option to consider going forward, no imaging ordered today
+5. F/u in 2-4 wks or sooner PRN
+6. Pt verbalized understanding of plan, agreeable
+
+Signed: Elena Markovic, MD
+
+---ADDENDUM (later same day)---
+Addendum 01/08/2024 1615: Called pt re: pharmacy issue w/ sertraline refill, resolved. Pt reports feeling better this afternoon, no acute distress. Reiterated to pt that she quit smoking at age 55 per hx obtained earlier today; documenting here for clarity of chart. No other changes to plan. -E. Markovic, MD

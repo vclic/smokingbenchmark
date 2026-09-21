@@ -1,0 +1,45 @@
+CONSULT LETTER - Internal Medicine
+RE: Joseph Perez, DOB 1/26/1958 (age 65)
+Date of Service: 01/26/2023
+Author: Laura Castellano, FNP-C
+
+Dear Dr. [referring provider],
+
+Thank you for referring Mr. Perez, a 65-year-old male, for follow-up of HTN, T2DM, CAD, OSA, asthma, HFrEF, and depression, who presents today for his routine primary care f/u.
+
+HPI: Pt states, "I've been feeling more short of breath climbing the stairs lately, doc." He denies chest pain at rest, denies orthopnea, does report occasional ankle swelling by end of day. He reports med compliance overall though admits he sometimes forgets his evening dose of metoprolol, quote, "I just space out sometimes." Smoking hx notable - he smokes 5 cigarettes per day, has done so for 48 years, and continues to smoke; he states he is not ready to quit at this time despite repeated counseling. Diet nonadherent per pt report, c/o increased thirst and polyuria, denies polydipsia change. No fevers, no cough productve of sputum, though he does note some wheeze [inaudible] especially at night which may be r/t his asthma or OSA.
+
+--- Copied from note dated 06/26/2020 ---
+Social History (as documented 6/26/2020): Tobacco use - current smoker.
+--- end copied section ---
+
+ROS: otherwise negative except as above.
+
+Meds: Metoprolol succinate 50mg daily, Lisinopril 20mg daily, Metformin 1000mg BID, Atorvastatin 40mg daily, Albuterol PRN, Sertraline 100mg daily, CPAP nightly.
+
+Exam: BP 148/86, HR 78, RR 16, SpO2 95% RA, Wt 210 lb.
+Gen: NAD, comfortable, mild dyspnea on exertion noted ambulating to exam room.
+CV: RRR, S1S2, no murmur appreciated, trace bilateral LE edema.
+Lungs: mild expiratory wheeze bilat, no crackles.
+
+Labs (drawn 01/24/2023):
+HbA1c: 8.1% (prior 7.9% on 10/24/2022)
+Basic metabolic panel: Na 138, K 4.3, Cr 1.1, eGFR 68
+Lipid panel: LDL 102, HDL 38, TG 165
+BNP: 410 pg/mL (elevated, similar to 09/2022 value of 395)
+TSH: 2.1
+
+Assessment/Plan:
+1. HFrEF - stable, continue current regimen, consider uptitration of beta-blocker at next visit, reinforce low-sodium diet.
+2. T2DM - A1c trending up, will increase metformin, discuss GLP-1 agonist option.
+3. HTN - borderline controlled, continue current meds, recheck in 4 weeks.
+4. CAD - stable, continue statin and low-dose ASA.
+5. OSA - continue CPAP, review compliance data at next visit.
+6. Asthma - mild sx, continue albuterol PRN.
+7. Depression - stable on sertraline, continue, screen with PHQ-9 at next visit.
+8. Tobacco use - counseled extensively on cessation benefits given cardiopulmonary comorbidities; lung cancer screening was discussed in general terms; pt continues to decline cessation at this time, will readdress at future visits. Nicotine replacement offered, pt declined today.
+
+Will follow up in 4 weeks or sooner if symptoms worsen.
+
+Sincerely,
+Laura Castellano, FNP-C

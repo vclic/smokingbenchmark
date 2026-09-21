@@ -1,0 +1,93 @@
+INTERNAL MEDICINE - PRE-OPERATIVE EVALUATION
+Patient: Dorothy Wright | DOB: 01/31/1956 | Age: 67 y/o F
+Date of Service: 01/31/2023
+Provider: Kevin Osei, MD (NP progress note, co-signed)
+
+CC: Pre-op eval prior to left total knee replacement (Ortho: Dr. Patel).
+
+HPI: 67 y/o F c/o progressive L knee pain, worsening w/ ambulation, limiting function. Seen by ortho, TKA scheduled. Referred for pre-op medical clearance given PMH of PAD, HTN, HLD, osteoporosis, gout, obesity. Denies chest pain, denies SOB at rest, mild claudication sx in bilat calves w/ ambulation >2 blocks, stable per pt. No recent falls. No fevers/chills.
+
+PMH:
+- Peripheral artery disease
+- Osteoporosis
+- Hyperlipidemia
+- Hypertension
+- Gout
+- Obesity
+
+PSH: Cholecystectomy 2005, R carpal tunnel release 2011.
+
+MEDICATIONS:
+1. Atorvastatin 40mg PO QHS
+2. Lisinopril 20mg PO daily
+3. Amlodipine 5mg PO daily
+4. Aspirin 81mg PO daily
+5. Cilostazol 100mg PO BID
+6. Alendronate 70mg PO weekly
+7. Allopurinol 300mg PO daily
+8. Vitamin D3 2000 IU daily
+9. Calcium carbonate 600mg BID
+10. Acetaminophen 650mg PRN pain
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Lives w/ husband, retired postal worker. Denies EtOH use. Denies illicit drug use. Patient is a current cigarette smoker. 19 pack-year smoking history noted in chart. Counseled extensively re: cessation given PAD dx and peri-op risk, offered nicotine replacement/referral to quitline; pt states she is not ready to quit at this time.
+
+FAMILY HISTORY: Father - MI age 70. Mother - osteoporosis, fractures. No known FHx of lung disease.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss.
+HEENT: denies vision changes, denies hearing loss.
+CV: denies chest pain, denies palpitations, +claudication as above.
+Resp: denies cough, denies hemoptysis, denies dyspnea at rest.
+GI: denies nausea, vomiting, diarrhea, constipation.
+GU: denies dysuria, denies hematuria.
+MSK: +L knee pain as above, denies other joint swelling currently, hx gout flares in past resolved.
+Skin: denies rash, denies lesions.
+Neuro: denies HA, denies focal weakness, denies numbness.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, Temp 98.4F, SpO2 96% RA, Wt 198 lb, Ht 64in, BMI 34.
+General: well-appearing, NAD, obese habitus.
+HEENT: NC/AT, PERRL, EOMI, oropharynx clear.
+Neck: supple, no LAD, no thyromegaly.
+CV: RRR, no murmurs/rubs/gallops, distal pulses 1+ bilat DP/PT, no edema.
+Resp: CTAB, no wheezes/rales/rhonchi, no accessory muscle use.
+Abd: soft, NT/ND, +BS, no HSM.
+MSK: L knee w/ crepitus, decreased ROM, mild effusion, no erythema/warmth. R knee unremarkable.
+Skin: warm, dry, intact, no ulcers noted on LE despite PAD hx.
+Neuro: A&Ox3, CN II-XII grossly intact, strength 5/5 UE/LE bilat.
+Psych: mood/affect appropriate.
+
+LABS/STUDIES:
+CBC (01/28/2023): WBC 6.8, Hgb 13.2, Hct 39.5, Plt 240.
+BMP (01/28/2023): Na 139, K 4.2, Cl 102, CO2 25, BUN 18, Cr 0.9, Glucose 101.
+Lipid panel (01/15/2023): Total chol 188, LDL 102, HDL 48, TG 190.
+HbA1c (01/15/2023): 5.7%.
+EKG (01/31/2023): NSR, rate 74, no acute ST-T changes, no significant change from prior.
+ABI (performed 12/2022 for PAD monitoring): mildly reduced bilat, stable from prior study.
+DEXA (10/2022): T-score -2.6 lumbar spine, consistent w/ osteoporosis, on treatment.
+Uric acid (01/15/2023): 6.8.
+
+ASSESSMENT:
+1. Pre-op clearance for L TKA - pt medically optimized for surgery from cardiopulm standpoint, low-moderate risk.
+2. Peripheral artery disease - stable, on cilostazol/ASA, ABI stable.
+3. Hypertension - well controlled on current regimen.
+4. Hyperlipidemia - at goal on statin.
+5. Osteoporosis - on alendronate, DEXA stable.
+6. Gout - no active flare, uric acid at goal.
+7. Obesity - counseled re: weight mgmt, diet/exercise as tolerated pre-op.
+8. Tobacco use - current smoker, counseled re: cessation, cessation resources offered.
+
+PLAN:
+- Cleared for surgery from medical standpoint, low-moderate cardiac risk per RCRI.
+- Continue home meds, hold ASA per ortho/anesthesia protocol prior to surgery per their instructions.
+- Continue cilostazol, monitor for bleeding risk peri-op per anesthesia.
+- F/u with PCP post-op.
+- Smoking cessation counseling given; quitline referral provided; pt to consider NRT.
+- Ortho to proceed w/ scheduling of TKA.
+- Return to clinic PRN or for post-op follow up.
+
+Electronically signed: Kevin Osei, MD, 01/31/2023.

@@ -1,0 +1,63 @@
+CARDIOLOGY RESIDENT NOTE
+Patient: Maria Clark | DOB: 1/28/1975 (age 50) | Sex: F
+Date of Service: 01/28/2025
+Author: Gregory Tan, MD (resident), attending attestation below
+
+CC: Chest pain eval
+
+HPI: 50 yo F w/ hx T2DM, BPH, CKD stage 3 presents for eval of intermittent chest pain x 2 wks. Pt states "it feels like a tight band across my chest when I climb stairs, goes away with rest." No radiation to arm reported today, denies diaphoresis. Pt also notes "I get a little short of breath but I thought it was just being out of shape." No fevers, no cough, no leg swelling. Denies palpitations at rest.
+
+ROS: Cardiac - + exertional CP as above, denies syncope. Resp - denies cough/wheeze. GI - denies N/V/abd pain. GU - reports nocturia, consistent w/ known BPH. Endo - denies polyuria/polydipsia beyond baseline. All other systems reviewed and negative except as noted in HPI.
+
+PMH copied from prior note dated 8/28/2021 (SMOKING STATUS AS OF THAT DATE, NOT CURRENT):
+"Social history: former smoker." - no quantities documented in that entry.
+
+Current Meds: Metformin 1000mg BID, Tamsulosin 0.4mg qHS, Lisinopril 10mg daily, ASA 81mg daily.
+
+Allergies: NKDA
+
+VITALS: BP 138/84, HR 78, RR 16, SpO2 97% RA, Temp 98.4F, Wt 82kg
+
+EXAM:
+Gen: NAD, comfortable, conversant
+CV: RRR, no m/r/g, no JVD
+Resp: CTAB, no wheezes/rales
+Abd: soft, NT/ND
+Ext: no edema, pulses 2+ bilat
+Neuro: grossly intact
+
+LABS (drawn 01/28/2025):
+Troponin I: <0.01 ng/mL (nl)
+BMP: Na 138, K 4.5, Cl 101, CO2 24, BUN 28, Cr 1.6 (baseline per CKD3), Glucose 142
+HbA1c (from 01/15/2025): 7.8%
+Lipid panel (01/15/2025): TC 198, LDL 118, HDL 44, TG 180
+BNP: 42 pg/mL (nl)
+EKG: NSR, no acute ST changes, no old EKG for comparison in chart
+
+PROBLEM LIST:
+1. Type 2 diabetes mellitus, E11.9 - controlled, A1c 7.8%
+2. Benign prostatic hyperplasia, N40.0 - on tamsulosin
+3. Chronic kidney disease stage 3, N18.3 - stable Cr
+4. Essential hypertension, I10 - outdated entry, pt reports BP well controlled at home, may need reassessment
+5. Tobacco use disorder, Z87.891 - former use, see assessment below for details
+
+ASSESSMENT/PLAN:
+50 yo F w/ multiple cardiac risk factors (T2DM, hx smoking, HTN) presenting w/ exertional chest pain, concerning for possible stable angina, r/o ACS. Trop negative x1, EKG unremarkable. Will obtain repeat trop, consider stress test as outpt.
+
+Re: smoking history - detailed history obtained today directly from patient given relevance to cardiac risk stratification. Pt reports she smoked 2 packs per day for 4 years, then increased to 3 packs per day for an additional 3 years, after which she quit smoking. This is a substantial cumulative exposure and factors into overall cardiovascular risk assessment.
+
+1. Chest pain, exertional - r/o angina, obtain repeat troponin, outpt stress echo referral placed, continue ASA, add statin given LDL 118 and CV risk factors, hold on further cath unless stress test positive
+2. T2DM - continue metformin, follow up A1c in 3 months, reinforce diet/exercise
+3. CKD stage 3 - Cr stable at baseline, avoid nephrotoxic agents, monitor renally-dosed meds
+4. BPH - continue tamsulosin, pt reports adequate symptom control
+5. Tobacco history - counseled on cardiovascular risk reduction, reinforced importance of continued abstinence
+6. HTN - reassess BP control at next visit, home readings requested
+
+Discussed plan with patient, she verbalizes understanding and agrees with above.
+
+---
+ATTENDING ATTESTATION: I have personally seen and examined the patient with Dr. Tan and agree with the history, exam findings, and plan as documented above. Reviewed labs and EKG personally. - Attending Cardiology
+
+---
+ADDENDUM (later same day, 01/28/2025, added by Dr. Tan):
+Spoke further with patient by phone after she called back with additional history clarification regarding her smoking timeline, as this was somewhat unclear during the initial visit documentation. Pt clarified the following timeline: she first quit smoking in 1993, then restarted smoking in 1996, and quit for good in 1999. This has been added to the chart for completeness and to ensure accurate longitudinal smoking history documentation is on file for future risk calculations. No change to today's plan otherwise. Will forward updated info to attending for awareness.

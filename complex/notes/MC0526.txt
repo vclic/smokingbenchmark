@@ -1,0 +1,37 @@
+GERIATRICS PROGRESS NOTE
+Patient: John Wright | DOB: 07/26/1947 | Age: 76 | Sex: M
+Date of Service: 08/19/2023
+Provider: Michael Dunn, DO
+
+CHIEF COMPLAINT: Geriatric assessment / medication review.
+
+HPI: Mr. Wright is a 76-year-old male here for annual comprehensive geriatric assessment. He reports doing 'pretty well overall, just some stiffness in the knees in the morning.' He denies falls. Says 'I still garden most days, just slower now.' No new cognitive complaints per patient or family.
+
+PROBLEM LIST (ICD-10):
+- M19.90 Osteoarthritis, unspecified site
+- M81.0 Osteoporosis without current pathological fracture
+- E03.9 Hypothyroidism, unspecified
+- I10 Essential hypertension (resolved, kept for continuity - pt no longer on antihypertensives per 2021 note)
+
+SOCIAL HISTORY: Smoking status field in chart auto-populates as 'Smoking status: Never Smoker' - this is incorrect and needs correction. On direct questioning, patient reports a long smoking history: he smoked about a quarter pack (roughly 5 cigarettes) per day for 28 years, then stopped completely for 8 years, then restarted smoking at the same rate, a quarter pack (about 5 cigarettes) per day, for the past 24 years, and continues to smoke currently. He also mentions he had quit again in 2014 but relapsed in 2015 and has smoked intermittently since. Patient states 'I know I should quit but I'm just not ready right now.' Discussed lung cancer screening in general terms as part of preventive care discussion; no further action taken today regarding imaging. Alcohol: occasional beer, denies illicit drug use.
+
+MEDICATIONS: Levothyroxine 75 mcg daily, Alendronate 70 mg weekly, Calcium/Vitamin D supplement, Acetaminophen PRN for joint pain.
+
+LABS/RESULTS:
+- TSH (08/10/2023): 3.1 mIU/L (within normal limits)
+- Free T4 (08/10/2023): 1.2 ng/dL (normal)
+- DEXA scan (03/15/2023): T-score -2.6 at lumbar spine, consistent with osteoporosis
+- CBC (08/10/2023): unremarkable
+- BMP (08/10/2023): Cr 1.0, eGFR >60
+
+EXAM: Alert, oriented x3, ambulates with steady gait using cane. Mild crepitus bilateral knees, no effusion. Thyroid non-palpable/normal. Lungs clear to auscultation bilaterally, no wheezes or crackles noted today.
+
+ASSESSMENT/PLAN:
+1. Osteoarthritis - continue acetaminophen, consider PT referral.
+2. Osteoporosis - continue alendronate, repeat DEXA in 2 years.
+3. Hypothyroidism - stable on current dose, recheck TSH in 6 months.
+4. Tobacco use - counseled on cessation resources; patient not ready to quit at this time. Corrected chart smoking status field to reflect accurate history above. Will readdress at next visit.
+
+Follow-up in 3 months or sooner as needed.
+
+Michael Dunn, DO

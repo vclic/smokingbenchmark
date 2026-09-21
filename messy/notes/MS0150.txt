@@ -1,0 +1,46 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Pamela Thomas | DOB: 4/2/1970 | Age: 53 | Sex: F
+Date of Service: 09/10/2023
+Provider: Nadia Haddad, MD (Pulmonology)
+
+CHIEF COMPLAINT: Lung cancer screening shared decision-making visit.
+
+HPI: Ms Thomas is a 53 y/o woman referred for discussion regarding lung cancer screening. She reports no cough, hemoptysis, or unintentional weight loss. She states "I feel about the same as always, just tired sometimes." She was informed by her PCP about lung screening guidelines and wanted to discuss further. Denies chest pain, fevers, or night sweats. Reports occassional dyspnea on exertion which she attributes to her weight and asthma.
+
+PAST MEDICAL HISTORY: Osteoporosis, CKD stage 3, obesity, atrial fibrillation, asthma, hypertension.
+
+SOCIAL HISTORY: Patient has smoked half a pack (about 10 cigarettes) per day since age 18. She continues to smoke currently and states she is not ready to quit at this time. Denies illicit drug use. Rare alcohol use, socially. Lives with husband, retired schoolteacher.
+
+FAMILY HISTORY: Mother - CAD, Father - COPD. No known lung cancer in family.
+
+REVIEW OF SYSTEMS: Constitutional: no fever, no chills, no unintentional weight loss. Eyes: no visual changes. ENT: no sore throat, no epistaxis. Cardiovascular: no chest pain, palpitations reported intermittently (known Afib). Respiratory: no cough, no hemoptysis, mild DOE as above. GI: no nausea, no vomiting, no abdominal pain. GU: no dysuria, no hematuria. MSK: chronic low back pain, stable. Skin: no rashes. Neuro: no headache, no numbness. Psych: no depression, no anxiety. Endocrine: no polyuria, no polydipsia. Heme/Lymph: no easy bruising. Allergic/Immunologic: no known allergies to medications.
+
+MEDICATIONS: Alendronate 70mg weekly, Apixaban 5mg BID, Lisinopril 20mg daily, Albuterol HFA PRN, Fluticasone/Salmeterol 250/50 BID, Calcium carbonate/Vit D daily, Metoprolol succinate 50mg daily, Atorvastatin 20mg daily, Losartan (discontinued, listed in error from prior visit), Omeprazole 20mg daily prn.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregular, RR 16, SpO2 97% RA, BMI 34.
+General: well-appearing, obese female, NAD.
+HEENT: normocephalic, atraumatic, no scleral icterus.
+Neck: no JVD, no lymphadenopathy.
+Cardiovascular: irregularly irregular rhythm, no murmurs.
+Respiratory: mild expiratory wheeze bilaterally, no rales, no rhonchi.
+Abdomen: soft, non-tender, obese, normal bowel sounds.
+Extremities: no edema, pulses intact.
+Skin: warm, dry, no rashes.
+Neuro: alert and oriented x3, grossly intact.
+
+PROBLEM LIST:
+M81.0 - Osteoporosis
+N18.3 - CKD stage 3
+E66.9 - Obesity
+I48.91 - Atrial fibrillation
+J45.909 - Asthma, unspecified
+I10 - Essential hypertension
+Z87.891 - Personal history of nicotine dependence (outdated entry, patient continues to smoke)
+
+ASSESSMENT/PLAN:
+Ms Thomas presents for shared decision-making regarding lung cancer screening given her smoking history. Discussed benefits and risks of screening in detail, including false positives, incidental findings, and radiation exposure. She was counseled on smoking cessation resources including nicotine replacement therapy and counseling programs; she reports she is not ready to quit at this time but will consider it in future. Will continue to monitor respiratory symptoms and asthma control. Continue current asthma regimen, follow up with PCP for CKD and hypertension management. Return to clinic in 6 months or sooner if symptoms worsen.
+
+Attending Attestation: I have personally seen and evaluated this patient with the resident. I agree with the findings and plan as documented above. - Attending, Pulmonology.
+
+ADDENDUM (later same day, 09/10/2023, 16:42): Patient called clinic after visit to clarify insurance coverage questions regarding future imaging discussions; no changes to plan made. Advised to call back with additional concerns. - N. Haddad, MD

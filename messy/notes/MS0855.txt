@@ -1,0 +1,26 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Author: Catherine Lindqvist, DO (Cardiology)
+Date of Service: 03/02/2026
+Patient: Paula Moore, F, DOB 3/2/1948 (age 78)
+
+CC: Chest pain evaluation
+
+HPI: Ms. Moore is a 78-year-old woman with history of PAD and osteoporosis presenting with intermittent chest discomfort over the past week. She states, "It feels like a tight band across my chest when I climb the stairs." She also reports, "It goes away after I sit down for a few minutes." No radiation to arm/jaw reported. Denies diaphoresis or syncope. She notes some calf claudication at baseline, unchanged. In social history discussion she mentioned she used to smoke but stopped years ago, "I gave that up a long time back, best decision I ever made."
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2019 (Vascular Surgery) ---
+Patient here for PAD follow up. Ankle-brachial index reviewed, stable. Patient ambulates with mild claudication after two blocks. Continues on cilostazol. Feet checked, no ulcers. Pulses diminished bilaterally but palpable. Discussed exercise program. Return in 6 months or sooner if worsening symptoms. (Note: this block appears to have been carried forward in error and left in the current encounter documentation.)
+--- END COPIED TEXT ---
+
+Social History: Tobacco Use Screening Template - Status: Former smoker. Cigarettes: quarter pack per day (approx 5 cigarettes/day). Quit: yes, patient reports she quit smoking in the early 2010s. Alcohol: occasional glass of wine. Illicit drugs: denies.
+
+ROS: Positive for exertional chest tightness and calf pain with ambulation. Negative for palpitations, orthopnea, PND, edema.
+
+Exam: BP 142/78, HR 76, RR 16, SpO2 97% RA. Cardiac: RRR, no murmurs. Lungs: clear bilaterally. Extremities: no edema, diminished distal pulses bilaterally, no ulcers.
+
+Labs: Troponin pending, BMP unremarkable, lipid panel with mildly elevated LDL.
+
+Assessment/Plan: 78-year-old woman with PAD and osteoporosis presenting for evaluation of exertional chest pain, concerning for possible angina. As a former smoker who quit smoking in the early 2010s, her cardiovascular risk remains elevated despite cessation. Given her age and vascular disease burden, will obtain stress test and EKG. Continue current PAD management, consider cardiology co-management going forward. Osteoporosis: continue current regimen, no changes today. Follow up in 2 weeks or sooner with results.
+
+Attending Attestation: I have reviewed the resident's history, examination, and plan, and agree with the assessment and plan as documented above. Discussed case in detail with Dr. Lindqvist at bedside.
+
+- Dr. R. Emerson, MD, Attending Cardiology

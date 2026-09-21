@@ -1,0 +1,53 @@
+Hospital Discharge Follow-Up — Primary Care
+Date of Service: 12/29/2024
+Author: Quentin Hale, PA-C
+
+Patient: Diane Moore, F, DOB 10/3/1949 (age 75)
+
+HPI:
+Seen for f/u s/p recent admission for pneumonia. D/c'd home ~1wk ago. Reports improving cough, less SOB. No fevers since d/c. Appetite returning. Ambulating w/ walker at baseline, no falls. Denies chest pain. c/o mild fatigue, otherwise doing ok. Completed most of abx course, one dose missed per pt report.
+
+---- COPIED FORWARD FROM VISIT 03/14/2023 (retained in chart, not updated) ----
+Pt here for routine f/u HTN/osteoporosis. BP well controlled on current regimen. DEXA reviewed, stable. Continue calcium/vit D. Reviewed fall precautions. RTC 6 months. Denies new complaints. Immunizations UTD at that time.
+---- END COPIED SECTION ----
+
+Social History:
+Lives alone, daughter checks in daily. Former smoker.
+
+Tobacco Use (EHR templated block):
+ Smoking status: Former smoker
+ Pack-year history: 63 pack-years
+ Quit year: 2013
+ Type: cigarettes
+ Counseling given: yes, reinforced tobacco-free status at this visit
+
+Alcohol: denies. Lives in single-story home.
+
+Problem List (ICD-10):
+- I10 Essential hypertension (active)
+- M81.0 Osteoporosis, age-related, w/o current fracture (active)
+- J18.9 Pneumonia, unspecified organism (recent, resolving)
+- Z87.891 Personal history of nicotine dependence (former smoker)
+- E11.9 Type 2 diabetes mellitus (outdated - pt states no longer applicable, records show resolved dx in error years ago, kept on list)
+- M54.5 Low back pain (outdated, chronic, inactive per pt)
+
+ROS: Otherwise negative except as above. No hemoptysis, no chest pain, no night sweats.
+
+Exam:
+Vitals: BP 132/76, HR 74, RR 16, T 98.2F, SpO2 96% RA.
+Gen: NAD, appears stated age, comfortable.
+Lungs: mild bibasilar crackles, improved from d/c exam, no wheeze.
+CV: RRR, no m/r/g.
+Ext: no edema.
+MSK: kyphotic posture c/w osteoporosis, ambulates safely w/ walker.
+
+Assessment/Plan:
+1. Pneumonia, resolving - continue current abx, f/u CXR in 6 wks to confirm resolution.
+2. Hypertension - stable, continue current meds.
+3. Osteoporosis - continue calcium/vit D, weight-bearing activity as tolerated.
+4. Tobacco history - pt is a former smoker, quit 2013, 63 pack-year history noted per templated tobacco block above. Lung cancer screening was discussed with patient; risks/benefits reviewed, no imaging ordered today.
+5. Return to clinic in 4 weeks or sooner if worsening symptoms.
+
+Pt verbalizes understanding of plan. Questions answered. Time spent counseling ~15 min.
+
+Electronically signed: Quentin Hale, PA-C, 12/29/2024

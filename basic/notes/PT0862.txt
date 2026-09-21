@@ -1,0 +1,51 @@
+Family Medicine Clinic Note
+Date of Service: August 21, 2023
+Patient: Donald Brown   DOB: 11/26/1946   MRN: 54226269
+
+SUBJECTIVE:
+CC: BP check
+HPI: Mr. Brown is a 76-year-old male with a history of HLD, CKD3, GERD, and HTN who presents for follow-up of hypertension. Home BP readings mostly in the 120s/70s. Taking amlodipine 5 mg daily without missed doses. No HA, CP, SOB, or LE swelling.
+
+PMH:
+- BPH with LUTS
+- GERD
+- Essential hypertension (dx 2021)
+- Hypercholesterolemia
+- CKD stage 3
+PSH: TURP (2015)
+Meds: rosuvastatin 20 mg daily; famotidine 20 mg BID; amlodipine 5 mg daily; ezetimibe 10 mg daily; tamsulosin 0.4 mg nightly; losartan 50 mg daily
+Allergies: Codeine (nausea)
+FH: Father - colon cancer at 68.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 141/83  HR: 68  RR: 16  Temp: 98.2 F  SpO2: 97% on RA  Wt: 187 lbs  BMI: 29.3
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (2023-07-22): LDL 118, Cr 0.76, K 3.8
+
+A/P:
+1. Hypertension: Above goal; increase amlodipine dose and recheck in 4 weeks. BMP in 2 weeks.
+2. BPH with LUTS: Nocturia x1-2; continue tamsulosin.
+3. Hypercholesterolemia
+   - Tolerating statin; recheck lipids in 1 yr.
+4. GERD: Symptoms controlled.
+
+f/u 12 mo
+
+Electronically signed by Gregory Tan, MD on 8/22/2023 at 12:27

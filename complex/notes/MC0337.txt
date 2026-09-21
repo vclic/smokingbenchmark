@@ -1,0 +1,77 @@
+VASCULAR SURGERY - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Walter Walker (M) DOB: 3/28/1961 (age 64)
+Date of Service: 03/28/2025
+Author: Isaac Moreno, PA-C; Attending: Dr. R. Castellanos (attestation below)
+
+CHIEF COMPLAINT: PAD follow-up / claudication eval
+
+HPI: 64 yo M with hx of CAD, PAD presents for f/u of bilateral lower extremity claudication. Pt states "my left calf still cramps up after about a block, but it's a little better since I started the walking program." Denies rest pain, denies non-healing ulcers. No chest pain, no SOB at rest. Pt reports compliance with ASA and statin. He notes he is not using tobacco currently - "I haven't touched a cigarette in years, doc." Further tobacco history obtained and documented below in social hx / tobacco block per template.
+
+ROS (templated, reviewed and negative except as noted):
+Constitutional: denies fever, chills, unintentional weight loss.
+Eyes: denies visual changes.
+ENT: denies epistaxis, sore throat.
+Cardiovascular: + claudication as above, denies chest pain, denies palpitations, denies orthopnea/PND.
+Respiratory: denies cough, denies hemoptysis, denies wheeze.
+GI: denies nausea, vomiting, diarrhea, constipation, abd pain.
+GU: denies dysuria, hematuria.
+Musculoskeletal: + bilateral calf cramping with exertion as above.
+Skin: denies rashes, denies non-healing wounds.
+Neuro: denies focal weakness, numbness, tingling.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative.
+
+SOCIAL HISTORY:
+Tobacco: [EHR TEMPLATE - TOBACCO USE SCREENING]
+  Current status: Former smoker
+  Pack-year history: 46 pack-years
+  Age quit: 47
+  Type: cigarettes
+  Counseling provided: N/A - not currently using
+[END TOBACCO TEMPLATE]
+Alcohol: occasional, 1-2 glasses wine on weekends.
+Substance use: Pt reports use of marijuana a few times a month, denies other recreational drug use.
+Lives with: spouse. Occupation: retired machinist.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (some entries outdated per chart review):
+1. I25.10 - Coronary artery disease, native vessel, without angina
+2. I73.9 - Peripheral artery disease, unspecified
+3. E78.5 - Hyperlipidemia
+4. I10 - Essential hypertension
+5. Z87.891 - Personal history of nicotine dependence (outdated - see tobacco template above for current status)
+6. J45.909 - Asthma, unspecified (chart note: pt reports this was misdiagnosed in childhood, no current inhaler use)
+
+MEDICATIONS:
+1. Aspirin 81 mg PO daily
+2. Atorvastatin 40 mg PO qHS
+3. Clopidogrel 75 mg PO daily
+4. Lisinopril 10 mg PO daily
+5. Metoprolol succinate 25 mg PO daily
+6. Cilostazol 100 mg PO BID
+7. Multivitamin PO daily
+8. Vitamin D3 1000 IU PO daily
+9. Metformin 500 mg PO BID (per pt, for prediabetes)
+10. Omeprazole 20 mg PO daily PRN
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 68, RR 16, Temp 98.4F, SpO2 97% RA, Wt 198 lb
+General: well-appearing, NAD, appropriately dressed and groomed.
+HEENT: NCAT, PERRL, EOMI, oropharynx clear, no thyromegaly.
+Cardiovascular: RRR, no murmurs/rubs/gallops appreciated. No JVD.
+Pulses: Femoral 2+ bilaterally, popliteal 1+ bilaterally, DP 1+ on right, absent on left, PT 1+ bilaterally. Cap refill <3 sec bilaterally.
+Lower extremities: no ulceration, no gangrene, mild hair loss noted on distal lower extremities bilaterally, skin cool to touch distally.
+Respiratory: CTAB, no wheezes/rales/rhonchi.
+Abdomen: soft, non-tender, non-distended, no bruits auscultated.
+Neuro: grossly intact, sensation intact to light touch bilaterally.
+Skin: no rashes, no lesions noted.
+
+ASSESSMENT/PLAN:
+64 yo M with CAD and PAD, DOS 3/28/2025, presenting with ongoing but improving claudication symptoms.
+1. PAD - Continue cilostazol, continue supervised walking program, ABI to be repeated at next visit. Discussed vascular risk factor modification.
+2. CAD - Stable, continue current cardiac regimen, no anginal equivalents reported today.
+3. Tobacco use - Former smoker as above (quit at age 47, 46 pack-year history), reinforced importance of continued abstinence. Lung cancer screening was discussed in general terms with patient given smoking history; no imaging ordered today.
+4. Marijuana use - counseled re: risks, pt aware, declines further discussion today.
+5. HLD/HTN - well controlled, continue current meds.
+6. F/u in 3 months or sooner if worsening symptoms.
+
+Attending Attestation: I have personally seen and evaluated the patient with Isaac Moreno, PA-C, and reviewed/agree with the documented history, exam, and plan above. - Dr. R. Castellanos, MD, Vascular Surgery, 03/28/2025.

@@ -1,0 +1,81 @@
+HISTORY AND PHYSICAL - New Patient Visit
+Patient: Marilyn King (F)  DOB: 03/22/1952  Age: 72
+Date of Service: 03/22/2024
+Provider: Quentin Hale, PA-C
+Location: Primary Care Clinic
+
+CHIEF COMPLAINT: Establish care / general checkup.
+
+HPI: Ms. King is a 72-year-old woman (DOB 3/22/1952) presenting to establish care with our practice after relocating to the area. She reports a history of gout, GERD, and BPH-type urinary symptoms (managed by prior urologist, though pt is female--carried over from old EHR template, see note below). She denies chest pain, shortness of breath, or hemoptysis. She reports occasional heartburn, worse after spicy foods, controlled reasonably well with omeprazole. She has had two gout flares in the past year, both in the right great toe, responsive to NSAIDs. She is here today mainly to get established, refill medications, and discuss preventive care including screening labs and vaccinations.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2022 (outside records, imported into chart)***
+CC: f/u gout, GERD.
+HPI: Pt is a pleasant 70 yo (at that time) female here for routine f/u. Gout flares occurring roughly q6 months, last one resolved with colchicine. GERD symptoms stable on PPI, no dysphagia, no weight loss, no melena. BPH - wait, pt is female, this line appears to be carried over in error from another chart; disregard. Denies fevers, chills, night sweats. ROS otherwise negative. Plan: continue allopurinol, continue omeprazole, f/u in 6 months, routine labs ordered.
+***END COPIED SECTION***
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, night sweats, unintentional weight loss/gain.
+HEENT: denies vision changes, hearing loss, sinus congestion.
+Cardiovascular: denies chest pain, palpitations, orthopnea, PND, edema.
+Respiratory: denies cough, dyspnea, wheeze, hemoptysis.
+GI: occasional heartburn as above, denies nausea, vomiting, diarrhea, constipation, blood in stool.
+GU: denies dysuria, hematuria, urinary frequency/urgency (BPH history noted above may be documentation error given pt is female; will clarify).
+Musculoskeletal: joint pain as above (gout), denies new swelling.
+Skin: denies rash, new lesions.
+Neuro: denies HA, dizziness, weakness, numbness.
+Psych: denies depression, anxiety.
+All other systems reviewed and negative.
+
+PAST MEDICAL HISTORY: Gout, GERD, BPH (per prior chart, to be clarified).
+
+PAST SURGICAL HISTORY: Appendectomy age 19, cholecystectomy age 55.
+
+MEDICATIONS:
+1. Allopurinol 300 mg PO daily
+2. Omeprazole 20 mg PO daily
+3. Colchicine 0.6 mg PO PRN gout flare
+4. Tamsulosin 0.4 mg PO daily (carried forward, query if applicable given sex)
+5. Calcium/Vitamin D supplement daily
+6. Multivitamin daily
+7. Acetaminophen PRN pain
+
+ALLERGIES: NKDA.
+
+FAMILY HISTORY: Mother - hypertension, deceased age 88. Father - MI, deceased age 70. No known family history of lung disease or lung cancer.
+
+SOCIAL HISTORY: Patient lives with her husband in a single-story home, retired schoolteacher. She reports minimal alcohol use, roughly one glass of wine per week. She denies any current or past illicit drug use. Regarding tobacco: she states that as a teenager she tried a few cigarettes but never smoked regularly, and has not smoked since. Exercise: walks daily approximately 20-30 minutes. Diet: describes as generally balanced, though admits to enjoying spicy foods which can trigger her reflux.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 72, RR 16, Temp 98.2F, SpO2 98% on room air, Wt 154 lb, Ht 5'4".
+General: Well-appearing, well-nourished woman in no acute distress.
+HEENT: NC/AT, PERRLA, EOMI, oropharynx clear, no thyromegaly.
+Neck: Supple, no JVD, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses 2+ bilaterally.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Normal effort.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, well-healed surgical scars noted.
+Extremities: No edema. Right first MTP joint with mild residual tenderness, no active erythema/swelling today.
+Skin: Warm, dry, intact, no rashes.
+Neuro: Alert and oriented x3, cranial nerves II-XII grossly intact, normal gait.
+Psych: Mood and affect appropriate.
+
+LABS/RESULTS:
+CBC (03/15/2024): WBC 6.2, Hgb 13.4, Hct 40.1, Plt 245 - within normal limits.
+CMP (03/15/2024): Na 140, K 4.1, Cl 101, CO2 24, BUN 18, Cr 0.9, Glucose 94, Ca 9.4 - within normal limits.
+Uric Acid (03/15/2024): 7.8 mg/dL - mildly elevated.
+Lipid Panel (03/15/2024): Total chol 198, LDL 118, HDL 58, Trig 110.
+TSH (03/15/2024): 2.1 - normal.
+HbA1c (03/15/2024): 5.6% - normal.
+
+ASSESSMENT AND PLAN:
+1. Gout - stable on allopurinol, uric acid mildly elevated, will continue current dose and recheck in 3 months. Continue colchicine PRN for flares.
+2. GERD - stable on omeprazole, continue current regimen, reinforced dietary modification (avoid spicy/acidic foods, no late meals).
+3. BPH history - noted discrepancy in chart given patient is female; will review outside records and correct problem list; tamsulosin held pending clarification.
+4. Health maintenance - patient is 72 years old, up to date discussion regarding age-appropriate screening including colorectal cancer screening and bone density scan. Tobacco history reviewed; she tried a few cigarettes as a teenager but never smoked regularly, so no further tobacco cessation counseling indicated at this time, though preventive discussion about general lung health was had.
+5. Immunizations - discussed influenza, pneumococcal, shingles, and Tdap vaccines; patient to schedule for next visit.
+6. Follow up in 3 months or sooner if symptoms arise.
+
+Patient verbalized understanding and agreement with above plan. Questions answered. Return to clinic as scheduled.
+
+________________________________________
+ADDENDUM (same day, 03/22/2024, 4:45 PM) - Quentin Hale, PA-C:
+After further review of outside records obtained this afternoon, confirmed that the BPH diagnosis on the problem list was transcribed in error from a prior patient's chart and does not apply to Ms. King. Tamsulosin has been discontinued and removed from active medication list. Problem list updated accordingly. Patient was called and informed of this correction; she was agreeable and had no concerns. No other changes to today's plan.

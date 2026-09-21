@@ -1,0 +1,27 @@
+Telehealth Follow-up – Pulmonology
+Patient: George Hall
+DOB: 1/16/1958 (age 67)
+Date of Service: 07/15/2025
+Author: Gregory Tan, MD
+
+HPI: Mr. Hall is a 67-year-old male seen via telehealth for follow-up after recent ED visit/COPD exacerbation. He states "I felt like I couldn't catch my breath climbing the stairs, doc." He reports improved dyspnea since starting the burst of prednisone and increased nebulizer use. No fevers, no chest pain, denies hemoptysis. He notes some ankle swelling which he attributes to his heart failure, says "my legs get puffy by end of day, same as before." Denies orthopnea beyond baseline 2-pillow use.
+
+[Copied forward from note dated 03/02/2024]: Patient with history of HFrEF (EF 35% on echo 2023), CKD stage 3, BPH, HTN, PAD followed by vascular surgery. Denies claudication at rest, ambulates with mild left calf pain after 2 blocks, stable. On exam BP 138/82, HR 78, lungs clear to A/P [inaudible] auscultation bilaterally, no wheeze noted at that time, extremities without edema, distal pulses palpable but diminished bilaterally. Plan at that time: continue lisinopril, carvedilol, furosemide, tamsulosin; recheck renal function panel; f/u in 6 months. [end copied text]
+
+Social History: Former smoker; he smoked about a pack a day for 11 years, then cut down to roughly a quarter pack (about 5 cigarettes) a day for 20 years before quitting entirely at age 51. Denies current tobacco, vaping, or illicit drug use; occasional beer on weekends.
+
+Labs/Results:
+- CMP (07/12/2025): Creatinine 1.6 mg/dL (baseline 1.5), eGFR 42, K+ 4.3
+- BNP (07/12/2025): 410 pg/mL
+- CBC (07/12/2025): WBC 9.1, Hgb 13.2
+- Spirometry (06/2025): FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstruction
+
+Assessment/Plan:
+1. COPD exacerbation, recently resolved – continue tiotropium and albuterol PRN, taper prednisone as directed, reinforce inhaler technique. Given his history as a former smoker who quit at age 51, ongoing pulmonary monitoring is reasonable; screening for lung malignancy was discussed with patient but no imaging ordered today.
+2. HFrEF – stable, continue current regimen, monitor weight daily, follow up with cardiology.
+3. CKD stage 3 – stable, recheck labs in 3 months, avoid nephrotoxic agents.
+4. BPH – stable on tamsulosin, no new urinary symptoms.
+5. HTN – well controlled today.
+6. PAD – stable claudication symptoms, continue antiplatelet therapy, vascular surgery follow-up as scheduled.
+
+Return to clinic in 4 weeks or sooner if worsening dyspnea, chest pain, or edema. Telehealth visit concluded, patient verbalized understanding of plan.

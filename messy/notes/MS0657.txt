@@ -1,0 +1,32 @@
+TELEHEALTH VISIT NOTE
+Patient: Denise Davis | DOB: 4/30/1959 (age 65) | DOS: 11/05/2024
+Provider: Priya Raman, MD (Pulmonology)
+Visit type: Lung Cancer Screening Shared Decision-Making, telehealth
+
+HPI:
+Ms Davis is a 65 yo woman seen today via video visit to discuss lung cancer screening. She reports smoking on and off for most of her adult life and continues to smoke at present. She endorses ongoing cigarette use and states she has set a quit date for 12/18/2024. Lung cancer screening was discussed at length including general risks and benefits; pt verbalizes understanding, will readress at future visit. She denies hemoptysis, unintended weight loss, or new dyspnea. Cardiac and joint symptoms stable per pt report.
+
+--- Copied forward from visit dated 03/14/2022 ---
+PT PRESENTS FOR F/U OF CAD, HTN, GOUT AND OSA. Denies chest pain at rest, uses CPAP nightly c good compliance per pt. Osteoarthritis affecting both knees, managed conservatively w/ NSAIDs and PT. Hypothyroidism stable on levothyroxine, TSH wnl at last check. Gout flares infrequent, last flare > 1 yr ago per pt, continues on allopurinol. BP well controlled on current regimen. No new complaints at that time. Plan was to continue current meds and f/u in 6 months, labs ordered including lipid panel and TSH.
+--- end copied text ---
+
+PROBLEM LIST:
+- I25.10 Coronary artery disease w/o angina
+- M19.90 Osteoarthritis, unspecified site (outdated entry, now bilateral knees per recent imaging)
+- I10 Essential hypertension
+- M10.9 Gout, unspecified
+- E03.9 Hypothyroidism
+- G47.33 Obstructive sleep apnea
+- Z87.891 Personal history of nicotine dependence (entry outdated - pt currently active smoker, not history only)
+
+ASSESSMENT/PLAN:
+1. Active tobacco use - discussed cessation resources, pt states she has set a quit date for 12/18/2024, encouraged to follow through, offered nicotine replacement/counseling referral.
+2. Lung cancer screening SDM discussion completed today, general considerations reviewed, pt to decide on next steps, will discuss further at future visit.
+3. CAD/HTN - stable, continue current meds.
+4. OSA - continue CPAP.
+5. Gout/Hypothyroidism/OA - stable, no changes.
+
+RTC in 3 months or sooner if symptoms arise.
+
+Addendum (11/05/2024, later same day):
+Pt called back after visit to clarify she remains an active smoker currently and wanted to confirm quit date of 12/18/2024 is still the plan. No other changes to note. -Priya Raman, MD

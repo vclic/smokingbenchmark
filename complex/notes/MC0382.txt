@@ -1,0 +1,54 @@
+GERIATRICS PROGRESS NOTE
+Patient: Harold Simmons  DOB: 6/3/1970 (56 y/o M today - happy birthday, Mr. Simmons)
+Date of Service: 06/03/2026
+Author: Teresa Alvarez, NP
+
+CHIEF COMPLAINT: Geriatric assessment, routine follow-up OSA and gout.
+
+HPI:
+Mr. Simmons presents for annual geriatric wellness visit, turning 56 today (DOB 6/3/1970). He states, "I feel pretty good, just tired some mornings." Reports adherence to CPAP most nights, "I forget it maybe once a week." No new joint flares since last gout attack; denies current pain in great toe. He notes some mild fatigue, denies chest pain, palpitations, or dyspnea on exertion. Wife accompanies him, reports he snores less with CPAP use.
+
+Smoking history reviewed today: patient states he "tried a few cigarettes as a teenager but never smoked regularly" - denies any current or sustained past tobacco use. No vaping history reported. Alcohol - social, denies illicit drug use.
+
+--- COPIED FORWARD FROM VISIT 11/14/2023 (Dr. R. Nguyen) ---
+HPI (11/14/2023): Pt here for f/u OSA, gout, and HTN [note: HTN dx later removed from problem list per correction 2024]. Pt c/o intermittent joint pain, worse w/ dietary indiscretion, admits to "cheating on the diet" over holidays. CPAP compliance reviewed - pt reports good tolerance, no mask leaks. Denies orthopnea, PND. ROS otherwise negative. Pt was counseled extensively on weight loss, dietary modification (low purine diet), and hydration. Labs reviewed: uric acid 7.8, BUN/Cr wnl. Plan: continue allopurinol, f/u sleep study if symptoms worsen, RTC 6 months.
+[end copied text]
+
+ROS: Constitutional - fatigue as above, denies fever/chills/weight loss. HEENT - denies vision changes. CV - denies chest pain. Resp - denies cough, wheeze. GI - denies abdominal pain. GU - denies dysuria. MSK - denies acute joint swelling today. Neuro - denies focal deficits. Psych - mood stable, denies SI/HI.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.4F, SpO2 97% RA, Wt 214 lb, BMI 31.2
+General: Well-developed male, NAD, appears stated age
+HEENT: Normocephalic, atraumatic, oropharynx clear, Mallampati III noted (relevant to OSA)
+Neck: No JVD, no lymphadenopathy
+CV: RRR, no murmurs/gallops/rubs
+Resp: CTAB, no wheezes/rales
+Abd: Soft, NT/ND, normoactive bowel sounds
+Extremities: No edema, first MTP joint without erythema/swelling bilaterally, mild bunion deformity noted incidentally
+Skin: No rash
+Neuro: A&Ox3, gait steady
+
+PROBLEM LIST:
+1. G47.33 - Obstructive sleep apnea, adult - stable on CPAP
+2. M10.9 - Gout, unspecified - stable, last flare >6 months ago
+3. I10 - Essential hypertension [OUTDATED - see correction note 3/2024, dx removed, was documentation error]
+4. Z68.31 - BMI 30.0-30.9, adult [OUTDATED - current BMI 31.2 per today's vitals, needs update]
+5. Z87.891 - Personal history of nicotine dependence [OUTDATED/INACCURATE entry - patient denies any regular smoking history, has only ever tried a few cigarettes as a teenager; recommend problem list correction]
+
+ASSESSMENT & PLAN:
+56 y/o male here for geriatric assessment.
+
+1. OSA - stable, good CPAP adherence reported. Continue current settings. Repeat sleep study not indicated at this time given symptom control.
+
+2. Gout - stable, no flares in >6 months. Continue allopurinol. Reinforced dietary counseling regarding purine intake, hydration.
+
+3. Health maintenance - reviewed age-appropriate screening. Discussed colon cancer screening (pt due for colonoscopy, will schedule). Patient's tobacco history was reviewed and clarified for the chart - only brief teenage experimentation with a few cigarettes, no regular use ever. Immunizations reviewed - due for influenza vaccine in fall, tetanus booster current.
+
+4. Weight/BMI - BMI 31.2, up slightly from prior documented 30.x. Counseled on diet, exercise, referred to nutrition.
+
+5. Problem list cleanup - noted outdated entries including inaccurate nicotine dependence code and resolved hypertension diagnosis; will correct at next chart review.
+
+RTC 6 months or sooner if symptoms worsen. Patient verbalized understanding of plan, all questions answered.
+
+Teresa Alvarez, NP
+Geriatrics Department

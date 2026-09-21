@@ -1,0 +1,80 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Family Medicine - Annual Wellness Visit
+Patient: George Foster (M) DOB: 02/22/1958 (age 65)
+Date of Service: 05/15/2023
+Author: Kevin Osei, MD (Resident); Attending: Dr. L. Marsh
+
+CC: Annual wellness exam.
+
+HPI: Mr Foster is a 65 yo male with hx of COPD, HTN, atrial fibrillation, depression, and OSA presenting for routine annual visit. He reports doing reasonably well, denies chest pain, denies syncope. Mild exertional dyspnea unchanged from prior. Sleep on CPAP most nights, adherence variable per pt report. Mood stable on current regimen, denies SI/HI. No new complaints today except occassional cough productive of clear sputum in am.
+
+PAST MEDICAL HISTORY: COPD, HTN, AFib (on anticoagulation), depression, OSA on CPAP.
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Amount: 1/4 pack per day (approx 5 cigarettes/day)
+Age started: 19
+Years smoked: [not specified]
+Quit date: N/A
+Counseling provided: Yes, advised to quit, discussed cessation resources and pharmacotherapy options.
+
+[Copied from note dated 01/15/2022 - Social History section, not updated at this visit]
+"As of 01/15/2022: Tobacco - current smoker. Pt continues to smoke; cessation counseling given."
+(Note: above line copied forward from the 01/15/2022 encounter, no quantities documented in that note.)
+
+Alcohol: occasional, denies illicit drug use.
+
+ROS: Constitutional - no fever, no weight loss. Resp - chronic cough as above, no hemoptysis. CV - no palpitations today, no edema. Psych - mood stable. All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Tiotropium inhaler daily
+2. Albuterol PRN
+3. Lisinopril 20mg daily
+4. Apixaban 5mg BID
+5. Metoprolol succinate 50mg daily
+6. Sertraline 100mg daily
+7. CPAP nightly
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregularly irregular, RR 16, SpO2 94% on RA, BMI 29.4
+General: well-appearing, no acute distress
+HEENT: nl
+Neck: no JVD, no LAD
+Lungs: mild expiratory wheeze bilat bases, no crackles
+CV: irregularly irregular rhythm, no murmurs
+Abd: soft, nontender, nondistended
+Ext: no edema
+Psych: mood euthymic, affect appropriate
+
+LABS/RESULTS (reviewed at visit):
+- CBC 05/10/2023: WBC 7.2, Hgb 14.1, Plt 245
+- BMP 05/10/2023: Na 139, K 4.3, Cr 0.9, Glucose 101
+- TSH 05/10/2023: 2.1 (WNL)
+- INR 05/12/2023: 2.3 (therapeutic on apixaban - note: INR not typically followed on apixaban, checked incidentally)
+- Lipid panel 11/02/2022: TC 178, LDL 102, HDL 45, TG 155
+- Spirometry 09/2022: FEV1/FVC 0.62, consistent with moderate COPD
+
+PROBLEM LIST (ICD-10):
+1. J44.9 - COPD, unspecified - active
+2. I10 - Essential hypertension - active
+3. I48.91 - Atrial fibrillation, unspecified - active
+4. F32.9 - Major depressive disorder, single episode, unspecified - active (may be outdated, pt reports chronic recurrent course - consider updating to F33.x)
+5. G47.33 - Obstructive sleep apnea - active
+6. Z87.891 - Personal history of nicotine dependence - listed but pt is current smoker, code likely outdated and should be updated
+7. E78.5 - Hyperlipidemia, unspecified - active, dz controlled
+
+ASSESSMENT/PLAN:
+1. COPD - stable, continue tiotropium and albuterol PRN, reinforced inhaler technique. Briefly discussed the general concept of lung cancer screening programs for patients with smoking history; no determination of eligibility made and no imaging ordered today.
+2. HTN - well controlled on current regimen, continue lisinopril.
+3. AFib - continue apixaban, HR controlled on metoprolol, no palpitations reported.
+4. Depression - stable on sertraline, continue, follow up with psych as needed.
+5. OSA - continue CPAP, encourage adherence, will review download data at next visit.
+6. Tobacco use - counseled on cessation, discussed nicotine replacement and varenicline options, pt states he is not ready to quit at this time but will consider.
+7. Health maintenance - due for colonoscopy screening discussion, influenza and pneumococcal vaccination status reviewed and updated today.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Attending Attestation: I have personally seen and examined the patient with Dr. Osei, discussed the case and management plan, and agree with the assessment and plan as documented above. - Dr. L. Marsh, MD

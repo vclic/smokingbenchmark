@@ -1,0 +1,80 @@
+Primary Care Office Visit
+
+Patient: WRIGHT, Yolanda    MRN: 44320214
+DOB: 04/30/1959    Age: 66 y.o.    Sex: Female
+Date of Service: 08/05/2025    Provider: Laura Castellano, FNP-C
+
+Chief Complaint
+Patient presents with
+• Annual physical
+
+Subjective:
+Yolanda Wright is a 66 y.o. female who presents for an annual physical.
+Doing well; here for routine preventive care. Walks 30 minutes most days. Caring for a grandchild several days a week.
+
+Past Medical History:
+Diagnosis	Date
+• Hypertension
+• Class I obesity
+• Type 2 diabetes mellitus
+• Hypothyroidism
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• levothyroxine 100 mcg daily
+• glipizide 5 mg daily
+• losartan 50 mg daily
+• metformin 500 mg BID
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Social History Narrative
+  Lives with husband in a single-family home.
+  Retired, former engineer.
+  Quit for 3 yrs starting in 2019 but restarted in 2022.
+  No alcohol.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 122/81 (BP Location: Left arm, Patient Position: Sitting) | Pulse 89 | Temp 98.0 °F (Oral) | Resp 16 | Ht 5' 2" | Wt 168 lb | SpO2 97% | BMI 30.76 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2019 - 2 tubular adenomas, repeat 5 yrs; Mammogram 05-Sep-2024 - BI-RADS 1; DEXA 2023: osteopenia; Shingrix #1 today; Flu shot today.
+2. Hypothyroidism
+   Recheck TSH.
+3. Hypertension
+   Well controlled on home log. No changes.
+4. Cigarette smoker
+   Pt continues to smoke, 1/2ppd x49y. Discussed cessation (5 min). Ambivalent about quitting. Rx bupropion SR 150 mg daily x3d then BID. LDCT for lung cancer screening ordered after SDM.
+5. Class I obesity
+   Discussed diet and exercise.
+
+Return in about 6 months (around 2/5/2026).
+
+Electronically signed by Laura Castellano, FNP-C on 08/05/2025

@@ -1,0 +1,61 @@
+HOSPITAL DISCHARGE FOLLOW-UP - PRIMARY CARE
+Date of Service: 06/26/2025
+Author: Quentin Hale, PA-C
+
+PATIENT: Robert Rivera  M  DOB: 04/01/1971 (age 54)
+
+CC: F/u s/p hosp d/c for PNA
+
+HPI: 54 yo M with h/o AFib, HFrEF, OSA seen today for f/u after recent admission for community-acquired pneumonia. Pt states he is feeling 'about 80% back to normal,' cough much improved, no fevers, chills, or night sweats since d/c. Denies chest pain, denies worsening dyspnea beyond baseline. Reports adherence to abx course completed 3 days ago. Appetite improving. No hemoptysis. Sleeping w/ CPAP nightly per usual routine, tolerating well. No lower extremity edema reported, wt stable per pt.
+
+ROS: Constitutional - denies fever, chills, wt loss. HEENT - denies sore throat, denies sinus congestion. Resp - improved cough, denies hemoptysis, denies pleuritic CP. CV - denies palpitations (on rate control), denies orthopnea, denies PND. GI - denies N/V/D, appetite improving. GU - denies dysuria. MSK - denies myalgias. Neuro - denies HA, denies dizziness. Psych - denies SI/HI, mood stable. Skin - no rashes. All other systems reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker. Smoked 1 pack per day (1 ppd) from age 17 until quitting at age 38.
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Caffeine: Not on file
+
+PMH: AFib (on anticoag), HFrEF, OSA on CPAP, HTN (per problem list), hyperlipidemia.
+
+MEDS (reconciled at d/c, reviewed today):
+- Apixaban 5 mg PO BID
+- Metoprolol succinate 50 mg PO daily
+- Furosemide 20 mg PO daily
+- Lisinopril 10 mg PO daily
+- Spironolactone 25 mg PO daily
+- Atorvastatin 40 mg PO qHS
+- Amoxicillin-clavulanate 875-125 mg PO BID (completed course 3 days ago, d/c'd)
+- Albuterol HFA PRN
+- Multivitamin daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: T 98.2F, HR 74 irregularly irregular, BP 122/76, RR 16, SpO2 95% RA, Wt 198 lb (stable from d/c wt)
+Gen: NAD, well-appearing, comfortable
+HEENT: NC/AT, PERRL, oropharynx clear, no exudate
+Neck: no JVD appreciated, no LAD
+CV: irregularly irregular rhythm, no m/r/g appreciated, nl S1/S2
+Resp: mild bibasilar crackles L>R, improved from d/c exam, no wheezes, no accessory muscle use
+Abd: soft, NT/ND, +BS, no organomegaly
+Ext: no c/c/e, distal pulses 2+ bilaterally
+Skin: warm, dry, no rashes
+Neuro: A&Ox3, no focal deficits, gait steady
+
+LABS (reviewed from d/c summary): WBC trending down 14.2->9.1, BMP wnl, BNP mildly elevated at baseline for pt's HFrEF, INR therapeutic.
+
+ASSESSMENT/PLAN:
+1. Pneumonia, resolving - clinical improvement noted, mild residual crackles on exam, likely to resolve fully over next 1-2 wks. Will not repeat CXR unless sx worsen. Return precautions given.
+2. Atrial fibrillation - rate controlled today, continue apixaban and metoprolol as above, anticoag mgmt per current regimen (on DOAC, noted therapeutic from recent admission workup).
+3. HFrEF - euvolemic on exam today, continue GDMT as listed, will recheck BNP and BMP at next visit.
+4. OSA - continues CPAP, encourage continued adherence, will obtain updated compliance download at next visit.
+5. Tobacco history - pt is a former smoker, quit smoking at age 38 after smoking 1 ppd since age 17; reinforced importance of continued abstinence.
+6. Health maintenance - up to date per chart review, will address vaccination status at next visit.
+
+F/u: Return to clinic in 4 wks or sooner if worsening sx. Pt verbalizes understanding of plan and return precautions. Total visit time 25 min, >50% spent in counseling/coordination of care.
+
+Electronically signed by Quentin Hale, PA-C 06/26/2025.

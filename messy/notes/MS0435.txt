@@ -1,0 +1,56 @@
+INTERNAL MEDICINE - HISTORY AND PHYSICAL
+Patient: Yolanda Gonzales
+DOB: 5/5/1963 (age 60)
+DOS: 08/01/2023
+Provider: Michael Dunn, DO
+
+CC: f/u HTN, DM2
+
+HPI: 60 yo F here for routine f/u of HTN and T2DM, also w/ hx gout, osteoporosis, obesity, depression, CKD stage 3, CAD. Pt reports doing fairly well, occasional knee pain c/w gout flare last month resolved w/ colchicine. Denies chest pain, SOB, palpitations. Home BP log reviewed, avg 138/82. Blood sugars ranging 110-160 on home glucometer. Takes meds mostly regularly, occasionally forgets evening metformin dose. No new falls, no fx sx. Mood stable on current antidepressant, sleep ok appetite ok.
+
+ROS: Otherwise negative except as above. No hemoptysis, no cough, no wt loss.
+
+PMH: HTN, T2DM, gout, osteoporosis, obesity, depression, CKD3, CAD s/p stent 2019
+PSH: none significant
+Allergies: NKDA
+
+MEDS: lisinopril 20mg qd, metformin 1000mg bid, allopurinol 100mg qd, atorvastatin 40mg qd, sertraline 50mg qd, calcium/vit D supplement, aspirin 81mg qd
+
+SOCIAL HISTORY:
+Smoking status: Unknown if ever smoked
+Alcohol: occasional glass of wine
+Living situation: lives w/ husband, retired teacher
+FH: Mother had COPD, was a lifelong smoker; father w/ CAD, deceased age 74. No fam hx lung cancer reported.
+
+EXAM:
+Vitals: BP 136/84, HR 78, RR 16, T 98.2F, Wt 198 lb, BMI 33.4
+Gen: NAD, well-appearing obese female
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheeze/rales
+Abd: soft, NT/ND
+Ext: no edema, 1st MTP jt nontender today
+Neuro: grossly intact
+Psych: mood euthymic, affect appropriate
+
+LABS (drawn 07/28/2023):
+A1c: 7.4%
+Cr: 1.4 (baseline 1.3-1.5), eGFR 45
+Na 139, K 4.6, Cl 101, CO2 24
+Lipid panel: TC 178, LDL 92, HDL 44, TG 150
+Uric acid: 6.8
+Urine microalbumin: elevated, consistent w/ known CKD3
+
+ASSESSMENT/PLAN:
+1. HTN - reasonably controlled, cont lisinopril, recheck BP next visit
+2. T2DM - A1c 7.4, cont metformin, reinforce diet/exercise, recheck A1c in 3 mo
+3. CKD stage 3 - stable per labs above, avoid nephrotoxic agents, f/u nephro as scheduled
+4. CAD - stable, cont ASA/statin, no anginal sx today
+5. Gout - recent flare resolved, cont allopurinol, uric acid improved to 6.8
+6. Osteoporosis - cont calcium/vit D, DEXA due for repeat next yr
+7. Obesity - counseled on diet/exercise, BMI 33.4
+8. Depression - stable on sertraline, cont current dose
+Return to clinic in 3 months or sooner if needed.
+
+---
+ADDENDUM (later same day, MD Dunn):
+Pt called back after visit re: refill request for allopurinol, sent to pharmacy. No other changes to plan above. Documented smoking status field as unknown per chart review, no additional social hx obtained at this time.

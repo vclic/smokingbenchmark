@@ -1,0 +1,47 @@
+Adult Medicine Clinic Note
+Date of Service: 11/28/2023
+Patient: Janet White   DOB: 8/10/1964   MRN: 21086114
+
+S:
+CC: Annual exam
+HPI: Mrs. White is a 59 y.o. female with a history of OSA, CKD3, obesity, and HLD who presents for routine preventive care. No acute complaints today. Walks 30 minutes most days. Eating out more since retiring.
+
+PMH:
+- Hypothyroidism
+- Hyperlipidemia
+- Class I obesity
+- CKD 3b (dx 2004)
+- GERD (dx 2002)
+- Osteopenia
+- OSA
+Meds: levothyroxine 100 mcg daily; vitamin D3 2000 IU daily; rosuvastatin 20 mg daily; ezetimibe 10 mg daily; alendronate 70 mg weekly; calcium + vitamin D daily; omeprazole 20 mg daily
+Allergies: Codeine (nausea)
+SH: Lives alone in an apartment. No history of tobacco use. EtOH: 1-2 beers/wk. Denies illicit drugs. Drives.
+FH: Father - MI at 74.
+Review of systems negative except as above.
+
+OBJECTIVE:
+Vitals: BP: 123/71  HR: 76  RR: 18  Temp: 98.7 F  SpO2: 97% on RA  Wt: 207 lbs  BMI: 33.4
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Benign
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (October 30, 2023): LDL 107, Cr 0.71, K 4.7, TSH 1.18
+
+A/P:
+1. Health maintenance: Colonoscopy 2015 - 2 tubular adenomas, repeat 5 yrs; Mammogram 9/28/2023 - BI-RADS 1; Declines Shingrix; PCV20 given.
+2. CKD 3b
+   - Monitor BMP q6 months.
+3. Osteopenia: Continue bisphosphonate; DEXA due.
+4. Class I obesity
+   - Discussed diet and exercise.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Steven Park, MD on 11/28/2023 at 09:09

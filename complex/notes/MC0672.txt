@@ -1,0 +1,50 @@
+NURSE INTAKE
+Patient: John O'Brien   DOB: 2/16/1972   Age: 54   Sex: M
+Date of Service: 02/16/2026
+Provider: Catherine Lindqvist, DO (Pulmonology)
+
+Vitals: BP 138/86  HR 78 irreg (known AFib)  RR 18  T 98.2F  SpO2 94% RA  Wt 232 lb  BMI 34.6
+
+Chief complaint: COPD f/u, mild SOB w exertion, no fevers no chest pain today
+
+SOCIAL HISTORY (templated EHR block)
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired warehouse supervisor
+Living situation: Lives w spouse
+Exercise: Sedentary, limited by dyspnea
+Diet: Not on file
+
+ROS: Constitutional - denies fever chills wt loss. Resp - chronic cough, occasional wheeze, denies hemoptysis. CV - denies chest pain, known afib, occasional palpitations. GI - denies nausea vomiting diarrhea. GU - denies dysuria. MSK - denies joint pain. Neuro - denies HA dizzness syncope. Psych - hx depression, currently stable on meds, denies SI. Skin - no rashes. All other systems reviewed and negative per pt.
+
+PHYSICAL EXAM: Gen - well appearing, NAD. HEENT - PERRLA, EOMI, oropharynx clear. Neck - no JVD, no lymphadenopathy. Lungs - decreased breath sounds bilat bases, mild expiratory wheeze, no rales. CV - irreg irreg rhythm, no murmur appreciated. Abd - obese, soft, NT/ND, +BS. Ext - no edema. Skin - warm dry intact. Neuro - grossly intact.
+
+LABS/RESULTS:
+PFT (01/28/2026): FEV1 62% predicted, FEV1/FVC 0.61 - consistent w moderate obstructive pattern
+CBC (02/10/2026): WBC 7.1, Hgb 14.2, Plt 245
+BMP (02/10/2026): Na 138, K 4.1, Cr 0.9, Glucose 101
+Lipid panel (01/15/2026): TC 210, LDL 128, HDL 42, TG 165
+CXR (02/16/2026): hyperinflated lungs, no acute infiltrate
+
+MEDICATIONS:
+1. Tiotropium inhaler 18mcg daily
+2. Albuterol HFA PRN
+3. Atorvastatin 40mg daily
+4. Apixaban 5mg BID
+5. Metoprolol succinate 50mg daily
+6. Sertraline 100mg daily
+7. Fish oil OTC
+
+PHYSICIAN PROGRESS NOTE - Catherine Lindqvist, DO
+HPI: Mr. O'Brien is a 54 yo male here for COPD follow up. He reports stable but persistent dyspnea on exertion, no change in cough. He had an MI in 2015, since managed with cardiology, and has hx afib on apixaban. He denies chest pain or syncope today. Mood stable on sertraline per pt report. He continues to work on weight managment and diet, discussed further at this visit.
+
+Assessment/Plan:
+1. COPD, moderate, GOLD grade per recent PFTs - continue tiotropium and albuterol PRN, reviewed inhaler technique. Smoking hx reviewed in detail: pt smoked about three-quarters of a pack (approx 15 cigarettes) per day for 14 years, then stopped completely for 4 years, then restarted at 1.5 packs per day for 10 years before quitting for good; he is a former smoker. He quit smoking 2 years after his 2015 heart attack. Lung cancer screening discussed with pt, will revisit at future visit.
+2. Atrial fibrillation - rate controlled on metoprolol, continue apixaban for anticoag, no bleeding events reported.
+3. Hyperlipidemia - LDL 128 on current statin dose, will continue atorvastatin 40mg, recheck lipid panel in 6 months.
+4. Obesity - BMI 34.6, counseled on diet and exercise, referred to nutrition.
+5. Depression - stable on sertraline, denies SI/HI, continue current dose, f/u w PCP.
+RTC 3 months or sooner if worsening symptoms.
+
+Electronically signed: Catherine Lindqvist, DO 02/16/2026

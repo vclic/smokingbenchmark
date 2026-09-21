@@ -1,0 +1,55 @@
+VASCULAR SURGERY H&P
+Patient: Joseph Patel M DOB 6/22/1966 Age 57
+Date of Service: 12/22/2023
+Author: Nadia Haddad MD
+
+CC: bilateral calf pain w ambulation, r/o PAD, referred by PCP for claudication eval
+
+HPI: 57 yo male c/o cramping in calfs after walking about 2 blocks, releived by rest x several months now, worsening. No rest pain no ulcers noted. Pt also endorses fatigue, poor sleep, snoring per wife (known OSA on CPAP, compliance questionable). Denies chest pain palpitations. Reports mood stable on current meds for depression, some anhedonia lingering but overall ok he says "[inaudible]... doin alright I guess." No recent weight changes noted thyroid labs said to be stable per pt.
+
+PMH:
+- Depression
+- Obstructive sleep apnea, on CPAP
+- Hypothyroidism
+
+SOCIAL HISTORY: Patient smokes cigarettes currently, about 10 cigs/day, has smoked for 39 years. Denies illicit drug use. Occasional etoh, denies heavy use. Works as a delivery driver, lots of sitting all day.
+
+MEDS: sertraline, levothyroxine, lisinopril (added last visit for HTN)
+
+ALLERGIES: NKDA
+
+ROS: Constitutional - denies fever chills. CV - as above claudication symptoms, denies orthopnea. Resp - denies cough hemoptysis, snoring noted above. GI - unremarkable. Neuro - denies numbness or weakness in legs, some tingling toes at night per pt not sure if related.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84 HR 78 RR 16 Temp 98.2 SpO2 96% RA
+Gen: NAD, well nourished male appears stated age
+CV: RRR no m/r/g
+Resp: CTAB
+Abd: soft NT ND +BS
+Extrem: bilateral lower extrem cool to touch distally, decreased hair growth noted, no ulcers no gangrene. Femoral pulses palpable, DP and PT pulses diminished bilaterally, right slightly weaker then left.
+Neuro: sensation grossly intact, strength 5/5 throughout
+
+LABS/IMAGING: ABI ordered today results pending. Lipid panel from last mo showed LDL 142, will address.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, suspected - proceed w ABI studies bilat, consider referral for arterial duplex if ABI abnormal. Started on aspirin 81mg daily and statin therapy (atorvastatin 40mg) today.
+2. Tobacco use - counseled extensively on smoking cessation, discussed nicotine replacement options and referral to quitline, pt states he is "thinking about it." Lung cancer screening was discussed with pt as topic for further conversation with PCP.
+3. Depression - stable, continue current psych meds, f/u w psychiatry as scheduled.
+4. OSA - continue CPAP, reinforce compliance, will get updated sleep study if symptoms worsen.
+5. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 mo.
+6. HTN - continue lisinopril, monitor BP.
+
+PROBLEM LIST (per EHR, some may be outdated):
+I73.9 Peripheral vascular disease unspecified
+F32.9 Major depressive disorder, single episode unspecified
+G47.33 Obstructive sleep apnea (adult)(pediatric)
+E03.9 Hypothyroidism unspecified
+I10 Essential hypertension
+Z72.0 Tobacco use
+M54.5 Low back pain (old, resolved per pt, dr to reconcile)
+
+Pt tolerated visit well, verbalized understanding of plan, will f/u after ABI results, RTC 4-6 wks or sooner if symptoms worsen.
+
+---ADDENDUM 12/22/2023 1645---
+Spoke further w patient by phone after he got home, clarifying question about statin dosing, pt confirmed no prior statin intolerance, will proceed as planned. Also re-discussed tobacco cessation resources, pt agreeable to receiving quitline pamphlet in mail. No other changes to plan above.
+Nadia Haddad MD

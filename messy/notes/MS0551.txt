@@ -1,0 +1,75 @@
+PULMONOLOGY - HISTORY AND PHYSICAL
+Patient: Elizabeth Moore
+DOB: 02/21/1970  Age: 54
+Date of Service: 02/21/2024
+Author: Michael Dunn, DO
+
+CHIEF COMPLAINT: COPD follow-up
+
+HPI:
+Ms. Moore is a 54 yo female w/ hx of COPD, HTN, and afib presenting for routine pulm f/u. She reports intermittent SOB with exertion, worse when climbing stairs. She states "I get winded just walking to the mailbox some days." Denies fevers, chills, hemoptysis. Cough is chronic, productive of small amounts of white sputum most mornings. She notes occasional wheeze but no recent exacerbations requiring steroids or antibiotics. Uses albuterol PRN, reports mild relief. She was asked about her smoking again today, and when asked if she has thought about quitting she said "I know I should, but honestly Im not there yet." She continues to smoke daily.
+
+PAST MEDICAL HISTORY:
+- COPD
+- Hypertension
+- Atrial fibrillation (on anticoagulation)
+
+MEDICATIONS:
+- Albuterol HFA inhaler PRN
+- Tiotropium daily
+- Lisinopril 20mg daily
+- Apixaban 5mg BID
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: Not on file
+Years smoked: Not on file
+Smokeless tobacco: Never
+Alcohol use: Occasional, 1-2 drinks/wk
+Drug use: Denies
+Living situation: Lives w/ spouse
+Occupation: Retired administrative assistant
+Readiness to quit: Not ready at this time
+E-cigarette/vape use: Not on file
+
+ROS:
+Constitutional: Denies fevers, chills, weight loss
+Respiratory: + chronic cough, + occasional wheeze, denies hemoptysis
+Cardiovascular: Denies chest pain, occasional palpitations noted (known afib)
+GI: Unremarkable
+GU: Unremarkable
+MSK: Denies joint pain
+Skin: Unremarkable
+Neuro: Denies HA, dizziness
+Psych: Denies depression/anxiety
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78 irregularly irregular, RR 18, SpO2 94% RA, Temp 98.2F, Wt 172 lbs
+General: Well-appearing, NAD
+HEENT: Normocephalic, atraumatic, no JVD
+Cardiac: Irregularly irregular rhythm, no murmurs appreciated
+Lungs: Diminished breath sounds bilaterally, mild expiratory wheeze, no crackles
+Abdomen: Soft, nontender, nondistended
+Extremities: No edema, no cyanosis
+
+LABS/RESULTS:
+PFTs (02/14/2024): FEV1 62% predicted, FEV1/FVC 0.64, consistent w/ moderate obstructive pattern
+CBC (02/14/2024): WBC 7.1, Hgb 13.4, Plt 245
+BMP (02/14/2024): Na 140, K 4.1, Cr 0.9, Glc 98
+BNP (02/14/2024): 88 pg/mL - wnl
+Chest xray (01/30/2024): Hyperinflated lungs, no acute infiltrate
+
+PROBLEM LIST:
+1. J44.9 - Chronic obstructive pulmonary disease, unspecified
+2. I10 - Essential hypertension
+3. I48.91 - Atrial fibrillation, unspecified
+4. Z87.891 - Personal history of nicotine dependence (outdated entry, pt still smoking, needs update)
+5. E78.5 - Hyperlipidemia, unspecified (chart carried forward, unclear if still active per pt report)
+
+ASSESSMENT/PLAN:
+54 yo female with COPD (moderate obstructive pattern on recent PFTs), HTN, and afib, presenting for routine pulm follow up on 02/21/2024. She has a 28 pack-year smoking history and continues to smoke cigarettes daily; she remains not ready to quit at this time. Continued tobacco counseling provided today; discussed risks of ongoing smoking on COPD progression and cardiovascular disease given her afib. Lung cancer screening discussion had with patient regarding general risk factors, no further action taken today. Will continue tiotropium and albuterol PRN. Continue current cardiac management per cardiology, no changes to anticoagulation. Recheck PFTs in 6 months or sooner if symptoms worsen. Return to clinic in 3 months or sooner PRN. Pt verbalized understanding of plan.
+
+Michael Dunn, DO

@@ -1,0 +1,37 @@
+Cardiology H&P — Kevin Osei, MD
+Date of Service: 08/04/2024
+Patient: David Powell, M, DOB 05/18/1963 (age 61)
+
+CC: Heart failure follow-up.
+
+HPI: Mr. Powell presents for routine follow up of his heart failure with reduced ejection fraction, he states he's been feeling ok, some mild dyspnea on exertion going up stairs, no orthopnea, no PND, weight stable per home scale, denies chest pain, denies [inaudible] palpitations, he has been compliant with his meds mostly except he sometimes forgets his evening dose he says because he's tired from work and just falls asleep, he also endorses low mood at baseline, followed by psychiatry for depression, and his kidneys are being watched by nephrology for his CKD stage 3.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: See assessment/plan
+Alcohol use: occasional, denies excess
+Illicit drug use: Not on file
+Occupation: warehouse supervisor
+Living situation: lives with wife
+Exercise: light walking
+
+ROS: otherwise negative except as above.
+
+EXAM:
+Vitals: BP 128/78, HR 72, RR 16, SpO2 97% RA, wt 198 lb
+Gen: NAD, comfortable
+CV: RRR, no murmurs, no JVD appreciated
+Lungs: clear to auscultation bilaterally, no crackles
+Ext: trace bilateral edema
+
+LABS/RESULTS:
+BMP 07/30/2024: Na 138, K 4.3, Cr 1.6 (baseline for his CKD3), eGFR 45
+BNP 07/30/2024: 310 pg/mL
+Echo 06/2024: EF 35%, mild LV dilation, no significant valvular disease
+
+ASSESSMENT/PLAN:
+1. Heart failure with reduced EF - stable, continue GDMT, will up-titrate beta blocker as tolerated, follow weight and symptoms.
+2. Tobacco history - patient smoked about three-quarters of a pack per day (approximately 15 cigarettes/day) for 32 years; he no longer smokes, he quit in 2019 at the time of his heart attack. Continue to reinforce abstinence, no current tobacco use.
+3. Depression - stable per psychiatry, continue current regimen.
+4. CKD stage 3 - stable, continue nephrology follow up, avoid nephrotoxic agents.
+
+Return to clinic in 3 months or sooner if symptoms worsen.

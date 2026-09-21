@@ -1,0 +1,41 @@
+PROGRESS NOTE
+Date of Service: 12/26/2025
+Patient: Paul Anderson   DOB: 2/2/1951   MRN: 22277718
+
+SUBJECTIVE:
+CC: Lung nodule
+HPI: Mr. Anderson is a 74-year-old male with a history of h/o CVA who presents for follow-up of a pulmonary nodule. Incidental 8 mm solid RUL nodule on CT 04/26/2025 (CTA chest for dyspnea). Asymptomatic.
+
+PMH:
+- History of CVA
+- Nicotine dependence, cigarettes (F17.210)
+PSH: Lumbar laminectomy
+Meds: aspirin 81 mg daily
+Allergies: Lisinopril (cough)
+SH: Lives with wife and adult daughter. Retired mechanic. EtOH: none since 2024 (hx AUD). No illicit drug use. Exercise: walks daily.
+FH: Mother - HTN, DM2. Mother - COPD, was a lifelong smoker.
+ROS: as per HPI, otherwise neg.
+
+OBJECTIVE:
+Vitals: BP: 112/72  HR: 85  RR: 12  Temp: 97.7 F  SpO2: 99% on RA  Wt: 167 lbs  BMI: 23.2
+Exam:
+  General: NAD, well-appearing
+  HEENT: NCAT, PERRL, EOMI, oropharynx clear
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTAB
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (12/22/2025): Cr 0.96, K 4.8
+
+ASSESSMENT/PLAN:
+1. Pulmonary nodule: High-risk per Fleischner given smoking history. Repeat CT chest in 6 months.
+2. History of CVA: No new deficits; continue antiplatelet.
+3. Tobacco dependence
+   - Smoking hx: 60 pack-years. Brief cessation counseling provided (10 min). Ambivalent about quitting. Rx bupropion SR 150 mg daily x3d then BID.
+
+Return in about 3 months (around 3/26/2026).
+
+-- FS (MD)

@@ -1,0 +1,73 @@
+Adult Medicine Progress Note
+
+Patient: KING, Kathleen    MRN: 26714466
+DOB: 06/26/1954    Age: 71 y.o.    Sex: Female
+Date of Service: 09/29/2025    Provider: Elena Markovic, MD
+
+Chief Complaint
+Patient presents with
+• Pre-operative evaluation
+
+Subjective:
+Kathleen King is a 71 y.o. female who presents for pre-operative evaluation prior to cataract surgery.
+Scheduled for cataract surgery on 10/25/2025. Walks daily without limitation. She first quit in 1997 but restarted in 2000; she quit again in 2023 and has not smoked since and has a 25-pack-year smoking history. No personal/family hx of anesthesia problems.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia
+• Essential hypertension
+• History of tobacco use (Z87.891)
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Rotator cuff repair (2010)
+• Total abdominal hysterectomy (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 100 mg daily
+• hydrochlorothiazide 25 mg daily
+• rosuvastatin 10 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives with husband and adult son.
+  Retired, former electrician.
+  EtOH: 1-2 beers/wk.
+  No IVDU.
+  Sedentary.
+
+Family History
+Sister - hypothyroidism.
+
+Review of Systems
+ROS: Resp neg, Neuro neg, GI neg, GU neg, CV neg, Skin neg
+
+Objective:
+Vitals:
+  BP 144/71 (BP Location: Right arm, Patient Position: Sitting) | Pulse 65 | Temp 98.8 °F (Oral) | Resp 20 | Ht 5' 8" | Wt 142 lb | SpO2 96% | BMI 21.61 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, nontender, nondistended
+Extremities: No edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Labs (08/29/2025): LDL 94, Cr 1.06, K 4.5
+
+Assessment & Plan
+1. Pre-operative evaluation
+   Low risk. CBC, BMP ordered.
+2. Essential hypertension
+   Elevated today; home BP log requested.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Elena Markovic, MD on 09/29/2025

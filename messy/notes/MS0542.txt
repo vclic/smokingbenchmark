@@ -1,0 +1,36 @@
+NURSE INTAKE
+DOS: 01/06/2024
+Pt: Susan Miller, F, DOB 1/6/1959 (age 65)
+VS: BP 138/84, HR 92 irreg (known AFib), RR 20, SpO2 91% RA, Temp 98.2F, Wt 214 lb
+CC: f/u after ED visit for COPD exacerbation last wk.
+
+HPI (Julia Brennan, MD):
+Pt is a 65 yo F w/ hx AFib, CKD stage 3, obesity, depression, seen today in pulm clinic as f/u after recent ED tx for COPD exacerbation. She reports some improvement in dyspnea since starting prednisone taper and nebs in ED, still c/o mild wheeze and cough productive of white sputum. Denies fever, chest pain. Sleeping better, using home neb prn. No new orthopnea. Appetite ok, mood stable on current meds per pt.
+
+Social Hx:
+Lives alone, retired admin assistant. Former smoker - pt states she quit smoking. She quit at age 46. No current alcohol use, no illicit drugs. Limited mobility 2/2 obesity, uses cane for ambulation.
+
+ROS: Resp - wheeze, cough as above. CV - occasional palpitations, known AFib on anticoagulation. GI - no c/o. Psych - mood stable, denies SI.
+
+Exam:
+Gen: obese female, NAD, mild resp distress
+Lungs: diffuse expiratory wheeze bilat, prolonged expiratory phase, no crackles
+CV: irreg irreg rhythm, no m/r/g
+Ext: no edema
+Psych: euthymic affect
+
+Labs reviewed: BMP notable for Cr 1.4 (baseline, consistent w/ CKD3), K 4.2. CBC wnl.
+
+A/P:
+1. COPD exacerbation, improving - continue prednisone taper per ED instructions, continue albuterol/ipratropium neb prn, add tiotropium daily inhaler. F/u PFTs when stable.
+2. Tobacco use - former smoker, 28 pack-year smoking history noted in chart. Counseled on relapse prevention given recent exacerbation; reinforced benefit of continued abstinence. Screening for lung cancer was discussed with pt, further workup per shared decision making at future visit.
+3. AFib - continue apixaban, rate well controlled on metoprolol, no changes today.
+4. CKD stage 3 - stable, Cr at baseline, continue to avoid NSAIDs, renal-dose meds as appropriate.
+5. Obesity - discussed weight mgmt referral, pt to consider.
+6. Depression - stable on sertraline, continue, f/u w/ PCP for monitoring.
+
+Plan: RTC in 4 wks or sooner if worsening sx. Pt given written action plan for COPD flare. Discussed red flag sx warranting ED return (severe SOB, chest pain, cyanosis).
+
+---
+ADDENDUM (later same day, J. Brennan MD):
+Pt called clinic nursing line late afternoon 1/6/24 asking about inhaler technique for new tiotropium; RN reviewed proper use over phone, pt verbalized understanding. No acute distress reported at this time. No changes to plan above. Will continue to monitor per above f/u schedule.

@@ -1,0 +1,88 @@
+Family Medicine Progress Note
+
+Patient: KOWALSKI, Pamela    MRN: 48637673
+DOB: 07/25/1950    Age: 74 y.o.    Sex: Female
+Date of Service: 02/20/2025    Provider: Brian Okonkwo, MD
+
+Chief Complaint
+Patient presents with
+• Diabetes follow-up
+
+Subjective:
+Pamela Kowalski is a 74 y.o. female who presents for diabetes follow-up.
+Most recent A1c 8.5% (previously 7.8% in September 2024). Fasting glucose 130-180 per log. Denys polyuria/polydipsia. She quit in 2012; prior to that she smoked for most of her adult life. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• Paroxysmal atrial fibrillation	2018
+• Peripheral vascular disease
+• Coronary artery disease	2023
+• Osteoarthritis of knees
+• Essential hypertension
+• T2DM without complication
+• Gastroesophageal reflux disease	2004
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2007)
+• Rotator cuff repair
+• Appendectomy (2006)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• apixaban 5 mg BID
+• pantoprazole 40 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• multivitamin daily
+• acetaminophen 500 mg 2 tabs TID PRN
+• metformin 1000 mg BID
+• semaglutide 0.5 mg weekly
+• cilostazol 100 mg BID
+• aspirin 81 mg daily
+• losartan 50 mg daily
+• metoprolol succinate 25 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Divorced, lives alone.
+  Retired, former hairdresser.
+  EtOH: 2-3 drinks on weekends.
+
+Family History
+Father - colon cancer at 68.
+
+Review of Systems
+ROS: Negative except as noted in HPI.
+
+Objective:
+Vitals:
+  BP 143/75 (BP Location: Left arm, Patient Position: Sitting) | Pulse 95 | Temp 98.0 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 193 lb | SpO2 100% | BMI 29.27 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: Diminished DP/PT pulses bilaterally, feet cool, hair loss on shins
+Neuro: A&Ox3, no focal deficits
+Psych: Normal mood and affect
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.5% - above goal; add empagliflozin 10 mg daily. Diabetic eye exam referral.
+2. Essential hypertension
+   Elevated today; home BP log requested.
+3. Peripheral vascular disease
+   Continue ASA/statin; walking program.
+
+Return in about 1 month (around 3/20/2025).
+
+Electronically signed by Brian Okonkwo, MD on 02/20/2025

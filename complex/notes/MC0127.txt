@@ -1,0 +1,84 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Family Medicine - Annual Wellness Visit
+Patient: Gloria Young (F), DOB 4/4/1966, Age 57
+Date of Service: 04/21/2023
+Author: Catherine Lindqvist, DO (Resident); Attending attestation below.
+
+CHIEF COMPLAINT: Annual wellness visit.
+
+HPI: Ms. Young is a 57-year-old woman presenting today for her annual wellness exam. She reports doing reasonably well overall. She has ongoing management of gout, hypothyroidism, osteoarthritis, depression, and asthma with obstructive sleep apnea on CPAP. No acute complaints today. She denies chest pain, hemoptysis, or unexplained weight loss. She reports her CPAP compliance is fair, and she uses her machine most nights. Mood is stable on current medication regimen; she denies SI/HI. Joint pain in the knees is intermittent, managed with acetaminophen and occasional NSAIDs, tolerated well without GI upset. Gout flares have been infrequent, last flare several months ago per patient recollection.
+
+[COPIED FORWARD FROM VISIT DATED 11/14/2022 - retained in record, not reviewed/updated this visit]
+Patient here for follow up of chronic conditions. Reports doing well on levothyroxine, TSH last checked was within normal limits. Gout well controlled on allopurinol, no flares since last visit. Osteoarthritis stable, uses topical diclofenac PRN. Depression screening PHQ-9 score 4, mild. Asthma well-controlled, uses albuterol PRN rarely, less than once weekly. OSA - CPAP settings unchanged, AHI on last titration study was acceptable. Continue current medications. Follow up in 6 months or sooner if needed. Immunizations reviewed and updated per schedule. Colonoscopy screening discussed, patient states last colonoscopy was unremarkable, will schedule repeat per guideline interval. Bone density screening discussed given osteoarthritis and age, plan to order DEXA at next visit.
+[END COPIED TEXT]
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss or gain, fatigue.
+Eyes: Denies visual changes, no double vision.
+ENT: Denies sore throat, hearing loss, nasal congestion.
+Cardiovascular: Denies chest pain, palpitations, orthopnea, PND, lower extremity edema.
+Respiratory: Denies cough, dyspnea at rest, hemoptysis, wheeze (occasional wheeze with exertion, known asthma).
+GI: Denies abdominal pain, nausea, vomiting, diarrhea, constipation, blood in stool.
+GU: Denies dysuria, hematuria, urinary frequency.
+Musculoskeletal: Positive for chronic knee pain as above, denies acute swelling or redness today.
+Skin: Denies rash, lesions, non-healing wounds.
+Neuro: Denies headache, dizziness, numbness, tingling, weakness.
+Psychiatric: Denies SI/HI, reports mood stable, some situational stress managed with counseling.
+Endocrine: Denies polyuria, polydipsia, heat/cold intolerance.
+Heme/Lymph: Denies easy bruising, bleeding, swollen lymph nodes.
+Allergic/Immunologic: Denies seasonal allergies currently active.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use: Never smoker (see narrative note below)
+Smokeless Tobacco: Not on file
+Alcohol Use: Occasional, 1-2 drinks/week per patient report
+Drug Use: Denies illicit drug use
+Occupation: Retired administrative assistant
+Marital Status: Married
+Living Situation: Lives with spouse
+Exercise: Walks 3x/week per patient report
+Diet: Not on file
+
+Smoking narrative (documented by Dr. Lindqvist): Patient states she tried a few cigarettes as a teenager but never smoked regularly and has not used tobacco products since. No current or past regular tobacco use. Denies vaping or e-cigarette use.
+
+PAST MEDICAL HISTORY: Gout, hypothyroidism, osteoarthritis, depression, asthma, obstructive sleep apnea.
+
+MEDICATIONS:
+1. Allopurinol 300 mg PO daily
+2. Levothyroxine 75 mcg PO daily
+3. Topical diclofenac gel PRN for knee pain
+4. Sertraline 100 mg PO daily
+5. Albuterol HFA inhaler PRN
+6. Fluticasone/salmeterol inhaler 250/50 BID
+7. Acetaminophen 500 mg PRN for pain
+8. Melatonin 5 mg PO qHS PRN sleep
+9. Vitamin D3 2000 IU PO daily
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 76, RR 16, Temp 98.4F, SpO2 97% on room air, BMI 29.4
+General: Well-appearing woman in no acute distress, appropriately dressed for weather.
+HEENT: Normocephalic, atraumatic. PERRLA. EOMI. Oropharynx clear, no erythema or exudate. TMs clear bilaterally.
+Neck: Supple, no lymphadenopathy, no thyromegaly, no JVD.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Normal S1/S2.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi appreciated at this time.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds, no organomegaly.
+Extremities: No edema, no cyanosis, pulses 2+ bilaterally. Knees with mild crepitus on range of motion, no effusion, no warmth or erythema.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, motor strength 5/5 throughout.
+Psychiatric: Mood euthymic, affect appropriate, normal speech and thought process.
+
+ASSESSMENT/PLAN:
+1. Gout - stable, continue allopurinol, recheck uric acid at next labs.
+2. Hypothyroidism - stable, continue levothyroxine, recheck TSH in 6 months.
+3. Osteoarthritis - stable, continue conservative management with topical NSAID and acetaminophen PRN, discussed weight-bearing exercise as tolerated.
+4. Depression - stable on sertraline, PHQ-9 rechecked today, will continue current regimen, follow up with counseling as scheduled.
+5. Asthma - well-controlled, continue current inhaler regimen, reviewed proper inhaler technique.
+6. Obstructive sleep apnea - continue CPAP, encouraged improved nightly compliance, will review download data at next visit.
+7. Health maintenance - immunizations reviewed and updated. Mammogram and colonoscopy screening status reviewed, both up to date per patient report. Age-appropriate screening discussed including lung cancer screening discussion held given patient history; no further imaging ordered today. Bone density screening (DEXA) to be scheduled.
+8. Tobacco - no regular tobacco use history, no cessation counseling needed, reinforced healthy lifestyle habits.
+Return to clinic in 12 months or sooner as needed.
+
+ATTESTATION: I, the attending physician, have reviewed the resident's history, examination, and plan for this patient and agree with the documentation and plan of care as outlined above. I personally interviewed and examined the patient in conjunction with the resident.
+
+/s/ Catherine Lindqvist, DO - Resident Physician
+/s/ Attending Physician (co-signed electronically)

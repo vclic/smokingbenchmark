@@ -1,0 +1,79 @@
+URGENT CARE VISIT NOTE
+Patient: Patricia Lee
+DOB: 02/09/1950 (age 76)
+Date of Service: 02/09/2026
+Author: Gregory Tan, MD (Resident) with Attending Attestation
+
+CHIEF COMPLAINT: Cough
+
+HPI:
+Ms Lee is a 76-year-old femal presenting today, 2/9/2026, with a 5-day history of dry cough, mild sore throat, and low-grade subjective fevers. She denies hemoptysis, chest pain, or significant dyspnea at rest. She reports some fatigue and nasal congestion. No sick contacts identified. She has tried OTC cough drops without much relief. She denies recent travel. Review of systems otherwise obtained below. Of note, she has a distant smoking history that is relevant given her respiratory complaint; she reports she smoked for 42 years but has not smoked at all since qutting in May 2011.
+
+PAST MEDICAL HISTORY:
+- Osteoporosis
+- Obstructive sleep apnea (uses CPAP nightly, per pt reports fair compliance)
+
+SOCIAL HISTORY:
+Lives alone, independent in ADLs. Denies alcohol use. Former smoker as above - smoked for 42 years total, quit smoking May 2011, has remained smoke-free since that time. No illicit drug use reported. Retired schoolteacher.
+
+MEDICATIONS (per chart, reconciled today):
+1. Alendronate 70 mg PO weekly
+2. Calcium carbonate/vitamin D3 600mg/800IU PO BID
+3. Vitamin D3 2000 IU PO daily
+4. Lisinopril 10 mg PO daily
+5. Atorvastatin 20 mg PO qhs
+6. Melatonin 5mg PO qhs prn sleep
+7. Acetaminophen 500mg PO prn pain
+8. Multivitamin PO daily
+9. Omeprazole 20mg PO daily
+10. Albuterol inhaler prn (rarely used per pt)
+
+ALLERGIES: NKDA
+
+REVIEW OF SYSTEMS:
+Constitutional: +fatigue, denies chills, denies unintentional weight loss
+HEENT: +nasal congestion, +mild sore throat, denies ear pain, denies vision changes
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea, denies PND
+Respiratory: +cough (dry), denies hemoptysis, denies wheeze at rest, denies pleuritic pain
+GI: denies nausea, denies vomiting, denies abdominal pain, denies diarrhea, denies constipation
+GU: denies dysuria, denies frequency, denies hematuria
+Musculoskeletal: denies new joint pain, denies swelling, chronic back discomfort stable per pt (osteoporosis-related)
+Skin: denies rash, denies lesions
+Neuro: denies headache, denies dizziness, denies focal weakness, denies numbness
+Psych: denies depression, denies anxiety, sleep somewhat disrupted per OSA hx
+All other systems reviewed and negative except as noted above
+
+PHYSICAL EXAM:
+Vitals: T 99.1F, HR 78, BP 132/78, RR 16, SpO2 96% on room air, Wt 142 lbs, Ht 5'4"
+General: Alert, well-nourished, in no acute distress, cooperative
+HEENT: Oropharynx mildly erythematous, no exudate, TMs clear bilaterally, nares with mild mucosal edema, no sinus tenderness
+Neck: Supple, no lymphadenopathy, no thyromegaly
+Cardiovascular: RRR, no murmurs/rubs/gallops, no JVD
+Respiratory: Mild scattered rhonchi bilaterally, no wheeze, no crackles, no accessory muscle use, symmetric chest expansion
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds
+Extremities: No edema, no cyanosis, no clubbing
+Skin: Warm, dry, intact, no rashes
+Neuro: Alert and oriented x3, cranial nerves grossly intact, no focal deficits
+Musculoskeletal: No spinal tenderness noted, mild kyphotic posture consistent with known osteoporosis
+
+LABS/RESULTS:
+CBC (drawn 2/9/2026): WBC 8.9 K/uL, Hgb 12.8 g/dL, Plt 245 K/uL
+BMP (drawn 2/9/2026): Na 139, K 4.1, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 98
+Rapid strep (2/9/2026): Negative
+Rapid flu A/B (2/9/2026): Negative
+CXR (2/9/2026): No acute infiltrate, no consolidation, mild hyperinflation, no focal mass identified, stable compared to prior imaging if available
+DEXA (last on file, 09/2024): T-score -2.7 lumbar spine, consistent with known osteoporosis dx, no acute change expected
+
+ASSESSMENT/PLAN:
+76-year-old woman, DOB 2/9/1950, presenting 2/9/2026 with acute cough, likely viral upper respiratory infection given negative strep/flu and clear CXR. Chronic conditions of osteoporosis and OSA are stable. Given her longstanding smoking history — she smoked for a total of 42 years before quitting in May 2011 and reports no smoking since — chronic bronchitis/COPD-type changes were considered as ddx but exam and CXR are not concerning for acute pulmonary process today; mild rhonchi likely reactive to URI. She remains a former smoker, quit in 2011, and should continue to avoid any return to tobacco use.
+
+1. Acute cough/URI, likely viral: supportive care, increase fluids, use of honey/lozenges as needed, follow up if worsening dyspnea, high fever, or symptoms persisting beyond 10-14 days.
+2. Tobacco history: reviewed extensively above; patient quit smoking in May 2011 after a 42-year smoking history and has remained abstinent since; counseled to continue avoiding tobacco; screening for lung cancer was discussed in general terms per guidelines, no imaging ordered today for that purpose.
+3. Osteoporosis: continue alendronate and calcium/vitamin D, stable, follow with PCP for routine DEXA surveillance.
+4. OSA: continue CPAP, encourage compliance, follow up with sleep medicine as previously scheduled.
+5. Return precautions given verbally and in writing; pt verbalized understanding.
+
+Attending Attestation: I have personally seen and evaluated the patient with the resident, reviewed and agree with the history, exam, and plan as documented above by Dr. Tan. Discussed case in detail including smoking history and respiratory findings.
+
+- Gregory Tan, MD (Resident)
+Attending co-signature on file

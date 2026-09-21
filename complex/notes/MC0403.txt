@@ -1,0 +1,59 @@
+GERIATRICS CLINIC - GERIATRIC ASSESSMENT
+Date of Service: 09/03/2023
+Provider: Rachel Goldberg, MD
+Patient: Richard King, M, DOB 08/21/1967 (age 56)
+
+=== NURSE INTAKE ===
+VS: BP 138/84, HR 76, RR 16, SpO2 96% RA, Wt 198 lb, Ht 5'10"
+CC: routine geriatric assessment, med reconciliation, functional status review.
+Allergies: NKDA.
+Home meds reviewed - see MAR.
+Pt ambulates with cane, uses grab bars at home. Denies falls x6 mo.
+Hx obtained from pt, reliable historian.
+
+=== PHYSICIAN PROGRESS NOTE ===
+CC: Geriatric assessment, follow-up of multiple chronic conditions.
+
+HPI: Mr. King is a 56 y/o male (DOB 8/21/1967) presenting today, 9/3/2023, for comprehensive geriatric assessment. He reports doing reasonably well overall. He notes intermittent claudication with ambulation, more noticeable with cold weather, consistent w/ known PAD. GERD sx well controlled on current regimen, occasional breakthrough heartburn after spicy meals. OA of knees - stable, uses topical NSAID prn. No new chest pain, no orthopnea/PND. Denies dyspnea at rest.
+Tobacco history: pt has significant smoking hx. Per pt report, he smoked about three-quarters of a pack (~15 cigarettes) per day for 14 years, then cut back to half a pack (~10 cigarettes) per day for an additional 7 years before quitting entirely. He states he quit when his youngest grandchild was born - that grandchild is now 18 years old. Pt currently does not smoke and has not resumed since quitting. Denies vaping or other tobacco/nicotine products. Given his prior smoking history, general discussion of lung health and risk factors occurred as part of overall health maintenance counseling.
+
+--- Copied forward from prior visit note dated 03/14/2022 (retained in chart, some info outdated) ---
+HPI (03/14/2022): 55 y/o male here for routine f/u of PAD, CAD, CKD3, GERD, OA. Pt reports stable claudication distance ~2 blocks, unchanged. No rest pain, no ulcers noted on exam. CAD - denies angina, last stress test reportedly unremarkable per pt (records not available in this system). GERD - controlled on PPI. OA - managing with acetaminophen and topical agents. CKD3 - stable, followed by nephrology q6mo, last Cr 1.4. Pt reports he is a former smoker (details per prior notes). Diet counseling given. Plan: continue current meds, f/u labs in 3 months, refer to PT for gait training.
+--- end copied text ---
+
+ROS: Constitutional - no fevers, chills, wt loss. CV - no chest pain, palpitations. Resp - no cough, wheeze, SOB. GI - occasional heartburn as above, no melena/hematochezia. GU - no dysuria. MSK - chronic knee pain, stable. Neuro - no focal deficits. Psych - mood stable, denies depression/anxiety.
+
+PMH/Problem List (with ICD-10, some entries outdated per chart review):
+1. Peripheral artery disease - I73.9 (active, followed vascular surgery)
+2. GERD - K21.9 (active, on PPI)
+3. Osteoarthritis, unspecified site - M19.90 (active)
+4. Coronary artery disease - I25.10 (active, cardiology f/u)
+5. Chronic kidney disease, stage 3 - N18.3 (active, nephrology f/u)
+6. Hypertension - I10 (chart note: resolved per old problem list entry from 2019 visit - likely outdated, pt currently on antihypertensive, needs reconciliation)
+7. Tobacco use disorder - Z87.891 (personal history, former use)
+
+Meds: Aspirin 81mg daily, Atorvastatin 40mg qhs, Omeprazole 20mg daily, Lisinopril 10mg daily, Metoprolol succinate 25mg daily, Acetaminophen 650mg prn, Cilostazol 100mg BID.
+
+Physical Exam:
+Gen: well-appearing, NAD, elderly-appearing male for stated age.
+CV: RRR, no m/r/g. Distal pulses diminished bilaterally, DP/PT 1+.
+Resp: CTAB.
+Abd: soft, NT/ND, no organomegaly.
+Ext: no edema, no ulcers, skin intact. Mild pallor of toes bilaterally.
+MSK: crepitus both knees, ROM limited but functional.
+Neuro: grossly intact, gait slow but steady w/ cane.
+Skin: no lesions.
+
+Assessment/Plan:
+1. PAD - stable claudication, continue cilostazol, aspirin, statin. Encourage walking program. Vascular surgery f/u as scheduled.
+2. CAD - stable, continue current cardiac meds, no acute complaints. Cardiology f/u per their schedule.
+3. CKD stage 3 - stable, monitor renal function, avoid nephrotoxic agents, nephrology f/u.
+4. GERD - continue omeprazole, dietary modification reinforced.
+5. OA - continue acetaminophen/topical NSAID, consider PT referral if worsening.
+6. Former tobacco use - reinforced no smoking, discussed general health maintenance given hx; no current tobacco use, congratulated pt on cessation success.
+7. Hypertension - problem list needs update, appears active despite outdated 'resolved' entry; continue lisinopril/metoprolol, monitor BP.
+8. Health maintenance - discussed age-appropriate screenings in general terms; labs ordered (BMP, lipid panel, CBC). Return to clinic in 3 months or sooner if concerns.
+
+Time spent: 30 min, >50% counseling/coordination of care.
+
+Electronically signed: Rachel Goldberg, MD, Geriatrics, 09/03/2023.

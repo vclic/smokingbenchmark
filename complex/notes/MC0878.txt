@@ -1,0 +1,41 @@
+PULMONOLOGY PROGRESS NOTE
+Patient: Deborah Davis (F) DOB: 6/2/1948
+Date of Service: 6/2/2025
+Author: Catherine Lindqvist, DO
+
+CC: Lung cancer screening shared decision-making visit.
+
+HPI: Ms. Davis is a 77 yo female with hx of HTN, COPD, and hyperlipidemia presenting today for discussion re lung cancer screening. She reports chronic cough stable, no hemoptysis, no weight loss. She states she continues to smoke cigarettes and has a 19 pack-year smoking history per today's review. Denies chest pain, denies SOB at rest, does note mild dyspnea on exertion when climbing stairs which she says is 'about the same, [inaudible] as before, not really worse just kinda there all the time now.' No fevers, no night sweats, appetite good.
+
+ROS: otherwise negative except as above; pt reports occasional heartburn, denies hematuria hematochezia ect.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Current smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+*** Copied from note dated 12/2/2021: Smoking status at that time - current smoker. (No quantities documented in that prior note.) ***
+
+PMH/Problem List (some entries outdated):
+- I10 Essential hypertension
+- J44.9 COPD, unspecified
+- E78.5 Hyperlipidemia, unspecified
+- M54.5 Low back pain (resolved 2019, remains on list)
+- Z87.891 Personal history of nicotine dependence (outdated entry, pt is current smoker not history of)
+
+Medications: Lisinopril, atorvastatin, albuterol MDI PRN, tiotropium daily.
+
+Exam: Vitals stable, afebrile. Lungs: mild expiratory wheeze bilaterally, no crackles. Heart: RRR, no m/r/g. Ext: no edema.
+
+Assessment/Plan:
+77 yo female, current smoker with 19 pack-year history, COPD, HTN, hyperlipidemia, here today for shared decision-making regarding lung cancer screening.
+1. Lung cancer screening: Discussed risks/benefits of low-dose CT screening extensively with patient, questions answered, literature provided. Continued counseling regarding smoking cessation resources offered including nicotine replacement and referral to quitline; patient states she is 'thinking about it.'
+2. COPD: continue current inhalers, reviewed proper technique, follow up in 3 months or sooner if symptoms worsen.
+3. HTN: well controlled, continue lisinopril.
+4. Hyperlipidemia: continue atorvastatin, recheck lipid panel at next visit.
+Return to clinic in 3 months or PRN.
+
+Electronically signed: Catherine Lindqvist, DO

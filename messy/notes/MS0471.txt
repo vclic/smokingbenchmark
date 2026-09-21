@@ -1,0 +1,44 @@
+TELEHEALTH VISIT - FAMILY MEDICINE
+Patient: Susan Bennett  DOB: 5/11/1948 (age 77)
+Date of Service: 08/02/2025
+Author: Brian Okonkwo, MD
+
+CC: med refills, f/u chronic conditions
+
+HPI: Pt is a 77 y/o F seen via video visit today for routine refill of HTN, CKD, AFib and HF meds. She states "I'm doing okay, just tired most days" and denies chest pain, orthopnea, or PND currently. She notes occasional ankle swelling by end of day, improved w elevation. Reports adherence to metoprolol succinate, lisinopril, and furosemide, though says she "sometimes forgets the water pill on weekends." No new SOB, no palpitations reported since last visit in May. Mood c/w baseline depression, states "I've been managing, some good days some bad" - continues sertraline w no SEs. Denies SI/HI. Sleep fair, appetite stable, no wt changes per pt report (unable to verify weight today given telehealth, pt states her home scale reads "about the same, maybe 142").
+
+ROS otherwise negative except as above; pt reports mild constipation, denies dysuria, denies falls, denies new dizziness. [inaudible] portion of call re: her daughter's visit last week, not clinically relevant.
+
+PMH/Problem List:
+- I10 - Essential hypertension
+- N18.3 - CKD stage 3
+- F32.9 - Major depressive disorder, unspecified (outdated - now more consistent w recurrent, but coded as unspecified in chart)
+- I48.91 - Atrial fibrillation, unspecified
+- I50.22 - Chronic systolic (congestive) heart failure
+- Z87.891 - Personal history of nicotine dependence
+- E78.5 - Hyperlipidemia, unspecified (old dx, last lipid panel 2021, due for recheck)
+
+Social Hx: Former smoker, quit smoking in 2023. Denies current tobacco use. No EtOH, no illicit drug use per pt report. Lives alone, daughter checks in daily by phone.
+
+Meds: Lisinopril 20mg daily, metoprolol succinate ER 50mg daily, furosemide 20mg daily, sertraline 100mg daily, apixaban 5mg BID, atorvastatin 20mg qhs (compliance questionable per pt statement above)
+
+Allergies: NKDA
+
+Vitals (per home BP cuff report by pt): BP 138/82, HR 68 irreg irreg (known AFib), wt not obtained today (telehealth)
+
+Exam: Limited d/t telehealth format. Pt appears well, no acute distress noted on video, speech clear and fluent, affect appropriate, no visible edema noted on camera though pt reports mild ankle swelling as above. No other exam performed given modality.
+
+Labs reviewed: BMP from 07/28/2025 - Cr 1.4 (baseline for her CKD3), K 4.3, Na 138, BUN 28. INR not applicable (on apixaban, no monitoring needed). BNP trending stable per last cardiology note.
+
+Assessment/Plan:
+1. Hypertension (I10) - well controlled per home readings, continue lisinopril 20mg daily, recheck BP at next visit.
+2. CKD stage 3 (N18.3) - stable Cr, continue to avoid NSAIDS, recheck BMP in 3 months.
+3. Depression (F32.9) - stable on sertraline, continue current dose, reassess PHQ-9 at next in person visit.
+4. Atrial fibrillation (I48.91) - rate controlled, continue metoprolol and apixaban, no changes.
+5. HFrEF (I50.22) - stable, continue furosemide and standard GDMT, will touch base w cardiology re: recent echo results, reinforce daily weight checks (though pt reports difficulty tracking these consistently).
+6. Tobacco use history - pt has a 39 pack-year smoking history; she is a former smoker, quit smoking in 2023, and no longer smokes. Counseled on continued avoidance of tobacco and secondhand smoke exposure given cardiopulmonary comorbidities. Lung cancer screening was discussed briefly with pt given her smoking hx, she will consider and we can revisit at next visit.
+7. Hyperlipidemia (E78.5) - overdue lipid panel, will order for next lab draw, continue atorvastatin.
+
+F/u: RTC in 3 months or sooner if symptoms worsen, pt to call nurse line for any chest pain, worsening SOB, or significant leg swelling. Refills sent to pharmacy as above. Telehealth visit total time 22 min, mostly spent on counseling and coordination of care.
+
+Electronically signed: Brian Okonkwo, MD

@@ -1,0 +1,88 @@
+GERIATRICS RESIDENT NOTE
+Patient: Gloria Perez | DOB: 07/09/1962 | Age: 61 | Sex: F
+Date of Service: 07/09/2023
+Author: Laura Castellano, FNP-C (resident note; see attending attestation below)
+
+CHIEF COMPLAINT: Comprehensive geriatric assessment, follow-up of chronic conditions.
+
+HPI: Ms. Perez is a 61-year-old woman with history of hypothyroidism, gout, hypertension, CKD stage 3, and BPH who presents today for routine geriatric assessment. She reports overall stability, denies falls, denies new cognitive concerns per family. She continues to follow with endocrinology for thyroid management and urology for BPH surveillance. No new joint flares of gout reported. Blood pressure has been variably controlled per home log.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 05/09/2022 (retained for reference, not updated) ---
+HPI (05/09/2022): Patient presents for follow-up of hypertension and CKD. She reports fatigue, mild ankle swelling, denies chest pain or dyspnea at rest. Social history reviewed on 05/09/2022; smoking status at that time: former smoker. Medications reconciled. Labs reviewed showing stable creatinine. Plan at that time included continuing lisinopril, monitoring renal function, and follow-up in 6 months.
+ROS (05/09/2022): Constitutional: no fever, no weight loss. Cardiovascular: no chest pain. Respiratory: no cough. GI: no nausea. GU: nocturia present. Musculoskeletal: occasional joint pain. Neuro: no focal deficits.
+Exam (05/09/2022): Vitals stable, BP 138/82, HR 76. General: NAD. Lungs: CTAB. Heart: RRR. Abdomen: soft, non-tender. Extremities: trace edema.
+--- END COPIED SECTION ---
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: See note below
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+Additional social history note (current visit): Patient reports she no longer smokes. No further details on timing of cessation are documented in this visit.
+
+REVIEW OF SYSTEMS (templated, 10-point):
+Constitutional: Denies fever, chills, night sweats, unintentional weight loss.
+Eyes: Denies vision changes, denies eye pain.
+ENT: Denies hearing loss, denies sore throat.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea.
+Respiratory: Denies cough, denies wheezing, denies hemoptysis.
+GI: Denies nausea, vomiting, diarrhea, constipation.
+GU: Reports nocturia x2, denies dysuria, denies hematuria.
+Musculoskeletal: Reports occasional great toe discomfort, denies acute flare today.
+Skin: Denies rash, denies new lesions.
+Neuro/Psych: Denies headache, denies mood changes, denies memory concerns.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 72, RR 16, Temp 98.2F, SpO2 97% RA, Weight 154 lb, Height 5'4".
+General: Well-appearing, well-nourished, in no acute distress.
+HEENT: Normocephalic, atraumatic, PERRL, oropharynx clear.
+Neck: Supple, no thyromegaly, no lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no rales.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No edema, no cyanosis, pulses 2+ bilaterally.
+Skin: Warm, dry, intact.
+Neuro: Alert and oriented x3, cranial nerves grossly intact, gait steady.
+Psych: Mood euthymic, affect appropriate.
+
+PROBLEM LIST (ICD-10):
+- E03.9 Hypothyroidism, unspecified
+- M10.9 Gout, unspecified
+- I10 Essential hypertension
+- N18.3 Chronic kidney disease, stage 3
+- N40.0 Benign prostatic hyperplasia (outdated entry - retained from prior encounter, not applicable to female patient, likely coding error, flagged for correction)
+- Z87.891 Personal history of nicotine dependence
+
+MEDICATIONS:
+1. Levothyroxine 75 mcg PO daily
+2. Allopurinol 300 mg PO daily
+3. Lisinopril 20 mg PO daily
+4. Amlodipine 5 mg PO daily
+5. Tamsulosin 0.4 mg PO daily
+6. Sodium bicarbonate 650 mg PO BID
+7. Vitamin D3 1000 IU PO daily
+8. Calcium carbonate 500 mg PO daily
+
+LABS (recent, reviewed today):
+Creatinine 1.6 mg/dL, eGFR 38 mL/min/1.73m2, TSH 2.1 mIU/L, Uric acid 6.8 mg/dL, Potassium 4.5 mEq/L.
+
+ASSESSMENT AND PLAN:
+Gloria Perez is a 61-year-old woman (DOB 07/09/1962) presenting 07/09/2023 for geriatric assessment with stable chronic conditions.
+
+1. Hypothyroidism (E03.9): Continue levothyroxine, recheck TSH in 6 months.
+2. Gout (M10.9): Continue allopurinol, no active flare today.
+3. Hypertension (I10): BP well controlled today, continue current regimen.
+4. CKD stage 3 (N18.3): Stable renal function, continue monitoring labs, avoid nephrotoxic agents.
+5. BPH (N40.0 - flagged as coding error given female sex, will correct in problem list at next visit).
+6. Tobacco use: Patient has a 37 pack-year smoking history; she reports she no longer smokes. Discussed general health maintenance and lung cancer risk factors; screening options were discussed conceptually as part of preventive care conversation. Continue to encourage healthy lifestyle.
+7. Health maintenance: Discussed age-appropriate screening topics, vaccination status reviewed and updated as needed.
+
+Follow-up in 6 months or sooner if needed.
+
+---
+ATTESTATION: I have personally examined the patient and reviewed the resident's note. I agree with the history, exam findings, assessment, and plan as documented above, with minor discussion regarding correction of the outdated BPH problem list entry.
+- Attending Physician (Geriatrics)

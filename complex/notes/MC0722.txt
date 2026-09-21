@@ -1,0 +1,32 @@
+TELEHEALTH VISIT NOTE
+Patient: Michael Smith | DOB: 8/3/1954 (Age 70) | Sex: M
+Date of Service: 08/03/2024
+Provider: Daniel Reyes, MD (Cardiology)
+
+CHIEF COMPLAINT: Chest pain evaluation, telehealth follow-up.
+
+HPI: Mr. Smith is a 70-year-old male with hx of GERD, osteoarthritis, and osteoporosis who reports intermittent chest tightness over the past 2 weeks. Pt states, "It feels like pressure, mostly after meals, and sometimes it wakes me up at night." He denies radiation to the arm but endorses occasional dyspnea on exertion. He smoked half a pack (about 10 cigarettes) per day from 1974 until 2017, at which point he stopped entirely. No current use of tobacco products. He denies alcohol excess. Pt also comments, "I thought it might just be my heartburn acting up again."
+
+SOCIAL HISTORY: Retired postal worker, lives with spouse. Moved to this state in 2016; he quit smoking 1 year after relocating. Denies illicit drug use. Occasional glass of wine with dinner.
+
+----- COPIED FORWARD FROM PRIOR NOTE DATED 08/03/2022 -----
+SOCIAL HISTORY (as documented 8/3/2022): Patient is a former smoker. No further detail provided in that note. Reports regular exercise, walks approx 30 min daily. Diet notable for high sodium intake, advised on DASH diet at that time. Osteoarthritis stable, managed conservatively. GERD symptoms intermittent, on PPI therapy.
+------------------------------------------------------------
+
+LABS/RESULTS:
+- 08/01/2024 Troponin I: <0.01 ng/mL (normal)
+- 08/01/2024 BNP: 45 pg/mL (normal)
+- 07/15/2024 Lipid panel: LDL 118 mg/dL, HDL 42 mg/dL, TG 150 mg/dL
+- 06/20/2024 A1c: 5.7%
+- EKG 08/03/2024: NSR, no acute ST changes
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely GERD-related given post-prandial pattern, but will rule out cardiac etiology given risk factors including age and prior tobacco use history. Patient no longer smokes.
+2. Continue PPI, consider dose adjustment.
+3. Stress echo ordered for further cardiac risk stratification.
+4. GERD - continue current management, dietary counseling reinforced.
+5. Osteoporosis - continue current bisphosphonate therapy, monitor with DEXA per schedule.
+6. Osteoarthritis - stable, conservative management continues.
+7. Lung cancer screening discussed given smoking history; further discussion to occur at next in-person visit.
+
+Addendum (later same day, 08/03/2024, 16:40): Patient called back to clarify symptom timing - states chest pressure occurs approximately 30-45 min after large meals, supporting reflux etiology. Will proceed with stress echo as planned regardless to be thorough given cardiac risk profile.

@@ -1,0 +1,59 @@
+Pulmonology Follow-up Note
+DOS: 01/02/2025
+Author: Hannah Weiss, NP (attending attestation below)
+Patient: Theresa Carter, F, DOB 1/2/1966 (age 59)
+
+CC: f/u after COPD exacerbation, recently d/c'd from ED
+
+HPI: Pt is a 59 yo F w/ h/o HFrEF, CAD, AFib, hypothyroidism, hyperlipidemia who presented to ED on 12/29/24 w/ worsening SOB, increased sputum production, and wheezing c/w COPD exacerbation. Was treated w/ nebs, steroids, and abx, discharged home w/ plan for close f/u. Today reports improved breathing, still some residual cough. Denies fevers, chest pain, orthopnea worse than baseline. Says inhalers helping.
+
+--- Copied forward from prior visit note dated 08/14/2024 (left in error, retained for continuity) ---
+ROS: Constitutional: no fever, chills, night sweats, wt loss. HEENT: no vision changes, no hearing loss, no sore throat. CV: no chest pain, no palpitations (pt on anticoag for AFib). Resp: chronic cough, dyspnea on exertion, no hemoptysis. GI: no nausea, vomiting, diarrhea, constipation. GU: no dysuria, no hematuria. MSK: no joint swelling, no back pain. Skin: no rashes, no lesions. Neuro: no headache, no focal weakness, no numbness. Psych: no depression, no anxiety reported at that visit.
+PE (from 08/14/24, unchanged per pt): Gen: NAD, A&Ox3. HEENT: PERRLA, EOMI, oropharynx clear. Neck: no JVD, no thyromegaly. CV: RRR, no m/r/g at that time (now known irregular given AFib dx since). Resp: CTAB, no wheezes/rales. Abd: soft, NT/ND, +BS. Ext: no edema. Skin: warm, dry. Neuro: CN II-XII intact, strength 5/5 throughout.
+--- End copied forward text ---
+
+Interval ROS (today, 01/02/2025): Resp: persistent mild cough, decreased from ED presentation, denies hemoptysis, denies significant dyspnea at rest. CV: no palpitations, no syncope, no lower extremity edema currently. GI/GU/MSK/Skin/Neuro/Psych: all reviewed, no acute complaints, unchanged from above except as noted.
+
+Physical Exam (today):
+Vitals: BP 128/78, HR 76 irreg irreg, RR 16, SpO2 94% RA, Temp 98.2F, Wt 168 lb
+Gen: well-appearing, NAD
+HEENT: PERRLA, mucous membranes moist
+Neck: no JVD
+CV: irregularly irregular rhythm, no murmurs appreciated
+Resp: mild expiratory wheeze bilat bases, no crackles, no accessory muscle use
+Abd: soft, NT, ND, nl BS
+Ext: no edema, pulses 2+ throughout
+Skin: warm dry intact
+Neuro: grossly intact, A&Ox3
+
+Meds (reconciled today):
+- Levothyroxine 75 mcg daily
+- Atorvastatin 40 mg qhs
+- Metoprolol succinate 50 mg daily
+- Apixaban 5 mg BID
+- Lisinopril 10 mg daily
+- Furosemide 20 mg daily prn edema
+- Spironolactone 25 mg daily
+- Albuterol/ipratropium neb prn
+- Tiotropium inhaler daily
+- Fluticasone/salmeterol inhaler BID
+- Prednisone taper (day 5 of 10, from ED d/c)
+- Azithromycin completed course from ED
+- Vitamin D3 1000 IU daily
+
+Labs/Imaging: CXR from ED reviewed, no acute infiltrate, hyperinflation c/w COPD. BNP mildly elevated at baseline per prior trend. TSH pending.
+
+Assessment/Plan:
+1. COPD, recent exacerbation - improving on current regimen, continue prednisone taper, continue tiotropium and combo inhaler, f/u PFTs in 4-6 wks. Pt is a former smoker, quit in 2014, with a 25-year smoking history; no current tobacco use. Encouraged continued abstinence, reinforced importance given underlying cardiopulmonary disease. Smoking cessation resources reviewed briefly though pt has been abstinent for years now. Screening for lung cancer was discussed in general terms per guidelines, no imaging ordered today for that purpose.
+2. HFrEF - euvolemic today, continue GDMT as above, no acute decompensation signs.
+3. CAD - stable, continue statin, no anginal sx.
+4. AFib - rate controlled, continue apixaban and metoprolol, INR n/a (on DOAC).
+5. Hypothyroidism - TSH pending, continue levothyroxine.
+6. Hyperlipidemia - continue atorvastatin, lipid panel to be rechecked at next visit.
+
+RTC in 2 wks or sooner if worsening sx. Pt verbalized understanding, agreed w/ plan.
+
+Attestation: I have personally examined the patient and reviewed/discussed the case with NP Weiss. I concur with the assessment and plan as documented above. - Dr. R. Kalinski, Attending Pulmonology
+
+---
+ADDENDUM (later same day, 01/02/2025, 16:40): Pt called clinic nurse line reporting mild GI upset, likely related to steroid taper, advised to take w/ food, no change to plan otherwise. Will monitor. Pt confirmed again on phone that she quit smoking back in 2014 and has not smoked since; wanted to clarify this was accurately documented in chart. No further changes at this time.

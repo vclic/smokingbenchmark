@@ -1,0 +1,47 @@
+URGENT CARE - RESIDENT NOTE
+Patient: Joyce Moore | DOB: 7/17/1968 | Age: 56 | F
+Date of Service: 07/17/2024
+Author: Daniel Reyes, MD (Resident)
+
+CC: cough x5 days
+
+HPI: Pt is a 56-year-old femal presenting with productive cough, worse at night, denies fever but reports some chest tightness she describes as pressure not sharp. No hemoptysis. Pt states she has been more short of breath then usual, which is notable given her hx of HFrEF and CAD. She has a home CPAP for OSA which she uses inconsistant [inaudible] due to mask discomfort. No recent travel no sick contacts. She takes her BP meds regular per report tho sometimes forgets evening dose.
+
+PMH / Problem List (ICD-10):
+- Obstructive sleep apnea (G47.33)
+- Hypertension (I10)
+- Depression (F32.9)
+- Osteoarthritis (M19.90) - outdated, pt reports knee replaced 2019, may need update
+- Heart failure with reduced ejection fraction (I50.22)
+- Coronary artery disease (I25.10)
+- CABG x3 (2014)
+- s/p appendectomy (childhood) - outdated entry, unclear relevance
+
+Social History: Former smoker. Smoked 1 pack per day for 12 years, then cut down to about 12 cigarettes per day for the next 15 years before quitting entirely. Denies current tobacco use, denies e-cigs or vaping. Occasional etoh, denies illicit drugs. Lives with husband, retired schoolteacher.
+
+ROS: Positive for cough, mild dyspnea on exertion. Negative for fevers chills night sweats weight loss. Negative for leg swelling today though pt has hx of edema per chart. Denies palpitations denies syncope.
+
+Physical Exam:
+Vitals: T 98.2F HR 84 BP 138/82 RR 18 SpO2 95% RA
+Gen: NAD, alert, cooperative
+HEENT: oropharynx clear, no erythema
+CV: RRR, no murmur appreciated, well-healed sternotomy scar noted
+Lungs: scattered rhonchi bilaterally, no wheeze, no crackles
+Abd: soft NT ND
+Ext: trace edema bilaterally, no calf tenderness
+
+Assessment/Plan:
+1. Acute bronchitis, likely viral - supportive care, guaifenesin, encourage fluids, return if worsening SOB or fever.
+2. HFrEF/CAD - stable today, continue current meds, will page attending re: any med adjustments given borderline BP.
+3. OSA - reinforce CPAP compliance discussed nasal pillow mask options with pt she seemed receptive.
+4. Tobacco history - patient quit smoking right after her bypass surgery and has remained smoke-free since; positive reinforcement given, no current cessation counseling needed as pt is already quit.
+5. HTN - continue lisinopril, recheck BP at next visit.
+6. Depression - screening today negative for acute SI, continue current regimen per PCP.
+
+Discussed lung health broadly with pt including general screening guidelines that may apply given smoking hx; no imaging ordered from this visit, pt to follow up with PCP for further discussion.
+
+Attending Attestation: I have seen and examined the patient with Dr. Reyes and agree with the above assessment and plan as documented. - A. Whitfield, MD, Attending
+
+---
+ADDENDUM (later same day, 07/17/2024, 4:45pm):
+Pt called clinic to clarify she also has been using an old inhaler occasionally from prior prescription, advised to stop using without provider guidance and to call if symptoms worsen overnight. No changes to plan otherwise. Pt verbalized understanding. - D. Reyes, MD

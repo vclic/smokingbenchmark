@@ -1,0 +1,45 @@
+Cardiology H&P
+Patient: Elizabeth Wright | DOB: 07/03/1956 | Age: 67 | Sex: F
+Date of Service: 11/05/2023
+Author: Teresa Alvarez, NP
+
+CC: Chest pain evaluation.
+
+HPI: Pt is a 67 yo female with hx of hypertension and obesity who presents today, 11/05/2023, referred by PCP for eval of intermittent chest tightness over past 2 wks. She states "it feels like a heavy pressure right in the middle of my chest, comes and goes, usually when I'm climbing stairs or [inaudible] carrying groceries." Denies radiation to arm, denies diaphoresis, endorses mild SOB with exertion no palpitations noted she also mentions occasional lightheadedness when standing up quick. No nausea no vomiting. Pt says her blood pressure has been running high at home, she checked it this morning and it was 148/92 she was concerned enough too call the office.
+
+ROS: otherwise negative except as above, denies fevers chills weight loss.
+
+PMH: Hypertension, Obesity.
+PSH: None reported.
+Meds: Lisinopril 20mg daily, Atorvastatin 40mg daily.
+Allergies: NKDA.
+
+Social History (templated):
+ Tobacco use: See note below
+ Alcohol use: Occasional, 1-2 glasses wine/wk
+ Illicit drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Not on file
+ Exercise: Not on file
+
+Tobacco note: Pt reports she tried a few cigarettes as a teenager but never smoked regularly, has not used tobacco products since. Counseled regarding cardiovascular risk reduction generally, including diet, weight management, and BP control.
+
+Exam: BP 146/90, HR 78, RR 16, SpO2 98% RA, Wt 212 lb, BMI 34.2. Gen: NAD, alert. CV: RRR, no m/r/g. Lungs: CTAB. Ext: no edema.
+
+Labs/Results:
+ 11/05/2023 Troponin I: <0.01 ng/mL (nl)
+ 11/05/2023 BNP: 42 pg/mL (nl)
+ 11/05/2023 BMP: Na 139, K 4.1, Cr 0.9, Glucose 101
+ 11/05/2023 Lipid panel: TC 198, LDL 122, HDL 46, TG 150
+ 10/29/2023 EKG (outside): NSR, no acute ST changes per report
+
+Assessment: 67 yo F w/ HTN and obesity presenting w/ exertional chest discomfort, low pretest probability for ACS given normal troponin and reassuring EKG, likely musculoskeletal vs early anginal equivalent, will pursue further workup.
+
+Plan:
+1. Obtain stress echo as outpatient.
+2. Continue home antihypertensives, adjust lisinopril if BP remains elevated on recheck.
+3. Weight management counseling, refer to nutrition.
+4. Discussed lung cancer screening guidelines briefly given age but no further action taken today.
+5. F/u in 2 weeks or sooner if symptoms worsen.
+
+Electronically signed: Teresa Alvarez, NP, 11/05/2023.

@@ -1,0 +1,59 @@
+TELEHEALTH VISIT - Family Medicine
+Patient: Cheryl Miller, F, DOB 8/20/1951 (age 74)
+Date of Service: 08/20/2025
+Author: Hannah Weiss, NP
+
+CC: f/u for med refills (asthma, COPD, OSA)
+
+HPI: Pt is a 74 y/o F seen via telehealth for routine refill visit. She reports baseline breathing is "about the same as usual, maybe a little worse when it's humid out." Uses albuterol PRN, states "I probably use it once or twice a day, not more." Denies fever, chest pain, hemoptysis. Sleeps with CPAP nightly, reports good compliance - "I put it on every night, doesn't bother me anymore." No recent hospitalizations or ED visits. Tob hx: pt smoked 10 cigarettes per day for 31 years, quit smoking, quit approximately 24 years ago relative to today's visit. She states, "I haven't touched a cigarette in ages, I finally quit for good and never looked back." No current tobacco use. No vaping. Denies illicit drug use, rare EtOH (1-2 glasses wine/wk).
+
+ROS: Resp - occasional wheeze, no acute distress noted on cam. Denies orthopnea, PND. Cardiac - no CP, no palpitations. GI - unremarkable. Neuro - no HA, no dizziness. Sleep - reports adequate rest with CPAP use, denies daytime somnolence per Epworth (not formally re-scored today).
+
+PMH/Problem List (per chart, some entries may be outdated):
+1. J45.909 - Asthma, unspecified, uncomplicated
+2. J44.9 - COPD, unspecified (dx per PFTs 2018, outside records)
+3. G47.33 - Obstructive sleep apnea, on CPAP
+4. I10 - Essential hypertension (chart notes controlled, last BP documented 128/76 - may be outdated, pt reports home readings similar)
+5. E78.5 - Hyperlipidemia, on statin
+6. M19.90 - Osteoarthritis, unspecified site (old dx, unclear if still active issue per pt)
+7. Z87.891 - Personal history of nicotine dependence
+
+Meds (reviewed, per pt report and pharmacy refill hx):
+- Albuterol HFA MDI 90 mcg, 2 puffs q4-6h PRN SOB/wheeze
+- Fluticasone/salmeterol (Advair) 250/50, 1 puff BID
+- Tiotropium (Spiriva) 18 mcg, 1 cap inhaled daily
+- Atorvastatin 20 mg qHS
+- Lisinopril 10 mg daily
+- CPAP nightly, settings per sleep study (not re-reviewed today)
+
+Allergies: NKDA
+
+Social Hx: Retired schoolteacher, lives alone, widowed, daughter checks in weekly. Former smoker as above (quit smoking, quit ~24 yrs ago). Denies current tobacco or vape use. No occupational exposures reported currently. Lives in single-story home, no O2 use at home.
+
+Family Hx: Mother - HTN, DM2. Father - died MI age 68. Sister - breast ca.
+
+Physical Exam (limited, via telehealth/self-report + visual):
+Gen: Well-appearing older F, seated comfortably, no acute distress, speaking in full sentences on video.
+Vitals (per pt home cuff/pulse ox, self-reported): BP 130/78, HR 74, RR 16, SpO2 95% RA (home device, not calibrated in clinic today)
+Resp: No visible increased WOB, no accessory muscle use noted on video. Pt denies current wheeze/cough.
+CV: Denies edema, no visible JVD appreciated on limited video assessment.
+Skin: No lesions noted on visible areas.
+
+Assessment:
+1. Asthma, stable per pt report, continuing current inhaler regimen.
+2. COPD, stable, no exacerbation signs today; former smoker (10 cig/day x31 yrs, quit ~24 yrs ago), continues to abstain from tobacco.
+3. OSA, well-managed on CPAP per pt report.
+4. HTN, controlled per home readings.
+5. HLD, on statin, no new sx.
+6. OA - stable, deferred further eval unless worsening.
+
+Plan:
+- Refill albuterol HFA, Advair, Spiriva, atorvastatin, lisinopril as above - sent to pharmacy of record.
+- Continue CPAP nightly, will consider re-check of sleep study if sx recur.
+- Encouraged continued tobacco abstinence; reinforced positive reinforcement for long-term smoking cessation success.
+- Lung cancer screening discussion offered; pt to consider and discuss further at next in-person visit.
+- Routine health maintenance labs (lipid panel, CMP) to be drawn at next in-office visit.
+- F/u telehealth or in-person in 3 months, sooner if resp sx worsen.
+- Pt verbalized understanding, agrees with plan.
+
+Electronically signed: Hannah Weiss, NP, 08/20/2025

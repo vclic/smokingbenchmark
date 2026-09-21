@@ -1,0 +1,41 @@
+GERIATRICS RESIDENT NOTE (with attending attestation)
+Author: Quentin Hale, PA-C
+Date of Service: 04/04/2025
+
+Pt: John Price, M, DOB 4/4/1974 (age 51)
+
+CC: geriatric assessment, f/u HFrEF and CKD stage 3
+
+HPI: 51 yo M here for comprehensive geriatric assessment referred by cardiology. Pt reports fatigue on exertion, mild ankle edema, denies chest pain or PND currently. Meds reviewed incl carvedilol furosemide sacubitril-valsartan. Wt stable per pt.
+
+--- COPIED FORWARD FROM PRIOR VISIT 11/12/2023 (retained in chart, not updated) ---
+Pt seen for routine f/u, HFrEF EF 35% on echo dated 09/2023, CKD3 w/ baseline Cr 1.6, BP well controlled 128/76, no e/o decompensation, labs reviewed BMP stable K 4.4 Cr 1.5 eGFR 48, continue current regimen, RTC 3mo, pt tolerating meds well no orthostasis noted, immunizations UTD per records, pt independent in ADLs at that time, gait steady no assistive device, cognitive screen MoCA 27/30 unremarkable.
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY (EHR templated block):
+ Tobacco use: noncontributory
+ Alcohol use: Not on file
+ Illicit drug use: Not on file
+ Occupation: retired
+ Living situation: lives w/ spouse
+ Exercise: minimal, limited by dyspnea
+
+ROS: Otherwise negative except as above, denies fevers chills n/v, +mild dyspnea on exertion, denies syncope.
+
+PE: BP 132/78 HR 74 RR 16 SpO2 96% RA
+Gen: NAD, appears stated age
+CV: RRR, S3 present, no murmur, trace bilat LE edema
+Resp: CTAB no wheezes
+Abd: soft NT ND
+Ext: no clubbing cyanosis, trace edema noted above
+Neuro: grossly nonfocal
+
+Assessment/Plan:
+1. HFrEF - stable, cont GDMT, monitor wt daily, f/u cardiology
+2. CKD stage 3 - stable, recheck BMP next visit, avoid nephrotoxic agents
+3. Geriatric assessment - falls risk low, cognition intact per screen, review polypharmacy at next visit
+4. Lung cancer screening was discussed with pt today but deferred until smoking history can be obtained given incomplete documentation in social hx
+5. RTC 3 months or sooner if symptoms worsen
+
+Attestation: I have personally seen and evaluated the patient with the resident/PA and agree with the assessment and plan as documented above.
+— Dr. A. Whitfield, Attending Geriatrician

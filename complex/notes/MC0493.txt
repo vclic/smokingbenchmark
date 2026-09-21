@@ -1,0 +1,65 @@
+NURSE INTAKE
+Patient: Lan Powell (F), DOB 02/10/1954, Age: 72
+Date of Service: 02/10/2026
+Visit Type: Cardiology Follow-up - Heart Failure
+Provider: Rachel Goldberg, MD
+
+VITALS: BP 138/82, HR 78, RR 18, SpO2 93% RA, Wt 71 kg, Ht 162 cm, BMI 27.1
+
+CHIEF COMPLAINT: f/u CHF, worsening dyspnea x 2 wks.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Current every day smoker
+Smoking history: Long history of heavy smoking
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Sedentary
+Secondhand smoke exposure: Not on file
+
+PROBLEM LIST:
+1. I50.9 - Heart failure, unspecified
+2. J44.9 - COPD, unspecified
+3. N18.3 - CKD stage 3
+4. E78.5 - Hyperlipidemia (outdated, last addressed 2021)
+5. M19.90 - Osteoarthritis, unspecified (outdated entry)
+
+HPI: 72 yo F with hx of heart failure, COPD, and CKD stage 3 presents for routine cardiology f/u. Reports increased leg swelling and DOE over past 2 wks. Denies chest pain, PND resolved with current diuretic dose. Says she has been compliant w meds except occasional missed doses of furosemide. Pt continues to smoke despite counseling at prior visits; reports no interest in cessation aids at this time.
+
+ROS: Constitutional - denies fever, chills, wt loss. Cardiac - + peripheral edema, denies palpitations. Resp - chronic cough stable, denies hemoptysis, denies acute SOB at rest. GI - denies nausea/vomiting/diarrhea. GU - denies dysuria. Musculoskeletal - chronic knee pain stable. Neuro - denies focal weakness/numbness. Skin - denies rash. Psych - denies SI/HI. All other systems reviewed and negative except as noted above.
+
+PHYSICAL EXAM:
+General: NAD, well-groomed, appears her stated age.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: No JVD appreciated at 30 degrees (baseline elevated per prior notes).
+Cardiac: RRR, S1/S2 nl, no S3/S4, 2/6 systolic murmur at LUSB unchanged.
+Lungs: Diffusely decreased breath sounds, scattered expiratory wheezes, no crackles.
+Abdomen: Soft, NT/ND, no HSM.
+Extremities: 2+ pitting edema bilateral lower extremities to mid-shin.
+Skin: Warm, dry, no rashes.
+Neuro: Alert, oriented x3, CN II-XII grossly intact.
+
+MEDICATIONS:
+1. Furosemide 40 mg PO daily
+2. Lisinopril 10 mg PO daily
+3. Metoprolol succinate 50 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 20 mg PO nightly
+6. Tiotropium inhaled daily
+7. Albuterol inhaler PRN
+8. Vitamin D3 1000 IU daily
+9. Aspirin 81 mg daily
+
+ASSESSMENT/PLAN:
+1. Heart failure - appears mildly decompensated, increase furosemide to 40 mg BID x 1 wk, recheck BMP/wt in 1 wk, low Na diet reinforced.
+2. COPD - stable on current regimen, continue tiotropium and albuterol PRN.
+3. CKD stage 3 - stable, monitor renal function with diuretic adjustment.
+4. Tobacco use - discussed cessation again; pt continues to smoke despite counseling. Offered nicotine replacement and referral to tobacco cessation program, declined today. Will revisit at next visit.
+
+Rachel Goldberg, MD
+
+---
+ADDENDUM (same day, later):
+Spoke with patient by phone after labs drawn this afternoon. BMP pending, will call w results. Patient reports mild improvement in edema after first dose increased furosemide. Reiterated importance of low sodium diet and smoking cessation resources; patient again declined referral today but was receptive to discussing at next visit. No acute distress reported. Will follow up as scheduled in 1-2 wks or sooner if worsening symptoms.
+- Rachel Goldberg, MD

@@ -1,0 +1,63 @@
+RESIDENT NOTE - Family Medicine Annual Wellness Visit
+Patient: Walter Hall (M), DOB 4/23/1963, Age 61
+Date of Service: 08/03/2024
+Author: Teresa Alvarez, NP (Resident); Attending attestation below
+
+HPI:
+Mr. Hall presents for his annual wellness visit. He is a 61-year-old male with history of asthma, osteoarthritis, and BPH who reports feeling "pretty good overall, just the usual joint aches." He denies chest pain, palpitations, or hemoptysis. He states, "I still get short of breath sometimes climbing stairs, but my inhaler helps." He reports occasional nocturia, consistent with known BPH, but denies dysuria or hematuria. He notes his knees are stiff in the morning but improve with activity. No recent falls or new injuries. He reports adherence to his asthma inhaler and denies recent exacerbations requiring steroids or ED visits. He was asked directly about tobacco use and stated, "Yeah, I still smoke, been doing it for a long time now."
+
+Review of Systems:
+Constitutional: No fever, no weight loss.
+Respiratory: Occasional dyspnea on exertion, no cough today.
+GU: Nocturia x1-2/night, no hematuria.
+Musculoskeletal: Chronic joint stiffness, no swelling noted today.
+All other systems reviewed and negative.
+
+Past Medical History:
+- Asthma
+- Osteoarthritis
+- BPH
+
+Medications:
+- Albuterol inhaler PRN
+- Tamsulosin 0.4mg daily
+- Acetaminophen PRN for joint pain
+
+Social History:
+Patient currently smokes cigarettes. He has a 22 pack-year smoking history. He reports occasional alcohol use, denies illicit drug use. Lives with spouse, retired from warehouse work. Encouraged smoking cessation resources; patient states he is "not quite ready" to quit but will consider it. Discussed general risks of continued tobacco use, including cardiovascular and pulmonary disease. Screening for lung cancer was discussed in general terms as part of preventive care counseling.
+
+Family History:
+Noncontributory; father with history of hypertension, mother with osteoarthritis.
+
+Physical Exam:
+Vitals: BP 134/82, HR 76, RR 16, Temp 98.4F, SpO2 97% on room air, BMI 29.1
+General: Well-appearing, no acute distress.
+HEENT: Normocephalic, atraumatic, oropharynx clear.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Mild expiratory wheeze bilaterally, no crackles, no accessory muscle use.
+Abdomen: Soft, non-tender, no organomegaly.
+Musculoskeletal: Mild crepitus bilateral knees, no effusion, full range of motion with mild discomfort.
+GU: Deferred, prostate exam noted stable per prior documentation.
+Skin: No rashes or lesions.
+Extremities: No edema.
+
+Problem List (with ICD-10):
+1. Asthma, mild persistent (J45.30) - stable on current regimen
+2. Osteoarthritis, unspecified site (M19.90) - chronic, managed conservatively
+3. Benign prostatic hyperplasia (N40.0) - stable on tamsulosin
+4. Tobacco use disorder, cigarettes (Z72.0) - ongoing, counseled today
+5. Hyperlipidemia (E78.5) - copy-forward from prior note, patient states this was resolved after diet changes, needs verification with recent lipid panel
+6. Seasonal allergic rhinitis (J30.2) - copy-forward, not addressed today
+
+Assessment and Plan:
+1. Asthma - Currently stable per patient report, mild wheeze on exam today. Continue albuterol PRN. Discussed avoidance of triggers. Given active tobacco use, counseled extensively on impact on respiratory disease and encouraged cessation. Provided cessation resources and discussed nicotine replacement options; patient declined at this time.
+2. Osteoarthritis - Chronic, stable. Continue acetaminophen PRN, discussed weight management and low-impact exercise.
+3. BPH - Stable on tamsulosin, continue current dose, monitor nocturia symptoms.
+4. Tobacco use - Patient currently smokes cigarettes with a documented 22 pack-year history noted in social history above. Discussed health risks of continued smoking, offered counseling and pharmacologic cessation aids, discussed lung cancer screening in general preventive terms without specific recommendation today. Patient to consider options and follow up.
+5. Health maintenance - Age-appropriate screening discussed including colorectal cancer screening status reviewed, immunizations up to date per chart review.
+6. Follow-up - Return to clinic in 6 months or sooner if symptoms worsen.
+
+Attending Attestation:
+I have reviewed this note with Teresa Alvarez, NP. I agree with the history, exam, and plan as documented above, including counseling on tobacco cessation given the patient's ongoing cigarette use and 22 pack-year history. Plan of care discussed and endorsed.
+
+- Dr. R. Simmons, MD, Attending Physician

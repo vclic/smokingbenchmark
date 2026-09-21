@@ -1,0 +1,36 @@
+TELEHEALTH VISIT NOTE
+Patient: Mei Harris, DOB 4/6/1951, Age: 72
+Provider: Michael Dunn, DO
+Date of Service: 06/04/2023
+Visit Type: Telehealth, Internal Medicine follow-up
+
+CHIEF COMPLAINT: Follow-up for hypertension and type 2 diabetes.
+
+HPI: Ms. Harris is a 72-year-old female with history of HTN, T2DM, osteoarthritis, and BPH (per prior notes, though patient identifies as female - field appears copy-forwarded, will address). She reports, "I've been checking my sugars most mornings and they run around 130s." She denies chest pain, SOB, or dizziness. She notes some knee stiffness, "worse when it rains, doc, I swear I can predict the weather now." Blood pressure readings at home reportedly in the 130s/80s. She endorses good adherence to metformin and lisinopril. No new complaints today, though the call had some audio issues [inaudible] during discussion of her diet and she repeated that she's been trying to walk more and watch her carbs and her sodium and cut back on red meat overall.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Former smoker
+Smoking history: Patient smoked 3 packs per day from age 15 until quitting at age 33.
+Alcohol use: Not on file
+Substance use: Not on file
+Occupation: Retired
+Living situation: Blank
+
+Current smoking status: Patient no longer smokes.
+
+ROS: Constitutional: denies fever, chills, weight loss. Cardiovascular: denies chest pain, palpitations. Respiratory: denies cough, wheeze, hemoptysis. GI: denies nausea, vomiting, diarrhea. GU: reports mild nocturia, consistent with known BPH. Musculoskeletal: chronic knee pain as above. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 132/78, HR 74, RR 16, Temp 98.2F (per home device, self-reported). General: well-appearing, no acute distress, video quality intermittent. Cardiovascular: regular rate and rhythm per patient report of home monitor. Respiratory: no visible respiratory distress on camera. Extremities: no edema noted on visual inspection.
+
+MEDICATIONS: Metformin 1000mg BID, Lisinopril 20mg daily, Atorvastatin 40mg daily, Tamsulosin 0.4mg daily, Acetaminophen PRN, Vitamin D3 2000IU daily, Aspirin 81mg daily.
+
+ASSESSMENT/PLAN:
+1. HTN - well controlled, continue current regimen.
+2. T2DM - stable, continue metformin, recheck A1c in 3 months.
+3. Osteoarthritis - continue acetaminophen PRN, consider PT referral.
+4. BPH - stable on tamsulosin, continue.
+5. Health maintenance - lung cancer screening was discussed generally given smoking history; no imaging ordered today. Follow up in 3 months or sooner as needed.
+
+Michael Dunn, DO
+
+ADDENDUM (same day, 3:45pm): Patient called back to clarify she remains a nonsmoker and has no respiratory symptoms currently. No changes to plan.

@@ -1,0 +1,37 @@
+Pulmonology NP Progress Note
+Date of Service: 04/06/2023
+Author: Hannah Weiss, NP
+Patient: Mary Long, DOB 04/06/1955 (age 68, today is her birthday)
+
+CC: F/u incidental lung nodule found on CT abdomen 01/2023.
+
+HPI: Ms. Long is a 68-year-old woman with HTN, HLD, CKD stage 3, osteoarthritis, gout, and osteoporosis who presents for follow-up of an incidentally noted 6mm RUL pulmonary nodule. She states, "I feel fine, I haven't had any cough or chest pain." She denies hemoptysis, fevers, or weight loss. She reports, "I only tried a couple cigarettes when I was like 15, just messing around with friends, but I never smoked after that." No occupational exposures reported. Family hx negative for lung cancer.
+
+--- Copied forward from visit 11/14/2022 ---
+Pt is a 68 yo female (DOB 4/6/1955) here for routine CKD/HTN management. BP well controlled on lisinopril. Labs from that date: Cr 1.4, eGFR 46, K 4.3, uric acid 7.1. Continue allopurinol for gout ppx. Osteoporosis - on alendronate, last DEXA 2021 showed T-score -2.6 at spine. Osteoarthritis of knees stable, using acetaminophen prn. No new complaints at that visit. Plan was to recheck labs in 6 months and follow up with PCP.
+--- End copied forward text ---
+
+ROS: Otherwise negative except as above.
+
+PMH: HTN, HLD, CKD stage 3, osteoarthritis, gout, osteoporosis.
+Social History: Lives with husband, retired schoolteacher. Denies alcohol or illicit drug use. Tried a few cigarettes as a teenager but never smoked regularly, no current or subsequent tobacco use.
+
+Meds: Lisinopril, atorvastatin, allopurinol, alendronate, acetaminophen prn.
+
+Labs (today, 04/06/2023):
+Cr 1.5 mg/dL, eGFR 44 mL/min/1.73m2, K 4.4 mmol/L, uric acid 6.9 mg/dL, LDL 98 mg/dL, HbA1c 5.6%.
+
+Imaging: Chest CT 03/28/2023 - stable 6mm RUL nodule, unchanged from prior 01/2023 study.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, stable - low risk given size and stability. Screening for lung cancer was discussed generally as part of overall risk counseling, though not specifically indicated by her minimal smoking exposure. Recommend repeat CT in 12 months.
+2. CKD stage 3 - stable, continue current regimen, recheck labs in 6 months.
+3. HTN - well controlled, continue lisinopril.
+4. HLD - continue atorvastatin, LDL at goal.
+5. Gout - continue allopurinol, no flares reported.
+6. Osteoporosis - continue alendronate, repeat DEXA due in 2024.
+7. Osteoarthritis - continue acetaminophen prn, consider PT if worsening.
+
+Return to clinic in 12 months or sooner if symptoms develop.
+
+Hannah Weiss, NP

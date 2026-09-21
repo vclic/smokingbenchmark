@@ -1,0 +1,52 @@
+RESIDENT NOTE - Hospital Discharge Follow-Up (Primary Care)
+Patient: Nancy Jackson
+DOB: 2/18/1959 (age 66)
+DOS: 02/18/2025
+Author: Michael Dunn, DO (resident); attending attestation below
+
+HPI:
+Ms. Jackson is a 66-year-old woman s/p recent hospitalization for pneumonia, seen today for post-discharge follow-up. She reports improving cough and fatigue. Denies fevers, chills, chest pain. Denies SOB at rest. States, "I'm breathing a lot easier than I was in the hospital, but I still get winded going up the stairs." No hemoptysis. Appetite improving, tolerating PO well. Completed most of her antibiotic course, one dose remaining tonight. No new symptoms of note. Follows up with obesity and osteoporosis management as well today.
+
+ROS: Otherwise negative in detail, reviewed and negative except as above.
+
+PMH: Obesity, osteoporosis.
+PSH: None on file.
+Meds: Alendronate weekly, vitamin D, calcium supplement, amoxicillin-clavulanate (last dose tonight).
+Allergies: NKDA.
+
+SOCIAL HISTORY (templated block):
+Tobacco (cigarettes): Never smoker.
+Other tobacco/nicotine products: Vapes nicotine daily.
+Alcohol: Not on file.
+Illicit drug use: Not on file.
+Occupation: Retired.
+Living situation: Lives with spouse.
+Exercise: Not on file.
+
+Vitals: T 98.2, HR 78, BP 128/76, RR 16, SpO2 96% RA, wt stable.
+
+Exam:
+Gen: Well-appearing, NAD, comfortable.
+HEENT: Unremarkable.
+CV: RRR, no m/r/g.
+Lungs: Mild bibasilar crackles, improved from prior. No wheeze. Good air movement.
+Abd: Obese, soft, NT/ND.
+Ext: No edema.
+Skin: Intact, no rash.
+
+Labs (reviewed from discharge): WBC trending down, CRP improved. CXR at discharge showed resolving infiltrate.
+
+Assessment/Plan:
+1. Pneumonia, resolving - clinically improved since discharge. Complete abx course as prescribed. F/u CXR in 6 wks to confirm resolution given age and recent hospitalization.
+2. Tobacco/nicotine use - patient has never smoked cigarettes; however uses nicotine vape daily. Counseled on risks of vaping and encouraged cessation; discussed available cessation resources. Lung health/screening topics discussed in general terms given her respiratory history; no imaging ordered today for that purpose.
+3. Obesity - continue lifestyle counseling, discussed diet and activity goals appropriate for recovery phase.
+4. Osteoporosis - continue alendronate, calcium/vitamin D. DEXA due for repeat per standard interval, will schedule.
+5. Return to clinic in 4 weeks or sooner if worsening symptoms, fever, or dyspnea.
+
+Pt verbalized understanding of plan. Questions answered.
+
+---
+Attending Attestation: I have seen and examined the patient with Dr. Dunn, agree with the history, exam, and plan as documented above. Discussed case in detail; patient's respiratory status is improving appropriately s/p pneumonia treatment. Agree with continued nicotine vape cessation counseling and follow-up plan. - Attending, 02/18/2025
+
+ADDENDUM (later same day, added by M. Dunn, DO):
+Patient called clinic this afternoon to clarify that she took her final antibiotic dose as scheduled and tolerated without GI upset. No new concerns reported. Reiterated importance of f/u CXR in 6 weeks. No changes to plan otherwise. Social history block confirmed accurate at this visit: never smoker (cigarettes), daily nicotine vape use ongoing.

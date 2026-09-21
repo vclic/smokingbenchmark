@@ -1,0 +1,49 @@
+URGENT CARE - TELEHEALTH VISIT NOTE
+Date of Service: 02/15/2023
+Author: Isaac Moreno, PA-C
+
+Patient: Gregory Butler M DOB 2/15/1971 (age 52)
+
+CHIEF COMPLAINT: cough x 5 days
+
+HPI: Mr Butler is a 52 y/o male hx CKD stage 3 and COPD who presents via telehealth for cough, states "its been about a week now doc and im just hacking all day long." He denies fever but endorses some yellowish sputum, no hemoptysis noted. He denies chest pain, reports mild SOB with exertion which he says is "about the same as usual for my lungs." Former smoker, 12 pack-year smoking history, quit smoking at age 42. No current tobacco use reported. Pt also c/o nasal congestion and sore throat, denies sick contacts although he mentions "my grandkids had colds last week [inaudible] think i caught it from them." No recent travel no know covid exposure pt did not test at home. Appetite fair, sleep disrupted 2/2 coughing at night.
+
+PAST MEDICAL HISTORY (copied forward from prior note dated 7/15/2019, entry not updated since): "Pt reports former smoker." No quantities documented in that note.
+
+PROBLEM LIST:
+- N18.30 Chronic kidney disease, stage 3 (moderate)
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- I10 Essential hypertension (outdated - pt reports this resolved per pt report, meds d/c'd 2021)
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal history of nicotine dependence
+
+MEDICATIONS: Tiotropium inhaler daily, Albuterol PRN, Atorvastatin 20mg qhs, calcium/vit D supplement.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives with spouse retired former factory worker denies alcohol use denies illicit drug use. Smoking history as above former smoker, 12 pack-year history, quit at age 42.
+
+ROS: Constitutional - denies fever chills wt loss. Resp - + cough + mild dyspnea denies hemoptysis. CV - denies chest pain palpitations edema. GI - denies nausea vomiting diarrhea. GU - denies dysuria hematuria. All other systems reviewed and negative.
+
+OBJECTIVE (via video, limited exam):
+Vitals per pt reported home pulse ox 95% on RA, pt reports temp 99.1F taken at home, HR appears regular pt states no palpitations. General - pt appears comfortable no acute distress noted on camera. Resp - pt demonstrates cough on camera, sounds congested, unable to auscultate via telehealth. Pt denies use of accessory muscles.
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral, in setting of underlying COPD
+2. COPD J44.9 - stable per pt report
+3. CKD stage 3 - stable, will continue to monitor renal fx with routine labs
+4. Nicotine dependence, former smoker - counseling ongoing
+
+PLAN:
+- Supportive care, increase fluids, rest, use of humidifier
+- Continue tiotropium and albuterol as prescribed
+- Guaifenesin OTC for cough as needed
+- Return to clinic or ED if worsening SOB, fever >101, chest pain, or hemoptysis
+- Recommend f/u with PCP for routine CKD labs (BMP) in coming weeks
+- General health maintenance topics discussed briefly including smoking-related lung health, pt encouraged to continue discussing ongoing preventive care with PCP
+- Reinforced tobacco cessation maintenance and provided encouragement given pt's continued abstinence from smoking
+
+Pt verbalizes understanding of plan agrees to f/u as above. Visit time approx 15 min via telehealth today 2/15/2023.
+
+---
+ADDENDUM (same day, later): Pt called back office staff after visit to clarify home pulse ox reading was actually taken this AM prior to onset of worsening cough, states "it might be lower now honestly." Advised pt to recheck and call back if pulse ox <92% or if breathing worsens will plan to see in person same day if needed. No other changes to plan at this time. -Isaac Moreno PA-C

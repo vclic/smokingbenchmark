@@ -1,0 +1,79 @@
+NURSE INTAKE
+Date of Service: 05/26/2024
+Patient: Richard Wood, M, DOB 05/26/1971, Age: 53
+Visit type: ED-to-clinic follow-up, Pulmonology
+
+Vital Signs: BP 138/86, HR 92, RR 20, SpO2 91% RA, Temp 98.2F, Wt 198 lb
+Chief complaint per pt: still winded from the ER visit last week.
+
+SOCIAL HISTORY (nursing-completed template):
+Tobacco Use: Current every day smoker
+Substance Use Details: Pt reports history of tobacco use spanning 24 years.
+Alcohol: occasional, denies drug use
+
+PHYSICIAN PROGRESS NOTE
+Farah Siddiqui, MD - Pulmonology
+Date of Service: 05/26/2024
+
+HPI:
+Mr. Wood is a 53-year-old male (DOB 5/26/1971) with history of COPD, CAD, HFrEF, hypothyroidism, gout, and BPH who presents today for follow-up after a COPD exacerbation managed in the ED last week. He reports using his rescue inhaler frequently prior to presenting to the ED. He was treated with nebulizers, a short course of prednisone, and azithromycin, and discharged home. Today he reports improved but still present dyspnea on exertion, mild productive cough with white-yellow sputum, no fevers currently. He denies chest pain at rest, denies orthopnea beyond his baseline two-pillow status.
+
+Regarding tobacco: he is an active smoker and continues to smoke daily. He reports that he previously quit smoking in 2010 but relapsed in 2012 and has smoked continuously since then. He has been counseled repeatedly regarding smoking cessation resources including nicotine replacement therapy and referral to the state quitline; he states he is not ready to set a quit date today but is willing to discuss it at future visits.
+
+Past Medical History: coronary artery disease s/p prior stent, gout, COPD (GOLD stage not documented today), benign prostatic hyperplasia, hypothyroidism, heart failure with reduced ejection fraction (last EF 35% on echo 2023).
+
+Medications:
+1. Albuterol-ipratropium nebulizer solution PRN
+2. Tiotropium inhaler daily
+3. Fluticasone-salmeterol inhaler BID
+4. Metoprolol succinate 50 mg daily
+5. Lisinopril 10 mg daily
+6. Furosemide 40 mg daily
+7. Spironolactone 25 mg daily
+8. Atorvastatin 40 mg qHS
+9. Aspirin 81 mg daily
+10. Levothyroxine 100 mcg daily
+11. Allopurinol 300 mg daily
+12. Tamsulosin 0.4 mg qHS
+13. Prednisone taper (currently on day 4 of 5)
+14. Azithromycin (completed course)
+
+Allergies: NKDA
+
+Review of Systems:
+Constitutional: denies fever, denies chills, reports mild fatigue
+HEENT: denies sore throat, denies nasal congestion
+Cardiovascular: denies chest pain, denies palpitations, reports stable lower extremity edema at baseline
+Respiratory: positive for dyspnea on exertion, positive for productive cough, denies hemoptysis, denies wheezing at rest
+GI: denies nausea, denies vomiting, denies abdominal pain, denies constipation
+GU: reports mild nocturia consistent with known BPH, denies dysuria
+Musculoskeletal: denies acute joint pain, notes chronic gout well controlled on allopurinol
+Neuro: denies headache, denies dizziness
+Skin: denies rash
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative.
+
+Physical Exam:
+General: alert, oriented, mild respiratory distress with speaking in full sentences
+HEENT: normocephalic, atraumatic, oropharynx clear
+Neck: no JVD appreciated today, no lymphadenopathy
+Cardiovascular: regular rate and rhythm, S1 S2 normal, no murmurs appreciated, 1+ bilateral lower extremity edema
+Respiratory: diffuse expiratory wheezes bilaterally, prolonged expiratory phase, no crackles, no accessory muscle use at rest
+Abdomen: soft, non-tender, non-distended, normal bowel sounds
+Extremities: no clubbing, no cyanosis, trace edema as noted above
+Skin: warm, dry, no rashes
+Neuro: grossly non-focal
+
+Assessment/Plan:
+1. COPD exacerbation, recently treated in ED, currently improving on prednisone taper - continue current taper, continue nebulizer and maintenance inhalers, follow up spirometry once stable.
+2. Active tobacco use - patient continues to smoke daily and has a 24-year history of tobacco use per social history documentation; counseled extensively today regarding cessation, discussed nicotine replacement options and quitline referral, patient not ready for quit date at this time. Lung cancer screening was discussed in general terms as part of overall risk reduction conversation.
+3. Coronary artery disease - continue aspirin, statin, beta-blocker; stable today.
+4. Heart failure with reduced ejection fraction - continue diuretic and GDMT, no signs of acute decompensation today, mild baseline edema unchanged.
+5. Hypothyroidism - continue levothyroxine, recheck TSH at next visit.
+6. Gout - well controlled on allopurinol, no acute flare.
+7. BPH - continue tamsulosin, mild nocturia reported, stable.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Farah Siddiqui, MD
+Pulmonology

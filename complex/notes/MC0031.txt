@@ -1,0 +1,72 @@
+URGENT CARE PROGRESS NOTE
+Patient: Rajesh Brooks (M), DOB 1/7/1954, Age: 69
+Date of Service: 01/07/2023
+Provider: Quentin Hale, PA-C
+
+CHIEF COMPLAINT: Cough
+
+HPI:
+Mr. Brooks is a 69-year-old male with h/o CAD, hypothyroidism, OA, asthma, and PAD who presents today for evaluation of a productive cough x5 days. He states, "It's this cough that just won't quit, and my chest feels tight when I climb stairs." He denies fever but reports mild dyspnea on exertion. He notes his usual albuterol inhaler has given "a little relief but not much." No hemoptysis, no chest pain at rest. He admits, "I still smoke, doc, but I'm just not ready to quit right now." He reports his smoking history includes an earlier period of about half a pack (roughly 10 cigarettes) per day for 24 years, after which he cut back to about a quarter pack (roughly 5 cigarettes) per day, which he has continued for 28 years and still smokes at that same rate today. He was counseled on smoking cessation resources but declined further discussion at this time.
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Current smoker
+Type: Cigarettes
+Packs/day: See HPI for details
+Years smoked: See HPI for details
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies binge drinking
+Drug use: Denies
+Occupation: Retired mechanic
+Living situation: Lives with spouse
+Exercise: Limited due to PAD symptoms
+Diet: Not on file
+
+[Copied from note dated 02/07/2020]:
+"Social History: Tobacco use - current smoker. Patient continues to smoke; no quantities documented in this section."
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Respiratory: Positive for cough, mild dyspnea on exertion. Denies hemoptysis.
+Cardiovascular: Denies chest pain at rest, denies palpitations.
+Musculoskeletal: Chronic knee pain, stable.
+Endocrine: No new symptoms, on levothyroxine.
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 18, Temp 98.4F, SpO2 95% on room air.
+General: Alert, mild respiratory distress with exertion, no acute distress at rest.
+HEENT: Oropharynx clear, no erythema.
+Neck: No lymphadenopathy, no JVD.
+Lungs: Bilateral expiratory wheeze, no crackles, mild prolonged expiratory phase.
+Cardiovascular: Regular rate and rhythm, no murmurs, 1+ pedal pulses bilaterally consistent with known PAD.
+Extremities: No edema, mild cool distal extremities.
+Skin: No rashes.
+
+LABS/RESULTS:
+- CBC (01/07/2023): WBC 7.8 (nl 4.0-11.0), Hgb 14.1, Hct 42.3%, Plt 210
+- BMP (01/07/2023): Na 138, K 4.1, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+- TSH (12/15/2022): 2.1 (nl 0.4-4.0) - stable on current levothyroxine dose
+- Chest X-ray (01/07/2023): Mild hyperinflation, no infiltrate, no acute cardiopulmonary process
+- D-dimer: Not ordered, low clinical suspicion for PE
+
+PROBLEM LIST (ICD-10):
+- I25.10 Coronary artery disease without angina - stable, last cardiology follow-up 6 months ago
+- E03.9 Hypothyroidism, unspecified - on levothyroxine, stable
+- M19.90 Osteoarthritis, unspecified site - managed with NSAIDs PRN
+- J45.909 Asthma, unspecified, uncomplicated - intermittent use of albuterol
+- I73.9 Peripheral artery disease, unspecified - stable, mild claudication
+- Z71.6 Tobacco use counseling (outdated entry, last updated 2020, not reflective of current visit)
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral vs. asthma exacerbation, given wheeze on exam.
+2. Tobacco use disorder, current smoker, patient has expressed he is not ready to quit at this time; discussed risks and benefits of continued use given his cardiovascular and peripheral vascular disease. He reports a long-term history of smoking, previously about half a pack per day for 24 years and currently about a quarter pack per day for the past 28 years.
+3. Stable CAD, hypothyroidism, OA, PAD - no acute changes today.
+
+PLAN:
+1. Prescribed short course of oral steroids and increased albuterol inhaler frequency for suspected asthma exacerbation/acute bronchitis.
+2. Encouraged fluids, rest, follow up with PCP if symptoms worsen or persist beyond 7-10 days.
+3. Discussed smoking cessation options including nicotine replacement therapy and counseling resources; patient declined at this visit but open to revisiting the topic at future appointments.
+4. Continue current medications for CAD, hypothyroidism, OA, and PAD without changes.
+5. Discussed general lung health screening considerations given smoking history; no specific imaging or screening ordered at this time.
+6. Follow up in 1-2 weeks or sooner if symptoms worsen.
+
+Electronically signed by Quentin Hale, PA-C, 01/07/2023.

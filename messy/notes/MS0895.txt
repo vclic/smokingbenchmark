@@ -1,0 +1,87 @@
+NURSE INTAKE
+Date of Service: 01/01/2025
+Patient: Samuel Brown  DOB: 01/01/1968  Age: 57  Sex: M
+Provider: Nadia Haddad, MD (Geriatrics)
+
+Vitals: BP 148/86, HR 76, RR 16, T 98.4F, SpO2 96% RA, Wt 198 lb, Ht 5'10", BMI 28.4
+Chief complaint: geriatric assessment, follow up chronic conditions
+
+SOCIAL HISTORY (EHR template)
+Tobacco use: Former smoker
+Type: Cigarettes
+Amount: 3/4 pack per day (~15 cigarettes/day)
+Age started: 13
+Age quit: 46
+Quit duration: quit smoking 10 years ago
+Current status: Patient no longer smokes.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/week
+Drug use: denies
+Living situation: lives with spouse
+Occupation: retired
+Exercise: reports walking daily, limited by leg pain
+
+---
+PHYSICIAN PROGRESS NOTE
+Nadia Haddad, MD
+Date of Service: 01/01/2025
+
+HPI: Mr. Brown is a 57-year-old male here for annual geriatric assessment and follow up of hyperlipidemia, hypertension, BPH, osteoarthritis, and peripheral artery disease. He states, "My knees are the worst part, doc, especially when it's cold like this." He also reports, "I still get that cramping in my calves when I walk to the mailbox and back." He denies chest pain, palpitations, or shortness of breath at rest. He reports nocturia 2-3 times nightly, attributed to his known BPH, and states his urinary stream has been "about the same, not worse." He denies hematuria or dysuria. He notes occasional dizziness on standing, no falls in the last year. Diet reviewed - low sodium, low fat encouraged. He reports adherence to home BP monitoring with variable readings in the 140s/80s.
+
+Regarding tobacco: as documented in social history above, patient smoked approximately three-quarters of a pack per day (about 15 cigarettes daily) starting at age 13 and continuing until he quit smoking at age 46; he quit smoking 10 years ago and currently does not smoke. He was counseled to continue to avoid tobacco and reminded of the benefits of remaining smoke-free, particularly given his peripheral artery disease.
+
+[COPIED FORWARD FROM PRIOR VISIT DATED 03/14/2023 - GERIATRICS NOTE]
+HPI (03/14/2023): Mr. Brown presents for follow up of PAD, HTN, HLD, BPH, and OA. He reports intermittent claudication after walking approximately 2 blocks, improved somewhat with cilostazol. He denies rest pain or non-healing ulcers. BP well controlled on current regimen. Lipid panel reviewed, LDL at goal. PSA stable. Osteoarthritis of bilateral knees managed with acetaminophen and topical NSAID, ambulates with cane as needed. Social history reviewed - tobacco use former, no other changes. Plan: continue current medications, follow up in 6 months, repeat ABI as needed.
+[END COPIED TEXT]
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss
+Eyes: denies vision changes
+ENT: denies hearing loss, tinnitus
+Cardiovascular: denies chest pain, orthopnea, PND; +bilateral leg cramping with exertion as above
+Respiratory: denies cough, dyspnea, wheeze
+GI: denies nausea, vomiting, abdominal pain, changes in bowel habits
+GU: +nocturia as above, denies hematuria, dysuria, urgency
+Musculoskeletal: +bilateral knee pain, denies acute swelling or redness
+Skin: denies rashes, non-healing wounds, ulcers
+Neuro: denies focal weakness, numbness, tremor
+Psych: denies depression, anxiety, sleep well aside from nocturia
+Endocrine: denies polyuria, polydipsia
+Heme/Lymph: denies easy bruising, bleeding, lymphadenopathy
+Allergic/Immunologic: denies seasonal allergies exacerbation
+
+Physical Exam:
+General: well-appearing, no acute distress, appears stated age
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly
+Neck: supple, no JVD, no carotid bruits appreciated
+Cardiovascular: RRR, no murmurs/rubs/gallops, distal pulses 1+ bilateral dorsalis pedis, femoral pulses palpable without bruit
+Respiratory: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abdomen: soft, non-tender, non-distended, no organomegaly, bowel sounds normal
+GU: deferred, prior exam on file consistent with BPH
+Extremities: no edema, mild hair loss on lower legs, no ulcerations, cap refill <3 sec
+Musculoskeletal: bilateral knee crepitus with range of motion, no effusion, mild tenderness medial joint line
+Skin: warm, dry, intact, no lesions
+Neuro: alert and oriented x3, cranial nerves II-XII grossly intact, gait steady with cane, no focal deficits
+Psych: mood euthymic, affect appropriate
+
+Medications:
+1. Atorvastatin 40 mg PO nightly
+2. Amlodipine 5 mg PO daily
+3. Lisinopril 20 mg PO daily
+4. Tamsulosin 0.4 mg PO nightly
+5. Cilostazol 100 mg PO BID
+6. Aspirin 81 mg PO daily
+7. Acetaminophen 500 mg PO PRN joint pain
+8. Topical diclofenac gel applied to knees BID PRN
+9. Vitamin D3 1000 IU PO daily
+
+Assessment/Plan:
+1. Peripheral artery disease - stable, continue cilostazol and aspirin, tobacco cessation maintained (patient no longer smokes), continue walking program
+2. Hypertension - BP mildly elevated today, continue current regimen, recheck at next visit, home readings reviewed
+3. Hyperlipidemia - LDL at goal per last panel, continue atorvastatin
+4. BPH - stable on tamsulosin, nocturia unchanged, PSA to be rechecked at next visit
+5. Osteoarthritis - continue acetaminophen and topical NSAID, consider PT referral if worsening
+6. Health maintenance - lung cancer screening discussed given prior tobacco history; immunizations reviewed and updated; fall risk assessed, low risk
+Follow up in 3-6 months or sooner if symptoms worsen.
+
+Electronically signed: Nadia Haddad, MD

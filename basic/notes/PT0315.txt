@@ -1,0 +1,77 @@
+Geriatrics Clinic Note
+
+Patient: JENKINS, Hung    MRN: 40241998
+DOB: 03/12/1951    Age: 74 y.o.    Sex: Male
+Date of Service: 10/27/2025    Provider: Gregory Tan, MD
+
+Chief Complaint
+Patient presents with
+• BP check
+
+Subjective:
+Hung Jenkins is a 74 y.o. male who presents for follow-up of hypertension.
+Home BP readings mostly in the 140s/90s. Admits to missing losartan 50 mg daily a few times a week. Denies headaches, chest pain, dyspnea, or vision changes.
+
+Past Medical History:
+Diagnosis	Date
+• Obstructive sleep apnea on CPAP
+• Hypertension
+• Emphysema
+• Hypercholesterolemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• tiotropium 18 mcg inhaled daily
+• losartan 50 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• atorvastatin 20 mg daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+    Quit date: 2/5/1996
+    Years since quitting: 29.7
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with son.
+  Retired accountant.
+  No alcohol.
+  Denies illicit drugs.
+
+Family History
+Mother - HTN, DM2. Sister - hypothyroidism.
+
+Review of Systems
+ROS: CV neg, MSK neg, Neuro neg, GU neg
+
+Objective:
+Vitals:
+  BP 154/73 (BP Location: Right arm, Patient Position: Sitting) | Pulse 80 | Temp 97.7 °F (Oral) | Resp 16 | Ht 5' 8" | Wt 157 lb | SpO2 94% | BMI 23.91 kg/m²
+Physical Exam
+General: NAD, well-appearing
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Assessment & Plan
+1. Hypertension
+   Above goal; increase losartan dose and recheck in 4 weeks. BMP in 2 weeks.
+2. Obstructive sleep apnea on CPAP
+   Using CPAP nightly.
+3. Hypercholesterolemia
+   LDL at goal on last check; continue.
+4. Emphysema
+   No exacerbations since last visit. Continue maintenance inhaler.
+
+f/u 1 mo
+
+Electronically signed by Gregory Tan, MD on 10/27/2025

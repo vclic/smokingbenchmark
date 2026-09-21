@@ -1,0 +1,78 @@
+Adult Medicine Office Visit
+
+Patient: GARCIA, Kathleen    MRN: 44498296
+DOB: 06/03/1967    Age: 57 y.o.    Sex: Female
+Date of Service: 11/04/2024    Provider: Daniel Reyes, MD
+
+Chief Complaint
+Patient presents with
+• Left knee pain
+
+Subjective:
+Kathleen Garcia is a 57 y.o. female who presents for left knee pain.
+She used to smoke but quit smoking in March of 2009. Left knee pain for 6 months, worse with activity. No trauma. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• HTN
+• Osteoporosis
+• Generalized anxiety disorder	2015
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumpectomy, benign (2022)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• lisinopril 20 mg daily
+• alendronate 70 mg weekly
+• fish oil 1 g daily
+• bupropion XL 150 mg daily
+• calcium + vitamin D daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Social History Narrative
+  Divorced, lives alone.
+  Works as a postal worker.
+  EtOH: 2-3 drinks on weekends.
+  No illicit drug use.
+
+Family History
+Noncontributory.
+
+Review of Systems
+ROS: 10-point ROS otherwise negative.
+
+Objective:
+Vitals:
+  BP 134/81 (BP Location: Right arm, Patient Position: Sitting) | Pulse 78 | Temp 98.4 °F (Oral) | Resp 12 | Ht 5' 7" | Wt 144 lb | SpO2 99% | BMI 22.58 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: Supple
+Cardiovascular: RRR, no m/r/g
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No clubbing, cyanosis, or edema
+MSK: L knee: no effusion, crepitus, full ROM with pain at end flexion
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (10/29/2024): Cr 0.72, K 3.9
+
+Assessment & Plan
+1. Left knee pain
+   Likely OA flare. Ice, acetaminophen, PT.
+2. HTN
+   Well controlled on home log. No changes.
+3. Generalized anxiety disorder
+   PHQ-9 stable; continue current regimen.
+4. Osteoporosis
+   Continue bisphosphonate; DEXA due.
+
+Follow up in 6 months or sooner PRN.
+
+Electronically signed by Daniel Reyes, MD on 11/04/2024

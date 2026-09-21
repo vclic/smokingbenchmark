@@ -1,0 +1,85 @@
+General Medicine Clinic Clinic Note
+
+Patient: SULLIVAN, Maria    MRN: 42636465
+DOB: 01/12/1973    Age: 52 y.o.    Sex: Female
+Date of Service: 07/07/2025    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Diabetes follow-up
+
+Subjective:
+Maria Sullivan is a 52 y.o. female who presents for diabetes follow-up.
+Most recent A1c 8.2% (previously 9.3% in February 2025). Rarely checks glucose at home. Denies polyuria/polydipsia. She stopped smoking in 2024. No numbness or tingling.
+
+Past Medical History:
+Diagnosis	Date
+• T2DM without complication	2015
+• Major depressive disorder, recurrent, in remission
+• Chronic obstructive pulmonary disease
+• Hypercholesterolemia
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Cholecystectomy (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 10 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• umeclidinium-vilanterol 62.5/25 1 inh daily
+• sitagliptin 100 mg daily
+• sertraline 50 mg daily
+
+Allergies
+• Shellfish
+
+Social History
+Tobacco Use
+• Smoking status: Former Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Lives with husband and adult daughter.
+  Smokes marijuana occasionally (1-2x/wk).
+  Social drinker.
+  Sedentary.
+
+Family History
+Noncontributory. Both parents were smokers.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 120/75 (BP Location: Left arm, Patient Position: Sitting) | Pulse 84 | Temp 97.7 °F (Oral) | Resp 18 | Ht 5' 2" | Wt 131 lb | SpO2 90% | BMI 23.98 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Diminished BS throughout, no crackles
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (2025-06-04): A1c 8.2%, LDL 64, Cr 1.02, K 3.9
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 8.2% - above goal; increase metformin to 1000 mg BID. Diabetic eye exam referral.
+2. Health maintenance
+   Lung cancer screening: LDCT ordered.
+
+f/u 6 mo
+
+Electronically signed by Teresa Alvarez, NP on 07/07/2025

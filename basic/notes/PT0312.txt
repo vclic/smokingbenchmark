@@ -1,0 +1,45 @@
+PROGRESS NOTE
+Date of Service: 8/28/2025
+Patient: Leonard Campbell   DOB: 7/9/1946   MRN: 77851135
+
+S:
+CC: Cough
+HPI: Mr. Campbell is a 79 year old male with a history of CAD, T2DM, and CHF; tobacco: 0.75 ppd x 59yrs; he presents for cough and congestion. Cough for 13 days, dry. No fevers. No sick contacts. Mild DOE with the cough.
+
+PMH:
+- Heart failure with reduced ejection fraction
+- T2DM without complication
+- CAD
+PSH: Tonsillectomy (childhood)
+Meds: multivitamin daily; furosemide 40 mg daily; semaglutide 0.5 mg weekly; carvedilol 12.5 mg BID; metformin 1000 mg BID; sacubitril-valsartan 49/51 mg BID; clopidogrel 75 mg daily
+Allergies: Latex
+SH: Widowed; lives with son. Retired, former accountant. Tob: ex-smoker. Alcohol: rare. No IVDU.
+FH: Mother - rheumatoid arthritis. Mother - HTN, DM2.
+ROS: 10-point ROS otherwise negative.
+
+OBJECTIVE:
+Vitals: BP: 133/64  HR: 65  RR: 14  Temp: 98.3 F  SpO2: 95% on RA  Wt: 173 lbs  BMI: 25.5
+Exam:
+  General: NAD, well-appearing
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: Scattered rhonchi that clear with cough
+  Abd: Soft, NT/ND, +BS
+  Ext: Trace bilateral ankle edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+Labs (7/30/2025): A1c 8.5%, Cr 1.08, K 3.8, Hgb 15.4
+
+A/P:
+1. Acute bronchitis
+   - Likely viral bronchitis. Supportive care, benzonatate PRN. Return if fever or dyspnea.
+2. Heart failure with reduced ejection fraction: Weight stable. Continue diuretic.
+3. Personal history of nicotine dependence
+   - Quit Jul '20. Meets criteria for annual LDCT - ordered. Encouraged continued abstinence.
+4. CAD
+   - Stable. Continue secondary prevention.
+
+Return in about 12 months (around 8/28/2026).
+
+Quentin Hale, PA-C

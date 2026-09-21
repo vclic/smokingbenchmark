@@ -1,0 +1,45 @@
+Pulm F/U Progress Note - ED to clinic after COPD exacerbation
+DOS: 05/25/2025
+Author: Quentin Hale, PA-C
+
+Pt: Evelyn Perez, F, DOB 05/25/1965, age 60
+
+HPI: Pt presented to ED last wk w/ worsening dyspnea and wheeze, tx w neb tx and steroid burst, d/c home, now here for f/u. Reports mild improvement in cough, still using rescue inhaler more than usual baseline. Denies fever chills. Hx of asthma, OSA, PAD, OA per chart.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Current smoker
+Type: Cigarettes
+Smoking Hx: Pt smoked 1 pack per day for 12 years, then increased to 2 packs per day for 22 years and still smokes at that rate.
+Smokeless tobacco: Not on file
+Alcohol use: Pt quit drinking alcohol in 2021.
+Drug use: Not on file
+Occupation: ___ (blank)
+Living situation: Not on file
+
+[Copied from note dated 06/25/2022]: "Tobacco: current smoker." No further detail given in that entry.
+
+ROS: Resp: chronic cough, occas wheeze. Cardiac: neg chest pain. MSK: chronic knee pain c/w OA. Neuro: uses CPAP nightly for OSA, reports fair compliance.
+
+EXAM: Vitals: BP 138/82 HR 88 RR 18 O2 sat 94% RA Temp 98.4F
+Gen: NAD, mild use of accessory muscles
+Lungs: diffuse expiratory wheezes, prolonged expiratory phase, no crackles
+CV: RRR no m/r/g
+Ext: no edema, PAD hx noted, pulses diminished bilat DP
+
+LABS/RESULTS:
+CBC (05/20/2025): WBC 9.8, Hgb 13.1, Hct 39.4
+BMP (05/20/2025): Na 138 K 4.1 Cr 0.9 Gluc 101
+CXR (05/20/2025): hyperinflation, no acute infiltrate
+Spirometry (03/15/2025): FEV1/FVC 0.62, consistent w obstructive pattern
+
+ASSESSMENT/PLAN:
+1. COPD exacerbation, recently resolved - continue albuterol PRN, start tiotropium daily, f/u in 4 wks
+2. Tobacco use, current smoker - counseled extensively on cessation benefits, discussed nicotine repalcement options and referral to quitline, pt states not ready to quit at this time. Lung cancer screening discussed as topic for future visit.
+3. Asthma - stable on current regimen
+4. OSA - continue CPAP, reinforce compliance
+5. PAD - continue ASA, cilostazol, f/u vascular as scheduled
+6. OA - conservative mgmt, NSAID as needed w renal monitoring
+
+RTC 4 wks or sooner if worsening sx. Pt verbalizd understanding of plan.
+
+-- Quentin Hale, PA-C

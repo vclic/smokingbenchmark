@@ -1,0 +1,78 @@
+CARDIOLOGY H&P - HEART FAILURE FOLLOW-UP
+Patient: Gregory Walker (M)  DOB: 10/28/1959  Age: 65
+Date of Service: 12/24/2024
+Author: Steven Park, MD
+
+CHIEF COMPLAINT: F/u heart failure, AFib mgmt.
+
+HPI: 65 yo M w/ hx CHF (HFrEF), atrial fibrillation, obesity, hypothyroidism presents for routine f/u. Pt reports mild DOE w/ 2 flights of stairs, no PND/orthopnea. Denies chest pain. Compliant w/ Eliquis, metoprolol succinate, furosemide, levothyroxine. Wt stable per pt, though scale at home not calibrated recently. No recent hospitalizations. Reports occasional palpitations, brief, self-resolving.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 06/14/2023*** 
+Pt is a 63 yo M with hx AFib (on anticoagulation), HFrEF EF 35% per last TTE, obesity (BMI 34), hypothyroidism on levothyroxine 88mcg daily. Pt continues to tolerate current regimen well. No syncope, no edema currently. Diet reviewed, low Na counseling given. F/u labs stable, TSH within normal limits. Pt encouraged to continue home exercise program as tolerated. Return to clinic in 6 months or sooner if symptoms worsen. [END COPIED TEXT]
+
+REVIEW OF SYSTEMS: Constitutional: no fever/chills. Cardiac: as above. Resp: no cough, mild exertional SOB. GI: no n/v. Endocrine: no cold intolerance currently. All other systems reviewed and negative.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco Use Status: Current every day smoker
+Smoking history detail: Pt smoked approx 1/2 pack (~10 cigarettes) per day x 27 years, then decreased to approx 5 cigarettes/day for the subsequent 23 years, continuing to present.
+Smokeless tobacco: Not on file
+Alcohol use: occasional, 1-2 drinks/wk
+Drug use: denies
+Occupation: retired
+Living situation: lives w/ spouse
+Quit date planned: 1/9/2025 (pt has set upcoming quit date; encouraged and supported)
+Secondhand smoke exposure: Not on file
+E-cigarette/vape use: Not on file
+
+Counseling: Extensive counseling provided regarding smoking cessation benefits given CV and pulmonary risk; pt receptive, has set target quit date as above. Nicotine replacement options discussed. Lung cancer screening discussed as part of overall risk reduction conversation.
+
+PMH:
+- Heart failure with reduced EF
+- Atrial fibrillation
+- Obesity
+- Hypothyroidism
+- Hyperlipidemia (per old chart, dz status unclear currently)
+
+MEDICATIONS:
+- Metoprolol succinate 50mg daily
+- Apixaban 5mg BID
+- Furosemide 20mg daily
+- Levothyroxine 88mcg daily
+- Atorvastatin 20mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 128/78, HR 82 irregularly irregular, RR 16, SpO2 97% RA, Wt 228 lb, BMI 33.9
+Gen: NAD, obese habitus
+CV: irregularly irregular rhythm, no murmurs appreciated, no JVD
+Resp: CTAB, no wheezes/crackles
+Ext: trace bilateral LE edema, no clubbing/cyanosis
+Skin: warm, dry
+
+LABS/RESULTS:
+BMP (12/20/2024): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.0, Glucose 102
+TSH (12/20/2024): 2.1 (WNL)
+BNP (12/20/2024): 310 pg/mL (elevated, stable from prior 298 on 06/14/2023)
+Lipid panel (12/20/2024): TC 165, LDL 88, HDL 42, TG 175
+TTE (10/2024, outside report reviewed): EF 38%, mild LVH, no significant valvular dz
+
+PROBLEM LIST (ICD-10):
+I50.22 - Chronic systolic (congestive) heart failure
+I48.91 - Unspecified atrial fibrillation
+E66.9 - Obesity, unspecified
+E03.9 - Hypothyroidism, unspecified
+Z72.0 - Tobacco use
+E78.5 - Hyperlipidemia, unspecified (outdated entry, carried over multiple visits, not actively addressed today)
+I10 - Essential hypertension (outdated, pt reports no longer has HTN dx, to reconcile)
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable, continue current GDMT, monitor wt daily, low Na diet reinforced.
+2. AFib - rate controlled, continue apixaban for anticoagulation, no bleeding concerns.
+3. Obesity - counseled on diet/exercise, discussed weight mgmt referral.
+4. Hypothyroidism - TSH WNL, continue current levothyroxine dose.
+5. Tobacco use - active smoker, extensive cessation counseling given, quit date set for 1/9/2025, will provide resources and f/u on progress at next visit.
+6. Lipids - reasonably controlled, continue statin.
+F/u in 3 months or sooner if symptoms worsen.
+
+Electronically signed: Steven Park, MD - 12/24/2024

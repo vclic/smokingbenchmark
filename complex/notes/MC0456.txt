@@ -1,0 +1,36 @@
+URGENT CARE VISIT NOTE
+Patient: Gary Hughes | DOB: 3/8/1966 | Age: 59 | Sex: M
+Date of Service: 03/08/2025
+Author: Daniel Reyes, MD (Resident) — Attending attestation appended below
+
+CC: cough x5 days
+
+HPI: 59 yo male with hx of BPH, CKD stage 3 presents with productive cough, worsening past 2 days, denies fever, mild SOB w exertion, no hemoptysis. no chest pain. Pt reports congestion, sore throat resolved. No sick contacts known. Using OTC cough syrup w minimal relief.
+
+PROBLEM LIST (per chart, some outdated):
+- N40.0 BPH
+- N18.3 CKD stage 3
+- E78.5 Hyperlipidemia (dc'd 2019, remains on list)
+- I10 HTN (dose adjusted 2022)
+- J45.909 Asthma (unclear, pt denies dx)
+
+SOCIAL HISTORY: Former smoker. Smoked approx half pack (about 10 cigarettes) per day for 12 years, then increased to 1.5 packs per day for 11 years before quitting; quit smoking in 2007. denies current tobacco use. Occasional etoh, denies illicit drugs.
+
+ROS: Constitutional - no fever chills wt loss. HEENT - mild sore throat improving, no rhinorrhea now. Resp - cough as above, no hemoptysis. CV - no chest pain palpitations edema. GI - no n/v/d, appetite ok. GU - nocturia stable per BPH baseline. Neuro - no focal deficits. Skin - no rash. Psych - mood stable. All other systems reviewed and negative.
+
+MEDS: tamsulosin 0.4mg qhs, finasteride 5mg daily, lisinopril 10mg daily, amlodipine 5mg daily, atorvastatin (dc'd), multivitamin daily, occasional acetaminophen prn.
+
+PHYSICAL EXAM: Vitals: T 98.6F HR 78 BP 132/80 RR 16 SpO2 97% RA. Gen - NAD, alert. HEENT - oropharynx mildly erythematous, no exudate. Neck - supple, no LAD. Lungs - scattered rhonchi bilat, no wheeze, no crackles. CV - RRR no m/r/g. Abd - soft NT ND. Ext - no edema. Skin - wnl. Neuro - grossly intact.
+
+LABS/RESULTS:
+- CBC 03/08/2025: WBC 8.1, Hgb 14.2, Plt 240
+- BMP 03/08/2025: Cr 1.4 (baseline), eGFR 52
+- CXR 03/08/2025: no acute infiltrate, no effusion
+
+ASSESSMENT/PLAN:
+1. Acute bronchitis - supportive care, increase fluids, guaifenesin, return if worsening dyspnea or fever.
+2. CKD stage 3 - stable, recheck BMP in 3 months, avoid nephrotoxic NSAIDs.
+3. BPH - continue tamsulosin/finasteride, stable sx.
+4. Tobacco history discussed given former smoking history; counseled on general health maintenance, screening options discussed but no imaging ordered today.
+
+Attending Attestation: I have seen and examined the patient with Dr. Reyes. Discussed history and plan above, agree with assessment and plan as documented. — Attending, signed electronically.

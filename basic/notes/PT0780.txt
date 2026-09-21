@@ -1,0 +1,35 @@
+Primary Care Clinic Note
+Date of Service: 09/05/2023
+Patient: Sharon Robinson   DOB: 2/21/1968   MRN: 42248376
+
+S:
+CC: Right shoulder pain
+HPI: Ms. Robinson is a 55-year-old woman with a history of obesity and GERD who presents for right shoulder pain. Right shoulder pain for 4 months, worse in the morning. Twisted it stepping off a curb. Nothing has helped.
+
+PMH: GERD, Obesity
+Meds: pantoprazole 40 mg daily
+Allergies: Latex
+FH: No family hx of colon cancer. Sister - breast cancer at 59.
+ROS: Gen neg, Neuro neg, MSK +, CV neg, GI neg, Resp neg
+
+O:
+Vitals: BP: 117/83  HR: 90  RR: 18  Temp: 97.4 F  SpO2: 97% on RA  Wt: 194 lbs  BMI: 36.7
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (8/4/2023): Cr 0.72, K 4.7
+
+A/P:
+1. Right shoulder pain: Rotator cuff tendinopathy. PT; subacromial injection offered.
+
+Return in about 6 months (around 3/5/2024).
+
+Electronically signed by Farah Siddiqui, MD on 9/6/2023 at 15:27

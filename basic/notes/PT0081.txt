@@ -1,0 +1,45 @@
+PROGRESS NOTE
+Date of Service: 2/5/2024
+Patient: Roger Walker   DOB: 10/24/1946   MRN: 90627586
+
+S:
+CC: Follow-up
+HPI: 77-year-old male w/ HTN, HLD here for routine follow-up of chronic conditions. No new concerns. He is a lifelong nonsmoker. Asks about refills.
+
+PMH: HLD, HTN
+PSH: Left inguinal hernia repair (2005); Right total knee arthroplasty
+Meds: amlodipine 5 mg daily; vitamin D3 2000 IU daily; pravastatin 40 mg nightly; losartan 50 mg daily
+Allergies: No known allergies
+SH: Lives with wife and adult daughter. No alcohol.
+FH: Father - MI at 74.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies CP, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+O:
+Vitals: BP: 147/77  HR: 75  RR: 16  Temp: 97.6 F  SpO2: 97% on RA  Wt: 178 lbs  BMI: 27.9
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Unremarkable
+  Neck: Supple, no LAD, no JVD
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+Labs (2024-01-16): LDL 106, Cr 1.00, K 4.0, Hgb 15.8
+
+ASSESSMENT/PLAN:
+1. Essential hypertension: Above goal today; recheck at next visit, reinforce low-sodium diet.
+2. Mixed hyperlipidemia
+   - Tolerating statin; recheck lipids in 1 yr.
+
+Return in about 6 months (around 8/5/2024).
+
+Michael Dunn, DO

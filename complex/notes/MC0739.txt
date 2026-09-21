@@ -1,0 +1,63 @@
+TELEHEALTH FOLLOW-UP NOTE
+Patient: Rita Brooks (F) DOB: 8/3/1970 Age: 53
+Date of Service: 08/03/2023
+Provider: Priya Raman, MD - Pulmonology
+
+CHIEF COMPLAINT: Follow-up of incidental lung nodule found on prior CT chest.
+
+HPI: Ms. Brooks is a 53-year-old woman with hypothyroidism, osteoarthritis, hyperlipidemia, CKD stage 3, and osteoporosis, seen today via video visit to discuss a small pulmonary nodule noted incidentally on imaging obtained for another indication. She reports no cough, hemoptysis, chest pain, weight loss, or dyspnea. She feels at her baseline. She is compliant with levothyroxine and states her joint pain is stable on current regimen.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Smoking details: Patient smoked 2 packs per day for 2 years, then increased to 3 packs per day for 2 years before quitting.
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, social
+Secondhand smoke exposure: Not on file
+Vaping/e-cigarette use: None reported
+Occupation: Not on file
+Living situation: Not on file
+Drug use: Denies
+
+When asked about quit timing, patient states she quit smoking when her grandson was born; that grandson is now 28 years old. She has remained smoke-free since.
+
+--- BEGIN TEXT COPIED FORWARD FROM PRIOR NOTE DATED 8/3/2020 ---
+SOCIAL HISTORY (as documented 8/3/2020): Tobacco use: Former smoker. Patient counseled on cardiovascular and pulmonary risks of prior tobacco use; no quantities documented at that visit. Alcohol: occasional. Exercise: reports walking several times weekly. Diet: low sodium recommended given CKD. Patient was advised at that time to continue routine health maintenance and follow up with PCP annually for labs including TSH, lipid panel, and renal function.
+ASSESSMENT/PLAN (8/3/2020, copied forward in error, retained for continuity): Hypothyroidism - stable on levothyroxine. Osteoarthritis - conservative management, NSAIDs as needed. Hyperlipidemia - statin therapy continued. CKD stage 3 - monitor creatinine, avoid nephrotoxic agents. Osteoporosis - continue calcium/vitamin D, weight-bearing exercise encouraged.
+--- END COPIED TEXT ---
+
+REVIEW OF SYSTEMS: Denies fever, chills, night sweats, hemoptysis, chest pain, or unintentional weight loss. Denies shortness of breath at rest or with exertion beyond baseline. All other systems reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: Not obtained (telehealth visit) - reviewed home BP log, reportedly within normal range.
+General: Well-appearing, no acute distress, conversing normally on video.
+Respiratory: No visible respiratory distress, no use of accessory muscles noted on camera.
+Cardiovascular: Not assessed via telehealth.
+Extremities: No visible edema.
+
+LABS/RESULTS:
+CT Chest (07/10/2023): 6 mm solid nodule right upper lobe, unchanged in appearance from comparison imaging obtained 3 months prior; no suspicious features.
+TSH (07/15/2023): 3.1 mIU/L (within normal limits)
+Lipid panel (07/15/2023): Total cholesterol 198 mg/dL, LDL 118 mg/dL, HDL 52 mg/dL, Triglycerides 140 mg/dL
+Creatinine (07/15/2023): 1.4 mg/dL, eGFR 52 mL/min/1.73m2 (consistent with known CKD stage 3)
+DEXA scan (03/2023): T-score -2.6 at lumbar spine, consistent with known osteoporosis diagnosis
+
+ASSESSMENT:
+1. Incidental pulmonary nodule, right upper lobe, stable on interval imaging - low suspicion for malignancy given stability.
+2. Hypothyroidism - stable, euthyroid on current dose.
+3. Osteoarthritis - stable, managed conservatively.
+4. Hyperlipidemia - at goal on statin.
+5. CKD stage 3 - stable, monitor renal function.
+6. Osteoporosis - continue current regimen.
+
+PLAN:
+1. Pulmonary nodule: Given stability on serial imaging, will continue surveillance with repeat low-dose imaging in 6-12 months per radiology recommendation. Discussed general principles of lung cancer risk reduction and the role of imaging surveillance for incidentally found nodules; general lung health and smoking cessation maintenance discussed and reinforced given her smoking history. No further intervention indicated at this time.
+2. Continue levothyroxine, recheck TSH in 6 months.
+3. Continue statin, recheck lipid panel in 6 months.
+4. Continue nephrology-recommended precautions, avoid NSAIDs given CKD, monitor creatinine/eGFR at next visit.
+5. Continue calcium/vitamin D supplementation, weight-bearing exercise as tolerated for osteoporosis.
+6. Follow up with pulmonology in 6 months, sooner if new respiratory symptoms develop.
+7. Patient encouraged to maintain smoke-free status; congratulated on remaining smoke-free since quitting.
+
+Time spent: 20 minutes, telehealth visit, counseling and coordination of care comprised more than half of visit time.
+
+Electronically signed: Priya Raman, MD, Pulmonology, 08/03/2023.

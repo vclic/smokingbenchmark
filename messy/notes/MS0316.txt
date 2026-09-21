@@ -1,0 +1,42 @@
+VASCULAR SURGERY H&P
+Patient: Roger Simmons Sex: M DOB: 4/28/1973 Age: 53
+Date of Service: 04/28/2026
+Author: Priya Raman, MD
+
+CC: eval for peripheral artery disease, claudication sx worsening over past few months
+
+HPI: 53 yo M w hx depression, asthma, afib presents for PAD workup, c/o bilateral calf pain w ambulation, relieved w rest, distance decreasing gradually pt says walks about 2 blocks now before pain starts. Denies rest pain, denies non healing wounds on feet. Pt reports fatigue, some SOB on exertion but attributes to asthma. No CP, no palpitations currently, on anticoagulation per PCP for afib. Pt somewhat tangential historian, [inaudible] regarding exact timeline of sx progression but wife confirms worsening over winter months.
+
+ROS: Constitutional - no fever no weight loss. CV - as above. Resp - occasional wheeze, uses albuterol prn. GI - unremarkable. Neuro - no numbness/tingling noted in legs. Psych - hx depression, stable on current regimen per pt.
+
+PMH: Depression, Asthma, Atrial fibrillation (on anticoag)
+PSH: none significant
+Meds: reviewed in chart, includes anticoag, SSRI, albuterol inhaler
+Allergies: NKDA
+
+Social History: Pt has a long history of heavy smoking. He reports he quit smoking in 2016. Also notes he quit drinking alcohol in 2022 and has remained abstinent since. Lives w spouse, retired mechanic, denies illicit drug use.
+
+Family Hx: father w CAD, mother w DM2, non contributory otherwise
+
+Physical Exam:
+Vitals: BP 138/84 HR 78 irreg irreg (known afib) RR 16 Temp 98.4 SpO2 96% RA
+Gen: NAD, alert oriented x3
+CV: irregularly irregular rhythm, no murmur appreciated, no JVD
+Resp: mild expiratory wheeze bilaterally, no crackles
+Abd: soft nontender nondistended
+Extremities: bilateral lower extremity pulses diminished at DP/PT bilaterally, femoral pulses palpable, no edema, skin intact no ulcerations noted, mild hair loss noted on lower legs bilat, cap refill slightly delayed toes
+Neuro: grossly intact, strength 5/5 throughout
+
+Labs/Imaging: recent ABI ordered, pending at time of visit. Lipid panel from last month reviewed - LDL elevated. A1c wnl.
+
+Assessment: 53 yo M w PAD sx (claudication), afib, asthma, depression. PAD likely multifactorial given smoking hx among other risk factors. Plan to obtain ABI results and consider further vascular imaging depending on findings, discuss risk factor modification.
+
+Plan:
+1. PAD - await ABI results, d/w pt possible further imaging (arterial duplex vs CTA) once ABI back, continue supervised exercise program recommendation, discussed importance of foot care given diminished pulses
+2. Risk factor modification - lipid mgmt d/w PCP re: statin optimization, BP control reviewed, general preventive health counseling given including reinforcement of tobacco free status
+3. Afib - continue anticoag per cardiology, will defer further mgmt to cardiology
+4. Asthma - continue current inhaler, reinforce technique
+5. Depression - stable, continue current tx, f/u w psych as scheduled
+6. F/u in vascular clinic after ABI results available, sooner if sx worsen or new rest pain/ulceration develops
+
+Pt verbalized understanding of plan agreed to f/u as above. Time spent counseling and coordinating care discussed with pt approx 20 min of 30 min visit.

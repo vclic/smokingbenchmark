@@ -1,0 +1,67 @@
+LETTER TO REFERRING PHYSICIAN
+Internal Medicine Consult Note
+Date of Service: 05/18/2023
+Author: Julia Brennan, MD
+
+RE: Elizabeth Thomas, DOB 5/18/1949 (age 74)
+
+Dear Dr. Colleague,
+
+Thank you for referring Ms. Thomas, a 74-year-old woman, for follow-up management of her hypertension and diabetes. She was seen in clinic today, 05/18/2023.
+
+HPI:
+Ms. Thomas reports doing reasonably well overall. Her home glucose logs show fasting values in the 130-150 range. Blood pressures at home have been averaging 138/82. She denies chest pain, orthopnea, or lower extremity edema currently, though she has a known history of heart failure with reduced ejection fraction. She continues to use her albuterol inhaler PRN for asthma flares, roughly once weekly. No recent GERD symptoms with continued omeprazole use.
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Former smoker
+Amount: 8 cigarettes/day
+Duration: 17 years
+Quit year: 1985
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+During today's visit, patient reiterated that she quit smoking back in 1985 and has not resumed since. She was previously a moderate smoker for many years but has remained smoke-free for decades per her report.
+
+ROS: Otherwise negative except as noted above.
+
+Physical Exam:
+Vitals: BP 136/80, HR 78, RR 16, Temp 98.4F, Wt 198 lb, BMI 34
+General: Well-appearing, obese female in no acute distress
+CV: RRR, no murmurs, no JVD
+Lungs: Clear to auscultation bilaterally, no wheezes
+Abd: Soft, non-tender, obese habitus
+Ext: No edema
+
+PROBLEM LIST (per chart, some entries outdated):
+- I50.22 Chronic systolic heart failure
+- J45.909 Asthma, unspecified
+- K21.9 GERD
+- I25.10 Coronary artery disease without angina
+- E66.9 Obesity
+- E11.9 Type 2 diabetes mellitus
+- I10 Essential hypertension
+- Z87.891 Personal history of nicotine dependence (former smoker)
+- J44.9 COPD (outdated, not currently active per pulm consult 2019)
+
+Assessment/Plan:
+1. Hypertension - reasonably controlled, continue lisinopril, recheck BP next visit.
+2. Type 2 diabetes - A1c pending, continue metformin, reinforce dietary counseling.
+3. Heart failure with reduced EF - stable, continue guideline-directed medical therapy, weight stable.
+4. Asthma - stable on PRN albuterol, no oral steroids needed.
+5. GERD - continue omeprazole.
+6. CAD - continue statin and aspirin.
+7. Obesity - discussed weight management options, lifestyle counseling given.
+8. Tobacco history - former smoker as documented above; no further tobacco cessation counseling needed at this time given long-standing abstinence.
+
+Will follow up in 3 months or sooner if symptoms arise.
+
+Sincerely,
+Julia Brennan, MD
+
+---
+ADDENDUM (later same day, 05/18/2023, 4:45 PM):
+Patient called back after labs resulted; A1c 7.8%, will adjust metformin dose and discussed further at next visit. No change to smoking history documented above - confirmed again she quit in 1985 and has remained abstinent. No other changes to plan.
+-Julia Brennan, MD

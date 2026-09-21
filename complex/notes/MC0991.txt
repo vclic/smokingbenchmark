@@ -1,0 +1,48 @@
+Internal Medicine Progress Note
+Patient: Jose Ross (M) DOB 5/13/1946
+DOS: 05/13/2024
+Author: Teresa Alvarez, NP
+
+CC: F/u HTN, DM2
+
+HPI: 78 yo M here for routine f/u of HTN, DM2. Reports doing fairly well, checks BP at home occasionally, runs 130s/80s. Sugars per glucometer log avg 140s fasting. No CP, no SOB, no visual changes. Denies polyuria/polydipsia currently. Feet checked, no ulcers noted by pt. He is a former smoker; quit smoking in 2004 and has remained abstinent since.
+
+--- copied forward from prior visit 11/02/2022 (retained for reference, not all current) ---
+Pt seen for HTN/DM/CKD f/u. BP 138/84, HR 76. Wt stable. A1c 7.4. Cont lisinopril 20mg, metformin 1000mg BID. Gout stable on allopurinol, no flares x 6 mo. CKD stage 3, last eGFR 52. Diet reviewed, low Na/low K discussed. F/u labs in 6 mo. Pt counseled re: fall risk, home safety. RTC 3-6 mo or PRN.
+--- end copied forward ---
+
+ROS: otherwise negative except as above. No hematuria, no dysuria, no joint swelling currently (gout quiescent).
+
+Social History: Retired postal worker. Lives w/ spouse. Former smoker - hx notable, smoked approx 1/4 pack (about 5 cigs) per day for 26 yrs, then increased to 2 packs/day for 15 yrs before quitting altogether in 2004. Occas EtOH, no illicit drug use. General health risks of prior tobacco use reviewed with pt.
+
+Meds: Lisinopril 20mg daily, Metformin 1000mg BID, Atorvastatin 40mg qhs, Allopurinol 300mg daily, ASA 81mg daily.
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 132/78, HR 72, RR 16, Temp 97.8F, Wt 198 lb, BMI 29.4
+Gen: NAD, A&Ox3
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheezes/rales
+Abd: soft, NT/ND
+Ext: no edema, pulses 2+ b/l, feet exam wnl, no ulcers
+Skin: no lesions
+
+Labs/Results (reviewed today):
+- CMP 05/10/2024: Na 139, K 4.6, Cl 101, CO2 24, BUN 22, Cr 1.5, eGFR 49
+- A1c 05/10/2024: 7.6%
+- Lipid panel 05/10/2024: TC 178, LDL 96, HDL 42, TG 200
+- UA 05/10/2024: no protein, no blood
+
+Assessment/Plan:
+1. HTN - well controlled today, continue lisinopril 20mg daily.
+2. DM2 - A1c 7.6, slightly above goal; will increase metformin trial, reinforce diet/exercise. Continue home glucose monitoring.
+3. CKD stage 3 - eGFR 49, stable from prior; avoid nephrotoxic agents, monitor labs q6mo.
+4. Hyperlipidemia - LDL 96, continue atorvastatin 40mg.
+5. Gout - quiescent, continue allopurinol.
+6. Tobacco use, former - reviewed hx of quarter pack/day x26 yrs then 2 packs/day x15 yrs, quit 2004; counseled on continued benefit of remaining smoke-free.
+7. Health maintenance - vaccines UTD, colon ca screening d/w pt.
+
+RTC 3 months or sooner if issues arise.
+
+Teresa Alvarez, NP

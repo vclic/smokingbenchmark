@@ -1,0 +1,63 @@
+TELEHEALTH FOLLOW-UP NOTE
+Pulmonology Service
+Patient: Barbara Gonzales
+DOB: 6/9/1952
+Date of Service: 11/28/2023
+Author: Teresa Alvarez, NP
+
+Visit type: Telehealth (video), pt verified identity by DOB and address at start of call.
+
+CC: F/u incidental lung nodule noted on prior CT chest (obtained for unrelated ED visit for rib pain after fall).
+
+HPI: The patient is 71 years old and presents today, 11/28/2023, for telehealth follow-up regarding an incidentally noted right upper lobe pulmonary nodule identified on CT chest obtained 9/2023. Pt reports no new respiratory symptoms - denies cough, hemoptysis, dyspnea at rest or with exertion beyond baseline. Denies fevers, chills, night sweats, unintentional weight loss. She states she has been feeling generally well aside from occasional fatigue which she attributes to poor sleep. No chest pain. No hoarseness. Appetite stable.
+
+PMH reviewed with pt - confirms hx of hypertension, obstructive sleep apnea (on CPAP), and depression. No new diagnoses reported since last visit.
+
+Medications (per last reconciliation, pt endorses no changes):
+- Lisinopril 20 mg daily
+- Sertraline 100 mg daily
+- CPAP nightly, pt reports variable adherence, uses machine "most nights"
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use: Patient declined to discuss tobacco use.
+Smoking status: Not on file.
+Pack-years: Not on file.
+Alcohol use: Occasional, reports 1-2 glasses wine/wk.
+Recreational drug use: Denies.
+Occupation: Retired, former office administrator.
+Living situation: Lives alone, daughter checks in weekly.
+Exercise: Walks 20 min most days, limited by knee arthritis.
+
+When asked directly about cigarette or tobacco use as part of the pulmonary nodule work-up, the patient stated she preferred not to answer and the conversation moved on to other topics per her request. No further attempt was made to press the issue during this visit, and no additional details regarding smoking history were obtained or documented today.
+
+ROS: Constitutional - negative for fevers/chills, positive for mild fatigue. Resp - negative for cough/dyspnea/hemoptysis. Cardiac - denies chest pain/palpitations. GI - denies nausea/vomiting/abdominal pain. Psych - reports mood stable on current sertraline dose, denies SI/HI. Sleep - uses CPAP, reports some residual daytime sleepiness.
+
+PROBLEM LIST (per chart, some entries outdated/copy-forward):
+1. I10 - Essential hypertension - active, on lisinopril
+2. G47.33 - Obstructive sleep apnea - active, on CPAP
+3. F32.9 - Major depressive disorder, unspecified - active, on sertraline
+4. R91.1 - Solitary pulmonary nodule - active, f/u imaging pending
+5. M17.9 - Osteoarthritis of knee, unspecified - chronic, stable (copy-forward, last addressed by PCP 2021)
+6. E78.5 - Hyperlipidemia, unspecified - chronic (copy-forward, not addressed today, unclear if still on statin - will verify with PCP)
+7. Z87.891 - Personal history of nicotine dependence - listed on problem list from prior encounter, status unclear, not confirmed today given pt declined discussion
+
+Vitals (per home BP cuff/pulse ox uploaded prior to visit): BP 132/78, HR 74, SpO2 96% on room air per pt report, Wt 158 lb (per pt report, no clinic scale used given telehealth format).
+
+Assessment: 71 yo F with incidentally discovered RUL pulmonary nodule on CT chest 9/2023, asymptomatic, now for interval f/u per current imaging follow-up guidelines. Smoking/tobacco history could not be established this visit as patient declined to discuss the topic; this remains an important data point for risk stratification of the nodule and will be revisited at a future encounter if patient is willing. Comorbid HTN, OSA, and depression appear stable on current regimen.
+
+Plan:
+1. Continue surveillance imaging per radiology recommendation - repeat CT chest low-dose protocol in approximately 3-6 months per nodule size/characteristics noted on prior imaging report (details per radiology, not repeated here).
+2. Attempted to discuss general risk factors for pulmonary nodules including tobacco exposure; patient declined further discussion of tobacco use at this time. Will re-approach at next visit in a sensitive manner, possibly with written handout for pt to review privately.
+3. Continue lisinopril 20 mg daily for HTN, continue home BP monitoring.
+4. Continue CPAP nightly for OSA; encourage improved adherence, discuss potential barriers (mask fit, dryness) at next in-person visit.
+5. Continue sertraline 100 mg daily for depression; mood reportedly stable, no acute concerns today.
+6. Discussed general concept of lung cancer screening guidelines in broad terms; further individualized discussion deferred pending additional history and radiology follow-up.
+7. Pt advised to call clinic with any new symptoms including cough, hemoptysis, unexplained weight loss, or worsening dyspnea.
+8. F/u telehealth or in-person visit in 3 months, or sooner with repeat imaging results.
+9. Will coordinate with PCP regarding hyperlipidemia management and confirm current statin status.
+
+Patient verbalized understanding of plan, agreeable to above, no further questions at this time. Visit concluded.
+
+---
+ADDENDUM (same day, 11/28/2023, later afternoon):
+After the telehealth visit concluded, patient's daughter called clinic on behalf of patient requesting clarification on imaging timeline. Discussed general timeframe for follow-up CT chest with daughter, with patient's verbal permission given on speakerphone. Daughter had no additional history to add regarding tobacco use, and reiterated that this is a topic patient prefers not to discuss with family or providers. No change to plan. Will document in chart for continuity of care. Teresa Alvarez, NP.

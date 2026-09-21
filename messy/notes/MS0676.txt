@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE - Family Medicine
+Date of Service: 06/05/2024
+Patient: Ronald Price (M), DOB: 06/05/1965, Age: 59
+Author: Farah Siddiqui, MD (Resident) - Attending attestation below
+
+CHIEF COMPLAINT: Medication refills, follow up COPD and GERD
+
+HPI:
+Mr Price is a 59 yo male seen via telehealth today for refill of maintenance meds. He reports doing 'about the same as usual, some wheezing in the mornings but nothing new'. He states 'I still cough up a little phlegm most days but its not worse.' No fevers chills chest pain or hemoptysis. He denies increased use of rescue inhaler beyond baseline. Regarding GERD he says 'the heartburn is better since I started taking the pill before bed.' No dysphagia, no weight loss, no melena. He is requesting refills of his tiotropium inhaler and omeprazole as he is running low.
+
+He was asked re: continued tobacco use and states 'yeah I still smoke, cant seem to shake it.' Discussed general health risks of ongoing smoking and offered counseling resources; pt was noncommittal about setting a quit date today, will revisit at next visit.
+
+PAST MEDICAL HISTORY:
+- COPD
+- GERD
+
+MEDICATIONS:
+- Tiotropium inhaler daily
+- Omeprazole 20mg qhs
+- Albuterol PRN
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Smoking amount: 3/4 pack per day (approx 15 cigarettes/day)
+Smoking duration/start age: Not on file
+Quit date: Not on file
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies binge use
+Drug use: denies
+Occupation: Not on file
+Living situation: lives with spouse
+Exercise: sedentary, occasional short walks
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever no chills
+Respiratory: chronic cough, occasional morning wheeze, no hemoptysis
+GI: improved reflux sx, no bloody stool
+All other systems reviewed and negative
+
+VITALS (per home device/reported):
+BP 128/78, HR 76, RR 16, SpO2 95% on room air, Wt stable
+
+PHYSICAL EXAM (telehealth, limited):
+General: alert, no acute distress, speaking in full sentences
+Resp: audible mild expiratory wheeze via phone auscultation attempt (limited by tele format), no visible respiratory distress on camera
+Abd: not assessed via telehealth, pt denies tenderness
+Extremities: no edema noted on camera
+
+ASSESSMENT/PLAN:
+1. COPD - stable per pt report, continue tiotropium, continue albuterol PRN, reviewed inhaler technique verbally. Discussed ongoing tobacco use and its impact on COPD progression.
+2. GERD - improved on current omeprazole dose, continue, reinforced lifestyle measures (avoid late meals, elevate head of bed)
+3. Tobacco use, current - counseled on cessation, discussed nicotine replacement options and quitline referral, pt declined referral today, will readdress at future visit
+4. Health maintenance - up to date per chart review, no acute concerns today
+
+Refills sent electronically to pharmacy on file. Pt to follow up in 3 months or sooner if symptoms worsen. Telehealth visit conducted with pt verbal consent, no technical issues noted.
+
+---
+ADDENDUM (same day, later): Spoke with attending Dr. Farah Siddiqui regarding case; plan reviewed and agreed upon. Pt called back after visit to confirm pharmacy address for refill delivery, no new complaints voiced during that call. No changes to plan.
+
+Attending Attestation: I have reviewed resident Dr Siddiqui's note and discussed the case with her. I agree with the assessment and plan as documented above. - Attending physician, EHR signature on file.

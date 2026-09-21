@@ -1,0 +1,27 @@
+TELEHEALTH VISIT NOTE
+Patient: James Adams | DOB: 07/30/1958 | Age: 65 | Sex: M
+Date of Service: 07/30/2023
+Provider: Elena Markovic, MD (Pulmonology)
+
+Visit type: Shared decision-making visit, lung cancer screening discussion (telehealth)
+
+HPI:
+Mr. Adams is a 65-year-old male who was referred for discussion of lung cancer screening given his age and periodic health maintenance visit. He reports feeling well overall, denies cough, hemoptysis, dyspnea, or weight loss. He has a history of atrial fibrillation, currently rate-controlled, and hypothyroidism managed on levothyroxine. He also carries a diagnosis of osteoporosis, on calcium/vitamin D supplementation. He asks about whether screening for lung cancer is something he should pursue, having heard about it from a friend.
+
+Social History (EHR templated block):
+ Tobacco use: Never smoker
+ Smoking status: Never
+ Pack-years: Not on file
+ Quit date: N/A
+ Vaping/e-cigarette use: Not on file
+ Alcohol use: occasional, social
+ Illicit drug use: denies
+ Occupation: retired accountant
+ Living situation: lives with spouse
+
+Assessment/Plan:
+65-year-old male, DOS 07/30/2023, here for shared decision-making discussion regarding lung cancer screening. Given his history as a lifelong non-smoker with no significant tobacco exposure, we reviewed the general purpose and limitations of low-dose CT screening for lung cancer, including false positives, incidental findings, and radiation exposure. Discussed that screening recommendations are generally targeted to individuals with significant smoking history, and this was reviewed in the context of his own history. He voiced understanding.
+Continue routine management of atrial fibrillation with cardiology, hypothyroidism with endocrinology as needed, and osteoporosis management with primary care. Will continue annual wellness visits. No further pulmonary follow-up needed at this time unless symptoms develop.
+
+Addendum (later same day, 07/30/2023, E. Markovic, MD):
+Patient called back after visit to clarify he has never smoked cigarettes, cigars, or pipes at any point in his life, confirming lifelong non-smoker status as documented above. No changes to plan.

@@ -1,0 +1,47 @@
+PROGRESS NOTE
+Date of Service: 2025-06-03
+Patient: Diane Powell   DOB: 8/7/1959   MRN: 98960665
+
+S:
+CC: f/u DM2
+HPI: Ms. Powell is a 65-year-old female with a history of HTN, obesity, T2DM, and hypothyroidism who presents for diabetes follow-up. Most recent A1c 7.4% (previously 7.1% in February 2025). Fasting glucose 130-180 per log. No hypoglycemic episodes. No numbness or tingling.
+
+PMH:
+- Type 2 diabetes
+- HTN
+- Acquired hypothyroidism
+- Obesity
+PSH: Left inguinal hernia repair (2009); Rotator cuff repair (2008)
+Meds: lisinopril 10 mg daily; amlodipine 5 mg daily; levothyroxine 100 mcg daily; metformin 500 mg BID
+Allergies: No known allergies
+SH: Lives with husband in a single-family home. She has never smoked. Social drinker.
+FH: Sister - breast cancer at 59.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 139/92  HR: 72  RR: 18  Temp: 97.6 F  SpO2: 99% on RA  Wt: 213 lbs  BMI: 36.6
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, S1S2 nl
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, NT/ND, +BS
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Type 2 diabetes mellitus: A1c 7.4% - above goal; increase metformin to 1000 mg BID. UACR ordered.
+2. Acquired hypothyroidism: TSH normal on last check; continue.
+
+RTC 1 month.
+
+-- RG (MD)

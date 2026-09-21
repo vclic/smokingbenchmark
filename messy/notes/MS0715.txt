@@ -1,0 +1,58 @@
+RESIDENT NOTE WITH ATTENDING ATTESTATION
+Cardiology - Chest Pain Evaluation
+DOS: 05/28/2025
+Author: Catherine Lindqvist, DO (attending co-signed below)
+
+PATIENT: Carlos Washington | M | DOB: 05/28/1945 | Age: 80
+
+CC: Chest pain
+
+HPI: Pt is an 80 y/o M w/ hx CAD, HTN, T2DM, GERD, osteoarthritis, osteoporosis presenting for eval of intermittent CP x several weeks. Pt states "it feels like a tight band across my chest when I climb stairs, then it goes away when I sit down." No radiation to arm reported today, denies diaphoresis. Pt reports med compliance is "pretty good, I take everything except when I forget the water pill."
+
+***COPIED FORWARD FROM PRIOR VISIT (Cardiology, DOS 11/14/2023) - retained per dept template, review for accuracy***
+Pt returns for f/u of CAD s/p PCI, stable angina sx, no acute distress. Vitals stable, BP well controlled on current regimen. EKG NSR, no acute ST changes. Pt denies orthopnea, PND, LE edema. Continue current antianginal regimen, f/u lipid panel in 3 mo. Pt counseled on diet, exercise as tolerated. RTC 6 mo or sooner if sx worsen.
+***END COPIED TEXT***
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated field):
+Smoking status: Never Smoker [NOTE: this auto-populated field is INCORRECT and does not reflect actual history - see narrative below]
+Tobacco Use Screening (template):
+  - Current every day smoker: YES
+  - Packs/day: 1.5
+  - Years smoked: 63
+  - Quit date: N/A - currently smoking
+
+Narrative correction: The "Never Smoker" field above is an error carried over in the chart and does not reflect Mr. Washington's actual hx. Pt has an extensive smoking hx - reports smoking 1.5 ppd for 63 years total. He did have a period of cessation, having quit in 2014, but relapsed back to smoking in 2015 and has smoked continuously since. Pt currently still smokes and when asked about quitting today states, "I'm not ready to stop, I've tried before and it didn't stick." Counseled extensively on cessation benefits given CAD, offered resources/nicotine replacement, pt declined at this time but open to discussing again at future visit. Pt reports EtOH occasional, denies illicit drug use.
+
+ROS: Cardiac - positive for exertional CP as above, denies palpitations. Resp - denies cough, dyspnea at rest. GI - reports occasional heartburn, consistent w/ known GERD. All other systems reviewed and negative except as noted in HPI.
+
+PMH/PROBLEM LIST (ICD-10):
+- I25.10 Atherosclerotic heart disease of native coronary artery w/o angina (chronic, stable)
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus w/o complications
+- K21.9 GERD
+- M19.90 Osteoarthritis, unspecified site
+- M81.0 Age-related osteoporosis w/o current pathological fracture
+- Z95.5 Presence of coronary angioplasty implant and graft (old, hx PCI - date unclear in chart, likely outdated entry)
+- I48.91 Atrial fibrillation, unspecified (NOTE: chart entry appears outdated, pt denies any hx AFib on questioning today, prior EKGs reviewed show NSR only - flagged for problem list cleanup)
+
+MEDS: Aspirin 81mg daily, Atorvastatin 40mg qhs, Metoprolol succinate 50mg daily, Lisinopril 20mg daily, Metformin 1000mg BID, Omeprazole 20mg daily, Alendronate 70mg weekly, HCTZ 25mg daily ("the water pill" per pt).
+
+EXAM: Vitals: BP 138/82, HR 74, RR 16, SpO2 97% RA, Temp 98.2F. Gen: NAD, comfortable, conversant. CV: RRR, no m/r/g appreciated, no JVD. Lungs: CTAB, no wheeze/rales/rhonchi. Abd: soft, NT/ND. Ext: no edema, distal pulses 2+ bilat. MSK: mild crepitus b/l knees c/w known OA, no acute joint swelling.
+
+DATA: EKG today: NSR, rate 74, no acute ST-T changes, unchanged from prior. Trop pending. BMP wnl. A1c last checked 7.2%.
+
+ASSESSMENT/PLAN:
+1. Chest pain, likely stable angina given hx CAD - r/o ACS w/ serial trops and EKG, will obtain stress test as outpt if trops neg. Continue home antianginal regimen.
+2. Tobacco use disorder, current smoker - lengthy discussion held re: cardiovascular risk reduction w/ cessation, esp given CAD. Pt not ready to quit at this visit, declined pharmacotherapy today. Will revisit at f/u. Lung cancer screening was discussed in general terms with pt given smoking hx; no imaging ordered today.
+3. CAD - stable, cont ASA, statin, beta-blocker.
+4. HTN - well controlled today, cont current regimen.
+5. T2DM - A1c stable, cont metformin, f/u w/ PCP for routine labs.
+6. GERD - stable on omeprazole.
+7. Osteoporosis/OA - stable, cont alendronate, ortho f/u as needed for OA.
+
+RTC 2-4 wks or sooner if sx worsen. Discussed plan in detail w/ pt, all questions answered.
+
+---
+Attending Attestation: I have personally reviewed and examined the patient with the resident, discussed the case, and agree with the assessment and plan as documented above. - Attending Cardiologist
+
+Electronically signed: Catherine Lindqvist, DO

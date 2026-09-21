@@ -1,0 +1,92 @@
+CONSULTATION LETTER - CARDIOLOGY
+Date of Service: 11/15/2023
+Referring Provider: Dr. S. Kim, Internal Medicine
+Author: Teresa Alvarez, NP
+
+RE: Michael Johnson
+DOB: 06/11/1962 (Age 61)
+MRN: 00457821
+
+Dear Dr. Kim,
+
+Thank you for referring Mr. Johnson, a 61-year-old male, for evaluation of chest pain. He was seen in the cardiology clinic today, 11/15/2023, for further workup.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Johnson reports approximately 3 weeks of intermittent left-sided chest discomfort, described as a dull pressure sensation, occurring with exertion (e.g., climbing stairs, walking uphill) and relieved by rest within a few minutes. He denies radiation to the arm or jaw, denies diaphoresis, and denies associated nausea. No orthopnea or PND. He does note mild dyspnea on exertion over the same time period. He has not had any syncope or palpitations. He denies recent fevers, chills, or unintentional weight loss.
+
+He has a history of gout with occasional flares, most recently about 2 months ago involving the right great toe, managed with colchicine as needed. He also carries a diagnosis of osteoarthritis affecting bilateral knees, for which he takes acetaminophen and occasional NSAID (with caution given his renal function). He has chronic kidney disease stage 3, followed by nephrology, with baseline creatinine around 1.6 mg/dL per recent labs.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Osteoarthritis, unspecified site - M19.90 (chronic, stable)
+2. Gout, unspecified - M10.9 (intermittent flares)
+3. Chronic kidney disease, stage 3 - N18.3
+4. Hyperlipidemia - E78.5 (noted on old problem list, patient states this was resolved with diet, unclear if still active - outdated entry, needs reconciliation)
+5. GERD - K21.9 (per old chart note from 2019, not mentioned by patient today, likely outdated)
+
+MEDICATIONS:
+- Colchicine 0.6 mg PRN gout flare
+- Acetaminophen 650 mg PRN joint pain
+- Occasional ibuprofen (patient counseled to minimize use given CKD)
+- No current cardiac medications
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Not on file
+Smoking status: Unknown if ever smoked
+Alcohol use: Occasional, reports 1-2 drinks per week
+Illicit drug use: Denies
+Occupation: Retired postal worker
+Marital status: Married
+Living situation: Lives with spouse
+Exercise: Reports trying to walk daily, limited by knee pain
+
+FAMILY HISTORY:
+Father - MI at age 68
+Mother - hypertension, no known cardiac events
+No known family history of lung disease reported.
+
+REVIEW OF SYSTEMS:
+Constitutional: denies fever, chills, weight loss
+Cardiovascular: as per HPI, positive for exertional chest discomfort
+Respiratory: denies cough, hemoptysis, wheeze
+GI: denies abdominal pain, denies GERD symptoms today
+GU: denies dysuria, denies hematuria
+Musculoskeletal: chronic knee pain, occasional gout flares as above
+All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, SpO2 97% on room air, Wt 198 lb
+General: well-appearing male, no acute distress
+HEENT: normocephalic, atraumatic
+Neck: no JVD, no carotid bruits
+Cardiovascular: regular rate and rhythm, no murmurs, rubs, or gallops; no peripheral edema
+Respiratory: clear to auscultation bilaterally, no wheezes or crackles
+Abdomen: soft, non-tender, non-distended
+Extremities: mild bony changes consistent with osteoarthritis in bilateral knees, no acute gout flare noted today, no cyanosis or clubbing
+Skin: no rashes or lesions noted
+
+LABS/STUDIES REVIEWED:
+BMP (10/2023): Creatinine 1.6 mg/dL, eGFR 48 mL/min/1.73m2, K+ 4.5
+Lipid panel (10/2023): Total cholesterol 190, LDL 112, HDL 42, TG 180
+EKG today: normal sinus rhythm, no acute ST-T wave changes, no evidence of prior infarct
+Troponin: pending at time of dictation
+
+ASSESSMENT:
+61-year-old male with exertional chest discomfort concerning for possible stable angina, in the setting of CKD stage 3 and no current cardiac medications. Differential includes musculoskeletal etiology given osteoarthritis, though the exertional pattern is somewhat reassuring against this. EKG today unremarkable. Given his risk factor profile and presentation, will pursue further cardiac workup as below.
+
+Lung cancer screening was discussed with the patient today but deferred until his smoking history can be obtained, as his tobacco use status is currently unknown/not on file in the chart.
+
+PLAN:
+1. Cardiac workup: Order stress echocardiogram to further evaluate exertional chest discomfort.
+2. Continue to monitor renal function given CKD stage 3; avoid nephrotoxic NSAIDs where possible, coordinate with nephrology regarding medication adjustments.
+3. Recommend follow-up with PCP to clarify smoking/tobacco history, as this field is currently blank in the chart and is needed to guide further preventive care discussions, including revisiting lung cancer screening at a future visit once this information is available.
+4. Continue current gout and osteoarthritis management; reinforce hydration and dietary modification for gout given renal impairment.
+5. Follow up in cardiology clinic after stress echo results are available, sooner if symptoms worsen or he develops rest pain, syncope, or worsening dyspnea.
+6. Patient educated on when to seek emergency care (crushing chest pain, radiation, diaphoresis, shortness of breath at rest).
+
+Thank you again for this referral. Please do not hesitate to contact our office with any questions.
+
+Sincerely,
+Teresa Alvarez, NP
+Cardiology Associates

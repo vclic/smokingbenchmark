@@ -1,0 +1,55 @@
+INTERNAL MEDICINE - HISTORY AND PHYSICAL
+Patient: Janet Hall | DOB: 4/6/1967 | Age: 58 | Sex: F
+Date of Service: 04/06/2025
+Author: Nadia Haddad, MD
+
+CHIEF COMPLAINT: Follow-up hypertension, diabetes.
+
+HPI: Ms Hall is a 58 yo female here for routine f/u of HTN and T2DM. She reports occasional headaches but denies chest pain, denies orthopnea worse than baseline. Says her CPAP compliance has been "ok, not great." Some increase in b/l knee pain, using acetaminophen w/ modest relief. No new edema. Diet has been inconsistant, admits to snacking at night.
+
+----- COPIED FORWARD FROM VISIT 11/12/2023 -----
+Pt is a 55 yo female with hx of obesity, HTN, OSA on CPAP, HFrEF (EF 35% on last echo), and osteoarthritis presenting for routine chronic disease mgmt. She continues on lisinopril, metoprolol succinate, furosemide, metformin. Reports fatigue and occasional dyspnea on exertion, denies PND. Exam notable for trace bilateral lower extremity edema, lungs clear, RRR no murmurs appreciated. A1c at that time was 7.8. Plan was to continue current regimen, recheck labs in 3 months, weight loss counseling given, discussed low sodium diet extensively. Pt encouraged to increase activity as tolerated given cardiac and joint limitations.
+----- END COPIED SECTION -----
+
+PMH: Obesity, hypertension, obstructive sleep apnea (on CPAP), heart failure with reduced ejection fraction, osteoarthritis (knees > hips).
+
+MEDICATIONS: Lisinopril 20mg daily, metoprolol succinate 50mg daily, furosemide 20mg daily, metformin 1000mg BID, atorvastatin 40mg daily.
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY: Lives with husband, retired schoolteacher. Denies alcohol use, denies illicit drug use. Smoking history reviewed and discussed further below in assessment/plan.
+
+REVIEW OF SYSTEMS: Constitutional - no fever, no wt loss. Cardiac - no CP, mild DOE unchanged. Resp - no cough, no hemoptysis. GI - no nausea/vomiting. GU - no dysuria. MSK - chronic knee pain, no acute injury. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 148/86, HR 78, RR 16, Temp 98.2F, Wt 212 lb, BMI 34.9
+General: obese female, no acute distress
+HEENT: normocephalic, atraumatic
+Neck: no JVD appreciated
+Cardiac: RRR, no murmur, no S3/S4 noted
+Lungs: clear to auscultation bilaterally, no wheeze/rales
+Abdomen: soft, nontender, obese
+Extremities: trace edema b/l ankles, no clubbing cyanosis
+MSK: crepitus b/l knees, no effusion
+
+LABS/RESULTS (drawn 04/02/2025):
+A1c: 7.4% (prior 7.8% on 10/25/2023)
+Fasting glucose: 142 mg/dL
+BMP: Na 138, K 4.3, Cl 101, CO2 24, BUN 18, Cr 0.9, eGFR >60
+Lipid panel: TC 178, LDL 96, HDL 42, TG 200
+BNP: 310 pg/mL (04/02/2025), prior 340 pg/mL (10/2023)
+Urine microalbumin/Cr ratio: 28 mg/g
+
+ASSESSMENT/PLAN:
+1. Hypertension - BP still above goal today at 148/86 will increase lisinopril to 40mg daily, recheck BP in 4 weeks, reinforce low sodium diet.
+2. Type 2 diabetes mellitus - A1c improved to 7.4, continue metformin, reviewed diet, will consider adding SGLT2 inhibitor at next visit given cardiac benefit.
+3. Tobacco use - Patient is an active smoker. Smoking history reviewed in detail: she smoked 1.5 packs per day for 25 years, then cut back to about a quarter pack (roughly 5 cigarettes) per day for the past 16 years and continues smoking at that reduced rate currently. Advised to quit, discussed risks of continued smoking in setting of HFrEF and OSA, offered counseling resources and pharmacologic cessation aids (varenicline vs nicotine patch), pt states she is "not ready yet" but will think about it. Lung cancer screening was discussed as a general topic given smoking hx.
+4. Heart failure with reduced EF - stable, continue metoprolol and furosemide, BNP slightly improved from prior, no signs decompensation on exam today.
+5. OSA - continue CPAP, encourage improved adherance, will refer back to sleep medicine if compliance does not improve.
+6. Obesity - BMI 34.9, discussed weight loss strategies again, referral to nutrition considered.
+7. Osteoarthritis - continue acetaminophen PRN, consider PT referral if pain worsens.
+
+FOLLOW UP: RTC 4-6 weeks for BP recheck, sooner if symptoms worsen.
+
+----- ADDENDUM (later same day, 04/06/2025, 4:45pm) -----
+Addendum by N. Haddad, MD: Spoke with patient by phone this afternoon after she called with question about new lisinopril dose. Clarified to take 40mg once daily starting tonight, not to double up with existing tablets at home. Pt verbalized understanding. No new concerns reported. Will follow up as scheduled.

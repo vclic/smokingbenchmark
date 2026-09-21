@@ -1,0 +1,50 @@
+CARDIOLOGY CONSULTATION LETTER
+Date of Service: 05/26/2023
+To: Referring Physician
+From: Daniel Reyes, MD
+Re: Robert Green, DOB 2/22/1953
+
+Dear Colleague,
+
+Thank you for referring Mr. Green, a 70-year-old male, for evaluation of chest pain.
+
+HPI: Pt presents c/o intermittent substernal chest pressure x 2 wks, worse w/ exertion, assoc w/ mild dyspnea. No radiation to arm/jaw reported today, though he endorses some diaphoresis w/ episodes. Hx notable for COPD, HFrEF, obesity, HTN, hyperlipidemia, depression. Social hx reviewed in detail given cardiopulmonary risk profile. Smoking hx: pt reports smoking three-quarters of a pack (about 15 cigarettes) per day for 11 years, then stopped completely for 8 years, then restarted at the same rate - three-quarters pack/day, ~15 cigs/day - for another 15 years before quitting for good. He is a former smoker; quit smoking 13 years ago. No current tobacco use. Denies illicit drug use. Rare EtOH.
+
+ROS: + exertional dyspnea, + occasional palpitations. Denies syncope, orthopnea improved on current diuretic dose, denies significant PND currently. Denies fevers, chills, weight loss.
+
+Meds: carvedilol, lisinopril, furosemide, atorvastatin, sertraline, albuterol PRN, tiotropium.
+
+Physical Exam:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 94% RA, BMI 34.
+Gen: obese male, NAD.
+CV: RRR, S3 present, no murmurs appreciated, JVP mildly elevated ~9cm.
+Resp: mild expiratory wheeze bilat bases, no crackles.
+Ext: trace bilateral LE edema.
+
+Labs/Results (reviewed today):
+BNP 05/26/2023: 610 pg/mL (elevated)
+Troponin I 05/26/2023: <0.01 ng/mL x1
+BMP 05/26/2023: Na 138, K 4.2, Cr 1.1, eGFR 68
+Lipid panel 04/10/2023: LDL 142, HDL 38, TG 210
+EKG 05/26/2023: NSR, LVH criteria, no acute ST changes
+Echo (outside, 02/2023): EF 35%, mild MR, LVH
+
+Assessment: 70-year-old man w/ HFrEF, COPD, HTN, obesity, hyperlipidemia, depression presenting w/ chest pain - differential includes anginal equivalent vs demand ischemia in setting of COPD exacerbation vs musculoskeletal etiology. Elevated BNP consistent w/ known HFrEF, likely partially decompensated. Troponin negative today, will trend.
+
+Plan:
+1. Chest pain - obtain stress echo as outpatient; repeat troponin in AM per protocol.
+2. HFrEF - continue GDMT, consider uptitration of carvedilol as tolerated, reinforce low-Na diet.
+3. COPD - continue tiotropium/albuterol, pulm f/u recommended.
+4. HTN/hyperlipidemia - continue current regimen, recheck lipid panel in 3 months.
+5. Tobacco - given significant smoking history, lung cancer screening was discussed with patient; no current tobacco use, reinforced importance of continued abstinence.
+6. Depression - stable on sertraline per pt report, continue current management with PCP.
+7. F/u in cardiology clinic in 4 weeks or sooner if symptoms worsen.
+
+Thank you for allowing me to participate in this patient's care.
+
+Sincerely,
+Daniel Reyes, MD
+
+ADDENDUM (later same day, 05/26/2023):
+Spoke with patient by phone after clinic re: results of today's labs. Troponin remains negative on repeat draw obtained prior to discharge from clinic (<0.01 ng/mL). Advised pt to proceed to ED immediately if chest pain worsens or recurs at rest. Pt verbalized understanding. Will still proceed with outpatient stress echo as planned above.
+-Daniel Reyes, MD

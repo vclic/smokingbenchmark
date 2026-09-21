@@ -1,0 +1,33 @@
+VASCULAR SURGERY CONSULT / LETTER TO REFERRING PHYSICIAN
+Patient: Janet Perry | DOB: 1/14/1947 | Age: 78
+Date of Service: 01/14/2025
+Author: Farah Siddiqui, MD
+
+Dear Dr. colleague, thank you for referring this 78-year-old woman for evaluation of peripheral artery disease. She reports bilateral calf discomfort with ambulation, worse on the right, improving with rest - classic claudication pattern, walks about 2 blocks before symptoms, uh, [inaudible] before needing to stop.
+
+PMH: type 2 diabetes mellitus, chronic kidney disease stage 3, heart failure with reduced ejection fraction. She denies chest pain, denies rest pain, denies non healing wounds although she did note some dryness of the skin on the lower extremities, no ulcerations noted on exam today.
+
+SMOKING HISTORY: Templated field below auto-populates from an old encounter and is INCORRECT - please disregard.
+Smoking status: Never Smoker
+Correction: patient in fact has a 27 pack-year smoking history; she quit smoking 11 years ago. She is a former smoker, not a never smoker, and this record should be updated accordingly going forward.
+
+SOCIAL HISTORY: Lives with daughter, retired schoolteacher, denies current alcohol use.
+
+EXAM: BP 138/82, HR 76, afebrile. Lower extremities - no edema, skin cool distally, hair loss noted bilaterally. Pulses: femoral 2+ bilat, popliteal 1+ right/ trace left, DP and PT nonpalpable bilaterally, monophasic signals on doppler.
+
+LABS reviewed - creatinine 1.6 (baseline per chart), eGFR reduced consistent with known CKD stage 3, A1c 7.8, lipid panel pending.
+
+ASSESSMENT/PLAN:
+1. Peripheral artery disease, bilateral lower extremity - I70.209. Will obtain ABI with segmental pressures given diminished distal pulses and claudication symptoms.
+2. Type 2 diabetes mellitus - E11.9. Continue current regimen, defer to PCP for further titration.
+3. CKD stage 3 - N18.3. Renal function stable per recent labs.
+4. Heart failure with reduced ejection fraction - I50.22. Continue guideline directed medical therapy, no acute decompensation today.
+5. Former tobacco use (corrected from outdated 'never smoker' field) - counseled on continued avoidance, reinforced benefit of cardiovascular risk reduction given PAD diagnosis.
+
+Will discuss lung cancer screening guidelines with patient given smoking history at a future visit as appropriate; no imaging ordered today for that purpose.
+
+Plan to follow up after ABI results, consider vascular surgery referral for possible intervention if severe disease confirmed. Return to clinic in 4-6 weeks or sooner if symptoms worsen, will call with results in interim, patient verbalized understanding and agreement with plan today.
+
+Thank you again for this interesting referral, please do not hesitate to contact our office with any questions.
+
+Farah Siddiqui, MD, Vascular Surgery

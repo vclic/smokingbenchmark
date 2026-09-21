@@ -1,0 +1,55 @@
+CARDIOLOGY H&P
+Patient: Ronald Bennett | DOB: 06/19/1962 | Age: 63 y.o. M
+DOS: 06/19/2025
+Author: Daniel Reyes, MD
+
+CC: Chest pain, referred by PCP for cardiac eval.
+
+HPI: 63 y.o. M w/ hx T2DM, PAD, obesity, AFib presents c/o intermittent substernal CP x 2 wks, described as pressure-like, non-radiating, occurring w/ exertion (~2 blocks) and relieved w/ rest. Denies assoc N/V/diaphoresis but does note mild dyspnea on exertion. No syncope. Pt has 56 pack-year smoking hx; states he still smokes and is not ready to quit at this time - counseled extensively regarding cardiovascular risk reduction and smoking cessation resources (nicotine patches, gum, Quitline referral offered, declined for now). Will continue to encourage cessation at future visits.
+
+---- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 01/14/2025 (Dr. Reyes) ----
+Pt seen for routine PAD f/u. C/o intermittent claudication in b/l calves, worse on L, improved w/ rest. ABI last checked 11/2024 - L 0.68, R 0.72, consistent w/ moderate PAD. On ASA 81mg, cilostazol 100mg BID, atorvastatin 40mg qHS. A1c 7.8% at that time, adjusted metformin dose. BP 138/84, HR 78 irreg irreg (known AFib, on apixaban 5mg BID). Wt 245 lb, BMI 36.4. Denies CP at that visit. Plan was to continue current regimen, f/u vascular surgery for PAD surveillance, recheck lipid panel in 3 mo, cont apixaban for AFib stroke ppx (CHA2DS2-VASc elevated given DM/PAD/age). Pt advised on diet/exercise as tolerated given claudication limits. RTC 3 months or sooner if sx worsen.
+---- END COPIED SECTION ----
+
+PMH: T2DM (dx ~2015), PAD, obesity, AFib (on anticoagulation).
+PSH: None significant.
+FH: Father w/ MI at 58, mother w/ T2DM.
+SH: Current smoker, 56 pack-year hx, not ready to quit per pt report today. Denies EtOH excess. Denies illicit drug use. Works as a warehouse supervisor.
+Meds: Metformin 1000mg BID, apixaban 5mg BID, cilostazol 100mg BID, atorvastatin 40mg qHS, ASA 81mg daily, lisinopril 10mg daily.
+Allergies: NKDA.
+
+ROS: + exertional CP, + DOE. Denies orthopnea, PND, LE edema currently. Denies fevers/chills. Denies cough/hemoptysis. + intermittent claudication (chronic, stable per pt).
+
+PHYSICAL EXAM:
+Vitals: BP 142/88, HR 82 irreg irreg, RR 16, Temp 98.4F, SpO2 96% RA, Wt 248 lb, BMI 36.9
+Gen: Obese male, NAD, appropriate affect.
+HEENT: NC/AT, no JVD.
+CV: Irregularly irregular rhythm, no m/r/g appreciated, normal S1/S2.
+Lungs: CTAB, no wheezes/rales/rhonchi. Some decreased breath sounds at bases bilat but no acute distress.
+Abd: Soft, NT/ND, +BS.
+Ext: Trace edema b/l LE, diminished pedal pulses b/l (2+ vs prior 1+ - stable), no ulcers noted, cap refill <3sec.
+Skin: Warm, dry, no cyanosis.
+Neuro: A&Ox3, no focal deficits.
+
+LABS/RESULTS (recent):
+06/19/2025 - Troponin I: 0.02 ng/mL (nl <0.04)
+06/19/2025 - BNP: 145 pg/mL (mildly elevated)
+06/19/2025 - BMP: Na 138, K 4.2, Cl 101, CO2 25, BUN 22, Cr 1.1, Glucose 168
+06/19/2025 - EKG: AFib, rate 82, no acute ST changes, nonspecific TWI in inferior leads (unchanged from prior)
+05/2025 - A1c: 7.6%
+04/2025 - Lipid panel: TC 178, LDL 98, HDL 38, TG 210
+04/2025 - ABI: L 0.70, R 0.71 (stable)
+
+ASSESSMENT/PLAN:
+63 y.o. M w/ multiple CV risk factors (T2DM, PAD, obesity, AFib, longstanding 56 pack-yr smoking hx, currently still smoking) presenting w/ exertional CP concerning for possible stable angina/underlying CAD.
+
+1. Chest pain / r/o CAD: Trop neg x1, EKG unchanged. Will obtain stress test (pharmacologic given PAD/exercise limitations) as outpatient. Consider coronary CTA if stress equivocal. Continue ASA, statin.
+2. Smoking: Discussed cessation extensively; pt states he still smokes and is not ready to quit. Offered pharmacotherapy and counseling resources; pt declined today, will revisit at f/u. Discussed general lung and cardiovascular risks of continued smoking; screening options discussed in general terms per guidelines but no imaging ordered today for that indication.
+3. T2DM: A1c 7.6%, cont metformin, f/u endocrine.
+4. PAD: Stable ABI, cont cilostazol, vascular surgery f/u as scheduled.
+5. AFib: Rate controlled, cont apixaban for stroke ppx, cont monitoring.
+6. Obesity: Counseled diet/exercise within limits of claudication.
+
+RTC 4-6 wks or sooner if sx worsen, will call w/ stress test results.
+
+Daniel Reyes, MD

@@ -1,0 +1,83 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+
+Patient: Mary Campbell | DOB: 1/5/1969 (age 56) | Sex: F
+Date of Service: 08/10/2025
+Author: Steven Park, MD, Family Medicine
+
+Re: Annual wellness visit, referred by Dr. A. Nguyen
+
+Dear Dr. Nguyen,
+
+Thank you for referring Mary Campbell, a 56-year-old woman, for her annual wellness evaluation. Below is a summary of my findings and recommendations.
+
+HPI:
+Pt presents for annual wellness visit. Reports feeling "pretty good most days, just some knee pain when I climb stairs." Denies chest pain, denies worsening dyspnea at rest. States "I get a little winded doing yard work but that's nothing new." No orthopnea, no PND currently. She has been taking her meds as prescribed per report. c/o intermittent gout flares in the left great toe, last one ~2 months ago, resolved with colchicine. Also c/o chronic knee stiffness, worse in AM, improves with activity - consistent w/ known osteoarthritis. Diabetes reportedly well controlled per pt, checks fingerstick glucose 1x/day, denies hypo/hyperglycemic episodes.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 02/14/2024 - RETAINED IN CHART, NOT UPDATED]
+HPI (02/14/2024): Pt here for f/u of CHF, gout, DM2, OA. Reports doing well overall. No chest pain, no PND, no orthopnea. Gout flare x1 since last visit, resolved w/ NSAID. A1c stable. Denies falls. Wt stable. Appetite good. No new complaints. Continues home exercise program as tolerated. Will cont current regimen, f/u in 6 months or sooner if needed. ROS otherwise negative. Pt counseled on medication adherence and diet. [END COPY-FORWARD]
+
+Social History:
+Lives with spouse, retired schoolteacher. Denies alcohol use. Denies illicit drug use. Former smoker - quit smoking. No current tobacco use reported.
+
+Tobacco Use (EHR templated field):
+Smoking status: Former smoker
+Packs/day: N/A (quit)
+Pack-year history: 41 pack-years
+Counseling provided: Yes, reinforced benefits of continued abstinence.
+
+Past Medical History:
+- Gout
+- Heart failure with reduced ejection fraction (HFrEF)
+- Type 2 diabetes mellitus
+- Osteoarthritis
+
+Medications:
+- Allopurinol 300mg daily
+- Carvedilol 12.5mg BID
+- Lisinopril 10mg daily
+- Metformin 1000mg BID
+- Empagliflozin 10mg daily
+- Acetaminophen PRN for joint pain
+
+Allergies: NKDA
+
+Physical Exam:
+Vitals: BP 128/76, HR 68, RR 16, Temp 98.2F, SpO2 97% RA, Wt 172 lbs, Ht 5'5"
+General: Well-appearing, no acute distress.
+CV: RRR, no murmurs appreciated, no JVD, no peripheral edema.
+Resp: Clear to auscultation bilaterally, no wheezes/rales.
+Ext: Mild bony hypertrophy of bilateral knees, no active gout flare noted today, no erythema/swelling at 1st MTP joints bilaterally.
+MSK: Reduced ROM bilateral knees, crepitus noted, no effusion.
+
+Labs/Results:
+08/09/2025 Labs:
+- A1c: 7.1%
+- BNP: 210 pg/mL
+- Uric acid: 6.8 mg/dL
+- Creatinine: 0.9 mg/dL
+- eGFR: 78
+- K+: 4.3 mmol/L
+- Lipid panel: LDL 88, HDL 52, TG 140
+
+02/2024 Labs (from prior visit, retained for reference):
+- A1c: 7.3%
+- BNP: 195 pg/mL
+- Uric acid: 7.1 mg/dL
+
+Echocardiogram (05/2025, outside report reviewed): EF 38%, mild mitral regurgitation, no significant change from prior study.
+
+Assessment/Plan:
+1. Heart failure with reduced EF - clinically stable, no signs of decompensation today. Continue carvedilol and lisinopril. BNP stable compared to prior. Recheck echo in 12 months or sooner if symptomatic.
+2. Type 2 diabetes mellitus - A1c improved slightly to 7.1%. Continue metformin and empagliflozin. Reinforced dietary counseling.
+3. Gout - infrequent flares, uric acid improved to 6.8. Continue allopurinol, monitor.
+4. Osteoarthritis, bilateral knees - symptomatic management with acetaminophen, discussed weight-bearing exercise and possible PT referral.
+5. Tobacco history - former smoker with a 41 pack-year history, currently not smoking. Discussed importance of continued abstinence. Given her age and smoking history, lung cancer screening was discussed as a topic for shared decision-making; no imaging ordered at this visit.
+6. Health maintenance - up to date on vaccinations, colonoscopy due next year, mammogram up to date per pt report.
+
+Follow-up: Return to clinic in 6 months, sooner if any new cardiac or gout symptoms arise.
+
+Thank you again for this referral. Please let me know if you have any questions regarding her care.
+
+Sincerely,
+Steven Park, MD
+Family Medicine

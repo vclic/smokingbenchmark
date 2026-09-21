@@ -1,0 +1,49 @@
+INTERNAL MEDICINE PRE-OPERATIVE H&P
+Patient: Pamela Jones | DOB: 02/20/1957 (age 67) | DOS: 03/10/2024
+Author: Michael Dunn, DO
+
+CC: Pre-op eval for right total knee arthroplasty.
+
+HPI: Pt is a 67 y/o F w/ T2DM and COPD referred for pre-surgical clearance prior to elective TKA. Reports chronic right knee pain limiting ambulation, failed conservative tx (NSAIDs, PT, cortisone inj). No CP, no acute SOB at baseline; uses albuterol PRN. Smoking hx notable: pt smoked 20 cigarettes/day for 10 years; she is a former smoker and no longer smokes currently. No new resp sx. Diabetes fairly well controlled on metformin, last A1c 7.1%.
+
+=== COPIED FROM NOTE DATED 08/10/2020 ===
+Social History (as documented 8/10/2020): Smoking status - former smoker. [No quantities documented in that prior note.]
+=== END COPIED SECTION ===
+
+SOCIAL HISTORY (EHR TEMPLATE - CURRENT):
+Tobacco use: Former smoker
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Alcohol use: None - quit drinking alcohol in 2004
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives w/ spouse
+
+PMH/Problem List (ICD-10):
+- E11.9 Type 2 diabetes mellitus without complications
+- J44.9 COPD, unspecified
+- M17.11 Unilateral primary osteoarthritis, right knee
+- I10 Essential hypertension (outdated entry, pt reports resolved after weight loss)
+- Z87.891 Personal history of nicotine dependence
+
+Meds: Metformin 1000mg BID, Albuterol HFA PRN, Lisinopril 10mg daily (per old list, pt states d/c'd), Atorvastatin 20mg qhs.
+
+Allergies: NKDA.
+
+ROS: Denies fever, chills, chest pain, hemoptysis, wheezing at rest. Positive for occasional exertional dyspnea. Denies edema.
+
+Exam: VSS, afebrile. Lungs: mild expiratory wheeze bilat bases, no rales. CV: RRR, no m/r/g. Ext: right knee w/ crepitus, decreased ROM, no effusion. Neuro grossly intact.
+
+Labs: CBC/CMP wnl, A1c 7.1%, EKG NSR no acute changes.
+
+Assessment: 67 yo F with T2DM, COPD, severe R knee OA - pre-op clearance for TKA. Pulmonary status stable for surgery given current non-smoking status; COPD optimized on current regimen. Lung cancer screening was discussed with pt given smoking history; will follow up per PCP.
+
+Plan:
+1. Cleared for surgery from IM standpoint pending anesthesia eval.
+2. Continue home meds, hold metformin day of surgery per protocol.
+3. Continue albuterol PRN, consider pre-op nebulizer if needed.
+4. Counseled on importance of remaining smoke-free post-op for wound/lung healing.
+5. F/u post-op in 2 weeks.
+
+Electronically signed: Michael Dunn, DO

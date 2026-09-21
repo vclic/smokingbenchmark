@@ -1,0 +1,84 @@
+Cardiology Progress Note
+
+Patient: HUGHES, Nancy    MRN: 97473875
+DOB: 08/15/1950    Age: 75 y.o.    Sex: Female
+Date of Service: 01/23/2026    Provider: Kevin Osei, MD
+
+Chief Complaint
+Patient presents with
+• CHF follow-up
+
+Subjective:
+Nancy Hughes is a 75 y.o. female who presents for heart failure follow-up.
+Up 3 lbs this week. She is a former smoker; she smoked for 56 years and quit when she was diagnosed with COPD in 2024. Sleeps on 1 pillow, no PND. No LE edema. Last echo 08/23/2024: EF 35%.
+
+Past Medical History:
+Diagnosis	Date
+• COPD (diagnosed 2024)
+• CAD
+• Primary OA, bilateral knees
+• Chronic systolic heart failure	2004
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Total abdominal hysterectomy (2020)
+• Rotator cuff repair (1989)
+• Left inguinal hernia repair
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• furosemide 40 mg daily
+• tiotropium 18 mcg inhaled daily
+• metoprolol succinate 50 mg daily
+• albuterol HFA 2 puffs q4-6h PRN
+• carvedilol 12.5 mg BID
+• aspirin 81 mg daily
+• meloxicam 7.5 mg daily
+• sacubitril-valsartan 49/51 mg BID
+
+Allergies
+• Sulfa drugs
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never
+Social History Narrative
+  Lives in assisted living.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Brother - T2DM. Mother - osteoporosis, hip fracture.
+
+Review of Systems
+ROS: Neuro neg, GU neg, Skin neg, Gen neg, CV neg, GI neg, MSK neg, Resp +
+
+Objective:
+Vitals:
+  BP 108/73 (BP Location: Left arm, Patient Position: Sitting) | Pulse 87 | Temp 98.2 °F (Oral) | Resp 16 | Ht 5' 6" | Wt 146 lb | SpO2 94% | BMI 23.48 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+Abdominal: Benign
+Extremities: Trace bilateral ankle edema
+Neuro: A&Ox3, no focal deficits
+Psych: Appropriate
+
+Labs (01/06/2026): Cr 0.86, K 4.3, Hgb 15.2
+
+Assessment & Plan
+1. Heart failure
+   Mildly volume up; double diuretic dose x3 days.
+2. Personal history of nicotine dependence
+   Encouraged continued abstinence.
+3. CAD
+   No angina. Continue current cardiac regimen.
+
+Return in about 6 months (around 7/23/2026).
+
+Electronically signed by Kevin Osei, MD on 01/23/2026

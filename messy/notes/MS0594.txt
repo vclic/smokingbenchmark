@@ -1,0 +1,53 @@
+PULMONOLOGY CONSULT / LETTER TO REFERRING PHYSICIAN
+Date of Service: 10/18/2023
+Author: Michael Dunn, DO
+
+Re: Judith Flores, DOB 2/16/1956 (age 67)
+
+Dear Dr. Referring,
+
+I had the pleasure of seeing Ms. Flores today in follow-up after her recent ED visit for a COPD exacerbation, she was seen and treated with nebs and a burst of steroids and improved though she states her breathing still feels 'tight' most mornings, um, [inaudible] and she reports some improvement with the inhaler regiman started at discharge. She denies fever, denies chest pain, does note some fateeg and mild ankle swelling which she attributes to her heart failure, she has been weighing herself daily per prior instruction and states weight has been stable.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+1. Type 2 diabetes mellitus (E11.9)
+2. Heart failure with reduced ejection fraction (I50.22)
+3. Benign prostatic hyperplasia (N40.0) - outdated entry, patient is female, likely carried over in error from template
+4. Major depressive disorder (F32.9)
+5. Asthma (J45.909)
+6. COPD with acute exacerbation (J44.1)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Packs/day: 0.25
+Years: 50.00
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: None - patient quit drinking alcohol in 2005
+Drug use: Not on file
+Living situation: Not on file
+Occupation: Retired
+
+Of note, on further questioning she is an active smoker currently, she did previously quit smoking in 2016 but relapsed in 2019 and has continued since. We discussed smoking cessation at length today, I offered counseling resources and she was agreeable to think about it, she was resistant to starting varenicline today but said she would consider it at a future visit. We did discuss lung cancer screening as a topic in general terms as part of the broader conversation about her tobacco use and ongoing respiratory symptoms.
+
+EXAM:
+Vitals stable, afebrile, sats 94% on room air. Lungs with mild expiratory wheeze bilaterally, no accessory muscle use at rest. Heart RRR, no S3 appreciated today though prior echo notable for reduced EF. 1+ pitting edema bilateral lower extremities. Abdomen soft nontender.
+
+LABS/STUDIES REVIEWED:
+Recent BNP mildly elevated, consistent with her known HFrEF. A1c from last month 7.8%. Chest x-ray from ED visit reviewed, no acute infiltrate, hyperinflation noted c/w COPD/asthma overlap.
+
+ASSESSMENT:
+Ms. Flores is a 67-year-old woman with COPD/asthma overlap, HFrEF, T2DM, depression, presenting today for follow-up s/p recent exacerbation, doing reasonably well on current regiment. Continued active tobacco use remains a significant contributor to her respiratory symptoms and overall risk.
+
+PLAN:
+1. Continue current inhaler regimen, reassess in 4-6 weeks.
+2. Reinforce smoking cessation counseling, discussed nicotine replacement options, she will think it over.
+3. Continue home diuretic as directed by cardiology.
+4. Diabetes management per PCP, A1c goal reviewed.
+5. Depression screening today unremarkable, continue current antidepressant.
+6. Follow up in clinic in 6 weeks or sooner if symptoms worsen.
+
+Thank you for allowing me to participate in this patient's care, please do not hesitate to reach out with any questions.
+
+Sincerely,
+Michael Dunn, DO
+Pulmonology

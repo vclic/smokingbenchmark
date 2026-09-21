@@ -1,0 +1,62 @@
+INTERNAL MEDICINE PRE-OP EVALUATION
+Patient: Loretta Allen | DOB: 02/13/1948 | Age: 77 | Sex: F
+DOS: 02/13/2025
+Author: Brian Okonkwo, MD (resident); attending attestation below
+
+REASON FOR VISIT: Pre-operative medical eval prior to left total knee arthroplasty.
+
+HPI: 77 yo F w/ hx depression, HLD, HFrEF, PAD presenting for pre-op clearance ahead of scheduled TKA. Pt reports chronic left knee pain, worsening over past yr, limiting ambulation to <1 block. Denies chest pain, orthopnea worsening, PND. c/o mild fatigue, stable. She lives w/ spouse; endorses some passive exposure to tobacco smoke at home given spouse's habit (see SH below). Denies personal tobacco use of significance; hx of experimenting w/ a few cigs as teen, never became regular smoker. No current or past regular use reported. No vaping/e-cig use. Denies EtOH/illicit drugs.
+
+PMH: Depression (on sertraline), HLD (on atorvastatin), HFrEF (EF 35% per last echo 2023), PAD (s/p prior claudication w/u, on cilostazol).
+
+MEDS: Sertraline 100mg qd, Atorvastatin 40mg qhs, Lisinopril 10mg qd, Carvedilol 12.5mg BID, Furosemide 20mg qd, Cilostazol 100mg BID, ASA 81mg qd.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY (templated EHR block):
+ Tobacco use: Never regular smoker; remote minimal experimentation as teenager (few cigs, did not continue)
+ Tobacco type: N/A
+ Packs/day: N/A
+ Years smoked: N/A
+ Quit date: N/A
+ Secondhand smoke exposure: Yes - spouse smokes 1 ppd at home
+ Vaping/e-cig: Not on file
+ Alcohol use: Denies
+ Illicit drug use: Denies
+ Occupation: Retired schoolteacher
+ Living situation: Lives with spouse
+ Exercise: Limited 2/2 knee pain
+
+ROS: Constitutional - denies fever, chills, wt loss. CV - denies CP, orthopnea, worsening edema. Resp - denies cough, SOB at rest, wheeze. MSK - + L knee pain, chronic. Psych - reports mood stable on current meds. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, SpO2 96% RA, Temp 98.2F, Wt 158 lb.
+Gen: NAD, pleasant, appropriate.
+CV: RRR, S1/S2 nl, no S3 appreciated today, no significant murmur.
+Resp: CTAB, no wheeze/crackles.
+Ext: Trace bilateral LE edema, cool distal extremities c/w known PAD, dopplerable pedal pulses bilat, no ulceration.
+MSK: L knee w/ crepitus, decreased ROM, mild effusion, no erythema/warmth.
+Psych: Euthymic affect, appropriate.
+
+LABS/RESULTS:
+ CBC (02/10/2025): WBC 6.8, Hgb 12.1, Hct 36.5%, Plt 245
+ BMP (02/10/2025): Na 138, K 4.2, Cl 101, CO2 25, BUN 18, Cr 0.9, Glucose 102
+ Lipid panel (01/15/2025): TC 168, LDL 92, HDL 48, TG 140
+ BNP (02/10/2025): 210 pg/mL (mildly elevated, stable from prior)
+ EKG (02/13/2025): NSR, rate 68, no acute ST-T changes, unchanged from prior.
+ Echo (10/2023, on file): EF 35%, mild-mod MR, no significant valvular stenosis.
+
+ASSESSMENT/PLAN:
+77F w/ depression, HLD, HFrEF (EF 35%), PAD presenting for pre-op eval prior to L TKA, DOS 02/13/2025.
+
+1. Cardiac risk stratification: HFrEF stable, no decompensation signs today. BNP mildly elevated but stable. Cleared from cardiac standpoint for proceeding w/ surgery w/ standard perioperative monitoring. Continue carvedilol, lisinopril, furosemide; hold ASA per ortho protocol pre-op if directed.
+2. PAD: Stable, pedal pulses present. No urgent vascular intervention needed pre-op. Continue cilostazol unless held per surgical team instructions.
+3. HLD: At goal on atorvastatin, continue.
+4. Depression: Stable on sertraline, continue, monitor perioperatively.
+5. Tobacco/social: Pt herself has essentially negligible personal smoking history (few cigs as teen only, no regular use); reassured this is not a significant risk factor for surgical planning. However, household secondhand smoke exposure noted given spouse's 1 ppd habit - counseled patient regarding reducing exposure at home and discussed general health impacts of secondhand smoke; also advised regarding pulmonary hygiene post-op given exposure. Lung cancer screening topic briefly discussed in context of overall preventive care, no further action documented today.
+6. Pre-op labs/EKG reviewed as above, unremarkable for surgical clearance purposes aside from noted stable chronic findings.
+7. Pt cleared for TKA from IM standpoint pending final anesthesia eval.
+
+Plan discussed w/ patient, questions answered, pt verbalizes understanding.
+
+Attending Attestation: I have reviewed and discussed this case with Dr. Okonkwo, examined the patient, and agree with the assessment and plan as documented above. - Attending physician, Internal Medicine, 02/13/2025.

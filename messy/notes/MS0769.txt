@@ -1,0 +1,47 @@
+VASCULAR SURGERY - HISTORY AND PHYSICAL
+DOS: 06/07/2023
+Author: Isaac Moreno, PA-C
+
+PT: James O'Brien, M, DOB 6/7/1956 (age 67)
+
+CC: PAD eval, claudication ROS
+
+HPI: 67 yo M w/ known PAD, CAD, AFib, CKD3, OSA, gout, presenting for f/u re: bilateral calf claudication. Pt states, "My legs cramp up something fierce after about a block now, worse than last time." Denies rest pain, non-healing wounds. Reports adherent to cilostazol. "I just want to keep walking my dog without stopping every five minutes," pt adds.
+
+SOCIAL HX:
+Tobacco: 104 pack-year smoking hx; pt is a former smoker, quit 20 yrs ago. Discussed ongoing CV risk reduction given hx. Lung ca screening topic discussed w/ pt (not otherwise addressed here).
+EtOH: quit drinking alcohol in 2003, denies current use.
+Illicit drugs: denies.
+
+[Copied from note dated 12/7/2020]: "Smoking status: former smoker." (no further detail provided in that note)
+
+PMH/PROBLEM LIST (ICD-10):
+- M10.9 Gout, unspecified
+- I73.9 Peripheral artery disease
+- I48.91 Atrial fibrillation
+- N18.3 CKD stage 3
+- I25.10 CAD, native vessel, w/o angina
+- G47.33 Obstructive sleep apnea
+- E78.5 Hyperlipidemia (outdated - resolved per pt, dc'd statin 2019, may need review)
+- I10 HTN (outdated entry, currently normotensive off meds per last visit)
+
+MEDS: cilostazol 100mg BID, apixaban 5mg BID, allopurinol 300mg daily, CPAP nightly
+
+EXAM: BP 138/82, HR 78 irreg irreg, RR 16, SpO2 96% RA
+Gen: NAD
+CV: irreg irreg rhythm, no m/r/g
+Ext: bilat cool feet, dim DP/PT pulses bilat, no ulcers, cap refill <3s
+
+ASSESSMENT/PLAN:
+1. PAD - continue cilostazol, ABI ordered, consider vascular referral if worsening
+2. AFib - continue apixaban, rate controlled
+3. CKD3 - monitor renal fxn, avoid nephrotoxic agents
+4. CAD - continue current mgmt, no acute issues
+5. OSA - continue CPAP compliance
+6. Gout - continue allopurinol
+7. Tobacco - counseled re: cessation maintenance, encouraged continued abstinence given hx
+
+F/u 3 months or sooner if sx worsen.
+
+---ADDENDUM (later same day)---
+Pt called back after visit to clarify he has not used any nicotine replacement products since quitting. No change to plan. -Isaac Moreno, PA-C

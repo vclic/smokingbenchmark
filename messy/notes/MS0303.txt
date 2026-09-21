@@ -1,0 +1,65 @@
+NURSE INTAKE
+Date of Service: 05/21/2026
+Patient: James Baker, M, DOB 05/21/1965 (age 61)
+Provider: Laura Castellano, FNP-C
+
+CC: F/u HTN, T2DM, OSA, CAD.
+
+Vitals: BP 138/84, HR 76, RR 16, Temp 98.2F, Wt 214 lb, BMI 31.4.
+Pt states he's been "doing ok, sugars a little high in the mornings" and denies chest pain, denies SOB at rest, admits to occasional [inaudible] awakenings likely related to OSA mask not fitting well he thinks the machine "leaks air" at night.
+
+SOCIAL HISTORY (templated):
+Tobacco Use: Former smoker
+  - Cigarettes: Yes
+  - Amount: 1/2 pack per day (~10 cigarettes/day)
+  - Duration: 28 years
+  - Current use: No
+  - Quit date: Not on file
+  - Smokeless tobacco: Not on file
+  - E-cigarette/vape: Not on file
+Alcohol Use: Occasional, 1-2 drinks/wk
+Drug Use: Denies
+Occupation: Retired warehouse supervisor
+Living Situation: Lives with spouse
+Exercise: Walks ~20 min daily per pt report
+
+[Copied from note dated 10/21/2023]: Tobacco: Former smoker. (No further detail provided in that entry.)
+
+HPI (physician note continues below, dictated - some autocorrect/ASR errors present):
+Mr. Baker is a 61 y.o. male who returns to clinic today 5/21/2026 for routine follow up of hypertension, type two diabetes, obstructive sleep apnea, and coronary artery disease. He reports doing reasonably well overall, home glucose logs show fasting values in the 140s-160s range, he attributes this to "eating more carbs then usual" over the past month due to travel. He denies any chest pain, pressure, or exertional dyspnea, denies palpitations or syncope. He notes his CPAP compliance has been "spotty" - he says the mask "leeks" and he sometimes just doesn't ware it, will address below. No lower extremity edema, no orthopnea. Denies polyuria/polydipsia beyond baseline.
+
+He was seen by cardiology in Feb 2026 for routine CAD follow up, stress test reportedly unremarkable per pt report, records pending review (asked staff to obtain).
+
+Smoking history was reviewed today with patient during intake and confirmed as noted above in the templated tobacco block; patient was counseled on the importance of continued abstinence from tobacco and the cardiovascular/pulmonary benefits thereof, discussed how tobacco history relates to his CAD and OSA. Lung cancer screening was discussed briefly as a general topic given his tobacco history.
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, wt loss. Cardiac - denies CP, palpitations. Resp - denies cough, denies hemoptysis, admits occasional snoring per spouse report. GI - denies n/v/d. GU - denies dysuria. Neuro - denies HA, denies focal weakness. All other systems reviewed and negative except as noted.
+
+PHYSICAL EXAM:
+General: well-appearing, NAD, pleasant male in no acute distress.
+HEENT: NCAT, EOMI, oropharynx clear, no thyromegaly.
+CV: RRR, no m/r/g appreciated, normal S1/S2.
+Resp: CTAB, no wheezes/rales/rhonchi, good air movement bilaterally.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, pulses 2+ bilat.
+Skin: warm, dry, no rashes.
+Psych: mood/affect appropriate.
+
+LABS/RESULTS:
+- HbA1c (05/15/2026): 7.8% (prior 7.4% on 11/12/2025)
+- Fasting glucose (05/21/2026, POC): 152 mg/dL
+- Lipid panel (05/15/2026): TC 178, LDL 96, HDL 42, TG 201
+- BMP (05/15/2026): Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.05, eGFR 74
+- Urine microalbumin/Cr ratio (05/15/2026): 28 mg/g (mildly elevated)
+- BP log (home, past 2 wks): ranging 128-142/78-88
+
+ASSESSMENT/PLAN:
+1. Hypertension - reasonably controlled, will continue lisinopril 20mg daily, reinforce low sodium diet, recheck BP at next visit.
+2. Type 2 diabetes mellitus - A1c up slightly to 7.8%, will increase metformin dose, discussed dietary modification extensively, pt agreeable to referral to nutrition, recheck A1c in 3 months.
+3. Obstructive sleep apnea - CPAP compliance issues discussed at length, will refer to sleep medicine/DME for mask refit, encouraged nightly use, reviewed cardiovascular risks of untreated OSA especially given hx of CAD.
+4. Coronary artery disease - stable, awaiting records from cardiology re: recent stress test, continue aspirin 81mg, atorvastatin 40mg, metoprolol succinate 50mg daily.
+5. Tobacco history - former smoker as detailed above in social history section; continued counseling provided regarding relapse prevention, no current tobacco use; general topic of lung cancer screening was discussed with patient.
+6. Health maintenance - due for annual eye exam, will refer to ophthalmology; foot exam performed today, no ulcers/lesions noted, monofilament testing intact.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Pt verbalized understanding and agreement with plan.
+
+Electronically signed: Laura Castellano, FNP-C, 05/21/2026

@@ -1,0 +1,61 @@
+TELEHEALTH FOLLOW-UP VISIT
+Patient: Cheryl Lewis | DOB: 6/22/1970 | Age: 55 | F
+DOS: 06/22/2025
+Provider: Kevin Osei, MD (Primary Care)
+Visit type: Telehealth f/u post-hospital d/c (pneumonia)
+
+CC: f/u after recent hosp for pneumonia, d/c'd approx 1 wk ago.
+
+HPI: 55 yo F w/ hx GERD, asthma, CAD, CKD stage 3, HLD, OSA, seen via telehealth for f/u after recent admission for CAP. Pt states "I'm feeling a lot better than when I was in the hospital, just still get winded going up the stairs." Denies fever, chills, chest pain. Occasional cough, productive of small amt clear sputum, improving. Appetite improving, tolerating PO well. c/o some fatigue overall but improving day to day. Sats reportedly ok at home per pt report, no home O2 needed. Reviewed d/c summary - completed abx course as prescribed, no adverse rxn noted. Asthma control reportedly stable, using rescue inhaler infrequently. GERD sx well controlled on current regimen. No CP, no palpitations, no lower extremity edema.
+
+---(copied forward from prior visit note dated 01/14/2025, retained in chart)---
+HPI (01/14/2025): 55 yo F here for routine f/u of multiple chronic conditions. Pt reports doing well overall. GERD: sx controlled on PPI, no breakthrough sx, denies dysphagia/odynophagia. Asthma: no recent exacerbations, uses albuterol prn approx 1x/wk. CAD: denies angina, denies exertional CP, last stress test reportedly unremarkable per pt report. CKD stage 3: stable per labs, nephrology f/u ongoing. HLD: on statin, tolerating well, no myalgias. OSA: using CPAP nightly per pt report, compliance reportedly good, denies daytime somnolence. ROS otherwise negative. Plan continued as previously: continue home meds, routine labs at next visit, f/u in 3 months.
+---(end copied forward text)---
+
+SOCIAL HISTORY (EHR templated block):
+Tobacco use status: Declined to discuss
+Type: Not on file
+Packs/day: Not on file
+Years smoked: Not on file
+Quit date: Not on file
+Alcohol use: Not on file
+Recreational drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+Note re: tobacco - pt declined to discuss tobacco use when asked during this visit; will re-address at future visit as appropriate.
+
+ROS: Constitutional - fatigue as above, no fevers. Resp - improving cough, no hemoptysis, no acute SOB at rest. CV - no CP, no palpitations. GI - no n/v/d, GERD sx controlled. GU - no dysuria. MSK - no new myalgias/arthralgias. Neuro - no HA, no focal weakness. Psych - mood stable, denies anxiety/depression.
+
+Vitals (per telehealth device self-report / recent d/c vitals reviewed): BP 128/78, HR 76, RR 16, Temp 98.2F, SpO2 96% RA (per home pulse ox).
+
+Exam (limited via telehealth):
+Gen: NAD, conversant, appears well, no acute distress noted on video.
+Resp: pt able to speak in full sentences, no visible accessory muscle use, no audible wheeze on this call (auscultation not performed via telehealth).
+CV: unable to auscultate via telehealth; pt denies orthopnea/edema on questioning.
+Skin: no acute rash noted on video.
+
+Labs/Imaging reviewed: CBC and BMP from discharge reviewed - WBC trending down, renal function stable at baseline for known CKD stage 3 (Cr ~1.6, eGFR ~38 per prior labs on file). CXR from hospitalization reportedly showed resolving infiltrate per d/c summary.
+
+Assessment:
+1. Recent hospitalization for community-acquired pneumonia - clinically improving, resp status stable per pt report and telehealth exam.
+2. GERD - stable, controlled on current regimen.
+3. Asthma - stable, no recent exac.
+4. CAD - stable, no anginal sx today.
+5. CKD stage 3 - stable, renal function at baseline.
+6. HLD - stable on statin therapy.
+7. OSA - stable, CPAP use per pt report.
+8. Tobacco use status - unable to assess, pt declined to discuss at this visit.
+
+Plan:
+1. Continue current home meds incl inhaled controller for asthma, PPI for GERD, statin, and CPAP nightly for OSA.
+2. Recheck CBC/BMP in 2 wks to confirm continued improvement/renal stability.
+3. Incentive spirometry encouraged, gradual return to activity as tolerated.
+4. F/u in person in 2-4 wks or sooner if worsening cough, fever, chest pain, or SOB.
+5. Re-address tobacco use screening at next visit given pt declined to discuss today; will offer counseling resources if/when appropriate.
+6. Continue routine health maintenance; discussed general risk factors for lung disease in context of pneumonia recovery, no imaging ordered at this time beyond what was done during hospitalization.
+7. Pt instructed to call or seek urgent care if worsening sx, including difficulty breathing, chest pain, or high fever.
+
+MDM: Pt is a 55 yo F with multiple chronic conditions (GERD, asthma, CAD, CKD3, HLD, OSA) presenting for telehealth f/u after recent hospitalization for pneumonia, now clinically improving. Time spent in visit approx 20 min, mostly counseling/coordination of care given complexity of chronic disease management and recent hospitalization. Tobacco status could not be obtained as pt declined to discuss; will attempt reassessment at future encounter.
+
+Electronically signed: Kevin Osei, MD, 06/22/2025.

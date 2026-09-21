@@ -1,0 +1,52 @@
+Pulmonology H&P - COPD Follow-up
+Date of Service: 10/18/2024
+Author: Anita Patel, MD
+
+Patient: Yolanda Powell, F, DOB 10/4/1951 (age 73)
+
+PROBLEM LIST (partially outdated, not reconciled):
+1. J44.9 - COPD, unspecified
+2. M81.0 - Osteoporosis, age-related
+3. F32.9 - Major depressive disorder, unspecified (dx 2015, may be resolved per pt report)
+4. I73.9 - Peripheral artery disease
+5. I10 - Essential hypertension
+6. E11.9 - Type 2 diabetes mellitus
+7. J45.909 - Asthma, unspecified (old dx, unclear if still active, copied forward x several visits)
+
+HPI: Pt here for routine COPD f/u, reports doing about the same, some increased dyspnea on exertion when going up stairs in her building the elevator has been broken for [inaudible] weeks so she's been having to take the stairs more which is not helping her breathing at all she says. No fevers no chills. Cough is stable, occasional white sputum. She denies chest pain denies palpitations. She's been managing her diabetes and BP at home she says her numbers have been "okay" though she hasn't been logging them consistently. Sleep is fair, mood is stable per her report she continues to see her therapist for depression.
+
+Templated field (outdated, not accurate - see narrative below): Smoking status: Never Smoker. This field is incorrect and has not been updated in the EHR template; the patient does have a smoking history as detailed in Social History and Assessment/Plan below.
+
+[Copied forward from note dated 5/18/2021, retained in record - not reflective of current visit]
+SOCIAL HISTORY (5/18/2021): Patient lives alone, uses a cane for ambulation. Former smoker. Denies illicit drug use. Limited alcohol use reported at that time. Diet notable for low intake of dairy, calcium supplementation recommended. Pt was independent in ADLs at that visit. Follow up with endocrinology was recommended for osteoporosis management.
+[End copied section]
+
+SOCIAL HISTORY (current, 10/18/2024): Lives alone in an apartment, uses cane occasionally now for balance more than before. Former smoker, quit smoking in 2016. Quit drinking alcohol in 2019, denies any current use. No illicit drug use. Retired postal worker.
+
+ROS: Otherwise negative except as above, denies hemoptysis, denies unintentional weight loss, denies fevers.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, SpO2 94% on RA, Wt stable from last visit.
+General: Well-appearing, NAD, seated comfortably.
+HEENT: Unremarkable.
+CV: RRR, no m/r/g, PAD noted on prior vascular exam, pedal pulses diminished bilaterally but present.
+Lungs: Mild expiratory wheeze bilat bases, no crackles, decreased air movement overall c/w known COPD.
+Ext: No edema, cool distal extremities noted (consistent with known PAD), no ulcers.
+Skin: Intact, no lesions.
+
+LABS/DATA REVIEWED: A1c from last month 7.2%, lipid panel unremarkable, recent DEXA showed continued osteoporosis, no new fractures.
+
+ASSESSMENT AND PLAN:
+73 yo F, DOB 10/4/1951, seen today 10/18/2024 for COPD follow up in setting of longstanding smoking history - patient is a former smoker who smoked a quarter pack (about 5 cigarettes) per day for 48 years, quit in 2016. This remains an important risk factor discussion point for lung health going forward; lung cancer screening was discussed with the patient in general terms as part of preventive care conversation.
+
+1. COPD - stable today on current regimen, continue inhaled therapy, reinforced smoking cessation success (pt remains abstinent since 2016), encouraged pulmonary rehab referral again as she declined previously, f/u in 3-4 months or sooner if worsening symptoms.
+2. PAD - stable, continue current antiplatelet, vascular surgery f/u as scheduled per pt.
+3. HTN - well controlled today, continue current antihypertensive regimen.
+4. T2DM - A1c improved slightly, continue metformin, encourage dietary adherence, diabetes educator referral offered again.
+5. Osteoporosis - continue calcium/vit D, bisphosphonate per endocrine plan, f/u DEXA in 1-2 yrs.
+6. Depression - stable per pt report, continues therapy, no acute SI/HI, will defer to psychiatry for med management if needed.
+7. Alcohol use - denies current use, quit in 2019 per patient report, no further intervention needed at this time.
+
+Return to clinic in 3-4 months, sooner if symptoms worsen. Pt verbalized understanding of plan, all questions answered today.
+
+Anita Patel, MD

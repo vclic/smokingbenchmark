@@ -1,0 +1,77 @@
+Family Medicine Clinic Note
+
+Patient: TAYLOR, Mark    MRN: 66304929
+DOB: 10/08/1962    Age: 60 y.o.    Sex: Male
+Date of Service: 08/02/2023    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Hospital follow-up
+
+Subjective:
+Mark Taylor is a 60 y.o. male who presents for hospital follow-up after admission for cellulitis of the left leg.
+Admitted 07/25/2023-July 27, 2023 for cellulitis of the left leg. Still fatigued but improving. Appetite returning. He smokes a pack and a half a day and has done so for 42 years.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity
+• Chronic obstructive pulmonary disease	2014
+• Essential hypertension
+• Mixed hyperlipidemia
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• albuterol HFA 2 puffs q4-6h PRN
+• atorvastatin 20 mg daily
+• fluticasone-umeclidinium-vilanterol 100/62.5/25 1 inh daily
+• lisinopril 20 mg daily
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Widowed; lives with daughter.
+  Social drinker.
+  No IVDU.
+
+Family History
+Father - MI at 74. Father smoked 2 ppd, died of emphysema at 72.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: + chronic dyspnea on exertion, AM cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 154/68 (BP Location: Left arm, Patient Position: Sitting) | Pulse 75 | Temp 98.4 °F (Oral) | Resp 14 | Ht 5' 8" | Wt 237 lb | SpO2 94% | BMI 36.09 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, no m/r/g
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: Nonfocal
+Psych: Euthymic
+
+Labs (27-Jul-2023): LDL 63, Cr 0.81, K 4.9, Hgb 11.9
+
+Assessment & Plan
+1. Cellulitis of the left leg
+   Improving; reviewed discharge summary and meds. Repeat labs in 1 week.
+2. Nicotine dependence, cigarettes, uncomplicated (F17.210)
+   Discussed cessation (4 min). He is motivated to quit. Start varenicline 0.5 mg daily x3d, then BID x4d, then 1 mg BID. Eligible for annual LDCT; ordered.
+3. Obesity
+   Discussed diet and exercise.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Teresa Alvarez, NP on 08/02/2023

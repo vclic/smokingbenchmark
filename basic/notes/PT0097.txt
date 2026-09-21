@@ -1,0 +1,98 @@
+Family Medicine Progress Note
+
+Patient: RUSSELL, Thomas    MRN: 21452008
+DOB: 12/08/1945    Age: 77 y.o.    Sex: Male
+Date of Service: 08/08/2023    Provider: Catherine Lindqvist, DO
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Thomas Russell is a 77 y.o. male who presents for right shoulder pain.
+Right shoulder pain for 8 months, worse in the morning. No numbness or weakness. Nothing has helped.
+
+Past Medical History:
+Diagnosis	Date
+• Chronic systolic heart failure	2009
+• Osteoarthritis	1989
+• Hypercholesterolemia
+• Benign prostatic hyperplasia
+• Coronary artery disease
+• Tobacco use disorder
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Carpal tunnel release (1988)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• sacubitril-valsartan 49/51 mg BID
+• furosemide 40 mg daily
+• tamsulosin 0.4 mg nightly
+• carvedilol 12.5 mg BID
+• diclofenac 1% gel QID PRN
+• clopidogrel 75 mg daily
+• atorvastatin 40 mg daily
+
+Allergies
+• Codeine (nausea)
+
+Social History
+Tobacco Use
+• Smoking status: Light Tobacco Smoker
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: 27 pk-yr
+Social History Narrative
+  Widowed; lives with son.
+  Quit for 4 yrs starting in 2013 but restarted in 2017.
+  EtOH: 1-2 beers/wk.
+  Denies illicit drugs.
+  Exercise: walks daily.
+
+Family History
+Mother - HTN, DM2.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 117/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 68 | Temp 98.0 °F (Oral) | Resp 14 | Ht 6' 0" | Wt 214 lb | SpO2 98% | BMI 29.06 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD, no JVD
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Benign
+Extremities: 1+ pitting edema bilateral LE to mid-shin
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Normal mood and affect
+
+Labs (7/2/2023): LDL 129, Cr 0.95, K 4.4
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Coronary artery disease
+   Stable. Continue secondary prevention.
+3. Chronic systolic heart failure
+   Weight stable. Continue diuretic.
+4. Hypercholesterolemia
+   Continue statin. Lipid panel due.
+5. Health maintenance
+   LDCT: last done 1 yr ago, Lung-RADS 2; repeat ordered.
+
+RTC 6 months.
+
+Electronically signed by Catherine Lindqvist, DO on 08/08/2023

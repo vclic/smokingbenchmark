@@ -1,0 +1,78 @@
+TELEHEALTH VISIT NOTE
+Patient: Carol Butler | DOB: 2/8/1957 (age 69) | Sex: F
+Date of Service: 02/08/2026
+Provider: Anita Patel, MD
+Visit type: New patient - establish care (telehealth, video)
+
+CC: Establish primary care, med refills, general check-up.
+
+HPI:
+Pt is a 69 yo F who recently moved to the area, presenting via telehealth to establish care. Reports hx of peripheral artery disease and OSA, both dx several yrs ago per pt report - records not yet transferred. Denies chest pain at rest, states "my legs cramp up if I walk too far, but it's been about the same for a while." Uses CPAP "most nights, maybe not every night honestly." No new falls, no wounds on feet noted by pt. Denies fevers, chills, wt loss.
+
+When asked about tobacco use, pt became visibly uncomfortable and stated "I'd rather not get into that right now." Declined to discuss tobacco use further despite gentle re-approach; smoking status not obtained this visit. Will revisit at f/u appt once rapport established.
+
+ROS: Otherwise reviewed, negative except as above. 10-pt ROS reviewed and negative except as noted in HPI.
+
+SOCIAL HISTORY:
+- Living situation: lives alone, daughter nearby.
+- Alcohol: occasional glass of wine, pt reports.
+- Tobacco: pt declined to discuss; status unable to be determined at this time.
+- Occupation: retired schoolteacher.
+- Exercise: limited 2/2 claudication sx.
+
+PMH (problem list, ICD-10, some outdated - pending reconciliation):
+1. I73.9 - Peripheral artery disease, unspecified
+2. G47.33 - Obstructive sleep apnea
+3. E78.5 - Hyperlipidemia, unspecified (old, per outside records - confirm)
+4. M19.90 - Osteoarthritis, unspecified site (old dx, unclear if still active - reconcile at next visit)
+5. Z71.89 - Other specified counseling (copied forward, unclear relevance)
+
+Meds (per pt report, unverified):
+- Cilostazol 100 mg BID
+- Atorvastatin 40 mg qhs
+- CPAP machine, settings unknown to pt
+
+Allergies: NKDA
+
+VITALS (per home device/telehealth):
+BP 138/82, HR 76, reported wt 168 lb, no O2 sat available today.
+
+EXAM (limited, telehealth):
+General: well-appearing, no acute distress, conversing normally on video.
+Skin: no visible lesions on exposed areas via camera.
+Extremities: pt able to show both lower legs on camera - no visible ulcers, mild pallor noted on distal L foot per pt positioning, femoral/pedal pulses not assessable via telehealth.
+Neuro: alert, oriented, no focal deficits apparent on video interview.
+(Formal cardiopulm and vascular exam deferred - telehealth limitation, will need in-person f/u.)
+
+ASSESSMENT/PLAN:
+69 yo F establishing care via telehealth, hx PAD and OSA.
+
+1. Peripheral artery disease (I73.9)
+- Continue cilostazol as prescribed by prior provider, will need records to confirm dosing/duration.
+- Claudication sx reportedly stable per pt.
+- ABI ordered for in-person visit given inability to do vascular exam via telehealth.
+- Counseled on walking program as tolerated, foot care, daily foot checks.
+
+2. Obstructive sleep apnea (G47.33)
+- CPAP compliance inconsistent per pt report ("most nights, maybe not every night").
+- Will request sleep study records and CPAP download data at next visit.
+- Discussed importance of nightly use for cardiovascular/PAD risk reduction.
+
+3. Health maintenance / Smoking status
+- Tobacco use history not obtained - pt declined to discuss during visit.
+- Lung cancer screening was discussed in general terms but deferred until an accurate smoking history can be obtained.
+- Plan to re-address smoking history sensitively at next f/u, ideally in-person.
+- Age-appropriate screening (colon, etc.) to be reviewed once records available.
+
+4. Hyperlipidemia (E78.5) - outdated dx, pending lipid panel to reassess, continue atorvastatin for now.
+
+5. Osteoarthritis (M19.90) - stable per pt, no acute complaints today, outdated problem list entry - reconcile.
+
+Labs ordered: CBC, CMP, lipid panel, HbA1c, TSH.
+Imaging: ABI planned for next in-person visit.
+
+F/U: In-person visit in 4 weeks to complete exam, review labs, re-attempt tobacco history discussion, and reconcile problem list/meds with prior records.
+
+Pt verbalized understanding and agreement with plan. Telehealth visit ended without technical issues.
+
+Electronically signed: Anita Patel, MD - 02/08/2026

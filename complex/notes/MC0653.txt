@@ -1,0 +1,84 @@
+HOSPITAL DISCHARGE FOLLOW-UP - HISTORY AND PHYSICAL
+Patient: Sharon Lewis
+DOB: 6/23/1953 (age 71)
+Date of Service: 11/11/2024
+Author: Kevin Osei, MD
+Location: Primary Care Clinic
+
+CHIEF COMPLAINT: Follow-up after recent hospitalization for pneumonia.
+
+HPI: Ms. Lewis is a 71-year-old woman with history of obesity and heart failure with reduced ejection fraction (HFrEF), recently discharged after a 5-day admission for community-acquired pneumonia. She reports improving energy, decreased cough, and no fevers since discharge. She continues to use her home oxygen as needed with exertion but states she feels mostly back to baseline. No chest pain, no orthopnea beyond her usual baseline, no lower extremity edema increase. She is tolerating her discharge medications without issue. Denies hemoptysis, denies night sweats. She reports mild fatigue which she attributes to deconditioning during the hospital stay.
+
+[Copy-forward from prior visit dated 4/2/2023, retained in chart - please disregard outdated data below where superseded]
+---
+Patient seen for routine follow-up of HFrEF and obesity management. EF at that time was reported as 35% on TTE done 3/2023. Patient reported stable weight, denied chest pain, denied PND. Medication list reviewed: Lisinopril 10mg daily, Carvedilol 12.5mg BID, Furosemide 20mg daily, Spironolactone 25mg daily, Atorvastatin 40mg daily, Metformin 500mg BID, Aspirin 81mg daily. Diet and exercise counseling provided. Follow-up echo recommended in 6 months. Social history at that time notable for sedentary lifestyle, lives alone, retired schoolteacher.
+---
+[End copy-forward]
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports mild fatigue.
+HEENT: No headache, no vision changes, no sore throat.
+Cardiovascular: No chest pain, no palpitations, mild baseline lower extremity edema unchanged.
+Respiratory: Improving cough, denies hemoptysis, denies current dyspnea at rest, mild dyspnea on exertion consistent with baseline.
+Gastrointestinal: No nausea, vomiting, diarrhea, or abdominal pain.
+Genitourinary: No dysuria, no hematuria.
+Musculoskeletal: Chronic knee pain, unchanged.
+Skin: No rashes, no lesions.
+Neurological: No focal weakness, no numbness, no dizziness.
+Psychiatric: No depression, no anxiety symptoms reported.
+Endocrine: No polyuria, no polydipsia.
+Hematologic/Lymphatic: No easy bruising, no lymphadenopathy.
+Allergic/Immunologic: No known drug allergies.
+
+SOCIAL HISTORY: Patient reports she has never smoked cigarettes. She does use a nicotine vape daily, a habit she has maintained for the past several years, though she has never smoked traditional cigarettes. She denies alcohol use. She denies illicit drug use. She lives alone in a single-story home, retired schoolteacher, has family support nearby including a daughter who checks in regularly.
+
+PAST MEDICAL HISTORY:
+1. Obesity
+2. Heart failure with reduced ejection fraction
+3. Hyperlipidemia
+4. Type 2 diabetes mellitus
+5. Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY: Cholecystectomy (year unclear per chart).
+
+MEDICATIONS (current, reconciled at discharge):
+1. Lisinopril 10 mg PO daily
+2. Carvedilol 12.5 mg PO BID
+3. Furosemide 40 mg PO daily (increased at discharge)
+4. Spironolactone 25 mg PO daily
+5. Atorvastatin 40 mg PO daily
+6. Metformin 500 mg PO BID
+7. Aspirin 81 mg PO daily
+8. Amoxicillin-clavulanate 875 mg PO BID (to complete 7-day course post-discharge for pneumonia)
+9. Albuterol inhaler PRN
+10. Vitamin D3 1000 IU daily
+11. Calcium carbonate 500 mg daily
+
+ALLERGIES: No known drug allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 78, RR 16, Temp 98.2F, SpO2 95% on room air, Weight 210 lbs, BMI 36.4.
+General: Well-appearing woman, no acute distress, seated comfortably.
+HEENT: Normocephalic, atraumatic. Oropharynx clear. No lymphadenopathy.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated, mild bilateral pitting edema at ankles, JVP not elevated.
+Respiratory: Lungs with mild bibasilar crackles, improved from prior exam, no wheezes, no rhonchi.
+Abdomen: Obese, soft, non-tender, non-distended, normal bowel sounds.
+Extremities: No cyanosis, mild edema as noted above.
+Skin: Warm, dry, no rashes.
+Neurological: Alert and oriented x3, cranial nerves grossly intact, no focal deficits.
+Psychiatric: Mood and affect appropriate.
+
+LABS/DATA REVIEWED: BNP trending down from admission, currently 340 (down from 890 at admission). Basic metabolic panel within normal limits. Hgb A1c 7.1% from last month.
+
+ASSESSMENT AND PLAN:
+1. Recent pneumonia, resolving - continue antibiotic course as prescribed, reinforce hydration and rest, follow up in 2 weeks or sooner if symptoms worsen. Ms. Lewis, age 71 (DOB 6/23/1953), seen today 11/11/2024 for this discharge follow-up visit.
+2. Heart failure with reduced ejection fraction - stable, mild residual edema; increased furosemide dose at discharge, will monitor weight and symptoms; repeat echo to be scheduled in coming months.
+3. Obesity - continue counseling on diet and activity as tolerated during recovery.
+4. Type 2 diabetes mellitus - continue metformin, A1c reasonably controlled, will recheck in 3 months.
+5. Tobacco/nicotine use - patient reports she has never smoked cigarettes; she does vape nicotine daily. Counseled on risks of nicotine vaping and encouraged cessation resources; she was receptive to discussing this further at future visits.
+6. Hyperlipidemia - continue atorvastatin, lipid panel to be rechecked at next visit.
+7. Osteoarthritis - continue conservative management, refer to physical therapy if symptoms worsen.
+
+Return to clinic in 2 weeks, sooner if fever, worsening cough, chest pain, or shortness of breath develop. Patient verbalized understanding of plan and agreed to follow up as scheduled.
+
+Electronically signed: Kevin Osei, MD

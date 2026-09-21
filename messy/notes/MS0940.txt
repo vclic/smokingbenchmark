@@ -1,0 +1,50 @@
+Cardiology NP Progress Note
+Author: Owen Fitzgerald, MD
+Date of Service: 12/25/2025
+
+Patient: Edward Simmons, M, DOB 11/20/1945 (age 80)
+
+CHIEF COMPLAINT: chest pain eval
+
+HPI: Mr Simmons 80 yo male hx HFrEF, CAD, T2DM presnts today w/ intermittent chest tightness x few days, worse w exertion, releived w rest. Denies radiaton to arm no diaphoresis. Pt states he quit smoking back in 2010 but relapsed in 2012 - has not been able to quit again since. No fevers no cough. Appetite stable. Wt unchanged per pt.
+
+ROS: otherwise negative except as above. Diabetes control reportedly fair, checks fingersticks intermittently.
+
+SOCIAL HISTORY:
+Tobacco Use Screening (EHR template):
+  Current tobacco use: Yes - cigarettes
+  Smoking status: Current every day smoker
+  Pack-year history: 13 pack-years
+  Counseling given: advised to quit, discussed cessation resources
+Alcohol: occasional
+Lives with spouse, retired machinist
+
+[Copied from note dated 6/25/2022]: Tobacco: current smoker, continues to smoke cigarettes. (no further detail carried forward from that note)
+
+PMH: HFrEF, CAD s/p stent, T2DM, osteoporosis, osteoarthritis
+
+MEDS: metoprolol succinate, lisinopril, atorvastatin, metformin, aspirin, alendronate
+
+EXAM:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 97% RA
+Gen: NAD, comfortable
+CV: RRR, no murmur appreciated, no JVD
+Lungs: CTAB
+Ext: no edema
+
+LABS/DATA: recent BNP mildly elevated, EKG w known LBBB unchanged from prior, troponin pending
+
+ASSESSMENT/PLAN:
+80 yo male w chest pain, hx HFrEF/CAD/T2DM, current smoker w 13 pack-yr hx.
+1. Chest pain - likely stable angina vs GERD, will obtain troponin trend, consider stress test if neg
+2. HFrEF - continue GDMT, monitor wts
+3. CAD - continue statin/ASA
+4. T2DM - cont metformin, recheck A1c
+5. Tobacco use - counseled again on cessation given current smoking status; general lung health and screening options discussed briefly, pt to follow up further with PCP
+6. Osteoporosis/OA - stable, cont current tx
+
+RTC 2 wks or sooner if sx worsen.
+
+---ADDENDUM (later same day, 12/25/2025, 4:15pm)---
+Spoke w pt by phone after troponin resulted - negative x1, repeat in am per protocol. Pt reports chest pain resolved, feels back to baseline. Reiterated importance of smoking cessation given his continued cigarette use. Will follow up results and adjust plan as needed. No new orders at this time.
+- Owen Fitzgerald, MD

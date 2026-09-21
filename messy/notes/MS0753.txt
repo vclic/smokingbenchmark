@@ -1,0 +1,56 @@
+CLINIC FOLLOW-UP - PULMONOLOGY
+Patient: Yolanda Hernandez  DOB: 02/14/1974 (age 51)
+Date of Service: 05/02/2025
+Author: Hannah Weiss, NP
+
+--- NURSE INTAKE ---
+Vitals: BP 132/84  HR 92  RR 20  Temp 98.4F  SpO2 91% RA
+Wt 168 lb  Ht 64 in  BMI 28.8
+Chief complaint: f/u after ED visit for COPD flare, still c/o SOB and cough w/ some wheeze.
+Allergies: NKDA
+Meds reviewed: albuterol HFA, tiotropium, prednisone taper (started in ED), alendronate weekly, calcium/vit D.
+
+SOCIAL HISTORY (EHR templated block)
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Occasional, denies daily
+Drug use: Denies
+Occupation: Retail associate
+Living situation: Not on file
+Exposure to secondhand smoke: Not on file
+
+--- PHYSICIAN PROGRESS NOTE ---
+HPI: Ms Hernandez is a 51 y.o. female w hx of COPD and osteoporosis who presents for pulm f/u after being seen in the ED 5 days ago for a COPD exacerbation treated with nebs, prednisone burst and azithromycin. She reports mild improvement in dyspnea but continues to have a productive cough, worse in am, and occasional wheeze with exertion. She denies fever, chest pain, or hemoptysis. She has a 35 pack-year smoking history and continues to smoke cigarettes currently, reporting she has tried to cut back but has not quit. She was counseled again today regarding smoking cessation resources including nicotine replacement and referral to the quitline; she is amenable to considering pharmacotherapy at next visit. Lung cancer screening was briefly discussed as part of general preventive care conversation, no further action taken today regarding imaging.
+
+ROS: Denies weight loss, night sweats, hemoptysis, leg swelling. Reports occasional low back pain, stable, followed for osteoporosis. No new fractures. Denies palpitations.
+
+PMH: COPD (GOLD stage unspecified in chart), osteoporosis dx ~3 yrs ago on alendronate.
+PSH: none reported
+FH: mother w osteoporosis, father w "lung problems," details not on file
+
+Physical Exam:
+Gen: mild resp distress, speaking in full sentences
+HEENT: nc/at, no jvd
+Lungs: diffuse expiratory wheeze bilat, prolonged expiratory phase, decreased breath sounds at bases
+CV: RRR no m/r/g
+Abd: soft nt/nd
+Ext: no c/c/e
+Skin: no rashes
+
+LABS/RESULTS:
+05/02/2025 CBC: WBC 9.8 (nl 4.0-11.0), Hgb 13.1, Hct 39.2, Plt 245
+05/02/2025 BMP: Na 138, K 4.1, Cl 101, CO2 26, BUN 14, Cr 0.8, Glu 102
+04/27/2025 (ED) ABG: pH 7.36, pCO2 47, pO2 62, HCO3 27 - noted mild resp acidosis c/w flare
+04/27/2025 CXR: hyperinflated lungs, no acute infiltrate, no effusion
+03/2025 DEXA (osteoporosis f/u): T-score -2.7 lumbar spine, unchanged from prior
+
+Assessment/Plan:
+1. COPD exacerbation, recently treated in ED - continuing prednisone taper, albuterol prn, tiotropium daily. Pulm function test to be scheduled once acute sx resolve. F/u in 2-4 wks or sooner if worsening.
+2. Tobacco use, current smoker - discussed cessation strategies again today, pt still smoking, encouraged to consider varenicline or nicotine patch, will readdress at next visit, quitline info given.
+3. Osteoporosis - continue alendronate and calcium/vit D, stable per recent DEXA, ortho/endocrine f/u as scheduled separately.
+4. Hypoxemia noted on recent ABG/pulse ox - will monitor, home O2 not indicated at this time per current sats, recheck at next visit.
+
+Return to clinic in 3-4 weeks or sooner for worsening symptoms. Pt verbalizes understanding of plan.
+
+/s/ Hannah Weiss, NP

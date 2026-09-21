@@ -1,0 +1,41 @@
+Adult Medicine Clinic Note
+Date of Service: 2024-03-06
+Patient: William Moore   DOB: 9/16/1963   MRN: 13497203
+
+SUBJECTIVE:
+CC: Hospital follow-up
+HPI: 60M w/ CKD3, depression, HLD here for hospital follow-up after admission for community-acquired pneumonia. Admitted 2/28/2024-3/2/2024 for community-acquired pneumonia. Still fatigued but improving. No new sx since discharge.
+
+PMH: HLD, CKD3, depression
+Meds: trazodone 50 mg nightly PRN; sertraline 100 mg daily; rosuvastatin 20 mg daily; ezetimibe 10 mg daily
+Allergies: Lisinopril (cough)
+Social History:
+- Lives with wife in a single-family home.
+- Works as a cashier.
+- Social drinker.
+FH: Father - stroke.
+ROS: Gen neg, Resp neg, Skin neg, Neuro neg
+
+OBJECTIVE:
+Vitals: BP: 128/83  HR: 88  RR: 12  Temp: 97.5 F  SpO2: 96% on RA  Wt: 148 lbs  BMI: 22.5
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, no m/r/g
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Soft, nontender, nondistended
+  Ext: Warm, well perfused, no edema
+  Neuro: A&Ox3, no focal deficits
+  Psych: Appropriate
+
+A/P:
+1. Community-acquired pneumonia: Resolved. Med rec completed.
+2. Depression
+   - PHQ-9 stable; continue current regimen.
+3. Health maintenance
+   - Lung cancer screening: not indicated (never smoker).
+
+RTC 1 month.
+
+-- PR (MD)

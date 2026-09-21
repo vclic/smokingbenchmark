@@ -1,0 +1,52 @@
+Pulmonology Progress Note
+Patient: Rajesh Bennett | DOB: 07/24/1965 | Age: 58 | Sex: M
+Date of Service: 08/15/2023
+Author: Laura Castellano, FNP-C
+
+CC: F/u incidental lung nodule found on prior CT chest for CHF workup.
+
+HPI: Mr Bennett is a 58 yo male here today for follow up of an incidentally noted pulmonary nodule seen on imaging done back in the spring, he says he feels about the same, denies new cough denies hemoptysis denies weight loss although he does note some intermittent dyspnea on exertion which he attributes to his known heart failure. Pt states he has been compliant with his meds mostly, occasional missed doses of diuretic he says he ran out and forgot to refill. No fevers no night sweats. He reports some fatigue, worse in the afternoons, and some ankle swelling that comes and goes. Wife accompanies him today and corroborates history, she states his breathing sounds "a little wheezy" at night sometimes, asthma related likely.
+
+ROS: Cardiac - as above, no chest pain, no palpitations. Resp - see HPI. GI - no complaints. Neuro - no focal deficits, no new weakness, hx of stroke in the past (see PMH) fully recovered per pt. MSK - occasional back pain, chronic, stable. All other systems reviewed and negative except as noted above.
+
+Past Medical History:
+- Obesity
+- Osteoporosis
+- Heart failure with reduced ejection fraction
+- Asthma
+- Hypertension
+- Ischemic stroke (2013)
+
+Social History: Patient smoked 2.5 packs per day. He reports he quit smoking right after his stroke and has not smoked since, wife confirms this and states she is "very proud of him" for staying quit all these years. No current tobacco use. Denies illicit drug use, drinks alcohol rarely, socially maybe 1-2 drinks at holidays. Lives with wife, retired machinist.
+
+Medications: Lisinopril, carvedilol, furosemide, alendronate, albuterol inhaler prn, montelukast.
+
+Allergies: NKDA.
+
+Physical Exam:
+Vitals: BP 138/84, HR 78, RR 16, SpO2 95% on room air, wt 244 lb, BMI elevated consistent w known obesity.
+General: obese male in no acute distress, pleasant, cooperative.
+HEENT: normocephalic atraumatic, oropharynx clear.
+Neck: no JVD appreciated today, no lymphadenopathy.
+Cardiac: RRR, S1 S2, no murmur appreciated [inaudible] maybe slight S3 hard to tell over body habitus.
+Lungs: mild expiratory wheeze bilat, no rales no rhonchi, good air movement.
+Abd: obese soft nontender nondistended.
+Extrem: trace bilateral lower extremity edema, no calf tenderness.
+Neuro: grossly intact, gait steady, no focal deficits noted today.
+Skin: no rashes no lesions.
+
+Labs/Imaging Reviewed: BNP mildly elevated from baseline pattern, stable per pt chart, chem panel within acceptable limits, CBC unremarkable. CT chest from outside facility redemonstrates the 7mm nodule right upper lobe stable in size compared to comparison study he had done.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, stable - given stability and small size will continue surveillance imaging per guidelines, repeat CT chest in 6-12 months, if any interval growth will refer for further w/u possibly biopsy. Lung cancer screening was discussed with patient in general terms, he understands the rationale for ongoing monitoring given his history of prior tobacco use, he denies any current symptoms concerning for malignancy.
+2. Heart failure with reduced EF - continue current regimen, reinforce fluid/salt restriction, follow up with cardiology as scheduled, will recheck BNP at next visit.
+3. Asthma - continue albuterol prn and montelukast, exam today with mild wheeze, will consider adding inhaled steroid if symptoms progress, discussed proper inhaler technique with pt and wife.
+4. Hypertension - BP reasonably controlled today, continue lisinopril, recheck at next visit.
+5. Osteoporosis - continue alendronate, pt due for repeat DEXA, will order.
+6. Obesity - counseled on diet and exercise as tolerated given cardiac limitations, discussed referral to nutrition if interested, pt declined for now.
+7. Ischemic stroke, remote (2013) - no new deficits, continue current secondary prevention meds, neuro following as needed.
+Tobacco - patient is a former smoker, quit status reinforced and praised today, no current use, no further intervention needed at this time other than continued encouragement.
+
+Return to clinic in 6 months or sooner if symptoms worsen, patient verbalized understanding of plan agrees with above, all questions answered today. Will coordinate with cardiology and pt's PCP regarding above. Total visit time spent largely on counseling and coordination of care given complexity of pt's multiple comorbidities.
+
+Electronically signed: Laura Castellano, FNP-C, 08/15/2023

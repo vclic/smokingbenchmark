@@ -1,0 +1,55 @@
+Cardiology History and Physical
+Patient: Lan Foster (F) DOB: 4/5/1956
+Date of Service: 4/5/2026
+Attending: Nadia Haddad, MD
+
+CC: Heart failure follow up
+
+HPI: Ms Foster is a 70 year old woman with hx of HFrEF, gout, CKD stage 3, obesity and PAD who presents today for routine cardiology follow up. She reports mild dyspnea on exertion, denies orthopnea or PND, weight stable per home scale. She continues to smoke about three-quarters of a pack (approx 15 cigarettes) per day, and has done so for 49 years; she is an active smoker and has not attempted to quit recently. She notes occasional bilateral lower extremity swelling, worse by end of day, improved with elevation. No chest pain reported no palpitations. She takes her diuretic most days but admits missing doses occassionally when travelling.
+
+ROS: Cardiac - as above. Resp - denies cough or wheeze. GI - no nausea/vomiting. GU - no dysuria. MSK - occasional gout flares in L great toe, last flare ~3 months ago. Skin - PAD related dry skin over lower legs, no ulcers currently.
+
+PMH: Heart failure (HFrEF, EF ~35% on last echo), gout, CKD stage 3 (baseline Cr ~1.6), obesity (BMI 33), peripheral artery disease (s/p claudication workup 2023)
+
+Social History (templated EHR block):
+Tobacco use: Current every day smoker
+Amount: 3/4 pack per day
+Duration: 49 years
+Type: cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: occasional, denies heavy use
+Drug use: denies
+Occupation: retired
+Living situation: lives with spouse
+Exercise: limited due to claudication
+E-cigarette/vape use: Not on file
+
+Physical Exam:
+Vitals: BP 138/82, HR 78, RR 16, SpO2 95% RA, Wt 189 lbs, BMI 33
+General: NAD, well-appearing woman in no acute distress
+CV: RRR, no murmurs, JVP mildly elevated ~8cm
+Resp: mild bibasilar crackles, no wheeze
+Extremities: 1+ pitting edema bilat lower legs, cool distal extremities c/w PAD, pedal pulses diminished but palpable
+Skin: dry, mild venous stasis changes noted
+
+Labs/Results:
+4/3/2026 BNP 410 pg/mL (elevated)
+4/3/2026 Creatinine 1.7 mg/dL (baseline ~1.6)
+4/3/2026 eGFR 34 mL/min/1.73m2
+4/3/2026 Potassium 4.6 mmol/L
+3/15/2026 Uric acid 7.8 mg/dL
+3/15/2026 A1c 5.9%
+Echo (2/2026): EF 35%, moderate global hypokinesis, no significant valvular disease
+
+Assessment/Plan:
+1. Heart failure, chronic, HFrEF - stable, mild volume overload on exam. Increase furosemide slightly, reinforce daily weights and low sodium diet. Continue GDMT (carvedilol, sacubitril-valsartan, spironolactone) with monitoring of renal function and potassium given CKD.
+2. Tobacco use - counseled extensively on smoking cessation given cardiovascular and renal risk; discussed nicotine replacement options and referral to cessation program; patient states she is not ready to quit at this time but agreed to think it over. Lung cancer screening was discussed in general terms as an option to consider with her primary care provider.
+3. CKD stage 3 - stable, monitor Cr/K+ with medication titration, avoid NSAIDs.
+4. Gout - infrequent flares, continue allopurinol, avoid excess purine intake.
+5. Obesity - discussed weight management, dietary counseling referral offered.
+6. PAD - continue antiplatelet therapy, supervised exercise program discussed, foot care education reinforced.
+
+Follow up in 3 months or sooner if symptoms worsen. Patient verbalized understanding of plan.
+
+Nadia Haddad, MD
+Cardiology

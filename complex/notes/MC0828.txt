@@ -1,0 +1,45 @@
+URGENT CARE CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Margaret Bennett DOB 6/30/1958 (age 65)
+Date of Service: 6/30/2023
+Author: Julia Brennan, MD
+
+HPI: Pt presents today with cough x5 days, worse at night, mild SOB. Hx notable for asthma and COPD, now with acute exac vs bronchitis. no fever reported. She reports increased inhaler use over past week w/ limited relief. Denies chest pain, denies hemoptysis. Pt is a former smoker per hx, quit smoking 1 years after moving to this state, which occurred in 2005 (quit yr not specified here, see below). She notes her spouse still smokes at home which may be contributing to irritant exposure.
+
+PMH: Atrial fibrillation, asthma, obesity, COPD. On anticoagulation, uses albuterol/budesonide inhalers.
+
+SOCIAL HISTORY (EHR TEMPLATED TOBACCO BLOCK):
+Tobacco use: Yes (former)
+  - 3/4 pack per day (~15 cigarettes/day) x 8 years
+  - 1/2 pack per day (~10 cigarettes/day) x 11 years
+  - 1/4 pack per day (~5 cigarettes/day) x 8 years, then quit
+Current status: Former smoker
+Alcohol: Quit drinking alcohol in 2015, denies current use.
+Lives w/ spouse (smoker), no illicit drug use reported.
+
+[Copied from note dated 1/30/2021]: "Tobacco: former smoker, no quantities documented at that visit." -- carried forward for continuity, status unchanged since.
+
+ROS: otherwise negative except as above, denies wt loss denies night sweats.
+
+Exam:
+Vitals stable, afebrile, RR 18, sat 96% RA.
+Gen: NAD, mild intermittent cough during visit
+Lungs: scattered exp wheeze bilat, no crackles
+CV: irreg irregular rhythm consistent w known afib, no murmur appreciated
+Abd: soft NT ND
+Ext: no edema
+
+Assessment/Plan:
+1. Acute cough, likely COPD/asthma exacerbation triggered by viral URI. Start short course prednisone taper, continue bronchodilators, encourage hydration.
+2. Former smoker (see tobacco block above for detailed hx) - counseling given re: continued avoidance, reinforced importance given COPD dx. Lung cancer screening discussed with pt as an option to consider with her PCP; no imaging ordered today.
+3. Atrial fibrillation - stable, continue current anticoagulation, no acute issues today.
+4. Obesity - discussed lifestyle modification briefly, pt agreeable to follow up w PCP.
+5. Return precautions given, f/u w PCP in 1-2 wks or sooner if worsening symptoms, fever, or hemoptysis.
+
+Thank you for allowing me to participate in the care of this patient, will defer ongoing pulm management to your office and pulmonology as needed.
+
+Julia Brennan, MD
+Urgent Care
+
+---ADDENDUM (same day, later)---
+Spoke further w pt after initial visit re smoking hx accuracy — confirmed history as above split into three periods (3/4 ppd x8yrs, 1/2 ppd x11yrs, 1/4 ppd x8yrs before quitting), no changes needed to documentation. Pt reiterated she is a former smoker and reaffirmed quit timing relative to her move to this state in 2005 (quit approx 1 yr after move). No further addenda needed at this time.
+Julia Brennan, MD

@@ -1,0 +1,43 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Patient: Patricia Henderson (F), DOB 07/22/1959, Age: 64
+Date of Service: 10/25/2023
+Visit type: Telehealth - medication refills
+Author: Hannah Weiss, NP, Family Medicine
+
+Dear Dr. Colvin,
+
+Thank you for the continued opportunity to co-manage Ms Henderson's care. She is a 64 y.o. woman seen today via telehealth for refill of her routine medications and general follow up.
+
+HPI: Patient states "I'm doing about the same, just need my prescriptions renewed." She denies chest pain, denies new claudication symptoms, denies palpitations. She reports occasional leg cramping with ambulation, unchanged from prior. She states "my legs feel tight after i walk to the mailbox and back" but this has not worsened. No new falls, no vision changes. She takes her thyroid medication in the morning on an empty stomach per her report. Social history reviewed - patient is a lifelong non-smoker, denies any tobacco use in the past.
+
+---BEGIN COPY-FORWARD TEXT FROM VISIT 04/12/2022 (left in note by templating error)---
+HPI (04/12/2022): Pt here for f/u of PAD and hyperlipidemia. reports stable claudication distance, denies rest pain, denies ulcers or non healing wounds on lower extremities. Denies any new symptoms. Pt continues on atorvastatin and cilostazol as tolerated, no myalgias reported. ROS otherwise negative. Pt was counseled extensively regarding diet, exercise, and importance of medication adherence. Pt verbalized understanding. Pt was also given handout regarding PAD self-care and skin checks. F/u labs ordered including lipid panel and TSH. Return to clinic in 6 months or sooner if symptoms worsen. Pt tolerated visit well, no acute distress noted. Vitals stable, BP 128/76, HR 72, wt 168 lbs. Plan unchanged from prior visit, continue current regiman.
+---END COPY-FORWARD TEXT---
+
+PROBLEM LIST:
+1. E78.5 - Hyperlipidemia, unspecified (active)
+2. I73.9 - Peripheral artery disease, unspecified (active)
+3. E03.9 - Hypothyroidism, unspecified (active)
+4. M54.5 - Low back pain (resolved, outdated - kept on list in error)
+5. J45.909 - Asthma, unspecified (outdated entry, patient reports no asthma hx, likely charting error from another pt, to be reviewed)
+
+MEDICATIONS: Atorvastatin 40mg qhs, Cilostazol 100mg BID, Levothyroxine 75mcg qam, Aspirin 81mg qday
+
+ALLERGIES: NKDA
+
+EXAM (telehealth, limited): Patient appears well, no acute distress. Speech clear, affect appropriate. No visible skin lesions on extremities per patient self exam via camera. Gait not assessed (telehealth limitation).
+
+ASSESSMENT/PLAN:
+1. Hyperlipidemia - stable, continue atorvastatin, will recheck lipid panel at next in-office visit.
+2. Peripheral artery disease - stable, continue cilostazol, reinforced importance of walking program and foot checks, denies rest pain or ulcers today.
+3. Hypothyroidism - stable on current dose, will check TSH prior to next visit to confirm euthyroid status.
+4. Health maintenance - reviewed age appropriate screening recs, discussed lung cancer screening guidelines in general terms as part of routine preventive care discussion, no further action needed given no smoking history.
+5. Medication refills sent to pharmacy of record as requested.
+
+Patient given instructions to call or message through portal with any worsening symptoms. Will follow up in office in 3 months, sooner if needed. Time spent on visit approx 20 minutes, mostly counseling and coordination of care.
+
+Thank you again for allowing us to participate in this patient's care, please do not hesitate to reach out with questions.
+
+Sincerely,
+Hannah Weiss, NP
+Family Medicine

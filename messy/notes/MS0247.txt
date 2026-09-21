@@ -1,0 +1,63 @@
+Vascular Surgery H&P
+Patient: Curtis Gonzales
+DOB: 5/21/1973 (age 52)
+Date of Service: 10/30/2025
+Provider: Michael Dunn, DO
+
+CHIEF COMPLAINT: Bilat leg pain w/ ambulation, eval for PAD
+
+HPI: Mr Gonzales is a 52 yo male referred by PCP for further eval of claudication sx. He reports crampy calf pain after walking approx 2 blocks, releived w rest, progressively worse over past 6 mo. No rest pain, no ulcers or non-healing wounds noted on exam today. Pt has hx of GERD, BPH, and asthma, all stable on current regimen. He denies chest pain, SOB at rest, palpitations. States he uses albuterol inhaler PRN for asthma flare, denies recent exacerbation. ROS otherwise negative except as above [inaudible] discussion re: diet and exercise tolerance, pt states he try to walk daily but limited by leg discomfort.
+
+PMH: GERD, BPH, asthma, peripheral artery disease (dx ~2 yrs ago per pt report)
+PSH: none significant
+Meds: omeprazole 20mg daily, tamsulosin 0.4mg qhs, albuterol MDI PRN, aspirin 81mg daily
+Allergies: NKDA
+
+SOCIAL HISTORY: Pt lives w spouse, works as an accountant, denies illicit drug use. Alcohol - occasional glass of wine on weekends. Smoking - pt states he tried a few cigarettes as a teenager but never smoked regularly, denies any current or past regular tobacco use. No vaping or e-cig use reported. Denies occupational exposures of note.
+
+FAMILY HISTORY: Father w/ CAD, mother w/ HTN, no known fam hx of PAD or aneurysmal disease.
+
+REVIEW OF SYSTEMS:
+Constitutional: no fever, chills, wt loss
+Cardiac: no chest pain, no orthopnea, no PND
+Resp: mild wheeze occasionally per asthma hx, no cough today
+GI: occasional reflux sx, controlled on PPI
+GU: nocturia x1, known BPH
+MSK: bilat calf pain w exertion as above
+Skin: no ulcers, no discoloration noted
+Neuro: no numbness or tingling reported
+
+PHYSICAL EXAM:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lb
+General: well appearing male, NAD
+CV: RRR, no murmurs/rubs/gallops
+Resp: mild expiratory wheeze bilat, otherwise clear
+Abd: soft, non-tender, non-distended
+Extremities: bilat lower ext w/ diminished pulses at DP and PT, cap refill <3 sec, no edema, no ulcerations, skin intact, hair loss noted on lower legs bilat
+Neuro: sensation intact bilat lower ext
+
+LABS/RESULTS:
+- CBC (10/28/2025): WBC 6.8, Hgb 14.9, Hct 44.1, Plt 235
+- BMP (10/28/2025): Na 139, K 4.2, Cl 101, CO2 25, BUN 16, Cr 1.0, Glu 98
+- Lipid panel (10/28/2025): Total chol 210, LDL 138, HDL 42, Trig 150
+- HbA1c (10/28/2025): 5.6%
+- ABI (10/29/2025): Right 0.72, Left 0.68 - consistent w mild-mod PAD bilat
+- Duplex ultrasound lower ext arterial (10/29/2025): mod stenosis SFA bilat, no acute occlusion
+
+ASSESSMENT/PLAN:
+52 yo male here for eval of PAD, established by ABI and duplex findings today, visit date 10/30/2025.
+
+1. Peripheral artery disease - mod bilat SFA stenosis on duplex, ABI consistent w mild-mod dz. Will start cilostazol 100mg BID if no contraindication, recheck LFTs prior. Counsel on supervised exercise program, discussed benefit of structured walking regimen for claudication. Continue ASA 81mg daily. Statin therapy to be initiated given lipid panel above - start atorvastatin 40mg qhs. Pt counseled extensively on cardiovascular risk factor modification including diet, exercise, and wt management.
+
+2. Tobacco hx - pt denies any regular smoking hx, reports only trying a few cigs as teenager, never smoked regularly since. No tobacco cessation counseling needed given lack of regular use, will document accordingly in chart.
+
+3. GERD - stable on omeprazole, no changes at this time, cont current dose.
+
+4. BPH - stable on tamsulosin, no acute urinary retention sx, cont current regimen.
+
+5. Asthma - stable, occasional mild wheeze on exam today, continue albuterol PRN, no oral steroids needed, follow up w PCP for routine asthma mgmt.
+
+Follow up in vascular surgery clinic in 3 months to reassess symptoms and repeat ABI if indicated, sooner if worsening claudication, rest pain, or non healing wounds develop. Pt verbalized understanding of plan and agreed w recommendations. All questions answered today, pt educated on red flag sx requiring urgent eval including rest pain, discoloration, or non-healing ulcers.
+
+Electronically signed: Michael Dunn, DO
+Date of service: 10/30/2025

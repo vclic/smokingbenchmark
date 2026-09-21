@@ -1,0 +1,51 @@
+PROGRESS NOTE
+Date of Service: 2024-08-27
+Patient: George Nelson   DOB: 8/7/1945   MRN: 45406509
+
+SUBJECTIVE:
+CC: Chronic disease f/u
+HPI: 79-year-old male w/ GERD, HTN, OA here for routine follow-up of chronic conditions. Doing okay overall. Asks about refills.
+
+PMH: HTN, OA, GERD, Former smoker
+PSH: Rotator cuff repair (2012); Left inguinal hernia repair (1988); Lumbar laminectomy (2004)
+Meds: omeprazole 20 mg daily; meloxicam 7.5 mg daily; losartan 50 mg daily
+Allergies: NKDA
+Social History:
+- Lives with wife and adult daughter.
+- Retired truck driver.
+- Drinks a glass of wine with dinner.
+FH: Noncontributory.
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies CP, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+OBJECTIVE:
+Vitals: BP: 152/89  HR: 89  RR: 20  Temp: 98.9 F  SpO2: 95% on RA  Wt: 198 lbs  BMI: 28.4
+Exam:
+  General: Well-developed, well-nourished, in no acute distress
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple
+  CV: RRR, S1S2 nl
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+Labs (8/18/2024): Cr 0.83, K 3.9
+
+ASSESSMENT/PLAN:
+1. HTN: Above goal today; recheck at next visit, reinforce low-sodium diet.
+2. Gastroesophageal reflux disease
+   - Symptoms controlled.
+3. Osteoarthritis
+   - Continue PRN analgesics; home exercises.
+4. Hx tobacco use: 88 pack-years, tob-free since 2021. Continue annual LDCT. Encouraged continued abstinence.
+
+Follow up in 6 months or sooner PRN.
+
+-- HW (NP)

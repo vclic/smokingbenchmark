@@ -1,0 +1,63 @@
+TELEHEALTH URGENT CARE VISIT NOTE
+Patient: Luis Lopez
+DOB: 05/22/1950 (age 76)
+Date of Service: 05/22/2026
+Provider: Rachel Goldberg, MD
+Encounter Type: Telehealth, Urgent Care
+
+CHIEF COMPLAINT: Cough
+
+HPI: Mr. Lopez is a 76-year-old male who presents via telehealth today, 05/22/2026, with complaint of cough for approx 5 days, described as dry, worse at nite, no fevers per patient although he states he 'felt warm' two nights ago, no chills, some mild chest tightness that he attributes to coughing fits, denies hemoptysis, denies shortness of breath at rest but notes he gets a little winded walking to the mailbox and back which he says is [inaudible] worse than baseline, denies sick contacts although he mentions his grandson had a cold last week and they were together for a birthday party, no recent travel, no know COVID exposure, he did try some over the counter cough syrup with mild relief he thinks but he's not sure if its helping or if its just running its course, he also reports some nasal congestion and post nasal drip which he thinks may be contributing, denies sore throat currently although he had one for a day or two at the onset of symptoms, no ear pain, no sinus pressure to speak of, he takes his home meds as prescribed and reports no missed doses, blood sugars have been 'okay' per his home glucometer readings which he did not have in front of him during the call.
+
+PAST MEDICAL HISTORY / PROBLEM LIST (with ICD-10):
+1. Type 2 diabetes mellitus without complications - E11.9 (ongoing, on metformin)
+2. Coronary artery disease, native vessel - I25.10 (s/p stent 2019, per old note - not verified this visit)
+3. Hyperlipidemia - E78.5
+4. Obstructive sleep apnea - G47.33 (uses CPAP nightly per pt report)
+5. Seasonal allergic rhinitis - J30.2 (outdated entry, patient states this resolved years ago)
+6. Tobacco use disorder, former - Z87.891
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Alcohol use: Occasional, 1-2 drinks/week
+Tobacco use (cigarettes): Former smoker. Smoked 1.5 packs per day for 14 years, then reduced to approximately 5 cigarettes per day for the next 7 years before quitting entirely. Patient currently denies any cigarette use.
+Tobacco use (other - cigars/pipe/smokeless): Not on file
+Vaping/e-cigarette use: Denies
+Illicit drug use: Denies
+Occupational exposures: 
+Living situation: Lives with spouse
+Exercise: Not on file
+
+MEDICATIONS: Metformin 1000mg BID, Atorvastatin 40mg qHS, Aspirin 81mg daily, Lisinopril 10mg daily (per problem list, dose not confirmed this visit)
+
+ALLERGIES: NKDA
+
+VITALS (self-reported/home): Temp 98.9F, HR 78, BP 132/78, SpO2 96% on room air per home pulse ox
+
+EXAM (limited, telehealth - visual only):
+General: Alert, no acute distress, coughing intermittently during call
+HEENT: No visible distress, voice slightly hoarse
+Resp: Unable to auscultate via telehealth; patient denies visible labored breathing, no accessory muscle use noted on camera
+Skin: No rash noted on visible areas
+
+RESULTS/LABS ON FILE:
+HbA1c 04/10/2026: 7.2%
+Lipid panel 03/15/2026: LDL 88 mg/dL, HDL 42 mg/dL, Triglycerides 150 mg/dL
+Basic metabolic panel 04/10/2026: Glucose 142 mg/dL, Creatinine 1.0 mg/dL, eGFR >60
+Chest x-ray: none on file this year
+
+ASSESSMENT:
+76-year-old male with hx of CAD, T2DM, HLD, OSA presenting with acute cough, likely viral upper respiratory infection versus post-nasal drip related cough, low suspicion for pneumonia given lack of fever/hypoxia, will monitor.
+
+PLAN:
+1. Supportive care - rest, fluids, OTC cough suppressant as needed, saline nasal spray for congestion
+2. Return to in-person clinic or ER if develops fever, worsening SOB, chest pain, or hemoptysis
+3. Continue home diabetes and cardiac meds as prescribed
+4. Given age and history, general lung health and screening options were discussed with patient; he will follow up with PCP for further discussion
+5. Recommend f/u with PCP in 1-2 weeks or sooner if symptoms worsen
+6. Pt verbalized understanding, agreeable with plan
+
+Rachel Goldberg, MD
+Electronically signed 05/22/2026
+
+***ADDENDUM (later same day, 05/22/2026, 4:47 PM)***
+Addendum by Dr. Goldberg: Spoke again briefly with patient this afternoon after he called back stating cough seemed slightly improved after using saline spray, no new symptoms, no fever, sats reportedly still fine on home pulse ox. Reassured patient, no changes to plan above. Will continue to monitor as outlined. No further action needed at this time.

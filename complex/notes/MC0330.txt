@@ -1,0 +1,35 @@
+NEW PATIENT VISIT - Establish Care
+PCP: Farah Siddiqui, MD (NP note)
+DOS: 02/15/2024
+Pt: Pamela Young, F, DOB 02/15/1955, age 69
+
+HPI: Pt presents to establish care, has not had regular PCP for [inaudible] time. Multiple chronic conditions per pt hx incl osteoporosis, obesity, afib, COPD, depression, asthma. C/o occasional SOB with exertion, denies chest pain today. Reports meds mostly filled at outside pharm, will need reconciliation. Tobacco hx reviewed in detail: pt smoked about a quarter pack (roughly 5 cigs/day) for 14 years, then increased to about half a pack (approx 10 cigs/day) for 19 years, then to about three-quarters of a pack (approx 15 cigs/day) for 14 years before quitting entirely. She is a former smoker now.
+
+ROS: otherwise negative except as noted. Denies fevers, chills, wt loss.
+
+Social Hx: Lives w/ daughter, retired. Quit smoking when her granddaughter was born; granddaughter now 1 y.o. Pt quit drinking alcohol in 2017, denies current use. No illicit drug use reported.
+
+Exam: Vitals stable, BP 132/78, HR 76 irreg (known afib), RR 16, SpO2 95% RA. Lungs w/ mild expiratory wheeze bilat, otherwise clear. Heart irregular rhythm, no murmurs appreciated. Ext no edema.
+
+Problem List (ICD-10):
+M81.0 Osteoporosis
+E66.9 Obesity
+I48.91 Atrial fibrillation
+J44.9 COPD
+F33.1 Depression, recurrent, moderate (outdated - pt reports improved, may need review)
+J45.909 Asthma, unspecified
+Z87.891 Personal hx of nicotine dependence
+
+Assessment/Plan:
+1. Osteoporosis - continue current regimen, will order DEXA if not done in past 2 yrs.
+2. Obesity - discuss nutrition referral.
+3. Afib - continue anticoagulation per prior records, obtain outside records, EKG today.
+4. COPD/Asthma - continue inhalers, reviewed technique, discussed pulm function testing.
+5. Depression - screen today, will reassess.
+6. Former smoker - reviewed tobacco history above with patient, counseled on general pulmonary health, no further tobacco-related workup ordered today.
+7. Alcohol - quit 2017, reinforce continued abstinence.
+
+Return to clinic in 4 weeks or sooner if symptoms worsen.
+
+---ADDENDUM (same day, later)---
+Addendum by Dr. Siddiqui: Spoke further w/ pt after visit, clarifying EKG results pending, cardiology referral will be placed. No other changes to plan above. Tobacco and alcohol history as documented above confirmed accurate with patient on follow-up phone call.

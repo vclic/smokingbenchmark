@@ -1,0 +1,43 @@
+General Medicine Clinic Clinic Note
+Date of Service: April 29, 2026
+Patient: Pamela Barnes   DOB: 8/19/1959   MRN: 57967577
+
+SUBJECTIVE:
+CC: Cough x 23 days
+HPI: Mrs. Barnes is a 66-year-old woman with a history of OA, COPD, and T2DM who presents for cough. Cough for 23 days, worse at night. She is a current smoker; she has smoked a quarter pack per day for 46 years. No fevers. No sick contacts. Denies hemoptysis or weight loss.
+
+PMH:
+- Osteoarthritis (dx 2008)
+- COPD, GOLD 2
+- T2DM without complication
+Meds: tiotropium 18 mcg inhaled daily; albuterol HFA 2 puffs q4-6h PRN; semaglutide 0.5 mg weekly; diclofenac 1% gel QID PRN; metformin 1000 mg BID
+Allergies: NKDA
+SH: Married, lives with husband. No alcohol. No IVDU. Independent in ADLs.
+FH: No family hx of colon cancer. Father - AAA repair.
+ROS: as per HPI, otherwise neg.
+
+O:
+Vitals: BP: 116/75  HR: 88  RR: 12  Temp: 97.8 F  SpO2: 89% on RA  Wt: 173 lbs  BMI: 28.8
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Hyperresonant, distant breath sounds, mild expiratory wheeze
+  Abd: Soft, nontender, nondistended
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Normal mood and affect
+
+ASSESSMENT/PLAN:
+1. Acute cough: Post-viral cough. Honey, fluids. If persists >8 wks, CXR.
+2. T2DM without complication
+   - Repeat A1c in 3 months. Annual eye exam reminder.
+3. COPD, GOLD 2: No exacerbations since last visit. Continue maintenance inhaler.
+4. Osteoarthritis
+   - Continue PRN analgesics; home exercises.
+
+Return in about 6 months (around 10/29/2026).
+
+Seen and discussed with resident Dr. Anderson. I personally saw and examined the patient and agree with the findings and plan as documented.
+Priya Raman, MD

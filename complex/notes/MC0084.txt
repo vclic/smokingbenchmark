@@ -1,0 +1,56 @@
+INTERNAL MEDICINE - PROGRESS NOTE
+Patient: Harold Long | DOB: 3/11/1966 | Age: 57 | Sex: M
+Date of Service: 07/26/2023
+Author: Hannah Weiss, NP
+
+=== NURSE INTAKE ===
+VS: BP 148/86, HR 78, RR 16, Temp 98.2F, SpO2 97% RA, Wt 214 lb
+CC: f/u HTN, DM2, PAD, CKD3
+
+PROBLEM LIST:
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus w/o complications
+- N18.3 CKD stage 3
+- I73.9 Peripheral artery disease
+- Z87.891 Personal hx of tobacco dependence (outdated entry - pt still using, see below)
+- E78.5 Hyperlipidemia (dz stable, last lipid panel 2022)
+
+HPI:
+Pt here for routine f/u. Reports intermittent leg cramping w/ ambulation, c/w known PAD, denies rest pain. BS running 130-160 fasting per home log. BP mildly elevated today, states he's been "forgetting" AM dose of lisinopril occasionally. Denies CP, SOB, edema. No new GI complaints. Appetite ok. Sleep fair.
+
+SOCIAL HISTORY:
+TOBACCO USE [EHR TEMPLATE - SMOKING HISTORY]:
+  Status: Current every day smoker
+  Hx: Smoked 1.5 ppd x 12 yrs; then cut back to approx 1/4 pack (~5 cigs/day) x 25 yrs, continues at this rate currently.
+  Interest in quitting: Yes, per pt report today.
+  Quit date set: 8/13/2023 (pt-selected target quit date, discussed w/ pt today).
+  Counseling provided: Yes - brief cessation counseling given, discussed NRT options, pt declined meds at this visit, wants to try w/ support group first.
+ETOH: occasional beer, ~2-3/wk
+Illicit drug use: denies
+
+ROS: Otherwise negative except as above.
+
+PHYSICAL EXAM:
+Gen: NAD, well-appearing male
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheeze
+Ext: Trace edema b/l, DP pulses diminished b/l (chronic, known PAD), no ulcers
+Abd: soft, NT/ND
+
+LABS (reviewed today):
+A1c 7.8% (prior 7.6%)
+Cr 1.6 (baseline ~1.5-1.7), eGFR 45
+K 4.4
+Lipid panel pending re-check
+
+ASSESSMENT/PLAN:
+1. HTN - not at goal today (148/86). Pt admits to missed doses. Reinforce adherence, continue lisinopril, consider pillbox/reminder app. RTC 4 wks for BP check.
+2. T2DM - A1c 7.8%, slightly worse than prior. Continue metformin, reinforce diet/exercise. D/w pt re: possible addition of GLP-1 agonist given PAD/CKD comorbidities - will discuss at next visit after labs finalized.
+3. CKD stage 3 - stable, eGFR 45 today. Avoid nephrotoxic agents, continue monitoring renal panel q3-6mo.
+4. PAD - claudication sx stable, continues to smoke despite counseling today, which remains a major modifiable risk factor for progression. Encouraged structured walking program. Vascular surgery f/u per prior referral, no new intervention planned.
+5. Tobacco use - as detailed in social hx above, longstanding tobacco use, currently smoking ~1/4 ppd. Discussed lung cancer risk given smoking history and age; screening options discussed conceptually with pt, no imaging ordered today. Quit date target set 8/13/2023, pt motivated. Cessation counseling provided, encouraged pt to consider nicotine patch or gum, will readdress at next visit.
+6. Hyperlipidemia - lipid panel to be rechecked, statin dose unchanged for now.
+
+Return to clinic: 4 weeks for BP recheck, sooner if sx worsen.
+
+Electronically signed: Hannah Weiss, NP, 07/26/2023

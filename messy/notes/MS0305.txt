@@ -1,0 +1,41 @@
+INTERNAL MEDICINE PRE-OP EVALUATION
+Patient: Deborah Hernandez, DOB 3/15/1970 (age 56)
+DOS: 05/30/2026
+Author: Quentin Hale, PA-C
+
+CC: Pre-op medical clearance for L total knee replacement, ortho referral (Dr. Yang).
+
+HPI: 56 yo F w/ h/o osteoporosis, depression, CKD stage 3, gout presenting for pre-op eval prior to elective TKA. Reports chronic L knee pain, failed conservative mgmt (PT, NSAIDs limited given CKD). No CP, no SOB, no fevers/chills. Denies recent falls. Appetite stable, sleep fair on current antidepressant regimen. No new gout flares x 3 mo.
+
+PMH: Osteoporosis (on bisphosphonate), MDD, CKD stage 3 (baseline Cr ~1.6), gout (on allopurinol).
+PSH: C-section x1, appendectomy.
+
+MEDS: Alendronate 70mg PO qWeek, Calcium/Vit D 600mg-800IU BID, Sertraline 100mg qday, Allopurinol 300mg qday, Lisinopril 10mg qday, Colchicine 0.6mg PRN flare, Acetaminophen PRN pain, Docusate PRN.
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Lives w/ husband, retired schoolteacher. Denies alcohol use, denies illicit drug use. Pt states she has never smoked cigarettes, not even socially - denies any tobacco use hx. Notably, pt's father was a heavy smoker who died of lung cancer; pt expresses some anxiety re: lung health given this FHx but again confirms she herself has never used tobacco products. Exercise: limited 2/2 knee pain, previously walked regularly.
+
+FAMILY HISTORY: Father - heavy smoker, deceased, lung cancer. Mother - HTN, osteoporosis. No known FHx of CKD.
+
+ROS: Constitutional - no fever, chills, wt loss. HEENT - neg. CV - no CP/palpitations. Resp - no cough, no dyspnea, no hemoptysis. GI - no N/V/D, no abd pain. GU - no dysuria. MSK - L knee pain as above, no other joint c/o currently, no active gout flare. Neuro - no focal deficits. Psych - depression stable on tx, denies SI/HI. Skin - no rash. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals: BP 128/76, HR 74, RR 16, T 98.2F, SpO2 98% RA, BMI 27.
+Gen: NAD, well-appearing.
+CV: RRR, no murmurs.
+Resp: CTAB, no wheezes/crackles.
+Abd: soft, NT/ND.
+Ext: L knee w/ crepitus, decreased ROM, no effusion, no erythema. No edema.
+Skin: intact.
+Psych: mood/affect appropriate.
+
+LABS: CBC wnl, BMP - Cr 1.6, eGFR ~38, K 4.3. Uric acid 6.8. EKG: NSR, no acute changes.
+
+ASSESSMENT/PLAN:
+1. Pre-op clearance for TKA - medically stable for surgery, low periop risk given RCRI. Cardiac clearance not indicated further given no cardiac hx.
+2. Osteoporosis - continue alendronate, hold day of surgery per anesthesia protocol.
+3. Depression - stable, continue sertraline.
+4. CKD stage 3 - avoid nephrotoxic agents periop, renal-dose meds as needed, hold ACE-I periop per anesthesia.
+5. Gout - continue allopurinol, colchicine PRN, avoid flare triggers periop.
+6. Tobacco/lung health - pt is a never-smoker (age 56, DOS 5/30/2026); no counseling re: cessation needed. Given strong FHx of lung cancer (father), lung cancer screening was briefly discussed at pt's request, though not further addressed in detail today.
+Follow up post-op per ortho, return to clinic PRN.

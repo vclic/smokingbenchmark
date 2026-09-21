@@ -1,0 +1,91 @@
+Pulmonology Clinic Note
+
+Patient: ROSS, Charles    MRN: 74329842
+DOB: 05/23/1973    Age: 52 y.o.    Sex: Male
+Date of Service: 08/25/2025    Provider: Nadia Haddad, MD
+
+Chief Complaint
+Patient presents with
+• f/u COPD
+
+Subjective:
+Charles Ross is a 52 y.o. male who presents for follow-up of COPD.
+Gets short of breath with one flight of stairs. 1 exacerbation in the past year, most recently in May treated with prednisone and azithromycin. Uses rescue albuterol 2-3 times a week. Cough productive of white sputum.
+
+Past Medical History:
+Diagnosis	Date
+• History of CVA	2016
+• COPD, GOLD 2
+• Mixed hyperlipidemia
+• Obesity
+• Coronary artery disease	2013
+• Type 2 diabetes	2008
+• Osteoarthritis of knees
+• HTN
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• clopidogrel 75 mg daily
+• nitroglycerin 0.4 mg SL PRN
+• metoprolol succinate 25 mg daily
+• amlodipine 5 mg daily
+• meloxicam 7.5 mg daily
+• tiotropium 18 mcg inhaled daily
+• aspirin 81 mg daily
+• rosuvastatin 20 mg daily
+• metformin 500 mg BID
+• albuterol HFA 2 puffs q4-6h PRN
+• ezetimibe 10 mg daily
+• losartan 50 mg daily
+
+Allergies
+• Penicillin (rash)
+
+Social History
+Tobacco Use
+• Smoking status: Current Every Day Smoker
+    Packs/day: 1.50
+    Years: 27.00
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+Social History Narrative
+  Widowed; lives with son.
+  Prior quit attempt 2010 (lasted ~4 yr), relapsed.
+  Social drinker.
+  Denies illicit drugs.
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 128/83 (BP Location: Right arm, Patient Position: Sitting) | Pulse 74 | Temp 97.8 °F (Oral) | Resp 14 | Ht 6' 0" | Wt 265 lb | SpO2 95% | BMI 35.89 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Decreased breath sounds bilaterally, prolonged expiratory phase, scattered end-expiratory wheezes
+Abdominal: Obese, soft, nontender
+Extremities: Warm, well perfused, no edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (2025-08-22): A1c 7.1%, LDL 128, Cr 0.73, K 3.8
+
+Assessment & Plan
+1. COPD
+   Stable. Continue maintenance inhaler; rescue albuterol PRN. Pneumococcal and RSV vaccines reviewed.
+2. Cigarette smoker
+   Discussed cessaton (4 min). Not ready to quit at this time. Rx bupropion SR 150 mg daily x3d then BID. Meets USPSTF criteria for LCS - LDCT ordered.
+
+RTC 3 months.
+
+Electronically signed by Nadia Haddad, MD on 08/25/2025

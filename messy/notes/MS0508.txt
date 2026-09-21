@@ -1,0 +1,53 @@
+TELEHEALTH VISIT NOTE
+Pulmonology - Shared Decision Making Discussion
+Patient: Frank Perez | DOB: 01/29/1964 | Age: 62 | Sex: M
+Date of Service: 05/24/2026
+Provider: Elena Markovic, MD
+Modality: Video visit, pt consented to telehealth, verified ID and location per protocol.
+
+CC: Referral from PCP for lung cancer screening shared decision-making discussion.
+
+HPI:
+Frank Perez is a 62 y/o M with hx of HTN, HLD, T2DM, osteoporosis, and CKD stage 3, seen today 05/24/2026 via telehealth for discussion re: lung cancer screening. Pt reports feeling generally well, denies cough, hemoptysis, unintentional weight loss, chest pain, or dyspnea on exertion beyond baseline. Denies fevers/chills/night sweats. Active, walks ~2 miles daily w/o SOB. No hx of pneumonia in past 12 mo. Pt was referred by PCP Dr. Nguyen for general discussion of screening topics; benefits/harms of screening in general terms were reviewed including false positives, incidental findings, and radiation exposure. Discussion today was purely educational in nature.
+
+PMH: HTN, HLD, T2DM, osteoporosis, CKD stage 3 (baseline Cr ~1.6).
+PSH: none significant.
+Meds: metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 40mg qhs, alendronate 70mg weekly.
+Allergies: NKDA.
+
+Social History:
+Smoking status: Patient has never smoked cigarettes - lifelong never-smoker, confirmed with pt directly during visit. No hx of vaping or other tobacco products reported. Denies illicit drug use. Reports occasional ETOH, ~1-2 glasses wine/wk. Retired accountant, lives w/ spouse. No occupational exposure to asbestos or radon reported per pt.
+
+Family Hx: Father w/ CAD, mother w/ T2DM, no known fam hx lung ca.
+
+ROS: Constitutional - neg wt loss/fever. Resp - neg cough/wheeze/hemoptysis. CV - neg CP/palpitations. GI - neg. GU - neg. MSK - c/o mild low back pain, chronic, unchanged. Neuro - neg. Psych - neg.
+
+Vitals (per home BP cuff/pulse ox reported by pt, telehealth visit):
+BP 128/78, HR 74, SpO2 97% RA, Wt 198 lbs (unchanged from last visit).
+
+Labs/Results reviewed today:
+- CMP 05/10/2026: Na 140, K 4.3, Cl 102, CO2 24, BUN 22, Cr 1.6 (eGFR 48), Glucose 132.
+- HbA1c 04/15/2026: 7.2%.
+- Lipid panel 04/15/2026: TC 178, LDL 96, HDL 44, TG 190.
+- Vitamin D 03/2026: 28 ng/mL (low-normal).
+- DEXA scan 01/2026: T-score -2.6 lumbar spine, osteoporosis confirmed, on alendronate.
+- CXR outside facility 2022: reported unremarkable, no report on file for direct review, pt reports no abnormal findings communicated to him at the time.
+
+Assessment/Plan:
+62 y/o M w/ HTN, HLD, T2DM, osteoporosis, CKD stage 3, referred for shared decision-making discussion regarding lung cancer screening.
+1. Lung cancer screening SDM: Given patient's never-smoking status, discussed general framework of lung cancer risk factors and screening topics with pt in educational terms only. Pt educated on general lung health and reportable symptoms (persistent cough, hemoptysis, unexplained wt loss), advised to follow up promptly if these occur. Discussion was limited to general education; topic may be revisited at future visits as appropriate.
+2. HTN: well controlled on lisinopril, continue current regimen, recheck BP at PCP f/u.
+3. T2DM: HbA1c 7.2%, reasonable control, continue metformin, defer further titration to PCP/endo.
+4. HLD: LDL at goal on atorvastatin, continue.
+5. CKD stage 3: stable Cr, avoid nephrotoxic agents, monitor labs q6mo per nephro/PCP.
+6. Osteoporosis: continue alendronate, encourage wt-bearing exercise, vit D supplementation d/c'd per endo last visit- confirm w/ PCP.
+F/u: Return to pulm clinic PRN or if new resp sx develop; routine f/u w/ PCP for chronic disease mgmt.
+
+Time spent: 22 min telehealth visit, >50% spent in counseling/coordination of care re: general screening education and chronic disease review.
+
+Elena Markovic, MD
+Pulmonology
+
+---
+ADDENDUM (later same day, 05/24/2026, 16:40):
+Pt called back after visit w/ question regarding whether spouse (smoker) should also be referred for a similar discussion - advised to have spouse establish care w/ PCP or pulm for separate individualized eval. No changes to today's assessment/plan for Mr. Perez. Reiterated to pt that he is a lifelong never-smoker and that today's visit was purely educational in nature. Addendum added by Elena Markovic, MD.

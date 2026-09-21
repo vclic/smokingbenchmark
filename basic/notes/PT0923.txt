@@ -1,0 +1,64 @@
+General Medicine Clinic Office Visit
+
+Patient: MOORE, Denise    MRN: 14009767
+DOB: 02/12/1969    Age: 57 y.o.    Sex: Female
+Date of Service: 03/02/2026    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Chronic disease f/u
+
+Subjective:
+Denise Moore is a 57 y.o. female who presents for routine follow-up of chronic conditions.
+No new concerns. Taking all meds as prescribed.
+
+Past Medical History:
+Diagnosis	Date
+• Heart failure with reduced ejection fraction
+• GERD
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy (2022)
+• Carpal tunnel release (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• furosemide 40 mg daily
+• sacubitril-valsartan 49/51 mg BID
+• famotidine 20 mg BID
+• carvedilol 12.5 mg BID
+
+Allergies
+• NKDA
+
+
+Family History
+No family hx of colon cancer.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 128/82 (BP Location: Left arm, Patient Position: Sitting) | Pulse 66 | Temp 98.7 °F (Oral) | Resp 18 | Ht 5' 4" | Wt 170 lb | SpO2 99% | BMI 29.20 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: Unremarkable
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, nontender, nondistended
+Extremities: Trace bilateral ankle edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. GERD
+   Trial PPI step-down.
+2. Heart failure with reduced ejection fraction
+   Stable; continue GDMT.
+
+Follow up in 1 month or sooner PRN.
+
+Electronically signed by Steven Park, MD on 03/02/2026

@@ -1,0 +1,77 @@
+Adult Medicine Clinic Note
+
+Patient: PERRY, Robert    MRN: 99938024
+DOB: 01/15/1960    Age: 64 y.o.    Sex: Male
+Date of Service: 01/29/2024    Provider: Anita Patel, MD
+
+Chief Complaint
+Patient presents with
+• Low back pain
+
+Subjective:
+Robert Perry is a 64 y.o. male who presents for low back pain.
+Low back pain for 2 months, worse in the morning. No numbness or weakness. Tylenol helps somewhat.
+
+Past Medical History:
+Diagnosis	Date
+• Mixed hyperlipidemia
+• Gout
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Left inguinal hernia repair (2008)
+
+Current Outpatient Medicatons on File Prior to Visit
+Medication	Sig
+• rosuvastatin 10 mg daily
+• multivitamin daily
+• allopurinol 100 mg daily
+• colchicine 0.6 mg PRN flare
+
+Allergies
+• NKDA
+
+Social History
+Tobacco Use
+• Smoking status: Not on file
+• Smokeless tobacco: Not on file
+
+Family History
+Brother - T2DM.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denys nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 113/81 (BP Location: Left arm, Patient Position: Sitting) | Pulse 80 | Temp 98.2 °F (Oral) | Resp 16 | Ht 6' 1" | Wt 175 lb | SpO2 97% | BMI 23.15 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Soft, NT/ND, +BS
+Extremities: Warm, well perfused, no edema
+MSK: Lumbar paraspinal tenderness, SLR negative bilat, strength 5/5 LE
+Neuro: Nonfocal
+Psych: Appropriate
+
+Labs (12/23/2023): LDL 130, Cr 1.04, K 4.6, Hgb 15.0
+
+Assessment & Plan
+1. Low back pain
+   Mechanical LBP without red flags. PT, heat, NSAIDs short course.
+2. Mixed hyperlipidemia
+   LDL at goal on last check; continue.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Anita Patel, MD on 01/29/2024

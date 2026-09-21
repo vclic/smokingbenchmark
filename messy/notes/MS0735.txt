@@ -1,0 +1,63 @@
+PULMONOLOGY RESIDENT NOTE (with attending attestation)
+Date of Service: 07/21/2023
+Author: Owen Fitzgerald, MD (PGY-3, Pulm/Crit Care)
+Attending: to attest below
+
+Patient: Darnell Kim, M, DOB 07/21/1963 (age 60 today)
+Reason for visit: F/u incidental lung nodule found on CT abd/pelvis 04/2023, ordered for unrelated flank pain w/u.
+
+HPI:
+Mr. Kim is a 60 yo M w/ hx hypothyroidism, BPH, obesity, referred for eval of a 7mm RUL nodule found incidentally. He reports no cough, no hemoptysis, no wt loss, no fevers/night sweats. He states, "I feel fine, I just came bc my PCP told me to." Denies dyspnea at rest, occasional exertional SOB which he attributes to his weight and "being outta shape." No prior chest imaging for comparison identified in system.
+
+He was counseled extensively at last visit regarding tobacco cessation; when asked today about current use he stated, "I've tried the patches before, they didn't really do much for me." He continues to smoke despite repeated counseling, and reports no interest in pharmacotherapy at this time though he is open to revisiting the topic.
+
+ROS: Otherwise negative except as above. + occasional nocturia (known BPH), no hematuria, no dysuria. + fatigue, attributed to hypothyroidism, on levothyroxine.
+
+PMH: Hypothyroidism, BPH, obesity (BMI 33)
+PSH: none reported
+Meds: Levothyroxine 88mcg daily, tamsulosin 0.4mg qhs
+Allergies: NKDA
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Amount: 1-1.5 packs per day
+Years smoked: 36 years
+Quit date: N/A - still smoking
+Smokeless tobacco: Not on file
+Alcohol use: occasional, ~2-3 drinks/week per pt report
+Drug use: denies
+Occupation: warehouse supervisor
+Living situation: 
+Exercise: 
+
+Family Hx: Father - MI at 68; Mother - hypothyroidism
+
+Vitals: BP 134/82, HR 78, RR 16, SpO2 97% RA, Temp 98.2F, Wt 224 lb, Ht 5'9"
+
+Physical Exam:
+Gen: well-appearing, NAD, obese habitus
+HEENT: unremarkable
+Neck: no LAD, no thyromegaly
+CV: RRR, no m/r/g
+Resp: CTAB, no wheezes/rales/rhonchi, no clubbing
+Abd: obese, soft, NT/ND
+Ext: no edema, no clubbing/cyanosis
+
+Assessment/Plan:
+60 yo M, longtime smoker, w/ incidental 7mm RUL pulmonary nodule.
+1. Pulmonary nodule - Fleischner criteria reviewed; low-risk but pt has significant smoking hx so will get f/u low-dose chest CT per Fleischner guidelines timeline (not ordered today, will schedule via imaging dept). Discussed lung cancer screening programs in general terms as part of ongoing preventive care discussion; no imaging ordered at this visit for that purpose.
+2. Tobacco use disorder - continues to smoke 1-1.5 ppd x36 yrs despite counseling at multiple visits. Re-counseled today re: cessation, discussed nicotine patch/gum, varenicline as options; pt declined pharmacotherapy today, will readdress at next visit. Encouraged quitline referral, pt agreeable to receiving info.
+3. Hypothyroidism - stable, continue levothyroxine, recheck TSH at PCP.
+4. BPH - stable on tamsulosin, no new urinary sx.
+5. Obesity - discussed diet/exercise, referred to nutrition.
+
+F/u in 6-12 months per nodule surveillance plan, sooner if new symptoms.
+
+---
+ATTENDING ATTESTATION:
+I have seen and examined the patient with Dr. Fitzgerald and agree with the above history, exam, and plan as documented. Discussed tobacco cessation counseling and nodule surveillance plan directly with patient. - Dr. S. Whitfield, Attending Pulmonology, 07/21/2023.
+
+---
+ADDENDUM (later same day, 07/21/2023, 16:42) - Owen Fitzgerald, MD:
+Pt called back to clinic nursing line this afternoon asking for written info on quitline resources discussed during visit; staff provided handout and quitline number per protocol. No change to plan above.

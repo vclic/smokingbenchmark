@@ -1,0 +1,69 @@
+TELEHEALTH VISIT NOTE
+Patient: Rita O'Brien (F)
+DOB: 06/03/1972 | Age: 54
+Date of Service: 06/11/2026
+Provider: Teresa Alvarez, NP
+Visit Type: New Patient - Establish Care, Primary Care (video visit)
+
+CHIEF COMPLAINT: Establish care, review of chronic conditions.
+
+HPI:
+Ms. O'Brien is a 54-year-old female presenting via telehealth to establish primary care after relocating to the area. She reports history of obesity, hypothyroidism, osteoporosis, depression, and CKD stage 3, previously managed by outside provider (records requested, not yet received). She states, "I just want someone local who can keep track of everything since I moved." Denies acute complaints today. Reports mood stable on current antidepressant, no recent falls or fractures. Denies chest pain, SOB, dysuria, hematuria. Sleep fragmented at times, appetite normal. She mentions, "I've never smoked a day in my life, so that's one less thing to worry about." No recent hospitalizations. Reports occasional fatigue which she attributes to hypothyroidism, states levothyroxine dose may need adjustment - last labs done ~8 months ago per patient report.
+
+PMH: Obesity, hypothyroidism, osteoporosis, depression, CKD stage 3 (baseline eGFR reportedly ~45-50 per patient, records pending).
+
+PSH: Denies prior surgeries.
+
+MEDICATIONS (per patient report, to be verified):
+- Levothyroxine 75mcg daily
+- Sertraline 100mg daily
+- Calcium/Vitamin D supplement
+- Alendronate weekly
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Mother - osteoporosis, hip fracture. Father - hypertension. No known family hx of lung disease reported.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Never smoker - lifelong non-smoker, confirmed by patient.
+Smokeless tobacco: Not on file
+E-cigarette/vaping: Denies
+Alcohol use: Occasional, 1-2 glasses wine/week
+Illicit drug use: Denies
+Occupation: Not on file
+Living situation: Lives with spouse
+Exercise: Walks 20 min most days per patient report
+Diet: Reports trying to reduce sodium intake
+
+ROS: As per HPI. Otherwise negative in 10-system review except as noted.
+
+VITALS (via home BP cuff report/telehealth):
+BP: 128/82 (patient-reported home reading)
+HR: 78
+Wt: 198 lb (self-reported)
+Ht: 5'4"
+BMI: calculated 34.0
+
+PHYSICAL EXAM (limited via telehealth):
+General: Alert, cooperative, no acute distress, appropriate affect.
+Skin: No visible lesions on camera.
+Neuro: Speech clear, no focal deficits noted on limited exam.
+(Formal cardiopulmonary/abdominal exam deferred - telehealth limitation, will complete at in-office follow-up.)
+
+ASSESSMENT/PLAN:
+1. Obesity - BMI 34. Discussed lifestyle modification, dietary counseling referral offered. Will discuss weight management options at next visit.
+2. Hypothyroidism - Records pending from prior provider. Order TSH, free T4 today. Continue current levothyroxine dose pending labs.
+3. Osteoporosis - Continue alendronate and calcium/vitamin D. Will obtain DEXA scan results from prior provider; if unavailable, repeat DEXA to be scheduled.
+4. Depression - Stable on sertraline per patient report. PHQ-9 administered today, score reviewed, mild symptoms. Continue current regimen, follow up in 4-6 weeks or sooner if worsening.
+5. CKD stage 3 - Baseline labs pending from outside records. Order BMP, urinalysis with microalbumin today. Counseled on renal-friendly diet, avoid NSAIDs.
+6. Health maintenance - Reviewed age-appropriate preventive screening needs including mammogram and colonoscopy, to be scheduled. General counseling on healthy lifestyle provided.
+7. Social history - Reviewed and documented above; no tobacco use history, occasional alcohol use noted, no illicit drug use.
+
+Labs ordered: TSH, free T4, BMP, urinalysis with microalbumin, lipid panel.
+
+Follow-up: In-office visit recommended within 4 weeks to complete physical exam and review labs. Patient agreeable to plan. Will call with results.
+
+Time spent: 22 minutes, telehealth visit, primarily counseling/coordination of care given complexity of chronic conditions.
+
+Electronically signed: Teresa Alvarez, NP
+Date/Time of note: 06/11/2026

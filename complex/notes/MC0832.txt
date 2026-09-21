@@ -1,0 +1,75 @@
+CLINIC NOTE - PULMONOLOGY
+Date of Service: 10/30/2023
+Patient: Kathleen Jackson
+DOB: 10/30/1948 (Age 75)
+Author: Isaac Moreno, PA-C
+
+=== NURSE INTAKE ===
+VS: BP 138/82, HR 88, RR 20, SpO2 91% RA, Temp 97.8F, Wt 172 lb
+CC: F/u after ED visit for COPD exacerbation.
+Pt ambulatory, mild dyspnea noted walking to exam room. Uses home O2 PRN per pt report.
+Allergies: NKDA
+
+=== HPI (per Isaac Moreno, PA-C) ===
+75 yo F w/ hx HFrEF, OSA, COPD who presented to ED ~1 wk ago w/ worsening SOB, increased sputum production, and wheeze. Tx'd w/ nebs, IV steroids, abx, dc'd home w/ prednisone taper and augmented inhaler regimen. Today for f/u. Pt reports mild improvement in dyspnea, still c/o exertional SOB and occasional cough productive of white-yellow sputum. Denies fever, chest pain, hemoptysis. Sleeps w/ CPAP, reports good compliance.
+
+[COPY-FORWARD FROM PRIOR VISIT NOTE DATED 04/12/2022 - retained in chart, not all current]:
+"Pt is a 73 yo F here for routine COPD/HF f/u. Denies chest pain, orthopnea improved on current diuretic dose. Pedal edema trace. Lungs w/ scattered exp wheezes, no crackles. Continues home O2 2L NC w/ exertion. Pt reports adherence to CPAP most nights. Cardiac exam RRR no m/r/g. Abd soft NT/ND. Ext no edema. A/P: 1) COPD - stable, continue current inhalers, f/u 6 mo. 2) HFrEF - stable, continue GDMT, recheck BMP. 3) OSA - continue CPAP. Return to clinic in 6 months or sooner if worsening symptoms." [end copy-forward block]
+
+=== SOCIAL HISTORY ===
+Tobacco: Pt reports she previously quit smoking in 2013 but relapsed in 2016. She currently continues to smoke despite repeated counseling on cessation at every visit. Denies vaping. Marijuana: pt reports smoking marijuana a few times a month, uses for appetite/relaxation, denies other recreational drug use. EtOH: occasional glass of wine. Lives alone, daughter checks in daily. Former occupation: retail clerk.
+
+=== REVIEW OF SYSTEMS ===
+Constitutional: denies fever, chills, unintentional weight loss.
+HEENT: denies vision changes, denies sore throat.
+CV: denies chest pain, denies palpitations, +orthopnea improved from baseline.
+Resp: +dyspnea on exertion, +productive cough, denies hemoptysis.
+GI: denies nausea, vomiting, diarrhea, constipation.
+GU: denies dysuria, denies hematuria.
+MSK: denies joint pain, denies swelling.
+Skin: denies rash, denies lesions.
+Neuro: denies HA, denies dizziness, denies syncope.
+Psych: denies depression, denies anxiety.
+All other systems reviewed and negative except as noted in HPI.
+
+=== PHYSICAL EXAM ===
+General: Elderly female, NAD, mild resp distress at rest.
+HEENT: NC/AT, PERRLA, oropharynx clear.
+Neck: no JVD, no LAD, no thyromegaly.
+CV: RRR, S1/S2 nl, no m/r/g appreciated, trace bilateral pedal edema.
+Resp: Decreased breath sounds bilat bases, scattered expiratory wheezes, no crackles, mild use of accessory muscles.
+Abd: soft, NT/ND, +BS, no organomegaly.
+Ext: no cyanosis, trace edema as above.
+Skin: warm, dry, intact.
+Neuro: A&Ox3, CN II-XII grossly intact, no focal deficits.
+Psych: mood/affect appropriate.
+
+=== MEDICATIONS ===
+1. Furosemide 40 mg PO daily
+2. Carvedilol 12.5 mg PO BID
+3. Lisinopril 10 mg PO daily
+4. Spironolactone 25 mg PO daily
+5. Tiotropium bromide inhaler 1 puff daily
+6. Fluticasone/salmeterol 250/50 1 puff BID
+7. Albuterol HFA PRN
+8. Prednisone taper (day 4 of 10, per ED discharge)
+9. Azithromycin 250 mg PO daily (day 3 of 5)
+10. Atorvastatin 40 mg PO qHS
+11. Aspirin 81 mg PO daily
+12. Vitamin D3 1000 IU PO daily
+
+=== LABS/STUDIES ===
+BNP mildly elevated at 410 (baseline ~350). BMP wnl, K 4.2, Cr 1.0. CXR from ED: hyperinflation, no acute infiltrate. Repeat CXR not indicated today.
+
+=== ASSESSMENT/PLAN ===
+75 yo F w/ HFrEF, OSA, COPD, recent exacerbation, now s/p ED tx, f/u today with improving but persistent symptoms.
+
+1) COPD exacerbation, recently treated - Extensive tobacco use history reviewed: patient reports smoking 2 packs per day for 26 years, followed by approximately 15 cigarettes per day for the next 35 years up to the present. Continue current inhaler regimen (tiotropium + fluticasone/salmeterol), complete prednisone taper and azithromycin course. Smoking cessation counseling provided again today; pt continues to smoke despite counseling and expresses ambivalence about quitting at this time. Discussed nicotine replacement options and cessation resources; pt will consider. Lung cancer screening discussed in general terms as part of preventive care conversation.
+2) HFrEF - euvolemic-appearing today, trace edema, BNP mildly up from baseline, continue current GDMT, recheck BMP/BNP in 2 wks.
+3) OSA - continue CPAP, reports good adherence, no changes at this time.
+4) Health maintenance - influenza and pneumococcal vaccination status reviewed and up to date per chart.
+
+F/u in 4 wks or sooner if worsening dyspnea, fever, or increased sputum production. Pt educated on red flag symptoms requiring ED eval.
+
+=== ADDENDUM (later same day, 10/30/2023, added by Isaac Moreno, PA-C) ===
+Addendum: Spoke w/ pt by phone re: pharmacy question regarding azithromycin refill - clarified dosing, pt understands to complete current course as prescribed, no further refill needed. No other changes to plan above. Pt verbalized understanding of smoking cessation resources discussed earlier today and will call clinic if interested in follow-up referral to cessation program.

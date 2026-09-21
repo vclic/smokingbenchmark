@@ -1,0 +1,61 @@
+INTERNAL MEDICINE RESIDENT NOTE
+DOS: 05/22/2024
+Author: Farah Siddiqui, MD (resident); attending attestation below
+Patient: Frank Perez, M, DOB 05/22/1963 (age 61)
+
+CC: f/u HTN, DM2
+
+HPI: Pt is a 61 yo male presenting for routine f/u of HTN and T2DM. Reports overall doing ok, home BP readings 130-145/80s, occasional AM headaches. Denies chest pain, orthopnea, PND. Diet compliance fair. Continues glipizide and lisinopril per med list, no missed doses noted. c/o mild knee pain (OA) worse w/ stairs, using tylenol PRN w/ some relief. No new GI sx, GERD controlled on omeprazole. BPH sx stable, nocturia x1.
+
+SOCIAL HISTORY / TOBACCO BLOCK (EHR templated):
+Tobacco use status: FORMER SMOKER
+Smoking duration: 36 years
+Quit date: 01/2021
+Counseling: Congratulated on cessation, encouraged to remain smoke-free, discussed importance of continued abstinence given COPD and PAD dx.
+Alcohol: Pt reports he quit drinking alcohol in 2015, denies current use.
+Illicit drug use: denies
+
+ROS: otherwise negative except as above
+
+PMH/Problem List (dx codes, some outdated - not all reconciled today):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus w/o complications
+- J44.9 COPD, unspecified
+- I73.9 Peripheral artery disease
+- K21.9 GERD
+- M17.0 Osteoarthritis, bilateral knee (old note - now unilateral R>L per pt)
+- N40.0 BPH w/o LUTS
+- Z87.891 Personal hx of nicotine dependence
+
+Meds: lisinopril 20mg daily, glipizide 5mg BID, omeprazole 20mg daily, tiotropium inhaler daily, cilostazol 100mg BID, tamsulosin 0.4mg qhs, tylenol PRN
+
+Allergies: NKDA
+
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.4F, Wt 202 lb, BMI 29.8
+
+Exam: Gen - well appearing NAD. CV - RRR no m/r/g. Lungs - mild expiratory wheeze bilat bases, no crackles. Abd - soft NT/ND. Ext - no edema, PT/DP pulses 1+ bilat, no ulcers. MSK - R knee w/ crepitus, mild effusion, ROM intact. Skin - no lesions.
+
+Labs (recent):
+- A1c 05/10/2024: 7.4%
+- CMP 05/10/2024: Na 139, K 4.3, Cr 1.0, eGFR >60, glucose 158
+- Lipid panel 03/15/2024: LDL 96, HDL 42, TG 150
+- Urine microalbumin 03/15/2024: 22 mcg/mg (mildly elevated)
+
+Assessment/Plan:
+1. HTN - reasonably controlled, cont lisinopril, recheck BP next visit, reinforce low-Na diet
+2. T2DM - A1c 7.4 slightly above goal, cont glipizide, reinforce diet/exercise, recheck A1c in 3 months
+3. COPD - stable, continue tiotropium, no exacerbations since last visit, discussed pulm function testing if sx worsen
+4. PAD - stable on cilostazol, cont walking program, f/u vascular surgery as scheduled
+5. GERD - controlled on PPI, cont current dose
+6. OA knee - recommend PT referral, cont tylenol PRN, consider imaging if worsens
+7. BPH - stable on tamsulosin, no acute urinary retention
+8. Tobacco - former smoker, quit 01/2021, continued encouragement given
+9. Alcohol - pt quit drinking in 2015, no current concerns
+
+Health maintenance: lung cancer screening discussed given smoking hx, pt to consider and follow up; colonoscopy due 2025; influenza vaccine given today; pneumococcal vaccine up to date per record.
+
+f/u 3 months or sooner if concerns
+
+---
+ATTESTATION: I have seen and examined the pt with Dr. Siddiqui, discussed plan of care, agree w/ assessment and plan as above.
+- Attending MD

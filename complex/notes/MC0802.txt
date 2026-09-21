@@ -1,0 +1,57 @@
+NURSE INTAKE
+Pt: Frank Patel M DOB 3/1/1962 Age 63
+DOS: 12/07/2025
+Visit type: ED-to-clinic f/u post COPD exacerbation, Pulmonology
+
+Vitals: BP 138/86 HR 88 RR 20 Temp 98.2F SpO2 93% RA Wt 231lb Ht 5'9
+CC: f/u after ED visit for COPD flare last wk, ongoing SOB and cough
+
+HPI per pt: c/o persistent dyspnea on exertion, occasional wheeze, cough prod white sputum. States he was in ED ~5 days ago tx with nebs/steroids/abx, sent home w prednisone taper and albuterol MDI. Denies fever chills chest pain. Sleeping ok, appetite fair. Reports compliance w meds mostly, missed few doses steroid due to GI upset (hx GERD).
+
+Soc hx: lives w wife, retired machinist, denies alcohol excess, denies illicit drug use. Tobacco: pt states he is a lifelong non-smoker, never used tobacco products. No vaping history reported.
+
+Allergies: NKDA
+Meds: lisinopril, omeprazole, albuterol MDI prn, prednisone taper (day 4 of 5), atorvastatin
+
+ROS: + dyspnea, + cough, denies hemoptysis, denies chest pain, denies edema, denies dysuria, GI: occasional reflux sx improved on PPI
+
+---
+
+PHYSICIAN PROGRESS NOTE - Kevin Osei, MD
+DOS: 12/07/2025
+
+Pt is 63 yo male here for pulm f/u after recent COPD exac requiring ED tx. Reviewed nursing intake, confirms hx of lifelong non-smoker status - no cigarette, cigar, or pipe use ever per pt and spouse corroborates. This is relevant given absence of typical smoking-related COPD risk factor; consider alt etiologies incl occupational exposure (machinist - possible fume/particulate exposure over yrs), alpha-1 antitrypsin deficiency w/u pending, recurrent aspiration 2/2 GERD as contributing factor.
+
+Exam:
+Gen: NAD, mild resp distress at rest, speaking in full sentences
+HEENT: unremarkable
+Neck: no JVD, no LAD
+Lungs: diffuse expiratory wheeze bilat, prolonged expiratory phase, no crackles
+CV: RRR nl S1S2 no m/r/g
+Abd: obese, soft NT ND +BS
+Ext: no edema no clubbing cyanosis
+
+Assessment/Plan:
+1. COPD exacerbation, recent, improving - continue prednisone taper as directed, continue albuterol prn, add tiotropium daily, f/u spirometry in 4wks once stable
+2. Consider alpha-1 antitrypsin deficiency screening given non-smoking status w COPD - order serum level
+3. HTN - stable on current lisinopril dose, continue
+4. GERD - continue omeprazole, counsel re: weight loss for symptom control
+5. CKD stage 3 - stable, recheck BMP/CMP next visit, avoid NSAIDs
+6. Obesity - discussed diet/exercise, referral to nutrition considered
+
+Lung ca screening was discussed briefly given age but deferred given lack of smoking hx, pt educated re: general risk factors and symptoms to watch for.
+
+RTC 4 weeks or sooner if worsening sx. Pt verbalizes understanding.
+
+Problem list (dt outdated entries flagged for cleanup):
+- J44.1 COPD w acute exacerbation
+- I10 Essential hypertension
+- K21.9 GERD
+- N18.3 CKD stage 3
+- E66.9 Obesity
+- Z87.891 personal hx of nicotine dependence [outdated/erroneous entry - to be removed, pt confirmed never smoker]
+- E78.5 Hyperlipidemia
+
+---
+ADDENDUM (later same day, 12/07/2025 1645) - Kevin Osei, MD
+Spoke again w pt by phone re: labs to be drawn this wk for alpha-1 antitrypsin level and BMP. Reiterated instructions on prednisone taper completion and inhaler technique. Pt again confirmed lifelong non-smoker, no tobacco exposure occupationally beyond possible metal fume/dust as machinist. Will remove erroneous nicotine dependence code from problem list at next visit update. No new complaints at this time. Plan otherwise unchanged from above note.

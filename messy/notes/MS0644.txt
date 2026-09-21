@@ -1,0 +1,75 @@
+TELEHEALTH VISIT NOTE
+Patient: Leonard Johnson | DOB: 03/18/1945 (age 78) | Sex: M
+Date of Service: 08/03/2023
+Provider: Laura Castellano, FNP-C
+Visit Type: Telehealth, Pre-operative evaluation (Internal Medicine) for r) TKA
+
+CHIEF COMPLAINT: Pre-op clearance eval, right knee replacement, ortho requesting IM clearance.
+
+HPI:
+Mr. Johnson is a 78 y.o. male seen via telehealth for pre-op eval prior to right total knee arthroplasty scheduled with Dr. Ferris. Pt states, "My knee is bone on bone, doc, I just want to get this fixed before I can't walk at all." Denies chest pain, denies acute SOB. Reports occasional swelling in the R leg, attributes to PAD, no new claudication sx. Gout flares less frequent since last visit, currently none active. Denies fevers/chills. Mood "about the same, some good days some bad" - depression stable on current regimen per pt report.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 02/14/2023 (retained for reference, not all current) ---
+HPI (02/14/2023): Pt here for routine f/u HTN, gout, hypothyroid, CKD3. BP well controlled per home logs, avg 128/76. No gout flare x 3 months. Denies med side effects. TSH last checked WNL on current levothyroxine dose. Renal function stable, eGFR ~48. PAD - no rest pain, ABI stable per vascular. Continue current meds. RTC 3 months or sooner PRN.
+ROS (02/14/2023): Constitutional: neg for fever/chills/weight loss. CV: neg CP/palp. Resp: neg cough/SOB. GI: neg N/V/D. GU: neg dysuria. MSK: chronic knee pain bilat, worse right > left. Skin: neg rash. Neuro: neg focal deficits.
+A/P (02/14/2023): 1) HTN - controlled, continue lisinopril. 2) Gout - continue allopurinol, no flare. 3) Hypothyroidism - continue levothyroxine, recheck TSH in 6 mo. 4) CKD3 - stable, monitor labs q6mo. 5) PAD - continue cilostazol, f/u vascular surgery annually. 6) Depression - stable on sertraline, continue, reassess PHQ9 next visit.
+--- END COPIED FORWARD SECTION ---
+
+CURRENT ROS (08/03/2023):
+Constitutional: no fever, no weight loss.
+CV: no chest pain, no orthopnea, no edema beyond baseline.
+Resp: no cough, no dyspnea at rest.
+GI: no nausea/vomiting.
+GU: no dysuria, no hematuria.
+MSK: R knee pain, chronic, worsening with ambulation, primary reason for surgical referral.
+Skin: no rash noted per pt report.
+Psych: mood stable, no SI/HI.
+
+PAST MEDICAL HISTORY:
+- Depression
+- Gout
+- Hypothyroidism
+- Hypertension
+- Peripheral artery disease
+- Chronic kidney disease stage 3
+
+SOCIAL HISTORY:
+Smoking: active smoker, 22 pack-year smoking history noted in social history. Continues to smoke daily. Advised to quit given upcoming surgery and PAD/CKD comorbidities; brief cessation counseling provided, pt states "I know I should, maybe after the surgery."
+Alcohol: occasional, denies heavy use.
+Living situation: lives with spouse, ambulates with cane at baseline.
+
+MEDICATIONS (current, per pharmacy reconciliation):
+- Lisinopril 20mg daily
+- Allopurinol 300mg daily
+- Levothyroxine 75mcg daily
+- Cilostazol 100mg BID
+- Sertraline 100mg daily
+- Acetaminophen PRN knee pain
+
+ALLERGIES: NKDA
+
+VITALS (self-reported home, telehealth visit):
+BP 132/78, HR 76, no home pulse ox available, weight stable per pt report.
+
+EXAM (limited, telehealth):
+General: alert, appears comfortable, no acute distress on video.
+CV: unable to auscultate via telehealth; pt denies palpitations.
+Resp: no visible respiratory distress, speaking in full sentences.
+Extremities: pt demonstrates R knee with visible swelling on camera, no overt erythema seen.
+Skin: no rashes visible.
+
+ASSESSMENT/PLAN:
+1. Pre-operative evaluation for R TKA - cardiac risk assessment reviewed, RCRI low-moderate given PAD hx; will obtain recent EKG and basic labs (CBC, BMP, coag panel) prior to surgery date. Cleared from IM standpoint pending labs, no additional cardiac testing indicated at this time given functional status.
+2. Peripheral artery disease - continue cilostazol, stable per pt report, no rest pain currently. Surgical team aware given PAD dx, will coordinate peri-op anticoagulation plan with vascular if needed.
+3. Chronic kidney disease stage 3 - will recheck BMP pre-op to confirm renal function stable prior to surgery, renally dose meds as needed peri-operatively.
+4. Hypertension - well controlled, continue lisinopril, hold morning of surgery per anesthesia protocol.
+5. Gout - no active flare, continue allopurinol, hold if NPO status requires, resume post-op.
+6. Hypothyroidism - continue levothyroxine, no dose change needed at this time.
+7. Depression - stable, continue sertraline, no acute concerns today.
+8. Tobacco use - discussed ongoing active smoking and associated peri-operative risks including wound healing complications, PAD progression, and cardiopulmonary risk with anesthesia. Cessation counseling given, pt declined referral to quitline at this time.
+9. Will forward clearance note to ortho/anesthesia once labs and EKG results are back. Pt to call with any new symptoms prior to surgery date.
+
+RTC: post pre-op labs review, or sooner if symptoms arise.
+
+Electronically signed: Laura Castellano, FNP-C
+08/03/2023

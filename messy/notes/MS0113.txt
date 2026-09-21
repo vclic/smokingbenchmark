@@ -1,0 +1,54 @@
+ESTABLISH CARE NEW PATIENT VISIT
+DOS: 01/18/2025
+Provider: Daniel Reyes, MD - Primary Care
+Patient: Leonard Ramirez, M, DOB 1/18/1953 (age 72)
+
+CC: Pt presenting to establish care w/ PCP after moving to area; multiple chronic conditions per report.
+
+HPI: 72 yo M w/ hx obesity, depression, gout, CKD stage 3, COPD, AFib presents today to establish care. Pt reports he has been fairly stable overall, no acute complaints today. Denies CP, SOB at rest, hemoptysis. Reports occasional dyspnea on exertion c/w known COPD, uses albuterol PRN. Gout flares infrequent, last one ~6 mo ago per pt. Mood reportedly stable on current regimen, denies SI/HI. Says he ran out of some meds during move and needs refills.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/02/2022 (outside records, imported into chart) ---
+HPI: Pt is a 69 yo M here for f/u of CKD3, COPD, AFib. Reports doing well overall. No CP/palpitations. Cr stable at prior visit 1.6. On apixaban for AFib, tolerating well, no bleeding events. COPD sx stable, uses Spiriva daily + albuterol PRN, no recent exacerbations or steroid bursts. Gout controlled on allopurinol, no flares x several months. Depression stable on sertraline, PHQ-9 low. Wt stable. Plan: cont current meds, f/u labs in 6 mo, refer pulm if worsening.
+--- END COPIED FORWARD TEXT ---
+
+PMH: Obesity, Depression, Gout, CKD stage 3, COPD, Atrial fibrillation (on anticoagulation).
+
+PSH: None significant per pt report; no records on file.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+  - Cigarettes/day (when smoking): 4/day
+  - Duration: 43 years
+  - Quit date/notes: Quit in 2013, at the time of a heart attack
+  - Pack-years: Not on file
+Alcohol use: Not on file
+Illicit drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Not on file
+
+ROS: Constitutional - denies fever, chills, unintentional wt loss. Resp - denies cough, hemoptysis; endorses mild DOE. Cardiac - denies palpitations, syncope. GU - denies dysuria, hematuria. MSK - denies active joint swelling today. Psych - denies SI/HI, mood reportedly stable. All other systems reviewed and negative except as noted in HPI.
+
+VITALS: BP 138/84, HR 78 irregular, RR 16, Temp 98.2F, SpO2 95% RA, Wt 224 lb, BMI 33.9
+
+EXAM: Gen - NAD, obese habitus. HEENT - unremarkable. Neck - no JVD, no thyromegaly. CV - irregularly irregular rhythm, no m/r/g appreciated. Resp - mild expiratory wheeze bilat bases, no rales, no use of accessory muscles. Abd - soft, NT/ND, obese. Ext - no edema, no acute gouty changes noted at 1st MTP or elsewhere today. Psych - mood/affect appropriate, cooperative.
+
+LABS/RESULTS (recent, imported):
+01/10/2025 BMP: Na 138, K 4.6, Cl 101, CO2 24, BUN 28, Cr 1.7, eGFR 42
+01/10/2025 Uric acid: 7.8 mg/dL
+01/10/2025 HbA1c: 5.8%
+12/15/2024 INR (not on anticoag req monitoring - apixaban, no INR needed) - N/A
+01/10/2025 CBC: WBC 6.9, Hgb 14.1, Plt 210
+01/10/2025 TSH: 2.1
+
+ASSESSMENT/PLAN:
+1. Atrial fibrillation - on apixaban, HR controlled today on exam though irregular. Cont current anticoag, will obtain EKG today, cardiology f/u to be arranged.
+2. COPD - mild wheeze on exam, stable per pt. Cont albuterol PRN and Spiriva daily. Reviewed inhaler technique. Smoking history discussed at length - pt quit smoking in 2013 at time of MI, prior to that smoked about 4 cigarettes per day for 43 years. Praised pt for maintaining abstinence, reinforced importance of continued avoidance of tobacco. Lung cancer screening was discussed in general terms as part of preventive care conversation given tobacco history.
+3. CKD stage 3 - Cr 1.7, eGFR 42 stable-ish, will trend labs, avoid nephrotoxic agents, renally dose meds.
+4. Gout - uric acid 7.8, no active flare on exam. Cont allopurinol, refill given.
+5. Obesity - BMI 33.9, counseled on diet/exercise, discussed referral to nutrition.
+6. Depression - reports mood stable, will cont current antidepressant, refill provided, screen w/ PHQ-9 at next visit.
+
+Return to clinic in 3 months or sooner if concerns. Pt verbalized understanding of plan.
+
+Daniel Reyes, MD

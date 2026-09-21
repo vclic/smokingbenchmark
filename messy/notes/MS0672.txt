@@ -1,0 +1,22 @@
+Telehealth Follow-up Note - Pulmonology
+Patient: Paul Patel | DOB: 6/13/1960 (age 64) | DOS: 09/19/2024
+Provider: Priya Raman, MD
+
+HPI: Mr Patel is a 64-year-old male seen via video visit for follow-up of an incidentally noted lung nodule identified on CT of the abdomen done for unrelated reasons back in June. He reports he feels well, denies cough, hemoptysis, weight loss, or dyspnea on exertion. He says his sleep has been [inaudible] a bit better since starting CPAP therapy for his OSA, he thinks the machine pressure may need adjustment though he's not sure, and he'll follow up with sleep medicine separately. He denies fevers or night sweats. Voiding symptoms from his BPH are stable on tamsulosin, no urgency or hesitancy currently.
+
+Social History: Never smoker - patient has never used tobacco in any form throughout his life. He does note he smokes a cigar a few times a year on holidays, not cigarettes, mostly at family gatherings. No vaping history. Occasional alcohol, denies illicit drug use.
+
+Results:
+CT chest (low-dose protocol), 06/28/2024: 7mm solid nodule right upper lobe, unchanged in density.
+CT chest, 09/12/2024: nodule stable at 7mm, no interval growth, no new nodules.
+PFTs 09/10/2024: FEV1 88% predicted, FVC 91% predicted, FEV1/FVC 0.79.
+
+Assessment/Plan:
+1. Incidental pulmonary nodule, right upper lobe, stable on serial imaging over ~3 months. Given stability and patient's status as a lifelong never-smoker, low pretest probability of malignancy. Screening-type imaging protocols were discussed with the patient in general terms but no further screening study is being ordered today. Plan for repeat CT in 6 months to confirm continued stability.
+2. OSA - continue CPAP, refer back to sleep medicine re: possible pressure titration, patient reports symptoms are, quote, 'mostly okay now.'
+3. BPH - continue tamsulosin, stable symptoms, no dysuria or retention.
+Return to clinic or telehealth in 6 months with repeat imaging, sooner if new symptoms such as cough, hemoptysis, or weight loss develop.
+
+Addendum (later same day, 09/19/2024, 4:47pm): Patient called back after visit to clarify that his cigar use is purely social/holiday-related, a few times per year, and he wanted to make sure that was documented accurately along with the fact he has never smoked cigarettes. Noted above; no change to plan.
+
+- Priya Raman, MD

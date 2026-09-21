@@ -1,0 +1,55 @@
+TELEHEALTH VISIT NOTE
+Vascular Surgery - Peripheral Artery Disease Follow-up
+DOS: 01/10/2023
+Provider: Farah Siddiqui, MD
+Patient: Gloria Powell, F, DOB 01/10/1959 (age 64)
+
+CHIEF COMPLAINT: Follow-up for PAD, claudication sx.
+
+HPI: 64 yo F with hx HFrEF, obesity, PAD presents via telehealth for routine f/u. Pt reports ongoing bilat calf pain w/ ambulation, distance to onset ~1-2 blocks, improves w/ rest. No rest pain, no non-healing ulcers. Denies chest pain, orthopnea worse than baseline. Home BP log reviewed, mostly 118-134/70-80. Wt stable per pt report (no home scale calibration issue noted).
+
+SOCIAL HX:
+Tobacco: Extensive smoking hx obtained today. Pt reports smoking approx 1 pack per day for 14 yrs (young adulthood), then cut down to about a quarter pack/day (~5 cigs/day) for 19 yrs, then increased again to half pack/day (~10 cigs/day) which has continued for the past 14 yrs - this is her current pattern. Pt continues to smoke despite repeated counseling regarding cessation and CV/PAD risk reduction. Declined referral to quitline today but will reconsider. ETOH: occasional glass of wine. No illicit drug use reported.
+
+PMHx (see problem list below).
+
+MEDS (per last reconciliation): Aspirin 81mg qd, Atorvastatin 40mg qhs, Metoprolol succinate 50mg qd, Furosemide 20mg qd, Lisinopril 10mg qd, Cilostazol 100mg BID (added last visit for claudication).
+
+ALLERGIES: NKDA.
+
+PROBLEM LIST (ICD-10):
+- I70.213 Atherosclerosis of native arteries of bilateral legs w/ claudication
+- I50.22 Chronic systolic (congestive) heart failure
+- E66.9 Obesity, unspecified
+- I10 Essential hypertension (dx yrs ago, some notes list resolved - not accurate, still active)
+- E78.5 Hyperlipidemia, unspecified
+- Z87.891 Personal hx of nicotine dependence (NOTE: outdated entry - pt is NOT former smoker, remains active smoker, see SHx above; problem list to be corrected)
+- M54.5 Low back pain (old, likely resolved, kept on list from 2019 note)
+
+ROS: Constitutional - no fever/chills. CV - no acute CP, occas mild dyspnea on exertion c/w baseline HF. Resp - no cough/hemoptysis. GI - unremarkable. MSK - bilat calf pain as above. All other systems reviewed & neg per pt report.
+
+EXAM (limited, telehealth, visual only):
+Gen: well-appearing, NAD, conversant, seated at home.
+CV: no visible JVD appreciated on cam, pt denies leg swelling today.
+Resp: no increased WOB observed.
+Ext: pt demonstrated legs on camera, no obvious ulceration/discoloration visible, poor lighting limits full assessment.
+Skin: no obvious lesions noted on visible areas.
+
+(Vitals per home cuff/pt report: BP 126/78, HR 74, unable to obtain SpO2/wt today - telehealth limitation.)
+
+ASSESSMENT:
+64 yo F with PAD (claudication, Fontaine IIa/IIb picture), HFrEF, obesity, active tobacco use. Sx today stable, mild improvement per pt subjective report on cilostazol. Continued active smoking is major modifiable risk factor for PAD progression and CV events; d/w pt at length again today.
+
+PLAN:
+1. PAD - continue cilostazol, ASA, statin. Recheck ABI at next in-person visit. Structured exercise program recommended (walking program d/w pt).
+2. Tobacco use - counseled extensively again on cessation; pt continues to smoke despite this. Discussed nicotine replacement options and referral to cessation program; pt to think about it.
+3. HFrEF - appears clinically stable today per telehealth limited assessment; continue current GDMT, f/u w/ cardiology as scheduled.
+4. Obesity - reinforced dietary counseling, discussed referral to nutrition.
+5. HTN - well controlled per home readings, continue current regimen.
+6. F/u in-person in 4-6 wks for ABI recheck and full lower extremity exam; sooner if worsening sx, rest pain, or non-healing wounds.
+7. Problem list to be updated to reflect current active smoking status (remove outdated 'former smoker' framing).
+
+Time spent: approx 22 min, >50% counseling/coordination of care re: tobacco cessation and PAD risk reduction.
+
+---ADDENDUM (same day, later)---
+1615: Received call back from pt's daughter clarifying home BP readings were slightly higher this AM (138/84) than pt initially reported; adjusting plan to recheck BP trend over next wk via home log, no med change at this time. Also confirmed w/ pt directly by phone that she understands importance of smoking cessation discussed above and will call pharmacy re: NRT patches. No other changes to plan. - F. Siddiqui, MD

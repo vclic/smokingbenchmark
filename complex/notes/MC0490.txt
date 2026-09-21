@@ -1,0 +1,47 @@
+Vero Health Pulmonology Clinic
+Date of Service: 08/01/2025
+Patient: Raymond Henderson, M, DOB 08/01/1973 (age 52)
+Author: Owen Fitzgerald, MD
+
+--- NURSE INTAKE ---
+CC: f/u COPD exac, recent ED visit
+VS: BP 138/86, HR 88 irreg (known AFib), RR 18, SpO2 94% RA, Temp 98.2F, Wt 210 lb
+Allergies: NKDA
+Meds reviewed: allopurinol, apixaban, CPAP nightly
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Never smoker
+Packs/day: N/A
+Years smoked: N/A
+Quit date: N/A
+Alcohol use: Not on file
+Drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+
+[Copied forward from prior visit 03/14/2024 - Pulm f/u note]
+HPI (03/14/2024): Pt is a 50 yo M with hx OSA on CPAP, gout, AFib on apixaban, presenting for routine pulm f/u. Denies hemoptysis, denies fevers/chills. Spirometry reviewed, FEV1/FVC c/w mild obstruction. Pt reports adherence to CPAP >5 hrs/night per download. Gout flares controlled on allopurinol, last flare 6 mo ago. AFib rate-controlled, no palpitations reported. Plan: continue current regimen, f/u 6 months, repeat PFTs at next visit.
+[End copied text]
+
+--- PHYSICIAN PROGRESS NOTE 08/01/2025 ---
+HPI: Mr. Henderson is a 52 yo M w/ hx OSA (CPAP-compliant), gout, and AFib, now presenting for pulm f/u s/p recent ED visit for COPD exacerbation. He reports worsening dyspnea on exertion and increased sputum production over the preceding week, prompting ED eval; he was treated w/ nebs, steroids, and abx and discharged home. Today he states he is breathing easier but still has occasional wheeze, especially in the AM. No fevers currently. He denies chest pain, denies orthopnea/PND beyond baseline. He has never smoked cigarettes and has no other tobacco or inhalational exposure hx of note per today's interview. No hx of biomass or occupational dust exposure reported. He continues CPAP nightly, apixaban for AFib, and allopurinol for gout ppx.
+
+ROS: Otherwise negative except as above.
+
+Physical Exam:
+Gen: NAD, comfortable
+Lungs: mild expiratory wheeze bilat, no crackles, no accessory muscle use
+CV: irreg irreg rhythm, no m/r/g
+Ext: no edema, no tophi visualized today
+
+Labs/Studies reviewed: CXR from ED read as no acute infiltrate; BMP unremarkable; INR therapeutic on apixaban monitoring not required (DOAC).
+
+Assessment/Plan:
+1. COPD exacerbation, recently resolved - continue albuterol prn, start tiotropium daily, taper prednisone per ED instructions. Given his COPD dx, lung cancer screening was discussed in general terms; however his smoking status (lifelong never-smoker) was reviewed again and confirmed with him directly today.
+2. OSA - continue CPAP, doing well, will obtain updated compliance download at next visit.
+3. Atrial fibrillation - continue apixaban, rate appears controlled, no palpitations; will check EKG today.
+4. Gout - stable on allopurinol, no active flare, continue current dose.
+
+F/u in pulm clinic in 6-8 weeks or sooner if symptoms worsen. Pt educated on COPD action plan and when to seek ED care. Discussed importance of adherence to inhaler regimen and CPAP.
+
+-- Owen Fitzgerald, MD

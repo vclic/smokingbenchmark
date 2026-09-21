@@ -1,0 +1,79 @@
+Internal Medicine Office Visit
+
+Patient: FOSTER, Priya    MRN: 93073528
+DOB: 03/31/1968    Age: 56 y.o.    Sex: Female
+Date of Service: 08/19/2024    Provider: Steven Park, MD
+
+Chief Complaint
+Patient presents with
+• Right shoulder pain
+
+Subjective:
+Priya Foster is a 56 y.o. female who presents for right shoulder pain.
+Right shoulder pain for 8 months, worse in the morning. Twisted it stepping off a curb. Ibuprofen with partial relief.
+
+Past Medical History:
+Diagnosis	Date
+• Major depressive disorder, recurrent, in remission
+• HFrEF
+• Osteoarthritis of knees
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• torsemide 20 mg daily
+• metoprolol succinate 50 mg daily
+• bupropion XL 150 mg daily
+• acetaminophen 500 mg 2 tabs TID PRN
+
+Allergies
+• Latex
+
+Social History
+Tobacco Use
+• Smoking status: Former
+    Types: Cigarettes
+• Smokeless tobacco: Never Used
+• Tobacco comments: x3y; stopped 1988
+Social History Narrative
+  Lives with husband in a single-family home.
+  Alcohol: rare.
+
+Family History
+Son - type 1 diabetes. Mother - HTN, DM2.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: + joint pain
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 131/71 (BP Location: Left arm, Patient Position: Sitting) | Pulse 67 | Temp 98.2 °F (Oral) | Resp 14 | Ht 5' 7" | Wt 153 lb | SpO2 96% | BMI 23.89 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Unremarkable
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTAB
+Abdominal: Soft, nontender, nondistended
+Extremities: Trace bilateral ankle edema
+MSK: R shoulder: painful arc 60-120, + Neer/Hawkins, strength intact
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (08/16/2024): Cr 1.06, K 3.9
+
+Assessment & Plan
+1. Right shoulder pain
+   Rotator cuff tendinopathy. PT; subacromial injection offered.
+2. Osteoarthritis of knees
+   Continue PRN analgesics; home exercises.
+
+Follow up in 3 months or sooner PRN.
+
+Electronically signed by Steven Park, MD on 08/19/2024

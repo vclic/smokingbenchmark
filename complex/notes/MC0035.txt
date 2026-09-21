@@ -1,0 +1,63 @@
+TELEHEALTH VISIT - Family Medicine
+Date of Service: 02/04/2026
+Patient: Brenda Sanchez | DOB: 02/04/1951 | Age: 75 | Sex: F
+Author: Rachel Goldberg, MD
+
+--- NURSE INTAKE ---
+Vitals (per pt report, home cuff): BP 138/82, HR 76, Wt 212 lb (self-reported, scale not calibrated). Pt verified home meds list, no changes reported to nursing. Pt states she is calling in for refills of routine medications, no acute complaints today. Denies chest pain, SOB, fevers. Reports occasional knee pain, using heat pads.
+
+--- SOCIAL HISTORY (templated EHR block) ---
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs/day: Not on file
+Years smoked: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives alone
+Exercise: Not on file
+
+--- HPI (Dr. Goldberg) ---
+Ms. Sanchez is a 75-year-old female with history of type 2 diabetes, osteoarthritis, GERD, gout, obesity, and hypertension who presents via telehealth today, 02/04/2026, for routine medication refills. She reports overall stability of her chronic conditions. Blood sugars have been running in the 130s-150s fasting per her home log, which she reviewed with me verbally. She continues to have mild knee discomfort attributed to osteoarthritis, managed with acetaminophen and topical NSAID gel. No new GI symptoms, GERD controlled on omeprazole. No gout flares since last visit. Notably, she reports she has smoked cigarettes for 58 years and continues to smoke; when asked about interest in quitting, she states she is not ready to quit at this time. I provided brief counseling on smoking cessation resources and the benefits of quitting, and she acknowledged this but reiterated she is not interested in stopping right now. We will revisit this topic at future visits.
+
+[COPIED FORWARD FROM PRIOR NOTE DATED 07/04/2022 - NOT UPDATED THIS VISIT]
+Subjective: Pt here for f/u of DM2, HTN, gout. Reports doing well overall. BP controlled on current regimen. No new complaints. Diet reviewed, pt counseled on low-sodium, low-carb intake. Feet exam performed, no ulcers or lesions noted, monofilament testing intact bilaterally. As of the visit on 07/04/2022, the patient was a current smoker, with no quantities documented in that note. Labs reviewed: A1c 7.4%, Cr 0.9, K 4.1. Gout: no flares since last visit, continues allopurinol. Osteoarthritis: knee pain stable, using topical agents. Plan at that time: continue current meds, f/u in 6 months, recheck labs prior to next visit.
+[END COPIED TEXT]
+
+--- REVIEW OF SYSTEMS ---
+Constitutional: denies fevers, chills, weight loss.
+Cardiovascular: denies chest pain, palpitations, edema.
+Respiratory: denies cough, hemoptysis, dyspnea at rest; occasional exertional breathlessness with stairs, chronic per pt.
+GI: denies nausea, vomiting, hematochezia; occasional reflux controlled with meds.
+Musculoskeletal: chronic bilateral knee pain, no acute injury.
+Endocrine: denies polyuria, polydipsia currently.
+
+--- PHYSICAL EXAM (limited, telehealth) ---
+General: alert, well-appearing woman, no acute distress, appropriate for video visit.
+Cardiac exam and lung auscultation deferred given telehealth format; pt denies acute respiratory symptoms.
+Skin: no rashes noted on camera.
+Affect: appropriate, cooperative.
+
+--- PROBLEM LIST ---
+1. Type 2 diabetes mellitus without complications - E11.9
+2. Essential hypertension - I10
+3. Osteoarthritis, unspecified knee - M17.9
+4. Gastro-esophageal reflux disease - K21.9
+5. Gout, unspecified - M10.9
+6. Obesity, unspecified - E66.9
+7. Tobacco use disorder, cigarettes - Z72.0 (outdated entry, last reviewed 2022, status confirmed current this visit)
+8. Hyperlipidemia - E78.5 (outdated, last addressed 2021, unclear if still active)
+
+--- ASSESSMENT & PLAN ---
+1. Type 2 diabetes mellitus - stable per pt report of home glucose logs; continue metformin and glipizide; recheck A1c at next visit; reinforced dietary counseling.
+2. Hypertension - BP acceptable per home readings; continue lisinopril; monitor.
+3. Osteoarthritis - continue conservative management with acetaminophen/topical NSAID; discussed activity modification.
+4. GERD - continue omeprazole, well controlled.
+5. Gout - continue allopurinol, no flares reported.
+6. Obesity - discussed weight management strategies, pt interested in dietary referral.
+7. Tobacco use - Patient continues to smoke cigarettes, with a smoking history spanning 58 years per today's discussion. She reports she is not ready to quit at this time despite counseling on risks and cessation resources offered today. Lung cancer screening was discussed in general terms as part of preventive health discussion appropriate for her age and smoking history; no imaging ordered today. Will continue to encourage cessation at future visits and readdress as appropriate.
+8. Refills - sent refills for metformin, glipizide, lisinopril, omeprazole, allopurinol, and acetaminophen per pt request.
+
+Follow-up: routine follow-up in 3 months or sooner if issues arise. Telehealth visit concluded, pt verbalized understanding of plan.
+
+Electronically signed: Rachel Goldberg, MD - 02/04/2026

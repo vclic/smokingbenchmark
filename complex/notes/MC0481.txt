@@ -1,0 +1,40 @@
+TELEHEALTH VISIT NOTE
+Patient: Charles Harris | DOB: 8/11/1970 | Age: 54 | Sex: M
+Date of Service: 08/11/2024
+Provider: Kevin Osei, MD (Pulmonology)
+Visit type: Lung cancer screening shared decision-making, video visit
+
+CHIEF COMPLAINT: SDM visit re: lung cancer screening d/t hx smoking.
+
+HPI: 54 yo M w/ COPD, OSA, HTN, T2DM, CKD stage 3, hypothyroidism presents via telehealth for shared decision-making d/c lung cancer screening. Denies hemoptysis, wt loss, new cough. Occasional dyspnea on exertion, stable per pt. No fevers/chills.
+
+--- Copied forward from visit 03/14/2022 ---
+Pt seen in clinic for COPD follow up. Spirometry reviewed, FEV1 stable. Continues albuterol PRN, tiotropium daily. OSA on CPAP, reports good compliance, machine download reviewed. HTN well controlled on lisinopril. Diabetes A1c 7.1 last check. CKD stage 3, stable creatinine. Hypothyroid on levothyroxine, TSH wnl. RTC 3 months or PRN.
+--- end copied text ---
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Retired
+Living situation: Not on file
+Exercise: Sedentary
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, wt loss. Resp: denies hemoptysis, mild DOE. CV: denies chest pain, palpitations. GI: denies nausea, vomiting, abd pain. GU: denies dysuria, hematuria. Endocrine: denies polyuria, polydipsia. MSK: denies joint pain. Neuro: denies HA, dizziness. Skin: no rashes. Psych: denies depression/anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM: Vitals stable, afebrile. General: NAD, well-appearing on video. Resp: no visible distress, no accessory muscle use noted on camera. CV: unable to auscultate via telehealth. Ext: no edema visualized. Skin: no lesions noted.
+
+MEDICATIONS: Albuterol HFA PRN, Tiotropium 18mcg daily, Lisinopril 20mg daily, Metformin 1000mg BID, Levothyroxine 75mcg daily, Atorvastatin 40mg daily, CPAP nightly, Vitamin D3 2000IU daily.
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening SDM - Discussed risks/benefits of low-dose CT screening at length. Smoking history reviewed: pt smoked 1.5 packs per day for 12 years, then reduced to about 12 cigarettes per day for the next 11 years before quitting; now a former smoker. Discussed screening guidelines, radiation exposure, false positive risk, incidental findings. Pt to consider and follow up.
+2. COPD - continue current inhalers, stable.
+3. OSA - continue CPAP.
+4. HTN - continue lisinopril, well controlled.
+5. T2DM - continue metformin, recheck A1c.
+6. CKD stage 3 - monitor renal function, stable.
+7. Hypothyroidism - continue levothyroxine, check TSH at next visit.
+
+RTC 3 months or sooner if symptoms worsen.
+
+Kevin Osei, MD

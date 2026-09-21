@@ -1,0 +1,66 @@
+Telehealth Note - Pulmonology
+Patient: Harold Powell (M), DOB: 1/24/1947, Age: 76
+Date of Service: 08/09/2023
+Provider: Farah Siddiqui, MD
+
+Visit type: Lung Cancer Screening Shared Decision-Making, telehealth
+
+HPI:
+Mr Powell is a 76 yo male seen today via video visit for discussion of lung cancer screening options. He states "I feel pretty good, just here becuase my last doc said I should talk about the scan." He denies cough, hemoptysis, weight loss, or chest pain. He reports occasional dyspnea on exertion which he attributes to "getting older." He denies fevers or night sweats. When asked about tobacco use he states "I quit smoking back in June 2005 and havent touched a cigarette since." He denies current use of e-cigs, vaping products, or other tobacco. No occupational exposures reported (asbestos, radon) though pt unsure of exact exposure hx.
+
+---- Copied forward from visit dated 02/14/2019 (Dr. R. Alvarez, Pulmonology) ----
+Pt here for f/u of CKD stage 3 and hypothyroidism. Reports doing well. No new complaints. Denies SOB, chest pain, orthopnea, PND. Denies edema. Meds reviewed and reconciled at that time. Pt advised to continue current regimen. RTC in 6 months or sooner if symptoms worsen. Labs pending at time of note; TSH and creatinine to be rechecked in 3 months. Pt counselled on diet, exercise, and medication compliance. No acute issues identified during that visit.
+---- end copied text ----
+
+PMH: Hypothyroidism, Chronic kidney disease stage 3
+PSH: None reported
+FH: Non-contributory per pt, mother with "heart trouble," father unknown cause of death
+SH: Retired postal worker. Lives with spouse. Occasional alcohol use, denies illicit drug use. Former smoker, quit smoking June 2005; denies any smoking since that time.
+
+Medications:
+1. Levothyroxine 75 mcg po daily
+2. Lisinopril 10 mg po daily
+3. Atorvastatin 20 mg po qhs
+4. Metoprolol succinate 25 mg po daily
+5. Aspirin 81 mg po daily
+6. Vitamin D3 1000 IU po daily
+7. Sodium bicarbonate 650 mg po BID
+8. Multivitamin po daily
+(med list reconciled with pharmacy record, some entries may be outdated per pt report)
+
+ROS:
+Constitutional: denies fever, chills, weight loss
+Eyes: denies visual changes
+ENT: denies sore throat, denies nasal congestion
+Cardiovascular: denies chest pain, denies palpitations, denies edema
+Respiratory: denies cough, denies wheeze, reports mild exertional dyspnea as above
+GI: denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits
+GU: denies dysuria, denies hematuria
+Musculoskeletal: denies joint pain, denies swelling
+Skin: denies rash, denies lesions
+Neuro: denies headache, denies dizziness, denies numbness
+Psych: denies depression, denies anxiety
+All other systems reviewed and negative except as noted above
+
+Physical Exam (via video, limited):
+General: alert, well-appearing, no acute distress, seated comfortably
+Vitals: reported by pt at home - BP 128/76, HR 72, unable to obtain O2 sat or temp via telehealth
+HEENT: normocephalic, no visible distress, no facial asymmetry noted
+Neck: no visible jugular venous distension appreciated on camera
+Cardiovascular: unable to auscultate via telehealth, pt denies chest pain or palpitations
+Respiratory: no visible increased work of breathing, no use of accessory muscles noted, pt speaking in full sentences without difficulty
+Abdomen: not examined via telehealth
+Extremities: no visible edema on camera
+Skin: no rashes visible on video
+Neuro: alert and oriented x3, speech clear and appropriate
+
+Assessment/Plan:
+76 yo male, DOB 1/24/1947, seen 08/09/2023 for lung cancer screening shared decision-making discussion. Patient has a 34 pack-year smoking history; he is a former smoker who quit in June 2005 and has not smoked since. Discussed benefits and risks of lung cancer screening including false positives, incidental findings, and radiation exposure. Discussed general screening guidelines and eligibility considerations at a high level; patient will consider discussion and follow up with PCP regarding next steps. No imaging ordered today as part of this discussion.
+
+1. Lung cancer screening - shared decision-making discussion completed today, risks/benefits reviewed, pt to follow up with PCP
+2. CKD stage 3 - stable, continue current management, recheck labs per PCP schedule
+3. Hypothyroidism - continue levothyroxine, recheck TSH per PCP
+4. Counseled on maintaining tobacco-free status, praised for sustained abstinence
+5. RTC to pulmonology as needed or per PCP referral
+
+Electronically signed by Farah Siddiqui, MD

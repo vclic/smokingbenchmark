@@ -1,0 +1,84 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Rajesh Mitchell (M) DOB: 10/06/1952 (age 72)
+Date of Service: 10/06/2024
+Provider: Farah Siddiqui, MD (NP progress note)
+
+CHIEF COMPLAINT: Follow-up hypertension and diabetes.
+
+HPI: Mr. Mitchell is a 72-year-old male here for routine follow-up of HTN and T2DM. He reports blood sugars running in the 130-160 range fasting, occasional headaches, no chest pain, no palpitations though he has known Afib. He denies leg pain at rest but notes intermittent claudication with ambulation >2 blocks, consistent with known PAD. Reports occasional heartburn, controlled on PPI. Joint pain in knees, stable, managed with acetaminophen and occasional NSAID.
+
+--- COPIED FORWARD FROM VISIT 03/14/2023 ---
+Patient continues on metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 40mg qHS, apixaban 5mg BID, omeprazole 20mg daily. He reports adherence to meds. Denies falls. Vision and hearing intact per patient report. No new neuro complaints. Feet checked, no ulcers noted, pulses diminished bilaterally, consistent with known PAD. Diet reviewed, patient counseled on low-sodium, diabetic-friendly diet. Continue current regimen, follow up in 6 months, recheck A1c and lipid panel.
+--- END COPIED TEXT ---
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, weight loss.
+Eyes: No visual changes.
+ENT: No hearing loss, no sore throat.
+Cardiovascular: Denies chest pain, denies palpitations, known Afib on anticoagulation.
+Respiratory: Denies cough, denies dyspnea, denies wheeze.
+GI: Occasional heartburn, denies nausea/vomiting, denies blood in stool.
+GU: Denies dysuria, denies hematuria.
+Musculoskeletal: Chronic knee pain, stable.
+Skin: No rashes, no lesions.
+Neuro: No focal weakness, no numbness.
+Psych: Denies depression, denies anxiety.
+Endocrine: Denies polyuria, denies polydipsia.
+Heme/Lymph: No easy bruising, no swollen glands.
+Allergic/Immunologic: No seasonal allergies reported.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76 irregularly irregular, RR 16, Temp 98.2F, SpO2 97% RA, Wt 198 lbs, BMI 29.8
+General: Alert, oriented, no acute distress.
+HEENT: Normocephalic, atraumatic, PERRLA, oropharynx clear.
+Neck: No JVD, no thyromegaly.
+Cardiovascular: Irregularly irregular rhythm, no murmurs appreciated, no significant edema.
+Respiratory: Clear to auscultation bilaterally, no wheezes, no crackles.
+Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+Extremities: Diminished dorsalis pedis pulses bilaterally, no ulcers, no cyanosis.
+Musculoskeletal: Mild crepitus bilateral knees, no effusion.
+Skin: Warm, dry, intact.
+Neuro: Cranial nerves II-XII grossly intact, no focal deficits.
+Psych: Mood and affect appropriate.
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Smoking status details: Patient reports that he smoked 1 pack per day for 30 years, then stopped completely for a period of 5 years, then restarted smoking at a reduced rate of about a quarter pack (approximately 5 cigarettes) per day, which he has continued for the past 20 years and continues to smoke daily.
+Alcohol use: Not on file
+Substance use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: [blank]
+
+SMOKING CESSATION COUNSELING: Extensive discussion held regarding health risks of continued tobacco use given cardiovascular and vascular comorbidities. Patient states he wants to quit and has set a quit date for 10/30/2024. Nicotine replacement therapy options discussed; patient will consider patch vs gum. General discussion held regarding tobacco-related health risks and importance of ongoing monitoring.
+
+PROBLEM LIST (ICD-10):
+I10 - Essential hypertension
+E11.9 - Type 2 diabetes mellitus without complications
+I48.91 - Atrial fibrillation, unspecified
+I73.9 - Peripheral artery disease, unspecified
+K21.9 - Gastro-esophageal reflux disease without esophagitis
+M19.90 - Osteoarthritis, unspecified site (outdated entry, likely bilateral knees per prior notes)
+Z87.891 - Personal history of nicotine dependence (outdated - patient is current smoker per today's visit)
+
+MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Lisinopril 20mg PO daily
+3. Atorvastatin 40mg PO qHS
+4. Apixaban 5mg PO BID
+5. Omeprazole 20mg PO daily
+6. Acetaminophen 500mg PRN joint pain
+7. Aspirin - discontinued given apixaban use
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled, continue lisinopril.
+2. Type 2 diabetes mellitus - continue metformin, recheck A1c in 3 months.
+3. Atrial fibrillation - continue apixaban, rate controlled today.
+4. Peripheral artery disease - continue monitoring, ankle-brachial index if symptoms worsen.
+5. GERD - continue omeprazole.
+6. Osteoarthritis - continue acetaminophen, consider PT referral.
+7. Tobacco use - counseled extensively today, quit date set for 10/30/2024, will follow up on cessation progress at next visit.
+
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+Farah Siddiqui, MD

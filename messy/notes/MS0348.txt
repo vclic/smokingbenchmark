@@ -1,0 +1,62 @@
+TELEHEALTH VISIT NOTE
+Patient: Gary Thompson | DOB: 9/15/1960 (age 65) | Sex: M
+Date of Service: 11/11/2025
+Provider: Isaac Moreno, PA-C | Family Medicine
+Visit type: Telehealth - medication refills
+
+CHIEF COMPLAINT: Med refills, chronic disease follow up.
+
+HPI: 65 yo M with PAD, T2DM, CKD stage 3, hypothyroidism, obesity, OSA presents via video visit for routine refills. Reports stable claudication sx, no rest pain, no new ulcers. Home glucose logs reviewed, fasting readings 110-140. No hypoglycemic episodes. Denies chest pain, SOB, orthopnea. Sleep apnea - uses CPAP nightly, tolerating well per pt report. Pt has a long history of heavy smoking; quit smoking in 2009 and remains abstinent. No withdrawal concerns raised today. Denies illicit drug use. Reports good adherence to meds overall, occasionally misses levothyroxine dose.
+
+PROBLEM LIST:
+- I73.9 Peripheral artery disease, unspecified
+- E11.9 Type 2 diabetes mellitus without complications (outdated - now w/ CKD, see below)
+- N18.3 Chronic kidney disease, stage 3
+- E03.9 Hypothyroidism, unspecified
+- E66.9 Obesity, unspecified
+- G47.33 Obstructive sleep apnea
+- I10 Essential hypertension (outdated, resolved per pt)
+- Z87.891 Personal history of nicotine dependence
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Smoking status: Quit 2009
+Packs/day: Not on file
+Alcohol use: Occasional, denies excess
+Drug use: Denies
+Occupation: Retired
+Living situation: Lives with spouse
+Exercise: Sedentary, limited by claudication
+
+REVIEW OF SYSTEMS: Constitutional - denies fever, chills, wt loss. HEENT - denies vision changes, denies hearing loss. CV - denies chest pain, denies palpitations, +hx claudication as above. Resp - denies cough, denies hemoptysis, uses CPAP. GI - denies nausea, denies vomiting, denies abd pain. GU - denies dysuria, denies hematuria. MSK - denies joint swelling, +bilateral leg cramping w/ ambulation. Skin - denies rashes, denies non-healing wounds. Neuro - denies numbness, denies focal weakness. Psych - denies depression, denies anxiety. Endocrine - denies polyuria, denies polydipsia. All other systems reviewed and negative.
+
+MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Levothyroxine 100mcg PO daily
+3. Atorvastatin 40mg PO qHS
+4. Aspirin 81mg PO daily
+5. Cilostazol 100mg PO BID
+6. Lisinopril 10mg PO daily
+7. Furosemide 20mg PO daily prn edema
+8. Vitamin D3 2000IU PO daily
+
+PHYSICAL EXAM:
+General: obese male, telehealth visit, appears comfortable, no acute distress.
+Vitals per home cuff: BP 138/82, HR 76, wt 245 lbs (self-reported).
+CV: Regular rate and rhythm noted on prior in-person exam, not auscultated today (telehealth).
+Resp: No visible respiratory distress on camera.
+Ext: No visible ulcers on camera; pt reports no new skin breakdown. Distal pulses not palpable via telehealth, deferred to next in-person visit.
+Skin: No rashes visible.
+Psych: Mood euthymic, appropriate affect.
+
+ASSESSMENT/PLAN:
+1. PAD - continue cilostazol, aspirin, encourage walking program as tolerated.
+2. T2DM - continue metformin, order HbA1c, continue glucose log review.
+3. CKD stage 3 - continue monitoring GFR, renally dose meds as appropriate, recheck BMP.
+4. Hypothyroidism - continue levothyroxine, recheck TSH in 3 months.
+5. Obesity - discussed diet, weight management resources offered.
+6. OSA - continue CPAP, encourage compliance download review at next visit.
+7. Tobacco history - former smoker, quit 2009, continue to reinforce abstinence, no current cessation counseling needed given quit status.
+Follow up in 3 months or sooner if symptoms worsen. Labs ordered as above. Pt verbalized understanding, agreed with plan.
+
+Electronically signed: Isaac Moreno, PA-C

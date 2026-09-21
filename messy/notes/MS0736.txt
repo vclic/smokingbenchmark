@@ -1,0 +1,40 @@
+TELEHEALTH F/U VISIT — PULMONOLOGY
+DOS: 01/27/2026
+Provider: Julia Brennan, MD
+Pt: Samuel Mitchell, M, DOB 1/27/1966 (age 60)
+
+CC: incidental lung nodule f/u, telehealth visit.
+
+HPI: 60 yo M seen for f/u of incidentally noted RUL nodule found on CT chest during prior ED w/u for cough. Pt reports doing well overall, no new resp sx, no hemoptysis, no wt loss. Denies fevers/chills. c/o mild fatigue, stable. No change in exercise tolerance.
+
+---COPY FORWARD FROM PRIOR VISIT NOTE DATED 07/14/2025 (left in chart, not updated)---
+Pt seen for HTN/BPH f/u. BP well controlled on lisinopril 20mg daily. Denies chest pain, palpitations. BPH sx stable on tamsulosin, nocturia x1. Depression stable on sertraline 100mg, PHQ-9 4/30 today, no SI/HI. Pt ambulatory, independent ADLs. Labs reviewed: BMP wnl, Cr 0.9. PSA 1.1 (04/2025). Plan: cont current meds, f/u 6 mo, routine labs prior to next visit. Pt counseled on diet/exercise. RTC prn.
+---END COPY FORWARD---
+
+ROS: Resp - no cough currently, no SOB. CV - no CP. GU - nocturia stable. Psych - mood stable per pt.
+
+PMH: HTN, depression, BPH.
+PSH: none significant.
+Meds: lisinopril 20mg qd, tamsulosin 0.4mg qhs, sertraline 100mg qd.
+Allergies: NKDA.
+
+Soc Hx: Retired mechanic. Lives w/ spouse. EtOH occasional. Smoking hx: former smoker, quit smoking in 2019 at time of a stroke. Pt states he has not smoked since that event, now several yrs tobacco-free.
+
+Vitals (per home BP cuff/telehealth): BP 128/78, HR 72, wt 190 lb (stable), no fever reported.
+
+Results reviewed:
+- CT chest w/o contrast 12/02/2025: 8mm solid nodule RUL, unchanged in density, no calcification pattern of benign etiology.
+- CBC 12/15/2025: WNL.
+- BMP 12/15/2025: Na 140, K 4.2, Cr 1.0, gluc 96.
+- PFTs 01/05/2026: FEV1 78% predicted, FVC 82% predicted, FEV1/FVC 0.71 - mild obstructive pattern.
+
+A/P:
+1. RUL pulmonary nodule, 8mm, stable on interval imaging - continue surveillance per Fleischner-type protocol, repeat CT chest in 6-12 mo. Risk factors reviewed incl 43 pack-year smoking history. Smoking cessation counseling reinforced although pt already quit; congratulated on cessation. Lung cancer screening guidelines discussed with patient in general terms.
+2. HTN - stable on current regimen, cont lisinopril.
+3. Depression - stable on sertraline, no acute concerns, cont current dose.
+4. BPH - stable on tamsulosin, will check PSA at next visit.
+5. Mild obstructive pattern on PFTs - likely reflects prior tobacco exposure, no acute intervention needed at this time, monitor.
+
+Plan: f/u telehealth or in-office in 6 mo or sooner if new sx (hemoptysis, wt loss, worsening dyspnea) - pt instructed to call sooner if concerns arise. Repeat CT chest per surveillance timeline. Continue current medications. RTC prn.
+
+Electronically signed: Julia Brennan, MD, 01/27/2026.

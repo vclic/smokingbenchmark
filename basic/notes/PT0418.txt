@@ -1,0 +1,40 @@
+General Medicine Clinic Clinic Note
+Date of Service: 1/31/25
+Patient: Susan Price   DOB: 8/4/1970   MRN: 81880539
+
+SUBJECTIVE:
+CC: Heartburn
+HPI: Mrs. Price is a 54-year-old woman with a history of HLD and HTN who presents for heartburn. Epigastric burning x 1 month. Taking OTC antacids.
+
+PMH:
+- Hypertension
+- Hypercholesterolemia (dx 2013)
+Meds: ezetimibe 10 mg daily; losartan 50 mg daily; amlodipine 5 mg daily; rosuvastatin 20 mg daily; fish oil 1 g daily
+Allergies: NKDA
+SH: Not reviewed this visit.
+FH: Parents deceased, causes unknown. Father - stroke.
+ROS: GI neg, Skin neg, Neuro neg, MSK neg, CV neg, Gen neg
+
+O:
+Vitals: BP: 154/78  HR: 68  RR: 18  Temp: 97.6 F  SpO2: 96% on RA  Wt: 179 lbs  BMI: 28.8
+Exam:
+  General: Comfortable, conversant
+  HEENT: Unremarkable
+  Neck: No thyromegaly or lymphadenopathy
+  CV: Regular rate and rhythm, normal S1/S2, no murmurs
+  Lungs: CTA b/l, no wheezes/rales/rhonchi
+  Abd: Benign
+  Ext: No edema
+  Neuro: Nonfocal
+  Psych: Appropriate
+
+A/P:
+1. GERD / dyspepsia
+   - H. pylori stool antigen. PPI trial 8 weeks.
+2. Hypercholesterolemia: LDL at goal on last check; continue.
+3. Hypertension
+   - Elevated today; home BP log requested.
+
+f/u 1 mo
+
+-- MD (DO)

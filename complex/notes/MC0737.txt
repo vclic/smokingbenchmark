@@ -1,0 +1,78 @@
+TELEHEALTH VISIT NOTE
+Patient: Yolanda Ross | DOB: 6/30/1944 | Age: 80 y/o F
+Date of Service: 06/30/2024
+Provider: Julia Brennan, MD - Internal Medicine
+
+CHIEF COMPLAINT: Follow-up for hypertension and diabetes.
+
+HPI: Ms. Ross is an 80-year-old woman seen today via video visit for routine follow-up of her HTN and T2DM. She reports feeling generally well, no chest pain, no significant dyspnea beyond her baseline. She continues to check her BP at home with readings in the 130s-140s/70s-80s range. Blood sugars have been fairly stable per her home glucometer log. Smoking history: patient smoked a quarter pack (about 5 cigarettes) per day for 42 years, then increased to half a pack (about 10 cigarettes) per day for 19 years and continues to smoke at that rate currently. She states she is not ready to quit at this time; brief counseling was provided regarding cessation resources and risks, and she was encouraged to reconsider in the future. She denies alcohol or illicit drug use.
+
+PAST MEDICAL HISTORY: GERD, depression, obesity, asthma, hypothyroidism, peripheral artery disease, hypertension, type 2 diabetes mellitus.
+
+--- COPIED FORWARD FROM VISIT 11/14/2022 ---
+REVIEW OF SYSTEMS (templated, copied forward, may not reflect current visit):
+Constitutional: denies fever, chills, unintentional weight loss.
+Eyes: denies vision changes.
+ENT: denies sore throat, denies hearing loss.
+Cardiovascular: denies chest pain, denies palpitations, denies orthopnea.
+Respiratory: denies hemoptysis; occasional cough attributed to asthma, uses albuterol PRN.
+GI: reports intermittent heartburn, controlled with omeprazole.
+GU: denies dysuria, denies hematuria.
+Musculoskeletal: denies joint swelling, reports chronic mild lower back pain.
+Skin: denies rash.
+Neuro: denies numbness, denies weakness.
+Psych: history of depression, stable on sertraline, denies SI/HI.
+Endocrine: denies polyuria, denies polydipsia at this time.
+PHYSICAL EXAM (templated, copied forward):
+General: well-developed, well-nourished, in no acute distress.
+HEENT: normocephalic, atraumatic, PERRLA, EOMI.
+Neck: supple, no JVD, no thyromegaly.
+Lungs: clear to auscultation bilaterally, no wheezes/rales/rhonchi noted at that visit.
+CV: regular rate and rhythm, no murmurs/rubs/gallops.
+Abdomen: soft, non-tender, non-distended, normoactive bowel sounds.
+Extremities: no edema, pulses intact, mild decreased dorsalis pedis pulse bilaterally consistent with known PAD.
+Skin: warm, dry, intact.
+Neuro: alert and oriented x3, grossly non-focal.
+--- END COPIED FORWARD SECTION ---
+
+CURRENT VISIT PHYSICAL EXAM (06/30/2024, telehealth - limited exam):
+General: alert, conversant, appears stated age, no acute distress noted on video.
+Respiratory: no visible respiratory distress, no audible wheeze during call.
+Skin: no visible rashes or lesions on video.
+(Note: formal cardiopulmonary auscultation not possible via telehealth.)
+
+LABS/RESULTS:
+06/28/2024 - HbA1c: 7.2%
+06/28/2024 - Fasting glucose: 138 mg/dL
+06/28/2024 - Lipid panel: Total cholesterol 188, LDL 102, HDL 46, Triglycerides 150
+06/28/2024 - BMP: Na 138, K 4.3, Cl 101, CO2 24, BUN 18, Cr 0.9, eGFR 68
+06/28/2024 - TSH: 3.1 uIU/mL (within normal limits, on levothyroxine)
+04/15/2024 - Urine microalbumin/creatinine ratio: 28 mg/g (borderline elevated)
+
+CURRENT MEDICATIONS:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Amlodipine 5 mg PO daily
+4. Atorvastatin 40 mg PO nightly
+5. Levothyroxine 75 mcg PO daily
+6. Sertraline 100 mg PO daily
+7. Omeprazole 20 mg PO daily
+8. Albuterol HFA inhaler PRN
+9. Aspirin 81 mg PO daily
+10. Cilostazol 100 mg PO BID (for PAD)
+11. Vitamin D3 1000 IU PO daily
+
+ASSESSMENT/PLAN:
+1. Hypertension - well controlled on current regimen, continue lisinopril and amlodipine.
+2. Type 2 diabetes mellitus - A1c 7.2%, reasonable control, continue metformin, reinforce diet/exercise.
+3. Tobacco use - ongoing, patient not ready to quit at this visit; discussed risks, offered resources, will readdress at future visits. Lung cancer screening options were discussed in general terms with patient.
+4. GERD - stable on omeprazole.
+5. Depression - stable on sertraline, continue monitoring.
+6. Obesity - counseled on lifestyle modification.
+7. Asthma - stable, continue albuterol PRN.
+8. Hypothyroidism - TSH within normal limits, continue current dose levothyroxine.
+9. Peripheral artery disease - continue cilostazol and aspirin, monitor pulses.
+
+Follow-up in 3 months or sooner if concerns arise.
+
+Electronically signed: Julia Brennan, MD

@@ -1,0 +1,87 @@
+NURSE INTAKE NOTE
+Patient: Hung Carter, M, DOB 06/08/1952 (age 73)
+Date of Service: 06/08/2025
+Provider: Catherine Lindqvist, DO
+Family Medicine - Annual Wellness Visit
+
+Vitals: BP 138/82 (L arm, sitting), HR 74 reg, RR 16, Temp 97.8F, SpO2 96% RA
+Ht 5'9" Wt 198 lb BMI 29.2
+Pain scale: 3/10, chronic, knees bilaterally
+
+CC: Here for annual wellness visit. Reports doing 'okay overall.' Denies acute complaints today. Here to review labs and refill meds.
+
+Allergies: NKDA
+Tobacco: Never smoker - patient states he has never used tobacco products of any kind.
+Alcohol: Occasional beer, 1-2/week
+Substance use: Denies illicit drug use
+
+Medication list reviewed with patient (reconciled):
+1. Lisinopril 20 mg PO daily
+2. Amlodipine 5 mg PO daily
+3. Allopurinol 300 mg PO daily
+4. Colchicine 0.6 mg PO PRN gout flare
+5. Meloxicam 15 mg PO daily PRN knee pain
+6. Clopidogrel 75 mg PO daily
+7. Atorvastatin 40 mg PO qHS
+8. CPAP nightly for OSA, patient reports adherence ~5-6 hrs/night
+9. Acetaminophen 500 mg PRN
+10. Tamsulosin 0.4 mg PO qHS
+
+---
+PHYSICIAN PROGRESS NOTE
+Date of Service: 06/08/2025
+Author: Catherine Lindqvist, DO
+
+HPI: Mr. Carter is a 73-year-old male (DOB 6/8/1952) with history of osteoarthritis, peripheral artery disease, gout, hypertension, and obstructive sleep apnea, presenting for annual wellness exam. He reports stable knee pain, managed with meloxicam and occasional acetaminophen. No new claudication symptoms; he continues his daily walking regimen as tolerated. No gout flares since last visit in Nov 2024. Sleep apnea well controlled on CPAP per patient report, though adherence is borderline per download data pending review. Blood pressure has been at goal on current regimen per home log. Reviewed tobacco history in detail - patient reaffirms he has never smoked cigarettes, cigars, pipes, or used any tobacco/nicotine products in his lifetime. No vaping history either. This is consistent with prior documentation across the chart.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss, fatigue
+Eyes: denies vision changes, denies eye pain
+ENT: denies hearing loss, denies sore throat, denies nasal congestion
+Cardiovascular: denies chest pain, denies palpitations, admits occasional leg cramping with ambulation c/w known PAD, denies orthopnea
+Respiratory: denies cough, denies dyspnea at rest, denies wheezing, uses CPAP nightly
+GI: denies nausea, denies vomiting, denies abdominal pain, denies change in bowel habits
+GU: denies dysuria, denies hematuria, admits mild nocturia x1-2/night
+Musculoskeletal: admits chronic bilateral knee pain, denies new joint swelling, denies back pain
+Skin: denies rash, denies new lesions
+Neuro: denies headache, denies numbness, denies weakness, denies dizziness
+Psych: denies depression, denies anxiety, sleep adequate per patient
+Endocrine: denies polyuria, denies polydipsia
+Heme/Lymph: denies easy bruising, denies swollen lymph nodes
+Allergic/Immunologic: denies seasonal allergies
+
+Physical Exam:
+General: well-appearing, well-nourished male, NAD, appropriate for stated age of 73
+HEENT: normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly
+Neck: supple, no JVD, no carotid bruits appreciated
+Cardiovascular: RRR, no murmurs/rubs/gallops, pedal pulses 1+ bilaterally (baseline per PAD), no edema
+Respiratory: clear to auscultation bilaterally, no wheezes/rales/rhonchi
+Abdomen: soft, nontender, nondistended, normoactive bowel sounds, no hepatosplenomegaly
+Extremities: no acute swelling, mild crepitus bilateral knees on ROM, no calf tenderness, DP/PT pulses diminished bilaterally (chronic, stable)
+Skin: warm, dry, no rashes, no ulcerations noted on lower extremities
+Neuro: alert, oriented x3, CN II-XII grossly intact, gait steady with no assistive device today
+Psych: mood euthymic, affect appropriate
+
+Labs (reviewed today, drawn 06/05/2025):
+CBC: WBC 6.8, Hgb 14.1, Hct 42.0%, Plt 220
+BMP: Na 139, K 4.3, Cl 101, CO2 25, BUN 18, Cr 1.1, eGFR 68, Glucose 98
+Uric acid: 6.9 mg/dL (improved from 8.2 mg/dL on 01/2025)
+Lipid panel: Total chol 165, LDL 88, HDL 42, Trig 175
+HbA1c: 5.6%
+TSH: 2.1
+Urinalysis: unremarkable, no protein, no blood
+
+Assessment/Plan:
+1. Osteoarthritis, bilateral knees - stable on current regimen, continue meloxicam, PT referral if worsens
+2. Peripheral artery disease - stable, continue clopidogrel, continue walking program, ABI stable per last vascular note
+3. Gout - improved uric acid control, continue allopurinol, reinforce dietary modification
+4. Hypertension - at goal, continue lisinopril/amlodipine, recheck BP at next visit
+5. Obstructive sleep apnea - review CPAP compliance download at next visit, encourage continued nightly use
+6. Health maintenance - annual labs reviewed, discussed age-appropriate cancer screening. Colonoscopy up to date per prior note. Lung cancer screening was briefly discussed given his age, though given his never-smoker status this was not pursued further. Immunizations reviewed and updated as needed (influenza given today).
+7. Return to clinic in 6 months or sooner as needed.
+
+Electronically signed: Catherine Lindqvist, DO, 06/08/2025 14:32
+
+---
+ADDENDUM (later same day, 06/08/2025 17:10) - Catherine Lindqvist, DO
+Patient called nursing line this afternoon to clarify a question about his flu shot site soreness; reassured this is expected and should resolve in 24-48 hrs. No new symptoms reported. No changes to plan above. Tobacco status reconfirmed unchanged - patient remains a lifelong never-smoker, no updates needed to history. Will follow up as scheduled.

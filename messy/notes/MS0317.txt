@@ -1,0 +1,54 @@
+GERIATRIC TELEHEALTH VISIT
+Patient: Marilyn Ramirez | DOB: 3/25/1945 | Age: 78 | Sex: F
+DOS: 03/25/2023 | Author: Owen Fitzgerald, MD | Dept: Geriatrics (telehealth)
+
+CC: Routine geriatric assessment, med review via video visit.
+
+HPI: 78 yo F c/o mild fatigue, no acute distress. Reports stable mood on current regimen, denies SI. AFib rate-controlled per pt report, no palpitations. Asthma stable, uses rescue inhaler rarely. BPH sx stable, nocturia x1-2. HFrEF followed by cardiology, denies orthopnea or worsening edema today. Adherent to meds per caregiver on call.
+
+PROBLEM LIST:
+1. F33.1 - Major depressive disorder, recurrent, moderate
+2. I48.91 - Atrial fibrillation, unspecified
+3. J45.909 - Asthma, unspecified, uncomplicated
+4. N40.1 - BPH w/ LUTS
+5. I50.22 - Chronic systolic (congestive) heart failure
+6. E11.9 - Type 2 DM (outdated - resolved per PCP note 2019, retained in chart)
+7. M17.11 - Unilateral primary OA, right knee (outdated, s/p resolution of flare 2020)
+
+SOCIAL HISTORY (EHR templated block):
+- Tobacco use: Never smoker - lifelong non-smoker per pt report.
+- Smokeless tobacco: Not on file
+- Alcohol use: Denies
+- Drug use: Not on file
+- Occupation: Retired (former schoolteacher)
+- Living situation: Lives w/ daughter, assists w/ ADLs
+- Exercise: Limited, uses walker
+
+ROS: Denies chest pain, denies SOB at rest, denies fevers. Mood fair, sleep fair. GU: nocturia as above. Resp: no wheeze today per pt.
+
+EXAM (limited via telehealth, visual only):
+Gen: Alert, seated, no acute distress, appropriate affect.
+Resp: no visible increased work of breathing, no cough noted during call.
+CV: unable to auscultate; pt denies edema on self-report, no visible peripheral swelling on camera.
+Skin: no obvious lesions visible.
+
+ASSESSMENT/PLAN:
+1. Depression - stable, continue sertraline, f/u PHQ-9 next visit.
+2. AFib - continue anticoagulation per cardiology, will request recent INR/labs if applicable.
+3. Asthma - stable, continue current inhaler regimen, reviewed proper technique verbally.
+4. BPH - continue tamsulosin, monitor voiding sx.
+5. HFrEF - continue GDMT as tolerated, daily weights reviewed with caregiver, call if wt gain >3 lbs in 2 days.
+6. Health maintenance - reviewed immunization status, discussed fall risk precautions given walker use. Lung cancer screening not discussed in detail this visit given established never-smoker status; will revisit general preventive care topics at next in-person visit.
+7. Telehealth limitations noted - pt agreeable to in-person f/u in 3 months or sooner if sx worsen.
+
+MEDS (reviewed, per pt/caregiver report - not independently verified this visit):
+- Sertraline
+- Apixaban
+- Albuterol PRN
+- Tamsulosin
+- Metoprolol succinate
+- Furosemide PRN per weight protocol
+
+Caregiver present for portion of call, corroborated hx as above. Pt tolerated visit well, no distress noted. F/u as above, RTC or sooner PRN.
+
+Electronically signed: Owen Fitzgerald, MD, Geriatrics, 03/25/2023.

@@ -1,0 +1,45 @@
+PROGRESS NOTE
+Date of Service: 1/31/2025
+Patient: Paula Garcia   DOB: 2/2/1953   MRN: 30718221
+
+S:
+CC: Chronic disease f/u
+HPI: Ms. Garcia is a 71 y.o. female with a history of HLD, AFib, and CKD3 who presents for routine follow-up of chronic conditions. No new concerns. Asks about refills.
+
+PMH: CKD stage 3, Hypercholesterolemia, Atrial fibrillation (dx 2021)
+Meds: atorvastatin 20 mg daily; vitamin D3 2000 IU daily; apixaban 5 mg BID
+Allergies: NKDA
+Social History:
+- Lives with husband and adult daughter.
+- Social drinker.
+- Denies illicit drugs.
+- Exercise: walks daily.
+FH: Father - MI at 74. Father smoked 2 ppd, died of emphysema at 74.
+ROS: Negative except as noted in HPI.
+
+OBJECTIVE:
+Vitals: BP: 127/73  HR: 95  RR: 14  Temp: 98.8 F  SpO2: 95% on RA  Wt: 145 lbs  BMI: 26.5
+Exam:
+  General: Comfortable, conversant
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: Supple, no LAD, no JVD
+  CV: Irregularly irregular rhythm, rate controlled, no murmur
+  Lungs: Clear, good air movement
+  Abd: Benign
+  Ext: Warm, well perfused, no edema
+  Neuro: CN II-XII grossly intact, strength 5/5 throughout
+  Psych: Appropriate
+
+ASSESSMENT/PLAN:
+1. CKD stage 3
+   - Cr stable. Avoid NSAIDs.
+2. Atrial fibrillation
+   - CHA2DS2-VASc reviewed; continue DOAC.
+3. Hypercholesterolemia
+   - Continue statin. Lipid panel due.
+4. Health maintenance
+   - Lung cancer screening: not indicated (never somker).
+
+Follow up in 3 months or sooner PRN.
+
+Brian Okonkwo, MD

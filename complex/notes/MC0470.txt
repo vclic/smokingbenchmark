@@ -1,0 +1,62 @@
+CARDIOLOGY PROGRESS NOTE
+Patient: Dorothy Ramirez | DOB: 8/17/1952 | Age: 71 | Sex: F
+Date of Service: 08/17/2023
+Author: Isaac Moreno, PA-C
+
+CC: Chest pain evaluation.
+
+HPI: 71 yo F w/ hx HFrEF, T2DM, afib, obesity, GERD p/w intermittent substernal chest pressure x3 days, non-exertional at times, no radiation. No diaphoresis. Denies SOB at rest, some DOE. Home BP logs reviewed, stable. Pt reports adherence to meds.
+
+---- COPIED FORWARD FROM PRIOR VISIT 02/14/2022 (retained per EHR carryover, not all current) ----
+HPI: Pt seen for routine f/u HFrEF, EF 35% on TTE 01/2022. Denies chest pain, orthopnea, PND. Weight stable. Diet reviewed, low Na counseled. Afib on anticoagulation, no bleeding events. GERD controlled on PPI. Diabetes A1c 7.2% at last check. Continue current regimen, f/u 6 months.
+---- END COPIED SECTION ----
+
+TOBACCO/SUBSTANCE USE (EHR templated block):
+Smoking status: Never Smoker [NOTE: this templated field is incorrect/outdated - see corrected history below]
+Corrected Tobacco Hx: Pt is a former smoker, quit smoking 30 years ago. Started smoking 1 pack per day at age 14, continued at that rate until quitting in 1993. Denies any smoking since. Alcohol: quit drinking alcohol in 2011, denies current use. No illicit drug use.
+
+ROS: Constitutional: no fever, no chills, mild fatigue. Cardiac: chest pressure as above, no palpitations reported today. Resp: no cough, mild DOE. GI: occasional reflux, no nausea/vomiting. GU: no dysuria. MSK: no joint swelling. Neuro: no focal deficits, no syncope. Skin: no rashes. Psych: mood stable. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78 irregular, RR 16, SpO2 96% RA, Wt 198 lb, BMI 34.
+Gen: NAD, obese female, alert.
+HEENT: PERRLA, no JVD noted at 30 deg.
+CV: irregularly irregular rhythm, no murmurs, no S3/S4 appreciated today.
+Lungs: CTAB, no wheezes/rales.
+Abd: obese, soft, non-tender, +BS.
+Ext: trace bilateral pitting edema.
+Skin: warm, dry.
+Neuro: grossly intact.
+
+LABS/RESULTS:
+08/17/2023 BNP: 410 pg/mL (elevated)
+08/17/2023 Troponin: <0.01 ng/mL x1
+08/16/2023 A1c: 7.4%
+08/16/2023 Creatinine: 1.1 mg/dL, eGFR >60
+08/10/2023 INR: 2.3 (therapeutic)
+EKG 08/17/2023: Afib, rate 78, no acute ST changes.
+
+MEDICATIONS:
+1. Metoprolol succinate 50mg daily
+2. Furosemide 40mg daily
+3. Lisinopril 10mg daily
+4. Spironolactone 25mg daily
+5. Metformin 1000mg BID
+6. Apixaban 5mg BID
+7. Omeprazole 20mg daily
+8. Atorvastatin 40mg qHS
+9. Empagliflozin 10mg daily
+10. Aspirin 81mg daily (held pending anticoag review)
+
+ASSESSMENT/PLAN:
+71 yo F with chest pain, HFrEF, T2DM, afib, obesity, GERD.
+1. Chest pain - low suspicion ACS given normal troponin, EKG unchanged. Consider stress test outpt.
+2. HFrEF - continue GDMT, monitor weight/edema, BNP trending.
+3. T2DM - A1c improving, continue current regimen.
+4. Afib - INR therapeutic, continue apixaban.
+5. Tobacco history - discussed with pt given significant prior pack-per-day history; lung cancer screening options discussed generally with patient; former smoker status counseled, encouraged continued abstinence.
+6. GERD - continue PPI.
+7. Obesity - counseled diet/exercise.
+F/u 3 months or sooner if symptoms worsen.
+
+Isaac Moreno, PA-C

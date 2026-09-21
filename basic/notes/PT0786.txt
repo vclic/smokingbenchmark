@@ -1,0 +1,68 @@
+Pulmonology Office Visit
+
+Patient: TORRES, Loretta    MRN: 14586349
+DOB: 12/17/1965    Age: 59 y.o.    Sex: Female
+Date of Service: 01/27/2025    Provider: Rachel Goldberg, MD
+
+Chief Complaint
+Patient presents with
+• Lung nodule
+
+Subjective:
+Loretta Torres is a 59 y.o. female who presents for follow-up of a pulmonary nodule.
+Incidental 6 mm ground-glass RUL nodule on CT 27-Feb-2024 (CT abdomen, lung bases). No hemoptysis or weight loss.
+
+Past Medical History:
+Diagnosis	Date
+• Hyperlipidemia	2017
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Tonsillectomy (childhood)
+• Rotator cuff repair (2018)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• rosuvastatin 10 mg daily
+• vitamin D3 2000 IU daily
+
+Allergies
+• No known allergies
+
+Social History
+Tobacco Use
+• Smoking status: Never
+• Smokeless tobacco: Never
+Social History Narrative
+  Widowed; lives with daughter.
+  Husband smokes 1 ppd in the home.
+  EtOH: 2-3 drinks on weekends.
+  Drives.
+
+Family History
+Mother - HTN, DM2.
+
+Review of Systems
+Review of systems negative except as above.
+
+Objective:
+Vitals:
+  BP 125/72 (BP Location: Left arm, Patient Position: Sitting) | Pulse 76 | Temp 97.8 °F (Oral) | Resp 12 | Ht 5' 5" | Wt 134 lb | SpO2 98% | BMI 22.31 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: Supple, no LAD, no JVD
+Cardiovascular: RRR, S1S2 nl
+Lungs: Clear, good air movement
+Abdominal: Benign
+Extremities: No edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Appropriate
+
+Assessment & Plan
+1. Pulmonary nodule
+   Low-risk patient per Fleischner. Repeat CT chest in 12 months.
+
+f/u 6 mo
+
+Electronically signed by Rachel Goldberg, MD on 01/27/2025

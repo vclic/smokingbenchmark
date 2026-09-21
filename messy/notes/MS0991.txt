@@ -1,0 +1,37 @@
+Cardiology Nurse Intake / Physician Progress Note
+Patient: Susan Price | DOB: 2/3/1961 | Age: 64
+Date of Service: 02/03/2025
+Author: Hannah Weiss, NP
+
+--- NURSE INTAKE ---
+Vitals: BP 138/84, HR 78, RR 16, O2 sat 96% RA, Wt 212 lb, Ht 5'4", BMI 36.4
+Pt seen today for HF follow up, ambulated in no acute distress. Denies chest pain today, reports "I get winded going up the stairs still but its a bit better than last time." Denies fevers/chills. Med rec done, see list below.
+
+--- HPI ---
+64 yo female w/ hx of HFpEF, HTN, obesity, GERD, asthma, CKD stage 3 presenting for routine cardiology follow up. She states "I've been taking my water pill most days but sometimes I forget the evening dose." She reports mild lower extremity swelling, worse by end of day, improved w/ elevation. No orthopnea, no PND. She denies palpitations or syncope. Diet has been "okay, I try to watch the salt but its hard when eating out" per pt report. She continues to use her asthma inhalers as needed, denies increased use recently. No recent ED visits or hospitalizations since last seen.
+
+ROS: Constitutional: denies fever, chills, night sweats, unintentional weight loss. HEENT: denies vision changes, hearing changes, sore throat. Cardiovascular: + occasional lower extremity edema as above, denies chest pain, denies palpitations. Respiratory: denies cough, denies hemoptysis, mild dyspnea on exertion as noted above. GI: + occasional heartburn, denies nausea, vomiting, diarrhea, constipation, denies blood in stool. GU: denies dysuria, denies hematuria. Musculoskeletal: denies joint pain, denies swelling other than noted. Neuro: denies headache, denies dizziness, denies numbness/tingling. Skin: denies rash. Psych: denies depression, denies anxiety. All other systems reviewed and negative.
+
+Medications: Furosemide 40mg daily, Lisinopril 10mg daily, Metoprolol succinate 50mg daily, Spironolactone 25mg daily, Omeprazole 20mg daily, Albuterol HFA inhaler PRN, Fluticasone/salmeterol inhaler BID, Atorvastatin 20mg daily, Aspirin 81mg daily, Vitamin D3 1000 IU daily.
+
+Physical Exam: General: well appearing, NAD, obese habitus. HEENT: normocephalic, atraumatic, PERRLA, oropharynx clear. Neck: no JVD appreciated at 30 degrees, no thyromegaly. Lungs: mild bibasilar crackles, no wheezes appreciated today, breathing comfortably. Cardiac: RRR, S1 S2 normal, no murmurs rubs or gallops appreciated, 1+ pitting edema bilateral lower extremities to mid shin. Abdomen: obese, soft, non-tender, non-distended, normoactive bowel sounds. Extremities: warm, well perfused, no clubbing or cyanosis. Skin: no rashes or lesions noted. Neuro: alert and oriented x3, no focal deficits.
+
+Labs/Results (reviewed today):
+- BNP 01/28/2025: 342 pg/mL (elevated)
+- BMP 01/28/2025: Na 138, K 4.2, Cl 101, CO2 24, BUN 22, Cr 1.4, eGFR 46
+- A1c 12/15/2024: 5.7%
+- Lipid panel 12/15/2024: TC 178, LDL 96, HDL 48, TG 170
+
+Assessment/Plan:
+1. Heart failure with preserved ejection fraction - clinically stable, mild residual edema, will increase furosemide slightly and recheck BMP in 2 weeks given CKD stage 3, reinforce low sodium diet, pt educated on daily weights.
+2. Hypertension - reasonably controlled today, continue current regimen.
+3. Social history / smoking - patient is a former smoker with a 32-year smoking history; she quit smoking 12 years ago. Continue to encourage maintenance of abstinence given cardiopulmonary comorbidities.
+4. GERD - stable on omeprazole, continue current dose.
+5. Asthma - stable, using inhalers as prescribed, no recent exacerbations, continue current regiment [sic].
+6. CKD stage 3 - stable, will monitor renal function w/ upcoming labs, avoid nephrotoxic agents.
+7. Obesity - discussed weight management, referred to nutrition for further counseling, discussed general risk factors for cardiopulmonary disease including prior tobacco use [inaudible] risk reduction strategies discussed at length with pt who was agreeable to follow up.
+Return to clinic in 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (later same day, 02/03/2025, 4:47 PM) ---
+Spoke with pt by phone after she called clinic regarding new prescription for furosemide dose increase, instructions reviewed, she verbalized understanding of daily weight monitoring and when to call clinic (weight gain >3 lbs in 2 days or >5 lbs in a week). No new concerns voiced at this time. Will continue to follow up as scheduled in 3 months.
+-Hannah Weiss, NP

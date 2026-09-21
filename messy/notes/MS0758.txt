@@ -1,0 +1,86 @@
+CONSULT NOTE / LETTER TO REFERRING PHYSICIAN
+Elena Markovic, MD - Internal Medicine
+Date of Service: 08/18/2024
+
+Patient: Carol Washington (F), DOB: 08/18/1961 (Age 63)
+Re: Follow-up visit after recent hospitalization for pneumonia
+
+Dear Dr. colleague,
+
+Thank you for referring Ms. Washington for follow-up after her recent discharge. I saw her today in clinic, 2 weeks post-discharge from her admission for community-acquired pneumonia.
+
+HPI:
+Ms. Washington is a 63-year-old woman with history of hypothyroidism, COPD, obesity, asthma, and coronary artery disease who presents today for post-hospitalization follow-up. She states, "I'm breathing a lot better than when I went into the hospital, but I still get winded walking up my porch steps." She reports mild residual cough, productive of small amounts of white sputum, no fevers or chills. She denies chest pain, denies hemoptysis. She says, "I finished all my antibiotics, I think it was a 7-day course." She is tolerating oral intake, sleeping better than during her hospitalization.
+
+She was seen in the ED on 08/02/2024 with fever, cough, and dyspnea, admitted for 4 days with IV antibiotics, discharged 08/06/2024 on a course of oral amoxicillin-clavulanate. She followed up briefly with her pulmonologist last week who continued her home inhalers.
+
+Review of systems otherwise negative except as noted above. No leg swelling, no orthopnea, no palpitations.
+
+PROBLEM LIST:
+1. J44.9 - Chronic obstructive pulmonary disease, unspecified
+2. E03.9 - Hypothyroidism, unspecified
+3. E66.9 - Obesity, unspecified
+4. J45.909 - Asthma, unspecified, uncomplicated
+5. I25.10 - Atherosclerotic heart disease of native coronary artery without angina pectoris
+6. J18.9 - Pneumonia, unspecified organism (resolving, from recent admission)
+7. Z87.891 - Personal history of nicotine dependence (outdated - patient is current smoker, see below)
+8. M54.5 - Low back pain (chronic, stable, last addressed 2021)
+
+SOCIAL HISTORY (EHR TEMPLATE):
+Tobacco use: Current every day smoker
+Type: Cigarettes
+Packs per day: 0.5
+Years smoked: Not on file
+Alcohol use: Occasional, 1-2 drinks/week
+Drug use: Denies
+Occupation: Retired administrative assistant
+Living situation: Lives with spouse
+Exercise: Sedentary, limited by dyspnea
+Second hand smoke exposure at home: Not on file
+
+MEDICATIONS:
+- Levothyroxine 75 mcg daily
+- Albuterol/ipratropium inhaler PRN
+- Fluticasone/salmeterol inhaler BID
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg daily
+- Metoprolol succinate 25 mg daily
+- Amoxicillin-clavulanate 875/125 mg BID (completed course as of 08/09/2024)
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 78, RR 18, Temp 98.2F, SpO2 94% on room air, Weight 212 lb, BMI 36.4
+General: Well-appearing, no acute distress, mildly obese woman
+HEENT: Unremarkable
+Neck: No JVD, no lymphadenopathy
+Lungs: Mild expiratory wheeze bilaterally, decreased breath sounds at right base, no crackles, no rhonchi
+CV: RRR, no murmurs, no S3/S4
+Abdomen: Soft, obese, non-tender, non-distended
+Extremities: No edema, no clubbing, no cyanosis
+Skin: Warm, dry, intact
+
+RESULTS:
+CXR (08/02/2024): Right lower lobe infiltrate consistent with pneumonia
+CXR (08/18/2024, today): Improving right lower lobe opacity, near resolution
+CBC (08/02/2024): WBC 14.2, Hgb 12.8, Plt 310
+CBC (08/18/2024): WBC 7.1, Hgb 13.0, Plt 298
+BMP (08/18/2024): Na 139, K 4.2, Cl 101, CO2 25, BUN 14, Cr 0.8, Glucose 102
+TSH (06/15/2024): 3.1 (within normal limits)
+Lipid panel (03/2024): TC 178, LDL 98, HDL 45, TG 150
+
+ASSESSMENT AND PLAN:
+1. Community-acquired pneumonia, resolving - repeat CXR today shows near resolution of the right lower lobe infiltrate. Symptoms improving. Will continue supportive care, no further antibiotics needed at this time.
+2. COPD/Asthma overlap - continue current inhaler regimen, reviewed proper inhaler technique with patient today. Mild wheeze on exam, likely still recovering from recent pneumonia. Will follow up with pulmonology as scheduled.
+3. Tobacco use, current - patient reports she has smoked about half a pack (approximately 10 cigarettes) per day since age 20. She continues to smoke daily and states she is not ready to quit at this time, though she is willing to discuss it further. Lung cancer screening was discussed with her as part of general preventive care counseling; however, we did not get into eligibility specifics today given the acute nature of this visit. Interestingly, she also mentioned that she has set a quit date for 9/22/2024, coinciding with a family event she wants to be smoke-free for, though she is ambivalent about her actual readiness. Encouraged her to consider nicotine replacement therapy or varenicline when she feels ready; she declined pharmacotherapy today.
+4. Coronary artery disease - stable, continue aspirin, statin, beta-blocker. No chest pain reported.
+5. Hypothyroidism - TSH within normal limits in June, continue current levothyroxine dose.
+6. Obesity - discussed weight management strategies, referred to nutrition for counseling given BMI 36.4.
+
+Follow-up in 4 weeks or sooner if symptoms worsen. Will coordinate care with pulmonology and cardiology as needed.
+
+Thank you again for this referral. Please do not hesitate to contact me with any questions.
+
+Sincerely,
+Elena Markovic, MD
+Internal Medicine

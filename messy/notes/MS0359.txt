@@ -1,0 +1,37 @@
+TELEHEALTH VISIT NOTE
+Patient: Paula Garcia (DOB 3/10/1948, age 77)
+Date of Service: 05/15/2025
+Provider: Isaac Moreno, PA-C - Geriatrics
+
+HPI:
+Pt is a 77 yo F with osteoporosis, PAD, HTN, depression, and afib seen today via telehealth for routine geriatric assessment. Daughter present on call assisting with hx. Pt reports doing fairly well overall no new falls no chest pain. Some fatigue noted, otherwise stable. She mentions she used to smoke but quit smoking 20 years ago and has not resumed. No new SOB. Meds reviewed, refills requested for HTN and afib regimen.
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Former smoker
+Packs/day: 0.75
+Years: 27.00
+Quit date: Not on file
+Alcohol: denies
+Drug use: denies
+Living situation: lives w/ daughter
+Occupation: retired
+
+ROS: otherwise negative except as above, denies fevers chillsdenies palpitations today
+
+Exam (brief, telehealth-limited):
+Gen: pleasant elderly female, no acute distress
+Cardio: irreg irreg rhythm noted per pt report of home monitor, no visualized distress
+Ext: no edema visualized on camera
+Skin: no lesions noted
+
+Assessment/Plan:
+1. Osteoporosis - continue current bone health regimen, will reassess DEXA timing at next in-person visit
+2. Peripheral artery disease - stable symptoms per pt reccommend continued walking program
+3. Hypertension - well controlled per home readings continue current meds
+4. Depression - pt reports mood stable will continue current tx plan f/u w behavioral health as scheduled
+5. Atrial fibrillation - continue anticoagulation per cardiology, no acute concerns today
+6. Tobacco history - patient quit smoking; per record patient quit smoking 20 years ago; she is a former smoker and counseling regarding relapse prevention reinforced today although not currently using tobacco.
+
+Follow up in 3 months or sooner if symptoms change. Daughter to continue assisting w medication management. Telehealth visit today given transportation issues, in-person visit to be scheduled next quarter for full exam including vitals and labs as needed.
+
+Electronically signed: Isaac Moreno, PA-C

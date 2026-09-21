@@ -1,0 +1,53 @@
+GERIATRIC ASSESSMENT - GERIATRICS
+DOS: 04/24/2023
+Author: Steven Park, MD (resident note with attending attestation)
+
+Patient: Joseph Schmidt, M, DOB 04/24/1948 (age 75)
+
+HPI:
+Mr Schmidt is a 75 y/o male here for geriatric assessment, referred by PCP for eval of falls risk and polypharmacy. He is accompanied by his daughter. Patient states "I feel pretty good most days but my knees give me trouble." He denies chest pain, dyspnea at rest, or recent falls. Reports occasional gout flares, well-controlled on current regimen; denies acute flare today. Mood reportedly stable per patient, "better than last year." He denies SI/HI.
+Smoking history obtained in detail: patient reports he smoked about a quarter pack (approx 5 cigarettes) per day for 30 years, then increased to 1 pack per day for 14 years, before quitting. He is a former smoker, having quit smoking 10 years ago. He was counseled in the past on cessation and has maintained abstinence since.
+He continues on meds for HTN, asthma, depression, CKD3, and gout; reports good adherence though sometimes forgets evening dose.
+
+SOCIAL HISTORY (templated block):
+Tobacco use: Former smoker
+Alcohol use: occasional, 1-2 drinks/wk
+Illicit drug use: denies
+Occupation: retired machinist
+Living situation: lives with spouse
+Exercise: Not on file
+Diet: Not on file
+
+ROS: otherwise negative except as above. 10-point ROS reviewed and negative except as noted in HPI.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, Wt 178 lb
+Gen: NAD, well-groomed elderly male
+CV: RRR, no murmurs
+Lungs: mild expiratory wheeze bilat, no crackles
+MSK: mild swelling first MTP joint, non-tender today
+Neuro: gait steady with cane, no focal deficits
+
+PROBLEM LIST (ICD-10):
+- M10.9 Gout, unspecified
+- F32.9 Major depressive disorder, unspecified (outdated - currently stable per pt, may need dx update)
+- I10 Essential hypertension
+- J45.909 Asthma, unspecified, uncomplicated
+- N18.3 Chronic kidney disease, stage 3
+- Z87.891 Personal history of nicotine dependence
+
+ASSESSMENT/PLAN:
+75 yo M with gout, depression, HTN, asthma, CKD3 presenting for geriatric assessment.
+1. Falls risk - low today, continue cane use, PT referral considered
+2. Gout - stable, cont allopurinol
+3. Depression - stable per pt report, continue sertraline, f/u with behavioral health
+4. HTN - well controlled, continue current antihypertensives
+5. Asthma - mild wheeze on exam, continue inhaler, review technique
+6. CKD3 - stable, recheck BMP in 3 months
+7. Tobacco - former smoker, quit 10 yrs ago; lung cancer screening discussed with patient; reinforced healthy lifestyle, no further cessation counseling needed given long-term abstinence
+Return to clinic in 6 months or sooner prn.
+
+Attending attestation: I have reviewed and discussed this case with Dr. Park and agree with the assessment and plan as documented above.
+
+ADDENDUM (later same day):
+Patient's daughter called clinic after visit to clarify medication list; confirmed pt takes evening dose of losartan inconsistently. Nursing advised to reinforce adherence at next visit. No changes to plan otherwise. Smoking hx as documented above unchanged.

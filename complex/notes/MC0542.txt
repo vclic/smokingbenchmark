@@ -1,0 +1,59 @@
+CARDIOLOGY H&P – HEART FAILURE FOLLOW-UP
+Date of Service: 02/09/2024
+Author: Steven Park, MD
+
+Patient: Larry Garcia, M, DOB: 02/09/1961 (age 63)
+
+CHIEF COMPLAINT: Follow-up for heart failure.
+
+HPI: 63 yo M w/ hx HFrEF, HTN, obesity here for routine f/u. Reports mild DOE w/ 2 flights of stairs, no PND/orthopnea. No chest pain. Wt stable per home scale. Compliant w/ diuretic. No recent hospitalizations. Denies LE edema currently.
+
+PAST MEDICAL HISTORY (Problem List):
+- I50.9 Heart failure, unspecified
+- I10 Essential hypertension
+- E66.9 Obesity, unspecified
+- E78.5 Hyperlipidemia (outdated dx, not on current meds, may be resolved)
+- N18.3 CKD stage 3 (outdated, last documented 2019, unclear current status)
+
+SOCIAL HISTORY (EHR Template):
+Tobacco use: Current smoker
+Type: Cigarettes
+Smokeless tobacco: Not on file
+Alcohol use: Not on file
+Drug use: Denies
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+[Copied forward from note dated 11/09/2021]: "Smoking status as of 11/09/2021: current smoker." No further detail available from that encounter.
+
+Additional social hx obtained today: Pt quit drinking alcohol in 2012, has remained abstinent since.
+
+REVIEW OF SYSTEMS: Negative except as noted in HPI. Denies fevers, chills, palpitations, syncope.
+
+VITALS: BP 138/82, HR 78, RR 16, SpO2 97% RA, Wt 231 lb, BMI 34.2
+
+PHYSICAL EXAM:
+Gen: NAD, obese habitus
+CV: RRR, no murmurs/gallops, JVP not elevated
+Lungs: CTAB, no wheezes/rales
+Abd: soft, NT/ND, obese
+Ext: no edema, pulses 2+ bilat
+
+LABS/RESULTS:
+- BNP 02/09/2024: 210 pg/mL (mildly elevated, improved from 340 on 11/09/2023)
+- BMP 02/09/2024: Na 139, K 4.2, Cr 1.1, eGFR 68
+- Lipid panel 01/15/2024: LDL 98, HDL 42, TG 150
+- TSH 01/15/2024: 2.1 (WNL)
+- Echo 12/2023: EF 40%, mild LV dilation, no significant valvular disease
+
+ASSESSMENT & PLAN:
+1. Heart failure (HFrEF, EF 40%) - stable, sx well controlled. Continue current GDMT (metoprolol succinate, lisinopril, spironolactone, low-dose loop diuretic). Cont daily wt monitoring. F/u BNP in 3 mo.
+2. Hypertension - well controlled today. Continue current regimen.
+3. Obesity - counseled on diet/exercise, referred to nutrition.
+4. Tobacco use - active smoker, currently smoking approx a quarter pack (about 5 cigs/day). Discussed smoking cessation resources, offered nicotine replacement therapy, pt declined at this time but open to revisiting. Lung cancer screening discussed as a general topic for smokers his age; will continue to discuss at future visits.
+5. Alcohol - pt reports quit drinking in 2012, doing well, no current concerns.
+
+RTC in 3 months or sooner if sx worsen. Pt verbalized understanding of plan.
+
+Steven Park, MD

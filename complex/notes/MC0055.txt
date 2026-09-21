@@ -1,0 +1,38 @@
+Pulmonology Progress Note
+Patient: Samuel Patel (M), DOB 2/18/1951, age 75
+DOS: 05/19/2026
+Author: Isaac Moreno, PA-C
+
+CC: f/u incidental lung nodule, RUL 8mm noted on CT abd/pelvis 3/2026.
+
+HPI: Pt is a 75 y/o M returns for f/u of incidental pulmonary nodule. States "I feel fine, no cough, no chest pain, nothing like that." Denies hemoptysis, wt loss, fevers/chills, night sweats. Denies dyspnea on exertion beyond baseline. Wife accompanies pt today, confirms no change in appetite or energy. Pt asks "do I really need more scans, doc?" - reassured that we are following ACR guidance for incidental nodules.
+
+PMH: depression, HTN, T2DM, obesity, osteoporosis, BPH.
+SHx: Never smoker - pt denies any hx of cigarette use, no vaping, no other tobacco products. Occasional EtOH (1-2 glasses wine/wk). Denies illicit drug use.
+
+---- COPIED FORWARD FROM VISIT 11/14/2025 (Pulm) ----
+HPI: 74 y/o M seen for eval of incidental RLL nodule found on ED CT for abd pain. Pt reports no resp sx. PMH significant for HTN (on lisinopril), T2DM (metformin, A1c 7.2 last check), depression (sertraline), osteoporosis (on alendronate, DEXA T-score -2.6 femoral neck), BPH (tamsulosin). ROS otherwise negative. Exam: BP 138/82, HR 76, RR 16, SpO2 97% RA. Lungs CTAB, no wheeze/rales. CV RRR, no m/r/g. Abd soft, obese habitus, NT/ND. Ext no edema. A/P: Incidental nodule, low risk features, recommend repeat CT chest in 6 mo per Fleischner. Continue current meds. RTC 6 mo w/ repeat imaging.
+---- END COPIED TEXT ----
+
+ROS today: Constitutional - neg for fever/chills/wt loss. Resp - neg cough/dyspnea/hemoptysis. CV - neg CP/palp. GI - neg. GU - BPH sx stable per pt, nocturia x1. Psych - depression stable on current tx, denies SI/HI.
+
+Meds: Lisinopril 20mg qd, Metformin 1000mg BID, Sertraline 50mg qd, Alendronate 70mg qwk, Tamsulosin 0.4mg qhs, Vit D3 2000 IU qd, Calcium carbonate 600mg BID.
+
+Vitals: BP 132/78, HR 72, RR 14, SpO2 98% RA, Wt 224 lb, BMI 33.9.
+
+Exam: Gen - NAD, obese habitus. Lungs - CTAB, no wheeze/crackles/rhonchi. CV - RRR, no m/r/g. Abd - soft, obese, NT/ND, no organomegaly. Ext - no c/c/e. Neuro - grossly intact.
+
+Imaging review: repeat LDCT chest 5/12/2026 shows RUL nodule stable at 8mm, no interval growth, no new nodules, no lymphadenopathy.
+
+A/P:
+1. Incidental pulmonary nodule, RUL, stable x 6 mo - low risk, continue surveillance imaging per Fleischner guidelines, next CT in 12 mo. Given never-smoker status and stability, risk felt to be low. Lung ca screening was discussed conceptually with pt but not otherwise addressed further today.
+2. HTN - well controlled, cont lisinopril.
+3. T2DM - cont metformin, will check A1c at PCP.
+4. Depression - stable, cont sertraline, pt denies SI/HI.
+5. Osteoporosis - cont alendronate/Ca/vit D, f/u w/ endo as scheduled.
+6. BPH - stable sx, cont tamsulosin.
+
+RTC 12 months with repeat CT chest, sooner if new sx.
+
+---ADDENDUM 05/19/2026 1650---
+Spoke with pt by phone after visit re: scheduling of next CT; pt prefers appointment in AM. Front desk to coordinate. No new complaints reported at this time. -- I. Moreno, PA-C

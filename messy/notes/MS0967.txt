@@ -1,0 +1,47 @@
+Pulmonology Progress Note
+Patient: Karen Okafor (F), DOB 5/21/1973, age 51
+Date of Service: 05/21/2024
+Author: Farah Siddiqui, MD
+
+CHIEF COMPLAINT: Shared decision-making visit for lung cancer screening.
+
+HPI: Ms. Okafor is a 51-year-old woman referred for discussion of low-dose CT lung cancer screening given her smoking history. She has a 9 pack-year smoking history and quit smoking in December 2017. She states, "I haven't touched a cigarette since I quit back in 2017, doc, and I don't plan on starting again." She reports occasional exertional wheeze which she attributes to her asthma, worse with pollen this time of year, and denies hemoptysis, unintentional weight loss, or night sweats. She also endorses mild bilateral leg cramping with ambulation, consistent with known peripheral artery disease, and states this is stable compared to prior visits. Denies chest pain at rest. She takes her albuterol PRN and reports using it maybe two times a week, [inaudible] more during allergy season, and she says her gout has been quiet lately with no flares since last winter when she had one in her big toe that resolved with colchicine.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- Asthma, mild persistent (J45.30)
+- Gout (M10.9)
+- Chronic kidney disease, stage 3 (N18.3)
+- Benign prostatic hyperplasia (N40.0) -- outdated entry, carried over from template, patient is female, will remove
+- Peripheral artery disease (I73.9)
+- Depression (F32.9)
+
+SOCIAL HISTORY (copied forward from note dated 9/21/2020, unmodified): "Social history as of 9/21/2020: Patient is a former smoker. No quantities documented at that time. Lives with spouse, works as an accountant, denies illicit drug use."
+
+Current social history update (05/21/2024): Patient quit drinking alcohol in 2018 and reports no alcohol use since. She lives with her husband, denies current tobacco use, denies illicit drug use. Works part time now, reports mild stress related to family caregiving responsibilities, which she feels contributes to her depression symptoms.
+
+MEDICATIONS: Albuterol HFA PRN, allopurinol, lisinopril, tamsulosin (per outdated problem list, to be reviewed), sertraline, aspirin 81 mg daily.
+
+REVIEW OF SYSTEMS: Constitutional: no fevers, no weight loss. Respiratory: mild wheeze, no hemoptysis. Cardiovascular: claudication as above, no chest pain. GU: denies dysuria. Psych: mood stable on current sertraline dose, denies SI/HI.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 76, RR 16, SpO2 97% RA, BMI 27.
+General: well-appearing woman in no acute distress.
+Lungs: mild expiratory wheeze bilaterally, no crackles.
+CV: regular rate and rhythm, no murmurs, distal pulses diminished bilaterally in lower extremities consistent with known PAD.
+Extremities: no edema, no active gout flare noted, joints non-tender today.
+Psych: mood euthymic, affect appropriate.
+
+ASSESSMENT/PLAN:
+1. Lung cancer screening shared decision-making: Discussed benefits and risks of low-dose CT screening given her smoking history, including 9 pack-year history noted in HPI and quit status. She quit smoking in December 2017 and has remained smoke-free since. We discussed screening guidelines, potential for false positives, incidental findings, and radiation exposure. Patient will consider and follow up with decision.
+2. Asthma: continue albuterol PRN, consider step-up therapy if symptoms worsen with pollen season, follow up in 3 months or sooner if worsening.
+3. Gout: stable, continue allopurinol, monitor uric acid at next labs.
+4. CKD stage 3: stable, continue monitoring renal function, avoid nephrotoxic agents.
+5. PAD: stable claudication symptoms, continue current management, vascular surgery follow-up as scheduled.
+6. Depression: stable on sertraline, continue current dose, monitor.
+7. Alcohol history: patient reports quitting alcohol in 2018, encouraged continued abstinence.
+
+Return to clinic in 3 months or sooner as needed.
+
+---
+ADDENDUM (later same day, 05/21/2024, F. Siddiqui, MD):
+Upon further review of chart, noted that BPH diagnosis on problem list is erroneous (patient is female) and appears to be a template carryover error; this will be corrected in the permanent problem list. Also clarifying for the record that patient's smoking history remains a 9 pack-year history as documented in today's HPI, with quit date of December 2017, and that the social history note dated 9/21/2020 referencing former smoker status without quantities is retained here for historical continuity but does not reflect updated quantitative data obtained today. No changes to today's plan.

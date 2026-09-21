@@ -1,0 +1,52 @@
+PULMONOLOGY CLINIC - RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Luis Patel (M), DOB 6/24/1961, Age: 64
+Date of Service: 11/11/2025
+Author: Gregory Tan, MD (Pulm Resident); Attending: Dr. R. Chukwu
+
+REASON FOR VISIT: F/u after recent ED visit/hospitalization for COPD exacerbation, now s/p tx, here for pulm follow-up.
+
+HPI: 64 yo M w/ h/o PAD, obesity, CAD p/w COPD exacerbation ~2 wks ago, tx'd in ED w/ neb tx, PO steroids, azithro, d/c'd home. Reports improved dyspnea, cough now productive of scant white sputum, no fevers/chills. Denies CP, hemoptysis, orthopnea. Uses albuterol PRN, states using it ~2x/day now vs 6-8x/day during exacerbation. Sleeping better, ambulating w/o significant desat per pt report (no home pulse ox). Diet/exercise limited by claudication sx from PAD.
+
+--- COPY FORWARD FROM PRIOR VISIT 03/14/2024 (Pulm Clinic Note) ---
+HPI: 63 yo M w/ COPD, PAD, obesity, CAD here for routine f/u. Pt reports stable dyspnea on exertion, denies acute distress. Continues home O2 prn per prior recs (pt does not currently use O2 at home). PFTs reviewed from 01/2024 showing moderate obstruction, FEV1 58% predicted. Plan: continue tiotropium, albuterol prn, f/u 6 mo, pulm rehab referral placed. ROS otherwise negative. Physical exam: NAD, decreased breath sounds bilat bases, no wheeze appreciated today, trace bilat LE edema, distal pulses diminished bilaterally c/w known PAD.
+--- END COPY FORWARD ---
+
+PMH: COPD, PAD, obesity, CAD (s/p PCI 2019), HTN, dyslipidemia
+PSH: R fem-pop bypass 2015
+Meds: tiotropium inhaler daily, albuterol inhaler prn, atorvastatin, clopidogrel, metoprolol succ, lisinopril, ASA 81mg
+Allergies: NKDA
+FH: father w/ COPD, mother w/ CAD
+Social Hx: Retired warehouse worker. Lives w/ spouse. Denies current EtOH. Denies illicit drug use.
+
+ROS: Constitutional - denies fever/chills/weight loss. Resp - improved cough, denies hemoptysis. CV - denies CP/palpitations. GI/GU/MSK/Neuro/Psych - noncontributory, otherwise negative per template.
+
+VITALS (11/11/2025): BP 138/82, HR 76, RR 18, Temp 98.2F, SpO2 94% RA, Wt 231 lb, BMI 34.2
+
+PHYSICAL EXAM:
+General: NAD, comfortable, mildly obese habitus
+HEENT: NCAT, no JVD
+CV: RRR, no m/r/g, 1+ pitting edema b/l LE
+Resp: mild expiratory wheeze b/l, no accessory muscle use, no crackles
+Ext: cool distal extremities, diminished DP/PT pulses b/l c/w PAD, no ulcers
+Skin: no rash
+
+LABS/STUDIES:
+- CBC (11/11/2025): WBC 8.9, Hgb 14.1, Hct 42%, Plt 245
+- BMP (11/11/2025): Na 139, K 4.3, Cl 101, CO2 26, BUN 18, Cr 1.0, Glu 104
+- BNP (11/11/2025): 112 pg/mL (nl <100)
+- CXR (11/09/2025, ED): No acute infiltrate, hyperinflated lungs c/w COPD, no effusion
+- PFTs (01/2024, prior): FEV1 58% predicted, FEV1/FVC 0.61, moderate obstructive pattern
+- ABI (2023): consistent w/ mod PAD, R>L
+
+ASSESSMENT/PLAN:
+1. COPD, recent exacerbation, now improving. Pt has a smoking history notable for 4 cigarettes per day for 21 years; he quit smoking, having stopped in 2002 and remains smoke-free since. Continue tiotropium daily, albuterol PRN. Consider short steroid taper if sx worsen. Pulm rehab referral to be renewed. F/u PFTs to assess post-exacerbation baseline in 4-6 wks. Discussed lung health monitoring given remote tobacco history; no imaging ordered today, will revisit at next visit.
+2. PAD - stable, continue clopidogrel, ASA, f/u vascular surgery per their sched. Encourage supervised walking program as tolerated.
+3. CAD - stable, continue statin, BB, ACEI. No new anginal sx.
+4. Obesity - counseled on diet/exercise limitations 2/2 claudication, referred to nutrition.
+5. Health maintenance - flu vaccine given today, pneumococcal vaccine up to date per chart review.
+
+Return to clinic in 6-8 wks or sooner if worsening sx. Pt verbalized understanding, all questions answered.
+
+ATTESTATION: I have seen and examined the patient with Dr. Tan and discussed the assessment and plan above. I agree with the findings and plan as documented. - Dr. R. Chukwu, Attending Pulmonology
+
+Electronically signed: Gregory Tan, MD, 11/11/2025 1622

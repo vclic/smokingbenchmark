@@ -1,0 +1,85 @@
+General Medicine Clinic Office Visit
+
+Patient: KING, Samuel    MRN: 10419631
+DOB: 03/02/1960    Age: 63 y.o.    Sex: Male
+Date of Service: 07/31/2023    Provider: Isaac Moreno, PA-C
+
+Chief Complaint
+Patient presents with
+• Diabetes follow-up
+
+Subjective:
+Samuel King is a 63 y.o. male who presents for diabetes follow-up.
+Most recent A1c 6.5% (previously 6.9% in February 2023). Rarely checks glucose at home. No hypoglycemic episodes. Reports some tingling in feet at night.
+
+Past Medical History:
+Diagnosis	Date
+• Obesity
+• Hyperlipidemia
+• CAD
+• Type 2 diabetes mellitus	2018
+• Persistent AF	2007
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Lumbar laminectomy
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• metformin 500 mg BID
+• atorvastatin 20 mg daily
+• apixaban 5 mg BID
+• fish oil 1 g daily
+• metoprolol succinate 50 mg daily
+• aspirin 81 mg daily
+
+Allergies
+• Sulfa drugs
+
+Social History
+Social History Narrative
+  Married, lives with wife.
+  Drinks a glass of wine with dinner.
+  No IVDU.
+  Exercise: walks daily.
+
+Family History
+Mother - breast cancer at 70. Father - prostate cancer.
+
+Review of Systems
+ROS:
+  Constitutional: denies fever, chills, weight loss
+  Resp: denies SOB, cough
+  CV: denies chest pain, palpitations
+  GI: denies nausea, vomiting, abdominal pain
+  GU: denies dysuria
+  MSK: denies myalgias
+  Neuro: denies headache, weakness
+
+Objective:
+Vitals:
+  BP 130/72 (BP Location: Right arm, Patient Position: Sitting) | Pulse 71 | Temp 98.3 °F (Oral) | Resp 14 | Ht 5' 8" | Wt 234 lb | SpO2 97% | BMI 35.50 kg/m²
+Physical Exam
+General: Well-developed, well-nourished, in no acute distress
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: Irregularly irregular rhythm, rate controlled, no murmur
+Lungs: CTAB
+Abdominal: Obese, soft, nontender
+Extremities: Warm, well perfused, no edema
+Neuro: A&Ox3, no focal deficits
+Psych: Euthymic
+
+Labs (07/11/2023): A1c 6.5%, LDL 60, Cr 1.01, K 4.3, Hgb 14.2
+
+Assessment & Plan
+1. Type 2 diabetes mellitus
+   A1c 6.5% - at goal; continue current regimen. Diabetic eye exam referral.
+2. Persistent AF
+   Rate controlled; continue anticoagulation.
+3. Obesity
+   Discussed diet and exercise.
+
+RTC 12 months.
+
+Electronically signed by Isaac Moreno, PA-C on 07/31/2023

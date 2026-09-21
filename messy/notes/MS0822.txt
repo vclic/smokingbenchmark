@@ -1,0 +1,41 @@
+ANNUAL WELLNESS VISIT - Family Medicine
+Date of Service: 02/17/2024
+Patient: Nancy Nelson, F, DOB 02/17/1955 (age 69)
+Author: Daniel Reyes, MD
+
+--- NURSE INTAKE ---
+VS: BP 138/82, HR 78, RR 16, T 97.9F, SpO2 94% RA, Wt 172 lb
+Tobacco Use Screening (templated):
+  Current tobacco use: YES - cigarettes
+  Pack-year history: 9 pack-years
+  Quit date set: 03/28/2024
+  Counseling given: Yes, advised to quit at every visit
+
+HPI: Pt presents for annual wellness exam. She states, "I feel about the same as last year, maybe a little more short of breath climbing stairs." She reports occasional cough, denies chest pain, denies orthopnea beyond baseline 2-pillow. Regarding cigarettes she states, "I know I need to quit, I've set a date for the end of next month." She continues to smoke daily at present.
+
+[COPY-FORWARD FROM VISIT 08/14/2023 - not fully reconciled]
+Pt is a pleasant 68 yo female here for f/u of CHF/COPD. Denies edema, denies PND. Lungs with mild expiratory wheeze. Cardiac exam RRR, S3 present. Extremities warm, no edema. Discussed dietary sodium restriction. Continue home O2 PRN. Labs reviewed: BNP 620, Cr 1.4. Pt tolerating diuretic regimen without dizziness. Follow up in 6 months or sooner if worsening symptoms. [END COPY-FORWARD]
+
+ROS: Constitutional: no fever/chills. Cardiac: as above, no acute chest pain. Resp: chronic cough, dyspnea on exertion stable. GI: no nausea/vomiting, BPH-related nocturia x2. GU: nocturia as noted, no dysuria. MSK: no new joint pain. Neuro: no focal deficits. Skin: no rashes. Psych: mood stable. All other systems reviewed and negative.
+
+PHYSICAL EXAM: General: NAD, well-nourished. HEENT: PERRL, EOMI, oropharynx clear. Neck: no JVD appreciated today. Lungs: mild expiratory wheeze bilaterally, no rales. CV: RRR, soft S3, no murmur. Abdomen: soft, nontender, no organomegaly. Extremities: no edema, pulses intact. Skin: warm, dry. Neuro: alert, oriented x3, grossly nonfocal.
+
+PROBLEM LIST:
+1. I50.22 - Chronic systolic (congestive) heart failure with reduced EF
+2. N40.1 - Benign prostatic hyperplasia with LUTS
+3. N18.3 - Chronic kidney disease, stage 3
+4. J44.9 - Chronic obstructive pulmonary disease, unspecified
+5. E78.5 - Hyperlipidemia (outdated, resolved per pt, remains on list)
+6. M19.90 - Osteoarthritis, unspecified (outdated entry, not addressed today)
+
+MEDICATIONS: Carvedilol 12.5mg BID, Furosemide 40mg daily, Spironolactone 25mg daily, Sacubitril-valsartan 24/26mg BID, Tamsulosin 0.4mg daily, Finasteride 5mg daily, Tiotropium inhaler daily, Albuterol inhaler PRN, Atorvastatin 20mg daily, Vitamin D3 1000 IU daily, Potassium chloride 20mEq daily.
+
+ASSESSMENT/PLAN:
+1. HFrEF - stable on GDMT, continue current regimen, recheck BNP/BMP in 3 months.
+2. COPD - continue inhalers, discussed pulmonary rehab.
+3. BPH - stable on tamsulosin/finasteride, no urinary retention.
+4. CKD stage 3 - stable Cr, monitor labs with heart failure regimen.
+5. Tobacco use - patient is an active smoker; discussed cessation resources and nicotine replacement options; quit date already established per patient (03/28/2024). Lung cancer screening was discussed generally with the patient.
+6. Return to clinic in 6 months or sooner as needed.
+
+Electronically signed: Daniel Reyes, MD

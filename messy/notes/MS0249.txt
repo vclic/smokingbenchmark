@@ -1,0 +1,31 @@
+NURSE INTAKE
+DOS: 09/10/2025
+Patient: Betty Allen, DOB 08/05/1953, age 72 yo F.
+Vitals: BP 148/86, HR 78, RR 18, T 98.4F, SpO2 93% RA. Wt 172 lb.
+CC: f/u after ED visit for COPD exacerbation.
+Allergies: NKDA.
+ROS: Reviewed 10-point system. Denies fever, chest pain, hemoptysis. Cough improving, still SOB with exertion. Denies orthopnea. GU: nocturia x2, known BPH. Denies dysuria. Extremities: reports intermittent claudication, known PAD. Denies calf pain at rest.
+
+--- COPIED FORWARD FROM VISIT 03/14/2024 ---
+PMH: BPH, T2DM, HTN, CAD s/p stent 2019, PAD. Meds reviewed: metformin 1000mg BID, lisinopril 20mg daily, atorvastatin 40mg daily, aspirin 81mg daily, clopidogrel 75mg daily, tamsulosin 0.4mg daily, amlodipine 5mg daily, albuterol PRN, tiotropium daily. Physical exam at that time: lungs with mild expiratory wheeze, RRR, no edema, distal pulses 1+ bilaterally. Plan at that time: continue current regimen, f/u 6 months, recheck A1c.
+--- END COPIED SECTION ---
+
+PHYSICIAN PROGRESS NOTE
+Date of service: September 10, 2025
+Author: Rachel Goldberg, MD, Pulmonology
+
+HPI: Betty Allen is a 72-year-old woman seen in follow-up after recent ED visit and brief obs stay for COPD exacerbation, now improved on steroid taper and antibiotics. She states, "I still get winded walking to the mailbox, but the cough is a lot better." Denies fevers, chills. No new chest pain. She notes her legs "cramp up" after a block or two of walking, consistent with known PAD. Reports med compliance. She adds, "I've never smoked a day in my life, doctor." Confirmed on chart review: lifelong non-smoker, no tobacco use history of any kind.
+
+Labs (09/09/2025, ED): CBC WNL, WBC 9.1. BMP: glucose 156, creatinine 1.0, eGFR 62. A1c (08/15/2025): 7.4%. BNP 110. Troponin negative x1.
+PFTs (06/2025): FEV1 58% predicted, FEV1/FVC 0.61, consistent with moderate obstruction.
+
+Physical Exam: Gen - NAD, appears stated age. Lungs - mild expiratory wheeze bilat bases, no crackles. CV - RRR, no murmur, distal pulses diminished bilat feet. Abd - soft, NT/ND. Ext - no edema, mild dependent rubor consistent with PAD. Neuro - grossly intact.
+
+Assessment/Plan:
+1. COPD, recent exacerbation, now improving - continue tiotropium, albuterol PRN, complete steroid taper, pulmonary rehab referral discussed.
+2. CAD/PAD - continue ASA, clopidogrel, statin; vascular f/u as scheduled.
+3. HTN - stable on current regimen.
+4. T2DM - continue metformin, recheck A1c in 3 months.
+5. BPH - continue tamsulosin, stable.
+6. General health maintenance discussed, including age-appropriate screening topics.
+RTC 4-6 weeks or sooner if worsening symptoms.

@@ -1,0 +1,78 @@
+Primary Care Clinic Note
+
+Patient: LEWIS, Joseph    MRN: 45334942
+DOB: 09/06/1969    Age: 55 y.o.    Sex: Male
+Date of Service: 12/16/2024    Provider: Teresa Alvarez, NP
+
+Chief Complaint
+Patient presents with
+• Annual exam
+
+Subjective:
+Joseph Lewis is a 55 y.o. male who presents for routine preventive care.
+Feels well overall. Gardening for activity. Sleeping well. He has no history of tobacco use.
+
+Past Medical History:
+Diagnosis	Date
+• GERD	2008
+• Essential hypertension
+• Obesity	2007
+• Hypercholesterolemia	2010
+• Obstructive sleep apnea on CPAP
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2015)
+• Vasectomy
+• Rotator cuff repair (2019)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• losartan 50 mg daily
+• omeprazole 20 mg daily
+• rosuvastatin 10 mg daily
+
+Allergies
+• Lisinopril (cough)
+
+Social History
+Social History Narrative
+  Lives with wife and adult son.
+  Works as a farmer.
+  Drinks a glass of wine with dinner.
+  No illicit drug use.
+  Sedentary.
+
+Family History
+Brother - T2DM. Father - prostate cancer.
+
+Review of Systems
+ROS: GI neg, GU neg, Gen neg, Neuro neg, CV neg, Skin neg
+
+Objective:
+Vitals:
+  BP 145/88 (BP Location: Left arm, Patient Position: Sitting) | Pulse 64 | Temp 98.3 °F (Oral) | Resp 18 | Ht 6' 2" | Wt 254 lb | SpO2 97% | BMI 32.67 kg/m²
+Physical Exam
+General: Alert, pleasant, NAD
+HEENT: Normocephalic, MMM, no scleral icterus
+Neck: No thyromegaly or lymphadenopathy
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdominal: Soft, NT/ND, +BS
+Extremities: No edema
+Neuro: Nonfocal
+Psych: Normal mood and affect
+
+Labs (11/9/2024): LDL 137, Cr 0.81, K 4.3, Hgb 13.2
+
+Assessment & Plan
+1. Health maintenance
+   Colonoscopy 2021 - normal, repeat in 10 yrs; Shingrix #1 today; PCV20 given; Lung cancer screening: not indicated (never smoker).
+2. Obstructive sleep apnea on CPAP
+   Using CPAP nightly.
+3. GERD
+   Trial PPI step-down.
+
+f/u 6 mo
+
+Electronically signed by Teresa Alvarez, NP on 12/16/2024

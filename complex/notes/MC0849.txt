@@ -1,0 +1,35 @@
+TELEHEALTH VISIT NOTE - Family Medicine
+Patient: Robert Torres | DOB: 1/3/1964 (age 62) | DOS: 01/03/2026
+Author: Anita Patel, MD (resident note with attending attestation)
+
+CHIEF COMPLAINT: Med refills, follow-up CKD/DM/HFrEF.
+
+HPI: Mr. Torres is a 62-year-old male seen via video visit today, 1/3/2026, for routine refill of his cardiac and renal meds. He states he's doing fairly well, denys chest pain, some mild leg swelling toward end of day but no orthopnea. He notes he quit smoking right after his heart attack and has not touched a cigarette since; he denies any alcohol use, having quit drinking back in 2012. Reports adherence to lisinopril, carvedilol, and metformin, though [inaudible] regarding insulin dosing so we'll clarify that in the plan below the patient sometimes mixes up his AM and PM doses and this needs review.
+
+SOCIAL HISTORY: Former smoker - per patient he smoked about half a pack (approx 10 cigarettes) per day for 22 years, then cut back to roughly a quarter pack (about 5 cigs) per day for another 18 years before quitting entirely. No longer smokes. Denies current alcohol or illicit drug use (quit EtOH 2012).
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- N18.30 Chronic kidney disease, stage 3
+- E11.9 Type 2 diabetes mellitus
+- I50.22 Chronic systolic (congestive) heart failure, reduced EF
+- NSTEMI with stent (2022)
+- I10 Hypertension (outdated entry, now controlled per recent visits)
+- J45.909 Asthma (outdated, pt reports no wheeze in years, may need removal)
+
+RESULTS:
+BMP 12/28/2025: Na 138, K 4.6, Cr 1.7 (baseline), eGFR 42
+HbA1c 12/28/2025: 7.4%
+BNP 12/15/2025: 410
+
+EXAM: Deferred, telehealth visit; pt appears comfortable, no acute distress noted on camera, mild bilateral ankle edema reported by patient (not visualized well on video).
+
+ASSESSMENT/PLAN:
+1. CKD stage 3 - stable, continue current regimen, recheck BMP in 3 months.
+2. T2DM - A1c 7.4%, will adjust insulin timing, patient to keep log.
+3. HFrEF - stable on current GDMT, monitor weight daily, discussed diet/fluid restriction.
+4. Tobacco history - former smoker as above, no longer smokes; continue routine health maintenance discussion, lung cancer screening was discussed in general terms.
+5. Refills sent for lisinopril, carvedilol, metformin, insulin.
+
+Attending attestation: I have reviewed the resident's note and discussed the case with Dr. Patel; I agree with the assessment and plan as documented above.
+
+ADDENDUM (later same day, 1/3/2026): Patient called back re: insulin dosing question, clarified he takes long-acting in AM only; no further changes to plan. Reiterated importance of continued smoking abstinence given his cardiac history.

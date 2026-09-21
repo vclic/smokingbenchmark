@@ -1,0 +1,37 @@
+NURSE INTAKE - Cardiology
+Date of Service: 02/05/2024
+Patient: Michael Barnes DOB 02/05/1960 Age: 64
+CC: Chest pain eval.
+
+Vitals: BP 138/86, HR 92 irreg, RR 18, SpO2 94% RA, Wt 210 lb.
+
+SOCIAL HISTORY (templated):
+Tobacco use: Current smoker
+Alcohol use: None - quit drinking in 2022
+Drug use: Not on file
+Occupation: Not on file
+Living situation: Not on file
+Exercise: Not on file
+
+HPI (Weiss, NP):
+64 yo M w/ COPD, T2DM, afib, HFrEF here for eval of intermittent chest pressure x 2 wks, exertional, assoc SOB. No radiation, no diaphoresis today. Denies fevers/cough change. Pt reports smoking 1 pack per day for 49 years - ongoing. States he is not ready to quit at this time despite counseling on prior visits. He has, however, agreed to set a quit date for 3/7/2024, future-oriented plan discussed today.
+Review of systems otherwise notable for occasional orthopnea, 2-pillow, stable peripheral edema.
+
+Meds: metoprolol succinate, apixaban, metformin, empagliflozin, tiotropium inhaler, albuterol PRN, furosemide.
+
+PHYSICAL EXAM:
+Gen: NAD, mild resp effort.
+CV: irregularly irregular rhythm, no murmur appreciated, JVP mildly elevated.
+Resp: diffuse expiratory wheeze, prolonged expiratory phase.
+Ext: trace bilateral pitting edema.
+
+ASSESSMENT/PLAN (Weiss, NP):
+64M with chest pain, multiple cardiopulmonary comorbidities (COPD, T2DM, AFib, HFrEF), and longstanding tobacco use.
+1. Chest pain - likely multifactorial, r/o ACS. EKG obtained, troponin pending. Will trend enzymes, consider stress test outpt.
+2. COPD - continue tiotropium/albuterol, no acute exacerbation signs today.
+3. Tobacco use - patient continues to smoke, states he is not ready to quit; however he has agreed to a quit date of 3/7/2024. Lung cancer screening discussed as an option to consider with PCP; no further action re: screening at this visit. Counseled again on cessation resources, nicotine patch offered, pt declined today.
+4. T2DM - A1c stable per last labs, continue current regimen.
+5. AFib/HFrEF - continue anticoagulation, diuretic; will recheck BNP.
+F/u in 2 wks or sooner if sx worsen.
+
+Electronically signed: Hannah Weiss, NP - 02/05/2024

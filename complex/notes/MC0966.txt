@@ -1,0 +1,30 @@
+NURSE INTAKE (E. Torres, RN) - DOS 09/24/2024
+Patient: Marilyn Alexander, F, DOB 01/03/1968, age 56.
+Vitals: BP 138/82, HR 74, RR 16, SpO2 96% RA, Wt 71 kg.
+SOCIAL HISTORY (templated block):
+ Tobacco use: Not on file
+ Smoking status: Never Smoker
+ Alcohol: Not on file
+ Occupation: Not on file
+ Living situation: with spouse
+
+PHYSICIAN PROGRESS NOTE - Priya Raman, MD
+Geriatrics, DOS 9/24/2024.
+
+HPI: 56 yo woman here for geriatric assessment, multiple comorbidities incl PAD, GERD, HLD, CKD stage 3, T2DM, HFrEF. Pt states "I get winded going up the stairs to my apartment, more than before." She denies chest pain today. Note: the templated smoking status field above pulled forward as 'Never Smoker' - this is incorrect and should be disregarded; correct history obtained today from patient directly. She is a former smoker with a notable history: smoked 1 pack per day for 6 years, then increased to 2 packs per day for 8 years, then cut back to 1.5 packs per day for 6 years before quitting entirely. She quit smoking right after her stroke and has not smoked since. She reports she also quit drinking alcohol in 2012 and has been abstinent since.
+Review of systems otherwise notable for occasional lightheadedness, pt says "sometimes the room kinda spins for a sec" - will [inaudible] follow up with vestibular eval if persists, and swelling in ankles bilaterally, worse by end of day, she's been elevating legs per prior instructions and it helps some but not entirely so we'll adjust diuretic dosing, she takes it in the morning currently.
+
+PMH: peripheral artery disease, GERD, hyperlipidemia, CKD stage 3, type 2 diabetes mellitus, heart failure with reduced ejection fraction, ischemic stroke (2007) - she quit smoking right after this stroke in 2007 and has not smoked since.
+
+Exam: Alert, oriented x3, NAD. CV: RRR, no murmurs appreciated, trace bilateral lower extremity edema. Lungs: clear bilaterally, no wheezes rales or ronchi. Abd: soft, nontender. Neuro: no focal deficits, gait steady with cane.
+
+Labs reviewed: Cr 1.6, eGFR 42, A1c 7.4%, LDL 98.
+
+Assessment/Plan:
+1. HFrEF - continue current regimen, adjust diuretic timing to evening trial given evening edema, monitor weight daily.
+2. PAD - continue antiplatelet, discuss walking program.
+3. CKD3 - stable, recheck labs in 3 months.
+4. T2DM - A1c improved, continue metformin.
+5. Former smoker - counseled on maintaining abstinence, reinforced importance given PAD/HFrEF; discussed lung cancer screening as a topic to consider with PCP.
+6. GERD/HLD - stable, continue current meds.
+Return to clinic in 3 months or sooner if symptoms worsen.

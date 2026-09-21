@@ -1,0 +1,36 @@
+TELEHEALTH VISIT NOTE
+Patient: Raymond Perez | DOB: 6/27/1953 | Age: 71 | Sex: M
+Date of Service: 10/05/2024
+Provider: Rachel Goldberg, MD (Pulmonology)
+Visit type: Telehealth - Lung Cancer Screening Shared Decision-Making
+
+CC: f/u for lung ca screening SDM d/t hx tobacco use, pt called in via video visit due to transportation issues.
+
+HPI: Mr. Perez is a 71 y/o male, DOB 6/27/1953, seen today 10/05/2024 via telehealth for shared decision-making re: lung cancer screening. He has multiple comorbidities incl. HFrEF, CAD, OSA on CPAP, hypothyroidism and osteoporosis, all stable per pt report. He denies chest pain, denies hemoptysis, denies unintentional weight loss. Reports occasional dyspnea on exertion c/w baseline HF, no acute change. Sm hx reviewed in detail today: pt smoked a quarter pack (~5 cigs/day) for 24 years, then quit completely for 3 yrs, then restarted smoking at a quarter pack (~5 cigs/day) for 29 years and continues to smoke to present day. He states he has tried to cut back multiple times but has not been able to fully stop. No other tobacco products used (no cigars, no vaping) per pt. He was counseled extensively on risks of continued smoking and benefits of cessation, incl referral to tobacco cessation program which he verbally agreed to consider. [inaudible] pt mentioned something about his nieces phone number being disconnected, not clinically relevant, redacted from further documentation.
+
+ROS: Constitutional - no fever, no chills. Resp - occasional DOE as above, no cough, no wheeze. CV - no orthopnea, no PND, stable per cardiology f/u. GI - no complaints. All other systems reviewed and negative except as noted above.
+
+***COPIED FORWARD FROM PRIOR VISIT NOTE DATED 03/14/2023 (Dr. Goldberg) - retained for continuity, please disregard outdated info below***
+Pt is a 69 y/o male here for routine pulm f/u of OSA and eval of exertional dyspnea. He is on CPAP nightly, reports good compliance, machine download shows AHI well controlled at 3.2. He continues on levothyroxine 88 mcg daily for hypothyroidism, TSH last checked wnl. Cardiology following for HFrEF (EF 35% on last echo), on GDMT incl carvedilol, sacubitril-valsartan, spironolactone. Osteoporosis managed by endocrinology, on alendronate weekly, last DEXA showed improvement in T-scores. CAD s/p PCI to LAD in 2019, on aspirin and atorvastatin. Pt denies CP, denies palpitations. Discussed importance of med compliance and f/u labs. Plan: continue current meds, f/u in 6 months, repeat TSH and lipid panel prior to next visit. [end of copied forward text]
+
+Social History: Lives with spouse, retired machinist, denies current alcohol use, denies illicit drug use. Tobacco: current smoker, as detailed above in HPI (quarter pack/day pattern with a period of cessation, now smoking again). No vaping history reported. Pt drove himself... wait, pt is on telehealth today, prior note error, disregard.
+
+Medications (reconciled today): Levothyroxine 88mcg daily, Carvedilol 12.5mg BID, Sacubitril-Valsartan 49/51mg BID, Spironolactone 25mg daily, Alendronate 70mg weekly, Aspirin 81mg daily, Atorvastatin 40mg daily.
+
+Allergies: NKDA.
+
+Vitals (per home device, pt reported): BP 128/76, HR 78, SpO2 95% RA, wt stable per pt.
+
+Physical Exam (limited, telehealth): Pt appears comfortable, no acute distress, speaking in full sentences without difficulty. No visible cyanosis on camera. Pt able to move all extremities well, no obvious edema noted on camera exam of lower legs when pt lifted pant leg. Auscultation not performed given telehealth format.
+
+Assessment/Plan:
+1. Tobacco use, current smoker - Extensive discussion today regarding ongoing cigarette smoking despite multiple comorbidities. Pt currently smokes cigarettes. Strongly advised cessation, discussed nicotine replacement options and referral to cessation counseling, pt to consider and follow up. Lung cancer screening discussed at length including potential risks/benefits of low-dose imaging surveillance strategies in general terms; no imaging ordered today, deferred pending further shared decision-making discussion at next visit.
+2. HFrEF - stable, continue GDMT as above, f/u with cardiology per their schedule.
+3. CAD - stable, continue ASA/statin, no new anginal sx.
+4. OSA - continue CPAP, reports good compliance, will obtain updated download at next in-person visit.
+5. Hypothyroidism - stable, continue levothyroxine, recheck TSH at next lab draw.
+6. Osteoporosis - continue alendronate, endocrinology following.
+
+Return to clinic or telehealth f/u in 3 months, sooner if new resp sx develop. Pt verbalized understanding of plan and agreed with above. Total visit time today spent predominantly in counseling and coordination of care, >50% of visit time, given complexity of discussion re: tobacco cessation and lung ca screening SDM.
+
+Electronically signed: Rachel Goldberg, MD, 10/05/2024.

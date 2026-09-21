@@ -1,0 +1,52 @@
+CARDIOLOGY RESIDENT NOTE WITH ATTENDING ATTESTATION
+Patient: Wei Henderson (M) DOB 6/12/1958 (age 65)
+Date of Service: 06/12/2023
+Author: Steven Park, MD (resident), reviewed and attested by attending cardiology faculty
+
+CC: Heart failure follow-up.
+
+HPI: Mr. Henderson is a 65-year-old male with hx of HFrEF, COPD, CKD stage 3, T2DM, and osteoporosis who presents for routine cardiology follow up. He reports doing reasonably well, denies orthopnea, PND, or lower extremity edema this week, though he notes some increased fatigue when climbing stares (sic) at home. Wife states he has been compliant with diuretic and beta blocker, and [inaudible] mentions occasional dizziness in the mornings that resolves with breakfast so we will monitor blood pressure logs he brought in today. He denies chest pain, denies palpitations, denies syncope, he did have one episode of lightheadedness last month that he did not report at the time and we discussed at length the importance of calling the office sooner rather then waiting for the next visit is scheduled. He quit smoking right after his stroke and has remained smoke free since; he brings this up unprompted today when discussing his overall health goals and states he is proud of maintaining that.
+
+PAST MEDICAL HISTORY:
+1. Heart failure with reduced ejection fraction
+2. Ischemic stroke (2008)
+3. COPD
+4. Chronic kidney disease, stage 3
+5. Type 2 diabetes mellitus
+6. Osteoporosis
+
+SOCIAL HISTORY (templated EHR block):
+Tobacco use: Not on file
+Smoking status: Never Smoker [NOTE: this field is incorrect/outdated in the chart - see narrative below for accurate history]
+Alcohol use: Denies
+Illicit drug use: Denies
+Living situation: Lives with spouse
+Occupation: Retired
+
+Narrative addendum to social history (dictated): The 'Never Smoker' status pulled forward in this chart is wrong and should be corrected - patient actually has a significant remote tobacco history. Per patient report, he smoked 1 pack per day for 11 years, then stopped completely for 2 years, then restarted smoking at about three-quarters of a pack (roughly 15 cigarettes) per day for 8 years before quitting for good. He is currently a former smoker and has not smoked at all since the aforementioned quit associated with his stroke recovery. This correction should be carried forward to future encounters so the templated field is no longer inaccurate.
+
+ROS: Cardiovascular - as above. Respiratory - mild chronic cough, no hemoptysis, no acute dyspnea beyond baseline. GI - unremarkable. GU - unremarkable. Musculoskeletal - chronic low back discomfort, stable. Neuro - no focal deficits, no new weakness, no slured (sic) speech.
+
+MEDICATIONS: Metoprolol succinate, lisinopril, furosemide, empagliflozin, tiotropium inhaler, alendronate, calcium/vitamin D supplement.
+
+PHYSICAL EXAM:
+Vitals: BP 128/76, HR 68, RR 16, SpO2 94% on room air, Wt stable from last visit.
+General: well appearing, no acute distress.
+CV: RRR, no murmurs appreciated, no JVD, no lower extremity edema.
+Resp: mild expiratory wheeze bilaterally, no crackles.
+Abd: soft, nontender, nondistended.
+Extremities: no edema, pulses intact.
+
+LABS: BMP notable for creatinine 1.6 (baseline for this patient given CKD stage 3), potassium 4.3, BNP mildly elevated but improved from prior. HbA1c 7.1%.
+
+ASSESSMENT AND PLAN:
+65-year-old male, date of service 06/12/2023, with HFrEF, COPD, CKD stage 3, T2DM, osteoporosis, and remote ischemic stroke (2008), presenting for routine heart failure follow up, clinically stable.
+
+1. Heart failure with reduced ejection fraction - stable, continue current guideline directed medical therapy, no changes to diuretic dose at this time, will recheck BNP and BMP at next visit.
+2. COPD - continue tiotropium, mild wheeze on exam today, will consider pulmonary referral if symptoms worsen. Tobacco history reviewed in detail (see social history addendum above correcting the outdated 'Never Smoker' field); patient is a former smoker who quit for good, which is reassuring for both his cardiopulmonary and stroke risk profile. His permanent smoking cessation coincided with his ischemic stroke event in 2008, an important milestone in his overall risk reduction. Given his overall risk factors, lung cancer screening was discussed with the patient in general terms as part of preventive care conversation.
+3. CKD stage 3 - stable, continue to avoid nephrotoxic agents, monitor renal function.
+4. Type 2 diabetes - reasonably controlled, continue empagliflozin, will follow HbA1c trend.
+5. Osteoporosis - continue alendronate and calcium/vitamin D, no new fractures reported.
+6. Ischemic stroke history (2008) - no new neurologic symptoms, continue secondary prevention including antiplatelet as previously prescribed by neurology.
+
+Return to clinic in 3 months or sooner if symptoms worsen. Attending Dr. attestation: I have reviewed and discussed this patient with Dr. Park and agree with the assessment and plan as documented above.

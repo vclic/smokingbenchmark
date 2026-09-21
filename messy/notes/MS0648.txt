@@ -1,0 +1,30 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Patient: Luis Thompson | DOB: 7/10/1971 (age 54) | DOS: 10/12/2025
+Author: Catherine Lindqvist, DO
+
+HPI: Mr. Thompson presents for pre-operative evaluation prior to right total knee replacement. He reports worsening knee pain, worse with stairs, and states his osteoarthritis has 'gotten to the point where I cant [inaudible] walk to the mailbox without stopping.' He denies chest pain, denies recent illness, review of meds shows he is on levothyroxine for hypothyroidism and albuterol PRN for asthma, and he takes calcium/vitamin D for osteoporosis, he says his breathing has been stable lately and he has not needed his inhaler much this month he thinks maybe once or twice. He is anxious about surgery but understands the risks and benefits as explained.
+
+SOCIAL HISTORY (EHR template):
+Tobacco use: Former smoker
+Alcohol use: Occasional, social
+Drug use: Not on file
+Occupation: Retired
+Living situation: Lives with spouse
+Additional smoking history note: Patient reports he smoked approximately 3 packs per day starting at age 15 and continued until he quit at age 23; he is now 31 years quit as of this visit.
+
+--- COPIED FORWARD FROM PRIOR NOTE DATED 3/12/2022 ---
+Social History (as documented 3/12/2022): Patient is a former smoker. Denies current tobacco use. Alcohol use occasional. Lives independently at that time. Osteoarthritis of bilateral knees, hypothyroidism stable on levothyroxine, asthma well controlled, osteoporosis on treatment. Vitals stable, exam unremarkable at that visit, follow up as needed.
+--- END COPIED SECTION ---
+
+PHYSICAL EXAM: Vitals stable, afebrile, BP 128/76, HR 72, RR 16, SpO2 97% on room air. Lungs clear to auscultation bilaterally, no wheeze appreciated today. Cardiac exam regular rate and rhythm, no murmurs. Right knee with crepitus and decreased range of motion, mild effusion noted, no erythema.
+
+LABS/STUDIES: CBC, BMP, coags within normal limits per recent labs, TSH within therapeutic range, EKG normal sinus rhythm without acute ST changes, chest x-ray reviewed shows no acute cardiopulmonary process.
+
+ASSESSMENT/PLAN:
+1. Pre-operative clearance for right total knee replacement - patient cleared from cardiopulmonary standpoint, low risk for surgery given stable asthma and no cardiac history.
+2. Osteoarthritis, right knee - proceed with surgical planning as scheduled by orthopedics.
+3. Hypothyroidism - continue levothyroxine, stable on current dose, recheck TSH post-operatively as needed.
+4. Asthma - continue albuterol PRN, well controlled, discussed peri-operative pulmonary risk given prior smoking history; he is a former smoker who smoked 3 packs per day from age 15 until quitting at age 23, now 31 years quit, which was discussed as relevant to his baseline pulmonary reserve though his lungs are clear today.
+5. Osteoporosis - continue calcium/vitamin D, discussed fall precautions post-operatively.
+6. Health maintenance - general risk-reduction counseling and continued tobacco abstinence encouragement provided given his smoking history, discussed with patient in general terms.
+Follow up post-operatively or sooner if concerns arise, patient verbalizes understanding of the plan today.

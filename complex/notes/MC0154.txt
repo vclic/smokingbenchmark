@@ -1,0 +1,56 @@
+INTERNAL MEDICINE - H&P FOLLOW-UP
+Patient: Thomas Lewis | DOB: 06/01/1955 | Age: 71 | M
+DOS: 06/01/2026
+Author: Catherine Lindqvist, DO
+
+CC: f/u HTN, DM2.
+
+HPI: 71 yo M here for routine f/u of htn and dm2. Reports med compliance, no chest pain, no SOB at rest. Occasional claudication c/w known PAD, walks ~2 blocks before leg pain. Asthma stable, uses albuterol prn, denies recent exacerbation.
+Tob hx: pt is a FORMER SMOKER, quit at age 47. Prior to quitting smoked about 3/4 pack per day (~15 cigs/day). No duration or start age discussed today. No current tobacco use. Denies vaping/e-cigs.
+Note: EHR templated field below auto-populates from old intake data and is INCORRECT - see narrative above for accurate smoking hx.
+
+ROS: Denies fevers, chills, wt change. + occasional bilateral LE cramping w/ ambulation (PAD). Denies wheeze today. Denies polyuria/polydipsia currently. Denies CP/palpitations.
+
+PMH/Problem List (ICD-10):
+- I10 Essential hypertension
+- E11.9 Type 2 diabetes mellitus w/o complications
+- I73.9 Peripheral artery disease, unspecified
+- J45.909 Asthma, unspecified, uncomplicated
+- Z87.891 Personal hx of nicotine dependence (outdated entry, retained from prior encounter - see current note)
+- E78.5 Hyperlipidemia (dz - old dx, unclear current status, carried fwd)
+
+Meds: lisinopril 20mg daily, metformin 1000mg BID, atorvastatin 40mg qhs, aspirin 81mg daily, albuterol HFA prn.
+
+Allergies: NKDA.
+
+Soc Hx (templated field, auto-fill from prior visit - NOT UPDATED):
+Smoking status: Never Smoker
+[Above field is WRONG - pt has hx of tobacco use as former smoker, quit age 47, see HPI. Field not corrected in EHR system, addressed manually in narrative.]
+Alcohol: occasional, 1-2 drinks/wk. Illicit drugs: denies.
+
+FH: father w/ MI at 60, mother w/ DM2.
+
+Physical Exam:
+Vitals: BP 138/82, HR 76, RR 16, T 98.2F, SpO2 97% RA, Wt 198 lb, Ht 5'10"
+Gen: NAD, well-appearing elderly M.
+CV: RRR, no m/r/g. Distal pulses: DP/PT diminished bilat, faint but palpable, c/w known PAD.
+Resp: CTAB, no wheeze/rales appreciated today.
+Abd: soft, NT/ND, +BS.
+Ext: no edema, skin intact, no ulcers noted. Cap refill nl.
+Neuro: grossly intact, A&Ox3.
+
+Labs (reviewed, drawn 1 wk prior): A1c 7.1%, fasting glu 132, LDL 98, HDL 42, TG 150, Cr 1.0, eGFR 68.
+
+Assessment/Plan:
+1. HTN - well controlled on current regimen, continue lisinopril, recheck BP next visit.
+2. DM2 - A1c improved from prior, continue metformin, reinforce diet/exercise, f/u labs in 3 mo.
+3. PAD - stable claudication sx, continue asa, cont supervised walking program, monitor pulses.
+4. Asthma - stable, continue albuterol prn, no maintenance inhaler needed at this time.
+5. Former tobacco use - counseled on continued avoidance of tobacco/nicotine products, reinforced benefit of remaining smoke-free; risks of prior tobacco exposure discussed generally in context of PAD and vascular risk; lung ca screening discussed as a topic pt may bring up w/ specialist, no imaging ordered today.
+6. Hyperlipidemia - continue atorvastatin, will recheck lipid panel at next visit given outdated problem list entry, confirm ongoing tx need.
+
+RTC 3 months, sooner if symptoms worsen. Pt verbalizes understanding, agrees w/ plan.
+
+---
+ADDENDUM (same day, 3:45pm) - C. Lindqvist, DO:
+Spoke with pt again by phone re: EHR smoking status field error - pt confirms hx as documented in HPI (former smoker, quit at age 47, previously smoked ~3/4 pack/day). IT ticket submitted to correct outdated 'Never Smoker' auto-fill field going forward. No other changes to plan.

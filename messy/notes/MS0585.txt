@@ -1,0 +1,88 @@
+NEW PATIENT VISIT - PRIMARY CARE
+Date of Service: 05/15/2025
+Author: Rachel Goldberg, MD (Resident); Attending attestation below
+
+Patient: Rosa Sanchez
+DOB: 01/09/1966 (age 59)
+Sex: F
+
+CHIEF COMPLAINT: Establish care
+
+HPI:
+Ms Sanchez is a 59 yo female presenting to establish primary care after moving to the area. She reports h/o CKD stage 3, T2DM, and HTN, previously followed at an outside clinic that closed. She states "I just want someone to keep an eye on my kidneys and sugar." No acute complaints today. Denies chest pain, SOB, dysuria, hematuria. Reports occasional fatigue which she attributes to poor sleep. Denies polyuria/polydipsia currently, checks fingerstick glucoses at home per pt report though log not brought today.
+
+Social history reviewed with pt in detail. She endorses ongoing tobacco use, says "I've tried to cut back but havent managed to quit." She reports quitting alcohol use back in 2010 and has not had a drink since - "not a drop since 2010" per her words. No illicit drug use reported. Works part time as a seamstress, lives w/ husband, ambulates independently.
+
+PAST MEDICAL HISTORY:
+- CKD stage 3
+- Type 2 diabetes mellitus
+- Hypertension
+- (outdated entry, per old records) Gestational diabetes - resolved after pregnancy decades ago
+
+PROBLEM LIST (ICD-10):
+1. N18.3 - Chronic kidney disease, stage 3
+2. E11.9 - Type 2 diabetes mellitus without complications
+3. I10 - Essential hypertension
+4. Z87.891 - Personal hx of nicotine dependence (outdated - pt is actively smoking, see below)
+5. F10.20 - Alcohol dependence (outdated, pt reports sobriety since 2010)
+
+MEDICATIONS:
+1. Lisinopril 20 mg daily
+2. Metformin 1000 mg BID
+3. Atorvastatin 40 mg daily
+4. Amlodipine 5 mg daily
+5. Aspirin 81 mg daily
+6. Vitamin D3 2000 IU daily
+7. Sodium bicarbonate 650 mg BID
+8. Multivitamin daily
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Mother - HTN, DM2; Father - deceased, MI at age 62; Sister - CKD
+
+REVIEW OF SYSTEMS:
+Constitutional: Denies fever, chills, unintentional weight loss. Reports fatigue as above.
+Eyes: Denies visual changes, denies eye pain.
+ENT: Denies sore throat, denies hearing loss.
+Cardiovascular: Denies chest pain, denies palpitations, denies orthopnea, denies PND, denies edema.
+Respiratory: Denies cough, denies wheeze, denies hemoptysis, reports no current SOB.
+GI: Denies nausea, vomiting, diarrhea, constipation, abdominal pain.
+GU: Denies dysuria, denies hematuria, denies urinary frequency change.
+Musculoskeletal: Denies joint pain, denies swelling, denies back pain.
+Skin: Denies rash, denies lesions.
+Neuro: Denies headache, denies numbness, denies tingling, denies weakness.
+Psych: Denies depression, denies anxiety, denies SI/HI.
+Endocrine: Denies polyuria, denies polydipsia (see HPI).
+Heme/Lymph: Denies easy bruising, denies lymphadenopathy.
+Allergic/Immunologic: Denies seasonal allergies.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78, RR 16, Temp 98.2F, SpO2 97% RA, Wt 172 lbs, Ht 5'4"
+General: Well-appearing female, NAD, appropriately groomed.
+HEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear, no thyromegaly.
+Cardiovascular: RRR, no murmurs/gallops/rubs, no JVD, distal pulses 2+ bilat.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes/rales/rhonchi, no accessory muscle use, breath sounds symmetric.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no organomegaly.
+Extremities: No edema, no cyanosis, no clubbing.
+Skin: Warm, dry, intact, no rashes noted.
+Neuro: Alert and oriented x3, CN II-XII grossly intact, strength 5/5 throughout, sensation intact.
+Psych: Mood euthymic, affect appropriate.
+
+LABS (reviewed from outside records, to be repeated):
+Creatinine 1.6, eGFR 42, HbA1c 7.8%, LDL 110
+
+ASSESSMENT AND PLAN:
+59 yo female with CKD stage 3, T2DM, HTN presenting to establish care.
+
+1. Tobacco use disorder - Patient has smoked about three-quarters of a pack (approx 15 cigarettes) per day since age 19. She continues to smoke despite counseling on cessation today. Discussed risks of continued smoking including cardiovascular, renal, and pulmonary effects. Nicotine replacement options discussed, pt declined at this time, will readdress at f/u. Lung cancer screening was discussed in general terms as part of preventive care conversation.
+2. CKD stage 3 (N18.3) - Will repeat BMP, urine microalbumin/creatinine ratio. Continue lisinopril, monitor renal function given CKD and DM.
+3. Type 2 diabetes (E11.9) - HbA1c 7.8%, above goal. Continue metformin, reinforce diet/exercise, consider adding second agent if not improved at next visit.
+4. Hypertension (I10) - BP 138/84 today, slightly above goal. Continue amlodipine and lisinopril, recheck at next visit.
+5. Alcohol use - pt reports quit drinking alcohol in 2010, no current use, no further intervention needed at this time.
+6. Health maintenance - Due for mammogram, colonoscopy, and labs as above. Will update problem list to reflect current tobacco use status (correcting outdated entries).
+
+Return to clinic in 4-6 weeks or sooner if concerns.
+
+---
+ATTESTATION: I have personally seen and examined the patient with Dr. Goldberg and agree with the above assessment and plan as documented.
+- Attending Physician

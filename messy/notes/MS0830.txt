@@ -1,0 +1,53 @@
+VASCULAR SURGERY H&P
+Date of Service: 05/12/2025
+Author: Nadia Haddad, MD
+
+Patient: Loretta Wright
+DOB: 04/17/1962 (age 63)
+
+CHIEF COMPLAINT: Evaluation of peripheral artery disease - bilateral calf claudication.
+
+HPI: Ms. Wright is a 63-year-old woman referred by her PCP for progressive bilateral calf claudication, worsening over the past several months. She reports pain after walking approximately 1-2 blocks, relieved with rest. No rest pain, no non-healing ulcers on exam by patient report. She has a hx of hyperlipidemia and CKD stage 3, both of which are risk factors contributing to her vascular disease. She has not had prior vascular imaging. She denies chest pain, palpitations, or syncope. Asthma is stable, uses albuterol PRN, no recent exacerbations or ED visits.
+
+PAST MEDICAL HISTORY:
+- Asthma
+- Chronic kidney disease, stage 3
+- Hyperlipidemia
+
+MEDICATIONS: Atorvastatin 40mg daily, albuterol HFA PRN, lisinopril 10mg daily (per chart, to reconfirm with patient).
+
+ALLERGIES: NKDA.
+
+SOCIAL HISTORY: Patient lives with her husband, retired from clerical work. Denies alcohol use. She reports being an active smoker, currently smoking 10 cigarettes per day, and states she has smoked at this level for approximately 44 years. She has not attempted to quit recently. No illicit drug use reported.
+
+FAMILY HISTORY: Father with history of MI in his 60s; mother with hypertension.
+
+REVIEW OF SYSTEMS: As per HPI, otherwise negative for fevers, chills, unintentional weight loss, hemoptysis, or hematuria. Positive for bilateral lower extremity claudication as above.
+
+PHYSICAL EXAM:
+Vitals: BP 138/82, HR 76, RR 16, SpO2 96% RA, Wt 168 lb
+General: Well-appearing, no acute distress.
+CV: RRR, no murmurs.
+Pulm: Mild expiratory wheeze bilaterally, no accessory muscle use.
+Extremities: Bilateral dorsalis pedis and posterior tibial pulses diminished but palpable. No ulcers, no edema. Skin cool to touch distally bilaterally. Cap refill <3 sec.
+Neuro: Grossly intact.
+
+LABS/RESULTS:
+- CBC (05/10/2025): WNL
+- BMP (05/10/2025): Creatinine 1.4 mg/dL (baseline per CKD stage 3), eGFR 42 mL/min/1.73m2, K 4.3 mmol/L
+- Lipid panel (03/15/2025): Total cholesterol 210 mg/dL, LDL 128 mg/dL, HDL 45 mg/dL, TG 165 mg/dL
+- Ankle-brachial index (ABI) ordered today, pending
+
+ASSESSMENT/PLAN:
+63-year-old woman with PAD symptoms (bilateral claudication) in the setting of longstanding tobacco use, CKD stage 3, and hyperlipidemia.
+1. Peripheral artery disease - obtain bilateral ABI with exercise testing; consider arterial duplex if ABI abnormal. Continue statin therapy, optimize lipid management given elevated LDL noted above.
+2. Tobacco use - given her ongoing active smoking, counseled extensively today regarding smoking cessation, offered referral to cessation program and discussed pharmacologic aids (varenicline, nicotine replacement). Discussed general risks of continued smoking including progression of vascular disease and lung disease.
+3. CKD stage 3 - continue nephrology follow-up, avoid nephrotoxic agents, monitor renal function with repeat BMP prior to any contrast-enhanced imaging.
+4. Hyperlipidemia - continue atorvastatin, recheck lipid panel in 3 months.
+5. Asthma - stable, continue current regimen, follow up with pulmonology as scheduled.
+
+Follow up in vascular clinic after ABI results available, sooner if symptoms worsen or she develops rest pain or ulceration.
+
+---
+ADDENDUM (later same day, 05/12/2025, 4:47 PM) - N. Haddad, MD:
+Spoke further with patient by phone after she called clinic regarding claudication symptoms; she confirms no rest pain or new ulcers since visit this morning. Reiterated smoking cessation counseling; patient states she is not ready to quit at this time but will consider nicotine patches. ABI scheduling confirmed for next week. No other changes to plan above.

@@ -1,0 +1,64 @@
+Primary Care Clinic Note
+
+Patient: SCHMIDT, John    MRN: 45297087
+DOB: 12/17/1971    Age: 51 y.o.    Sex: Male
+Date of Service: 09/06/2023    Provider: Farah Siddiqui, MD
+
+Chief Complaint
+Patient presents with
+• 3 month follow-up
+
+Subjective:
+John Schmidt is a 51 y.o. male who presents for routine follow-up of chronic conditions.
+Feels about the same as last visit. Taking all meds as prescribed. He is a former smoker; he smoked about 20 cigarettes a day for 20 years.
+
+Past Medical History:
+Diagnosis	Date
+• Primary OA, bilateral knees
+
+Past Surgical History:
+Procedure	Laterality	Date
+• Appendectomy (2013)
+• Rotator cuff repair (2016)
+
+Current Outpatient Medications on File Prior to Visit
+Medication	Sig
+• fish oil 1 g daily
+• diclofenac 1% gel QID PRN
+
+Allergies
+• NKDA
+
+Social History
+Social History Narrative
+  Lives alone in an apartment.
+  No alcohol.
+  No IVDU.
+
+Family History
+Sister - breast cancer at 59.
+
+Review of Systems
+ROS: as per HPI, otherwise neg.
+
+Objective:
+Vitals:
+  BP 129/81 (BP Location: Left arm, Patient Position: Sitting) | Pulse 84 | Temp 97.8 °F (Oral) | Resp 12 | Ht 5' 6" | Wt 169 lb | SpO2 98% | BMI 27.29 kg/m²
+Physical Exam
+General: Comfortable, conversant
+HEENT: NCAT, PERRL, EOMI, oropharynx clear
+Neck: Supple
+Cardiovascular: RRR, S1S2 nl
+Lungs: CTA b/l, no wheezes/rales/rhonchi
+Abdominal: Soft, nontender, nondistended
+Extremities: No clubbing, cyanosis, or edema
+Neuro: CN II-XII grossly intact, strength 5/5 throughout
+Psych: Euthymic
+
+Assessment & Plan
+1. Primary OA, bilateral knees
+   Continue PRN analgesics; home exercises.
+
+Return in about 6 months (around 3/6/2024).
+
+Electronically signed by Farah Siddiqui, MD on 09/06/2023

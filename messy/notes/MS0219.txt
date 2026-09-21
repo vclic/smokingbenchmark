@@ -1,0 +1,62 @@
+VASCULAR SURGERY - HISTORY AND PHYSICAL
+Patient: Paula Harris (DOB 4/6/1971) | Age: 53 | Sex: F
+Date of Service: 04/06/2024
+Provider: Michael Dunn, DO
+
+CHIEF COMPLAINT: Evaluation of peripheral artery disease, bilateral lower extremity claudication.
+
+HPI: Ms. Harris is a 53-year-old woman referred for evaluation of PAD given progressive calf claudication with ambulation, now limiting her to approximately 2 blocks before symptoms occur. She reports resting pain has not developed. She has a history of CAD, HTN, hyperlipidemia, AFib, and obesity, all followed by cardiology. No prior vascular interventions. She denies rest pain, non-healing ulcers, or gangrenous changes.
+
+--- COPIED FORWARD FROM PRIOR VISIT NOTE DATED 11/14/2023 ---
+Pt here for f/u of AFib and HTN. Denies CP, palpitations, SOB. Rate controlled on current regimen. BP borderline elevated today at 148/86. Continue current antihypertensive regimen, recheck lipid panel in 3 months. Pt counseled on diet/exercise. RTC 3 months or sooner if symptoms worsen. (Note: this block retained from prior encounter for continuity, may not reflect current status.)
+--- END COPIED TEXT ---
+
+SOCIAL HISTORY / TOBACCO USE (EHR templated block):
+Tobacco Use Status: Former smoker
+Pack-years/history: Smoked 1-1.5 packs per day for 22 years
+Quit date: August 2014
+Current use: None
+Secondhand smoke exposure: Denies
+Alcohol: Occasional social use
+Drug use: Denies
+
+REVIEW OF SYSTEMS: Constitutional: denies fever, chills, unintentional weight loss. Cardiovascular: denies chest pain, orthopnea, PND; positive for bilateral calf claudication as above. Respiratory: denies cough, dyspnea, wheeze. GI: denies nausea, vomiting, abdominal pain. GU: denies dysuria, hematuria. Musculoskeletal: denies joint swelling, positive for leg cramping with exertion as noted. Neuro: denies numbness, tingling, weakness. Skin: denies rashes, ulcers, non-healing wounds. Psych: denies depression, anxiety. All other systems reviewed and negative.
+
+PHYSICAL EXAM:
+Vitals: BP 138/84, HR 78 irregular, RR 16, Temp 98.2F, BMI 33.4
+General: well-appearing, no acute distress
+Cardiovascular: irregularly irregular rhythm consistent with known AFib, no murmurs
+Pulmonary: clear to auscultation bilaterally
+Abdomen: soft, non-tender, no bruits appreciated
+Extremities: no edema, mild hair loss on lower legs bilaterally, skin intact, no ulcerations
+Pulses: femoral 2+ bilaterally, popliteal 1+ bilaterally, posterior tibial and dorsalis pedis diminished bilaterally
+Neuro: sensation intact bilaterally, no focal deficits
+
+LABS/RESULTS:
+01/15/2024 Lipid panel: Total cholesterol 198, LDL 118, HDL 42, Triglycerides 165
+03/02/2024 CBC: WBC 6.8, Hgb 13.1, Plt 240
+03/02/2024 BMP: Na 139, K 4.2, Cr 0.9, Glucose 101
+04/01/2024 Ankle-brachial index (right): 0.68
+04/01/2024 Ankle-brachial index (left): 0.71
+
+MEDICATIONS:
+Apixaban 5 mg BID
+Metoprolol succinate 50 mg daily
+Lisinopril 20 mg daily
+Atorvastatin 40 mg daily
+Aspirin 81 mg daily
+Metformin 500 mg BID
+Cilostazol 100 mg BID (newly started today)
+
+ASSESSMENT/PLAN:
+53 y/o F with PAD confirmed by abnormal ABIs bilaterally, symptomatic claudication.
+1. PAD - start cilostazol, supervised exercise program referral, continue antiplatelet/statin therapy.
+2. CAD - continue current cardiac regimen, follow with cardiology.
+3. AFib - continue apixaban, rate control with metoprolol.
+4. HTN - well controlled today, continue lisinopril.
+5. Hyperlipidemia - continue atorvastatin, recheck lipids in 6 months.
+6. Obesity - counseled on diet and exercise.
+7. Tobacco - former smoker, quit 08/2014, no current use; reinforced continued abstinence.
+RTC in 3 months or sooner if symptoms progress.
+
+Michael Dunn, DO

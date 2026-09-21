@@ -1,0 +1,53 @@
+URGENT CARE PROGRESS NOTE
+Patient: Mary Smith (F), DOB 10/25/1970, Age: 54
+Date of Service: 12/31/2024
+Author: Kevin Osei, MD (NP progress note, dictated)
+
+CHIEF COMPLAINT: Cough x 5 days.
+
+HPI: 54 yo female with h/o CKD stage 3, OA, BPH presents c/o persistent cough, worse at night, denies fever, denies SOB at rest but notes mild dyspnea on exertion. Pt states cough is 'dry mostly' with occasional white sputum, no hemoptysis. She reports having tried OTC cough syrup w/o relief, [inaudible] states she has not been around anyone sick recently that she knows of but her grandkids had 'a cold or something' over the holidays and she was watching them for several days so exposure likely, she also mentions she has been more tired than usual but attributes this to poor sleep from coughing at night and holiday stress cooking and cleaning for family gatherings which she says wiped her out. Denies chest pain, denies wheezing per pt though on exam some faint exp wheeze noted. She describes herself as a 'social smoker' for many years, mostly at parties or when out with friends, no consistent daily pattern reported. She states she quit smoking entirely 19 years ago and has not smoked since.
+
+PAST MEDICAL HISTORY / PROBLEM LIST:
+- N18.3 Chronic kidney disease, stage 3
+- M19.90 Osteoarthritis, unspecified site (chronic, stable)
+- N40.0 Benign prostatic hyperplasia (outdated entry - carried over from prior male patient template, disregard; pt is female, likely BPH dx entry error in chart, not applicable but left per prior note copy-forward)
+- J45.909 Asthma, unspecified (inactive, from 2018 visit, no recent flares)
+
+SOCIAL HISTORY: Former smoker per pt report, quit 19 yrs ago; describes hx as social smoking rather than daily use, no current tobacco use. Denies vaping or other nicotine products currently. Occasional etoh, denies illicit drug use. Lives w/ spouse, works part time.
+
+MEDICATIONS: Tamsulosin 0.4mg qhs, Losartan 50mg daily, Acetaminophen prn for joint pain.
+
+ALLERGIES: NKDA.
+
+VITALS: T 98.4F, HR 82, BP 128/78, RR 16, SpO2 96% RA, Wt 165 lb.
+
+PHYSICAL EXAM:
+Gen: NAD, alert, cooperative, mildly fatigued appearing.
+HEENT: OP clear, no erythema, nares patent.
+Neck: no LAD, no JVD.
+Lungs: faint expiratory wheeze bilat bases, no crackles, no accessory muscle use.
+CV: RRR, no m/r/g.
+Abd: soft, NT/ND.
+Ext: no edema.
+Skin: warm, dry.
+
+LABS/RESULTS:
+- BMP (12/31/2024): Creatinine 1.4 mg/dL (baseline for CKD3), eGFR 48, K 4.3, Na 138.
+- CXR (12/31/2024): No acute infiltrate, no consolidation, mild hyperinflation, no e/o mass or effusion.
+- Prior CBC (11/02/2024): WNL.
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral etiology given holiday exposure hx and exam findings - J20.9
+2. CKD stage 3, stable, monitored per labs above.
+3. OA, stable, managing w/ prn acetaminophen.
+4. Social hx of smoking noted - patient reports being a social smoker for many years but quit smoking 19 years ago; reinforced healthy lifestyle and continued abstinence from tobacco.
+5. BPH - stable on tamsulosin, no acute urinary sx today.
+
+PLAN:
+- Supportive care for bronchitis: rest, fluids, OTC guaifenesin, return if worsening SOB, high fever, or hemoptysis.
+- Continue current CKD/BPH/OA meds unchanged, recheck BMP in 3 months per routine CKD monitoring.
+- Reinforced smoking cessation maintenance given prior social smoking hx; discussed general lung health, discussed screening topic briefly in context of overall risk factors though no further imaging planned today beyond CXR already obtained.
+- F/u PRN or in 2 wks if cough persists beyond 10-14 days total.
+- Pt verbalized understanding, all questions answered, agree with plan.
+
+Electronically signed: Kevin Osei, MD, 12/31/2024.

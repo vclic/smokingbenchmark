@@ -1,0 +1,39 @@
+Pulmonology Clinic Note
+Date of Service: 5/25/2026
+Patient: David Rivera   DOB: 1/14/1974   MRN: 88612771
+
+S:
+CC: COPD follow-up
+HPI: Mr. Rivera is a 52-year-old man ex-smoker (18 cigarettes/day x 20 years, quit 2011) with COPD and OA who presents for follow-up of COPD. Baseline dyspnea after walking 1-2 blocks. 3 exacerbations in the past year, most recently in December treated with prednisone and azithromycin. Uses rescue albuterol 2-3 times a week. Cough productive of white sputum.
+
+PMH:
+- COPD (dx 2017)
+- Primary OA, bilateral knees
+PSH: Carpal tunnel release (2019); Lumbar laminectomy
+Meds: budesonide-formoterol 160/4.5 2 puffs BID; albuterol HFA PRN; tiotropium 18 mcg inhaled daily; diclofenac 1% gel QID PRN
+Allergies: NKDA
+SH: Married, lives with wife. Works as an engineer. No alcohol.
+FH: Sister - breast cancer at 59.
+ROS: Negative except as noted in HPI.
+
+O:
+Vitals: BP: 118/73  HR: 88  RR: 16  Temp: 98.4 F  SpO2: 94% on RA  Wt: 182 lbs  BMI: 24.0
+Exam:
+  General: Alert, pleasant, NAD
+  HEENT: Normocephalic, MMM, no scleral icterus
+  Neck: No thyromegaly or lymphadenopathy
+  CV: RRR, no m/r/g
+  Lungs: Diminished BS throughout, no crackles
+  Abd: Soft, NT/ND, +BS
+  Ext: No clubbing, cyanosis, or edema
+  Neuro: Nonfocal
+  Psych: Euthymic
+Labs (5/14/2026): Cr 1.03, K 4.4
+
+A/P:
+1. COPD: Spirometry 10/25/2024: FEV1 46% predicted, FEV1/FVC 0.63. Step up to triple therapy given exacerbations. Action plan provided.
+2. Primary OA, bilateral knees: Continue PRN analgesics; home exercises.
+
+Return in about 6 months (around 11/25/2026).
+
+-- IM (PA-C)

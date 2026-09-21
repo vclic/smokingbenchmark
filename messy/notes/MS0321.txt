@@ -1,0 +1,55 @@
+PULMONOLOGY H&P - Shared Decision-Making Visit
+Date of Service: 02/12/2023
+Author: Daniel Reyes, MD
+
+Patient: Steven Harris, M, DOB 02/12/1953, Age 70
+
+CC: LCS SDM visit, referred from PCP for lung ca screening discussion.
+
+HPI: 70 yo M presents for shared decision-making visit re: lung cancer screening. Pt has hx of PAD, asthma, and COPD, followed by vascular surgery and pulm. Denies chest pain, hemoptysis, unintentional wt loss. Reports occasional exertional dyspnea, stable on current regimen. No fevers/chills. Uses albuterol PRN, tiotropium daily. Pt ambulates w/ mild claudication after ~2 blocks, stable per last vascular f/u.
+
+PMH:
+- COPD (J44.9)
+- Asthma (J45.909)
+- PAD (I73.9)
+- HTN (I10) - outdated, pt reports normotensive last 2 visits, may be resolved per PCP note
+- GERD (K21.9) - outdated, not on PPI currently
+
+PSH: Right fem-pop bypass 2015.
+
+Meds: Tiotropium 18mcg inh daily, albuterol MDI PRN, atorvastatin 40mg qhs, aspirin 81mg daily, cilostazol 100mg BID.
+
+Allergies: NKDA.
+
+Family Hx: Father - CAD, deceased age 78. Mother - unknown.
+
+Social History: Noncontributory.
+
+ROS: Constitutional - neg for fevers, chills, wt loss. Resp - c/o mild dyspnea on exertion, no cough change. CV - claudication as above, no chest pain. GI - neg. GU - neg. Neuro - neg. MSK - occasional joint stiffness, chronic.
+
+Vitals: BP 128/76, HR 72, RR 16, SpO2 95% RA, Temp 98.2F, Wt 182 lb, Ht 5'9".
+
+Physical Exam:
+Gen: NAD, well-appearing, comfortable.
+HEENT: NCAT, EOMI, PERRLA, no scleral icterus.
+Neck: Supple, no LAD, no JVD.
+Resp: Mild expiratory wheeze bilat, no crackles, no accessory muscle use.
+CV: RRR, no m/r/g, distal pulses diminished bilat LE, no edema.
+Abd: Soft, NT/ND, +BS.
+Ext: No clubbing/cyanosis, faint hair loss B/L LE c/w PAD, well-healed surgical scar RLE.
+Skin: Warm, dry.
+Neuro: A&Ox3, CN II-XII grossly intact.
+
+Assessment/Plan:
+70 yo M w/ COPD, asthma, PAD presenting for LCS shared decision-making.
+1. Lung cancer screening: Discussed benefits/risks/limitations of LDCT screening per USPSTF framework, incl false positives, incidental findings, radiation exposure. Discussion deferred pending clarification of smoking history, which is not available in current documentation (SH marked noncontributory). Will re-engage pt at next visit once smoking hx obtained to determine appropriateness of further discussion.
+2. COPD: Stable, continue current inhalers, reviewed proper technique, reinforced adherence.
+3. Asthma: Well-controlled, no recent exacerbations, continue PRN albuterol.
+4. PAD: Stable claudication, continue cilostazol, ASA, statin; vascular f/u as scheduled.
+5. Health maintenance: Up to date per PCP records reviewed.
+
+F/u: Return to pulm clinic in 3 months or sooner if worsening sx. Pt verbalized understanding of plan.
+
+---ADDENDUM (same day, later)---
+Addendum by Daniel Reyes, MD, 02/12/2023 1615:
+Spoke again briefly w/ pt after initial visit to clarify social hx section prior to chart closure; pt's smoking hx remains not obtainable from records and was not further specified during this encounter. SH will remain documented as noncontributory. LCS discussion to resume once this info is available. No changes to today's plan otherwise. Pt tolerated visit well, left in stable condition.

@@ -1,0 +1,80 @@
+NURSE INTAKE NOTE
+Date of Service: 02/28/2024
+Patient: Joseph Hernandez | DOB: 02/28/1944 | Age: 80 | Sex: M
+Visit Type: New Patient - Establish Care, Primary Care
+
+Vitals: BP 138/82, HR 76, RR 16, Temp 97.8F, SpO2 95% RA, Wt 198 lb, Ht 5'9"
+
+Chief Complaint: "I just need a new doctor since mine retired."
+
+TOBACCO USE (EHR Template - Social History):
+  Tobacco Type: Cigarettes
+  Status: Former smoker
+  Pack-Years: 24
+  Quit Date: 12/1994
+  Interest in cessation counseling today: N/A - already quit
+
+Allergies: NKDA
+Home Meds reconciled - see attached list.
+
+---
+
+PHYSICIAN PROGRESS NOTE
+Farah Siddiqui, MD
+Date of Service: 02/28/2024
+
+HPI: Mr. Hernandez is an 80-year-old male (DOB 02/28/1944) presenting today to establish care after his previous PCP retired. He reports history of obstructive sleep apnea (on CPAP, states "I use the mask most nights, maybe skip it twice a week"), coronary artery disease, type 2 diabetes, and hypertension. He denies chest pain, denies orthopnea, denies PND. He states, "I feel pretty good for my age, just tired sometimes." He reports occasional nocturia x2. No recent hospitalizations. He denies falls.
+
+Regarding tobacco, he no longer smokes; he quit smoking in December 1994 and has remained abstinent since. Total exposure is documented as 24 pack-years per the tobacco template above. He denies any current tobacco, vape, or nicotine product use.
+
+Review of Systems:
+Constitutional: denies fever, chills, unintentional weight loss.
+Eyes: denies vision changes.
+ENT: denies hearing loss, denies sore throat.
+Cardiovascular: denies chest pain, denies palpitations, endorses occasional ankle swelling.
+Respiratory: denies cough, denies hemoptysis, denies wheezing.
+GI: denies nausea, denies vomiting, denies abdominal pain, denies constipation.
+GU: endorses nocturia x2 as above, denies dysuria.
+Musculoskeletal: endorses mild low back pain, chronic.
+Skin: denies rash, denies new lesions.
+Neuro: denies headache, denies dizziness, denies numbness/tingling.
+Psych: denies depression, denies anxiety.
+Endocrine: denies polyuria, denies polydipsia beyond baseline.
+Heme/Lymph: denies easy bruising, denies bleeding.
+All other systems reviewed and negative.
+
+Physical Exam:
+General: Well-developed, well-nourished male, in no acute distress, appears stated age.
+HEENT: Normocephalic, atraumatic. PERRLA. Oropharynx clear, mucous membranes moist.
+Neck: Supple, no JVD, no lymphadenopathy, no thyromegaly.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, gallops, or rubs appreciated. Trace bilateral pedal edema.
+Respiratory: Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Normal respiratory effort.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no organomegaly.
+Extremities: No cyanosis, trace edema as noted, pulses 2+ throughout.
+Skin: Warm, dry, intact, no rashes or lesions noted.
+Neurologic: Alert and oriented x3, cranial nerves II-XII grossly intact, gait steady.
+Psych: Mood and affect appropriate.
+
+Current Medications:
+1. Metformin 1000 mg PO BID
+2. Lisinopril 20 mg PO daily
+3. Atorvastatin 40 mg PO qHS
+4. Aspirin 81 mg PO daily
+5. Metoprolol succinate 50 mg PO daily
+6. Amlodipine 5 mg PO daily
+7. Clopidogrel 75 mg PO daily
+8. CPAP therapy nightly
+
+Assessment/Plan:
+1. Obstructive sleep apnea - continue CPAP, reinforce adherence, order sleep study download if needed at next visit.
+2. Coronary artery disease - stable, continue current regimen, check lipid panel.
+3. Type 2 diabetes mellitus - order HbA1c, continue metformin.
+4. Hypertension - well controlled on current regimen, continue monitoring.
+5. Tobacco history - former smoker, quit 12/1994, 24 pack-year history noted; no current cessation counseling needed as patient is abstinent.
+6. Health maintenance - order labs, schedule follow-up in 3 months.
+
+Electronically signed: Farah Siddiqui, MD
+
+---
+ADDENDUM (same day, 4:45 PM):
+Patient called after visit to clarify he will need refill of CPAP supplies through DME company; instructions given to contact supplier directly. No changes to plan above. Reiterated that patient remains a former smoker with quit date of December 1994 and 24 pack-year history as documented in chart. - F. Siddiqui, MD

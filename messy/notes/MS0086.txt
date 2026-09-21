@@ -1,0 +1,39 @@
+PULMONOLOGY H&P – COPD FOLLOW-UP
+Date of Service: 09/20/2024
+Patient: Gwendolyn Robinson | DOB: 06/14/1969 | Age: 55 | Sex: F
+Provider: Julia Brennan, MD
+
+CC: COPD follow-up, worsening dyspnea on exertion.
+
+HPI: Ms. Robinson is a 55 y/o female w hx OSA and PAD presenting for routine COPD follow up. She states "I still get winded walkin up the stairs, doc" and reports occasional wheeze at night. Denies fevers or chest pain. Uses albuterol prn w some relief. Reports compliance with CPAP most nights, states "I forget it sometimes when I'm tired."
+
+--- Copied forward from visit 03/14/2023 ---
+Pt seen for routine PAD surveillance. ABI stable at 0.72 bilaterally. Denies claudication at rest, some calf discomfort w prolonged walking. Continues cilostazol. OSA managed w CPAP, AHI last reported 4.2 on therapy. Pt counseled on diet, exercise, and tobacco cessation as below. No acute issues, follow up in 6 months.
+---end copied section---
+
+TOBACCO HISTORY (templated block):
+Smoking status: Current smoker
+Duration: Patient smokes for 35 years
+Packs/day: [not recorded]
+Quit attempts: per pt, has tried patches in past w/o success
+Counseling given: Yes, cessation counseling provided this visit
+
+ROS: Respiratory - chronic cough, dyspnea on exertion. Cardiac - no chest pain, mild bilat lower extremity discomfort c/w known PAD. All other systems reviewed and negative.
+
+EXAM: VSS. Afebrile. Lungs w scattered expiratory wheeze bilat, prolonged expiratory phase. No accessory muscle use at rest. CV: RRR, no murmur. Extremities: cool distally, diminished pedal pulses bilat, no ulceration.
+
+LABS/RESULTS:
+08/15/2024 - Spirometry: FEV1 58% predicted, FEV1/FVC 0.61 (obstructive pattern)
+09/18/2024 - CBC WNL, BMP WNL
+09/18/2024 - BNP 42 pg/mL (nl)
+
+ASSESSMENT/PLAN:
+1. COPD - moderate obstruction on recent spirometry, sx worsening. Continue LABA/LAMA combo, add short course prednisone taper. Reinforce inhaler technique.
+2. OSA - continue CPAP, reinforce adherence, follow up w sleep med prn.
+3. PAD - continue cilostazol, ABI to be repeated at next visit.
+4. Tobacco use - patient continues to smoke despite counseling; discussed cessation resources incl pharmacotherapy options and quitline referral. Lung cancer screening discussed in general terms.
+
+RTC 3 months or sooner if symptoms worsen.
+
+--- ADDENDUM (later same day, 09/20/2024, 4:47pm) ---
+Addendum by Dr. Brennan: Pt called back after visit requesting refill of albuterol inhaler, sent to pharmacy on file. Also clarified she is interested in nicotine patches again despite prior lack of success; will discuss further at next visit. No other changes to plan.
