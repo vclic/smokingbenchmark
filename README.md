@@ -71,7 +71,9 @@ The notes are realistic, but they are not real. In particular, notes written by 
 
 ## Citation
 
-Wright A. Extracting smoking history from clinical notes for lung cancer screening decision support: a synthetic benchmark comparing a structured-judgment model with large language models. Preprint, 2026.
+Wright A, Liu S, Wright A. Extracting smoking history from clinical notes for lung cancer screening decision support: comparing a structured-judgment model with general-purpose large language models. Preprint, 2026.
+
+Code for running models over this benchmark and scoring the results is at [vclic/smokingeval](https://github.com/vclic/smokingeval), along with the predictions from every run in the study.
 
 ## License
 
